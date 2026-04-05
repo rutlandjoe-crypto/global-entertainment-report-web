@@ -1,88 +1,61 @@
-import fs from "fs";
-import path from "path";
+import Image from "next/image";
 
-export default function SampleReport() {
-  const reportPath = path.join(
-    process.cwd(),
-    "..",
-    "sports_bot-ai",
-    "global_sports_report.txt"
-  );
+export default function Home() {
+  const report = `GLOBAL SPORTS REPORT | 2026-04-05
 
-  let report = "No report found yet. Run your Python generator first.";
+This report is an automated summary intended to support, not replace, human sports journalism.
 
-  try {
-    report = fs.readFileSync(reportPath, "utf8");
-  } catch {
-    report = "No report found yet. Run your Python generator first.";
-  }
+TOP LINES
+• MLB, NBA, NHL, and soccer coverage can live here each day.
+• This homepage can become the central hub for your daily reports.
+• Future versions can add league tabs, archives, and distribution links.
+
+MLB
+Across Major League Baseball, today’s slate features completed games, live action, and upcoming first pitches.
+
+NBA
+Daily NBA coverage and key developments will appear here.
+
+NHL
+Daily NHL coverage and game snapshots will appear here.
+
+SOCCER
+Global soccer coverage and major competition updates will appear here.`;
 
   return (
-    <main
-      style={{
-        fontFamily: "Arial, sans-serif",
-        background: "#f9fafb",
-        minHeight: "100vh",
-        margin: 0,
-      }}
-    >
-      <div
-        style={{
-          background: "#111827",
-          color: "white",
-          padding: "20px 40px",
-          fontSize: "24px",
-          fontWeight: "bold",
-        }}
-      >
-        Global Sports Report
-      </div>
+    <main className="min-h-screen bg-white text-black">
+      <div className="mx-auto max-w-5xl px-6 py-10">
+        <header className="mb-8 flex items-center gap-4">
+          <Image
+            src="/logo.png"
+            alt="Global Sports Report"
+            width={64}
+            height={64}
+            className="rounded"
+          />
+          <div>
+            <h1 className="text-4xl font-bold tracking-tight">
+              Global Sports Report
+            </h1>
+            <p className="mt-2 text-gray-600">
+              Automated reporting built to support, not replace, human sports journalism.
+            </p>
+          </div>
+        </header>
 
-      <div
-        style={{
-          maxWidth: "900px",
-          margin: "40px auto",
-          padding: "0 20px",
-        }}
-      >
-        <h1
-          style={{
-            fontSize: "32px",
-            marginBottom: "10px",
-          }}
-        >
-          Daily Report
-        </h1>
+        <section className="mb-8 rounded-2xl border border-gray-200 bg-gray-50 p-6 shadow-sm">
+          <h2 className="mb-3 text-2xl font-semibold">Daily Report</h2>
+          <p className="text-gray-600">
+            This is the live front page for your sports media product. It can become
+            the home for daily reports, league pages, archives, and distribution links.
+          </p>
+        </section>
 
-        <p
-          style={{
-            color: "#6b7280",
-            marginBottom: "25px",
-          }}
-        >
-          Automated cross-league snapshot built to support journalists and
-          analysts.
-        </p>
-
-        <div
-          style={{
-            background: "white",
-            padding: "25px",
-            borderRadius: "12px",
-            boxShadow: "0 4px 12px rgba(0,0,0,0.08)",
-          }}
-        >
-          <pre
-            style={{
-              whiteSpace: "pre-wrap",
-              lineHeight: "1.6",
-              fontSize: "15px",
-              margin: 0,
-            }}
-          >
+        <section className="rounded-2xl border border-gray-200 bg-gray-100 p-6 shadow-sm">
+          <pre className="whitespace-pre-wrap text-sm leading-7 text-gray-900">
             {report}
           </pre>
-        </div>
+        </section>
       </div>
     </main>
   );
