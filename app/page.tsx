@@ -46,8 +46,7 @@ Global soccer coverage and major competition updates will appear here.`;
         <section className="mb-8 rounded-2xl border border-gray-200 bg-gray-50 p-6 shadow-sm">
           <h2 className="mb-3 text-2xl font-semibold">Daily Report</h2>
           <p className="text-gray-600">
-            This is the live front page for your sports media product. It can become
-            the home for daily reports, league pages, archives, and distribution links.
+            This is the live front page for your sports media product.
           </p>
         </section>
 
