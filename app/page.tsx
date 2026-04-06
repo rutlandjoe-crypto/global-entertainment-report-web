@@ -35,7 +35,12 @@ SOCCER
 }
 
 export default function HomePage() {
-  const report = getReportText();
+  let report = getReportText();
+
+report = report.replace(
+  "This report is an automated summary intended to support, not replace, human sports journalism.",
+  ""
+);
 
   const today = new Date().toLocaleDateString("en-US", {
     weekday: "long",
