@@ -194,7 +194,7 @@ function hasAdvancedContent(advanced?: AdvancedReport): boolean {
   return getAdvancedSectionEntries(advanced).length > 0;
 }
 
-function renderBodyLine(line: string, key: string): JSX.Element {
+function renderBodyLine(line: string, key: string) {
   const isLabel =
     line === "SNAPSHOT" ||
     line === "FINAL SCORES" ||
