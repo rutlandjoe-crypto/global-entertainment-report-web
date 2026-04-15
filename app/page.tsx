@@ -50,6 +50,7 @@ type ReportData = {
   full_text?: string;
   generated_at?: string;
   updated_at?: string;
+  published_at?: string;
   disclaimer?: string;
 };
 
@@ -70,19 +71,13 @@ function readReportData(): ReportData | null {
       full_text: parsed.full_text || "",
       generated_at: parsed.generated_at || "",
       updated_at: parsed.updated_at || parsed.generated_at || "",
+      published_at: parsed.published_at || parsed.updated_at || parsed.generated_at || "",
       disclaimer: parsed.disclaimer || "",
     };
   } catch (error) {
     console.error("Failed to read latest_report.json:", error);
     return null;
   }
-}
-
-function formatSectionContent(content: string): string[] {
-  return content
-    .split("\n")
-    .map((line) => line.trim())
-    .filter((line) => line.length > 0);
 }
 
 function normalizeSectionName(name: string): string {
@@ -194,9 +189,35 @@ function hasAdvancedContent(advanced?: AdvancedReport): boolean {
   return getAdvancedSectionEntries(advanced).length > 0;
 }
 
+function removeSectionBlock(content: string, heading: string): string {
+  const escapedHeading = heading.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  const pattern = new RegExp(
+    `(?:^|\\n)${escapedHeading}\\s*\\n[\\s\\S]*?(?=\\n[A-Z][A-Z '()/-]+\\n|$)`,
+    "m"
+  );
+
+  return content.replace(pattern, "\n").trim();
+}
+
+function getVisibleBodyContent(content: string): string {
+  let cleaned = content.trim();
+
+  cleaned = removeSectionBlock(cleaned, "HEADLINE");
+  cleaned = removeSectionBlock(cleaned, "SNAPSHOT");
+  cleaned = removeSectionBlock(cleaned, "KEY STORYLINES");
+
+  return cleaned.replace(/\n{3,}/g, "\n\n").trim();
+}
+
+function formatSectionContent(content: string): string[] {
+  return getVisibleBodyContent(content)
+    .split("\n")
+    .map((line) => line.trim())
+    .filter((line) => line.length > 0);
+}
+
 function renderBodyLine(line: string, key: string) {
   const isLabel =
-    line === "SNAPSHOT" ||
     line === "FINAL SCORES" ||
     line === "LIVE" ||
     line === "UPCOMING" ||
@@ -228,7 +249,7 @@ function renderBodyLine(line: string, key: string) {
   const isBulletLike =
     line.startsWith("- ") ||
     line.startsWith("• ") ||
-    /^[A-Z][A-Za-z\s'.()-]+ \(\d/.test(line);
+    /^[A-Z][A-Za-z\s'.()&/-]+ \(\d/.test(line);
 
   if (isBulletLike) {
     const cleanedLine = line.replace(/^[-•]\s*/, "").trim();
@@ -286,6 +307,109 @@ function sectionSortValue(name: string): number {
   }
 }
 
+function inferStorylineLabel(item: string, index: number): string {
+  const text = item.toLowerCase();
+
+  const isAnalytics =
+    text.includes("advanced") ||
+    text.includes("statcast") ||
+    text.includes("efficiency") ||
+    text.includes("epa") ||
+    text.includes("spin rate") ||
+    text.includes("analytics");
+
+  const isDraft =
+    text.includes("draft") ||
+    text.includes("quarterback") ||
+    text.includes("roster") ||
+    text.includes("first round");
+
+  const isMLB =
+    text.includes("mlb") ||
+    text.includes("baseball") ||
+    text.includes("probable starters") ||
+    text.includes("pitching") ||
+    text.includes("diamondbacks") ||
+    text.includes("orioles");
+
+  const isNBA =
+    text.includes("nba") ||
+    text.includes("pace") ||
+    text.includes("net rating") ||
+    text.includes("hornets") ||
+    text.includes("heat") ||
+    text.includes("suns") ||
+    text.includes("trail blazers");
+
+  const isNFL =
+    text.includes("nfl") ||
+    text.includes("epa") ||
+    text.includes("pass efficiency") ||
+    text.includes("rushing") ||
+    text.includes("patriots") ||
+    text.includes("bills") ||
+    text.includes("rams");
+
+  const isNHL =
+    text.includes("nhl") ||
+    text.includes("sabres") ||
+    text.includes("lightning") ||
+    text.includes("golden knights");
+
+  const isSoccer =
+    text.includes("soccer") ||
+    text.includes("barcelona") ||
+    text.includes("psg") ||
+    text.includes("madrid");
+
+  const isBetting =
+    text.includes("betting") ||
+    text.includes("moneyline") ||
+    text.includes("spread") ||
+    text.includes("odds");
+
+  const isFantasy = text.includes("fantasy");
+
+  if (isDraft) {
+    return "NFL Draft Update";
+  }
+  if (isMLB && isAnalytics) {
+    return "MLB Data Point";
+  }
+  if (isNBA && isAnalytics) {
+    return "NBA Data Point";
+  }
+  if (isNFL && isAnalytics) {
+    return "NFL Data Point";
+  }
+  if (isMLB) {
+    return "MLB Update";
+  }
+  if (isNBA) {
+    return "NBA Update";
+  }
+  if (isNFL) {
+    return "NFL Update";
+  }
+  if (isNHL) {
+    return "NHL Update";
+  }
+  if (isSoccer) {
+    return "Soccer Update";
+  }
+  if (isBetting) {
+    return "Betting Update";
+  }
+  if (isFantasy) {
+    return "Fantasy Update";
+  }
+  if (isAnalytics) {
+    return "Analytics Update";
+  }
+
+  return `Top Update ${index + 1}`;
+}
+
 export default function HomePage() {
   const report = readReportData();
 
@@ -314,7 +438,7 @@ export default function HomePage() {
     snapshot,
     sections,
     full_text,
-    updated_at,
+    published_at,
     disclaimer,
   } = report;
 
@@ -349,8 +473,8 @@ export default function HomePage() {
             </div>
 
             <div className="rounded-2xl border border-slate-200 bg-slate-50 px-4 py-3 text-sm text-slate-700">
-              <div className="font-semibold text-slate-900">Latest update</div>
-              <div className="mt-1">{updated_at || "Unavailable"}</div>
+              <div className="font-semibold text-slate-900">Report published</div>
+              <div className="mt-1">{published_at || "Unavailable"}</div>
             </div>
           </div>
 
@@ -359,14 +483,14 @@ export default function HomePage() {
               <h2 className="text-sm font-black uppercase tracking-[0.18em] text-slate-500">
                 Key Storylines
               </h2>
-              <div className="mt-3 grid gap-3 md:grid-cols-3">
+              <div className="mt-3 grid gap-3 md:grid-cols-2 xl:grid-cols-3">
                 {key_storylines.map((item, index) => (
                   <div
                     key={`${item}-${index}`}
                     className="rounded-2xl border border-slate-200 bg-slate-50 p-4 shadow-sm"
                   >
                     <div className="text-xs font-bold uppercase tracking-[0.18em] text-slate-500">
-                      Line {index + 1}
+                      {inferStorylineLabel(item, index)}
                     </div>
                     <p className="mt-2 text-sm leading-6 text-slate-800">
                       {item}
@@ -448,13 +572,15 @@ export default function HomePage() {
                       </div>
                     ) : null}
 
-                    <div className="mt-4 space-y-2">
-                      {lines.map((line, index) =>
-                        renderBodyLine(line, `${section.name}-${index}`)
-                      )}
-                    </div>
+                    {lines.length > 0 ? (
+                      <div className="mt-4 space-y-2">
+                        {lines.map((line, index) =>
+                          renderBodyLine(line, `${section.name}-${index}`)
+                        )}
+                      </div>
+                    ) : null}
 
-                    {advancedEntries.length > 0 ? (
+                    {section.advanced && hasAdvancedContent(section.advanced) ? (
                       <section
                         className={`mt-6 rounded-3xl border p-5 shadow-sm ${advancedTone(
                           section.name
@@ -468,7 +594,7 @@ export default function HomePage() {
                                 : "Advanced Metrics"}
                             </div>
                             <h3 className="mt-2 text-xl font-black tracking-tight text-slate-900">
-                              {section.advanced?.title ||
+                              {section.advanced.title ||
                                 `${section.name} ADVANCED REPORT`}
                             </h3>
                           </div>
@@ -478,9 +604,7 @@ export default function HomePage() {
                               Updated
                             </div>
                             <div className="mt-1 font-semibold text-slate-900">
-                              {section.advanced?.updated_at ||
-                                updated_at ||
-                                "Unavailable"}
+                              {section.advanced.updated_at || published_at || "Unavailable"}
                             </div>
                           </div>
                         </div>
@@ -554,10 +678,10 @@ export default function HomePage() {
 
                 <div className="rounded-2xl border border-slate-200 bg-slate-50 p-4">
                   <div className="text-xs font-black uppercase tracking-[0.18em] text-slate-500">
-                    Last updated
+                    Report published
                   </div>
                   <div className="mt-2 text-sm font-semibold text-slate-900">
-                    {updated_at || "Unavailable"}
+                    {published_at || "Unavailable"}
                   </div>
                 </div>
               </div>
