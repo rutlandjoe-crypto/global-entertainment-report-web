@@ -750,26 +750,26 @@ export default function HomePage() {
               </div>
             </section>
 
-            <section className="rounded-3xl border border-slate-200 bg-white p-5 shadow-sm">
-              <h2 className="text-xl font-black tracking-tight">
-                Live on X
-              </h2>
+<section className="rounded-3xl border border-slate-200 bg-white p-5 shadow-sm">
+  <h2 className="text-xl font-black tracking-tight">
+    Live on X
+  </h2>
 
-              <p className="mt-2 text-sm text-slate-600">
-                Follow the latest automated thread from @GlobalSportsRP.
-              </p>
+  <p className="mt-2 text-sm text-slate-600">
+    Follow the latest automated thread from @GlobalSportsRp.
+  </p>
 
-              <div className="mt-4">
-                <a
-                  href="https://twitter.com/GlobalSportsRP"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-block rounded-xl bg-black px-4 py-2 text-sm font-semibold text-white transition hover:bg-slate-800"
-                >
-                  View Latest Thread →
-                </a>
-              </div>
-            </section>
+  <div className="mt-4">
+    <a
+      href="https://twitter.com/GlobalSportsRp"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="inline-block rounded-xl bg-black px-4 py-2 text-sm font-semibold text-white transition hover:bg-slate-800"
+    >
+      View Latest Thread →
+    </a>
+  </div>
+</section>
 
             <section className="rounded-3xl border border-slate-200 bg-white p-5 shadow-sm">
               <h2 className="text-xl font-black tracking-tight">
