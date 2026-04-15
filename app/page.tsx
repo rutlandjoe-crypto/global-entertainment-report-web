@@ -11,6 +11,14 @@ type AdvancedReportSections = {
   betting_signals?: string[];
   editors_note?: string[];
   editor_s_note?: string[];
+  league_efficiency_watch?: string[];
+  team_efficiency_watch?: string[];
+  draft_signals?: string[];
+  why_it_matters?: string[];
+  story_angles?: string[];
+  key_data_points?: string[];
+  watch_list?: string[];
+  report_note?: string[];
   [key: string]: string[] | undefined;
 };
 
@@ -23,7 +31,12 @@ type AdvancedReport = {
 
 type ReportSection = {
   name: string;
+  title?: string;
+  headline?: string;
+  snapshot?: string;
+  key_storylines?: string[];
   content: string;
+  source_file?: string;
   advanced?: AdvancedReport;
 };
 
@@ -33,7 +46,8 @@ type ReportData = {
   key_storylines?: string[];
   snapshot?: string;
   sections?: ReportSection[];
-  full_report?: string;
+  full_text?: string;
+  generated_at?: string;
   updated_at?: string;
   disclaimer?: string;
 };
@@ -52,8 +66,9 @@ function readReportData(): ReportData | null {
         : [],
       snapshot: parsed.snapshot || "",
       sections: Array.isArray(parsed.sections) ? parsed.sections : [],
-      full_report: parsed.full_report || "",
-      updated_at: parsed.updated_at || "",
+      full_text: parsed.full_text || "",
+      generated_at: parsed.generated_at || "",
+      updated_at: parsed.updated_at || parsed.generated_at || "",
       disclaimer: parsed.disclaimer || "",
     };
   } catch (error) {
@@ -69,8 +84,17 @@ function formatSectionContent(content: string): string[] {
     .filter((line) => line.length > 0);
 }
 
+function normalizeSectionName(name: string): string {
+  return name.trim().toUpperCase();
+}
+
+function isDraftSection(name: string): boolean {
+  const normalized = normalizeSectionName(name);
+  return normalized === "NFL DRAFT SIGNALS" || normalized === "NFL_DRAFT";
+}
+
 function sectionTone(name: string): string {
-  switch (name.toUpperCase()) {
+  switch (normalizeSectionName(name)) {
     case "MLB":
       return "border-blue-200 bg-blue-50";
     case "NBA":
@@ -79,11 +103,14 @@ function sectionTone(name: string): string {
       return "border-sky-200 bg-sky-50";
     case "NFL":
       return "border-emerald-200 bg-emerald-50";
+    case "NFL DRAFT SIGNALS":
+    case "NFL_DRAFT":
+      return "border-fuchsia-200 bg-fuchsia-50";
     case "SOCCER":
       return "border-lime-200 bg-lime-50";
     case "FANTASY":
       return "border-violet-200 bg-violet-50";
-    case "BETTING ODDS":
+    case "BETTING":
       return "border-rose-200 bg-rose-50";
     default:
       return "border-slate-200 bg-white";
@@ -91,7 +118,7 @@ function sectionTone(name: string): string {
 }
 
 function advancedTone(name: string): string {
-  switch (name.toUpperCase()) {
+  switch (normalizeSectionName(name)) {
     case "MLB":
       return "border-indigo-200 bg-indigo-50";
     case "NBA":
@@ -100,19 +127,16 @@ function advancedTone(name: string): string {
       return "border-cyan-200 bg-cyan-50";
     case "NFL":
       return "border-teal-200 bg-teal-50";
+    case "NFL DRAFT SIGNALS":
+    case "NFL_DRAFT":
+      return "border-purple-200 bg-purple-50";
     default:
       return "border-slate-200 bg-slate-50";
   }
 }
 
 function formatAdvancedHeading(key: string): string {
-  const normalized = key
-    .replace(/_/g, " ")
-    .replace(/\s+/g, " ")
-    .trim()
-    .toUpperCase();
-
-  return normalized;
+  return key.replace(/_/g, " ").replace(/\s+/g, " ").trim().toUpperCase();
 }
 
 function getAdvancedSectionEntries(
@@ -130,6 +154,14 @@ function getAdvancedSectionEntries(
     "bullpen_signals",
     "team_trends",
     "betting_signals",
+    "league_efficiency_watch",
+    "team_efficiency_watch",
+    "draft_signals",
+    "key_data_points",
+    "why_it_matters",
+    "story_angles",
+    "watch_list",
+    "report_note",
     "editors_note",
     "editor_s_note",
   ];
@@ -149,7 +181,6 @@ function getAdvancedSectionEntries(
     if (usedKeys.has(key)) {
       continue;
     }
-
     if (Array.isArray(value) && value.length > 0) {
       entries.push([key, value]);
     }
@@ -160,6 +191,98 @@ function getAdvancedSectionEntries(
 
 function hasAdvancedContent(advanced?: AdvancedReport): boolean {
   return getAdvancedSectionEntries(advanced).length > 0;
+}
+
+function renderBodyLine(line: string, key: string): JSX.Element {
+  const isLabel =
+    line === "SNAPSHOT" ||
+    line === "FINAL SCORES" ||
+    line === "LIVE" ||
+    line === "UPCOMING" ||
+    line === "TOP BOARD" ||
+    line === "GLOBAL SNAPSHOT" ||
+    line === "FALLBACK NOTE" ||
+    line === "BETTING MARKET NOTE" ||
+    line === "MATCHUP FLAGS" ||
+    line === "LEAGUE EFFICIENCY WATCH" ||
+    line === "TEAM EFFICIENCY WATCH" ||
+    line === "WHY IT MATTERS" ||
+    line === "STORY ANGLES" ||
+    line === "KEY DATA POINTS" ||
+    line === "DRAFT SIGNALS" ||
+    line === "WATCH LIST" ||
+    line === "REPORT NOTE";
+
+  if (isLabel) {
+    return (
+      <div
+        key={key}
+        className="pt-3 text-xs font-black uppercase tracking-[0.18em] text-slate-500"
+      >
+        {line}
+      </div>
+    );
+  }
+
+  const isBulletLike =
+    line.startsWith("- ") ||
+    line.startsWith("• ") ||
+    /^[A-Z][A-Za-z\s'.()-]+ \(\d/.test(line);
+
+  if (isBulletLike) {
+    const cleanedLine = line.replace(/^[-•]\s*/, "").trim();
+    return (
+      <div key={key} className="flex gap-2 text-sm leading-7 text-slate-800">
+        <span className="font-bold text-slate-500">-</span>
+        <span>{cleanedLine}</span>
+      </div>
+    );
+  }
+
+  return (
+    <p key={key} className="text-sm leading-7 text-slate-800">
+      {line}
+    </p>
+  );
+}
+
+function sectionBadge(name: string): string {
+  if (isDraftSection(name)) {
+    return "Draft Intel";
+  }
+
+  switch (normalizeSectionName(name)) {
+    case "FANTASY":
+      return "Cross-League";
+    case "BETTING":
+      return "Market Watch";
+    default:
+      return "Section";
+  }
+}
+
+function sectionSortValue(name: string): number {
+  switch (normalizeSectionName(name)) {
+    case "MLB":
+      return 1;
+    case "NBA":
+      return 2;
+    case "NHL":
+      return 3;
+    case "NFL":
+      return 4;
+    case "NFL DRAFT SIGNALS":
+    case "NFL_DRAFT":
+      return 5;
+    case "SOCCER":
+      return 6;
+    case "FANTASY":
+      return 7;
+    case "BETTING":
+      return 8;
+    default:
+      return 99;
+  }
 }
 
 export default function HomePage() {
@@ -189,15 +312,19 @@ export default function HomePage() {
     key_storylines,
     snapshot,
     sections,
-    full_report,
+    full_text,
     updated_at,
     disclaimer,
   } = report;
 
-  const sectionCount = sections?.length ?? 0;
+  const sortedSections = [...(sections ?? [])].sort(
+    (a, b) => sectionSortValue(a.name) - sectionSortValue(b.name)
+  );
+
+  const sectionCount = sortedSections.length;
   const advancedSectionCount =
-    sections?.filter((section) => hasAdvancedContent(section.advanced)).length ??
-    0;
+    sortedSections.filter((section) => hasAdvancedContent(section.advanced))
+      .length ?? 0;
 
   return (
     <main className="min-h-screen bg-slate-100 text-slate-900">
@@ -263,12 +390,10 @@ export default function HomePage() {
 
         <div className="grid gap-6 xl:grid-cols-[1.2fr_0.8fr]">
           <section className="space-y-5">
-            {sections && sections.length > 0 ? (
-              sections.map((section) => {
+            {sortedSections.length > 0 ? (
+              sortedSections.map((section) => {
                 const lines = formatSectionContent(section.content);
-                const advancedEntries = getAdvancedSectionEntries(
-                  section.advanced
-                );
+                const advancedEntries = getAdvancedSectionEntries(section.advanced);
 
                 return (
                   <article
@@ -282,38 +407,50 @@ export default function HomePage() {
                         {section.name}
                       </h2>
                       <div className="rounded-full border border-slate-300 bg-white px-3 py-1 text-xs font-bold uppercase tracking-[0.18em] text-slate-600">
-                        Section
+                        {sectionBadge(section.name)}
                       </div>
                     </div>
 
-                    <div className="mt-4 space-y-2">
-                      {lines.map((line, index) => {
-                        const isLabel =
-                          line === "SNAPSHOT" ||
-                          line === "FINAL SCORES" ||
-                          line === "LIVE" ||
-                          line === "UPCOMING" ||
-                          line === "TOP BOARD" ||
-                          line === "GLOBAL SNAPSHOT" ||
-                          line === "FALLBACK NOTE" ||
-                          line === "BETTING MARKET NOTE";
+                    {section.headline ? (
+                      <p className="mt-4 text-base leading-7 text-slate-800">
+                        {section.headline}
+                      </p>
+                    ) : null}
 
-                        return isLabel ? (
-                          <div
-                            key={`${section.name}-${index}`}
-                            className="pt-3 text-xs font-black uppercase tracking-[0.18em] text-slate-500"
-                          >
-                            {line}
-                          </div>
-                        ) : (
-                          <p
-                            key={`${section.name}-${index}`}
-                            className="text-sm leading-7 text-slate-800"
-                          >
-                            {line}
-                          </p>
-                        );
-                      })}
+                    {section.snapshot ? (
+                      <div className="mt-4 rounded-2xl border border-slate-200 bg-white/70 p-4">
+                        <div className="text-xs font-black uppercase tracking-[0.18em] text-slate-500">
+                          Snapshot
+                        </div>
+                        <p className="mt-2 text-sm leading-6 text-slate-800">
+                          {section.snapshot}
+                        </p>
+                      </div>
+                    ) : null}
+
+                    {section.key_storylines && section.key_storylines.length > 0 ? (
+                      <div className="mt-4 rounded-2xl border border-slate-200 bg-white/70 p-4">
+                        <div className="text-xs font-black uppercase tracking-[0.18em] text-slate-500">
+                          Key Storylines
+                        </div>
+                        <div className="mt-3 space-y-2">
+                          {section.key_storylines.map((item, index) => (
+                            <p
+                              key={`${section.name}-story-${index}`}
+                              className="text-sm leading-6 text-slate-800"
+                            >
+                              <span className="mr-2 font-bold text-slate-500">-</span>
+                              {item}
+                            </p>
+                          ))}
+                        </div>
+                      </div>
+                    ) : null}
+
+                    <div className="mt-4 space-y-2">
+                      {lines.map((line, index) =>
+                        renderBodyLine(line, `${section.name}-${index}`)
+                      )}
                     </div>
 
                     {advancedEntries.length > 0 ? (
@@ -325,10 +462,13 @@ export default function HomePage() {
                         <div className="flex flex-col gap-3 sm:flex-row sm:items-start sm:justify-between">
                           <div>
                             <div className="text-xs font-black uppercase tracking-[0.18em] text-slate-500">
-                              Advanced Metrics
+                              {isDraftSection(section.name)
+                                ? "Draft Signals"
+                                : "Advanced Metrics"}
                             </div>
                             <h3 className="mt-2 text-xl font-black tracking-tight text-slate-900">
-                              {section.advanced?.title || `${section.name} ADVANCED REPORT`}
+                              {section.advanced?.title ||
+                                `${section.name} ADVANCED REPORT`}
                             </h3>
                           </div>
 
@@ -337,7 +477,9 @@ export default function HomePage() {
                               Updated
                             </div>
                             <div className="mt-1 font-semibold text-slate-900">
-                              {section.advanced?.updated_at || updated_at || "Unavailable"}
+                              {section.advanced?.updated_at ||
+                                updated_at ||
+                                "Unavailable"}
                             </div>
                           </div>
                         </div>
@@ -425,9 +567,9 @@ export default function HomePage() {
                 Full Report Feed
               </h2>
 
-              {full_report ? (
+              {full_text ? (
                 <pre className="mt-4 max-h-[900px] overflow-auto whitespace-pre-wrap rounded-2xl border border-slate-200 bg-slate-950 p-4 text-xs leading-6 text-slate-100">
-                  {full_report}
+                  {full_text}
                 </pre>
               ) : (
                 <p className="mt-4 text-sm leading-7 text-slate-700">
