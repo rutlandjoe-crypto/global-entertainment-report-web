@@ -71,7 +71,8 @@ function readReportData(): ReportData | null {
       full_text: parsed.full_text || "",
       generated_at: parsed.generated_at || "",
       updated_at: parsed.updated_at || parsed.generated_at || "",
-      published_at: parsed.published_at || parsed.updated_at || parsed.generated_at || "",
+      published_at:
+        parsed.published_at || parsed.updated_at || parsed.generated_at || "",
       disclaimer: parsed.disclaimer || "",
     };
   } catch (error) {
@@ -470,6 +471,45 @@ export default function HomePage() {
                   {headline}
                 </p>
               ) : null}
+
+              <section className="mt-6 rounded-2xl border border-slate-200 bg-white p-6 shadow-sm">
+                <h2 className="text-sm font-bold uppercase tracking-[0.28em] text-slate-600">
+                  How This Helps Newsrooms
+                </h2>
+
+                <p className="mt-3 text-base font-semibold text-slate-900">
+                  Built for journalists, by a journalist.
+                </p>
+
+                <ul className="mt-4 space-y-3 text-sm leading-7 text-slate-700">
+                  <li>
+                    Delivers real-time editorial angles across leagues, helping
+                    reporters quickly identify what matters on any given slate.
+                  </li>
+                  <li>
+                    Tracks game-state movement across final, live, and upcoming
+                    events to support both breaking coverage and forward-looking
+                    story planning.
+                  </li>
+                  <li>
+                    Surfaces structured data signals that can be developed into
+                    deeper reporting, analysis, and on-air discussion.
+                  </li>
+                  <li>
+                    Produces consistent, publication-ready outputs that fit
+                    naturally into digital, social, and newsletter workflows.
+                  </li>
+                  <li>
+                    Scales across multiple sports, allowing lean teams to expand
+                    coverage without sacrificing editorial quality.
+                  </li>
+                </ul>
+
+                <p className="mt-5 text-xs leading-6 text-slate-500">
+                  This report is an automated summary intended to support, not
+                  replace, human sports journalism.
+                </p>
+              </section>
             </div>
 
             <div className="rounded-2xl border border-slate-200 bg-slate-50 px-4 py-3 text-sm text-slate-700">
@@ -604,7 +644,9 @@ export default function HomePage() {
                               Updated
                             </div>
                             <div className="mt-1 font-semibold text-slate-900">
-                              {section.advanced.updated_at || published_at || "Unavailable"}
+                              {section.advanced.updated_at ||
+                                published_at ||
+                                "Unavailable"}
                             </div>
                           </div>
                         </div>
