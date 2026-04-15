@@ -323,9 +323,9 @@ export default function HomePage() {
   );
 
   const sectionCount = sortedSections.length;
-  const advancedSectionCount =
-    sortedSections.filter((section) => hasAdvancedContent(section.advanced))
-      .length ?? 0;
+  const advancedSectionCount = sortedSections.filter((section) =>
+    hasAdvancedContent(section.advanced)
+  ).length;
 
   return (
     <main className="min-h-screen bg-slate-100 text-slate-900">
