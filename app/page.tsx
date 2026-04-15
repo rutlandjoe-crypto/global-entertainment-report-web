@@ -60,6 +60,10 @@ function readReportData(): ReportData | null {
     const raw = fs.readFileSync(filePath, "utf-8");
     const parsed = JSON.parse(raw) as ReportData;
 
+<p className="text-sm font-semibold text-slate-600">
+  Automated editorial intelligence for modern sports newsrooms.
+</p>
+
     return {
       title: parsed.title || "GLOBAL SPORTS REPORT",
       headline: parsed.headline || "",
