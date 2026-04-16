@@ -89,10 +89,12 @@ jobs:
             echo "changes_detected=true" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Pull latest remote changes
+      - name: Pull latest remote changes safely
         if: steps.commit_changes.outputs.changes_detected == 'true'
         run: |
+          git stash --include-untracked
           git pull --rebase origin master
+          git stash pop || true
 
       - name: Push changes
         if: steps.commit_changes.outputs.changes_detected == 'true'
