@@ -1,23 +1,26 @@
-name: GSR Cloud Run
+name: GSR Morning Run
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 9 * * *"
-    - cron: "0 15 * * *"
-    - cron: "0 21 * * *"
+    - cron: "0 5 * * *"
+      timezone: "America/New_York"
+    - cron: "0 11 * * *"
+      timezone: "America/New_York"
+    - cron: "0 17 * * *"
+      timezone: "America/New_York"
 
 permissions:
   contents: write
 
 concurrency:
-  group: gsr-cloud-run
+  group: gsr-morning-run
   cancel-in-progress: false
 
 jobs:
   run-gsr:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 45
 
     env:
       PYTHONUNBUFFERED: "1"
@@ -28,24 +31,16 @@ jobs:
       TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
       TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
       ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
-      GITHUB_ACTIONS: "true"
+      GSR_DISABLE_SOCIAL_POSTS: "false"
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+      - name: Check out repo
+        uses: actions/checkout@v5
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-
-      - name: Show repo contents
-        run: |
-          pwd
-          ls -la
-          find . -maxdepth 3 -type f | sort
 
       - name: Install dependencies
         run: |
@@ -56,47 +51,35 @@ jobs:
             pip install requests python-dotenv tweepy
           fi
 
-      - name: Run full GSR pipeline
+      - name: Show working directory
         run: |
-          if [ -f master_runner.py ]; then
-            python master_runner.py
-          else
-            echo "master_runner.py not found"
-            exit 1
-          fi
+          pwd
+          ls -la
+          find . -maxdepth 2 -type f | sort
 
-      - name: Verify refreshed site files exist
+      - name: Run master runner
         run: |
-          if [ ! -f public/latest_report.json ]; then
-            echo "public/latest_report.json not found after pipeline run"
-            exit 1
-          fi
-          echo "Found refreshed public/latest_report.json"
-          ls -l public/latest_report.json
-          head -40 public/latest_report.json
+          python master_runner.py
 
-      - name: Commit refreshed files if changed
-        id: commit_changes
+      - name: Stage website files
+        run: |
+          git add public/latest_report.json public/latest_report.txt public/global_sports_report.txt || true
+
+      - name: Commit updated site data if changed
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add public/
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com}"
+
           if git diff --cached --quiet; then
-            echo "No changes to commit"
-            echo "changes_detected=false" >> "$GITHUB_OUTPUT"
+            echo "No site-data changes to commit."
           else
-            git commit -m "Auto update GSR site"
-            echo "changes_detected=true" >> "$GITHUB_OUTPUT"
+            git commit -m "Auto update GSR site data"
           fi
 
-      - name: Pull latest remote changes safely
-        if: steps.commit_changes.outputs.changes_detected == 'true'
-        run: |
-          git stash --include-untracked
-          git pull --rebase origin master
-          git stash pop || true
-
       - name: Push changes
-        if: steps.commit_changes.outputs.changes_detected == 'true'
         run: |
-          git push origin master
+          if git diff --cached --quiet && git diff --quiet; then
+            echo "Nothing to push."
+          else
+            git push origin HEAD:master
+          fi
