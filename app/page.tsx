@@ -163,6 +163,10 @@ function isDraftSection(name: string): boolean {
   return normalized === "NFL DRAFT SIGNALS" || normalized === "NFL_DRAFT";
 }
 
+function isMlbSection(name: string): boolean {
+  return normalizeSectionName(name) === "MLB";
+}
+
 function sectionTone(name: string): string {
   switch (normalizeSectionName(name)) {
     case "MLB":
@@ -208,6 +212,15 @@ function advancedTone(name: string): string {
 
 function formatAdvancedHeading(key: string): string {
   return key.replace(/_/g, " ").replace(/\s+/g, " ").trim().toUpperCase();
+}
+
+function extractReportDate(title?: string): string {
+  if (!title) {
+    return "";
+  }
+
+  const match = title.match(/\|\s*(\d{4}-\d{2}-\d{2})\s*$/);
+  return match?.[1] || "";
 }
 
 function getAdvancedSectionEntries(
@@ -262,6 +275,25 @@ function getAdvancedSectionEntries(
 
 function hasAdvancedContent(advanced?: AdvancedReport): boolean {
   return getAdvancedSectionEntries(advanced).length > 0;
+}
+
+function shouldRenderAdvanced(section: ReportSection): boolean {
+  if (!section.advanced || !hasAdvancedContent(section.advanced)) {
+    return false;
+  }
+
+  if (!isMlbSection(section.name)) {
+    return true;
+  }
+
+  const sectionDate = extractReportDate(section.title);
+  const advancedDate = extractReportDate(section.advanced.title);
+
+  if (!sectionDate || !advancedDate) {
+    return false;
+  }
+
+  return sectionDate === advancedDate;
 }
 
 function removeSectionBlock(content: string, heading: string): string {
@@ -530,7 +562,7 @@ export default function HomePage() {
 
   const sectionCount = sortedSections.length;
   const advancedSectionCount = sortedSections.filter((section) =>
-    hasAdvancedContent(section.advanced)
+    shouldRenderAdvanced(section)
   ).length;
 
   return (
@@ -667,6 +699,7 @@ export default function HomePage() {
               sortedSections.map((section) => {
                 const lines = formatSectionContent(section.content);
                 const advancedEntries = getAdvancedSectionEntries(section.advanced);
+                const showAdvanced = shouldRenderAdvanced(section);
 
                 return (
                   <article
@@ -730,7 +763,7 @@ export default function HomePage() {
                       </div>
                     ) : null}
 
-                    {section.advanced && hasAdvancedContent(section.advanced) ? (
+                    {showAdvanced ? (
                       <section
                         className={`mt-6 rounded-3xl border p-5 shadow-sm ${advancedTone(
                           section.name
@@ -744,7 +777,7 @@ export default function HomePage() {
                                 : "Advanced Metrics"}
                             </div>
                             <h3 className="mt-2 text-xl font-black tracking-tight text-slate-900">
-                              {section.advanced.title ||
+                              {section.advanced?.title ||
                                 `${section.name} ADVANCED REPORT`}
                             </h3>
                           </div>
@@ -754,7 +787,7 @@ export default function HomePage() {
                               Updated
                             </div>
                             <div className="mt-1 font-semibold text-slate-900">
-                              {section.advanced.updated_at ||
+                              {section.advanced?.updated_at ||
                                 published_at ||
                                 "Unavailable"}
                             </div>
