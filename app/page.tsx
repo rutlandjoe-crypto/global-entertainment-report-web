@@ -35,13 +35,6 @@ const SUBSTACK_URL = "https://globalsportsreport.substack.com/";
 const X_URL = "https://x.com/GlobalSportsRep";
 const FULL_REPORT_URL = "/latest_report.txt";
 
-/**
- * Replace this with the exact YouTube embed you want to use later.
- * For now it gives you a clean, working video box.
- */
-const DAILY_VIDEO_EMBED_URL =
-  "https://www.youtube.com/embed/jfKfPfyJRdk?si=gsr";
-
 async function getLatestReport(): Promise<LatestReportData> {
   try {
     const filePath = path.join(process.cwd(), "public", "latest_report.json");
@@ -89,7 +82,7 @@ function formatTextBlock(text?: string) {
 function getSectionLabel(section: ReportSection, index: number) {
   return (
     section.league?.trim() ||
-    section.title?.replace(/\s+PRO REPORT.*$/i, "").trim() ||
+    section.title?.replace(/\s+(PRO|ADVANCED|REPORT|SIGNALS).*$/i, "").trim() ||
     `Section ${index + 1}`
   );
 }
@@ -162,37 +155,6 @@ export default async function HomePage() {
           >
             Open Full Report Feed
           </Link>
-        </section>
-
-        <section className="mb-10">
-          <div className="border-2 border-black bg-white p-4 shadow-[6px_6px_0px_0px_rgba(0,0,0,1)]">
-            <div className="mb-3 flex items-center justify-between gap-3 border-b border-neutral-300 pb-3">
-              <h2 className="text-lg font-black uppercase tracking-wide">
-                Daily Video Wrap-Up
-              </h2>
-              <span className="text-xs font-bold uppercase tracking-[0.2em] text-neutral-500">
-                Video Briefing
-              </span>
-            </div>
-
-            <div className="overflow-hidden border border-black bg-black">
-              <div className="aspect-video">
-                <iframe
-                  className="h-full w-full"
-                  src={DAILY_VIDEO_EMBED_URL}
-                  title="Daily Sports Video Wrap-Up"
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                  referrerPolicy="strict-origin-when-cross-origin"
-                  allowFullScreen
-                />
-              </div>
-            </div>
-
-            <p className="mt-3 text-sm leading-6 text-neutral-700">
-              A single video element adds a little color and motion to the front page
-              without overwhelming the report layout.
-            </p>
-          </div>
         </section>
 
         <section className="mb-10 grid gap-6 lg:grid-cols-[1.35fr_0.65fr]">
