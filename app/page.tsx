@@ -1,9 +1,44 @@
 import fs from "fs";
 import path from "path";
 
+type ReportSection = {
+  title?: string;
+  snapshot?: string;
+  key_storylines?: string[];
+  [key: string]: any;
+};
+
+function normalizeSections(input: any): ReportSection[] {
+  if (!input) return [];
+
+  if (Array.isArray(input)) {
+    return input.map((section, index) => ({
+      title: section?.title || `Section ${index + 1}`,
+      snapshot: section?.snapshot || "",
+      key_storylines: Array.isArray(section?.key_storylines)
+        ? section.key_storylines
+        : [],
+      ...section,
+    }));
+  }
+
+  if (typeof input === "object") {
+    return Object.entries(input).map(([key, value]: [string, any]) => ({
+      title: value?.title || key.replace(/_/g, " ").toUpperCase(),
+      snapshot: value?.snapshot || "",
+      key_storylines: Array.isArray(value?.key_storylines)
+        ? value.key_storylines
+        : [],
+      ...value,
+    }));
+  }
+
+  return [];
+}
+
 export default function Home() {
-  // Load latest report JSON
   const filePath = path.join(process.cwd(), "public", "latest_report.json");
+
   let data: any = null;
 
   try {
@@ -13,13 +48,11 @@ export default function Home() {
     console.error("Error loading latest_report.json:", err);
   }
 
-  const sections = data?.sections || [];
+  const sections = normalizeSections(data?.sections);
 
   return (
     <main className="min-h-screen bg-slate-50 p-6">
       <div className="mx-auto max-w-7xl">
-
-        {/* HEADER */}
         <header className="mb-6">
           <h1 className="text-3xl font-bold text-slate-900">
             Global Sports Report
@@ -29,71 +62,74 @@ export default function Home() {
           </p>
         </header>
 
-        {/* MAIN GRID */}
         <div className="grid grid-cols-1 gap-6 xl:grid-cols-[1.2fr_0.8fr]">
-
-          {/* LEFT: REPORT CONTENT */}
           <div className="space-y-6">
-
-            {/* GLOBAL SNAPSHOT */}
             {data?.snapshot && (
               <div className="rounded-2xl border bg-white p-5 shadow-sm">
                 <h2 className="text-lg font-semibold text-slate-900">
                   Global Snapshot
                 </h2>
-                <p className="mt-2 text-sm text-slate-700 whitespace-pre-line">
+                <p className="mt-2 whitespace-pre-line text-sm text-slate-700">
                   {data.snapshot}
                 </p>
               </div>
             )}
 
-            {/* SECTIONS */}
-            {sections.map((section: any, index: number) => (
-              <div
-                key={index}
-                className="rounded-2xl border bg-white p-5 shadow-sm"
-              >
+            {sections.length > 0 ? (
+              sections.map((section: ReportSection, index: number) => (
+                <div
+                  key={index}
+                  className="rounded-2xl border bg-white p-5 shadow-sm"
+                >
+                  <h2 className="text-lg font-semibold text-slate-900">
+                    {section.title}
+                  </h2>
+
+                  {section.snapshot && (
+                    <p className="mt-2 whitespace-pre-line text-sm text-slate-700">
+                      {section.snapshot}
+                    </p>
+                  )}
+
+                  {Array.isArray(section.key_storylines) &&
+                    section.key_storylines.length > 0 && (
+                      <div className="mt-4">
+                        <h3 className="text-sm font-semibold uppercase tracking-wide text-slate-500">
+                          Key Storylines
+                        </h3>
+                        <ul className="mt-2 list-disc space-y-1 pl-5 text-sm text-slate-700">
+                          {section.key_storylines.map(
+                            (item: string, i: number) => (
+                              <li key={i}>{item}</li>
+                            )
+                          )}
+                        </ul>
+                      </div>
+                    )}
+                </div>
+              ))
+            ) : (
+              <div className="rounded-2xl border bg-white p-5 shadow-sm">
                 <h2 className="text-lg font-semibold text-slate-900">
-                  {section.title}
+                  Daily Report
                 </h2>
-
-                {/* Snapshot */}
-                {section.snapshot && (
-                  <p className="mt-2 text-sm text-slate-700 whitespace-pre-line">
-                    {section.snapshot}
-                  </p>
-                )}
-
-                {/* Key Storylines */}
-                {section.key_storylines?.length > 0 && (
-                  <div className="mt-4">
-                    <h3 className="text-sm font-semibold text-slate-500 uppercase tracking-wide">
-                      Key Storylines
-                    </h3>
-                    <ul className="mt-2 list-disc pl-5 text-sm text-slate-700 space-y-1">
-                      {section.key_storylines.map(
-                        (item: string, i: number) => (
-                          <li key={i}>{item}</li>
-                        )
-                      )}
-                    </ul>
-                  </div>
-                )}
+                <p className="mt-2 whitespace-pre-line text-sm text-slate-700">
+                  {data?.full_report ||
+                    data?.report ||
+                    "No report sections are available right now."}
+                </p>
               </div>
-            ))}
+            )}
           </div>
 
-          {/* RIGHT: SIDEBAR */}
           <div className="space-y-6">
-
-            {/* VIDEO BRIEFING BOX */}
             <div className="rounded-2xl border border-slate-200 bg-white p-4 shadow-sm">
               <div className="mb-3">
                 <h3 className="text-sm font-semibold uppercase tracking-[0.2em] text-slate-500">
                   Video Briefing
                 </h3>
                 <p className="mt-1 text-sm text-slate-600">
-                  Daily sports wrap-up
+                  Daily sports video wrap-up
                 </p>
               </div>
 
@@ -116,14 +152,13 @@ export default function Home() {
               </p>
             </div>
 
-            {/* FULL REPORT BOX */}
             <div className="rounded-2xl border bg-white p-4 shadow-sm">
               <h3 className="text-sm font-semibold uppercase tracking-[0.2em] text-slate-500">
                 Full Report
               </h3>
 
               <pre className="mt-3 max-h-[500px] overflow-auto whitespace-pre-wrap text-xs text-slate-800">
-                {data?.full_report || "Full report not available."}
+                {data?.full_report || data?.report || "Full report not available."}
               </pre>
             </div>
           </div>
