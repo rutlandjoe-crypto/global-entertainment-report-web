@@ -62,7 +62,7 @@ const FALLBACK_DATA: ReportData = {
   published_at: "Update pending",
   disclaimer:
     "This report is an automated summary intended to support, not replace, human sports journalism.",
-  x_handle: "@GlobalSportsRp",
+  x_handle: "@GlobalSportsRep",
   substack_url: "https://globalsportsreport.substack.com/",
   global_report: "",
   sections: [],
@@ -70,7 +70,7 @@ const FALLBACK_DATA: ReportData = {
     brand: "Global Sports Report",
     site_url: "https://global-sports-report-web.vercel.app",
     substack_url: "https://globalsportsreport.substack.com/",
-    x_handle: "@GlobalSportsRp",
+    x_handle: "@GlobalSportsRep",
     edition_date: "",
     generated_at: "Update pending",
     timezone: "America/New_York",
@@ -89,57 +89,15 @@ const DISPLAY_ORDER = [
   "fantasy",
 ] as const;
 
-const SECTION_LABELS = [
-  "HEADLINE",
-  "SNAPSHOT",
-  "KEY STORYLINES",
-  "KEY DATA POINTS",
-  "WHY IT MATTERS",
-  "STORY ANGLES",
-  "WATCH LIST",
-  "FINAL SCORES",
-  "RECENT FINAL SCORES",
-  "YESTERDAY FINAL SCORES",
-  "TODAY FINAL SCORES",
-  "TODAY RESULTS",
-  "YESTERDAY RESULTS",
-  "YESTERDAY PLAYOFF RESULTS",
-  "TODAY PLAYOFF RESULTS",
-  "PLAYOFF RESULTS",
-  "LIVE",
-  "LIVE GAMES",
-  "TODAY LIVE",
-  "UPCOMING",
-  "UPCOMING GAMES",
-  "TODAY SCHEDULE",
-  "TODAY PLAYOFF SCHEDULE",
-  "PLAYOFF SCHEDULE",
-  "DRAFT CALENDAR",
-  "HISTORICAL CONTEXT",
-  "STATCAST SNAPSHOT",
-  "OUTLOOK",
-  "CURRENT DATA AND ANALYTICS",
-  "TOP 10 DRAFT ORDER",
-  "FULL ROUND 1 ORDER",
-  "DAY 2 OPENING BOARD",
-  "TEAM CAPITAL WATCH",
-  "RANKINGS CONTEXT",
-  "PLAYER MOVES",
-  "NEWS",
-  "STATIC GRAPHIC",
-  "DISCLAIMER",
-  "UPDATED",
-];
-
-const GLOBAL_MULTI_LEAGUE_PREFIXES = [
-  "MLB:",
-  "NBA:",
-  "NHL:",
-  "NFL:",
-  "NCAAFB:",
-  "SOCCER:",
-  "FANTASY:",
-  "BETTING ODDS:",
+const EMPTY_SENTENCE_PATTERNS = [
+  /^no final scores were available/i,
+  /^no live games were available/i,
+  /^no live mlb games were identified/i,
+  /^no upcoming games were available/i,
+  /^no final mlb games were identified/i,
+  /^no data is currently available/i,
+  /^this section will populate as soon as/i,
+  /^could not load odds:/i,
 ];
 
 async function getReportData(): Promise<ReportData> {
@@ -231,7 +189,6 @@ function formatLabel(key: string): string {
   if (normalized === "soccer") return "Soccer";
   if (normalized === "betting_odds") return "Betting Odds";
   if (normalized === "fantasy") return "Fantasy";
-  if (normalized === "nfl_draft_signals") return "NFL Draft Signals";
   return prettifyKey(key);
 }
 
@@ -247,7 +204,6 @@ function normalizeKey(rawKey: string): string {
   if (normalizedKey.includes("nhl")) return "nhl";
   if (normalizedKey.includes("ncaafb")) return "ncaafb";
   if (normalizedKey.includes("college_football")) return "ncaafb";
-  if (normalizedKey.includes("nfl_draft")) return "nfl_draft_signals";
   if (normalizedKey.includes("nfl")) return "nfl";
   if (normalizedKey.includes("soccer")) return "soccer";
   if (normalizedKey.includes("betting")) return "betting_odds";
@@ -258,9 +214,7 @@ function normalizeKey(rawKey: string): string {
 
 function formatSnapshot(value: unknown): string {
   if (!value) return "";
-
   if (typeof value === "string") return cleanText(value);
-
   if (!isRecord(value)) return cleanText(value);
 
   const preferredOrder = [
@@ -295,30 +249,6 @@ function formatSnapshot(value: unknown): string {
     .join(" · ");
 }
 
-function isSectionLabel(line: string): boolean {
-  return SECTION_LABELS.includes(cleanText(line).toUpperCase());
-}
-
-function isBackendNoise(line: string): boolean {
-  const s = cleanText(line);
-  if (!s) return true;
-  if (s === FALLBACK_DATA.disclaimer) return true;
-  if (/^DISCLAIMER$/i.test(s)) return true;
-  if (/^UPDATED$/i.test(s)) return true;
-  if (/^STATIC GRAPHIC$/i.test(s)) return true;
-  if (/^Saved:/i.test(s)) return true;
-  if (/^Generated:/i.test(s)) return true;
-  if (/^UPDATED\s+\d{4}-\d{2}-\d{2}/i.test(s)) return true;
-  if (/^\d{4}-\d{2}-\d{2}\s+\d{1,2}:\d{2}:\d{2}\s+[AP]M\s+ET$/i.test(s)) return true;
-  if (/This report is an automated summary intended to support, not replace, human sports journalism\./i.test(s))
-    return true;
-  if (/^[A-Z ]+PRO REPORT\s+\|\s+\d{4}-\d{2}-\d{2}$/i.test(s)) return true;
-  if (/^[A-Z ]+REPORT\s+\|\s+\d{4}-\d{2}-\d{2}$/i.test(s)) return true;
-  if (/^GLOBAL SPORTS REPORT\s+\|\s+\d{4}-\d{2}-\d{2}$/i.test(s)) return true;
-  if (/Static graphic exported to:/i.test(s)) return true;
-  return false;
-}
-
 function isBadPublicLine(line: string): boolean {
   const s = cleanText(line).toLowerCase();
   if (!s) return true;
@@ -330,108 +260,18 @@ function isBadPublicLine(line: string): boolean {
   return false;
 }
 
+function isEmptySentence(line: string): boolean {
+  const s = cleanText(line);
+  if (!s) return true;
+  return EMPTY_SENTENCE_PATTERNS.some((pattern) => pattern.test(s));
+}
+
 function shouldKeepLine(line: string): boolean {
   const s = cleanText(line);
   if (!s) return false;
-  if (isBackendNoise(s)) return false;
   if (isBadPublicLine(s)) return false;
   if (s.length < 2) return false;
   return true;
-}
-
-function escapeRegex(value: string): string {
-  return value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
-}
-
-function injectNewlinesForLabels(text: string): string {
-  let normalized = cleanText(text);
-  if (!normalized) return "";
-
-  for (const label of SECTION_LABELS.sort((a, b) => b.length - a.length)) {
-    const escaped = escapeRegex(label);
-    normalized = normalized.replace(
-      new RegExp(`\\s*${escaped}\\s*`, "gi"),
-      `\n${label}\n`
-    );
-  }
-
-  normalized = normalized
-    .replace(/\s+-\s+/g, "\n- ")
-    .replace(/\.\s+(?=(?:No |[A-Z][a-z]+ .* beat |Round \d|Rounds \d|\d+\.)\b)/g, ".\n")
-    .replace(/\n{3,}/g, "\n\n")
-    .trim();
-
-  return normalized;
-}
-
-function extractBlock(text: string, labels: string[]): string {
-  const source = injectNewlinesForLabels(text);
-  if (!source) return "";
-
-  const upperLabels = SECTION_LABELS.sort((a, b) => b.length - a.length).map(escapeRegex).join("|");
-  const target = labels.sort((a, b) => b.length - a.length).map(escapeRegex).join("|");
-
-  const regex = new RegExp(
-    `(?:^|\\n)(?:${target})\\n([\\s\\S]*?)(?=\\n(?:${upperLabels})\\n|$)`,
-    "i"
-  );
-
-  const match = source.match(regex);
-  return cleanText(match?.[1] || "");
-}
-
-function splitBlockToLines(text: string): string[] {
-  const normalized = injectNewlinesForLabels(text);
-  if (!normalized) return [];
-
-  const rawLines = normalized
-    .split(/\n+/)
-    .map((line) => cleanText(line).replace(/^•\s*/, "").replace(/^-+\s*/, "").trim())
-    .filter(Boolean);
-
-  const output: string[] = [];
-
-  for (const line of rawLines) {
-    if (!shouldKeepLine(line)) continue;
-    if (isSectionLabel(line)) continue;
-
-    const isContinuation =
-      /^(?:West|East|Final\/OT|Game \d|Round \d|Probables?:|TV:|Venue footprint:|Location:)/i.test(
-        line
-      ) ||
-      (/^[a-z]/.test(line) && output.length > 0 && output[output.length - 1].length < 150);
-
-    if (isContinuation && output.length > 0) {
-      output[output.length - 1] = `${output[output.length - 1]} ${line}`;
-      continue;
-    }
-
-    output.push(line);
-  }
-
-  return output;
-}
-
-function flattenStrings(value: unknown): string[] {
-  if (value === undefined || value === null) return [];
-
-  if (Array.isArray(value)) {
-    return value.flatMap((item) => flattenStrings(item));
-  }
-
-  if (typeof value === "string") {
-    return splitBlockToLines(value);
-  }
-
-  if (typeof value === "number" || typeof value === "boolean") {
-    return [String(value)];
-  }
-
-  if (isRecord(value)) {
-    return Object.values(value).flatMap((item) => flattenStrings(item));
-  }
-
-  return [];
 }
 
 function dedupeAndLimit(items: string[], limit: number): string[] {
@@ -517,229 +357,269 @@ function formatOddsItem(item: unknown): string {
     .join(" · ");
 }
 
-function extractTextFromBlob(content: string, labels: string[], maxLength = 700): string {
-  const block = extractBlock(content, labels);
-  if (!block) return "";
+function toStringArray(value: unknown, formatter?: (item: unknown) => string): string[] {
+  if (value === undefined || value === null) return [];
 
-  const lines = splitBlockToLines(block);
-  if (lines.length === 0) return "";
+  if (Array.isArray(value)) {
+    return value
+      .map((item) => (formatter ? formatter(item) : cleanText(item)))
+      .map(cleanText)
+      .filter(Boolean);
+  }
 
-  return compactText(lines.join(" "), maxLength);
+  if (typeof value === "string") {
+    const cleaned = cleanText(value);
+    return cleaned ? [cleaned] : [];
+  }
+
+  if (typeof value === "number" || typeof value === "boolean") {
+    return [String(value)];
+  }
+
+  if (isRecord(value)) {
+    const formatted = formatter ? formatter(value) : cleanText(value);
+    return formatted ? [formatted] : [];
+  }
+
+  return [];
 }
 
-function extractListFromBlob(content: string, labels: string[], limit = 8): string[] {
-  const block = extractBlock(content, labels);
-  if (!block) return [];
-  return dedupeAndLimit(splitBlockToLines(block), limit);
+function getArrayFromStructuredFields(
+  values: unknown[],
+  limit: number,
+  formatter?: (item: unknown) => string
+): string[] {
+  const items: string[] = [];
+
+  for (const value of values) {
+    items.push(...toStringArray(value, formatter));
+  }
+
+  return dedupeAndLimit(items, limit);
 }
 
-function isBlobLike(value: string): boolean {
-  const text = cleanText(value);
-  if (!text) return false;
+function parseBlockFromContent(content: string, labels: string[]): string {
+  const source = cleanText(content);
+  if (!source) return "";
 
-  const markers = ["HEADLINE", "SNAPSHOT", "KEY DATA POINTS", "WHY IT MATTERS", "STORY ANGLES"];
-  const count = markers.filter((m) => text.toUpperCase().includes(m)).length;
+  const escapedLabels = labels.map((label) => label.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"));
+  const allLabels = [
+    "HEADLINE",
+    "SNAPSHOT",
+    "KEY STORYLINES",
+    "KEY DATA POINTS",
+    "WHY IT MATTERS",
+    "STORY ANGLES",
+    "WATCH LIST",
+    "FINAL SCORES",
+    "RECENT FINAL SCORES",
+    "YESTERDAY FINAL SCORES",
+    "TODAY FINAL SCORES",
+    "TODAY RESULTS",
+    "YESTERDAY RESULTS",
+    "YESTERDAY PLAYOFF RESULTS",
+    "TODAY PLAYOFF RESULTS",
+    "PLAYOFF RESULTS",
+    "LIVE",
+    "LIVE GAMES",
+    "TODAY LIVE",
+    "UPCOMING",
+    "UPCOMING GAMES",
+    "TODAY SCHEDULE",
+    "TODAY PLAYOFF SCHEDULE",
+    "PLAYOFF SCHEDULE",
+    "DRAFT CALENDAR",
+    "HISTORICAL CONTEXT",
+    "STATCAST SNAPSHOT",
+    "OUTLOOK",
+    "CURRENT DATA AND ANALYTICS",
+    "TOP 10 DRAFT ORDER",
+    "FULL ROUND 1 ORDER",
+    "DAY 2 OPENING BOARD",
+    "TEAM CAPITAL WATCH",
+    "RANKINGS CONTEXT",
+    "PLAYER MOVES",
+    "NEWS",
+    "STATIC GRAPHIC",
+    "DISCLAIMER",
+    "UPDATED",
+  ]
+    .map((label) => label.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"))
+    .join("|");
 
-  return count >= 2 || /^[A-Z ]+PRO REPORT\s+\|\s+\d{4}-\d{2}-\d{2}/i.test(text);
+  const pattern = new RegExp(
+    `(?:^|\\n)(?:${escapedLabels.join("|")})\\n([\\s\\S]*?)(?=\\n(?:${allLabels})\\n|$)`,
+    "i"
+  );
+
+  const match = source.match(pattern);
+  return cleanText(match?.[1] || "");
 }
 
-function isGlobalBlob(value: string): boolean {
-  const text = cleanText(value);
-  if (!text) return false;
-  return GLOBAL_MULTI_LEAGUE_PREFIXES.filter((prefix) => text.includes(prefix)).length >= 3;
+function linesFromBlock(text: string): string[] {
+  const source = cleanText(text);
+  if (!source) return [];
+
+  const lines = source
+    .split("\n")
+    .map((line) => cleanText(line).replace(/^•\s*/, "").replace(/^-+\s*/, "").trim())
+    .filter(Boolean)
+    .filter(shouldKeepLine);
+
+  return dedupeAndLimit(lines, 20);
 }
 
-function chooseTopLevelText(value: unknown, maxLength = 700): string {
-  const text = cleanText(value);
-  if (!text) return "";
-  if (isBlobLike(text)) return "";
-  if (isGlobalBlob(text)) return "";
-  return compactText(text, maxLength);
-}
-
-function getBestSectionText(
-  content: string,
+function chooseBestText(
   directValues: unknown[],
-  blobLabels: string[],
+  content: string,
+  labels: string[],
   maxLength = 700
 ): string {
   for (const value of directValues) {
-    const direct = chooseTopLevelText(value, maxLength);
-    if (direct) return direct;
+    const cleaned = cleanText(value);
+    if (cleaned) return compactText(cleaned, maxLength);
   }
 
-  return extractTextFromBlob(content, blobLabels, maxLength);
+  const fallback = parseBlockFromContent(content, labels);
+  return fallback ? compactText(fallback, maxLength) : "";
 }
 
-function getBestList(
+function chooseBestList(
   directValues: unknown[],
-  blobContent: string,
-  blobLabels: string[],
+  content: string,
+  labels: string[],
   limit = 8,
   formatter?: (item: unknown) => string
 ): string[] {
-  const directItems: string[] = [];
+  const structured = getArrayFromStructuredFields(directValues, limit, formatter);
+  if (structured.length > 0) return structured;
 
-  for (const value of directValues) {
-    if (value === undefined || value === null) continue;
-
-    if (Array.isArray(value)) {
-      for (const item of value) {
-        const formatted = formatter ? formatter(item) : cleanText(item);
-        if (formatted) directItems.push(formatted);
-      }
-      continue;
-    }
-
-    if (typeof value === "string" && !isBlobLike(value)) {
-      directItems.push(...splitBlockToLines(value));
-      continue;
-    }
-
-    if (formatter && isRecord(value)) {
-      const formatted = formatter(value);
-      if (formatted) directItems.push(formatted);
-      continue;
-    }
-
-    directItems.push(...flattenStrings(value));
-  }
-
-  const cleaned = dedupeAndLimit(directItems, limit);
-  if (cleaned.length > 0) return cleaned;
-
-  return extractListFromBlob(blobContent, blobLabels, limit);
+  return dedupeAndLimit(linesFromBlock(parseBlockFromContent(content, labels)), limit);
 }
 
 function normalizeSection(sectionKey: string, rawSection: unknown): NormalizedSection {
   const section = isRecord(rawSection) ? rawSection : {};
   const advanced = isRecord(section.advanced) ? section.advanced : {};
-  const analytics = isRecord(section.analytics) ? section.analytics : {};
   const games = isRecord(section.games) ? section.games : {};
 
   const rawContent = cleanText(section.content || "");
   const title = cleanText(section.title) || formatLabel(sectionKey);
 
-  const headline = getBestSectionText(
-    rawContent,
-    [section.headline, advanced.headline, section.body],
-    ["HEADLINE"],
-    320
-  );
+  const headline =
+    chooseBestText(
+      [section.headline, advanced.headline],
+      rawContent,
+      ["HEADLINE"],
+      320
+    ) || title;
 
   const snapshot =
-    getBestSectionText(
-      rawContent,
+    chooseBestText(
       [section.snapshot, advanced.snapshot, formatSnapshot(section.snapshot)],
+      rawContent,
       ["SNAPSHOT"],
       520
     ) || headline;
 
   const body =
-    getBestSectionText(
-      rawContent,
+    chooseBestText(
       [section.body],
+      rawContent,
       ["WHY IT MATTERS", "CURRENT DATA AND ANALYTICS", "SNAPSHOT", "HEADLINE"],
       1200
     ) || snapshot || headline;
 
-  const keyDataPoints = getBestList(
-    [advanced.key_data_points, section.key_data_points, analytics.key_data_points, section.bullets],
+  const keyDataPoints = chooseBestList(
+    [advanced.key_data_points, section.key_data_points],
     rawContent,
     ["KEY DATA POINTS"],
     8
   );
 
-  const whyItMatters = getBestList(
+  const whyItMatters = chooseBestList(
     [advanced.why_it_matters, section.why_it_matters],
     rawContent,
     ["WHY IT MATTERS"],
     6
   );
 
-  const storyAngles = getBestList(
-    [advanced.story_angles, section.story_angles, section.key_storylines],
+  const storyAngles = chooseBestList(
+    [advanced.story_angles, section.story_angles],
     rawContent,
     ["STORY ANGLES", "KEY STORYLINES"],
     6
   );
 
-  const watchList = getBestList(
+  const watchList = chooseBestList(
     [advanced.watch_list, section.watch_list],
     rawContent,
     ["WATCH LIST", "TOP 10 DRAFT ORDER", "FULL ROUND 1 ORDER", "DAY 2 OPENING BOARD", "TEAM CAPITAL WATCH"],
     6
   );
 
-  let finalScores = getBestList(
-    [advanced.final_scores, games.final, section.final_scores, section.results],
+  let finalScores = chooseBestList(
+    [games.final, advanced.final_scores, section.final_scores, section.results],
     rawContent,
     [
       "FINAL SCORES",
-      "RECENT FINAL SCORES",
       "TODAY FINAL SCORES",
       "TODAY RESULTS",
-      "YESTERDAY FINAL SCORES",
-      "YESTERDAY RESULTS",
-      "TODAY PLAYOFF RESULTS",
-      "YESTERDAY PLAYOFF RESULTS",
       "PLAYOFF RESULTS",
     ],
     10,
     formatGameItem
-  );
+  ).filter((item) => !isEmptySentence(item));
 
-  let live = getBestList(
-    [advanced.live, games.live, section.live],
+  let live = chooseBestList(
+    [games.live, advanced.live, section.live],
     rawContent,
     ["LIVE", "LIVE GAMES", "TODAY LIVE"],
     10,
     formatGameItem
-  );
+  ).filter((item) => !isEmptySentence(item));
 
-  let upcoming = getBestList(
-    [advanced.upcoming, games.upcoming, section.upcoming, section.schedule, section.odds],
+  let upcoming = chooseBestList(
+    [games.upcoming, advanced.upcoming, section.upcoming, section.schedule],
     rawContent,
     ["UPCOMING", "UPCOMING GAMES", "TODAY SCHEDULE", "TODAY PLAYOFF SCHEDULE", "PLAYOFF SCHEDULE", "DRAFT CALENDAR"],
     10,
     (item) => {
-      const gameFormatted = formatGameItem(item);
-      if (gameFormatted) return gameFormatted;
-      return formatOddsItem(item);
+      const game = formatGameItem(item);
+      return game || formatOddsItem(item);
     }
-  );
+  ).filter((item) => !isEmptySentence(item));
 
-  const fantasyInsights = getBestList(
+  const fantasyInsights = chooseBestList(
     [section.fantasy_insights, section.insights],
     rawContent,
     ["NEWS", "PLAYER MOVES", "RANKINGS CONTEXT", "CURRENT DATA AND ANALYTICS"],
     8
   );
 
-  const notes = getBestList(
-    [section.notes, advanced.notes, advanced.current_data_and_analytics, section.bullets],
+  const notes = chooseBestList(
+    [advanced.current_data_and_analytics, advanced.notes, section.notes],
     rawContent,
     ["CURRENT DATA AND ANALYTICS", "NEWS", "RANKINGS CONTEXT", "PLAYER MOVES"],
     8
   );
 
-  const historicalContext = getBestSectionText(
-    rawContent,
+  const historicalContext = chooseBestText(
     [advanced.historical_context, section.historical_context],
+    rawContent,
     ["HISTORICAL CONTEXT"],
     700
   );
 
-  const statcastSnapshot = getBestSectionText(
-    rawContent,
+  const statcastSnapshot = chooseBestText(
     [advanced.statcast_snapshot, section.statcast_snapshot],
+    rawContent,
     ["STATCAST SNAPSHOT"],
     700
   );
 
-  const outlook = getBestSectionText(
-    rawContent,
+  const outlook = chooseBestText(
     [advanced.outlook, section.outlook],
+    rawContent,
     ["OUTLOOK"],
     700
   );
@@ -844,11 +724,7 @@ function buildGlobalStorylines(
   rawKeyStorylines: string[],
   normalizedSections: NormalizedSection[]
 ): string[] {
-  const direct = dedupeAndLimit(
-    rawKeyStorylines.filter((item) => !isBlobLike(item) && !isGlobalBlob(item)),
-    8
-  );
-
+  const direct = dedupeAndLimit(rawKeyStorylines, 8);
   if (direct.length > 0) return direct;
 
   return dedupeAndLimit(
@@ -870,7 +746,7 @@ function buildDeskItems(normalizedSections: NormalizedSection[]): {
     normalizedSections
       .filter((section) => section.key !== "fantasy")
       .flatMap((section) => section.finalScores)
-      .filter((item) => !/^No /i.test(item)),
+      .filter((item) => !isEmptySentence(item)),
     6
   );
 
@@ -878,14 +754,14 @@ function buildDeskItems(normalizedSections: NormalizedSection[]): {
     normalizedSections
       .filter((section) => section.key !== "fantasy")
       .flatMap((section) => section.live)
-      .filter((item) => !/^No /i.test(item)),
+      .filter((item) => !isEmptySentence(item)),
     6
   );
 
   const upcoming = dedupeAndLimit(
     normalizedSections
       .flatMap((section) => section.upcoming)
-      .filter((item) => !/^No /i.test(item)),
+      .filter((item) => !isEmptySentence(item)),
     6
   );
 
@@ -952,7 +828,7 @@ function SectionList({
   items: string[];
   limit?: number;
 }) {
-  const cleaned = dedupeAndLimit(items, limit);
+  const cleaned = dedupeAndLimit(items, limit).filter((item) => !isEmptySentence(item));
 
   if (cleaned.length === 0) return null;
 
@@ -1079,6 +955,7 @@ function AnalyticsDesk({
       (values || []).slice(0, limit).forEach((value) => {
         const cleaned = cleanText(value);
         if (!isAnalyticsSafeText(cleaned)) return;
+        if (isEmptySentence(cleaned)) return;
 
         items.push({
           title: `${formatLabel(leagueKey)} · ${label}`,
@@ -1199,7 +1076,7 @@ function SnapshotColumn({
   items: string[];
   emptyText: string;
 }) {
-  const cleaned = dedupeAndLimit(items, 4);
+  const cleaned = dedupeAndLimit(items, 4).filter((item) => !isEmptySentence(item));
 
   return (
     <div className="rounded-2xl border border-zinc-800 bg-black/40 p-4">
@@ -1243,15 +1120,18 @@ export default async function HomePage() {
 
   const title = cleanText(data.title) || "GLOBAL SPORTS REPORT";
 
-  const rawHeadline =
+  const headline =
     cleanText(data.headline) ||
     "Automated sports journalism support for the modern newsroom.";
 
-  const rawKeyStorylines = dedupeAndLimit(flattenStrings(data.key_storylines), 12);
-
-  const headline =
-    chooseTopLevelText(rawHeadline, 320) ||
-    "Automated sports journalism support for the modern newsroom.";
+  const rawKeyStorylines = dedupeAndLimit(
+    Array.isArray(data.key_storylines)
+      ? data.key_storylines.map((item) => cleanText(item)).filter(Boolean)
+      : cleanText(data.key_storylines)
+        ? [cleanText(data.key_storylines)]
+        : [],
+    12
+  );
 
   const body = buildEditorialNote(
     normalizedPrimarySections.map((item) => item.normalized)
@@ -1281,7 +1161,7 @@ export default async function HomePage() {
     "https://globalsportsreport.substack.com/";
 
   const xHandle =
-    cleanText(data.x_handle || data.meta?.x_handle) || "@GlobalSportsRp";
+    cleanText(data.x_handle || data.meta?.x_handle) || "@GlobalSportsRep";
   const xUrl = `https://x.com/${xHandle.replace("@", "")}`;
 
   const globalReport = cleanText(data.global_report);
