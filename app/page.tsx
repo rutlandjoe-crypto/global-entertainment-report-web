@@ -6,29 +6,38 @@ export const dynamic = "force-dynamic";
 export const revalidate = 0;
 
 type JsonPrimitive = string | number | boolean | null;
-type JsonValue = JsonPrimitive | JsonValue[] | { [key: string]: JsonValue };
+type JsonValue = JsonPrimitive | JsonValue[] | JsonObject;
+type JsonObject = { [key: string]: JsonValue | undefined };
 
-type ReportSection = {
+type GamesData = {
+  live?: string[];
+  upcoming?: string[];
+  final?: string[];
+};
+
+type ReportSection = JsonObject & {
   name?: string;
+  key?: string;
+  label?: string;
   title?: string;
   headline?: string;
   snapshot?: string | string[];
   key_storylines?: string[];
-  content?: string;
+  key_data_points?: string[];
+  why_it_matters?: string[];
+  story_angles?: string[];
+  final_scores?: string[];
+  live?: string[];
+  upcoming?: string[];
   source_file?: string;
   updated_at?: string;
-  games?: {
-    live?: string[];
-    upcoming?: string[];
-    final?: string[];
-    [key: string]: JsonValue | undefined;
-  };
-  structured_sections?: Record<string, JsonValue>;
-  advanced?: Record<string, JsonValue>;
-  [key: string]: JsonValue | undefined;
+  content?: JsonValue;
+  structured_sections?: JsonObject;
+  advanced?: JsonObject;
+  games?: GamesData;
 };
 
-type RootReport = {
+type RootReport = JsonObject & {
   title?: string;
   headline?: string;
   key_storylines?: string[];
@@ -46,11 +55,6 @@ type RootReport = {
   telegram_handle?: string;
   sections?: ReportSection[];
   sections_map?: Record<string, ReportSection>;
-  [key: string]:
-    | JsonValue
-    | ReportSection[]
-    | Record<string, ReportSection>
-    | undefined;
 };
 
 const VIDEO_URL = "https://www.youtube.com/embed/PMDQ82w1pAE";
@@ -119,6 +123,10 @@ const COMPACT_KEYS = new Set([
 
 function isObject(value: unknown): value is Record<string, unknown> {
   return typeof value === "object" && value !== null && !Array.isArray(value);
+}
+
+function isJsonObject(value: unknown): value is JsonObject {
+  return isObject(value);
 }
 
 function isReportSection(value: unknown): value is ReportSection {
@@ -269,13 +277,14 @@ function arrayifyStrings(value: unknown): string[] {
 }
 
 function normalizeSectionName(section: ReportSection): string {
-  return pickFirstString(section.name, section.title).toUpperCase();
+  return pickFirstString(section.name, section.key, section.label, section.title).toUpperCase();
 }
 
 function getSections(data: RootReport): ReportSection[] {
   const fromSections = Array.isArray(data.sections)
     ? data.sections.filter(isReportSection)
     : [];
+
   const fromMap = isObject(data.sections_map)
     ? Object.values(data.sections_map).filter(isReportSection)
     : [];
@@ -307,7 +316,7 @@ function getSections(data: RootReport): ReportSection[] {
 }
 
 function getSectionDisplayName(section: ReportSection): string {
-  const raw = pickFirstString(section.name);
+  const raw = pickFirstString(section.name, section.key, section.label, section.title);
   return raw ? formatLabel(raw) : "Section";
 }
 
@@ -325,7 +334,8 @@ function getRootStatCards(
   const generatedAt = pickFirstString(
     data.generated_at,
     data.updated_at,
-    data.published_at
+    data.published_at,
+    data.generated_date
   );
   if (generatedAt) cards.push({ label: "Updated", value: generatedAt });
 
@@ -766,7 +776,7 @@ function SectionShell({
   );
 }
 
-function AdvancedSection({ advanced }: { advanced: Record<string, JsonValue> }) {
+function AdvancedSection({ advanced }: { advanced: JsonObject }) {
   const entries = Object.entries(advanced).filter(
     ([key, value]) => key !== "title" && flattenToText(value).trim().length > 0
   );
@@ -820,12 +830,12 @@ function PlatformButtons({ data }: { data: RootReport }) {
 }
 
 function hasRenderableBody(section: ReportSection): boolean {
-  const games = isObject(section.games) ? section.games : undefined;
-  const structuredSections = isObject(section.structured_sections)
-    ? (section.structured_sections as Record<string, JsonValue>)
+  const games = isJsonObject(section.games) ? (section.games as GamesData) : undefined;
+  const structuredSections = isJsonObject(section.structured_sections)
+    ? section.structured_sections
     : undefined;
-  const advanced = isObject(section.advanced)
-    ? (section.advanced as Record<string, JsonValue>)
+  const advanced = isJsonObject(section.advanced)
+    ? section.advanced
     : undefined;
 
   const visibleStructuredEntries = structuredSections
@@ -859,12 +869,12 @@ function SportSectionCard({ section }: { section: ReportSection }) {
   const snapshot = section.snapshot;
   const keyStorylines = arrayifyStrings(section.key_storylines);
   const updatedAt = pickFirstString(section.updated_at);
-  const games = isObject(section.games) ? section.games : undefined;
-  const structuredSections = isObject(section.structured_sections)
-    ? (section.structured_sections as Record<string, JsonValue>)
+  const games = isJsonObject(section.games) ? (section.games as GamesData) : undefined;
+  const structuredSections = isJsonObject(section.structured_sections)
+    ? section.structured_sections
     : undefined;
-  const advanced = isObject(section.advanced)
-    ? (section.advanced as Record<string, JsonValue>)
+  const advanced = isJsonObject(section.advanced)
+    ? section.advanced
     : undefined;
 
   const visibleStructuredEntries = structuredSections
@@ -1120,7 +1130,7 @@ export default function Page() {
         <div className="mt-5 space-y-4">
           {renderableSections.map((section, index) => (
             <SportSectionCard
-              key={`${pickFirstString(section.name, section.title)}-${index}`}
+              key={`${pickFirstString(section.name, section.title, section.key, section.label)}-${index}`}
               section={section}
             />
           ))}
