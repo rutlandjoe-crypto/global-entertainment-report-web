@@ -378,10 +378,6 @@ def get_file_timestamp(path: Path) -> str | None:
         return None
 
 
-def section_lines(text: str) -> list[str]:
-    return [line.strip() for line in normalize_newlines(text).splitlines() if line.strip()]
-
-
 def shorten(text: str, max_len: int) -> str:
     text = re.sub(r"\s+", " ", text).strip()
     if len(text) <= max_len:
@@ -556,6 +552,9 @@ def render_block(header: str, value: Any) -> list[str]:
 
 
 def normalize_structured_snapshot(value: Any) -> str:
+    if isinstance(value, list):
+        items = normalize_bullets(listify(value))
+        return "\n".join(items).strip()
     return normalize_line_spacing(stringify_fragment(value))
 
 
@@ -668,8 +667,18 @@ def build_games_from_structured(key: str, sections: dict[str, Any]) -> dict[str,
             for league_name, payload in leagues.items():
                 if not isinstance(payload, dict):
                     continue
-                live.extend(prefix_lines(str(league_name), listify(payload.get("live_now")) or listify(payload.get("today_live"))))
-                upcoming.extend(prefix_lines(str(league_name), listify(payload.get("upcoming")) or listify(payload.get("today_schedule"))))
+                live.extend(
+                    prefix_lines(
+                        str(league_name),
+                        listify(payload.get("live_now")) or listify(payload.get("today_live")),
+                    )
+                )
+                upcoming.extend(
+                    prefix_lines(
+                        str(league_name),
+                        listify(payload.get("upcoming")) or listify(payload.get("today_schedule")),
+                    )
+                )
                 final.extend(prefix_lines(str(league_name), listify(payload.get("today_results"))))
                 final.extend(prefix_lines(str(league_name), listify(payload.get("yesterday_results"))))
 
@@ -696,6 +705,7 @@ def build_games_from_structured(key: str, sections: dict[str, Any]) -> dict[str,
         or listify(sections.get("recent_final_scores"))
         or listify(sections.get("yesterday_results"))
     )
+
     return {k: normalize_bullets(v) for k, v in games.items()}
 
 
@@ -775,8 +785,14 @@ def build_structured_content(key: str, title: str, sections: dict[str, Any]) -> 
                 league_parts: list[str] = [league_header]
 
                 yr = render_block("YESTERDAY RESULTS", payload.get("yesterday_results"))
-                ln = render_block("LIVE NOW", payload.get("live_now") if payload.get("live_now") is not None else payload.get("today_live"))
-                up = render_block("UPCOMING", payload.get("upcoming") if payload.get("upcoming") is not None else payload.get("today_schedule"))
+                ln = render_block(
+                    "LIVE NOW",
+                    payload.get("live_now") if payload.get("live_now") is not None else payload.get("today_live"),
+                )
+                up = render_block(
+                    "UPCOMING",
+                    payload.get("upcoming") if payload.get("upcoming") is not None else payload.get("today_schedule"),
+                )
                 tr = render_block("TODAY RESULTS", payload.get("today_results"))
 
                 for block in (yr, ln, up, tr):
@@ -849,6 +865,9 @@ def parse_report_file_from_text(key: str, path: Path) -> SectionReport | None:
     headline = extract_headline(content)
     snapshot = extract_snapshot(content)
     key_storylines = extract_key_storylines(content)
+
+    if not content.strip():
+        content = text
 
     return SectionReport(
         key=key,
@@ -1103,7 +1122,7 @@ def section_to_payload(
         "updated_at": report.updated_at or timestamp_string(),
     }
 
-    if report.games:
+    if report.games and any(report.games.values()):
         payload["games"] = report.games
 
     if report.structured_sections:
@@ -1132,24 +1151,28 @@ def extract_json_payload(
 
     sections_array: list[dict[str, Any]] = []
     sections_map: dict[str, dict[str, Any]] = {}
-    reverse_lookup = {v: k for k, v in ADVANCED_TO_BASE.items()}
+
+    base_to_advanced = {v: k for k, v in ADVANCED_TO_BASE.items()}
 
     for key in SECTION_ORDER:
-        if key not in reports or is_advanced_key(key):
+        if key not in reports:
+            continue
+        if is_advanced_key(key):
             continue
 
         report = reports[key]
         advanced_report = None
 
-        if key in reverse_lookup:
-            advanced_key = reverse_lookup[key]
-            advanced_report = reports.get(advanced_key)
+        advanced_key = base_to_advanced.get(key)
+        if advanced_key and advanced_key in reports:
+            advanced_report = reports[advanced_key]
 
         section_payload = section_to_payload(report, advanced_report=advanced_report)
-        sections_array.append(section_payload)
 
         normalized_key = SECTION_KEY_NORMALIZATION.get(key, key.lower())
         section_payload["name"] = report.name
+
+        sections_array.append(section_payload)
         sections_map[normalized_key] = section_payload
 
     payload = {
@@ -1166,7 +1189,11 @@ def extract_json_payload(
         "substack_url": SUBSTACK_URL,
         "sections": sections_array,
         "sections_map": sections_map,
-        "section_order": [SECTION_KEY_NORMALIZATION.get(key, key.lower()) for key in SECTION_ORDER if key in reports and not is_advanced_key(key)],
+        "section_order": [
+            SECTION_KEY_NORMALIZATION.get(key, key.lower())
+            for key in SECTION_ORDER
+            if key in reports and not is_advanced_key(key)
+        ],
         "full_text": normalize_line_spacing(global_report),
         "full_report": normalize_line_spacing(global_report),
     }
@@ -1273,11 +1300,20 @@ def push_website_repo() -> bool:
             return True
 
         commit_message = f"Auto update GSR {now_et().strftime('%Y-%m-%d %I:%M %p ET')}"
-        commit = run_subprocess(["git", "commit", "-m", commit_message], cwd=WEBSITE_REPO_DIR, check=False)
+        commit = run_subprocess(
+            ["git", "commit", "-m", commit_message],
+            cwd=WEBSITE_REPO_DIR,
+            check=False,
+        )
 
         combined_commit = ((commit.stdout or "") + "\n" + (commit.stderr or "")).strip().lower()
         if commit.returncode != 0 and "nothing to commit" not in combined_commit:
-            raise subprocess.CalledProcessError(commit.returncode, commit.args, output=commit.stdout, stderr=commit.stderr)
+            raise subprocess.CalledProcessError(
+                commit.returncode,
+                commit.args,
+                output=commit.stdout,
+                stderr=commit.stderr,
+            )
 
         if commit.returncode == 0:
             log(f"Git commit completed: {commit_message}")
@@ -1504,6 +1540,9 @@ def main() -> int:
     global_report = safe_read_text(GLOBAL_REPORT_FILE)
 
     if not global_report:
+        global_report = build_global_text(reports)
+
+    if not global_report:
         message = f"Missing or empty global report: {GLOBAL_REPORT_FILE.name}"
         CRITICAL_ERRORS.append(message)
         log(f"ERROR: {message}")
@@ -1517,12 +1556,14 @@ def main() -> int:
         print_distribution_summary()
         return 1
 
+    latest_report_json = extract_json_payload(global_report, reports)
+    global_report = build_global_text(reports)
+
     substack_post = build_substack_post(global_report)
     substack_html = build_substack_html(global_report)
     twitter_thread = build_twitter_thread(global_report)
     telegram_post = build_telegram_post(global_report)
     latest_report_txt = normalize_line_spacing(strip_generated_lines(global_report))
-    latest_report_json = extract_json_payload(global_report, reports)
 
     backup_previous_json()
 
