@@ -2,7 +2,7 @@ import fs from "fs";
 import path from "path";
 
 type Primitive = string | number | boolean | null | undefined;
-type JsonValue = Primitive | JsonObject | JsonValue[];
+type JsonValue = Primitive | JsonObject | JsonValue[] | Record<string, unknown>;
 type JsonObject = { [key: string]: JsonValue };
 
 const VIDEO_URL =
@@ -35,7 +35,12 @@ const PRIMARY_LABELS: Record<PrimaryKey, string> = {
   betting_odds: "BETTING ODDS",
 };
 
-const HIDDEN_FIELDS = new Set(["source_file", "disclaimer"]);
+const HIDDEN_FIELDS = new Set([
+  "source_file",
+  "disclaimer",
+  "full_text",
+  "full_report",
+]);
 
 const RESERVED_TOP_LEVEL_KEYS = new Set([
   "title",
@@ -53,6 +58,8 @@ const RESERVED_TOP_LEVEL_KEYS = new Set([
   "full_text",
   "full_report",
   "updated_at",
+  "published_at",
+  "generated",
   "name",
 ]);
 
@@ -131,9 +138,12 @@ function normalizeSectionKey(value: string): string {
 
   const aliasMap: Record<string, string> = {
     mlb: "mlb",
+    mlb_advanced: "mlb_advanced",
     nba: "nba",
+    nba_advanced: "nba_advanced",
     nhl: "nhl",
     nfl: "nfl",
+    nfl_advanced: "nfl_advanced",
     nfl_draft: "nfl_draft",
     nfl_draft_signals: "nfl_draft",
     draft_signals: "nfl_draft",
@@ -144,6 +154,8 @@ function normalizeSectionKey(value: string): string {
     betting: "betting_odds",
     betting_odds: "betting_odds",
     betting_odds_report: "betting_odds",
+    betting_odds_reports: "betting_odds",
+    bettingodds: "betting_odds",
   };
 
   return aliasMap[normalized] || normalized;
@@ -163,17 +175,30 @@ function isNoiseLine(line: string): boolean {
 }
 
 function cleanTextBlock(text: string): string {
-  const lines = text
+  const normalized = text
+    .replace(/\r\n/g, "\n")
+    .replace(/\r/g, "\n")
+    .replace(/â€™/g, "’")
+    .replace(/â€˜/g, "‘")
+    .replace(/â€œ/g, '"')
+    .replace(/â€\x9d/g, '"')
+    .replace(/â€”/g, "—")
+    .replace(/â€“/g, "–")
+    .replace(/â€¦/g, "…")
+    .replace(/Â/g, "")
+    .replace(/Ã©/g, "é")
+    .replace(/Ã¡/g, "á")
+    .replace(/Ã³/g, "ó")
+    .replace(/Ã±/g, "ñ")
+    .replace(/Ã¼/g, "ü")
+    .replace(/�/g, "");
+
+  const lines = normalized
     .split("\n")
     .map((line) => line.trimEnd())
     .filter((line) => !isNoiseLine(line));
 
   const cleaned = lines.join("\n").replace(/\n{3,}/g, "\n\n").trim();
-
-  if (!cleaned) {
-    return "";
-  }
-
   return cleaned;
 }
 
@@ -183,6 +208,7 @@ function splitLines(text: string): string[] {
     .map((line) => line.trim())
     .filter(Boolean);
 }
+
 function normalizeArray(value: unknown): string[] {
   if (!Array.isArray(value)) return [];
 
@@ -225,14 +251,20 @@ function formatSectionText(value: unknown): string {
     return Object.entries(value)
       .filter(([k]) => !HIDDEN_FIELDS.has(k))
       .map(([k, v]) => {
-        if (typeof v === "string" || typeof v === "number" || typeof v === "boolean") {
+        if (
+          typeof v === "string" ||
+          typeof v === "number" ||
+          typeof v === "boolean"
+        ) {
           const text = toDisplayText(v);
           return text ? `${cleanLabel(k)}: ${text}` : "";
         }
 
         if (Array.isArray(v)) {
           const arr = normalizeArray(v);
-          return arr.length ? `${cleanLabel(k)}:\n${arr.map((x) => `- ${x}`).join("\n")}` : "";
+          return arr.length
+            ? `${cleanLabel(k)}:\n${arr.map((x) => `- ${x}`).join("\n")}`
+            : "";
         }
 
         return "";
@@ -260,29 +292,26 @@ function extractListItems(value: unknown): string[] {
 
 function renderTextBlock(text: string) {
   const lines = splitLines(text);
+  const bullets = lines.filter((line) => /^[-•*]\s*/.test(line));
+  const paragraphs = lines.filter((line) => !/^[-•*]\s*/.test(line));
 
   return (
-    <div className="space-y-2">
-      {lines.map((line, idx) => {
-        const cleaned = line.replace(/^[-•*]\s*/, "").trim();
-        const isBullet = /^[-•*]\s*/.test(line);
+    <div className="space-y-3">
+      {paragraphs.map((line, idx) => (
+        <p key={`p-${idx}`} className="text-sm leading-6 text-zinc-300">
+          {line}
+        </p>
+      ))}
 
-        if (!cleaned || isNoiseLine(cleaned)) return null;
-
-        if (isBullet) {
-          return (
-            <li key={idx} className="ml-5 list-disc text-sm leading-6 text-zinc-300">
-              {cleaned}
+      {bullets.length ? (
+        <ul className="space-y-2">
+          {bullets.map((line, idx) => (
+            <li key={`b-${idx}`} className="ml-5 list-disc text-sm leading-6 text-zinc-300">
+              {line.replace(/^[-•*]\s*/, "").trim()}
             </li>
-          );
-        }
-
-        return (
-          <p key={idx} className="text-sm leading-6 text-zinc-300">
-            {line}
-          </p>
-        );
-      })}
+          ))}
+        </ul>
+      ) : null}
     </div>
   );
 }
@@ -337,7 +366,8 @@ function renderValue(value: unknown) {
       if (v === null || v === undefined) return false;
       if (typeof v === "string") return cleanTextBlock(v).trim().length > 0;
       if (Array.isArray(v)) return normalizeArray(v).length > 0;
-      if (isRecord(v)) return Object.keys(v).some((k) => !HIDDEN_FIELDS.has(k));
+      if (isRecord(v))
+        return Object.keys(v).some((k) => !HIDDEN_FIELDS.has(k));
       return true;
     });
 
@@ -379,12 +409,34 @@ function getSectionsFromArray(data: JsonObject): SectionEntry[] {
 
       const key = normalizeSectionKey(rawName);
       const label =
-        PRIMARY_LABELS[key as PrimaryKey] || cleanLabel(toDisplayText(item.name) || key);
+        PRIMARY_LABELS[key as PrimaryKey] || cleanLabel(toDisplayText(item.name) || rawName);
 
       return {
         key,
         label,
         value: item,
+      };
+    })
+    .filter(Boolean) as SectionEntry[];
+}
+
+function getSectionsFromSectionsObject(data: JsonObject): SectionEntry[] {
+  const rawSections = data.sections;
+  if (!isRecord(rawSections)) return [];
+
+  return Object.entries(rawSections)
+    .map(([sectionKey, value]) => {
+      if (!isRecord(value)) return null;
+
+      const normalizedKey = normalizeSectionKey(sectionKey);
+      const rawName =
+        toDisplayText(value.name) || toDisplayText(value.title) || sectionKey;
+
+      return {
+        key: normalizedKey,
+        label:
+          PRIMARY_LABELS[normalizedKey as PrimaryKey] || cleanLabel(rawName),
+        value,
       };
     })
     .filter(Boolean) as SectionEntry[];
@@ -427,7 +479,8 @@ function getSectionsFromLegacyTopLevel(data: JsonObject): SectionEntry[] {
 
       return {
         key: normalizedKey,
-        label: PRIMARY_LABELS[normalizedKey as PrimaryKey] || cleanLabel(rawName),
+        label:
+          PRIMARY_LABELS[normalizedKey as PrimaryKey] || cleanLabel(rawName),
         value: value as Record<string, unknown>,
       };
     });
@@ -436,6 +489,7 @@ function getSectionsFromLegacyTopLevel(data: JsonObject): SectionEntry[] {
 function getAllSections(data: JsonObject): SectionEntry[] {
   const candidates = [
     ...getSectionsFromArray(data),
+    ...getSectionsFromSectionsObject(data),
     ...getSectionsFromMap(data),
     ...getSectionsFromLegacyTopLevel(data),
   ];
@@ -478,10 +532,17 @@ function getAllSections(data: JsonObject): SectionEntry[] {
 
 function getPrimaryCards(data: JsonObject) {
   const sections = getAllSections(data);
-
-  return sections.filter((section) =>
+  const primary = sections.filter((section) =>
     PRIMARY_ORDER.includes(section.key as PrimaryKey)
   ) as { key: PrimaryKey; label: string; value: Record<string, unknown> }[];
+
+  if (primary.length) return primary;
+
+  return sections.slice(0, 9) as {
+    key: PrimaryKey;
+    label: string;
+    value: Record<string, unknown>;
+  }[];
 }
 
 function getExtraSections(data: JsonObject) {
@@ -506,7 +567,7 @@ function SummaryCard({
       <div className="mb-2 text-[11px] font-semibold uppercase tracking-[0.22em] text-zinc-500">
         {title}
       </div>
-      <div className="text-sm leading-6 text-zinc-200 whitespace-pre-line">{value}</div>
+      <div className="whitespace-pre-line text-sm leading-6 text-zinc-200">{value}</div>
     </div>
   );
 }
@@ -534,10 +595,13 @@ function LeagueCard({
     "final_scores",
     "today_final_scores",
     "yesterday_final_scores",
+    "yesterday_playoff_results",
     "live",
     "today_live",
+    "live_now",
     "upcoming",
     "today_schedule",
+    "today_playoff_schedule",
     "upcoming_games",
     "analytics",
     "fantasy_spotlight",
@@ -573,7 +637,8 @@ function LeagueCard({
     if (value === null || value === undefined) return false;
     if (typeof value === "string") return cleanTextBlock(value).trim().length > 0;
     if (Array.isArray(value)) return normalizeArray(value).length > 0;
-    if (isRecord(value)) return Object.keys(value).some((k) => !HIDDEN_FIELDS.has(k));
+    if (isRecord(value))
+      return Object.keys(value).some((k) => !HIDDEN_FIELDS.has(k));
     return true;
   });
 
@@ -601,11 +666,14 @@ function LeagueCard({
               !Object.entries(value).some(([childKey, childVal]) => {
                 if (HIDDEN_FIELDS.has(childKey)) return false;
                 if (childVal === null || childVal === undefined) return false;
-                if (typeof childVal === "string") return cleanTextBlock(childVal).trim().length > 0;
-                if (Array.isArray(childVal)) return normalizeArray(childVal).length > 0;
-                if (isRecord(childVal)) return Object.keys(childVal).some(
-                  (nestedKey) => !HIDDEN_FIELDS.has(nestedKey)
-                );
+                if (typeof childVal === "string")
+                  return cleanTextBlock(childVal).trim().length > 0;
+                if (Array.isArray(childVal))
+                  return normalizeArray(childVal).length > 0;
+                if (isRecord(childVal))
+                  return Object.keys(childVal).some(
+                    (nestedKey) => !HIDDEN_FIELDS.has(nestedKey)
+                  );
                 return true;
               }))
           ) {
@@ -757,9 +825,9 @@ export default function Page() {
               </h2>
             </div>
 
-            <div className="grid gap-5 xl:grid-cols-2">
-              {primaryCards.map((card) => (
-                <LeagueCard key={card.key} title={card.label} section={card.value} />
+            <div className="grid gap-5 lg:grid-cols-2">
+              {primaryCards.map((card, idx) => (
+                <LeagueCard key={`${card.key}-${idx}`} title={card.label} section={card.value} />
               ))}
             </div>
           </section>
@@ -773,9 +841,13 @@ export default function Page() {
               </h2>
             </div>
 
-            <div className="grid gap-5 xl:grid-cols-2">
-              {extraSections.map((section) => (
-                <LeagueCard key={section.key} title={section.label} section={section.value} />
+            <div className="grid gap-5 lg:grid-cols-2">
+              {extraSections.map((section, idx) => (
+                <LeagueCard
+                  key={`${section.key}-${idx}`}
+                  title={section.label}
+                  section={section.value}
+                />
               ))}
             </div>
           </section>
