@@ -7,7 +7,7 @@ Major League Baseball's board is active, with live game movement, developing lev
 KEY STORYLINES
 
 - The MLB report window shows 25 total games across completed results and today's active board.
-- 12 games are already final in the current reporting window.
+- 13 games are already final in the current reporting window.
 - The report window includes 0 completed games from yesterday and 2 games on today's board.
 - 2 games remain ahead on today's schedule, keeping matchup framing and team context in play.
 - The NBA advanced layer reviewed 4 game(s) against current season team-level efficiency data.
@@ -22,12 +22,12 @@ HEADLINE
 Major League Baseball's board is active, with live game movement, developing leverage spots, and remaining schedule context all in play.
 
 SNAPSHOT
-The MLB report window currently shows 12 final games, 3 live games, and 10 upcoming games.
+The MLB report window currently shows 13 final games, 3 live games, and 9 upcoming games.
 
 KEY DATA POINTS
 - The MLB report window shows 25 total games across completed results and today's active board.
-- 12 games are already final in the current reporting window.
-- 10 games are still ahead on today's schedule, keeping the focus on pregame matchup context.
+- 13 games are already final in the current reporting window.
+- 9 games are still ahead on today's schedule, keeping the focus on pregame matchup context.
 - 15 games currently list probable starters on both sides.
 - The slate is split across 6 afternoon starts and 9 evening starts, giving the board coverage value across multiple windows.
 - 3 games are already live, shifting attention toward leverage spots, bullpen usage, and in-game momentum.
@@ -55,12 +55,11 @@ STATIC GRAPHIC
 C:\Users\joeru\OneDrive\Desktop\sports_bot-ai\mlb_statcast_snapshot.svg
 
 LIVE GAMES
-- Houston Astros 2, Cleveland Guardians 0 (In Progress)
-- Baltimore Orioles 5, Kansas City Royals 3 (In Progress)
-- Toronto Blue Jays 0, Los Angeles Angels 0 (In Progress)
+- Baltimore Orioles 8, Kansas City Royals 4 (In Progress)
+- Toronto Blue Jays 0, Los Angeles Angels 1 (In Progress)
+- Athletics 0, Seattle Mariners 0 (Warmup)
 
 UPCOMING GAMES
-- Athletics at Seattle Mariners — 4:10 PM ET | Probables: Aaron Civale vs. Logan Gilbert
 - Milwaukee Brewers at Detroit Tigers — 6:40 PM ET | Probables: DL Hall vs. Casey Mize
 - Atlanta Braves at Washington Nationals — 6:45 PM ET | Probables: Didier Fuentes vs. Zack Littell
 - New York Yankees at Boston Red Sox — 6:45 PM ET | Probables: Max Fried vs. Ranger Suarez
@@ -68,6 +67,7 @@ UPCOMING GAMES
 - Philadelphia Phillies at Chicago Cubs — 7:40 PM ET | Probables: Kyle Backhus vs. Matthew Boyd
 - Pittsburgh Pirates at Texas Rangers — 8:05 PM ET | Probables: Braxton Ashcraft vs. Jack Leiter
 - San Diego Padres at Colorado Rockies — 8:40 PM ET | Probables: Walker Buehler vs. Tomoyuki Sugano
+- Chicago White Sox at Arizona Diamondbacks — 9:40 PM ET | Probables: Anthony Kay vs. Eduardo Rodriguez
 
 FINAL SCORES
 - Houston Astros 5, Cleveland Guardians 8 (Final)
@@ -298,7 +298,7 @@ KEY DATA POINTS
 - ACC: 12 teams tracked, 0 with record context, 0 with identified head coach context, and 0 with key-player context.
 - Big Ten: 12 teams tracked, 0 with record context, 0 with identified head coach context, and 0 with key-player context.
 - Big 12: 12 teams tracked, 0 with record context, 0 with identified head coach context, and 0 with key-player context.
-- News note: Arkansas' offseason antics influenced by hypnotist's team visit - The Razorbacks share the lessons behind the laughs after participating in a session with growth mindset expert and celebrity hypnotist Ricky Kalmon.
+- News note: ESPN's NFL Draft analyst Matt Miller teases his final mock selections - Miller allows the SEC Now crew some sneak peaks into the thought process behind his last mock draft ahead of the official 2026 NFL Draft selections.
 
 WHY IT MATTERS
 - Conference-wide reporting matters more in college football because team identity is shaped not only by last season's record, but also by coaching continuity, roster turnover, and league structure.
@@ -309,6 +309,8 @@ STORY ANGLES
 - The clearest national story line still runs through how the SEC, Big Ten, Big 12, and ACC stack up against the rest of the FBS structure in depth, continuity, and preseason profile.
 
 NEWS
+- ESPN's NFL Draft analyst Matt Miller teases his final mock selections - Miller allows the SEC Now crew some sneak peaks into the thought process behind his last mock draft ahead of the official 2026 NFL Draft selections.
+- How will Lane Kiffin handle pressure of pass-or-fail season at LSU? - The SEC Now crew describes how far the Tigers must go in Kiffin's debut season in order for it to be considered a success with harsh critics at the ready.
 - Arkansas' offseason antics influenced by hypnotist's team visit - The Razorbacks share the lessons behind the laughs after participating in a session with growth mindset expert and celebrity hypnotist Ricky Kalmon.
 - Jordan Reid's top SEC DB prospects, favorite late-round pick in NFL Draft - Ahead of the 2026 NFL Draft, ESPN's Reid lists the SEC's top defensive back prospects likely to go in the first round and reveals which player he believes could be a late-round steal.
 - How will McCoy, Nussmeier's medical concerns impact NFL Draft stock? - ESPN's NFL Draft analyst Field Yates provides insight on Jermod McCoy and Garrett Nussmeier's health statuses as he explains how these challenges may impact where they land in the NFL Draft.
@@ -317,36 +319,34 @@ NEWS
 - De'Zhaun Stribling NFL draft profile - Check out some of the top highlights from Ole Miss' De'Zhaun Stribling
 - How every 2027 five-star college football prospect will fit - There are 21 five-star players in the class and we scout each one's game for the next level.
 - College football top 25: Biggest strength, weakness for every team - We look at where we expect the best teams to excel and where they have potential trouble spots.
-- 2026 NFL mock drafts: Latest ESPN player, team predictions - Here are our experts' NFL mock drafts for the 2026 cycle, including projected landing spots for all the top quarterbacks.
-- 2026 NFL draft buzz: Intel on top picks, potential trades - Where are the Jets, Cardinals, Titans and Giants leaning with top-five picks? Will the Rams be a wild card? And who could be in play for the Browns?
 
 SOCCER
 
 HEADLINE
-Soccer's report window is active across Europe and the United States, with 4 live matches, 14 upcoming fixtures, and 0 finals from yesterday helping frame the board.
+Soccer's report window is active across Europe and the United States, with 3 live matches, 14 upcoming fixtures, and 0 finals from yesterday helping frame the board.
 
 SNAPSHOT
 - Premier League: 0 finals from yesterday, 2 live today, 0 upcoming today, and 0 finals already posted today.
 - Bundesliga: 0 finals from yesterday, 0 live today, 1 upcoming today, and 0 finals already posted today.
-- La Liga: 0 finals from yesterday, 2 live today, 0 upcoming today, and 1 finals already posted today.
+- La Liga: 0 finals from yesterday, 1 live today, 0 upcoming today, and 2 finals already posted today.
 - MLS: 0 finals from yesterday, 0 live today, 11 upcoming today, and 0 finals already posted today.
 - USL Championship: 0 finals from yesterday, 0 live today, 2 upcoming today, and 0 finals already posted today.
 
 KEY STORYLINES
-- The cross-league board currently shows 0 finals from yesterday, 4 live matches, and 14 upcoming fixtures.
+- The cross-league board currently shows 0 finals from yesterday, 3 live matches, and 14 upcoming fixtures.
 - Bundesliga: 1. FC Union Berlin at RB Leipzig stands out as one of the stronger upcoming fixtures by current table profile.
 - The clearest soccer reporting value in this window comes from connecting yesterday's results to today's schedule, especially when title, European, playoff, or positioning pressure sharpens the next fixture.
 - American soccer remains useful in the same report view because MLS and USL can add same-day recap and preview value alongside Europe's top leagues.
 
 KEY DATA POINTS
-- Across the tracked leagues, the report currently captures 0 yesterday finals, 4 live matches, 14 upcoming fixtures, and 1 finals already logged today.
+- Across the tracked leagues, the report currently captures 0 yesterday finals, 3 live matches, 14 upcoming fixtures, and 2 finals already logged today.
 - MLS carries the heaviest upcoming schedule load in this report window with 11 matches still ahead.
 
 PREMIER LEAGUE
 
 LIVE NOW
-- Leeds United 0, AFC Bournemouth 0 - 43'.
-- Manchester City 1, Burnley 0 - 43'.
+- Leeds United 0, AFC Bournemouth 0 - HT.
+- Manchester City 1, Burnley 0 - HT.
 
 BUNDESLIGA
 
@@ -356,11 +356,11 @@ UPCOMING
 LA LIGA
 
 LIVE NOW
-- Getafe 1, Real Sociedad 0 - 80'.
-- Celta Vigo 0, Barcelona 0 - 8'.
+Celta Vigo 0, Barcelona 0 - 27'.
 
 TODAY RESULTS
-Elche 3, Atlético Madrid 2.
+- Elche 3, Atlético Madrid 2.
+- Real Sociedad 0, Getafe 1.
 
 MLS
 
@@ -423,14 +423,14 @@ TOP BOARD
 Orlando Magic at Detroit Pistons - 7:10 PM ET
 Sportsbooks: Draft Kings, Bet MGM, Fan Duel, Caesars, Bet Rivers
 Best away moneyline: Orlando Magic +320 at Caesars
-Best home moneyline: Detroit Pistons -375 at Fan Duel
+Best home moneyline: Detroit Pistons -360 at Draft Kings
 Representative spread: Orlando Magic 8.5 / Detroit Pistons -8.5 (Draft Kings)
-Representative total: 218.5 (Draft Kings)
-Draft Kings | ML Orlando Magic +310 / Detroit Pistons -395 | Spread Orlando Magic 8.5 (-105) / Detroit Pistons -8.5 (-115) | Total 218.5 (Over -110 / Under -110)
+Representative total: 217.5 (Draft Kings)
+Draft Kings | ML Orlando Magic +285 / Detroit Pistons -360 | Spread Orlando Magic 8.5 (-105) / Detroit Pistons -8.5 (-115) | Total 217.5 (Over -112 / Under -108)
 Bet MGM | ML Orlando Magic +310 / Detroit Pistons -400 | Spread Orlando Magic 8.5 (-110) / Detroit Pistons -8.5 (-110) | Total 218.5 (Over -110 / Under -110)
-Fan Duel | ML Orlando Magic +310 / Detroit Pistons -375 | Spread Orlando Magic 8.5 (-105) / Detroit Pistons -8.5 (-115) | Total 218.5 (Over -106 / Under -114)
+Fan Duel | ML Orlando Magic +310 / Detroit Pistons -390 | Spread Orlando Magic 8.5 (-105) / Detroit Pistons -8.5 (-115) | Total 218.5 (Over -106 / Under -114)
 Caesars | ML Orlando Magic +320 / Detroit Pistons -420 | Spread Orlando Magic 8.5 (-105) / Detroit Pistons -8.5 (-115) | Total 218.5 (Over -110 / Under -110)
-Bet Rivers | ML Orlando Magic +300 / Detroit Pistons -420 | Spread Orlando Magic 9 (-110) / Detroit Pistons -9 (-113) | Total 218.5 (Over -114 / Under -109)
+Bet Rivers | ML Orlando Magic +300 / Detroit Pistons -420 | Spread Orlando Magic 9 (-109) / Detroit Pistons -9 (-114) | Total 218 (Over -113 / Under -110)
 
 Phoenix Suns at Oklahoma City Thunder - 9:40 PM ET
 Sportsbooks: Draft Kings, Bet MGM, Fan Duel, Caesars, Bet Rivers
@@ -442,7 +442,7 @@ Draft Kings | ML Phoenix Suns +1100 / Oklahoma City Thunder -2100 | Spread Phoen
 Bet MGM | ML Phoenix Suns +1100 / Oklahoma City Thunder -2500 | Spread Phoenix Suns 17.5 (-115) / Oklahoma City Thunder -17.5 (-105) | Total 216.5 (Over -110 / Under -118)
 Fan Duel | ML Phoenix Suns +980 / Oklahoma City Thunder -1800 | Spread Phoenix Suns 17.5 (-114) / Oklahoma City Thunder -17.5 (-106) | Total 216.5 (Over -108 / Under -112)
 Caesars | ML Phoenix Suns +950 / Oklahoma City Thunder -1700 | Spread Phoenix Suns 17.5 (-110) / Oklahoma City Thunder -17.5 (-110) | Total 216.5 (Over -110 / Under -110)
-Bet Rivers | ML Phoenix Suns +900 / Oklahoma City Thunder -2000 | Spread Phoenix Suns 17 (-109) / Oklahoma City Thunder -17 (-114) | Total 215.5 (Over -112 / Under -112)
+Bet Rivers | ML Phoenix Suns +950 / Oklahoma City Thunder -2000 | Spread Phoenix Suns 17 (-109) / Oklahoma City Thunder -17 (-114) | Total 215.5 (Over -113 / Under -109)
 
 New York Knicks at Atlanta Hawks - 7:10 PM ET
 Sportsbooks: Draft Kings, Bet MGM, Fan Duel, Caesars, Bet Rivers
@@ -463,7 +463,7 @@ Best home moneyline: Toronto Raptors +132 at Fan Duel
 Representative spread: Cleveland Cavaliers -3.5 / Toronto Raptors 3.5 (Draft Kings)
 Representative total: 219.5 (Draft Kings)
 Draft Kings | ML Cleveland Cavaliers -155 / Toronto Raptors +130 | Spread Cleveland Cavaliers -3.5 (-105) / Toronto Raptors 3.5 (-115) | Total 219.5 (Over -115 / Under -105)
-Bet MGM | ML Cleveland Cavaliers -155 / Toronto Raptors +125 | Spread Cleveland Cavaliers -2.5 (-118) / Toronto Raptors 2.5 (-102) | Total 219.5 (Over -110 / Under -110)
+Bet MGM | ML Cleveland Cavaliers -155 / Toronto Raptors +125 | Spread Cleveland Cavaliers -3.5 (-105) / Toronto Raptors 3.5 (-115) | Total 219.5 (Over -110 / Under -110)
 Fan Duel | ML Cleveland Cavaliers -154 / Toronto Raptors +132 | Spread Cleveland Cavaliers -3 (-110) / Toronto Raptors 3 (-110) | Total 220.5 (Over -106 / Under -114)
 Caesars | ML Cleveland Cavaliers -155 / Toronto Raptors +130 | Spread Cleveland Cavaliers -3 (-110) / Toronto Raptors 3 (-110) | Total 219.5 (Over -110 / Under -110)
 Bet Rivers | ML Cleveland Cavaliers -157 / Toronto Raptors +125 | Spread Cleveland Cavaliers -3.5 (-108) / Toronto Raptors 3.5 (-115) | Total 220 (Over -113 / Under -110)
@@ -482,9 +482,9 @@ Bet Rivers | ML Denver Nuggets -132 / Minnesota Timberwolves +107 | Spread Denve
 
 MLB
 MARKET SNAPSHOT
-- MLB currently shows 21 lined events, with an average of 7.9 sportsbooks posting odds per event.
+- MLB currently shows 20 lined events, with an average of 8.0 sportsbooks posting odds per event.
 - MLB books in this feed include Draft Kings, Bet MGM, Fan Duel, Caesars, Bet Rivers, Fanatics.
-- MLB market depth currently shows spreads on 147 bookmaker-event combinations and totals on 161 bookmaker-event combinations.
+- MLB market depth currently shows spreads on 144 bookmaker-event combinations and totals on 157 bookmaker-event combinations.
 - Athletics at Seattle Mariners stands out as one of the deeper MLB boards by sportsbook count.
 
 TOP BOARD
@@ -498,8 +498,8 @@ Representative total: 7.5 (Draft Kings)
 Draft Kings | ML Athletics +157 / Seattle Mariners -192 | Spread Athletics 1.5 (-138) / Seattle Mariners -1.5 (+115) | Total 7.5 (Over -117 / Under -103)
 Bet MGM | ML Athletics +150 / Seattle Mariners -185 | Spread Athletics 1.5 (-140) / Seattle Mariners -1.5 (+118) | Total 7.5 (Over -115 / Under -105)
 Fan Duel | ML Athletics +160 / Seattle Mariners -190 | Spread Athletics 1.5 (-137) / Seattle Mariners -1.5 (+114) | Total 7.5 (Over -115 / Under -105)
-Caesars | ML Athletics +158 / Seattle Mariners -190 | Spread Athletics 1.5 (-140) / Seattle Mariners -1.5 (+118) | Total 7.5 (Over -115 / Under -105)
-Bet Rivers | ML Athletics +143 / Seattle Mariners -180 | Spread Athletics 1.5 (-150) / Seattle Mariners -1.5 (+120) | Total 8 (Over -103 / Under -121)
+Caesars | ML Athletics +158 / Seattle Mariners -190 | Spread Athletics 1.5 (-140) / Seattle Mariners -1.5 (+118) | Total 7.5 (Over -120 / Under +100)
+Bet Rivers | ML Athletics +143 / Seattle Mariners -180 | Spread Athletics 1.5 (-152) / Seattle Mariners -1.5 (+123) | Total 7.5 (Over -120 / Under -105)
 
 Milwaukee Brewers at Detroit Tigers - 6:41 PM ET
 Sportsbooks: Draft Kings, Bet MGM, Fan Duel, Caesars, Bet Rivers
@@ -509,19 +509,19 @@ Representative spread: Milwaukee Brewers 1.5 / Detroit Tigers -1.5 (Draft Kings)
 Representative total: 8 (Draft Kings)
 Draft Kings | ML Milwaukee Brewers +113 / Detroit Tigers -136 | Spread Milwaukee Brewers 1.5 (-194) / Detroit Tigers -1.5 (+159) | Total 8 (Over -102 / Under -118)
 Bet MGM | ML Milwaukee Brewers +115 / Detroit Tigers -135 | Spread Milwaukee Brewers 1.5 (-200) / Detroit Tigers -1.5 (+165) | Total 8 (Over +100 / Under -120)
-Fan Duel | ML Milwaukee Brewers +116 / Detroit Tigers -134 | Spread Milwaukee Brewers 1.5 (-182) / Detroit Tigers -1.5 (+150) | Total 7.5 (Over -124 / Under +102)
+Fan Duel | ML Milwaukee Brewers +116 / Detroit Tigers -134 | Spread Milwaukee Brewers 1.5 (-184) / Detroit Tigers -1.5 (+152) | Total 7.5 (Over -124 / Under +102)
 Caesars | ML Milwaukee Brewers +115 / Detroit Tigers -135 | Spread Milwaukee Brewers 1.5 (-190) / Detroit Tigers -1.5 (+158) | Total 8 (Over -105 / Under -115)
-Bet Rivers | ML Milwaukee Brewers +106 / Detroit Tigers -132 | Spread Milwaukee Brewers 1.5 (-205) / Detroit Tigers -1.5 (+163) | Total 8 (Over -108 / Under -115)
+Bet Rivers | ML Milwaukee Brewers +108 / Detroit Tigers -134 | Spread Milwaukee Brewers 1.5 (-200) / Detroit Tigers -1.5 (+160) | Total 8 (Over -108 / Under -115)
 
 Atlanta Braves at Washington Nationals - 6:46 PM ET
 Sportsbooks: Draft Kings, Bet MGM, Fan Duel, Caesars, Bet Rivers
-Best away moneyline: Atlanta Braves -145 at Bet Online.ag
-Best home moneyline: Washington Nationals +133 at Bovada
+Best away moneyline: Atlanta Braves -146 at Bet Online.ag
+Best home moneyline: Washington Nationals +135 at Bovada
 Representative spread: Atlanta Braves -1.5 / Washington Nationals 1.5 (Draft Kings)
 Representative total: 9 (Draft Kings)
 Draft Kings | ML Atlanta Braves -156 / Washington Nationals +129 | Spread Atlanta Braves -1.5 (+104) / Washington Nationals 1.5 (-126) | Total 9 (Over -108 / Under -112)
 Bet MGM | ML Atlanta Braves -150 / Washington Nationals +125 | Spread Atlanta Braves -1.5 (+105) / Washington Nationals 1.5 (-125) | Total 9 (Over -110 / Under -110)
-Fan Duel | ML Atlanta Braves -154 / Washington Nationals +130 | Spread Atlanta Braves -1.5 (+110) / Washington Nationals 1.5 (-132) | Total 9 (Over -110 / Under -110)
+Fan Duel | ML Atlanta Braves -154 / Washington Nationals +130 | Spread Atlanta Braves -1.5 (+106) / Washington Nationals 1.5 (-128) | Total 9 (Over -110 / Under -110)
 Caesars | ML Atlanta Braves -155 / Washington Nationals +130 | Spread Atlanta Braves -1.5 (+105) / Washington Nationals 1.5 (-125) | Total 9 (Over -110 / Under -110)
 Bet Rivers | ML Atlanta Braves -157 / Washington Nationals +125 | Spread Atlanta Braves -1.5 (+108) / Washington Nationals 1.5 (-134) | Total 9 (Over -112 / Under -112)
 
@@ -531,23 +531,23 @@ Best away moneyline: New York Yankees -131 at Bet Online.ag
 Best home moneyline: Boston Red Sox +120 at Fan Duel
 Representative spread: New York Yankees -1.5 / Boston Red Sox 1.5 (Draft Kings)
 Representative total: 8 (Draft Kings)
-Draft Kings | ML New York Yankees -136 / Boston Red Sox +113 | Spread New York Yankees -1.5 (+123) / Boston Red Sox 1.5 (-149) | Total 8 (Over -108 / Under -111)
-Bet MGM | ML New York Yankees -135 / Boston Red Sox +115 | Spread New York Yankees -1.5 (+125) / Boston Red Sox 1.5 (-150) | Total 7.5 (Over -120 / Under +100)
-Fan Duel | ML New York Yankees -142 / Boston Red Sox +120 | Spread New York Yankees -1.5 (+120) / Boston Red Sox 1.5 (-144) | Total 7.5 (Over -115 / Under -105)
-Caesars | ML New York Yankees -135 / Boston Red Sox +115 | Spread New York Yankees -1.5 (+122) / Boston Red Sox 1.5 (-145) | Total 7.5 (Over -125 / Under +105)
-Bet Rivers | ML New York Yankees -139 / Boston Red Sox +112 | Spread New York Yankees -1.5 (+125) / Boston Red Sox 1.5 (-155) | Total 8 (Over -105 / Under -118)
+Draft Kings | ML New York Yankees -136 / Boston Red Sox +113 | Spread New York Yankees -1.5 (+119) / Boston Red Sox 1.5 (-143) | Total 8 (Over -108 / Under -111)
+Bet MGM | ML New York Yankees -135 / Boston Red Sox +115 | Spread New York Yankees -1.5 (+118) / Boston Red Sox 1.5 (-140) | Total 7.5 (Over -120 / Under +100)
+Fan Duel | ML New York Yankees -142 / Boston Red Sox +120 | Spread New York Yankees -1.5 (+118) / Boston Red Sox 1.5 (-142) | Total 7.5 (Over -115 / Under -105)
+Caesars | ML New York Yankees -135 / Boston Red Sox +115 | Spread New York Yankees -1.5 (+118) / Boston Red Sox 1.5 (-140) | Total 7.5 (Over -125 / Under +105)
+Bet Rivers | ML New York Yankees -139 / Boston Red Sox +112 | Spread New York Yankees -1.5 (+123) / Boston Red Sox 1.5 (-152) | Total 8 (Over -105 / Under -120)
 
 Minnesota Twins at New York Mets - 7:11 PM ET
 Sportsbooks: Draft Kings, Bet MGM, Fan Duel, Caesars, Bet Rivers
-Best away moneyline: Minnesota Twins +137 at Bet Online.ag
-Best home moneyline: New York Mets -151 at Bet Online.ag
+Best away moneyline: Minnesota Twins +138 at Bet Online.ag
+Best home moneyline: New York Mets -152 at Bet Online.ag
 Representative spread: Minnesota Twins 1.5 / New York Mets -1.5 (Draft Kings)
 Representative total: 7.5 (Draft Kings)
 Draft Kings | ML Minnesota Twins +135 / New York Mets -163 | Spread Minnesota Twins 1.5 (-163) / New York Mets -1.5 (+135) | Total 7.5 (Over -110 / Under -110)
 Bet MGM | ML Minnesota Twins +135 / New York Mets -160 | Total 7.5 (Over -115 / Under -105)
 Fan Duel | ML Minnesota Twins +134 / New York Mets -158 | Spread Minnesota Twins 1.5 (-172) / New York Mets -1.5 (+142) | Total 7.5 (Over -108 / Under -112)
 Caesars | ML Minnesota Twins +135 / New York Mets -160 | Spread Minnesota Twins 1.5 (-160) / New York Mets -1.5 (+135) | Total 7.5 (Over -110 / Under -110)
-Bet Rivers | ML Minnesota Twins +135 / New York Mets -167 | Spread Minnesota Twins 1.5 (-167) / New York Mets -1.5 (+135) | Total 7.5 (Over -105 / Under -120)
+Bet Rivers | ML Minnesota Twins +132 / New York Mets -165 | Spread Minnesota Twins 1.5 (-167) / New York Mets -1.5 (+135) | Total 7.5 (Over -107 / Under -117)
 
 NHL
 MARKET SNAPSHOT
@@ -588,11 +588,11 @@ Best away moneyline: Anaheim Ducks +164 at Draft Kings
 Best home moneyline: Edmonton Oilers -179 at Bet Online.ag
 Representative spread: Anaheim Ducks 1.5 / Edmonton Oilers -1.5 (Draft Kings)
 Representative total: 6.5 (Draft Kings)
-Draft Kings | ML Anaheim Ducks +164 / Edmonton Oilers -198 | Spread Anaheim Ducks 1.5 (-155) / Edmonton Oilers -1.5 (+130) | Total 6.5 (Over -142 / Under +120)
+Draft Kings | ML Anaheim Ducks +164 / Edmonton Oilers -198 | Spread Anaheim Ducks 1.5 (-155) / Edmonton Oilers -1.5 (+130) | Total 6.5 (Over -148 / Under +124)
 Bet MGM | ML Anaheim Ducks +155 / Edmonton Oilers -190 | Spread Anaheim Ducks 1.5 (-145) / Edmonton Oilers -1.5 (+120) | Total 7 (Over +105 / Under -125)
 Fan Duel | ML Anaheim Ducks +155 / Edmonton Oilers -188 | Spread Anaheim Ducks 1.5 (-148) / Edmonton Oilers -1.5 (+120) | Total 6.5 (Over -144 / Under +118)
 Caesars | ML Anaheim Ducks +162 / Edmonton Oilers -195 | Spread Anaheim Ducks 1.5 (-150) / Edmonton Oilers -1.5 (+126) | Total 6.5 (Over -150 / Under +126)
-Bet Rivers | ML Anaheim Ducks +163 / Edmonton Oilers -200 | Spread Anaheim Ducks 1.5 (-157) / Edmonton Oilers -1.5 (+123) | Total 6.5 (Over -143 / Under +112)
+Bet Rivers | ML Anaheim Ducks +160 / Edmonton Oilers -200 | Spread Anaheim Ducks 1.5 (-157) / Edmonton Oilers -1.5 (+123) | Total 6.5 (Over -143 / Under +112)
 
 Buffalo Sabres at Boston Bruins - 7:00 PM ET
 Sportsbooks: Draft Kings, Bet MGM, Fan Duel, Caesars, Bet Rivers
@@ -755,15 +755,15 @@ Representative spread: Bayern Munich -0.8 / FSV Mainz 05 0.8 (Bovada)
 Representative total: 3.5 (Bet MGM)
 Draft Kings | ML Bayern Munich -160 / FSV Mainz 05 +330
 Bet MGM | ML Bayern Munich -155 / FSV Mainz 05 +333 | Total 3.5 (Over -105 / Under -135)
-Fan Duel | ML Bayern Munich -165 / FSV Mainz 05 +340
+Fan Duel | ML Bayern Munich -165 / FSV Mainz 05 +320
 Caesars | ML Bayern Munich -160 / FSV Mainz 05 +360
 Bet Rivers | ML Bayern Munich -165 / FSV Mainz 05 +360 | Total 3.5 (Over +100 / Under -134)
 
 La Liga
 MARKET SNAPSHOT
-- La Liga currently shows 15 lined events, with an average of 8.5 sportsbooks posting odds per event.
+- La Liga currently shows 15 lined events, with an average of 8.3 sportsbooks posting odds per event.
 - La Liga books in this feed include Draft Kings, Bet MGM, Fan Duel, Bet Rivers, Fanatics, Bovada.
-- La Liga market depth currently shows spreads on 51 bookmaker-event combinations and totals on 83 bookmaker-event combinations.
+- La Liga market depth currently shows spreads on 47 bookmaker-event combinations and totals on 78 bookmaker-event combinations.
 - Sevilla at Levante stands out as one of the deeper La Liga boards by sportsbook count.
 
 TOP BOARD
@@ -782,13 +782,13 @@ Fanatics | ML Sevilla +190 / Levante +150
 
 Espanyol at Rayo Vallecano - 2:00 PM ET
 Sportsbooks: Draft Kings, Bet MGM, Fan Duel, Bet Rivers, Fanatics
-Best away moneyline: Espanyol +300 at Fan Duel
+Best away moneyline: Espanyol +292 at Bet Online.ag
 Best home moneyline: Rayo Vallecano +115 at Bet MGM
 Representative spread: Espanyol 0.5 / Rayo Vallecano -0.5 (Bovada)
 Representative total: 2.5 (Bet MGM)
 Draft Kings | ML Espanyol +275 / Rayo Vallecano +110
 Bet MGM | ML Espanyol +250 / Rayo Vallecano +115 | Total 2.5 (Over +105 / Under -145)
-Fan Duel | ML Espanyol +300 / Rayo Vallecano +105
+Fan Duel | ML Espanyol +290 / Rayo Vallecano +105
 Bet Rivers | ML Espanyol +260 / Rayo Vallecano +108 | Total 2.5 (Over +117 / Under -157)
 Fanatics | ML Espanyol +280 / Rayo Vallecano +110
 
@@ -800,7 +800,7 @@ Representative spread: Villarreal -0.2 / Oviedo 0.2 (Bovada)
 Representative total: 2.5 (Bet MGM)
 Draft Kings | ML Villarreal +110 / Oviedo +255
 Bet MGM | ML Villarreal +105 / Oviedo +260 | Total 2.5 (Over -115 / Under -120)
-Fan Duel | ML Villarreal +110 / Oviedo +260
+Fan Duel | ML Villarreal +110 / Oviedo +250
 Bet Rivers | ML Villarreal +104 / Oviedo +265 | Total 2.5 (Over -109 / Under -121)
 Fanatics | ML Villarreal +105 / Oviedo +280
 
@@ -876,14 +876,14 @@ Bet Rivers | ML D.C. United +335 / New York Red Bulls -139 | Total 2.5 (Over -15
 FC Cincinnati at New York City FC - 7:30 PM ET
 Sportsbooks: Draft Kings, Bet MGM, Fan Duel, Caesars, Bet Rivers
 Best away moneyline: FC Cincinnati +300 at Caesars
-Best home moneyline: New York City FC -112 at Bet Online.ag
+Best home moneyline: New York City FC -111 at My Bookie.ag
 Representative spread: FC Cincinnati 0.5 / New York City FC -0.5 (Bovada)
 Representative total: 2.5 (Bet MGM)
 Draft Kings | ML FC Cincinnati +260 / New York City FC -115
 Bet MGM | ML FC Cincinnati +260 / New York City FC -115 | Total 2.5 (Over -185 / Under +125)
 Fan Duel | ML FC Cincinnati +270 / New York City FC -120
 Caesars | ML FC Cincinnati +300 / New York City FC -115
-Bet Rivers | ML FC Cincinnati +290 / New York City FC -122 | Total 2.5 (Over -152 / Under +116)
+Bet Rivers | ML FC Cincinnati +295 / New York City FC -125 | Total 2.5 (Over -159 / Under +123)
 
 Philadelphia Union at Toronto FC - 7:30 PM ET
 Sportsbooks: Draft Kings, Bet MGM, Fan Duel, Caesars, Bet Rivers
@@ -903,7 +903,7 @@ This report reflects publicly available odds at the time of generation. Lines mo
 DISCLAIMER
 
 UPDATED
-2026-04-22 03:43:39 PM ET
+2026-04-22 04:01:22 PM ET
 
 DISCLAIMER
 
@@ -911,4 +911,4 @@ This report is an automated summary intended to support, not replace, human spor
 
 UPDATED
 
-2026-04-22 03:58:50 PM ET
+2026-04-22 04:01:26 PM ET
