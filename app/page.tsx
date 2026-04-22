@@ -60,7 +60,7 @@ function readLatestReport(): JsonObject {
     }
 
     const raw = fs.readFileSync(filePath, "utf8");
-    const parsed = JSON.parse(raw);
+    const parsed = JSON.parse(raw) as JsonObject;
 
     if (isRecord(parsed)) return parsed;
 
