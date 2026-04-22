@@ -1,5 +1,10 @@
 from __future__ import annotations
 
+import requests
+from dotenv import load_dotenv
+
+load_dotenv()
+
 import hashlib
 import json
 import os
@@ -14,6 +19,34 @@ from zoneinfo import ZoneInfo
 
 import requests
 from dotenv import load_dotenv
+
+import os
+import requests
+from dotenv import load_dotenv
+
+load_dotenv()
+
+def upload_to_blob(report_path):
+    token = os.getenv("BLOB_READ_WRITE_TOKEN")
+
+    print("[BLOB] TOKEN FOUND:", bool(token))
+
+    if not token:
+        print("[BLOB] ❌ Missing token")
+        return
+
+    with open(report_path, "rb") as f:
+        response = requests.put(
+            "https://blob.vercel-storage.com/reports/latest_report.json",
+            headers={
+                "Authorization": f"Bearer {token}",
+                "x-content-type": "application/json",
+                "x-add-random-suffix": "0",
+            },
+            data=f,
+        )
+
+    print("[BLOB] UPLOAD STATUS:", response.status_code)
 
 try:
     import tweepy
@@ -201,6 +234,8 @@ def safe_write_json(path: Path, payload: dict[str, Any]) -> None:
     )
     FILES_WRITTEN.append(str(path))
     log(f"Saved: {path}")
+
+upload_to_blob(r"C:\Users\joeru\OneDrive\Desktop\global-sports-report-web\latest_report.json")
 
 
 def get_file_timestamp(path: Path) -> str | None:
@@ -759,6 +794,30 @@ def print_distribution_summary() -> None:
     log("DISTRIBUTION BUILD COMPLETE")
     log("==============================================")
 
+
+def upload_to_blob(report_path):
+    import os
+
+    token = os.getenv("BLOB_READ_WRITE_TOKEN")
+
+    print("[BLOB] TOKEN FOUND:", bool(token))
+
+    if not token:
+        print("[BLOB] ❌ Missing token")
+        return
+
+    with open(report_path, "rb") as f:
+        response = requests.put(
+            "https://blob.vercel-storage.com/reports/latest_report.json",
+            headers={
+                "Authorization": f"Bearer {token}",
+                "x-content-type": "application/json",
+                "x-add-random-suffix": "0",
+            },
+            data=f,
+        )
+
+    print("[BLOB] UPLOAD STATUS:", response.status_code)
 
 # =========================================================
 # MAIN
