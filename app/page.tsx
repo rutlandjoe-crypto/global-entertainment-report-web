@@ -776,6 +776,19 @@ export default function Page() {
                 </div>
               ) : null}
 
+              {data.statcast_graphic && (
+  <div className="rounded-2xl border border-zinc-800 bg-black/40 p-4">
+    <div className="mb-2 text-[11px] font-semibold uppercase tracking-[0.22em] text-zinc-500">
+      Statcast Snapshot
+    </div>
+    <img
+      src={data.statcast_graphic as string}
+      alt="MLB Statcast Snapshot"
+      className="w-full rounded-lg border border-zinc-800"
+    />
+  </div>
+)}
+
               <div className="grid gap-4 md:grid-cols-2">
                 <SummaryCard title="Snapshot" value={snapshot} />
                 <div className="rounded-2xl border border-zinc-800 bg-zinc-950/80 p-4 shadow-lg shadow-black/20">
