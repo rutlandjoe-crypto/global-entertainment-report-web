@@ -3,13 +3,18 @@ import path from "path";
 
 export const dynamic = "force-dynamic";
 
+export const metadata = {
+  title: "Global Entertainment Report",
+  description:
+    "Automated entertainment journalism support for the modern newsroom.",
+};
 type Primitive = string | number | boolean | null | undefined;
 type JsonValue = Primitive | JsonObject | JsonValue[] | Record<string, unknown>;
 type JsonObject = { [key: string]: JsonValue };
 
 const VIDEO_URL =
-  process.env.NEXT_PUBLIC_GSR_VIDEO_URL ||
-  "https://www.youtube.com/embed/PMDQ82w1pAE?autoplay=1&mute=1";
+  process.env.NEXT_PUBLIC_GER_VIDEO_URL ||
+  "https://www.youtube.com/embed/live_stream?channel=UCIALMKvObZNtJ6AmdCLP7Lg&autoplay=1&mute=1";
 
 const PRIMARY_ORDER = [
   "mlb",
@@ -884,11 +889,11 @@ export default function Page() {
               </div>
               <div className="aspect-video w-full bg-black">
 <iframe
-  src="https://www.youtube.com/embed/yY9dX2wQ6aQ?autoplay=1&mute=1"
-  title="CBS News Live"
-  allow="autoplay; encrypted-media"
+  src={VIDEO_URL}
+  title="Entertainment Live Stream"
+  allow="autoplay; encrypted-media; picture-in-picture"
   allowFullScreen
-  className="w-full h-full"
+  className="h-full w-full"
 />
               </div>
             </div>
