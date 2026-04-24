@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Global Sports Report",
+  title: "Global Entertainment Report",
   description: "Automated sports journalism support for the modern newsroom.",
 };
 

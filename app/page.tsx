@@ -3,85 +3,41 @@ import path from "path";
 
 export const dynamic = "force-dynamic";
 
-export const metadata = {
-  title: "Global Entertainment Report",
-  description:
-    "Automated entertainment journalism support for the modern newsroom.",
-};
-type Primitive = string | number | boolean | null | undefined;
-type JsonValue = Primitive | JsonObject | JsonValue[] | Record<string, unknown>;
-type JsonObject = { [key: string]: JsonValue };
+type JsonValue =
+  | string
+  | number
+  | boolean
+  | null
+  | undefined
+  | JsonObject
+  | JsonValue[];
 
-const VIDEO_URL =
-  process.env.NEXT_PUBLIC_GER_VIDEO_URL ||
-  "https://www.youtube.com/embed/live_stream?channel=UCIALMKvObZNtJ6AmdCLP7Lg&autoplay=1&mute=1";
-
-const PRIMARY_ORDER = [
-  "mlb",
-  "nba",
-  "nhl",
-  "nfl",
-  "nfl_draft",
-  "ncaafb",
-  "soccer",
-  "fantasy",
-  "betting_odds",
-] as const;
-
-type PrimaryKey = (typeof PRIMARY_ORDER)[number];
-
-const PRIMARY_LABELS: Record<PrimaryKey, string> = {
-  mlb: "MLB",
-  nba: "NBA",
-  nhl: "NHL",
-  nfl: "NFL",
-  nfl_draft: "NFL DRAFT",
-  ncaafb: "NCAA FOOTBALL",
-  soccer: "SOCCER",
-  fantasy: "FANTASY",
-  betting_odds: "BETTING ODDS",
+type JsonObject = {
+  [key: string]: JsonValue;
 };
 
-const HIDDEN_FIELDS = new Set([
-  "source_file",
-  "source_kind",
-  "source_modified_at",
-  "source_report_date",
-  "disclaimer",
-  "full_text",
-  "full_report",
-  "static graphic",
-  "static_graphic",
-  "statcast_graphic",
-  "statcast_snapshot",
-  "advanced",
-]);
+const BRAND = {
+  siteName: "GLOBAL ENTERTAINMENT REPORT",
+  tagline: "Built for journalists, by a journalist.",
+  accent: "from-purple-500 via-fuchsia-500 to-amber-300",
+  softAccent: "bg-purple-500/10 border-purple-400/30",
+  textAccent: "text-purple-200",
+};
 
-const RESERVED_TOP_LEVEL_KEYS = new Set([
-  "title",
-  "generated_date",
-  "generated_at",
-  "headline",
-  "snapshot",
-  "key_storylines",
-  "substack_url",
-  "x_handle",
-  "meta",
-  "sections",
-  "sections_map",
-  "section_order",
-  "full_text",
-  "full_report",
-  "updated_at",
-  "published_at",
-  "generated",
-  "name",
-  "statcast_graphic",
-  "disclaimer",
-]);
+const VIDEO_URL = process.env.NEXT_PUBLIC_GER_VIDEO_URL || "";
 
-function isRecord(value: unknown): value is Record<string, unknown> {
+function isRecord(value: unknown): value is JsonObject {
   return typeof value === "object" && value !== null && !Array.isArray(value);
+}
+
+function asString(value: JsonValue, fallback = ""): string {
+  if (typeof value === "string") return value;
+  if (typeof value === "number" || typeof value === "boolean") return String(value);
+  return fallback;
+}
+
+function asArray(value: JsonValue): JsonValue[] {
+  return Array.isArray(value) ? value : [];
 }
 
 function readLatestReport(): JsonObject {
@@ -90,859 +46,391 @@ function readLatestReport(): JsonObject {
   try {
     if (!fs.existsSync(filePath)) {
       return {
-        title: "GLOBAL ENTERTAINMENT REPORT",
+        title: BRAND.siteName,
+        headline: "Entertainment report file not found.",
+        snapshot:
+          "Add public/latest_report.json to display live entertainment headlines, story angles, and newsroom-ready context.",
         generated_date: new Date().toLocaleString("en-US", {
           timeZone: "America/New_York",
           dateStyle: "full",
           timeStyle: "short",
         }),
-        headline: "Latest report file not found.",
-        snapshot: "Add public/latest_report.json to display live data.",
+        key_storylines: [
+          "Entertainment feed shell is live.",
+          "JSON data is ready to connect.",
+          "Video module will activate when a reliable embeddable stream is added.",
+        ],
       };
     }
 
     const raw = fs.readFileSync(filePath, "utf8");
-    const parsed = JSON.parse(raw) as JsonObject;
+    const parsed = JSON.parse(raw);
 
     if (isRecord(parsed)) return parsed;
 
     return {
-      title: "GLOBAL ENTERTAINMENT REPORT",
-      generated_date: new Date().toLocaleString("en-US", {
-        timeZone: "America/New_York",
-        dateStyle: "full",
-        timeStyle: "short",
-      }),
-      headline: "The JSON file loaded, but its root structure is invalid.",
-      snapshot: "The file must contain a top-level JSON object.",
+      title: BRAND.siteName,
+      headline: "Entertainment report data format error.",
+      snapshot: "latest_report.json exists but did not return an object.",
     };
   } catch (error) {
     return {
-      title: "GLOBAL ENTERTAINMENT REPORT",
-      generated_date: new Date().toLocaleString("en-US", {
-        timeZone: "America/New_York",
-        dateStyle: "full",
-        timeStyle: "short",
-      }),
-      headline: "There was an error reading latest_report.json.",
+      title: BRAND.siteName,
+      headline: "Entertainment report could not be loaded.",
       snapshot:
-        error instanceof Error ? error.message : "Unknown file read error.",
+        error instanceof Error
+          ? error.message
+          : "Unknown error while reading latest_report.json.",
     };
   }
 }
 
-function toDisplayText(value: unknown): string {
-  if (value === null || value === undefined) return "";
-  if (typeof value === "string") return value;
-  if (typeof value === "number" || typeof value === "boolean") return String(value);
-  return "";
-}
-
-function cleanLabel(label: string): string {
-  return label
-    .replace(/_/g, " ")
-    .replace(/\b\w/g, (m) => m.toUpperCase())
-    .trim();
-}
-
-function normalizeSectionKey(value: string): string {
-  const normalized = value
-    .trim()
-    .toLowerCase()
-    .replace(/&/g, "and")
-    .replace(/[^a-z0-9]+/g, "_")
-    .replace(/^_+|_+$/g, "");
-
-  const aliasMap: Record<string, string> = {
-    mlb: "mlb",
-    mlb_advanced: "mlb_advanced",
-    nba: "nba",
-    nba_advanced: "nba_advanced",
-    nhl: "nhl",
-    nfl: "nfl",
-    nfl_advanced: "nfl_advanced",
-    nfl_draft: "nfl_draft",
-    nfl_draft_signals: "nfl_draft",
-    draft_signals: "nfl_draft",
-    ncaafb: "ncaafb",
-    ncaa_football: "ncaafb",
-    soccer: "soccer",
-    fantasy: "fantasy",
-    betting: "betting_odds",
-    betting_odds: "betting_odds",
-    betting_odds_report: "betting_odds",
-    betting_odds_reports: "betting_odds",
-    bettingodds: "betting_odds",
-  };
-
-  return aliasMap[normalized] || normalized;
-}
-
-function isNoiseLine(line: string): boolean {
-  const lower = line.toLowerCase();
-
+function getDate(report: JsonObject): string {
   return (
-    lower.includes("http 401") ||
-    lower.includes("out_of_usage_credits") ||
-    lower.includes("details_url") ||
-    lower.includes("could not load odds") ||
-    lower.includes("usage quota has been reached") ||
-    lower.includes("the-odds-api.com")
+    asString(report.generated_date) ||
+    asString(report.updated_at) ||
+    asString(report.published_at) ||
+    asString(report.generated_at) ||
+    new Date().toLocaleString("en-US", {
+      timeZone: "America/New_York",
+      dateStyle: "full",
+      timeStyle: "short",
+    })
   );
 }
 
-function cleanTextBlock(text: string): string {
-  const normalized = text
-    .replace(/\r\n/g, "\n")
-    .replace(/\r/g, "\n")
-    .replace(/Ã¢â‚¬â„¢/g, "’")
-    .replace(/Ã¢â‚¬Ëœ/g, "‘")
-    .replace(/Ã¢â‚¬Å“/g, '"')
-    .replace(/Ã¢â‚¬\x9d/g, '"')
-    .replace(/Ã¢â‚¬â€/g, "—")
-    .replace(/Ã¢â‚¬â€œ/g, "–")
-    .replace(/Ã¢â‚¬Â¦/g, "…")
-    .replace(/Ã‚/g, "")
-    .replace(/ÃƒÂ©/g, "é")
-    .replace(/ÃƒÂ¡/g, "á")
-    .replace(/ÃƒÂ³/g, "ó")
-    .replace(/ÃƒÂ±/g, "ñ")
-    .replace(/ÃƒÂ¼/g, "ü")
-    .replace(/ï¿½/g, "");
+function getSections(report: JsonObject): JsonObject[] {
+  const sections = report.sections;
 
-  const lines = normalized
-    .split("\n")
-    .map((line) => line.trimEnd())
-    .filter((line) => !isNoiseLine(line));
-
-  return lines.join("\n").replace(/\n{3,}/g, "\n\n").trim();
-}
-
-function splitLines(text: string): string[] {
-  return cleanTextBlock(text)
-    .split(/\n+/)
-    .map((line) => line.trim())
-    .filter(Boolean);
-}
-
-function normalizeArray(value: unknown): string[] {
-  if (!Array.isArray(value)) return [];
-
-  return value
-    .flatMap((item) => {
-      if (typeof item === "string") {
-        const cleaned = cleanTextBlock(item);
-        return cleaned ? splitLines(cleaned) : [];
-      }
-
-      if (typeof item === "number" || typeof item === "boolean") {
-        return [String(item)];
-      }
-
-      if (isRecord(item)) {
-        const bits = Object.entries(item)
-          .filter(([k]) => !HIDDEN_FIELDS.has(k))
-          .map(([k, v]) => {
-            const text = toDisplayText(v);
-            return text ? `${cleanLabel(k)}: ${text}` : "";
-          })
-          .filter(Boolean);
-
-        return bits.length ? [bits.join(" | ")] : [];
-      }
-
-      return [];
-    })
-    .filter((item) => !isNoiseLine(item) && item.trim().length > 0);
-}
-
-function formatSectionText(value: unknown): string {
-  if (typeof value === "string") return cleanTextBlock(value);
-
-  if (Array.isArray(value)) {
-    return normalizeArray(value).join("\n");
+  if (Array.isArray(sections)) {
+    return sections.filter(isRecord);
   }
 
-  if (isRecord(value)) {
-    return Object.entries(value)
-      .filter(([k]) => !HIDDEN_FIELDS.has(k))
-      .map(([k, v]) => {
-        if (
-          typeof v === "string" ||
-          typeof v === "number" ||
-          typeof v === "boolean"
-        ) {
-          const text = toDisplayText(v);
-          return text ? `${cleanLabel(k)}: ${text}` : "";
-        }
+  if (isRecord(sections)) {
+    return Object.entries(sections).map(([key, value]) => {
+      if (isRecord(value)) {
+        return {
+          slug: key,
+          ...value,
+        };
+      }
 
-        if (Array.isArray(v)) {
-          const arr = normalizeArray(v);
-          return arr.length
-            ? `${cleanLabel(k)}:\n${arr.map((x) => `- ${x}`).join("\n")}`
-            : "";
-        }
-
-        return "";
-      })
-      .filter(Boolean)
-      .join("\n\n")
-      .trim();
+      return {
+        slug: key,
+        title: key,
+        content: asString(value),
+      };
+    });
   }
 
-  return "";
+  const fallbackKeys = [
+    "film",
+    "tv",
+    "music",
+    "streaming",
+    "celebrity",
+    "box_office",
+    "awards",
+    "business",
+  ];
+
+  return fallbackKeys
+    .map((key) => report[key])
+    .filter(isRecord);
 }
 
-function extractListItems(value: unknown): string[] {
-  if (Array.isArray(value)) return normalizeArray(value);
+function getBullets(section: JsonObject): string[] {
+  const keys = [
+    "key_storylines",
+    "storylines",
+    "key_data_points",
+    "story_angles",
+    "items",
+    "bullets",
+  ];
 
-  if (typeof value === "string") {
-    const lines = splitLines(value);
-    return lines
-      .map((line) => line.replace(/^[-•*]\s*/, "").trim())
-      .filter((line) => !isNoiseLine(line));
+  for (const key of keys) {
+    const value = section[key];
+    if (Array.isArray(value)) {
+      return value.map((item) => asString(item)).filter(Boolean);
+    }
   }
 
   return [];
 }
 
-function renderTextBlock(text: string) {
-  const lines = splitLines(text);
-  const bullets = lines.filter((line) => /^[-•*]\s*/.test(line));
-  const paragraphs = lines.filter((line) => !/^[-•*]\s*/.test(line));
+function SectionCard({ section }: { section: JsonObject }) {
+  const title =
+    asString(section.title) ||
+    asString(section.name) ||
+    asString(section.slug) ||
+    "Entertainment Desk";
+
+  const headline = asString(section.headline);
+  const snapshot =
+    asString(section.snapshot) ||
+    asString(section.summary) ||
+    asString(section.description);
+
+  const content = asString(section.content) || asString(section.body);
+  const bullets = getBullets(section);
 
   return (
-    <div className="space-y-3">
-      {paragraphs.map((line, idx) => (
-        <p key={`p-${idx}`} className="text-sm leading-6 text-zinc-300">
-          {line}
-        </p>
-      ))}
-
-      {bullets.length ? (
-        <ul className="space-y-2">
-          {bullets.map((line, idx) => (
-            <li key={`b-${idx}`} className="ml-5 list-disc text-sm leading-6 text-zinc-300">
-              {line.replace(/^[-•*]\s*/, "").trim()}
-            </li>
-          ))}
-        </ul>
-      ) : null}
-    </div>
-  );
-}
-
-function renderValue(value: unknown) {
-  if (value === null || value === undefined) return null;
-
-  if (typeof value === "string") {
-    const cleanedText = cleanTextBlock(value);
-    const items = extractListItems(cleanedText);
-    const bulletLike =
-      items.length >= 2 &&
-      splitLines(cleanedText).every((line) => /^[-•*]\s*/.test(line));
-
-    if (bulletLike) {
-      return (
-        <ul className="space-y-2">
-          {items.map((item, idx) => (
-            <li key={idx} className="ml-5 list-disc text-sm leading-6 text-zinc-300">
-              {item}
-            </li>
-          ))}
-        </ul>
-      );
-    }
-
-    return renderTextBlock(cleanedText);
-  }
-
-  if (typeof value === "number" || typeof value === "boolean") {
-    return <p className="text-sm leading-6 text-zinc-300">{String(value)}</p>;
-  }
-
-  if (Array.isArray(value)) {
-    const items = normalizeArray(value);
-    if (!items.length) return null;
-
-    return (
-      <ul className="space-y-2">
-        {items.map((item, idx) => (
-          <li key={idx} className="ml-5 list-disc text-sm leading-6 text-zinc-300">
-            {item}
-          </li>
-        ))}
-      </ul>
-    );
-  }
-
-  if (isRecord(value)) {
-    const entries = Object.entries(value).filter(([key, v]) => {
-      if (HIDDEN_FIELDS.has(key)) return false;
-      if (v === null || v === undefined) return false;
-      if (typeof v === "string") return cleanTextBlock(v).trim().length > 0;
-      if (Array.isArray(v)) return normalizeArray(v).length > 0;
-      if (isRecord(v))
-        return Object.keys(v).some((k) => !HIDDEN_FIELDS.has(k));
-      return true;
-    });
-
-    if (!entries.length) return null;
-
-    return (
-      <div className="space-y-4">
-        {entries.map(([key, val]) => (
-          <div key={key} className="rounded-xl border border-zinc-800 bg-zinc-950/70 p-4">
-            <h4 className="mb-2 text-xs font-semibold uppercase tracking-[0.2em] text-zinc-400">
-              {cleanLabel(key)}
-            </h4>
-            {renderValue(val)}
-          </div>
-        ))}
-      </div>
-    );
-  }
-
-  return null;
-}
-
-type SectionEntry = {
-  key: string;
-  label: string;
-  value: Record<string, unknown>;
-};
-
-function getSectionsFromArray(data: JsonObject): SectionEntry[] {
-  const rawSections = data.sections;
-  if (!Array.isArray(rawSections)) return [];
-
-  return rawSections
-    .map((item) => {
-      if (!isRecord(item)) return null;
-
-      const rawName =
-        toDisplayText(item.name) || toDisplayText(item.title) || "SECTION";
-
-      const key = normalizeSectionKey(rawName);
-      const label =
-        PRIMARY_LABELS[key as PrimaryKey] || cleanLabel(toDisplayText(item.name) || rawName);
-
-      return {
-        key,
-        label,
-        value: item,
-      };
-    })
-    .filter(Boolean) as SectionEntry[];
-}
-
-function getSectionsFromSectionsObject(data: JsonObject): SectionEntry[] {
-  const rawSections = data.sections;
-  if (!isRecord(rawSections)) return [];
-
-  return Object.entries(rawSections)
-    .map(([sectionKey, value]) => {
-      if (!isRecord(value)) return null;
-
-      const normalizedKey = normalizeSectionKey(sectionKey);
-      const rawName =
-        toDisplayText(value.name) || toDisplayText(value.title) || sectionKey;
-
-      return {
-        key: normalizedKey,
-        label:
-          PRIMARY_LABELS[normalizedKey as PrimaryKey] || cleanLabel(rawName),
-        value,
-      };
-    })
-    .filter(Boolean) as SectionEntry[];
-}
-
-function getSectionsFromMap(data: JsonObject): SectionEntry[] {
-  const rawMap = data.sections_map;
-  if (!isRecord(rawMap)) return [];
-
-  return Object.entries(rawMap)
-    .map(([mapKey, value]) => {
-      if (!isRecord(value)) return null;
-
-      const key = normalizeSectionKey(mapKey);
-      const rawName =
-        toDisplayText(value.name) || toDisplayText(value.title) || mapKey;
-      const label =
-        PRIMARY_LABELS[key as PrimaryKey] || cleanLabel(rawName);
-
-      return {
-        key,
-        label,
-        value,
-      };
-    })
-    .filter(Boolean) as SectionEntry[];
-}
-
-function getSectionsFromLegacyTopLevel(data: JsonObject): SectionEntry[] {
-  return Object.entries(data)
-    .filter(([key, value]) => {
-      return !RESERVED_TOP_LEVEL_KEYS.has(key) && isRecord(value);
-    })
-    .map(([key, value]) => {
-      const normalizedKey = normalizeSectionKey(key);
-      const rawName =
-        toDisplayText((value as Record<string, unknown>).name) ||
-        toDisplayText((value as Record<string, unknown>).title) ||
-        key;
-
-      return {
-        key: normalizedKey,
-        label:
-          PRIMARY_LABELS[normalizedKey as PrimaryKey] || cleanLabel(rawName),
-        value: value as Record<string, unknown>,
-      };
-    });
-}
-
-function getAllSections(data: JsonObject): SectionEntry[] {
-  const candidates = [
-    ...getSectionsFromArray(data),
-    ...getSectionsFromSectionsObject(data),
-    ...getSectionsFromMap(data),
-    ...getSectionsFromLegacyTopLevel(data),
-  ];
-
-  const byKey = new Map<string, SectionEntry>();
-
-  for (const section of candidates) {
-    if (!byKey.has(section.key)) {
-      byKey.set(section.key, section);
-      continue;
-    }
-
-    const existing = byKey.get(section.key)!;
-    const existingScore = Object.keys(existing.value).length;
-    const incomingScore = Object.keys(section.value).length;
-
-    if (incomingScore >= existingScore) {
-      byKey.set(section.key, section);
-    }
-  }
-
-  const orderedKeysFromJson = Array.isArray(data.section_order)
-    ? normalizeArray(data.section_order).map(normalizeSectionKey)
-    : [];
-
-  const orderedKeys = [
-    ...PRIMARY_ORDER,
-    ...orderedKeysFromJson.filter((k) => !PRIMARY_ORDER.includes(k as PrimaryKey)),
-    ...Array.from(byKey.keys()).filter(
-      (k) =>
-        !PRIMARY_ORDER.includes(k as PrimaryKey) &&
-        !orderedKeysFromJson.includes(k)
-    ),
-  ];
-
-  return orderedKeys
-    .map((key) => byKey.get(key))
-    .filter(Boolean) as SectionEntry[];
-}
-
-function getPrimaryCards(data: JsonObject) {
-  const sections = getAllSections(data);
-  const primary = sections.filter((section) =>
-    PRIMARY_ORDER.includes(section.key as PrimaryKey)
-  ) as { key: PrimaryKey; label: string; value: Record<string, unknown> }[];
-
-  if (primary.length) return primary;
-
-  return sections.slice(0, 9) as {
-    key: PrimaryKey;
-    label: string;
-    value: Record<string, unknown>;
-  }[];
-}
-
-function getExtraSections(data: JsonObject) {
-  const sections = getAllSections(data);
-
-  return sections.filter(
-    (section) => !PRIMARY_ORDER.includes(section.key as PrimaryKey)
-  );
-}
-
-function getStatcastWatchItems(data: JsonObject): string[] {
-  const fromMap =
-    isRecord(data.sections_map) &&
-    isRecord(data.sections_map.mlb) &&
-    isRecord((data.sections_map.mlb as Record<string, unknown>).advanced) &&
-    isRecord(
-      ((data.sections_map.mlb as Record<string, unknown>).advanced as Record<string, unknown>).sections
-    )
-      ? (
-          (((data.sections_map.mlb as Record<string, unknown>).advanced as Record<string, unknown>)
-            .sections as Record<string, unknown>).statcast_watch
-        )
-      : null;
-
-  return normalizeArray(fromMap);
-}
-
-function SummaryCard({
-  title,
-  value,
-}: {
-  title: string;
-  value: string;
-}) {
-  if (!value.trim()) return null;
-
-  return (
-    <div className="rounded-2xl border border-zinc-800 bg-zinc-950/80 p-4 shadow-lg shadow-black/20">
-      <div className="mb-2 text-[11px] font-semibold uppercase tracking-[0.22em] text-zinc-500">
-        {title}
-      </div>
-      <div className="whitespace-pre-line text-sm leading-6 text-zinc-200">{value}</div>
-    </div>
-  );
-}
-
-function LeagueCard({
-  title,
-  section,
-}: {
-  title: string;
-  section: Record<string, unknown>;
-}) {
-  const hasStructuredGameBuckets = [
-    "yesterday_final_scores",
-    "yesterday_playoff_results",
-    "today_final_scores",
-    "final_scores",
-    "live_now",
-    "today_live",
-    "live",
-    "today_schedule",
-    "today_playoff_schedule",
-    "upcoming",
-    "upcoming_games",
-  ].some((field) => {
-    const value = section[field];
-    if (value === null || value === undefined) return false;
-    if (typeof value === "string") return cleanTextBlock(value).trim().length > 0;
-    if (Array.isArray(value)) return normalizeArray(value).length > 0;
-    if (isRecord(value)) {
-      return Object.entries(value).some(([childKey, childVal]) => {
-        if (HIDDEN_FIELDS.has(childKey)) return false;
-        if (childVal === null || childVal === undefined) return false;
-        if (typeof childVal === "string") return cleanTextBlock(childVal).trim().length > 0;
-        if (Array.isArray(childVal)) return normalizeArray(childVal).length > 0;
-        if (isRecord(childVal)) {
-          return Object.keys(childVal).some((nestedKey) => !HIDDEN_FIELDS.has(nestedKey));
-        }
-        return true;
-      });
-    }
-    return true;
-  });
-
-  const preferredOrder = [
-    "title",
-    "headline",
-    "snapshot",
-    "key_storylines",
-    "key_data_points",
-    "current_data_and_analytics",
-    "story_angles",
-    "draft_calendar",
-    "top_10_draft_order",
-    "full_round_1_order",
-    "day_2_opening_board",
-    "team_capital_watch",
-    "yesterday_final_scores",
-    "yesterday_playoff_results",
-    "today_final_scores",
-    "final_scores",
-    "live_now",
-    "today_live",
-    "live",
-    "today_schedule",
-    "today_playoff_schedule",
-    "upcoming",
-    "upcoming_games",
-    "analytics",
-    "fantasy_spotlight",
-    "betting_angles",
-    "notable_lines",
-    "watch_list",
-    "content",
-    "structured_sections",
-    "games",
-    "body",
-    "summary",
-  ];
-
-  const used = new Set<string>();
-  const orderedEntries: [string, unknown][] = [];
-
-  preferredOrder.forEach((field) => {
-    if (field === "games" && hasStructuredGameBuckets) return;
-
-    if (field in section && !HIDDEN_FIELDS.has(field)) {
-      orderedEntries.push([field, section[field]]);
-      used.add(field);
-    }
-  });
-
-  Object.entries(section).forEach(([key, value]) => {
-    if (key === "games" && hasStructuredGameBuckets) return;
-
-    if (!used.has(key) && !HIDDEN_FIELDS.has(key)) {
-      orderedEntries.push([key, value]);
-    }
-  });
-
-  const hasAnyContent = orderedEntries.some(([key, value]) => {
-    if (HIDDEN_FIELDS.has(key)) return false;
-    if (value === null || value === undefined) return false;
-    if (typeof value === "string") return cleanTextBlock(value).trim().length > 0;
-    if (Array.isArray(value)) return normalizeArray(value).length > 0;
-    if (isRecord(value))
-      return Object.keys(value).some((k) => !HIDDEN_FIELDS.has(k));
-    return true;
-  });
-
-  if (!hasAnyContent) return null;
-
-  return (
-    <section className="rounded-3xl border border-zinc-800 bg-zinc-900/85 p-5 shadow-2xl shadow-black/30">
-      <div className="mb-4 flex items-center justify-between gap-3 border-b border-zinc-800 pb-3">
-        <h2 className="text-lg font-bold tracking-[0.16em] text-white">{title}</h2>
-        <span className="rounded-full border border-zinc-700 px-3 py-1 text-[10px] font-semibold uppercase tracking-[0.24em] text-zinc-400">
+    <article className="rounded-3xl border border-white/10 bg-white/[0.04] p-5 shadow-2xl shadow-black/20">
+      <div className="mb-3 flex items-center justify-between gap-3">
+        <h3 className="text-lg font-black uppercase tracking-wide text-white">
+          {title}
+        </h3>
+        <span className="rounded-full border border-purple-300/30 bg-purple-500/10 px-3 py-1 text-[11px] font-bold uppercase tracking-[0.2em] text-purple-100">
           Live Desk
         </span>
       </div>
 
-      <div className="space-y-4">
-        {orderedEntries.map(([key, value]) => {
-          if (HIDDEN_FIELDS.has(key)) return null;
+      {headline ? (
+        <h4 className="mb-2 text-xl font-extrabold leading-snug text-white">
+          {headline}
+        </h4>
+      ) : null}
 
-          if (
-            value === null ||
-            value === undefined ||
-            (typeof value === "string" && !cleanTextBlock(value).trim()) ||
-            (Array.isArray(value) && normalizeArray(value).length === 0) ||
-            (isRecord(value) &&
-              !Object.entries(value).some(([childKey, childVal]) => {
-                if (HIDDEN_FIELDS.has(childKey)) return false;
-                if (childVal === null || childVal === undefined) return false;
-                if (typeof childVal === "string")
-                  return cleanTextBlock(childVal).trim().length > 0;
-                if (Array.isArray(childVal))
-                  return normalizeArray(childVal).length > 0;
-                if (isRecord(childVal))
-                  return Object.keys(childVal).some(
-                    (nestedKey) => !HIDDEN_FIELDS.has(nestedKey)
-                  );
-                return true;
-              }))
-          ) {
-            return null;
-          }
+      {snapshot ? (
+        <p className="mb-4 text-sm leading-6 text-zinc-300">{snapshot}</p>
+      ) : null}
 
-          const isTitle = key === "title";
-          const showAsHeadingOnly =
-            isTitle && typeof value === "string" && value.trim().length > 0;
+      {bullets.length ? (
+        <ul className="mb-4 space-y-2">
+          {bullets.slice(0, 6).map((bullet, index) => (
+            <li
+              key={`${title}-bullet-${index}`}
+              className="rounded-2xl border border-white/10 bg-black/20 p-3 text-sm leading-6 text-zinc-200"
+            >
+              {bullet}
+            </li>
+          ))}
+        </ul>
+      ) : null}
 
-          if (showAsHeadingOnly) {
-            return (
-              <div key={key} className="rounded-2xl border border-zinc-800 bg-black/30 p-4">
-                <p className="text-sm font-semibold tracking-wide text-zinc-100">{value}</p>
-              </div>
-            );
-          }
+      {content ? (
+        <div className="whitespace-pre-line rounded-2xl border border-white/10 bg-black/25 p-4 text-sm leading-7 text-zinc-300">
+          {content}
+        </div>
+      ) : null}
+    </article>
+  );
+}
 
-          return (
-            <div key={key} className="rounded-2xl border border-zinc-800 bg-black/30 p-4">
-              <h3 className="mb-3 text-[11px] font-semibold uppercase tracking-[0.22em] text-zinc-400">
-                {cleanLabel(key)}
-              </h3>
-              {renderValue(value)}
-            </div>
-          );
-        })}
+function VideoPanel() {
+  return (
+    <section className="rounded-3xl border border-white/10 bg-black/35 p-5 shadow-2xl shadow-black/30">
+      <div className="mb-4">
+        <p className="text-xs font-bold uppercase tracking-[0.28em] text-purple-200">
+          Entertainment Video
+        </p>
+        <h2 className="mt-1 text-2xl font-black text-white">
+          Live / Featured Stream
+        </h2>
       </div>
+
+      {VIDEO_URL ? (
+        <div className="overflow-hidden rounded-2xl border border-white/10 bg-black">
+          <iframe
+            className="aspect-video w-full"
+            src={VIDEO_URL}
+            title="Global Entertainment Report video stream"
+            allow="autoplay; encrypted-media; picture-in-picture"
+            allowFullScreen
+          />
+        </div>
+      ) : (
+        <div className="rounded-2xl border border-purple-300/20 bg-purple-500/10 p-5">
+          <p className="text-sm leading-6 text-zinc-200">
+            No stable embeddable 24/7 entertainment stream is locked yet. This
+            block is intentionally protected so the site does not show a broken
+            or private video warning.
+          </p>
+          <p className="mt-3 text-sm leading-6 text-zinc-400">
+            Add a trusted embed later with{" "}
+            <span className="font-mono text-purple-100">
+              NEXT_PUBLIC_GER_VIDEO_URL
+            </span>
+            .
+          </p>
+        </div>
+      )}
     </section>
   );
 }
 
-export default function Page() {
-  const data = readLatestReport();
+export default function Home() {
+  const report = readLatestReport();
 
-  const title = toDisplayText(data.title) || "GLOBAL ENTERTAINMENT REPORT";
-  const generatedDate =
-    toDisplayText(data.generated_date) ||
-    toDisplayText(data.generated_at) ||
-    toDisplayText(data.updated_at) ||
-    new Date().toLocaleString("en-US", {
-      timeZone: "America/New_York",
-      dateStyle: "full",
-      timeStyle: "short",
-    });
+  const title = asString(report.title, BRAND.siteName);
+  const headline =
+    asString(report.headline) ||
+    "Entertainment industry storylines, data points, and newsroom angles in one place.";
 
-  const headline = formatSectionText(data.headline);
-  const snapshot = formatSectionText(data.snapshot);
-  const keyStorylines = data.key_storylines;
-  const primaryCards = getPrimaryCards(data);
-  const extraSections = getExtraSections(data);
-  const statcastWatchItems = getStatcastWatchItems(data);
+  const snapshot =
+    asString(report.snapshot) ||
+    asString(report.summary) ||
+    "Global Entertainment Report tracks film, television, streaming, music, awards, box office, and media-business movement for journalists.";
+
+  const date = getDate(report);
+
+  const topStorylines = asArray(report.key_storylines)
+    .map((item) => asString(item))
+    .filter(Boolean);
+
+  const storyAngles = asArray(report.story_angles)
+    .map((item) => asString(item))
+    .filter(Boolean);
+
+  const sections = getSections(report);
 
   return (
-    <main className="min-h-screen bg-black text-white">
-      <div className="mx-auto max-w-7xl px-4 py-5 sm:px-6 lg:px-8">
-        <header className="mb-5 rounded-3xl border border-zinc-800 bg-zinc-950/90 p-5 shadow-2xl shadow-black/40">
-          <div className="flex flex-col gap-5 xl:grid xl:grid-cols-[1.15fr_0.85fr] xl:items-stretch">
-            <div className="space-y-4">
-              <div className="inline-flex w-fit rounded-full border border-zinc-700 bg-zinc-900 px-3 py-1 text-[10px] font-semibold uppercase tracking-[0.28em] text-zinc-400">
-                Built for Journalists
+    <main className="min-h-screen bg-[radial-gradient(circle_at_top_left,_rgba(168,85,247,0.28),_transparent_34%),radial-gradient(circle_at_top_right,_rgba(251,191,36,0.18),_transparent_28%),linear-gradient(135deg,_#05010a_0%,_#12051d_45%,_#060006_100%)] px-4 py-6 text-white sm:px-6 lg:px-8">
+      <div className="mx-auto max-w-7xl">
+        <header className="mb-6 rounded-[2rem] border border-white/10 bg-black/35 p-6 shadow-2xl shadow-black/30 backdrop-blur">
+          <div className="mb-5 flex flex-col justify-between gap-4 lg:flex-row lg:items-center">
+            <div>
+              <div
+                className={`mb-3 inline-flex rounded-full border border-white/10 bg-gradient-to-r ${BRAND.accent} px-4 py-2 text-xs font-black uppercase tracking-[0.28em] text-black`}
+              >
+                GSR Network
               </div>
-
-              <div>
-                <h1 className="text-3xl font-black uppercase tracking-[0.14em] text-white sm:text-4xl">
-                  {title}
-                </h1>
-                <p className="mt-2 text-sm text-zinc-400">Updated: {generatedDate}</p>
-
-                <div className="mt-4 flex flex-wrap gap-3">
-                  {typeof data.substack_url === "string" && data.substack_url.trim() && (
-                    <a
-                      href={data.substack_url}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="rounded-lg bg-orange-600 px-4 py-2 text-sm font-semibold text-white transition hover:bg-orange-500"
-                    >
-                      Substack
-                    </a>
-                  )}
-
-                  {typeof data.x_handle === "string" && data.x_handle.trim() && (
-                    <a
-                      href={`https://x.com/${data.x_handle.replace("@", "")}`}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="rounded-lg bg-zinc-800 px-4 py-2 text-sm font-semibold text-white transition hover:bg-zinc-700"
-                    >
-                      X / Twitter
-                    </a>
-                  )}
-                </div>
-              </div>
-
-              {headline ? (
-                <div className="rounded-2xl border border-zinc-800 bg-black/30 p-4">
-                  <div className="mb-2 text-[11px] font-semibold uppercase tracking-[0.22em] text-zinc-500">
-                    Headline
-                  </div>
-                  <p className="text-base leading-7 text-zinc-100">{headline}</p>
-                </div>
-              ) : null}
-
-              {statcastWatchItems.length ? (
-                <div className="rounded-2xl border border-zinc-800 bg-black/40 p-4">
-                  <div className="mb-2 text-[11px] font-semibold uppercase tracking-[0.22em] text-zinc-500">
-                    Statcast Snapshot
-                  </div>
-                  <ul className="space-y-2">
-                    {statcastWatchItems.map((item, idx) => (
-                      <li key={idx} className="ml-5 list-disc text-sm leading-6 text-zinc-300">
-                        {item.replace(/^[-•]\s*/, "")}
-                      </li>
-                    ))}
-                  </ul>
-                </div>
-              ) : null}
-
-              <div className="grid gap-4 md:grid-cols-2">
-                <SummaryCard title="Snapshot" value={snapshot} />
-                <div className="rounded-2xl border border-zinc-800 bg-zinc-950/80 p-4 shadow-lg shadow-black/20">
-                  <div className="mb-2 text-[11px] font-semibold uppercase tracking-[0.22em] text-zinc-500">
-                    Newsroom Note
-                  </div>
-                  <p className="text-sm leading-6 text-zinc-200">
-                    This report is an automated summary intended to support, not replace,
-                    human sports journalism.
-                  </p>
-                </div>
-              </div>
-
-              {keyStorylines ? (
-                <div className="rounded-2xl border border-zinc-800 bg-zinc-950/80 p-4 shadow-lg shadow-black/20">
-                  <div className="mb-3 text-[11px] font-semibold uppercase tracking-[0.22em] text-zinc-500">
-                    Key Storylines
-                  </div>
-                  {renderValue(keyStorylines)}
-                </div>
-              ) : null}
+              <h1 className="text-4xl font-black tracking-tight sm:text-5xl">
+                {title}
+              </h1>
+              <p className="mt-2 text-sm font-semibold uppercase tracking-[0.24em] text-purple-200">
+                {BRAND.tagline}
+              </p>
             </div>
 
-            <div className="overflow-hidden rounded-3xl border border-zinc-800 bg-zinc-950 shadow-2xl shadow-black/40">
-              <div className="border-b border-zinc-800 px-4 py-3 text-[11px] font-semibold uppercase tracking-[0.22em] text-zinc-400">
-                Bloomberg TV News
-              </div>
-              <div className="aspect-video w-full bg-black">
-<iframe
-  src={VIDEO_URL}
-  title="Entertainment Live Stream"
-  allow="autoplay; encrypted-media; picture-in-picture"
-  allowFullScreen
-  className="h-full w-full"
-/>
-              </div>
+            <div className="rounded-2xl border border-white/10 bg-white/[0.04] p-4 text-right">
+              <p className="text-xs font-bold uppercase tracking-[0.24em] text-zinc-400">
+                Last Updated
+              </p>
+              <p className="mt-1 text-sm font-bold text-white">{date}</p>
+            </div>
+          </div>
+
+          <div className="grid gap-5 lg:grid-cols-[1.25fr_0.75fr]">
+            <div className="rounded-3xl border border-white/10 bg-white/[0.04] p-5">
+              <p className="mb-2 text-xs font-black uppercase tracking-[0.25em] text-amber-200">
+                Headline
+              </p>
+              <h2 className="text-2xl font-black leading-tight sm:text-3xl">
+                {headline}
+              </h2>
+              <p className="mt-4 text-base leading-7 text-zinc-300">
+                {snapshot}
+              </p>
+            </div>
+
+            <div className="rounded-3xl border border-purple-300/20 bg-purple-500/10 p-5">
+              <p className="mb-3 text-xs font-black uppercase tracking-[0.25em] text-purple-100">
+                Newsroom Snapshot
+              </p>
+              <ul className="space-y-3">
+                {(topStorylines.length
+                  ? topStorylines.slice(0, 4)
+                  : [
+                      "Film, TV, streaming, music, awards, and media business coverage in one dashboard.",
+                      "Designed to surface story angles quickly for editors, writers, and producers.",
+                      "Built to connect with automated entertainment JSON updates.",
+                    ]
+                ).map((item, index) => (
+                  <li
+                    key={`top-${index}`}
+                    className="rounded-2xl border border-white/10 bg-black/25 p-3 text-sm leading-6 text-zinc-200"
+                  >
+                    {item}
+                  </li>
+                ))}
+              </ul>
             </div>
           </div>
         </header>
 
-        {primaryCards.length ? (
-          <section className="mb-6">
-            <div className="mb-3 flex items-center justify-between">
-              <h2 className="text-sm font-bold uppercase tracking-[0.22em] text-zinc-400">
-                League Reports
-              </h2>
-            </div>
+        <div className="grid gap-6 lg:grid-cols-[0.72fr_1.28fr]">
+          <aside className="space-y-6">
+            <VideoPanel />
 
-            <div className="grid gap-5 lg:grid-cols-2">
-              {primaryCards.map((card, idx) => (
-                <LeagueCard key={`${card.key}-${idx}`} title={card.label} section={card.value} />
-              ))}
-            </div>
+            <section className="rounded-3xl border border-white/10 bg-white/[0.04] p-5">
+              <p className="text-xs font-black uppercase tracking-[0.25em] text-amber-200">
+                Story Angles
+              </p>
+
+              <div className="mt-4 space-y-3">
+                {(storyAngles.length
+                  ? storyAngles.slice(0, 6)
+                  : [
+                      "Which entertainment stories have business impact beyond celebrity coverage?",
+                      "What streaming, studio, music, or box-office movement matters to editors today?",
+                      "Where can journalists find useful angles without chasing empty viral noise?",
+                    ]
+                ).map((angle, index) => (
+                  <div
+                    key={`angle-${index}`}
+                    className="rounded-2xl border border-white/10 bg-black/25 p-4 text-sm leading-6 text-zinc-200"
+                  >
+                    {angle}
+                  </div>
+                ))}
+              </div>
+            </section>
+
+            <section className="rounded-3xl border border-white/10 bg-white/[0.04] p-5">
+              <p className="text-xs font-black uppercase tracking-[0.25em] text-purple-200">
+                Coverage Areas
+              </p>
+
+              <div className="mt-4 grid grid-cols-2 gap-3 text-sm font-bold">
+                {[
+                  "Film",
+                  "TV",
+                  "Streaming",
+                  "Music",
+                  "Awards",
+                  "Box Office",
+                  "Media Deals",
+                  "Culture",
+                ].map((item) => (
+                  <div
+                    key={item}
+                    className="rounded-2xl border border-white/10 bg-black/25 p-3 text-center text-zinc-200"
+                  >
+                    {item}
+                  </div>
+                ))}
+              </div>
+            </section>
+          </aside>
+
+          <section className="space-y-6">
+            {sections.length ? (
+              sections.map((section, index) => (
+                <SectionCard key={`section-${index}`} section={section} />
+              ))
+            ) : (
+              <article className="rounded-3xl border border-white/10 bg-white/[0.04] p-6 shadow-2xl shadow-black/20">
+                <p className="text-xs font-black uppercase tracking-[0.25em] text-purple-200">
+                  Entertainment Report
+                </p>
+                <h2 className="mt-2 text-2xl font-black">
+                  Content pipeline ready.
+                </h2>
+                <p className="mt-4 leading-7 text-zinc-300">
+                  Once public/latest_report.json is populated, this area will
+                  automatically render entertainment sections, storylines,
+                  newsroom angles, and report content.
+                </p>
+              </article>
+            )}
           </section>
-        ) : null}
+        </div>
 
-        {extraSections.length ? (
-          <section className="mb-6">
-            <div className="mb-3 flex items-center justify-between">
-              <h2 className="text-sm font-bold uppercase tracking-[0.22em] text-zinc-400">
-                Additional Coverage
-              </h2>
-            </div>
-
-            <div className="grid gap-5 lg:grid-cols-2">
-              {extraSections.map((section, idx) => (
-                <LeagueCard
-                  key={`${section.key}-${idx}`}
-                  title={section.label}
-                  section={section.value}
-                />
-              ))}
-            </div>
-          </section>
-        ) : null}
-
-        <footer className="rounded-3xl border border-zinc-800 bg-zinc-950/90 p-5 text-center shadow-2xl shadow-black/40">
-          <p className="text-xs uppercase tracking-[0.22em] text-zinc-500">
-            Global Entertainment Report
-          </p>
-          <p className="mt-2 text-sm text-zinc-400">
-            Automated entertainment journalism support for the modern newsroom.
-          </p>
+        <footer className="mt-8 rounded-3xl border border-white/10 bg-black/30 p-5 text-center text-xs font-bold uppercase tracking-[0.22em] text-zinc-400">
+          Global Entertainment Report · GSR Network · Built for journalists, by
+          a journalist.
         </footer>
       </div>
     </main>
