@@ -885,7 +885,7 @@ export default function Page() {
 
             <div className="overflow-hidden rounded-3xl border border-zinc-800 bg-zinc-950 shadow-2xl shadow-black/40">
               <div className="border-b border-zinc-800 px-4 py-3 text-[11px] font-semibold uppercase tracking-[0.22em] text-zinc-400">
-                CBS News Live
+                Bloomberg TV News
               </div>
               <div className="aspect-video w-full bg-black">
 <iframe
