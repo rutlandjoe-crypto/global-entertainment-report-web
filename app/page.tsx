@@ -880,17 +880,16 @@ export default function Page() {
 
             <div className="overflow-hidden rounded-3xl border border-zinc-800 bg-zinc-950 shadow-2xl shadow-black/40">
               <div className="border-b border-zinc-800 px-4 py-3 text-[11px] font-semibold uppercase tracking-[0.22em] text-zinc-400">
-                Yahoo Sports Network
+                Bloomberg TV Live
               </div>
               <div className="aspect-video w-full bg-black">
-                <iframe
-                  src={VIDEO_URL}
-                  title="Yahoo Sports Network Live"
-                  className="h-full w-full"
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                  referrerPolicy="strict-origin-when-cross-origin"
-                  allowFullScreen
-                />
+              <iframe
+  src="https://www.youtube.com/embed/d4eDWc8g0e0?autoplay=1&mute=1"
+  title="Bloomberg TV Live"
+  allow="autoplay; encrypted-media"
+  allowFullScreen
+  className="w-full h-full"
+/>
               </div>
             </div>
           </div>
