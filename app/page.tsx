@@ -5,6 +5,7 @@ export const dynamic = "force-dynamic";
 
 type JsonObject = { [key: string]: any };
 
+// ✅ CLEAN, SAFE EMBED (NO PARAM BREAKING)
 const VIDEO_URL =
   process.env.NEXT_PUBLIC_GER_VIDEO_URL ||
   "https://www.youtube.com/embed/36YnV9STBqc";
@@ -32,7 +33,18 @@ function asText(v: any): string {
 
 function asList(v: any): string[] {
   if (!v) return [];
-  if (Array.isArray(v)) return v.map((x) => asText(x)).filter(Boolean);
+
+  if (Array.isArray(v)) {
+    return v.map((x) => asText(x)).filter(Boolean);
+  }
+
+  if (typeof v === "string") {
+    return v
+      .split(/\n|•|- /)
+      .map((x) => x.trim())
+      .filter(Boolean);
+  }
+
   return [];
 }
 
@@ -76,14 +88,16 @@ export default function Home() {
   const snapshot = asText(report.snapshot);
   const updated = asText(report.updated_at || report.generated_at);
 
-  const sections = Array.isArray(report.sections) ? report.sections : [];
+  const sections = Array.isArray(report.sections)
+    ? report.sections
+    : Object.values(report.sections || {});
+
   const keyStorylines = asList(report.key_storylines);
 
   return (
     <main className="min-h-screen bg-black text-white">
       <div className="mx-auto max-w-7xl px-5 py-6">
 
-        {/* HERO */}
         <header className="grid gap-8 border-b border-neutral-800 pb-10 lg:grid-cols-[1.2fr_0.8fr]">
 
           <div>
@@ -116,7 +130,7 @@ export default function Home() {
             </div>
           </div>
 
-          {/* VIDEO */}
+          {/* ✅ FIXED VIDEO PANEL */}
           <div className="rounded-3xl bg-neutral-900 p-5">
             <div className="text-xs font-black uppercase text-amber-400 mb-2">
               LIVE ENTERTAINMENT VIDEO
@@ -124,19 +138,25 @@ export default function Home() {
 
             <div className="aspect-video rounded-xl overflow-hidden bg-black">
               <iframe
-                src={`${VIDEO_URL}?autoplay=1&mute=1`}
-                className="w-full h-full"
-                allow="autoplay; encrypted-media"
+                src={VIDEO_URL}
+                title="Entertainment Live Video"
+                className="w-full h-full border-0"
+                allow="autoplay; encrypted-media; picture-in-picture"
+                allowFullScreen
               />
             </div>
 
-            <div className="mt-3 text-xs text-neutral-400">
-              If video fails, open directly.
-            </div>
+            <a
+              href="https://www.youtube.com/results?search_query=entertainment+news"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="mt-3 inline-block text-xs text-amber-400 underline"
+            >
+              Open live stream directly
+            </a>
           </div>
         </header>
 
-        {/* STORYLINES */}
         <section className="grid gap-4 py-6 md:grid-cols-2 lg:grid-cols-4">
           {keyStorylines.slice(0, 4).map((s, i) => (
             <div key={i} className="rounded-2xl border border-neutral-800 p-4">
@@ -145,9 +165,8 @@ export default function Home() {
           ))}
         </section>
 
-        {/* CONTENT */}
         <section className="grid gap-6 lg:grid-cols-2">
-          {sections.map((s, i) => (
+          {sections.map((s: any, i: number) => (
             <Card key={i} section={s} />
           ))}
         </section>
