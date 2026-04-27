@@ -128,20 +128,21 @@ export default function Home() {
             </div>
           </div>
 
-          {/* ✅ FIXED VIDEO PANEL */}
+          {/* FIXED VIDEO PANEL */}
           <div className="rounded-3xl bg-neutral-900 p-5">
             <div className="text-xs font-black uppercase text-amber-400 mb-2">
               LIVE ENTERTAINMENT VIDEO
             </div>
 
             <div className="aspect-video rounded-xl overflow-hidden bg-black">
-<iframe
-  src={`${VIDEO_URL}?autoplay=1&mute=1`}
-  title="Live Video"
-  allow="autoplay; encrypted-media"
-  allowFullScreen
-  className="w-full h-full rounded-2xl"
-/>
+              <iframe
+                src={`${VIDEO_URL}?autoplay=1&mute=1`}
+                title="Live Video"
+                allow="autoplay; encrypted-media"
+                allowFullScreen
+                className="w-full h-full rounded-2xl"
+              />
+            </div>
 
             <a
               href="https://www.youtube.com/results?search_query=entertainment+news"
