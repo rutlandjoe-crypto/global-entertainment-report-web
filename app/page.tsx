@@ -1,234 +1,354 @@
 import fs from "fs";
 import path from "path";
+import type { ReactNode } from "react";
 
 export const dynamic = "force-dynamic";
 
-type JsonObject = { [key: string]: any };
+type AnyObj = Record<string, any>;
 
-// ✅ VIDEO FALLBACK CHAIN
-const DEFAULT_VIDEO =
-  process.env.NEXT_PUBLIC_GER_VIDEO_URL ||
-  "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1";
+const SITE = {
+  name: "Global Entertainment Report",
+  tagline: "Built for journalists, by a journalist.",
+  topic: "Entertainment",
+  descriptor:
+    "Global Entertainment Report tracks film, television, streaming, music, talent, studios and media business, delivering journalist-ready signals for one of the world’s most visible cultural industries.",
+};
 
-function readReport(): JsonObject {
+const TOOLKIT = [
+  ["Variety", "https://variety.com"],
+  ["The Hollywood Reporter", "https://www.hollywoodreporter.com"],
+  ["Deadline", "https://deadline.com"],
+  ["Box Office Mojo", "https://www.boxofficemojo.com"],
+  ["IMDb", "https://www.imdb.com"],
+];
+
+function readReport(): AnyObj {
   try {
-    const filePath = path.join(process.cwd(), "public", "latest_report.json");
-    const raw = fs.readFileSync(filePath, "utf8");
+    const file = path.join(process.cwd(), "public", "latest_report.json");
+    const raw = fs.readFileSync(file, "utf8");
     return JSON.parse(raw);
   } catch {
-    return {
-      headline: "Entertainment Report Loading",
-      snapshot: "",
-      sections: [],
-    };
+    return {};
   }
 }
 
-function clean(v: any): string {
-  if (!v) return "";
-  return String(v).replace(/\s+/g, " ").trim();
-}
-
-function normalizeVideoUrl(value: any): string {
-  const url = clean(value) || DEFAULT_VIDEO;
-
-  const needsRel = !url.includes("rel=");
-  const needsAutoplay = !url.includes("autoplay=");
-  const needsMute = !url.includes("mute=");
-
-  const params = [
-    needsRel ? "rel=0" : "",
-    needsAutoplay ? "autoplay=1" : "",
-    needsMute ? "mute=1" : "",
-  ].filter(Boolean);
-
-  if (!params.length) return url;
-
-  return `${url}${url.includes("?") ? "&" : "?"}${params.join("&")}`;
-}
-
-function list(v: any): string[] {
-  if (!v) return [];
-
-  if (Array.isArray(v)) {
-    return v.map(clean).filter(Boolean);
+function cleanText(value: any): string {
+  if (value === null || value === undefined) return "";
+  if (Array.isArray(value)) return value.map(cleanText).filter(Boolean).join(" • ");
+  if (typeof value === "object") {
+    return Object.values(value).map(cleanText).filter(Boolean).join(" • ");
   }
+  return String(value).replace(/\s+/g, " ").trim();
+}
 
-  if (typeof v === "string") {
-    return v
-      .split(/\n|•|- /)
-      .map((x) => x.trim())
-      .filter(Boolean);
+function asList(value: any): string[] {
+  if (!value) return [];
+  if (Array.isArray(value)) return value.map(cleanText).filter(Boolean);
+  if (typeof value === "object") return Object.values(value).map(cleanText).filter(Boolean);
+
+  return cleanText(value)
+    .split(/\n|•|\|/)
+    .map((x) => x.trim())
+    .filter(Boolean);
+}
+
+function getStories(report: AnyObj): AnyObj[] {
+  const candidates =
+    report.stories ||
+    report.news ||
+    report.headlines ||
+    report.items ||
+    report.articles ||
+    report.sections ||
+    [];
+
+  if (Array.isArray(candidates)) return candidates.filter(Boolean);
+
+  if (typeof candidates === "object") {
+    return Object.values(candidates).flatMap((item: any) =>
+      Array.isArray(item) ? item : [item]
+    );
   }
 
   return [];
 }
 
-function getStories(report: JsonObject): any[] {
-  if (Array.isArray(report.sections)) return report.sections;
-
-  if (report.sections && typeof report.sections === "object") {
-    return Object.values(report.sections);
-  }
-
-  return [];
+function storyTitle(story: AnyObj, index: number): string {
+  return (
+    cleanText(story.headline) ||
+    cleanText(story.title) ||
+    cleanText(story.name) ||
+    `Entertainment Storyline ${index + 1}`
+  );
 }
 
-function StoryCard({ story, index }: { story: any; index: number }) {
-  const headline = clean(story.headline) || `Entertainment Story ${index + 1}`;
-  const url = clean(story.url) || "#";
-  const summary = clean(story.snapshot || story.summary);
+function storyUrl(story: AnyObj): string {
+  return cleanText(story.url) || cleanText(story.link) || cleanText(story.source_url) || "#";
+}
 
-  const keyData = list(story.key_data);
-  const why = list(story.why_it_matters);
-  const watch = list(story.what_to_watch);
+function storySummary(story: AnyObj): string {
+  return (
+    cleanText(story.summary) ||
+    cleanText(story.snapshot) ||
+    cleanText(story.description) ||
+    cleanText(story.body) ||
+    "Entertainment development flagged for newsroom monitoring."
+  );
+}
+
+function Block({ title, children }: { title: string; children: ReactNode }) {
+  return (
+    <section className="rounded-2xl border border-neutral-800 bg-neutral-950 p-5 shadow-xl">
+      <h2 className="mb-3 text-sm font-black uppercase tracking-wide text-amber-400">
+        {title}
+      </h2>
+      {children}
+    </section>
+  );
+}
+
+function LineList({ items }: { items: string[] }) {
+  const safe = items.filter(Boolean).slice(0, 8);
+
+  if (!safe.length) {
+    return <p className="text-sm leading-6 text-neutral-400">No current items available.</p>;
+  }
 
   return (
-    <div className="mb-6 rounded-xl border border-neutral-800 bg-neutral-900 p-5">
-      <a
-        href={url}
-        target="_blank"
-        rel="noopener noreferrer"
-        className="block text-2xl font-extrabold text-white hover:text-amber-400"
-      >
-        {headline}
-      </a>
-
-      {summary && <div className="mt-2 text-sm text-neutral-400">{summary}</div>}
-
-      <div className="mt-4 grid gap-4 md:grid-cols-3">
-        <div className="rounded-lg bg-black p-3">
-          <div className="mb-2 text-xs font-black text-amber-400">KEY DATA</div>
-          {keyData.length ? (
-            keyData.map((d, i) => (
-              <div key={i} className="border-b border-neutral-800 py-1 text-sm">
-                {d}
-              </div>
-            ))
-          ) : (
-            <div className="text-sm text-neutral-500">No data</div>
-          )}
-        </div>
-
-        <div className="rounded-lg bg-black p-3">
-          <div className="mb-2 text-xs font-black text-amber-400">WHY IT MATTERS</div>
-          {why.length ? (
-            why.map((d, i) => (
-              <div key={i} className="border-b border-neutral-800 py-1 text-sm">
-                {d}
-              </div>
-            ))
-          ) : (
-            <div className="text-sm text-neutral-500">Editorial relevance developing</div>
-          )}
-        </div>
-
-        <div className="rounded-lg bg-black p-3">
-          <div className="mb-2 text-xs font-black text-amber-400">WHAT TO WATCH</div>
-          {watch.length ? (
-            watch.map((d, i) => (
-              <div key={i} className="border-b border-neutral-800 py-1 text-sm">
-                {d}
-              </div>
-            ))
-          ) : (
-            <div className="text-sm text-neutral-500">Next movement pending</div>
-          )}
-        </div>
-      </div>
+    <div className="space-y-2">
+      {safe.map((item, i) => (
+        <p key={i} className="border-b border-neutral-800 pb-2 text-sm leading-6 text-neutral-300">
+          {item}
+        </p>
+      ))}
     </div>
   );
 }
 
-export default function Home() {
+function NewsroomBriefing({ items }: { items: string[] }) {
+  const safe = items.filter(Boolean).slice(0, 6);
+
+  return (
+    <div className="rounded-2xl border border-neutral-800 bg-neutral-950 p-5 shadow-xl">
+      <p className="mb-3 text-xs font-black uppercase tracking-wide text-amber-400">
+        Live Newsroom Briefing
+      </p>
+
+      {safe.length ? (
+        <div className="space-y-2">
+          {safe.map((item, i) => (
+            <p
+              key={i}
+              className="border-b border-neutral-800 pb-2 text-sm leading-6 text-neutral-300"
+            >
+              {item}
+            </p>
+          ))}
+        </div>
+      ) : (
+        <p className="text-sm leading-6 text-neutral-400">
+          Monitoring major developments across film, television, streaming, music, talent, studios and media business.
+        </p>
+      )}
+    </div>
+  );
+}
+
+function StoryCard({ story, index }: { story: AnyObj; index: number }) {
+  const title = storyTitle(story, index);
+  const url = storyUrl(story);
+  const summary = storySummary(story);
+
+  const keyData = asList(story.key_data || story.keyData || story.data || story.metrics);
+  const why = asList(story.why_it_matters || story.whyItMatters || story.why);
+  const watch = asList(story.what_to_watch || story.whatToWatch || story.watch);
+
+  return (
+    <article className="rounded-2xl border border-neutral-800 bg-neutral-950 p-5 shadow-xl">
+      <p className="mb-2 text-xs font-black uppercase tracking-wide text-amber-400">
+        Entertainment Watch
+      </p>
+
+      <h3 className="text-xl font-black leading-tight text-white">
+        {url !== "#" ? (
+          <a href={url} target="_blank" rel="noopener noreferrer" className="hover:text-amber-300">
+            {title}
+          </a>
+        ) : (
+          title
+        )}
+      </h3>
+
+      <p className="mt-3 text-sm leading-6 text-neutral-400">{summary}</p>
+
+      <div className="mt-4 grid gap-3 md:grid-cols-3">
+        <div className="rounded-xl border border-neutral-800 bg-black p-3">
+          <p className="mb-2 text-xs font-black uppercase text-amber-400">Key Data</p>
+          <LineList items={keyData.length ? keyData : ["No verified data point attached yet."]} />
+        </div>
+
+        <div className="rounded-xl border border-neutral-800 bg-black p-3">
+          <p className="mb-2 text-xs font-black uppercase text-amber-400">Why It Matters</p>
+          <LineList items={why.length ? why : ["This affects entertainment coverage priorities."]} />
+        </div>
+
+        <div className="rounded-xl border border-neutral-800 bg-black p-3">
+          <p className="mb-2 text-xs font-black uppercase text-amber-400">What To Watch</p>
+          <LineList items={watch.length ? watch : ["Monitor the next studio, platform, talent, box office or audience response."]} />
+        </div>
+      </div>
+    </article>
+  );
+}
+
+export default function Page() {
   const report = readReport();
 
-  const headline = clean(report.headline) || "Entertainment Report Loading";
-  const snapshot = clean(report.snapshot);
-  const updated = clean(report.updated_at || report.generated_at);
-  const videoUrl = normalizeVideoUrl(report.video_url);
+  const headline =
+    cleanText(report.headline) ||
+    cleanText(report.title) ||
+    "Entertainment Newsroom Watch: Major Developments Under Review";
 
-  let stories = getStories(report);
+  const snapshot =
+    cleanText(report.snapshot) ||
+    cleanText(report.summary) ||
+    cleanText(report.body) ||
+    "A live entertainment briefing built for journalists tracking studios, streaming, film, television, music, talent, audience behavior and media business.";
+
+  const updated =
+    cleanText(report.updated_at) ||
+    cleanText(report.generated_at) ||
+    cleanText(report.published_at) ||
+    "Update time unavailable";
+
+  let stories = getStories(report).filter((story) => story && typeof story === "object");
 
   if (!stories.length) {
     stories = [
       {
         headline,
-        snapshot,
-        key_data: ["Entertainment pipeline awaiting update"],
-        why_it_matters: ["Coverage gap for newsroom"],
-        what_to_watch: ["Next content engine run"],
+        summary: snapshot,
+        key_data: ["Latest entertainment report generated from live feeds."],
+        why_it_matters: ["Editors need fast clarity on audience, talent, studios, platforms and media business."],
+        what_to_watch: ["Next studio move, platform decision, box office signal, talent development or audience response."],
       },
     ];
   }
 
-  const keyStorylines = list(report.key_storylines);
+  const leadStories = stories.slice(0, 10);
+
+  const signals = asList(
+    report.key_storylines ||
+      report.keyStorylines ||
+      report.signals ||
+      report.toplines ||
+      report.takeaways
+  );
 
   return (
     <main className="min-h-screen bg-black text-white">
-      <div className="mx-auto max-w-6xl px-4 py-6">
-        <header className="mb-6 border-b border-neutral-800 pb-6">
-          <div className="grid gap-6 lg:grid-cols-[1.2fr_1fr]">
-            <div>
-              <div className="mb-2 text-xs font-black uppercase tracking-widest text-amber-400">
-                GLOBAL ENTERTAINMENT REPORT
-              </div>
+      <header className="border-b border-neutral-800 bg-neutral-950">
+        <div className="mx-auto grid max-w-7xl gap-6 px-5 py-8 lg:grid-cols-[1.2fr_0.8fr]">
+          <div>
+            <p className="text-sm font-black uppercase tracking-wide text-amber-400">
+              {SITE.name}
+            </p>
 
-              <h1 className="text-4xl font-extrabold">{headline}</h1>
+            <h1 className="mt-3 text-4xl font-black leading-tight md:text-5xl">
+              {headline}
+            </h1>
 
-              {snapshot && <p className="mt-3 max-w-2xl text-neutral-400">{snapshot}</p>}
+            <p className="mt-4 max-w-3xl text-lg leading-8 text-neutral-400">
+              {snapshot}
+            </p>
 
-              <div className="mt-3 text-xs text-neutral-500">Updated {updated}</div>
-            </div>
-
-            <div>
-              <div className="mb-2 text-xs font-bold text-amber-400">LIVE COVERAGE</div>
-
-              <div className="aspect-video overflow-hidden rounded-xl border border-neutral-800 bg-black">
-                <iframe
-                  src={videoUrl}
-                  title="Live Entertainment Coverage"
-                  allow="autoplay; encrypted-media; picture-in-picture"
-                  allowFullScreen
-                  className="h-full w-full"
-                />
-              </div>
-
-              <div className="mt-2 text-xs text-neutral-500">
-                Live entertainment news stream
-              </div>
+            <div className="mt-5 flex flex-wrap gap-3 text-sm font-bold">
+              <span className="rounded-full bg-amber-400 px-4 py-2 text-black">
+                {SITE.tagline}
+              </span>
+              <span className="rounded-full border border-neutral-700 bg-black px-4 py-2 text-neutral-300">
+                Updated: {updated}
+              </span>
             </div>
           </div>
-        </header>
 
-        <section className="mb-6">
-          {keyStorylines.map((s, i) => (
-            <div key={i} className="border-b border-neutral-800 py-2">
-              {s}
+          <NewsroomBriefing
+            items={
+              signals.length
+                ? signals
+                : [
+                    "Track the strongest entertainment industry development.",
+                    "Prioritize verified source links.",
+                    "Watch studios, platforms, talent, box office, streaming and audience response.",
+                    "Monitor audience behavior, deal flow and cultural impact.",
+                  ]
+            }
+          />
+        </div>
+      </header>
+
+      <section className="mx-auto grid max-w-7xl gap-6 px-5 py-6 lg:grid-cols-[0.75fr_1.25fr]">
+        <aside className="space-y-6">
+          <Block title="Editor Signals">
+            <LineList
+              items={
+                signals.length
+                  ? signals
+                  : [
+                      "Track the strongest entertainment industry development.",
+                      "Prioritize verified source links.",
+                      "Watch studios, platforms, talent, box office, streaming and audience response.",
+                    ]
+              }
+            />
+          </Block>
+
+          <Block title="Journalist Toolkit">
+            <div className="space-y-2">
+              {TOOLKIT.map(([name, url]) => (
+                <a
+                  key={name}
+                  href={url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="block rounded-xl border border-neutral-800 bg-black px-4 py-3 text-sm font-bold text-neutral-200 hover:border-amber-400 hover:text-amber-300"
+                >
+                  {name}
+                </a>
+              ))}
             </div>
+          </Block>
+
+          <Block title="Coverage Lens">
+            <LineList
+              items={[
+                "Business: What changes for studios, platforms or distributors?",
+                "Audience: What does this say about demand, attention or culture?",
+                "Talent: Who gains leverage, visibility or negotiating power?",
+                "Money: What is the box office, streaming, rights or deal impact?",
+                "Newsroom: What should journalists verify next?",
+              ]}
+            />
+          </Block>
+        </aside>
+
+        <section className="space-y-6">
+          {leadStories.map((story, index) => (
+            <StoryCard key={index} story={story} index={index} />
           ))}
         </section>
+      </section>
 
-        <section>
-          {stories.slice(0, 10).map((s, i) => (
-            <StoryCard key={i} story={s} index={i} />
-          ))}
-        </section>
-
-        <section className="mt-8 border-t border-neutral-800 pt-6">
-          <div className="mb-3 text-xs font-black uppercase text-amber-400">
-            Journalist Toolkit
-          </div>
-
-          <div className="space-y-2 text-sm">
-            <a href="https://variety.com" target="_blank" rel="noopener noreferrer" className="block hover:underline">Variety</a>
-            <a href="https://www.hollywoodreporter.com" target="_blank" rel="noopener noreferrer" className="block hover:underline">Hollywood Reporter</a>
-            <a href="https://deadline.com" target="_blank" rel="noopener noreferrer" className="block hover:underline">Deadline</a>
-            <a href="https://www.boxofficemojo.com" target="_blank" rel="noopener noreferrer" className="block hover:underline">Box Office Mojo</a>
-            <a href="https://www.imdb.com" target="_blank" rel="noopener noreferrer" className="block hover:underline">IMDb</a>
-          </div>
-        </section>
-      </div>
+      <footer className="border-t border-neutral-800 bg-neutral-950">
+        <div className="mx-auto max-w-7xl px-5 py-6">
+          <p className="text-sm font-medium text-neutral-300">
+            © {new Date().getFullYear()} {SITE.name}. {SITE.tagline}
+          </p>
+          <p className="mt-2 max-w-4xl text-sm leading-6 text-neutral-500">
+            {SITE.descriptor}
+          </p>
+        </div>
+      </footer>
     </main>
   );
 }
