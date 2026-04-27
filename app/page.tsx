@@ -5,7 +5,6 @@ export const dynamic = "force-dynamic";
 
 type JsonObject = { [key: string]: any };
 
-// ✅ CLEAN, SAFE EMBED (NO PARAM BREAKING)
 const VIDEO_URL = "https://www.youtube.com/embed/21X5lGlDOfg";
 
 function readReport(): JsonObject {
@@ -15,10 +14,8 @@ function readReport(): JsonObject {
     return JSON.parse(raw);
   } catch {
     return {
-      site: "Global Entertainment Report",
-      brand: "Built for journalists, by a journalist.",
       headline: "Entertainment Report Loading",
-      snapshot: "Latest entertainment intelligence will appear here.",
+      snapshot: "",
       sections: [],
     };
   }
@@ -46,36 +43,37 @@ function asList(v: any): string[] {
   return [];
 }
 
-function Card({ section }: { section: any }) {
+function getSections(report: JsonObject): any[] {
+  if (Array.isArray(report.sections)) return report.sections;
+  if (report.sections && typeof report.sections === "object") {
+    return Object.values(report.sections);
+  }
+  return [];
+}
+
+// 🎬 VARIETY-STYLE NEWS LINE
+function NewsLine({ item }: { item: any }) {
+  const headline = asText(item.headline);
+  const url = item.url || "#";
+  const context = asText(item.snapshot);
+
   return (
-    <article className="rounded-3xl bg-white p-6 shadow-xl">
-      <span className="text-xs font-black uppercase tracking-widest text-amber-600">
-        {section.title}
-      </span>
+    <div className="py-3 border-b border-neutral-800">
+      <a
+        href={url}
+        target="_blank"
+        rel="noopener noreferrer"
+        className="block text-lg font-bold text-white hover:text-amber-400"
+      >
+        {headline}
+      </a>
 
-      <h2 className="mt-3 text-2xl font-black text-slate-900">
-        {section.headline}
-      </h2>
-
-      {section.snapshot && (
-        <p className="mt-4 text-base leading-7 text-slate-700">
-          {section.snapshot}
-        </p>
-      )}
-
-      {section.key_storylines?.length > 0 && (
-        <div className="mt-5 space-y-3">
-          {section.key_storylines.map((item: string, i: number) => (
-            <div
-              key={i}
-              className="border-l-4 border-amber-500 bg-slate-50 px-4 py-3 text-sm font-semibold"
-            >
-              {item}
-            </div>
-          ))}
+      {context && (
+        <div className="text-sm text-neutral-400 mt-1">
+          {context}
         </div>
       )}
-    </article>
+    </div>
   );
 }
 
@@ -86,92 +84,91 @@ export default function Home() {
   const snapshot = asText(report.snapshot);
   const updated = asText(report.updated_at || report.generated_at);
 
-  const sections = Array.isArray(report.sections)
-    ? report.sections
-    : Object.values(report.sections || {});
-
+  const sections = getSections(report);
   const keyStorylines = asList(report.key_storylines);
 
   return (
     <main className="min-h-screen bg-black text-white">
-      <div className="mx-auto max-w-7xl px-5 py-6">
+      <div className="max-w-5xl mx-auto px-4 py-6">
 
-        <header className="grid gap-8 border-b border-neutral-800 pb-10 lg:grid-cols-[1.2fr_0.8fr]">
+        {/* HEADER */}
+        <header className="border-b border-neutral-800 pb-6 mb-6">
 
-          <div>
-            <div className="mb-4 flex gap-3">
-              <span className="bg-amber-600 px-4 py-2 text-xs font-black uppercase tracking-widest">
+          <div className="flex justify-between items-start gap-6">
+
+            <div>
+              <div className="text-xs uppercase font-black tracking-widest text-amber-400 mb-2">
                 GLOBAL ENTERTAINMENT REPORT
-              </span>
+              </div>
 
-              <span className="border border-neutral-600 px-4 py-2 text-xs font-black uppercase tracking-widest">
-                BUILT FOR JOURNALISTS
-              </span>
+              <h1 className="text-3xl font-extrabold leading-tight">
+                {headline}
+              </h1>
+
+              {snapshot && (
+                <p className="text-sm text-neutral-400 mt-2 max-w-2xl">
+                  {snapshot}
+                </p>
+              )}
+
+              <div className="text-xs text-neutral-500 mt-2">
+                Updated {updated}
+              </div>
             </div>
 
-            <h1 className="text-5xl font-black leading-tight">
-              {headline}
-            </h1>
+            {/* VIDEO */}
+            <div className="w-[320px] hidden lg:block">
+              <div className="text-xs font-bold mb-1 text-amber-400">
+                LIVE
+              </div>
 
-            <p className="mt-5 text-lg text-neutral-300 max-w-3xl">
-              {snapshot}
-            </p>
-
-            <div className="mt-5 flex gap-3">
-              <span className="bg-white text-black px-4 py-2 text-xs font-bold rounded-full">
-                UPDATED {updated}
-              </span>
-
-              <span className="border border-amber-500 px-4 py-2 text-xs font-bold rounded-full text-amber-300">
-                {sections.length} REPORTS
-              </span>
-            </div>
-          </div>
-
-          {/* FIXED VIDEO PANEL */}
-          <div className="rounded-3xl bg-neutral-900 p-5">
-            <div className="text-xs font-black uppercase text-amber-400 mb-2">
-              LIVE ENTERTAINMENT VIDEO
+              <div className="aspect-video bg-black rounded overflow-hidden">
+                <iframe
+                  src={`${VIDEO_URL}?autoplay=1&mute=1`}
+                  title="Live Video"
+                  allow="autoplay; encrypted-media"
+                  allowFullScreen
+                  className="w-full h-full"
+                />
+              </div>
             </div>
 
-            <div className="aspect-video rounded-xl overflow-hidden bg-black">
-              <iframe
-                src={`${VIDEO_URL}?autoplay=1&mute=1`}
-                title="Live Video"
-                allow="autoplay; encrypted-media"
-                allowFullScreen
-                className="w-full h-full rounded-2xl"
-              />
-            </div>
-
-            <a
-              href="https://www.youtube.com/results?search_query=entertainment+news"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="mt-3 inline-block text-xs text-amber-400 underline"
-            >
-              Open live stream directly
-            </a>
           </div>
         </header>
 
-        <section className="grid gap-4 py-6 md:grid-cols-2 lg:grid-cols-4">
-          {keyStorylines.slice(0, 4).map((s, i) => (
-            <div key={i} className="rounded-2xl border border-neutral-800 p-4">
-              <p className="text-sm font-semibold">{s}</p>
+        {/* 🔥 KEY STORYLINES */}
+        <section className="mb-6">
+          {keyStorylines.map((s, i) => (
+            <div key={i} className="py-2 border-b border-neutral-800">
+              <div className="text-base font-semibold text-white">
+                {s}
+              </div>
             </div>
           ))}
         </section>
 
-        <section className="grid gap-6 lg:grid-cols-2">
+        {/* 🎬 MAIN NEWS FLOW */}
+        <section>
           {sections.map((s: any, i: number) => (
-            <Card key={i} section={s} />
+            <NewsLine key={i} item={s} />
           ))}
         </section>
 
-        <footer className="mt-10 text-center text-sm text-neutral-400">
-          Global Entertainment Report · GSR Network
-        </footer>
+        {/* TOOLKIT */}
+        <section className="mt-8 border-t border-neutral-800 pt-6">
+          <div className="text-xs uppercase font-black text-amber-400 mb-3">
+            Journalist Toolkit
+          </div>
+
+          <div className="space-y-2 text-sm">
+            <a href="https://variety.com" target="_blank" className="block hover:underline">Variety</a>
+            <a href="https://www.hollywoodreporter.com" target="_blank" className="block hover:underline">Hollywood Reporter</a>
+            <a href="https://deadline.com" target="_blank" className="block hover:underline">Deadline</a>
+            <a href="https://www.boxofficemojo.com" target="_blank" className="block hover:underline">Box Office Mojo</a>
+            <a href="https://www.imdb.com" target="_blank" className="block hover:underline">IMDb</a>
+          </div>
+        </section>
+
       </div>
     </main>
   );
