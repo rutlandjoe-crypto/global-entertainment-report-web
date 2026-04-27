@@ -5,7 +5,8 @@ export const dynamic = "force-dynamic";
 
 type JsonObject = { [key: string]: any };
 
-const VIDEO_URL = "https://www.youtube.com/embed/21X5lGlDOfg";
+// ✅ CLEAN EMBED
+const VIDEO_URL = "https://www.youtube.com/embed/21X5lGlDOfg?rel=0";
 
 function readReport(): JsonObject {
   try {
@@ -51,7 +52,7 @@ function getSections(report: JsonObject): any[] {
   return [];
 }
 
-// 🎬 VARIETY-STYLE NEWS LINE
+// 🎬 NEWS LINE
 function NewsLine({ item }: { item: any }) {
   const headline = asText(item.headline);
   const url = item.url || "#";
@@ -89,54 +90,59 @@ export default function Home() {
 
   return (
     <main className="min-h-screen bg-black text-white">
-      <div className="max-w-5xl mx-auto px-4 py-6">
+      <div className="max-w-6xl mx-auto px-4 py-6">
 
         {/* HEADER */}
         <header className="border-b border-neutral-800 pb-6 mb-6">
 
-          <div className="flex justify-between items-start gap-6">
+          <div className="grid lg:grid-cols-[1.2fr_1fr] gap-6 items-start">
 
+            {/* LEFT */}
             <div>
               <div className="text-xs uppercase font-black tracking-widest text-amber-400 mb-2">
                 GLOBAL ENTERTAINMENT REPORT
               </div>
 
-              <h1 className="text-3xl font-extrabold leading-tight">
+              <h1 className="text-4xl font-extrabold leading-tight">
                 {headline}
               </h1>
 
               {snapshot && (
-                <p className="text-sm text-neutral-400 mt-2 max-w-2xl">
+                <p className="text-base text-neutral-400 mt-3 max-w-2xl">
                   {snapshot}
                 </p>
               )}
 
-              <div className="text-xs text-neutral-500 mt-2">
+              <div className="text-xs text-neutral-500 mt-3">
                 Updated {updated}
               </div>
             </div>
 
-            {/* VIDEO */}
-            <div className="w-[320px] hidden lg:block">
-              <div className="text-xs font-bold mb-1 text-amber-400">
-                LIVE
+            {/* RIGHT — BIG VIDEO */}
+            <div>
+              <div className="text-xs font-bold mb-2 text-amber-400">
+                LIVE ENTERTAINMENT COVERAGE
               </div>
 
-              <div className="aspect-video bg-black rounded overflow-hidden">
+              <div className="aspect-video bg-black rounded-xl overflow-hidden border border-neutral-800">
                 <iframe
-                  src={`${VIDEO_URL}?autoplay=1&mute=1`}
-                  title="Live Video"
+                  src={VIDEO_URL}
+                  title="Live Entertainment Video"
                   allow="autoplay; encrypted-media"
                   allowFullScreen
                   className="w-full h-full"
                 />
+              </div>
+
+              <div className="text-xs text-neutral-500 mt-2">
+                Live entertainment news stream
               </div>
             </div>
 
           </div>
         </header>
 
-        {/* 🔥 KEY STORYLINES */}
+        {/* STORYLINES */}
         <section className="mb-6">
           {keyStorylines.map((s, i) => (
             <div key={i} className="py-2 border-b border-neutral-800">
@@ -147,7 +153,7 @@ export default function Home() {
           ))}
         </section>
 
-        {/* 🎬 MAIN NEWS FLOW */}
+        {/* MAIN */}
         <section>
           {sections.map((s: any, i: number) => (
             <NewsLine key={i} item={s} />
