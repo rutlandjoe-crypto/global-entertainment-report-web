@@ -6,9 +6,7 @@ export const dynamic = "force-dynamic";
 type JsonObject = { [key: string]: any };
 
 // ✅ CLEAN, SAFE EMBED (NO PARAM BREAKING)
-const VIDEO_URL =
-  process.env.NEXT_PUBLIC_GER_VIDEO_URL ||
-  "https://www.youtube.com/embed/36YnV9STBqc";
+const VIDEO_URL = "https://www.youtube.com/embed/21X5lGlDOfg";
 
 function readReport(): JsonObject {
   try {
@@ -137,14 +135,13 @@ export default function Home() {
             </div>
 
             <div className="aspect-video rounded-xl overflow-hidden bg-black">
-              <iframe
-                src={VIDEO_URL}
-                title="Entertainment Live Video"
-                className="w-full h-full border-0"
-                allow="autoplay; encrypted-media; picture-in-picture"
-                allowFullScreen
-              />
-            </div>
+<iframe
+  src={`${VIDEO_URL}?autoplay=1&mute=1`}
+  title="Live Video"
+  allow="autoplay; encrypted-media"
+  allowFullScreen
+  className="w-full h-full rounded-2xl"
+/>
 
             <a
               href="https://www.youtube.com/results?search_query=entertainment+news"
