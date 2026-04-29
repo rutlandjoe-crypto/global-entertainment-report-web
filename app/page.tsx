@@ -40,13 +40,74 @@ function readReport(): AnyObj {
   }
 }
 
+function decodeHtmlEntities(value: string): string {
+  let text = value;
+
+  const namedEntities: Record<string, string> = {
+    "&amp;": "&",
+    "&quot;": '"',
+    "&apos;": "'",
+    "&#39;": "'",
+    "&#x27;": "'",
+    "&nbsp;": " ",
+    "&#160;": " ",
+    "&lt;": "<",
+    "&gt;": ">",
+    "&rsquo;": "'",
+    "&lsquo;": "'",
+    "&ldquo;": '"',
+    "&rdquo;": '"',
+    "&ndash;": "–",
+    "&mdash;": "—",
+  };
+
+  for (let pass = 0; pass < 6; pass += 1) {
+    const before = text;
+
+    Object.entries(namedEntities).forEach(([bad, good]) => {
+      text = text.split(bad).join(good);
+    });
+
+    text = text.replace(/&#(\d+);/g, (_match, code) => {
+      const num = Number(code);
+      return Number.isFinite(num) ? String.fromCharCode(num) : _match;
+    });
+
+    text = text.replace(/&#x([0-9a-fA-F]+);/g, (_match, code) => {
+      const num = parseInt(code, 16);
+      return Number.isFinite(num) ? String.fromCharCode(num) : _match;
+    });
+
+    if (text === before) break;
+  }
+
+  return text;
+}
+
 function cleanText(value: any): string {
   if (value === null || value === undefined) return "";
   if (Array.isArray(value)) return value.map(cleanText).filter(Boolean).join(" • ");
   if (typeof value === "object") {
     return Object.values(value).map(cleanText).filter(Boolean).join(" • ");
   }
-  return String(value).replace(/\s+/g, " ").trim();
+
+  let text = String(value);
+
+  text = decodeHtmlEntities(text);
+  text = text.replace(/<script.*?<\/script>/gis, " ");
+  text = text.replace(/<style.*?<\/style>/gis, " ");
+  text = text.replace(/<[^>]+>/g, " ");
+  text = decodeHtmlEntities(text);
+
+  text = text
+    .replace(/\u2018|\u2019/g, "'")
+    .replace(/\u201c|\u201d/g, '"')
+    .replace(/\u2014/g, "—")
+    .replace(/\u2013/g, "–")
+    .replace(/\s+/g, " ")
+    .trim();
+
+  return text;
 }
 
 function asList(value: any): string[] {
@@ -116,14 +177,14 @@ function storyLabel(story: AnyObj): string {
 }
 
 function storySignal(story: AnyObj, index: number): string {
-  return `${storyLabel(story)}: ${storyTitle(story, index)}`;
+  return cleanText(`${storyLabel(story)}: ${storyTitle(story, index)}`);
 }
 
 function Block({ title, children }: { title: string; children: ReactNode }) {
   return (
     <section className="rounded-2xl border border-neutral-800 bg-neutral-950 p-5 shadow-xl">
       <h2 className="mb-3 text-sm font-black uppercase tracking-wide text-amber-400">
-        {title}
+        {cleanText(title)}
       </h2>
       {children}
     </section>
@@ -131,7 +192,7 @@ function Block({ title, children }: { title: string; children: ReactNode }) {
 }
 
 function LineList({ items }: { items: string[] }) {
-  const safe = items.filter(Boolean).slice(0, 8);
+  const safe = items.map(cleanText).filter(Boolean).slice(0, 8);
 
   if (!safe.length) {
     return <p className="text-sm leading-6 text-neutral-400">No current items available.</p>;
@@ -149,7 +210,7 @@ function LineList({ items }: { items: string[] }) {
 }
 
 function NewsroomBriefing({ items }: { items: string[] }) {
-  const safe = items.filter(Boolean).slice(0, 6);
+  const safe = items.map(cleanText).filter(Boolean).slice(0, 6);
 
   return (
     <div className="rounded-2xl border border-neutral-800 bg-neutral-950 p-5 shadow-xl">
