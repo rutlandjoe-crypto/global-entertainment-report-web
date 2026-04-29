@@ -23,6 +23,13 @@ const TOOLKIT = [
   ["IMDb", "https://www.imdb.com"],
 ];
 
+const GSR_NETWORK = [
+  ["Sports", "https://globalsportsreport.com"],
+  ["AI", "https://globalaireport.news"],
+  ["Politics", "https://globalpoliticsreport.com"],
+  ["Entertainment", "https://globalentertainmentreport.com"],
+];
+
 function readReport(): AnyObj {
   try {
     const file = path.join(process.cwd(), "public", "latest_report.json");
@@ -74,6 +81,12 @@ function getStories(report: AnyObj): AnyObj[] {
   return [];
 }
 
+function getSpotlightStories(report: AnyObj, key: "live_newsroom" | "editor_signals"): AnyObj[] {
+  const raw = report[key];
+  if (!Array.isArray(raw)) return [];
+  return raw.filter((item) => item && typeof item === "object");
+}
+
 function storyTitle(story: AnyObj, index: number): string {
   return (
     cleanText(story.headline) ||
@@ -84,7 +97,8 @@ function storyTitle(story: AnyObj, index: number): string {
 }
 
 function storyUrl(story: AnyObj): string {
-  return cleanText(story.url) || cleanText(story.link) || cleanText(story.source_url) || "#";
+  const url = cleanText(story.url) || cleanText(story.link) || cleanText(story.source_url) || "#";
+  return url.startsWith("http://") || url.startsWith("https://") ? url : "#";
 }
 
 function storySummary(story: AnyObj): string {
@@ -95,6 +109,14 @@ function storySummary(story: AnyObj): string {
     cleanText(story.body) ||
     "Entertainment development flagged for newsroom monitoring."
   );
+}
+
+function storyLabel(story: AnyObj): string {
+  return cleanText(story.label) || cleanText(story.source) || "Entertainment Watch";
+}
+
+function storySignal(story: AnyObj, index: number): string {
+  return `${storyLabel(story)}: ${storyTitle(story, index)}`;
 }
 
 function Block({ title, children }: { title: string; children: ReactNode }) {
@@ -246,8 +268,51 @@ export default function Page() {
       report.takeaways
   );
 
+  const liveNewsroomStories = getSpotlightStories(report, "live_newsroom");
+  const editorSignalStories = getSpotlightStories(report, "editor_signals");
+
+  const liveItems = liveNewsroomStories.length
+    ? liveNewsroomStories.map(storySignal)
+    : signals.length
+      ? signals
+      : [
+          "Track the strongest entertainment industry development.",
+          "Prioritize verified source links.",
+          "Watch studios, platforms, talent, box office, streaming and audience response.",
+          "Monitor audience behavior, deal flow and cultural impact.",
+        ];
+
+  const editorItems = editorSignalStories.length
+    ? editorSignalStories.map(storySignal)
+    : signals.length
+      ? signals
+      : [
+          "Track the strongest entertainment industry development.",
+          "Prioritize verified source links.",
+          "Watch studios, platforms, talent, box office, streaming and audience response.",
+        ];
+
   return (
     <main className="min-h-screen bg-black text-white">
+      <div className="border-b border-neutral-800 bg-neutral-950 text-white">
+        <div className="mx-auto flex max-w-7xl flex-wrap items-center gap-3 px-5 py-2 text-xs font-bold uppercase tracking-wide">
+          <span className="text-amber-400">GSR Network:</span>
+          {GSR_NETWORK.map(([name, url], index) => (
+            <span key={name} className="flex items-center gap-3">
+              <a
+                href={url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-white hover:text-amber-300"
+              >
+                {name}
+              </a>
+              {index < GSR_NETWORK.length - 1 ? <span className="text-neutral-600">•</span> : null}
+            </span>
+          ))}
+        </div>
+      </div>
+
       <header className="border-b border-neutral-800 bg-neutral-950">
         <div className="mx-auto grid max-w-7xl gap-6 px-5 py-8 lg:grid-cols-[1.2fr_0.8fr]">
           <div>
@@ -273,35 +338,14 @@ export default function Page() {
             </div>
           </div>
 
-          <NewsroomBriefing
-            items={
-              signals.length
-                ? signals
-                : [
-                    "Track the strongest entertainment industry development.",
-                    "Prioritize verified source links.",
-                    "Watch studios, platforms, talent, box office, streaming and audience response.",
-                    "Monitor audience behavior, deal flow and cultural impact.",
-                  ]
-            }
-          />
+          <NewsroomBriefing items={liveItems} />
         </div>
       </header>
 
       <section className="mx-auto grid max-w-7xl gap-6 px-5 py-6 lg:grid-cols-[0.75fr_1.25fr]">
         <aside className="space-y-6">
           <Block title="Editor Signals">
-            <LineList
-              items={
-                signals.length
-                  ? signals
-                  : [
-                      "Track the strongest entertainment industry development.",
-                      "Prioritize verified source links.",
-                      "Watch studios, platforms, talent, box office, streaming and audience response.",
-                    ]
-              }
-            />
+            <LineList items={editorItems} />
           </Block>
 
           <Block title="Journalist Toolkit">
