@@ -94,8 +94,8 @@ function cleanText(value: any): string {
   let text = String(value);
 
   text = decodeHtmlEntities(text);
-  text = text.replace(/<script.*?<\/script>/gis, " ");
-  text = text.replace(/<style.*?<\/style>/gis, " ");
+  text = text.replace(/<script[\s\S]*?<\/script>/gi, " ");
+  text = text.replace(/<style[\s\S]*?<\/style>/gi, " ");
   text = text.replace(/<[^>]+>/g, " ");
   text = decodeHtmlEntities(text);
 
