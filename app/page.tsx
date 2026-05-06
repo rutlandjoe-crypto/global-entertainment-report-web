@@ -4,6 +4,8 @@ import type { ReactNode } from "react";
 import EditorialStandard from "@/components/EditorialStandard";
 
 export const dynamic = "force-dynamic";
+export const revalidate = 0;
+export const fetchCache = "force-no-store";
 
 type AnyObj = Record<string, any>;
 
@@ -28,6 +30,23 @@ const GSR_NETWORK = [
   ["AI", "https://globalaireport.news"],
   ["Politics", "https://globalpoliticsreport.com"],
   ["Entertainment", "https://globalentertainmentreport.com"],
+  ["Betting", "https://globalbettingreport.com"],
+];
+
+const BAD_CONTENT_PHRASES = [
+  "source refresh",
+  "refresh needed",
+  "needed before publication",
+  "strict mode",
+  "current-day update pending",
+  "feed checked",
+  "required date",
+  "rebuild distribution",
+  "bad or stale",
+  "not allowed onto the homepage",
+  "no verified data point attached yet",
+  "no current items available",
+  "undefined",
 ];
 
 function readReport(): AnyObj {
@@ -110,19 +129,47 @@ function cleanText(value: any): string {
   return text;
 }
 
+function normalizeText(value: any): string {
+  return cleanText(value).toLowerCase();
+}
+
+function isBadContent(value: any): boolean {
+  const text = normalizeText(value);
+  if (!text) return true;
+  return BAD_CONTENT_PHRASES.some((phrase) => text.includes(phrase));
+}
+
+function unique(items: string[]): string[] {
+  const seen = new Set<string>();
+
+  return items
+    .map(cleanText)
+    .filter((item) => item && !isBadContent(item))
+    .filter((item) => {
+      const key = item.toLowerCase();
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    });
+}
+
 function asList(value: any): string[] {
   if (!value) return [];
-  if (Array.isArray(value)) return value.map(cleanText).filter(Boolean);
-  if (typeof value === "object") return Object.values(value).map(cleanText).filter(Boolean);
 
-  return cleanText(value)
-    .split(/\n|•|\|/)
-    .map((x) => x.trim())
-    .filter(Boolean);
+  if (Array.isArray(value)) {
+    return unique(value.flatMap((item) => cleanText(item).split(/\n|•|\|/)));
+  }
+
+  if (typeof value === "object") {
+    return unique(Object.values(value).flatMap((item) => cleanText(item).split(/\n|•|\|/)));
+  }
+
+  return unique(cleanText(value).split(/\n|•|\|/));
 }
 
 function getStories(report: AnyObj): AnyObj[] {
   const candidates =
+    report.live_newsroom ||
     report.stories ||
     report.news ||
     report.headlines ||
@@ -182,8 +229,8 @@ function storySignal(story: AnyObj, index: number): string {
 
 function Block({ title, children }: { title: string; children: ReactNode }) {
   return (
-    <section className="rounded-2xl border border-neutral-800 bg-neutral-950 p-5 shadow-xl">
-      <h2 className="mb-3 text-sm font-black uppercase tracking-wide text-amber-400">
+    <section className="rounded-2xl border border-purple-800/70 bg-neutral-950 p-5 shadow-xl shadow-purple-950/30">
+      <h2 className="mb-3 text-sm font-black uppercase tracking-wide text-fuchsia-300">
         {cleanText(title)}
       </h2>
       {children}
@@ -192,10 +239,14 @@ function Block({ title, children }: { title: string; children: ReactNode }) {
 }
 
 function LineList({ items }: { items: string[] }) {
-  const safe = items.map(cleanText).filter(Boolean).slice(0, 8);
+  const safe = unique(items).slice(0, 8);
 
   if (!safe.length) {
-    return <p className="text-sm leading-6 text-neutral-400">No current items available.</p>;
+    return (
+      <p className="text-sm leading-6 text-neutral-400">
+        Monitoring verified entertainment developments for the next clean newsroom update.
+      </p>
+    );
   }
 
   return (
@@ -210,11 +261,11 @@ function LineList({ items }: { items: string[] }) {
 }
 
 function NewsroomBriefing({ items }: { items: string[] }) {
-  const safe = items.map(cleanText).filter(Boolean).slice(0, 6);
+  const safe = unique(items).slice(0, 6);
 
   return (
-    <div className="rounded-2xl border border-neutral-800 bg-neutral-950 p-5 shadow-xl">
-      <p className="mb-3 text-xs font-black uppercase tracking-wide text-amber-400">
+    <div className="rounded-2xl border border-purple-800/70 bg-neutral-950 p-5 shadow-xl shadow-purple-950/30">
+      <p className="mb-3 text-xs font-black uppercase tracking-wide text-fuchsia-300">
         Live Newsroom Briefing
       </p>
 
@@ -248,14 +299,14 @@ function StoryCard({ story, index }: { story: AnyObj; index: number }) {
   const watch = asList(story.what_to_watch || story.whatToWatch || story.watch);
 
   return (
-    <article className="rounded-2xl border border-neutral-800 bg-neutral-950 p-5 shadow-xl">
-      <p className="mb-2 text-xs font-black uppercase tracking-wide text-amber-400">
-        Entertainment Watch
+    <article className="rounded-2xl border border-purple-800/70 bg-neutral-950 p-5 shadow-xl shadow-purple-950/30">
+      <p className="mb-2 text-xs font-black uppercase tracking-wide text-fuchsia-300">
+        {storyLabel(story)}
       </p>
 
       <h3 className="text-xl font-black leading-tight text-white">
         {url !== "#" ? (
-          <a href={url} target="_blank" rel="noopener noreferrer" className="hover:text-amber-300">
+          <a href={url} target="_blank" rel="noopener noreferrer" className="hover:text-fuchsia-300">
             {title}
           </a>
         ) : (
@@ -267,17 +318,17 @@ function StoryCard({ story, index }: { story: AnyObj; index: number }) {
 
       <div className="mt-4 grid gap-3 md:grid-cols-3">
         <div className="rounded-xl border border-neutral-800 bg-black p-3">
-          <p className="mb-2 text-xs font-black uppercase text-amber-400">Key Data</p>
-          <LineList items={keyData.length ? keyData : ["No verified data point attached yet."]} />
+          <p className="mb-2 text-xs font-black uppercase text-fuchsia-300">Key Data</p>
+          <LineList items={keyData.length ? keyData : ["Latest verified entertainment signal attached for newsroom review."]} />
         </div>
 
         <div className="rounded-xl border border-neutral-800 bg-black p-3">
-          <p className="mb-2 text-xs font-black uppercase text-amber-400">Why It Matters</p>
-          <LineList items={why.length ? why : ["This affects entertainment coverage priorities."]} />
+          <p className="mb-2 text-xs font-black uppercase text-fuchsia-300">Why It Matters</p>
+          <LineList items={why.length ? why : ["This affects entertainment coverage priorities, audience attention, talent leverage or media business strategy."]} />
         </div>
 
         <div className="rounded-xl border border-neutral-800 bg-black p-3">
-          <p className="mb-2 text-xs font-black uppercase text-amber-400">What To Watch</p>
+          <p className="mb-2 text-xs font-black uppercase text-fuchsia-300">What To Watch</p>
           <LineList items={watch.length ? watch : ["Monitor the next studio, platform, talent, box office or audience response."]} />
         </div>
       </div>
@@ -355,16 +406,20 @@ export default function Page() {
 
   return (
     <main className="min-h-screen bg-black text-white">
-      <div className="border-b border-neutral-800 bg-neutral-950 text-white">
+      <div className="border-b border-purple-900 bg-neutral-950 text-white">
         <div className="mx-auto flex max-w-7xl flex-wrap items-center gap-3 px-5 py-2 text-xs font-bold uppercase tracking-wide">
-          <span className="text-amber-400">GSR Network:</span>
+          <span className="text-fuchsia-300">GSR Network:</span>
           {GSR_NETWORK.map(([name, url], index) => (
             <span key={name} className="flex items-center gap-3">
               <a
                 href={url}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-white hover:text-amber-300"
+                className={
+                  name === "Entertainment"
+                    ? "text-fuchsia-300 hover:text-white"
+                    : "text-white hover:text-fuchsia-300"
+                }
               >
                 {name}
               </a>
@@ -374,10 +429,10 @@ export default function Page() {
         </div>
       </div>
 
-      <header className="border-b border-neutral-800 bg-neutral-950">
+      <header className="border-b border-purple-900 bg-gradient-to-br from-black via-neutral-950 to-purple-950">
         <div className="mx-auto grid max-w-7xl gap-6 px-5 py-8 lg:grid-cols-[1.2fr_0.8fr]">
           <div>
-            <p className="text-sm font-black uppercase tracking-wide text-amber-400">
+            <p className="text-sm font-black uppercase tracking-wide text-fuchsia-300">
               {SITE.name}
             </p>
 
@@ -390,10 +445,10 @@ export default function Page() {
             </p>
 
             <div className="mt-5 flex flex-wrap gap-3 text-sm font-bold">
-              <span className="rounded-full bg-amber-400 px-4 py-2 text-black">
+              <span className="rounded-full bg-fuchsia-300 px-4 py-2 text-black">
                 {SITE.tagline}
               </span>
-              <span className="rounded-full border border-neutral-700 bg-black px-4 py-2 text-neutral-300">
+              <span className="rounded-full border border-purple-700 bg-black px-4 py-2 text-neutral-300">
                 Updated: {updated}
               </span>
             </div>
@@ -417,7 +472,7 @@ export default function Page() {
                   href={url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="block rounded-xl border border-neutral-800 bg-black px-4 py-3 text-sm font-bold text-neutral-200 hover:border-amber-400 hover:text-amber-300"
+                  className="block rounded-xl border border-neutral-800 bg-black px-4 py-3 text-sm font-bold text-neutral-200 hover:border-fuchsia-300 hover:text-fuchsia-300"
                 >
                   {name}
                 </a>
@@ -445,7 +500,7 @@ export default function Page() {
         </section>
       </section>
 
-      <footer className="border-t border-neutral-800 bg-neutral-950">
+      <footer className="border-t border-purple-900 bg-neutral-950">
         <div className="mx-auto max-w-7xl px-5 py-6">
           <p className="text-sm font-medium text-neutral-300">
             © {new Date().getFullYear()} {SITE.name}. {SITE.tagline}

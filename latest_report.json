@@ -1,59 +1,187 @@
 {
   "title": "Global Entertainment Report",
+  "vertical": "Entertainment",
   "headline": "Netflix Expands Live Content Strategy as Streaming Competition Intensifies",
   "snapshot": "Netflix is accelerating its push into live programming, signaling a major strategic shift in the streaming wars. The move reflects growing competition for audience engagement and retention.",
+  "updated_at": "2026-04-26 10:30:00 PM ET",
+  "generated_at": "2026-04-26 10:30:00 PM ET",
   "key_storylines": [
     "Netflix expands into live programming",
     "Streaming competition intensifies across platforms",
     "Studios adjust strategies amid market pressure",
     "Content becomes key battleground for subscribers"
   ],
-  "generated_at": "2026-04-26 10:30:00 PM ET",
-  "sections": [
+  "live_newsroom": [
     {
-      "title": "INDUSTRY LEAD",
+      "label": "Industry Lead",
       "headline": "Netflix Pushes Deeper Into Live Content and Event Programming",
-      "items": [
+      "summary": "Netflix is expanding its live programming strategy as streaming platforms compete harder for subscriber attention, retention and event-driven engagement.",
+      "url": "https://www.netflix.com/tudum",
+      "key_data": [
+        "Netflix is investing in live shows and special events",
+        "The strategy is aimed at boosting subscriber engagement",
+        "The move marks a shift beyond an on-demand-only streaming model"
+      ],
+      "why_it_matters": [
+        "Live programming gives streaming platforms appointment-viewing moments",
+        "Event content can help reduce churn and create broader cultural conversation",
+        "Netflix is competing not just on library depth but on real-time audience attention"
+      ],
+      "what_to_watch": [
+        "Watch whether live events drive subscriber retention",
+        "Track sports, comedy, awards and reality-event programming",
+        "Monitor how Disney, Amazon and Warner Bros. Discovery respond"
+      ]
+    },
+    {
+      "label": "Streaming Wars",
+      "headline": "Major Platforms Compete for Market Share and Viewer Retention",
+      "summary": "Disney, Amazon, Netflix and other platforms are fighting for subscribers through exclusive content, pricing strategies and bundled entertainment offerings.",
+      "url": "https://variety.com/",
+      "key_data": [
+        "Disney, Amazon and Netflix continue competing for subscribers",
+        "Exclusive content remains a major platform differentiator",
+        "Pricing and bundle strategies continue evolving across services"
+      ],
+      "why_it_matters": [
+        "Streaming is entering a more mature phase where retention matters as much as growth",
+        "Price increases and bundles can reshape consumer behavior",
+        "The strongest platforms may be those that combine scale, franchises and live programming"
+      ],
+      "what_to_watch": [
+        "Track subscriber growth, churn and average revenue per user",
+        "Watch bundle deals and ad-supported tier growth",
+        "Monitor which exclusive releases move audience behavior"
+      ]
+    },
+    {
+      "label": "Music & Culture",
+      "headline": "Artists and Labels Adapt to Changing Distribution Models",
+      "summary": "Music distribution continues to shift around streaming platforms, touring economics and direct audience engagement.",
+      "url": "https://www.billboard.com/",
+      "key_data": [
+        "Streaming continues to dominate music consumption",
+        "Touring remains a major revenue driver",
+        "New platforms continue reshaping artist-audience engagement"
+      ],
+      "why_it_matters": [
+        "The music business is increasingly shaped by platform reach and fan community economics",
+        "Artists are balancing streaming scale with touring and direct engagement",
+        "Labels must adapt to faster audience discovery cycles"
+      ],
+      "what_to_watch": [
+        "Watch touring revenue and festival demand",
+        "Track artist deals, catalog sales and platform-exclusive pushes",
+        "Monitor how short-form video continues influencing music discovery"
+      ]
+    },
+    {
+      "label": "Box Office & Ratings",
+      "headline": "Theatrical Releases and Ratings Reflect Shifting Audience Trends",
+      "summary": "Studios are adjusting release strategies as theatrical performance, streaming demand and audience behavior continue to shift.",
+      "url": "https://www.boxofficemojo.com/",
+      "key_data": [
+        "Box office performance continues to vary across genres",
+        "Streaming remains a factor in theatrical attendance patterns",
+        "Studios are adjusting release strategies across theatrical and digital windows"
+      ],
+      "why_it_matters": [
+        "Audience behavior now determines whether studios prioritize theaters, streaming or hybrid windows",
+        "Genre performance can reshape development and marketing budgets",
+        "Ratings and box office data remain key signals for franchise and sequel decisions"
+      ],
+      "what_to_watch": [
+        "Track opening weekends and second-weekend drops",
+        "Monitor streaming-to-theater window changes",
+        "Watch which genres show durable audience demand"
+      ]
+    }
+  ],
+  "editor_signals": [
+    {
+      "label": "Editor Signal",
+      "headline": "Live Programming Is Becoming a Streaming Retention Weapon",
+      "summary": "The strongest entertainment business signal is Netflix’s push to make streaming feel more event-driven, not just library-driven.",
+      "key_data": [
+        "Live content creates appointment-viewing moments",
+        "Streaming platforms are competing for retention and engagement",
+        "Subscriber growth is increasingly tied to event programming, franchises and bundles"
+      ],
+      "why_it_matters": [
+        "Entertainment coverage should connect programming strategy to subscriber economics"
+      ],
+      "what_to_watch": [
+        "Watch live-event performance, churn impact and competitor response"
+      ]
+    }
+  ],
+  "stories": [
+    {
+      "label": "Industry Lead",
+      "headline": "Netflix Pushes Deeper Into Live Content and Event Programming",
+      "summary": "Netflix is using live programming to create stronger engagement moments in a crowded streaming market.",
+      "url": "https://www.netflix.com/tudum",
+      "key_data": [
         "Company invests in live shows and special events",
         "Strategy aims to boost subscriber engagement",
         "Marks shift from on-demand-only model"
+      ],
+      "why_it_matters": [
+        "Live content can help streaming platforms create urgency and reduce churn."
+      ],
+      "what_to_watch": [
+        "Watch whether live events become a regular programming pillar."
       ]
     },
     {
-      "title": "STREAMING WARS",
+      "label": "Streaming Wars",
       "headline": "Major Platforms Compete for Market Share and Viewer Retention",
-      "items": [
-        "Disney, Amazon, and Netflix battle for subscribers",
+      "summary": "Streaming platforms are fighting for subscribers through exclusive programming, pricing and bundled services.",
+      "url": "https://variety.com/",
+      "key_data": [
+        "Disney, Amazon and Netflix battle for subscribers",
         "Exclusive content drives platform differentiation",
         "Pricing strategies evolve across services"
+      ],
+      "why_it_matters": [
+        "Retention is becoming as important as subscriber growth."
+      ],
+      "what_to_watch": [
+        "Track pricing, bundling, ad-tier growth and exclusive releases."
       ]
     },
     {
-      "title": "MUSIC & CULTURE",
+      "label": "Music & Culture",
       "headline": "Artists and Labels Adapt to Changing Distribution Models",
-      "items": [
+      "summary": "Music economics continue shifting around streaming, touring and direct audience engagement.",
+      "url": "https://www.billboard.com/",
+      "key_data": [
         "Streaming continues to dominate music consumption",
         "Touring remains major revenue driver",
         "New platforms reshape audience engagement"
+      ],
+      "why_it_matters": [
+        "Artists and labels are adapting to faster, platform-driven audience cycles."
+      ],
+      "what_to_watch": [
+        "Watch touring demand, catalog deals and social-platform music discovery."
       ]
     },
     {
-      "title": "BOX OFFICE & RATINGS",
+      "label": "Box Office & Ratings",
       "headline": "Theatrical Releases and Ratings Reflect Shifting Audience Trends",
-      "items": [
+      "summary": "Audience behavior continues reshaping theatrical releases, streaming windows and studio planning.",
+      "url": "https://www.boxofficemojo.com/",
+      "key_data": [
         "Box office performance varies across genres",
         "Streaming impacts theatrical attendance",
         "Studios adjust release strategies accordingly"
-      ]
-    },
-    {
-      "title": "JOURNALIST TOOLKIT",
-      "items": [
-        "Netflix — Streaming strategy and content releases",
-        "Disney — Film, TV, and streaming operations",
-        "Warner Bros. Discovery — Studio and media strategy",
-        "Variety — Entertainment industry reporting",
-        "The Hollywood Reporter — Industry news and analysis"
+      ],
+      "why_it_matters": [
+        "Box office and ratings signals influence future studio investment."
+      ],
+      "what_to_watch": [
+        "Monitor opening weekends, streaming windows and genre performance."
       ]
     }
   ]
