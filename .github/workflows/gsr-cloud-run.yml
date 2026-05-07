@@ -26,6 +26,7 @@ jobs:
       TWITTER_API_SECRET: ${{ secrets.TWITTER_API_SECRET }}
       TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
       TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+      GSR_PUSH_TOKEN: ${{ secrets.GSR_PUSH_TOKEN }}
 
     steps:
       - name: Check out repo
@@ -70,6 +71,20 @@ jobs:
           python -m json.tool public/latest_report.json > /tmp/latest_report_check.json
           ls -lh public/latest_report.json
           head -40 public/latest_report.json
+
+      - name: Publish latest report to production blob
+        run: |
+          if [ -z "${GSR_PUSH_TOKEN:-}" ]; then
+            echo "GSR_PUSH_TOKEN is not configured; skipping production blob publish."
+            exit 0
+          fi
+
+          curl --fail --show-error --silent \
+            --request POST \
+            --header "Authorization: Bearer ${GSR_PUSH_TOKEN}" \
+            --header "Content-Type: application/json" \
+            --data-binary @public/latest_report.json \
+            "https://globalentertainmentreport.com/api/push-report"
 
       - name: Stage website files
         run: |

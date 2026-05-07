@@ -1,13 +1,12 @@
-import fs from "fs";
-import path from "path";
 import type { ReactNode } from "react";
 import EditorialStandard from "@/components/EditorialStandard";
+import { loadReport } from "@/app/report-data";
 
 export const dynamic = "force-dynamic";
 export const revalidate = 0;
 export const fetchCache = "force-no-store";
 
-type AnyObj = Record<string, any>;
+type AnyObj = Record<string, unknown>;
 
 const SITE = {
   name: "Global Entertainment Report",
@@ -48,16 +47,6 @@ const BAD_CONTENT_PHRASES = [
   "no current items available",
   "undefined",
 ];
-
-function readReport(): AnyObj {
-  try {
-    const file = path.join(process.cwd(), "public", "latest_report.json");
-    const raw = fs.readFileSync(file, "utf8");
-    return JSON.parse(raw);
-  } catch {
-    return {};
-  }
-}
 
 function decodeHtmlEntities(value: string): string {
   let text = value;
@@ -103,7 +92,7 @@ function decodeHtmlEntities(value: string): string {
   return text;
 }
 
-function cleanText(value: any): string {
+function cleanText(value: unknown): string {
   if (value === null || value === undefined) return "";
   if (Array.isArray(value)) return value.map(cleanText).filter(Boolean).join(" • ");
   if (typeof value === "object") {
@@ -129,11 +118,11 @@ function cleanText(value: any): string {
   return text;
 }
 
-function normalizeText(value: any): string {
+function normalizeText(value: unknown): string {
   return cleanText(value).toLowerCase();
 }
 
-function isBadContent(value: any): boolean {
+function isBadContent(value: unknown): boolean {
   const text = normalizeText(value);
   if (!text) return true;
   return BAD_CONTENT_PHRASES.some((phrase) => text.includes(phrase));
@@ -153,7 +142,7 @@ function unique(items: string[]): string[] {
     });
 }
 
-function asList(value: any): string[] {
+function asList(value: unknown): string[] {
   if (!value) return [];
 
   if (Array.isArray(value)) {
@@ -181,7 +170,7 @@ function getStories(report: AnyObj): AnyObj[] {
   if (Array.isArray(candidates)) return candidates.filter(Boolean);
 
   if (typeof candidates === "object") {
-    return Object.values(candidates).flatMap((item: any) =>
+    return Object.values(candidates).flatMap((item: unknown) =>
       Array.isArray(item) ? item : [item]
     );
   }
@@ -336,8 +325,8 @@ function StoryCard({ story, index }: { story: AnyObj; index: number }) {
   );
 }
 
-export default function Page() {
-  const report = readReport();
+export default async function Page() {
+  const report = await loadReport();
 
   const headline =
     cleanText(report.headline) ||
