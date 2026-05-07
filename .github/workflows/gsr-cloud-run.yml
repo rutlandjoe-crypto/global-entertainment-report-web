@@ -53,6 +53,7 @@ jobs:
 
       - name: Run Entertainment content engine
         run: |
+          echo "ENTERTAINMENT BLOCK START"
           if [ -f content_engine.py ]; then
             python content_engine.py
           elif [ -f master_runner.py ]; then
@@ -61,6 +62,7 @@ jobs:
             echo "No content_engine.py or master_runner.py found."
             exit 1
           fi
+          echo "ENTERTAINMENT BLOCK FINISH"
 
       - name: Verify generated site data
         run: |
