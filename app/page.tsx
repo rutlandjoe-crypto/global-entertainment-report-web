@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import type { ReactNode } from "react";
 import EditorialStandard from "@/components/EditorialStandard";
 import { loadReport } from "@/app/report-data";
@@ -31,6 +32,23 @@ const GSR_NETWORK = [
   ["Entertainment", "https://globalentertainmentreport.com"],
   ["Betting", "https://globalbettingreport.com"],
 ];
+
+const DEFAULT_URL = "https://variety.com";
+
+const CATEGORY_LABELS: Record<string, string> = {
+  film: "Film",
+  tv: "TV",
+  television: "TV",
+  streaming: "Streaming",
+  music: "Music",
+  awards: "Awards",
+  box_office: "Box Office",
+  celebrity: "Celebrity",
+  hollywood: "Hollywood",
+  gaming: "Gaming",
+  media: "Media",
+  entertainment: "Entertainment Watch",
+};
 
 const BAD_CONTENT_PHRASES = [
   "source refresh",
@@ -156,23 +174,240 @@ function asList(value: unknown): string[] {
   return unique(cleanText(value).split(/\n|•|\|/));
 }
 
+function isValidUrl(value: any): boolean {
+  const url = cleanText(value);
+  return url.startsWith("http://") || url.startsWith("https://");
+}
+
+function findUrlInText(value: any): string {
+  const text = cleanText(value);
+  const match = text.match(/https?:\/\/[^\s"'<>]+/);
+  return match ? match[0].replace(/[),.;]+$/, "") : "";
+}
+
+function normalizeLabel(value: any, fallback = "Entertainment Watch"): string {
+  const raw = cleanText(value);
+  const key = raw.toLowerCase().replace(/\s+/g, "_");
+
+  if (!raw || key === "undefined" || key === "null") return fallback;
+  return CATEGORY_LABELS[key] || raw;
+}
+
+function extractBestUrl(story: AnyObj): string {
+  const directCandidates = [
+    story.url,
+    story.link,
+    story.source_url,
+    story.sourceUrl,
+    story.href,
+    story.web_url,
+    story.webUrl,
+  ];
+
+  for (const candidate of directCandidates) {
+    if (isValidUrl(candidate)) return cleanText(candidate);
+  }
+
+  if (Array.isArray(story.links)) {
+    for (const link of story.links) {
+      if (typeof link === "string" && isValidUrl(link)) return cleanText(link);
+      if (link && typeof link === "object") {
+        const candidates = [link.url, link.href, link.link, link.source_url];
+        for (const candidate of candidates) {
+          if (isValidUrl(candidate)) return cleanText(candidate);
+        }
+      }
+    }
+  }
+
+  return (
+    findUrlInText(
+      story.content ||
+        story.summary ||
+        story.snapshot ||
+        story.description ||
+        story.key_storylines ||
+        story.watch_list
+    ) || DEFAULT_URL
+  );
+}
+
+function extractSectionLines(content: string, heading: string): string[] {
+  if (!content) return [];
+
+  const lines = content.split("\n");
+  const startIndex = lines.findIndex(
+    (line) => line.trim().toUpperCase() === heading.toUpperCase()
+  );
+
+  if (startIndex === -1) return [];
+
+  const output: string[] = [];
+
+  for (let i = startIndex + 1; i < lines.length; i += 1) {
+    const line = lines[i].trim();
+    if (!line) continue;
+
+    const isNextHeading =
+      /^[A-Z0-9\s&/()-]{4,}$/.test(line) &&
+      !line.includes(".") &&
+      !line.includes(":");
+
+    if (isNextHeading) break;
+    output.push(line.replace(/^- /, "").trim());
+  }
+
+  return unique(output);
+}
+
+function normalizeStory(story: AnyObj, index: number, sectionTitle = ""): AnyObj {
+  const label = normalizeLabel(
+    story.league || story.category || story.name || story.label || sectionTitle || story.title
+  );
+  const title =
+    cleanText(story.headline) ||
+    cleanText(story.title) ||
+    cleanText(story.name) ||
+    `${label} Storyline ${index + 1}`;
+  const summary =
+    cleanText(story.snapshot) ||
+    cleanText(story.summary) ||
+    cleanText(story.description) ||
+    cleanText(story.body) ||
+    "Entertainment development flagged for newsroom monitoring.";
+
+  return {
+    ...story,
+    id: cleanText(story.id || story.key || `${label}-${index}`),
+    key: cleanText(story.key || story.id || `${label}-${index}`),
+    league: label,
+    label,
+    title,
+    headline: title,
+    summary,
+    snapshot: summary,
+    url: extractBestUrl(story),
+  };
+}
+
+function sectionToStories(key: string, section: AnyObj, index: number): AnyObj[] {
+  const sectionTitle = normalizeLabel(section.name || section.title || key);
+  const cards = section.homepage_cards || section.cards || section.items || section.stories;
+
+  if (Array.isArray(cards) && cards.length) {
+    const objectCards = cards.filter((card: any) => card && typeof card === "object");
+    const stringCards = cards.filter((card: any) => typeof card === "string");
+
+    if (objectCards.length) {
+      return objectCards.map((card: AnyObj, cardIndex: number) =>
+        normalizeStory(card, cardIndex, sectionTitle)
+      );
+    }
+
+    if (stringCards.length) {
+      return stringCards.map((card: string, cardIndex: number) =>
+        normalizeStory(
+          {
+            category: sectionTitle,
+            headline: card,
+            snapshot: section.snapshot || "Entertainment signal generated for newsroom review.",
+            key_data: [card],
+            why_it_matters: [
+              "This item can affect audience attention, talent leverage, studio strategy or media business coverage.",
+            ],
+            what_to_watch: [
+              "Monitor confirmed reporting, platform response, studio movement, audience behavior and follow-up coverage.",
+            ],
+            url: extractBestUrl(section),
+          },
+          cardIndex,
+          sectionTitle
+        )
+      );
+    }
+  }
+
+  const content = cleanText(section.content);
+  const keyData = unique([
+    ...extractSectionLines(content, "KEY STORYLINES"),
+    ...extractSectionLines(content, "KEY DATA POINTS"),
+    ...asList(section.key_storylines),
+    ...asList(section.watch_list),
+    ...asList(section.key_data),
+  ]);
+
+  return [
+    normalizeStory(
+      {
+        category: sectionTitle,
+        headline:
+          cleanText(section.headline) ||
+          cleanText(extractSectionLines(content, "HEADLINE")[0]) ||
+          sectionTitle,
+        snapshot:
+          cleanText(section.snapshot) ||
+          cleanText(extractSectionLines(content, "SNAPSHOT")[0]) ||
+          cleanText(content).slice(0, 260),
+        key_data: keyData,
+        why_it_matters: asList(section.why_it_matters || section.whyItMatters || section.why),
+        what_to_watch: asList(
+          section.what_to_watch || section.whatToWatch || section.watch || section.story_angles
+        ),
+        url: extractBestUrl(section),
+      },
+      index,
+      sectionTitle
+    ),
+  ];
+}
+
 function getStories(report: AnyObj): AnyObj[] {
+  if (Array.isArray(report.homepage_cards) && report.homepage_cards.length) {
+    return report.homepage_cards
+      .filter((story: any) => story && typeof story === "object")
+      .map((story: AnyObj, index: number) => normalizeStory(story, index));
+  }
+
+  if (Array.isArray(report.sections) && report.sections.length) {
+    return report.sections.flatMap((section: AnyObj, index: number) =>
+      sectionToStories(
+        cleanText(section.key || section.id || section.name || `section-${index}`),
+        section || {},
+        index
+      )
+    );
+  }
+
+  if (report.sections && typeof report.sections === "object") {
+    return Object.entries(report.sections).flatMap(([key, value]: [string, any], index) =>
+      sectionToStories(key, value || {}, index)
+    );
+  }
+
   const candidates =
     report.live_newsroom ||
+    report.cards ||
     report.stories ||
     report.news ||
     report.headlines ||
     report.items ||
     report.articles ||
-    report.sections ||
     [];
 
-  if (Array.isArray(candidates)) return candidates.filter(Boolean);
+  if (Array.isArray(candidates)) {
+    return candidates
+      .filter((story) => story && typeof story === "object")
+      .map((story, index) => normalizeStory(story, index));
+  }
 
   if (typeof candidates === "object") {
-    return Object.values(candidates).flatMap((item: unknown) =>
-      Array.isArray(item) ? item : [item]
-    );
+    return Object.entries(candidates).map(([key, value]: [string, any], index) => {
+      if (value && typeof value === "object") {
+        return normalizeStory({ key, category: key, ...value }, index);
+      }
+
+      return normalizeStory({ key, category: key, headline: cleanText(value) }, index);
+    });
   }
 
   return [];
@@ -194,8 +429,7 @@ function storyTitle(story: AnyObj, index: number): string {
 }
 
 function storyUrl(story: AnyObj): string {
-  const url = cleanText(story.url) || cleanText(story.link) || cleanText(story.source_url) || "#";
-  return url.startsWith("http://") || url.startsWith("https://") ? url : "#";
+  return extractBestUrl(story);
 }
 
 function storySummary(story: AnyObj): string {
@@ -209,11 +443,41 @@ function storySummary(story: AnyObj): string {
 }
 
 function storyLabel(story: AnyObj): string {
-  return cleanText(story.label) || cleanText(story.source) || "Entertainment Watch";
+  return normalizeLabel(
+    story.league || story.category || story.label || story.source || story.title,
+    "Entertainment Watch"
+  );
 }
 
 function storySignal(story: AnyObj, index: number): string {
   return cleanText(`${storyLabel(story)}: ${storyTitle(story, index)}`);
+}
+
+function isPublishableStory(story: AnyObj): boolean {
+  if (!story || typeof story !== "object") return false;
+
+  const title = storyTitle(story, 0);
+  const summary = storySummary(story);
+  const text = `${title} ${summary}`;
+
+  if (!title) return false;
+  if (isBadContent(text)) return false;
+
+  return true;
+}
+
+function cleanSignals(items: string[]): string[] {
+  return unique(items)
+    .filter((item) => !isBadContent(item))
+    .slice(0, 6);
+}
+
+function spotlightItemsFromStories(stories: AnyObj[]): string[] {
+  return cleanSignals(stories.map((story, index) => storySignal(story, index)));
+}
+
+function buildBriefingItems(stories: AnyObj[], rawSignals: string[]): string[] {
+  return cleanSignals([...stories.map((story, index) => storySignal(story, index)), ...rawSignals]);
 }
 
 function Block({ title, children }: { title: string; children: ReactNode }) {
@@ -328,16 +592,28 @@ function StoryCard({ story, index }: { story: AnyObj; index: number }) {
 export default async function Page() {
   const report = await loadReport();
 
+  let stories = getStories(report).filter(isPublishableStory);
+
+  const liveNewsroomStories = getSpotlightStories(report, "live_newsroom").filter(isPublishableStory);
+  const editorSignalStories = getSpotlightStories(report, "editor_signals").filter(isPublishableStory);
+
+  const rawSignals = asList(
+    report.key_storylines ||
+      report.keyStorylines ||
+      report.signals ||
+      report.toplines ||
+      report.takeaways
+  );
+
   const headline =
-    cleanText(report.headline) ||
-    cleanText(report.title) ||
-    "Entertainment Newsroom Watch: Major Developments Under Review";
+    cleanText(report.headline) && !isBadContent(report.headline)
+      ? cleanText(report.headline)
+      : "Entertainment Newsroom Watch: Major Developments Under Review";
 
   const snapshot =
-    cleanText(report.snapshot) ||
-    cleanText(report.summary) ||
-    cleanText(report.body) ||
-    "A live entertainment briefing built for journalists tracking studios, streaming, film, television, music, talent, audience behavior and media business.";
+    cleanText(report.snapshot) && !isBadContent(report.snapshot)
+      ? cleanText(report.snapshot)
+      : "A live entertainment briefing built for journalists tracking studios, streaming, film, television, music, talent, audience behavior and media business.";
 
   const updated =
     cleanText(report.updated_at) ||
@@ -345,13 +621,13 @@ export default async function Page() {
     cleanText(report.published_at) ||
     "Update time unavailable";
 
-  let stories = getStories(report).filter((story) => story && typeof story === "object");
-
   if (!stories.length) {
     stories = [
       {
+        league: "Entertainment Watch",
         headline,
         summary: snapshot,
+        url: DEFAULT_URL,
         key_data: ["Latest entertainment report generated from live feeds."],
         why_it_matters: ["Editors need fast clarity on audience, talent, studios, platforms and media business."],
         what_to_watch: ["Next studio move, platform decision, box office signal, talent development or audience response."],
@@ -361,37 +637,13 @@ export default async function Page() {
 
   const leadStories = stories.slice(0, 10);
 
-  const signals = asList(
-    report.key_storylines ||
-      report.keyStorylines ||
-      report.signals ||
-      report.toplines ||
-      report.takeaways
-  );
-
-  const liveNewsroomStories = getSpotlightStories(report, "live_newsroom");
-  const editorSignalStories = getSpotlightStories(report, "editor_signals");
-
   const liveItems = liveNewsroomStories.length
-    ? liveNewsroomStories.map(storySignal)
-    : signals.length
-      ? signals
-      : [
-          "Track the strongest entertainment industry development.",
-          "Prioritize verified source links.",
-          "Watch studios, platforms, talent, box office, streaming and audience response.",
-          "Monitor audience behavior, deal flow and cultural impact.",
-        ];
+    ? spotlightItemsFromStories(liveNewsroomStories)
+    : buildBriefingItems(stories, rawSignals);
 
   const editorItems = editorSignalStories.length
-    ? editorSignalStories.map(storySignal)
-    : signals.length
-      ? signals
-      : [
-          "Track the strongest entertainment industry development.",
-          "Prioritize verified source links.",
-          "Watch studios, platforms, talent, box office, streaming and audience response.",
-        ];
+    ? spotlightItemsFromStories(editorSignalStories)
+    : cleanSignals(rawSignals.length ? rawSignals : buildBriefingItems(stories.slice(3), []));
 
   return (
     <main className="min-h-screen bg-black text-white">

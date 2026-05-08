@@ -1,5 +1,6 @@
+import fs from "fs/promises";
+import path from "path";
 import { list } from "@vercel/blob";
-import publicReportJson from "@/public/latest_report.json";
 
 export type ReportData = Record<string, unknown>;
 
@@ -7,16 +8,19 @@ const REPORT_CACHE_HEADERS = {
   "Cache-Control": "no-store, no-cache, must-revalidate, max-age=0",
 };
 
-export function readPublicReport(): ReportData {
-  if (
-    publicReportJson &&
-    typeof publicReportJson === "object" &&
-    !Array.isArray(publicReportJson)
-  ) {
-    return publicReportJson as ReportData;
-  }
+async function readPublicReportFile(): Promise<ReportData> {
+  try {
+    const file = path.join(process.cwd(), "public", "latest_report.json");
+    const raw = await fs.readFile(file, "utf8");
+    const parsed = JSON.parse(raw);
 
-  return {};
+    return parsed && typeof parsed === "object" && !Array.isArray(parsed)
+      ? (parsed as ReportData)
+      : {};
+  } catch (error) {
+    console.warn("Could not read public/latest_report.json:", error);
+    return {};
+  }
 }
 
 async function readBlobReport(): Promise<ReportData> {
@@ -51,7 +55,7 @@ async function readBlobReport(): Promise<ReportData> {
 }
 
 export async function loadReport(): Promise<ReportData> {
-  const publicReport = readPublicReport();
+  const publicReport = await readPublicReportFile();
   if (Object.keys(publicReport).length) return publicReport;
 
   try {

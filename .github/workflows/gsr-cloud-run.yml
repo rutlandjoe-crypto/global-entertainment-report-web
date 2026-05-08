@@ -31,6 +31,13 @@ jobs:
     steps:
       - name: Check out repo
         uses: actions/checkout@v4
+        with:
+          ref: master
+          fetch-depth: 0
+
+      - name: Sync with latest master
+        run: |
+          git pull --rebase origin master
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -55,20 +62,23 @@ jobs:
       - name: Run Entertainment content engine
         run: |
           echo "ENTERTAINMENT BLOCK START"
-          if [ -f content_engine.py ]; then
-            python content_engine.py
-          elif [ -f master_runner.py ]; then
-            python master_runner.py
-          else
-            echo "No content_engine.py or master_runner.py found."
-            exit 1
-          fi
+          python master_runner.py
           echo "ENTERTAINMENT BLOCK FINISH"
 
       - name: Verify generated site data
         run: |
           test -f public/latest_report.json
           python -m json.tool public/latest_report.json > /tmp/latest_report_check.json
+          python - <<'PY'
+          import json
+          data = json.load(open("public/latest_report.json", encoding="utf-8"))
+          accepted = int(data.get("freshness", {}).get("accepted_real_items") or 0)
+          print("accepted_real_items=", accepted)
+          print("homepage_cards=", len(data.get("homepage_cards") or []))
+          print("live_newsroom=", len(data.get("live_newsroom") or []))
+          if accepted <= 0:
+              raise SystemExit("No real RSS items were accepted")
+          PY
           ls -lh public/latest_report.json
           head -40 public/latest_report.json
 
@@ -88,22 +98,24 @@ jobs:
 
       - name: Stage website files
         run: |
-          git add public/latest_report.json || true
-          git add public/latest_report.txt || true
-          git add public/global_entertainment_report.txt || true
-          git add public/sitemap.xml public/robots.txt || true
+          git add public/latest_report.json public/latest_report.txt latest_report.json latest_report.txt entertainment_report.txt || true
 
       - name: Commit updated Entertainment site data if changed
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
           if git diff --cached --quiet; then
             echo "No Entertainment site-data changes to commit."
           else
-            git commit -m "Auto update Global Entertainment Report data"
+            git commit -m "Auto update Entertainment site data"
           fi
 
       - name: Push changes
         run: |
-          git push origin HEAD:main
+          if git diff --cached --quiet && git diff --quiet; then
+            echo "Nothing to push."
+          else
+            git pull --rebase --autostash origin master
+            git push origin HEAD:master
+          fi

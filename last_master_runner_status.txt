@@ -1,9 +1,9 @@
 Pipeline status: SUCCESS
-Timestamp: 2026-05-07 05:54:57 PM ET
+Timestamp: 2026-05-07 10:40:32 PM ET
 
 Successful scripts (2):
-- get_entertainment_report.py [7.3s]
-- build_entertainment_distribution.py [0.2s]
+- get_entertainment_report.py [9.5s]
+- build_entertainment_distribution.py [1.1s]
 
 Degraded scripts (0):
 - None
@@ -15,5 +15,5 @@ Blocked/skipped scripts (0):
 - None
 
 Script runtimes:
-- get_entertainment_report.py: 7.3s
-- build_entertainment_distribution.py: 0.2s
+- get_entertainment_report.py: 9.5s
+- build_entertainment_distribution.py: 1.1s

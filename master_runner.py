@@ -10,7 +10,7 @@ from zoneinfo import ZoneInfo
 
 
 # =========================================================
-# GLOBAL SPORTS REPORT - MASTER RUNNER
+# GLOBAL ENTERTAINMENT REPORT - MASTER RUNNER
 # =========================================================
 
 BASE_DIR = Path(__file__).resolve().parent
@@ -24,20 +24,12 @@ PYTHON_EXE = sys.executable
 # script_name, timeout_seconds, required_for_pipeline
 SCRIPTS = [
     ("get_entertainment_report.py", 300, True),
-    ("build_entertainment_distribution.py", 180, False),
+    ("build_entertainment_distribution.py", 180, True),
 ]
 
-ALWAYS_RUN = {"get_entertainment_report.py", "build_entertainment_distribution.py"}
-CRITICAL_SCRIPTS = {"get_entertainment_report.py"}
-NON_CRITICAL_FAILURES = {
-    "get_mlb_advanced_report.py",
-    "get_nba_advanced_report.py",
-    "get_nfl_report.py",
-    "get_nfl_advanced_report.py",
-    "get_nfl_draft_signals.py",
-    "get_soccer_report.py",
-    "betting_odds.py",
-}
+ALWAYS_RUN = {"build_entertainment_distribution.py"}
+CRITICAL_SCRIPTS = {"get_entertainment_report.py", "build_entertainment_distribution.py"}
+NON_CRITICAL_FAILURES: set[str] = set()
 
 REQUIRED_OUTPUTS = [BASE_DIR / "public" / "latest_report.json"]
 
