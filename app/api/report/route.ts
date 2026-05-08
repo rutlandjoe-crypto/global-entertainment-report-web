@@ -1,8 +1,10 @@
 import { NextResponse } from "next/server";
-import { loadReport } from "@/app/report-data";
+import { loadReport, REPORT_CACHE_HEADERS } from "@/app/report-data";
 
 export const dynamic = "force-dynamic";
 export const revalidate = 0;
+export const fetchCache = "force-no-store";
+export const runtime = "nodejs";
 
 export async function GET() {
   try {
@@ -13,17 +15,13 @@ export async function GET() {
         { error: "Live report not found" },
         {
           status: 404,
-          headers: {
-            "Cache-Control": "no-store, no-cache, must-revalidate, max-age=0",
-          },
+          headers: REPORT_CACHE_HEADERS,
         }
       );
     }
 
     return NextResponse.json(json, {
-      headers: {
-        "Cache-Control": "no-store, no-cache, must-revalidate, max-age=0",
-      },
+      headers: REPORT_CACHE_HEADERS,
     });
   } catch (error) {
     console.error("report route error:", error);
@@ -31,9 +29,7 @@ export async function GET() {
       { error: "Failed to load live report" },
       {
         status: 500,
-        headers: {
-          "Cache-Control": "no-store, no-cache, must-revalidate, max-age=0",
-        },
+        headers: REPORT_CACHE_HEADERS,
       }
     );
   }
