@@ -10,6 +10,8 @@ from email.utils import parsedate_to_datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
+from editorial_intelligence import normalize_card, normalize_payload
+
 BASE_DIR = Path(__file__).resolve().parent
 PUBLIC_DIR = BASE_DIR / "public"
 JSON_PATH = PUBLIC_DIR / "latest_report.json"
@@ -266,7 +268,7 @@ def normalize_item(item: dict, category: str, url: str, index: int) -> dict:
     if not summary:
         summary = title
 
-    return {
+    return normalize_card({
         "id": f"{category}-{index}-{abs(hash((title, item.get('link'))))}",
         "key": f"{category}-{index}-{abs(hash((title, item.get('link'))))}",
         "category": LABELS.get(category, category.replace("_", " ").title()),
@@ -284,14 +286,14 @@ def normalize_item(item: dict, category: str, url: str, index: int) -> dict:
         "freshness_status": "fresh" if published else "accepted-undated",
         "story_type": "rss_headline",
         "priority_score": max(0, 100 - index),
-        "key_data": [title],
+        "key_data": [],
         "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
         ],
         "what_to_watch": [
             "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
         ],
-    }
+    })
 
 
 def fetch_category(category: str, urls: list[str], limit: int = 8) -> tuple[list[dict], list[FeedStats]]:
@@ -421,7 +423,7 @@ def build_report() -> dict:
         else "No fresh RSS items were available during this run."
     )
 
-    return {
+    return normalize_payload({
         "title": "GLOBAL ENTERTAINMENT REPORT",
         "site": "Global Entertainment Report",
         "site_name": "Global Entertainment Report",
@@ -460,7 +462,7 @@ def build_report() -> dict:
         "homepage_cards": homepage_cards,
         "live_newsroom": homepage_cards[:12],
         "editor_signals": homepage_cards[12:24] or homepage_cards[:12],
-    }
+    })
 
 
 def write_text_report(report: dict) -> None:

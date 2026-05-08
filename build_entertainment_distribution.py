@@ -6,6 +6,9 @@ from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
+from editorial_intelligence import clean_text as intelligence_clean_text
+from editorial_intelligence import normalize_card, normalize_payload
+
 ET = ZoneInfo("America/New_York")
 BASE_DIR = Path(__file__).resolve().parent
 
@@ -146,6 +149,7 @@ def generated_utc() -> str:
 
 
 def clean_text(value, fallback: str = "") -> str:
+    return intelligence_clean_text(value, fallback)
     if value is None:
         return fallback
 
@@ -227,14 +231,18 @@ def is_valid_newsroom_payload(payload) -> bool:
     if not has_valid_identity or not has_live_newsroom:
         return False
 
+    if "fallback" in clean_text(payload.get("source_mode")).lower():
+        return False
+
     for item in live_newsroom:
         if not isinstance(item, dict):
             continue
 
         headline = clean_text(item.get("headline"))
         url = clean_text(item.get("url"))
+        source = clean_text(item.get("source_name") or item.get("source")).lower()
 
-        if headline and url.startswith("http"):
+        if headline and url.startswith("http") and source != "fallback":
             return True
 
     return False
@@ -261,7 +269,7 @@ def story_to_section(story: dict, category: str) -> dict:
     snapshot = truncate(story.get("snapshot") or headline, 360)
     url = clean_text(story.get("url"))
 
-    return {
+    return normalize_card({
         "title": category,
         "headline": headline,
         "url": url,
@@ -288,7 +296,7 @@ def story_to_section(story: dict, category: str) -> dict:
         else [
             "Watch for follow-up coverage, audience reaction, platform response, talent movement, or broader industry impact."
         ],
-    }
+    })
 
 
 def build_sections_from_live_newsroom(payload: dict) -> list[dict]:
@@ -340,7 +348,7 @@ def build_newsroom_payload(existing_payload: dict) -> dict:
     headline = lead.get("headline") or clean_text(existing_payload.get("headline"))
     snapshot = lead.get("snapshot") or clean_text(existing_payload.get("snapshot"))
 
-    return {
+    return normalize_payload({
         "site": SITE_NAME,
         "site_name": SITE_NAME,
         "vertical": VERTICAL,
@@ -355,7 +363,7 @@ def build_newsroom_payload(existing_payload: dict) -> dict:
         "freshness": existing_payload.get("freshness", {}),
         "live_newsroom": existing_payload.get("live_newsroom", []),
         "sections": sections,
-    }
+    })
 
 
 def first_real_line(text: str) -> str:
@@ -436,7 +444,7 @@ def build_fallback_payload(text: str) -> dict:
             }
         ]
 
-    return {
+    return normalize_payload({
         "site": SITE_NAME,
         "site_name": SITE_NAME,
         "vertical": VERTICAL,
@@ -449,7 +457,7 @@ def build_fallback_payload(text: str) -> dict:
         "video_url": DEFAULT_VIDEO_URL,
         "source_mode": "fallback entertainment text distribution",
         "sections": sections,
-    }
+    })
 
 
 def write_files(payload: dict, text: str) -> None:
