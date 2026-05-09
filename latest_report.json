@@ -3,37 +3,62 @@
   "site_name": "Global Entertainment Report",
   "vertical": "Entertainment",
   "title": "Global Entertainment Report",
-<<<<<<< HEAD
-  "headline": "How School Shooting Satire 'Our Hero, Balthazar' Director Oscar Boyson Found His Style While Making Movies With Greta Gerwig and the Safdie Brothers",
-  "snapshot": "The social satire \"Our Hero, Balthazar\" has an incredibly dark logline: A young man named Balthazar (Jaeden Martell), who spends time forcing tears for online videos lamenting gun violence, travels to Texas to intervene with a person who he believes to be a potential school shooter (Asa Butterfield). Despite the pit...",
-  "updated_at": "2026-05-08 06:56:55 PM ET",
-  "generated_at": "2026-05-08 06:56:55 PM ET",
-  "generated_utc": "2026-05-08T22:56:55.831625+00:00",
-=======
-  "headline": "Shawn Levy to Direct Original Sci-Fi Drama 'Somewhere Out There' for Netflix",
-  "snapshot": "Shawn Levy is set to direct the original sci-fi movie \"Somewhere Out There\" for Netflix. The streamer picked up the spec script written by Max Taxe in a bidding war. Levy will also produce the film under his 21 Laps banner along with the company's Dan Levine. The story falls in the emotional vein of",
-  "updated_at": "2026-05-08 06:57:51 PM ET",
-  "generated_at": "2026-05-08 06:57:51 PM ET",
-  "generated_utc": "2026-05-08T22:57:51.615173+00:00",
->>>>>>> 4bc0a1d (Improve entertainment editorial intelligence card data)
+  "headline": "'Mortal Kombat 2' Cast Guide: Who Lives, Who Dies and How They Compare to the Video Game Fighters",
+  "snapshot": "SPOILER ALERT: This article contains major spoilers for \"Mortal Kombat II,\" now playing in theaters. After five years, \"Mortal Kombat\" is back on the big screen with a sequel to the 2021 video game adaptation. And the roster of characters is even bigger than last time. The sequel, now playing in theaters, introduces...",
+  "updated_at": "2026-05-08 08:00:18 PM ET",
+  "generated_at": "2026-05-08 08:00:18 PM ET",
+  "generated_utc": "2026-05-09T00:00:18.788430+00:00",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "source_mode": "live entertainment newsroom distribution",
   "freshness": {
     "max_item_age_hours": 336,
-    "accepted_real_items": 75,
+    "accepted_real_items": 73,
     "checked_feeds": 14,
     "feeds_without_accepted_items": 4
   },
   "live_newsroom": [
     {
-      "id": "film-0-8697282752830973831",
-      "key": "film-0-8697282752830973831",
+      "id": "film-0-1131209734251390355",
+      "key": "film-0-1131209734251390355",
       "category": "Film",
       "label": "Film",
-      "headline": "How School Shooting Satire ‘Our Hero, Balthazar’ Director Oscar Boyson Found His Style While Making Movies With Greta Gerwig and the Safdie Brothers",
-      "title": "How School Shooting Satire ‘Our Hero, Balthazar’ Director Oscar Boyson Found His Style While Making Movies With Greta Gerwig and the Safdie Brothers",
-      "snapshot": "The social satire “Our Hero, Balthazar” has an incredibly dark logline: A young man named Balthazar (Jaeden Martell), who spends time forcing tears for online videos lamenting gun violence, travels to Texas to intervene with a person who he believes to be a potential school shooter (Asa Butterfield). Despite the pit...",
-      "summary": "The social satire “Our Hero, Balthazar” has an incredibly dark logline: A young man named Balthazar (Jaeden Martell), who spends time forcing tears for online videos lamenting gun violence, travels to Texas to intervene with a person who he believes to be a potential school shooter (Asa Butterfield). Despite the pit...",
+      "headline": "'Mortal Kombat 2' Cast Guide: Who Lives, Who Dies and How They Compare to the Video Game Fighters",
+      "title": "'Mortal Kombat 2' Cast Guide: Who Lives, Who Dies and How They Compare to the Video Game Fighters",
+      "snapshot": "SPOILER ALERT: This article contains major spoilers for \"Mortal Kombat II,\" now playing in theaters. After five years, \"Mortal Kombat\" is back on the big screen with a sequel to the 2021 video game adaptation. And the roster of characters is even bigger than last time. The sequel, now playing in theaters, introduces...",
+      "summary": "SPOILER ALERT: This article contains major spoilers for \"Mortal Kombat II,\" now playing in theaters. After five years, \"Mortal Kombat\" is back on the big screen with a sequel to the 2021 video game adaptation. And the roster of characters is even bigger than last time. The sequel, now playing in theaters, introduces...",
+      "url": "https://variety.com/lists/mortal-kombat-2-cast-dies-video-game-characters/",
+      "source": "Variety",
+      "source_name": "Variety",
+      "source_feed": "https://variety.com/v/film/feed/",
+      "published_at": "2026-05-08 07:30:00 PM ET",
+      "image": "",
+      "freshness_status": "fresh",
+      "story_type": "rss_headline",
+      "priority_score": 100,
+      "key_data": [
+        "Talent / person: Mortal Kombat, Cast Guide, Who Lives, Who Dies",
+        "Film / show / project: Mortal Kombat 2",
+        "Category: Film",
+        "Published: 2026-05-08 07:30:00 PM ET",
+        "Source: Variety"
+      ],
+      "why_it_matters": [
+        "This gives editors a concrete entertainment lead tied to talent, project momentum, audience interest or media business strategy"
+      ],
+      "what_to_watch": [
+        "Watch Variety and trade follow-ups for confirmations, casting details, release timing or deal terms",
+        "Track studio/platform response, audience reaction, awards positioning, box office or streaming performance as applicable"
+      ]
+    },
+    {
+      "id": "film-1-168732202898345191",
+      "key": "film-1-168732202898345191",
+      "category": "Film",
+      "label": "Film",
+      "headline": "How School Shooting Satire 'Our Hero, Balthazar' Director Oscar Boyson Found His Style While Making Movies With Greta Gerwig and the Safdie Brothers",
+      "title": "How School Shooting Satire 'Our Hero, Balthazar' Director Oscar Boyson Found His Style While Making Movies With Greta Gerwig and the Safdie Brothers",
+      "snapshot": "The social satire \"Our Hero, Balthazar\" has an incredibly dark logline: A young man named Balthazar (Jaeden Martell), who spends time forcing tears for online videos lamenting gun violence, travels to Texas to intervene with a person who he believes to be a potential school shooter (Asa Butterfield). Despite the pit...",
+      "summary": "The social satire \"Our Hero, Balthazar\" has an incredibly dark logline: A young man named Balthazar (Jaeden Martell), who spends time forcing tears for online videos lamenting gun violence, travels to Texas to intervene with a person who he believes to be a potential school shooter (Asa Butterfield). Despite the pit...",
       "url": "https://variety.com/2026/film/features/our-hero-balthazar-director-school-shooting-1236741883/",
       "source": "Variety",
       "source_name": "Variety",
@@ -42,26 +67,32 @@
       "image": "",
       "freshness_status": "fresh",
       "story_type": "rss_headline",
-      "priority_score": 100,
+      "priority_score": 99,
       "key_data": [
-        "How School Shooting Satire ‘Our Hero, Balthazar’ Director Oscar Boyson Found His Style While Making Movies With Greta Gerwig and the Safdie Brothers"
+        "Talent / person: How School Shooting Satire, Our Hero, Balthazar' Director Oscar Boyson, Found His Style While",
+        "Film / show / project: Our Hero, Balthazar",
+        "Role: director",
+        "Release / festival / awards context: Oscar",
+        "Category: Film",
+        "Published: 2026-05-08 06:07:13 PM ET"
       ],
       "why_it_matters": [
-        "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+        "Festival, release or awards context can change campaign timing, buyer interest and audience attention"
       ],
       "what_to_watch": [
-        "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+        "Watch Variety and trade follow-ups for confirmations, casting details, release timing or deal terms",
+        "Track studio/platform response, audience reaction, awards positioning, box office or streaming performance as applicable"
       ]
     },
     {
-      "id": "film-1-4611748542465133015",
-      "key": "film-1-4611748542465133015",
+      "id": "film-2-1952021923881163942",
+      "key": "film-2-1952021923881163942",
       "category": "Film",
       "label": "Film",
       "headline": "Shawn Levy to Direct Original Sci-Fi Drama 'Somewhere Out There' for Netflix",
       "title": "Shawn Levy to Direct Original Sci-Fi Drama 'Somewhere Out There' for Netflix",
-      "snapshot": "Shawn Levy is set to direct the original sci-fi movie \"Somewhere Out There\" for Netflix. The streamer picked up the spec script written by Max Taxe in a bidding war. Levy will also produce the film under his 21 Laps banner along with the company's Dan Levine. The story falls in the emotional vein of",
-      "summary": "Shawn Levy is set to direct the original sci-fi movie \"Somewhere Out There\" for Netflix. The streamer picked up the spec script written by Max Taxe in a bidding war. Levy will also produce the film under his 21 Laps banner along with the company's Dan Levine. The story falls in the emotional vein of",
+      "snapshot": "Shawn Levy is set to direct the original sci-fi movie \"Somewhere Out There\" for Netflix. The streamer picked up the spec script written by Max Taxe in a bidding war. Levy will also produce the film under his 21 Laps banner along with the company's Dan Levine. The story falls in the emotional vein of […]",
+      "summary": "Shawn Levy is set to direct the original sci-fi movie \"Somewhere Out There\" for Netflix. The streamer picked up the spec script written by Max Taxe in a bidding war. Levy will also produce the film under his 21 Laps banner along with the company's Dan Levine. The story falls in the emotional vein of […]",
       "url": "https://variety.com/2026/film/news/shawn-levy-sci-fi-drama-somewhere-out-there-netflix-1236742024/",
       "source": "Variety",
       "source_name": "Variety",
@@ -70,7 +101,7 @@
       "image": "",
       "freshness_status": "fresh",
       "story_type": "rss_headline",
-      "priority_score": 99,
+      "priority_score": 98,
       "key_data": [
         "Talent / person: Shawn Levy, Max Taxe",
         "Studio / platform / network: Netflix",
@@ -88,8 +119,8 @@
       ]
     },
     {
-      "id": "film-2-7424469439421951214",
-      "key": "film-2-7424469439421951214",
+      "id": "film-3-3490932134287740570",
+      "key": "film-3-3490932134287740570",
       "category": "Film",
       "label": "Film",
       "headline": "Cannes: Renée Zellweger, Sissy Spacek and Mia Threapleton to Star in 'A Woman in the Sun'",
@@ -104,7 +135,7 @@
       "image": "",
       "freshness_status": "fresh",
       "story_type": "rss_headline",
-      "priority_score": 98,
+      "priority_score": 97,
       "key_data": [
         "Talent / person: Sissy Spacek, Mia Threapleton, A Woman, Black Bear",
         "Film / show / project: A Woman in the Sun",
@@ -122,14 +153,14 @@
       ]
     },
     {
-      "id": "film-3-5167989998290944011",
-      "key": "film-3-5167989998290944011",
+      "id": "film-4-6313075498119721986",
+      "key": "film-4-6313075498119721986",
       "category": "Film",
       "label": "Film",
       "headline": "'Devil Wears Prada 2' Salaries: How Meryl Streep Landed a $12.5 Million Payday With Big Bonuses - and Shared the Wealth with Anne Hathaway and Emily Blunt (EXCLUSIVE)",
       "title": "'Devil Wears Prada 2' Salaries: How Meryl Streep Landed a $12.5 Million Payday With Big Bonuses - and Shared the Wealth with Anne Hathaway and Emily Blunt (EXCLUSIVE)",
-      "snapshot": "The women of \"The Devil Wears Prada 2\" are clacking their stilettos all the way to the bank. As the sequel to the iconic fashion film continues to rake in cash across the globe - $300 million in box office and counting - multiple sources told Variety what the triumvirate of leading ladies earned to return",
-      "summary": "The women of \"The Devil Wears Prada 2\" are clacking their stilettos all the way to the bank. As the sequel to the iconic fashion film continues to rake in cash across the globe - $300 million in box office and counting - multiple sources told Variety what the triumvirate of leading ladies earned to return",
+      "snapshot": "The women of \"The Devil Wears Prada 2\" are clacking their stilettos all the way to the bank. As the sequel to the iconic fashion film continues to rake in cash across the globe - $300 million in box office and counting - multiple sources told Variety what the triumvirate of leading ladies earned to return […]",
+      "summary": "The women of \"The Devil Wears Prada 2\" are clacking their stilettos all the way to the bank. As the sequel to the iconic fashion film continues to rake in cash across the globe - $300 million in box office and counting - multiple sources told Variety what the triumvirate of leading ladies earned to return […]",
       "url": "https://variety.com/2026/film/news/devil-wears-prada-2-salaries-meryl-streep-hathaway-pay-1236741185/",
       "source": "Variety",
       "source_name": "Variety",
@@ -138,7 +169,7 @@
       "image": "",
       "freshness_status": "fresh",
       "story_type": "rss_headline",
-      "priority_score": 97,
+      "priority_score": 96,
       "key_data": [
         "Talent / person: Devil Wears Prada, How Meryl Streep Landed, Million Payday With Big, Anne Hathaway",
         "Studio / platform / network: Variety",
@@ -156,14 +187,14 @@
       ]
     },
     {
-      "id": "film-4-8380485357895473725",
-      "key": "film-4-8380485357895473725",
+      "id": "film-5-5660979204649233445",
+      "key": "film-5-5660979204649233445",
       "category": "Film",
       "label": "Film",
       "headline": "Cannes Film Festival Marks the Start of a New Era for Anonymous Content: 'The Very Best Cinema Reminds Us of Our Humanity'",
       "title": "Cannes Film Festival Marks the Start of a New Era for Anonymous Content: 'The Very Best Cinema Reminds Us of Our Humanity'",
-      "snapshot": "The Cannes Film Festival is a big moment on the calendar for any film company fortunate enough to have a film in contention at the glitzy fest. For Anonymous Content, the arrival of Cannes marks the start of a new chapter for the company under president and CEO Darren Walker. Anonymous has three films getting",
-      "summary": "The Cannes Film Festival is a big moment on the calendar for any film company fortunate enough to have a film in contention at the glitzy fest. For Anonymous Content, the arrival of Cannes marks the start of a new chapter for the company under president and CEO Darren Walker. Anonymous has three films getting",
+      "snapshot": "The Cannes Film Festival is a big moment on the calendar for any film company fortunate enough to have a film in contention at the glitzy fest. For Anonymous Content, the arrival of Cannes marks the start of a new chapter for the company under president and CEO Darren Walker. Anonymous has three films getting […]",
+      "summary": "The Cannes Film Festival is a big moment on the calendar for any film company fortunate enough to have a film in contention at the glitzy fest. For Anonymous Content, the arrival of Cannes marks the start of a new chapter for the company under president and CEO Darren Walker. Anonymous has three films getting […]",
       "url": "https://variety.com/2026/film/news/anonymous-content-darren-walker-cannes-parallel-tales-1236741811/",
       "source": "Variety",
       "source_name": "Variety",
@@ -172,7 +203,7 @@
       "image": "",
       "freshness_status": "fresh",
       "story_type": "rss_headline",
-      "priority_score": 96,
+      "priority_score": 95,
       "key_data": [
         "Talent / person: New Era, Anonymous Content, The Very Best Cinema, Reminds Us",
         "Film / show / project: The Very Best Cinema Reminds Us of Our Humanity",
@@ -190,8 +221,8 @@
       ]
     },
     {
-      "id": "film-5-666717242285702263",
-      "key": "film-5-666717242285702263",
+      "id": "film-6-3456679114885591775",
+      "key": "film-6-3456679114885591775",
       "category": "Film",
       "label": "Film",
       "headline": "WGA West Reaches a Deal to End Staff Union Strike",
@@ -206,7 +237,7 @@
       "image": "",
       "freshness_status": "fresh",
       "story_type": "rss_headline",
-      "priority_score": 95,
+      "priority_score": 94,
       "key_data": [
         "Talent / person: WGA West Reaches, End Staff Union Strike, The Writers Guild, America West",
         "Box office / streaming / business / labor detail: 12%",
@@ -223,14 +254,14 @@
       ]
     },
     {
-      "id": "film-6-4809277534175690709",
-      "key": "film-6-4809277534175690709",
+      "id": "film-7-4058716887004386133",
+      "key": "film-7-4058716887004386133",
       "category": "Film",
       "label": "Film",
       "headline": "'Mortal Kombat II' Star Max Huang on Jackie Chan, Kung Lao and the Spirit Behind the Movement: 'It's Not About What Punch or Kick You Do - It's About How You Do It'",
       "title": "'Mortal Kombat II' Star Max Huang on Jackie Chan, Kung Lao and the Spirit Behind the Movement: 'It's Not About What Punch or Kick You Do - It's About How You Do It'",
-      "snapshot": "The plan was simple, if audacious. Max Huang had prepared a showreel, traveled to a Berlin red carpet, and waited six hours for Jackie Chan to arrive. Chan, surrounded by bodyguards, was unreachable. So when Jaden Smith wandered over to sign autographs, Huang handed the reel to him instead. A month later, he got an",
-      "summary": "The plan was simple, if audacious. Max Huang had prepared a showreel, traveled to a Berlin red carpet, and waited six hours for Jackie Chan to arrive. Chan, surrounded by bodyguards, was unreachable. So when Jaden Smith wandered over to sign autographs, Huang handed the reel to him instead. A month later, he got an",
+      "snapshot": "The plan was simple, if audacious. Max Huang had prepared a showreel, traveled to a Berlin red carpet, and waited six hours for Jackie Chan to arrive. Chan, surrounded by bodyguards, was unreachable. So when Jaden Smith wandered over to sign autographs, Huang handed the reel to him instead. A month later, he got an […]",
+      "summary": "The plan was simple, if audacious. Max Huang had prepared a showreel, traveled to a Berlin red carpet, and waited six hours for Jackie Chan to arrive. Chan, surrounded by bodyguards, was unreachable. So when Jaden Smith wandered over to sign autographs, Huang handed the reel to him instead. A month later, he got an […]",
       "url": "https://variety.com/2026/film/news/mortal-kombat-ii-kung-lao-max-huang-jackie-chan-1236741869/",
       "source": "Variety",
       "source_name": "Variety",
@@ -239,7 +270,7 @@
       "image": "",
       "freshness_status": "fresh",
       "story_type": "rss_headline",
-      "priority_score": 94,
+      "priority_score": 93,
       "key_data": [
         "Talent / person: Mortal Kombat II' Star, Max Huang, Jackie Chan, Kung Lao",
         "Studio / platform / network: Max",
@@ -257,33 +288,33 @@
       ]
     },
     {
-      "id": "film-7-845049044668070867",
-      "key": "film-7-845049044668070867",
-      "category": "Film",
-      "label": "Film",
-      "headline": "'Don't Forget to Dance' Wins Best Film at 2026 Easterseals Disability Film Challenge Awards",
-      "title": "'Don't Forget to Dance' Wins Best Film at 2026 Easterseals Disability Film Challenge Awards",
-      "snapshot": "\"Don't Forget to Dance,\" \"The Ticket\" and more were among the winners of the 2026 Easterseals Disability Film Challenge. The winners were announced Thursday night at an awards ceremony at Sony Pictures Studios. For the 2026 challenge, the featured genre was Dramedy, and the challenge received a record 144 submission...",
-      "summary": "\"Don't Forget to Dance,\" \"The Ticket\" and more were among the winners of the 2026 Easterseals Disability Film Challenge. The winners were announced Thursday night at an awards ceremony at Sony Pictures Studios. For the 2026 challenge, the featured genre was Dramedy, and the challenge received a record 144 submission...",
-      "url": "https://variety.com/2026/film/news/easterseals-disability-film-challenge-award-winners-2026-1236741178/",
+      "id": "tv-0-852049022529889779",
+      "key": "tv-0-852049022529889779",
+      "category": "TV",
+      "label": "TV",
+      "headline": "Tony Amatullo Jr., Former Warner Bros. Exec and TV Producer, Dies at 76",
+      "title": "Tony Amatullo Jr., Former Warner Bros. Exec and TV Producer, Dies at 76",
+      "snapshot": "Anthony \"Tony\" Eugene Amatullo Jr., a former Warner Bros. executive and producer who worked on TV shows including \"ER\" and \"The West Wing,\" died Sunday in Manhattan. He was 76. His son, Nicolas Amatullo, confirmed the news. Amatullo had a long and successful career as a line and executive producer. He first worked a...",
+      "summary": "Anthony \"Tony\" Eugene Amatullo Jr., a former Warner Bros. executive and producer who worked on TV shows including \"ER\" and \"The West Wing,\" died Sunday in Manhattan. He was 76. His son, Nicolas Amatullo, confirmed the news. Amatullo had a long and successful career as a line and executive producer. He first worked a...",
+      "url": "https://variety.com/2026/tv/news/tony-amatullo-jr-dead-warner-bros-1236742161/",
       "source": "Variety",
       "source_name": "Variety",
-      "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-05-08 01:45:00 PM ET",
+      "source_feed": "https://variety.com/v/tv/feed/",
+      "published_at": "2026-05-08 07:55:41 PM ET",
       "image": "",
       "freshness_status": "fresh",
       "story_type": "rss_headline",
-      "priority_score": 93,
+      "priority_score": 100,
       "key_data": [
-        "Talent / person: Don't Forget, The Ticket",
-        "Studio / platform / network: Sony",
-        "Film / show / project: Don",
-        "Release / festival / awards context: awards",
-        "Category: Film",
-        "Published: 2026-05-08 01:45:00 PM ET"
+        "Talent / person: Tony Amatullo Jr, TV Producer, Eugene Amatullo Jr, Warner Bros",
+        "Studio / platform / network: Warner",
+        "Film / show / project: Tony",
+        "Role: producer",
+        "Category: TV",
+        "Published: 2026-05-08 07:55:41 PM ET"
       ],
       "why_it_matters": [
-        "Festival, release or awards context can change campaign timing, buyer interest and audience attention"
+        "This gives editors a concrete entertainment lead tied to talent, project momentum, audience interest or media business strategy"
       ],
       "what_to_watch": [
         "Watch Variety and trade follow-ups for confirmations, casting details, release timing or deal terms",
@@ -291,27 +322,15 @@
       ]
     },
     {
-<<<<<<< HEAD
-      "id": "tv-0-7416618092809367014",
-      "key": "tv-0-7416618092809367014",
+      "id": "tv-1-2700831866403663463",
+      "key": "tv-1-2700831866403663463",
       "category": "TV",
       "label": "TV",
-      "headline": "Larry David’s Unmade Script From 1980s Leaks Online; Film Follows Noncommittal Man Who Reunites With Dying Ex",
-      "title": "Larry David’s Unmade Script From 1980s Leaks Online; Film Follows Noncommittal Man Who Reunites With Dying Ex",
-      "snapshot": "Before “Seinfeld” and “Curb Your Enthusiasm,” there was “Prognosis: Negative,” a film script written by Larry David in the 1980s that was never produced. Thanks to a Reddit user from Rochester, N.Y., a 1983 draft of the screenplay has been uploaded to the internet. (Read a PDF here.) The 24-year-old, named Jeremy Sm...",
-      "summary": "Before “Seinfeld” and “Curb Your Enthusiasm,” there was “Prognosis: Negative,” a film script written by Larry David in the 1980s that was never produced. Thanks to a Reddit user from Rochester, N.Y., a 1983 draft of the screenplay has been uploaded to the internet. (Read a PDF here.) The 24-year-old, named Jeremy Sm...",
+      "headline": "Larry David's Unmade Script From 1980s Leaks Online; Film Follows Noncommittal Man Who Reunites With Dying Ex",
+      "title": "Larry David's Unmade Script From 1980s Leaks Online; Film Follows Noncommittal Man Who Reunites With Dying Ex",
+      "snapshot": "Before \"Seinfeld\" and \"Curb Your Enthusiasm,\" there was \"Prognosis: Negative,\" a film script written by Larry David in the 1980s that was never produced. Thanks to a Reddit user from Rochester, N.Y., a 1983 draft of the screenplay has been uploaded to the internet. (Read a PDF here.) The 24-year-old, named Jeremy Sm...",
+      "summary": "Before \"Seinfeld\" and \"Curb Your Enthusiasm,\" there was \"Prognosis: Negative,\" a film script written by Larry David in the 1980s that was never produced. Thanks to a Reddit user from Rochester, N.Y., a 1983 draft of the screenplay has been uploaded to the internet. (Read a PDF here.) The 24-year-old, named Jeremy Sm...",
       "url": "https://variety.com/2026/tv/news/larry-david-script-leaks-online-read-prognosis-negative-1236742075/",
-=======
-      "id": "film-7-8827701280756663974",
-      "key": "film-7-8827701280756663974",
-      "category": "Film",
-      "label": "Film",
-      "headline": "Oasis Tour Documentary to Release in Imax and Movie Theaters Before Disney+ Launch",
-      "title": "Oasis Tour Documentary to Release in Imax and Movie Theaters Before Disney+ Launch",
-      "snapshot": "Oasis' reunion tour may have been arguably the must-attend cultural moment of 2025, but it's now hoping to find a similar audience on the big screen. The documentary following the band - from magna studios and Sony Music Vision - has been picked up by Disney, with a limited theatrical release on IMAX screens and oth...",
-      "summary": "Oasis' reunion tour may have been arguably the must-attend cultural moment of 2025, but it's now hoping to find a similar audience on the big screen. The documentary following the band - from magna studios and Sony Music Vision - has been picked up by Disney, with a limited theatrical release on IMAX screens and oth...",
-      "url": "https://variety.com/2026/film/global/oasis-tour-doc-release-imax-and-movie-theaters-disney-1236741639/",
->>>>>>> 4bc0a1d (Improve entertainment editorial intelligence card data)
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/tv/feed/",
@@ -319,21 +338,16 @@
       "image": "",
       "freshness_status": "fresh",
       "story_type": "rss_headline",
-      "priority_score": 100,
+      "priority_score": 99,
       "key_data": [
-<<<<<<< HEAD
-        "Larry David’s Unmade Script From 1980s Leaks Online; Film Follows Noncommittal Man Who Reunites With Dying Ex"
-=======
-        "Talent / person: Oasis Tour Documentary, Sony Music Vision",
-        "Studio / platform / network: Disney, Sony",
-        "Release / festival / awards context: release",
-        "Category: Film",
-        "Published: 2026-05-08 12:00:11 PM ET",
+        "Talent / person: Larry David's Unmade Script, Leaks Online, Who Reunites With Dying, Curb Your Enthusiasm",
+        "Film / show / project: Seinfeld",
+        "Category: TV",
+        "Published: 2026-05-08 06:02:01 PM ET",
         "Source: Variety"
->>>>>>> 4bc0a1d (Improve entertainment editorial intelligence card data)
       ],
       "why_it_matters": [
-        "The business angle can shift studio leverage, labor coverage, platform strategy or box office expectations"
+        "This gives editors a concrete entertainment lead tied to talent, project momentum, audience interest or media business strategy"
       ],
       "what_to_watch": [
         "Watch Variety and trade follow-ups for confirmations, casting details, release timing or deal terms",
@@ -341,14 +355,14 @@
       ]
     },
     {
-      "id": "tv-1-8981573021052401288",
-      "key": "tv-1-8981573021052401288",
+      "id": "tv-2-4899662545900493203",
+      "key": "tv-2-4899662545900493203",
       "category": "TV",
       "label": "TV",
       "headline": "Ramy Youssef on Making Fox News Melt Down After He Taught Elmo Some Arabic Words on 'Sesame Street': 'You Feel This Ramp-Up of Islamophobia'",
       "title": "Ramy Youssef on Making Fox News Melt Down After He Taught Elmo Some Arabic Words on 'Sesame Street': 'You Feel This Ramp-Up of Islamophobia'",
-      "snapshot": "Fox News, the next time you want to criticize Ramy Youssef, how about actually giving the comedian a call? \"I've been on the network a few times without my consent,\" he tells Variety's Awards Circuit Podcast. \"I'd love to be asked for comment, because I would! Any of the ways they've covered me, they never",
-      "summary": "Fox News, the next time you want to criticize Ramy Youssef, how about actually giving the comedian a call? \"I've been on the network a few times without my consent,\" he tells Variety's Awards Circuit Podcast. \"I'd love to be asked for comment, because I would! Any of the ways they've covered me, they never",
+      "snapshot": "Fox News, the next time you want to criticize Ramy Youssef, how about actually giving the comedian a call? \"I've been on the network a few times without my consent,\" he tells Variety's Awards Circuit Podcast. \"I'd love to be asked for comment, because I would! Any of the ways they've covered me, they never […]",
+      "summary": "Fox News, the next time you want to criticize Ramy Youssef, how about actually giving the comedian a call? \"I've been on the network a few times without my consent,\" he tells Variety's Awards Circuit Podcast. \"I'd love to be asked for comment, because I would! Any of the ways they've covered me, they never […]",
       "url": "https://variety.com/2026/tv/awards/ramy-youssef-elmo-arabic-sesame-street-reactions-podcast-1236741333/",
       "source": "Variety",
       "source_name": "Variety",
@@ -357,7 +371,7 @@
       "image": "",
       "freshness_status": "fresh",
       "story_type": "rss_headline",
-      "priority_score": 99,
+      "priority_score": 98,
       "key_data": [
         "Talent / person: Ramy Youssef, Making Fox News Melt, Down After He Taught, Elmo Some Arabic Words",
         "Studio / platform / network: Fox, Variety",
@@ -375,8 +389,8 @@
       ]
     },
     {
-      "id": "tv-2-5192625697746303737",
-      "key": "tv-2-5192625697746303737",
+      "id": "tv-3-3205045606775564691",
+      "key": "tv-3-3205045606775564691",
       "category": "TV",
       "label": "TV",
       "headline": "Dave Coulier Lost 45 Pounds and Hasn't Eaten 'Solid Food in Months' After Cancer Treatment: 'It's Affected My Ability to Speak'",
@@ -391,7 +405,7 @@
       "image": "",
       "freshness_status": "fresh",
       "story_type": "rss_headline",
-      "priority_score": 98,
+      "priority_score": 97,
       "key_data": [
         "Talent / person: Dave Coulier Lost, Hasn't Eaten, Solid Food, Months' After Cancer Treatment",
         "Film / show / project: t Eaten",
@@ -407,81 +421,36 @@
         "Watch Variety and trade follow-ups for confirmations, casting details, release timing or deal terms",
         "Track studio/platform response, audience reaction, awards positioning, box office or streaming performance as applicable"
       ]
-    },
-    {
-      "id": "tv-3-5121210369246456148",
-      "key": "tv-3-5121210369246456148",
-      "category": "TV",
-      "label": "TV",
-      "headline": "Owen Hunt Has Left 'Grey's Anatomy' - Here Are 7 of His Worst Moments",
-      "title": "Owen Hunt Has Left 'Grey's Anatomy' - Here Are 7 of His Worst Moments",
-      "snapshot": "After 18 seasons, Dr. Owen Hunt is finally leaving Grey Sloan Memorial, and honestly, the hospital will probably be fine. Kevin McKidd, who joined \"Grey's Anatomy\" in Season 5 in 2008, departed the ABC medical drama alongside Kim Raver in the Season 22 finale, which aired on May 7. Over his run, McKidd directed 49",
-      "summary": "After 18 seasons, Dr. Owen Hunt is finally leaving Grey Sloan Memorial, and honestly, the hospital will probably be fine. Kevin McKidd, who joined \"Grey's Anatomy\" in Season 5 in 2008, departed the ABC medical drama alongside Kim Raver in the Season 22 finale, which aired on May 7. Over his run, McKidd directed 49",
-      "url": "https://variety.com/lists/owen-hunt-greys-anatomy-worst-moments/",
-      "source": "Variety",
-      "source_name": "Variety",
-      "source_feed": "https://variety.com/v/tv/feed/",
-      "published_at": "2026-05-08 03:30:00 PM ET",
-      "image": "",
-      "freshness_status": "fresh",
-      "story_type": "rss_headline",
-<<<<<<< HEAD
-      "priority_score": 97,
-      "key_data": [
-        "Owen Hunt Has Left ‘Grey’s Anatomy’ — Here Are 7 of His Worst Moments"
-=======
-      "priority_score": 98,
-      "key_data": [
-        "Talent / person: Owen Hunt Has Left, Grey's Anatomy, Here Are, Grey Sloan Memorial",
-        "Studio / platform / network: ABC",
-        "Film / show / project: Grey",
-        "Box office / streaming / business / labor detail: 18 seasons",
-        "Category: TV",
-        "Published: 2026-05-08 03:30:00 PM ET"
-      ],
-      "why_it_matters": [
-        "This gives editors a concrete entertainment lead tied to talent, project momentum, audience interest or media business strategy"
-      ],
-      "what_to_watch": [
-        "Watch Variety and trade follow-ups for confirmations, casting details, release timing or deal terms",
-        "Track studio/platform response, audience reaction, awards positioning, box office or streaming performance as applicable"
-      ]
-    },
-    {
-      "id": "tv-3-8304033995456220002",
-      "key": "tv-3-8304033995456220002",
-      "category": "TV",
-      "label": "TV",
-      "headline": "As Networks and Streamers Head to the Upfronts, They Have Plenty to Tout - And Just As Many Needs",
-      "title": "As Networks and Streamers Head to the Upfronts, They Have Plenty to Tout - And Just As Many Needs",
-      "snapshot": "The networks may now take a backseat to larger conglomerate sales at the upfronts, but what they're showing between ads - the actual programs - still matters. Of course, these days that mostly means live sports. Entertainment fare is facing reduced shelf space in primetime, and even the streamers are placing more of...",
-      "summary": "The networks may now take a backseat to larger conglomerate sales at the upfronts, but what they're showing between ads - the actual programs - still matters. Of course, these days that mostly means live sports. Entertainment fare is facing reduced shelf space in primetime, and even the streamers are placing more of...",
-      "url": "https://variety.com/2026/tv/news/upfronts-2026-networks-streamers-hits-misses-needs-1236741866/",
-      "source": "Variety",
-      "source_name": "Variety",
-      "source_feed": "https://variety.com/v/tv/feed/",
-      "published_at": "2026-05-08 03:30:00 PM ET",
-      "image": "",
-      "freshness_status": "fresh",
-      "story_type": "rss_headline",
-      "priority_score": 97,
-      "key_data": [
-        "Talent / person: As Networks, Streamers Head, They Have Plenty, And Just As Many",
-        "Category: TV",
-        "Published: 2026-05-08 03:30:00 PM ET",
-        "Source: Variety"
->>>>>>> 4bc0a1d (Improve entertainment editorial intelligence card data)
-      ],
-      "why_it_matters": [
-        "This gives editors a concrete entertainment lead tied to talent, project momentum, audience interest or media business strategy"
-      ],
-      "what_to_watch": [
-        "Watch Variety and trade follow-ups for confirmations, casting details, release timing or deal terms",
-        "Track studio/platform response, audience reaction, awards positioning, box office or streaming performance as applicable"
-      ]
     }
   ],
   "sections": [
+    {
+      "title": "Celebrity",
+      "headline": "'Mortal Kombat 2' Cast Guide: Who Lives, Who Dies and How They Compare to the Video Game Fighters",
+      "url": "https://variety.com/lists/mortal-kombat-2-cast-dies-video-game-characters/",
+      "snapshot": "SPOILER ALERT: This article contains major spoilers for \"Mortal Kombat II,\" now playing in theaters. After five years, \"Mortal Kombat\" is back on the big screen with a sequel to the 2021 video game adaptation. And the roster of characters is even bigger than last time. The sequel, now playing in theaters, introduces...",
+      "source_name": "Variety",
+      "source_feed": "https://variety.com/v/film/feed/",
+      "published": "",
+      "age_hours": "",
+      "freshness_status": "fresh",
+      "urgency": "",
+      "editorial_score": "",
+      "editor_note": "Live entertainment newsroom item with source link preserved.",
+      "key_data": [
+        "Talent / person: Mortal Kombat, Cast Guide, Who Lives, Who Dies",
+        "Film / show / project: Mortal Kombat 2",
+        "Category: Celebrity",
+        "Source: Variety"
+      ],
+      "why_it_matters": [
+        "This gives editors a concrete entertainment lead tied to talent, project momentum, audience interest or media business strategy"
+      ],
+      "what_to_watch": [
+        "Watch Variety and trade follow-ups for confirmations, casting details, release timing or deal terms",
+        "Track studio/platform response, audience reaction, awards positioning, box office or streaming performance as applicable"
+      ]
+    },
     {
       "title": "Film",
       "headline": "How School Shooting Satire 'Our Hero, Balthazar' Director Oscar Boyson Found His Style While Making Movies With Greta Gerwig and the Safdie Brothers",
@@ -496,20 +465,26 @@
       "editorial_score": "",
       "editor_note": "Live entertainment newsroom item with source link preserved.",
       "key_data": [
-        "How School Shooting Satire ‘Our Hero, Balthazar’ Director Oscar Boyson Found His Style While Making Movies With Greta Gerwig and the Safdie Brothers"
+        "Talent / person: How School Shooting Satire, Our Hero, Balthazar' Director Oscar Boyson, Found His Style While",
+        "Film / show / project: Our Hero, Balthazar",
+        "Role: director",
+        "Release / festival / awards context: Oscar",
+        "Category: Film",
+        "Source: Variety"
       ],
       "why_it_matters": [
-        "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+        "Festival, release or awards context can change campaign timing, buyer interest and audience attention"
       ],
       "what_to_watch": [
-        "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+        "Watch Variety and trade follow-ups for confirmations, casting details, release timing or deal terms",
+        "Track studio/platform response, audience reaction, awards positioning, box office or streaming performance as applicable"
       ]
     },
     {
       "title": "Film",
       "headline": "Shawn Levy to Direct Original Sci-Fi Drama 'Somewhere Out There' for Netflix",
       "url": "https://variety.com/2026/film/news/shawn-levy-sci-fi-drama-somewhere-out-there-netflix-1236742024/",
-      "snapshot": "Shawn Levy is set to direct the original sci-fi movie \"Somewhere Out There\" for Netflix. The streamer picked up the spec script written by Max Taxe in a bidding war. Levy will also produce the film under his 21 Laps banner along with the company's Dan Levine. The story falls in the emotional vein of",
+      "snapshot": "Shawn Levy is set to direct the original sci-fi movie \"Somewhere Out There\" for Netflix. The streamer picked up the spec script written by Max Taxe in a bidding war. Levy will also produce the film under his 21 Laps banner along with the company's Dan Levine. The story falls in the emotional vein of […]",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
       "published": "",
@@ -566,7 +541,7 @@
       "title": "Film",
       "headline": "'Devil Wears Prada 2' Salaries: How Meryl Streep Landed a $12.5 Million Payday With Big Bonuses - and Shared the Wealth with Anne Hathaway and Emily Blunt (EXCLUSIVE)",
       "url": "https://variety.com/2026/film/news/devil-wears-prada-2-salaries-meryl-streep-hathaway-pay-1236741185/",
-      "snapshot": "The women of \"The Devil Wears Prada 2\" are clacking their stilettos all the way to the bank. As the sequel to the iconic fashion film continues to rake in cash across the globe - $300 million in box office and counting - multiple sources told Variety what the triumvirate of leading ladies earned to return",
+      "snapshot": "The women of \"The Devil Wears Prada 2\" are clacking their stilettos all the way to the bank. As the sequel to the iconic fashion film continues to rake in cash across the globe - $300 million in box office and counting - multiple sources told Variety what the triumvirate of leading ladies earned to return […]",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
       "published": "",
@@ -595,7 +570,7 @@
       "title": "Film",
       "headline": "Cannes Film Festival Marks the Start of a New Era for Anonymous Content: 'The Very Best Cinema Reminds Us of Our Humanity'",
       "url": "https://variety.com/2026/film/news/anonymous-content-darren-walker-cannes-parallel-tales-1236741811/",
-      "snapshot": "The Cannes Film Festival is a big moment on the calendar for any film company fortunate enough to have a film in contention at the glitzy fest. For Anonymous Content, the arrival of Cannes marks the start of a new chapter for the company under president and CEO Darren Walker. Anonymous has three films getting",
+      "snapshot": "The Cannes Film Festival is a big moment on the calendar for any film company fortunate enough to have a film in contention at the glitzy fest. For Anonymous Content, the arrival of Cannes marks the start of a new chapter for the company under president and CEO Darren Walker. Anonymous has three films getting […]",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
       "published": "",
@@ -650,7 +625,7 @@
       "title": "TV",
       "headline": "'Mortal Kombat II' Star Max Huang on Jackie Chan, Kung Lao and the Spirit Behind the Movement: 'It's Not About What Punch or Kick You Do - It's About How You Do It'",
       "url": "https://variety.com/2026/film/news/mortal-kombat-ii-kung-lao-max-huang-jackie-chan-1236741869/",
-      "snapshot": "The plan was simple, if audacious. Max Huang had prepared a showreel, traveled to a Berlin red carpet, and waited six hours for Jackie Chan to arrive. Chan, surrounded by bodyguards, was unreachable. So when Jaden Smith wandered over to sign autographs, Huang handed the reel to him instead. A month later, he got an",
+      "snapshot": "The plan was simple, if audacious. Max Huang had prepared a showreel, traveled to a Berlin red carpet, and waited six hours for Jackie Chan to arrive. Chan, surrounded by bodyguards, was unreachable. So when Jaden Smith wandered over to sign autographs, Huang handed the reel to him instead. A month later, he got an […]",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
       "published": "",
@@ -677,72 +652,9 @@
     },
     {
       "title": "Film",
-      "headline": "'Don't Forget to Dance' Wins Best Film at 2026 Easterseals Disability Film Challenge Awards",
-      "url": "https://variety.com/2026/film/news/easterseals-disability-film-challenge-award-winners-2026-1236741178/",
-      "snapshot": "\"Don't Forget to Dance,\" \"The Ticket\" and more were among the winners of the 2026 Easterseals Disability Film Challenge. The winners were announced Thursday night at an awards ceremony at Sony Pictures Studios. For the 2026 challenge, the featured genre was Dramedy, and the challenge received a record 144 submission...",
-      "source_name": "Variety",
-      "source_feed": "https://variety.com/v/film/feed/",
-      "published": "",
-      "age_hours": "",
-      "freshness_status": "fresh",
-      "urgency": "",
-      "editorial_score": "",
-      "editor_note": "Live entertainment newsroom item with source link preserved.",
-      "key_data": [
-        "Talent / person: Don't Forget, The Ticket",
-        "Studio / platform / network: Sony",
-        "Film / show / project: Don",
-        "Release / festival / awards context: awards",
-        "Category: Film",
-        "Source: Variety"
-      ],
-      "why_it_matters": [
-        "Festival, release or awards context can change campaign timing, buyer interest and audience attention"
-      ],
-      "what_to_watch": [
-        "Watch Variety and trade follow-ups for confirmations, casting details, release timing or deal terms",
-        "Track studio/platform response, audience reaction, awards positioning, box office or streaming performance as applicable"
-      ]
-    },
-    {
-      "title": "Film",
-<<<<<<< HEAD
-      "headline": "Larry David's Unmade Script From 1980s Leaks Online; Film Follows Noncommittal Man Who Reunites With Dying Ex",
-      "url": "https://variety.com/2026/tv/news/larry-david-script-leaks-online-read-prognosis-negative-1236742075/",
-      "snapshot": "Before \"Seinfeld\" and \"Curb Your Enthusiasm,\" there was \"Prognosis: Negative,\" a film script written by Larry David in the 1980s that was never produced. Thanks to a Reddit user from Rochester, N.Y., a 1983 draft of the screenplay has been uploaded to the internet. (Read a PDF here.) The 24-year-old, named Jeremy Sm...",
-=======
-      "headline": "Oasis Tour Documentary to Release in Imax and Movie Theaters Before Disney+ Launch",
-      "url": "https://variety.com/2026/film/global/oasis-tour-doc-release-imax-and-movie-theaters-disney-1236741639/",
-      "snapshot": "Oasis' reunion tour may have been arguably the must-attend cultural moment of 2025, but it's now hoping to find a similar audience on the big screen. The documentary following the band - from magna studios and Sony Music Vision - has been picked up by Disney, with a limited theatrical release on IMAX screens and oth...",
-      "source_name": "Variety",
-      "source_feed": "https://variety.com/v/film/feed/",
-      "published": "",
-      "age_hours": "",
-      "freshness_status": "fresh",
-      "urgency": "",
-      "editorial_score": "",
-      "editor_note": "Live entertainment newsroom item with source link preserved.",
-      "key_data": [
-        "Talent / person: Oasis Tour Documentary, Sony Music Vision",
-        "Studio / platform / network: Disney, Sony",
-        "Release / festival / awards context: release",
-        "Category: Film",
-        "Source: Variety"
-      ],
-      "why_it_matters": [
-        "The business angle can shift studio leverage, labor coverage, platform strategy or box office expectations"
-      ],
-      "what_to_watch": [
-        "Watch Variety and trade follow-ups for confirmations, casting details, release timing or deal terms",
-        "Track studio/platform response, audience reaction, awards positioning, box office or streaming performance as applicable"
-      ]
-    },
-    {
-      "title": "TV",
-      "headline": "Ramy Youssef on Making Fox News Melt Down After He Taught Elmo Some Arabic Words on 'Sesame Street': 'You Feel This Ramp-Up of Islamophobia'",
-      "url": "https://variety.com/2026/tv/awards/ramy-youssef-elmo-arabic-sesame-street-reactions-podcast-1236741333/",
-      "snapshot": "Fox News, the next time you want to criticize Ramy Youssef, how about actually giving the comedian a call? \"I've been on the network a few times without my consent,\" he tells Variety's Awards Circuit Podcast. \"I'd love to be asked for comment, because I would! Any of the ways they've covered me, they never",
->>>>>>> 4bc0a1d (Improve entertainment editorial intelligence card data)
+      "headline": "Tony Amatullo Jr., Former Warner Bros. Exec and TV Producer, Dies at 76",
+      "url": "https://variety.com/2026/tv/news/tony-amatullo-jr-dead-warner-bros-1236742161/",
+      "snapshot": "Anthony \"Tony\" Eugene Amatullo Jr., a former Warner Bros. executive and producer who worked on TV shows including \"ER\" and \"The West Wing,\" died Sunday in Manhattan. He was 76. His son, Nicolas Amatullo, confirmed the news. Amatullo had a long and successful career as a line and executive producer. He first worked a...",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/tv/feed/",
       "published": "",
@@ -752,19 +664,15 @@
       "editorial_score": "",
       "editor_note": "Live entertainment newsroom item with source link preserved.",
       "key_data": [
-<<<<<<< HEAD
-        "Larry David’s Unmade Script From 1980s Leaks Online; Film Follows Noncommittal Man Who Reunites With Dying Ex"
-=======
-        "Talent / person: Ramy Youssef, Making Fox News Melt, Down After He Taught, Elmo Some Arabic Words",
-        "Studio / platform / network: Fox, Variety",
-        "Film / show / project: Sesame Street",
-        "Release / festival / awards context: awards",
-        "Category: TV",
+        "Talent / person: Tony Amatullo Jr, TV Producer, Eugene Amatullo Jr, Warner Bros",
+        "Studio / platform / network: Warner",
+        "Film / show / project: Tony",
+        "Role: producer",
+        "Category: Film",
         "Source: Variety"
->>>>>>> 4bc0a1d (Improve entertainment editorial intelligence card data)
       ],
       "why_it_matters": [
-        "Festival, release or awards context can change campaign timing, buyer interest and audience attention"
+        "This gives editors a concrete entertainment lead tied to talent, project momentum, audience interest or media business strategy"
       ],
       "what_to_watch": [
         "Watch Variety and trade follow-ups for confirmations, casting details, release timing or deal terms",
