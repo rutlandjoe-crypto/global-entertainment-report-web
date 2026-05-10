@@ -3,11 +3,11 @@
   "site": "Global Entertainment Report",
   "site_name": "Global Entertainment Report",
   "vertical": "Entertainment",
-  "headline": "Sola Media Boards Animated Feature 'Felix the Brave,' Unveils Teaser at Cannes (EXCLUSIVE)",
+  "headline": "Box Office: 'Devil Wears Prada 2' Remains No. 1 With $43 Million, 'Mortal Kombat II' Launches to $40 Million",
   "snapshot": "Global Entertainment Report accepted 73 real RSS item(s) across 14 checked feed request(s).",
-  "generated_at": "2026-05-10 10:55:19 AM ET",
-  "updated_at": "2026-05-10 10:55:19 AM ET",
-  "published_at": "2026-05-10 10:55:19 AM ET",
+  "generated_at": "2026-05-10 11:56:35 AM ET",
+  "updated_at": "2026-05-10 11:56:35 AM ET",
+  "published_at": "2026-05-10 11:56:35 AM ET",
   "source_mode": "live RSS ingestion",
   "freshness": {
     "max_item_age_hours": 336,
@@ -93,11 +93,11 @@
       "url": "https://news.google.com/rss/search?q=entertainment+awards+oscars+emmys+grammys&hl=en-US&gl=US&ceid=US:en",
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=entertainment+awards+oscars+emmys+grammys&hl=en-US&gl=US&ceid=US:en",
-      "item_count": 63,
+      "item_count": 52,
       "accepted_count": 1,
-      "rejected_count": 62,
+      "rejected_count": 51,
       "rejection_reasons": {
-        "stale-over-336h": 62
+        "stale-over-336h": 51
       }
     },
     {
@@ -169,19 +169,46 @@
   "substack_url": "https://globalentertainmentreport.substack.com/",
   "x_handle": "@GlobalSportsRp",
   "key_storylines": [
+    "Box Office: 'Devil Wears Prada 2' Remains No. 1 With $43 Million, 'Mortal Kombat II' Launches to $40 Million",
     "Sola Media Boards Animated Feature 'Felix the Brave,' Unveils Teaser at Cannes (EXCLUSIVE)",
     "Simu Liu Honored at Gold House Gala: 'We Must Learn What It Means to be a True Community'",
     "'The Python Hunt' Review: An Entertainingly Garish Documentary Account of a State-Sanctioned Culling Spree",
     "'The Secret Agent' Sweeps 13th Premios Platino While Netflix's Ambitious Argentine Series 'The Eternaut' Dominates TV Prizes",
     "Indian Film Star Vijay Sworn In as Tamil Nadu Chief Minister After Days of High Drama",
     "Television Academy Endorses Post-Production Tax Credit Bill as Assemblyman Nick Schultz Rallies Support in Burbank: 'We Should Have Done This a Decade Ago'",
-    "'Buffet Infinity,' A Surreal Horror Film Told Entirely Through Commercials, Is a Must-Watch for Midnight Movie Fans",
-    "Sally Field Thought Robin Williams 'Wasn't Funny' While Filming 'Mrs. Doubtfire': 'I Would Never Laugh'"
+    "'Buffet Infinity,' A Surreal Horror Film Told Entirely Through Commercials, Is a Must-Watch for Midnight Movie Fans"
   ],
   "live_newsroom": [
     {
-      "id": "film-0-4964030003493167097",
-      "key": "film-0-4964030003493167097",
+      "id": "film-0-5456545533923067159",
+      "key": "film-0-5456545533923067159",
+      "category": "Film",
+      "label": "Film",
+      "headline": "Box Office: 'Devil Wears Prada 2' Remains No. 1 With $43 Million, 'Mortal Kombat II' Launches to $40 Million",
+      "title": "Box Office: 'Devil Wears Prada 2' Remains No. 1 With $43 Million, 'Mortal Kombat II' Launches to $40 Million",
+      "snapshot": "Apparently the gruff fighter Johnny Cage wasn't much of a match for the all-powerful Miranda Priestly. Disney's \"The Devil Wears Prada 2\" retained the No. 1 spot on domestic box office charts despite three major new releases, including the video game adaptation \"Mortal Kombat II.\" The \"Devil Wears Prada\" sequel adde...",
+      "summary": "Apparently the gruff fighter Johnny Cage wasn't much of a match for the all-powerful Miranda Priestly. Disney's \"The Devil Wears Prada 2\" retained the No. 1 spot on domestic box office charts despite three major new releases, including the video game adaptation \"Mortal Kombat II.\" The \"Devil Wears Prada\" sequel adde...",
+      "url": "https://variety.com/2026/film/box-office/devil-wears-prada-2-box-office-first-place-mortal-kombat-2-opening-1236743920/",
+      "source": "Variety",
+      "source_name": "Variety",
+      "source_feed": "https://variety.com/v/film/feed/",
+      "published_at": "2026-05-10 11:20:59 AM ET",
+      "freshness_status": "fresh",
+      "key_data": [
+        "Box Office: 'Devil Wears Prada 2' Remains No. 1 With $43 Million, 'Mortal Kombat II' Launches to $40 Million"
+      ],
+      "why_it_matters": [
+        "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+      ],
+      "what_to_watch": [
+        "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+      ],
+      "story_type": "rss_headline",
+      "priority_score": 100
+    },
+    {
+      "id": "film-1-5093856793765739015",
+      "key": "film-1-5093856793765739015",
       "category": "Film",
       "label": "Film",
       "headline": "Sola Media Boards Animated Feature 'Felix the Brave,' Unveils Teaser at Cannes (EXCLUSIVE)",
@@ -204,11 +231,11 @@
         "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
       ],
       "story_type": "rss_headline",
-      "priority_score": 100
+      "priority_score": 99
     },
     {
-      "id": "film-1-6390112434205917614",
-      "key": "film-1-6390112434205917614",
+      "id": "film-2-487867839266640434",
+      "key": "film-2-487867839266640434",
       "category": "Film",
       "label": "Film",
       "headline": "Simu Liu Honored at Gold House Gala: 'We Must Learn What It Means to be a True Community'",
@@ -231,11 +258,11 @@
         "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
       ],
       "story_type": "rss_headline",
-      "priority_score": 99
+      "priority_score": 98
     },
     {
-      "id": "film-2-1047856103076366444",
-      "key": "film-2-1047856103076366444",
+      "id": "film-3-938215160935994500",
+      "key": "film-3-938215160935994500",
       "category": "Film",
       "label": "Film",
       "headline": "'The Python Hunt' Review: An Entertainingly Garish Documentary Account of a State-Sanctioned Culling Spree",
@@ -258,11 +285,11 @@
         "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
       ],
       "story_type": "rss_headline",
-      "priority_score": 98
+      "priority_score": 97
     },
     {
-      "id": "film-3-8618719934762703813",
-      "key": "film-3-8618719934762703813",
+      "id": "film-4-2113823296947870304",
+      "key": "film-4-2113823296947870304",
       "category": "Film",
       "label": "Film",
       "headline": "'The Secret Agent' Sweeps 13th Premios Platino While Netflix's Ambitious Argentine Series 'The Eternaut' Dominates TV Prizes",
@@ -285,11 +312,11 @@
         "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
       ],
       "story_type": "rss_headline",
-      "priority_score": 97
+      "priority_score": 96
     },
     {
-      "id": "film-4-8760666241611436211",
-      "key": "film-4-8760666241611436211",
+      "id": "film-5-8490130107812914234",
+      "key": "film-5-8490130107812914234",
       "category": "Film",
       "label": "Film",
       "headline": "Indian Film Star Vijay Sworn In as Tamil Nadu Chief Minister After Days of High Drama",
@@ -312,11 +339,11 @@
         "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
       ],
       "story_type": "rss_headline",
-      "priority_score": 96
+      "priority_score": 95
     },
     {
-      "id": "film-5-7749513475253573874",
-      "key": "film-5-7749513475253573874",
+      "id": "film-6-93215138547610040",
+      "key": "film-6-93215138547610040",
       "category": "Film",
       "label": "Film",
       "headline": "Television Academy Endorses Post-Production Tax Credit Bill as Assemblyman Nick Schultz Rallies Support in Burbank: 'We Should Have Done This a Decade Ago'",
@@ -339,11 +366,11 @@
         "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
       ],
       "story_type": "rss_headline",
-      "priority_score": 95
+      "priority_score": 94
     },
     {
-      "id": "film-6-3261361202408324374",
-      "key": "film-6-3261361202408324374",
+      "id": "film-7-3910756910741643995",
+      "key": "film-7-3910756910741643995",
       "category": "Film",
       "label": "Film",
       "headline": "'Buffet Infinity,' A Surreal Horror Film Told Entirely Through Commercials, Is a Must-Watch for Midnight Movie Fans",
@@ -366,25 +393,25 @@
         "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
       ],
       "story_type": "rss_headline",
-      "priority_score": 94
+      "priority_score": 93
     },
     {
-      "id": "film-7-2937688718071287107",
-      "key": "film-7-2937688718071287107",
-      "category": "Film",
-      "label": "Film",
-      "headline": "Sally Field Thought Robin Williams 'Wasn't Funny' While Filming 'Mrs. Doubtfire': 'I Would Never Laugh'",
-      "title": "Sally Field Thought Robin Williams 'Wasn't Funny' While Filming 'Mrs. Doubtfire': 'I Would Never Laugh'",
-      "snapshot": "Sally Field said during a recent appearance on \"The Late Show with Stephen Colbert\" that she didn't find her \"Mrs. Doubtfire\" co-star Robin Williams funny while shooting the 1993 comedy. \"Because I would never laugh, ever,\" Field recalled. \"And everybody else was laughing and carrying on.\" Field said that Williams,...",
-      "summary": "Sally Field said during a recent appearance on \"The Late Show with Stephen Colbert\" that she didn't find her \"Mrs. Doubtfire\" co-star Robin Williams funny while shooting the 1993 comedy. \"Because I would never laugh, ever,\" Field recalled. \"And everybody else was laughing and carrying on.\" Field said that Williams,...",
-      "url": "https://variety.com/2026/film/news/sally-field-robin-williams-wasnt-funny-mrs-doubtfire-1236742374/",
+      "id": "tv-0-8097267911222053581",
+      "key": "tv-0-8097267911222053581",
+      "category": "TV",
+      "label": "TV",
+      "headline": "Advertisers' Wish List for Upfront? Sports, Streaming, Spectacle (and Not Much Else)",
+      "title": "Advertisers' Wish List for Upfront? Sports, Streaming, Spectacle (and Not Much Else)",
+      "snapshot": "TV advertisers expect to hear a lot of big asks this year, but not so many small requests. When NBCUniversal opens the media industry's annual \"Upfront Week\" Monday, it is likely to do so with talk of the 100th anniversary of the NBC broadcast network and three different types of sports to offer on Sundays. […]",
+      "summary": "TV advertisers expect to hear a lot of big asks this year, but not so many small requests. When NBCUniversal opens the media industry's annual \"Upfront Week\" Monday, it is likely to do so with talk of the 100th anniversary of the NBC broadcast network and three different types of sports to offer on Sundays. […]",
+      "url": "https://variety.com/2026/tv/news/advertisers-upfront-wish-list-sports-streaming-spectacle-1236743899/",
       "source": "Variety",
       "source_name": "Variety",
-      "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-05-09 02:37:25 PM ET",
+      "source_feed": "https://variety.com/v/tv/feed/",
+      "published_at": "2026-05-10 11:20:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Sally Field Thought Robin Williams 'Wasn't Funny' While Filming 'Mrs. Doubtfire': 'I Would Never Laugh'"
+        "Advertisers' Wish List for Upfront? Sports, Streaming, Spectacle (and Not Much Else)"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -393,11 +420,11 @@
         "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
       ],
       "story_type": "rss_headline",
-      "priority_score": 93
+      "priority_score": 100
     },
     {
-      "id": "tv-1-1257223994386222515",
-      "key": "tv-1-1257223994386222515",
+      "id": "tv-2-866766564592624372",
+      "key": "tv-2-866766564592624372",
       "category": "TV",
       "label": "TV",
       "headline": "'Money Heist' Set to Return With Expansion of Series Universe at Netflix",
@@ -420,11 +447,11 @@
         "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
       ],
       "story_type": "rss_headline",
-      "priority_score": 99
+      "priority_score": 98
     },
     {
-      "id": "tv-2-5334698179647806595",
-      "key": "tv-2-5334698179647806595",
+      "id": "tv-3-3867743735253681256",
+      "key": "tv-3-3867743735253681256",
       "category": "TV",
       "label": "TV",
       "headline": "BAFTA TV Awards 2026 Winners List (Updating Live)",
@@ -447,11 +474,40 @@
         "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
       ],
       "story_type": "rss_headline",
-      "priority_score": 98
+      "priority_score": 97
     },
     {
-      "id": "streaming-0-4540369134221034568",
-      "key": "streaming-0-4540369134221034568",
+      "id": "streaming-0-2075125267419300305",
+      "key": "streaming-0-2075125267419300305",
+      "category": "Streaming",
+      "label": "Streaming",
+      "headline": "BAFTA TV Awards Winners List (Updating Live)",
+      "title": "BAFTA TV Awards Winners List (Updating Live)",
+      "snapshot": "The BAFTA TV Awards are underway Sunday afternoon at London's Royal Festival Hall. The grandest night in British TV will unfold over the next three hours as some of the biggest stars around the world including Colin Firth, Aimee Lou Wood, Taron Egerton and Matt Smith go head-to-head. Netflix's Adolescence dominates...",
+      "summary": "The BAFTA TV Awards are underway Sunday afternoon at London's Royal Festival Hall. The grandest night in British TV will unfold over the next three hours as some of the biggest stars around the world including Colin Firth, Aimee Lou Wood, Taron Egerton and Matt Smith go head-to-head. Netflix's Adolescence dominates...",
+      "url": "https://deadline.com/2026/05/2026-bafta-tv-awards-winners-list-1236889392/",
+      "source": "Deadline",
+      "source_name": "Deadline",
+      "source_feed": "https://deadline.com/v/tv/feed/",
+      "published_at": "2026-05-10 11:25:54 AM ET",
+      "freshness_status": "fresh",
+      "key_data": [
+        "BAFTA TV Awards Winners List (Updating Live)"
+      ],
+      "why_it_matters": [
+        "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+      ],
+      "what_to_watch": [
+        "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+      ],
+      "story_type": "rss_headline",
+      "priority_score": 100
+    }
+  ],
+  "editor_signals": [
+    {
+      "id": "streaming-1-6764329558430274546",
+      "key": "streaming-1-6764329558430274546",
       "category": "Streaming",
       "label": "Streaming",
       "headline": "Hannah Waddingham Provides Shot In Arm For 'Saturday Night Live UK's Viewing Figures",
@@ -474,11 +530,11 @@
         "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
       ],
       "story_type": "rss_headline",
-      "priority_score": 100
+      "priority_score": 99
     },
     {
-      "id": "streaming-1-1764057048395055491",
-      "key": "streaming-1-1764057048395055491",
+      "id": "streaming-2-9198480199780772233",
+      "key": "streaming-2-9198480199780772233",
       "category": "Streaming",
       "label": "Streaming",
       "headline": "'SNL's Weekend Update Scores With Jeremy Culhane's Tucker Carlson Trashing Met Gala, Mikey Day & Marcello Hernández As Kamikaze Dolphins",
@@ -501,13 +557,11 @@
         "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
       ],
       "story_type": "rss_headline",
-      "priority_score": 99
-    }
-  ],
-  "editor_signals": [
+      "priority_score": 98
+    },
     {
-      "id": "streaming-2-3959505257536664466",
-      "key": "streaming-2-3959505257536664466",
+      "id": "streaming-3-3073504567875425664",
+      "key": "streaming-3-3073504567875425664",
       "category": "Streaming",
       "label": "Streaming",
       "headline": "'Saturday Night Live' Open Has Matt Damon As Brett Kavanaugh Joining Pete Hegseth And Kash Patel In Boozy Night On The Town",
@@ -530,38 +584,11 @@
         "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
       ],
       "story_type": "rss_headline",
-      "priority_score": 98
-    },
-    {
-      "id": "streaming-3-6431966932440893426",
-      "key": "streaming-3-6431966932440893426",
-      "category": "Streaming",
-      "label": "Streaming",
-      "headline": "Charlie Cox Reflects On Disney's Initial 'Daredevil: Born Again' Creative Pivot & Credits Marvel For Listening: \"We're Indebted To Them\"",
-      "title": "Charlie Cox Reflects On Disney's Initial 'Daredevil: Born Again' Creative Pivot & Credits Marvel For Listening: \"We're Indebted To Them\"",
-      "snapshot": "Charlie Cox is giving credit where credit is due, saying he and Daredevil: Born Again co-star Vincent D'Onofrio are \"indebted\" to Marvel for listening to the duo's creative input ahead of the show's Season 1 launch. Post 2023 WGA strike, it was well-documented that Disney+'s revival of the beloved anti-hero underwen...",
-      "summary": "Charlie Cox is giving credit where credit is due, saying he and Daredevil: Born Again co-star Vincent D'Onofrio are \"indebted\" to Marvel for listening to the duo's creative input ahead of the show's Season 1 launch. Post 2023 WGA strike, it was well-documented that Disney+'s revival of the beloved anti-hero underwen...",
-      "url": "https://deadline.com/2026/05/charlie-cox-marvel-daredevil-born-again-creative-pivot-1236889154/",
-      "source": "Deadline",
-      "source_name": "Deadline",
-      "source_feed": "https://deadline.com/v/tv/feed/",
-      "published_at": "2026-05-09 08:31:15 PM ET",
-      "freshness_status": "fresh",
-      "key_data": [
-        "Charlie Cox Reflects On Disney's Initial 'Daredevil: Born Again' Creative Pivot & Credits Marvel For Listening: \"We're Indebted To Them\""
-      ],
-      "why_it_matters": [
-        "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-      ],
-      "what_to_watch": [
-        "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-      ],
-      "story_type": "rss_headline",
       "priority_score": 97
     },
     {
-      "id": "awards-4-4341001889841528585",
-      "key": "awards-4-4341001889841528585",
+      "id": "awards-4-880043090324979640",
+      "key": "awards-4-880043090324979640",
       "category": "Awards",
       "label": "Awards",
       "headline": "2026-27 Awards Season Calendar - Deadline",
@@ -587,22 +614,22 @@
       "priority_score": 96
     },
     {
-      "id": "box_office-0-3353332675384713223",
-      "key": "box_office-0-3353332675384713223",
+      "id": "box_office-0-6117144423434928464",
+      "key": "box_office-0-6117144423434928464",
       "category": "Box Office",
       "label": "Box Office",
-      "headline": "Box Office: 'Mortal Kombat II' Tops Friday but Continues to Battle 'Prada 2' for Mother's Day Win",
-      "title": "Box Office: 'Mortal Kombat II' Tops Friday but Continues to Battle 'Prada 2' for Mother's Day Win",
-      "snapshot": "New Line's martial arts sequel and 'The Devil Wears Prada 2' - which is passing up the first film's lifetime run of $326 million in only its second outing - are both on course to earn $40 million to $41 million at the weekend box office in North America.",
-      "summary": "New Line's martial arts sequel and 'The Devil Wears Prada 2' - which is passing up the first film's lifetime run of $326 million in only its second outing - are both on course to earn $40 million to $41 million at the weekend box office in North America.",
+      "headline": "Box Office: 'Devil Wears Prada 2' Sews Up Mother's Day Victory Over 'Mortal Kombat II,' Crosses $433M Globally",
+      "title": "Box Office: 'Devil Wears Prada 2' Sews Up Mother's Day Victory Over 'Mortal Kombat II,' Crosses $433M Globally",
+      "snapshot": "In only its second weekend, the 'Prada' sequel has already passed up the entire lifetime run of the original 2006 movie as Disney becomes the first Hollywood studio to clear the $2 billion mark in worldwide ticket sales.",
+      "summary": "In only its second weekend, the 'Prada' sequel has already passed up the entire lifetime run of the original 2006 movie as Disney becomes the first Hollywood studio to clear the $2 billion mark in worldwide ticket sales.",
       "url": "https://www.hollywoodreporter.com/movies/movie-news/mortal-kombat-ii-box-office-battle-devil-wears-prada-2-1236591049/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-05-09 11:46:14 AM ET",
+      "published_at": "2026-05-10 11:51:17 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Box Office: 'Mortal Kombat II' Tops Friday but Continues to Battle 'Prada 2' for Mother's Day Win"
+        "Box Office: 'Devil Wears Prada 2' Sews Up Mother's Day Victory Over 'Mortal Kombat II,' Crosses $433M Globally"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -614,8 +641,8 @@
       "priority_score": 100
     },
     {
-      "id": "box_office-1-3861019733881142398",
-      "key": "box_office-1-3861019733881142398",
+      "id": "box_office-1-8264213726445896887",
+      "key": "box_office-1-8264213726445896887",
       "category": "Box Office",
       "label": "Box Office",
       "headline": "Theaters Embrace Nate Bargatze's Call to Make Ticket Prices for 'The Breadwinner' More Affordable",
@@ -641,8 +668,8 @@
       "priority_score": 99
     },
     {
-      "id": "box_office-2-7243440509474095345",
-      "key": "box_office-2-7243440509474095345",
+      "id": "box_office-2-2573216602903776006",
+      "key": "box_office-2-2573216602903776006",
       "category": "Box Office",
       "label": "Box Office",
       "headline": "Renée Zellweger to Star as 'A Woman in the Sun' Opposite Sissy Spacek and Mia Threapleton",
@@ -668,8 +695,8 @@
       "priority_score": 98
     },
     {
-      "id": "box_office-3-8026454566702775302",
-      "key": "box_office-3-8026454566702775302",
+      "id": "box_office-3-3100957073090852670",
+      "key": "box_office-3-3100957073090852670",
       "category": "Box Office",
       "label": "Box Office",
       "headline": "Tony Amatullo, '2 Days in the Valley' Producer and 'Goonies' Location Manager, Dies at 76",
@@ -695,8 +722,8 @@
       "priority_score": 97
     },
     {
-      "id": "celebrity-0-360143099328614664",
-      "key": "celebrity-0-360143099328614664",
+      "id": "celebrity-0-6081051140859904839",
+      "key": "celebrity-0-6081051140859904839",
       "category": "Celebrity",
       "label": "Celebrity",
       "headline": "PHOTOS: 2026 celebrity deaths - WTOP",
@@ -722,8 +749,8 @@
       "priority_score": 100
     },
     {
-      "id": "celebrity-1-6349576048537003401",
-      "key": "celebrity-1-6349576048537003401",
+      "id": "celebrity-1-7332882861229772687",
+      "key": "celebrity-1-7332882861229772687",
       "category": "Celebrity",
       "label": "Celebrity",
       "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -749,8 +776,8 @@
       "priority_score": 99
     },
     {
-      "id": "celebrity-2-8115415825978334557",
-      "key": "celebrity-2-8115415825978334557",
+      "id": "celebrity-2-491769892878341875",
+      "key": "celebrity-2-491769892878341875",
       "category": "Celebrity",
       "label": "Celebrity",
       "headline": "The Celebrity Outfits Everyone Is Talking About (and Copying) Right Now - ELLE",
@@ -776,8 +803,8 @@
       "priority_score": 98
     },
     {
-      "id": "tv-4-8870528607121429976",
-      "key": "tv-4-8870528607121429976",
+      "id": "tv-5-4582059715934874898",
+      "key": "tv-5-4582059715934874898",
       "category": "TV",
       "label": "TV",
       "headline": "Tucker Carlson on 'SNL' Critiques the Met Gala and Slams the 'Michael' Movie for Ignoring 'The Part When He Was a White Man'",
@@ -792,33 +819,6 @@
       "freshness_status": "fresh",
       "key_data": [
         "Tucker Carlson on 'SNL' Critiques the Met Gala and Slams the 'Michael' Movie for Ignoring 'The Part When He Was a White Man'"
-      ],
-      "why_it_matters": [
-        "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-      ],
-      "what_to_watch": [
-        "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-      ],
-      "story_type": "rss_headline",
-      "priority_score": 96
-    },
-    {
-      "id": "tv-5-4022415302544251549",
-      "key": "tv-5-4022415302544251549",
-      "category": "TV",
-      "label": "TV",
-      "headline": "Pete Hegseth, Kash Patel and Justice Kavanaugh Hit the Bar Together to Celebrate Iran War, Alcohol on 'SNL' Cold Open",
-      "title": "Pete Hegseth, Kash Patel and Justice Kavanaugh Hit the Bar Together to Celebrate Iran War, Alcohol on 'SNL' Cold Open",
-      "snapshot": "Three of President Trump's most alcohol-inclined confidants walk into a bar… That was the premise behind the cold open of the May 9 episode of \"Saturday Night Live,\" which found aggro secretary of war Pete Hegseth (as played the season by Colin Jost) causing trouble at a D.C. area dive bar (\"Martin's Tavern\") alongs...",
-      "summary": "Three of President Trump's most alcohol-inclined confidants walk into a bar… That was the premise behind the cold open of the May 9 episode of \"Saturday Night Live,\" which found aggro secretary of war Pete Hegseth (as played the season by Colin Jost) causing trouble at a D.C. area dive bar (\"Martin's Tavern\") alongs...",
-      "url": "https://variety.com/2026/tv/news/snl-open-pete-hegseth-kash-patel-justice-kavanaugh-1236742480/",
-      "source": "Variety",
-      "source_name": "Variety",
-      "source_feed": "https://variety.com/v/tv/feed/",
-      "published_at": "2026-05-09 11:45:13 PM ET",
-      "freshness_status": "fresh",
-      "key_data": [
-        "Pete Hegseth, Kash Patel and Justice Kavanaugh Hit the Bar Together to Celebrate Iran War, Alcohol on 'SNL' Cold Open"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -832,8 +832,35 @@
   ],
   "homepage_cards": [
     {
-      "id": "film-0-4964030003493167097",
-      "key": "film-0-4964030003493167097",
+      "id": "film-0-5456545533923067159",
+      "key": "film-0-5456545533923067159",
+      "category": "Film",
+      "label": "Film",
+      "headline": "Box Office: 'Devil Wears Prada 2' Remains No. 1 With $43 Million, 'Mortal Kombat II' Launches to $40 Million",
+      "title": "Box Office: 'Devil Wears Prada 2' Remains No. 1 With $43 Million, 'Mortal Kombat II' Launches to $40 Million",
+      "snapshot": "Apparently the gruff fighter Johnny Cage wasn't much of a match for the all-powerful Miranda Priestly. Disney's \"The Devil Wears Prada 2\" retained the No. 1 spot on domestic box office charts despite three major new releases, including the video game adaptation \"Mortal Kombat II.\" The \"Devil Wears Prada\" sequel adde...",
+      "summary": "Apparently the gruff fighter Johnny Cage wasn't much of a match for the all-powerful Miranda Priestly. Disney's \"The Devil Wears Prada 2\" retained the No. 1 spot on domestic box office charts despite three major new releases, including the video game adaptation \"Mortal Kombat II.\" The \"Devil Wears Prada\" sequel adde...",
+      "url": "https://variety.com/2026/film/box-office/devil-wears-prada-2-box-office-first-place-mortal-kombat-2-opening-1236743920/",
+      "source": "Variety",
+      "source_name": "Variety",
+      "source_feed": "https://variety.com/v/film/feed/",
+      "published_at": "2026-05-10 11:20:59 AM ET",
+      "freshness_status": "fresh",
+      "key_data": [
+        "Box Office: 'Devil Wears Prada 2' Remains No. 1 With $43 Million, 'Mortal Kombat II' Launches to $40 Million"
+      ],
+      "why_it_matters": [
+        "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+      ],
+      "what_to_watch": [
+        "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+      ],
+      "story_type": "rss_headline",
+      "priority_score": 100
+    },
+    {
+      "id": "film-1-5093856793765739015",
+      "key": "film-1-5093856793765739015",
       "category": "Film",
       "label": "Film",
       "headline": "Sola Media Boards Animated Feature 'Felix the Brave,' Unveils Teaser at Cannes (EXCLUSIVE)",
@@ -856,11 +883,11 @@
         "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
       ],
       "story_type": "rss_headline",
-      "priority_score": 100
+      "priority_score": 99
     },
     {
-      "id": "film-1-6390112434205917614",
-      "key": "film-1-6390112434205917614",
+      "id": "film-2-487867839266640434",
+      "key": "film-2-487867839266640434",
       "category": "Film",
       "label": "Film",
       "headline": "Simu Liu Honored at Gold House Gala: 'We Must Learn What It Means to be a True Community'",
@@ -883,11 +910,11 @@
         "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
       ],
       "story_type": "rss_headline",
-      "priority_score": 99
+      "priority_score": 98
     },
     {
-      "id": "film-2-1047856103076366444",
-      "key": "film-2-1047856103076366444",
+      "id": "film-3-938215160935994500",
+      "key": "film-3-938215160935994500",
       "category": "Film",
       "label": "Film",
       "headline": "'The Python Hunt' Review: An Entertainingly Garish Documentary Account of a State-Sanctioned Culling Spree",
@@ -910,11 +937,11 @@
         "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
       ],
       "story_type": "rss_headline",
-      "priority_score": 98
+      "priority_score": 97
     },
     {
-      "id": "film-3-8618719934762703813",
-      "key": "film-3-8618719934762703813",
+      "id": "film-4-2113823296947870304",
+      "key": "film-4-2113823296947870304",
       "category": "Film",
       "label": "Film",
       "headline": "'The Secret Agent' Sweeps 13th Premios Platino While Netflix's Ambitious Argentine Series 'The Eternaut' Dominates TV Prizes",
@@ -937,11 +964,11 @@
         "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
       ],
       "story_type": "rss_headline",
-      "priority_score": 97
+      "priority_score": 96
     },
     {
-      "id": "film-4-8760666241611436211",
-      "key": "film-4-8760666241611436211",
+      "id": "film-5-8490130107812914234",
+      "key": "film-5-8490130107812914234",
       "category": "Film",
       "label": "Film",
       "headline": "Indian Film Star Vijay Sworn In as Tamil Nadu Chief Minister After Days of High Drama",
@@ -964,11 +991,11 @@
         "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
       ],
       "story_type": "rss_headline",
-      "priority_score": 96
+      "priority_score": 95
     },
     {
-      "id": "film-5-7749513475253573874",
-      "key": "film-5-7749513475253573874",
+      "id": "film-6-93215138547610040",
+      "key": "film-6-93215138547610040",
       "category": "Film",
       "label": "Film",
       "headline": "Television Academy Endorses Post-Production Tax Credit Bill as Assemblyman Nick Schultz Rallies Support in Burbank: 'We Should Have Done This a Decade Ago'",
@@ -991,11 +1018,11 @@
         "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
       ],
       "story_type": "rss_headline",
-      "priority_score": 95
+      "priority_score": 94
     },
     {
-      "id": "film-6-3261361202408324374",
-      "key": "film-6-3261361202408324374",
+      "id": "film-7-3910756910741643995",
+      "key": "film-7-3910756910741643995",
       "category": "Film",
       "label": "Film",
       "headline": "'Buffet Infinity,' A Surreal Horror Film Told Entirely Through Commercials, Is a Must-Watch for Midnight Movie Fans",
@@ -1018,25 +1045,25 @@
         "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
       ],
       "story_type": "rss_headline",
-      "priority_score": 94
+      "priority_score": 93
     },
     {
-      "id": "film-7-2937688718071287107",
-      "key": "film-7-2937688718071287107",
-      "category": "Film",
-      "label": "Film",
-      "headline": "Sally Field Thought Robin Williams 'Wasn't Funny' While Filming 'Mrs. Doubtfire': 'I Would Never Laugh'",
-      "title": "Sally Field Thought Robin Williams 'Wasn't Funny' While Filming 'Mrs. Doubtfire': 'I Would Never Laugh'",
-      "snapshot": "Sally Field said during a recent appearance on \"The Late Show with Stephen Colbert\" that she didn't find her \"Mrs. Doubtfire\" co-star Robin Williams funny while shooting the 1993 comedy. \"Because I would never laugh, ever,\" Field recalled. \"And everybody else was laughing and carrying on.\" Field said that Williams,...",
-      "summary": "Sally Field said during a recent appearance on \"The Late Show with Stephen Colbert\" that she didn't find her \"Mrs. Doubtfire\" co-star Robin Williams funny while shooting the 1993 comedy. \"Because I would never laugh, ever,\" Field recalled. \"And everybody else was laughing and carrying on.\" Field said that Williams,...",
-      "url": "https://variety.com/2026/film/news/sally-field-robin-williams-wasnt-funny-mrs-doubtfire-1236742374/",
+      "id": "tv-0-8097267911222053581",
+      "key": "tv-0-8097267911222053581",
+      "category": "TV",
+      "label": "TV",
+      "headline": "Advertisers' Wish List for Upfront? Sports, Streaming, Spectacle (and Not Much Else)",
+      "title": "Advertisers' Wish List for Upfront? Sports, Streaming, Spectacle (and Not Much Else)",
+      "snapshot": "TV advertisers expect to hear a lot of big asks this year, but not so many small requests. When NBCUniversal opens the media industry's annual \"Upfront Week\" Monday, it is likely to do so with talk of the 100th anniversary of the NBC broadcast network and three different types of sports to offer on Sundays. […]",
+      "summary": "TV advertisers expect to hear a lot of big asks this year, but not so many small requests. When NBCUniversal opens the media industry's annual \"Upfront Week\" Monday, it is likely to do so with talk of the 100th anniversary of the NBC broadcast network and three different types of sports to offer on Sundays. […]",
+      "url": "https://variety.com/2026/tv/news/advertisers-upfront-wish-list-sports-streaming-spectacle-1236743899/",
       "source": "Variety",
       "source_name": "Variety",
-      "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-05-09 02:37:25 PM ET",
+      "source_feed": "https://variety.com/v/tv/feed/",
+      "published_at": "2026-05-10 11:20:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Sally Field Thought Robin Williams 'Wasn't Funny' While Filming 'Mrs. Doubtfire': 'I Would Never Laugh'"
+        "Advertisers' Wish List for Upfront? Sports, Streaming, Spectacle (and Not Much Else)"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1045,11 +1072,11 @@
         "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
       ],
       "story_type": "rss_headline",
-      "priority_score": 93
+      "priority_score": 100
     },
     {
-      "id": "tv-1-1257223994386222515",
-      "key": "tv-1-1257223994386222515",
+      "id": "tv-2-866766564592624372",
+      "key": "tv-2-866766564592624372",
       "category": "TV",
       "label": "TV",
       "headline": "'Money Heist' Set to Return With Expansion of Series Universe at Netflix",
@@ -1072,11 +1099,11 @@
         "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
       ],
       "story_type": "rss_headline",
-      "priority_score": 99
+      "priority_score": 98
     },
     {
-      "id": "tv-2-5334698179647806595",
-      "key": "tv-2-5334698179647806595",
+      "id": "tv-3-3867743735253681256",
+      "key": "tv-3-3867743735253681256",
       "category": "TV",
       "label": "TV",
       "headline": "BAFTA TV Awards 2026 Winners List (Updating Live)",
@@ -1099,11 +1126,38 @@
         "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
       ],
       "story_type": "rss_headline",
-      "priority_score": 98
+      "priority_score": 97
     },
     {
-      "id": "streaming-0-4540369134221034568",
-      "key": "streaming-0-4540369134221034568",
+      "id": "streaming-0-2075125267419300305",
+      "key": "streaming-0-2075125267419300305",
+      "category": "Streaming",
+      "label": "Streaming",
+      "headline": "BAFTA TV Awards Winners List (Updating Live)",
+      "title": "BAFTA TV Awards Winners List (Updating Live)",
+      "snapshot": "The BAFTA TV Awards are underway Sunday afternoon at London's Royal Festival Hall. The grandest night in British TV will unfold over the next three hours as some of the biggest stars around the world including Colin Firth, Aimee Lou Wood, Taron Egerton and Matt Smith go head-to-head. Netflix's Adolescence dominates...",
+      "summary": "The BAFTA TV Awards are underway Sunday afternoon at London's Royal Festival Hall. The grandest night in British TV will unfold over the next three hours as some of the biggest stars around the world including Colin Firth, Aimee Lou Wood, Taron Egerton and Matt Smith go head-to-head. Netflix's Adolescence dominates...",
+      "url": "https://deadline.com/2026/05/2026-bafta-tv-awards-winners-list-1236889392/",
+      "source": "Deadline",
+      "source_name": "Deadline",
+      "source_feed": "https://deadline.com/v/tv/feed/",
+      "published_at": "2026-05-10 11:25:54 AM ET",
+      "freshness_status": "fresh",
+      "key_data": [
+        "BAFTA TV Awards Winners List (Updating Live)"
+      ],
+      "why_it_matters": [
+        "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+      ],
+      "what_to_watch": [
+        "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+      ],
+      "story_type": "rss_headline",
+      "priority_score": 100
+    },
+    {
+      "id": "streaming-1-6764329558430274546",
+      "key": "streaming-1-6764329558430274546",
       "category": "Streaming",
       "label": "Streaming",
       "headline": "Hannah Waddingham Provides Shot In Arm For 'Saturday Night Live UK's Viewing Figures",
@@ -1126,11 +1180,11 @@
         "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
       ],
       "story_type": "rss_headline",
-      "priority_score": 100
+      "priority_score": 99
     },
     {
-      "id": "streaming-1-1764057048395055491",
-      "key": "streaming-1-1764057048395055491",
+      "id": "streaming-2-9198480199780772233",
+      "key": "streaming-2-9198480199780772233",
       "category": "Streaming",
       "label": "Streaming",
       "headline": "'SNL's Weekend Update Scores With Jeremy Culhane's Tucker Carlson Trashing Met Gala, Mikey Day & Marcello Hernández As Kamikaze Dolphins",
@@ -1153,11 +1207,11 @@
         "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
       ],
       "story_type": "rss_headline",
-      "priority_score": 99
+      "priority_score": 98
     },
     {
-      "id": "streaming-2-3959505257536664466",
-      "key": "streaming-2-3959505257536664466",
+      "id": "streaming-3-3073504567875425664",
+      "key": "streaming-3-3073504567875425664",
       "category": "Streaming",
       "label": "Streaming",
       "headline": "'Saturday Night Live' Open Has Matt Damon As Brett Kavanaugh Joining Pete Hegseth And Kash Patel In Boozy Night On The Town",
@@ -1180,38 +1234,11 @@
         "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
       ],
       "story_type": "rss_headline",
-      "priority_score": 98
-    },
-    {
-      "id": "streaming-3-6431966932440893426",
-      "key": "streaming-3-6431966932440893426",
-      "category": "Streaming",
-      "label": "Streaming",
-      "headline": "Charlie Cox Reflects On Disney's Initial 'Daredevil: Born Again' Creative Pivot & Credits Marvel For Listening: \"We're Indebted To Them\"",
-      "title": "Charlie Cox Reflects On Disney's Initial 'Daredevil: Born Again' Creative Pivot & Credits Marvel For Listening: \"We're Indebted To Them\"",
-      "snapshot": "Charlie Cox is giving credit where credit is due, saying he and Daredevil: Born Again co-star Vincent D'Onofrio are \"indebted\" to Marvel for listening to the duo's creative input ahead of the show's Season 1 launch. Post 2023 WGA strike, it was well-documented that Disney+'s revival of the beloved anti-hero underwen...",
-      "summary": "Charlie Cox is giving credit where credit is due, saying he and Daredevil: Born Again co-star Vincent D'Onofrio are \"indebted\" to Marvel for listening to the duo's creative input ahead of the show's Season 1 launch. Post 2023 WGA strike, it was well-documented that Disney+'s revival of the beloved anti-hero underwen...",
-      "url": "https://deadline.com/2026/05/charlie-cox-marvel-daredevil-born-again-creative-pivot-1236889154/",
-      "source": "Deadline",
-      "source_name": "Deadline",
-      "source_feed": "https://deadline.com/v/tv/feed/",
-      "published_at": "2026-05-09 08:31:15 PM ET",
-      "freshness_status": "fresh",
-      "key_data": [
-        "Charlie Cox Reflects On Disney's Initial 'Daredevil: Born Again' Creative Pivot & Credits Marvel For Listening: \"We're Indebted To Them\""
-      ],
-      "why_it_matters": [
-        "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-      ],
-      "what_to_watch": [
-        "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-      ],
-      "story_type": "rss_headline",
       "priority_score": 97
     },
     {
-      "id": "awards-4-4341001889841528585",
-      "key": "awards-4-4341001889841528585",
+      "id": "awards-4-880043090324979640",
+      "key": "awards-4-880043090324979640",
       "category": "Awards",
       "label": "Awards",
       "headline": "2026-27 Awards Season Calendar - Deadline",
@@ -1237,22 +1264,22 @@
       "priority_score": 96
     },
     {
-      "id": "box_office-0-3353332675384713223",
-      "key": "box_office-0-3353332675384713223",
+      "id": "box_office-0-6117144423434928464",
+      "key": "box_office-0-6117144423434928464",
       "category": "Box Office",
       "label": "Box Office",
-      "headline": "Box Office: 'Mortal Kombat II' Tops Friday but Continues to Battle 'Prada 2' for Mother's Day Win",
-      "title": "Box Office: 'Mortal Kombat II' Tops Friday but Continues to Battle 'Prada 2' for Mother's Day Win",
-      "snapshot": "New Line's martial arts sequel and 'The Devil Wears Prada 2' - which is passing up the first film's lifetime run of $326 million in only its second outing - are both on course to earn $40 million to $41 million at the weekend box office in North America.",
-      "summary": "New Line's martial arts sequel and 'The Devil Wears Prada 2' - which is passing up the first film's lifetime run of $326 million in only its second outing - are both on course to earn $40 million to $41 million at the weekend box office in North America.",
+      "headline": "Box Office: 'Devil Wears Prada 2' Sews Up Mother's Day Victory Over 'Mortal Kombat II,' Crosses $433M Globally",
+      "title": "Box Office: 'Devil Wears Prada 2' Sews Up Mother's Day Victory Over 'Mortal Kombat II,' Crosses $433M Globally",
+      "snapshot": "In only its second weekend, the 'Prada' sequel has already passed up the entire lifetime run of the original 2006 movie as Disney becomes the first Hollywood studio to clear the $2 billion mark in worldwide ticket sales.",
+      "summary": "In only its second weekend, the 'Prada' sequel has already passed up the entire lifetime run of the original 2006 movie as Disney becomes the first Hollywood studio to clear the $2 billion mark in worldwide ticket sales.",
       "url": "https://www.hollywoodreporter.com/movies/movie-news/mortal-kombat-ii-box-office-battle-devil-wears-prada-2-1236591049/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-05-09 11:46:14 AM ET",
+      "published_at": "2026-05-10 11:51:17 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Box Office: 'Mortal Kombat II' Tops Friday but Continues to Battle 'Prada 2' for Mother's Day Win"
+        "Box Office: 'Devil Wears Prada 2' Sews Up Mother's Day Victory Over 'Mortal Kombat II,' Crosses $433M Globally"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1264,8 +1291,8 @@
       "priority_score": 100
     },
     {
-      "id": "box_office-1-3861019733881142398",
-      "key": "box_office-1-3861019733881142398",
+      "id": "box_office-1-8264213726445896887",
+      "key": "box_office-1-8264213726445896887",
       "category": "Box Office",
       "label": "Box Office",
       "headline": "Theaters Embrace Nate Bargatze's Call to Make Ticket Prices for 'The Breadwinner' More Affordable",
@@ -1291,8 +1318,8 @@
       "priority_score": 99
     },
     {
-      "id": "box_office-2-7243440509474095345",
-      "key": "box_office-2-7243440509474095345",
+      "id": "box_office-2-2573216602903776006",
+      "key": "box_office-2-2573216602903776006",
       "category": "Box Office",
       "label": "Box Office",
       "headline": "Renée Zellweger to Star as 'A Woman in the Sun' Opposite Sissy Spacek and Mia Threapleton",
@@ -1318,8 +1345,8 @@
       "priority_score": 98
     },
     {
-      "id": "box_office-3-8026454566702775302",
-      "key": "box_office-3-8026454566702775302",
+      "id": "box_office-3-3100957073090852670",
+      "key": "box_office-3-3100957073090852670",
       "category": "Box Office",
       "label": "Box Office",
       "headline": "Tony Amatullo, '2 Days in the Valley' Producer and 'Goonies' Location Manager, Dies at 76",
@@ -1345,8 +1372,8 @@
       "priority_score": 97
     },
     {
-      "id": "celebrity-0-360143099328614664",
-      "key": "celebrity-0-360143099328614664",
+      "id": "celebrity-0-6081051140859904839",
+      "key": "celebrity-0-6081051140859904839",
       "category": "Celebrity",
       "label": "Celebrity",
       "headline": "PHOTOS: 2026 celebrity deaths - WTOP",
@@ -1372,8 +1399,8 @@
       "priority_score": 100
     },
     {
-      "id": "celebrity-1-6349576048537003401",
-      "key": "celebrity-1-6349576048537003401",
+      "id": "celebrity-1-7332882861229772687",
+      "key": "celebrity-1-7332882861229772687",
       "category": "Celebrity",
       "label": "Celebrity",
       "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -1399,8 +1426,8 @@
       "priority_score": 99
     },
     {
-      "id": "celebrity-2-8115415825978334557",
-      "key": "celebrity-2-8115415825978334557",
+      "id": "celebrity-2-491769892878341875",
+      "key": "celebrity-2-491769892878341875",
       "category": "Celebrity",
       "label": "Celebrity",
       "headline": "The Celebrity Outfits Everyone Is Talking About (and Copying) Right Now - ELLE",
@@ -1426,8 +1453,8 @@
       "priority_score": 98
     },
     {
-      "id": "tv-4-8870528607121429976",
-      "key": "tv-4-8870528607121429976",
+      "id": "tv-5-4582059715934874898",
+      "key": "tv-5-4582059715934874898",
       "category": "TV",
       "label": "TV",
       "headline": "Tucker Carlson on 'SNL' Critiques the Met Gala and Slams the 'Michael' Movie for Ignoring 'The Part When He Was a White Man'",
@@ -1442,33 +1469,6 @@
       "freshness_status": "fresh",
       "key_data": [
         "Tucker Carlson on 'SNL' Critiques the Met Gala and Slams the 'Michael' Movie for Ignoring 'The Part When He Was a White Man'"
-      ],
-      "why_it_matters": [
-        "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-      ],
-      "what_to_watch": [
-        "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-      ],
-      "story_type": "rss_headline",
-      "priority_score": 96
-    },
-    {
-      "id": "tv-5-4022415302544251549",
-      "key": "tv-5-4022415302544251549",
-      "category": "TV",
-      "label": "TV",
-      "headline": "Pete Hegseth, Kash Patel and Justice Kavanaugh Hit the Bar Together to Celebrate Iran War, Alcohol on 'SNL' Cold Open",
-      "title": "Pete Hegseth, Kash Patel and Justice Kavanaugh Hit the Bar Together to Celebrate Iran War, Alcohol on 'SNL' Cold Open",
-      "snapshot": "Three of President Trump's most alcohol-inclined confidants walk into a bar… That was the premise behind the cold open of the May 9 episode of \"Saturday Night Live,\" which found aggro secretary of war Pete Hegseth (as played the season by Colin Jost) causing trouble at a D.C. area dive bar (\"Martin's Tavern\") alongs...",
-      "summary": "Three of President Trump's most alcohol-inclined confidants walk into a bar… That was the premise behind the cold open of the May 9 episode of \"Saturday Night Live,\" which found aggro secretary of war Pete Hegseth (as played the season by Colin Jost) causing trouble at a D.C. area dive bar (\"Martin's Tavern\") alongs...",
-      "url": "https://variety.com/2026/tv/news/snl-open-pete-hegseth-kash-patel-justice-kavanaugh-1236742480/",
-      "source": "Variety",
-      "source_name": "Variety",
-      "source_feed": "https://variety.com/v/tv/feed/",
-      "published_at": "2026-05-09 11:45:13 PM ET",
-      "freshness_status": "fresh",
-      "key_data": [
-        "Pete Hegseth, Kash Patel and Justice Kavanaugh Hit the Bar Together to Celebrate Iran War, Alcohol on 'SNL' Cold Open"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1485,29 +1485,57 @@
       "key": "film",
       "name": "Film",
       "title": "Film Report",
-      "headline": "Sola Media Boards Animated Feature ‘Felix the Brave,’ Unveils Teaser at Cannes (EXCLUSIVE)",
+      "headline": "Box Office: ‘Devil Wears Prada 2’ Remains No. 1 With $43 Million, ‘Mortal Kombat II’ Launches to $40 Million",
       "snapshot": "Film coverage is updating with 8 current RSS headline item(s).",
       "key_storylines": [
+        "Box Office: ‘Devil Wears Prada 2’ Remains No. 1 With $43 Million, ‘Mortal Kombat II’ Launches to $40 Million",
         "Sola Media Boards Animated Feature ‘Felix the Brave,’ Unveils Teaser at Cannes (EXCLUSIVE)",
         "Simu Liu Honored at Gold House Gala: ‘We Must Learn What It Means to be a True Community’",
         "‘The Python Hunt’ Review: An Entertainingly Garish Documentary Account of a State-Sanctioned Culling Spree",
-        "‘The Secret Agent’ Sweeps 13th Premios Platino While Netflix’s Ambitious Argentine Series ‘The Eternaut’ Dominates TV Prizes",
-        "Indian Film Star Vijay Sworn In as Tamil Nadu Chief Minister After Days of High Drama"
+        "‘The Secret Agent’ Sweeps 13th Premios Platino While Netflix’s Ambitious Argentine Series ‘The Eternaut’ Dominates TV Prizes"
       ],
       "watch_list": [
+        "Box Office: ‘Devil Wears Prada 2’ Remains No. 1 With $43 Million, ‘Mortal Kombat II’ Launches to $40 Million",
         "Sola Media Boards Animated Feature ‘Felix the Brave,’ Unveils Teaser at Cannes (EXCLUSIVE)",
         "Simu Liu Honored at Gold House Gala: ‘We Must Learn What It Means to be a True Community’",
         "‘The Python Hunt’ Review: An Entertainingly Garish Documentary Account of a State-Sanctioned Culling Spree",
         "‘The Secret Agent’ Sweeps 13th Premios Platino While Netflix’s Ambitious Argentine Series ‘The Eternaut’ Dominates TV Prizes",
         "Indian Film Star Vijay Sworn In as Tamil Nadu Chief Minister After Days of High Drama",
         "Television Academy Endorses Post-Production Tax Credit Bill as Assemblyman Nick Schultz Rallies Support in Burbank: ‘We Should Have Done This a Decade Ago’",
-        "‘Buffet Infinity,’ A Surreal Horror Film Told Entirely Through Commercials, Is a Must-Watch for Midnight Movie Fans",
-        "Sally Field Thought Robin Williams ‘Wasn’t Funny’ While Filming ‘Mrs. Doubtfire’: ‘I Would Never Laugh’"
+        "‘Buffet Infinity,’ A Surreal Horror Film Told Entirely Through Commercials, Is a Must-Watch for Midnight Movie Fans"
       ],
       "homepage_cards": [
         {
-          "id": "film-0-4964030003493167097",
-          "key": "film-0-4964030003493167097",
+          "id": "film-0-5456545533923067159",
+          "key": "film-0-5456545533923067159",
+          "category": "Film",
+          "label": "Film",
+          "headline": "Box Office: ‘Devil Wears Prada 2’ Remains No. 1 With $43 Million, ‘Mortal Kombat II’ Launches to $40 Million",
+          "title": "Box Office: ‘Devil Wears Prada 2’ Remains No. 1 With $43 Million, ‘Mortal Kombat II’ Launches to $40 Million",
+          "snapshot": "Apparently the gruff fighter Johnny Cage wasn’t much of a match for the all-powerful Miranda Priestly. Disney’s “The Devil Wears Prada 2” retained the No. 1 spot on domestic box office charts despite three major new releases, including the video game adaptation “Mortal Kombat II.” The “Devil Wears Prada” sequel adde...",
+          "summary": "Apparently the gruff fighter Johnny Cage wasn’t much of a match for the all-powerful Miranda Priestly. Disney’s “The Devil Wears Prada 2” retained the No. 1 spot on domestic box office charts despite three major new releases, including the video game adaptation “Mortal Kombat II.” The “Devil Wears Prada” sequel adde...",
+          "url": "https://variety.com/2026/film/box-office/devil-wears-prada-2-box-office-first-place-mortal-kombat-2-opening-1236743920/",
+          "source": "Variety",
+          "source_name": "Variety",
+          "source_feed": "https://variety.com/v/film/feed/",
+          "published_at": "2026-05-10 11:20:59 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 100,
+          "key_data": [
+            "Box Office: ‘Devil Wears Prada 2’ Remains No. 1 With $43 Million, ‘Mortal Kombat II’ Launches to $40 Million"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "film-1-5093856793765739015",
+          "key": "film-1-5093856793765739015",
           "category": "Film",
           "label": "Film",
           "headline": "Sola Media Boards Animated Feature ‘Felix the Brave,’ Unveils Teaser at Cannes (EXCLUSIVE)",
@@ -1522,7 +1550,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 100,
+          "priority_score": 99,
           "key_data": [
             "Sola Media Boards Animated Feature ‘Felix the Brave,’ Unveils Teaser at Cannes (EXCLUSIVE)"
           ],
@@ -1534,8 +1562,8 @@
           ]
         },
         {
-          "id": "film-1-6390112434205917614",
-          "key": "film-1-6390112434205917614",
+          "id": "film-2-487867839266640434",
+          "key": "film-2-487867839266640434",
           "category": "Film",
           "label": "Film",
           "headline": "Simu Liu Honored at Gold House Gala: ‘We Must Learn What It Means to be a True Community’",
@@ -1550,7 +1578,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 99,
+          "priority_score": 98,
           "key_data": [
             "Simu Liu Honored at Gold House Gala: ‘We Must Learn What It Means to be a True Community’"
           ],
@@ -1562,8 +1590,8 @@
           ]
         },
         {
-          "id": "film-2-1047856103076366444",
-          "key": "film-2-1047856103076366444",
+          "id": "film-3-938215160935994500",
+          "key": "film-3-938215160935994500",
           "category": "Film",
           "label": "Film",
           "headline": "‘The Python Hunt’ Review: An Entertainingly Garish Documentary Account of a State-Sanctioned Culling Spree",
@@ -1578,7 +1606,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 98,
+          "priority_score": 97,
           "key_data": [
             "‘The Python Hunt’ Review: An Entertainingly Garish Documentary Account of a State-Sanctioned Culling Spree"
           ],
@@ -1590,8 +1618,8 @@
           ]
         },
         {
-          "id": "film-3-8618719934762703813",
-          "key": "film-3-8618719934762703813",
+          "id": "film-4-2113823296947870304",
+          "key": "film-4-2113823296947870304",
           "category": "Film",
           "label": "Film",
           "headline": "‘The Secret Agent’ Sweeps 13th Premios Platino While Netflix’s Ambitious Argentine Series ‘The Eternaut’ Dominates TV Prizes",
@@ -1606,7 +1634,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 97,
+          "priority_score": 96,
           "key_data": [
             "‘The Secret Agent’ Sweeps 13th Premios Platino While Netflix’s Ambitious Argentine Series ‘The Eternaut’ Dominates TV Prizes"
           ],
@@ -1618,8 +1646,8 @@
           ]
         },
         {
-          "id": "film-4-8760666241611436211",
-          "key": "film-4-8760666241611436211",
+          "id": "film-5-8490130107812914234",
+          "key": "film-5-8490130107812914234",
           "category": "Film",
           "label": "Film",
           "headline": "Indian Film Star Vijay Sworn In as Tamil Nadu Chief Minister After Days of High Drama",
@@ -1634,7 +1662,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 96,
+          "priority_score": 95,
           "key_data": [
             "Indian Film Star Vijay Sworn In as Tamil Nadu Chief Minister After Days of High Drama"
           ],
@@ -1646,8 +1674,8 @@
           ]
         },
         {
-          "id": "film-5-7749513475253573874",
-          "key": "film-5-7749513475253573874",
+          "id": "film-6-93215138547610040",
+          "key": "film-6-93215138547610040",
           "category": "Film",
           "label": "Film",
           "headline": "Television Academy Endorses Post-Production Tax Credit Bill as Assemblyman Nick Schultz Rallies Support in Burbank: ‘We Should Have Done This a Decade Ago’",
@@ -1662,7 +1690,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 95,
+          "priority_score": 94,
           "key_data": [
             "Television Academy Endorses Post-Production Tax Credit Bill as Assemblyman Nick Schultz Rallies Support in Burbank: ‘We Should Have Done This a Decade Ago’"
           ],
@@ -1674,8 +1702,8 @@
           ]
         },
         {
-          "id": "film-6-3261361202408324374",
-          "key": "film-6-3261361202408324374",
+          "id": "film-7-3910756910741643995",
+          "key": "film-7-3910756910741643995",
           "category": "Film",
           "label": "Film",
           "headline": "‘Buffet Infinity,’ A Surreal Horror Film Told Entirely Through Commercials, Is a Must-Watch for Midnight Movie Fans",
@@ -1690,37 +1718,9 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 94,
-          "key_data": [
-            "‘Buffet Infinity,’ A Surreal Horror Film Told Entirely Through Commercials, Is a Must-Watch for Midnight Movie Fans"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "film-7-2937688718071287107",
-          "key": "film-7-2937688718071287107",
-          "category": "Film",
-          "label": "Film",
-          "headline": "Sally Field Thought Robin Williams ‘Wasn’t Funny’ While Filming ‘Mrs. Doubtfire’: ‘I Would Never Laugh’",
-          "title": "Sally Field Thought Robin Williams ‘Wasn’t Funny’ While Filming ‘Mrs. Doubtfire’: ‘I Would Never Laugh’",
-          "snapshot": "Sally Field said during a recent appearance on “The Late Show with Stephen Colbert” that she didn’t find her “Mrs. Doubtfire” co-star Robin Williams funny while shooting the 1993 comedy. “Because I would never laugh, ever,” Field recalled. “And everybody else was laughing and carrying on.” Field said that Williams,...",
-          "summary": "Sally Field said during a recent appearance on “The Late Show with Stephen Colbert” that she didn’t find her “Mrs. Doubtfire” co-star Robin Williams funny while shooting the 1993 comedy. “Because I would never laugh, ever,” Field recalled. “And everybody else was laughing and carrying on.” Field said that Williams,...",
-          "url": "https://variety.com/2026/film/news/sally-field-robin-williams-wasnt-funny-mrs-doubtfire-1236742374/",
-          "source": "Variety",
-          "source_name": "Variety",
-          "source_feed": "https://variety.com/v/film/feed/",
-          "published_at": "2026-05-09 02:37:25 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
           "priority_score": 93,
           "key_data": [
-            "Sally Field Thought Robin Williams ‘Wasn’t Funny’ While Filming ‘Mrs. Doubtfire’: ‘I Would Never Laugh’"
+            "‘Buffet Infinity,’ A Surreal Horror Film Told Entirely Through Commercials, Is a Must-Watch for Midnight Movie Fans"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1732,8 +1732,36 @@
       ],
       "items": [
         {
-          "id": "film-0-4964030003493167097",
-          "key": "film-0-4964030003493167097",
+          "id": "film-0-5456545533923067159",
+          "key": "film-0-5456545533923067159",
+          "category": "Film",
+          "label": "Film",
+          "headline": "Box Office: ‘Devil Wears Prada 2’ Remains No. 1 With $43 Million, ‘Mortal Kombat II’ Launches to $40 Million",
+          "title": "Box Office: ‘Devil Wears Prada 2’ Remains No. 1 With $43 Million, ‘Mortal Kombat II’ Launches to $40 Million",
+          "snapshot": "Apparently the gruff fighter Johnny Cage wasn’t much of a match for the all-powerful Miranda Priestly. Disney’s “The Devil Wears Prada 2” retained the No. 1 spot on domestic box office charts despite three major new releases, including the video game adaptation “Mortal Kombat II.” The “Devil Wears Prada” sequel adde...",
+          "summary": "Apparently the gruff fighter Johnny Cage wasn’t much of a match for the all-powerful Miranda Priestly. Disney’s “The Devil Wears Prada 2” retained the No. 1 spot on domestic box office charts despite three major new releases, including the video game adaptation “Mortal Kombat II.” The “Devil Wears Prada” sequel adde...",
+          "url": "https://variety.com/2026/film/box-office/devil-wears-prada-2-box-office-first-place-mortal-kombat-2-opening-1236743920/",
+          "source": "Variety",
+          "source_name": "Variety",
+          "source_feed": "https://variety.com/v/film/feed/",
+          "published_at": "2026-05-10 11:20:59 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 100,
+          "key_data": [
+            "Box Office: ‘Devil Wears Prada 2’ Remains No. 1 With $43 Million, ‘Mortal Kombat II’ Launches to $40 Million"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "film-1-5093856793765739015",
+          "key": "film-1-5093856793765739015",
           "category": "Film",
           "label": "Film",
           "headline": "Sola Media Boards Animated Feature ‘Felix the Brave,’ Unveils Teaser at Cannes (EXCLUSIVE)",
@@ -1748,7 +1776,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 100,
+          "priority_score": 99,
           "key_data": [
             "Sola Media Boards Animated Feature ‘Felix the Brave,’ Unveils Teaser at Cannes (EXCLUSIVE)"
           ],
@@ -1760,8 +1788,8 @@
           ]
         },
         {
-          "id": "film-1-6390112434205917614",
-          "key": "film-1-6390112434205917614",
+          "id": "film-2-487867839266640434",
+          "key": "film-2-487867839266640434",
           "category": "Film",
           "label": "Film",
           "headline": "Simu Liu Honored at Gold House Gala: ‘We Must Learn What It Means to be a True Community’",
@@ -1776,7 +1804,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 99,
+          "priority_score": 98,
           "key_data": [
             "Simu Liu Honored at Gold House Gala: ‘We Must Learn What It Means to be a True Community’"
           ],
@@ -1788,8 +1816,8 @@
           ]
         },
         {
-          "id": "film-2-1047856103076366444",
-          "key": "film-2-1047856103076366444",
+          "id": "film-3-938215160935994500",
+          "key": "film-3-938215160935994500",
           "category": "Film",
           "label": "Film",
           "headline": "‘The Python Hunt’ Review: An Entertainingly Garish Documentary Account of a State-Sanctioned Culling Spree",
@@ -1804,7 +1832,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 98,
+          "priority_score": 97,
           "key_data": [
             "‘The Python Hunt’ Review: An Entertainingly Garish Documentary Account of a State-Sanctioned Culling Spree"
           ],
@@ -1816,8 +1844,8 @@
           ]
         },
         {
-          "id": "film-3-8618719934762703813",
-          "key": "film-3-8618719934762703813",
+          "id": "film-4-2113823296947870304",
+          "key": "film-4-2113823296947870304",
           "category": "Film",
           "label": "Film",
           "headline": "‘The Secret Agent’ Sweeps 13th Premios Platino While Netflix’s Ambitious Argentine Series ‘The Eternaut’ Dominates TV Prizes",
@@ -1832,7 +1860,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 97,
+          "priority_score": 96,
           "key_data": [
             "‘The Secret Agent’ Sweeps 13th Premios Platino While Netflix’s Ambitious Argentine Series ‘The Eternaut’ Dominates TV Prizes"
           ],
@@ -1844,8 +1872,8 @@
           ]
         },
         {
-          "id": "film-4-8760666241611436211",
-          "key": "film-4-8760666241611436211",
+          "id": "film-5-8490130107812914234",
+          "key": "film-5-8490130107812914234",
           "category": "Film",
           "label": "Film",
           "headline": "Indian Film Star Vijay Sworn In as Tamil Nadu Chief Minister After Days of High Drama",
@@ -1860,7 +1888,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 96,
+          "priority_score": 95,
           "key_data": [
             "Indian Film Star Vijay Sworn In as Tamil Nadu Chief Minister After Days of High Drama"
           ],
@@ -1872,8 +1900,8 @@
           ]
         },
         {
-          "id": "film-5-7749513475253573874",
-          "key": "film-5-7749513475253573874",
+          "id": "film-6-93215138547610040",
+          "key": "film-6-93215138547610040",
           "category": "Film",
           "label": "Film",
           "headline": "Television Academy Endorses Post-Production Tax Credit Bill as Assemblyman Nick Schultz Rallies Support in Burbank: ‘We Should Have Done This a Decade Ago’",
@@ -1888,7 +1916,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 95,
+          "priority_score": 94,
           "key_data": [
             "Television Academy Endorses Post-Production Tax Credit Bill as Assemblyman Nick Schultz Rallies Support in Burbank: ‘We Should Have Done This a Decade Ago’"
           ],
@@ -1900,8 +1928,8 @@
           ]
         },
         {
-          "id": "film-6-3261361202408324374",
-          "key": "film-6-3261361202408324374",
+          "id": "film-7-3910756910741643995",
+          "key": "film-7-3910756910741643995",
           "category": "Film",
           "label": "Film",
           "headline": "‘Buffet Infinity,’ A Surreal Horror Film Told Entirely Through Commercials, Is a Must-Watch for Midnight Movie Fans",
@@ -1916,7 +1944,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 94,
+          "priority_score": 93,
           "key_data": [
             "‘Buffet Infinity,’ A Surreal Horror Film Told Entirely Through Commercials, Is a Must-Watch for Midnight Movie Fans"
           ],
@@ -1926,65 +1954,65 @@
           "what_to_watch": [
             "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
           ]
-        },
-        {
-          "id": "film-7-2937688718071287107",
-          "key": "film-7-2937688718071287107",
-          "category": "Film",
-          "label": "Film",
-          "headline": "Sally Field Thought Robin Williams ‘Wasn’t Funny’ While Filming ‘Mrs. Doubtfire’: ‘I Would Never Laugh’",
-          "title": "Sally Field Thought Robin Williams ‘Wasn’t Funny’ While Filming ‘Mrs. Doubtfire’: ‘I Would Never Laugh’",
-          "snapshot": "Sally Field said during a recent appearance on “The Late Show with Stephen Colbert” that she didn’t find her “Mrs. Doubtfire” co-star Robin Williams funny while shooting the 1993 comedy. “Because I would never laugh, ever,” Field recalled. “And everybody else was laughing and carrying on.” Field said that Williams,...",
-          "summary": "Sally Field said during a recent appearance on “The Late Show with Stephen Colbert” that she didn’t find her “Mrs. Doubtfire” co-star Robin Williams funny while shooting the 1993 comedy. “Because I would never laugh, ever,” Field recalled. “And everybody else was laughing and carrying on.” Field said that Williams,...",
-          "url": "https://variety.com/2026/film/news/sally-field-robin-williams-wasnt-funny-mrs-doubtfire-1236742374/",
-          "source": "Variety",
-          "source_name": "Variety",
-          "source_feed": "https://variety.com/v/film/feed/",
-          "published_at": "2026-05-09 02:37:25 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 93,
-          "key_data": [
-            "Sally Field Thought Robin Williams ‘Wasn’t Funny’ While Filming ‘Mrs. Doubtfire’: ‘I Would Never Laugh’"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
         }
       ],
-      "updated_at": "2026-05-10 10:55:19 AM ET"
+      "updated_at": "2026-05-10 11:56:36 AM ET"
     },
     {
       "key": "tv",
       "name": "TV",
       "title": "TV Report",
-      "headline": "Simu Liu Honored at Gold House Gala: ‘We Must Learn What It Means to be a True Community’",
+      "headline": "Advertisers’ Wish List for Upfront? Sports, Streaming, Spectacle (and Not Much Else)",
       "snapshot": "TV coverage is updating with 8 current RSS headline item(s).",
       "key_storylines": [
+        "Advertisers’ Wish List for Upfront? Sports, Streaming, Spectacle (and Not Much Else)",
         "Simu Liu Honored at Gold House Gala: ‘We Must Learn What It Means to be a True Community’",
         "‘Money Heist’ Set to Return With Expansion of Series Universe at Netflix",
         "BAFTA TV Awards 2026 Winners List (Updating Live)",
-        "‘The Secret Agent’ Sweeps 13th Premios Platino While Netflix’s Ambitious Argentine Series ‘The Eternaut’ Dominates TV Prizes",
-        "Tucker Carlson on ‘SNL’ Critiques the Met Gala and Slams the ‘Michael’ Movie for Ignoring ‘The Part When He Was a White Man’"
+        "‘The Secret Agent’ Sweeps 13th Premios Platino While Netflix’s Ambitious Argentine Series ‘The Eternaut’ Dominates TV Prizes"
       ],
       "watch_list": [
+        "Advertisers’ Wish List for Upfront? Sports, Streaming, Spectacle (and Not Much Else)",
         "Simu Liu Honored at Gold House Gala: ‘We Must Learn What It Means to be a True Community’",
         "‘Money Heist’ Set to Return With Expansion of Series Universe at Netflix",
         "BAFTA TV Awards 2026 Winners List (Updating Live)",
         "‘The Secret Agent’ Sweeps 13th Premios Platino While Netflix’s Ambitious Argentine Series ‘The Eternaut’ Dominates TV Prizes",
         "Tucker Carlson on ‘SNL’ Critiques the Met Gala and Slams the ‘Michael’ Movie for Ignoring ‘The Part When He Was a White Man’",
         "Pete Hegseth, Kash Patel and Justice Kavanaugh Hit the Bar Together to Celebrate Iran War, Alcohol on ‘SNL’ Cold Open",
-        "‘SNL U.K.’ Weekend Update Takes Aim at Katy Perry’s Met Gala Mask, Which Symbolizes ‘What It’s Like To Live Life as a Stupid Moron’",
-        "‘SNL U.K.’ Cold Open: Peter Serafinowicz Guest Stars as Nigel Farage in Time-Traveling Downing Street Sketch"
+        "‘SNL U.K.’ Weekend Update Takes Aim at Katy Perry’s Met Gala Mask, Which Symbolizes ‘What It’s Like To Live Life as a Stupid Moron’"
       ],
       "homepage_cards": [
         {
-          "id": "tv-0-6390112434205917614",
-          "key": "tv-0-6390112434205917614",
+          "id": "tv-0-8097267911222053581",
+          "key": "tv-0-8097267911222053581",
+          "category": "TV",
+          "label": "TV",
+          "headline": "Advertisers’ Wish List for Upfront? Sports, Streaming, Spectacle (and Not Much Else)",
+          "title": "Advertisers’ Wish List for Upfront? Sports, Streaming, Spectacle (and Not Much Else)",
+          "snapshot": "TV advertisers expect to hear a lot of big asks this year, but not so many small requests. When NBCUniversal opens the media industry’s annual “Upfront Week” Monday, it is likely to do so with talk of the 100th anniversary of the NBC broadcast network and three different types of sports to offer on Sundays. […]",
+          "summary": "TV advertisers expect to hear a lot of big asks this year, but not so many small requests. When NBCUniversal opens the media industry’s annual “Upfront Week” Monday, it is likely to do so with talk of the 100th anniversary of the NBC broadcast network and three different types of sports to offer on Sundays. […]",
+          "url": "https://variety.com/2026/tv/news/advertisers-upfront-wish-list-sports-streaming-spectacle-1236743899/",
+          "source": "Variety",
+          "source_name": "Variety",
+          "source_feed": "https://variety.com/v/tv/feed/",
+          "published_at": "2026-05-10 11:20:00 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 100,
+          "key_data": [
+            "Advertisers’ Wish List for Upfront? Sports, Streaming, Spectacle (and Not Much Else)"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "tv-1-487867839266640434",
+          "key": "tv-1-487867839266640434",
           "category": "TV",
           "label": "TV",
           "headline": "Simu Liu Honored at Gold House Gala: ‘We Must Learn What It Means to be a True Community’",
@@ -1999,7 +2027,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 100,
+          "priority_score": 99,
           "key_data": [
             "Simu Liu Honored at Gold House Gala: ‘We Must Learn What It Means to be a True Community’"
           ],
@@ -2011,8 +2039,8 @@
           ]
         },
         {
-          "id": "tv-1-1257223994386222515",
-          "key": "tv-1-1257223994386222515",
+          "id": "tv-2-866766564592624372",
+          "key": "tv-2-866766564592624372",
           "category": "TV",
           "label": "TV",
           "headline": "‘Money Heist’ Set to Return With Expansion of Series Universe at Netflix",
@@ -2027,7 +2055,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 99,
+          "priority_score": 98,
           "key_data": [
             "‘Money Heist’ Set to Return With Expansion of Series Universe at Netflix"
           ],
@@ -2039,8 +2067,8 @@
           ]
         },
         {
-          "id": "tv-2-5334698179647806595",
-          "key": "tv-2-5334698179647806595",
+          "id": "tv-3-3867743735253681256",
+          "key": "tv-3-3867743735253681256",
           "category": "TV",
           "label": "TV",
           "headline": "BAFTA TV Awards 2026 Winners List (Updating Live)",
@@ -2055,7 +2083,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 98,
+          "priority_score": 97,
           "key_data": [
             "BAFTA TV Awards 2026 Winners List (Updating Live)"
           ],
@@ -2067,8 +2095,8 @@
           ]
         },
         {
-          "id": "tv-3-8618719934762703813",
-          "key": "tv-3-8618719934762703813",
+          "id": "tv-4-2113823296947870304",
+          "key": "tv-4-2113823296947870304",
           "category": "TV",
           "label": "TV",
           "headline": "‘The Secret Agent’ Sweeps 13th Premios Platino While Netflix’s Ambitious Argentine Series ‘The Eternaut’ Dominates TV Prizes",
@@ -2083,7 +2111,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 97,
+          "priority_score": 96,
           "key_data": [
             "‘The Secret Agent’ Sweeps 13th Premios Platino While Netflix’s Ambitious Argentine Series ‘The Eternaut’ Dominates TV Prizes"
           ],
@@ -2095,8 +2123,8 @@
           ]
         },
         {
-          "id": "tv-4-8870528607121429976",
-          "key": "tv-4-8870528607121429976",
+          "id": "tv-5-4582059715934874898",
+          "key": "tv-5-4582059715934874898",
           "category": "TV",
           "label": "TV",
           "headline": "Tucker Carlson on ‘SNL’ Critiques the Met Gala and Slams the ‘Michael’ Movie for Ignoring ‘The Part When He Was a White Man’",
@@ -2111,7 +2139,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 96,
+          "priority_score": 95,
           "key_data": [
             "Tucker Carlson on ‘SNL’ Critiques the Met Gala and Slams the ‘Michael’ Movie for Ignoring ‘The Part When He Was a White Man’"
           ],
@@ -2123,8 +2151,8 @@
           ]
         },
         {
-          "id": "tv-5-4022415302544251549",
-          "key": "tv-5-4022415302544251549",
+          "id": "tv-6-2902243896800207039",
+          "key": "tv-6-2902243896800207039",
           "category": "TV",
           "label": "TV",
           "headline": "Pete Hegseth, Kash Patel and Justice Kavanaugh Hit the Bar Together to Celebrate Iran War, Alcohol on ‘SNL’ Cold Open",
@@ -2139,7 +2167,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 95,
+          "priority_score": 94,
           "key_data": [
             "Pete Hegseth, Kash Patel and Justice Kavanaugh Hit the Bar Together to Celebrate Iran War, Alcohol on ‘SNL’ Cold Open"
           ],
@@ -2151,8 +2179,8 @@
           ]
         },
         {
-          "id": "tv-6-3921469364854157087",
-          "key": "tv-6-3921469364854157087",
+          "id": "tv-7-7304139677620928018",
+          "key": "tv-7-7304139677620928018",
           "category": "TV",
           "label": "TV",
           "headline": "‘SNL U.K.’ Weekend Update Takes Aim at Katy Perry’s Met Gala Mask, Which Symbolizes ‘What It’s Like To Live Life as a Stupid Moron’",
@@ -2167,37 +2195,9 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 94,
-          "key_data": [
-            "‘SNL U.K.’ Weekend Update Takes Aim at Katy Perry’s Met Gala Mask, Which Symbolizes ‘What It’s Like To Live Life as a Stupid Moron’"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "tv-7-1026127026539041961",
-          "key": "tv-7-1026127026539041961",
-          "category": "TV",
-          "label": "TV",
-          "headline": "‘SNL U.K.’ Cold Open: Peter Serafinowicz Guest Stars as Nigel Farage in Time-Traveling Downing Street Sketch",
-          "title": "‘SNL U.K.’ Cold Open: Peter Serafinowicz Guest Stars as Nigel Farage in Time-Traveling Downing Street Sketch",
-          "snapshot": "Peter Serafinowicz, who has starred in “Guardians of the Galaxy” and Star Wars prequel “The Phantom Menace,” opened “Saturday Night Live U.K.” with a guest appearance as right-wing politician Nigel Farage. The cold open began with a voice-over explaining that the year is 1946 as it zoomed into the British Prime Mini...",
-          "summary": "Peter Serafinowicz, who has starred in “Guardians of the Galaxy” and Star Wars prequel “The Phantom Menace,” opened “Saturday Night Live U.K.” with a guest appearance as right-wing politician Nigel Farage. The cold open began with a voice-over explaining that the year is 1946 as it zoomed into the British Prime Mini...",
-          "url": "https://variety.com/2026/tv/global/snl-uk-cold-open-keir-starmer-nigel-farage-peter-serafinowicz-1236742432/",
-          "source": "Variety",
-          "source_name": "Variety",
-          "source_feed": "https://variety.com/v/tv/feed/",
-          "published_at": "2026-05-09 05:39:18 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
           "priority_score": 93,
           "key_data": [
-            "‘SNL U.K.’ Cold Open: Peter Serafinowicz Guest Stars as Nigel Farage in Time-Traveling Downing Street Sketch"
+            "‘SNL U.K.’ Weekend Update Takes Aim at Katy Perry’s Met Gala Mask, Which Symbolizes ‘What It’s Like To Live Life as a Stupid Moron’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2209,8 +2209,36 @@
       ],
       "items": [
         {
-          "id": "tv-0-6390112434205917614",
-          "key": "tv-0-6390112434205917614",
+          "id": "tv-0-8097267911222053581",
+          "key": "tv-0-8097267911222053581",
+          "category": "TV",
+          "label": "TV",
+          "headline": "Advertisers’ Wish List for Upfront? Sports, Streaming, Spectacle (and Not Much Else)",
+          "title": "Advertisers’ Wish List for Upfront? Sports, Streaming, Spectacle (and Not Much Else)",
+          "snapshot": "TV advertisers expect to hear a lot of big asks this year, but not so many small requests. When NBCUniversal opens the media industry’s annual “Upfront Week” Monday, it is likely to do so with talk of the 100th anniversary of the NBC broadcast network and three different types of sports to offer on Sundays. […]",
+          "summary": "TV advertisers expect to hear a lot of big asks this year, but not so many small requests. When NBCUniversal opens the media industry’s annual “Upfront Week” Monday, it is likely to do so with talk of the 100th anniversary of the NBC broadcast network and three different types of sports to offer on Sundays. […]",
+          "url": "https://variety.com/2026/tv/news/advertisers-upfront-wish-list-sports-streaming-spectacle-1236743899/",
+          "source": "Variety",
+          "source_name": "Variety",
+          "source_feed": "https://variety.com/v/tv/feed/",
+          "published_at": "2026-05-10 11:20:00 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 100,
+          "key_data": [
+            "Advertisers’ Wish List for Upfront? Sports, Streaming, Spectacle (and Not Much Else)"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "tv-1-487867839266640434",
+          "key": "tv-1-487867839266640434",
           "category": "TV",
           "label": "TV",
           "headline": "Simu Liu Honored at Gold House Gala: ‘We Must Learn What It Means to be a True Community’",
@@ -2225,7 +2253,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 100,
+          "priority_score": 99,
           "key_data": [
             "Simu Liu Honored at Gold House Gala: ‘We Must Learn What It Means to be a True Community’"
           ],
@@ -2237,8 +2265,8 @@
           ]
         },
         {
-          "id": "tv-1-1257223994386222515",
-          "key": "tv-1-1257223994386222515",
+          "id": "tv-2-866766564592624372",
+          "key": "tv-2-866766564592624372",
           "category": "TV",
           "label": "TV",
           "headline": "‘Money Heist’ Set to Return With Expansion of Series Universe at Netflix",
@@ -2253,7 +2281,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 99,
+          "priority_score": 98,
           "key_data": [
             "‘Money Heist’ Set to Return With Expansion of Series Universe at Netflix"
           ],
@@ -2265,8 +2293,8 @@
           ]
         },
         {
-          "id": "tv-2-5334698179647806595",
-          "key": "tv-2-5334698179647806595",
+          "id": "tv-3-3867743735253681256",
+          "key": "tv-3-3867743735253681256",
           "category": "TV",
           "label": "TV",
           "headline": "BAFTA TV Awards 2026 Winners List (Updating Live)",
@@ -2281,7 +2309,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 98,
+          "priority_score": 97,
           "key_data": [
             "BAFTA TV Awards 2026 Winners List (Updating Live)"
           ],
@@ -2293,8 +2321,8 @@
           ]
         },
         {
-          "id": "tv-3-8618719934762703813",
-          "key": "tv-3-8618719934762703813",
+          "id": "tv-4-2113823296947870304",
+          "key": "tv-4-2113823296947870304",
           "category": "TV",
           "label": "TV",
           "headline": "‘The Secret Agent’ Sweeps 13th Premios Platino While Netflix’s Ambitious Argentine Series ‘The Eternaut’ Dominates TV Prizes",
@@ -2309,7 +2337,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 97,
+          "priority_score": 96,
           "key_data": [
             "‘The Secret Agent’ Sweeps 13th Premios Platino While Netflix’s Ambitious Argentine Series ‘The Eternaut’ Dominates TV Prizes"
           ],
@@ -2321,8 +2349,8 @@
           ]
         },
         {
-          "id": "tv-4-8870528607121429976",
-          "key": "tv-4-8870528607121429976",
+          "id": "tv-5-4582059715934874898",
+          "key": "tv-5-4582059715934874898",
           "category": "TV",
           "label": "TV",
           "headline": "Tucker Carlson on ‘SNL’ Critiques the Met Gala and Slams the ‘Michael’ Movie for Ignoring ‘The Part When He Was a White Man’",
@@ -2337,7 +2365,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 96,
+          "priority_score": 95,
           "key_data": [
             "Tucker Carlson on ‘SNL’ Critiques the Met Gala and Slams the ‘Michael’ Movie for Ignoring ‘The Part When He Was a White Man’"
           ],
@@ -2349,8 +2377,8 @@
           ]
         },
         {
-          "id": "tv-5-4022415302544251549",
-          "key": "tv-5-4022415302544251549",
+          "id": "tv-6-2902243896800207039",
+          "key": "tv-6-2902243896800207039",
           "category": "TV",
           "label": "TV",
           "headline": "Pete Hegseth, Kash Patel and Justice Kavanaugh Hit the Bar Together to Celebrate Iran War, Alcohol on ‘SNL’ Cold Open",
@@ -2365,7 +2393,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 95,
+          "priority_score": 94,
           "key_data": [
             "Pete Hegseth, Kash Patel and Justice Kavanaugh Hit the Bar Together to Celebrate Iran War, Alcohol on ‘SNL’ Cold Open"
           ],
@@ -2377,8 +2405,8 @@
           ]
         },
         {
-          "id": "tv-6-3921469364854157087",
-          "key": "tv-6-3921469364854157087",
+          "id": "tv-7-7304139677620928018",
+          "key": "tv-7-7304139677620928018",
           "category": "TV",
           "label": "TV",
           "headline": "‘SNL U.K.’ Weekend Update Takes Aim at Katy Perry’s Met Gala Mask, Which Symbolizes ‘What It’s Like To Live Life as a Stupid Moron’",
@@ -2393,7 +2421,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 94,
+          "priority_score": 93,
           "key_data": [
             "‘SNL U.K.’ Weekend Update Takes Aim at Katy Perry’s Met Gala Mask, Which Symbolizes ‘What It’s Like To Live Life as a Stupid Moron’"
           ],
@@ -2403,65 +2431,65 @@
           "what_to_watch": [
             "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
           ]
-        },
-        {
-          "id": "tv-7-1026127026539041961",
-          "key": "tv-7-1026127026539041961",
-          "category": "TV",
-          "label": "TV",
-          "headline": "‘SNL U.K.’ Cold Open: Peter Serafinowicz Guest Stars as Nigel Farage in Time-Traveling Downing Street Sketch",
-          "title": "‘SNL U.K.’ Cold Open: Peter Serafinowicz Guest Stars as Nigel Farage in Time-Traveling Downing Street Sketch",
-          "snapshot": "Peter Serafinowicz, who has starred in “Guardians of the Galaxy” and Star Wars prequel “The Phantom Menace,” opened “Saturday Night Live U.K.” with a guest appearance as right-wing politician Nigel Farage. The cold open began with a voice-over explaining that the year is 1946 as it zoomed into the British Prime Mini...",
-          "summary": "Peter Serafinowicz, who has starred in “Guardians of the Galaxy” and Star Wars prequel “The Phantom Menace,” opened “Saturday Night Live U.K.” with a guest appearance as right-wing politician Nigel Farage. The cold open began with a voice-over explaining that the year is 1946 as it zoomed into the British Prime Mini...",
-          "url": "https://variety.com/2026/tv/global/snl-uk-cold-open-keir-starmer-nigel-farage-peter-serafinowicz-1236742432/",
-          "source": "Variety",
-          "source_name": "Variety",
-          "source_feed": "https://variety.com/v/tv/feed/",
-          "published_at": "2026-05-09 05:39:18 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 93,
-          "key_data": [
-            "‘SNL U.K.’ Cold Open: Peter Serafinowicz Guest Stars as Nigel Farage in Time-Traveling Downing Street Sketch"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
         }
       ],
-      "updated_at": "2026-05-10 10:55:20 AM ET"
+      "updated_at": "2026-05-10 11:56:36 AM ET"
     },
     {
       "key": "streaming",
       "name": "Streaming",
       "title": "Streaming Report",
-      "headline": "Hannah Waddingham Provides Shot In Arm For ‘Saturday Night Live UK’s Viewing Figures",
+      "headline": "BAFTA TV Awards Winners List (Updating Live)",
       "snapshot": "Streaming coverage is updating with 8 current RSS headline item(s).",
       "key_storylines": [
+        "BAFTA TV Awards Winners List (Updating Live)",
         "Hannah Waddingham Provides Shot In Arm For ‘Saturday Night Live UK’s Viewing Figures",
         "‘SNL’s Weekend Update Scores With Jeremy Culhane’s Tucker Carlson Trashing Met Gala, Mikey Day & Marcello Hernández As Kamikaze Dolphins",
         "‘Saturday Night Live’ Open Has Matt Damon As Brett Kavanaugh Joining Pete Hegseth And Kash Patel In Boozy Night On The Town",
-        "Charlie Cox Reflects On Disney’s Initial ‘Daredevil: Born Again’ Creative Pivot & Credits Marvel For Listening: “We’re Indebted To Them”",
-        "Riley Green Joins ‘The Voice’ As A Coach For Season 30"
+        "Charlie Cox Reflects On Disney’s Initial ‘Daredevil: Born Again’ Creative Pivot & Credits Marvel For Listening: “We’re Indebted To Them”"
       ],
       "watch_list": [
+        "BAFTA TV Awards Winners List (Updating Live)",
         "Hannah Waddingham Provides Shot In Arm For ‘Saturday Night Live UK’s Viewing Figures",
         "‘SNL’s Weekend Update Scores With Jeremy Culhane’s Tucker Carlson Trashing Met Gala, Mikey Day & Marcello Hernández As Kamikaze Dolphins",
         "‘Saturday Night Live’ Open Has Matt Damon As Brett Kavanaugh Joining Pete Hegseth And Kash Patel In Boozy Night On The Town",
         "Charlie Cox Reflects On Disney’s Initial ‘Daredevil: Born Again’ Creative Pivot & Credits Marvel For Listening: “We’re Indebted To Them”",
         "Riley Green Joins ‘The Voice’ As A Coach For Season 30",
         "‘Saturday Night Live UK’ Finally Takes On Nigel Farage With Cold Open Cameo From Well-Known British Comic",
-        "Eric Kripke Reacts To ‘The Boys’ Accidentally Predicting Trump’s Gold Statue: “Seriously What The F*ck?”",
-        "Kelly Reilly Wants A ‘Dutton Ranch’, ‘Marshals’ Crossover: “Maybe We Will”"
+        "Eric Kripke Reacts To ‘The Boys’ Accidentally Predicting Trump’s Gold Statue: “Seriously What The F*ck?”"
       ],
       "homepage_cards": [
         {
-          "id": "streaming-0-4540369134221034568",
-          "key": "streaming-0-4540369134221034568",
+          "id": "streaming-0-2075125267419300305",
+          "key": "streaming-0-2075125267419300305",
+          "category": "Streaming",
+          "label": "Streaming",
+          "headline": "BAFTA TV Awards Winners List (Updating Live)",
+          "title": "BAFTA TV Awards Winners List (Updating Live)",
+          "snapshot": "The BAFTA TV Awards are underway Sunday afternoon at London’s Royal Festival Hall. The grandest night in British TV will unfold over the next three hours as some of the biggest stars around the world including Colin Firth, Aimee Lou Wood, Taron Egerton and Matt Smith go head-to-head. Netflix’s Adolescence dominates...",
+          "summary": "The BAFTA TV Awards are underway Sunday afternoon at London’s Royal Festival Hall. The grandest night in British TV will unfold over the next three hours as some of the biggest stars around the world including Colin Firth, Aimee Lou Wood, Taron Egerton and Matt Smith go head-to-head. Netflix’s Adolescence dominates...",
+          "url": "https://deadline.com/2026/05/2026-bafta-tv-awards-winners-list-1236889392/",
+          "source": "Deadline",
+          "source_name": "Deadline",
+          "source_feed": "https://deadline.com/v/tv/feed/",
+          "published_at": "2026-05-10 11:25:54 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 100,
+          "key_data": [
+            "BAFTA TV Awards Winners List (Updating Live)"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "streaming-1-6764329558430274546",
+          "key": "streaming-1-6764329558430274546",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Hannah Waddingham Provides Shot In Arm For ‘Saturday Night Live UK’s Viewing Figures",
@@ -2476,7 +2504,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 100,
+          "priority_score": 99,
           "key_data": [
             "Hannah Waddingham Provides Shot In Arm For ‘Saturday Night Live UK’s Viewing Figures"
           ],
@@ -2488,8 +2516,8 @@
           ]
         },
         {
-          "id": "streaming-1-1764057048395055491",
-          "key": "streaming-1-1764057048395055491",
+          "id": "streaming-2-9198480199780772233",
+          "key": "streaming-2-9198480199780772233",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "‘SNL’s Weekend Update Scores With Jeremy Culhane’s Tucker Carlson Trashing Met Gala, Mikey Day & Marcello Hernández As Kamikaze Dolphins",
@@ -2504,7 +2532,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 99,
+          "priority_score": 98,
           "key_data": [
             "‘SNL’s Weekend Update Scores With Jeremy Culhane’s Tucker Carlson Trashing Met Gala, Mikey Day & Marcello Hernández As Kamikaze Dolphins"
           ],
@@ -2516,8 +2544,8 @@
           ]
         },
         {
-          "id": "streaming-2-3959505257536664466",
-          "key": "streaming-2-3959505257536664466",
+          "id": "streaming-3-3073504567875425664",
+          "key": "streaming-3-3073504567875425664",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "‘Saturday Night Live’ Open Has Matt Damon As Brett Kavanaugh Joining Pete Hegseth And Kash Patel In Boozy Night On The Town",
@@ -2532,7 +2560,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 98,
+          "priority_score": 97,
           "key_data": [
             "‘Saturday Night Live’ Open Has Matt Damon As Brett Kavanaugh Joining Pete Hegseth And Kash Patel In Boozy Night On The Town"
           ],
@@ -2544,8 +2572,8 @@
           ]
         },
         {
-          "id": "streaming-3-6431966932440893426",
-          "key": "streaming-3-6431966932440893426",
+          "id": "streaming-4-7237954424268974486",
+          "key": "streaming-4-7237954424268974486",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Charlie Cox Reflects On Disney’s Initial ‘Daredevil: Born Again’ Creative Pivot & Credits Marvel For Listening: “We’re Indebted To Them”",
@@ -2560,7 +2588,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 97,
+          "priority_score": 96,
           "key_data": [
             "Charlie Cox Reflects On Disney’s Initial ‘Daredevil: Born Again’ Creative Pivot & Credits Marvel For Listening: “We’re Indebted To Them”"
           ],
@@ -2572,8 +2600,8 @@
           ]
         },
         {
-          "id": "streaming-4-3748809216803766374",
-          "key": "streaming-4-3748809216803766374",
+          "id": "streaming-5-616780197016534626",
+          "key": "streaming-5-616780197016534626",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Riley Green Joins ‘The Voice’ As A Coach For Season 30",
@@ -2588,7 +2616,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 96,
+          "priority_score": 95,
           "key_data": [
             "Riley Green Joins ‘The Voice’ As A Coach For Season 30"
           ],
@@ -2600,8 +2628,8 @@
           ]
         },
         {
-          "id": "streaming-5-3232065942745062707",
-          "key": "streaming-5-3232065942745062707",
+          "id": "streaming-6-8632549015550594113",
+          "key": "streaming-6-8632549015550594113",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "‘Saturday Night Live UK’ Finally Takes On Nigel Farage With Cold Open Cameo From Well-Known British Comic",
@@ -2616,7 +2644,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 95,
+          "priority_score": 94,
           "key_data": [
             "‘Saturday Night Live UK’ Finally Takes On Nigel Farage With Cold Open Cameo From Well-Known British Comic"
           ],
@@ -2628,8 +2656,8 @@
           ]
         },
         {
-          "id": "streaming-6-2613216697378143719",
-          "key": "streaming-6-2613216697378143719",
+          "id": "streaming-7-3919684152565983518",
+          "key": "streaming-7-3919684152565983518",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Eric Kripke Reacts To ‘The Boys’ Accidentally Predicting Trump’s Gold Statue: “Seriously What The F*ck?”",
@@ -2644,37 +2672,9 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 94,
-          "key_data": [
-            "Eric Kripke Reacts To ‘The Boys’ Accidentally Predicting Trump’s Gold Statue: “Seriously What The F*ck?”"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "streaming-7-7199231426926104117",
-          "key": "streaming-7-7199231426926104117",
-          "category": "Streaming",
-          "label": "Streaming",
-          "headline": "Kelly Reilly Wants A ‘Dutton Ranch’, ‘Marshals’ Crossover: “Maybe We Will”",
-          "title": "Kelly Reilly Wants A ‘Dutton Ranch’, ‘Marshals’ Crossover: “Maybe We Will”",
-          "snapshot": "Nearly two years after leaving Yellowstone in the rearview with the series finale of the Taylor Sheridan hit, Kelly Reilly is missing her onscreen brother. The Dutton Ranch star, who reprises her role as Beth Dutton on the Paramount+ spin-off, recently shared her “wish” for a crossover with Luke Grimes’ CBS spin-off...",
-          "summary": "Nearly two years after leaving Yellowstone in the rearview with the series finale of the Taylor Sheridan hit, Kelly Reilly is missing her onscreen brother. The Dutton Ranch star, who reprises her role as Beth Dutton on the Paramount+ spin-off, recently shared her “wish” for a crossover with Luke Grimes’ CBS spin-off...",
-          "url": "https://deadline.com/2026/05/kelly-reilly-wants-dutton-ranch-marshals-crossover-1236888998/",
-          "source": "Deadline",
-          "source_name": "Deadline",
-          "source_feed": "https://deadline.com/v/tv/feed/",
-          "published_at": "2026-05-09 12:46:05 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
           "priority_score": 93,
           "key_data": [
-            "Kelly Reilly Wants A ‘Dutton Ranch’, ‘Marshals’ Crossover: “Maybe We Will”"
+            "Eric Kripke Reacts To ‘The Boys’ Accidentally Predicting Trump’s Gold Statue: “Seriously What The F*ck?”"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2686,8 +2686,36 @@
       ],
       "items": [
         {
-          "id": "streaming-0-4540369134221034568",
-          "key": "streaming-0-4540369134221034568",
+          "id": "streaming-0-2075125267419300305",
+          "key": "streaming-0-2075125267419300305",
+          "category": "Streaming",
+          "label": "Streaming",
+          "headline": "BAFTA TV Awards Winners List (Updating Live)",
+          "title": "BAFTA TV Awards Winners List (Updating Live)",
+          "snapshot": "The BAFTA TV Awards are underway Sunday afternoon at London’s Royal Festival Hall. The grandest night in British TV will unfold over the next three hours as some of the biggest stars around the world including Colin Firth, Aimee Lou Wood, Taron Egerton and Matt Smith go head-to-head. Netflix’s Adolescence dominates...",
+          "summary": "The BAFTA TV Awards are underway Sunday afternoon at London’s Royal Festival Hall. The grandest night in British TV will unfold over the next three hours as some of the biggest stars around the world including Colin Firth, Aimee Lou Wood, Taron Egerton and Matt Smith go head-to-head. Netflix’s Adolescence dominates...",
+          "url": "https://deadline.com/2026/05/2026-bafta-tv-awards-winners-list-1236889392/",
+          "source": "Deadline",
+          "source_name": "Deadline",
+          "source_feed": "https://deadline.com/v/tv/feed/",
+          "published_at": "2026-05-10 11:25:54 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 100,
+          "key_data": [
+            "BAFTA TV Awards Winners List (Updating Live)"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "streaming-1-6764329558430274546",
+          "key": "streaming-1-6764329558430274546",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Hannah Waddingham Provides Shot In Arm For ‘Saturday Night Live UK’s Viewing Figures",
@@ -2702,7 +2730,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 100,
+          "priority_score": 99,
           "key_data": [
             "Hannah Waddingham Provides Shot In Arm For ‘Saturday Night Live UK’s Viewing Figures"
           ],
@@ -2714,8 +2742,8 @@
           ]
         },
         {
-          "id": "streaming-1-1764057048395055491",
-          "key": "streaming-1-1764057048395055491",
+          "id": "streaming-2-9198480199780772233",
+          "key": "streaming-2-9198480199780772233",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "‘SNL’s Weekend Update Scores With Jeremy Culhane’s Tucker Carlson Trashing Met Gala, Mikey Day & Marcello Hernández As Kamikaze Dolphins",
@@ -2730,7 +2758,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 99,
+          "priority_score": 98,
           "key_data": [
             "‘SNL’s Weekend Update Scores With Jeremy Culhane’s Tucker Carlson Trashing Met Gala, Mikey Day & Marcello Hernández As Kamikaze Dolphins"
           ],
@@ -2742,8 +2770,8 @@
           ]
         },
         {
-          "id": "streaming-2-3959505257536664466",
-          "key": "streaming-2-3959505257536664466",
+          "id": "streaming-3-3073504567875425664",
+          "key": "streaming-3-3073504567875425664",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "‘Saturday Night Live’ Open Has Matt Damon As Brett Kavanaugh Joining Pete Hegseth And Kash Patel In Boozy Night On The Town",
@@ -2758,7 +2786,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 98,
+          "priority_score": 97,
           "key_data": [
             "‘Saturday Night Live’ Open Has Matt Damon As Brett Kavanaugh Joining Pete Hegseth And Kash Patel In Boozy Night On The Town"
           ],
@@ -2770,8 +2798,8 @@
           ]
         },
         {
-          "id": "streaming-3-6431966932440893426",
-          "key": "streaming-3-6431966932440893426",
+          "id": "streaming-4-7237954424268974486",
+          "key": "streaming-4-7237954424268974486",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Charlie Cox Reflects On Disney’s Initial ‘Daredevil: Born Again’ Creative Pivot & Credits Marvel For Listening: “We’re Indebted To Them”",
@@ -2786,7 +2814,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 97,
+          "priority_score": 96,
           "key_data": [
             "Charlie Cox Reflects On Disney’s Initial ‘Daredevil: Born Again’ Creative Pivot & Credits Marvel For Listening: “We’re Indebted To Them”"
           ],
@@ -2798,8 +2826,8 @@
           ]
         },
         {
-          "id": "streaming-4-3748809216803766374",
-          "key": "streaming-4-3748809216803766374",
+          "id": "streaming-5-616780197016534626",
+          "key": "streaming-5-616780197016534626",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Riley Green Joins ‘The Voice’ As A Coach For Season 30",
@@ -2814,7 +2842,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 96,
+          "priority_score": 95,
           "key_data": [
             "Riley Green Joins ‘The Voice’ As A Coach For Season 30"
           ],
@@ -2826,8 +2854,8 @@
           ]
         },
         {
-          "id": "streaming-5-3232065942745062707",
-          "key": "streaming-5-3232065942745062707",
+          "id": "streaming-6-8632549015550594113",
+          "key": "streaming-6-8632549015550594113",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "‘Saturday Night Live UK’ Finally Takes On Nigel Farage With Cold Open Cameo From Well-Known British Comic",
@@ -2842,7 +2870,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 95,
+          "priority_score": 94,
           "key_data": [
             "‘Saturday Night Live UK’ Finally Takes On Nigel Farage With Cold Open Cameo From Well-Known British Comic"
           ],
@@ -2854,8 +2882,8 @@
           ]
         },
         {
-          "id": "streaming-6-2613216697378143719",
-          "key": "streaming-6-2613216697378143719",
+          "id": "streaming-7-3919684152565983518",
+          "key": "streaming-7-3919684152565983518",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Eric Kripke Reacts To ‘The Boys’ Accidentally Predicting Trump’s Gold Statue: “Seriously What The F*ck?”",
@@ -2870,7 +2898,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 94,
+          "priority_score": 93,
           "key_data": [
             "Eric Kripke Reacts To ‘The Boys’ Accidentally Predicting Trump’s Gold Statue: “Seriously What The F*ck?”"
           ],
@@ -2880,37 +2908,9 @@
           "what_to_watch": [
             "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
           ]
-        },
-        {
-          "id": "streaming-7-7199231426926104117",
-          "key": "streaming-7-7199231426926104117",
-          "category": "Streaming",
-          "label": "Streaming",
-          "headline": "Kelly Reilly Wants A ‘Dutton Ranch’, ‘Marshals’ Crossover: “Maybe We Will”",
-          "title": "Kelly Reilly Wants A ‘Dutton Ranch’, ‘Marshals’ Crossover: “Maybe We Will”",
-          "snapshot": "Nearly two years after leaving Yellowstone in the rearview with the series finale of the Taylor Sheridan hit, Kelly Reilly is missing her onscreen brother. The Dutton Ranch star, who reprises her role as Beth Dutton on the Paramount+ spin-off, recently shared her “wish” for a crossover with Luke Grimes’ CBS spin-off...",
-          "summary": "Nearly two years after leaving Yellowstone in the rearview with the series finale of the Taylor Sheridan hit, Kelly Reilly is missing her onscreen brother. The Dutton Ranch star, who reprises her role as Beth Dutton on the Paramount+ spin-off, recently shared her “wish” for a crossover with Luke Grimes’ CBS spin-off...",
-          "url": "https://deadline.com/2026/05/kelly-reilly-wants-dutton-ranch-marshals-crossover-1236888998/",
-          "source": "Deadline",
-          "source_name": "Deadline",
-          "source_feed": "https://deadline.com/v/tv/feed/",
-          "published_at": "2026-05-09 12:46:05 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 93,
-          "key_data": [
-            "Kelly Reilly Wants A ‘Dutton Ranch’, ‘Marshals’ Crossover: “Maybe We Will”"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
         }
       ],
-      "updated_at": "2026-05-10 10:55:20 AM ET"
+      "updated_at": "2026-05-10 11:56:37 AM ET"
     },
     {
       "key": "music",
@@ -2937,8 +2937,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "music-0-647357788400044371",
-          "key": "music-0-647357788400044371",
+          "id": "music-0-4850428840331732128",
+          "key": "music-0-4850428840331732128",
           "category": "Music",
           "label": "Music",
           "headline": "Dua Lipa Files $15 Million Suit Against Samsung for Using Her Face to Sell TVs",
@@ -2965,8 +2965,8 @@
           ]
         },
         {
-          "id": "music-1-5542683619059974663",
-          "key": "music-1-5542683619059974663",
+          "id": "music-1-5448466071049288285",
+          "key": "music-1-5448466071049288285",
           "category": "Music",
           "label": "Music",
           "headline": "Janet Jackson Calls for Peace, George Clinton Performs With Erykah Badu at Grammy Hall of Fame Gala",
@@ -2993,8 +2993,8 @@
           ]
         },
         {
-          "id": "music-2-411938631471666103",
-          "key": "music-2-411938631471666103",
+          "id": "music-2-4568451214855185094",
+          "key": "music-2-4568451214855185094",
           "category": "Music",
           "label": "Music",
           "headline": "Jake Shane Slammed Online for Asking Kacey Musgraves to Explain Time Zone Lyric: ‘Literally Just Means What it Means’",
@@ -3021,8 +3021,8 @@
           ]
         },
         {
-          "id": "music-3-6882911446197267264",
-          "key": "music-3-6882911446197267264",
+          "id": "music-3-3035523332197601113",
+          "key": "music-3-3035523332197601113",
           "category": "Music",
           "label": "Music",
           "headline": "No Doubt’s Tony Kanal on Las Vegas Sphere Residency, Why They Haven’t Toured in Years and Whether New Music Is in the Works",
@@ -3049,8 +3049,8 @@
           ]
         },
         {
-          "id": "music-4-3275484499025529523",
-          "key": "music-4-3275484499025529523",
+          "id": "music-4-7601386194664131443",
+          "key": "music-4-7601386194664131443",
           "category": "Music",
           "label": "Music",
           "headline": "Music Industry Moves: Angine de Poitrine Signs With Third Side Music Publishing; the War and Treaty Pact With Atlantic Outpost",
@@ -3077,8 +3077,8 @@
           ]
         },
         {
-          "id": "music-5-5470220110049208115",
-          "key": "music-5-5470220110049208115",
+          "id": "music-5-3364349573353655852",
+          "key": "music-5-3364349573353655852",
           "category": "Music",
           "label": "Music",
           "headline": "Psychedelic Furs Cancel Spring and Summer Tour Dates Due to ‘Serious Medical Issue’",
@@ -3105,8 +3105,8 @@
           ]
         },
         {
-          "id": "music-6-3560950429821369629",
-          "key": "music-6-3560950429821369629",
+          "id": "music-6-5101879948101692690",
+          "key": "music-6-5101879948101692690",
           "category": "Music",
           "label": "Music",
           "headline": "Adam Lambert on New Single ‘Eat U Alive,’ Forthcoming Album ‘Adam,’ and Harking Back to the ’90s for ‘the Sweet Spot in Blending Electronic With Alternative Rock’ (EXCLUSIVE)",
@@ -3133,8 +3133,8 @@
           ]
         },
         {
-          "id": "music-7-9199624167618947211",
-          "key": "music-7-9199624167618947211",
+          "id": "music-7-1478013582141917249",
+          "key": "music-7-1478013582141917249",
           "category": "Music",
           "label": "Music",
           "headline": "Lykke Li Creates a Revenge-Pop Opus With ‘The Afterparty’: Album Review",
@@ -3163,8 +3163,8 @@
       ],
       "items": [
         {
-          "id": "music-0-647357788400044371",
-          "key": "music-0-647357788400044371",
+          "id": "music-0-4850428840331732128",
+          "key": "music-0-4850428840331732128",
           "category": "Music",
           "label": "Music",
           "headline": "Dua Lipa Files $15 Million Suit Against Samsung for Using Her Face to Sell TVs",
@@ -3191,8 +3191,8 @@
           ]
         },
         {
-          "id": "music-1-5542683619059974663",
-          "key": "music-1-5542683619059974663",
+          "id": "music-1-5448466071049288285",
+          "key": "music-1-5448466071049288285",
           "category": "Music",
           "label": "Music",
           "headline": "Janet Jackson Calls for Peace, George Clinton Performs With Erykah Badu at Grammy Hall of Fame Gala",
@@ -3219,8 +3219,8 @@
           ]
         },
         {
-          "id": "music-2-411938631471666103",
-          "key": "music-2-411938631471666103",
+          "id": "music-2-4568451214855185094",
+          "key": "music-2-4568451214855185094",
           "category": "Music",
           "label": "Music",
           "headline": "Jake Shane Slammed Online for Asking Kacey Musgraves to Explain Time Zone Lyric: ‘Literally Just Means What it Means’",
@@ -3247,8 +3247,8 @@
           ]
         },
         {
-          "id": "music-3-6882911446197267264",
-          "key": "music-3-6882911446197267264",
+          "id": "music-3-3035523332197601113",
+          "key": "music-3-3035523332197601113",
           "category": "Music",
           "label": "Music",
           "headline": "No Doubt’s Tony Kanal on Las Vegas Sphere Residency, Why They Haven’t Toured in Years and Whether New Music Is in the Works",
@@ -3275,8 +3275,8 @@
           ]
         },
         {
-          "id": "music-4-3275484499025529523",
-          "key": "music-4-3275484499025529523",
+          "id": "music-4-7601386194664131443",
+          "key": "music-4-7601386194664131443",
           "category": "Music",
           "label": "Music",
           "headline": "Music Industry Moves: Angine de Poitrine Signs With Third Side Music Publishing; the War and Treaty Pact With Atlantic Outpost",
@@ -3303,8 +3303,8 @@
           ]
         },
         {
-          "id": "music-5-5470220110049208115",
-          "key": "music-5-5470220110049208115",
+          "id": "music-5-3364349573353655852",
+          "key": "music-5-3364349573353655852",
           "category": "Music",
           "label": "Music",
           "headline": "Psychedelic Furs Cancel Spring and Summer Tour Dates Due to ‘Serious Medical Issue’",
@@ -3331,8 +3331,8 @@
           ]
         },
         {
-          "id": "music-6-3560950429821369629",
-          "key": "music-6-3560950429821369629",
+          "id": "music-6-5101879948101692690",
+          "key": "music-6-5101879948101692690",
           "category": "Music",
           "label": "Music",
           "headline": "Adam Lambert on New Single ‘Eat U Alive,’ Forthcoming Album ‘Adam,’ and Harking Back to the ’90s for ‘the Sweet Spot in Blending Electronic With Alternative Rock’ (EXCLUSIVE)",
@@ -3359,8 +3359,8 @@
           ]
         },
         {
-          "id": "music-7-9199624167618947211",
-          "key": "music-7-9199624167618947211",
+          "id": "music-7-1478013582141917249",
+          "key": "music-7-1478013582141917249",
           "category": "Music",
           "label": "Music",
           "headline": "Lykke Li Creates a Revenge-Pop Opus With ‘The Afterparty’: Album Review",
@@ -3387,7 +3387,7 @@
           ]
         }
       ],
-      "updated_at": "2026-05-10 10:55:20 AM ET"
+      "updated_at": "2026-05-10 11:56:37 AM ET"
     },
     {
       "key": "awards",
@@ -3411,8 +3411,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "awards-0-8660420866769729915",
-          "key": "awards-0-8660420866769729915",
+          "id": "awards-0-8556928257506438074",
+          "key": "awards-0-8556928257506438074",
           "category": "Awards",
           "label": "Awards",
           "headline": "High Tea and Dish With Directors: Six Top Emmy Contenders Talk About Their Craft, Wearing Multiple Hats and Embracing the Best Idea",
@@ -3439,8 +3439,8 @@
           ]
         },
         {
-          "id": "awards-1-7449940149368679959",
-          "key": "awards-1-7449940149368679959",
+          "id": "awards-1-5498657799457014501",
+          "key": "awards-1-5498657799457014501",
           "category": "Awards",
           "label": "Awards",
           "headline": "Annette Bening and Kara Swisher to Be Honored at Lambda Legal’s Liberty Awards National Dinner (EXCLUSIVE)",
@@ -3467,8 +3467,8 @@
           ]
         },
         {
-          "id": "awards-2-6141765557252106910",
-          "key": "awards-2-6141765557252106910",
+          "id": "awards-2-1668383260763600492",
+          "key": "awards-2-1668383260763600492",
           "category": "Awards",
           "label": "Awards",
           "headline": "Triple Oscar-Winning Cinematographer Vittorio Storaro to Be Honored by Italy’s David Awards",
@@ -3495,8 +3495,8 @@
           ]
         },
         {
-          "id": "awards-3-8835714940907839916",
-          "key": "awards-3-8835714940907839916",
+          "id": "awards-3-274173652437594273",
+          "key": "awards-3-274173652437594273",
           "category": "Awards",
           "label": "Awards",
           "headline": "Pedro Pascal Celebrates ‘Mandalorian & Grogu’ in Mexico City and More Celeb Red Carpet Photos: April 2026",
@@ -3523,8 +3523,8 @@
           ]
         },
         {
-          "id": "awards-4-4341001889841528585",
-          "key": "awards-4-4341001889841528585",
+          "id": "awards-4-880043090324979640",
+          "key": "awards-4-880043090324979640",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar - Deadline",
@@ -3553,8 +3553,8 @@
       ],
       "items": [
         {
-          "id": "awards-0-8660420866769729915",
-          "key": "awards-0-8660420866769729915",
+          "id": "awards-0-8556928257506438074",
+          "key": "awards-0-8556928257506438074",
           "category": "Awards",
           "label": "Awards",
           "headline": "High Tea and Dish With Directors: Six Top Emmy Contenders Talk About Their Craft, Wearing Multiple Hats and Embracing the Best Idea",
@@ -3581,8 +3581,8 @@
           ]
         },
         {
-          "id": "awards-1-7449940149368679959",
-          "key": "awards-1-7449940149368679959",
+          "id": "awards-1-5498657799457014501",
+          "key": "awards-1-5498657799457014501",
           "category": "Awards",
           "label": "Awards",
           "headline": "Annette Bening and Kara Swisher to Be Honored at Lambda Legal’s Liberty Awards National Dinner (EXCLUSIVE)",
@@ -3609,8 +3609,8 @@
           ]
         },
         {
-          "id": "awards-2-6141765557252106910",
-          "key": "awards-2-6141765557252106910",
+          "id": "awards-2-1668383260763600492",
+          "key": "awards-2-1668383260763600492",
           "category": "Awards",
           "label": "Awards",
           "headline": "Triple Oscar-Winning Cinematographer Vittorio Storaro to Be Honored by Italy’s David Awards",
@@ -3637,8 +3637,8 @@
           ]
         },
         {
-          "id": "awards-3-8835714940907839916",
-          "key": "awards-3-8835714940907839916",
+          "id": "awards-3-274173652437594273",
+          "key": "awards-3-274173652437594273",
           "category": "Awards",
           "label": "Awards",
           "headline": "Pedro Pascal Celebrates ‘Mandalorian & Grogu’ in Mexico City and More Celeb Red Carpet Photos: April 2026",
@@ -3665,8 +3665,8 @@
           ]
         },
         {
-          "id": "awards-4-4341001889841528585",
-          "key": "awards-4-4341001889841528585",
+          "id": "awards-4-880043090324979640",
+          "key": "awards-4-880043090324979640",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar - Deadline",
@@ -3693,23 +3693,23 @@
           ]
         }
       ],
-      "updated_at": "2026-05-10 10:55:21 AM ET"
+      "updated_at": "2026-05-10 11:56:38 AM ET"
     },
     {
       "key": "box_office",
       "name": "Box Office",
       "title": "Box Office Report",
-      "headline": "Box Office: ‘Mortal Kombat II’ Tops Friday but Continues to Battle ‘Prada 2’ for Mother’s Day Win",
+      "headline": "Box Office: ‘Devil Wears Prada 2’ Sews Up Mother’s Day Victory Over ‘Mortal Kombat II,’ Crosses $433M Globally",
       "snapshot": "Box Office coverage is updating with 8 current RSS headline item(s).",
       "key_storylines": [
-        "Box Office: ‘Mortal Kombat II’ Tops Friday but Continues to Battle ‘Prada 2’ for Mother’s Day Win",
+        "Box Office: ‘Devil Wears Prada 2’ Sews Up Mother’s Day Victory Over ‘Mortal Kombat II,’ Crosses $433M Globally",
         "Theaters Embrace Nate Bargatze’s Call to Make Ticket Prices for ‘The Breadwinner’ More Affordable",
         "Renée Zellweger to Star as ‘A Woman in the Sun’ Opposite Sissy Spacek and Mia Threapleton",
         "Tony Amatullo, ‘2 Days in the Valley’ Producer and ‘Goonies’ Location Manager, Dies at 76",
         "‘War of the Worlds’ Producer Defends Ice Cube Film After Disastrous Reviews"
       ],
       "watch_list": [
-        "Box Office: ‘Mortal Kombat II’ Tops Friday but Continues to Battle ‘Prada 2’ for Mother’s Day Win",
+        "Box Office: ‘Devil Wears Prada 2’ Sews Up Mother’s Day Victory Over ‘Mortal Kombat II,’ Crosses $433M Globally",
         "Theaters Embrace Nate Bargatze’s Call to Make Ticket Prices for ‘The Breadwinner’ More Affordable",
         "Renée Zellweger to Star as ‘A Woman in the Sun’ Opposite Sissy Spacek and Mia Threapleton",
         "Tony Amatullo, ‘2 Days in the Valley’ Producer and ‘Goonies’ Location Manager, Dies at 76",
@@ -3720,25 +3720,25 @@
       ],
       "homepage_cards": [
         {
-          "id": "box_office-0-3353332675384713223",
-          "key": "box_office-0-3353332675384713223",
+          "id": "box_office-0-6117144423434928464",
+          "key": "box_office-0-6117144423434928464",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "Box Office: ‘Mortal Kombat II’ Tops Friday but Continues to Battle ‘Prada 2’ for Mother’s Day Win",
-          "title": "Box Office: ‘Mortal Kombat II’ Tops Friday but Continues to Battle ‘Prada 2’ for Mother’s Day Win",
-          "snapshot": "New Line's martial arts sequel and 'The Devil Wears Prada 2' — which is passing up the first film's lifetime run of $326 million in only its second outing — are both on course to earn $40 million to $41 million at the weekend box office in North America.",
-          "summary": "New Line's martial arts sequel and 'The Devil Wears Prada 2' — which is passing up the first film's lifetime run of $326 million in only its second outing — are both on course to earn $40 million to $41 million at the weekend box office in North America.",
+          "headline": "Box Office: ‘Devil Wears Prada 2’ Sews Up Mother’s Day Victory Over ‘Mortal Kombat II,’ Crosses $433M Globally",
+          "title": "Box Office: ‘Devil Wears Prada 2’ Sews Up Mother’s Day Victory Over ‘Mortal Kombat II,’ Crosses $433M Globally",
+          "snapshot": "In only its second weekend, the 'Prada' sequel has already passed up the entire lifetime run of the original 2006 movie as Disney becomes the first Hollywood studio to clear the $2 billion mark in worldwide ticket sales.",
+          "summary": "In only its second weekend, the 'Prada' sequel has already passed up the entire lifetime run of the original 2006 movie as Disney becomes the first Hollywood studio to clear the $2 billion mark in worldwide ticket sales.",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/mortal-kombat-ii-box-office-battle-devil-wears-prada-2-1236591049/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-          "published_at": "2026-05-09 11:46:14 AM ET",
+          "published_at": "2026-05-10 11:51:17 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Box Office: ‘Mortal Kombat II’ Tops Friday but Continues to Battle ‘Prada 2’ for Mother’s Day Win"
+            "Box Office: ‘Devil Wears Prada 2’ Sews Up Mother’s Day Victory Over ‘Mortal Kombat II,’ Crosses $433M Globally"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3748,8 +3748,8 @@
           ]
         },
         {
-          "id": "box_office-1-3861019733881142398",
-          "key": "box_office-1-3861019733881142398",
+          "id": "box_office-1-8264213726445896887",
+          "key": "box_office-1-8264213726445896887",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Theaters Embrace Nate Bargatze’s Call to Make Ticket Prices for ‘The Breadwinner’ More Affordable",
@@ -3776,8 +3776,8 @@
           ]
         },
         {
-          "id": "box_office-2-7243440509474095345",
-          "key": "box_office-2-7243440509474095345",
+          "id": "box_office-2-2573216602903776006",
+          "key": "box_office-2-2573216602903776006",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Renée Zellweger to Star as ‘A Woman in the Sun’ Opposite Sissy Spacek and Mia Threapleton",
@@ -3804,8 +3804,8 @@
           ]
         },
         {
-          "id": "box_office-3-8026454566702775302",
-          "key": "box_office-3-8026454566702775302",
+          "id": "box_office-3-3100957073090852670",
+          "key": "box_office-3-3100957073090852670",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Tony Amatullo, ‘2 Days in the Valley’ Producer and ‘Goonies’ Location Manager, Dies at 76",
@@ -3832,8 +3832,8 @@
           ]
         },
         {
-          "id": "box_office-4-7055592692447682207",
-          "key": "box_office-4-7055592692447682207",
+          "id": "box_office-4-4210175607804854525",
+          "key": "box_office-4-4210175607804854525",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘War of the Worlds’ Producer Defends Ice Cube Film After Disastrous Reviews",
@@ -3860,8 +3860,8 @@
           ]
         },
         {
-          "id": "box_office-5-2384170444864609592",
-          "key": "box_office-5-2384170444864609592",
+          "id": "box_office-5-2978768950994464317",
+          "key": "box_office-5-2978768950994464317",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Shawn Levy Tackling Original Sci-Fi With ‘Somewhere Out There’ for Netflix (Exclusive)",
@@ -3888,8 +3888,8 @@
           ]
         },
         {
-          "id": "box_office-6-7490995724906605967",
-          "key": "box_office-6-7490995724906605967",
+          "id": "box_office-6-3403836406201139360",
+          "key": "box_office-6-3403836406201139360",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Batman: White Knight’ Creator Sean Gordon Murphy Revs Up with Creator-Owned Comic ‘The Last Driver’ (Exclusive)",
@@ -3916,8 +3916,8 @@
           ]
         },
         {
-          "id": "box_office-7-3439821658686542881",
-          "key": "box_office-7-3439821658686542881",
+          "id": "box_office-7-9149391686487505751",
+          "key": "box_office-7-9149391686487505751",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Jeffrey Epstein Compared Himself to Alfalfa. Then He Quoted ‘Little Rascals’ in His Suicide Note",
@@ -3946,25 +3946,25 @@
       ],
       "items": [
         {
-          "id": "box_office-0-3353332675384713223",
-          "key": "box_office-0-3353332675384713223",
+          "id": "box_office-0-6117144423434928464",
+          "key": "box_office-0-6117144423434928464",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "Box Office: ‘Mortal Kombat II’ Tops Friday but Continues to Battle ‘Prada 2’ for Mother’s Day Win",
-          "title": "Box Office: ‘Mortal Kombat II’ Tops Friday but Continues to Battle ‘Prada 2’ for Mother’s Day Win",
-          "snapshot": "New Line's martial arts sequel and 'The Devil Wears Prada 2' — which is passing up the first film's lifetime run of $326 million in only its second outing — are both on course to earn $40 million to $41 million at the weekend box office in North America.",
-          "summary": "New Line's martial arts sequel and 'The Devil Wears Prada 2' — which is passing up the first film's lifetime run of $326 million in only its second outing — are both on course to earn $40 million to $41 million at the weekend box office in North America.",
+          "headline": "Box Office: ‘Devil Wears Prada 2’ Sews Up Mother’s Day Victory Over ‘Mortal Kombat II,’ Crosses $433M Globally",
+          "title": "Box Office: ‘Devil Wears Prada 2’ Sews Up Mother’s Day Victory Over ‘Mortal Kombat II,’ Crosses $433M Globally",
+          "snapshot": "In only its second weekend, the 'Prada' sequel has already passed up the entire lifetime run of the original 2006 movie as Disney becomes the first Hollywood studio to clear the $2 billion mark in worldwide ticket sales.",
+          "summary": "In only its second weekend, the 'Prada' sequel has already passed up the entire lifetime run of the original 2006 movie as Disney becomes the first Hollywood studio to clear the $2 billion mark in worldwide ticket sales.",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/mortal-kombat-ii-box-office-battle-devil-wears-prada-2-1236591049/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-          "published_at": "2026-05-09 11:46:14 AM ET",
+          "published_at": "2026-05-10 11:51:17 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Box Office: ‘Mortal Kombat II’ Tops Friday but Continues to Battle ‘Prada 2’ for Mother’s Day Win"
+            "Box Office: ‘Devil Wears Prada 2’ Sews Up Mother’s Day Victory Over ‘Mortal Kombat II,’ Crosses $433M Globally"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3974,8 +3974,8 @@
           ]
         },
         {
-          "id": "box_office-1-3861019733881142398",
-          "key": "box_office-1-3861019733881142398",
+          "id": "box_office-1-8264213726445896887",
+          "key": "box_office-1-8264213726445896887",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Theaters Embrace Nate Bargatze’s Call to Make Ticket Prices for ‘The Breadwinner’ More Affordable",
@@ -4002,8 +4002,8 @@
           ]
         },
         {
-          "id": "box_office-2-7243440509474095345",
-          "key": "box_office-2-7243440509474095345",
+          "id": "box_office-2-2573216602903776006",
+          "key": "box_office-2-2573216602903776006",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Renée Zellweger to Star as ‘A Woman in the Sun’ Opposite Sissy Spacek and Mia Threapleton",
@@ -4030,8 +4030,8 @@
           ]
         },
         {
-          "id": "box_office-3-8026454566702775302",
-          "key": "box_office-3-8026454566702775302",
+          "id": "box_office-3-3100957073090852670",
+          "key": "box_office-3-3100957073090852670",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Tony Amatullo, ‘2 Days in the Valley’ Producer and ‘Goonies’ Location Manager, Dies at 76",
@@ -4058,8 +4058,8 @@
           ]
         },
         {
-          "id": "box_office-4-7055592692447682207",
-          "key": "box_office-4-7055592692447682207",
+          "id": "box_office-4-4210175607804854525",
+          "key": "box_office-4-4210175607804854525",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘War of the Worlds’ Producer Defends Ice Cube Film After Disastrous Reviews",
@@ -4086,8 +4086,8 @@
           ]
         },
         {
-          "id": "box_office-5-2384170444864609592",
-          "key": "box_office-5-2384170444864609592",
+          "id": "box_office-5-2978768950994464317",
+          "key": "box_office-5-2978768950994464317",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Shawn Levy Tackling Original Sci-Fi With ‘Somewhere Out There’ for Netflix (Exclusive)",
@@ -4114,8 +4114,8 @@
           ]
         },
         {
-          "id": "box_office-6-7490995724906605967",
-          "key": "box_office-6-7490995724906605967",
+          "id": "box_office-6-3403836406201139360",
+          "key": "box_office-6-3403836406201139360",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Batman: White Knight’ Creator Sean Gordon Murphy Revs Up with Creator-Owned Comic ‘The Last Driver’ (Exclusive)",
@@ -4142,8 +4142,8 @@
           ]
         },
         {
-          "id": "box_office-7-3439821658686542881",
-          "key": "box_office-7-3439821658686542881",
+          "id": "box_office-7-9149391686487505751",
+          "key": "box_office-7-9149391686487505751",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Jeffrey Epstein Compared Himself to Alfalfa. Then He Quoted ‘Little Rascals’ in His Suicide Note",
@@ -4170,7 +4170,7 @@
           ]
         }
       ],
-      "updated_at": "2026-05-10 10:55:22 AM ET"
+      "updated_at": "2026-05-10 11:56:39 AM ET"
     },
     {
       "key": "celebrity",
@@ -4192,8 +4192,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "celebrity-0-360143099328614664",
-          "key": "celebrity-0-360143099328614664",
+          "id": "celebrity-0-6081051140859904839",
+          "key": "celebrity-0-6081051140859904839",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "PHOTOS: 2026 celebrity deaths - WTOP",
@@ -4220,8 +4220,8 @@
           ]
         },
         {
-          "id": "celebrity-1-6349576048537003401",
-          "key": "celebrity-1-6349576048537003401",
+          "id": "celebrity-1-7332882861229772687",
+          "key": "celebrity-1-7332882861229772687",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -4248,8 +4248,8 @@
           ]
         },
         {
-          "id": "celebrity-2-8115415825978334557",
-          "key": "celebrity-2-8115415825978334557",
+          "id": "celebrity-2-491769892878341875",
+          "key": "celebrity-2-491769892878341875",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "The Celebrity Outfits Everyone Is Talking About (and Copying) Right Now - ELLE",
@@ -4276,8 +4276,8 @@
           ]
         },
         {
-          "id": "celebrity-3-6425687151501124008",
-          "key": "celebrity-3-6425687151501124008",
+          "id": "celebrity-3-3268318564171516257",
+          "key": "celebrity-3-3268318564171516257",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Industry Notes: John Travolta, Netflix and Cannes Lead This Week’s Entertainment News - LATF USA NEWS",
@@ -4306,8 +4306,8 @@
       ],
       "items": [
         {
-          "id": "celebrity-0-360143099328614664",
-          "key": "celebrity-0-360143099328614664",
+          "id": "celebrity-0-6081051140859904839",
+          "key": "celebrity-0-6081051140859904839",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "PHOTOS: 2026 celebrity deaths - WTOP",
@@ -4334,8 +4334,8 @@
           ]
         },
         {
-          "id": "celebrity-1-6349576048537003401",
-          "key": "celebrity-1-6349576048537003401",
+          "id": "celebrity-1-7332882861229772687",
+          "key": "celebrity-1-7332882861229772687",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -4362,8 +4362,8 @@
           ]
         },
         {
-          "id": "celebrity-2-8115415825978334557",
-          "key": "celebrity-2-8115415825978334557",
+          "id": "celebrity-2-491769892878341875",
+          "key": "celebrity-2-491769892878341875",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "The Celebrity Outfits Everyone Is Talking About (and Copying) Right Now - ELLE",
@@ -4390,8 +4390,8 @@
           ]
         },
         {
-          "id": "celebrity-3-6425687151501124008",
-          "key": "celebrity-3-6425687151501124008",
+          "id": "celebrity-3-3268318564171516257",
+          "key": "celebrity-3-3268318564171516257",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Industry Notes: John Travolta, Netflix and Cannes Lead This Week’s Entertainment News - LATF USA NEWS",
@@ -4418,35 +4418,91 @@
           ]
         }
       ],
-      "updated_at": "2026-05-10 10:55:22 AM ET"
+      "updated_at": "2026-05-10 11:56:39 AM ET"
     },
     {
       "key": "hollywood",
       "name": "Hollywood",
       "title": "Hollywood Report",
-      "headline": "Charles Melton, Priyanka Chopra Jonas Attend the Gold Gala in Los Angeles, Billie Eilish Premieres Her Concert Film and More Celeb Red Carpet Photos: May 2026",
+      "headline": "Box Office: ‘Devil Wears Prada 2’ Remains No. 1 With $43 Million, ‘Mortal Kombat II’ Launches to $40 Million",
       "snapshot": "Hollywood coverage is updating with 8 current RSS headline item(s).",
       "key_storylines": [
+        "Box Office: ‘Devil Wears Prada 2’ Remains No. 1 With $43 Million, ‘Mortal Kombat II’ Launches to $40 Million",
+        "Advertisers’ Wish List for Upfront? Sports, Streaming, Spectacle (and Not Much Else)",
         "Charles Melton, Priyanka Chopra Jonas Attend the Gold Gala in Los Angeles, Billie Eilish Premieres Her Concert Film and More Celeb Red Carpet Photos: May 2026",
         "Sola Media Boards Animated Feature ‘Felix the Brave,’ Unveils Teaser at Cannes (EXCLUSIVE)",
-        "Simu Liu Honored at Gold House Gala: ‘We Must Learn What It Means to be a True Community’",
-        "‘Money Heist’ Set to Return With Expansion of Series Universe at Netflix",
-        "‘The Python Hunt’ Review: An Entertainingly Garish Documentary Account of a State-Sanctioned Culling Spree"
+        "Simu Liu Honored at Gold House Gala: ‘We Must Learn What It Means to be a True Community’"
       ],
       "watch_list": [
+        "Box Office: ‘Devil Wears Prada 2’ Remains No. 1 With $43 Million, ‘Mortal Kombat II’ Launches to $40 Million",
+        "Advertisers’ Wish List for Upfront? Sports, Streaming, Spectacle (and Not Much Else)",
         "Charles Melton, Priyanka Chopra Jonas Attend the Gold Gala in Los Angeles, Billie Eilish Premieres Her Concert Film and More Celeb Red Carpet Photos: May 2026",
         "Sola Media Boards Animated Feature ‘Felix the Brave,’ Unveils Teaser at Cannes (EXCLUSIVE)",
         "Simu Liu Honored at Gold House Gala: ‘We Must Learn What It Means to be a True Community’",
         "‘Money Heist’ Set to Return With Expansion of Series Universe at Netflix",
         "‘The Python Hunt’ Review: An Entertainingly Garish Documentary Account of a State-Sanctioned Culling Spree",
-        "BAFTA TV Awards 2026 Winners List (Updating Live)",
-        "‘The Secret Agent’ Sweeps 13th Premios Platino While Netflix’s Ambitious Argentine Series ‘The Eternaut’ Dominates TV Prizes",
-        "Indian Film Star Vijay Sworn In as Tamil Nadu Chief Minister After Days of High Drama"
+        "BAFTA TV Awards 2026 Winners List (Updating Live)"
       ],
       "homepage_cards": [
         {
-          "id": "hollywood-0-2067098315678554994",
-          "key": "hollywood-0-2067098315678554994",
+          "id": "hollywood-0-5456545533923067159",
+          "key": "hollywood-0-5456545533923067159",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "Box Office: ‘Devil Wears Prada 2’ Remains No. 1 With $43 Million, ‘Mortal Kombat II’ Launches to $40 Million",
+          "title": "Box Office: ‘Devil Wears Prada 2’ Remains No. 1 With $43 Million, ‘Mortal Kombat II’ Launches to $40 Million",
+          "snapshot": "Apparently the gruff fighter Johnny Cage wasn’t much of a match for the all-powerful Miranda Priestly. Disney’s “The Devil Wears Prada 2” retained the No. 1 spot on domestic box office charts despite three major new releases, including the video game adaptation “Mortal Kombat II.” The “Devil Wears Prada” sequel adde...",
+          "summary": "Apparently the gruff fighter Johnny Cage wasn’t much of a match for the all-powerful Miranda Priestly. Disney’s “The Devil Wears Prada 2” retained the No. 1 spot on domestic box office charts despite three major new releases, including the video game adaptation “Mortal Kombat II.” The “Devil Wears Prada” sequel adde...",
+          "url": "https://variety.com/2026/film/box-office/devil-wears-prada-2-box-office-first-place-mortal-kombat-2-opening-1236743920/",
+          "source": "Variety",
+          "source_name": "Variety",
+          "source_feed": "https://variety.com/feed/",
+          "published_at": "2026-05-10 11:20:59 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 100,
+          "key_data": [
+            "Box Office: ‘Devil Wears Prada 2’ Remains No. 1 With $43 Million, ‘Mortal Kombat II’ Launches to $40 Million"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-1-8097267911222053581",
+          "key": "hollywood-1-8097267911222053581",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "Advertisers’ Wish List for Upfront? Sports, Streaming, Spectacle (and Not Much Else)",
+          "title": "Advertisers’ Wish List for Upfront? Sports, Streaming, Spectacle (and Not Much Else)",
+          "snapshot": "TV advertisers expect to hear a lot of big asks this year, but not so many small requests. When NBCUniversal opens the media industry’s annual “Upfront Week” Monday, it is likely to do so with talk of the 100th anniversary of the NBC broadcast network and three different types of sports to offer on Sundays. […]",
+          "summary": "TV advertisers expect to hear a lot of big asks this year, but not so many small requests. When NBCUniversal opens the media industry’s annual “Upfront Week” Monday, it is likely to do so with talk of the 100th anniversary of the NBC broadcast network and three different types of sports to offer on Sundays. […]",
+          "url": "https://variety.com/2026/tv/news/advertisers-upfront-wish-list-sports-streaming-spectacle-1236743899/",
+          "source": "Variety",
+          "source_name": "Variety",
+          "source_feed": "https://variety.com/feed/",
+          "published_at": "2026-05-10 11:20:00 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 99,
+          "key_data": [
+            "Advertisers’ Wish List for Upfront? Sports, Streaming, Spectacle (and Not Much Else)"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-2-4777920429424642834",
+          "key": "hollywood-2-4777920429424642834",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Charles Melton, Priyanka Chopra Jonas Attend the Gold Gala in Los Angeles, Billie Eilish Premieres Her Concert Film and More Celeb Red Carpet Photos: May 2026",
@@ -4461,7 +4517,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 100,
+          "priority_score": 98,
           "key_data": [
             "Charles Melton, Priyanka Chopra Jonas Attend the Gold Gala in Los Angeles, Billie Eilish Premieres Her Concert Film and More Celeb Red Carpet Photos: May 2026"
           ],
@@ -4473,8 +4529,8 @@
           ]
         },
         {
-          "id": "hollywood-1-4964030003493167097",
-          "key": "hollywood-1-4964030003493167097",
+          "id": "hollywood-3-5093856793765739015",
+          "key": "hollywood-3-5093856793765739015",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Sola Media Boards Animated Feature ‘Felix the Brave,’ Unveils Teaser at Cannes (EXCLUSIVE)",
@@ -4489,7 +4545,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 99,
+          "priority_score": 97,
           "key_data": [
             "Sola Media Boards Animated Feature ‘Felix the Brave,’ Unveils Teaser at Cannes (EXCLUSIVE)"
           ],
@@ -4501,8 +4557,8 @@
           ]
         },
         {
-          "id": "hollywood-2-6390112434205917614",
-          "key": "hollywood-2-6390112434205917614",
+          "id": "hollywood-4-487867839266640434",
+          "key": "hollywood-4-487867839266640434",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Simu Liu Honored at Gold House Gala: ‘We Must Learn What It Means to be a True Community’",
@@ -4517,7 +4573,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 98,
+          "priority_score": 96,
           "key_data": [
             "Simu Liu Honored at Gold House Gala: ‘We Must Learn What It Means to be a True Community’"
           ],
@@ -4529,8 +4585,8 @@
           ]
         },
         {
-          "id": "hollywood-3-1257223994386222515",
-          "key": "hollywood-3-1257223994386222515",
+          "id": "hollywood-5-866766564592624372",
+          "key": "hollywood-5-866766564592624372",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘Money Heist’ Set to Return With Expansion of Series Universe at Netflix",
@@ -4545,7 +4601,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 97,
+          "priority_score": 95,
           "key_data": [
             "‘Money Heist’ Set to Return With Expansion of Series Universe at Netflix"
           ],
@@ -4557,8 +4613,8 @@
           ]
         },
         {
-          "id": "hollywood-4-1047856103076366444",
-          "key": "hollywood-4-1047856103076366444",
+          "id": "hollywood-6-938215160935994500",
+          "key": "hollywood-6-938215160935994500",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘The Python Hunt’ Review: An Entertainingly Garish Documentary Account of a State-Sanctioned Culling Spree",
@@ -4573,7 +4629,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 96,
+          "priority_score": 94,
           "key_data": [
             "‘The Python Hunt’ Review: An Entertainingly Garish Documentary Account of a State-Sanctioned Culling Spree"
           ],
@@ -4585,8 +4641,8 @@
           ]
         },
         {
-          "id": "hollywood-5-5334698179647806595",
-          "key": "hollywood-5-5334698179647806595",
+          "id": "hollywood-7-3867743735253681256",
+          "key": "hollywood-7-3867743735253681256",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "BAFTA TV Awards 2026 Winners List (Updating Live)",
@@ -4601,65 +4657,9 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 95,
-          "key_data": [
-            "BAFTA TV Awards 2026 Winners List (Updating Live)"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "hollywood-6-8618719934762703813",
-          "key": "hollywood-6-8618719934762703813",
-          "category": "Hollywood",
-          "label": "Hollywood",
-          "headline": "‘The Secret Agent’ Sweeps 13th Premios Platino While Netflix’s Ambitious Argentine Series ‘The Eternaut’ Dominates TV Prizes",
-          "title": "‘The Secret Agent’ Sweeps 13th Premios Platino While Netflix’s Ambitious Argentine Series ‘The Eternaut’ Dominates TV Prizes",
-          "snapshot": "For the second year in a row, a Brazilian feature swept top honors at the annual Ibero-American awards event Premios Platino, dubbed the Platinos Xcaret after its venue in the Riviera Maya, Mexico this year. Kleber Mendonça’s “The Secret Agent” took home best feature, director, screenplay and actor (Wagner Moura) ho...",
-          "summary": "For the second year in a row, a Brazilian feature swept top honors at the annual Ibero-American awards event Premios Platino, dubbed the Platinos Xcaret after its venue in the Riviera Maya, Mexico this year. Kleber Mendonça’s “The Secret Agent” took home best feature, director, screenplay and actor (Wagner Moura) ho...",
-          "url": "https://variety.com/2026/film/awards/the-secret-agent-13th-premios-platino-netflix-the-eternaut-1236742490/",
-          "source": "Variety",
-          "source_name": "Variety",
-          "source_feed": "https://variety.com/feed/",
-          "published_at": "2026-05-10 03:52:44 AM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 94,
-          "key_data": [
-            "‘The Secret Agent’ Sweeps 13th Premios Platino While Netflix’s Ambitious Argentine Series ‘The Eternaut’ Dominates TV Prizes"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "hollywood-7-8760666241611436211",
-          "key": "hollywood-7-8760666241611436211",
-          "category": "Hollywood",
-          "label": "Hollywood",
-          "headline": "Indian Film Star Vijay Sworn In as Tamil Nadu Chief Minister After Days of High Drama",
-          "title": "Indian Film Star Vijay Sworn In as Tamil Nadu Chief Minister After Days of High Drama",
-          "snapshot": "Actor-turned-politician Joseph Vijay Chandrasekhar was sworn in as Chief Minister of Tamil Nadu on Sunday morning at Chennai’s Jawaharlal Nehru Indoor Stadium, becoming the first in nearly six decades to have no connection to either of the Dravidian parties that have governed the southern Indian state without interr...",
-          "summary": "Actor-turned-politician Joseph Vijay Chandrasekhar was sworn in as Chief Minister of Tamil Nadu on Sunday morning at Chennai’s Jawaharlal Nehru Indoor Stadium, becoming the first in nearly six decades to have no connection to either of the Dravidian parties that have governed the southern Indian state without interr...",
-          "url": "https://variety.com/2026/politics/news/vijay-sworn-in-tamil-nadu-chief-minister-1236742532/",
-          "source": "Variety",
-          "source_name": "Variety",
-          "source_feed": "https://variety.com/feed/",
-          "published_at": "2026-05-10 02:10:15 AM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
           "priority_score": 93,
           "key_data": [
-            "Indian Film Star Vijay Sworn In as Tamil Nadu Chief Minister After Days of High Drama"
+            "BAFTA TV Awards 2026 Winners List (Updating Live)"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4671,8 +4671,64 @@
       ],
       "items": [
         {
-          "id": "hollywood-0-2067098315678554994",
-          "key": "hollywood-0-2067098315678554994",
+          "id": "hollywood-0-5456545533923067159",
+          "key": "hollywood-0-5456545533923067159",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "Box Office: ‘Devil Wears Prada 2’ Remains No. 1 With $43 Million, ‘Mortal Kombat II’ Launches to $40 Million",
+          "title": "Box Office: ‘Devil Wears Prada 2’ Remains No. 1 With $43 Million, ‘Mortal Kombat II’ Launches to $40 Million",
+          "snapshot": "Apparently the gruff fighter Johnny Cage wasn’t much of a match for the all-powerful Miranda Priestly. Disney’s “The Devil Wears Prada 2” retained the No. 1 spot on domestic box office charts despite three major new releases, including the video game adaptation “Mortal Kombat II.” The “Devil Wears Prada” sequel adde...",
+          "summary": "Apparently the gruff fighter Johnny Cage wasn’t much of a match for the all-powerful Miranda Priestly. Disney’s “The Devil Wears Prada 2” retained the No. 1 spot on domestic box office charts despite three major new releases, including the video game adaptation “Mortal Kombat II.” The “Devil Wears Prada” sequel adde...",
+          "url": "https://variety.com/2026/film/box-office/devil-wears-prada-2-box-office-first-place-mortal-kombat-2-opening-1236743920/",
+          "source": "Variety",
+          "source_name": "Variety",
+          "source_feed": "https://variety.com/feed/",
+          "published_at": "2026-05-10 11:20:59 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 100,
+          "key_data": [
+            "Box Office: ‘Devil Wears Prada 2’ Remains No. 1 With $43 Million, ‘Mortal Kombat II’ Launches to $40 Million"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-1-8097267911222053581",
+          "key": "hollywood-1-8097267911222053581",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "Advertisers’ Wish List for Upfront? Sports, Streaming, Spectacle (and Not Much Else)",
+          "title": "Advertisers’ Wish List for Upfront? Sports, Streaming, Spectacle (and Not Much Else)",
+          "snapshot": "TV advertisers expect to hear a lot of big asks this year, but not so many small requests. When NBCUniversal opens the media industry’s annual “Upfront Week” Monday, it is likely to do so with talk of the 100th anniversary of the NBC broadcast network and three different types of sports to offer on Sundays. […]",
+          "summary": "TV advertisers expect to hear a lot of big asks this year, but not so many small requests. When NBCUniversal opens the media industry’s annual “Upfront Week” Monday, it is likely to do so with talk of the 100th anniversary of the NBC broadcast network and three different types of sports to offer on Sundays. […]",
+          "url": "https://variety.com/2026/tv/news/advertisers-upfront-wish-list-sports-streaming-spectacle-1236743899/",
+          "source": "Variety",
+          "source_name": "Variety",
+          "source_feed": "https://variety.com/feed/",
+          "published_at": "2026-05-10 11:20:00 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 99,
+          "key_data": [
+            "Advertisers’ Wish List for Upfront? Sports, Streaming, Spectacle (and Not Much Else)"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-2-4777920429424642834",
+          "key": "hollywood-2-4777920429424642834",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Charles Melton, Priyanka Chopra Jonas Attend the Gold Gala in Los Angeles, Billie Eilish Premieres Her Concert Film and More Celeb Red Carpet Photos: May 2026",
@@ -4687,7 +4743,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 100,
+          "priority_score": 98,
           "key_data": [
             "Charles Melton, Priyanka Chopra Jonas Attend the Gold Gala in Los Angeles, Billie Eilish Premieres Her Concert Film and More Celeb Red Carpet Photos: May 2026"
           ],
@@ -4699,8 +4755,8 @@
           ]
         },
         {
-          "id": "hollywood-1-4964030003493167097",
-          "key": "hollywood-1-4964030003493167097",
+          "id": "hollywood-3-5093856793765739015",
+          "key": "hollywood-3-5093856793765739015",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Sola Media Boards Animated Feature ‘Felix the Brave,’ Unveils Teaser at Cannes (EXCLUSIVE)",
@@ -4715,7 +4771,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 99,
+          "priority_score": 97,
           "key_data": [
             "Sola Media Boards Animated Feature ‘Felix the Brave,’ Unveils Teaser at Cannes (EXCLUSIVE)"
           ],
@@ -4727,8 +4783,8 @@
           ]
         },
         {
-          "id": "hollywood-2-6390112434205917614",
-          "key": "hollywood-2-6390112434205917614",
+          "id": "hollywood-4-487867839266640434",
+          "key": "hollywood-4-487867839266640434",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Simu Liu Honored at Gold House Gala: ‘We Must Learn What It Means to be a True Community’",
@@ -4743,7 +4799,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 98,
+          "priority_score": 96,
           "key_data": [
             "Simu Liu Honored at Gold House Gala: ‘We Must Learn What It Means to be a True Community’"
           ],
@@ -4755,8 +4811,8 @@
           ]
         },
         {
-          "id": "hollywood-3-1257223994386222515",
-          "key": "hollywood-3-1257223994386222515",
+          "id": "hollywood-5-866766564592624372",
+          "key": "hollywood-5-866766564592624372",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘Money Heist’ Set to Return With Expansion of Series Universe at Netflix",
@@ -4771,7 +4827,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 97,
+          "priority_score": 95,
           "key_data": [
             "‘Money Heist’ Set to Return With Expansion of Series Universe at Netflix"
           ],
@@ -4783,8 +4839,8 @@
           ]
         },
         {
-          "id": "hollywood-4-1047856103076366444",
-          "key": "hollywood-4-1047856103076366444",
+          "id": "hollywood-6-938215160935994500",
+          "key": "hollywood-6-938215160935994500",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘The Python Hunt’ Review: An Entertainingly Garish Documentary Account of a State-Sanctioned Culling Spree",
@@ -4799,7 +4855,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 96,
+          "priority_score": 94,
           "key_data": [
             "‘The Python Hunt’ Review: An Entertainingly Garish Documentary Account of a State-Sanctioned Culling Spree"
           ],
@@ -4811,8 +4867,8 @@
           ]
         },
         {
-          "id": "hollywood-5-5334698179647806595",
-          "key": "hollywood-5-5334698179647806595",
+          "id": "hollywood-7-3867743735253681256",
+          "key": "hollywood-7-3867743735253681256",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "BAFTA TV Awards 2026 Winners List (Updating Live)",
@@ -4827,7 +4883,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 95,
+          "priority_score": 93,
           "key_data": [
             "BAFTA TV Awards 2026 Winners List (Updating Live)"
           ],
@@ -4837,65 +4893,9 @@
           "what_to_watch": [
             "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
           ]
-        },
-        {
-          "id": "hollywood-6-8618719934762703813",
-          "key": "hollywood-6-8618719934762703813",
-          "category": "Hollywood",
-          "label": "Hollywood",
-          "headline": "‘The Secret Agent’ Sweeps 13th Premios Platino While Netflix’s Ambitious Argentine Series ‘The Eternaut’ Dominates TV Prizes",
-          "title": "‘The Secret Agent’ Sweeps 13th Premios Platino While Netflix’s Ambitious Argentine Series ‘The Eternaut’ Dominates TV Prizes",
-          "snapshot": "For the second year in a row, a Brazilian feature swept top honors at the annual Ibero-American awards event Premios Platino, dubbed the Platinos Xcaret after its venue in the Riviera Maya, Mexico this year. Kleber Mendonça’s “The Secret Agent” took home best feature, director, screenplay and actor (Wagner Moura) ho...",
-          "summary": "For the second year in a row, a Brazilian feature swept top honors at the annual Ibero-American awards event Premios Platino, dubbed the Platinos Xcaret after its venue in the Riviera Maya, Mexico this year. Kleber Mendonça’s “The Secret Agent” took home best feature, director, screenplay and actor (Wagner Moura) ho...",
-          "url": "https://variety.com/2026/film/awards/the-secret-agent-13th-premios-platino-netflix-the-eternaut-1236742490/",
-          "source": "Variety",
-          "source_name": "Variety",
-          "source_feed": "https://variety.com/feed/",
-          "published_at": "2026-05-10 03:52:44 AM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 94,
-          "key_data": [
-            "‘The Secret Agent’ Sweeps 13th Premios Platino While Netflix’s Ambitious Argentine Series ‘The Eternaut’ Dominates TV Prizes"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "hollywood-7-8760666241611436211",
-          "key": "hollywood-7-8760666241611436211",
-          "category": "Hollywood",
-          "label": "Hollywood",
-          "headline": "Indian Film Star Vijay Sworn In as Tamil Nadu Chief Minister After Days of High Drama",
-          "title": "Indian Film Star Vijay Sworn In as Tamil Nadu Chief Minister After Days of High Drama",
-          "snapshot": "Actor-turned-politician Joseph Vijay Chandrasekhar was sworn in as Chief Minister of Tamil Nadu on Sunday morning at Chennai’s Jawaharlal Nehru Indoor Stadium, becoming the first in nearly six decades to have no connection to either of the Dravidian parties that have governed the southern Indian state without interr...",
-          "summary": "Actor-turned-politician Joseph Vijay Chandrasekhar was sworn in as Chief Minister of Tamil Nadu on Sunday morning at Chennai’s Jawaharlal Nehru Indoor Stadium, becoming the first in nearly six decades to have no connection to either of the Dravidian parties that have governed the southern Indian state without interr...",
-          "url": "https://variety.com/2026/politics/news/vijay-sworn-in-tamil-nadu-chief-minister-1236742532/",
-          "source": "Variety",
-          "source_name": "Variety",
-          "source_feed": "https://variety.com/feed/",
-          "published_at": "2026-05-10 02:10:15 AM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 93,
-          "key_data": [
-            "Indian Film Star Vijay Sworn In as Tamil Nadu Chief Minister After Days of High Drama"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
         }
       ],
-      "updated_at": "2026-05-10 10:55:25 AM ET"
+      "updated_at": "2026-05-10 11:56:39 AM ET"
     },
     {
       "key": "gaming",
@@ -4922,8 +4922,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "gaming-0-5535970085762248513",
-          "key": "gaming-0-5535970085762248513",
+          "id": "gaming-0-8930062720298364304",
+          "key": "gaming-0-8930062720298364304",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "GTA 6 Emails Fuel Rumors as Fans Expect News from Rockstar",
@@ -4950,8 +4950,8 @@
           ]
         },
         {
-          "id": "gaming-1-6230193112348260522",
-          "key": "gaming-1-6230193112348260522",
+          "id": "gaming-1-3347330289810178635",
+          "key": "gaming-1-3347330289810178635",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Psychonauts Developer Double Fine Is Forming a Union",
@@ -4978,8 +4978,8 @@
           ]
         },
         {
-          "id": "gaming-2-4667175011737761253",
-          "key": "gaming-2-4667175011737761253",
+          "id": "gaming-2-1868874632138050051",
+          "key": "gaming-2-1868874632138050051",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "League of Legends’ Riftbound TCG: Hands-On With Unleashed, its Newest Set",
@@ -5006,8 +5006,8 @@
           ]
         },
         {
-          "id": "gaming-3-8492004680191289980",
-          "key": "gaming-3-8492004680191289980",
+          "id": "gaming-3-8796281845121918198",
+          "key": "gaming-3-8796281845121918198",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Slay the Spire 2 Patch Rips Act 3 Boss Doormaker Out the Game, Developer Explains Decision",
@@ -5034,8 +5034,8 @@
           ]
         },
         {
-          "id": "gaming-4-6684545599309458430",
-          "key": "gaming-4-6684545599309458430",
+          "id": "gaming-4-7320407335637098342",
+          "key": "gaming-4-7320407335637098342",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "What Is Secrets of Strixhaven’s Codex Bundle, and Why Is It Sold Out Everywhere Already?",
@@ -5062,8 +5062,8 @@
           ]
         },
         {
-          "id": "gaming-5-1545570323517000930",
-          "key": "gaming-5-1545570323517000930",
+          "id": "gaming-5-6177878891044866641",
+          "key": "gaming-5-6177878891044866641",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "IGN, Atomic Monster & Blumhouse Are Teaming Up for Mortal Kombat II",
@@ -5090,8 +5090,8 @@
           ]
         },
         {
-          "id": "gaming-6-9016254320619759751",
-          "key": "gaming-6-9016254320619759751",
+          "id": "gaming-6-693360308615256152",
+          "key": "gaming-6-693360308615256152",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Mortal Kombat's Bizarre History of Movie and TV Adaptations",
@@ -5118,8 +5118,8 @@
           ]
         },
         {
-          "id": "gaming-7-6365383062900160876",
-          "key": "gaming-7-6365383062900160876",
+          "id": "gaming-7-7641943623232142931",
+          "key": "gaming-7-7641943623232142931",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Nintendo Trumpets Enormous Pokémon FireRed and LeafGreen Switch Sales, Despite Online Pricing Backlash",
@@ -5148,8 +5148,8 @@
       ],
       "items": [
         {
-          "id": "gaming-0-5535970085762248513",
-          "key": "gaming-0-5535970085762248513",
+          "id": "gaming-0-8930062720298364304",
+          "key": "gaming-0-8930062720298364304",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "GTA 6 Emails Fuel Rumors as Fans Expect News from Rockstar",
@@ -5176,8 +5176,8 @@
           ]
         },
         {
-          "id": "gaming-1-6230193112348260522",
-          "key": "gaming-1-6230193112348260522",
+          "id": "gaming-1-3347330289810178635",
+          "key": "gaming-1-3347330289810178635",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Psychonauts Developer Double Fine Is Forming a Union",
@@ -5204,8 +5204,8 @@
           ]
         },
         {
-          "id": "gaming-2-4667175011737761253",
-          "key": "gaming-2-4667175011737761253",
+          "id": "gaming-2-1868874632138050051",
+          "key": "gaming-2-1868874632138050051",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "League of Legends’ Riftbound TCG: Hands-On With Unleashed, its Newest Set",
@@ -5232,8 +5232,8 @@
           ]
         },
         {
-          "id": "gaming-3-8492004680191289980",
-          "key": "gaming-3-8492004680191289980",
+          "id": "gaming-3-8796281845121918198",
+          "key": "gaming-3-8796281845121918198",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Slay the Spire 2 Patch Rips Act 3 Boss Doormaker Out the Game, Developer Explains Decision",
@@ -5260,8 +5260,8 @@
           ]
         },
         {
-          "id": "gaming-4-6684545599309458430",
-          "key": "gaming-4-6684545599309458430",
+          "id": "gaming-4-7320407335637098342",
+          "key": "gaming-4-7320407335637098342",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "What Is Secrets of Strixhaven’s Codex Bundle, and Why Is It Sold Out Everywhere Already?",
@@ -5288,8 +5288,8 @@
           ]
         },
         {
-          "id": "gaming-5-1545570323517000930",
-          "key": "gaming-5-1545570323517000930",
+          "id": "gaming-5-6177878891044866641",
+          "key": "gaming-5-6177878891044866641",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "IGN, Atomic Monster & Blumhouse Are Teaming Up for Mortal Kombat II",
@@ -5316,8 +5316,8 @@
           ]
         },
         {
-          "id": "gaming-6-9016254320619759751",
-          "key": "gaming-6-9016254320619759751",
+          "id": "gaming-6-693360308615256152",
+          "key": "gaming-6-693360308615256152",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Mortal Kombat's Bizarre History of Movie and TV Adaptations",
@@ -5344,8 +5344,8 @@
           ]
         },
         {
-          "id": "gaming-7-6365383062900160876",
-          "key": "gaming-7-6365383062900160876",
+          "id": "gaming-7-7641943623232142931",
+          "key": "gaming-7-7641943623232142931",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Nintendo Trumpets Enormous Pokémon FireRed and LeafGreen Switch Sales, Despite Online Pricing Backlash",
@@ -5372,7 +5372,7 @@
           ]
         }
       ],
-      "updated_at": "2026-05-10 10:55:25 AM ET"
+      "updated_at": "2026-05-10 11:56:39 AM ET"
     },
     {
       "key": "media",
@@ -5399,8 +5399,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "media-0-7749513475253573874",
-          "key": "media-0-7749513475253573874",
+          "id": "media-0-93215138547610040",
+          "key": "media-0-93215138547610040",
           "category": "Media",
           "label": "Media",
           "headline": "Television Academy Endorses Post-Production Tax Credit Bill as Assemblyman Nick Schultz Rallies Support in Burbank: ‘We Should Have Done This a Decade Ago’",
@@ -5427,8 +5427,8 @@
           ]
         },
         {
-          "id": "media-1-5759687370153984509",
-          "key": "media-1-5759687370153984509",
+          "id": "media-1-3959415665586957644",
+          "key": "media-1-3959415665586957644",
           "category": "Media",
           "label": "Media",
           "headline": "Sky Toasts BAFTA TV Nominees at Annual Unmissable Television Celebration",
@@ -5455,8 +5455,8 @@
           ]
         },
         {
-          "id": "media-2-4206925608910550917",
-          "key": "media-2-4206925608910550917",
+          "id": "media-2-2640435158756722757",
+          "key": "media-2-2640435158756722757",
           "category": "Media",
           "label": "Media",
           "headline": "Opposition Mounts to Paramount-WBD Merger. Will It Make a Difference?",
@@ -5483,8 +5483,8 @@
           ]
         },
         {
-          "id": "media-3-7873824526219789883",
-          "key": "media-3-7873824526219789883",
+          "id": "media-3-3669372311791301067",
+          "key": "media-3-3669372311791301067",
           "category": "Media",
           "label": "Media",
           "headline": "Cannes Film Festival Marks the Start of a New Era for Anonymous Content: ‘The Very Best Cinema Reminds Us of Our Humanity’",
@@ -5511,8 +5511,8 @@
           ]
         },
         {
-          "id": "media-4-5447157092886702978",
-          "key": "media-4-5447157092886702978",
+          "id": "media-4-4932068777620993490",
+          "key": "media-4-4932068777620993490",
           "category": "Media",
           "label": "Media",
           "headline": "OnlyFans Valued at $3.15 Billion in Deal to Sell Minority Stake to Architect Capital",
@@ -5539,8 +5539,8 @@
           ]
         },
         {
-          "id": "media-5-1064964015893101407",
-          "key": "media-5-1064964015893101407",
+          "id": "media-5-5011254580887214780",
+          "key": "media-5-5011254580887214780",
           "category": "Media",
           "label": "Media",
           "headline": "ReelShort CEO Joey Jia Set to Speak at Owl & Co.’s Vertical Media Summit in Hollywood",
@@ -5567,8 +5567,8 @@
           ]
         },
         {
-          "id": "media-6-794623001335075823",
-          "key": "media-6-794623001335075823",
+          "id": "media-6-7587167639984735398",
+          "key": "media-6-7587167639984735398",
           "category": "Media",
           "label": "Media",
           "headline": "Sony, PlayStation Chiefs Detail AI Vision Amid Tariffs, Memory Crunch: ‘Human Creativity Must Remain at the Center’",
@@ -5595,8 +5595,8 @@
           ]
         },
         {
-          "id": "media-7-6356581219312404868",
-          "key": "media-7-6356581219312404868",
+          "id": "media-7-1159918206018828709",
+          "key": "media-7-1159918206018828709",
           "category": "Media",
           "label": "Media",
           "headline": "Sony Pictures Entertainment Revenue Flat for Fiscal Year 2025 at $9.9 Billion, Profit Takes Hit From Shutdown of Pixomondo VFX Division",
@@ -5625,8 +5625,8 @@
       ],
       "items": [
         {
-          "id": "media-0-7749513475253573874",
-          "key": "media-0-7749513475253573874",
+          "id": "media-0-93215138547610040",
+          "key": "media-0-93215138547610040",
           "category": "Media",
           "label": "Media",
           "headline": "Television Academy Endorses Post-Production Tax Credit Bill as Assemblyman Nick Schultz Rallies Support in Burbank: ‘We Should Have Done This a Decade Ago’",
@@ -5653,8 +5653,8 @@
           ]
         },
         {
-          "id": "media-1-5759687370153984509",
-          "key": "media-1-5759687370153984509",
+          "id": "media-1-3959415665586957644",
+          "key": "media-1-3959415665586957644",
           "category": "Media",
           "label": "Media",
           "headline": "Sky Toasts BAFTA TV Nominees at Annual Unmissable Television Celebration",
@@ -5681,8 +5681,8 @@
           ]
         },
         {
-          "id": "media-2-4206925608910550917",
-          "key": "media-2-4206925608910550917",
+          "id": "media-2-2640435158756722757",
+          "key": "media-2-2640435158756722757",
           "category": "Media",
           "label": "Media",
           "headline": "Opposition Mounts to Paramount-WBD Merger. Will It Make a Difference?",
@@ -5709,8 +5709,8 @@
           ]
         },
         {
-          "id": "media-3-7873824526219789883",
-          "key": "media-3-7873824526219789883",
+          "id": "media-3-3669372311791301067",
+          "key": "media-3-3669372311791301067",
           "category": "Media",
           "label": "Media",
           "headline": "Cannes Film Festival Marks the Start of a New Era for Anonymous Content: ‘The Very Best Cinema Reminds Us of Our Humanity’",
@@ -5737,8 +5737,8 @@
           ]
         },
         {
-          "id": "media-4-5447157092886702978",
-          "key": "media-4-5447157092886702978",
+          "id": "media-4-4932068777620993490",
+          "key": "media-4-4932068777620993490",
           "category": "Media",
           "label": "Media",
           "headline": "OnlyFans Valued at $3.15 Billion in Deal to Sell Minority Stake to Architect Capital",
@@ -5765,8 +5765,8 @@
           ]
         },
         {
-          "id": "media-5-1064964015893101407",
-          "key": "media-5-1064964015893101407",
+          "id": "media-5-5011254580887214780",
+          "key": "media-5-5011254580887214780",
           "category": "Media",
           "label": "Media",
           "headline": "ReelShort CEO Joey Jia Set to Speak at Owl & Co.’s Vertical Media Summit in Hollywood",
@@ -5793,8 +5793,8 @@
           ]
         },
         {
-          "id": "media-6-794623001335075823",
-          "key": "media-6-794623001335075823",
+          "id": "media-6-7587167639984735398",
+          "key": "media-6-7587167639984735398",
           "category": "Media",
           "label": "Media",
           "headline": "Sony, PlayStation Chiefs Detail AI Vision Amid Tariffs, Memory Crunch: ‘Human Creativity Must Remain at the Center’",
@@ -5821,8 +5821,8 @@
           ]
         },
         {
-          "id": "media-7-6356581219312404868",
-          "key": "media-7-6356581219312404868",
+          "id": "media-7-1159918206018828709",
+          "key": "media-7-1159918206018828709",
           "category": "Media",
           "label": "Media",
           "headline": "Sony Pictures Entertainment Revenue Flat for Fiscal Year 2025 at $9.9 Billion, Profit Takes Hit From Shutdown of Pixomondo VFX Division",
@@ -5849,7 +5849,7 @@
           ]
         }
       ],
-      "updated_at": "2026-05-10 10:55:25 AM ET"
+      "updated_at": "2026-05-10 11:56:40 AM ET"
     }
   ]
 }
