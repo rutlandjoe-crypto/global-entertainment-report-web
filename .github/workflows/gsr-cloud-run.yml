@@ -100,6 +100,8 @@ jobs:
         run: |
           git add public/latest_report.json public/latest_report.txt latest_report.json latest_report.txt entertainment_report.txt || true
 
+      - name: Guard Entertainment report quality before commit
+        run: python scripts/check_entertainment_agent.py
       - name: Commit updated Entertainment site data if changed
         run: |
           git config user.name "github-actions[bot]"
@@ -110,7 +112,6 @@ jobs:
           else
             git commit -m "Auto update Entertainment site data"
           fi
-
       - name: Push changes
         run: |
           if git diff --cached --quiet && git diff --quiet; then
@@ -119,3 +120,4 @@ jobs:
             git pull --rebase --autostash origin master
             git push origin HEAD:master
           fi
+
