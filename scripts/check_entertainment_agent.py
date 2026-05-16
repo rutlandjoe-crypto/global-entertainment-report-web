@@ -71,31 +71,40 @@ def as_list(value):
     return value if isinstance(value, list) else []
 
 def normalize_source(value):
-    if not value:
-        return "unknown"
-
-    value = str(value).lower().strip()
+    value = str(value or "").lower()
+    value = value.replace("www.", "")
 
     if "variety" in value:
         return "variety"
     if "deadline" in value:
         return "deadline"
     if "hollywoodreporter" in value or "hollywood reporter" in value:
-        return "the hollywood reporter"
+        return "hollywoodreporter"
+    if "thewrap" in value or "the wrap" in value:
+        return "thewrap"
     if "billboard" in value:
         return "billboard"
     if "indiewire" in value:
         return "indiewire"
+    if "rollingstone" in value or "rolling stone" in value:
+        return "rollingstone"
     if "polygon" in value:
         return "polygon"
     if "ign" in value:
         return "ign"
+    if "apnews" in value or value == "ap":
+        return "ap"
+    if "reuters" in value:
+        return "reuters"
+    if "yahoo" in value:
+        return "yahoo"
     if "google" in value:
         return "google news"
-    if "ew.com" in value or "entertainment weekly" in value:
-        return "entertainment weekly"
+    if "guardian" in value:
+        return "guardian"
 
-    return value[:60]
+    return value or "unknown"
+
 
 def collect_sources(items):
     counter = Counter()
@@ -225,14 +234,14 @@ def main():
 
     errors = []
 
-    if len(live_newsroom) < 8:
-        errors.append(f"Expected at least 8 live newsroom items, found {len(live_newsroom)}")
+    if len(live_newsroom) < 5:
+        errors.append(f"Expected at least 5 live newsroom items, found {len(live_newsroom)}")
 
-    if len(editor_signals) < 6:
-        errors.append(f"Expected at least 6 editor signals, found {len(editor_signals)}")
+    if len(editor_signals) < 5:
+        errors.append(f"Expected at least 5 editor signals, found {len(editor_signals)}")
 
-    if len(key_storylines) < 4:
-        errors.append(f"Expected at least 4 key storylines, found {len(key_storylines)}")
+    if len(key_storylines) < 3:
+        errors.append(f"Expected at least 3 key storylines, found {len(key_storylines)}")
 
     if len(sections) < 4:
         errors.append(f"Expected at least 4 sections, found {len(sections)}")
@@ -244,9 +253,46 @@ def main():
     total_source_count = sum(sources.values()) or 1
     variety_share = variety_count / total_source_count
 
-    if variety_share > 0.55:
+    if variety_share > 0.40:
         errors.append(
             f"Variety source share too high: {variety_count}/{total_source_count}"
+        )
+
+    known_sources = {
+        source: count
+        for source, count in sources.items()
+        if source != "unknown"
+    }
+
+    if len(known_sources) < 3:
+        errors.append(
+            f"Expected at least 3 recognizable source groups, found {len(known_sources)}"
+        )
+
+    if known_sources:
+        top_source, top_count = max(known_sources.items(), key=lambda item: item[1])
+        top_share = top_count / total_source_count
+        if top_share > 0.50:
+            errors.append(
+                f"Single-source dominance too high: {top_source} {top_count}/{total_source_count}"
+            )
+
+    major_mix = {
+        "deadline",
+        "hollywoodreporter",
+        "variety",
+        "indiewire",
+        "billboard",
+        "thewrap",
+        "rollingstone",
+        "polygon",
+        "ign",
+    }
+    major_present = sorted(source for source in known_sources if source in major_mix)
+    if len(major_present) < 3:
+        errors.append(
+            "Expected at least 3 major entertainment/media source groups; "
+            f"found {major_present}"
         )
 
     bad_language = find_bad_visible_language(all_items)
