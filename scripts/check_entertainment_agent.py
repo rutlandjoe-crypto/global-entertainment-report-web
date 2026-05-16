@@ -13,7 +13,6 @@ BANNED_VISIBLE_TERMS = [
     "test data",
     "sample data",
     "internal",
-    "process",
 ]
 
 VISIBLE_TEXT_KEYS = {
@@ -100,10 +99,25 @@ def normalize_source(value):
 
 def collect_sources(items):
     counter = Counter()
+    seen = set()
 
     for item in items:
         if not isinstance(item, dict):
             continue
+
+        unique_key = (
+            item.get("url")
+            or item.get("link")
+            or item.get("canonical_url")
+            or item.get("title")
+            or item.get("headline")
+        )
+
+        if unique_key:
+            unique_key = str(unique_key).strip().lower()
+            if unique_key in seen:
+                continue
+            seen.add(unique_key)
 
         raw = (
             item.get("source")
@@ -245,4 +259,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
