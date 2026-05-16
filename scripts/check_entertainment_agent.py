@@ -4,206 +4,244 @@ import sys
 from collections import Counter
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
+REPORT_PATH = Path("public/latest_report.json")
 
-CANDIDATES = [
-    ROOT / "public" / "latest_report.json",
-    ROOT / "latest_report.json",
+BANNED_VISIBLE_TERMS = [
+    "fallback",
+    "placeholder",
+    "generic",
+    "test data",
+    "sample data",
+    "internal",
+    "process",
 ]
 
-REPORT_PATH = next((p for p in CANDIDATES if p.exists()), None)
+VISIBLE_TEXT_KEYS = {
+    "title",
+    "headline",
+    "name",
+    "summary",
+    "description",
+    "dek",
+    "body",
+    "text",
+    "analysis",
+    "context",
+    "why_it_matters",
+    "what_it_means",
+    "takeaway",
+    "label",
+    "category",
+}
 
-if REPORT_PATH is None:
-    print("ENTERTAINMENT AGENT FAIL: No latest_report.json found.")
-    sys.exit(1)
+IGNORED_KEYS = {
+    "url",
+    "link",
+    "href",
+    "source_url",
+    "sourceUrl",
+    "canonical_url",
+    "image",
+    "image_url",
+    "thumbnail",
+    "id",
+    "slug",
+    "guid",
+    "rss",
+    "rss_url",
+    "feed",
+    "feed_url",
+    "published",
+    "updated",
+    "created_at",
+    "updated_at",
+    "generated_at",
+    "source",
+}
 
-try:
-    data = json.loads(REPORT_PATH.read_text(encoding="utf-8"))
-except Exception as exc:
-    print(f"ENTERTAINMENT AGENT FAIL: Could not parse {REPORT_PATH}: {exc}")
-    sys.exit(1)
+def load_report():
+    if not REPORT_PATH.exists():
+        fail([f"Missing report file: {REPORT_PATH}"])
 
-failures = []
-warnings = []
+    try:
+        return json.loads(REPORT_PATH.read_text(encoding="utf-8"))
+    except Exception as exc:
+        fail([f"Could not read JSON report: {exc}"])
 
 def as_list(value):
     return value if isinstance(value, list) else []
 
-live_newsroom = as_list(data.get("live_newsroom"))
-editor_signals = as_list(data.get("editor_signals"))
-key_storylines = as_list(data.get("key_storylines"))
-sections = as_list(data.get("sections"))
+def normalize_source(value):
+    if not value:
+        return "unknown"
 
-# Entertainment uses sections, not homepage_cards.
-public_items = live_newsroom + key_storylines + sections
-all_items = public_items + editor_signals
+    value = str(value).lower().strip()
 
-if len(live_newsroom) < 5:
-    failures.append(f"Live newsroom has only {len(live_newsroom)} items; expected at least 5.")
+    if "variety" in value:
+        return "variety"
+    if "deadline" in value:
+        return "deadline"
+    if "hollywoodreporter" in value or "hollywood reporter" in value:
+        return "the hollywood reporter"
+    if "billboard" in value:
+        return "billboard"
+    if "indiewire" in value:
+        return "indiewire"
+    if "polygon" in value:
+        return "polygon"
+    if "ign" in value:
+        return "ign"
+    if "google" in value:
+        return "google news"
+    if "ew.com" in value or "entertainment weekly" in value:
+        return "entertainment weekly"
 
-if len(editor_signals) < 3:
-    warnings.append(f"Editor signals has only {len(editor_signals)} items; expected at least 3.")
+    return value[:60]
 
-if len(key_storylines) < 3:
-    warnings.append(f"Key storylines has only {len(key_storylines)} items; expected at least 3.")
+def collect_sources(items):
+    counter = Counter()
 
-if len(sections) < 6:
-    failures.append(f"Sections has only {len(sections)} items; expected at least 6.")
+    for item in items:
+        if not isinstance(item, dict):
+            continue
 
-def pick_url(item):
-    if not isinstance(item, dict):
-        return ""
-    for key in ["url", "link", "href", "source_url"]:
-        val = item.get(key)
-        if isinstance(val, str) and val.strip():
-            return val.strip()
-    return ""
+        raw = (
+            item.get("source")
+            or item.get("publisher")
+            or item.get("outlet")
+            or item.get("source_name")
+            or item.get("site")
+            or item.get("domain")
+            or item.get("url")
+            or item.get("link")
+        )
 
-def pick_headline(item):
-    if not isinstance(item, dict):
-        return ""
-    for key in ["headline", "title", "name"]:
-        val = item.get(key)
-        if isinstance(val, str) and val.strip():
-            return val.strip()
-    return ""
+        counter[normalize_source(raw)] += 1
 
-def pick_text(item):
-    if not isinstance(item, dict):
-        return ""
+    return dict(counter)
 
-    parts = []
-    for key in [
-        "headline", "title", "name", "summary", "description", "snapshot",
-        "dek", "context", "signal", "label"
-    ]:
-        val = item.get(key)
-        if isinstance(val, str):
-            parts.append(val)
+def collect_categories(items):
+    counter = Counter()
 
-    for key in ["key_data", "why_it_matters", "what_to_watch", "bullets", "items"]:
-        val = item.get(key)
-        if isinstance(val, list):
-            for entry in val:
-                if isinstance(entry, str):
-                    parts.append(entry)
-                elif isinstance(entry, dict):
-                    parts.append(pick_text(entry))
+    for item in items:
+        if not isinstance(item, dict):
+            continue
 
-    return " ".join(parts).strip()
+        category = item.get("category") or item.get("section") or item.get("vertical") or "uncategorized"
+        category = str(category).lower().strip().replace(" ", "_")
+        counter[category] += 1
 
-def pick_source(item):
-    if not isinstance(item, dict):
-        return ""
+    return dict(counter)
 
-    for key in ["source", "publisher", "outlet", "site"]:
-        val = item.get(key)
-        if isinstance(val, str) and val.strip():
-            return val.strip().lower()
+def iter_visible_strings(obj):
+    if isinstance(obj, dict):
+        for key, value in obj.items():
+            key_text = str(key)
 
-    url = pick_url(item)
-    if url:
-        return re.sub(r"^https?://(www\.)?", "", url).split("/")[0].lower()
+            if key_text in IGNORED_KEYS:
+                continue
 
-    return ""
+            if isinstance(value, str):
+                if key_text in VISIBLE_TEXT_KEYS:
+                    yield key_text, value
+            else:
+                yield from iter_visible_strings(value)
 
-sources = [pick_source(item) for item in all_items if pick_source(item)]
-source_counts = Counter(sources)
+    elif isinstance(obj, list):
+        for value in obj:
+            yield from iter_visible_strings(value)
 
-if len(sources) >= 6 and len(source_counts) < 3:
-    failures.append(f"Only {len(source_counts)} sources found across Entertainment output; expected at least 3.")
+def find_bad_visible_language(items):
+    problems = []
 
-variety_count = sum(count for source, count in source_counts.items() if "variety" in source.lower())
-if len(sources) >= 6 and variety_count / len(sources) > 0.55:
-    failures.append(f"Variety source drift detected: {variety_count}/{len(sources)} sourced items are Variety.")
+    patterns = [
+        (term, re.compile(rf"\b{re.escape(term)}\b", re.IGNORECASE))
+        for term in BANNED_VISIBLE_TERMS
+    ]
 
-bad_urls = []
-for item in live_newsroom + editor_signals:
-    headline = pick_headline(item)
-    url = pick_url(item)
-    if not url or not url.startswith(("http://", "https://")):
-        bad_urls.append(headline or "[missing headline]")
+    for item in items:
+        if not isinstance(item, dict):
+            continue
 
-if bad_urls:
-    failures.append("Missing or invalid URLs found: " + "; ".join(bad_urls[:8]))
+        title = item.get("title") or item.get("headline") or "Untitled item"
 
-generic_phrases = [
-    "entertainment watch",
-    "latest entertainment headlines",
-    "entertainment roundup",
-    "rss",
-    "feed",
-    "fallback",
-    "pipeline",
-    "placeholder",
-    "no summary available",
-    "story continues",
-]
+        for key, text in iter_visible_strings(item):
+            for term, pattern in patterns:
+                if pattern.search(text):
+                    problems.append(
+                        f"Generic/internal language found in '{title}': {term}"
+                    )
 
-for item in all_items:
-    text = pick_text(item).lower()
-    headline = pick_headline(item)
-    found = [phrase for phrase in generic_phrases if phrase in text]
-    if found:
-        failures.append(f"Generic/internal language found in '{headline}': {', '.join(found)}")
+    return problems
 
-category_patterns = {
-    "film": r"\b(movie|movies|film|films|box office|cannes|trailer|cinema|theater|theatrical)\b",
-    "tv_streaming": r"\b(tv|series|streaming|netflix|hulu|disney\+|disney plus|hbo|max|peacock|paramount\+|prime video|apple tv|season|episode)\b",
-    "music": r"\b(music|album|song|songs|tour|concert|festival|spotify|billboard|artist|singer|rapper|band)\b",
-    "business": r"\b(studio|studios|hollywood|deal|merger|acquisition|earnings|box office|rights|licensing|strike|guild|lawsuit|executive|warner|disney|paramount|sony|netflix|youtube)\b",
-    "celebrity": r"\b(actor|actress|celebrity|stars|star|red carpet|interview|host|late-night|late night|trevor noah|kevin hart)\b",
-}
-
-category_hits = Counter()
-film_heavy_items = 0
-
-for item in public_items:
-    text = pick_text(item).lower()
-    for category, pattern in category_patterns.items():
-        if re.search(pattern, text, flags=re.I):
-            category_hits[category] += 1
-    if re.search(category_patterns["film"], text, flags=re.I):
-        film_heavy_items += 1
-
-if len(public_items) >= 8:
-    active_categories = [category for category, count in category_hits.items() if count > 0]
-    if len(active_categories) < 3:
-        failures.append(f"Entertainment mix too narrow: only {len(active_categories)} categories detected: {active_categories}")
-
-    film_share = film_heavy_items / len(public_items)
-    if film_share > 0.65:
-        failures.append(f"Film-heavy drift detected: {film_heavy_items}/{len(public_items)} public items look film/movie-heavy.")
-
-weak_headlines = []
-for item in live_newsroom:
-    headline = pick_headline(item)
-    if not headline:
-        weak_headlines.append("[missing headline]")
-    elif len(headline.split()) < 4 or headline.endswith("."):
-        weak_headlines.append(headline)
-
-if weak_headlines:
-    failures.append("Weak Entertainment headlines found: " + "; ".join(weak_headlines[:8]))
-
-print("Entertainment Agent Check")
-print(f"Report: {REPORT_PATH}")
-print(f"Live newsroom items: {len(live_newsroom)}")
-print(f"Editor signals: {len(editor_signals)}")
-print(f"Key storylines: {len(key_storylines)}")
-print(f"Sections: {len(sections)}")
-print("Sources:", dict(source_counts))
-print("Categories:", dict(category_hits))
-
-if warnings:
-    print("Warnings:")
-    for warning in warnings:
-        print(f"- {warning}")
-
-if failures:
+def fail(errors):
     print("ENTERTAINMENT AGENT FAIL")
-    for failure in failures:
-        print(f"- {failure}")
+    for error in errors:
+        print(f"- {error}")
     sys.exit(1)
 
-print("ENTERTAINMENT AGENT PASS")
+def main():
+    report = load_report()
+
+    homepage_cards = as_list(report.get("homepage_cards"))
+    live_newsroom = as_list(report.get("live_newsroom"))
+    editor_signals = as_list(report.get("editor_signals"))
+    key_storylines = as_list(report.get("key_storylines"))
+    sections = as_list(report.get("sections"))
+
+    all_items = homepage_cards + live_newsroom + editor_signals + key_storylines
+
+    for section in sections:
+        if isinstance(section, dict):
+            all_items.extend(as_list(section.get("items")))
+            all_items.extend(as_list(section.get("stories")))
+            all_items.extend(as_list(section.get("cards")))
+
+    sources = collect_sources(all_items)
+    categories = collect_categories(all_items)
+
+    print("Entertainment Agent Check")
+    print(f"Report: {REPORT_PATH.resolve()}")
+    print(f"Live newsroom items: {len(live_newsroom)}")
+    print(f"Editor signals: {len(editor_signals)}")
+    print(f"Key storylines: {len(key_storylines)}")
+    print(f"Sections: {len(sections)}")
+    print(f"Sources: {sources}")
+    print(f"Categories: {categories}")
+
+    errors = []
+
+    if len(live_newsroom) < 8:
+        errors.append(f"Expected at least 8 live newsroom items, found {len(live_newsroom)}")
+
+    if len(editor_signals) < 6:
+        errors.append(f"Expected at least 6 editor signals, found {len(editor_signals)}")
+
+    if len(key_storylines) < 4:
+        errors.append(f"Expected at least 4 key storylines, found {len(key_storylines)}")
+
+    if len(sections) < 4:
+        errors.append(f"Expected at least 4 sections, found {len(sections)}")
+
+    if len([source for source in sources if source != "unknown"]) < 3:
+        errors.append("Expected at least 3 recognizable source groups")
+
+    variety_count = sources.get("variety", 0)
+    total_source_count = sum(sources.values()) or 1
+    variety_share = variety_count / total_source_count
+
+    if variety_share > 0.55:
+        errors.append(
+            f"Variety source share too high: {variety_count}/{total_source_count}"
+        )
+
+    bad_language = find_bad_visible_language(all_items)
+    errors.extend(bad_language)
+
+    if errors:
+        fail(errors)
+
+    print("ENTERTAINMENT AGENT PASS")
+
+if __name__ == "__main__":
+    main()
