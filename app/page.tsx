@@ -543,6 +543,37 @@ function Block({ title, children }: { title: string; children: ReactNode }) {
   );
 }
 
+function EditorsBookshelf() {
+  const books = [
+    ["The Big Picture", "Ben Fritz"],
+    ["Adventures in the Screen Trade", "William Goldman"],
+    ["The Creative Act", "Rick Rubin"],
+  ];
+
+  return (
+    <Block title="Editor's Bookshelf">
+      <div className="space-y-2">
+        {books.map(([title, author]) => (
+          // TODO: Replace this Amazon search URL with the final Amazon Associates URL.
+          <a
+            key={title}
+            href={`https://www.amazon.com/s?k=${encodeURIComponent(`${title} ${author}`)}&tag=gsrentertainment-20`}
+            target="_blank"
+            rel="sponsored noopener noreferrer"
+            className="block rounded-xl border border-neutral-800 bg-black px-4 py-3 hover:border-fuchsia-300"
+          >
+            <span className="block text-sm font-bold text-fuchsia-300">{title}</span>
+            <span className="mt-1 block text-xs text-neutral-400">{author}</span>
+          </a>
+        ))}
+      </div>
+      <p className="mt-3 text-xs leading-5 text-neutral-500">
+        As an Amazon Associate, GSR Network earns from qualifying purchases.
+      </p>
+    </Block>
+  );
+}
+
 function LineList({ items }: { items: string[] }) {
   const safe = unique(items).slice(0, 8);
 
@@ -825,6 +856,8 @@ export default async function Page() {
               ))}
             </div>
           </Block>
+
+          <EditorsBookshelf />
 
           <Block title="Coverage Lens">
             <LineList
