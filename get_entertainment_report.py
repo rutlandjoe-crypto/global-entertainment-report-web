@@ -4,6 +4,7 @@ import re
 import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
+from collections import Counter, defaultdict, deque
 from dataclasses import dataclass, field
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
@@ -20,6 +21,10 @@ PUBLIC_DIR.mkdir(parents=True, exist_ok=True)
 ET_ZONE = ZoneInfo("America/New_York")
 MAX_ITEM_AGE_HOURS = 24 * 14
 REQUEST_TIMEOUT_SECONDS = 25
+CATEGORY_ITEM_LIMIT = 8
+CATEGORY_SOURCE_CAP = 2
+PUBLIC_CARD_LIMIT = 24
+PUBLIC_SOURCE_CAP = 4
 RSS_USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
     "(KHTML, like Gecko) Chrome/124.0 Safari/537.36 "
@@ -101,6 +106,9 @@ class FeedStats:
     status_code: str = "not-requested"
     final_url: str = ""
     item_count: int = 0
+    freshness_count: int = 0
+    deduplicated_count: int = 0
+    quality_count: int = 0
     accepted_count: int = 0
     rejected_count: int = 0
     rejection_reasons: dict[str, int] = field(default_factory=dict)
@@ -114,7 +122,9 @@ class FeedStats:
         print(
             f"[{timestamp()}] RSS feed category={self.category} url={self.url} "
             f"status={self.status_code} final_url={self.final_url or self.url} "
-            f"items={self.item_count} accepted={self.accepted_count} "
+            f"items={self.item_count} fresh={self.freshness_count} "
+            f"deduplicated={self.deduplicated_count} quality={self.quality_count} "
+            f"selected={self.accepted_count} "
             f"rejected={self.rejected_count} reasons={reasons or 'none'}"
         )
 
@@ -172,6 +182,17 @@ def source_name_from_url(url: str) -> str:
         "news.google.com": "Google News",
     }
     return names.get(host, host or "Entertainment source")
+
+
+def source_key(item: dict) -> str:
+    return clean_text(item.get("source_name") or item.get("source") or "unknown").lower()
+
+
+def story_key(item: dict) -> str:
+    title = clean_text(item.get("title") or item.get("headline", "")).lower()
+    title = re.sub(r"\s+-\s+(variety|deadline|the hollywood reporter|billboard|ign)$", "", title)
+    title = re.sub(r"[^a-z0-9]+", " ", title).strip()
+    return title
 
 
 def fetch_url(url: str) -> tuple[bytes, str, str]:
@@ -237,21 +258,23 @@ def parse_rss_items(raw: bytes) -> list[dict]:
     return items
 
 
-def rejection_reason(item: dict, seen: set[str]) -> str:
-    title = clean_text(item.get("title", ""))
-    link = clean_text(item.get("link", ""))
+def freshness_rejection_reason(item: dict) -> str:
     published = item.get("published_dt")
-
-    if not title:
-        return "missing-title"
-    if title.lower() in seen:
-        return "duplicate-title"
-    if not link.startswith(("http://", "https://")):
-        return "missing-valid-link"
     if published:
         age_hours = (now_et() - published).total_seconds() / 3600
         if age_hours > MAX_ITEM_AGE_HOURS:
             return f"stale-over-{MAX_ITEM_AGE_HOURS}h"
+    return ""
+
+
+def quality_rejection_reason(item: dict) -> str:
+    title = clean_text(item.get("title", ""))
+    link = clean_text(item.get("link", ""))
+
+    if not title:
+        return "missing-title"
+    if not link.startswith(("http://", "https://")):
+        return "missing-valid-link"
     return ""
 
 
@@ -294,10 +317,35 @@ def normalize_item(item: dict, category: str, url: str, index: int) -> dict:
     }
 
 
-def fetch_category(category: str, urls: list[str], limit: int = 8) -> tuple[list[dict], list[FeedStats]]:
-    collected: list[dict] = []
+def select_source_balanced(items: list[dict], limit: int, source_cap: int) -> list[dict]:
+    buckets: dict[str, deque] = defaultdict(deque)
+    for item in items:
+        buckets[source_key(item)].append(item)
+
+    selected: list[dict] = []
+    counts: Counter = Counter()
+    active = deque(buckets)
+    while active and len(selected) < limit:
+        source = active.popleft()
+        if counts[source] >= source_cap or not buckets[source]:
+            continue
+        selected.append(buckets[source].popleft())
+        counts[source] += 1
+        if buckets[source] and counts[source] < source_cap:
+            active.append(source)
+    return selected
+
+
+def fetch_category(
+    category: str,
+    urls: list[str],
+    global_seen: set[str],
+    limit: int = CATEGORY_ITEM_LIMIT,
+) -> tuple[list[dict], list[dict], list[FeedStats]]:
+    candidates: list[dict] = []
     stats: list[FeedStats] = []
-    seen_titles: set[str] = set()
+    category_seen: set[str] = set()
+    candidate_stats: dict[int, FeedStats] = {}
 
     for url in urls:
         feed_stats = FeedStats(category=category, url=url)
@@ -309,17 +357,28 @@ def fetch_category(category: str, urls: list[str], limit: int = 8) -> tuple[list
             feed_stats.item_count = len(raw_items)
 
             for raw_item in raw_items:
-                reason = rejection_reason(raw_item, seen_titles)
+                reason = freshness_rejection_reason(raw_item)
                 if reason:
                     feed_stats.reject(reason)
                     continue
+                feed_stats.freshness_count += 1
 
-                seen_titles.add(clean_text(raw_item["title"]).lower())
-                feed_stats.accepted_count += 1
-                collected.append(normalize_item(raw_item, category, url, len(collected)))
+                key = story_key(raw_item)
+                if not key or key in category_seen or key in global_seen:
+                    feed_stats.reject("duplicate-story")
+                    continue
+                category_seen.add(key)
+                feed_stats.deduplicated_count += 1
 
-                if len(collected) >= limit:
-                    break
+                reason = quality_rejection_reason(raw_item)
+                if reason:
+                    feed_stats.reject(reason)
+                    continue
+                feed_stats.quality_count += 1
+                card = normalize_item(raw_item, category, url, len(candidates))
+                candidates.append(card)
+                candidate_stats[id(card)] = feed_stats
+                global_seen.add(key)
         except urllib.error.HTTPError as exc:
             feed_stats.status_code = str(exc.code)
             feed_stats.reject(f"http-error-{exc.code}")
@@ -330,13 +389,21 @@ def fetch_category(category: str, urls: list[str], limit: int = 8) -> tuple[list
             feed_stats.status_code = "request-error"
             feed_stats.reject(clean_text(str(exc))[:120] or "request-error")
         finally:
-            feed_stats.log()
             stats.append(feed_stats)
 
-        if len(collected) >= limit:
-            break
-
-    return collected[:limit], stats
+    selected = select_source_balanced(candidates, limit, CATEGORY_SOURCE_CAP)
+    for card in selected:
+        candidate_stats[id(card)].accepted_count += 1
+    for feed_stats in stats:
+        feed_stats.log()
+    print(
+        f"[{timestamp()}] PIPELINE category={category} "
+        f"fresh={sum(stat.freshness_count for stat in stats)} "
+        f"deduplicated={sum(stat.deduplicated_count for stat in stats)} "
+        f"quality={sum(stat.quality_count for stat in stats)} "
+        f"selected={len(selected)} sources={dict(Counter(source_key(item) for item in selected))}"
+    )
+    return selected, candidates, stats
 
 
 def build_section(category: str, items: list[dict]) -> dict:
@@ -391,27 +458,40 @@ def build_report() -> dict:
     sections_map = {}
     section_order = []
     all_cards: list[dict] = []
+    all_candidate_cards: list[dict] = []
     all_stats: list[FeedStats] = []
+    global_seen: set[str] = set()
 
     for category, urls in FEEDS.items():
-        items, stats = fetch_category(category, urls)
+        items, candidates, stats = fetch_category(category, urls, global_seen)
         sections_map[category] = build_section(category, items)
         section_order.append(category)
         all_cards.extend(items)
+        all_candidate_cards.extend(candidates)
         all_stats.extend(stats)
 
-    source_diverse_cards: list[dict] = []
-    source_counts: dict[str, int] = {}
-    for card in all_cards:
-        source = card.get("source_name", "")
-        if source_counts.get(source, 0) >= 4 and len(source_diverse_cards) >= 12:
-            continue
-        source_counts[source] = source_counts.get(source, 0) + 1
-        source_diverse_cards.append(card)
-
-    homepage_cards = source_diverse_cards[:24] if source_diverse_cards else fallback_cards(generated)
+    homepage_cards = select_source_balanced(
+        all_candidate_cards, PUBLIC_CARD_LIMIT, PUBLIC_SOURCE_CAP
+    ) or fallback_cards(generated)
+    live_newsroom = select_source_balanced(homepage_cards, 12, PUBLIC_SOURCE_CAP)
+    remaining_cards = [card for card in homepage_cards if card not in live_newsroom]
+    editor_signals = select_source_balanced(remaining_cards, 12, PUBLIC_SOURCE_CAP)
+    if len(editor_signals) < 5:
+        editor_signals = select_source_balanced(homepage_cards, 12, PUBLIC_SOURCE_CAP)
+    source_pipeline = {
+        "raw": dict(Counter(source_name_from_url(stat.url) for stat in all_stats for _ in range(stat.item_count))),
+        "fresh": dict(Counter(source_name_from_url(stat.url) for stat in all_stats for _ in range(stat.freshness_count))),
+        "deduplicated": dict(Counter(source_name_from_url(stat.url) for stat in all_stats for _ in range(stat.deduplicated_count))),
+        "quality": dict(Counter(source_name_from_url(stat.url) for stat in all_stats for _ in range(stat.quality_count))),
+        "category_selected": dict(Counter(source_key(card) for card in all_cards)),
+        "homepage_cards": dict(Counter(source_key(card) for card in homepage_cards)),
+        "live_newsroom": dict(Counter(source_key(card) for card in live_newsroom)),
+        "editor_signals": dict(Counter(source_key(card) for card in editor_signals)),
+    }
+    for stage, counts in source_pipeline.items():
+        print(f"[{timestamp()}] SOURCE_DISTRIBUTION stage={stage} total={sum(counts.values())} sources={counts}")
     accepted_total = len(all_cards)
-    failed_feed_count = sum(1 for stat in all_stats if not stat.accepted_count)
+    failed_feed_count = sum(1 for stat in all_stats if not stat.quality_count)
 
     headline = homepage_cards[0]["headline"]
     snapshot = (
@@ -441,6 +521,7 @@ def build_report() -> dict:
             "checked_feeds": len(all_stats),
             "feeds_without_accepted_items": failed_feed_count,
         },
+        "source_pipeline": source_pipeline,
         "feed_audit": [
             {
                 "category": stat.category,
@@ -458,8 +539,8 @@ def build_report() -> dict:
         "sections_map": sections_map,
         "sections": [sections_map[key] for key in section_order],
         "homepage_cards": homepage_cards,
-        "live_newsroom": homepage_cards[:12],
-        "editor_signals": homepage_cards[12:24] or homepage_cards[:12],
+        "live_newsroom": live_newsroom,
+        "editor_signals": editor_signals,
     }
 
 
