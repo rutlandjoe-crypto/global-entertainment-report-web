@@ -3,11 +3,11 @@
   "site": "Global Entertainment Report",
   "site_name": "Global Entertainment Report",
   "vertical": "Entertainment",
-  "headline": "Sony Pictures Mulls Deal for Hollywood's Cinerama Dome, With Alamo Drafthouse Possibly Operating",
+  "headline": "Mike Preston, 'Mad Max 2: The Road Warrior' and 'Hot Pursuit' Actor, Dies at 93",
   "snapshot": "Global Entertainment Report accepted 48 real RSS item(s) across 31 checked feed request(s).",
-  "generated_at": "2026-07-21 06:57:55 PM ET",
-  "updated_at": "2026-07-21 06:57:55 PM ET",
-  "published_at": "2026-07-21 06:57:55 PM ET",
+  "generated_at": "2026-07-21 07:59:40 PM ET",
+  "updated_at": "2026-07-21 07:59:40 PM ET",
+  "published_at": "2026-07-21 07:59:40 PM ET",
   "source_mode": "live RSS ingestion",
   "freshness": {
     "max_item_age_hours": 336,
@@ -65,8 +65,10 @@
       "final_url": "https://variety.com/v/tv/feed/",
       "item_count": 10,
       "accepted_count": 2,
-      "rejected_count": 0,
-      "rejection_reasons": {}
+      "rejected_count": 1,
+      "rejection_reasons": {
+        "duplicate-story": 1
+      }
     },
     {
       "category": "tv",
@@ -197,9 +199,9 @@
       "final_url": "https://news.google.com/rss/search?q=entertainment+awards+oscars+emmys+grammys&hl=en-US&gl=US&ceid=US:en",
       "item_count": 73,
       "accepted_count": 2,
-      "rejected_count": 68,
+      "rejected_count": 69,
       "rejection_reasons": {
-        "stale-over-336h": 68
+        "stale-over-336h": 69
       }
     },
     {
@@ -253,11 +255,11 @@
       "url": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
-      "item_count": 98,
+      "item_count": 96,
       "accepted_count": 2,
-      "rejected_count": 92,
+      "rejected_count": 90,
       "rejection_reasons": {
-        "stale-over-336h": 92
+        "stale-over-336h": 90
       }
     },
     {
@@ -279,9 +281,9 @@
       "final_url": "https://deadline.com/feed/",
       "item_count": 12,
       "accepted_count": 2,
-      "rejected_count": 9,
+      "rejected_count": 8,
       "rejection_reasons": {
-        "duplicate-story": 9
+        "duplicate-story": 8
       }
     },
     {
@@ -291,9 +293,9 @@
       "final_url": "https://www.hollywoodreporter.com/feed/",
       "item_count": 10,
       "accepted_count": 2,
-      "rejected_count": 6,
+      "rejected_count": 4,
       "rejection_reasons": {
-        "duplicate-story": 6
+        "duplicate-story": 4
       }
     },
     {
@@ -303,9 +305,9 @@
       "final_url": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 96,
+      "rejected_count": 95,
       "rejection_reasons": {
-        "stale-over-336h": 96
+        "stale-over-336h": 95
       }
     },
     {
@@ -349,9 +351,9 @@
       "final_url": "https://deadline.com/v/business/feed/",
       "item_count": 12,
       "accepted_count": 2,
-      "rejected_count": 1,
+      "rejected_count": 2,
       "rejection_reasons": {
-        "duplicate-story": 1
+        "duplicate-story": 2
       }
     },
     {
@@ -371,33 +373,33 @@
   "substack_url": "https://globalentertainmentreport.substack.com/",
   "x_handle": "@GlobalSportsRp",
   "key_storylines": [
-    "Sony Pictures Mulls Deal for Hollywood's Cinerama Dome, With Alamo Drafthouse Possibly Operating",
+    "Mike Preston, 'Mad Max 2: The Road Warrior' and 'Hot Pursuit' Actor, Dies at 93",
     "'La La Land's 10th Anniversary Poster Fixes Ryan Gosling's Hand That Haunted Him",
     "'Godzilla vs. Kong' Stars Rebecca Hall and Millie Bobby Brown Pay Tribute to Kaylee Hottle: \"You Will Be Deeply Missed\"",
     "Your guide to 2026 movie release dates - Entertainment Weekly",
-    "Lizzo Is 'That Grrrl' In 'Sports Illustrated' Swimsuit Cover Debut: 'My Newest Fantasy Is Feeling Good in My Body & Enjoying My Life'",
+    "Watch 5 Seconds of Summer Choose to Eat 'Death Wings' Rather Than Rank Each Other's Solo Albums",
     "Magic: The Gathering's Most Valuable Cards of 2026 So Far",
-    "'Avengers: Doomsday' Trailer Hits 503 Million Views in One Day, Second Biggest Launch in History After 'Spider-Man: Brand New Day' (EXCLUSIVE)",
+    "Indie LGBTQ Dramedy 'Actual Nobodies' Acquired by Scatena & Rosner Films, Sets Early 2027 Release (EXCLUSIVE)",
     "Woody Harrelson To Produce Documentary On Legendary Austin Music Venue Armadillo World Headquarters"
   ],
   "live_newsroom": [
     {
-      "id": "film-0-5551408896422570204",
-      "key": "film-0-5551408896422570204",
+      "id": "film-0-7788759913243350383",
+      "key": "film-0-7788759913243350383",
       "category": "Film",
       "label": "Film",
-      "headline": "Sony Pictures Mulls Deal for Hollywood's Cinerama Dome, With Alamo Drafthouse Possibly Operating",
-      "title": "Sony Pictures Mulls Deal for Hollywood's Cinerama Dome, With Alamo Drafthouse Possibly Operating",
-      "snapshot": "Sony Pictures is in early talks to lease and operate the legendary Cinerama Dome theater in Hollywood, Variety has confirmed. Sony has been actively moving into the exhibition business in the past few years, acquiring the Alamo Drafthouse chain in 2024 for its Sony Pictures Experiences arm and investing in Cosm shar...",
-      "summary": "Sony Pictures is in early talks to lease and operate the legendary Cinerama Dome theater in Hollywood, Variety has confirmed. Sony has been actively moving into the exhibition business in the past few years, acquiring the Alamo Drafthouse chain in 2024 for its Sony Pictures Experiences arm and investing in Cosm shar...",
-      "url": "https://variety.com/2026/film/news/sony-early-talks-cinerama-dome-reopening-1236407617/",
+      "headline": "Mike Preston, 'Mad Max 2: The Road Warrior' and 'Hot Pursuit' Actor, Dies at 93",
+      "title": "Mike Preston, 'Mad Max 2: The Road Warrior' and 'Hot Pursuit' Actor, Dies at 93",
+      "snapshot": "Mike Preston, known for playing settler leader Pappagallo in \"Mad Max 2: The Road Warrior\" and Detective Bob Delaney in the Australian series \"Homicide,\" died June 8 in Florida. He was 93. Preston's death was confirmed to Variety by his wife, Josie Preston. Preston, who was born Jack Davis, was an early U.K. chart-t...",
+      "summary": "Mike Preston, known for playing settler leader Pappagallo in \"Mad Max 2: The Road Warrior\" and Detective Bob Delaney in the Australian series \"Homicide,\" died June 8 in Florida. He was 93. Preston's death was confirmed to Variety by his wife, Josie Preston. Preston, who was born Jack Davis, was an early U.K. chart-t...",
+      "url": "https://variety.com/2026/film/news/mike-preston-dead-mad-max-2-the-road-warrior-1236817624/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-07-21 06:39:03 PM ET",
+      "published_at": "2026-07-21 07:47:40 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Sony Pictures Mulls Deal for Hollywood's Cinerama Dome, With Alamo Drafthouse Possibly Operating"
+        "Mike Preston, 'Mad Max 2: The Road Warrior' and 'Hot Pursuit' Actor, Dies at 93"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -409,8 +411,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-3417763053390302851",
-      "key": "film-10-3417763053390302851",
+      "id": "film-10-5127550433373473287",
+      "key": "film-10-5127550433373473287",
       "category": "Film",
       "label": "Film",
       "headline": "'La La Land's 10th Anniversary Poster Fixes Ryan Gosling's Hand That Haunted Him",
@@ -436,8 +438,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-1147612157284508086",
-      "key": "film-22-1147612157284508086",
+      "id": "film-22-7337186759107991965",
+      "key": "film-22-7337186759107991965",
       "category": "Film",
       "label": "Film",
       "headline": "'Godzilla vs. Kong' Stars Rebecca Hall and Millie Bobby Brown Pay Tribute to Kaylee Hottle: \"You Will Be Deeply Missed\"",
@@ -463,8 +465,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-4604667283438219705",
-      "key": "film-32-4604667283438219705",
+      "id": "film-32-1093136224824212371",
+      "key": "film-32-1093136224824212371",
       "category": "Film",
       "label": "Film",
       "headline": "Your guide to 2026 movie release dates - Entertainment Weekly",
@@ -490,22 +492,22 @@
       "priority_score": 68
     },
     {
-      "id": "music-9-2167487642872423364",
-      "key": "music-9-2167487642872423364",
+      "id": "music-9-1705395630165212124",
+      "key": "music-9-1705395630165212124",
       "category": "Music",
       "label": "Music",
-      "headline": "Lizzo Is 'That Grrrl' In 'Sports Illustrated' Swimsuit Cover Debut: 'My Newest Fantasy Is Feeling Good in My Body & Enjoying My Life'",
-      "title": "Lizzo Is 'That Grrrl' In 'Sports Illustrated' Swimsuit Cover Debut: 'My Newest Fantasy Is Feeling Good in My Body & Enjoying My Life'",
-      "snapshot": "The Grammy winner also gave an update on her forthcoming Sister Rosetta Tharpe biopic.",
-      "summary": "The Grammy winner also gave an update on her forthcoming Sister Rosetta Tharpe biopic.",
-      "url": "https://www.billboard.com/music/music-news/lizzo-sports-illustrated-swimsuit-cover-debut-photos-1236300238/",
+      "headline": "Watch 5 Seconds of Summer Choose to Eat 'Death Wings' Rather Than Rank Each Other's Solo Albums",
+      "title": "Watch 5 Seconds of Summer Choose to Eat 'Death Wings' Rather Than Rank Each Other's Solo Albums",
+      "snapshot": "The Australian band trade loyalty for ultimate bragging rights on Hot Ones Versus while eating scorching wings & asking brutally honest questions.",
+      "summary": "The Australian band trade loyalty for ultimate bragging rights on Hot Ones Versus while eating scorching wings & asking brutally honest questions.",
+      "url": "https://www.billboard.com/music/pop/5-seconds-of-summer-hot-ones-versus-video-1236300262/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-07-21 06:43:11 PM ET",
+      "published_at": "2026-07-21 07:53:54 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Lizzo Is 'That Grrrl' In 'Sports Illustrated' Swimsuit Cover Debut: 'My Newest Fantasy Is Feeling Good in My Body & Enjoying My Life'"
+        "Watch 5 Seconds of Summer Choose to Eat 'Death Wings' Rather Than Rank Each Other's Solo Albums"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -517,8 +519,8 @@
       "priority_score": 91
     },
     {
-      "id": "gaming-0-6399593691349162147",
-      "key": "gaming-0-6399593691349162147",
+      "id": "gaming-0-2390155771015539702",
+      "key": "gaming-0-2390155771015539702",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Magic: The Gathering's Most Valuable Cards of 2026 So Far",
@@ -544,22 +546,22 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-1069198397620818496",
-      "key": "film-1-1069198397620818496",
+      "id": "film-1-7140693036621358134",
+      "key": "film-1-7140693036621358134",
       "category": "Film",
       "label": "Film",
-      "headline": "'Avengers: Doomsday' Trailer Hits 503 Million Views in One Day, Second Biggest Launch in History After 'Spider-Man: Brand New Day' (EXCLUSIVE)",
-      "title": "'Avengers: Doomsday' Trailer Hits 503 Million Views in One Day, Second Biggest Launch in History After 'Spider-Man: Brand New Day' (EXCLUSIVE)",
-      "snapshot": "A whole lotta people were curious about the whereabouts of the Avengers. The first trailer for \"Avengers: Doomsday\" has been viewed a staggering 503 million times over 24 hours. That ranks as the second-biggest movie trailer launch of all time, behind Sony's upcoming Marvel adventure \"Spider-Man: Brand New Day\" with...",
-      "summary": "A whole lotta people were curious about the whereabouts of the Avengers. The first trailer for \"Avengers: Doomsday\" has been viewed a staggering 503 million times over 24 hours. That ranks as the second-biggest movie trailer launch of all time, behind Sony's upcoming Marvel adventure \"Spider-Man: Brand New Day\" with...",
-      "url": "https://variety.com/2026/film/news/avengers-doomsday-trailer-views-disney-record-1236817568/",
+      "headline": "Indie LGBTQ Dramedy 'Actual Nobodies' Acquired by Scatena & Rosner Films, Sets Early 2027 Release (EXCLUSIVE)",
+      "title": "Indie LGBTQ Dramedy 'Actual Nobodies' Acquired by Scatena & Rosner Films, Sets Early 2027 Release (EXCLUSIVE)",
+      "snapshot": "Scatena & Rosner Films has acquired distribution rights for North America, Australia and New Zealand for the LGBTQ indie dramedy \"Actual Nobodies,\" written and directed by Alex Wyse. S&R picked the film up at this year's Cannes Market. Germany's Media Luna New Films has secured rights for all remaining territories....",
+      "summary": "Scatena & Rosner Films has acquired distribution rights for North America, Australia and New Zealand for the LGBTQ indie dramedy \"Actual Nobodies,\" written and directed by Alex Wyse. S&R picked the film up at this year's Cannes Market. Germany's Media Luna New Films has secured rights for all remaining territories....",
+      "url": "https://variety.com/2026/film/columns/lgbtq-dramedy-actual-nobodies-scatena-rosner-films-sets-release-1236817706/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-07-21 06:00:00 PM ET",
+      "published_at": "2026-07-21 07:28:24 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Avengers: Doomsday' Trailer Hits 503 Million Views in One Day, Second Biggest Launch in History After 'Spider-Man: Brand New Day' (EXCLUSIVE)"
+        "Indie LGBTQ Dramedy 'Actual Nobodies' Acquired by Scatena & Rosner Films, Sets Early 2027 Release (EXCLUSIVE)"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -571,8 +573,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-7329089289542781397",
-      "key": "film-11-7329089289542781397",
+      "id": "film-11-8808002512695333521",
+      "key": "film-11-8808002512695333521",
       "category": "Film",
       "label": "Film",
       "headline": "Woody Harrelson To Produce Documentary On Legendary Austin Music Venue Armadillo World Headquarters",
@@ -598,8 +600,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-4686240480518867343",
-      "key": "film-23-4686240480518867343",
+      "id": "film-23-1548098871329734614",
+      "key": "film-23-1548098871329734614",
       "category": "Film",
       "label": "Film",
       "headline": "Sony Eyes Revival of Cinerama Dome and ArcLight Hollywood",
@@ -625,8 +627,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-7092930788481388189",
-      "key": "film-33-7092930788481388189",
+      "id": "film-33-1937615764062176783",
+      "key": "film-33-1937615764062176783",
       "category": "Film",
       "label": "Film",
       "headline": "Young people grew up in the digital age. So why do they love movies on film? - CBC",
@@ -652,22 +654,22 @@
       "priority_score": 67
     },
     {
-      "id": "music-10-3290493638182997887",
-      "key": "music-10-3290493638182997887",
+      "id": "music-10-4801476856942997731",
+      "key": "music-10-4801476856942997731",
       "category": "Music",
       "label": "Music",
-      "headline": "'Twilight' Saga Sparkles Again With Alex and Ani's New Vampire-Inspired Jewelry Line",
-      "title": "'Twilight' Saga Sparkles Again With Alex and Ani's New Vampire-Inspired Jewelry Line",
-      "snapshot": "Team Edward, Team Jacob or simply Team Twilight ? Fans can relive the vampire romance that defined a generation with Alex and Ani's new jewelry line.",
-      "summary": "Team Edward, Team Jacob or simply Team Twilight ? Fans can relive the vampire romance that defined a generation with Alex and Ani's new jewelry line.",
-      "url": "https://www.billboard.com/culture/product-recommendations/twilight-alex-and-ani-jewelry-collection-buy-shop-online-1236299854/",
+      "headline": "Doja Cat & Latto Team Up for Sexy 2000s-Themed 'Okayyy' Video, Atlanta Rapper to Join Doja's Ma Vie World Tour",
+      "title": "Doja Cat & Latto Team Up for Sexy 2000s-Themed 'Okayyy' Video, Atlanta Rapper to Join Doja's Ma Vie World Tour",
+      "snapshot": "The North American leg of Doja's trek kicks off Oct. 1 in Detroit.",
+      "summary": "The North American leg of Doja's trek kicks off Oct. 1 in Detroit.",
+      "url": "https://www.billboard.com/music/rb-hip-hop/doja-cat-latto-okayyy-video-tour-ma-vie-1236300237/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-07-21 06:33:15 PM ET",
+      "published_at": "2026-07-21 07:37:47 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Twilight' Saga Sparkles Again With Alex and Ani's New Vampire-Inspired Jewelry Line"
+        "Doja Cat & Latto Team Up for Sexy 2000s-Themed 'Okayyy' Video, Atlanta Rapper to Join Doja's Ma Vie World Tour"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -679,8 +681,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-1-1505862853043719561",
-      "key": "gaming-1-1505862853043719561",
+      "id": "gaming-1-1744745309414401561",
+      "key": "gaming-1-1744745309414401561",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "NARUTO Mythos TCG Is Coming to the U.S., See It First at San Diego Comic-Con",
@@ -708,22 +710,22 @@
   ],
   "editor_signals": [
     {
-      "id": "film-2-2606919958809575947",
-      "key": "film-2-2606919958809575947",
+      "id": "film-2-4635848171493404159",
+      "key": "film-2-4635848171493404159",
       "category": "Film",
       "label": "Film",
-      "headline": "Black Bear Hires Bianca Parkes and Heather Phillips to Lead Marketing, Publicity",
-      "title": "Black Bear Hires Bianca Parkes and Heather Phillips to Lead Marketing, Publicity",
-      "snapshot": "Black Bear, the independent studio behind Sydney Sweeney's boxing drama \"Christy,\" has hired Bianca Parkes and Heather Phillips to oversee marketing and publicity efforts. Their appointments were announced amid the production company's efforts to expand into U.S. theatrical distribution. They will report to company'...",
-      "summary": "Black Bear, the independent studio behind Sydney Sweeney's boxing drama \"Christy,\" has hired Bianca Parkes and Heather Phillips to oversee marketing and publicity efforts. Their appointments were announced amid the production company's efforts to expand into U.S. theatrical distribution. They will report to company'...",
-      "url": "https://variety.com/2026/film/news/black-bear-marking-publicity-bianca-parkes-heather-phillips-1236817378/",
+      "headline": "'The Odyssey' Anoints Christopher Nolan as Hollywood's Most Powerful Director - Here's How Universal Thwarted Warner Bros. to Land Him",
+      "title": "'The Odyssey' Anoints Christopher Nolan as Hollywood's Most Powerful Director - Here's How Universal Thwarted Warner Bros. to Land Him",
+      "snapshot": "Greek mythology is riddled with humans who become immortal, many as punishment for tangling with the gods. But not Christopher Nolan, the toast of the mortal world's Mount Olympus - Hollywood. The opening-weekend success of his Imax epic \"The Odyssey\" cements Nolan as his own kind of myth: a bankable auteur who can...",
+      "summary": "Greek mythology is riddled with humans who become immortal, many as punishment for tangling with the gods. But not Christopher Nolan, the toast of the mortal world's Mount Olympus - Hollywood. The opening-weekend success of his Imax epic \"The Odyssey\" cements Nolan as his own kind of myth: a bankable auteur who can...",
+      "url": "https://variety.com/2026/film/news/christopher-nolan-odyssey-success-donna-langley-universal-1236817681/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-07-21 05:30:00 PM ET",
+      "published_at": "2026-07-21 07:08:22 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Black Bear Hires Bianca Parkes and Heather Phillips to Lead Marketing, Publicity"
+        "'The Odyssey' Anoints Christopher Nolan as Hollywood's Most Powerful Director - Here's How Universal Thwarted Warner Bros. to Land Him"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -735,8 +737,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-8708988029493551451",
-      "key": "film-12-8708988029493551451",
+      "id": "film-12-5543406614461317678",
+      "key": "film-12-5543406614461317678",
       "category": "Film",
       "label": "Film",
       "headline": "Doc Talk Podcast Celebrates Kartemquin Films' 60th Anniversary With Co-Founder Gordon Quinn And Author Patricia Aufderheide",
@@ -762,8 +764,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-2809973460014768399",
-      "key": "film-24-2809973460014768399",
+      "id": "film-24-1076979074003941046",
+      "key": "film-24-1076979074003941046",
       "category": "Film",
       "label": "Film",
       "headline": "Snoop Dogg Biopic Lands Summer 2027 Release From Universal",
@@ -789,8 +791,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-2393200960315383028",
-      "key": "film-34-2393200960315383028",
+      "id": "film-34-4275199124031423349",
+      "key": "film-34-4275199124031423349",
       "category": "Film",
       "label": "Film",
       "headline": "Sundance 2026 Movies Sold: Doc 'Hanging by a Wire' About Himalayan Cable Car Rescue Snagged by Abramorama - IndieWire",
@@ -816,22 +818,22 @@
       "priority_score": 66
     },
     {
-      "id": "music-11-9120730382896177257",
-      "key": "music-11-9120730382896177257",
+      "id": "music-11-9112441981172651217",
+      "key": "music-11-9112441981172651217",
       "category": "Music",
       "label": "Music",
-      "headline": "Grateful Dead Partners With Vineyard Vines for New Menswear Collection: Here's How to Shop Online",
-      "title": "Grateful Dead Partners With Vineyard Vines for New Menswear Collection: Here's How to Shop Online",
-      "snapshot": "The limited-edition line features Grateful Dead quarter-zips, hats, vests, T-shirts, drink coozies & other items - with prices starting at $9.50.",
-      "summary": "The limited-edition line features Grateful Dead quarter-zips, hats, vests, T-shirts, drink coozies & other items - with prices starting at $9.50.",
-      "url": "https://www.billboard.com/culture/product-recommendations/grateful-dead-vineyard-vines-collection-shop-buy-online-1236299735/",
+      "headline": "Lizzo Is 'That Grrrl' In 'Sports Illustrated' Swimsuit Cover Debut: 'My Newest Fantasy Is Feeling Good in My Body & Enjoying My Life'",
+      "title": "Lizzo Is 'That Grrrl' In 'Sports Illustrated' Swimsuit Cover Debut: 'My Newest Fantasy Is Feeling Good in My Body & Enjoying My Life'",
+      "snapshot": "The Grammy winner also gave an update on her forthcoming Sister Rosetta Tharpe biopic.",
+      "summary": "The Grammy winner also gave an update on her forthcoming Sister Rosetta Tharpe biopic.",
+      "url": "https://www.billboard.com/music/music-news/lizzo-sports-illustrated-swimsuit-cover-debut-photos-1236300238/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-07-21 06:06:56 PM ET",
+      "published_at": "2026-07-21 06:43:11 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Grateful Dead Partners With Vineyard Vines for New Menswear Collection: Here's How to Shop Online"
+        "Lizzo Is 'That Grrrl' In 'Sports Illustrated' Swimsuit Cover Debut: 'My Newest Fantasy Is Feeling Good in My Body & Enjoying My Life'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -843,8 +845,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-2-4819485598574506557",
-      "key": "gaming-2-4819485598574506557",
+      "id": "gaming-2-8743359342293999301",
+      "key": "gaming-2-8743359342293999301",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Metal Gear Solid Creator Hideo Kojima Quips That He Wants to Die in a Movie Theater, Just as the Film Itself Is About to Start",
@@ -870,22 +872,22 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-6496826916299682190",
-      "key": "film-3-6496826916299682190",
+      "id": "film-3-8687462922519606287",
+      "key": "film-3-8687462922519606287",
       "category": "Film",
       "label": "Film",
-      "headline": "Snoop Dogg Biopic Sets Summer 2027 Release Date",
-      "title": "Snoop Dogg Biopic Sets Summer 2027 Release Date",
-      "snapshot": "\"Snoop,\" an R-rated movie about the life of Snoop Dogg, is hitting theaters next summer. Universal Pictures slated the film for release on Aug. 6, 2027. It's currently set to open alongside Disney's \"The Bluey Movie\" and Black Bear's \"Jason Statham Stole My Bike.\" \"Outer Banks\" star Jonathan Daviss is playing the ti...",
-      "summary": "\"Snoop,\" an R-rated movie about the life of Snoop Dogg, is hitting theaters next summer. Universal Pictures slated the film for release on Aug. 6, 2027. It's currently set to open alongside Disney's \"The Bluey Movie\" and Black Bear's \"Jason Statham Stole My Bike.\" \"Outer Banks\" star Jonathan Daviss is playing the ti...",
-      "url": "https://variety.com/2026/film/news/snoop-dogg-movie-biopic-release-date-1236817610/",
+      "headline": "Sony Pictures Mulls Deal for Hollywood's Cinerama Dome, With Alamo Drafthouse Possibly Operating",
+      "title": "Sony Pictures Mulls Deal for Hollywood's Cinerama Dome, With Alamo Drafthouse Possibly Operating",
+      "snapshot": "Sony Pictures is in early talks to lease and operate the legendary Cinerama Dome theater in Hollywood, Variety has confirmed. Sony has been actively moving into the exhibition business in the past few years, acquiring the Alamo Drafthouse chain in 2024 for its Sony Pictures Experiences arm and investing in Cosm shar...",
+      "summary": "Sony Pictures is in early talks to lease and operate the legendary Cinerama Dome theater in Hollywood, Variety has confirmed. Sony has been actively moving into the exhibition business in the past few years, acquiring the Alamo Drafthouse chain in 2024 for its Sony Pictures Experiences arm and investing in Cosm shar...",
+      "url": "https://variety.com/2026/film/news/sony-early-talks-cinerama-dome-reopening-1236407617/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-07-21 05:30:00 PM ET",
+      "published_at": "2026-07-21 06:39:03 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Snoop Dogg Biopic Sets Summer 2027 Release Date"
+        "Sony Pictures Mulls Deal for Hollywood's Cinerama Dome, With Alamo Drafthouse Possibly Operating"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -897,8 +899,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-4884425206978020369",
-      "key": "film-13-4884425206978020369",
+      "id": "film-13-2080368857767536659",
+      "key": "film-13-2080368857767536659",
       "category": "Film",
       "label": "Film",
       "headline": "Black Bear Hires Bianca Parkes As Head Of Marketing, Heather Phillips As Head Of Publicity",
@@ -924,8 +926,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-4101162912284525919",
-      "key": "film-25-4101162912284525919",
+      "id": "film-25-8104422015202525391",
+      "key": "film-25-8104422015202525391",
       "category": "Film",
       "label": "Film",
       "headline": "'Other Mommy' Trailer: Jessica Chastain Returns to Horror as a Body-Twisting Doppelganger",
@@ -951,8 +953,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-6414638346043982297",
-      "key": "film-35-6414638346043982297",
+      "id": "film-35-1277713758887499487",
+      "key": "film-35-1277713758887499487",
       "category": "Film",
       "label": "Film",
       "headline": "New movies: the most exciting films coming to theaters in July 2026 and beyond - TechRadar",
@@ -978,22 +980,22 @@
       "priority_score": 65
     },
     {
-      "id": "music-12-4933945910127257519",
-      "key": "music-12-4933945910127257519",
+      "id": "music-12-3359850272105847321",
+      "key": "music-12-3359850272105847321",
       "category": "Music",
       "label": "Music",
-      "headline": "Ben Folds Slams Trump's Kennedy Center Takeover Before Congress: 'When You Politicize Art, You've Got Propaganda'",
-      "title": "Ben Folds Slams Trump's Kennedy Center Takeover Before Congress: 'When You Politicize Art, You've Got Propaganda'",
-      "snapshot": "The musician resigned from his post as National Symphony Orchestra artistic advisor after the president overhauled its board in 2025.",
-      "summary": "The musician resigned from his post as National Symphony Orchestra artistic advisor after the president overhauled its board in 2025.",
-      "url": "https://www.billboard.com/music/music-news/ben-folds-testifies-against-trump-kennedy-center-congress-1236300068/",
+      "headline": "'Twilight' Saga Sparkles Again With Alex and Ani's New Vampire-Inspired Jewelry Line",
+      "title": "'Twilight' Saga Sparkles Again With Alex and Ani's New Vampire-Inspired Jewelry Line",
+      "snapshot": "Team Edward, Team Jacob or simply Team Twilight ? Fans can relive the vampire romance that defined a generation with Alex and Ani's new jewelry line.",
+      "summary": "Team Edward, Team Jacob or simply Team Twilight ? Fans can relive the vampire romance that defined a generation with Alex and Ani's new jewelry line.",
+      "url": "https://www.billboard.com/culture/product-recommendations/twilight-alex-and-ani-jewelry-collection-buy-shop-online-1236299854/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-07-21 06:01:53 PM ET",
+      "published_at": "2026-07-21 06:33:15 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Ben Folds Slams Trump's Kennedy Center Takeover Before Congress: 'When You Politicize Art, You've Got Propaganda'"
+        "'Twilight' Saga Sparkles Again With Alex and Ani's New Vampire-Inspired Jewelry Line"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1005,8 +1007,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-3-731344872750258984",
-      "key": "gaming-3-731344872750258984",
+      "id": "gaming-3-946733843103085910",
+      "key": "gaming-3-946733843103085910",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Lara Croft's Acrobatics Were So Important to Tomb Raider: Legacy of Atlantis That Actress Alix Wilton Regan Started Rock-Climbing to Get Into Character",
@@ -1034,22 +1036,22 @@
   ],
   "homepage_cards": [
     {
-      "id": "film-0-5551408896422570204",
-      "key": "film-0-5551408896422570204",
+      "id": "film-0-7788759913243350383",
+      "key": "film-0-7788759913243350383",
       "category": "Film",
       "label": "Film",
-      "headline": "Sony Pictures Mulls Deal for Hollywood's Cinerama Dome, With Alamo Drafthouse Possibly Operating",
-      "title": "Sony Pictures Mulls Deal for Hollywood's Cinerama Dome, With Alamo Drafthouse Possibly Operating",
-      "snapshot": "Sony Pictures is in early talks to lease and operate the legendary Cinerama Dome theater in Hollywood, Variety has confirmed. Sony has been actively moving into the exhibition business in the past few years, acquiring the Alamo Drafthouse chain in 2024 for its Sony Pictures Experiences arm and investing in Cosm shar...",
-      "summary": "Sony Pictures is in early talks to lease and operate the legendary Cinerama Dome theater in Hollywood, Variety has confirmed. Sony has been actively moving into the exhibition business in the past few years, acquiring the Alamo Drafthouse chain in 2024 for its Sony Pictures Experiences arm and investing in Cosm shar...",
-      "url": "https://variety.com/2026/film/news/sony-early-talks-cinerama-dome-reopening-1236407617/",
+      "headline": "Mike Preston, 'Mad Max 2: The Road Warrior' and 'Hot Pursuit' Actor, Dies at 93",
+      "title": "Mike Preston, 'Mad Max 2: The Road Warrior' and 'Hot Pursuit' Actor, Dies at 93",
+      "snapshot": "Mike Preston, known for playing settler leader Pappagallo in \"Mad Max 2: The Road Warrior\" and Detective Bob Delaney in the Australian series \"Homicide,\" died June 8 in Florida. He was 93. Preston's death was confirmed to Variety by his wife, Josie Preston. Preston, who was born Jack Davis, was an early U.K. chart-t...",
+      "summary": "Mike Preston, known for playing settler leader Pappagallo in \"Mad Max 2: The Road Warrior\" and Detective Bob Delaney in the Australian series \"Homicide,\" died June 8 in Florida. He was 93. Preston's death was confirmed to Variety by his wife, Josie Preston. Preston, who was born Jack Davis, was an early U.K. chart-t...",
+      "url": "https://variety.com/2026/film/news/mike-preston-dead-mad-max-2-the-road-warrior-1236817624/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-07-21 06:39:03 PM ET",
+      "published_at": "2026-07-21 07:47:40 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Sony Pictures Mulls Deal for Hollywood's Cinerama Dome, With Alamo Drafthouse Possibly Operating"
+        "Mike Preston, 'Mad Max 2: The Road Warrior' and 'Hot Pursuit' Actor, Dies at 93"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1061,8 +1063,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-3417763053390302851",
-      "key": "film-10-3417763053390302851",
+      "id": "film-10-5127550433373473287",
+      "key": "film-10-5127550433373473287",
       "category": "Film",
       "label": "Film",
       "headline": "'La La Land's 10th Anniversary Poster Fixes Ryan Gosling's Hand That Haunted Him",
@@ -1088,8 +1090,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-1147612157284508086",
-      "key": "film-22-1147612157284508086",
+      "id": "film-22-7337186759107991965",
+      "key": "film-22-7337186759107991965",
       "category": "Film",
       "label": "Film",
       "headline": "'Godzilla vs. Kong' Stars Rebecca Hall and Millie Bobby Brown Pay Tribute to Kaylee Hottle: \"You Will Be Deeply Missed\"",
@@ -1115,8 +1117,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-4604667283438219705",
-      "key": "film-32-4604667283438219705",
+      "id": "film-32-1093136224824212371",
+      "key": "film-32-1093136224824212371",
       "category": "Film",
       "label": "Film",
       "headline": "Your guide to 2026 movie release dates - Entertainment Weekly",
@@ -1142,22 +1144,22 @@
       "priority_score": 68
     },
     {
-      "id": "music-9-2167487642872423364",
-      "key": "music-9-2167487642872423364",
+      "id": "music-9-1705395630165212124",
+      "key": "music-9-1705395630165212124",
       "category": "Music",
       "label": "Music",
-      "headline": "Lizzo Is 'That Grrrl' In 'Sports Illustrated' Swimsuit Cover Debut: 'My Newest Fantasy Is Feeling Good in My Body & Enjoying My Life'",
-      "title": "Lizzo Is 'That Grrrl' In 'Sports Illustrated' Swimsuit Cover Debut: 'My Newest Fantasy Is Feeling Good in My Body & Enjoying My Life'",
-      "snapshot": "The Grammy winner also gave an update on her forthcoming Sister Rosetta Tharpe biopic.",
-      "summary": "The Grammy winner also gave an update on her forthcoming Sister Rosetta Tharpe biopic.",
-      "url": "https://www.billboard.com/music/music-news/lizzo-sports-illustrated-swimsuit-cover-debut-photos-1236300238/",
+      "headline": "Watch 5 Seconds of Summer Choose to Eat 'Death Wings' Rather Than Rank Each Other's Solo Albums",
+      "title": "Watch 5 Seconds of Summer Choose to Eat 'Death Wings' Rather Than Rank Each Other's Solo Albums",
+      "snapshot": "The Australian band trade loyalty for ultimate bragging rights on Hot Ones Versus while eating scorching wings & asking brutally honest questions.",
+      "summary": "The Australian band trade loyalty for ultimate bragging rights on Hot Ones Versus while eating scorching wings & asking brutally honest questions.",
+      "url": "https://www.billboard.com/music/pop/5-seconds-of-summer-hot-ones-versus-video-1236300262/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-07-21 06:43:11 PM ET",
+      "published_at": "2026-07-21 07:53:54 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Lizzo Is 'That Grrrl' In 'Sports Illustrated' Swimsuit Cover Debut: 'My Newest Fantasy Is Feeling Good in My Body & Enjoying My Life'"
+        "Watch 5 Seconds of Summer Choose to Eat 'Death Wings' Rather Than Rank Each Other's Solo Albums"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1169,8 +1171,8 @@
       "priority_score": 91
     },
     {
-      "id": "gaming-0-6399593691349162147",
-      "key": "gaming-0-6399593691349162147",
+      "id": "gaming-0-2390155771015539702",
+      "key": "gaming-0-2390155771015539702",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Magic: The Gathering's Most Valuable Cards of 2026 So Far",
@@ -1196,22 +1198,22 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-1069198397620818496",
-      "key": "film-1-1069198397620818496",
+      "id": "film-1-7140693036621358134",
+      "key": "film-1-7140693036621358134",
       "category": "Film",
       "label": "Film",
-      "headline": "'Avengers: Doomsday' Trailer Hits 503 Million Views in One Day, Second Biggest Launch in History After 'Spider-Man: Brand New Day' (EXCLUSIVE)",
-      "title": "'Avengers: Doomsday' Trailer Hits 503 Million Views in One Day, Second Biggest Launch in History After 'Spider-Man: Brand New Day' (EXCLUSIVE)",
-      "snapshot": "A whole lotta people were curious about the whereabouts of the Avengers. The first trailer for \"Avengers: Doomsday\" has been viewed a staggering 503 million times over 24 hours. That ranks as the second-biggest movie trailer launch of all time, behind Sony's upcoming Marvel adventure \"Spider-Man: Brand New Day\" with...",
-      "summary": "A whole lotta people were curious about the whereabouts of the Avengers. The first trailer for \"Avengers: Doomsday\" has been viewed a staggering 503 million times over 24 hours. That ranks as the second-biggest movie trailer launch of all time, behind Sony's upcoming Marvel adventure \"Spider-Man: Brand New Day\" with...",
-      "url": "https://variety.com/2026/film/news/avengers-doomsday-trailer-views-disney-record-1236817568/",
+      "headline": "Indie LGBTQ Dramedy 'Actual Nobodies' Acquired by Scatena & Rosner Films, Sets Early 2027 Release (EXCLUSIVE)",
+      "title": "Indie LGBTQ Dramedy 'Actual Nobodies' Acquired by Scatena & Rosner Films, Sets Early 2027 Release (EXCLUSIVE)",
+      "snapshot": "Scatena & Rosner Films has acquired distribution rights for North America, Australia and New Zealand for the LGBTQ indie dramedy \"Actual Nobodies,\" written and directed by Alex Wyse. S&R picked the film up at this year's Cannes Market. Germany's Media Luna New Films has secured rights for all remaining territories....",
+      "summary": "Scatena & Rosner Films has acquired distribution rights for North America, Australia and New Zealand for the LGBTQ indie dramedy \"Actual Nobodies,\" written and directed by Alex Wyse. S&R picked the film up at this year's Cannes Market. Germany's Media Luna New Films has secured rights for all remaining territories....",
+      "url": "https://variety.com/2026/film/columns/lgbtq-dramedy-actual-nobodies-scatena-rosner-films-sets-release-1236817706/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-07-21 06:00:00 PM ET",
+      "published_at": "2026-07-21 07:28:24 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Avengers: Doomsday' Trailer Hits 503 Million Views in One Day, Second Biggest Launch in History After 'Spider-Man: Brand New Day' (EXCLUSIVE)"
+        "Indie LGBTQ Dramedy 'Actual Nobodies' Acquired by Scatena & Rosner Films, Sets Early 2027 Release (EXCLUSIVE)"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1223,8 +1225,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-7329089289542781397",
-      "key": "film-11-7329089289542781397",
+      "id": "film-11-8808002512695333521",
+      "key": "film-11-8808002512695333521",
       "category": "Film",
       "label": "Film",
       "headline": "Woody Harrelson To Produce Documentary On Legendary Austin Music Venue Armadillo World Headquarters",
@@ -1250,8 +1252,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-4686240480518867343",
-      "key": "film-23-4686240480518867343",
+      "id": "film-23-1548098871329734614",
+      "key": "film-23-1548098871329734614",
       "category": "Film",
       "label": "Film",
       "headline": "Sony Eyes Revival of Cinerama Dome and ArcLight Hollywood",
@@ -1277,8 +1279,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-7092930788481388189",
-      "key": "film-33-7092930788481388189",
+      "id": "film-33-1937615764062176783",
+      "key": "film-33-1937615764062176783",
       "category": "Film",
       "label": "Film",
       "headline": "Young people grew up in the digital age. So why do they love movies on film? - CBC",
@@ -1304,22 +1306,22 @@
       "priority_score": 67
     },
     {
-      "id": "music-10-3290493638182997887",
-      "key": "music-10-3290493638182997887",
+      "id": "music-10-4801476856942997731",
+      "key": "music-10-4801476856942997731",
       "category": "Music",
       "label": "Music",
-      "headline": "'Twilight' Saga Sparkles Again With Alex and Ani's New Vampire-Inspired Jewelry Line",
-      "title": "'Twilight' Saga Sparkles Again With Alex and Ani's New Vampire-Inspired Jewelry Line",
-      "snapshot": "Team Edward, Team Jacob or simply Team Twilight ? Fans can relive the vampire romance that defined a generation with Alex and Ani's new jewelry line.",
-      "summary": "Team Edward, Team Jacob or simply Team Twilight ? Fans can relive the vampire romance that defined a generation with Alex and Ani's new jewelry line.",
-      "url": "https://www.billboard.com/culture/product-recommendations/twilight-alex-and-ani-jewelry-collection-buy-shop-online-1236299854/",
+      "headline": "Doja Cat & Latto Team Up for Sexy 2000s-Themed 'Okayyy' Video, Atlanta Rapper to Join Doja's Ma Vie World Tour",
+      "title": "Doja Cat & Latto Team Up for Sexy 2000s-Themed 'Okayyy' Video, Atlanta Rapper to Join Doja's Ma Vie World Tour",
+      "snapshot": "The North American leg of Doja's trek kicks off Oct. 1 in Detroit.",
+      "summary": "The North American leg of Doja's trek kicks off Oct. 1 in Detroit.",
+      "url": "https://www.billboard.com/music/rb-hip-hop/doja-cat-latto-okayyy-video-tour-ma-vie-1236300237/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-07-21 06:33:15 PM ET",
+      "published_at": "2026-07-21 07:37:47 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Twilight' Saga Sparkles Again With Alex and Ani's New Vampire-Inspired Jewelry Line"
+        "Doja Cat & Latto Team Up for Sexy 2000s-Themed 'Okayyy' Video, Atlanta Rapper to Join Doja's Ma Vie World Tour"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1331,8 +1333,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-1-1505862853043719561",
-      "key": "gaming-1-1505862853043719561",
+      "id": "gaming-1-1744745309414401561",
+      "key": "gaming-1-1744745309414401561",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "NARUTO Mythos TCG Is Coming to the U.S., See It First at San Diego Comic-Con",
@@ -1358,22 +1360,22 @@
       "priority_score": 99
     },
     {
-      "id": "film-2-2606919958809575947",
-      "key": "film-2-2606919958809575947",
+      "id": "film-2-4635848171493404159",
+      "key": "film-2-4635848171493404159",
       "category": "Film",
       "label": "Film",
-      "headline": "Black Bear Hires Bianca Parkes and Heather Phillips to Lead Marketing, Publicity",
-      "title": "Black Bear Hires Bianca Parkes and Heather Phillips to Lead Marketing, Publicity",
-      "snapshot": "Black Bear, the independent studio behind Sydney Sweeney's boxing drama \"Christy,\" has hired Bianca Parkes and Heather Phillips to oversee marketing and publicity efforts. Their appointments were announced amid the production company's efforts to expand into U.S. theatrical distribution. They will report to company'...",
-      "summary": "Black Bear, the independent studio behind Sydney Sweeney's boxing drama \"Christy,\" has hired Bianca Parkes and Heather Phillips to oversee marketing and publicity efforts. Their appointments were announced amid the production company's efforts to expand into U.S. theatrical distribution. They will report to company'...",
-      "url": "https://variety.com/2026/film/news/black-bear-marking-publicity-bianca-parkes-heather-phillips-1236817378/",
+      "headline": "'The Odyssey' Anoints Christopher Nolan as Hollywood's Most Powerful Director - Here's How Universal Thwarted Warner Bros. to Land Him",
+      "title": "'The Odyssey' Anoints Christopher Nolan as Hollywood's Most Powerful Director - Here's How Universal Thwarted Warner Bros. to Land Him",
+      "snapshot": "Greek mythology is riddled with humans who become immortal, many as punishment for tangling with the gods. But not Christopher Nolan, the toast of the mortal world's Mount Olympus - Hollywood. The opening-weekend success of his Imax epic \"The Odyssey\" cements Nolan as his own kind of myth: a bankable auteur who can...",
+      "summary": "Greek mythology is riddled with humans who become immortal, many as punishment for tangling with the gods. But not Christopher Nolan, the toast of the mortal world's Mount Olympus - Hollywood. The opening-weekend success of his Imax epic \"The Odyssey\" cements Nolan as his own kind of myth: a bankable auteur who can...",
+      "url": "https://variety.com/2026/film/news/christopher-nolan-odyssey-success-donna-langley-universal-1236817681/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-07-21 05:30:00 PM ET",
+      "published_at": "2026-07-21 07:08:22 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Black Bear Hires Bianca Parkes and Heather Phillips to Lead Marketing, Publicity"
+        "'The Odyssey' Anoints Christopher Nolan as Hollywood's Most Powerful Director - Here's How Universal Thwarted Warner Bros. to Land Him"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1385,8 +1387,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-8708988029493551451",
-      "key": "film-12-8708988029493551451",
+      "id": "film-12-5543406614461317678",
+      "key": "film-12-5543406614461317678",
       "category": "Film",
       "label": "Film",
       "headline": "Doc Talk Podcast Celebrates Kartemquin Films' 60th Anniversary With Co-Founder Gordon Quinn And Author Patricia Aufderheide",
@@ -1412,8 +1414,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-2809973460014768399",
-      "key": "film-24-2809973460014768399",
+      "id": "film-24-1076979074003941046",
+      "key": "film-24-1076979074003941046",
       "category": "Film",
       "label": "Film",
       "headline": "Snoop Dogg Biopic Lands Summer 2027 Release From Universal",
@@ -1439,8 +1441,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-2393200960315383028",
-      "key": "film-34-2393200960315383028",
+      "id": "film-34-4275199124031423349",
+      "key": "film-34-4275199124031423349",
       "category": "Film",
       "label": "Film",
       "headline": "Sundance 2026 Movies Sold: Doc 'Hanging by a Wire' About Himalayan Cable Car Rescue Snagged by Abramorama - IndieWire",
@@ -1466,22 +1468,22 @@
       "priority_score": 66
     },
     {
-      "id": "music-11-9120730382896177257",
-      "key": "music-11-9120730382896177257",
+      "id": "music-11-9112441981172651217",
+      "key": "music-11-9112441981172651217",
       "category": "Music",
       "label": "Music",
-      "headline": "Grateful Dead Partners With Vineyard Vines for New Menswear Collection: Here's How to Shop Online",
-      "title": "Grateful Dead Partners With Vineyard Vines for New Menswear Collection: Here's How to Shop Online",
-      "snapshot": "The limited-edition line features Grateful Dead quarter-zips, hats, vests, T-shirts, drink coozies & other items - with prices starting at $9.50.",
-      "summary": "The limited-edition line features Grateful Dead quarter-zips, hats, vests, T-shirts, drink coozies & other items - with prices starting at $9.50.",
-      "url": "https://www.billboard.com/culture/product-recommendations/grateful-dead-vineyard-vines-collection-shop-buy-online-1236299735/",
+      "headline": "Lizzo Is 'That Grrrl' In 'Sports Illustrated' Swimsuit Cover Debut: 'My Newest Fantasy Is Feeling Good in My Body & Enjoying My Life'",
+      "title": "Lizzo Is 'That Grrrl' In 'Sports Illustrated' Swimsuit Cover Debut: 'My Newest Fantasy Is Feeling Good in My Body & Enjoying My Life'",
+      "snapshot": "The Grammy winner also gave an update on her forthcoming Sister Rosetta Tharpe biopic.",
+      "summary": "The Grammy winner also gave an update on her forthcoming Sister Rosetta Tharpe biopic.",
+      "url": "https://www.billboard.com/music/music-news/lizzo-sports-illustrated-swimsuit-cover-debut-photos-1236300238/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-07-21 06:06:56 PM ET",
+      "published_at": "2026-07-21 06:43:11 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Grateful Dead Partners With Vineyard Vines for New Menswear Collection: Here's How to Shop Online"
+        "Lizzo Is 'That Grrrl' In 'Sports Illustrated' Swimsuit Cover Debut: 'My Newest Fantasy Is Feeling Good in My Body & Enjoying My Life'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1493,8 +1495,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-2-4819485598574506557",
-      "key": "gaming-2-4819485598574506557",
+      "id": "gaming-2-8743359342293999301",
+      "key": "gaming-2-8743359342293999301",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Metal Gear Solid Creator Hideo Kojima Quips That He Wants to Die in a Movie Theater, Just as the Film Itself Is About to Start",
@@ -1520,22 +1522,22 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-6496826916299682190",
-      "key": "film-3-6496826916299682190",
+      "id": "film-3-8687462922519606287",
+      "key": "film-3-8687462922519606287",
       "category": "Film",
       "label": "Film",
-      "headline": "Snoop Dogg Biopic Sets Summer 2027 Release Date",
-      "title": "Snoop Dogg Biopic Sets Summer 2027 Release Date",
-      "snapshot": "\"Snoop,\" an R-rated movie about the life of Snoop Dogg, is hitting theaters next summer. Universal Pictures slated the film for release on Aug. 6, 2027. It's currently set to open alongside Disney's \"The Bluey Movie\" and Black Bear's \"Jason Statham Stole My Bike.\" \"Outer Banks\" star Jonathan Daviss is playing the ti...",
-      "summary": "\"Snoop,\" an R-rated movie about the life of Snoop Dogg, is hitting theaters next summer. Universal Pictures slated the film for release on Aug. 6, 2027. It's currently set to open alongside Disney's \"The Bluey Movie\" and Black Bear's \"Jason Statham Stole My Bike.\" \"Outer Banks\" star Jonathan Daviss is playing the ti...",
-      "url": "https://variety.com/2026/film/news/snoop-dogg-movie-biopic-release-date-1236817610/",
+      "headline": "Sony Pictures Mulls Deal for Hollywood's Cinerama Dome, With Alamo Drafthouse Possibly Operating",
+      "title": "Sony Pictures Mulls Deal for Hollywood's Cinerama Dome, With Alamo Drafthouse Possibly Operating",
+      "snapshot": "Sony Pictures is in early talks to lease and operate the legendary Cinerama Dome theater in Hollywood, Variety has confirmed. Sony has been actively moving into the exhibition business in the past few years, acquiring the Alamo Drafthouse chain in 2024 for its Sony Pictures Experiences arm and investing in Cosm shar...",
+      "summary": "Sony Pictures is in early talks to lease and operate the legendary Cinerama Dome theater in Hollywood, Variety has confirmed. Sony has been actively moving into the exhibition business in the past few years, acquiring the Alamo Drafthouse chain in 2024 for its Sony Pictures Experiences arm and investing in Cosm shar...",
+      "url": "https://variety.com/2026/film/news/sony-early-talks-cinerama-dome-reopening-1236407617/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-07-21 05:30:00 PM ET",
+      "published_at": "2026-07-21 06:39:03 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Snoop Dogg Biopic Sets Summer 2027 Release Date"
+        "Sony Pictures Mulls Deal for Hollywood's Cinerama Dome, With Alamo Drafthouse Possibly Operating"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1547,8 +1549,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-4884425206978020369",
-      "key": "film-13-4884425206978020369",
+      "id": "film-13-2080368857767536659",
+      "key": "film-13-2080368857767536659",
       "category": "Film",
       "label": "Film",
       "headline": "Black Bear Hires Bianca Parkes As Head Of Marketing, Heather Phillips As Head Of Publicity",
@@ -1574,8 +1576,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-4101162912284525919",
-      "key": "film-25-4101162912284525919",
+      "id": "film-25-8104422015202525391",
+      "key": "film-25-8104422015202525391",
       "category": "Film",
       "label": "Film",
       "headline": "'Other Mommy' Trailer: Jessica Chastain Returns to Horror as a Body-Twisting Doppelganger",
@@ -1601,8 +1603,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-6414638346043982297",
-      "key": "film-35-6414638346043982297",
+      "id": "film-35-1277713758887499487",
+      "key": "film-35-1277713758887499487",
       "category": "Film",
       "label": "Film",
       "headline": "New movies: the most exciting films coming to theaters in July 2026 and beyond - TechRadar",
@@ -1628,22 +1630,22 @@
       "priority_score": 65
     },
     {
-      "id": "music-12-4933945910127257519",
-      "key": "music-12-4933945910127257519",
+      "id": "music-12-3359850272105847321",
+      "key": "music-12-3359850272105847321",
       "category": "Music",
       "label": "Music",
-      "headline": "Ben Folds Slams Trump's Kennedy Center Takeover Before Congress: 'When You Politicize Art, You've Got Propaganda'",
-      "title": "Ben Folds Slams Trump's Kennedy Center Takeover Before Congress: 'When You Politicize Art, You've Got Propaganda'",
-      "snapshot": "The musician resigned from his post as National Symphony Orchestra artistic advisor after the president overhauled its board in 2025.",
-      "summary": "The musician resigned from his post as National Symphony Orchestra artistic advisor after the president overhauled its board in 2025.",
-      "url": "https://www.billboard.com/music/music-news/ben-folds-testifies-against-trump-kennedy-center-congress-1236300068/",
+      "headline": "'Twilight' Saga Sparkles Again With Alex and Ani's New Vampire-Inspired Jewelry Line",
+      "title": "'Twilight' Saga Sparkles Again With Alex and Ani's New Vampire-Inspired Jewelry Line",
+      "snapshot": "Team Edward, Team Jacob or simply Team Twilight ? Fans can relive the vampire romance that defined a generation with Alex and Ani's new jewelry line.",
+      "summary": "Team Edward, Team Jacob or simply Team Twilight ? Fans can relive the vampire romance that defined a generation with Alex and Ani's new jewelry line.",
+      "url": "https://www.billboard.com/culture/product-recommendations/twilight-alex-and-ani-jewelry-collection-buy-shop-online-1236299854/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-07-21 06:01:53 PM ET",
+      "published_at": "2026-07-21 06:33:15 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Ben Folds Slams Trump's Kennedy Center Takeover Before Congress: 'When You Politicize Art, You've Got Propaganda'"
+        "'Twilight' Saga Sparkles Again With Alex and Ani's New Vampire-Inspired Jewelry Line"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1655,8 +1657,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-3-731344872750258984",
-      "key": "gaming-3-731344872750258984",
+      "id": "gaming-3-946733843103085910",
+      "key": "gaming-3-946733843103085910",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Lara Croft's Acrobatics Were So Important to Tomb Raider: Legacy of Atlantis That Actress Alix Wilton Regan Started Rock-Climbing to Get Into Character",
@@ -1687,46 +1689,46 @@
       "key": "film",
       "name": "Film",
       "title": "Film Report",
-      "headline": "Sony Pictures Mulls Deal for Hollywood’s Cinerama Dome, With Alamo Drafthouse Possibly Operating",
+      "headline": "Mike Preston, ‘Mad Max 2: The Road Warrior’ and ‘Hot Pursuit’ Actor, Dies at 93",
       "snapshot": "Film coverage is updating with 8 current RSS headline item(s).",
       "key_storylines": [
-        "Sony Pictures Mulls Deal for Hollywood’s Cinerama Dome, With Alamo Drafthouse Possibly Operating",
+        "Mike Preston, ‘Mad Max 2: The Road Warrior’ and ‘Hot Pursuit’ Actor, Dies at 93",
         "‘La La Land’s 10th Anniversary Poster Fixes Ryan Gosling’s Hand That Haunted Him",
         "‘Godzilla vs. Kong’ Stars Rebecca Hall and Millie Bobby Brown Pay Tribute to Kaylee Hottle: “You Will Be Deeply Missed”",
         "Your guide to 2026 movie release dates - Entertainment Weekly",
-        "‘Avengers: Doomsday’ Trailer Hits 503 Million Views in One Day, Second Biggest Launch in History After ‘Spider-Man: Brand New Day’ (EXCLUSIVE)"
+        "Indie LGBTQ Dramedy ‘Actual Nobodies’ Acquired by Scatena & Rosner Films, Sets Early 2027 Release (EXCLUSIVE)"
       ],
       "watch_list": [
-        "Sony Pictures Mulls Deal for Hollywood’s Cinerama Dome, With Alamo Drafthouse Possibly Operating",
+        "Mike Preston, ‘Mad Max 2: The Road Warrior’ and ‘Hot Pursuit’ Actor, Dies at 93",
         "‘La La Land’s 10th Anniversary Poster Fixes Ryan Gosling’s Hand That Haunted Him",
         "‘Godzilla vs. Kong’ Stars Rebecca Hall and Millie Bobby Brown Pay Tribute to Kaylee Hottle: “You Will Be Deeply Missed”",
         "Your guide to 2026 movie release dates - Entertainment Weekly",
-        "‘Avengers: Doomsday’ Trailer Hits 503 Million Views in One Day, Second Biggest Launch in History After ‘Spider-Man: Brand New Day’ (EXCLUSIVE)",
+        "Indie LGBTQ Dramedy ‘Actual Nobodies’ Acquired by Scatena & Rosner Films, Sets Early 2027 Release (EXCLUSIVE)",
         "Woody Harrelson To Produce Documentary On Legendary Austin Music Venue Armadillo World Headquarters",
         "Sony Eyes Revival of Cinerama Dome and ArcLight Hollywood",
         "Young people grew up in the digital age. So why do they love movies on film? - CBC"
       ],
       "homepage_cards": [
         {
-          "id": "film-0-5551408896422570204",
-          "key": "film-0-5551408896422570204",
+          "id": "film-0-7788759913243350383",
+          "key": "film-0-7788759913243350383",
           "category": "Film",
           "label": "Film",
-          "headline": "Sony Pictures Mulls Deal for Hollywood’s Cinerama Dome, With Alamo Drafthouse Possibly Operating",
-          "title": "Sony Pictures Mulls Deal for Hollywood’s Cinerama Dome, With Alamo Drafthouse Possibly Operating",
-          "snapshot": "Sony Pictures is in early talks to lease and operate the legendary Cinerama Dome theater in Hollywood, Variety has confirmed. Sony has been actively moving into the exhibition business in the past few years, acquiring the Alamo Drafthouse chain in 2024 for its Sony Pictures Experiences arm and investing in Cosm shar...",
-          "summary": "Sony Pictures is in early talks to lease and operate the legendary Cinerama Dome theater in Hollywood, Variety has confirmed. Sony has been actively moving into the exhibition business in the past few years, acquiring the Alamo Drafthouse chain in 2024 for its Sony Pictures Experiences arm and investing in Cosm shar...",
-          "url": "https://variety.com/2026/film/news/sony-early-talks-cinerama-dome-reopening-1236407617/",
+          "headline": "Mike Preston, ‘Mad Max 2: The Road Warrior’ and ‘Hot Pursuit’ Actor, Dies at 93",
+          "title": "Mike Preston, ‘Mad Max 2: The Road Warrior’ and ‘Hot Pursuit’ Actor, Dies at 93",
+          "snapshot": "Mike Preston, known for playing settler leader Pappagallo in “Mad Max 2: The Road Warrior” and Detective Bob Delaney in the Australian series “Homicide,” died June 8 in Florida. He was 93. Preston’s death was confirmed to Variety by his wife, Josie Preston. Preston, who was born Jack Davis, was an early U.K. chart-t...",
+          "summary": "Mike Preston, known for playing settler leader Pappagallo in “Mad Max 2: The Road Warrior” and Detective Bob Delaney in the Australian series “Homicide,” died June 8 in Florida. He was 93. Preston’s death was confirmed to Variety by his wife, Josie Preston. Preston, who was born Jack Davis, was an early U.K. chart-t...",
+          "url": "https://variety.com/2026/film/news/mike-preston-dead-mad-max-2-the-road-warrior-1236817624/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/feed/",
-          "published_at": "2026-07-21 06:39:03 PM ET",
+          "published_at": "2026-07-21 07:47:40 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Sony Pictures Mulls Deal for Hollywood’s Cinerama Dome, With Alamo Drafthouse Possibly Operating"
+            "Mike Preston, ‘Mad Max 2: The Road Warrior’ and ‘Hot Pursuit’ Actor, Dies at 93"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1736,8 +1738,8 @@
           ]
         },
         {
-          "id": "film-10-3417763053390302851",
-          "key": "film-10-3417763053390302851",
+          "id": "film-10-5127550433373473287",
+          "key": "film-10-5127550433373473287",
           "category": "Film",
           "label": "Film",
           "headline": "‘La La Land’s 10th Anniversary Poster Fixes Ryan Gosling’s Hand That Haunted Him",
@@ -1764,8 +1766,8 @@
           ]
         },
         {
-          "id": "film-22-1147612157284508086",
-          "key": "film-22-1147612157284508086",
+          "id": "film-22-7337186759107991965",
+          "key": "film-22-7337186759107991965",
           "category": "Film",
           "label": "Film",
           "headline": "‘Godzilla vs. Kong’ Stars Rebecca Hall and Millie Bobby Brown Pay Tribute to Kaylee Hottle: “You Will Be Deeply Missed”",
@@ -1792,8 +1794,8 @@
           ]
         },
         {
-          "id": "film-32-4604667283438219705",
-          "key": "film-32-4604667283438219705",
+          "id": "film-32-1093136224824212371",
+          "key": "film-32-1093136224824212371",
           "category": "Film",
           "label": "Film",
           "headline": "Your guide to 2026 movie release dates - Entertainment Weekly",
@@ -1820,25 +1822,25 @@
           ]
         },
         {
-          "id": "film-1-1069198397620818496",
-          "key": "film-1-1069198397620818496",
+          "id": "film-1-7140693036621358134",
+          "key": "film-1-7140693036621358134",
           "category": "Film",
           "label": "Film",
-          "headline": "‘Avengers: Doomsday’ Trailer Hits 503 Million Views in One Day, Second Biggest Launch in History After ‘Spider-Man: Brand New Day’ (EXCLUSIVE)",
-          "title": "‘Avengers: Doomsday’ Trailer Hits 503 Million Views in One Day, Second Biggest Launch in History After ‘Spider-Man: Brand New Day’ (EXCLUSIVE)",
-          "snapshot": "A whole lotta people were curious about the whereabouts of the Avengers. The first trailer for “Avengers: Doomsday” has been viewed a staggering 503 million times over 24 hours. That ranks as the second-biggest movie trailer launch of all time, behind Sony’s upcoming Marvel adventure “Spider-Man: Brand New Day” with...",
-          "summary": "A whole lotta people were curious about the whereabouts of the Avengers. The first trailer for “Avengers: Doomsday” has been viewed a staggering 503 million times over 24 hours. That ranks as the second-biggest movie trailer launch of all time, behind Sony’s upcoming Marvel adventure “Spider-Man: Brand New Day” with...",
-          "url": "https://variety.com/2026/film/news/avengers-doomsday-trailer-views-disney-record-1236817568/",
+          "headline": "Indie LGBTQ Dramedy ‘Actual Nobodies’ Acquired by Scatena & Rosner Films, Sets Early 2027 Release (EXCLUSIVE)",
+          "title": "Indie LGBTQ Dramedy ‘Actual Nobodies’ Acquired by Scatena & Rosner Films, Sets Early 2027 Release (EXCLUSIVE)",
+          "snapshot": "Scatena & Rosner Films has acquired distribution rights for North America, Australia and New Zealand for the LGBTQ indie dramedy “Actual Nobodies,” written and directed by Alex Wyse. S&R picked the film up at this year’s Cannes Market. Germany’s Media Luna New Films has secured rights for all remaining territories....",
+          "summary": "Scatena & Rosner Films has acquired distribution rights for North America, Australia and New Zealand for the LGBTQ indie dramedy “Actual Nobodies,” written and directed by Alex Wyse. S&R picked the film up at this year’s Cannes Market. Germany’s Media Luna New Films has secured rights for all remaining territories....",
+          "url": "https://variety.com/2026/film/columns/lgbtq-dramedy-actual-nobodies-scatena-rosner-films-sets-release-1236817706/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/feed/",
-          "published_at": "2026-07-21 06:00:00 PM ET",
+          "published_at": "2026-07-21 07:28:24 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "‘Avengers: Doomsday’ Trailer Hits 503 Million Views in One Day, Second Biggest Launch in History After ‘Spider-Man: Brand New Day’ (EXCLUSIVE)"
+            "Indie LGBTQ Dramedy ‘Actual Nobodies’ Acquired by Scatena & Rosner Films, Sets Early 2027 Release (EXCLUSIVE)"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1848,8 +1850,8 @@
           ]
         },
         {
-          "id": "film-11-7329089289542781397",
-          "key": "film-11-7329089289542781397",
+          "id": "film-11-8808002512695333521",
+          "key": "film-11-8808002512695333521",
           "category": "Film",
           "label": "Film",
           "headline": "Woody Harrelson To Produce Documentary On Legendary Austin Music Venue Armadillo World Headquarters",
@@ -1876,8 +1878,8 @@
           ]
         },
         {
-          "id": "film-23-4686240480518867343",
-          "key": "film-23-4686240480518867343",
+          "id": "film-23-1548098871329734614",
+          "key": "film-23-1548098871329734614",
           "category": "Film",
           "label": "Film",
           "headline": "Sony Eyes Revival of Cinerama Dome and ArcLight Hollywood",
@@ -1904,8 +1906,8 @@
           ]
         },
         {
-          "id": "film-33-7092930788481388189",
-          "key": "film-33-7092930788481388189",
+          "id": "film-33-1937615764062176783",
+          "key": "film-33-1937615764062176783",
           "category": "Film",
           "label": "Film",
           "headline": "Young people grew up in the digital age. So why do they love movies on film? - CBC",
@@ -1934,25 +1936,25 @@
       ],
       "items": [
         {
-          "id": "film-0-5551408896422570204",
-          "key": "film-0-5551408896422570204",
+          "id": "film-0-7788759913243350383",
+          "key": "film-0-7788759913243350383",
           "category": "Film",
           "label": "Film",
-          "headline": "Sony Pictures Mulls Deal for Hollywood’s Cinerama Dome, With Alamo Drafthouse Possibly Operating",
-          "title": "Sony Pictures Mulls Deal for Hollywood’s Cinerama Dome, With Alamo Drafthouse Possibly Operating",
-          "snapshot": "Sony Pictures is in early talks to lease and operate the legendary Cinerama Dome theater in Hollywood, Variety has confirmed. Sony has been actively moving into the exhibition business in the past few years, acquiring the Alamo Drafthouse chain in 2024 for its Sony Pictures Experiences arm and investing in Cosm shar...",
-          "summary": "Sony Pictures is in early talks to lease and operate the legendary Cinerama Dome theater in Hollywood, Variety has confirmed. Sony has been actively moving into the exhibition business in the past few years, acquiring the Alamo Drafthouse chain in 2024 for its Sony Pictures Experiences arm and investing in Cosm shar...",
-          "url": "https://variety.com/2026/film/news/sony-early-talks-cinerama-dome-reopening-1236407617/",
+          "headline": "Mike Preston, ‘Mad Max 2: The Road Warrior’ and ‘Hot Pursuit’ Actor, Dies at 93",
+          "title": "Mike Preston, ‘Mad Max 2: The Road Warrior’ and ‘Hot Pursuit’ Actor, Dies at 93",
+          "snapshot": "Mike Preston, known for playing settler leader Pappagallo in “Mad Max 2: The Road Warrior” and Detective Bob Delaney in the Australian series “Homicide,” died June 8 in Florida. He was 93. Preston’s death was confirmed to Variety by his wife, Josie Preston. Preston, who was born Jack Davis, was an early U.K. chart-t...",
+          "summary": "Mike Preston, known for playing settler leader Pappagallo in “Mad Max 2: The Road Warrior” and Detective Bob Delaney in the Australian series “Homicide,” died June 8 in Florida. He was 93. Preston’s death was confirmed to Variety by his wife, Josie Preston. Preston, who was born Jack Davis, was an early U.K. chart-t...",
+          "url": "https://variety.com/2026/film/news/mike-preston-dead-mad-max-2-the-road-warrior-1236817624/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/feed/",
-          "published_at": "2026-07-21 06:39:03 PM ET",
+          "published_at": "2026-07-21 07:47:40 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Sony Pictures Mulls Deal for Hollywood’s Cinerama Dome, With Alamo Drafthouse Possibly Operating"
+            "Mike Preston, ‘Mad Max 2: The Road Warrior’ and ‘Hot Pursuit’ Actor, Dies at 93"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1962,8 +1964,8 @@
           ]
         },
         {
-          "id": "film-10-3417763053390302851",
-          "key": "film-10-3417763053390302851",
+          "id": "film-10-5127550433373473287",
+          "key": "film-10-5127550433373473287",
           "category": "Film",
           "label": "Film",
           "headline": "‘La La Land’s 10th Anniversary Poster Fixes Ryan Gosling’s Hand That Haunted Him",
@@ -1990,8 +1992,8 @@
           ]
         },
         {
-          "id": "film-22-1147612157284508086",
-          "key": "film-22-1147612157284508086",
+          "id": "film-22-7337186759107991965",
+          "key": "film-22-7337186759107991965",
           "category": "Film",
           "label": "Film",
           "headline": "‘Godzilla vs. Kong’ Stars Rebecca Hall and Millie Bobby Brown Pay Tribute to Kaylee Hottle: “You Will Be Deeply Missed”",
@@ -2018,8 +2020,8 @@
           ]
         },
         {
-          "id": "film-32-4604667283438219705",
-          "key": "film-32-4604667283438219705",
+          "id": "film-32-1093136224824212371",
+          "key": "film-32-1093136224824212371",
           "category": "Film",
           "label": "Film",
           "headline": "Your guide to 2026 movie release dates - Entertainment Weekly",
@@ -2046,25 +2048,25 @@
           ]
         },
         {
-          "id": "film-1-1069198397620818496",
-          "key": "film-1-1069198397620818496",
+          "id": "film-1-7140693036621358134",
+          "key": "film-1-7140693036621358134",
           "category": "Film",
           "label": "Film",
-          "headline": "‘Avengers: Doomsday’ Trailer Hits 503 Million Views in One Day, Second Biggest Launch in History After ‘Spider-Man: Brand New Day’ (EXCLUSIVE)",
-          "title": "‘Avengers: Doomsday’ Trailer Hits 503 Million Views in One Day, Second Biggest Launch in History After ‘Spider-Man: Brand New Day’ (EXCLUSIVE)",
-          "snapshot": "A whole lotta people were curious about the whereabouts of the Avengers. The first trailer for “Avengers: Doomsday” has been viewed a staggering 503 million times over 24 hours. That ranks as the second-biggest movie trailer launch of all time, behind Sony’s upcoming Marvel adventure “Spider-Man: Brand New Day” with...",
-          "summary": "A whole lotta people were curious about the whereabouts of the Avengers. The first trailer for “Avengers: Doomsday” has been viewed a staggering 503 million times over 24 hours. That ranks as the second-biggest movie trailer launch of all time, behind Sony’s upcoming Marvel adventure “Spider-Man: Brand New Day” with...",
-          "url": "https://variety.com/2026/film/news/avengers-doomsday-trailer-views-disney-record-1236817568/",
+          "headline": "Indie LGBTQ Dramedy ‘Actual Nobodies’ Acquired by Scatena & Rosner Films, Sets Early 2027 Release (EXCLUSIVE)",
+          "title": "Indie LGBTQ Dramedy ‘Actual Nobodies’ Acquired by Scatena & Rosner Films, Sets Early 2027 Release (EXCLUSIVE)",
+          "snapshot": "Scatena & Rosner Films has acquired distribution rights for North America, Australia and New Zealand for the LGBTQ indie dramedy “Actual Nobodies,” written and directed by Alex Wyse. S&R picked the film up at this year’s Cannes Market. Germany’s Media Luna New Films has secured rights for all remaining territories....",
+          "summary": "Scatena & Rosner Films has acquired distribution rights for North America, Australia and New Zealand for the LGBTQ indie dramedy “Actual Nobodies,” written and directed by Alex Wyse. S&R picked the film up at this year’s Cannes Market. Germany’s Media Luna New Films has secured rights for all remaining territories....",
+          "url": "https://variety.com/2026/film/columns/lgbtq-dramedy-actual-nobodies-scatena-rosner-films-sets-release-1236817706/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/feed/",
-          "published_at": "2026-07-21 06:00:00 PM ET",
+          "published_at": "2026-07-21 07:28:24 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "‘Avengers: Doomsday’ Trailer Hits 503 Million Views in One Day, Second Biggest Launch in History After ‘Spider-Man: Brand New Day’ (EXCLUSIVE)"
+            "Indie LGBTQ Dramedy ‘Actual Nobodies’ Acquired by Scatena & Rosner Films, Sets Early 2027 Release (EXCLUSIVE)"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2074,8 +2076,8 @@
           ]
         },
         {
-          "id": "film-11-7329089289542781397",
-          "key": "film-11-7329089289542781397",
+          "id": "film-11-8808002512695333521",
+          "key": "film-11-8808002512695333521",
           "category": "Film",
           "label": "Film",
           "headline": "Woody Harrelson To Produce Documentary On Legendary Austin Music Venue Armadillo World Headquarters",
@@ -2102,8 +2104,8 @@
           ]
         },
         {
-          "id": "film-23-4686240480518867343",
-          "key": "film-23-4686240480518867343",
+          "id": "film-23-1548098871329734614",
+          "key": "film-23-1548098871329734614",
           "category": "Film",
           "label": "Film",
           "headline": "Sony Eyes Revival of Cinerama Dome and ArcLight Hollywood",
@@ -2130,8 +2132,8 @@
           ]
         },
         {
-          "id": "film-33-7092930788481388189",
-          "key": "film-33-7092930788481388189",
+          "id": "film-33-1937615764062176783",
+          "key": "film-33-1937615764062176783",
           "category": "Film",
           "label": "Film",
           "headline": "Young people grew up in the digital age. So why do they love movies on film? - CBC",
@@ -2158,34 +2160,146 @@
           ]
         }
       ],
-      "updated_at": "2026-07-21 06:57:56 PM ET"
+      "updated_at": "2026-07-21 07:59:41 PM ET"
     },
     {
       "key": "tv",
       "name": "TV",
       "title": "TV Report",
-      "headline": "Dixon Dern, Influential Entertainment Lawyer, Dies at 97",
+      "headline": "Spain’s World Cup Win Breaks Ratings Records, Scores as Most-Watched Soccer Telecast in U.S. TV History",
       "snapshot": "TV coverage is updating with 7 current RSS headline item(s).",
       "key_storylines": [
-        "Dixon Dern, Influential Entertainment Lawyer, Dies at 97",
-        "Innovative’s Josiah Akinyele Joins ColorCreative As Manager",
-        "TV Ratings: World Cup Final Scores 60 Million-Plus Viewers, Smashing All-Time High for Soccer in the U.S.",
+        "Spain’s World Cup Win Breaks Ratings Records, Scores as Most-Watched Soccer Telecast in U.S. TV History",
+        "World Cup Final Scores Nearly 63M Across Fox & Telemundo As Tournament Breaks Viewing Records",
+        "TV Ratings: World Cup Final Scores 63 Million Viewers, Smashing All-Time High for Soccer in the U.S.",
         "New Channels Are Coming To YouTube TV - bgr.com",
-        "Carole Radziwill Confronted About Jeffrey Epstein Connection in ‘RHONY’ Season 16 Trailer: ‘You Think I’m Part of an International Sex-Trafficking Ring?’"
+        "Dixon Dern, Influential Entertainment Lawyer, Dies at 97"
       ],
       "watch_list": [
+        "Spain’s World Cup Win Breaks Ratings Records, Scores as Most-Watched Soccer Telecast in U.S. TV History",
+        "World Cup Final Scores Nearly 63M Across Fox & Telemundo As Tournament Breaks Viewing Records",
+        "TV Ratings: World Cup Final Scores 63 Million Viewers, Smashing All-Time High for Soccer in the U.S.",
+        "New Channels Are Coming To YouTube TV - bgr.com",
         "Dixon Dern, Influential Entertainment Lawyer, Dies at 97",
         "Innovative’s Josiah Akinyele Joins ColorCreative As Manager",
-        "TV Ratings: World Cup Final Scores 60 Million-Plus Viewers, Smashing All-Time High for Soccer in the U.S.",
-        "New Channels Are Coming To YouTube TV - bgr.com",
-        "Carole Radziwill Confronted About Jeffrey Epstein Connection in ‘RHONY’ Season 16 Trailer: ‘You Think I’m Part of an International Sex-Trafficking Ring?’",
-        "‘Dancing With The Stars: The Next Pro’ Dazzles As ABC’s Best Summer Series Premiere In 6 Years",
         "Jacob Elordi Dishes on Nate’s Demise on ‘Euphoria’ and Breaking Both His Heels: “It’s Like ‘Fight Club'”"
       ],
       "homepage_cards": [
         {
-          "id": "tv-0-3934172986403217356",
-          "key": "tv-0-3934172986403217356",
+          "id": "tv-0-2289240095316404678",
+          "key": "tv-0-2289240095316404678",
+          "category": "TV",
+          "label": "TV",
+          "headline": "Spain’s World Cup Win Breaks Ratings Records, Scores as Most-Watched Soccer Telecast in U.S. TV History",
+          "title": "Spain’s World Cup Win Breaks Ratings Records, Scores as Most-Watched Soccer Telecast in U.S. TV History",
+          "snapshot": "Spain’s victory over Argentina at Sunday’s FIFA World Cup 2026 final broke the record books in the United States — averaging 38,937,000 viewers watch on Fox, making it the most-watched soccer telecast in U.S. TV history and most-watched FIFA World Cup final ever in the U.S., according to Nielsen. Meanwhile, on the S...",
+          "summary": "Spain’s victory over Argentina at Sunday’s FIFA World Cup 2026 final broke the record books in the United States — averaging 38,937,000 viewers watch on Fox, making it the most-watched soccer telecast in U.S. TV history and most-watched FIFA World Cup final ever in the U.S., according to Nielsen. Meanwhile, on the S...",
+          "url": "https://variety.com/2026/tv/news/world-cup-final-ratings-most-watched-soccer-game-history-1236817692/",
+          "source": "Variety",
+          "source_name": "Variety",
+          "source_feed": "https://variety.com/v/tv/feed/",
+          "published_at": "2026-07-21 07:02:29 PM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 100,
+          "key_data": [
+            "Spain’s World Cup Win Breaks Ratings Records, Scores as Most-Watched Soccer Telecast in U.S. TV History"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "tv-9-1000928672332073063",
+          "key": "tv-9-1000928672332073063",
+          "category": "TV",
+          "label": "TV",
+          "headline": "World Cup Final Scores Nearly 63M Across Fox & Telemundo As Tournament Breaks Viewing Records",
+          "title": "World Cup Final Scores Nearly 63M Across Fox & Telemundo As Tournament Breaks Viewing Records",
+          "snapshot": "Spain’s win over Argentina in the World Cup Final was watched by 62.8M people in the U.S., breaking ratings records for both Fox and Telemundo. Fox averaged 38.9M viewers for Sunday’s final and NBCUniversal’s Spanish-language broadcaster Telemundo brought in an additional 23.9M viewers on linear as well as on Peacoc...",
+          "summary": "Spain’s win over Argentina in the World Cup Final was watched by 62.8M people in the U.S., breaking ratings records for both Fox and Telemundo. Fox averaged 38.9M viewers for Sunday’s final and NBCUniversal’s Spanish-language broadcaster Telemundo brought in an additional 23.9M viewers on linear as well as on Peacoc...",
+          "url": "https://deadline.com/2026/07/world-cup-final-scores-ratings-fox-telemundo-1236999839/",
+          "source": "Deadline",
+          "source_name": "Deadline",
+          "source_feed": "https://deadline.com/v/tv/feed/",
+          "published_at": "2026-07-21 07:34:45 PM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 91,
+          "key_data": [
+            "World Cup Final Scores Nearly 63M Across Fox & Telemundo As Tournament Breaks Viewing Records"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "tv-21-8553501541850416322",
+          "key": "tv-21-8553501541850416322",
+          "category": "TV",
+          "label": "TV",
+          "headline": "TV Ratings: World Cup Final Scores 63 Million Viewers, Smashing All-Time High for Soccer in the U.S.",
+          "title": "TV Ratings: World Cup Final Scores 63 Million Viewers, Smashing All-Time High for Soccer in the U.S.",
+          "snapshot": "Spain's victory caps the most watched tournament ever in this country for both English- and Spanish-language broadcasts.",
+          "summary": "Spain's victory caps the most watched tournament ever in this country for both English- and Spanish-language broadcasts.",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/world-cup-final-tv-ratings-fox-telemundo-1236652686/",
+          "source": "The Hollywood Reporter",
+          "source_name": "The Hollywood Reporter",
+          "source_feed": "https://www.hollywoodreporter.com/c/tv/tv-news/feed/",
+          "published_at": "2026-07-21 06:41:11 PM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 79,
+          "key_data": [
+            "TV Ratings: World Cup Final Scores 63 Million Viewers, Smashing All-Time High for Soccer in the U.S."
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "tv-31-8541616876885173998",
+          "key": "tv-31-8541616876885173998",
+          "category": "TV",
+          "label": "TV",
+          "headline": "New Channels Are Coming To YouTube TV - bgr.com",
+          "title": "New Channels Are Coming To YouTube TV - bgr.com",
+          "snapshot": "New Channels Are Coming To YouTube TV bgr.com",
+          "summary": "New Channels Are Coming To YouTube TV bgr.com",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmdWE0SEQzYmtlcm5IVU9hdnZvTmp4QjRoSFBLamFzS1U3TzdfaEJWRkZfY0ZiZHJpbnhwUkJXbnh5RjhJeDlwallkS2ZoV2NnRmt4UmRVWkpEdlhpMU9qYlQ4R2RJN2otTXFEeWU2UQ?oc=5",
+          "source": "Google News",
+          "source_name": "Google News",
+          "source_feed": "https://news.google.com/rss/search?q=television+tv+entertainment&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-16 05:17:00 PM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 69,
+          "key_data": [
+            "New Channels Are Coming To YouTube TV - bgr.com"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "tv-1-422796222719249054",
+          "key": "tv-1-422796222719249054",
           "category": "TV",
           "label": "TV",
           "headline": "Dixon Dern, Influential Entertainment Lawyer, Dies at 97",
@@ -2200,7 +2314,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 100,
+          "priority_score": 99,
           "key_data": [
             "Dixon Dern, Influential Entertainment Lawyer, Dies at 97"
           ],
@@ -2212,14 +2326,14 @@
           ]
         },
         {
-          "id": "tv-10-8769119223505427248",
-          "key": "tv-10-8769119223505427248",
+          "id": "tv-10-5334444923493603035",
+          "key": "tv-10-5334444923493603035",
           "category": "TV",
           "label": "TV",
           "headline": "Innovative’s Josiah Akinyele Joins ColorCreative As Manager",
           "title": "Innovative’s Josiah Akinyele Joins ColorCreative As Manager",
-          "snapshot": "EXCLUSIVE: Veteran talent agent Josiah Akinyele is leaving Innovative Artists after 17 years to transition to management. He has joined ColorCreative, the management and production company co-founded by Issa Rae, Deniese Davis, and Talitha Watkins, as a manger. Akinyele will report to ColorCreative President Talitha...",
-          "summary": "EXCLUSIVE: Veteran talent agent Josiah Akinyele is leaving Innovative Artists after 17 years to transition to management. He has joined ColorCreative, the management and production company co-founded by Issa Rae, Deniese Davis, and Talitha Watkins, as a manger. Akinyele will report to ColorCreative President Talitha...",
+          "snapshot": "EXCLUSIVE: Veteran talent agent Josiah Akinyele is leaving Innovative Artists after 17 years to transition to management. He has joined ColorCreative, the management and production company co-founded by Issa Rae, Deniese Davis, and Talitha Watkins, as a manager. Akinyele will report to ColorCreative President Talith...",
+          "summary": "EXCLUSIVE: Veteran talent agent Josiah Akinyele is leaving Innovative Artists after 17 years to transition to management. He has joined ColorCreative, the management and production company co-founded by Issa Rae, Deniese Davis, and Talitha Watkins, as a manager. Akinyele will report to ColorCreative President Talith...",
           "url": "https://deadline.com/2026/07/josiah-akinyele-colorcreative-manager-1236999732/",
           "source": "Deadline",
           "source_name": "Deadline",
@@ -2240,120 +2354,8 @@
           ]
         },
         {
-          "id": "tv-22-7575112286540780022",
-          "key": "tv-22-7575112286540780022",
-          "category": "TV",
-          "label": "TV",
-          "headline": "TV Ratings: World Cup Final Scores 60 Million-Plus Viewers, Smashing All-Time High for Soccer in the U.S.",
-          "title": "TV Ratings: World Cup Final Scores 60 Million-Plus Viewers, Smashing All-Time High for Soccer in the U.S.",
-          "snapshot": "Spain's victory caps the most watched tournament ever in this country for both English- and Spanish-language broadcasts.",
-          "summary": "Spain's victory caps the most watched tournament ever in this country for both English- and Spanish-language broadcasts.",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/world-cup-final-tv-ratings-fox-telemundo-1236652686/",
-          "source": "The Hollywood Reporter",
-          "source_name": "The Hollywood Reporter",
-          "source_feed": "https://www.hollywoodreporter.com/c/tv/tv-news/feed/",
-          "published_at": "2026-07-21 06:41:11 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 78,
-          "key_data": [
-            "TV Ratings: World Cup Final Scores 60 Million-Plus Viewers, Smashing All-Time High for Soccer in the U.S."
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "tv-32-5893737911403179172",
-          "key": "tv-32-5893737911403179172",
-          "category": "TV",
-          "label": "TV",
-          "headline": "New Channels Are Coming To YouTube TV - bgr.com",
-          "title": "New Channels Are Coming To YouTube TV - bgr.com",
-          "snapshot": "New Channels Are Coming To YouTube TV bgr.com",
-          "summary": "New Channels Are Coming To YouTube TV bgr.com",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmdWE0SEQzYmtlcm5IVU9hdnZvTmp4QjRoSFBLamFzS1U3TzdfaEJWRkZfY0ZiZHJpbnhwUkJXbnh5RjhJeDlwallkS2ZoV2NnRmt4UmRVWkpEdlhpMU9qYlQ4R2RJN2otTXFEeWU2UQ?oc=5",
-          "source": "Google News",
-          "source_name": "Google News",
-          "source_feed": "https://news.google.com/rss/search?q=television+tv+entertainment&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-07-16 05:17:00 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 68,
-          "key_data": [
-            "New Channels Are Coming To YouTube TV - bgr.com"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "tv-1-262963500893500634",
-          "key": "tv-1-262963500893500634",
-          "category": "TV",
-          "label": "TV",
-          "headline": "Carole Radziwill Confronted About Jeffrey Epstein Connection in ‘RHONY’ Season 16 Trailer: ‘You Think I’m Part of an International Sex-Trafficking Ring?’",
-          "title": "Carole Radziwill Confronted About Jeffrey Epstein Connection in ‘RHONY’ Season 16 Trailer: ‘You Think I’m Part of an International Sex-Trafficking Ring?’",
-          "snapshot": "In the first trailer for “The Real Housewives of New York City” Season 16, Carole Radziwill is confronted about her name appearing in the Epstein files. During the preview, which teases Radziwill’s return to the show after last appearing on Season 10 — as Variety exclusively reported — Radziwill is questioned about...",
-          "summary": "In the first trailer for “The Real Housewives of New York City” Season 16, Carole Radziwill is confronted about her name appearing in the Epstein files. During the preview, which teases Radziwill’s return to the show after last appearing on Season 10 — as Variety exclusively reported — Radziwill is questioned about...",
-          "url": "https://variety.com/2026/tv/news/carole-radziwill-jeffrey-epstein-rhony-season-16-trailer-1236817476/",
-          "source": "Variety",
-          "source_name": "Variety",
-          "source_feed": "https://variety.com/v/tv/feed/",
-          "published_at": "2026-07-21 03:41:22 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 99,
-          "key_data": [
-            "Carole Radziwill Confronted About Jeffrey Epstein Connection in ‘RHONY’ Season 16 Trailer: ‘You Think I’m Part of an International Sex-Trafficking Ring?’"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "tv-11-1065492030199211952",
-          "key": "tv-11-1065492030199211952",
-          "category": "TV",
-          "label": "TV",
-          "headline": "‘Dancing With The Stars: The Next Pro’ Dazzles As ABC’s Best Summer Series Premiere In 6 Years",
-          "title": "‘Dancing With The Stars: The Next Pro’ Dazzles As ABC’s Best Summer Series Premiere In 6 Years",
-          "snapshot": "EXCLUSIVE: Dancing with the Stars: The Next Pro is proving to be a fierce new addition to the summer television lineup. The new series, which chronicles the search for the franchise’s next professional ballroom dancer ahead of Dancing with the Stars Season 35, debuted to a total audience of 5.33M after three days of...",
-          "summary": "EXCLUSIVE: Dancing with the Stars: The Next Pro is proving to be a fierce new addition to the summer television lineup. The new series, which chronicles the search for the franchise’s next professional ballroom dancer ahead of Dancing with the Stars Season 35, debuted to a total audience of 5.33M after three days of...",
-          "url": "https://deadline.com/2026/07/dancing-with-the-stars-the-next-pro-premiere-ratings-abc-1236999675/",
-          "source": "Deadline",
-          "source_name": "Deadline",
-          "source_feed": "https://deadline.com/v/tv/feed/",
-          "published_at": "2026-07-21 04:32:00 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 89,
-          "key_data": [
-            "‘Dancing With The Stars: The Next Pro’ Dazzles As ABC’s Best Summer Series Premiere In 6 Years"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "tv-23-4020078865384919988",
-          "key": "tv-23-4020078865384919988",
+          "id": "tv-22-6441017758355871581",
+          "key": "tv-22-6441017758355871581",
           "category": "TV",
           "label": "TV",
           "headline": "Jacob Elordi Dishes on Nate’s Demise on ‘Euphoria’ and Breaking Both His Heels: “It’s Like ‘Fight Club'”",
@@ -2368,7 +2370,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 77,
+          "priority_score": 78,
           "key_data": [
             "Jacob Elordi Dishes on Nate’s Demise on ‘Euphoria’ and Breaking Both His Heels: “It’s Like ‘Fight Club'”"
           ],
@@ -2382,8 +2384,120 @@
       ],
       "items": [
         {
-          "id": "tv-0-3934172986403217356",
-          "key": "tv-0-3934172986403217356",
+          "id": "tv-0-2289240095316404678",
+          "key": "tv-0-2289240095316404678",
+          "category": "TV",
+          "label": "TV",
+          "headline": "Spain’s World Cup Win Breaks Ratings Records, Scores as Most-Watched Soccer Telecast in U.S. TV History",
+          "title": "Spain’s World Cup Win Breaks Ratings Records, Scores as Most-Watched Soccer Telecast in U.S. TV History",
+          "snapshot": "Spain’s victory over Argentina at Sunday’s FIFA World Cup 2026 final broke the record books in the United States — averaging 38,937,000 viewers watch on Fox, making it the most-watched soccer telecast in U.S. TV history and most-watched FIFA World Cup final ever in the U.S., according to Nielsen. Meanwhile, on the S...",
+          "summary": "Spain’s victory over Argentina at Sunday’s FIFA World Cup 2026 final broke the record books in the United States — averaging 38,937,000 viewers watch on Fox, making it the most-watched soccer telecast in U.S. TV history and most-watched FIFA World Cup final ever in the U.S., according to Nielsen. Meanwhile, on the S...",
+          "url": "https://variety.com/2026/tv/news/world-cup-final-ratings-most-watched-soccer-game-history-1236817692/",
+          "source": "Variety",
+          "source_name": "Variety",
+          "source_feed": "https://variety.com/v/tv/feed/",
+          "published_at": "2026-07-21 07:02:29 PM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 100,
+          "key_data": [
+            "Spain’s World Cup Win Breaks Ratings Records, Scores as Most-Watched Soccer Telecast in U.S. TV History"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "tv-9-1000928672332073063",
+          "key": "tv-9-1000928672332073063",
+          "category": "TV",
+          "label": "TV",
+          "headline": "World Cup Final Scores Nearly 63M Across Fox & Telemundo As Tournament Breaks Viewing Records",
+          "title": "World Cup Final Scores Nearly 63M Across Fox & Telemundo As Tournament Breaks Viewing Records",
+          "snapshot": "Spain’s win over Argentina in the World Cup Final was watched by 62.8M people in the U.S., breaking ratings records for both Fox and Telemundo. Fox averaged 38.9M viewers for Sunday’s final and NBCUniversal’s Spanish-language broadcaster Telemundo brought in an additional 23.9M viewers on linear as well as on Peacoc...",
+          "summary": "Spain’s win over Argentina in the World Cup Final was watched by 62.8M people in the U.S., breaking ratings records for both Fox and Telemundo. Fox averaged 38.9M viewers for Sunday’s final and NBCUniversal’s Spanish-language broadcaster Telemundo brought in an additional 23.9M viewers on linear as well as on Peacoc...",
+          "url": "https://deadline.com/2026/07/world-cup-final-scores-ratings-fox-telemundo-1236999839/",
+          "source": "Deadline",
+          "source_name": "Deadline",
+          "source_feed": "https://deadline.com/v/tv/feed/",
+          "published_at": "2026-07-21 07:34:45 PM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 91,
+          "key_data": [
+            "World Cup Final Scores Nearly 63M Across Fox & Telemundo As Tournament Breaks Viewing Records"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "tv-21-8553501541850416322",
+          "key": "tv-21-8553501541850416322",
+          "category": "TV",
+          "label": "TV",
+          "headline": "TV Ratings: World Cup Final Scores 63 Million Viewers, Smashing All-Time High for Soccer in the U.S.",
+          "title": "TV Ratings: World Cup Final Scores 63 Million Viewers, Smashing All-Time High for Soccer in the U.S.",
+          "snapshot": "Spain's victory caps the most watched tournament ever in this country for both English- and Spanish-language broadcasts.",
+          "summary": "Spain's victory caps the most watched tournament ever in this country for both English- and Spanish-language broadcasts.",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/world-cup-final-tv-ratings-fox-telemundo-1236652686/",
+          "source": "The Hollywood Reporter",
+          "source_name": "The Hollywood Reporter",
+          "source_feed": "https://www.hollywoodreporter.com/c/tv/tv-news/feed/",
+          "published_at": "2026-07-21 06:41:11 PM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 79,
+          "key_data": [
+            "TV Ratings: World Cup Final Scores 63 Million Viewers, Smashing All-Time High for Soccer in the U.S."
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "tv-31-8541616876885173998",
+          "key": "tv-31-8541616876885173998",
+          "category": "TV",
+          "label": "TV",
+          "headline": "New Channels Are Coming To YouTube TV - bgr.com",
+          "title": "New Channels Are Coming To YouTube TV - bgr.com",
+          "snapshot": "New Channels Are Coming To YouTube TV bgr.com",
+          "summary": "New Channels Are Coming To YouTube TV bgr.com",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmdWE0SEQzYmtlcm5IVU9hdnZvTmp4QjRoSFBLamFzS1U3TzdfaEJWRkZfY0ZiZHJpbnhwUkJXbnh5RjhJeDlwallkS2ZoV2NnRmt4UmRVWkpEdlhpMU9qYlQ4R2RJN2otTXFEeWU2UQ?oc=5",
+          "source": "Google News",
+          "source_name": "Google News",
+          "source_feed": "https://news.google.com/rss/search?q=television+tv+entertainment&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-16 05:17:00 PM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 69,
+          "key_data": [
+            "New Channels Are Coming To YouTube TV - bgr.com"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "tv-1-422796222719249054",
+          "key": "tv-1-422796222719249054",
           "category": "TV",
           "label": "TV",
           "headline": "Dixon Dern, Influential Entertainment Lawyer, Dies at 97",
@@ -2398,7 +2512,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 100,
+          "priority_score": 99,
           "key_data": [
             "Dixon Dern, Influential Entertainment Lawyer, Dies at 97"
           ],
@@ -2410,14 +2524,14 @@
           ]
         },
         {
-          "id": "tv-10-8769119223505427248",
-          "key": "tv-10-8769119223505427248",
+          "id": "tv-10-5334444923493603035",
+          "key": "tv-10-5334444923493603035",
           "category": "TV",
           "label": "TV",
           "headline": "Innovative’s Josiah Akinyele Joins ColorCreative As Manager",
           "title": "Innovative’s Josiah Akinyele Joins ColorCreative As Manager",
-          "snapshot": "EXCLUSIVE: Veteran talent agent Josiah Akinyele is leaving Innovative Artists after 17 years to transition to management. He has joined ColorCreative, the management and production company co-founded by Issa Rae, Deniese Davis, and Talitha Watkins, as a manger. Akinyele will report to ColorCreative President Talitha...",
-          "summary": "EXCLUSIVE: Veteran talent agent Josiah Akinyele is leaving Innovative Artists after 17 years to transition to management. He has joined ColorCreative, the management and production company co-founded by Issa Rae, Deniese Davis, and Talitha Watkins, as a manger. Akinyele will report to ColorCreative President Talitha...",
+          "snapshot": "EXCLUSIVE: Veteran talent agent Josiah Akinyele is leaving Innovative Artists after 17 years to transition to management. He has joined ColorCreative, the management and production company co-founded by Issa Rae, Deniese Davis, and Talitha Watkins, as a manager. Akinyele will report to ColorCreative President Talith...",
+          "summary": "EXCLUSIVE: Veteran talent agent Josiah Akinyele is leaving Innovative Artists after 17 years to transition to management. He has joined ColorCreative, the management and production company co-founded by Issa Rae, Deniese Davis, and Talitha Watkins, as a manager. Akinyele will report to ColorCreative President Talith...",
           "url": "https://deadline.com/2026/07/josiah-akinyele-colorcreative-manager-1236999732/",
           "source": "Deadline",
           "source_name": "Deadline",
@@ -2438,120 +2552,8 @@
           ]
         },
         {
-          "id": "tv-22-7575112286540780022",
-          "key": "tv-22-7575112286540780022",
-          "category": "TV",
-          "label": "TV",
-          "headline": "TV Ratings: World Cup Final Scores 60 Million-Plus Viewers, Smashing All-Time High for Soccer in the U.S.",
-          "title": "TV Ratings: World Cup Final Scores 60 Million-Plus Viewers, Smashing All-Time High for Soccer in the U.S.",
-          "snapshot": "Spain's victory caps the most watched tournament ever in this country for both English- and Spanish-language broadcasts.",
-          "summary": "Spain's victory caps the most watched tournament ever in this country for both English- and Spanish-language broadcasts.",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/world-cup-final-tv-ratings-fox-telemundo-1236652686/",
-          "source": "The Hollywood Reporter",
-          "source_name": "The Hollywood Reporter",
-          "source_feed": "https://www.hollywoodreporter.com/c/tv/tv-news/feed/",
-          "published_at": "2026-07-21 06:41:11 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 78,
-          "key_data": [
-            "TV Ratings: World Cup Final Scores 60 Million-Plus Viewers, Smashing All-Time High for Soccer in the U.S."
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "tv-32-5893737911403179172",
-          "key": "tv-32-5893737911403179172",
-          "category": "TV",
-          "label": "TV",
-          "headline": "New Channels Are Coming To YouTube TV - bgr.com",
-          "title": "New Channels Are Coming To YouTube TV - bgr.com",
-          "snapshot": "New Channels Are Coming To YouTube TV bgr.com",
-          "summary": "New Channels Are Coming To YouTube TV bgr.com",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmdWE0SEQzYmtlcm5IVU9hdnZvTmp4QjRoSFBLamFzS1U3TzdfaEJWRkZfY0ZiZHJpbnhwUkJXbnh5RjhJeDlwallkS2ZoV2NnRmt4UmRVWkpEdlhpMU9qYlQ4R2RJN2otTXFEeWU2UQ?oc=5",
-          "source": "Google News",
-          "source_name": "Google News",
-          "source_feed": "https://news.google.com/rss/search?q=television+tv+entertainment&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-07-16 05:17:00 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 68,
-          "key_data": [
-            "New Channels Are Coming To YouTube TV - bgr.com"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "tv-1-262963500893500634",
-          "key": "tv-1-262963500893500634",
-          "category": "TV",
-          "label": "TV",
-          "headline": "Carole Radziwill Confronted About Jeffrey Epstein Connection in ‘RHONY’ Season 16 Trailer: ‘You Think I’m Part of an International Sex-Trafficking Ring?’",
-          "title": "Carole Radziwill Confronted About Jeffrey Epstein Connection in ‘RHONY’ Season 16 Trailer: ‘You Think I’m Part of an International Sex-Trafficking Ring?’",
-          "snapshot": "In the first trailer for “The Real Housewives of New York City” Season 16, Carole Radziwill is confronted about her name appearing in the Epstein files. During the preview, which teases Radziwill’s return to the show after last appearing on Season 10 — as Variety exclusively reported — Radziwill is questioned about...",
-          "summary": "In the first trailer for “The Real Housewives of New York City” Season 16, Carole Radziwill is confronted about her name appearing in the Epstein files. During the preview, which teases Radziwill’s return to the show after last appearing on Season 10 — as Variety exclusively reported — Radziwill is questioned about...",
-          "url": "https://variety.com/2026/tv/news/carole-radziwill-jeffrey-epstein-rhony-season-16-trailer-1236817476/",
-          "source": "Variety",
-          "source_name": "Variety",
-          "source_feed": "https://variety.com/v/tv/feed/",
-          "published_at": "2026-07-21 03:41:22 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 99,
-          "key_data": [
-            "Carole Radziwill Confronted About Jeffrey Epstein Connection in ‘RHONY’ Season 16 Trailer: ‘You Think I’m Part of an International Sex-Trafficking Ring?’"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "tv-11-1065492030199211952",
-          "key": "tv-11-1065492030199211952",
-          "category": "TV",
-          "label": "TV",
-          "headline": "‘Dancing With The Stars: The Next Pro’ Dazzles As ABC’s Best Summer Series Premiere In 6 Years",
-          "title": "‘Dancing With The Stars: The Next Pro’ Dazzles As ABC’s Best Summer Series Premiere In 6 Years",
-          "snapshot": "EXCLUSIVE: Dancing with the Stars: The Next Pro is proving to be a fierce new addition to the summer television lineup. The new series, which chronicles the search for the franchise’s next professional ballroom dancer ahead of Dancing with the Stars Season 35, debuted to a total audience of 5.33M after three days of...",
-          "summary": "EXCLUSIVE: Dancing with the Stars: The Next Pro is proving to be a fierce new addition to the summer television lineup. The new series, which chronicles the search for the franchise’s next professional ballroom dancer ahead of Dancing with the Stars Season 35, debuted to a total audience of 5.33M after three days of...",
-          "url": "https://deadline.com/2026/07/dancing-with-the-stars-the-next-pro-premiere-ratings-abc-1236999675/",
-          "source": "Deadline",
-          "source_name": "Deadline",
-          "source_feed": "https://deadline.com/v/tv/feed/",
-          "published_at": "2026-07-21 04:32:00 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 89,
-          "key_data": [
-            "‘Dancing With The Stars: The Next Pro’ Dazzles As ABC’s Best Summer Series Premiere In 6 Years"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "tv-23-4020078865384919988",
-          "key": "tv-23-4020078865384919988",
+          "id": "tv-22-6441017758355871581",
+          "key": "tv-22-6441017758355871581",
           "category": "TV",
           "label": "TV",
           "headline": "Jacob Elordi Dishes on Nate’s Demise on ‘Euphoria’ and Breaking Both His Heels: “It’s Like ‘Fight Club'”",
@@ -2566,7 +2568,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 77,
+          "priority_score": 78,
           "key_data": [
             "Jacob Elordi Dishes on Nate’s Demise on ‘Euphoria’ and Breaking Both His Heels: “It’s Like ‘Fight Club'”"
           ],
@@ -2578,7 +2580,7 @@
           ]
         }
       ],
-      "updated_at": "2026-07-21 06:57:57 PM ET"
+      "updated_at": "2026-07-21 07:59:42 PM ET"
     },
     {
       "key": "streaming",
@@ -2596,8 +2598,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "streaming-0-4548328844052099200",
-          "key": "streaming-0-4548328844052099200",
+          "id": "streaming-0-1008957996163296467",
+          "key": "streaming-0-1008957996163296467",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'Obsession' to new 'Descendants,' 10 movies to stream right now - USA Today",
@@ -2624,8 +2626,8 @@
           ]
         },
         {
-          "id": "streaming-1-2043832140120503296",
-          "key": "streaming-1-2043832140120503296",
+          "id": "streaming-1-8537103118446983890",
+          "key": "streaming-1-8537103118446983890",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "5 Best New Movies to Stream This Weekend (July 17-19): ‘Obsession’ and More - Us Weekly",
@@ -2654,8 +2656,8 @@
       ],
       "items": [
         {
-          "id": "streaming-0-4548328844052099200",
-          "key": "streaming-0-4548328844052099200",
+          "id": "streaming-0-1008957996163296467",
+          "key": "streaming-0-1008957996163296467",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'Obsession' to new 'Descendants,' 10 movies to stream right now - USA Today",
@@ -2682,8 +2684,8 @@
           ]
         },
         {
-          "id": "streaming-1-2043832140120503296",
-          "key": "streaming-1-2043832140120503296",
+          "id": "streaming-1-8537103118446983890",
+          "key": "streaming-1-8537103118446983890",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "5 Best New Movies to Stream This Weekend (July 17-19): ‘Obsession’ and More - Us Weekly",
@@ -2710,37 +2712,37 @@
           ]
         }
       ],
-      "updated_at": "2026-07-21 06:57:58 PM ET"
+      "updated_at": "2026-07-21 07:59:43 PM ET"
     },
     {
       "key": "music",
       "name": "Music",
       "title": "Music Report",
-      "headline": "Harry Styles’ Concert in Brazil Tonight Canceled Due to Unspecified ‘Tour Illness’",
+      "headline": "Harry Styles Concert in Brazil Canceled Due to Unspecified ‘Tour Illness’",
       "snapshot": "Music coverage is updating with 6 current RSS headline item(s).",
       "key_storylines": [
-        "Harry Styles’ Concert in Brazil Tonight Canceled Due to Unspecified ‘Tour Illness’",
-        "Lizzo Is ‘That Grrrl’ In ‘Sports Illustrated’ Swimsuit Cover Debut: ‘My Newest Fantasy Is Feeling Good in My Body & Enjoying My Life’",
+        "Harry Styles Concert in Brazil Canceled Due to Unspecified ‘Tour Illness’",
+        "Watch 5 Seconds of Summer Choose to Eat ‘Death Wings’ Rather Than Rank Each Other’s Solo Albums",
         "Billboard’s 2026 Top Music Lawyers Revealed - Billboard",
         "Academy of Country Music Appoints Andy Schuon as New CEO",
-        "‘Twilight’ Saga Sparkles Again With Alex and Ani’s New Vampire-Inspired Jewelry Line"
+        "Doja Cat & Latto Team Up for Sexy 2000s-Themed ‘Okayyy’ Video, Atlanta Rapper to Join Doja’s Ma Vie World Tour"
       ],
       "watch_list": [
-        "Harry Styles’ Concert in Brazil Tonight Canceled Due to Unspecified ‘Tour Illness’",
-        "Lizzo Is ‘That Grrrl’ In ‘Sports Illustrated’ Swimsuit Cover Debut: ‘My Newest Fantasy Is Feeling Good in My Body & Enjoying My Life’",
+        "Harry Styles Concert in Brazil Canceled Due to Unspecified ‘Tour Illness’",
+        "Watch 5 Seconds of Summer Choose to Eat ‘Death Wings’ Rather Than Rank Each Other’s Solo Albums",
         "Billboard’s 2026 Top Music Lawyers Revealed - Billboard",
         "Academy of Country Music Appoints Andy Schuon as New CEO",
-        "‘Twilight’ Saga Sparkles Again With Alex and Ani’s New Vampire-Inspired Jewelry Line",
+        "Doja Cat & Latto Team Up for Sexy 2000s-Themed ‘Okayyy’ Video, Atlanta Rapper to Join Doja’s Ma Vie World Tour",
         "Billboard Names Nine Pryor Cashman Attorneys to 2026 Top Music Lawyers List - Pryor Cashman LLP"
       ],
       "homepage_cards": [
         {
-          "id": "music-0-8021795596068270310",
-          "key": "music-0-8021795596068270310",
+          "id": "music-0-3925259524953637065",
+          "key": "music-0-3925259524953637065",
           "category": "Music",
           "label": "Music",
-          "headline": "Harry Styles’ Concert in Brazil Tonight Canceled Due to Unspecified ‘Tour Illness’",
-          "title": "Harry Styles’ Concert in Brazil Tonight Canceled Due to Unspecified ‘Tour Illness’",
+          "headline": "Harry Styles Concert in Brazil Canceled Due to Unspecified ‘Tour Illness’",
+          "title": "Harry Styles Concert in Brazil Canceled Due to Unspecified ‘Tour Illness’",
           "snapshot": "Harry Styles’ concert scheduled for Tuesday night in Brazil has been canceled due to an unspecified “tour illness,” although Friday’s concert will take place as scheduled, according to the announcement. A rep for the singer had no further comment beyond the statement below, which reads in full:“We deeply regret to s...",
           "summary": "Harry Styles’ concert scheduled for Tuesday night in Brazil has been canceled due to an unspecified “tour illness,” although Friday’s concert will take place as scheduled, according to the announcement. A rep for the singer had no further comment beyond the statement below, which reads in full:“We deeply regret to s...",
           "url": "https://variety.com/2026/music/news/harry-styles-concert-in-brazil-canceled-illness-1236817219/",
@@ -2753,7 +2755,7 @@
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Harry Styles’ Concert in Brazil Tonight Canceled Due to Unspecified ‘Tour Illness’"
+            "Harry Styles Concert in Brazil Canceled Due to Unspecified ‘Tour Illness’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2763,25 +2765,25 @@
           ]
         },
         {
-          "id": "music-9-2167487642872423364",
-          "key": "music-9-2167487642872423364",
+          "id": "music-9-1705395630165212124",
+          "key": "music-9-1705395630165212124",
           "category": "Music",
           "label": "Music",
-          "headline": "Lizzo Is ‘That Grrrl’ In ‘Sports Illustrated’ Swimsuit Cover Debut: ‘My Newest Fantasy Is Feeling Good in My Body & Enjoying My Life’",
-          "title": "Lizzo Is ‘That Grrrl’ In ‘Sports Illustrated’ Swimsuit Cover Debut: ‘My Newest Fantasy Is Feeling Good in My Body & Enjoying My Life’",
-          "snapshot": "The Grammy winner also gave an update on her forthcoming Sister Rosetta Tharpe biopic.",
-          "summary": "The Grammy winner also gave an update on her forthcoming Sister Rosetta Tharpe biopic.",
-          "url": "https://www.billboard.com/music/music-news/lizzo-sports-illustrated-swimsuit-cover-debut-photos-1236300238/",
+          "headline": "Watch 5 Seconds of Summer Choose to Eat ‘Death Wings’ Rather Than Rank Each Other’s Solo Albums",
+          "title": "Watch 5 Seconds of Summer Choose to Eat ‘Death Wings’ Rather Than Rank Each Other’s Solo Albums",
+          "snapshot": "The Australian band trade loyalty for ultimate bragging rights on Hot Ones Versus while eating scorching wings & asking brutally honest questions.",
+          "summary": "The Australian band trade loyalty for ultimate bragging rights on Hot Ones Versus while eating scorching wings & asking brutally honest questions.",
+          "url": "https://www.billboard.com/music/pop/5-seconds-of-summer-hot-ones-versus-video-1236300262/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-07-21 06:43:11 PM ET",
+          "published_at": "2026-07-21 07:53:54 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 91,
           "key_data": [
-            "Lizzo Is ‘That Grrrl’ In ‘Sports Illustrated’ Swimsuit Cover Debut: ‘My Newest Fantasy Is Feeling Good in My Body & Enjoying My Life’"
+            "Watch 5 Seconds of Summer Choose to Eat ‘Death Wings’ Rather Than Rank Each Other’s Solo Albums"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2791,8 +2793,8 @@
           ]
         },
         {
-          "id": "music-19-4973132652585994102",
-          "key": "music-19-4973132652585994102",
+          "id": "music-19-3125211923823656541",
+          "key": "music-19-3125211923823656541",
           "category": "Music",
           "label": "Music",
           "headline": "Billboard’s 2026 Top Music Lawyers Revealed - Billboard",
@@ -2819,8 +2821,8 @@
           ]
         },
         {
-          "id": "music-1-7174365370731625725",
-          "key": "music-1-7174365370731625725",
+          "id": "music-1-4680165560669308005",
+          "key": "music-1-4680165560669308005",
           "category": "Music",
           "label": "Music",
           "headline": "Academy of Country Music Appoints Andy Schuon as New CEO",
@@ -2847,25 +2849,25 @@
           ]
         },
         {
-          "id": "music-10-3290493638182997887",
-          "key": "music-10-3290493638182997887",
+          "id": "music-10-4801476856942997731",
+          "key": "music-10-4801476856942997731",
           "category": "Music",
           "label": "Music",
-          "headline": "‘Twilight’ Saga Sparkles Again With Alex and Ani’s New Vampire-Inspired Jewelry Line",
-          "title": "‘Twilight’ Saga Sparkles Again With Alex and Ani’s New Vampire-Inspired Jewelry Line",
-          "snapshot": "Team Edward, Team Jacob or simply Team Twilight ? Fans can relive the vampire romance that defined a generation with Alex and Ani’s new jewelry line.",
-          "summary": "Team Edward, Team Jacob or simply Team Twilight ? Fans can relive the vampire romance that defined a generation with Alex and Ani’s new jewelry line.",
-          "url": "https://www.billboard.com/culture/product-recommendations/twilight-alex-and-ani-jewelry-collection-buy-shop-online-1236299854/",
+          "headline": "Doja Cat & Latto Team Up for Sexy 2000s-Themed ‘Okayyy’ Video, Atlanta Rapper to Join Doja’s Ma Vie World Tour",
+          "title": "Doja Cat & Latto Team Up for Sexy 2000s-Themed ‘Okayyy’ Video, Atlanta Rapper to Join Doja’s Ma Vie World Tour",
+          "snapshot": "The North American leg of Doja's trek kicks off Oct. 1 in Detroit.",
+          "summary": "The North American leg of Doja's trek kicks off Oct. 1 in Detroit.",
+          "url": "https://www.billboard.com/music/rb-hip-hop/doja-cat-latto-okayyy-video-tour-ma-vie-1236300237/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-07-21 06:33:15 PM ET",
+          "published_at": "2026-07-21 07:37:47 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "‘Twilight’ Saga Sparkles Again With Alex and Ani’s New Vampire-Inspired Jewelry Line"
+            "Doja Cat & Latto Team Up for Sexy 2000s-Themed ‘Okayyy’ Video, Atlanta Rapper to Join Doja’s Ma Vie World Tour"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2875,8 +2877,8 @@
           ]
         },
         {
-          "id": "music-20-4589490337328294012",
-          "key": "music-20-4589490337328294012",
+          "id": "music-20-7698135834830313473",
+          "key": "music-20-7698135834830313473",
           "category": "Music",
           "label": "Music",
           "headline": "Billboard Names Nine Pryor Cashman Attorneys to 2026 Top Music Lawyers List - Pryor Cashman LLP",
@@ -2905,12 +2907,12 @@
       ],
       "items": [
         {
-          "id": "music-0-8021795596068270310",
-          "key": "music-0-8021795596068270310",
+          "id": "music-0-3925259524953637065",
+          "key": "music-0-3925259524953637065",
           "category": "Music",
           "label": "Music",
-          "headline": "Harry Styles’ Concert in Brazil Tonight Canceled Due to Unspecified ‘Tour Illness’",
-          "title": "Harry Styles’ Concert in Brazil Tonight Canceled Due to Unspecified ‘Tour Illness’",
+          "headline": "Harry Styles Concert in Brazil Canceled Due to Unspecified ‘Tour Illness’",
+          "title": "Harry Styles Concert in Brazil Canceled Due to Unspecified ‘Tour Illness’",
           "snapshot": "Harry Styles’ concert scheduled for Tuesday night in Brazil has been canceled due to an unspecified “tour illness,” although Friday’s concert will take place as scheduled, according to the announcement. A rep for the singer had no further comment beyond the statement below, which reads in full:“We deeply regret to s...",
           "summary": "Harry Styles’ concert scheduled for Tuesday night in Brazil has been canceled due to an unspecified “tour illness,” although Friday’s concert will take place as scheduled, according to the announcement. A rep for the singer had no further comment beyond the statement below, which reads in full:“We deeply regret to s...",
           "url": "https://variety.com/2026/music/news/harry-styles-concert-in-brazil-canceled-illness-1236817219/",
@@ -2923,7 +2925,7 @@
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Harry Styles’ Concert in Brazil Tonight Canceled Due to Unspecified ‘Tour Illness’"
+            "Harry Styles Concert in Brazil Canceled Due to Unspecified ‘Tour Illness’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2933,25 +2935,25 @@
           ]
         },
         {
-          "id": "music-9-2167487642872423364",
-          "key": "music-9-2167487642872423364",
+          "id": "music-9-1705395630165212124",
+          "key": "music-9-1705395630165212124",
           "category": "Music",
           "label": "Music",
-          "headline": "Lizzo Is ‘That Grrrl’ In ‘Sports Illustrated’ Swimsuit Cover Debut: ‘My Newest Fantasy Is Feeling Good in My Body & Enjoying My Life’",
-          "title": "Lizzo Is ‘That Grrrl’ In ‘Sports Illustrated’ Swimsuit Cover Debut: ‘My Newest Fantasy Is Feeling Good in My Body & Enjoying My Life’",
-          "snapshot": "The Grammy winner also gave an update on her forthcoming Sister Rosetta Tharpe biopic.",
-          "summary": "The Grammy winner also gave an update on her forthcoming Sister Rosetta Tharpe biopic.",
-          "url": "https://www.billboard.com/music/music-news/lizzo-sports-illustrated-swimsuit-cover-debut-photos-1236300238/",
+          "headline": "Watch 5 Seconds of Summer Choose to Eat ‘Death Wings’ Rather Than Rank Each Other’s Solo Albums",
+          "title": "Watch 5 Seconds of Summer Choose to Eat ‘Death Wings’ Rather Than Rank Each Other’s Solo Albums",
+          "snapshot": "The Australian band trade loyalty for ultimate bragging rights on Hot Ones Versus while eating scorching wings & asking brutally honest questions.",
+          "summary": "The Australian band trade loyalty for ultimate bragging rights on Hot Ones Versus while eating scorching wings & asking brutally honest questions.",
+          "url": "https://www.billboard.com/music/pop/5-seconds-of-summer-hot-ones-versus-video-1236300262/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-07-21 06:43:11 PM ET",
+          "published_at": "2026-07-21 07:53:54 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 91,
           "key_data": [
-            "Lizzo Is ‘That Grrrl’ In ‘Sports Illustrated’ Swimsuit Cover Debut: ‘My Newest Fantasy Is Feeling Good in My Body & Enjoying My Life’"
+            "Watch 5 Seconds of Summer Choose to Eat ‘Death Wings’ Rather Than Rank Each Other’s Solo Albums"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2961,8 +2963,8 @@
           ]
         },
         {
-          "id": "music-19-4973132652585994102",
-          "key": "music-19-4973132652585994102",
+          "id": "music-19-3125211923823656541",
+          "key": "music-19-3125211923823656541",
           "category": "Music",
           "label": "Music",
           "headline": "Billboard’s 2026 Top Music Lawyers Revealed - Billboard",
@@ -2989,8 +2991,8 @@
           ]
         },
         {
-          "id": "music-1-7174365370731625725",
-          "key": "music-1-7174365370731625725",
+          "id": "music-1-4680165560669308005",
+          "key": "music-1-4680165560669308005",
           "category": "Music",
           "label": "Music",
           "headline": "Academy of Country Music Appoints Andy Schuon as New CEO",
@@ -3017,25 +3019,25 @@
           ]
         },
         {
-          "id": "music-10-3290493638182997887",
-          "key": "music-10-3290493638182997887",
+          "id": "music-10-4801476856942997731",
+          "key": "music-10-4801476856942997731",
           "category": "Music",
           "label": "Music",
-          "headline": "‘Twilight’ Saga Sparkles Again With Alex and Ani’s New Vampire-Inspired Jewelry Line",
-          "title": "‘Twilight’ Saga Sparkles Again With Alex and Ani’s New Vampire-Inspired Jewelry Line",
-          "snapshot": "Team Edward, Team Jacob or simply Team Twilight ? Fans can relive the vampire romance that defined a generation with Alex and Ani’s new jewelry line.",
-          "summary": "Team Edward, Team Jacob or simply Team Twilight ? Fans can relive the vampire romance that defined a generation with Alex and Ani’s new jewelry line.",
-          "url": "https://www.billboard.com/culture/product-recommendations/twilight-alex-and-ani-jewelry-collection-buy-shop-online-1236299854/",
+          "headline": "Doja Cat & Latto Team Up for Sexy 2000s-Themed ‘Okayyy’ Video, Atlanta Rapper to Join Doja’s Ma Vie World Tour",
+          "title": "Doja Cat & Latto Team Up for Sexy 2000s-Themed ‘Okayyy’ Video, Atlanta Rapper to Join Doja’s Ma Vie World Tour",
+          "snapshot": "The North American leg of Doja's trek kicks off Oct. 1 in Detroit.",
+          "summary": "The North American leg of Doja's trek kicks off Oct. 1 in Detroit.",
+          "url": "https://www.billboard.com/music/rb-hip-hop/doja-cat-latto-okayyy-video-tour-ma-vie-1236300237/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-07-21 06:33:15 PM ET",
+          "published_at": "2026-07-21 07:37:47 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "‘Twilight’ Saga Sparkles Again With Alex and Ani’s New Vampire-Inspired Jewelry Line"
+            "Doja Cat & Latto Team Up for Sexy 2000s-Themed ‘Okayyy’ Video, Atlanta Rapper to Join Doja’s Ma Vie World Tour"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3045,8 +3047,8 @@
           ]
         },
         {
-          "id": "music-20-4589490337328294012",
-          "key": "music-20-4589490337328294012",
+          "id": "music-20-7698135834830313473",
+          "key": "music-20-7698135834830313473",
           "category": "Music",
           "label": "Music",
           "headline": "Billboard Names Nine Pryor Cashman Attorneys to 2026 Top Music Lawyers List - Pryor Cashman LLP",
@@ -3073,7 +3075,7 @@
           ]
         }
       ],
-      "updated_at": "2026-07-21 06:57:58 PM ET"
+      "updated_at": "2026-07-21 07:59:44 PM ET"
     },
     {
       "key": "awards",
@@ -3095,8 +3097,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "awards-0-5182525685348776493",
-          "key": "awards-0-5182525685348776493",
+          "id": "awards-0-2837058352989479134",
+          "key": "awards-0-2837058352989479134",
           "category": "Awards",
           "label": "Awards",
           "headline": "Zendaya and Tom Holland Promote ‘Spider-Man: Brand New Day’ in NYC, Nicole Kidman Takes in Wimbledon and More Celeb Red Carpet Photos: July 2026",
@@ -3123,8 +3125,8 @@
           ]
         },
         {
-          "id": "awards-8-6284889859989623531",
-          "key": "awards-8-6284889859989623531",
+          "id": "awards-8-3799786672472806060",
+          "key": "awards-8-3799786672472806060",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo",
@@ -3151,8 +3153,8 @@
           ]
         },
         {
-          "id": "awards-1-6811356367028415386",
-          "key": "awards-1-6811356367028415386",
+          "id": "awards-1-3225325039636808800",
+          "key": "awards-1-3225325039636808800",
           "category": "Awards",
           "label": "Awards",
           "headline": "Anne Hathaway’s 13 Best Performances: From ‘The Devil Wears Prada’ to ‘The Odyssey’",
@@ -3179,8 +3181,8 @@
           ]
         },
         {
-          "id": "awards-9-4450637948336908597",
-          "key": "awards-9-4450637948336908597",
+          "id": "awards-9-170555775055664310",
+          "key": "awards-9-170555775055664310",
           "category": "Awards",
           "label": "Awards",
           "headline": "Awards Season Calendar: Key Dates for Oscars, Emmys, Tonys, Grammys, Golden Globes and Other Major Events - The Hollywood Reporter",
@@ -3209,8 +3211,8 @@
       ],
       "items": [
         {
-          "id": "awards-0-5182525685348776493",
-          "key": "awards-0-5182525685348776493",
+          "id": "awards-0-2837058352989479134",
+          "key": "awards-0-2837058352989479134",
           "category": "Awards",
           "label": "Awards",
           "headline": "Zendaya and Tom Holland Promote ‘Spider-Man: Brand New Day’ in NYC, Nicole Kidman Takes in Wimbledon and More Celeb Red Carpet Photos: July 2026",
@@ -3237,8 +3239,8 @@
           ]
         },
         {
-          "id": "awards-8-6284889859989623531",
-          "key": "awards-8-6284889859989623531",
+          "id": "awards-8-3799786672472806060",
+          "key": "awards-8-3799786672472806060",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo",
@@ -3265,8 +3267,8 @@
           ]
         },
         {
-          "id": "awards-1-6811356367028415386",
-          "key": "awards-1-6811356367028415386",
+          "id": "awards-1-3225325039636808800",
+          "key": "awards-1-3225325039636808800",
           "category": "Awards",
           "label": "Awards",
           "headline": "Anne Hathaway’s 13 Best Performances: From ‘The Devil Wears Prada’ to ‘The Odyssey’",
@@ -3293,8 +3295,8 @@
           ]
         },
         {
-          "id": "awards-9-4450637948336908597",
-          "key": "awards-9-4450637948336908597",
+          "id": "awards-9-170555775055664310",
+          "key": "awards-9-170555775055664310",
           "category": "Awards",
           "label": "Awards",
           "headline": "Awards Season Calendar: Key Dates for Oscars, Emmys, Tonys, Grammys, Golden Globes and Other Major Events - The Hollywood Reporter",
@@ -3321,7 +3323,7 @@
           ]
         }
       ],
-      "updated_at": "2026-07-21 06:57:59 PM ET"
+      "updated_at": "2026-07-21 07:59:44 PM ET"
     },
     {
       "key": "box_office",
@@ -3343,8 +3345,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "box_office-0-1394444653613998299",
-          "key": "box_office-0-1394444653613998299",
+          "id": "box_office-0-1076557690748027914",
+          "key": "box_office-0-1076557690748027914",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Ava DuVernay’s ’14th’ Documentary to World Premiere at New York Film Festival",
@@ -3371,8 +3373,8 @@
           ]
         },
         {
-          "id": "box_office-10-3651493801888773305",
-          "key": "box_office-10-3651493801888773305",
+          "id": "box_office-10-3911329747852950930",
+          "key": "box_office-10-3911329747852950930",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ Seizes $124M Opening in Box Office Triumph - The Hollywood Reporter",
@@ -3399,8 +3401,8 @@
           ]
         },
         {
-          "id": "box_office-1-4445024249923580552",
-          "key": "box_office-1-4445024249923580552",
+          "id": "box_office-1-3144342090656573067",
+          "key": "box_office-1-3144342090656573067",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ Breaks Records With Massive Debut at U.K. and Ireland Box Office",
@@ -3427,8 +3429,8 @@
           ]
         },
         {
-          "id": "box_office-11-7829978711898452898",
-          "key": "box_office-11-7829978711898452898",
+          "id": "box_office-11-3462637251443688533",
+          "key": "box_office-11-3462637251443688533",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "'90s Box Office Bombs That Changed Hollywood Forever - looper.com",
@@ -3457,8 +3459,8 @@
       ],
       "items": [
         {
-          "id": "box_office-0-1394444653613998299",
-          "key": "box_office-0-1394444653613998299",
+          "id": "box_office-0-1076557690748027914",
+          "key": "box_office-0-1076557690748027914",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Ava DuVernay’s ’14th’ Documentary to World Premiere at New York Film Festival",
@@ -3485,8 +3487,8 @@
           ]
         },
         {
-          "id": "box_office-10-3651493801888773305",
-          "key": "box_office-10-3651493801888773305",
+          "id": "box_office-10-3911329747852950930",
+          "key": "box_office-10-3911329747852950930",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ Seizes $124M Opening in Box Office Triumph - The Hollywood Reporter",
@@ -3513,8 +3515,8 @@
           ]
         },
         {
-          "id": "box_office-1-4445024249923580552",
-          "key": "box_office-1-4445024249923580552",
+          "id": "box_office-1-3144342090656573067",
+          "key": "box_office-1-3144342090656573067",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ Breaks Records With Massive Debut at U.K. and Ireland Box Office",
@@ -3541,8 +3543,8 @@
           ]
         },
         {
-          "id": "box_office-11-7829978711898452898",
-          "key": "box_office-11-7829978711898452898",
+          "id": "box_office-11-3462637251443688533",
+          "key": "box_office-11-3462637251443688533",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "'90s Box Office Bombs That Changed Hollywood Forever - looper.com",
@@ -3569,7 +3571,7 @@
           ]
         }
       ],
-      "updated_at": "2026-07-21 06:58:00 PM ET"
+      "updated_at": "2026-07-21 07:59:45 PM ET"
     },
     {
       "key": "celebrity",
@@ -3587,8 +3589,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "celebrity-0-2039745196161882762",
-          "key": "celebrity-0-2039745196161882762",
+          "id": "celebrity-0-1738031718323647446",
+          "key": "celebrity-0-1738031718323647446",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Brad Pitt, Tom Cruise, David Beckham lead star-studded celebrity sightings at 2026 FIFA World Cup - Fox News",
@@ -3615,8 +3617,8 @@
           ]
         },
         {
-          "id": "celebrity-1-3481786359027156365",
-          "key": "celebrity-1-3481786359027156365",
+          "id": "celebrity-1-1615304001410019877",
+          "key": "celebrity-1-1615304001410019877",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3645,8 +3647,8 @@
       ],
       "items": [
         {
-          "id": "celebrity-0-2039745196161882762",
-          "key": "celebrity-0-2039745196161882762",
+          "id": "celebrity-0-1738031718323647446",
+          "key": "celebrity-0-1738031718323647446",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Brad Pitt, Tom Cruise, David Beckham lead star-studded celebrity sightings at 2026 FIFA World Cup - Fox News",
@@ -3673,8 +3675,8 @@
           ]
         },
         {
-          "id": "celebrity-1-3481786359027156365",
-          "key": "celebrity-1-3481786359027156365",
+          "id": "celebrity-1-1615304001410019877",
+          "key": "celebrity-1-1615304001410019877",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3701,33 +3703,117 @@
           ]
         }
       ],
-      "updated_at": "2026-07-21 06:58:01 PM ET"
+      "updated_at": "2026-07-21 07:59:45 PM ET"
     },
     {
       "key": "hollywood",
       "name": "Hollywood",
       "title": "Hollywood Report",
-      "headline": "Snoop Dogg Biopic From Universal Hits Theaters Next Summer",
+      "headline": "‘The Odyssey’ Posts Powerful $20M Tuesday; 2nd U.S. Weekend Could Top Christopher Nolan’s ‘Dark Knight’ Pics – Box Office",
       "snapshot": "Hollywood coverage is updating with 6 current RSS headline item(s).",
       "key_storylines": [
+        "‘The Odyssey’ Posts Powerful $20M Tuesday; 2nd U.S. Weekend Could Top Christopher Nolan’s ‘Dark Knight’ Pics – Box Office",
+        "DoorDash Pushes Past Food Delivery, Offering Nearly Half Off Sephora Orders for One Day Only",
+        "Industry Leaders, Political Candidates to Host Town Hall in West Hollywood On Keeping ‘Film Here Work Here’ - wehotimes.com",
         "Snoop Dogg Biopic From Universal Hits Theaters Next Summer",
-        "Workers at Swaybox Studios, Home to Batman Animated Movie, Vote to Unionize",
-        "NYC film industry revival: Officials share plans to bring Hollywood production back to New York City - FOX 5 New York",
-        "Sony Pictures Looking To Bring Cinerama Dome & Hollywood Arclight Back To Life – The Dish",
-        "Ben Folds On Trump’s Kennedy Center Takeover: “I Could Not Trust That Artists I Booked … Would Be Safe From Retribution”"
+        "SAG-AFTRA Chief Sean Astin Pushes Gavin Newsom to Fund Postproduction Tax Incentive (Exclusive)"
       ],
       "watch_list": [
+        "‘The Odyssey’ Posts Powerful $20M Tuesday; 2nd U.S. Weekend Could Top Christopher Nolan’s ‘Dark Knight’ Pics – Box Office",
+        "DoorDash Pushes Past Food Delivery, Offering Nearly Half Off Sephora Orders for One Day Only",
+        "Industry Leaders, Political Candidates to Host Town Hall in West Hollywood On Keeping ‘Film Here Work Here’ - wehotimes.com",
         "Snoop Dogg Biopic From Universal Hits Theaters Next Summer",
-        "Workers at Swaybox Studios, Home to Batman Animated Movie, Vote to Unionize",
-        "NYC film industry revival: Officials share plans to bring Hollywood production back to New York City - FOX 5 New York",
-        "Sony Pictures Looking To Bring Cinerama Dome & Hollywood Arclight Back To Life – The Dish",
-        "Ben Folds On Trump’s Kennedy Center Takeover: “I Could Not Trust That Artists I Booked … Would Be Safe From Retribution”",
-        "Hollywood’s big online bet: Inside the industry’s race to acquire internet stories - Los Angeles Times"
+        "SAG-AFTRA Chief Sean Astin Pushes Gavin Newsom to Fund Postproduction Tax Incentive (Exclusive)",
+        "NYC film industry revival: Officials share plans to bring Hollywood production back to New York City - FOX 5 New York"
       ],
       "homepage_cards": [
         {
-          "id": "hollywood-0-6380527090262253629",
-          "key": "hollywood-0-6380527090262253629",
+          "id": "hollywood-0-1754754935299677546",
+          "key": "hollywood-0-1754754935299677546",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "‘The Odyssey’ Posts Powerful $20M Tuesday; 2nd U.S. Weekend Could Top Christopher Nolan’s ‘Dark Knight’ Pics – Box Office",
+          "title": "‘The Odyssey’ Posts Powerful $20M Tuesday; 2nd U.S. Weekend Could Top Christopher Nolan’s ‘Dark Knight’ Pics – Box Office",
+          "snapshot": "The Odyssey is on its way to a $20M Tuesday we understand, and if it gets past $20.86M today, it will become Christopher Nolan’s Best Tuesday ever at the domestic B.O., ahead of 2008’s Dark Knight. Currently, among all Tuesdays this year, the Matt Damon, Anne Hathaway, Robert Pattinson, Tom Holland, Zendaya, Jon Ber...",
+          "summary": "The Odyssey is on its way to a $20M Tuesday we understand, and if it gets past $20.86M today, it will become Christopher Nolan’s Best Tuesday ever at the domestic B.O., ahead of 2008’s Dark Knight. Currently, among all Tuesdays this year, the Matt Damon, Anne Hathaway, Robert Pattinson, Tom Holland, Zendaya, Jon Ber...",
+          "url": "https://deadline.com/2026/07/box-office-the-odyssey-tuesday-second-weekend-1236999819/",
+          "source": "Deadline",
+          "source_name": "Deadline",
+          "source_feed": "https://deadline.com/feed/",
+          "published_at": "2026-07-21 07:42:00 PM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 100,
+          "key_data": [
+            "‘The Odyssey’ Posts Powerful $20M Tuesday; 2nd U.S. Weekend Could Top Christopher Nolan’s ‘Dark Knight’ Pics – Box Office"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-4-3736624912253354230",
+          "key": "hollywood-4-3736624912253354230",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "DoorDash Pushes Past Food Delivery, Offering Nearly Half Off Sephora Orders for One Day Only",
+          "title": "DoorDash Pushes Past Food Delivery, Offering Nearly Half Off Sephora Orders for One Day Only",
+          "snapshot": "On the heels of its weeks-long World Cup promotion, the delivery platform is dropping a one-day-only deal on orders at Sephora.",
+          "summary": "On the heels of its weeks-long World Cup promotion, the delivery platform is dropping a one-day-only deal on orders at Sephora.",
+          "url": "https://www.hollywoodreporter.com/lifestyle/shopping/doordash-sephora-deal-2026-promo-code-dashpass-free-trial-1236653645/",
+          "source": "The Hollywood Reporter",
+          "source_name": "The Hollywood Reporter",
+          "source_feed": "https://www.hollywoodreporter.com/feed/",
+          "published_at": "2026-07-21 07:59:07 PM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 96,
+          "key_data": [
+            "DoorDash Pushes Past Food Delivery, Offering Nearly Half Off Sephora Orders for One Day Only"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-10-5645725626960779214",
+          "key": "hollywood-10-5645725626960779214",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "Industry Leaders, Political Candidates to Host Town Hall in West Hollywood On Keeping ‘Film Here Work Here’ - wehotimes.com",
+          "title": "Industry Leaders, Political Candidates to Host Town Hall in West Hollywood On Keeping ‘Film Here Work Here’ - wehotimes.com",
+          "snapshot": "Industry Leaders, Political Candidates to Host Town Hall in West Hollywood On Keeping ‘Film Here Work Here’ wehotimes.com",
+          "summary": "Industry Leaders, Political Candidates to Host Town Hall in West Hollywood On Keeping ‘Film Here Work Here’ wehotimes.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNGlyT09kU3F5X1MxZFBMNWU5a1dZZVJQUUpNRDVGZDFtaVB6enpvb0F4cVhwamM5ZHFzcFdKRl82dUpBU25oWVVYbkN4SEtlVUtOcmtZNTBwNk13TVdBekFFVnhpN2FmNkVkVklZVVh3WVZtTkFsdGFXcloxcFJsY1lrR3FRbFlxZ1d0eW9FOG10ZVpHcTBwLXBrVU5MREUySjk0ZGdUSGpBUWlRbTVPYXdiSUpnU0tBT2UxRjNQRWlyMlpkYlE?oc=5",
+          "source": "Google News",
+          "source_name": "Google News",
+          "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-21 05:02:50 PM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 90,
+          "key_data": [
+            "Industry Leaders, Political Candidates to Host Town Hall in West Hollywood On Keeping ‘Film Here Work Here’ - wehotimes.com"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-1-8383097068181565192",
+          "key": "hollywood-1-8383097068181565192",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Snoop Dogg Biopic From Universal Hits Theaters Next Summer",
@@ -3742,7 +3828,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 100,
+          "priority_score": 99,
           "key_data": [
             "Snoop Dogg Biopic From Universal Hits Theaters Next Summer"
           ],
@@ -3754,25 +3840,25 @@
           ]
         },
         {
-          "id": "hollywood-3-3801027144688041062",
-          "key": "hollywood-3-3801027144688041062",
+          "id": "hollywood-5-7587803747215296434",
+          "key": "hollywood-5-7587803747215296434",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Workers at Swaybox Studios, Home to Batman Animated Movie, Vote to Unionize",
-          "title": "Workers at Swaybox Studios, Home to Batman Animated Movie, Vote to Unionize",
-          "snapshot": "After an election with the National Labor Relations Board, workers on the Warner Bros. Pictures Animation and DC Studios project 'Dynamic Duo' are set to join crew union IATSE.",
-          "summary": "After an election with the National Labor Relations Board, workers on the Warner Bros. Pictures Animation and DC Studios project 'Dynamic Duo' are set to join crew union IATSE.",
-          "url": "https://www.hollywoodreporter.com/business/business-news/workers-dynamic-duo-studio-swaybox-unionize-1236653489/",
+          "headline": "SAG-AFTRA Chief Sean Astin Pushes Gavin Newsom to Fund Postproduction Tax Incentive (Exclusive)",
+          "title": "SAG-AFTRA Chief Sean Astin Pushes Gavin Newsom to Fund Postproduction Tax Incentive (Exclusive)",
+          "snapshot": "The union president is getting involved in advocating for California’s AB 2319 at an “all-hands-on-deck moment for our industry.”",
+          "summary": "The union president is getting involved in advocating for California’s AB 2319 at an “all-hands-on-deck moment for our industry.”",
+          "url": "https://www.hollywoodreporter.com/business/business-news/sean-astin-sag-aftra-postproduction-tax-credit-1236653309/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/feed/",
-          "published_at": "2026-07-21 06:03:12 PM ET",
+          "published_at": "2026-07-21 07:58:11 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 97,
+          "priority_score": 95,
           "key_data": [
-            "Workers at Swaybox Studios, Home to Batman Animated Movie, Vote to Unionize"
+            "SAG-AFTRA Chief Sean Astin Pushes Gavin Newsom to Fund Postproduction Tax Incentive (Exclusive)"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3782,8 +3868,8 @@
           ]
         },
         {
-          "id": "hollywood-7-6488417013257373308",
-          "key": "hollywood-7-6488417013257373308",
+          "id": "hollywood-11-6532748841089299512",
+          "key": "hollywood-11-6532748841089299512",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "NYC film industry revival: Officials share plans to bring Hollywood production back to New York City - FOX 5 New York",
@@ -3798,93 +3884,9 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 93,
+          "priority_score": 89,
           "key_data": [
             "NYC film industry revival: Officials share plans to bring Hollywood production back to New York City - FOX 5 New York"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "hollywood-1-5309750595278309937",
-          "key": "hollywood-1-5309750595278309937",
-          "category": "Hollywood",
-          "label": "Hollywood",
-          "headline": "Sony Pictures Looking To Bring Cinerama Dome & Hollywood Arclight Back To Life – The Dish",
-          "title": "Sony Pictures Looking To Bring Cinerama Dome & Hollywood Arclight Back To Life – The Dish",
-          "snapshot": "EXCLUSIVE: There’s some serious buzz in town that Sony is about to resuscitate the Cinerama Dome and Hollywood Arclight multiplex which has been shuttered since Covid 2020. The Culver City lot is currently in talks, we hear, with the Robertson Property Group on lease to reopen the historical cinema venue. Details ar...",
-          "summary": "EXCLUSIVE: There’s some serious buzz in town that Sony is about to resuscitate the Cinerama Dome and Hollywood Arclight multiplex which has been shuttered since Covid 2020. The Culver City lot is currently in talks, we hear, with the Robertson Property Group on lease to reopen the historical cinema venue. Details ar...",
-          "url": "https://deadline.com/2026/07/cinerama-dome-hollywood-arclight-sony-deal-1236999607/",
-          "source": "Deadline",
-          "source_name": "Deadline",
-          "source_feed": "https://deadline.com/feed/",
-          "published_at": "2026-07-21 04:15:33 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 99,
-          "key_data": [
-            "Sony Pictures Looking To Bring Cinerama Dome & Hollywood Arclight Back To Life – The Dish"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "hollywood-4-8030016218921965789",
-          "key": "hollywood-4-8030016218921965789",
-          "category": "Hollywood",
-          "label": "Hollywood",
-          "headline": "Ben Folds On Trump’s Kennedy Center Takeover: “I Could Not Trust That Artists I Booked … Would Be Safe From Retribution”",
-          "title": "Ben Folds On Trump’s Kennedy Center Takeover: “I Could Not Trust That Artists I Booked … Would Be Safe From Retribution”",
-          "snapshot": "Folds, who was one of the witnesses at a congressional hearing Tuesday, spoke to his decision to resign as artistic advisor to the National Symphony Orchestra.",
-          "summary": "Folds, who was one of the witnesses at a congressional hearing Tuesday, spoke to his decision to resign as artistic advisor to the National Symphony Orchestra.",
-          "url": "https://www.hollywoodreporter.com/news/politics-news/ben-folds-on-trump-kennedy-center-takeover-1236653505/",
-          "source": "The Hollywood Reporter",
-          "source_name": "The Hollywood Reporter",
-          "source_feed": "https://www.hollywoodreporter.com/feed/",
-          "published_at": "2026-07-21 05:30:49 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 96,
-          "key_data": [
-            "Ben Folds On Trump’s Kennedy Center Takeover: “I Could Not Trust That Artists I Booked … Would Be Safe From Retribution”"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "hollywood-8-2890879202332692132",
-          "key": "hollywood-8-2890879202332692132",
-          "category": "Hollywood",
-          "label": "Hollywood",
-          "headline": "Hollywood’s big online bet: Inside the industry’s race to acquire internet stories - Los Angeles Times",
-          "title": "Hollywood’s big online bet: Inside the industry’s race to acquire internet stories - Los Angeles Times",
-          "snapshot": "Hollywood’s big online bet: Inside the industry’s race to acquire internet stories Los Angeles Times",
-          "summary": "Hollywood’s big online bet: Inside the industry’s race to acquire internet stories Los Angeles Times",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV0pHa0wxNHp1d095b01adklGSnJ0cXJia0g1WjZSOGt4cnpOeUhPY1NFLUFrY3ZKWWgxa0ZwZTdxdUlycVNfdFdkVmJaWjk2cS0wYVd3Qm9MNUkzUXJ0VlQxekc3TW02bWp3YXpsZzZYSUJCVTVKQms1VDhTTU9CclIwR1BBOURHWHVJS0lhN0VVbURFaWZIdTVwcmFYXzRMYmhHZkJ3TEVweXYzZWlUYTZVZFN3UXlxU29sR04teGY4a0tSUEJHb3JNVVVyRVNUQ1cw?oc=5",
-          "source": "Google News",
-          "source_name": "Google News",
-          "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-07-08 03:00:00 AM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 92,
-          "key_data": [
-            "Hollywood’s big online bet: Inside the industry’s race to acquire internet stories - Los Angeles Times"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3896,8 +3898,92 @@
       ],
       "items": [
         {
-          "id": "hollywood-0-6380527090262253629",
-          "key": "hollywood-0-6380527090262253629",
+          "id": "hollywood-0-1754754935299677546",
+          "key": "hollywood-0-1754754935299677546",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "‘The Odyssey’ Posts Powerful $20M Tuesday; 2nd U.S. Weekend Could Top Christopher Nolan’s ‘Dark Knight’ Pics – Box Office",
+          "title": "‘The Odyssey’ Posts Powerful $20M Tuesday; 2nd U.S. Weekend Could Top Christopher Nolan’s ‘Dark Knight’ Pics – Box Office",
+          "snapshot": "The Odyssey is on its way to a $20M Tuesday we understand, and if it gets past $20.86M today, it will become Christopher Nolan’s Best Tuesday ever at the domestic B.O., ahead of 2008’s Dark Knight. Currently, among all Tuesdays this year, the Matt Damon, Anne Hathaway, Robert Pattinson, Tom Holland, Zendaya, Jon Ber...",
+          "summary": "The Odyssey is on its way to a $20M Tuesday we understand, and if it gets past $20.86M today, it will become Christopher Nolan’s Best Tuesday ever at the domestic B.O., ahead of 2008’s Dark Knight. Currently, among all Tuesdays this year, the Matt Damon, Anne Hathaway, Robert Pattinson, Tom Holland, Zendaya, Jon Ber...",
+          "url": "https://deadline.com/2026/07/box-office-the-odyssey-tuesday-second-weekend-1236999819/",
+          "source": "Deadline",
+          "source_name": "Deadline",
+          "source_feed": "https://deadline.com/feed/",
+          "published_at": "2026-07-21 07:42:00 PM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 100,
+          "key_data": [
+            "‘The Odyssey’ Posts Powerful $20M Tuesday; 2nd U.S. Weekend Could Top Christopher Nolan’s ‘Dark Knight’ Pics – Box Office"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-4-3736624912253354230",
+          "key": "hollywood-4-3736624912253354230",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "DoorDash Pushes Past Food Delivery, Offering Nearly Half Off Sephora Orders for One Day Only",
+          "title": "DoorDash Pushes Past Food Delivery, Offering Nearly Half Off Sephora Orders for One Day Only",
+          "snapshot": "On the heels of its weeks-long World Cup promotion, the delivery platform is dropping a one-day-only deal on orders at Sephora.",
+          "summary": "On the heels of its weeks-long World Cup promotion, the delivery platform is dropping a one-day-only deal on orders at Sephora.",
+          "url": "https://www.hollywoodreporter.com/lifestyle/shopping/doordash-sephora-deal-2026-promo-code-dashpass-free-trial-1236653645/",
+          "source": "The Hollywood Reporter",
+          "source_name": "The Hollywood Reporter",
+          "source_feed": "https://www.hollywoodreporter.com/feed/",
+          "published_at": "2026-07-21 07:59:07 PM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 96,
+          "key_data": [
+            "DoorDash Pushes Past Food Delivery, Offering Nearly Half Off Sephora Orders for One Day Only"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-10-5645725626960779214",
+          "key": "hollywood-10-5645725626960779214",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "Industry Leaders, Political Candidates to Host Town Hall in West Hollywood On Keeping ‘Film Here Work Here’ - wehotimes.com",
+          "title": "Industry Leaders, Political Candidates to Host Town Hall in West Hollywood On Keeping ‘Film Here Work Here’ - wehotimes.com",
+          "snapshot": "Industry Leaders, Political Candidates to Host Town Hall in West Hollywood On Keeping ‘Film Here Work Here’ wehotimes.com",
+          "summary": "Industry Leaders, Political Candidates to Host Town Hall in West Hollywood On Keeping ‘Film Here Work Here’ wehotimes.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNGlyT09kU3F5X1MxZFBMNWU5a1dZZVJQUUpNRDVGZDFtaVB6enpvb0F4cVhwamM5ZHFzcFdKRl82dUpBU25oWVVYbkN4SEtlVUtOcmtZNTBwNk13TVdBekFFVnhpN2FmNkVkVklZVVh3WVZtTkFsdGFXcloxcFJsY1lrR3FRbFlxZ1d0eW9FOG10ZVpHcTBwLXBrVU5MREUySjk0ZGdUSGpBUWlRbTVPYXdiSUpnU0tBT2UxRjNQRWlyMlpkYlE?oc=5",
+          "source": "Google News",
+          "source_name": "Google News",
+          "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-21 05:02:50 PM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 90,
+          "key_data": [
+            "Industry Leaders, Political Candidates to Host Town Hall in West Hollywood On Keeping ‘Film Here Work Here’ - wehotimes.com"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-1-8383097068181565192",
+          "key": "hollywood-1-8383097068181565192",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Snoop Dogg Biopic From Universal Hits Theaters Next Summer",
@@ -3912,7 +3998,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 100,
+          "priority_score": 99,
           "key_data": [
             "Snoop Dogg Biopic From Universal Hits Theaters Next Summer"
           ],
@@ -3924,25 +4010,25 @@
           ]
         },
         {
-          "id": "hollywood-3-3801027144688041062",
-          "key": "hollywood-3-3801027144688041062",
+          "id": "hollywood-5-7587803747215296434",
+          "key": "hollywood-5-7587803747215296434",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Workers at Swaybox Studios, Home to Batman Animated Movie, Vote to Unionize",
-          "title": "Workers at Swaybox Studios, Home to Batman Animated Movie, Vote to Unionize",
-          "snapshot": "After an election with the National Labor Relations Board, workers on the Warner Bros. Pictures Animation and DC Studios project 'Dynamic Duo' are set to join crew union IATSE.",
-          "summary": "After an election with the National Labor Relations Board, workers on the Warner Bros. Pictures Animation and DC Studios project 'Dynamic Duo' are set to join crew union IATSE.",
-          "url": "https://www.hollywoodreporter.com/business/business-news/workers-dynamic-duo-studio-swaybox-unionize-1236653489/",
+          "headline": "SAG-AFTRA Chief Sean Astin Pushes Gavin Newsom to Fund Postproduction Tax Incentive (Exclusive)",
+          "title": "SAG-AFTRA Chief Sean Astin Pushes Gavin Newsom to Fund Postproduction Tax Incentive (Exclusive)",
+          "snapshot": "The union president is getting involved in advocating for California’s AB 2319 at an “all-hands-on-deck moment for our industry.”",
+          "summary": "The union president is getting involved in advocating for California’s AB 2319 at an “all-hands-on-deck moment for our industry.”",
+          "url": "https://www.hollywoodreporter.com/business/business-news/sean-astin-sag-aftra-postproduction-tax-credit-1236653309/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/feed/",
-          "published_at": "2026-07-21 06:03:12 PM ET",
+          "published_at": "2026-07-21 07:58:11 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 97,
+          "priority_score": 95,
           "key_data": [
-            "Workers at Swaybox Studios, Home to Batman Animated Movie, Vote to Unionize"
+            "SAG-AFTRA Chief Sean Astin Pushes Gavin Newsom to Fund Postproduction Tax Incentive (Exclusive)"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3952,8 +4038,8 @@
           ]
         },
         {
-          "id": "hollywood-7-6488417013257373308",
-          "key": "hollywood-7-6488417013257373308",
+          "id": "hollywood-11-6532748841089299512",
+          "key": "hollywood-11-6532748841089299512",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "NYC film industry revival: Officials share plans to bring Hollywood production back to New York City - FOX 5 New York",
@@ -3968,7 +4054,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 93,
+          "priority_score": 89,
           "key_data": [
             "NYC film industry revival: Officials share plans to bring Hollywood production back to New York City - FOX 5 New York"
           ],
@@ -3978,93 +4064,9 @@
           "what_to_watch": [
             "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
           ]
-        },
-        {
-          "id": "hollywood-1-5309750595278309937",
-          "key": "hollywood-1-5309750595278309937",
-          "category": "Hollywood",
-          "label": "Hollywood",
-          "headline": "Sony Pictures Looking To Bring Cinerama Dome & Hollywood Arclight Back To Life – The Dish",
-          "title": "Sony Pictures Looking To Bring Cinerama Dome & Hollywood Arclight Back To Life – The Dish",
-          "snapshot": "EXCLUSIVE: There’s some serious buzz in town that Sony is about to resuscitate the Cinerama Dome and Hollywood Arclight multiplex which has been shuttered since Covid 2020. The Culver City lot is currently in talks, we hear, with the Robertson Property Group on lease to reopen the historical cinema venue. Details ar...",
-          "summary": "EXCLUSIVE: There’s some serious buzz in town that Sony is about to resuscitate the Cinerama Dome and Hollywood Arclight multiplex which has been shuttered since Covid 2020. The Culver City lot is currently in talks, we hear, with the Robertson Property Group on lease to reopen the historical cinema venue. Details ar...",
-          "url": "https://deadline.com/2026/07/cinerama-dome-hollywood-arclight-sony-deal-1236999607/",
-          "source": "Deadline",
-          "source_name": "Deadline",
-          "source_feed": "https://deadline.com/feed/",
-          "published_at": "2026-07-21 04:15:33 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 99,
-          "key_data": [
-            "Sony Pictures Looking To Bring Cinerama Dome & Hollywood Arclight Back To Life – The Dish"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "hollywood-4-8030016218921965789",
-          "key": "hollywood-4-8030016218921965789",
-          "category": "Hollywood",
-          "label": "Hollywood",
-          "headline": "Ben Folds On Trump’s Kennedy Center Takeover: “I Could Not Trust That Artists I Booked … Would Be Safe From Retribution”",
-          "title": "Ben Folds On Trump’s Kennedy Center Takeover: “I Could Not Trust That Artists I Booked … Would Be Safe From Retribution”",
-          "snapshot": "Folds, who was one of the witnesses at a congressional hearing Tuesday, spoke to his decision to resign as artistic advisor to the National Symphony Orchestra.",
-          "summary": "Folds, who was one of the witnesses at a congressional hearing Tuesday, spoke to his decision to resign as artistic advisor to the National Symphony Orchestra.",
-          "url": "https://www.hollywoodreporter.com/news/politics-news/ben-folds-on-trump-kennedy-center-takeover-1236653505/",
-          "source": "The Hollywood Reporter",
-          "source_name": "The Hollywood Reporter",
-          "source_feed": "https://www.hollywoodreporter.com/feed/",
-          "published_at": "2026-07-21 05:30:49 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 96,
-          "key_data": [
-            "Ben Folds On Trump’s Kennedy Center Takeover: “I Could Not Trust That Artists I Booked … Would Be Safe From Retribution”"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "hollywood-8-2890879202332692132",
-          "key": "hollywood-8-2890879202332692132",
-          "category": "Hollywood",
-          "label": "Hollywood",
-          "headline": "Hollywood’s big online bet: Inside the industry’s race to acquire internet stories - Los Angeles Times",
-          "title": "Hollywood’s big online bet: Inside the industry’s race to acquire internet stories - Los Angeles Times",
-          "snapshot": "Hollywood’s big online bet: Inside the industry’s race to acquire internet stories Los Angeles Times",
-          "summary": "Hollywood’s big online bet: Inside the industry’s race to acquire internet stories Los Angeles Times",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV0pHa0wxNHp1d095b01adklGSnJ0cXJia0g1WjZSOGt4cnpOeUhPY1NFLUFrY3ZKWWgxa0ZwZTdxdUlycVNfdFdkVmJaWjk2cS0wYVd3Qm9MNUkzUXJ0VlQxekc3TW02bWp3YXpsZzZYSUJCVTVKQms1VDhTTU9CclIwR1BBOURHWHVJS0lhN0VVbURFaWZIdTVwcmFYXzRMYmhHZkJ3TEVweXYzZWlUYTZVZFN3UXlxU29sR04teGY4a0tSUEJHb3JNVVVyRVNUQ1cw?oc=5",
-          "source": "Google News",
-          "source_name": "Google News",
-          "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-07-08 03:00:00 AM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 92,
-          "key_data": [
-            "Hollywood’s big online bet: Inside the industry’s race to acquire internet stories - Los Angeles Times"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
         }
       ],
-      "updated_at": "2026-07-21 06:58:02 PM ET"
+      "updated_at": "2026-07-21 07:59:46 PM ET"
     },
     {
       "key": "gaming",
@@ -4084,8 +4086,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "gaming-0-6399593691349162147",
-          "key": "gaming-0-6399593691349162147",
+          "id": "gaming-0-2390155771015539702",
+          "key": "gaming-0-2390155771015539702",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Magic: The Gathering’s Most Valuable Cards of 2026 So Far",
@@ -4112,8 +4114,8 @@
           ]
         },
         {
-          "id": "gaming-20-5908619885482386597",
-          "key": "gaming-20-5908619885482386597",
+          "id": "gaming-20-7657628835702787919",
+          "key": "gaming-20-7657628835702787919",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Where We Are Going Today: Ress Gaming Center offers a fresh take on entertainment in Riyadh - arabnews.jp",
@@ -4140,8 +4142,8 @@
           ]
         },
         {
-          "id": "gaming-1-1505862853043719561",
-          "key": "gaming-1-1505862853043719561",
+          "id": "gaming-1-1744745309414401561",
+          "key": "gaming-1-1744745309414401561",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "NARUTO Mythos TCG Is Coming to the U.S., See It First at San Diego Comic-Con",
@@ -4170,8 +4172,8 @@
       ],
       "items": [
         {
-          "id": "gaming-0-6399593691349162147",
-          "key": "gaming-0-6399593691349162147",
+          "id": "gaming-0-2390155771015539702",
+          "key": "gaming-0-2390155771015539702",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Magic: The Gathering’s Most Valuable Cards of 2026 So Far",
@@ -4198,8 +4200,8 @@
           ]
         },
         {
-          "id": "gaming-20-5908619885482386597",
-          "key": "gaming-20-5908619885482386597",
+          "id": "gaming-20-7657628835702787919",
+          "key": "gaming-20-7657628835702787919",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Where We Are Going Today: Ress Gaming Center offers a fresh take on entertainment in Riyadh - arabnews.jp",
@@ -4226,8 +4228,8 @@
           ]
         },
         {
-          "id": "gaming-1-1505862853043719561",
-          "key": "gaming-1-1505862853043719561",
+          "id": "gaming-1-1744745309414401561",
+          "key": "gaming-1-1744745309414401561",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "NARUTO Mythos TCG Is Coming to the U.S., See It First at San Diego Comic-Con",
@@ -4254,7 +4256,7 @@
           ]
         }
       ],
-      "updated_at": "2026-07-21 06:58:02 PM ET"
+      "updated_at": "2026-07-21 07:59:46 PM ET"
     },
     {
       "key": "media",
@@ -4279,8 +4281,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "media-0-5874603244834762925",
-          "key": "media-0-5874603244834762925",
+          "id": "media-0-8352507335457416218",
+          "key": "media-0-8352507335457416218",
           "category": "Media",
           "label": "Media",
           "headline": "LISTEN: Christopher Nolan Gets Moviegoers Out in Force for the Trojan Horse",
@@ -4307,8 +4309,8 @@
           ]
         },
         {
-          "id": "media-9-2952730377715838434",
-          "key": "media-9-2952730377715838434",
+          "id": "media-9-2675057904271595422",
+          "key": "media-9-2675057904271595422",
           "category": "Media",
           "label": "Media",
           "headline": "Echo Lake Entertainment Hires Tanayri Novoa, Promotes Shiva Kaya",
@@ -4335,8 +4337,8 @@
           ]
         },
         {
-          "id": "media-20-7953247289181625919",
-          "key": "media-20-7953247289181625919",
+          "id": "media-19-9152834028792740092",
+          "key": "media-19-9152834028792740092",
           "category": "Media",
           "label": "Media",
           "headline": "Watch Why Fox is ‘the most Disciplined’ Media Entertainment Company in the Streaming Era - Bloomberg.com",
@@ -4351,7 +4353,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 80,
+          "priority_score": 81,
           "key_data": [
             "Watch Why Fox is ‘the most Disciplined’ Media Entertainment Company in the Streaming Era - Bloomberg.com"
           ],
@@ -4363,8 +4365,8 @@
           ]
         },
         {
-          "id": "media-1-1015663426732922726",
-          "key": "media-1-1015663426732922726",
+          "id": "media-1-7080595919956775093",
+          "key": "media-1-7080595919956775093",
           "category": "Media",
           "label": "Media",
           "headline": "LISTEN: Jon Miller on Media Merger Mayhem: ‘Globalization Is Winning’",
@@ -4391,8 +4393,8 @@
           ]
         },
         {
-          "id": "media-10-9101892329937214334",
-          "key": "media-10-9101892329937214334",
+          "id": "media-10-6555704407675930651",
+          "key": "media-10-6555704407675930651",
           "category": "Media",
           "label": "Media",
           "headline": "UTA Signs Comedian Kat Bird",
@@ -4419,8 +4421,8 @@
           ]
         },
         {
-          "id": "media-21-7855893929287408725",
-          "key": "media-21-7855893929287408725",
+          "id": "media-20-1076315162081699894",
+          "key": "media-20-1076315162081699894",
           "category": "Media",
           "label": "Media",
           "headline": "Justwummy Inks Management Deal with Sync Media Entertainment - The Guardian Nigeria News",
@@ -4435,7 +4437,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 79,
+          "priority_score": 80,
           "key_data": [
             "Justwummy Inks Management Deal with Sync Media Entertainment - The Guardian Nigeria News"
           ],
@@ -4449,8 +4451,8 @@
       ],
       "items": [
         {
-          "id": "media-0-5874603244834762925",
-          "key": "media-0-5874603244834762925",
+          "id": "media-0-8352507335457416218",
+          "key": "media-0-8352507335457416218",
           "category": "Media",
           "label": "Media",
           "headline": "LISTEN: Christopher Nolan Gets Moviegoers Out in Force for the Trojan Horse",
@@ -4477,8 +4479,8 @@
           ]
         },
         {
-          "id": "media-9-2952730377715838434",
-          "key": "media-9-2952730377715838434",
+          "id": "media-9-2675057904271595422",
+          "key": "media-9-2675057904271595422",
           "category": "Media",
           "label": "Media",
           "headline": "Echo Lake Entertainment Hires Tanayri Novoa, Promotes Shiva Kaya",
@@ -4505,8 +4507,8 @@
           ]
         },
         {
-          "id": "media-20-7953247289181625919",
-          "key": "media-20-7953247289181625919",
+          "id": "media-19-9152834028792740092",
+          "key": "media-19-9152834028792740092",
           "category": "Media",
           "label": "Media",
           "headline": "Watch Why Fox is ‘the most Disciplined’ Media Entertainment Company in the Streaming Era - Bloomberg.com",
@@ -4521,7 +4523,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 80,
+          "priority_score": 81,
           "key_data": [
             "Watch Why Fox is ‘the most Disciplined’ Media Entertainment Company in the Streaming Era - Bloomberg.com"
           ],
@@ -4533,8 +4535,8 @@
           ]
         },
         {
-          "id": "media-1-1015663426732922726",
-          "key": "media-1-1015663426732922726",
+          "id": "media-1-7080595919956775093",
+          "key": "media-1-7080595919956775093",
           "category": "Media",
           "label": "Media",
           "headline": "LISTEN: Jon Miller on Media Merger Mayhem: ‘Globalization Is Winning’",
@@ -4561,8 +4563,8 @@
           ]
         },
         {
-          "id": "media-10-9101892329937214334",
-          "key": "media-10-9101892329937214334",
+          "id": "media-10-6555704407675930651",
+          "key": "media-10-6555704407675930651",
           "category": "Media",
           "label": "Media",
           "headline": "UTA Signs Comedian Kat Bird",
@@ -4589,8 +4591,8 @@
           ]
         },
         {
-          "id": "media-21-7855893929287408725",
-          "key": "media-21-7855893929287408725",
+          "id": "media-20-1076315162081699894",
+          "key": "media-20-1076315162081699894",
           "category": "Media",
           "label": "Media",
           "headline": "Justwummy Inks Management Deal with Sync Media Entertainment - The Guardian Nigeria News",
@@ -4605,7 +4607,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 79,
+          "priority_score": 80,
           "key_data": [
             "Justwummy Inks Management Deal with Sync Media Entertainment - The Guardian Nigeria News"
           ],
@@ -4617,7 +4619,7 @@
           ]
         }
       ],
-      "updated_at": "2026-07-21 06:58:04 PM ET"
+      "updated_at": "2026-07-21 07:59:47 PM ET"
     }
   ]
 }
