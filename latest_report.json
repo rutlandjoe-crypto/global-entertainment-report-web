@@ -5,9 +5,9 @@
   "vertical": "Entertainment",
   "headline": "Marvel's Comic-Con Panel Excites Fans for 'Doomsday' but Leaves Them Cautiously Optimistic About What's Beyond",
   "snapshot": "Global Entertainment Report accepted 47 real RSS item(s) across 31 checked feed request(s).",
-  "generated_at": "2026-07-26 08:03:49 AM ET",
-  "updated_at": "2026-07-26 08:03:49 AM ET",
-  "published_at": "2026-07-26 08:03:49 AM ET",
+  "generated_at": "2026-07-26 10:37:07 AM ET",
+  "updated_at": "2026-07-26 10:37:07 AM ET",
+  "published_at": "2026-07-26 10:37:07 AM ET",
   "source_mode": "live RSS ingestion",
   "freshness": {
     "max_item_age_hours": 336,
@@ -165,9 +165,9 @@
       "final_url": "https://news.google.com/rss/search?q=music+entertainment+billboard&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 96,
+      "rejected_count": 95,
       "rejection_reasons": {
-        "stale-over-336h": 96
+        "stale-over-336h": 95
       }
     },
     {
@@ -197,11 +197,11 @@
       "url": "https://news.google.com/rss/search?q=entertainment+awards+oscars+emmys+grammys&hl=en-US&gl=US&ceid=US:en",
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=entertainment+awards+oscars+emmys+grammys&hl=en-US&gl=US&ceid=US:en",
-      "item_count": 71,
+      "item_count": 72,
       "accepted_count": 2,
-      "rejected_count": 65,
+      "rejected_count": 67,
       "rejection_reasons": {
-        "stale-over-336h": 65
+        "stale-over-336h": 67
       }
     },
     {
@@ -233,10 +233,10 @@
       "final_url": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 63,
+      "rejected_count": 62,
       "rejection_reasons": {
-        "stale-over-336h": 61,
-        "duplicate-story": 2
+        "duplicate-story": 2,
+        "stale-over-336h": 60
       }
     },
     {
@@ -258,9 +258,9 @@
       "final_url": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 94,
+      "rejected_count": 93,
       "rejection_reasons": {
-        "stale-over-336h": 94
+        "stale-over-336h": 93
       }
     },
     {
@@ -306,9 +306,9 @@
       "final_url": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 94,
+      "rejected_count": 93,
       "rejection_reasons": {
-        "stale-over-336h": 94
+        "stale-over-336h": 93
       }
     },
     {
@@ -383,8 +383,8 @@
   ],
   "live_newsroom": [
     {
-      "id": "film-0-4519450676672629299",
-      "key": "film-0-4519450676672629299",
+      "id": "film-0-6767325240976833195",
+      "key": "film-0-6767325240976833195",
       "category": "Film",
       "label": "Film",
       "headline": "Marvel's Comic-Con Panel Excites Fans for 'Doomsday' but Leaves Them Cautiously Optimistic About What's Beyond",
@@ -410,8 +410,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-4046572808090338289",
-      "key": "film-10-4046572808090338289",
+      "id": "film-10-2233706111816140310",
+      "key": "film-10-2233706111816140310",
       "category": "Film",
       "label": "Film",
       "headline": "Tom Holland Admits Some Of His Movies Were Hard To Promote \"Because It's Sh*t\"",
@@ -437,8 +437,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-7675340154110205161",
-      "key": "film-22-7675340154110205161",
+      "id": "film-22-3988657163591883019",
+      "key": "film-22-3988657163591883019",
       "category": "Film",
       "label": "Film",
       "headline": "The Doom Boom: Marvel Studios Brings 'Doomsday' and More to Its Most Crowded Comic-Con Panel Ever",
@@ -464,8 +464,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-356777597773364206",
-      "key": "film-32-356777597773364206",
+      "id": "film-32-849322202011937529",
+      "key": "film-32-849322202011937529",
       "category": "Film",
       "label": "Film",
       "headline": "John Cusack makes rare comment about why he pivoted away from film career - Entertainment Weekly",
@@ -491,8 +491,8 @@
       "priority_score": 68
     },
     {
-      "id": "music-9-387768938573558133",
-      "key": "music-9-387768938573558133",
+      "id": "music-9-316813946317983921",
+      "key": "music-9-316813946317983921",
       "category": "Music",
       "label": "Music",
       "headline": "Kacey Musgraves Cancels Three 'Middle of Nowhere' Tour Dates",
@@ -518,8 +518,8 @@
       "priority_score": 91
     },
     {
-      "id": "gaming-0-2329093865971499561",
-      "key": "gaming-0-2329093865971499561",
+      "id": "gaming-0-9016592171869335445",
+      "key": "gaming-0-9016592171869335445",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Rockstar Co-Founder Says 'if People Want' Physical Game Releases Then 'Companies Should Provide It'",
@@ -545,8 +545,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-477881859555971339",
-      "key": "film-1-477881859555971339",
+      "id": "film-1-5137712535589463297",
+      "key": "film-1-5137712535589463297",
       "category": "Film",
       "label": "Film",
       "headline": "Winston Duke Trusts David Jonsson to Take On 'Black Panther': 'I Think It's Going to Be Great'",
@@ -572,8 +572,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-4738101178721593318",
-      "key": "film-11-4738101178721593318",
+      "id": "film-11-6237516669295872433",
+      "key": "film-11-6237516669295872433",
       "category": "Film",
       "label": "Film",
       "headline": "Comic-Con 2026 Photos: Best Of Panels, Activations, Cosplay & Marvel Studios Panel",
@@ -599,8 +599,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-4316592721128665211",
-      "key": "film-23-4316592721128665211",
+      "id": "film-23-7433095970001909253",
+      "key": "film-23-7433095970001909253",
       "category": "Film",
       "label": "Film",
       "headline": "Ryan Reynolds' Deadpool Crashes Comic-Con to Beg for 'Avengers: Doomsday' Role",
@@ -626,22 +626,22 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-5897350094472418678",
-      "key": "film-33-5897350094472418678",
+      "id": "film-33-4380808198278293413",
+      "key": "film-33-4380808198278293413",
       "category": "Film",
       "label": "Film",
-      "headline": "What's new to streaming this week? (July 24, 2026) - Mashable",
-      "title": "What's new to streaming this week? (July 24, 2026) - Mashable",
-      "snapshot": "What's new to streaming this week? (July 24, 2026) Mashable",
-      "summary": "What's new to streaming this week? (July 24, 2026) Mashable",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xMk9MUExncjdEZEUxd0wtRTE3U0hFcFNZbllOaVgzaUJWSUh0c2pUbmtaSTBHY01sUmg3Tzh4MmdSMGNBNC05WHZLcm9yMXNzWXd4cXVIZG5iUC11dXF4VFZERzlacEhBYlBDWFU3akRVQQ?oc=5",
+      "headline": "The Transformers: The Movie Announce Tickets Go On Sale Aug 7 - Fathom Entertainment",
+      "title": "The Transformers: The Movie Announce Tickets Go On Sale Aug 7 - Fathom Entertainment",
+      "snapshot": "The Transformers: The Movie Announce Tickets Go On Sale Aug 7 Fathom Entertainment",
+      "summary": "The Transformers: The Movie Announce Tickets Go On Sale Aug 7 Fathom Entertainment",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObkp4TkpwUUxwZFpvdnVhbGF5LTJTNUNfUlp5U0c1UXJwYVpFSUNLR0c2MmNHSTZmQUU3U1Roel83MXVYS09tdU16eFZPbXhDX0lMX2RiYk9BSmcwUlNMX3BuekVwTnM5eHZpOC1EMVlyUE1teXdXQlUtZUlqNEFRS3EyNmtSR1ExVFMycjB2WlRVcXlMWUttbGFkYnY?oc=5",
       "source": "Google News",
       "source_name": "Google News",
       "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "published_at": "2026-07-23 05:00:00 AM ET",
+      "published_at": "2026-07-25 12:15:31 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "What's new to streaming this week? (July 24, 2026) - Mashable"
+        "The Transformers: The Movie Announce Tickets Go On Sale Aug 7 - Fathom Entertainment"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -653,8 +653,8 @@
       "priority_score": 67
     },
     {
-      "id": "music-10-9032097858302455476",
-      "key": "music-10-9032097858302455476",
+      "id": "music-10-2725311370183326231",
+      "key": "music-10-2725311370183326231",
       "category": "Music",
       "label": "Music",
       "headline": "Green Day's Billie Joe Armstrong Unveils New Signature Guitar and Marshall Amp",
@@ -680,8 +680,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-1-4934845258814902251",
-      "key": "gaming-1-4934845258814902251",
+      "id": "gaming-1-2229440606857251388",
+      "key": "gaming-1-2229440606857251388",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The Most Anticipated Warhammer 40,000 Animation Ever Finally Has a Release Date",
@@ -709,8 +709,8 @@
   ],
   "editor_signals": [
     {
-      "id": "film-2-6768320884218120944",
-      "key": "film-2-6768320884218120944",
+      "id": "film-2-1815631470935221605",
+      "key": "film-2-1815631470935221605",
       "category": "Film",
       "label": "Film",
       "headline": "'Black Panther 3': David Jonsson to Play T'Challa's Son as December 2028 Release Date Set",
@@ -736,8 +736,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-5651266216142158080",
-      "key": "film-12-5651266216142158080",
+      "id": "film-12-1150880818003108422",
+      "key": "film-12-1150880818003108422",
       "category": "Film",
       "label": "Film",
       "headline": "Ryan Gosling Unveiled As Ghost Rider At Marvel's Comic-Con Panel",
@@ -763,8 +763,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-8276885569045189551",
-      "key": "film-24-8276885569045189551",
+      "id": "film-24-4031869391181962799",
+      "key": "film-24-4031869391181962799",
       "category": "Film",
       "label": "Film",
       "headline": "'Black Panther 3': David Jonsson to Star as T'Challa's Son, Sequel Set for 2028",
@@ -790,8 +790,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-1797070393314959752",
-      "key": "film-34-1797070393314959752",
+      "id": "film-34-2156165433095823587",
+      "key": "film-34-2156165433095823587",
       "category": "Film",
       "label": "Film",
       "headline": "Atari Signs Deal With Universal To Turn 10 Iconic Games Into Movies - Deadline",
@@ -817,8 +817,8 @@
       "priority_score": 66
     },
     {
-      "id": "music-11-6614851871614461895",
-      "key": "music-11-6614851871614461895",
+      "id": "music-11-7527677833100534833",
+      "key": "music-11-7527677833100534833",
       "category": "Music",
       "label": "Music",
       "headline": "Bret Michaels Undergoes Kidney Stone Surgery After Performing in 'Intense' Pain",
@@ -844,8 +844,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-2-7915926746837889166",
-      "key": "gaming-2-7915926746837889166",
+      "id": "gaming-2-2846393027408120702",
+      "key": "gaming-2-2846393027408120702",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The Best Deals Today: Assassin's Creed Shadows, DJI Mini 4K, Lego Batman Forever Batmobile, and More",
@@ -871,8 +871,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-6909871885361938837",
-      "key": "film-3-6909871885361938837",
+      "id": "film-3-6479903160258498077",
+      "key": "film-3-6479903160258498077",
       "category": "Film",
       "label": "Film",
       "headline": "'Avengers: Doomsday' Trailer Rocks Comic-Con: Doctor Doom Raises Army of Sentinels to Take Down Avengers, Fantastic Four and X-Men",
@@ -898,8 +898,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-4759601837801337052",
-      "key": "film-13-4759601837801337052",
+      "id": "film-13-1347645125580324684",
+      "key": "film-13-1347645125580324684",
       "category": "Film",
       "label": "Film",
       "headline": "'Matchbox: The Movie' Trailer: John Cena & Jessica Biel Run From CIA In First Look At Mattel Adaptation Of Classic Toy Cars - Comic-Con",
@@ -925,8 +925,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-4433812346633313697",
-      "key": "film-25-4433812346633313697",
+      "id": "film-25-6646368964936585667",
+      "key": "film-25-6646368964936585667",
       "category": "Film",
       "label": "Film",
       "headline": "Ryan Gosling to Star in Ghost Rider Movie for Marvel Studios, Director Shawn Levy",
@@ -952,22 +952,22 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-7547092319790482500",
-      "key": "film-35-7547092319790482500",
+      "id": "film-35-7135823314185960070",
+      "key": "film-35-7135823314185960070",
       "category": "Film",
       "label": "Film",
-      "headline": "The Transformers: The Movie Announce Tickets Go On Sale Aug 7 - Fathom Entertainment",
-      "title": "The Transformers: The Movie Announce Tickets Go On Sale Aug 7 - Fathom Entertainment",
-      "snapshot": "The Transformers: The Movie Announce Tickets Go On Sale Aug 7 Fathom Entertainment",
-      "summary": "The Transformers: The Movie Announce Tickets Go On Sale Aug 7 Fathom Entertainment",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObkp4TkpwUUxwZFpvdnVhbGF5LTJTNUNfUlp5U0c1UXJwYVpFSUNLR0c2MmNHSTZmQUU3U1Roel83MXVYS09tdU16eFZPbXhDX0lMX2RiYk9BSmcwUlNMX3BuekVwTnM5eHZpOC1EMVlyUE1teXdXQlUtZUlqNEFRS3EyNmtSR1ExVFMycjB2WlRVcXlMWUttbGFkYnY?oc=5",
+      "headline": "'Troy' walked so 'The Odyssey' could run. Now the Brad Pitt film is getting a second life. - Yahoo",
+      "title": "'Troy' walked so 'The Odyssey' could run. Now the Brad Pitt film is getting a second life. - Yahoo",
+      "snapshot": "'Troy' walked so 'The Odyssey' could run. Now the Brad Pitt film is getting a second life. Yahoo",
+      "summary": "'Troy' walked so 'The Odyssey' could run. Now the Brad Pitt film is getting a second life. Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObGVyWWV6aU9QcUVmYUZlT2NyeW9uQWw0ay1wWVVlblBsS0JVamR1ZDAwczhrR2lPdGZTNDMxZGw5ZWNDUnl0ZUJya2UtNWlkWTl5blBpb2ZBc0RBWXdQWFVzd2kyekM1VzRBamlobFE4VThXNFJGcFlRbm1NQmVJcm5aZFI4YlFZNjdVU3dVRDVGbWJPdWNFaHJ0U3J1M0UzUENPUUwyNVF6QjNTWng4WnFvX3JsVmZXNkZzUDFuOW8zeHhqTGNUUzVMbFZJUFFscnFHbGRrVzd2SjlLdnVnZVNlZlo?oc=5",
       "source": "Google News",
       "source_name": "Google News",
       "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "published_at": "2026-07-25 12:15:31 AM ET",
+      "published_at": "2026-07-25 01:47:49 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "The Transformers: The Movie Announce Tickets Go On Sale Aug 7 - Fathom Entertainment"
+        "'Troy' walked so 'The Odyssey' could run. Now the Brad Pitt film is getting a second life. - Yahoo"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -979,8 +979,8 @@
       "priority_score": 65
     },
     {
-      "id": "music-12-5540247036785833891",
-      "key": "music-12-5540247036785833891",
+      "id": "music-12-1331754362267374667",
+      "key": "music-12-1331754362267374667",
       "category": "Music",
       "label": "Music",
       "headline": "Bruce Springsteen, Colin Kaepernick Honored With New ACLU Award",
@@ -1006,8 +1006,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-3-4911341723676487803",
-      "key": "gaming-3-4911341723676487803",
+      "id": "gaming-3-7987335640660780487",
+      "key": "gaming-3-7987335640660780487",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Final Fantasy 7 Director Kept 'Open World Fatigue' in Mind as New Remake Chapter Promises 'Bigger' World Than Rebirth",
@@ -1035,8 +1035,8 @@
   ],
   "homepage_cards": [
     {
-      "id": "film-0-4519450676672629299",
-      "key": "film-0-4519450676672629299",
+      "id": "film-0-6767325240976833195",
+      "key": "film-0-6767325240976833195",
       "category": "Film",
       "label": "Film",
       "headline": "Marvel's Comic-Con Panel Excites Fans for 'Doomsday' but Leaves Them Cautiously Optimistic About What's Beyond",
@@ -1062,8 +1062,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-4046572808090338289",
-      "key": "film-10-4046572808090338289",
+      "id": "film-10-2233706111816140310",
+      "key": "film-10-2233706111816140310",
       "category": "Film",
       "label": "Film",
       "headline": "Tom Holland Admits Some Of His Movies Were Hard To Promote \"Because It's Sh*t\"",
@@ -1089,8 +1089,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-7675340154110205161",
-      "key": "film-22-7675340154110205161",
+      "id": "film-22-3988657163591883019",
+      "key": "film-22-3988657163591883019",
       "category": "Film",
       "label": "Film",
       "headline": "The Doom Boom: Marvel Studios Brings 'Doomsday' and More to Its Most Crowded Comic-Con Panel Ever",
@@ -1116,8 +1116,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-356777597773364206",
-      "key": "film-32-356777597773364206",
+      "id": "film-32-849322202011937529",
+      "key": "film-32-849322202011937529",
       "category": "Film",
       "label": "Film",
       "headline": "John Cusack makes rare comment about why he pivoted away from film career - Entertainment Weekly",
@@ -1143,8 +1143,8 @@
       "priority_score": 68
     },
     {
-      "id": "music-9-387768938573558133",
-      "key": "music-9-387768938573558133",
+      "id": "music-9-316813946317983921",
+      "key": "music-9-316813946317983921",
       "category": "Music",
       "label": "Music",
       "headline": "Kacey Musgraves Cancels Three 'Middle of Nowhere' Tour Dates",
@@ -1170,8 +1170,8 @@
       "priority_score": 91
     },
     {
-      "id": "gaming-0-2329093865971499561",
-      "key": "gaming-0-2329093865971499561",
+      "id": "gaming-0-9016592171869335445",
+      "key": "gaming-0-9016592171869335445",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Rockstar Co-Founder Says 'if People Want' Physical Game Releases Then 'Companies Should Provide It'",
@@ -1197,8 +1197,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-477881859555971339",
-      "key": "film-1-477881859555971339",
+      "id": "film-1-5137712535589463297",
+      "key": "film-1-5137712535589463297",
       "category": "Film",
       "label": "Film",
       "headline": "Winston Duke Trusts David Jonsson to Take On 'Black Panther': 'I Think It's Going to Be Great'",
@@ -1224,8 +1224,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-4738101178721593318",
-      "key": "film-11-4738101178721593318",
+      "id": "film-11-6237516669295872433",
+      "key": "film-11-6237516669295872433",
       "category": "Film",
       "label": "Film",
       "headline": "Comic-Con 2026 Photos: Best Of Panels, Activations, Cosplay & Marvel Studios Panel",
@@ -1251,8 +1251,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-4316592721128665211",
-      "key": "film-23-4316592721128665211",
+      "id": "film-23-7433095970001909253",
+      "key": "film-23-7433095970001909253",
       "category": "Film",
       "label": "Film",
       "headline": "Ryan Reynolds' Deadpool Crashes Comic-Con to Beg for 'Avengers: Doomsday' Role",
@@ -1278,22 +1278,22 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-5897350094472418678",
-      "key": "film-33-5897350094472418678",
+      "id": "film-33-4380808198278293413",
+      "key": "film-33-4380808198278293413",
       "category": "Film",
       "label": "Film",
-      "headline": "What's new to streaming this week? (July 24, 2026) - Mashable",
-      "title": "What's new to streaming this week? (July 24, 2026) - Mashable",
-      "snapshot": "What's new to streaming this week? (July 24, 2026) Mashable",
-      "summary": "What's new to streaming this week? (July 24, 2026) Mashable",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xMk9MUExncjdEZEUxd0wtRTE3U0hFcFNZbllOaVgzaUJWSUh0c2pUbmtaSTBHY01sUmg3Tzh4MmdSMGNBNC05WHZLcm9yMXNzWXd4cXVIZG5iUC11dXF4VFZERzlacEhBYlBDWFU3akRVQQ?oc=5",
+      "headline": "The Transformers: The Movie Announce Tickets Go On Sale Aug 7 - Fathom Entertainment",
+      "title": "The Transformers: The Movie Announce Tickets Go On Sale Aug 7 - Fathom Entertainment",
+      "snapshot": "The Transformers: The Movie Announce Tickets Go On Sale Aug 7 Fathom Entertainment",
+      "summary": "The Transformers: The Movie Announce Tickets Go On Sale Aug 7 Fathom Entertainment",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObkp4TkpwUUxwZFpvdnVhbGF5LTJTNUNfUlp5U0c1UXJwYVpFSUNLR0c2MmNHSTZmQUU3U1Roel83MXVYS09tdU16eFZPbXhDX0lMX2RiYk9BSmcwUlNMX3BuekVwTnM5eHZpOC1EMVlyUE1teXdXQlUtZUlqNEFRS3EyNmtSR1ExVFMycjB2WlRVcXlMWUttbGFkYnY?oc=5",
       "source": "Google News",
       "source_name": "Google News",
       "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "published_at": "2026-07-23 05:00:00 AM ET",
+      "published_at": "2026-07-25 12:15:31 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "What's new to streaming this week? (July 24, 2026) - Mashable"
+        "The Transformers: The Movie Announce Tickets Go On Sale Aug 7 - Fathom Entertainment"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1305,8 +1305,8 @@
       "priority_score": 67
     },
     {
-      "id": "music-10-9032097858302455476",
-      "key": "music-10-9032097858302455476",
+      "id": "music-10-2725311370183326231",
+      "key": "music-10-2725311370183326231",
       "category": "Music",
       "label": "Music",
       "headline": "Green Day's Billie Joe Armstrong Unveils New Signature Guitar and Marshall Amp",
@@ -1332,8 +1332,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-1-4934845258814902251",
-      "key": "gaming-1-4934845258814902251",
+      "id": "gaming-1-2229440606857251388",
+      "key": "gaming-1-2229440606857251388",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The Most Anticipated Warhammer 40,000 Animation Ever Finally Has a Release Date",
@@ -1359,8 +1359,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-2-6768320884218120944",
-      "key": "film-2-6768320884218120944",
+      "id": "film-2-1815631470935221605",
+      "key": "film-2-1815631470935221605",
       "category": "Film",
       "label": "Film",
       "headline": "'Black Panther 3': David Jonsson to Play T'Challa's Son as December 2028 Release Date Set",
@@ -1386,8 +1386,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-5651266216142158080",
-      "key": "film-12-5651266216142158080",
+      "id": "film-12-1150880818003108422",
+      "key": "film-12-1150880818003108422",
       "category": "Film",
       "label": "Film",
       "headline": "Ryan Gosling Unveiled As Ghost Rider At Marvel's Comic-Con Panel",
@@ -1413,8 +1413,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-8276885569045189551",
-      "key": "film-24-8276885569045189551",
+      "id": "film-24-4031869391181962799",
+      "key": "film-24-4031869391181962799",
       "category": "Film",
       "label": "Film",
       "headline": "'Black Panther 3': David Jonsson to Star as T'Challa's Son, Sequel Set for 2028",
@@ -1440,8 +1440,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-1797070393314959752",
-      "key": "film-34-1797070393314959752",
+      "id": "film-34-2156165433095823587",
+      "key": "film-34-2156165433095823587",
       "category": "Film",
       "label": "Film",
       "headline": "Atari Signs Deal With Universal To Turn 10 Iconic Games Into Movies - Deadline",
@@ -1467,8 +1467,8 @@
       "priority_score": 66
     },
     {
-      "id": "music-11-6614851871614461895",
-      "key": "music-11-6614851871614461895",
+      "id": "music-11-7527677833100534833",
+      "key": "music-11-7527677833100534833",
       "category": "Music",
       "label": "Music",
       "headline": "Bret Michaels Undergoes Kidney Stone Surgery After Performing in 'Intense' Pain",
@@ -1494,8 +1494,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-2-7915926746837889166",
-      "key": "gaming-2-7915926746837889166",
+      "id": "gaming-2-2846393027408120702",
+      "key": "gaming-2-2846393027408120702",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The Best Deals Today: Assassin's Creed Shadows, DJI Mini 4K, Lego Batman Forever Batmobile, and More",
@@ -1521,8 +1521,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-6909871885361938837",
-      "key": "film-3-6909871885361938837",
+      "id": "film-3-6479903160258498077",
+      "key": "film-3-6479903160258498077",
       "category": "Film",
       "label": "Film",
       "headline": "'Avengers: Doomsday' Trailer Rocks Comic-Con: Doctor Doom Raises Army of Sentinels to Take Down Avengers, Fantastic Four and X-Men",
@@ -1548,8 +1548,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-4759601837801337052",
-      "key": "film-13-4759601837801337052",
+      "id": "film-13-1347645125580324684",
+      "key": "film-13-1347645125580324684",
       "category": "Film",
       "label": "Film",
       "headline": "'Matchbox: The Movie' Trailer: John Cena & Jessica Biel Run From CIA In First Look At Mattel Adaptation Of Classic Toy Cars - Comic-Con",
@@ -1575,8 +1575,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-4433812346633313697",
-      "key": "film-25-4433812346633313697",
+      "id": "film-25-6646368964936585667",
+      "key": "film-25-6646368964936585667",
       "category": "Film",
       "label": "Film",
       "headline": "Ryan Gosling to Star in Ghost Rider Movie for Marvel Studios, Director Shawn Levy",
@@ -1602,22 +1602,22 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-7547092319790482500",
-      "key": "film-35-7547092319790482500",
+      "id": "film-35-7135823314185960070",
+      "key": "film-35-7135823314185960070",
       "category": "Film",
       "label": "Film",
-      "headline": "The Transformers: The Movie Announce Tickets Go On Sale Aug 7 - Fathom Entertainment",
-      "title": "The Transformers: The Movie Announce Tickets Go On Sale Aug 7 - Fathom Entertainment",
-      "snapshot": "The Transformers: The Movie Announce Tickets Go On Sale Aug 7 Fathom Entertainment",
-      "summary": "The Transformers: The Movie Announce Tickets Go On Sale Aug 7 Fathom Entertainment",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObkp4TkpwUUxwZFpvdnVhbGF5LTJTNUNfUlp5U0c1UXJwYVpFSUNLR0c2MmNHSTZmQUU3U1Roel83MXVYS09tdU16eFZPbXhDX0lMX2RiYk9BSmcwUlNMX3BuekVwTnM5eHZpOC1EMVlyUE1teXdXQlUtZUlqNEFRS3EyNmtSR1ExVFMycjB2WlRVcXlMWUttbGFkYnY?oc=5",
+      "headline": "'Troy' walked so 'The Odyssey' could run. Now the Brad Pitt film is getting a second life. - Yahoo",
+      "title": "'Troy' walked so 'The Odyssey' could run. Now the Brad Pitt film is getting a second life. - Yahoo",
+      "snapshot": "'Troy' walked so 'The Odyssey' could run. Now the Brad Pitt film is getting a second life. Yahoo",
+      "summary": "'Troy' walked so 'The Odyssey' could run. Now the Brad Pitt film is getting a second life. Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObGVyWWV6aU9QcUVmYUZlT2NyeW9uQWw0ay1wWVVlblBsS0JVamR1ZDAwczhrR2lPdGZTNDMxZGw5ZWNDUnl0ZUJya2UtNWlkWTl5blBpb2ZBc0RBWXdQWFVzd2kyekM1VzRBamlobFE4VThXNFJGcFlRbm1NQmVJcm5aZFI4YlFZNjdVU3dVRDVGbWJPdWNFaHJ0U3J1M0UzUENPUUwyNVF6QjNTWng4WnFvX3JsVmZXNkZzUDFuOW8zeHhqTGNUUzVMbFZJUFFscnFHbGRrVzd2SjlLdnVnZVNlZlo?oc=5",
       "source": "Google News",
       "source_name": "Google News",
       "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "published_at": "2026-07-25 12:15:31 AM ET",
+      "published_at": "2026-07-25 01:47:49 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "The Transformers: The Movie Announce Tickets Go On Sale Aug 7 - Fathom Entertainment"
+        "'Troy' walked so 'The Odyssey' could run. Now the Brad Pitt film is getting a second life. - Yahoo"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1629,8 +1629,8 @@
       "priority_score": 65
     },
     {
-      "id": "music-12-5540247036785833891",
-      "key": "music-12-5540247036785833891",
+      "id": "music-12-1331754362267374667",
+      "key": "music-12-1331754362267374667",
       "category": "Music",
       "label": "Music",
       "headline": "Bruce Springsteen, Colin Kaepernick Honored With New ACLU Award",
@@ -1656,8 +1656,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-3-4911341723676487803",
-      "key": "gaming-3-4911341723676487803",
+      "id": "gaming-3-7987335640660780487",
+      "key": "gaming-3-7987335640660780487",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Final Fantasy 7 Director Kept 'Open World Fatigue' in Mind as New Remake Chapter Promises 'Bigger' World Than Rebirth",
@@ -1705,12 +1705,12 @@
         "Winston Duke Trusts David Jonsson to Take On ‘Black Panther’: ‘I Think It’s Going to Be Great’",
         "Comic-Con 2026 Photos: Best Of Panels, Activations, Cosplay & Marvel Studios Panel",
         "Ryan Reynolds’ Deadpool Crashes Comic-Con to Beg for ‘Avengers: Doomsday’ Role",
-        "What's new to streaming this week? (July 24, 2026) - Mashable"
+        "The Transformers: The Movie Announce Tickets Go On Sale Aug 7 - Fathom Entertainment"
       ],
       "homepage_cards": [
         {
-          "id": "film-0-4519450676672629299",
-          "key": "film-0-4519450676672629299",
+          "id": "film-0-6767325240976833195",
+          "key": "film-0-6767325240976833195",
           "category": "Film",
           "label": "Film",
           "headline": "Marvel’s Comic-Con Panel Excites Fans for ‘Doomsday’ but Leaves Them Cautiously Optimistic About What’s Beyond",
@@ -1737,8 +1737,8 @@
           ]
         },
         {
-          "id": "film-10-4046572808090338289",
-          "key": "film-10-4046572808090338289",
+          "id": "film-10-2233706111816140310",
+          "key": "film-10-2233706111816140310",
           "category": "Film",
           "label": "Film",
           "headline": "Tom Holland Admits Some Of His Movies Were Hard To Promote “Because It’s Sh*t”",
@@ -1765,8 +1765,8 @@
           ]
         },
         {
-          "id": "film-22-7675340154110205161",
-          "key": "film-22-7675340154110205161",
+          "id": "film-22-3988657163591883019",
+          "key": "film-22-3988657163591883019",
           "category": "Film",
           "label": "Film",
           "headline": "The Doom Boom: Marvel Studios Brings ‘Doomsday’ and More to Its Most Crowded Comic-Con Panel Ever",
@@ -1793,8 +1793,8 @@
           ]
         },
         {
-          "id": "film-32-356777597773364206",
-          "key": "film-32-356777597773364206",
+          "id": "film-32-849322202011937529",
+          "key": "film-32-849322202011937529",
           "category": "Film",
           "label": "Film",
           "headline": "John Cusack makes rare comment about why he pivoted away from film career - Entertainment Weekly",
@@ -1821,8 +1821,8 @@
           ]
         },
         {
-          "id": "film-1-477881859555971339",
-          "key": "film-1-477881859555971339",
+          "id": "film-1-5137712535589463297",
+          "key": "film-1-5137712535589463297",
           "category": "Film",
           "label": "Film",
           "headline": "Winston Duke Trusts David Jonsson to Take On ‘Black Panther’: ‘I Think It’s Going to Be Great’",
@@ -1849,8 +1849,8 @@
           ]
         },
         {
-          "id": "film-11-4738101178721593318",
-          "key": "film-11-4738101178721593318",
+          "id": "film-11-6237516669295872433",
+          "key": "film-11-6237516669295872433",
           "category": "Film",
           "label": "Film",
           "headline": "Comic-Con 2026 Photos: Best Of Panels, Activations, Cosplay & Marvel Studios Panel",
@@ -1877,8 +1877,8 @@
           ]
         },
         {
-          "id": "film-23-4316592721128665211",
-          "key": "film-23-4316592721128665211",
+          "id": "film-23-7433095970001909253",
+          "key": "film-23-7433095970001909253",
           "category": "Film",
           "label": "Film",
           "headline": "Ryan Reynolds’ Deadpool Crashes Comic-Con to Beg for ‘Avengers: Doomsday’ Role",
@@ -1905,25 +1905,25 @@
           ]
         },
         {
-          "id": "film-33-5897350094472418678",
-          "key": "film-33-5897350094472418678",
+          "id": "film-33-4380808198278293413",
+          "key": "film-33-4380808198278293413",
           "category": "Film",
           "label": "Film",
-          "headline": "What's new to streaming this week? (July 24, 2026) - Mashable",
-          "title": "What's new to streaming this week? (July 24, 2026) - Mashable",
-          "snapshot": "What's new to streaming this week? (July 24, 2026) Mashable",
-          "summary": "What's new to streaming this week? (July 24, 2026) Mashable",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xMk9MUExncjdEZEUxd0wtRTE3U0hFcFNZbllOaVgzaUJWSUh0c2pUbmtaSTBHY01sUmg3Tzh4MmdSMGNBNC05WHZLcm9yMXNzWXd4cXVIZG5iUC11dXF4VFZERzlacEhBYlBDWFU3akRVQQ?oc=5",
+          "headline": "The Transformers: The Movie Announce Tickets Go On Sale Aug 7 - Fathom Entertainment",
+          "title": "The Transformers: The Movie Announce Tickets Go On Sale Aug 7 - Fathom Entertainment",
+          "snapshot": "The Transformers: The Movie Announce Tickets Go On Sale Aug 7 Fathom Entertainment",
+          "summary": "The Transformers: The Movie Announce Tickets Go On Sale Aug 7 Fathom Entertainment",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObkp4TkpwUUxwZFpvdnVhbGF5LTJTNUNfUlp5U0c1UXJwYVpFSUNLR0c2MmNHSTZmQUU3U1Roel83MXVYS09tdU16eFZPbXhDX0lMX2RiYk9BSmcwUlNMX3BuekVwTnM5eHZpOC1EMVlyUE1teXdXQlUtZUlqNEFRS3EyNmtSR1ExVFMycjB2WlRVcXlMWUttbGFkYnY?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-07-23 05:00:00 AM ET",
+          "published_at": "2026-07-25 12:15:31 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 67,
           "key_data": [
-            "What's new to streaming this week? (July 24, 2026) - Mashable"
+            "The Transformers: The Movie Announce Tickets Go On Sale Aug 7 - Fathom Entertainment"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1935,8 +1935,8 @@
       ],
       "items": [
         {
-          "id": "film-0-4519450676672629299",
-          "key": "film-0-4519450676672629299",
+          "id": "film-0-6767325240976833195",
+          "key": "film-0-6767325240976833195",
           "category": "Film",
           "label": "Film",
           "headline": "Marvel’s Comic-Con Panel Excites Fans for ‘Doomsday’ but Leaves Them Cautiously Optimistic About What’s Beyond",
@@ -1963,8 +1963,8 @@
           ]
         },
         {
-          "id": "film-10-4046572808090338289",
-          "key": "film-10-4046572808090338289",
+          "id": "film-10-2233706111816140310",
+          "key": "film-10-2233706111816140310",
           "category": "Film",
           "label": "Film",
           "headline": "Tom Holland Admits Some Of His Movies Were Hard To Promote “Because It’s Sh*t”",
@@ -1991,8 +1991,8 @@
           ]
         },
         {
-          "id": "film-22-7675340154110205161",
-          "key": "film-22-7675340154110205161",
+          "id": "film-22-3988657163591883019",
+          "key": "film-22-3988657163591883019",
           "category": "Film",
           "label": "Film",
           "headline": "The Doom Boom: Marvel Studios Brings ‘Doomsday’ and More to Its Most Crowded Comic-Con Panel Ever",
@@ -2019,8 +2019,8 @@
           ]
         },
         {
-          "id": "film-32-356777597773364206",
-          "key": "film-32-356777597773364206",
+          "id": "film-32-849322202011937529",
+          "key": "film-32-849322202011937529",
           "category": "Film",
           "label": "Film",
           "headline": "John Cusack makes rare comment about why he pivoted away from film career - Entertainment Weekly",
@@ -2047,8 +2047,8 @@
           ]
         },
         {
-          "id": "film-1-477881859555971339",
-          "key": "film-1-477881859555971339",
+          "id": "film-1-5137712535589463297",
+          "key": "film-1-5137712535589463297",
           "category": "Film",
           "label": "Film",
           "headline": "Winston Duke Trusts David Jonsson to Take On ‘Black Panther’: ‘I Think It’s Going to Be Great’",
@@ -2075,8 +2075,8 @@
           ]
         },
         {
-          "id": "film-11-4738101178721593318",
-          "key": "film-11-4738101178721593318",
+          "id": "film-11-6237516669295872433",
+          "key": "film-11-6237516669295872433",
           "category": "Film",
           "label": "Film",
           "headline": "Comic-Con 2026 Photos: Best Of Panels, Activations, Cosplay & Marvel Studios Panel",
@@ -2103,8 +2103,8 @@
           ]
         },
         {
-          "id": "film-23-4316592721128665211",
-          "key": "film-23-4316592721128665211",
+          "id": "film-23-7433095970001909253",
+          "key": "film-23-7433095970001909253",
           "category": "Film",
           "label": "Film",
           "headline": "Ryan Reynolds’ Deadpool Crashes Comic-Con to Beg for ‘Avengers: Doomsday’ Role",
@@ -2131,25 +2131,25 @@
           ]
         },
         {
-          "id": "film-33-5897350094472418678",
-          "key": "film-33-5897350094472418678",
+          "id": "film-33-4380808198278293413",
+          "key": "film-33-4380808198278293413",
           "category": "Film",
           "label": "Film",
-          "headline": "What's new to streaming this week? (July 24, 2026) - Mashable",
-          "title": "What's new to streaming this week? (July 24, 2026) - Mashable",
-          "snapshot": "What's new to streaming this week? (July 24, 2026) Mashable",
-          "summary": "What's new to streaming this week? (July 24, 2026) Mashable",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xMk9MUExncjdEZEUxd0wtRTE3U0hFcFNZbllOaVgzaUJWSUh0c2pUbmtaSTBHY01sUmg3Tzh4MmdSMGNBNC05WHZLcm9yMXNzWXd4cXVIZG5iUC11dXF4VFZERzlacEhBYlBDWFU3akRVQQ?oc=5",
+          "headline": "The Transformers: The Movie Announce Tickets Go On Sale Aug 7 - Fathom Entertainment",
+          "title": "The Transformers: The Movie Announce Tickets Go On Sale Aug 7 - Fathom Entertainment",
+          "snapshot": "The Transformers: The Movie Announce Tickets Go On Sale Aug 7 Fathom Entertainment",
+          "summary": "The Transformers: The Movie Announce Tickets Go On Sale Aug 7 Fathom Entertainment",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObkp4TkpwUUxwZFpvdnVhbGF5LTJTNUNfUlp5U0c1UXJwYVpFSUNLR0c2MmNHSTZmQUU3U1Roel83MXVYS09tdU16eFZPbXhDX0lMX2RiYk9BSmcwUlNMX3BuekVwTnM5eHZpOC1EMVlyUE1teXdXQlUtZUlqNEFRS3EyNmtSR1ExVFMycjB2WlRVcXlMWUttbGFkYnY?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-07-23 05:00:00 AM ET",
+          "published_at": "2026-07-25 12:15:31 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 67,
           "key_data": [
-            "What's new to streaming this week? (July 24, 2026) - Mashable"
+            "The Transformers: The Movie Announce Tickets Go On Sale Aug 7 - Fathom Entertainment"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2159,7 +2159,7 @@
           ]
         }
       ],
-      "updated_at": "2026-07-26 08:03:50 AM ET"
+      "updated_at": "2026-07-26 10:37:08 AM ET"
     },
     {
       "key": "tv",
@@ -2186,8 +2186,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "tv-0-5313761656877009112",
-          "key": "tv-0-5313761656877009112",
+          "id": "tv-0-1590100149765222906",
+          "key": "tv-0-1590100149765222906",
           "category": "TV",
           "label": "TV",
           "headline": "PBS SoCal, KMEX Lead L.A. Local Emmy Wins; KVEA, KABC Land Top Newscast Prizes",
@@ -2214,8 +2214,8 @@
           ]
         },
         {
-          "id": "tv-10-3938880432240091099",
-          "key": "tv-10-3938880432240091099",
+          "id": "tv-10-5097629474172124694",
+          "key": "tv-10-5097629474172124694",
           "category": "TV",
           "label": "TV",
           "headline": "PBS SoCal Leads 2026 Los Angeles Area Emmy Awards Winners – Full List",
@@ -2242,8 +2242,8 @@
           ]
         },
         {
-          "id": "tv-21-5239610951288620496",
-          "key": "tv-21-5239610951288620496",
+          "id": "tv-21-1593916730300806828",
+          "key": "tv-21-1593916730300806828",
           "category": "TV",
           "label": "TV",
           "headline": "Warner Bros. Sues Amazon, Accusing Company of “Seeking to Pirate Away Employees”",
@@ -2270,8 +2270,8 @@
           ]
         },
         {
-          "id": "tv-31-7700794304832063006",
-          "key": "tv-31-7700794304832063006",
+          "id": "tv-31-2909960091811099895",
+          "key": "tv-31-2909960091811099895",
           "category": "TV",
           "label": "TV",
           "headline": "Best OLED TV for 2026 - CNET",
@@ -2298,8 +2298,8 @@
           ]
         },
         {
-          "id": "tv-1-4596749155966847720",
-          "key": "tv-1-4596749155966847720",
+          "id": "tv-1-2196503048275625623",
+          "key": "tv-1-2196503048275625623",
           "category": "TV",
           "label": "TV",
           "headline": "Stephen King’s ‘Carrie’ Series Sets October Release Date, Drops Horrifying New Trailer",
@@ -2326,8 +2326,8 @@
           ]
         },
         {
-          "id": "tv-11-6019116115850380461",
-          "key": "tv-11-6019116115850380461",
+          "id": "tv-11-5008695326797321169",
+          "key": "tv-11-5008695326797321169",
           "category": "TV",
           "label": "TV",
           "headline": "‘Ransom Canyon’ Cast And Characters Across Seasons: Who’s Who In The Western Drama Show?",
@@ -2354,8 +2354,8 @@
           ]
         },
         {
-          "id": "tv-22-6170286600484201616",
-          "key": "tv-22-6170286600484201616",
+          "id": "tv-22-2966124775115171538",
+          "key": "tv-22-2966124775115171538",
           "category": "TV",
           "label": "TV",
           "headline": "Prime Video Unveils Teaser, Release Date for Mike Flanagan’s ‘Carrie’ Series",
@@ -2382,8 +2382,8 @@
           ]
         },
         {
-          "id": "tv-32-2211032308162186469",
-          "key": "tv-32-2211032308162186469",
+          "id": "tv-32-7153783889403224734",
+          "key": "tv-32-7153783889403224734",
           "category": "TV",
           "label": "TV",
           "headline": "Streaming reshuffle: Music booms, TV originals shrink as fandom becomes entertainment’s new currency - Indian Television Dot Com",
@@ -2412,8 +2412,8 @@
       ],
       "items": [
         {
-          "id": "tv-0-5313761656877009112",
-          "key": "tv-0-5313761656877009112",
+          "id": "tv-0-1590100149765222906",
+          "key": "tv-0-1590100149765222906",
           "category": "TV",
           "label": "TV",
           "headline": "PBS SoCal, KMEX Lead L.A. Local Emmy Wins; KVEA, KABC Land Top Newscast Prizes",
@@ -2440,8 +2440,8 @@
           ]
         },
         {
-          "id": "tv-10-3938880432240091099",
-          "key": "tv-10-3938880432240091099",
+          "id": "tv-10-5097629474172124694",
+          "key": "tv-10-5097629474172124694",
           "category": "TV",
           "label": "TV",
           "headline": "PBS SoCal Leads 2026 Los Angeles Area Emmy Awards Winners – Full List",
@@ -2468,8 +2468,8 @@
           ]
         },
         {
-          "id": "tv-21-5239610951288620496",
-          "key": "tv-21-5239610951288620496",
+          "id": "tv-21-1593916730300806828",
+          "key": "tv-21-1593916730300806828",
           "category": "TV",
           "label": "TV",
           "headline": "Warner Bros. Sues Amazon, Accusing Company of “Seeking to Pirate Away Employees”",
@@ -2496,8 +2496,8 @@
           ]
         },
         {
-          "id": "tv-31-7700794304832063006",
-          "key": "tv-31-7700794304832063006",
+          "id": "tv-31-2909960091811099895",
+          "key": "tv-31-2909960091811099895",
           "category": "TV",
           "label": "TV",
           "headline": "Best OLED TV for 2026 - CNET",
@@ -2524,8 +2524,8 @@
           ]
         },
         {
-          "id": "tv-1-4596749155966847720",
-          "key": "tv-1-4596749155966847720",
+          "id": "tv-1-2196503048275625623",
+          "key": "tv-1-2196503048275625623",
           "category": "TV",
           "label": "TV",
           "headline": "Stephen King’s ‘Carrie’ Series Sets October Release Date, Drops Horrifying New Trailer",
@@ -2552,8 +2552,8 @@
           ]
         },
         {
-          "id": "tv-11-6019116115850380461",
-          "key": "tv-11-6019116115850380461",
+          "id": "tv-11-5008695326797321169",
+          "key": "tv-11-5008695326797321169",
           "category": "TV",
           "label": "TV",
           "headline": "‘Ransom Canyon’ Cast And Characters Across Seasons: Who’s Who In The Western Drama Show?",
@@ -2580,8 +2580,8 @@
           ]
         },
         {
-          "id": "tv-22-6170286600484201616",
-          "key": "tv-22-6170286600484201616",
+          "id": "tv-22-2966124775115171538",
+          "key": "tv-22-2966124775115171538",
           "category": "TV",
           "label": "TV",
           "headline": "Prime Video Unveils Teaser, Release Date for Mike Flanagan’s ‘Carrie’ Series",
@@ -2608,8 +2608,8 @@
           ]
         },
         {
-          "id": "tv-32-2211032308162186469",
-          "key": "tv-32-2211032308162186469",
+          "id": "tv-32-7153783889403224734",
+          "key": "tv-32-7153783889403224734",
           "category": "TV",
           "label": "TV",
           "headline": "Streaming reshuffle: Music booms, TV originals shrink as fandom becomes entertainment’s new currency - Indian Television Dot Com",
@@ -2636,7 +2636,7 @@
           ]
         }
       ],
-      "updated_at": "2026-07-26 08:03:50 AM ET"
+      "updated_at": "2026-07-26 10:37:08 AM ET"
     },
     {
       "key": "streaming",
@@ -2654,8 +2654,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "streaming-0-2080179607048995828",
-          "key": "streaming-0-2080179607048995828",
+          "id": "streaming-0-292742694033714686",
+          "key": "streaming-0-292742694033714686",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'Masters of the Universe' to 'Obsession,' 10 movies to stream now - USA Today",
@@ -2682,8 +2682,8 @@
           ]
         },
         {
-          "id": "streaming-1-7315576283671497816",
-          "key": "streaming-1-7315576283671497816",
+          "id": "streaming-1-783475034770044014",
+          "key": "streaming-1-783475034770044014",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Verizon Streaming Perks: Get Netflix, Disney Plus and More, for Much Less - CNET",
@@ -2712,8 +2712,8 @@
       ],
       "items": [
         {
-          "id": "streaming-0-2080179607048995828",
-          "key": "streaming-0-2080179607048995828",
+          "id": "streaming-0-292742694033714686",
+          "key": "streaming-0-292742694033714686",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'Masters of the Universe' to 'Obsession,' 10 movies to stream now - USA Today",
@@ -2740,8 +2740,8 @@
           ]
         },
         {
-          "id": "streaming-1-7315576283671497816",
-          "key": "streaming-1-7315576283671497816",
+          "id": "streaming-1-783475034770044014",
+          "key": "streaming-1-783475034770044014",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Verizon Streaming Perks: Get Netflix, Disney Plus and More, for Much Less - CNET",
@@ -2768,7 +2768,7 @@
           ]
         }
       ],
-      "updated_at": "2026-07-26 08:03:51 AM ET"
+      "updated_at": "2026-07-26 10:37:09 AM ET"
     },
     {
       "key": "music",
@@ -2793,8 +2793,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "music-0-1631247718867238485",
-          "key": "music-0-1631247718867238485",
+          "id": "music-0-2482520193354872263",
+          "key": "music-0-2482520193354872263",
           "category": "Music",
           "label": "Music",
           "headline": "Roxette Cancels 40th Anniversary Tour of North American Amphitheaters, Citing ‘Hugely Increased Touring Costs’",
@@ -2821,8 +2821,8 @@
           ]
         },
         {
-          "id": "music-9-387768938573558133",
-          "key": "music-9-387768938573558133",
+          "id": "music-9-316813946317983921",
+          "key": "music-9-316813946317983921",
           "category": "Music",
           "label": "Music",
           "headline": "Kacey Musgraves Cancels Three ‘Middle of Nowhere’ Tour Dates",
@@ -2849,8 +2849,8 @@
           ]
         },
         {
-          "id": "music-19-6410907330726930540",
-          "key": "music-19-6410907330726930540",
+          "id": "music-19-3727671540609478698",
+          "key": "music-19-3727671540609478698",
           "category": "Music",
           "label": "Music",
           "headline": "Billboard’s 2026 Top Music Lawyers Revealed - billboard.com",
@@ -2877,8 +2877,8 @@
           ]
         },
         {
-          "id": "music-1-1067137244183443541",
-          "key": "music-1-1067137244183443541",
+          "id": "music-1-8855218610536889274",
+          "key": "music-1-8855218610536889274",
           "category": "Music",
           "label": "Music",
           "headline": "Katy Perry Slams Trump Administration for Using Song ‘Firework’ in Military Strikes Video: ‘I Absolutely Do Not Condone It’",
@@ -2905,8 +2905,8 @@
           ]
         },
         {
-          "id": "music-10-9032097858302455476",
-          "key": "music-10-9032097858302455476",
+          "id": "music-10-2725311370183326231",
+          "key": "music-10-2725311370183326231",
           "category": "Music",
           "label": "Music",
           "headline": "Green Day’s Billie Joe Armstrong Unveils New Signature Guitar and Marshall Amp",
@@ -2933,8 +2933,8 @@
           ]
         },
         {
-          "id": "music-20-1749461551213021783",
-          "key": "music-20-1749461551213021783",
+          "id": "music-20-5677394139405826466",
+          "key": "music-20-5677394139405826466",
           "category": "Music",
           "label": "Music",
           "headline": "Seven Loeb Partners Named Among Billboard's \"Top Music Lawyers\" for 2026 - Loeb & Loeb LLP",
@@ -2963,8 +2963,8 @@
       ],
       "items": [
         {
-          "id": "music-0-1631247718867238485",
-          "key": "music-0-1631247718867238485",
+          "id": "music-0-2482520193354872263",
+          "key": "music-0-2482520193354872263",
           "category": "Music",
           "label": "Music",
           "headline": "Roxette Cancels 40th Anniversary Tour of North American Amphitheaters, Citing ‘Hugely Increased Touring Costs’",
@@ -2991,8 +2991,8 @@
           ]
         },
         {
-          "id": "music-9-387768938573558133",
-          "key": "music-9-387768938573558133",
+          "id": "music-9-316813946317983921",
+          "key": "music-9-316813946317983921",
           "category": "Music",
           "label": "Music",
           "headline": "Kacey Musgraves Cancels Three ‘Middle of Nowhere’ Tour Dates",
@@ -3019,8 +3019,8 @@
           ]
         },
         {
-          "id": "music-19-6410907330726930540",
-          "key": "music-19-6410907330726930540",
+          "id": "music-19-3727671540609478698",
+          "key": "music-19-3727671540609478698",
           "category": "Music",
           "label": "Music",
           "headline": "Billboard’s 2026 Top Music Lawyers Revealed - billboard.com",
@@ -3047,8 +3047,8 @@
           ]
         },
         {
-          "id": "music-1-1067137244183443541",
-          "key": "music-1-1067137244183443541",
+          "id": "music-1-8855218610536889274",
+          "key": "music-1-8855218610536889274",
           "category": "Music",
           "label": "Music",
           "headline": "Katy Perry Slams Trump Administration for Using Song ‘Firework’ in Military Strikes Video: ‘I Absolutely Do Not Condone It’",
@@ -3075,8 +3075,8 @@
           ]
         },
         {
-          "id": "music-10-9032097858302455476",
-          "key": "music-10-9032097858302455476",
+          "id": "music-10-2725311370183326231",
+          "key": "music-10-2725311370183326231",
           "category": "Music",
           "label": "Music",
           "headline": "Green Day’s Billie Joe Armstrong Unveils New Signature Guitar and Marshall Amp",
@@ -3103,8 +3103,8 @@
           ]
         },
         {
-          "id": "music-20-1749461551213021783",
-          "key": "music-20-1749461551213021783",
+          "id": "music-20-5677394139405826466",
+          "key": "music-20-5677394139405826466",
           "category": "Music",
           "label": "Music",
           "headline": "Seven Loeb Partners Named Among Billboard's \"Top Music Lawyers\" for 2026 - Loeb & Loeb LLP",
@@ -3131,7 +3131,7 @@
           ]
         }
       ],
-      "updated_at": "2026-07-26 08:03:52 AM ET"
+      "updated_at": "2026-07-26 10:37:10 AM ET"
     },
     {
       "key": "awards",
@@ -3153,8 +3153,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "awards-0-5088771631344422560",
-          "key": "awards-0-5088771631344422560",
+          "id": "awards-0-4386168932936435672",
+          "key": "awards-0-4386168932936435672",
           "category": "Awards",
           "label": "Awards",
           "headline": "Emmys 2026 Voters’ Guide: Breaking Down the Early Frontrunners",
@@ -3181,8 +3181,8 @@
           ]
         },
         {
-          "id": "awards-4-4550712506616839634",
-          "key": "awards-4-4550712506616839634",
+          "id": "awards-4-2477348886025997785",
+          "key": "awards-4-2477348886025997785",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar - Deadline",
@@ -3209,8 +3209,8 @@
           ]
         },
         {
-          "id": "awards-1-2070577497060371211",
-          "key": "awards-1-2070577497060371211",
+          "id": "awards-1-7448271397420903321",
+          "key": "awards-1-7448271397420903321",
           "category": "Awards",
           "label": "Awards",
           "headline": "Martin Scorsese and Steven Spielberg Attend ‘Cape Fear’ Screening in NYC, Zendaya and Tom Holland Promote ‘Spider-Man: Brand New Day’ and More Celeb Red Carpet Photos: July 2026",
@@ -3237,8 +3237,8 @@
           ]
         },
         {
-          "id": "awards-5-2432492569966520201",
-          "key": "awards-5-2432492569966520201",
+          "id": "awards-5-6134218080236396412",
+          "key": "awards-5-6134218080236396412",
           "category": "Awards",
           "label": "Awards",
           "headline": "Awards Season Calendar: Key Dates for Oscars, Emmys, Tonys, Grammys, Golden Globes and Other Major Events - The Hollywood Reporter",
@@ -3267,8 +3267,8 @@
       ],
       "items": [
         {
-          "id": "awards-0-5088771631344422560",
-          "key": "awards-0-5088771631344422560",
+          "id": "awards-0-4386168932936435672",
+          "key": "awards-0-4386168932936435672",
           "category": "Awards",
           "label": "Awards",
           "headline": "Emmys 2026 Voters’ Guide: Breaking Down the Early Frontrunners",
@@ -3295,8 +3295,8 @@
           ]
         },
         {
-          "id": "awards-4-4550712506616839634",
-          "key": "awards-4-4550712506616839634",
+          "id": "awards-4-2477348886025997785",
+          "key": "awards-4-2477348886025997785",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar - Deadline",
@@ -3323,8 +3323,8 @@
           ]
         },
         {
-          "id": "awards-1-2070577497060371211",
-          "key": "awards-1-2070577497060371211",
+          "id": "awards-1-7448271397420903321",
+          "key": "awards-1-7448271397420903321",
           "category": "Awards",
           "label": "Awards",
           "headline": "Martin Scorsese and Steven Spielberg Attend ‘Cape Fear’ Screening in NYC, Zendaya and Tom Holland Promote ‘Spider-Man: Brand New Day’ and More Celeb Red Carpet Photos: July 2026",
@@ -3351,8 +3351,8 @@
           ]
         },
         {
-          "id": "awards-5-2432492569966520201",
-          "key": "awards-5-2432492569966520201",
+          "id": "awards-5-6134218080236396412",
+          "key": "awards-5-6134218080236396412",
           "category": "Awards",
           "label": "Awards",
           "headline": "Awards Season Calendar: Key Dates for Oscars, Emmys, Tonys, Grammys, Golden Globes and Other Major Events - The Hollywood Reporter",
@@ -3379,7 +3379,7 @@
           ]
         }
       ],
-      "updated_at": "2026-07-26 08:03:52 AM ET"
+      "updated_at": "2026-07-26 10:37:11 AM ET"
     },
     {
       "key": "box_office",
@@ -3401,8 +3401,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "box_office-0-8069637648449819561",
-          "key": "box_office-0-8069637648449819561",
+          "id": "box_office-0-4506932789227017664",
+          "key": "box_office-0-4506932789227017664",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘The Odyssey’ Holds Strong With $25 Million on Friday",
@@ -3429,8 +3429,8 @@
           ]
         },
         {
-          "id": "box_office-10-821518937503616580",
-          "key": "box_office-10-821518937503616580",
+          "id": "box_office-10-7256715933947442449",
+          "key": "box_office-10-7256715933947442449",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "'The Odyssey' Box Office Collection Day 7: Christopher Nolan's epic ends first week with Rs 107 crore hau - The Times of India",
@@ -3457,8 +3457,8 @@
           ]
         },
         {
-          "id": "box_office-1-2809238943654567062",
-          "key": "box_office-1-2809238943654567062",
+          "id": "box_office-1-8536441769833101316",
+          "key": "box_office-1-8536441769833101316",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Ava DuVernay’s ’14th’ Documentary to World Premiere at New York Film Festival",
@@ -3485,8 +3485,8 @@
           ]
         },
         {
-          "id": "box_office-11-6553879506272233962",
-          "key": "box_office-11-6553879506272233962",
+          "id": "box_office-11-6777064499448850239",
+          "key": "box_office-11-6777064499448850239",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "From ‘Michael’ to ‘The Bride’: The Good, the Bad and the Meh of the 2026 Box Office (So Far) - Variety",
@@ -3515,8 +3515,8 @@
       ],
       "items": [
         {
-          "id": "box_office-0-8069637648449819561",
-          "key": "box_office-0-8069637648449819561",
+          "id": "box_office-0-4506932789227017664",
+          "key": "box_office-0-4506932789227017664",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘The Odyssey’ Holds Strong With $25 Million on Friday",
@@ -3543,8 +3543,8 @@
           ]
         },
         {
-          "id": "box_office-10-821518937503616580",
-          "key": "box_office-10-821518937503616580",
+          "id": "box_office-10-7256715933947442449",
+          "key": "box_office-10-7256715933947442449",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "'The Odyssey' Box Office Collection Day 7: Christopher Nolan's epic ends first week with Rs 107 crore hau - The Times of India",
@@ -3571,8 +3571,8 @@
           ]
         },
         {
-          "id": "box_office-1-2809238943654567062",
-          "key": "box_office-1-2809238943654567062",
+          "id": "box_office-1-8536441769833101316",
+          "key": "box_office-1-8536441769833101316",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Ava DuVernay’s ’14th’ Documentary to World Premiere at New York Film Festival",
@@ -3599,8 +3599,8 @@
           ]
         },
         {
-          "id": "box_office-11-6553879506272233962",
-          "key": "box_office-11-6553879506272233962",
+          "id": "box_office-11-6777064499448850239",
+          "key": "box_office-11-6777064499448850239",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "From ‘Michael’ to ‘The Bride’: The Good, the Bad and the Meh of the 2026 Box Office (So Far) - Variety",
@@ -3627,26 +3627,54 @@
           ]
         }
       ],
-      "updated_at": "2026-07-26 08:03:53 AM ET"
+      "updated_at": "2026-07-26 10:37:13 AM ET"
     },
     {
       "key": "celebrity",
       "name": "Celebrity",
       "title": "Celebrity Report",
-      "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
+      "headline": "From breakups to new beginnings: Inside a week of celebrity relationship news - Cleveland.com",
       "snapshot": "Celebrity coverage is updating with 2 current RSS headline item(s).",
       "key_storylines": [
-        "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
-        "Celebrity Deaths of 2026: NFL Alum Jordan Devey and More Stars We’ve Lost This Year - Us Weekly"
+        "From breakups to new beginnings: Inside a week of celebrity relationship news - Cleveland.com",
+        "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly"
       ],
       "watch_list": [
-        "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
-        "Celebrity Deaths of 2026: NFL Alum Jordan Devey and More Stars We’ve Lost This Year - Us Weekly"
+        "From breakups to new beginnings: Inside a week of celebrity relationship news - Cleveland.com",
+        "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly"
       ],
       "homepage_cards": [
         {
-          "id": "celebrity-0-537382661155001884",
-          "key": "celebrity-0-537382661155001884",
+          "id": "celebrity-0-3884390251752071364",
+          "key": "celebrity-0-3884390251752071364",
+          "category": "Celebrity",
+          "label": "Celebrity",
+          "headline": "From breakups to new beginnings: Inside a week of celebrity relationship news - Cleveland.com",
+          "title": "From breakups to new beginnings: Inside a week of celebrity relationship news - Cleveland.com",
+          "snapshot": "From breakups to new beginnings: Inside a week of celebrity relationship news Cleveland.com",
+          "summary": "From breakups to new beginnings: Inside a week of celebrity relationship news Cleveland.com",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOXNVaVRXVExPc2dqSWNVLW9SVmF0OVp1ZXhxMkJCaUxjcnZyRXFzMXB6M1c1U2Jyal9TbkluM3pwa1I0em5yT1NOMWZvMzVvRzQtOVh0dGdEcHRTS1FQeXNtRXl3blB3VWZkTll2R0puSjZNR3dWQ2hLbWJGMXZzM2F4SWRrZG5FVDhNS1BFZkJHOFNaSURiQ29PNWhxRHRDTnhNck5BOTJNNF9ja1liLVhHQk5jUGcyLXhyTdIB0AFBVV95cUxPYlZ1TXFvUEUyWVQ5WTB1QnA5UE04eUdCUG5Wa1VscG4weVZodXZxaGtDdVZWNS1EV3VaOXJVbUdqLWFGVlFNZWNZWnRvOFZSQzlidU1RenpfTVphb0k1Y0F2Sk5sQWRqNGhPVExISzVGWWVYME05NTE2S1JEWldWamhIUHAzdklHeU9yTG43bnhtamVsdXFPMFg5dWhzdDNoTFpqblE0dDFNaHNkalg2RWtfTnl5UU13dkR0dkltNDZLM192cjVCWVd3VXl6RGZr?oc=5",
+          "source": "Google News",
+          "source_name": "Google News",
+          "source_feed": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-26 06:00:00 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 100,
+          "key_data": [
+            "From breakups to new beginnings: Inside a week of celebrity relationship news - Cleveland.com"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "celebrity-1-3888842311470226443",
+          "key": "celebrity-1-3888842311470226443",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3661,37 +3689,9 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 100,
-          "key_data": [
-            "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "celebrity-1-2574835945759158356",
-          "key": "celebrity-1-2574835945759158356",
-          "category": "Celebrity",
-          "label": "Celebrity",
-          "headline": "Celebrity Deaths of 2026: NFL Alum Jordan Devey and More Stars We’ve Lost This Year - Us Weekly",
-          "title": "Celebrity Deaths of 2026: NFL Alum Jordan Devey and More Stars We’ve Lost This Year - Us Weekly",
-          "snapshot": "Celebrity Deaths of 2026: NFL Alum Jordan Devey and More Stars We’ve Lost This Year Us Weekly",
-          "summary": "Celebrity Deaths of 2026: NFL Alum Jordan Devey and More Stars We’ve Lost This Year Us Weekly",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZjlCdHlXVERmNXlKZ3FNbndsOEc3WHNPZURITWdjN05kZHZzaTFFN2tyTlRwQmgxWllQelFkRXg2MU5hSVNvYUNoT1J0aC1iRUE3YkVXZno0SE5OMjBBM1lWUlQ0SGRDUl9yZ0x4enJqQy1jbFI5azZpLW96T3BxbTJsdXZLZmE0ZnRrSmpkdWgzZjJuOUxMQlFSU3RINFFRSTA3ZHE2UC1iME5ZSkdONTExek9QMENPdG94RlJ3VFU?oc=5",
-          "source": "Google News",
-          "source_name": "Google News",
-          "source_feed": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-07-26 04:54:49 AM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Celebrity Deaths of 2026: NFL Alum Jordan Devey and More Stars We’ve Lost This Year - Us Weekly"
+            "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3703,8 +3703,36 @@
       ],
       "items": [
         {
-          "id": "celebrity-0-537382661155001884",
-          "key": "celebrity-0-537382661155001884",
+          "id": "celebrity-0-3884390251752071364",
+          "key": "celebrity-0-3884390251752071364",
+          "category": "Celebrity",
+          "label": "Celebrity",
+          "headline": "From breakups to new beginnings: Inside a week of celebrity relationship news - Cleveland.com",
+          "title": "From breakups to new beginnings: Inside a week of celebrity relationship news - Cleveland.com",
+          "snapshot": "From breakups to new beginnings: Inside a week of celebrity relationship news Cleveland.com",
+          "summary": "From breakups to new beginnings: Inside a week of celebrity relationship news Cleveland.com",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOXNVaVRXVExPc2dqSWNVLW9SVmF0OVp1ZXhxMkJCaUxjcnZyRXFzMXB6M1c1U2Jyal9TbkluM3pwa1I0em5yT1NOMWZvMzVvRzQtOVh0dGdEcHRTS1FQeXNtRXl3blB3VWZkTll2R0puSjZNR3dWQ2hLbWJGMXZzM2F4SWRrZG5FVDhNS1BFZkJHOFNaSURiQ29PNWhxRHRDTnhNck5BOTJNNF9ja1liLVhHQk5jUGcyLXhyTdIB0AFBVV95cUxPYlZ1TXFvUEUyWVQ5WTB1QnA5UE04eUdCUG5Wa1VscG4weVZodXZxaGtDdVZWNS1EV3VaOXJVbUdqLWFGVlFNZWNZWnRvOFZSQzlidU1RenpfTVphb0k1Y0F2Sk5sQWRqNGhPVExISzVGWWVYME05NTE2S1JEWldWamhIUHAzdklHeU9yTG43bnhtamVsdXFPMFg5dWhzdDNoTFpqblE0dDFNaHNkalg2RWtfTnl5UU13dkR0dkltNDZLM192cjVCWVd3VXl6RGZr?oc=5",
+          "source": "Google News",
+          "source_name": "Google News",
+          "source_feed": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-26 06:00:00 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 100,
+          "key_data": [
+            "From breakups to new beginnings: Inside a week of celebrity relationship news - Cleveland.com"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "celebrity-1-3888842311470226443",
+          "key": "celebrity-1-3888842311470226443",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3719,7 +3747,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 100,
+          "priority_score": 99,
           "key_data": [
             "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly"
           ],
@@ -3729,37 +3757,9 @@
           "what_to_watch": [
             "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
           ]
-        },
-        {
-          "id": "celebrity-1-2574835945759158356",
-          "key": "celebrity-1-2574835945759158356",
-          "category": "Celebrity",
-          "label": "Celebrity",
-          "headline": "Celebrity Deaths of 2026: NFL Alum Jordan Devey and More Stars We’ve Lost This Year - Us Weekly",
-          "title": "Celebrity Deaths of 2026: NFL Alum Jordan Devey and More Stars We’ve Lost This Year - Us Weekly",
-          "snapshot": "Celebrity Deaths of 2026: NFL Alum Jordan Devey and More Stars We’ve Lost This Year Us Weekly",
-          "summary": "Celebrity Deaths of 2026: NFL Alum Jordan Devey and More Stars We’ve Lost This Year Us Weekly",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZjlCdHlXVERmNXlKZ3FNbndsOEc3WHNPZURITWdjN05kZHZzaTFFN2tyTlRwQmgxWllQelFkRXg2MU5hSVNvYUNoT1J0aC1iRUE3YkVXZno0SE5OMjBBM1lWUlQ0SGRDUl9yZ0x4enJqQy1jbFI5azZpLW96T3BxbTJsdXZLZmE0ZnRrSmpkdWgzZjJuOUxMQlFSU3RINFFRSTA3ZHE2UC1iME5ZSkdONTExek9QMENPdG94RlJ3VFU?oc=5",
-          "source": "Google News",
-          "source_name": "Google News",
-          "source_feed": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-07-26 04:54:49 AM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 99,
-          "key_data": [
-            "Celebrity Deaths of 2026: NFL Alum Jordan Devey and More Stars We’ve Lost This Year - Us Weekly"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
         }
       ],
-      "updated_at": "2026-07-26 08:03:53 AM ET"
+      "updated_at": "2026-07-26 10:37:13 AM ET"
     },
     {
       "key": "hollywood",
@@ -3770,19 +3770,19 @@
       "key_storylines": [
         "David Jonsson To Play T’Challa’s Grown Son In ‘Black Panther 3’; Pic Hits Theaters In December 2028 – Comic-Con",
         "‘Beneath the Trees Where Nobody Sees’ Final Act Gets Title and Cover (Exclusive)",
-        "The life of a Hollywood freelancer - marketplace.org",
-        "Hollywood EXODUS: Film industry on life support - Fox News"
+        "HOLLYWOOD CONSULTANT: TOP EXPERT FOR CONSULTING SERVICES – MOVIES, TV, VIDEO GAMES, ETC. - futuristsspeakers.com",
+        "The life of a Hollywood freelancer - marketplace.org"
       ],
       "watch_list": [
         "David Jonsson To Play T’Challa’s Grown Son In ‘Black Panther 3’; Pic Hits Theaters In December 2028 – Comic-Con",
         "‘Beneath the Trees Where Nobody Sees’ Final Act Gets Title and Cover (Exclusive)",
-        "The life of a Hollywood freelancer - marketplace.org",
-        "Hollywood EXODUS: Film industry on life support - Fox News"
+        "HOLLYWOOD CONSULTANT: TOP EXPERT FOR CONSULTING SERVICES – MOVIES, TV, VIDEO GAMES, ETC. - futuristsspeakers.com",
+        "The life of a Hollywood freelancer - marketplace.org"
       ],
       "homepage_cards": [
         {
-          "id": "hollywood-0-3573778560644793620",
-          "key": "hollywood-0-3573778560644793620",
+          "id": "hollywood-0-4739167053862396703",
+          "key": "hollywood-0-4739167053862396703",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "David Jonsson To Play T’Challa’s Grown Son In ‘Black Panther 3’; Pic Hits Theaters In December 2028 – Comic-Con",
@@ -3809,8 +3809,8 @@
           ]
         },
         {
-          "id": "hollywood-1-1852886017232011361",
-          "key": "hollywood-1-1852886017232011361",
+          "id": "hollywood-1-2261274656670435185",
+          "key": "hollywood-1-2261274656670435185",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘Beneath the Trees Where Nobody Sees’ Final Act Gets Title and Cover (Exclusive)",
@@ -3837,8 +3837,36 @@
           ]
         },
         {
-          "id": "hollywood-2-9197355658569689238",
-          "key": "hollywood-2-9197355658569689238",
+          "id": "hollywood-2-3125710083293093870",
+          "key": "hollywood-2-3125710083293093870",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "HOLLYWOOD CONSULTANT: TOP EXPERT FOR CONSULTING SERVICES – MOVIES, TV, VIDEO GAMES, ETC. - futuristsspeakers.com",
+          "title": "HOLLYWOOD CONSULTANT: TOP EXPERT FOR CONSULTING SERVICES – MOVIES, TV, VIDEO GAMES, ETC. - futuristsspeakers.com",
+          "snapshot": "HOLLYWOOD CONSULTANT: TOP EXPERT FOR CONSULTING SERVICES – MOVIES, TV, VIDEO GAMES, ETC. futuristsspeakers.com",
+          "summary": "HOLLYWOOD CONSULTANT: TOP EXPERT FOR CONSULTING SERVICES – MOVIES, TV, VIDEO GAMES, ETC. futuristsspeakers.com",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYWYtdHRHZk9oTU9IaFBweVEyYzZLM3NSUmt1VVhRcXZXdl9BN2RDZXhITGxINHVDUUh5Q204dFgxaTJyazJud2otRGRMUkNOQ3BIODh3RnU3eWhqTm5yV3d0Z19yd2Z0eUxFMW9oNlNldkM4TnZxc2hfODhQNUhPNDlR?oc=5",
+          "source": "Google News",
+          "source_name": "Google News",
+          "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-26 08:58:12 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 98,
+          "key_data": [
+            "HOLLYWOOD CONSULTANT: TOP EXPERT FOR CONSULTING SERVICES – MOVIES, TV, VIDEO GAMES, ETC. - futuristsspeakers.com"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-3-7298189441939955517",
+          "key": "hollywood-3-7298189441939955517",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "The life of a Hollywood freelancer - marketplace.org",
@@ -3853,37 +3881,9 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 98,
-          "key_data": [
-            "The life of a Hollywood freelancer - marketplace.org"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "hollywood-3-6760513923714618728",
-          "key": "hollywood-3-6760513923714618728",
-          "category": "Hollywood",
-          "label": "Hollywood",
-          "headline": "Hollywood EXODUS: Film industry on life support - Fox News",
-          "title": "Hollywood EXODUS: Film industry on life support - Fox News",
-          "snapshot": "Hollywood EXODUS: Film industry on life support Fox News",
-          "summary": "Hollywood EXODUS: Film industry on life support Fox News",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pYzB5bzBUNHZUVGdKWFcxaVJrQ3hldFlaaHZPV19qd19lSWkxODNXWWkzSDZMQy0zTlhuR3A1WjZDekQ2MGQ3eWlkbGtyTXllbnRwbW5n?oc=5",
-          "source": "Google News",
-          "source_name": "Google News",
-          "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-07-24 02:10:19 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
           "priority_score": 97,
           "key_data": [
-            "Hollywood EXODUS: Film industry on life support - Fox News"
+            "The life of a Hollywood freelancer - marketplace.org"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3895,8 +3895,8 @@
       ],
       "items": [
         {
-          "id": "hollywood-0-3573778560644793620",
-          "key": "hollywood-0-3573778560644793620",
+          "id": "hollywood-0-4739167053862396703",
+          "key": "hollywood-0-4739167053862396703",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "David Jonsson To Play T’Challa’s Grown Son In ‘Black Panther 3’; Pic Hits Theaters In December 2028 – Comic-Con",
@@ -3923,8 +3923,8 @@
           ]
         },
         {
-          "id": "hollywood-1-1852886017232011361",
-          "key": "hollywood-1-1852886017232011361",
+          "id": "hollywood-1-2261274656670435185",
+          "key": "hollywood-1-2261274656670435185",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘Beneath the Trees Where Nobody Sees’ Final Act Gets Title and Cover (Exclusive)",
@@ -3951,8 +3951,36 @@
           ]
         },
         {
-          "id": "hollywood-2-9197355658569689238",
-          "key": "hollywood-2-9197355658569689238",
+          "id": "hollywood-2-3125710083293093870",
+          "key": "hollywood-2-3125710083293093870",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "HOLLYWOOD CONSULTANT: TOP EXPERT FOR CONSULTING SERVICES – MOVIES, TV, VIDEO GAMES, ETC. - futuristsspeakers.com",
+          "title": "HOLLYWOOD CONSULTANT: TOP EXPERT FOR CONSULTING SERVICES – MOVIES, TV, VIDEO GAMES, ETC. - futuristsspeakers.com",
+          "snapshot": "HOLLYWOOD CONSULTANT: TOP EXPERT FOR CONSULTING SERVICES – MOVIES, TV, VIDEO GAMES, ETC. futuristsspeakers.com",
+          "summary": "HOLLYWOOD CONSULTANT: TOP EXPERT FOR CONSULTING SERVICES – MOVIES, TV, VIDEO GAMES, ETC. futuristsspeakers.com",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYWYtdHRHZk9oTU9IaFBweVEyYzZLM3NSUmt1VVhRcXZXdl9BN2RDZXhITGxINHVDUUh5Q204dFgxaTJyazJud2otRGRMUkNOQ3BIODh3RnU3eWhqTm5yV3d0Z19yd2Z0eUxFMW9oNlNldkM4TnZxc2hfODhQNUhPNDlR?oc=5",
+          "source": "Google News",
+          "source_name": "Google News",
+          "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-26 08:58:12 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 98,
+          "key_data": [
+            "HOLLYWOOD CONSULTANT: TOP EXPERT FOR CONSULTING SERVICES – MOVIES, TV, VIDEO GAMES, ETC. - futuristsspeakers.com"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-3-7298189441939955517",
+          "key": "hollywood-3-7298189441939955517",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "The life of a Hollywood freelancer - marketplace.org",
@@ -3967,7 +3995,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 98,
+          "priority_score": 97,
           "key_data": [
             "The life of a Hollywood freelancer - marketplace.org"
           ],
@@ -3977,37 +4005,9 @@
           "what_to_watch": [
             "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
           ]
-        },
-        {
-          "id": "hollywood-3-6760513923714618728",
-          "key": "hollywood-3-6760513923714618728",
-          "category": "Hollywood",
-          "label": "Hollywood",
-          "headline": "Hollywood EXODUS: Film industry on life support - Fox News",
-          "title": "Hollywood EXODUS: Film industry on life support - Fox News",
-          "snapshot": "Hollywood EXODUS: Film industry on life support Fox News",
-          "summary": "Hollywood EXODUS: Film industry on life support Fox News",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pYzB5bzBUNHZUVGdKWFcxaVJrQ3hldFlaaHZPV19qd19lSWkxODNXWWkzSDZMQy0zTlhuR3A1WjZDekQ2MGQ3eWlkbGtyTXllbnRwbW5n?oc=5",
-          "source": "Google News",
-          "source_name": "Google News",
-          "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-07-24 02:10:19 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 97,
-          "key_data": [
-            "Hollywood EXODUS: Film industry on life support - Fox News"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
         }
       ],
-      "updated_at": "2026-07-26 08:03:54 AM ET"
+      "updated_at": "2026-07-26 10:37:14 AM ET"
     },
     {
       "key": "gaming",
@@ -4029,8 +4029,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "gaming-0-2329093865971499561",
-          "key": "gaming-0-2329093865971499561",
+          "id": "gaming-0-9016592171869335445",
+          "key": "gaming-0-9016592171869335445",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Rockstar Co-Founder Says 'if People Want' Physical Game Releases Then 'Companies Should Provide It'",
@@ -4057,8 +4057,8 @@
           ]
         },
         {
-          "id": "gaming-20-1762931193319297139",
-          "key": "gaming-20-1762931193319297139",
+          "id": "gaming-20-4201070195464666955",
+          "key": "gaming-20-4201070195464666955",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Prime Video just became a gaming platform - Morning Brew",
@@ -4085,8 +4085,8 @@
           ]
         },
         {
-          "id": "gaming-1-4934845258814902251",
-          "key": "gaming-1-4934845258814902251",
+          "id": "gaming-1-2229440606857251388",
+          "key": "gaming-1-2229440606857251388",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "The Most Anticipated Warhammer 40,000 Animation Ever Finally Has a Release Date",
@@ -4113,8 +4113,8 @@
           ]
         },
         {
-          "id": "gaming-21-6081935641261638354",
-          "key": "gaming-21-6081935641261638354",
+          "id": "gaming-21-2003636004280785957",
+          "key": "gaming-21-2003636004280785957",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Video Games | Pros, Cons, Debate, Arguments, Digital Media, Play, Violence, Aggression, & Conflict - Encyclopedia Britannica",
@@ -4143,8 +4143,8 @@
       ],
       "items": [
         {
-          "id": "gaming-0-2329093865971499561",
-          "key": "gaming-0-2329093865971499561",
+          "id": "gaming-0-9016592171869335445",
+          "key": "gaming-0-9016592171869335445",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Rockstar Co-Founder Says 'if People Want' Physical Game Releases Then 'Companies Should Provide It'",
@@ -4171,8 +4171,8 @@
           ]
         },
         {
-          "id": "gaming-20-1762931193319297139",
-          "key": "gaming-20-1762931193319297139",
+          "id": "gaming-20-4201070195464666955",
+          "key": "gaming-20-4201070195464666955",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Prime Video just became a gaming platform - Morning Brew",
@@ -4199,8 +4199,8 @@
           ]
         },
         {
-          "id": "gaming-1-4934845258814902251",
-          "key": "gaming-1-4934845258814902251",
+          "id": "gaming-1-2229440606857251388",
+          "key": "gaming-1-2229440606857251388",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "The Most Anticipated Warhammer 40,000 Animation Ever Finally Has a Release Date",
@@ -4227,8 +4227,8 @@
           ]
         },
         {
-          "id": "gaming-21-6081935641261638354",
-          "key": "gaming-21-6081935641261638354",
+          "id": "gaming-21-2003636004280785957",
+          "key": "gaming-21-2003636004280785957",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Video Games | Pros, Cons, Debate, Arguments, Digital Media, Play, Violence, Aggression, & Conflict - Encyclopedia Britannica",
@@ -4255,7 +4255,7 @@
           ]
         }
       ],
-      "updated_at": "2026-07-26 08:03:55 AM ET"
+      "updated_at": "2026-07-26 10:37:15 AM ET"
     },
     {
       "key": "media",
@@ -4279,8 +4279,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "media-0-3182667803182170795",
-          "key": "media-0-3182667803182170795",
+          "id": "media-0-7678262324588252482",
+          "key": "media-0-7678262324588252482",
           "category": "Media",
           "label": "Media",
           "headline": "‘Haunting Adeline’ Adult Graphic Novels in the Works Based on H.D. Carlton’s Divisive Dark Romance Amid Film Adaptation Backlash (EXCLUSIVE)",
@@ -4307,8 +4307,8 @@
           ]
         },
         {
-          "id": "media-10-7646430123004956169",
-          "key": "media-10-7646430123004956169",
+          "id": "media-10-298597333855662877",
+          "key": "media-10-298597333855662877",
           "category": "Media",
           "label": "Media",
           "headline": "Inside The Room At The Rescheduled WHCA Dinner As Donald Trump Tried Rickles-Like Rally Schtick, But Was Met With The Sounds Of Silence",
@@ -4335,8 +4335,8 @@
           ]
         },
         {
-          "id": "media-20-902180186812396514",
-          "key": "media-20-902180186812396514",
+          "id": "media-20-1866937746509017838",
+          "key": "media-20-1866937746509017838",
           "category": "Media",
           "label": "Media",
           "headline": "40 Under 40 in Digital Entertainment, Class of 2026 - Media Play News",
@@ -4363,8 +4363,8 @@
           ]
         },
         {
-          "id": "media-1-8363054503051630922",
-          "key": "media-1-8363054503051630922",
+          "id": "media-1-4577197102122267858",
+          "key": "media-1-4577197102122267858",
           "category": "Media",
           "label": "Media",
           "headline": "Josh Sapan on Life After AMC Networks and Championing Disability on Screen: ‘Neurodivergent Artists Just Bring Something Unique in How They See the World’",
@@ -4391,8 +4391,8 @@
           ]
         },
         {
-          "id": "media-11-4721784959572525230",
-          "key": "media-11-4721784959572525230",
+          "id": "media-11-1106199718893607361",
+          "key": "media-11-1106199718893607361",
           "category": "Media",
           "label": "Media",
           "headline": "Donald Trump Delivers Rally-Like Hour Of Rehash In White House Correspondents’ Dinner Speech",
@@ -4421,8 +4421,8 @@
       ],
       "items": [
         {
-          "id": "media-0-3182667803182170795",
-          "key": "media-0-3182667803182170795",
+          "id": "media-0-7678262324588252482",
+          "key": "media-0-7678262324588252482",
           "category": "Media",
           "label": "Media",
           "headline": "‘Haunting Adeline’ Adult Graphic Novels in the Works Based on H.D. Carlton’s Divisive Dark Romance Amid Film Adaptation Backlash (EXCLUSIVE)",
@@ -4449,8 +4449,8 @@
           ]
         },
         {
-          "id": "media-10-7646430123004956169",
-          "key": "media-10-7646430123004956169",
+          "id": "media-10-298597333855662877",
+          "key": "media-10-298597333855662877",
           "category": "Media",
           "label": "Media",
           "headline": "Inside The Room At The Rescheduled WHCA Dinner As Donald Trump Tried Rickles-Like Rally Schtick, But Was Met With The Sounds Of Silence",
@@ -4477,8 +4477,8 @@
           ]
         },
         {
-          "id": "media-20-902180186812396514",
-          "key": "media-20-902180186812396514",
+          "id": "media-20-1866937746509017838",
+          "key": "media-20-1866937746509017838",
           "category": "Media",
           "label": "Media",
           "headline": "40 Under 40 in Digital Entertainment, Class of 2026 - Media Play News",
@@ -4505,8 +4505,8 @@
           ]
         },
         {
-          "id": "media-1-8363054503051630922",
-          "key": "media-1-8363054503051630922",
+          "id": "media-1-4577197102122267858",
+          "key": "media-1-4577197102122267858",
           "category": "Media",
           "label": "Media",
           "headline": "Josh Sapan on Life After AMC Networks and Championing Disability on Screen: ‘Neurodivergent Artists Just Bring Something Unique in How They See the World’",
@@ -4533,8 +4533,8 @@
           ]
         },
         {
-          "id": "media-11-4721784959572525230",
-          "key": "media-11-4721784959572525230",
+          "id": "media-11-1106199718893607361",
+          "key": "media-11-1106199718893607361",
           "category": "Media",
           "label": "Media",
           "headline": "Donald Trump Delivers Rally-Like Hour Of Rehash In White House Correspondents’ Dinner Speech",
@@ -4561,7 +4561,7 @@
           ]
         }
       ],
-      "updated_at": "2026-07-26 08:03:55 AM ET"
+      "updated_at": "2026-07-26 10:37:16 AM ET"
     }
   ]
 }
