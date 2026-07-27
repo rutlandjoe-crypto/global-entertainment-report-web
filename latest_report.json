@@ -4,14 +4,14 @@
   "site_name": "Global Entertainment Report",
   "vertical": "Entertainment",
   "headline": "Kevin Feige Says Ryan Coogler Met With David Jonsson Six Months Ago in a 'Secret Meeting' to Discuss 'Black Panther 3' Role: 'I Got Chills'",
-  "snapshot": "Global Entertainment Report accepted 50 real RSS item(s) across 31 checked feed request(s).",
-  "generated_at": "2026-07-26 07:07:07 PM ET",
-  "updated_at": "2026-07-26 07:07:07 PM ET",
-  "published_at": "2026-07-26 07:07:07 PM ET",
+  "snapshot": "Global Entertainment Report accepted 51 real RSS item(s) across 31 checked feed request(s).",
+  "generated_at": "2026-07-26 11:18:03 PM ET",
+  "updated_at": "2026-07-26 11:18:03 PM ET",
+  "published_at": "2026-07-26 11:18:03 PM ET",
   "source_mode": "live RSS ingestion",
   "freshness": {
     "max_item_age_hours": 336,
-    "accepted_real_items": 50,
+    "accepted_real_items": 51,
     "checked_feeds": 31,
     "feeds_without_accepted_items": 5
   },
@@ -53,9 +53,9 @@
       "final_url": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 80,
+      "rejected_count": 83,
       "rejection_reasons": {
-        "stale-over-336h": 80
+        "stale-over-336h": 83
       }
     },
     {
@@ -195,11 +195,11 @@
       "url": "https://news.google.com/rss/search?q=entertainment+awards+oscars+emmys+grammys&hl=en-US&gl=US&ceid=US:en",
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=entertainment+awards+oscars+emmys+grammys&hl=en-US&gl=US&ceid=US:en",
-      "item_count": 72,
+      "item_count": 71,
       "accepted_count": 2,
-      "rejected_count": 68,
+      "rejected_count": 67,
       "rejection_reasons": {
-        "stale-over-336h": 68
+        "stale-over-336h": 67
       }
     },
     {
@@ -233,10 +233,10 @@
       "final_url": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 70,
+      "rejected_count": 65,
       "rejection_reasons": {
         "duplicate-story": 2,
-        "stale-over-336h": 68
+        "stale-over-336h": 63
       }
     },
     {
@@ -258,9 +258,9 @@
       "final_url": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 93,
+      "rejected_count": 94,
       "rejection_reasons": {
-        "stale-over-336h": 93
+        "stale-over-336h": 94
       }
     },
     {
@@ -293,10 +293,10 @@
       "status_code": "200",
       "final_url": "https://www.hollywoodreporter.com/feed/",
       "item_count": 10,
-      "accepted_count": 1,
-      "rejected_count": 9,
+      "accepted_count": 2,
+      "rejected_count": 7,
       "rejection_reasons": {
-        "duplicate-story": 9
+        "duplicate-story": 7
       }
     },
     {
@@ -306,9 +306,9 @@
       "final_url": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 94,
+      "rejected_count": 93,
       "rejection_reasons": {
-        "stale-over-336h": 94
+        "stale-over-336h": 93
       }
     },
     {
@@ -350,8 +350,10 @@
       "final_url": "https://deadline.com/v/business/feed/",
       "item_count": 12,
       "accepted_count": 2,
-      "rejected_count": 0,
-      "rejection_reasons": {}
+      "rejected_count": 1,
+      "rejection_reasons": {
+        "duplicate-story": 1
+      }
     },
     {
       "category": "media",
@@ -371,18 +373,18 @@
   "x_handle": "@GlobalSportsRp",
   "key_storylines": [
     "Kevin Feige Says Ryan Coogler Met With David Jonsson Six Months Ago in a 'Secret Meeting' to Discuss 'Black Panther 3' Role: 'I Got Chills'",
-    "'Hadestown: The Musical' Sings With $9.7M Debut, No. 4 Spot, 'Motor City' Powers Up As Indies Fuel Top Ten - Specialty Box Office",
+    "'Dungeons & Dragons' Writer-Director Reveals Sequel Has Been Written, Hasn't Been Made For \"Financial Reasons\"",
     "Tom Holland Says Some of His Movies Are \"Sh**,\" Making Them Hard to Promote",
     "John Cusack makes rare comment about why he pivoted away from film career - ew.com",
-    "Charli xcx Releases 'Music, Fashion, Film (B-Sides Edition)' on iTunes",
+    "System of a Down and Faith No More Announce First Australian and New Zealand Tour in Over a Decade",
     "Magic: The Gathering's Top 12 Most Powerful Commander Precons Of All Time",
     "Tom Holland: Some of My Movies Are 'S-t' and You 'Shouldn't' Watch Them",
-    "Universal Responds To Online Leak Of 'The Odyssey' With Takedown Protocols"
+    "Ryan Reynolds Thanks 'Deadpool' Fans For \"Unapologetic Devotion\" After Undercover Comic-Con Appearance - Watch Video"
   ],
   "live_newsroom": [
     {
-      "id": "film-0-1523835053693374192",
-      "key": "film-0-1523835053693374192",
+      "id": "film-0-525990267310135272",
+      "key": "film-0-525990267310135272",
       "category": "Film",
       "label": "Film",
       "headline": "Kevin Feige Says Ryan Coogler Met With David Jonsson Six Months Ago in a 'Secret Meeting' to Discuss 'Black Panther 3' Role: 'I Got Chills'",
@@ -408,22 +410,22 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-1572009691183972541",
-      "key": "film-10-1572009691183972541",
+      "id": "film-10-3999528450176468464",
+      "key": "film-10-3999528450176468464",
       "category": "Film",
       "label": "Film",
-      "headline": "'Hadestown: The Musical' Sings With $9.7M Debut, No. 4 Spot, 'Motor City' Powers Up As Indies Fuel Top Ten - Specialty Box Office",
-      "title": "'Hadestown: The Musical' Sings With $9.7M Debut, No. 4 Spot, 'Motor City' Powers Up As Indies Fuel Top Ten - Specialty Box Office",
-      "snapshot": "Bleecker Street's Hadestown: The Musical swept to the second biggest opening for a live show capture since Hamilton, pushing $9.7 million in a terrific debut on 1,949 screens. Due to \"extraordinary response and demand,\" the distributor said its new event cinema label Crosswalk and partner LD Entertainment are expand...",
-      "summary": "Bleecker Street's Hadestown: The Musical swept to the second biggest opening for a live show capture since Hamilton, pushing $9.7 million in a terrific debut on 1,949 screens. Due to \"extraordinary response and demand,\" the distributor said its new event cinema label Crosswalk and partner LD Entertainment are expand...",
-      "url": "https://deadline.com/2026/07/indie-film-box-office-hadestown-the-musical-motor-city-1237004043/",
+      "headline": "'Dungeons & Dragons' Writer-Director Reveals Sequel Has Been Written, Hasn't Been Made For \"Financial Reasons\"",
+      "title": "'Dungeons & Dragons' Writer-Director Reveals Sequel Has Been Written, Hasn't Been Made For \"Financial Reasons\"",
+      "snapshot": "After three years, Dungeons & Dragons has another campaign in store for fans of the 2023 movie… if it can just get the greenlight. Jonathan Goldstein, who co-wrote and co-directed Dungeons & Dragons: Honor Among Thieves with John Francis Daley, revealed at Comic-Con that they wrote a sequel to their 2023 adaptation...",
+      "summary": "After three years, Dungeons & Dragons has another campaign in store for fans of the 2023 movie… if it can just get the greenlight. Jonathan Goldstein, who co-wrote and co-directed Dungeons & Dragons: Honor Among Thieves with John Francis Daley, revealed at Comic-Con that they wrote a sequel to their 2023 adaptation...",
+      "url": "https://deadline.com/2026/07/dungeons-dragons-sequel-written-not-made-financial-reasons-1237004151/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-07-26 02:57:36 PM ET",
+      "published_at": "2026-07-26 11:05:18 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Hadestown: The Musical' Sings With $9.7M Debut, No. 4 Spot, 'Motor City' Powers Up As Indies Fuel Top Ten - Specialty Box Office"
+        "'Dungeons & Dragons' Writer-Director Reveals Sequel Has Been Written, Hasn't Been Made For \"Financial Reasons\""
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -435,8 +437,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-1413094321815697309",
-      "key": "film-22-1413094321815697309",
+      "id": "film-22-6296086337938651105",
+      "key": "film-22-6296086337938651105",
       "category": "Film",
       "label": "Film",
       "headline": "Tom Holland Says Some of His Movies Are \"Sh**,\" Making Them Hard to Promote",
@@ -462,8 +464,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-1146451597180284616",
-      "key": "film-32-1146451597180284616",
+      "id": "film-32-4734157239452764328",
+      "key": "film-32-4734157239452764328",
       "category": "Film",
       "label": "Film",
       "headline": "John Cusack makes rare comment about why he pivoted away from film career - ew.com",
@@ -489,22 +491,22 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-8059488009249197378",
-      "key": "music-10-8059488009249197378",
+      "id": "music-10-763251704873628121",
+      "key": "music-10-763251704873628121",
       "category": "Music",
       "label": "Music",
-      "headline": "Charli xcx Releases 'Music, Fashion, Film (B-Sides Edition)' on iTunes",
-      "title": "Charli xcx Releases 'Music, Fashion, Film (B-Sides Edition)' on iTunes",
-      "snapshot": "Three bonus tracks previously posted on her Instagram alt-account are now available to download in a $4.99 digital album bundle.",
-      "summary": "Three bonus tracks previously posted on her Instagram alt-account are now available to download in a $4.99 digital album bundle.",
-      "url": "https://www.billboard.com/music/music-news/charli-xcx-music-fashion-film-b-sides-album-1236303107/",
+      "headline": "System of a Down and Faith No More Announce First Australian and New Zealand Tour in Over a Decade",
+      "title": "System of a Down and Faith No More Announce First Australian and New Zealand Tour in Over a Decade",
+      "snapshot": "The shows mark System of a Down's first Australian dates since 2012.",
+      "summary": "The shows mark System of a Down's first Australian dates since 2012.",
+      "url": "https://www.billboard.com/music/rock/system-of-a-down-faith-no-more-announce-australian-new-zealand-tour-1236303129/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-07-26 05:28:48 PM ET",
+      "published_at": "2026-07-26 11:16:01 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Charli xcx Releases 'Music, Fashion, Film (B-Sides Edition)' on iTunes"
+        "System of a Down and Faith No More Announce First Australian and New Zealand Tour in Over a Decade"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -516,8 +518,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-2750502023293516455",
-      "key": "gaming-0-2750502023293516455",
+      "id": "gaming-0-2233377777089760220",
+      "key": "gaming-0-2233377777089760220",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Magic: The Gathering's Top 12 Most Powerful Commander Precons Of All Time",
@@ -543,8 +545,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-2775230962473996761",
-      "key": "film-1-2775230962473996761",
+      "id": "film-1-2817212081991171462",
+      "key": "film-1-2817212081991171462",
       "category": "Film",
       "label": "Film",
       "headline": "Tom Holland: Some of My Movies Are 'S-t' and You 'Shouldn't' Watch Them",
@@ -570,22 +572,22 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-5605767401388496313",
-      "key": "film-11-5605767401388496313",
+      "id": "film-11-2581443283902981907",
+      "key": "film-11-2581443283902981907",
       "category": "Film",
       "label": "Film",
-      "headline": "Universal Responds To Online Leak Of 'The Odyssey' With Takedown Protocols",
-      "title": "Universal Responds To Online Leak Of 'The Odyssey' With Takedown Protocols",
-      "snapshot": "Christopher Nolan has taken pains to urge fans to see The Odyssey in Imax if they want the best experience. After all, his film was shot entirely in that format to optimize the moviegoing experience. Imagine the director's chagrin, then, when a high-quality version of the film was leaked on X this weekend, reportedl...",
-      "summary": "Christopher Nolan has taken pains to urge fans to see The Odyssey in Imax if they want the best experience. After all, his film was shot entirely in that format to optimize the moviegoing experience. Imagine the director's chagrin, then, when a high-quality version of the film was leaked on X this weekend, reportedl...",
-      "url": "https://deadline.com/2026/07/the-odyssey-leak-universal-responds-1237004058/",
+      "headline": "Ryan Reynolds Thanks 'Deadpool' Fans For \"Unapologetic Devotion\" After Undercover Comic-Con Appearance - Watch Video",
+      "title": "Ryan Reynolds Thanks 'Deadpool' Fans For \"Unapologetic Devotion\" After Undercover Comic-Con Appearance - Watch Video",
+      "snapshot": "With Deadpool regenerating for a fourth blockbuster outing, Ryan Reynolds is already getting back into character as the wisecracking mercenary. After his surprise in-costume appearance at Comic-Con during Marvel's Hall H presentation on Saturday, the Golden Globe nominee shared a behind-the-scenes video of his under...",
+      "summary": "With Deadpool regenerating for a fourth blockbuster outing, Ryan Reynolds is already getting back into character as the wisecracking mercenary. After his surprise in-costume appearance at Comic-Con during Marvel's Hall H presentation on Saturday, the Golden Globe nominee shared a behind-the-scenes video of his under...",
+      "url": "https://deadline.com/2026/07/ryan-reynolds-deadpool-undercover-comic-con-watch-video-1237004148/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-07-26 02:08:53 PM ET",
+      "published_at": "2026-07-26 10:43:37 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Universal Responds To Online Leak Of 'The Odyssey' With Takedown Protocols"
+        "Ryan Reynolds Thanks 'Deadpool' Fans For \"Unapologetic Devotion\" After Undercover Comic-Con Appearance - Watch Video"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -597,8 +599,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-3477650285795021559",
-      "key": "film-23-3477650285795021559",
+      "id": "film-23-7216891346853909095",
+      "key": "film-23-7216891346853909095",
       "category": "Film",
       "label": "Film",
       "headline": "Universal Responds to 'The Odyssey' Leaks on Social Media",
@@ -624,8 +626,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-2662729311099914720",
-      "key": "film-33-2662729311099914720",
+      "id": "film-33-766163369468796908",
+      "key": "film-33-766163369468796908",
       "category": "Film",
       "label": "Film",
       "headline": "The Transformers: The Movie Announce Tickets Go On Sale Aug 7 - Fathom Entertainment",
@@ -651,22 +653,22 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-4707115493596793766",
-      "key": "music-11-4707115493596793766",
+      "id": "music-11-7053492491022592837",
+      "key": "music-11-7053492491022592837",
       "category": "Music",
       "label": "Music",
-      "headline": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
-      "title": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
-      "snapshot": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
-      "summary": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
-      "url": "https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
+      "headline": "Fans Choose JENNIE's 'Less Than a Lover' as This Week's Favorite New Music",
+      "title": "Fans Choose JENNIE's 'Less Than a Lover' as This Week's Favorite New Music",
+      "snapshot": "The BLACKPINK member's new solo single brought in more than 62% of the vote this week.",
+      "summary": "The BLACKPINK member's new solo single brought in more than 62% of the vote this week.",
+      "url": "https://www.billboard.com/music/music-news/jennie-less-than-a-lover-best-new-music-poll-results-1236303114/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-07-26 03:22:33 PM ET",
+      "published_at": "2026-07-26 08:46:22 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List"
+        "Fans Choose JENNIE's 'Less Than a Lover' as This Week's Favorite New Music"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -678,8 +680,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-3621188301573552107",
-      "key": "gaming-1-3621188301573552107",
+      "id": "gaming-1-1242181002760803587",
+      "key": "gaming-1-1242181002760803587",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The Best Deals Today: Saros, Mega Man Star Force Legacy Collection, DJI Mini 4K, and More",
@@ -707,8 +709,8 @@
   ],
   "editor_signals": [
     {
-      "id": "film-2-3454568830780608519",
-      "key": "film-2-3454568830780608519",
+      "id": "film-2-5616476923499761426",
+      "key": "film-2-5616476923499761426",
       "category": "Film",
       "label": "Film",
       "headline": "'Attack on Paradise' Review: Under Siege From Both Criminals and Cops, a Hero Battles Upward in a Zesty High-Rise Actioner",
@@ -734,22 +736,22 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-6951735890065126785",
-      "key": "film-12-6951735890065126785",
+      "id": "film-12-664169824263998826",
+      "key": "film-12-664169824263998826",
       "category": "Film",
       "label": "Film",
-      "headline": "'Transformers: The Movie' Getting Fall Theatrical Re-Release From Hasbro & Fathom - Comic-Con",
-      "title": "'Transformers: The Movie' Getting Fall Theatrical Re-Release From Hasbro & Fathom - Comic-Con",
-      "snapshot": "The 1986 animated Transformers: The Movie is getting a 4K theatrical re-release from Fathom Entertainment in partnership with Hasbro on Sept. 17. The Nelson Shin directed movie featured the voices of the late Orson Welles, Robert Stack, and Leonard Nimoy respectively in the roles of Unicorn, Ultra Magnus, and Galvat...",
-      "summary": "The 1986 animated Transformers: The Movie is getting a 4K theatrical re-release from Fathom Entertainment in partnership with Hasbro on Sept. 17. The Nelson Shin directed movie featured the voices of the late Orson Welles, Robert Stack, and Leonard Nimoy respectively in the roles of Unicorn, Ultra Magnus, and Galvat...",
-      "url": "https://deadline.com/2026/07/transformers-the-movie-re-release-trailer-date-1237004056/",
+      "headline": "Christopher Nolan Would Be \"Terrified\" To Make A Rom-Com: \"One Of The Hardest Things In The World\"",
+      "title": "Christopher Nolan Would Be \"Terrified\" To Make A Rom-Com: \"One Of The Hardest Things In The World\"",
+      "snapshot": "For fans who haven't yet seen Christopher Nolan's The Odyssey, don't expect Odysseus to have a meet-cute with Penelope. While the 2x Oscar winner's ancient epic adaptation has already crossed the $600M global mark, he confessed he'd be \"terrified\" to jump genres and take on a romantic-comedy, explaining why it would...",
+      "summary": "For fans who haven't yet seen Christopher Nolan's The Odyssey, don't expect Odysseus to have a meet-cute with Penelope. While the 2x Oscar winner's ancient epic adaptation has already crossed the $600M global mark, he confessed he'd be \"terrified\" to jump genres and take on a romantic-comedy, explaining why it would...",
+      "url": "https://deadline.com/2026/07/christopher-nolan-terrified-make-rom-com-1237004130/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-07-26 01:37:45 PM ET",
+      "published_at": "2026-07-26 07:39:58 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Transformers: The Movie' Getting Fall Theatrical Re-Release From Hasbro & Fathom - Comic-Con"
+        "Christopher Nolan Would Be \"Terrified\" To Make A Rom-Com: \"One Of The Hardest Things In The World\""
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -761,8 +763,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-6084479546927215184",
-      "key": "film-24-6084479546927215184",
+      "id": "film-24-6808542745454551915",
+      "key": "film-24-6808542745454551915",
       "category": "Film",
       "label": "Film",
       "headline": "'The Odyssey' Holds Strong for Big Second Weekend of $87M, Passes $600M Globally",
@@ -788,8 +790,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-4837284029264633692",
-      "key": "film-34-4837284029264633692",
+      "id": "film-34-2561736317540788940",
+      "key": "film-34-2561736317540788940",
       "category": "Film",
       "label": "Film",
       "headline": "Atari Signs Deal With Universal To Turn 10 Iconic Games Into Movies - Deadline",
@@ -815,22 +817,22 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-2900465366814706775",
-      "key": "music-12-2900465366814706775",
+      "id": "music-12-7023105686894954057",
+      "key": "music-12-7023105686894954057",
       "category": "Music",
       "label": "Music",
-      "headline": "Usher Stops Steamy Onstage Encounter After Fan Appears Uncomfortable at Nashville Show",
-      "title": "Usher Stops Steamy Onstage Encounter After Fan Appears Uncomfortable at Nashville Show",
-      "snapshot": "\"I don't think she want to be on the stage,\" the R&B superstar said after noticing her reaction.",
-      "summary": "\"I don't think she want to be on the stage,\" the R&B superstar said after noticing her reaction.",
-      "url": "https://www.billboard.com/music/rb-hip-hop/usher-stops-onstage-fan-interaction-uncomfortable-nashville-1236303086/",
+      "headline": "Charli xcx Releases 'Music, Fashion, Film (B-Sides Edition)' on iTunes",
+      "title": "Charli xcx Releases 'Music, Fashion, Film (B-Sides Edition)' on iTunes",
+      "snapshot": "Three bonus tracks previously posted on her Instagram alt-account are now available to download in a $4.99 digital album bundle.",
+      "summary": "Three bonus tracks previously posted on her Instagram alt-account are now available to download in a $4.99 digital album bundle.",
+      "url": "https://www.billboard.com/music/music-news/charli-xcx-music-fashion-film-b-sides-album-1236303107/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-07-26 03:21:15 PM ET",
+      "published_at": "2026-07-26 05:28:48 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Usher Stops Steamy Onstage Encounter After Fan Appears Uncomfortable at Nashville Show"
+        "Charli xcx Releases 'Music, Fashion, Film (B-Sides Edition)' on iTunes"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -842,8 +844,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-7735483608289380597",
-      "key": "gaming-2-7735483608289380597",
+      "id": "gaming-2-4716535984078340193",
+      "key": "gaming-2-4716535984078340193",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "George Takei and Other Star Trek Alumni Celebrate 60 Years and Name Trek's Greatest Lessons | Comic Con 2026",
@@ -869,8 +871,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-8614128170173151105",
-      "key": "film-3-8614128170173151105",
+      "id": "film-3-2574678387701018945",
+      "key": "film-3-2574678387701018945",
       "category": "Film",
       "label": "Film",
       "headline": "'No Rest for the Wicked' Review: A Supernatural Gay Love Story in a 19th-Century Backwater",
@@ -896,22 +898,22 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-2536273860447860897",
-      "key": "film-13-2536273860447860897",
+      "id": "film-13-2413522089335252338",
+      "key": "film-13-2413522089335252338",
       "category": "Film",
       "label": "Film",
-      "headline": "'Black Panther' Actor Winston Duke Reveals What He Told David Jonsson About Taking On The Iconic Role",
-      "title": "'Black Panther' Actor Winston Duke Reveals What He Told David Jonsson About Taking On The Iconic Role",
-      "snapshot": "At San Diego Comic-Con this weekend, director Ryan Coogler took the stage to announce that not only will Black Panther 3 hit theaters on December 15, 2028, but David Jonsson will play T'Challa's grown son who was introduced at the end of Wakanda Forever. Jonsson had a role in last year's The Long Walk, directed by F...",
-      "summary": "At San Diego Comic-Con this weekend, director Ryan Coogler took the stage to announce that not only will Black Panther 3 hit theaters on December 15, 2028, but David Jonsson will play T'Challa's grown son who was introduced at the end of Wakanda Forever. Jonsson had a role in last year's The Long Walk, directed by F...",
-      "url": "https://deadline.com/2026/07/black-panther-david-jonsson-winston-duke-1237004042/",
+      "headline": "'Hadestown: The Musical' Sings With $9.7M Debut, No. 4 Spot, 'Motor City' Powers Up As Indies Fuel Top Ten - Specialty Box Office",
+      "title": "'Hadestown: The Musical' Sings With $9.7M Debut, No. 4 Spot, 'Motor City' Powers Up As Indies Fuel Top Ten - Specialty Box Office",
+      "snapshot": "Bleecker Street's Hadestown: The Musical swept to the second biggest opening for a live show capture since Hamilton, pushing $9.7 million in a terrific debut on 1,949 screens. Due to \"extraordinary response and demand,\" the distributor said its new event cinema label Crosswalk and partner LD Entertainment are expand...",
+      "summary": "Bleecker Street's Hadestown: The Musical swept to the second biggest opening for a live show capture since Hamilton, pushing $9.7 million in a terrific debut on 1,949 screens. Due to \"extraordinary response and demand,\" the distributor said its new event cinema label Crosswalk and partner LD Entertainment are expand...",
+      "url": "https://deadline.com/2026/07/indie-film-box-office-hadestown-the-musical-motor-city-1237004043/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-07-26 01:19:27 PM ET",
+      "published_at": "2026-07-26 02:57:36 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Black Panther' Actor Winston Duke Reveals What He Told David Jonsson About Taking On The Iconic Role"
+        "'Hadestown: The Musical' Sings With $9.7M Debut, No. 4 Spot, 'Motor City' Powers Up As Indies Fuel Top Ten - Specialty Box Office"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -923,8 +925,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-7697047228380431124",
-      "key": "film-25-7697047228380431124",
+      "id": "film-25-1238174704810559461",
+      "key": "film-25-1238174704810559461",
       "category": "Film",
       "label": "Film",
       "headline": "The Doom Boom: Marvel Studios Brings 'Doomsday' and More to Its Most Crowded Comic-Con Panel Ever",
@@ -950,8 +952,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-9043136793159951897",
-      "key": "film-35-9043136793159951897",
+      "id": "film-35-1229261237865844138",
+      "key": "film-35-1229261237865844138",
       "category": "Film",
       "label": "Film",
       "headline": "The 30 Best Superhero Movies of All Time - Esquire",
@@ -977,22 +979,22 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-7051315675421330707",
-      "key": "music-13-7051315675421330707",
+      "id": "music-13-5796793815164680356",
+      "key": "music-13-5796793815164680356",
       "category": "Music",
       "label": "Music",
-      "headline": "Gracie Abrams Earns First No. 1 Album on Billboard 200 With 'Daughter From Hell'",
-      "title": "Gracie Abrams Earns First No. 1 Album on Billboard 200 With 'Daughter From Hell'",
-      "snapshot": "Plus, BTS' ARIRANG surges back into the top 10 after new vinyl release.",
-      "summary": "Plus, BTS' ARIRANG surges back into the top 10 after new vinyl release.",
-      "url": "https://www.billboard.com/music/chart-beat/gracie-abrams-daughter-from-hell-number-one-billboard-200-1236303074/",
+      "headline": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
+      "title": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
+      "snapshot": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
+      "summary": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
+      "url": "https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-07-26 03:00:10 PM ET",
+      "published_at": "2026-07-26 03:22:33 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Gracie Abrams Earns First No. 1 Album on Billboard 200 With 'Daughter From Hell'"
+        "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1004,8 +1006,8 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-6303224388137353231",
-      "key": "gaming-3-6303224388137353231",
+      "id": "gaming-3-5021322066583603853",
+      "key": "gaming-3-5021322066583603853",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Rockstar Co-Founder Says 'if People Want' Physical Game Releases Then 'Companies Should Provide It'",
@@ -1033,8 +1035,8 @@
   ],
   "homepage_cards": [
     {
-      "id": "film-0-1523835053693374192",
-      "key": "film-0-1523835053693374192",
+      "id": "film-0-525990267310135272",
+      "key": "film-0-525990267310135272",
       "category": "Film",
       "label": "Film",
       "headline": "Kevin Feige Says Ryan Coogler Met With David Jonsson Six Months Ago in a 'Secret Meeting' to Discuss 'Black Panther 3' Role: 'I Got Chills'",
@@ -1060,22 +1062,22 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-1572009691183972541",
-      "key": "film-10-1572009691183972541",
+      "id": "film-10-3999528450176468464",
+      "key": "film-10-3999528450176468464",
       "category": "Film",
       "label": "Film",
-      "headline": "'Hadestown: The Musical' Sings With $9.7M Debut, No. 4 Spot, 'Motor City' Powers Up As Indies Fuel Top Ten - Specialty Box Office",
-      "title": "'Hadestown: The Musical' Sings With $9.7M Debut, No. 4 Spot, 'Motor City' Powers Up As Indies Fuel Top Ten - Specialty Box Office",
-      "snapshot": "Bleecker Street's Hadestown: The Musical swept to the second biggest opening for a live show capture since Hamilton, pushing $9.7 million in a terrific debut on 1,949 screens. Due to \"extraordinary response and demand,\" the distributor said its new event cinema label Crosswalk and partner LD Entertainment are expand...",
-      "summary": "Bleecker Street's Hadestown: The Musical swept to the second biggest opening for a live show capture since Hamilton, pushing $9.7 million in a terrific debut on 1,949 screens. Due to \"extraordinary response and demand,\" the distributor said its new event cinema label Crosswalk and partner LD Entertainment are expand...",
-      "url": "https://deadline.com/2026/07/indie-film-box-office-hadestown-the-musical-motor-city-1237004043/",
+      "headline": "'Dungeons & Dragons' Writer-Director Reveals Sequel Has Been Written, Hasn't Been Made For \"Financial Reasons\"",
+      "title": "'Dungeons & Dragons' Writer-Director Reveals Sequel Has Been Written, Hasn't Been Made For \"Financial Reasons\"",
+      "snapshot": "After three years, Dungeons & Dragons has another campaign in store for fans of the 2023 movie… if it can just get the greenlight. Jonathan Goldstein, who co-wrote and co-directed Dungeons & Dragons: Honor Among Thieves with John Francis Daley, revealed at Comic-Con that they wrote a sequel to their 2023 adaptation...",
+      "summary": "After three years, Dungeons & Dragons has another campaign in store for fans of the 2023 movie… if it can just get the greenlight. Jonathan Goldstein, who co-wrote and co-directed Dungeons & Dragons: Honor Among Thieves with John Francis Daley, revealed at Comic-Con that they wrote a sequel to their 2023 adaptation...",
+      "url": "https://deadline.com/2026/07/dungeons-dragons-sequel-written-not-made-financial-reasons-1237004151/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-07-26 02:57:36 PM ET",
+      "published_at": "2026-07-26 11:05:18 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Hadestown: The Musical' Sings With $9.7M Debut, No. 4 Spot, 'Motor City' Powers Up As Indies Fuel Top Ten - Specialty Box Office"
+        "'Dungeons & Dragons' Writer-Director Reveals Sequel Has Been Written, Hasn't Been Made For \"Financial Reasons\""
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1087,8 +1089,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-1413094321815697309",
-      "key": "film-22-1413094321815697309",
+      "id": "film-22-6296086337938651105",
+      "key": "film-22-6296086337938651105",
       "category": "Film",
       "label": "Film",
       "headline": "Tom Holland Says Some of His Movies Are \"Sh**,\" Making Them Hard to Promote",
@@ -1114,8 +1116,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-1146451597180284616",
-      "key": "film-32-1146451597180284616",
+      "id": "film-32-4734157239452764328",
+      "key": "film-32-4734157239452764328",
       "category": "Film",
       "label": "Film",
       "headline": "John Cusack makes rare comment about why he pivoted away from film career - ew.com",
@@ -1141,22 +1143,22 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-8059488009249197378",
-      "key": "music-10-8059488009249197378",
+      "id": "music-10-763251704873628121",
+      "key": "music-10-763251704873628121",
       "category": "Music",
       "label": "Music",
-      "headline": "Charli xcx Releases 'Music, Fashion, Film (B-Sides Edition)' on iTunes",
-      "title": "Charli xcx Releases 'Music, Fashion, Film (B-Sides Edition)' on iTunes",
-      "snapshot": "Three bonus tracks previously posted on her Instagram alt-account are now available to download in a $4.99 digital album bundle.",
-      "summary": "Three bonus tracks previously posted on her Instagram alt-account are now available to download in a $4.99 digital album bundle.",
-      "url": "https://www.billboard.com/music/music-news/charli-xcx-music-fashion-film-b-sides-album-1236303107/",
+      "headline": "System of a Down and Faith No More Announce First Australian and New Zealand Tour in Over a Decade",
+      "title": "System of a Down and Faith No More Announce First Australian and New Zealand Tour in Over a Decade",
+      "snapshot": "The shows mark System of a Down's first Australian dates since 2012.",
+      "summary": "The shows mark System of a Down's first Australian dates since 2012.",
+      "url": "https://www.billboard.com/music/rock/system-of-a-down-faith-no-more-announce-australian-new-zealand-tour-1236303129/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-07-26 05:28:48 PM ET",
+      "published_at": "2026-07-26 11:16:01 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Charli xcx Releases 'Music, Fashion, Film (B-Sides Edition)' on iTunes"
+        "System of a Down and Faith No More Announce First Australian and New Zealand Tour in Over a Decade"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1168,8 +1170,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-2750502023293516455",
-      "key": "gaming-0-2750502023293516455",
+      "id": "gaming-0-2233377777089760220",
+      "key": "gaming-0-2233377777089760220",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Magic: The Gathering's Top 12 Most Powerful Commander Precons Of All Time",
@@ -1195,8 +1197,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-2775230962473996761",
-      "key": "film-1-2775230962473996761",
+      "id": "film-1-2817212081991171462",
+      "key": "film-1-2817212081991171462",
       "category": "Film",
       "label": "Film",
       "headline": "Tom Holland: Some of My Movies Are 'S-t' and You 'Shouldn't' Watch Them",
@@ -1222,22 +1224,22 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-5605767401388496313",
-      "key": "film-11-5605767401388496313",
+      "id": "film-11-2581443283902981907",
+      "key": "film-11-2581443283902981907",
       "category": "Film",
       "label": "Film",
-      "headline": "Universal Responds To Online Leak Of 'The Odyssey' With Takedown Protocols",
-      "title": "Universal Responds To Online Leak Of 'The Odyssey' With Takedown Protocols",
-      "snapshot": "Christopher Nolan has taken pains to urge fans to see The Odyssey in Imax if they want the best experience. After all, his film was shot entirely in that format to optimize the moviegoing experience. Imagine the director's chagrin, then, when a high-quality version of the film was leaked on X this weekend, reportedl...",
-      "summary": "Christopher Nolan has taken pains to urge fans to see The Odyssey in Imax if they want the best experience. After all, his film was shot entirely in that format to optimize the moviegoing experience. Imagine the director's chagrin, then, when a high-quality version of the film was leaked on X this weekend, reportedl...",
-      "url": "https://deadline.com/2026/07/the-odyssey-leak-universal-responds-1237004058/",
+      "headline": "Ryan Reynolds Thanks 'Deadpool' Fans For \"Unapologetic Devotion\" After Undercover Comic-Con Appearance - Watch Video",
+      "title": "Ryan Reynolds Thanks 'Deadpool' Fans For \"Unapologetic Devotion\" After Undercover Comic-Con Appearance - Watch Video",
+      "snapshot": "With Deadpool regenerating for a fourth blockbuster outing, Ryan Reynolds is already getting back into character as the wisecracking mercenary. After his surprise in-costume appearance at Comic-Con during Marvel's Hall H presentation on Saturday, the Golden Globe nominee shared a behind-the-scenes video of his under...",
+      "summary": "With Deadpool regenerating for a fourth blockbuster outing, Ryan Reynolds is already getting back into character as the wisecracking mercenary. After his surprise in-costume appearance at Comic-Con during Marvel's Hall H presentation on Saturday, the Golden Globe nominee shared a behind-the-scenes video of his under...",
+      "url": "https://deadline.com/2026/07/ryan-reynolds-deadpool-undercover-comic-con-watch-video-1237004148/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-07-26 02:08:53 PM ET",
+      "published_at": "2026-07-26 10:43:37 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Universal Responds To Online Leak Of 'The Odyssey' With Takedown Protocols"
+        "Ryan Reynolds Thanks 'Deadpool' Fans For \"Unapologetic Devotion\" After Undercover Comic-Con Appearance - Watch Video"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1249,8 +1251,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-3477650285795021559",
-      "key": "film-23-3477650285795021559",
+      "id": "film-23-7216891346853909095",
+      "key": "film-23-7216891346853909095",
       "category": "Film",
       "label": "Film",
       "headline": "Universal Responds to 'The Odyssey' Leaks on Social Media",
@@ -1276,8 +1278,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-2662729311099914720",
-      "key": "film-33-2662729311099914720",
+      "id": "film-33-766163369468796908",
+      "key": "film-33-766163369468796908",
       "category": "Film",
       "label": "Film",
       "headline": "The Transformers: The Movie Announce Tickets Go On Sale Aug 7 - Fathom Entertainment",
@@ -1303,22 +1305,22 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-4707115493596793766",
-      "key": "music-11-4707115493596793766",
+      "id": "music-11-7053492491022592837",
+      "key": "music-11-7053492491022592837",
       "category": "Music",
       "label": "Music",
-      "headline": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
-      "title": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
-      "snapshot": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
-      "summary": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
-      "url": "https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
+      "headline": "Fans Choose JENNIE's 'Less Than a Lover' as This Week's Favorite New Music",
+      "title": "Fans Choose JENNIE's 'Less Than a Lover' as This Week's Favorite New Music",
+      "snapshot": "The BLACKPINK member's new solo single brought in more than 62% of the vote this week.",
+      "summary": "The BLACKPINK member's new solo single brought in more than 62% of the vote this week.",
+      "url": "https://www.billboard.com/music/music-news/jennie-less-than-a-lover-best-new-music-poll-results-1236303114/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-07-26 03:22:33 PM ET",
+      "published_at": "2026-07-26 08:46:22 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List"
+        "Fans Choose JENNIE's 'Less Than a Lover' as This Week's Favorite New Music"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1330,8 +1332,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-3621188301573552107",
-      "key": "gaming-1-3621188301573552107",
+      "id": "gaming-1-1242181002760803587",
+      "key": "gaming-1-1242181002760803587",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The Best Deals Today: Saros, Mega Man Star Force Legacy Collection, DJI Mini 4K, and More",
@@ -1357,8 +1359,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-2-3454568830780608519",
-      "key": "film-2-3454568830780608519",
+      "id": "film-2-5616476923499761426",
+      "key": "film-2-5616476923499761426",
       "category": "Film",
       "label": "Film",
       "headline": "'Attack on Paradise' Review: Under Siege From Both Criminals and Cops, a Hero Battles Upward in a Zesty High-Rise Actioner",
@@ -1384,22 +1386,22 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-6951735890065126785",
-      "key": "film-12-6951735890065126785",
+      "id": "film-12-664169824263998826",
+      "key": "film-12-664169824263998826",
       "category": "Film",
       "label": "Film",
-      "headline": "'Transformers: The Movie' Getting Fall Theatrical Re-Release From Hasbro & Fathom - Comic-Con",
-      "title": "'Transformers: The Movie' Getting Fall Theatrical Re-Release From Hasbro & Fathom - Comic-Con",
-      "snapshot": "The 1986 animated Transformers: The Movie is getting a 4K theatrical re-release from Fathom Entertainment in partnership with Hasbro on Sept. 17. The Nelson Shin directed movie featured the voices of the late Orson Welles, Robert Stack, and Leonard Nimoy respectively in the roles of Unicorn, Ultra Magnus, and Galvat...",
-      "summary": "The 1986 animated Transformers: The Movie is getting a 4K theatrical re-release from Fathom Entertainment in partnership with Hasbro on Sept. 17. The Nelson Shin directed movie featured the voices of the late Orson Welles, Robert Stack, and Leonard Nimoy respectively in the roles of Unicorn, Ultra Magnus, and Galvat...",
-      "url": "https://deadline.com/2026/07/transformers-the-movie-re-release-trailer-date-1237004056/",
+      "headline": "Christopher Nolan Would Be \"Terrified\" To Make A Rom-Com: \"One Of The Hardest Things In The World\"",
+      "title": "Christopher Nolan Would Be \"Terrified\" To Make A Rom-Com: \"One Of The Hardest Things In The World\"",
+      "snapshot": "For fans who haven't yet seen Christopher Nolan's The Odyssey, don't expect Odysseus to have a meet-cute with Penelope. While the 2x Oscar winner's ancient epic adaptation has already crossed the $600M global mark, he confessed he'd be \"terrified\" to jump genres and take on a romantic-comedy, explaining why it would...",
+      "summary": "For fans who haven't yet seen Christopher Nolan's The Odyssey, don't expect Odysseus to have a meet-cute with Penelope. While the 2x Oscar winner's ancient epic adaptation has already crossed the $600M global mark, he confessed he'd be \"terrified\" to jump genres and take on a romantic-comedy, explaining why it would...",
+      "url": "https://deadline.com/2026/07/christopher-nolan-terrified-make-rom-com-1237004130/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-07-26 01:37:45 PM ET",
+      "published_at": "2026-07-26 07:39:58 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Transformers: The Movie' Getting Fall Theatrical Re-Release From Hasbro & Fathom - Comic-Con"
+        "Christopher Nolan Would Be \"Terrified\" To Make A Rom-Com: \"One Of The Hardest Things In The World\""
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1411,8 +1413,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-6084479546927215184",
-      "key": "film-24-6084479546927215184",
+      "id": "film-24-6808542745454551915",
+      "key": "film-24-6808542745454551915",
       "category": "Film",
       "label": "Film",
       "headline": "'The Odyssey' Holds Strong for Big Second Weekend of $87M, Passes $600M Globally",
@@ -1438,8 +1440,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-4837284029264633692",
-      "key": "film-34-4837284029264633692",
+      "id": "film-34-2561736317540788940",
+      "key": "film-34-2561736317540788940",
       "category": "Film",
       "label": "Film",
       "headline": "Atari Signs Deal With Universal To Turn 10 Iconic Games Into Movies - Deadline",
@@ -1465,22 +1467,22 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-2900465366814706775",
-      "key": "music-12-2900465366814706775",
+      "id": "music-12-7023105686894954057",
+      "key": "music-12-7023105686894954057",
       "category": "Music",
       "label": "Music",
-      "headline": "Usher Stops Steamy Onstage Encounter After Fan Appears Uncomfortable at Nashville Show",
-      "title": "Usher Stops Steamy Onstage Encounter After Fan Appears Uncomfortable at Nashville Show",
-      "snapshot": "\"I don't think she want to be on the stage,\" the R&B superstar said after noticing her reaction.",
-      "summary": "\"I don't think she want to be on the stage,\" the R&B superstar said after noticing her reaction.",
-      "url": "https://www.billboard.com/music/rb-hip-hop/usher-stops-onstage-fan-interaction-uncomfortable-nashville-1236303086/",
+      "headline": "Charli xcx Releases 'Music, Fashion, Film (B-Sides Edition)' on iTunes",
+      "title": "Charli xcx Releases 'Music, Fashion, Film (B-Sides Edition)' on iTunes",
+      "snapshot": "Three bonus tracks previously posted on her Instagram alt-account are now available to download in a $4.99 digital album bundle.",
+      "summary": "Three bonus tracks previously posted on her Instagram alt-account are now available to download in a $4.99 digital album bundle.",
+      "url": "https://www.billboard.com/music/music-news/charli-xcx-music-fashion-film-b-sides-album-1236303107/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-07-26 03:21:15 PM ET",
+      "published_at": "2026-07-26 05:28:48 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Usher Stops Steamy Onstage Encounter After Fan Appears Uncomfortable at Nashville Show"
+        "Charli xcx Releases 'Music, Fashion, Film (B-Sides Edition)' on iTunes"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1492,8 +1494,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-7735483608289380597",
-      "key": "gaming-2-7735483608289380597",
+      "id": "gaming-2-4716535984078340193",
+      "key": "gaming-2-4716535984078340193",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "George Takei and Other Star Trek Alumni Celebrate 60 Years and Name Trek's Greatest Lessons | Comic Con 2026",
@@ -1519,8 +1521,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-8614128170173151105",
-      "key": "film-3-8614128170173151105",
+      "id": "film-3-2574678387701018945",
+      "key": "film-3-2574678387701018945",
       "category": "Film",
       "label": "Film",
       "headline": "'No Rest for the Wicked' Review: A Supernatural Gay Love Story in a 19th-Century Backwater",
@@ -1546,22 +1548,22 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-2536273860447860897",
-      "key": "film-13-2536273860447860897",
+      "id": "film-13-2413522089335252338",
+      "key": "film-13-2413522089335252338",
       "category": "Film",
       "label": "Film",
-      "headline": "'Black Panther' Actor Winston Duke Reveals What He Told David Jonsson About Taking On The Iconic Role",
-      "title": "'Black Panther' Actor Winston Duke Reveals What He Told David Jonsson About Taking On The Iconic Role",
-      "snapshot": "At San Diego Comic-Con this weekend, director Ryan Coogler took the stage to announce that not only will Black Panther 3 hit theaters on December 15, 2028, but David Jonsson will play T'Challa's grown son who was introduced at the end of Wakanda Forever. Jonsson had a role in last year's The Long Walk, directed by F...",
-      "summary": "At San Diego Comic-Con this weekend, director Ryan Coogler took the stage to announce that not only will Black Panther 3 hit theaters on December 15, 2028, but David Jonsson will play T'Challa's grown son who was introduced at the end of Wakanda Forever. Jonsson had a role in last year's The Long Walk, directed by F...",
-      "url": "https://deadline.com/2026/07/black-panther-david-jonsson-winston-duke-1237004042/",
+      "headline": "'Hadestown: The Musical' Sings With $9.7M Debut, No. 4 Spot, 'Motor City' Powers Up As Indies Fuel Top Ten - Specialty Box Office",
+      "title": "'Hadestown: The Musical' Sings With $9.7M Debut, No. 4 Spot, 'Motor City' Powers Up As Indies Fuel Top Ten - Specialty Box Office",
+      "snapshot": "Bleecker Street's Hadestown: The Musical swept to the second biggest opening for a live show capture since Hamilton, pushing $9.7 million in a terrific debut on 1,949 screens. Due to \"extraordinary response and demand,\" the distributor said its new event cinema label Crosswalk and partner LD Entertainment are expand...",
+      "summary": "Bleecker Street's Hadestown: The Musical swept to the second biggest opening for a live show capture since Hamilton, pushing $9.7 million in a terrific debut on 1,949 screens. Due to \"extraordinary response and demand,\" the distributor said its new event cinema label Crosswalk and partner LD Entertainment are expand...",
+      "url": "https://deadline.com/2026/07/indie-film-box-office-hadestown-the-musical-motor-city-1237004043/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-07-26 01:19:27 PM ET",
+      "published_at": "2026-07-26 02:57:36 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Black Panther' Actor Winston Duke Reveals What He Told David Jonsson About Taking On The Iconic Role"
+        "'Hadestown: The Musical' Sings With $9.7M Debut, No. 4 Spot, 'Motor City' Powers Up As Indies Fuel Top Ten - Specialty Box Office"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1573,8 +1575,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-7697047228380431124",
-      "key": "film-25-7697047228380431124",
+      "id": "film-25-1238174704810559461",
+      "key": "film-25-1238174704810559461",
       "category": "Film",
       "label": "Film",
       "headline": "The Doom Boom: Marvel Studios Brings 'Doomsday' and More to Its Most Crowded Comic-Con Panel Ever",
@@ -1600,8 +1602,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-9043136793159951897",
-      "key": "film-35-9043136793159951897",
+      "id": "film-35-1229261237865844138",
+      "key": "film-35-1229261237865844138",
       "category": "Film",
       "label": "Film",
       "headline": "The 30 Best Superhero Movies of All Time - Esquire",
@@ -1627,22 +1629,22 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-7051315675421330707",
-      "key": "music-13-7051315675421330707",
+      "id": "music-13-5796793815164680356",
+      "key": "music-13-5796793815164680356",
       "category": "Music",
       "label": "Music",
-      "headline": "Gracie Abrams Earns First No. 1 Album on Billboard 200 With 'Daughter From Hell'",
-      "title": "Gracie Abrams Earns First No. 1 Album on Billboard 200 With 'Daughter From Hell'",
-      "snapshot": "Plus, BTS' ARIRANG surges back into the top 10 after new vinyl release.",
-      "summary": "Plus, BTS' ARIRANG surges back into the top 10 after new vinyl release.",
-      "url": "https://www.billboard.com/music/chart-beat/gracie-abrams-daughter-from-hell-number-one-billboard-200-1236303074/",
+      "headline": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
+      "title": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
+      "snapshot": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
+      "summary": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
+      "url": "https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-07-26 03:00:10 PM ET",
+      "published_at": "2026-07-26 03:22:33 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Gracie Abrams Earns First No. 1 Album on Billboard 200 With 'Daughter From Hell'"
+        "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1654,8 +1656,8 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-6303224388137353231",
-      "key": "gaming-3-6303224388137353231",
+      "id": "gaming-3-5021322066583603853",
+      "key": "gaming-3-5021322066583603853",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Rockstar Co-Founder Says 'if People Want' Physical Game Releases Then 'Companies Should Provide It'",
@@ -1690,25 +1692,25 @@
       "snapshot": "Film coverage is updating with 8 current RSS headline item(s).",
       "key_storylines": [
         "Kevin Feige Says Ryan Coogler Met With David Jonsson Six Months Ago in a ‘Secret Meeting’ to Discuss ‘Black Panther 3’ Role: ‘I Got Chills’",
-        "‘Hadestown: The Musical’ Sings With $9.7M Debut, No. 4 Spot, ‘Motor City’ Powers Up As Indies Fuel Top Ten – Specialty Box Office",
+        "‘Dungeons & Dragons’ Writer-Director Reveals Sequel Has Been Written, Hasn’t Been Made For “Financial Reasons”",
         "Tom Holland Says Some of His Movies Are “Sh**,” Making Them Hard to Promote",
         "John Cusack makes rare comment about why he pivoted away from film career - ew.com",
         "Tom Holland: Some of My Movies Are ‘S–t’ and You ‘Shouldn’t’ Watch Them"
       ],
       "watch_list": [
         "Kevin Feige Says Ryan Coogler Met With David Jonsson Six Months Ago in a ‘Secret Meeting’ to Discuss ‘Black Panther 3’ Role: ‘I Got Chills’",
-        "‘Hadestown: The Musical’ Sings With $9.7M Debut, No. 4 Spot, ‘Motor City’ Powers Up As Indies Fuel Top Ten – Specialty Box Office",
+        "‘Dungeons & Dragons’ Writer-Director Reveals Sequel Has Been Written, Hasn’t Been Made For “Financial Reasons”",
         "Tom Holland Says Some of His Movies Are “Sh**,” Making Them Hard to Promote",
         "John Cusack makes rare comment about why he pivoted away from film career - ew.com",
         "Tom Holland: Some of My Movies Are ‘S–t’ and You ‘Shouldn’t’ Watch Them",
-        "Universal Responds To Online Leak Of ‘The Odyssey’ With Takedown Protocols",
+        "Ryan Reynolds Thanks ‘Deadpool’ Fans For “Unapologetic Devotion” After Undercover Comic-Con Appearance – Watch Video",
         "Universal Responds to ‘The Odyssey’ Leaks on Social Media",
         "The Transformers: The Movie Announce Tickets Go On Sale Aug 7 - Fathom Entertainment"
       ],
       "homepage_cards": [
         {
-          "id": "film-0-1523835053693374192",
-          "key": "film-0-1523835053693374192",
+          "id": "film-0-525990267310135272",
+          "key": "film-0-525990267310135272",
           "category": "Film",
           "label": "Film",
           "headline": "Kevin Feige Says Ryan Coogler Met With David Jonsson Six Months Ago in a ‘Secret Meeting’ to Discuss ‘Black Panther 3’ Role: ‘I Got Chills’",
@@ -1735,25 +1737,25 @@
           ]
         },
         {
-          "id": "film-10-1572009691183972541",
-          "key": "film-10-1572009691183972541",
+          "id": "film-10-3999528450176468464",
+          "key": "film-10-3999528450176468464",
           "category": "Film",
           "label": "Film",
-          "headline": "‘Hadestown: The Musical’ Sings With $9.7M Debut, No. 4 Spot, ‘Motor City’ Powers Up As Indies Fuel Top Ten – Specialty Box Office",
-          "title": "‘Hadestown: The Musical’ Sings With $9.7M Debut, No. 4 Spot, ‘Motor City’ Powers Up As Indies Fuel Top Ten – Specialty Box Office",
-          "snapshot": "Bleecker Street’s Hadestown: The Musical swept to the second biggest opening for a live show capture since Hamilton, pushing $9.7 million in a terrific debut on 1,949 screens. Due to “extraordinary response and demand,” the distributor said its new event cinema label Crosswalk and partner LD Entertainment are expand...",
-          "summary": "Bleecker Street’s Hadestown: The Musical swept to the second biggest opening for a live show capture since Hamilton, pushing $9.7 million in a terrific debut on 1,949 screens. Due to “extraordinary response and demand,” the distributor said its new event cinema label Crosswalk and partner LD Entertainment are expand...",
-          "url": "https://deadline.com/2026/07/indie-film-box-office-hadestown-the-musical-motor-city-1237004043/",
+          "headline": "‘Dungeons & Dragons’ Writer-Director Reveals Sequel Has Been Written, Hasn’t Been Made For “Financial Reasons”",
+          "title": "‘Dungeons & Dragons’ Writer-Director Reveals Sequel Has Been Written, Hasn’t Been Made For “Financial Reasons”",
+          "snapshot": "After three years, Dungeons & Dragons has another campaign in store for fans of the 2023 movie… if it can just get the greenlight. Jonathan Goldstein, who co-wrote and co-directed Dungeons & Dragons: Honor Among Thieves with John Francis Daley, revealed at Comic-Con that they wrote a sequel to their 2023 adaptation...",
+          "summary": "After three years, Dungeons & Dragons has another campaign in store for fans of the 2023 movie… if it can just get the greenlight. Jonathan Goldstein, who co-wrote and co-directed Dungeons & Dragons: Honor Among Thieves with John Francis Daley, revealed at Comic-Con that they wrote a sequel to their 2023 adaptation...",
+          "url": "https://deadline.com/2026/07/dungeons-dragons-sequel-written-not-made-financial-reasons-1237004151/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/film/feed/",
-          "published_at": "2026-07-26 02:57:36 PM ET",
+          "published_at": "2026-07-26 11:05:18 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "‘Hadestown: The Musical’ Sings With $9.7M Debut, No. 4 Spot, ‘Motor City’ Powers Up As Indies Fuel Top Ten – Specialty Box Office"
+            "‘Dungeons & Dragons’ Writer-Director Reveals Sequel Has Been Written, Hasn’t Been Made For “Financial Reasons”"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1763,8 +1765,8 @@
           ]
         },
         {
-          "id": "film-22-1413094321815697309",
-          "key": "film-22-1413094321815697309",
+          "id": "film-22-6296086337938651105",
+          "key": "film-22-6296086337938651105",
           "category": "Film",
           "label": "Film",
           "headline": "Tom Holland Says Some of His Movies Are “Sh**,” Making Them Hard to Promote",
@@ -1791,8 +1793,8 @@
           ]
         },
         {
-          "id": "film-32-1146451597180284616",
-          "key": "film-32-1146451597180284616",
+          "id": "film-32-4734157239452764328",
+          "key": "film-32-4734157239452764328",
           "category": "Film",
           "label": "Film",
           "headline": "John Cusack makes rare comment about why he pivoted away from film career - ew.com",
@@ -1819,8 +1821,8 @@
           ]
         },
         {
-          "id": "film-1-2775230962473996761",
-          "key": "film-1-2775230962473996761",
+          "id": "film-1-2817212081991171462",
+          "key": "film-1-2817212081991171462",
           "category": "Film",
           "label": "Film",
           "headline": "Tom Holland: Some of My Movies Are ‘S–t’ and You ‘Shouldn’t’ Watch Them",
@@ -1847,25 +1849,25 @@
           ]
         },
         {
-          "id": "film-11-5605767401388496313",
-          "key": "film-11-5605767401388496313",
+          "id": "film-11-2581443283902981907",
+          "key": "film-11-2581443283902981907",
           "category": "Film",
           "label": "Film",
-          "headline": "Universal Responds To Online Leak Of ‘The Odyssey’ With Takedown Protocols",
-          "title": "Universal Responds To Online Leak Of ‘The Odyssey’ With Takedown Protocols",
-          "snapshot": "Christopher Nolan has taken pains to urge fans to see The Odyssey in Imax if they want the best experience. After all, his film was shot entirely in that format to optimize the moviegoing experience. Imagine the director’s chagrin, then, when a high-quality version of the film was leaked on X this weekend, reportedl...",
-          "summary": "Christopher Nolan has taken pains to urge fans to see The Odyssey in Imax if they want the best experience. After all, his film was shot entirely in that format to optimize the moviegoing experience. Imagine the director’s chagrin, then, when a high-quality version of the film was leaked on X this weekend, reportedl...",
-          "url": "https://deadline.com/2026/07/the-odyssey-leak-universal-responds-1237004058/",
+          "headline": "Ryan Reynolds Thanks ‘Deadpool’ Fans For “Unapologetic Devotion” After Undercover Comic-Con Appearance – Watch Video",
+          "title": "Ryan Reynolds Thanks ‘Deadpool’ Fans For “Unapologetic Devotion” After Undercover Comic-Con Appearance – Watch Video",
+          "snapshot": "With Deadpool regenerating for a fourth blockbuster outing, Ryan Reynolds is already getting back into character as the wisecracking mercenary. After his surprise in-costume appearance at Comic-Con during Marvel’s Hall H presentation on Saturday, the Golden Globe nominee shared a behind-the-scenes video of his under...",
+          "summary": "With Deadpool regenerating for a fourth blockbuster outing, Ryan Reynolds is already getting back into character as the wisecracking mercenary. After his surprise in-costume appearance at Comic-Con during Marvel’s Hall H presentation on Saturday, the Golden Globe nominee shared a behind-the-scenes video of his under...",
+          "url": "https://deadline.com/2026/07/ryan-reynolds-deadpool-undercover-comic-con-watch-video-1237004148/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/film/feed/",
-          "published_at": "2026-07-26 02:08:53 PM ET",
+          "published_at": "2026-07-26 10:43:37 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "Universal Responds To Online Leak Of ‘The Odyssey’ With Takedown Protocols"
+            "Ryan Reynolds Thanks ‘Deadpool’ Fans For “Unapologetic Devotion” After Undercover Comic-Con Appearance – Watch Video"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1875,8 +1877,8 @@
           ]
         },
         {
-          "id": "film-23-3477650285795021559",
-          "key": "film-23-3477650285795021559",
+          "id": "film-23-7216891346853909095",
+          "key": "film-23-7216891346853909095",
           "category": "Film",
           "label": "Film",
           "headline": "Universal Responds to ‘The Odyssey’ Leaks on Social Media",
@@ -1903,8 +1905,8 @@
           ]
         },
         {
-          "id": "film-33-2662729311099914720",
-          "key": "film-33-2662729311099914720",
+          "id": "film-33-766163369468796908",
+          "key": "film-33-766163369468796908",
           "category": "Film",
           "label": "Film",
           "headline": "The Transformers: The Movie Announce Tickets Go On Sale Aug 7 - Fathom Entertainment",
@@ -1933,8 +1935,8 @@
       ],
       "items": [
         {
-          "id": "film-0-1523835053693374192",
-          "key": "film-0-1523835053693374192",
+          "id": "film-0-525990267310135272",
+          "key": "film-0-525990267310135272",
           "category": "Film",
           "label": "Film",
           "headline": "Kevin Feige Says Ryan Coogler Met With David Jonsson Six Months Ago in a ‘Secret Meeting’ to Discuss ‘Black Panther 3’ Role: ‘I Got Chills’",
@@ -1961,25 +1963,25 @@
           ]
         },
         {
-          "id": "film-10-1572009691183972541",
-          "key": "film-10-1572009691183972541",
+          "id": "film-10-3999528450176468464",
+          "key": "film-10-3999528450176468464",
           "category": "Film",
           "label": "Film",
-          "headline": "‘Hadestown: The Musical’ Sings With $9.7M Debut, No. 4 Spot, ‘Motor City’ Powers Up As Indies Fuel Top Ten – Specialty Box Office",
-          "title": "‘Hadestown: The Musical’ Sings With $9.7M Debut, No. 4 Spot, ‘Motor City’ Powers Up As Indies Fuel Top Ten – Specialty Box Office",
-          "snapshot": "Bleecker Street’s Hadestown: The Musical swept to the second biggest opening for a live show capture since Hamilton, pushing $9.7 million in a terrific debut on 1,949 screens. Due to “extraordinary response and demand,” the distributor said its new event cinema label Crosswalk and partner LD Entertainment are expand...",
-          "summary": "Bleecker Street’s Hadestown: The Musical swept to the second biggest opening for a live show capture since Hamilton, pushing $9.7 million in a terrific debut on 1,949 screens. Due to “extraordinary response and demand,” the distributor said its new event cinema label Crosswalk and partner LD Entertainment are expand...",
-          "url": "https://deadline.com/2026/07/indie-film-box-office-hadestown-the-musical-motor-city-1237004043/",
+          "headline": "‘Dungeons & Dragons’ Writer-Director Reveals Sequel Has Been Written, Hasn’t Been Made For “Financial Reasons”",
+          "title": "‘Dungeons & Dragons’ Writer-Director Reveals Sequel Has Been Written, Hasn’t Been Made For “Financial Reasons”",
+          "snapshot": "After three years, Dungeons & Dragons has another campaign in store for fans of the 2023 movie… if it can just get the greenlight. Jonathan Goldstein, who co-wrote and co-directed Dungeons & Dragons: Honor Among Thieves with John Francis Daley, revealed at Comic-Con that they wrote a sequel to their 2023 adaptation...",
+          "summary": "After three years, Dungeons & Dragons has another campaign in store for fans of the 2023 movie… if it can just get the greenlight. Jonathan Goldstein, who co-wrote and co-directed Dungeons & Dragons: Honor Among Thieves with John Francis Daley, revealed at Comic-Con that they wrote a sequel to their 2023 adaptation...",
+          "url": "https://deadline.com/2026/07/dungeons-dragons-sequel-written-not-made-financial-reasons-1237004151/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/film/feed/",
-          "published_at": "2026-07-26 02:57:36 PM ET",
+          "published_at": "2026-07-26 11:05:18 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "‘Hadestown: The Musical’ Sings With $9.7M Debut, No. 4 Spot, ‘Motor City’ Powers Up As Indies Fuel Top Ten – Specialty Box Office"
+            "‘Dungeons & Dragons’ Writer-Director Reveals Sequel Has Been Written, Hasn’t Been Made For “Financial Reasons”"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1989,8 +1991,8 @@
           ]
         },
         {
-          "id": "film-22-1413094321815697309",
-          "key": "film-22-1413094321815697309",
+          "id": "film-22-6296086337938651105",
+          "key": "film-22-6296086337938651105",
           "category": "Film",
           "label": "Film",
           "headline": "Tom Holland Says Some of His Movies Are “Sh**,” Making Them Hard to Promote",
@@ -2017,8 +2019,8 @@
           ]
         },
         {
-          "id": "film-32-1146451597180284616",
-          "key": "film-32-1146451597180284616",
+          "id": "film-32-4734157239452764328",
+          "key": "film-32-4734157239452764328",
           "category": "Film",
           "label": "Film",
           "headline": "John Cusack makes rare comment about why he pivoted away from film career - ew.com",
@@ -2045,8 +2047,8 @@
           ]
         },
         {
-          "id": "film-1-2775230962473996761",
-          "key": "film-1-2775230962473996761",
+          "id": "film-1-2817212081991171462",
+          "key": "film-1-2817212081991171462",
           "category": "Film",
           "label": "Film",
           "headline": "Tom Holland: Some of My Movies Are ‘S–t’ and You ‘Shouldn’t’ Watch Them",
@@ -2073,25 +2075,25 @@
           ]
         },
         {
-          "id": "film-11-5605767401388496313",
-          "key": "film-11-5605767401388496313",
+          "id": "film-11-2581443283902981907",
+          "key": "film-11-2581443283902981907",
           "category": "Film",
           "label": "Film",
-          "headline": "Universal Responds To Online Leak Of ‘The Odyssey’ With Takedown Protocols",
-          "title": "Universal Responds To Online Leak Of ‘The Odyssey’ With Takedown Protocols",
-          "snapshot": "Christopher Nolan has taken pains to urge fans to see The Odyssey in Imax if they want the best experience. After all, his film was shot entirely in that format to optimize the moviegoing experience. Imagine the director’s chagrin, then, when a high-quality version of the film was leaked on X this weekend, reportedl...",
-          "summary": "Christopher Nolan has taken pains to urge fans to see The Odyssey in Imax if they want the best experience. After all, his film was shot entirely in that format to optimize the moviegoing experience. Imagine the director’s chagrin, then, when a high-quality version of the film was leaked on X this weekend, reportedl...",
-          "url": "https://deadline.com/2026/07/the-odyssey-leak-universal-responds-1237004058/",
+          "headline": "Ryan Reynolds Thanks ‘Deadpool’ Fans For “Unapologetic Devotion” After Undercover Comic-Con Appearance – Watch Video",
+          "title": "Ryan Reynolds Thanks ‘Deadpool’ Fans For “Unapologetic Devotion” After Undercover Comic-Con Appearance – Watch Video",
+          "snapshot": "With Deadpool regenerating for a fourth blockbuster outing, Ryan Reynolds is already getting back into character as the wisecracking mercenary. After his surprise in-costume appearance at Comic-Con during Marvel’s Hall H presentation on Saturday, the Golden Globe nominee shared a behind-the-scenes video of his under...",
+          "summary": "With Deadpool regenerating for a fourth blockbuster outing, Ryan Reynolds is already getting back into character as the wisecracking mercenary. After his surprise in-costume appearance at Comic-Con during Marvel’s Hall H presentation on Saturday, the Golden Globe nominee shared a behind-the-scenes video of his under...",
+          "url": "https://deadline.com/2026/07/ryan-reynolds-deadpool-undercover-comic-con-watch-video-1237004148/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/film/feed/",
-          "published_at": "2026-07-26 02:08:53 PM ET",
+          "published_at": "2026-07-26 10:43:37 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "Universal Responds To Online Leak Of ‘The Odyssey’ With Takedown Protocols"
+            "Ryan Reynolds Thanks ‘Deadpool’ Fans For “Unapologetic Devotion” After Undercover Comic-Con Appearance – Watch Video"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2101,8 +2103,8 @@
           ]
         },
         {
-          "id": "film-23-3477650285795021559",
-          "key": "film-23-3477650285795021559",
+          "id": "film-23-7216891346853909095",
+          "key": "film-23-7216891346853909095",
           "category": "Film",
           "label": "Film",
           "headline": "Universal Responds to ‘The Odyssey’ Leaks on Social Media",
@@ -2129,8 +2131,8 @@
           ]
         },
         {
-          "id": "film-33-2662729311099914720",
-          "key": "film-33-2662729311099914720",
+          "id": "film-33-766163369468796908",
+          "key": "film-33-766163369468796908",
           "category": "Film",
           "label": "Film",
           "headline": "The Transformers: The Movie Announce Tickets Go On Sale Aug 7 - Fathom Entertainment",
@@ -2157,52 +2159,52 @@
           ]
         }
       ],
-      "updated_at": "2026-07-26 07:07:09 PM ET"
+      "updated_at": "2026-07-26 11:18:04 PM ET"
     },
     {
       "key": "tv",
       "name": "TV",
       "title": "TV Report",
-      "headline": "‘Rick and Morty’ Spinoff ‘President Curtis’ Plays It Safe, but Keeps the Sci-Fi Franchise Cruising: TV Review",
+      "headline": "‘House of the Dragon’ Actor Benjamin Evan Ainsworth on ‘Absurdity’ of Assassination Attempt, Daeron’s Growing Power and if Ormund Is Dyeing the Kid’s Hair",
       "snapshot": "TV coverage is updating with 8 current RSS headline item(s).",
       "key_storylines": [
-        "‘Rick and Morty’ Spinoff ‘President Curtis’ Plays It Safe, but Keeps the Sci-Fi Franchise Cruising: TV Review",
-        "Tour De France: Tadej Pogacar Dominates Race For Record Tying Fifth Win",
+        "‘House of the Dragon’ Actor Benjamin Evan Ainsworth on ‘Absurdity’ of Assassination Attempt, Daeron’s Growing Power and if Ormund Is Dyeing the Kid’s Hair",
+        "‘House Of The Dragon’s Benjamin Evan Ainsworth Discusses Daeron Targaryen’s Choices & Future Motives As Season 3 Hits Home Stretch",
         "Where to Watch Shark Week 2026 Online: Schedule, Streaming Guide",
         "Best OLED TV for 2026 - CNET",
-        "PBS SoCal, KMEX Lead L.A. Local Emmy Wins; KVEA, KABC Land Top Newscast Prizes"
+        "‘Rick and Morty’ Spinoff ‘President Curtis’ Plays It Safe, but Keeps the Sci-Fi Franchise Cruising: TV Review"
       ],
       "watch_list": [
-        "‘Rick and Morty’ Spinoff ‘President Curtis’ Plays It Safe, but Keeps the Sci-Fi Franchise Cruising: TV Review",
-        "Tour De France: Tadej Pogacar Dominates Race For Record Tying Fifth Win",
+        "‘House of the Dragon’ Actor Benjamin Evan Ainsworth on ‘Absurdity’ of Assassination Attempt, Daeron’s Growing Power and if Ormund Is Dyeing the Kid’s Hair",
+        "‘House Of The Dragon’s Benjamin Evan Ainsworth Discusses Daeron Targaryen’s Choices & Future Motives As Season 3 Hits Home Stretch",
         "Where to Watch Shark Week 2026 Online: Schedule, Streaming Guide",
         "Best OLED TV for 2026 - CNET",
-        "PBS SoCal, KMEX Lead L.A. Local Emmy Wins; KVEA, KABC Land Top Newscast Prizes",
-        "‘Love Island UK’ Season 13 Final 4 Couples Revealed But Shocking Twist Will Dump One More",
+        "‘Rick and Morty’ Spinoff ‘President Curtis’ Plays It Safe, but Keeps the Sci-Fi Franchise Cruising: TV Review",
+        "Tour De France: Tadej Pogacar Dominates Race For Record Tying Fifth Win",
         "Warner Bros. Sues Amazon, Accusing Company of “Seeking to Pirate Away Employees”",
         "Streaming reshuffle: Music booms, TV originals shrink as fandom becomes entertainment’s new currency - Indian Television Dot Com"
       ],
       "homepage_cards": [
         {
-          "id": "tv-0-2866327318643319685",
-          "key": "tv-0-2866327318643319685",
+          "id": "tv-0-1749871580137125866",
+          "key": "tv-0-1749871580137125866",
           "category": "TV",
           "label": "TV",
-          "headline": "‘Rick and Morty’ Spinoff ‘President Curtis’ Plays It Safe, but Keeps the Sci-Fi Franchise Cruising: TV Review",
-          "title": "‘Rick and Morty’ Spinoff ‘President Curtis’ Plays It Safe, but Keeps the Sci-Fi Franchise Cruising: TV Review",
-          "snapshot": "“They spin off so fast,” Morty (Harry Belden) sighs of the latest visitors to the garage he shares with his grandfather Rick (Ian Cardoni). “I give it 10 episodes,” Rick replies. The scene is an obligatory, efficient passing of the baton from the characters’ namesake show “Rick and Morty,” a juggernaut hit for Adult...",
-          "summary": "“They spin off so fast,” Morty (Harry Belden) sighs of the latest visitors to the garage he shares with his grandfather Rick (Ian Cardoni). “I give it 10 episodes,” Rick replies. The scene is an obligatory, efficient passing of the baton from the characters’ namesake show “Rick and Morty,” a juggernaut hit for Adult...",
-          "url": "https://variety.com/2026/tv/reviews/president-curtis-review-rick-and-morty-spinoff-1236817266/",
+          "headline": "‘House of the Dragon’ Actor Benjamin Evan Ainsworth on ‘Absurdity’ of Assassination Attempt, Daeron’s Growing Power and if Ormund Is Dyeing the Kid’s Hair",
+          "title": "‘House of the Dragon’ Actor Benjamin Evan Ainsworth on ‘Absurdity’ of Assassination Attempt, Daeron’s Growing Power and if Ormund Is Dyeing the Kid’s Hair",
+          "snapshot": "SPOILER ALERT: This article contains spoilers for Season 3, Episode 3 of “House of the Dragon,” now streaming on HBO Max. Daeron Targaryen (Benjamin Evan Ainsworth) is growing up: On this week’s episode of “House of the Dragon” Season 3, the youngest (and least blonde) child of Alicent Hightower (Olivia Cooke) and V...",
+          "summary": "SPOILER ALERT: This article contains spoilers for Season 3, Episode 3 of “House of the Dragon,” now streaming on HBO Max. Daeron Targaryen (Benjamin Evan Ainsworth) is growing up: On this week’s episode of “House of the Dragon” Season 3, the youngest (and least blonde) child of Alicent Hightower (Olivia Cooke) and V...",
+          "url": "https://variety.com/2026/tv/features/house-of-the-dragon-daeron-assassination-attempt-ormund-1236820311/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/tv/feed/",
-          "published_at": "2026-07-26 11:00:00 AM ET",
+          "published_at": "2026-07-26 10:00:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "‘Rick and Morty’ Spinoff ‘President Curtis’ Plays It Safe, but Keeps the Sci-Fi Franchise Cruising: TV Review"
+            "‘House of the Dragon’ Actor Benjamin Evan Ainsworth on ‘Absurdity’ of Assassination Attempt, Daeron’s Growing Power and if Ormund Is Dyeing the Kid’s Hair"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2212,25 +2214,25 @@
           ]
         },
         {
-          "id": "tv-10-224182530881170745",
-          "key": "tv-10-224182530881170745",
+          "id": "tv-10-6413204415076651439",
+          "key": "tv-10-6413204415076651439",
           "category": "TV",
           "label": "TV",
-          "headline": "Tour De France: Tadej Pogacar Dominates Race For Record Tying Fifth Win",
-          "title": "Tour De France: Tadej Pogacar Dominates Race For Record Tying Fifth Win",
-          "snapshot": "Tadej Pogacar is in rare company after winning a record-tying fifth Tour de France. Only four others are credited with the achievement: Belgian Eddy Merckx, Spaniard Miguel Indurain and Frenchmen Bernard Hinault and Jacques Anquetil. (American Lance Armstrong stood on the winners podium seven times, but was stripped...",
-          "summary": "Tadej Pogacar is in rare company after winning a record-tying fifth Tour de France. Only four others are credited with the achievement: Belgian Eddy Merckx, Spaniard Miguel Indurain and Frenchmen Bernard Hinault and Jacques Anquetil. (American Lance Armstrong stood on the winners podium seven times, but was stripped...",
-          "url": "https://deadline.com/2026/07/tour-de-france-tadej-pogacar-win-1237004121/",
+          "headline": "‘House Of The Dragon’s Benjamin Evan Ainsworth Discusses Daeron Targaryen’s Choices & Future Motives As Season 3 Hits Home Stretch",
+          "title": "‘House Of The Dragon’s Benjamin Evan Ainsworth Discusses Daeron Targaryen’s Choices & Future Motives As Season 3 Hits Home Stretch",
+          "snapshot": "SPOILER ALERT: This story contains details from episode 6 of House of the Dragon on HBO. With only two episodes left of the third season of HBO’s House of the Dragon, the pieces are falling in to place for Ormund Hightower (James Norton) as Daeron Targaryen (Benjamin Evan Ainsworth) watches in the wings. In the […]",
+          "summary": "SPOILER ALERT: This story contains details from episode 6 of House of the Dragon on HBO. With only two episodes left of the third season of HBO’s House of the Dragon, the pieces are falling in to place for Ormund Hightower (James Norton) as Daeron Targaryen (Benjamin Evan Ainsworth) watches in the wings. In the […]",
+          "url": "https://deadline.com/2026/07/house-of-the-dragon-benjamin-evan-ainsworth-episode-6-1237000550/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/tv/feed/",
-          "published_at": "2026-07-26 06:27:44 PM ET",
+          "published_at": "2026-07-26 10:01:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "Tour De France: Tadej Pogacar Dominates Race For Record Tying Fifth Win"
+            "‘House Of The Dragon’s Benjamin Evan Ainsworth Discusses Daeron Targaryen’s Choices & Future Motives As Season 3 Hits Home Stretch"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2240,8 +2242,8 @@
           ]
         },
         {
-          "id": "tv-21-6004832329279702119",
-          "key": "tv-21-6004832329279702119",
+          "id": "tv-21-5993336308428314712",
+          "key": "tv-21-5993336308428314712",
           "category": "TV",
           "label": "TV",
           "headline": "Where to Watch Shark Week 2026 Online: Schedule, Streaming Guide",
@@ -2268,8 +2270,8 @@
           ]
         },
         {
-          "id": "tv-31-4675476789294674801",
-          "key": "tv-31-4675476789294674801",
+          "id": "tv-31-1815231083646319929",
+          "key": "tv-31-1815231083646319929",
           "category": "TV",
           "label": "TV",
           "headline": "Best OLED TV for 2026 - CNET",
@@ -2296,25 +2298,25 @@
           ]
         },
         {
-          "id": "tv-1-4039571672112200876",
-          "key": "tv-1-4039571672112200876",
+          "id": "tv-1-6729050503563737173",
+          "key": "tv-1-6729050503563737173",
           "category": "TV",
           "label": "TV",
-          "headline": "PBS SoCal, KMEX Lead L.A. Local Emmy Wins; KVEA, KABC Land Top Newscast Prizes",
-          "title": "PBS SoCal, KMEX Lead L.A. Local Emmy Wins; KVEA, KABC Land Top Newscast Prizes",
-          "snapshot": "PBS SoCal (KOCE and KCET) was the big winner Saturday night at the L.A. Area Emmy Awards, landing eight — including for live events-programming, entertainment, crime/social issues and arts. Univision’s KMEX was next, with seven, followed by Telemundo’s KVEA with six. KVEA once again won the newscast Emmys for daily...",
-          "summary": "PBS SoCal (KOCE and KCET) was the big winner Saturday night at the L.A. Area Emmy Awards, landing eight — including for live events-programming, entertainment, crime/social issues and arts. Univision’s KMEX was next, with seven, followed by Telemundo’s KVEA with six. KVEA once again won the newscast Emmys for daily...",
-          "url": "https://variety.com/2026/tv/news/la-local-emmy-winners-pbs-socal-leads-kvea-kabc-1236821371/",
+          "headline": "‘Rick and Morty’ Spinoff ‘President Curtis’ Plays It Safe, but Keeps the Sci-Fi Franchise Cruising: TV Review",
+          "title": "‘Rick and Morty’ Spinoff ‘President Curtis’ Plays It Safe, but Keeps the Sci-Fi Franchise Cruising: TV Review",
+          "snapshot": "“They spin off so fast,” Morty (Harry Belden) sighs of the latest visitors to the garage he shares with his grandfather Rick (Ian Cardoni). “I give it 10 episodes,” Rick replies. The scene is an obligatory, efficient passing of the baton from the characters’ namesake show “Rick and Morty,” a juggernaut hit for Adult...",
+          "summary": "“They spin off so fast,” Morty (Harry Belden) sighs of the latest visitors to the garage he shares with his grandfather Rick (Ian Cardoni). “I give it 10 episodes,” Rick replies. The scene is an obligatory, efficient passing of the baton from the characters’ namesake show “Rick and Morty,” a juggernaut hit for Adult...",
+          "url": "https://variety.com/2026/tv/reviews/president-curtis-review-rick-and-morty-spinoff-1236817266/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/tv/feed/",
-          "published_at": "2026-07-26 03:39:20 AM ET",
+          "published_at": "2026-07-26 11:00:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "PBS SoCal, KMEX Lead L.A. Local Emmy Wins; KVEA, KABC Land Top Newscast Prizes"
+            "‘Rick and Morty’ Spinoff ‘President Curtis’ Plays It Safe, but Keeps the Sci-Fi Franchise Cruising: TV Review"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2324,25 +2326,25 @@
           ]
         },
         {
-          "id": "tv-11-2862347301565632303",
-          "key": "tv-11-2862347301565632303",
+          "id": "tv-11-7183212910992662120",
+          "key": "tv-11-7183212910992662120",
           "category": "TV",
           "label": "TV",
-          "headline": "‘Love Island UK’ Season 13 Final 4 Couples Revealed But Shocking Twist Will Dump One More",
-          "title": "‘Love Island UK’ Season 13 Final 4 Couples Revealed But Shocking Twist Will Dump One More",
-          "snapshot": "SPOILER ALERT: This post contains details on the final four couples of Love Island UK Season 13, Episode 56, which aired on Sunday, July 26. All the former Islanders returned to the villa ahead of the Love Island UK Season 13 finale, and they would have one very important task. As the Season 13 finale looms, the […]",
-          "summary": "SPOILER ALERT: This post contains details on the final four couples of Love Island UK Season 13, Episode 56, which aired on Sunday, July 26. All the former Islanders returned to the villa ahead of the Love Island UK Season 13 finale, and they would have one very important task. As the Season 13 finale looms, the […]",
-          "url": "https://deadline.com/gallery/love-island-uk-season-13-final-4-couples/",
+          "headline": "Tour De France: Tadej Pogacar Dominates Race For Record Tying Fifth Win",
+          "title": "Tour De France: Tadej Pogacar Dominates Race For Record Tying Fifth Win",
+          "snapshot": "Tadej Pogacar is in rare company after winning a record-tying fifth Tour de France. Only four others are credited with the achievement: Belgian Eddy Merckx, Spaniard Miguel Indurain and Frenchmen Bernard Hinault and Jacques Anquetil. (American Lance Armstrong stood on the winners podium seven times, but was stripped...",
+          "summary": "Tadej Pogacar is in rare company after winning a record-tying fifth Tour de France. Only four others are credited with the achievement: Belgian Eddy Merckx, Spaniard Miguel Indurain and Frenchmen Bernard Hinault and Jacques Anquetil. (American Lance Armstrong stood on the winners podium seven times, but was stripped...",
+          "url": "https://deadline.com/2026/07/tour-de-france-tadej-pogacar-win-1237004121/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/tv/feed/",
-          "published_at": "2026-07-26 05:05:56 PM ET",
+          "published_at": "2026-07-26 06:27:44 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "‘Love Island UK’ Season 13 Final 4 Couples Revealed But Shocking Twist Will Dump One More"
+            "Tour De France: Tadej Pogacar Dominates Race For Record Tying Fifth Win"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2352,8 +2354,8 @@
           ]
         },
         {
-          "id": "tv-22-5554480833019439547",
-          "key": "tv-22-5554480833019439547",
+          "id": "tv-22-9145859174439531729",
+          "key": "tv-22-9145859174439531729",
           "category": "TV",
           "label": "TV",
           "headline": "Warner Bros. Sues Amazon, Accusing Company of “Seeking to Pirate Away Employees”",
@@ -2380,8 +2382,8 @@
           ]
         },
         {
-          "id": "tv-32-5094841647304236435",
-          "key": "tv-32-5094841647304236435",
+          "id": "tv-32-1340182907669652536",
+          "key": "tv-32-1340182907669652536",
           "category": "TV",
           "label": "TV",
           "headline": "Streaming reshuffle: Music booms, TV originals shrink as fandom becomes entertainment’s new currency - Indian Television Dot Com",
@@ -2410,25 +2412,25 @@
       ],
       "items": [
         {
-          "id": "tv-0-2866327318643319685",
-          "key": "tv-0-2866327318643319685",
+          "id": "tv-0-1749871580137125866",
+          "key": "tv-0-1749871580137125866",
           "category": "TV",
           "label": "TV",
-          "headline": "‘Rick and Morty’ Spinoff ‘President Curtis’ Plays It Safe, but Keeps the Sci-Fi Franchise Cruising: TV Review",
-          "title": "‘Rick and Morty’ Spinoff ‘President Curtis’ Plays It Safe, but Keeps the Sci-Fi Franchise Cruising: TV Review",
-          "snapshot": "“They spin off so fast,” Morty (Harry Belden) sighs of the latest visitors to the garage he shares with his grandfather Rick (Ian Cardoni). “I give it 10 episodes,” Rick replies. The scene is an obligatory, efficient passing of the baton from the characters’ namesake show “Rick and Morty,” a juggernaut hit for Adult...",
-          "summary": "“They spin off so fast,” Morty (Harry Belden) sighs of the latest visitors to the garage he shares with his grandfather Rick (Ian Cardoni). “I give it 10 episodes,” Rick replies. The scene is an obligatory, efficient passing of the baton from the characters’ namesake show “Rick and Morty,” a juggernaut hit for Adult...",
-          "url": "https://variety.com/2026/tv/reviews/president-curtis-review-rick-and-morty-spinoff-1236817266/",
+          "headline": "‘House of the Dragon’ Actor Benjamin Evan Ainsworth on ‘Absurdity’ of Assassination Attempt, Daeron’s Growing Power and if Ormund Is Dyeing the Kid’s Hair",
+          "title": "‘House of the Dragon’ Actor Benjamin Evan Ainsworth on ‘Absurdity’ of Assassination Attempt, Daeron’s Growing Power and if Ormund Is Dyeing the Kid’s Hair",
+          "snapshot": "SPOILER ALERT: This article contains spoilers for Season 3, Episode 3 of “House of the Dragon,” now streaming on HBO Max. Daeron Targaryen (Benjamin Evan Ainsworth) is growing up: On this week’s episode of “House of the Dragon” Season 3, the youngest (and least blonde) child of Alicent Hightower (Olivia Cooke) and V...",
+          "summary": "SPOILER ALERT: This article contains spoilers for Season 3, Episode 3 of “House of the Dragon,” now streaming on HBO Max. Daeron Targaryen (Benjamin Evan Ainsworth) is growing up: On this week’s episode of “House of the Dragon” Season 3, the youngest (and least blonde) child of Alicent Hightower (Olivia Cooke) and V...",
+          "url": "https://variety.com/2026/tv/features/house-of-the-dragon-daeron-assassination-attempt-ormund-1236820311/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/tv/feed/",
-          "published_at": "2026-07-26 11:00:00 AM ET",
+          "published_at": "2026-07-26 10:00:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "‘Rick and Morty’ Spinoff ‘President Curtis’ Plays It Safe, but Keeps the Sci-Fi Franchise Cruising: TV Review"
+            "‘House of the Dragon’ Actor Benjamin Evan Ainsworth on ‘Absurdity’ of Assassination Attempt, Daeron’s Growing Power and if Ormund Is Dyeing the Kid’s Hair"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2438,25 +2440,25 @@
           ]
         },
         {
-          "id": "tv-10-224182530881170745",
-          "key": "tv-10-224182530881170745",
+          "id": "tv-10-6413204415076651439",
+          "key": "tv-10-6413204415076651439",
           "category": "TV",
           "label": "TV",
-          "headline": "Tour De France: Tadej Pogacar Dominates Race For Record Tying Fifth Win",
-          "title": "Tour De France: Tadej Pogacar Dominates Race For Record Tying Fifth Win",
-          "snapshot": "Tadej Pogacar is in rare company after winning a record-tying fifth Tour de France. Only four others are credited with the achievement: Belgian Eddy Merckx, Spaniard Miguel Indurain and Frenchmen Bernard Hinault and Jacques Anquetil. (American Lance Armstrong stood on the winners podium seven times, but was stripped...",
-          "summary": "Tadej Pogacar is in rare company after winning a record-tying fifth Tour de France. Only four others are credited with the achievement: Belgian Eddy Merckx, Spaniard Miguel Indurain and Frenchmen Bernard Hinault and Jacques Anquetil. (American Lance Armstrong stood on the winners podium seven times, but was stripped...",
-          "url": "https://deadline.com/2026/07/tour-de-france-tadej-pogacar-win-1237004121/",
+          "headline": "‘House Of The Dragon’s Benjamin Evan Ainsworth Discusses Daeron Targaryen’s Choices & Future Motives As Season 3 Hits Home Stretch",
+          "title": "‘House Of The Dragon’s Benjamin Evan Ainsworth Discusses Daeron Targaryen’s Choices & Future Motives As Season 3 Hits Home Stretch",
+          "snapshot": "SPOILER ALERT: This story contains details from episode 6 of House of the Dragon on HBO. With only two episodes left of the third season of HBO’s House of the Dragon, the pieces are falling in to place for Ormund Hightower (James Norton) as Daeron Targaryen (Benjamin Evan Ainsworth) watches in the wings. In the […]",
+          "summary": "SPOILER ALERT: This story contains details from episode 6 of House of the Dragon on HBO. With only two episodes left of the third season of HBO’s House of the Dragon, the pieces are falling in to place for Ormund Hightower (James Norton) as Daeron Targaryen (Benjamin Evan Ainsworth) watches in the wings. In the […]",
+          "url": "https://deadline.com/2026/07/house-of-the-dragon-benjamin-evan-ainsworth-episode-6-1237000550/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/tv/feed/",
-          "published_at": "2026-07-26 06:27:44 PM ET",
+          "published_at": "2026-07-26 10:01:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "Tour De France: Tadej Pogacar Dominates Race For Record Tying Fifth Win"
+            "‘House Of The Dragon’s Benjamin Evan Ainsworth Discusses Daeron Targaryen’s Choices & Future Motives As Season 3 Hits Home Stretch"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2466,8 +2468,8 @@
           ]
         },
         {
-          "id": "tv-21-6004832329279702119",
-          "key": "tv-21-6004832329279702119",
+          "id": "tv-21-5993336308428314712",
+          "key": "tv-21-5993336308428314712",
           "category": "TV",
           "label": "TV",
           "headline": "Where to Watch Shark Week 2026 Online: Schedule, Streaming Guide",
@@ -2494,8 +2496,8 @@
           ]
         },
         {
-          "id": "tv-31-4675476789294674801",
-          "key": "tv-31-4675476789294674801",
+          "id": "tv-31-1815231083646319929",
+          "key": "tv-31-1815231083646319929",
           "category": "TV",
           "label": "TV",
           "headline": "Best OLED TV for 2026 - CNET",
@@ -2522,25 +2524,25 @@
           ]
         },
         {
-          "id": "tv-1-4039571672112200876",
-          "key": "tv-1-4039571672112200876",
+          "id": "tv-1-6729050503563737173",
+          "key": "tv-1-6729050503563737173",
           "category": "TV",
           "label": "TV",
-          "headline": "PBS SoCal, KMEX Lead L.A. Local Emmy Wins; KVEA, KABC Land Top Newscast Prizes",
-          "title": "PBS SoCal, KMEX Lead L.A. Local Emmy Wins; KVEA, KABC Land Top Newscast Prizes",
-          "snapshot": "PBS SoCal (KOCE and KCET) was the big winner Saturday night at the L.A. Area Emmy Awards, landing eight — including for live events-programming, entertainment, crime/social issues and arts. Univision’s KMEX was next, with seven, followed by Telemundo’s KVEA with six. KVEA once again won the newscast Emmys for daily...",
-          "summary": "PBS SoCal (KOCE and KCET) was the big winner Saturday night at the L.A. Area Emmy Awards, landing eight — including for live events-programming, entertainment, crime/social issues and arts. Univision’s KMEX was next, with seven, followed by Telemundo’s KVEA with six. KVEA once again won the newscast Emmys for daily...",
-          "url": "https://variety.com/2026/tv/news/la-local-emmy-winners-pbs-socal-leads-kvea-kabc-1236821371/",
+          "headline": "‘Rick and Morty’ Spinoff ‘President Curtis’ Plays It Safe, but Keeps the Sci-Fi Franchise Cruising: TV Review",
+          "title": "‘Rick and Morty’ Spinoff ‘President Curtis’ Plays It Safe, but Keeps the Sci-Fi Franchise Cruising: TV Review",
+          "snapshot": "“They spin off so fast,” Morty (Harry Belden) sighs of the latest visitors to the garage he shares with his grandfather Rick (Ian Cardoni). “I give it 10 episodes,” Rick replies. The scene is an obligatory, efficient passing of the baton from the characters’ namesake show “Rick and Morty,” a juggernaut hit for Adult...",
+          "summary": "“They spin off so fast,” Morty (Harry Belden) sighs of the latest visitors to the garage he shares with his grandfather Rick (Ian Cardoni). “I give it 10 episodes,” Rick replies. The scene is an obligatory, efficient passing of the baton from the characters’ namesake show “Rick and Morty,” a juggernaut hit for Adult...",
+          "url": "https://variety.com/2026/tv/reviews/president-curtis-review-rick-and-morty-spinoff-1236817266/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/tv/feed/",
-          "published_at": "2026-07-26 03:39:20 AM ET",
+          "published_at": "2026-07-26 11:00:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "PBS SoCal, KMEX Lead L.A. Local Emmy Wins; KVEA, KABC Land Top Newscast Prizes"
+            "‘Rick and Morty’ Spinoff ‘President Curtis’ Plays It Safe, but Keeps the Sci-Fi Franchise Cruising: TV Review"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2550,25 +2552,25 @@
           ]
         },
         {
-          "id": "tv-11-2862347301565632303",
-          "key": "tv-11-2862347301565632303",
+          "id": "tv-11-7183212910992662120",
+          "key": "tv-11-7183212910992662120",
           "category": "TV",
           "label": "TV",
-          "headline": "‘Love Island UK’ Season 13 Final 4 Couples Revealed But Shocking Twist Will Dump One More",
-          "title": "‘Love Island UK’ Season 13 Final 4 Couples Revealed But Shocking Twist Will Dump One More",
-          "snapshot": "SPOILER ALERT: This post contains details on the final four couples of Love Island UK Season 13, Episode 56, which aired on Sunday, July 26. All the former Islanders returned to the villa ahead of the Love Island UK Season 13 finale, and they would have one very important task. As the Season 13 finale looms, the […]",
-          "summary": "SPOILER ALERT: This post contains details on the final four couples of Love Island UK Season 13, Episode 56, which aired on Sunday, July 26. All the former Islanders returned to the villa ahead of the Love Island UK Season 13 finale, and they would have one very important task. As the Season 13 finale looms, the […]",
-          "url": "https://deadline.com/gallery/love-island-uk-season-13-final-4-couples/",
+          "headline": "Tour De France: Tadej Pogacar Dominates Race For Record Tying Fifth Win",
+          "title": "Tour De France: Tadej Pogacar Dominates Race For Record Tying Fifth Win",
+          "snapshot": "Tadej Pogacar is in rare company after winning a record-tying fifth Tour de France. Only four others are credited with the achievement: Belgian Eddy Merckx, Spaniard Miguel Indurain and Frenchmen Bernard Hinault and Jacques Anquetil. (American Lance Armstrong stood on the winners podium seven times, but was stripped...",
+          "summary": "Tadej Pogacar is in rare company after winning a record-tying fifth Tour de France. Only four others are credited with the achievement: Belgian Eddy Merckx, Spaniard Miguel Indurain and Frenchmen Bernard Hinault and Jacques Anquetil. (American Lance Armstrong stood on the winners podium seven times, but was stripped...",
+          "url": "https://deadline.com/2026/07/tour-de-france-tadej-pogacar-win-1237004121/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/tv/feed/",
-          "published_at": "2026-07-26 05:05:56 PM ET",
+          "published_at": "2026-07-26 06:27:44 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "‘Love Island UK’ Season 13 Final 4 Couples Revealed But Shocking Twist Will Dump One More"
+            "Tour De France: Tadej Pogacar Dominates Race For Record Tying Fifth Win"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2578,8 +2580,8 @@
           ]
         },
         {
-          "id": "tv-22-5554480833019439547",
-          "key": "tv-22-5554480833019439547",
+          "id": "tv-22-9145859174439531729",
+          "key": "tv-22-9145859174439531729",
           "category": "TV",
           "label": "TV",
           "headline": "Warner Bros. Sues Amazon, Accusing Company of “Seeking to Pirate Away Employees”",
@@ -2606,8 +2608,8 @@
           ]
         },
         {
-          "id": "tv-32-5094841647304236435",
-          "key": "tv-32-5094841647304236435",
+          "id": "tv-32-1340182907669652536",
+          "key": "tv-32-1340182907669652536",
           "category": "TV",
           "label": "TV",
           "headline": "Streaming reshuffle: Music booms, TV originals shrink as fandom becomes entertainment’s new currency - Indian Television Dot Com",
@@ -2634,7 +2636,7 @@
           ]
         }
       ],
-      "updated_at": "2026-07-26 07:07:11 PM ET"
+      "updated_at": "2026-07-26 11:18:06 PM ET"
     },
     {
       "key": "streaming",
@@ -2652,8 +2654,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "streaming-0-8262994203584828863",
-          "key": "streaming-0-8262994203584828863",
+          "id": "streaming-0-5747169073376609121",
+          "key": "streaming-0-5747169073376609121",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'Masters of the Universe' to 'Obsession,' 10 movies to stream now - USA Today",
@@ -2680,8 +2682,8 @@
           ]
         },
         {
-          "id": "streaming-1-40511706102301772",
-          "key": "streaming-1-40511706102301772",
+          "id": "streaming-1-3507173731556994775",
+          "key": "streaming-1-3507173731556994775",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Verizon Streaming Perks: Get Netflix, Disney Plus and More, for Much Less - CNET",
@@ -2710,8 +2712,8 @@
       ],
       "items": [
         {
-          "id": "streaming-0-8262994203584828863",
-          "key": "streaming-0-8262994203584828863",
+          "id": "streaming-0-5747169073376609121",
+          "key": "streaming-0-5747169073376609121",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'Masters of the Universe' to 'Obsession,' 10 movies to stream now - USA Today",
@@ -2738,8 +2740,8 @@
           ]
         },
         {
-          "id": "streaming-1-40511706102301772",
-          "key": "streaming-1-40511706102301772",
+          "id": "streaming-1-3507173731556994775",
+          "key": "streaming-1-3507173731556994775",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Verizon Streaming Perks: Get Netflix, Disney Plus and More, for Much Less - CNET",
@@ -2766,7 +2768,7 @@
           ]
         }
       ],
-      "updated_at": "2026-07-26 07:07:12 PM ET"
+      "updated_at": "2026-07-26 11:18:06 PM ET"
     },
     {
       "key": "music",
@@ -2776,23 +2778,23 @@
       "snapshot": "Music coverage is updating with 6 current RSS headline item(s).",
       "key_storylines": [
         "Gracie Abrams Scores First No. 1 on Albums Chart With ‘Daughter From Hell’",
-        "Charli xcx Releases ‘Music, Fashion, Film (B-Sides Edition)’ on iTunes",
-        "Billboard’s 2026 Top Music Lawyers Revealed - billboard.com",
+        "System of a Down and Faith No More Announce First Australian and New Zealand Tour in Over a Decade",
+        "Billboard’s 2026 Top Music Lawyers Revealed - Billboard",
         "‘Hadestown’ Brings Broadway’s Underworld to the Big Screen: The Show’s Original Cast and Creator on Making the Movie That’s a Surprise Box Office Hit",
-        "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List"
+        "Fans Choose JENNIE’s ‘Less Than a Lover’ as This Week’s Favorite New Music"
       ],
       "watch_list": [
         "Gracie Abrams Scores First No. 1 on Albums Chart With ‘Daughter From Hell’",
-        "Charli xcx Releases ‘Music, Fashion, Film (B-Sides Edition)’ on iTunes",
-        "Billboard’s 2026 Top Music Lawyers Revealed - billboard.com",
+        "System of a Down and Faith No More Announce First Australian and New Zealand Tour in Over a Decade",
+        "Billboard’s 2026 Top Music Lawyers Revealed - Billboard",
         "‘Hadestown’ Brings Broadway’s Underworld to the Big Screen: The Show’s Original Cast and Creator on Making the Movie That’s a Surprise Box Office Hit",
-        "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
+        "Fans Choose JENNIE’s ‘Less Than a Lover’ as This Week’s Favorite New Music",
         "Medford native makes Billboard’s 2026 list of “Top Music Lawyers” - kobi5.com"
       ],
       "homepage_cards": [
         {
-          "id": "music-0-7481178133387004297",
-          "key": "music-0-7481178133387004297",
+          "id": "music-0-1190690741763004599",
+          "key": "music-0-1190690741763004599",
           "category": "Music",
           "label": "Music",
           "headline": "Gracie Abrams Scores First No. 1 on Albums Chart With ‘Daughter From Hell’",
@@ -2819,25 +2821,25 @@
           ]
         },
         {
-          "id": "music-10-8059488009249197378",
-          "key": "music-10-8059488009249197378",
+          "id": "music-10-763251704873628121",
+          "key": "music-10-763251704873628121",
           "category": "Music",
           "label": "Music",
-          "headline": "Charli xcx Releases ‘Music, Fashion, Film (B-Sides Edition)’ on iTunes",
-          "title": "Charli xcx Releases ‘Music, Fashion, Film (B-Sides Edition)’ on iTunes",
-          "snapshot": "Three bonus tracks previously posted on her Instagram alt-account are now available to download in a $4.99 digital album bundle.",
-          "summary": "Three bonus tracks previously posted on her Instagram alt-account are now available to download in a $4.99 digital album bundle.",
-          "url": "https://www.billboard.com/music/music-news/charli-xcx-music-fashion-film-b-sides-album-1236303107/",
+          "headline": "System of a Down and Faith No More Announce First Australian and New Zealand Tour in Over a Decade",
+          "title": "System of a Down and Faith No More Announce First Australian and New Zealand Tour in Over a Decade",
+          "snapshot": "The shows mark System of a Down's first Australian dates since 2012.",
+          "summary": "The shows mark System of a Down's first Australian dates since 2012.",
+          "url": "https://www.billboard.com/music/rock/system-of-a-down-faith-no-more-announce-australian-new-zealand-tour-1236303129/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-07-26 05:28:48 PM ET",
+          "published_at": "2026-07-26 11:16:01 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "Charli xcx Releases ‘Music, Fashion, Film (B-Sides Edition)’ on iTunes"
+            "System of a Down and Faith No More Announce First Australian and New Zealand Tour in Over a Decade"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2847,14 +2849,14 @@
           ]
         },
         {
-          "id": "music-20-8155643035432365776",
-          "key": "music-20-8155643035432365776",
+          "id": "music-20-2166989495146541565",
+          "key": "music-20-2166989495146541565",
           "category": "Music",
           "label": "Music",
-          "headline": "Billboard’s 2026 Top Music Lawyers Revealed - billboard.com",
-          "title": "Billboard’s 2026 Top Music Lawyers Revealed - billboard.com",
-          "snapshot": "Billboard’s 2026 Top Music Lawyers Revealed billboard.com",
-          "summary": "Billboard’s 2026 Top Music Lawyers Revealed billboard.com",
+          "headline": "Billboard’s 2026 Top Music Lawyers Revealed - Billboard",
+          "title": "Billboard’s 2026 Top Music Lawyers Revealed - Billboard",
+          "snapshot": "Billboard’s 2026 Top Music Lawyers Revealed Billboard",
+          "summary": "Billboard’s 2026 Top Music Lawyers Revealed Billboard",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Md0E4X19DWGpuNUlWVVo0aVFESXNPaWlncHBYLVhtSUVGTkJ4clpHRkVjWkxRQ3gyX0dibjhhd1FHNWVxblhPVm9fSy1vbTcwQ09YX0szbk9PakF4d0VHX1QyaGdWTUVsdzFZeFFEaHlKMlJtSWpj?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -2865,7 +2867,7 @@
           "story_type": "rss_headline",
           "priority_score": 80,
           "key_data": [
-            "Billboard’s 2026 Top Music Lawyers Revealed - billboard.com"
+            "Billboard’s 2026 Top Music Lawyers Revealed - Billboard"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2875,8 +2877,8 @@
           ]
         },
         {
-          "id": "music-1-3449594921880857558",
-          "key": "music-1-3449594921880857558",
+          "id": "music-1-3123907579586044525",
+          "key": "music-1-3123907579586044525",
           "category": "Music",
           "label": "Music",
           "headline": "‘Hadestown’ Brings Broadway’s Underworld to the Big Screen: The Show’s Original Cast and Creator on Making the Movie That’s a Surprise Box Office Hit",
@@ -2903,25 +2905,25 @@
           ]
         },
         {
-          "id": "music-11-4707115493596793766",
-          "key": "music-11-4707115493596793766",
+          "id": "music-11-7053492491022592837",
+          "key": "music-11-7053492491022592837",
           "category": "Music",
           "label": "Music",
-          "headline": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
-          "title": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
-          "snapshot": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
-          "summary": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
-          "url": "https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
+          "headline": "Fans Choose JENNIE’s ‘Less Than a Lover’ as This Week’s Favorite New Music",
+          "title": "Fans Choose JENNIE’s ‘Less Than a Lover’ as This Week’s Favorite New Music",
+          "snapshot": "The BLACKPINK member's new solo single brought in more than 62% of the vote this week.",
+          "summary": "The BLACKPINK member's new solo single brought in more than 62% of the vote this week.",
+          "url": "https://www.billboard.com/music/music-news/jennie-less-than-a-lover-best-new-music-poll-results-1236303114/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-07-26 03:22:33 PM ET",
+          "published_at": "2026-07-26 08:46:22 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List"
+            "Fans Choose JENNIE’s ‘Less Than a Lover’ as This Week’s Favorite New Music"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2931,8 +2933,8 @@
           ]
         },
         {
-          "id": "music-21-1493327957188419516",
-          "key": "music-21-1493327957188419516",
+          "id": "music-21-4119321596453555164",
+          "key": "music-21-4119321596453555164",
           "category": "Music",
           "label": "Music",
           "headline": "Medford native makes Billboard’s 2026 list of “Top Music Lawyers” - kobi5.com",
@@ -2961,8 +2963,8 @@
       ],
       "items": [
         {
-          "id": "music-0-7481178133387004297",
-          "key": "music-0-7481178133387004297",
+          "id": "music-0-1190690741763004599",
+          "key": "music-0-1190690741763004599",
           "category": "Music",
           "label": "Music",
           "headline": "Gracie Abrams Scores First No. 1 on Albums Chart With ‘Daughter From Hell’",
@@ -2989,25 +2991,25 @@
           ]
         },
         {
-          "id": "music-10-8059488009249197378",
-          "key": "music-10-8059488009249197378",
+          "id": "music-10-763251704873628121",
+          "key": "music-10-763251704873628121",
           "category": "Music",
           "label": "Music",
-          "headline": "Charli xcx Releases ‘Music, Fashion, Film (B-Sides Edition)’ on iTunes",
-          "title": "Charli xcx Releases ‘Music, Fashion, Film (B-Sides Edition)’ on iTunes",
-          "snapshot": "Three bonus tracks previously posted on her Instagram alt-account are now available to download in a $4.99 digital album bundle.",
-          "summary": "Three bonus tracks previously posted on her Instagram alt-account are now available to download in a $4.99 digital album bundle.",
-          "url": "https://www.billboard.com/music/music-news/charli-xcx-music-fashion-film-b-sides-album-1236303107/",
+          "headline": "System of a Down and Faith No More Announce First Australian and New Zealand Tour in Over a Decade",
+          "title": "System of a Down and Faith No More Announce First Australian and New Zealand Tour in Over a Decade",
+          "snapshot": "The shows mark System of a Down's first Australian dates since 2012.",
+          "summary": "The shows mark System of a Down's first Australian dates since 2012.",
+          "url": "https://www.billboard.com/music/rock/system-of-a-down-faith-no-more-announce-australian-new-zealand-tour-1236303129/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-07-26 05:28:48 PM ET",
+          "published_at": "2026-07-26 11:16:01 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "Charli xcx Releases ‘Music, Fashion, Film (B-Sides Edition)’ on iTunes"
+            "System of a Down and Faith No More Announce First Australian and New Zealand Tour in Over a Decade"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3017,14 +3019,14 @@
           ]
         },
         {
-          "id": "music-20-8155643035432365776",
-          "key": "music-20-8155643035432365776",
+          "id": "music-20-2166989495146541565",
+          "key": "music-20-2166989495146541565",
           "category": "Music",
           "label": "Music",
-          "headline": "Billboard’s 2026 Top Music Lawyers Revealed - billboard.com",
-          "title": "Billboard’s 2026 Top Music Lawyers Revealed - billboard.com",
-          "snapshot": "Billboard’s 2026 Top Music Lawyers Revealed billboard.com",
-          "summary": "Billboard’s 2026 Top Music Lawyers Revealed billboard.com",
+          "headline": "Billboard’s 2026 Top Music Lawyers Revealed - Billboard",
+          "title": "Billboard’s 2026 Top Music Lawyers Revealed - Billboard",
+          "snapshot": "Billboard’s 2026 Top Music Lawyers Revealed Billboard",
+          "summary": "Billboard’s 2026 Top Music Lawyers Revealed Billboard",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Md0E4X19DWGpuNUlWVVo0aVFESXNPaWlncHBYLVhtSUVGTkJ4clpHRkVjWkxRQ3gyX0dibjhhd1FHNWVxblhPVm9fSy1vbTcwQ09YX0szbk9PakF4d0VHX1QyaGdWTUVsdzFZeFFEaHlKMlJtSWpj?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3035,7 +3037,7 @@
           "story_type": "rss_headline",
           "priority_score": 80,
           "key_data": [
-            "Billboard’s 2026 Top Music Lawyers Revealed - billboard.com"
+            "Billboard’s 2026 Top Music Lawyers Revealed - Billboard"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3045,8 +3047,8 @@
           ]
         },
         {
-          "id": "music-1-3449594921880857558",
-          "key": "music-1-3449594921880857558",
+          "id": "music-1-3123907579586044525",
+          "key": "music-1-3123907579586044525",
           "category": "Music",
           "label": "Music",
           "headline": "‘Hadestown’ Brings Broadway’s Underworld to the Big Screen: The Show’s Original Cast and Creator on Making the Movie That’s a Surprise Box Office Hit",
@@ -3073,25 +3075,25 @@
           ]
         },
         {
-          "id": "music-11-4707115493596793766",
-          "key": "music-11-4707115493596793766",
+          "id": "music-11-7053492491022592837",
+          "key": "music-11-7053492491022592837",
           "category": "Music",
           "label": "Music",
-          "headline": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
-          "title": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
-          "snapshot": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
-          "summary": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
-          "url": "https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
+          "headline": "Fans Choose JENNIE’s ‘Less Than a Lover’ as This Week’s Favorite New Music",
+          "title": "Fans Choose JENNIE’s ‘Less Than a Lover’ as This Week’s Favorite New Music",
+          "snapshot": "The BLACKPINK member's new solo single brought in more than 62% of the vote this week.",
+          "summary": "The BLACKPINK member's new solo single brought in more than 62% of the vote this week.",
+          "url": "https://www.billboard.com/music/music-news/jennie-less-than-a-lover-best-new-music-poll-results-1236303114/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-07-26 03:22:33 PM ET",
+          "published_at": "2026-07-26 08:46:22 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List"
+            "Fans Choose JENNIE’s ‘Less Than a Lover’ as This Week’s Favorite New Music"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3101,8 +3103,8 @@
           ]
         },
         {
-          "id": "music-21-1493327957188419516",
-          "key": "music-21-1493327957188419516",
+          "id": "music-21-4119321596453555164",
+          "key": "music-21-4119321596453555164",
           "category": "Music",
           "label": "Music",
           "headline": "Medford native makes Billboard’s 2026 list of “Top Music Lawyers” - kobi5.com",
@@ -3129,7 +3131,7 @@
           ]
         }
       ],
-      "updated_at": "2026-07-26 07:07:13 PM ET"
+      "updated_at": "2026-07-26 11:18:07 PM ET"
     },
     {
       "key": "awards",
@@ -3151,8 +3153,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "awards-0-6182702447190420676",
-          "key": "awards-0-6182702447190420676",
+          "id": "awards-0-8530397611350309040",
+          "key": "awards-0-8530397611350309040",
           "category": "Awards",
           "label": "Awards",
           "headline": "Emmys 2026 Voters’ Guide: Breaking Down the Early Frontrunners",
@@ -3179,8 +3181,8 @@
           ]
         },
         {
-          "id": "awards-4-7897056394917948881",
-          "key": "awards-4-7897056394917948881",
+          "id": "awards-4-586859182404495424",
+          "key": "awards-4-586859182404495424",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar - Deadline",
@@ -3207,8 +3209,8 @@
           ]
         },
         {
-          "id": "awards-1-1543129622938071287",
-          "key": "awards-1-1543129622938071287",
+          "id": "awards-1-783264954968456590",
+          "key": "awards-1-783264954968456590",
           "category": "Awards",
           "label": "Awards",
           "headline": "Martin Scorsese and Steven Spielberg Attend ‘Cape Fear’ Screening in NYC, Zendaya and Tom Holland Promote ‘Spider-Man: Brand New Day’ and More Celeb Red Carpet Photos: July 2026",
@@ -3235,8 +3237,8 @@
           ]
         },
         {
-          "id": "awards-5-86785707805246413",
-          "key": "awards-5-86785707805246413",
+          "id": "awards-5-8889776185202373446",
+          "key": "awards-5-8889776185202373446",
           "category": "Awards",
           "label": "Awards",
           "headline": "Awards Season Calendar: Key Dates for Oscars, Emmys, Tonys, Grammys, Golden Globes and Other Major Events - The Hollywood Reporter",
@@ -3265,8 +3267,8 @@
       ],
       "items": [
         {
-          "id": "awards-0-6182702447190420676",
-          "key": "awards-0-6182702447190420676",
+          "id": "awards-0-8530397611350309040",
+          "key": "awards-0-8530397611350309040",
           "category": "Awards",
           "label": "Awards",
           "headline": "Emmys 2026 Voters’ Guide: Breaking Down the Early Frontrunners",
@@ -3293,8 +3295,8 @@
           ]
         },
         {
-          "id": "awards-4-7897056394917948881",
-          "key": "awards-4-7897056394917948881",
+          "id": "awards-4-586859182404495424",
+          "key": "awards-4-586859182404495424",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar - Deadline",
@@ -3321,8 +3323,8 @@
           ]
         },
         {
-          "id": "awards-1-1543129622938071287",
-          "key": "awards-1-1543129622938071287",
+          "id": "awards-1-783264954968456590",
+          "key": "awards-1-783264954968456590",
           "category": "Awards",
           "label": "Awards",
           "headline": "Martin Scorsese and Steven Spielberg Attend ‘Cape Fear’ Screening in NYC, Zendaya and Tom Holland Promote ‘Spider-Man: Brand New Day’ and More Celeb Red Carpet Photos: July 2026",
@@ -3349,8 +3351,8 @@
           ]
         },
         {
-          "id": "awards-5-86785707805246413",
-          "key": "awards-5-86785707805246413",
+          "id": "awards-5-8889776185202373446",
+          "key": "awards-5-8889776185202373446",
           "category": "Awards",
           "label": "Awards",
           "headline": "Awards Season Calendar: Key Dates for Oscars, Emmys, Tonys, Grammys, Golden Globes and Other Major Events - The Hollywood Reporter",
@@ -3377,7 +3379,7 @@
           ]
         }
       ],
-      "updated_at": "2026-07-26 07:07:14 PM ET"
+      "updated_at": "2026-07-26 11:18:08 PM ET"
     },
     {
       "key": "box_office",
@@ -3399,8 +3401,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "box_office-0-6748664440977384067",
-          "key": "box_office-0-6748664440977384067",
+          "id": "box_office-0-1462303984114675349",
+          "key": "box_office-0-1462303984114675349",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘The Odyssey’ Holds Strong With $25 Million on Friday",
@@ -3427,8 +3429,8 @@
           ]
         },
         {
-          "id": "box_office-7-7796170833431015874",
-          "key": "box_office-7-7796170833431015874",
+          "id": "box_office-7-4817459257245834421",
+          "key": "box_office-7-4817459257245834421",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "'The Odyssey' Box Office Collection Day 7: Christopher Nolan's epic ends first week with Rs 107 crore hau - The Times of India",
@@ -3455,8 +3457,8 @@
           ]
         },
         {
-          "id": "box_office-1-5926093578058250064",
-          "key": "box_office-1-5926093578058250064",
+          "id": "box_office-1-470601349835689928",
+          "key": "box_office-1-470601349835689928",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Ava DuVernay’s ’14th’ Documentary to World Premiere at New York Film Festival",
@@ -3483,8 +3485,8 @@
           ]
         },
         {
-          "id": "box_office-8-1404636504767946672",
-          "key": "box_office-8-1404636504767946672",
+          "id": "box_office-8-3894693476984342139",
+          "key": "box_office-8-3894693476984342139",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "From ‘Michael’ to ‘The Bride’: The Good, the Bad and the Meh of the 2026 Box Office (So Far) - Variety",
@@ -3513,8 +3515,8 @@
       ],
       "items": [
         {
-          "id": "box_office-0-6748664440977384067",
-          "key": "box_office-0-6748664440977384067",
+          "id": "box_office-0-1462303984114675349",
+          "key": "box_office-0-1462303984114675349",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘The Odyssey’ Holds Strong With $25 Million on Friday",
@@ -3541,8 +3543,8 @@
           ]
         },
         {
-          "id": "box_office-7-7796170833431015874",
-          "key": "box_office-7-7796170833431015874",
+          "id": "box_office-7-4817459257245834421",
+          "key": "box_office-7-4817459257245834421",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "'The Odyssey' Box Office Collection Day 7: Christopher Nolan's epic ends first week with Rs 107 crore hau - The Times of India",
@@ -3569,8 +3571,8 @@
           ]
         },
         {
-          "id": "box_office-1-5926093578058250064",
-          "key": "box_office-1-5926093578058250064",
+          "id": "box_office-1-470601349835689928",
+          "key": "box_office-1-470601349835689928",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Ava DuVernay’s ’14th’ Documentary to World Premiere at New York Film Festival",
@@ -3597,8 +3599,8 @@
           ]
         },
         {
-          "id": "box_office-8-1404636504767946672",
-          "key": "box_office-8-1404636504767946672",
+          "id": "box_office-8-3894693476984342139",
+          "key": "box_office-8-3894693476984342139",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "From ‘Michael’ to ‘The Bride’: The Good, the Bad and the Meh of the 2026 Box Office (So Far) - Variety",
@@ -3625,54 +3627,26 @@
           ]
         }
       ],
-      "updated_at": "2026-07-26 07:07:15 PM ET"
+      "updated_at": "2026-07-26 11:18:08 PM ET"
     },
     {
       "key": "celebrity",
       "name": "Celebrity",
       "title": "Celebrity Report",
-      "headline": "From breakups to new beginnings: Inside a week of celebrity relationship news - Cleveland.com",
+      "headline": "Celebrity deaths 2026: Remembering the stars who died this year - ew.com",
       "snapshot": "Celebrity coverage is updating with 2 current RSS headline item(s).",
       "key_storylines": [
-        "From breakups to new beginnings: Inside a week of celebrity relationship news - Cleveland.com",
-        "Celebrity deaths 2026: Remembering the stars who died this year - ew.com"
+        "Celebrity deaths 2026: Remembering the stars who died this year - ew.com",
+        "2026 Celebrity Breakups - E! News"
       ],
       "watch_list": [
-        "From breakups to new beginnings: Inside a week of celebrity relationship news - Cleveland.com",
-        "Celebrity deaths 2026: Remembering the stars who died this year - ew.com"
+        "Celebrity deaths 2026: Remembering the stars who died this year - ew.com",
+        "2026 Celebrity Breakups - E! News"
       ],
       "homepage_cards": [
         {
-          "id": "celebrity-0-996969262295572811",
-          "key": "celebrity-0-996969262295572811",
-          "category": "Celebrity",
-          "label": "Celebrity",
-          "headline": "From breakups to new beginnings: Inside a week of celebrity relationship news - Cleveland.com",
-          "title": "From breakups to new beginnings: Inside a week of celebrity relationship news - Cleveland.com",
-          "snapshot": "From breakups to new beginnings: Inside a week of celebrity relationship news Cleveland.com",
-          "summary": "From breakups to new beginnings: Inside a week of celebrity relationship news Cleveland.com",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOXNVaVRXVExPc2dqSWNVLW9SVmF0OVp1ZXhxMkJCaUxjcnZyRXFzMXB6M1c1U2Jyal9TbkluM3pwa1I0em5yT1NOMWZvMzVvRzQtOVh0dGdEcHRTS1FQeXNtRXl3blB3VWZkTll2R0puSjZNR3dWQ2hLbWJGMXZzM2F4SWRrZG5FVDhNS1BFZkJHOFNaSURiQ29PNWhxRHRDTnhNck5BOTJNNF9ja1liLVhHQk5jUGcyLXhyTdIB0AFBVV95cUxPYlZ1TXFvUEUyWVQ5WTB1QnA5UE04eUdCUG5Wa1VscG4weVZodXZxaGtDdVZWNS1EV3VaOXJVbUdqLWFGVlFNZWNZWnRvOFZSQzlidU1RenpfTVphb0k1Y0F2Sk5sQWRqNGhPVExISzVGWWVYME05NTE2S1JEWldWamhIUHAzdklHeU9yTG43bnhtamVsdXFPMFg5dWhzdDNoTFpqblE0dDFNaHNkalg2RWtfTnl5UU13dkR0dkltNDZLM192cjVCWVd3VXl6RGZr?oc=5",
-          "source": "Google News",
-          "source_name": "Google News",
-          "source_feed": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-07-26 06:00:00 AM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 100,
-          "key_data": [
-            "From breakups to new beginnings: Inside a week of celebrity relationship news - Cleveland.com"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "celebrity-1-8024622699741571923",
-          "key": "celebrity-1-8024622699741571923",
+          "id": "celebrity-0-8281213963055114598",
+          "key": "celebrity-0-8281213963055114598",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - ew.com",
@@ -3687,9 +3661,37 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 99,
+          "priority_score": 100,
           "key_data": [
             "Celebrity deaths 2026: Remembering the stars who died this year - ew.com"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "celebrity-1-183899976676382200",
+          "key": "celebrity-1-183899976676382200",
+          "category": "Celebrity",
+          "label": "Celebrity",
+          "headline": "2026 Celebrity Breakups - E! News",
+          "title": "2026 Celebrity Breakups - E! News",
+          "snapshot": "2026 Celebrity Breakups E! News",
+          "summary": "2026 Celebrity Breakups E! News",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BcDgzSGtkM0lGR0tSdXdLdkczbkNIa1EwRDhMekRrZ0VfejNvdzNmd3Z3bFlUdnFORnRJcDZjNTZzWnNwZWU0WmVyYmNGT28yTVFnV0ZvQlBjc3FFUWtrc2ozN0RZR3kwUXdsMQ?oc=5",
+          "source": "Google News",
+          "source_name": "Google News",
+          "source_feed": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-22 05:36:00 PM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 99,
+          "key_data": [
+            "2026 Celebrity Breakups - E! News"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3701,36 +3703,8 @@
       ],
       "items": [
         {
-          "id": "celebrity-0-996969262295572811",
-          "key": "celebrity-0-996969262295572811",
-          "category": "Celebrity",
-          "label": "Celebrity",
-          "headline": "From breakups to new beginnings: Inside a week of celebrity relationship news - Cleveland.com",
-          "title": "From breakups to new beginnings: Inside a week of celebrity relationship news - Cleveland.com",
-          "snapshot": "From breakups to new beginnings: Inside a week of celebrity relationship news Cleveland.com",
-          "summary": "From breakups to new beginnings: Inside a week of celebrity relationship news Cleveland.com",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOXNVaVRXVExPc2dqSWNVLW9SVmF0OVp1ZXhxMkJCaUxjcnZyRXFzMXB6M1c1U2Jyal9TbkluM3pwa1I0em5yT1NOMWZvMzVvRzQtOVh0dGdEcHRTS1FQeXNtRXl3blB3VWZkTll2R0puSjZNR3dWQ2hLbWJGMXZzM2F4SWRrZG5FVDhNS1BFZkJHOFNaSURiQ29PNWhxRHRDTnhNck5BOTJNNF9ja1liLVhHQk5jUGcyLXhyTdIB0AFBVV95cUxPYlZ1TXFvUEUyWVQ5WTB1QnA5UE04eUdCUG5Wa1VscG4weVZodXZxaGtDdVZWNS1EV3VaOXJVbUdqLWFGVlFNZWNZWnRvOFZSQzlidU1RenpfTVphb0k1Y0F2Sk5sQWRqNGhPVExISzVGWWVYME05NTE2S1JEWldWamhIUHAzdklHeU9yTG43bnhtamVsdXFPMFg5dWhzdDNoTFpqblE0dDFNaHNkalg2RWtfTnl5UU13dkR0dkltNDZLM192cjVCWVd3VXl6RGZr?oc=5",
-          "source": "Google News",
-          "source_name": "Google News",
-          "source_feed": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-07-26 06:00:00 AM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 100,
-          "key_data": [
-            "From breakups to new beginnings: Inside a week of celebrity relationship news - Cleveland.com"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "celebrity-1-8024622699741571923",
-          "key": "celebrity-1-8024622699741571923",
+          "id": "celebrity-0-8281213963055114598",
+          "key": "celebrity-0-8281213963055114598",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - ew.com",
@@ -3745,7 +3719,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 99,
+          "priority_score": 100,
           "key_data": [
             "Celebrity deaths 2026: Remembering the stars who died this year - ew.com"
           ],
@@ -3755,36 +3729,65 @@
           "what_to_watch": [
             "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
           ]
+        },
+        {
+          "id": "celebrity-1-183899976676382200",
+          "key": "celebrity-1-183899976676382200",
+          "category": "Celebrity",
+          "label": "Celebrity",
+          "headline": "2026 Celebrity Breakups - E! News",
+          "title": "2026 Celebrity Breakups - E! News",
+          "snapshot": "2026 Celebrity Breakups E! News",
+          "summary": "2026 Celebrity Breakups E! News",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BcDgzSGtkM0lGR0tSdXdLdkczbkNIa1EwRDhMekRrZ0VfejNvdzNmd3Z3bFlUdnFORnRJcDZjNTZzWnNwZWU0WmVyYmNGT28yTVFnV0ZvQlBjc3FFUWtrc2ozN0RZR3kwUXdsMQ?oc=5",
+          "source": "Google News",
+          "source_name": "Google News",
+          "source_feed": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-22 05:36:00 PM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 99,
+          "key_data": [
+            "2026 Celebrity Breakups - E! News"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
         }
       ],
-      "updated_at": "2026-07-26 07:07:16 PM ET"
+      "updated_at": "2026-07-26 11:18:09 PM ET"
     },
     {
       "key": "hollywood",
       "name": "Hollywood",
       "title": "Hollywood Report",
       "headline": "Gay Romance Podcast ‘Drive Thru Magic’ Casts Daniel J. Kim and Danielle Kennedy, Sets September Release Date (EXCLUSIVE)",
-      "snapshot": "Hollywood coverage is updating with 7 current RSS headline item(s).",
+      "snapshot": "Hollywood coverage is updating with 8 current RSS headline item(s).",
       "key_storylines": [
         "Gay Romance Podcast ‘Drive Thru Magic’ Casts Daniel J. Kim and Danielle Kennedy, Sets September Release Date (EXCLUSIVE)",
-        "‘The Odyssey’ Holds Strong Worldwide, Cume Near $640M; ‘Toy Story 5’ Third Pic YTD To Cross $1B WW – Global Box Office Update",
-        "20 Years Ago, a Feature Documentary Announced the Death of the Electric Car",
-        "Hollywood’s open secret: It’s battling AI — and already addicted to it - Los Angeles Times",
+        "Dylan Mulvaney Responds To Trump’s WHCD “Diss Track,” Feels Like “The One That Got Away” For MAGA Men",
+        "On Heels of World Cup, Polo Star Nacho Figueras Says Horseback Sport Has “All the Ingredients to Be the Next Big Thing”",
+        "LA’s film decline needs urgent action — or Hollywood is dead - New York Post",
         "‘Am I Supposed to be a Comedian?’: Donald Trump’s Bizarre White House Correspondent’s Dinner Speech Had Few Laughing"
       ],
       "watch_list": [
         "Gay Romance Podcast ‘Drive Thru Magic’ Casts Daniel J. Kim and Danielle Kennedy, Sets September Release Date (EXCLUSIVE)",
-        "‘The Odyssey’ Holds Strong Worldwide, Cume Near $640M; ‘Toy Story 5’ Third Pic YTD To Cross $1B WW – Global Box Office Update",
-        "20 Years Ago, a Feature Documentary Announced the Death of the Electric Car",
-        "Hollywood’s open secret: It’s battling AI — and already addicted to it - Los Angeles Times",
+        "Dylan Mulvaney Responds To Trump’s WHCD “Diss Track,” Feels Like “The One That Got Away” For MAGA Men",
+        "On Heels of World Cup, Polo Star Nacho Figueras Says Horseback Sport Has “All the Ingredients to Be the Next Big Thing”",
+        "LA’s film decline needs urgent action — or Hollywood is dead - New York Post",
         "‘Am I Supposed to be a Comedian?’: Donald Trump’s Bizarre White House Correspondent’s Dinner Speech Had Few Laughing",
-        "‘The Odyssey’s $87M Second Weekend A Record For Christopher Nolan, Besting ‘Dark Knight’ – Sunday Box Office Update",
-        "The life of a Hollywood freelancer - marketplace.org"
+        "Mary Beth Barone Says She & Benito Skinner Tried To “Get Out” Of ‘Ride’ Podcast Contract Over Dear Media CEO’s Politics: “Hard To Reconcile That”",
+        "Martin Scorsese Stars in ‘Family Blend’ Directed by Daughter Francesca for Coffee Brand Lavazza",
+        "Hollywood’s open secret: It’s battling AI — and already addicted to it - Los Angeles Times"
       ],
       "homepage_cards": [
         {
-          "id": "hollywood-0-7149873499695973625",
-          "key": "hollywood-0-7149873499695973625",
+          "id": "hollywood-0-1690009118554861481",
+          "key": "hollywood-0-1690009118554861481",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Gay Romance Podcast ‘Drive Thru Magic’ Casts Daniel J. Kim and Danielle Kennedy, Sets September Release Date (EXCLUSIVE)",
@@ -3811,25 +3814,25 @@
           ]
         },
         {
-          "id": "hollywood-2-8956976544023404313",
-          "key": "hollywood-2-8956976544023404313",
+          "id": "hollywood-2-5609442958885625365",
+          "key": "hollywood-2-5609442958885625365",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "‘The Odyssey’ Holds Strong Worldwide, Cume Near $640M; ‘Toy Story 5’ Third Pic YTD To Cross $1B WW – Global Box Office Update",
-          "title": "‘The Odyssey’ Holds Strong Worldwide, Cume Near $640M; ‘Toy Story 5’ Third Pic YTD To Cross $1B WW – Global Box Office Update",
-          "snapshot": "Refresh for updates…Christopher Nolan’s The Odyssey is just laying siege and holding the box office fort at the domestic box office, but worldwide. OMG, the second global weekend was $215.3M, a -18% dip from the Universal pic’s opening which was $263.7M WW. Of that global total, Imax is driving $140M or 53%. Soon, U...",
-          "summary": "Refresh for updates…Christopher Nolan’s The Odyssey is just laying siege and holding the box office fort at the domestic box office, but worldwide. OMG, the second global weekend was $215.3M, a -18% dip from the Universal pic’s opening which was $263.7M WW. Of that global total, Imax is driving $140M or 53%. Soon, U...",
-          "url": "https://deadline.com/2026/07/box-office-global-the-odyssey-toy-story-5-1237004022/",
+          "headline": "Dylan Mulvaney Responds To Trump’s WHCD “Diss Track,” Feels Like “The One That Got Away” For MAGA Men",
+          "title": "Dylan Mulvaney Responds To Trump’s WHCD “Diss Track,” Feels Like “The One That Got Away” For MAGA Men",
+          "snapshot": "More than three years after sparking conservative backlash with her Bud Light social media partnership, Dylan Mulvaney was as surprised as anyone to hear her name in Donald Trump’s mouth at the rescheduled White House Correspondents’ Dinner. Counting “four times” the POTUS mentioned her name in his speech on Friday,...",
+          "summary": "More than three years after sparking conservative backlash with her Bud Light social media partnership, Dylan Mulvaney was as surprised as anyone to hear her name in Donald Trump’s mouth at the rescheduled White House Correspondents’ Dinner. Counting “four times” the POTUS mentioned her name in his speech on Friday,...",
+          "url": "https://deadline.com/2026/07/dylan-mulvaney-responds-trump-whcd-diss-track-1237004142/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/feed/",
-          "published_at": "2026-07-26 12:43:00 PM ET",
+          "published_at": "2026-07-26 10:08:26 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 98,
           "key_data": [
-            "‘The Odyssey’ Holds Strong Worldwide, Cume Near $640M; ‘Toy Story 5’ Third Pic YTD To Cross $1B WW – Global Box Office Update"
+            "Dylan Mulvaney Responds To Trump’s WHCD “Diss Track,” Feels Like “The One That Got Away” For MAGA Men"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3839,25 +3842,25 @@
           ]
         },
         {
-          "id": "hollywood-4-537542867550965823",
-          "key": "hollywood-4-537542867550965823",
+          "id": "hollywood-4-5034050613965666677",
+          "key": "hollywood-4-5034050613965666677",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "20 Years Ago, a Feature Documentary Announced the Death of the Electric Car",
-          "title": "20 Years Ago, a Feature Documentary Announced the Death of the Electric Car",
-          "snapshot": "Long before the Tesla revolution, Sony Pictures Classics' ‘Who Killed the Electric Car?’ investigated why GM discontinued the beloved EV1.",
-          "summary": "Long before the Tesla revolution, Sony Pictures Classics' ‘Who Killed the Electric Car?’ investigated why GM discontinued the beloved EV1.",
-          "url": "https://www.hollywoodreporter.com/movies/movie-features/who-killed-the-electric-car-documentary-turns-20-1236653339/",
+          "headline": "On Heels of World Cup, Polo Star Nacho Figueras Says Horseback Sport Has “All the Ingredients to Be the Next Big Thing”",
+          "title": "On Heels of World Cup, Polo Star Nacho Figueras Says Horseback Sport Has “All the Ingredients to Be the Next Big Thing”",
+          "snapshot": "The Argentine sporting legend says he's working on an 'F1 version of polo,' while testing pitches for a scripted series as well.",
+          "summary": "The Argentine sporting legend says he's working on an 'F1 version of polo,' while testing pitches for a scripted series as well.",
+          "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/nacho-figueras-talks-polo-show-st-regis-cowdray-gold-cup-1236655651/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/feed/",
-          "published_at": "2026-07-26 02:00:00 PM ET",
+          "published_at": "2026-07-26 09:57:53 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 96,
           "key_data": [
-            "20 Years Ago, a Feature Documentary Announced the Death of the Electric Car"
+            "On Heels of World Cup, Polo Star Nacho Figueras Says Horseback Sport Has “All the Ingredients to Be the Next Big Thing”"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3867,25 +3870,25 @@
           ]
         },
         {
-          "id": "hollywood-5-5826837760465543375",
-          "key": "hollywood-5-5826837760465543375",
+          "id": "hollywood-7-1441602557268460855",
+          "key": "hollywood-7-1441602557268460855",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Hollywood’s open secret: It’s battling AI — and already addicted to it - Los Angeles Times",
-          "title": "Hollywood’s open secret: It’s battling AI — and already addicted to it - Los Angeles Times",
-          "snapshot": "Hollywood’s open secret: It’s battling AI — and already addicted to it Los Angeles Times",
-          "summary": "Hollywood’s open secret: It’s battling AI — and already addicted to it Los Angeles Times",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSWctUXdFeEpzMHZ1a2hEVy1DbC1ENDhsQWRiTDFqOWxub3lSUDNSQXRZSjkzbzlxaGNkQmdVUV95c3FlS0FCc25LZWRYMy1nSzlwV2FFLWRNTVkwVEdVQWlyNV9SNy1CUzJIVVN0UHVkUU1vUTVHLVh2SklKNmw4QmZ3SXJSRE1WLXk1QWpmSWVVX29yeS1lN1B4bXJQNVdHZFZxbmcyRGhONkFlYTBDZlg2SHpqWFAtX19HSkk4UVQ5SDQ?oc=5",
+          "headline": "LA’s film decline needs urgent action — or Hollywood is dead - New York Post",
+          "title": "LA’s film decline needs urgent action — or Hollywood is dead - New York Post",
+          "snapshot": "LA’s film decline needs urgent action — or Hollywood is dead New York Post",
+          "summary": "LA’s film decline needs urgent action — or Hollywood is dead New York Post",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONllFc2E3NDdXTVpqYkxVM19SelFJM0ZMcnVpMWpyTnZTMlU5VHBCMUJrVDdLalhBdG4zWHp3Z2lBOGkwNEllYTV1bzJ5bDVGRzJob1hKQ2RoZjdxXzl2QUphZ1h1bGVaZUVMVTVWUTJRS3VkRjAtQURybGVrLXo0VDJXTVcwZVVoWHlGZmUwQ3ZRbmM0d0FSUTFtNno?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-07-26 06:01:00 AM ET",
+          "published_at": "2026-07-26 07:37:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 95,
+          "priority_score": 93,
           "key_data": [
-            "Hollywood’s open secret: It’s battling AI — and already addicted to it - Los Angeles Times"
+            "LA’s film decline needs urgent action — or Hollywood is dead - New York Post"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3895,8 +3898,8 @@
           ]
         },
         {
-          "id": "hollywood-1-9019849171929259413",
-          "key": "hollywood-1-9019849171929259413",
+          "id": "hollywood-1-414407424471655793",
+          "key": "hollywood-1-414407424471655793",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘Am I Supposed to be a Comedian?’: Donald Trump’s Bizarre White House Correspondent’s Dinner Speech Had Few Laughing",
@@ -3923,25 +3926,25 @@
           ]
         },
         {
-          "id": "hollywood-3-461120010988674353",
-          "key": "hollywood-3-461120010988674353",
+          "id": "hollywood-3-9006707992190522322",
+          "key": "hollywood-3-9006707992190522322",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "‘The Odyssey’s $87M Second Weekend A Record For Christopher Nolan, Besting ‘Dark Knight’ – Sunday Box Office Update",
-          "title": "‘The Odyssey’s $87M Second Weekend A Record For Christopher Nolan, Besting ‘Dark Knight’ – Sunday Box Office Update",
-          "snapshot": "SUNDAY AM WRITETHRU: Universal’s The Odyssey remained muscular after a near $26M Friday and $34.6M Saturday, posting Christopher Nolan’s best second weekend ever at the domestic box office with $87M. That’s also, as we told you before the weekend got underway, the best second weekend for a R-rated movie after Deadpo...",
-          "summary": "SUNDAY AM WRITETHRU: Universal’s The Odyssey remained muscular after a near $26M Friday and $34.6M Saturday, posting Christopher Nolan’s best second weekend ever at the domestic box office with $87M. That’s also, as we told you before the weekend got underway, the best second weekend for a R-rated movie after Deadpo...",
-          "url": "https://deadline.com/2026/07/box-office-the-odyssey-motor-city-her-private-hell-hadestown-1237002537/",
+          "headline": "Mary Beth Barone Says She & Benito Skinner Tried To “Get Out” Of ‘Ride’ Podcast Contract Over Dear Media CEO’s Politics: “Hard To Reconcile That”",
+          "title": "Mary Beth Barone Says She & Benito Skinner Tried To “Get Out” Of ‘Ride’ Podcast Contract Over Dear Media CEO’s Politics: “Hard To Reconcile That”",
+          "snapshot": "After Season 4 of Ride debuted this month, Mary Beth Barone is explaining why she and Benito Skinner have tried to get out of their Dear Media podcast contract. The Galaxy Brain comedian explained that they “did try to get out of the contract” for their podcast that launched in 2023 but “were not able […]",
+          "summary": "After Season 4 of Ride debuted this month, Mary Beth Barone is explaining why she and Benito Skinner have tried to get out of their Dear Media podcast contract. The Galaxy Brain comedian explained that they “did try to get out of the contract” for their podcast that launched in 2023 but “were not able […]",
+          "url": "https://deadline.com/2026/07/mary-beth-barone-benito-skinner-tried-get-out-podcast-contract-1237004136/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/feed/",
-          "published_at": "2026-07-26 10:54:00 AM ET",
+          "published_at": "2026-07-26 08:31:37 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 97,
           "key_data": [
-            "‘The Odyssey’s $87M Second Weekend A Record For Christopher Nolan, Besting ‘Dark Knight’ – Sunday Box Office Update"
+            "Mary Beth Barone Says She & Benito Skinner Tried To “Get Out” Of ‘Ride’ Podcast Contract Over Dear Media CEO’s Politics: “Hard To Reconcile That”"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3951,25 +3954,53 @@
           ]
         },
         {
-          "id": "hollywood-6-2514554939832682110",
-          "key": "hollywood-6-2514554939832682110",
+          "id": "hollywood-5-3080568689646973174",
+          "key": "hollywood-5-3080568689646973174",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "The life of a Hollywood freelancer - marketplace.org",
-          "title": "The life of a Hollywood freelancer - marketplace.org",
-          "snapshot": "The life of a Hollywood freelancer marketplace.org",
-          "summary": "The life of a Hollywood freelancer marketplace.org",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeC04a2x1Y1BMOUJuemdSWktfYVY3bjVESjVreXZpT05lc003andjaGNac0NJeGJqWTJMVmJzZGI0RUdrcF9UNE1MeHZOdUg2RnhMT0dpVUlBSXU5V1d4VWhZMVZPeVY0OEhSellBRkE0M1NocExXRV9naWYyR3A2U0NINmNqLWtfRU1KRldSTEJPdG1ySlJrQ1J2ZzdGUnRwaURIQVF3?oc=5",
-          "source": "Google News",
-          "source_name": "Google News",
-          "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-07-23 05:18:00 PM ET",
+          "headline": "Martin Scorsese Stars in ‘Family Blend’ Directed by Daughter Francesca for Coffee Brand Lavazza",
+          "title": "Martin Scorsese Stars in ‘Family Blend’ Directed by Daughter Francesca for Coffee Brand Lavazza",
+          "snapshot": "The iconic filmmaker jumps in front of the camera to star opposite his daughter in the five-episode branded series, which features cameos from Jason Biggs and Adrien Brody.",
+          "summary": "The iconic filmmaker jumps in front of the camera to star opposite his daughter in the five-episode branded series, which features cameos from Jason Biggs and Adrien Brody.",
+          "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/martin-scorsese-daughter-francesca-lavazza-coffee-series-1236656911/",
+          "source": "The Hollywood Reporter",
+          "source_name": "The Hollywood Reporter",
+          "source_feed": "https://www.hollywoodreporter.com/feed/",
+          "published_at": "2026-07-26 07:53:25 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 94,
+          "priority_score": 95,
           "key_data": [
-            "The life of a Hollywood freelancer - marketplace.org"
+            "Martin Scorsese Stars in ‘Family Blend’ Directed by Daughter Francesca for Coffee Brand Lavazza"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-8-5260491248659713204",
+          "key": "hollywood-8-5260491248659713204",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "Hollywood’s open secret: It’s battling AI — and already addicted to it - Los Angeles Times",
+          "title": "Hollywood’s open secret: It’s battling AI — and already addicted to it - Los Angeles Times",
+          "snapshot": "Hollywood’s open secret: It’s battling AI — and already addicted to it Los Angeles Times",
+          "summary": "Hollywood’s open secret: It’s battling AI — and already addicted to it Los Angeles Times",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSWctUXdFeEpzMHZ1a2hEVy1DbC1ENDhsQWRiTDFqOWxub3lSUDNSQXRZSjkzbzlxaGNkQmdVUV95c3FlS0FCc25LZWRYMy1nSzlwV2FFLWRNTVkwVEdVQWlyNV9SNy1CUzJIVVN0UHVkUU1vUTVHLVh2SklKNmw4QmZ3SXJSRE1WLXk1QWpmSWVVX29yeS1lN1B4bXJQNVdHZFZxbmcyRGhONkFlYTBDZlg2SHpqWFAtX19HSkk4UVQ5SDQ?oc=5",
+          "source": "Google News",
+          "source_name": "Google News",
+          "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-26 06:01:00 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 92,
+          "key_data": [
+            "Hollywood’s open secret: It’s battling AI — and already addicted to it - Los Angeles Times"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3981,8 +4012,8 @@
       ],
       "items": [
         {
-          "id": "hollywood-0-7149873499695973625",
-          "key": "hollywood-0-7149873499695973625",
+          "id": "hollywood-0-1690009118554861481",
+          "key": "hollywood-0-1690009118554861481",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Gay Romance Podcast ‘Drive Thru Magic’ Casts Daniel J. Kim and Danielle Kennedy, Sets September Release Date (EXCLUSIVE)",
@@ -4009,25 +4040,25 @@
           ]
         },
         {
-          "id": "hollywood-2-8956976544023404313",
-          "key": "hollywood-2-8956976544023404313",
+          "id": "hollywood-2-5609442958885625365",
+          "key": "hollywood-2-5609442958885625365",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "‘The Odyssey’ Holds Strong Worldwide, Cume Near $640M; ‘Toy Story 5’ Third Pic YTD To Cross $1B WW – Global Box Office Update",
-          "title": "‘The Odyssey’ Holds Strong Worldwide, Cume Near $640M; ‘Toy Story 5’ Third Pic YTD To Cross $1B WW – Global Box Office Update",
-          "snapshot": "Refresh for updates…Christopher Nolan’s The Odyssey is just laying siege and holding the box office fort at the domestic box office, but worldwide. OMG, the second global weekend was $215.3M, a -18% dip from the Universal pic’s opening which was $263.7M WW. Of that global total, Imax is driving $140M or 53%. Soon, U...",
-          "summary": "Refresh for updates…Christopher Nolan’s The Odyssey is just laying siege and holding the box office fort at the domestic box office, but worldwide. OMG, the second global weekend was $215.3M, a -18% dip from the Universal pic’s opening which was $263.7M WW. Of that global total, Imax is driving $140M or 53%. Soon, U...",
-          "url": "https://deadline.com/2026/07/box-office-global-the-odyssey-toy-story-5-1237004022/",
+          "headline": "Dylan Mulvaney Responds To Trump’s WHCD “Diss Track,” Feels Like “The One That Got Away” For MAGA Men",
+          "title": "Dylan Mulvaney Responds To Trump’s WHCD “Diss Track,” Feels Like “The One That Got Away” For MAGA Men",
+          "snapshot": "More than three years after sparking conservative backlash with her Bud Light social media partnership, Dylan Mulvaney was as surprised as anyone to hear her name in Donald Trump’s mouth at the rescheduled White House Correspondents’ Dinner. Counting “four times” the POTUS mentioned her name in his speech on Friday,...",
+          "summary": "More than three years after sparking conservative backlash with her Bud Light social media partnership, Dylan Mulvaney was as surprised as anyone to hear her name in Donald Trump’s mouth at the rescheduled White House Correspondents’ Dinner. Counting “four times” the POTUS mentioned her name in his speech on Friday,...",
+          "url": "https://deadline.com/2026/07/dylan-mulvaney-responds-trump-whcd-diss-track-1237004142/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/feed/",
-          "published_at": "2026-07-26 12:43:00 PM ET",
+          "published_at": "2026-07-26 10:08:26 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 98,
           "key_data": [
-            "‘The Odyssey’ Holds Strong Worldwide, Cume Near $640M; ‘Toy Story 5’ Third Pic YTD To Cross $1B WW – Global Box Office Update"
+            "Dylan Mulvaney Responds To Trump’s WHCD “Diss Track,” Feels Like “The One That Got Away” For MAGA Men"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4037,25 +4068,25 @@
           ]
         },
         {
-          "id": "hollywood-4-537542867550965823",
-          "key": "hollywood-4-537542867550965823",
+          "id": "hollywood-4-5034050613965666677",
+          "key": "hollywood-4-5034050613965666677",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "20 Years Ago, a Feature Documentary Announced the Death of the Electric Car",
-          "title": "20 Years Ago, a Feature Documentary Announced the Death of the Electric Car",
-          "snapshot": "Long before the Tesla revolution, Sony Pictures Classics' ‘Who Killed the Electric Car?’ investigated why GM discontinued the beloved EV1.",
-          "summary": "Long before the Tesla revolution, Sony Pictures Classics' ‘Who Killed the Electric Car?’ investigated why GM discontinued the beloved EV1.",
-          "url": "https://www.hollywoodreporter.com/movies/movie-features/who-killed-the-electric-car-documentary-turns-20-1236653339/",
+          "headline": "On Heels of World Cup, Polo Star Nacho Figueras Says Horseback Sport Has “All the Ingredients to Be the Next Big Thing”",
+          "title": "On Heels of World Cup, Polo Star Nacho Figueras Says Horseback Sport Has “All the Ingredients to Be the Next Big Thing”",
+          "snapshot": "The Argentine sporting legend says he's working on an 'F1 version of polo,' while testing pitches for a scripted series as well.",
+          "summary": "The Argentine sporting legend says he's working on an 'F1 version of polo,' while testing pitches for a scripted series as well.",
+          "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/nacho-figueras-talks-polo-show-st-regis-cowdray-gold-cup-1236655651/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/feed/",
-          "published_at": "2026-07-26 02:00:00 PM ET",
+          "published_at": "2026-07-26 09:57:53 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 96,
           "key_data": [
-            "20 Years Ago, a Feature Documentary Announced the Death of the Electric Car"
+            "On Heels of World Cup, Polo Star Nacho Figueras Says Horseback Sport Has “All the Ingredients to Be the Next Big Thing”"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4065,25 +4096,25 @@
           ]
         },
         {
-          "id": "hollywood-5-5826837760465543375",
-          "key": "hollywood-5-5826837760465543375",
+          "id": "hollywood-7-1441602557268460855",
+          "key": "hollywood-7-1441602557268460855",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Hollywood’s open secret: It’s battling AI — and already addicted to it - Los Angeles Times",
-          "title": "Hollywood’s open secret: It’s battling AI — and already addicted to it - Los Angeles Times",
-          "snapshot": "Hollywood’s open secret: It’s battling AI — and already addicted to it Los Angeles Times",
-          "summary": "Hollywood’s open secret: It’s battling AI — and already addicted to it Los Angeles Times",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSWctUXdFeEpzMHZ1a2hEVy1DbC1ENDhsQWRiTDFqOWxub3lSUDNSQXRZSjkzbzlxaGNkQmdVUV95c3FlS0FCc25LZWRYMy1nSzlwV2FFLWRNTVkwVEdVQWlyNV9SNy1CUzJIVVN0UHVkUU1vUTVHLVh2SklKNmw4QmZ3SXJSRE1WLXk1QWpmSWVVX29yeS1lN1B4bXJQNVdHZFZxbmcyRGhONkFlYTBDZlg2SHpqWFAtX19HSkk4UVQ5SDQ?oc=5",
+          "headline": "LA’s film decline needs urgent action — or Hollywood is dead - New York Post",
+          "title": "LA’s film decline needs urgent action — or Hollywood is dead - New York Post",
+          "snapshot": "LA’s film decline needs urgent action — or Hollywood is dead New York Post",
+          "summary": "LA’s film decline needs urgent action — or Hollywood is dead New York Post",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONllFc2E3NDdXTVpqYkxVM19SelFJM0ZMcnVpMWpyTnZTMlU5VHBCMUJrVDdLalhBdG4zWHp3Z2lBOGkwNEllYTV1bzJ5bDVGRzJob1hKQ2RoZjdxXzl2QUphZ1h1bGVaZUVMVTVWUTJRS3VkRjAtQURybGVrLXo0VDJXTVcwZVVoWHlGZmUwQ3ZRbmM0d0FSUTFtNno?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-07-26 06:01:00 AM ET",
+          "published_at": "2026-07-26 07:37:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 95,
+          "priority_score": 93,
           "key_data": [
-            "Hollywood’s open secret: It’s battling AI — and already addicted to it - Los Angeles Times"
+            "LA’s film decline needs urgent action — or Hollywood is dead - New York Post"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4093,8 +4124,8 @@
           ]
         },
         {
-          "id": "hollywood-1-9019849171929259413",
-          "key": "hollywood-1-9019849171929259413",
+          "id": "hollywood-1-414407424471655793",
+          "key": "hollywood-1-414407424471655793",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘Am I Supposed to be a Comedian?’: Donald Trump’s Bizarre White House Correspondent’s Dinner Speech Had Few Laughing",
@@ -4121,25 +4152,25 @@
           ]
         },
         {
-          "id": "hollywood-3-461120010988674353",
-          "key": "hollywood-3-461120010988674353",
+          "id": "hollywood-3-9006707992190522322",
+          "key": "hollywood-3-9006707992190522322",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "‘The Odyssey’s $87M Second Weekend A Record For Christopher Nolan, Besting ‘Dark Knight’ – Sunday Box Office Update",
-          "title": "‘The Odyssey’s $87M Second Weekend A Record For Christopher Nolan, Besting ‘Dark Knight’ – Sunday Box Office Update",
-          "snapshot": "SUNDAY AM WRITETHRU: Universal’s The Odyssey remained muscular after a near $26M Friday and $34.6M Saturday, posting Christopher Nolan’s best second weekend ever at the domestic box office with $87M. That’s also, as we told you before the weekend got underway, the best second weekend for a R-rated movie after Deadpo...",
-          "summary": "SUNDAY AM WRITETHRU: Universal’s The Odyssey remained muscular after a near $26M Friday and $34.6M Saturday, posting Christopher Nolan’s best second weekend ever at the domestic box office with $87M. That’s also, as we told you before the weekend got underway, the best second weekend for a R-rated movie after Deadpo...",
-          "url": "https://deadline.com/2026/07/box-office-the-odyssey-motor-city-her-private-hell-hadestown-1237002537/",
+          "headline": "Mary Beth Barone Says She & Benito Skinner Tried To “Get Out” Of ‘Ride’ Podcast Contract Over Dear Media CEO’s Politics: “Hard To Reconcile That”",
+          "title": "Mary Beth Barone Says She & Benito Skinner Tried To “Get Out” Of ‘Ride’ Podcast Contract Over Dear Media CEO’s Politics: “Hard To Reconcile That”",
+          "snapshot": "After Season 4 of Ride debuted this month, Mary Beth Barone is explaining why she and Benito Skinner have tried to get out of their Dear Media podcast contract. The Galaxy Brain comedian explained that they “did try to get out of the contract” for their podcast that launched in 2023 but “were not able […]",
+          "summary": "After Season 4 of Ride debuted this month, Mary Beth Barone is explaining why she and Benito Skinner have tried to get out of their Dear Media podcast contract. The Galaxy Brain comedian explained that they “did try to get out of the contract” for their podcast that launched in 2023 but “were not able […]",
+          "url": "https://deadline.com/2026/07/mary-beth-barone-benito-skinner-tried-get-out-podcast-contract-1237004136/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/feed/",
-          "published_at": "2026-07-26 10:54:00 AM ET",
+          "published_at": "2026-07-26 08:31:37 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 97,
           "key_data": [
-            "‘The Odyssey’s $87M Second Weekend A Record For Christopher Nolan, Besting ‘Dark Knight’ – Sunday Box Office Update"
+            "Mary Beth Barone Says She & Benito Skinner Tried To “Get Out” Of ‘Ride’ Podcast Contract Over Dear Media CEO’s Politics: “Hard To Reconcile That”"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4149,25 +4180,53 @@
           ]
         },
         {
-          "id": "hollywood-6-2514554939832682110",
-          "key": "hollywood-6-2514554939832682110",
+          "id": "hollywood-5-3080568689646973174",
+          "key": "hollywood-5-3080568689646973174",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "The life of a Hollywood freelancer - marketplace.org",
-          "title": "The life of a Hollywood freelancer - marketplace.org",
-          "snapshot": "The life of a Hollywood freelancer marketplace.org",
-          "summary": "The life of a Hollywood freelancer marketplace.org",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeC04a2x1Y1BMOUJuemdSWktfYVY3bjVESjVreXZpT05lc003andjaGNac0NJeGJqWTJMVmJzZGI0RUdrcF9UNE1MeHZOdUg2RnhMT0dpVUlBSXU5V1d4VWhZMVZPeVY0OEhSellBRkE0M1NocExXRV9naWYyR3A2U0NINmNqLWtfRU1KRldSTEJPdG1ySlJrQ1J2ZzdGUnRwaURIQVF3?oc=5",
-          "source": "Google News",
-          "source_name": "Google News",
-          "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-07-23 05:18:00 PM ET",
+          "headline": "Martin Scorsese Stars in ‘Family Blend’ Directed by Daughter Francesca for Coffee Brand Lavazza",
+          "title": "Martin Scorsese Stars in ‘Family Blend’ Directed by Daughter Francesca for Coffee Brand Lavazza",
+          "snapshot": "The iconic filmmaker jumps in front of the camera to star opposite his daughter in the five-episode branded series, which features cameos from Jason Biggs and Adrien Brody.",
+          "summary": "The iconic filmmaker jumps in front of the camera to star opposite his daughter in the five-episode branded series, which features cameos from Jason Biggs and Adrien Brody.",
+          "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/martin-scorsese-daughter-francesca-lavazza-coffee-series-1236656911/",
+          "source": "The Hollywood Reporter",
+          "source_name": "The Hollywood Reporter",
+          "source_feed": "https://www.hollywoodreporter.com/feed/",
+          "published_at": "2026-07-26 07:53:25 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 94,
+          "priority_score": 95,
           "key_data": [
-            "The life of a Hollywood freelancer - marketplace.org"
+            "Martin Scorsese Stars in ‘Family Blend’ Directed by Daughter Francesca for Coffee Brand Lavazza"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-8-5260491248659713204",
+          "key": "hollywood-8-5260491248659713204",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "Hollywood’s open secret: It’s battling AI — and already addicted to it - Los Angeles Times",
+          "title": "Hollywood’s open secret: It’s battling AI — and already addicted to it - Los Angeles Times",
+          "snapshot": "Hollywood’s open secret: It’s battling AI — and already addicted to it Los Angeles Times",
+          "summary": "Hollywood’s open secret: It’s battling AI — and already addicted to it Los Angeles Times",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSWctUXdFeEpzMHZ1a2hEVy1DbC1ENDhsQWRiTDFqOWxub3lSUDNSQXRZSjkzbzlxaGNkQmdVUV95c3FlS0FCc25LZWRYMy1nSzlwV2FFLWRNTVkwVEdVQWlyNV9SNy1CUzJIVVN0UHVkUU1vUTVHLVh2SklKNmw4QmZ3SXJSRE1WLXk1QWpmSWVVX29yeS1lN1B4bXJQNVdHZFZxbmcyRGhONkFlYTBDZlg2SHpqWFAtX19HSkk4UVQ5SDQ?oc=5",
+          "source": "Google News",
+          "source_name": "Google News",
+          "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-07-26 06:01:00 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 92,
+          "key_data": [
+            "Hollywood’s open secret: It’s battling AI — and already addicted to it - Los Angeles Times"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4177,7 +4236,7 @@
           ]
         }
       ],
-      "updated_at": "2026-07-26 07:07:17 PM ET"
+      "updated_at": "2026-07-26 11:18:10 PM ET"
     },
     {
       "key": "gaming",
@@ -4199,8 +4258,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "gaming-0-2750502023293516455",
-          "key": "gaming-0-2750502023293516455",
+          "id": "gaming-0-2233377777089760220",
+          "key": "gaming-0-2233377777089760220",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Magic: The Gathering's Top 12 Most Powerful Commander Precons Of All Time",
@@ -4227,8 +4286,8 @@
           ]
         },
         {
-          "id": "gaming-20-7947563464531157329",
-          "key": "gaming-20-7947563464531157329",
+          "id": "gaming-20-2713495116117563092",
+          "key": "gaming-20-2713495116117563092",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Prime Video just became a gaming platform - Morning Brew",
@@ -4255,8 +4314,8 @@
           ]
         },
         {
-          "id": "gaming-1-3621188301573552107",
-          "key": "gaming-1-3621188301573552107",
+          "id": "gaming-1-1242181002760803587",
+          "key": "gaming-1-1242181002760803587",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "The Best Deals Today: Saros, Mega Man Star Force Legacy Collection, DJI Mini 4K, and More",
@@ -4283,8 +4342,8 @@
           ]
         },
         {
-          "id": "gaming-21-1021207780048187351",
-          "key": "gaming-21-1021207780048187351",
+          "id": "gaming-21-5154060111248545948",
+          "key": "gaming-21-5154060111248545948",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Video Games | Pros, Cons, Debate, Arguments, Digital Media, Play, Violence, Aggression, & Conflict - Encyclopedia Britannica",
@@ -4313,8 +4372,8 @@
       ],
       "items": [
         {
-          "id": "gaming-0-2750502023293516455",
-          "key": "gaming-0-2750502023293516455",
+          "id": "gaming-0-2233377777089760220",
+          "key": "gaming-0-2233377777089760220",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Magic: The Gathering's Top 12 Most Powerful Commander Precons Of All Time",
@@ -4341,8 +4400,8 @@
           ]
         },
         {
-          "id": "gaming-20-7947563464531157329",
-          "key": "gaming-20-7947563464531157329",
+          "id": "gaming-20-2713495116117563092",
+          "key": "gaming-20-2713495116117563092",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Prime Video just became a gaming platform - Morning Brew",
@@ -4369,8 +4428,8 @@
           ]
         },
         {
-          "id": "gaming-1-3621188301573552107",
-          "key": "gaming-1-3621188301573552107",
+          "id": "gaming-1-1242181002760803587",
+          "key": "gaming-1-1242181002760803587",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "The Best Deals Today: Saros, Mega Man Star Force Legacy Collection, DJI Mini 4K, and More",
@@ -4397,8 +4456,8 @@
           ]
         },
         {
-          "id": "gaming-21-1021207780048187351",
-          "key": "gaming-21-1021207780048187351",
+          "id": "gaming-21-5154060111248545948",
+          "key": "gaming-21-5154060111248545948",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Video Games | Pros, Cons, Debate, Arguments, Digital Media, Play, Violence, Aggression, & Conflict - Encyclopedia Britannica",
@@ -4425,7 +4484,7 @@
           ]
         }
       ],
-      "updated_at": "2026-07-26 07:07:18 PM ET"
+      "updated_at": "2026-07-26 11:18:10 PM ET"
     },
     {
       "key": "media",
@@ -4449,8 +4508,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "media-0-7863187346694968228",
-          "key": "media-0-7863187346694968228",
+          "id": "media-0-178086338133259136",
+          "key": "media-0-178086338133259136",
           "category": "Media",
           "label": "Media",
           "headline": "‘Haunting Adeline’ Adult Graphic Novels in the Works Based on H.D. Carlton’s Divisive Dark Romance Amid Film Adaptation Backlash (EXCLUSIVE)",
@@ -4477,8 +4536,8 @@
           ]
         },
         {
-          "id": "media-10-300841849731220075",
-          "key": "media-10-300841849731220075",
+          "id": "media-10-1391984988585932865",
+          "key": "media-10-1391984988585932865",
           "category": "Media",
           "label": "Media",
           "headline": "Inside The Room At The Rescheduled WHCA Dinner As Donald Trump Tried Rickles-Like Rally Schtick, But Was Met With The Sounds Of Silence",
@@ -4505,8 +4564,8 @@
           ]
         },
         {
-          "id": "media-22-578846789901854299",
-          "key": "media-22-578846789901854299",
+          "id": "media-21-3624748205194033292",
+          "key": "media-21-3624748205194033292",
           "category": "Media",
           "label": "Media",
           "headline": "40 Under 40 in Digital Entertainment, Class of 2026 - Media Play News",
@@ -4521,7 +4580,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 78,
+          "priority_score": 79,
           "key_data": [
             "40 Under 40 in Digital Entertainment, Class of 2026 - Media Play News"
           ],
@@ -4533,8 +4592,8 @@
           ]
         },
         {
-          "id": "media-1-984958342939925203",
-          "key": "media-1-984958342939925203",
+          "id": "media-1-7167233850664405029",
+          "key": "media-1-7167233850664405029",
           "category": "Media",
           "label": "Media",
           "headline": "Josh Sapan on Life After AMC Networks and Championing Disability on Screen: ‘Neurodivergent Artists Just Bring Something Unique in How They See the World’",
@@ -4561,8 +4620,8 @@
           ]
         },
         {
-          "id": "media-11-855210534640150450",
-          "key": "media-11-855210534640150450",
+          "id": "media-11-2344007382282979286",
+          "key": "media-11-2344007382282979286",
           "category": "Media",
           "label": "Media",
           "headline": "Donald Trump Delivers Rally-Like Hour Of Rehash In White House Correspondents’ Dinner Speech",
@@ -4591,8 +4650,8 @@
       ],
       "items": [
         {
-          "id": "media-0-7863187346694968228",
-          "key": "media-0-7863187346694968228",
+          "id": "media-0-178086338133259136",
+          "key": "media-0-178086338133259136",
           "category": "Media",
           "label": "Media",
           "headline": "‘Haunting Adeline’ Adult Graphic Novels in the Works Based on H.D. Carlton’s Divisive Dark Romance Amid Film Adaptation Backlash (EXCLUSIVE)",
@@ -4619,8 +4678,8 @@
           ]
         },
         {
-          "id": "media-10-300841849731220075",
-          "key": "media-10-300841849731220075",
+          "id": "media-10-1391984988585932865",
+          "key": "media-10-1391984988585932865",
           "category": "Media",
           "label": "Media",
           "headline": "Inside The Room At The Rescheduled WHCA Dinner As Donald Trump Tried Rickles-Like Rally Schtick, But Was Met With The Sounds Of Silence",
@@ -4647,8 +4706,8 @@
           ]
         },
         {
-          "id": "media-22-578846789901854299",
-          "key": "media-22-578846789901854299",
+          "id": "media-21-3624748205194033292",
+          "key": "media-21-3624748205194033292",
           "category": "Media",
           "label": "Media",
           "headline": "40 Under 40 in Digital Entertainment, Class of 2026 - Media Play News",
@@ -4663,7 +4722,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 78,
+          "priority_score": 79,
           "key_data": [
             "40 Under 40 in Digital Entertainment, Class of 2026 - Media Play News"
           ],
@@ -4675,8 +4734,8 @@
           ]
         },
         {
-          "id": "media-1-984958342939925203",
-          "key": "media-1-984958342939925203",
+          "id": "media-1-7167233850664405029",
+          "key": "media-1-7167233850664405029",
           "category": "Media",
           "label": "Media",
           "headline": "Josh Sapan on Life After AMC Networks and Championing Disability on Screen: ‘Neurodivergent Artists Just Bring Something Unique in How They See the World’",
@@ -4703,8 +4762,8 @@
           ]
         },
         {
-          "id": "media-11-855210534640150450",
-          "key": "media-11-855210534640150450",
+          "id": "media-11-2344007382282979286",
+          "key": "media-11-2344007382282979286",
           "category": "Media",
           "label": "Media",
           "headline": "Donald Trump Delivers Rally-Like Hour Of Rehash In White House Correspondents’ Dinner Speech",
@@ -4731,7 +4790,7 @@
           ]
         }
       ],
-      "updated_at": "2026-07-26 07:07:19 PM ET"
+      "updated_at": "2026-07-26 11:18:12 PM ET"
     }
   ]
 }
