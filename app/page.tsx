@@ -3,6 +3,7 @@ import type { ReactNode } from "react";
 import EditorialStandard from "@/components/EditorialStandard";
 import SocialIconLinks from "@/app/SocialIconLinks";
 import { loadReport } from "@/app/report-data";
+import { formatUpdatedAt } from "@/lib/formatUpdatedAt";
 
 export const dynamic = "force-dynamic";
 export const revalidate = 0;
@@ -741,11 +742,11 @@ export default async function Page() {
       ? cleanText(report.snapshot)
       : "A live entertainment briefing built for journalists tracking studios, streaming, film, television, music, talent, audience behavior and media business.";
 
-  const updated =
+  const updated = formatUpdatedAt(
     cleanText(report.updated_at) ||
-    cleanText(report.generated_at) ||
-    cleanText(report.published_at) ||
-    "Update time unavailable";
+      cleanText(report.generated_at) ||
+      cleanText(report.published_at),
+  );
 
   if (!stories.length) {
     stories = [
