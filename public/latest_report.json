@@ -4,14 +4,14 @@
   "site_name": "Global Entertainment Report",
   "vertical": "Entertainment",
   "headline": "'Spider-Man: Brand New Day' Obliterates Expectations With $927 Million Global Debut",
-  "snapshot": "Global Entertainment Report accepted 51 real RSS item(s) across 31 checked feed request(s).",
-  "generated_at": "2026-08-02 01:00:16 PM ET",
-  "updated_at": "2026-08-02 01:00:16 PM ET",
-  "published_at": "2026-08-02 01:00:16 PM ET",
+  "snapshot": "Global Entertainment Report accepted 52 real RSS item(s) across 31 checked feed request(s).",
+  "generated_at": "2026-08-02 03:11:16 PM ET",
+  "updated_at": "2026-08-02 03:11:16 PM ET",
+  "published_at": "2026-08-02 03:11:16 PM ET",
   "source_mode": "live RSS ingestion",
   "freshness": {
     "max_item_age_hours": 336,
-    "accepted_real_items": 51,
+    "accepted_real_items": 52,
     "checked_feeds": 31,
     "feeds_without_accepted_items": 5
   },
@@ -131,12 +131,12 @@
       "url": "https://news.google.com/rss/search?q=streaming+netflix+hulu+disney+entertainment&hl=en-US&gl=US&ceid=US:en",
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=streaming+netflix+hulu+disney+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "item_count": 69,
+      "item_count": 70,
       "accepted_count": 2,
-      "rejected_count": 64,
+      "rejected_count": 65,
       "rejection_reasons": {
         "duplicate-story": 1,
-        "stale-over-336h": 63
+        "stale-over-336h": 64
       }
     },
     {
@@ -224,8 +224,10 @@
       "final_url": "https://variety.com/v/film/box-office/feed/",
       "item_count": 10,
       "accepted_count": 2,
-      "rejected_count": 0,
-      "rejection_reasons": {}
+      "rejected_count": 3,
+      "rejection_reasons": {
+        "duplicate-story": 3
+      }
     },
     {
       "category": "box_office",
@@ -234,10 +236,10 @@
       "final_url": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 64,
+      "rejected_count": 68,
       "rejection_reasons": {
-        "duplicate-story": 2,
-        "stale-over-336h": 62
+        "duplicate-story": 3,
+        "stale-over-336h": 65
       }
     },
     {
@@ -270,10 +272,10 @@
       "status_code": "200",
       "final_url": "https://variety.com/feed/",
       "item_count": 10,
-      "accepted_count": 1,
-      "rejected_count": 9,
+      "accepted_count": 2,
+      "rejected_count": 8,
       "rejection_reasons": {
-        "duplicate-story": 9
+        "duplicate-story": 8
       }
     },
     {
@@ -283,9 +285,9 @@
       "final_url": "https://deadline.com/feed/",
       "item_count": 12,
       "accepted_count": 2,
-      "rejected_count": 10,
+      "rejected_count": 6,
       "rejection_reasons": {
-        "duplicate-story": 10
+        "duplicate-story": 6
       }
     },
     {
@@ -295,9 +297,9 @@
       "final_url": "https://www.hollywoodreporter.com/feed/",
       "item_count": 10,
       "accepted_count": 2,
-      "rejected_count": 7,
+      "rejected_count": 5,
       "rejection_reasons": {
-        "duplicate-story": 7
+        "duplicate-story": 5
       }
     },
     {
@@ -377,15 +379,15 @@
     "Haile Gerima Dissects His 10 Hour Documentary Feature 'Black Lions - Roman Wolves' & Teases His Next Project On America's Black Maroons",
     "'Spider-Man: Brand New Day' Soars to $355M for Second-Biggest Opening Weekend Ever",
     "I'm a Parenting Editor, and These Are the 2026 Kids' Movies I'm Most Excited About - Good Housekeeping",
-    "Here's Where to Watch WWE SummerSlam 2026 Live Online for Free",
-    "Elden Ring Players Are Hoping for Godwyn DLC After FromSoftware Shares Cryptic Social Media Post",
+    "Morgan Wallen's 'I'm the Problem' Back at No. 1 on Billboard 200 for 14th Week",
+    "The Best Deals Today: Mega Man Star Force Legacy Collection, Saros, Death Stranding 2, and More",
     "'Spider-Man: Brand New Day' and 'The Odyssey' Power Biggest Collective Weekend in Box Office History With $430 Million",
     "'A Life Illuminated': Of Bioluminescence, Mysterious Sea Creatures, And A Woman Scientist's Groundbreaking Quest"
   ],
   "live_newsroom": [
     {
-      "id": "film-0-1381721181838048149",
-      "key": "film-0-1381721181838048149",
+      "id": "film-0-6853877693171492633",
+      "key": "film-0-6853877693171492633",
       "category": "Film",
       "label": "Film",
       "headline": "'Spider-Man: Brand New Day' Obliterates Expectations With $927 Million Global Debut",
@@ -411,8 +413,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-9107957831017077591",
-      "key": "film-10-9107957831017077591",
+      "id": "film-10-1547272448335417949",
+      "key": "film-10-1547272448335417949",
       "category": "Film",
       "label": "Film",
       "headline": "Haile Gerima Dissects His 10 Hour Documentary Feature 'Black Lions - Roman Wolves' & Teases His Next Project On America's Black Maroons",
@@ -438,8 +440,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-2669960357595711392",
-      "key": "film-22-2669960357595711392",
+      "id": "film-22-1046363234474740150",
+      "key": "film-22-1046363234474740150",
       "category": "Film",
       "label": "Film",
       "headline": "'Spider-Man: Brand New Day' Soars to $355M for Second-Biggest Opening Weekend Ever",
@@ -465,8 +467,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-2870752597043408452",
-      "key": "film-32-2870752597043408452",
+      "id": "film-32-3396499039019862295",
+      "key": "film-32-3396499039019862295",
       "category": "Film",
       "label": "Film",
       "headline": "I'm a Parenting Editor, and These Are the 2026 Kids' Movies I'm Most Excited About - Good Housekeeping",
@@ -492,22 +494,22 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-2564286731580762217",
-      "key": "music-10-2564286731580762217",
+      "id": "music-10-3579489454939547382",
+      "key": "music-10-3579489454939547382",
       "category": "Music",
       "label": "Music",
-      "headline": "Here's Where to Watch WWE SummerSlam 2026 Live Online for Free",
-      "title": "Here's Where to Watch WWE SummerSlam 2026 Live Online for Free",
-      "snapshot": "Don't miss Roman Reigns vs. Seth Rollins during the wrestling event, with Darius Rucker set to perform \"The Star-Spangled Banner.\"",
-      "summary": "Don't miss Roman Reigns vs. Seth Rollins during the wrestling event, with Darius Rucker set to perform \"The Star-Spangled Banner.\"",
-      "url": "https://www.billboard.com/culture/product-recommendations/wwe-summerslam-2026-how-to-watch-live-online-free-1236303355/",
+      "headline": "Morgan Wallen's 'I'm the Problem' Back at No. 1 on Billboard 200 for 14th Week",
+      "title": "Morgan Wallen's 'I'm the Problem' Back at No. 1 on Billboard 200 for 14th Week",
+      "snapshot": "Plus, Charli xcx's Music, Fashion, Film debuts in the top three.",
+      "summary": "Plus, Charli xcx's Music, Fashion, Film debuts in the top three.",
+      "url": "https://www.billboard.com/music/chart-beat/morgan-wallen-problem-14th-week-number-one-billboard-200-1236307852/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-02 12:55:05 PM ET",
+      "published_at": "2026-08-02 03:00:12 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Here's Where to Watch WWE SummerSlam 2026 Live Online for Free"
+        "Morgan Wallen's 'I'm the Problem' Back at No. 1 on Billboard 200 for 14th Week"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -519,22 +521,22 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-3257336295600145468",
-      "key": "gaming-0-3257336295600145468",
+      "id": "gaming-0-6008960509025283054",
+      "key": "gaming-0-6008960509025283054",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Elden Ring Players Are Hoping for Godwyn DLC After FromSoftware Shares Cryptic Social Media Post",
-      "title": "Elden Ring Players Are Hoping for Godwyn DLC After FromSoftware Shares Cryptic Social Media Post",
-      "snapshot": "It's been two years since FromSoftware released its Shadow of the Erdtree expansion, but a new post from the developer has some fans believing that even more Elden Ring DLC is on the way.",
-      "summary": "It's been two years since FromSoftware released its Shadow of the Erdtree expansion, but a new post from the developer has some fans believing that even more Elden Ring DLC is on the way.",
-      "url": "https://www.ign.com/articles/elden-ring-players-are-hoping-for-godwyn-dlc-after-fromsoftware-shares-cryptic-social-media-post",
+      "headline": "The Best Deals Today: Mega Man Star Force Legacy Collection, Saros, Death Stranding 2, and More",
+      "title": "The Best Deals Today: Mega Man Star Force Legacy Collection, Saros, Death Stranding 2, and More",
+      "snapshot": "A new weekend has arrived, and today, you can save on select LEGO sets, Death Stranding 2, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Sunday, August 2, below. 20% Off the LEGO Pokémon Pikachu and Poké Ball Set Macy's has a great deal today on this LEGO Pokémon Pikachu and Pok...",
+      "summary": "A new weekend has arrived, and today, you can save on select LEGO sets, Death Stranding 2, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Sunday, August 2, below. 20% Off the LEGO Pokémon Pikachu and Poké Ball Set Macy's has a great deal today on this LEGO Pokémon Pikachu and Pok...",
+      "url": "https://www.ign.com/articles/best-deals-for-august-2-2026",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-01 03:59:57 PM ET",
+      "published_at": "2026-08-02 01:18:04 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Elden Ring Players Are Hoping for Godwyn DLC After FromSoftware Shares Cryptic Social Media Post"
+        "The Best Deals Today: Mega Man Star Force Legacy Collection, Saros, Death Stranding 2, and More"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -546,8 +548,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-7159358248814659404",
-      "key": "film-1-7159358248814659404",
+      "id": "film-1-1297575733197989358",
+      "key": "film-1-1297575733197989358",
       "category": "Film",
       "label": "Film",
       "headline": "'Spider-Man: Brand New Day' and 'The Odyssey' Power Biggest Collective Weekend in Box Office History With $430 Million",
@@ -573,8 +575,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-7780541348537086058",
-      "key": "film-11-7780541348537086058",
+      "id": "film-11-8913549249546342451",
+      "key": "film-11-8913549249546342451",
       "category": "Film",
       "label": "Film",
       "headline": "'A Life Illuminated': Of Bioluminescence, Mysterious Sea Creatures, And A Woman Scientist's Groundbreaking Quest",
@@ -600,8 +602,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-4888840293749942018",
-      "key": "film-23-4888840293749942018",
+      "id": "film-23-2395889782223229037",
+      "key": "film-23-2395889782223229037",
       "category": "Film",
       "label": "Film",
       "headline": "'The Days Off' Is a \"Love Letter to That Internet That No Longer Quite Exists\" (Locarno Trailer)",
@@ -627,22 +629,22 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-1621278827995125938",
-      "key": "film-33-1621278827995125938",
+      "id": "film-33-1850099798491815861",
+      "key": "film-33-1850099798491815861",
       "category": "Film",
       "label": "Film",
-      "headline": "Which Spider-Man movie is the best? We ranked them - including 'Brand New Day.' - Yahoo",
-      "title": "Which Spider-Man movie is the best? We ranked them - including 'Brand New Day.' - Yahoo",
-      "snapshot": "Which Spider-Man movie is the best? We ranked them - including 'Brand New Day.' Yahoo",
-      "summary": "Which Spider-Man movie is the best? We ranked them - including 'Brand New Day.' Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMlgtQkp4QmpiUl8zVWdiTDdBSFhCa3A2VlJtZ09NTzRrc0gzMGthdXRybHp1UHI2YXNtTnlMRUxiWjZWbVl2YWhieG1Jb1FqQVVRTC1QcHFoNEJRR2Jfbzdybm5vR3dFQi1zVUV5cFBNdmhiM2FKOW9LMVFZSC14S1E2UEJDVjlIWi03U3hWZEpNa19USGhqOVNUOXFINDM5RXF3RDI0NnduT3NLYmJ1cVp3VTJvcWR6WEJkSHJqeVZBMTFOQjZ0YzQtNEZ4LWNPRWVIOG5lQQ?oc=5",
+      "headline": "New movies to watch this weekend: See 'Spider-Man: Brand New Day' in theaters, rent 'Supergirl,' stream 'The Devil Wears Prada 2' on Disney+ - Yahoo",
+      "title": "New movies to watch this weekend: See 'Spider-Man: Brand New Day' in theaters, rent 'Supergirl,' stream 'The Devil Wears Prada 2' on Disney+ - Yahoo",
+      "snapshot": "New movies to watch this weekend: See 'Spider-Man: Brand New Day' in theaters, rent 'Supergirl,' stream 'The Devil Wears Prada 2' on Disney+ Yahoo",
+      "summary": "New movies to watch this weekend: See 'Spider-Man: Brand New Day' in theaters, rent 'Supergirl,' stream 'The Devil Wears Prada 2' on Disney+ Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQQWs3STRLUUxJR2MtenVVaXh1b2haMVdUM19kZnVUNTZSQzNiMFdUcUVyQ2xxOTBQOExIQkVXeU0tTWpfaUtmeHM5WmdNMnVQdVUwRThxZFJsRlVFUmh6bmdrcnhfZmtkSkViUUdPRThEcXpySHRuQndiNVNhVzRMcDRuOTRkSnZGbGJqYXIzZ2pqSjJhWEdmZmxvWmJ6bjVlbFR2NkkzaXRLR0ExX21nbUtRMnV6TzNjOXdpMmFhV3U5VkZXcEE2Z0RteWc0eGV5VVZFYkZBTXk5UkVTTXAxMmJ1WThZTXlOQWZpM0FmTFNiUlp1dDlnTENMWnJ4Sm9zdHNvYTEyOHNEaUltWjVuWlV4SEl2SnJUTVNNX29renA?oc=5",
       "source": "Google News",
       "source_name": "Google News",
       "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "published_at": "2026-08-01 01:58:24 PM ET",
+      "published_at": "2026-07-31 09:34:43 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Which Spider-Man movie is the best? We ranked them - including 'Brand New Day.' - Yahoo"
+        "New movies to watch this weekend: See 'Spider-Man: Brand New Day' in theaters, rent 'Supergirl,' stream 'The Devil Wears Prada 2' on Disney+ - Yahoo"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -654,22 +656,22 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-6175993841376423850",
-      "key": "music-11-6175993841376423850",
+      "id": "music-11-1959271806991257112",
+      "key": "music-11-1959271806991257112",
       "category": "Music",
       "label": "Music",
-      "headline": "Trueno & Milo J Close LAMC 2026 at New York's SummerStage & More Uplifting Moments in Latin Music",
-      "title": "Trueno & Milo J Close LAMC 2026 at New York's SummerStage & More Uplifting Moments in Latin Music",
-      "snapshot": "Plus, the Global Impact panel explores Latin music's worldwide reach, and Sony Latin showcases emerging artists - all in this special LAMC Edition.",
-      "summary": "Plus, the Global Impact panel explores Latin music's worldwide reach, and Sony Latin showcases emerging artists - all in this special LAMC Edition.",
-      "url": "https://www.billboard.com/music/latin/trueno-milo-j-close-lamc-2026-new-york-summerstage-1236307580/",
+      "headline": "Lollapalooza 2026 Shortens Wolf Alice and Cortis Sets Due to Severe Flooding",
+      "title": "Lollapalooza 2026 Shortens Wolf Alice and Cortis Sets Due to Severe Flooding",
+      "snapshot": "The schedule changes on Aug. 1 came after heavy overnight rain soaked Chicago.",
+      "summary": "The schedule changes on Aug. 1 came after heavy overnight rain soaked Chicago.",
+      "url": "https://www.billboard.com/music/music-news/lollapalooza-2026-flooding-delays-wolf-alice-cortis-sets-1236307838/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-02 11:46:56 AM ET",
+      "published_at": "2026-08-02 01:32:00 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Trueno & Milo J Close LAMC 2026 at New York's SummerStage & More Uplifting Moments in Latin Music"
+        "Lollapalooza 2026 Shortens Wolf Alice and Cortis Sets Due to Severe Flooding"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -681,22 +683,22 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-102774489585508658",
-      "key": "gaming-1-102774489585508658",
+      "id": "gaming-1-2347554073513676486",
+      "key": "gaming-1-2347554073513676486",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "The Best Deals Today: LEGO Pokémon, DDR5 RAM, Death Stranding 2, and More",
-      "title": "The Best Deals Today: LEGO Pokémon, DDR5 RAM, Death Stranding 2, and More",
-      "snapshot": "A new weekend has arrived, and today, you can save on select LEGO sets, Death Stranding 2, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Saturday, August 1, below. New LEGO Sets Now Live LEGO has listed its latest round of sets on its website, including the LEGO Ideas | The X-Fi...",
-      "summary": "A new weekend has arrived, and today, you can save on select LEGO sets, Death Stranding 2, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Saturday, August 1, below. New LEGO Sets Now Live LEGO has listed its latest round of sets on its website, including the LEGO Ideas | The X-Fi...",
-      "url": "https://www.ign.com/articles/best-deals-for-august-1-2026",
+      "headline": "Elden Ring Players Are Hoping for Godwyn DLC After FromSoftware Shares Cryptic Social Media Post",
+      "title": "Elden Ring Players Are Hoping for Godwyn DLC After FromSoftware Shares Cryptic Social Media Post",
+      "snapshot": "It's been two years since FromSoftware released its Shadow of the Erdtree expansion, but a new post from the developer has some fans believing that even more Elden Ring DLC is on the way.",
+      "summary": "It's been two years since FromSoftware released its Shadow of the Erdtree expansion, but a new post from the developer has some fans believing that even more Elden Ring DLC is on the way.",
+      "url": "https://www.ign.com/articles/elden-ring-players-are-hoping-for-godwyn-dlc-after-fromsoftware-shares-cryptic-social-media-post",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-01 12:40:13 PM ET",
+      "published_at": "2026-08-01 03:59:57 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "The Best Deals Today: LEGO Pokémon, DDR5 RAM, Death Stranding 2, and More"
+        "Elden Ring Players Are Hoping for Godwyn DLC After FromSoftware Shares Cryptic Social Media Post"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -710,8 +712,8 @@
   ],
   "editor_signals": [
     {
-      "id": "film-2-72189573208310001",
-      "key": "film-2-72189573208310001",
+      "id": "film-2-6857327505578909222",
+      "key": "film-2-6857327505578909222",
       "category": "Film",
       "label": "Film",
       "headline": "21 Best Movies New to Streaming in August: 'Michael,' 'Mother Mary,' 'Oppenheimer' Back on Peacock and More",
@@ -737,8 +739,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-847487081988096503",
-      "key": "film-12-847487081988096503",
+      "id": "film-12-2821743963946622352",
+      "key": "film-12-2821743963946622352",
       "category": "Film",
       "label": "Film",
       "headline": "Vin Diesel Calls 'Fast Forever' The \"Best Script\" He's Read In Decades: \"I Am Still Crying\"",
@@ -764,8 +766,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-881854112704208709",
-      "key": "film-24-881854112704208709",
+      "id": "film-24-260773811350902658",
+      "key": "film-24-260773811350902658",
       "category": "Film",
       "label": "Film",
       "headline": "Sandra Bullock and Nicole Kidman Make Surprise Appearance at 'Practical Magic' Screening",
@@ -791,8 +793,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-5130442219450245609",
-      "key": "film-34-5130442219450245609",
+      "id": "film-34-1858261649272751041",
+      "key": "film-34-1858261649272751041",
       "category": "Film",
       "label": "Film",
       "headline": "New movies: the most exciting films coming to theaters in July 2026 and beyond - TechRadar",
@@ -818,22 +820,22 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-4283139909124724759",
-      "key": "music-12-4283139909124724759",
+      "id": "music-12-2049870776360315109",
+      "key": "music-12-2049870776360315109",
       "category": "Music",
       "label": "Music",
-      "headline": "BTS Return to MetLife Stadium With a Full ARIRANG World Tour Show: 15 Best Moments",
-      "title": "BTS Return to MetLife Stadium With a Full ARIRANG World Tour Show: 15 Best Moments",
-      "snapshot": "Two weeks after their World Cup Final Halftime Show performance in the same stadium, BTS gave New Jersey the complete two-and-a-half-hour version.",
-      "summary": "Two weeks after their World Cup Final Halftime Show performance in the same stadium, BTS gave New Jersey the complete two-and-a-half-hour version.",
-      "url": "https://www.billboard.com/lists/bts-arirang-tour-new-york-metlife-stadium-best-moments/",
+      "headline": "Watch Harry Styles Recover in Style From a Fall During His Second Night in Mexico City",
+      "title": "Watch Harry Styles Recover in Style From a Fall During His Second Night in Mexico City",
+      "snapshot": "The British superstar was performing the second show of his residency at GNP Seguros Stadium on Aug. 1 when he slipped on the rain-slicked stage.",
+      "summary": "The British superstar was performing the second show of his residency at GNP Seguros Stadium on Aug. 1 when he slipped on the rain-slicked stage.",
+      "url": "https://www.billboard.com/music/music-news/harry-styles-falls-on-stage-mexico-city-concert-1236307831/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-02 10:55:18 AM ET",
+      "published_at": "2026-08-02 01:22:22 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "BTS Return to MetLife Stadium With a Full ARIRANG World Tour Show: 15 Best Moments"
+        "Watch Harry Styles Recover in Style From a Fall During His Second Night in Mexico City"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -845,22 +847,22 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-3679291896057917139",
-      "key": "gaming-2-3679291896057917139",
+      "id": "gaming-2-2978801106896065855",
+      "key": "gaming-2-2978801106896065855",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Hololive Dreams: How the Development Team Used RPG Mechanics to Create a Giant Rhythm Game",
-      "title": "Hololive Dreams: How the Development Team Used RPG Mechanics to Create a Giant Rhythm Game",
-      "snapshot": "Hololive Dreams combines rhythm-based gameplay with RPG progression, offering over 150 songs and 50 VTubers in an accessible new mobile experience.",
-      "summary": "Hololive Dreams combines rhythm-based gameplay with RPG progression, offering over 150 songs and 50 VTubers in an accessible new mobile experience.",
-      "url": "https://www.ign.com/articles/hololive-dreams-rhythm-rpg-mechanics",
+      "headline": "The Best Deals Today: LEGO Pokémon, DDR5 RAM, Death Stranding 2, and More",
+      "title": "The Best Deals Today: LEGO Pokémon, DDR5 RAM, Death Stranding 2, and More",
+      "snapshot": "A new weekend has arrived, and today, you can save on select LEGO sets, Death Stranding 2, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Saturday, August 1, below. New LEGO Sets Now Live LEGO has listed its latest round of sets on its website, including the LEGO Ideas | The X-Fi...",
+      "summary": "A new weekend has arrived, and today, you can save on select LEGO sets, Death Stranding 2, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Saturday, August 1, below. New LEGO Sets Now Live LEGO has listed its latest round of sets on its website, including the LEGO Ideas | The X-Fi...",
+      "url": "https://www.ign.com/articles/best-deals-for-august-1-2026",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-01 12:00:00 PM ET",
+      "published_at": "2026-08-01 12:40:13 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Hololive Dreams: How the Development Team Used RPG Mechanics to Create a Giant Rhythm Game"
+        "The Best Deals Today: LEGO Pokémon, DDR5 RAM, Death Stranding 2, and More"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -872,8 +874,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-7120109849199932595",
-      "key": "film-3-7120109849199932595",
+      "id": "film-3-4959459983843917135",
+      "key": "film-3-4959459983843917135",
       "category": "Film",
       "label": "Film",
       "headline": "'Spider-Man: Brand New Day' Swings to Mind-Blowing $355 Million Debut, Second-Biggest Opening Weekend in Box Office History",
@@ -899,8 +901,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-8662882540437452049",
-      "key": "film-13-8662882540437452049",
+      "id": "film-13-6949842875630224051",
+      "key": "film-13-6949842875630224051",
       "category": "Film",
       "label": "Film",
       "headline": "Richard L. O'Connor Dies: Emmy-Winning Producer, Exec In Charge Of 'On Golden Pond', 'Muppet Movie' Was 96",
@@ -926,8 +928,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-5857037385345860437",
-      "key": "film-25-5857037385345860437",
+      "id": "film-25-6331244468151518831",
+      "key": "film-25-6331244468151518831",
       "category": "Film",
       "label": "Film",
       "headline": "Vin Diesel Says 'Fast Forever' Is the \"Best Script\" He's Read in Decades: \"I Am Still Crying\"",
@@ -953,8 +955,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-3604492546010084965",
-      "key": "film-35-3604492546010084965",
+      "id": "film-35-3886695198573340513",
+      "key": "film-35-3886695198573340513",
       "category": "Film",
       "label": "Film",
       "headline": "A Timeline of the Children of Blood and Bone Controversy - Refinery29",
@@ -980,22 +982,22 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-758248772708443885",
-      "key": "music-13-758248772708443885",
+      "id": "music-13-1161253974738997320",
+      "key": "music-13-1161253974738997320",
       "category": "Music",
       "label": "Music",
-      "headline": "Phil Collins Recalls Being 'Blown Away' by Taylor Swift Before Her Superstardom",
-      "title": "Phil Collins Recalls Being 'Blown Away' by Taylor Swift Before Her Superstardom",
-      "snapshot": "Speaking on BBC Radio 2's Tracks of My Years , Collins recalled meeting Swift at a Songwriters Hall of Fame event years ago.",
-      "summary": "Speaking on BBC Radio 2's Tracks of My Years , Collins recalled meeting Swift at a Songwriters Hall of Fame event years ago.",
-      "url": "https://www.billboard.com/music/music-news/phil-collins-praises-taylor-swift-1236307708/",
+      "headline": "Here's Where to Watch WWE SummerSlam 2026 Live Online for Free",
+      "title": "Here's Where to Watch WWE SummerSlam 2026 Live Online for Free",
+      "snapshot": "Don't miss Roman Reigns vs. Seth Rollins during the wrestling event, with Darius Rucker set to perform \"The Star-Spangled Banner.\"",
+      "summary": "Don't miss Roman Reigns vs. Seth Rollins during the wrestling event, with Darius Rucker set to perform \"The Star-Spangled Banner.\"",
+      "url": "https://www.billboard.com/culture/product-recommendations/wwe-summerslam-2026-how-to-watch-live-online-free-1236303355/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-02 05:03:27 AM ET",
+      "published_at": "2026-08-02 12:55:05 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Phil Collins Recalls Being 'Blown Away' by Taylor Swift Before Her Superstardom"
+        "Here's Where to Watch WWE SummerSlam 2026 Live Online for Free"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1007,22 +1009,22 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-2893099814986980026",
-      "key": "gaming-3-2893099814986980026",
+      "id": "gaming-3-4060496235197668024",
+      "key": "gaming-3-4060496235197668024",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Palworld TCG Prices Skyrocket as eBay Scalpers Profit Off of Card Game Launch",
-      "title": "Palworld TCG Prices Skyrocket as eBay Scalpers Profit Off of Card Game Launch",
-      "snapshot": "The Palworld TCG has officially launched, and so too has a wave of scalpers looking to make a quick buck on developer Pocketpair's new collectible cards.",
-      "summary": "The Palworld TCG has officially launched, and so too has a wave of scalpers looking to make a quick buck on developer Pocketpair's new collectible cards.",
-      "url": "https://www.ign.com/articles/palworld-tcg-prices-skyrocket-as-ebay-scalpers-profit-off-of-card-game-launch",
+      "headline": "Hololive Dreams: How the Development Team Used RPG Mechanics to Create a Giant Rhythm Game",
+      "title": "Hololive Dreams: How the Development Team Used RPG Mechanics to Create a Giant Rhythm Game",
+      "snapshot": "Hololive Dreams combines rhythm-based gameplay with RPG progression, offering over 150 songs and 50 VTubers in an accessible new mobile experience.",
+      "summary": "Hololive Dreams combines rhythm-based gameplay with RPG progression, offering over 150 songs and 50 VTubers in an accessible new mobile experience.",
+      "url": "https://www.ign.com/articles/hololive-dreams-rhythm-rpg-mechanics",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-01 10:54:16 AM ET",
+      "published_at": "2026-08-01 12:00:00 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Palworld TCG Prices Skyrocket as eBay Scalpers Profit Off of Card Game Launch"
+        "Hololive Dreams: How the Development Team Used RPG Mechanics to Create a Giant Rhythm Game"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1036,8 +1038,8 @@
   ],
   "homepage_cards": [
     {
-      "id": "film-0-1381721181838048149",
-      "key": "film-0-1381721181838048149",
+      "id": "film-0-6853877693171492633",
+      "key": "film-0-6853877693171492633",
       "category": "Film",
       "label": "Film",
       "headline": "'Spider-Man: Brand New Day' Obliterates Expectations With $927 Million Global Debut",
@@ -1063,8 +1065,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-9107957831017077591",
-      "key": "film-10-9107957831017077591",
+      "id": "film-10-1547272448335417949",
+      "key": "film-10-1547272448335417949",
       "category": "Film",
       "label": "Film",
       "headline": "Haile Gerima Dissects His 10 Hour Documentary Feature 'Black Lions - Roman Wolves' & Teases His Next Project On America's Black Maroons",
@@ -1090,8 +1092,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-2669960357595711392",
-      "key": "film-22-2669960357595711392",
+      "id": "film-22-1046363234474740150",
+      "key": "film-22-1046363234474740150",
       "category": "Film",
       "label": "Film",
       "headline": "'Spider-Man: Brand New Day' Soars to $355M for Second-Biggest Opening Weekend Ever",
@@ -1117,8 +1119,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-2870752597043408452",
-      "key": "film-32-2870752597043408452",
+      "id": "film-32-3396499039019862295",
+      "key": "film-32-3396499039019862295",
       "category": "Film",
       "label": "Film",
       "headline": "I'm a Parenting Editor, and These Are the 2026 Kids' Movies I'm Most Excited About - Good Housekeeping",
@@ -1144,22 +1146,22 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-2564286731580762217",
-      "key": "music-10-2564286731580762217",
+      "id": "music-10-3579489454939547382",
+      "key": "music-10-3579489454939547382",
       "category": "Music",
       "label": "Music",
-      "headline": "Here's Where to Watch WWE SummerSlam 2026 Live Online for Free",
-      "title": "Here's Where to Watch WWE SummerSlam 2026 Live Online for Free",
-      "snapshot": "Don't miss Roman Reigns vs. Seth Rollins during the wrestling event, with Darius Rucker set to perform \"The Star-Spangled Banner.\"",
-      "summary": "Don't miss Roman Reigns vs. Seth Rollins during the wrestling event, with Darius Rucker set to perform \"The Star-Spangled Banner.\"",
-      "url": "https://www.billboard.com/culture/product-recommendations/wwe-summerslam-2026-how-to-watch-live-online-free-1236303355/",
+      "headline": "Morgan Wallen's 'I'm the Problem' Back at No. 1 on Billboard 200 for 14th Week",
+      "title": "Morgan Wallen's 'I'm the Problem' Back at No. 1 on Billboard 200 for 14th Week",
+      "snapshot": "Plus, Charli xcx's Music, Fashion, Film debuts in the top three.",
+      "summary": "Plus, Charli xcx's Music, Fashion, Film debuts in the top three.",
+      "url": "https://www.billboard.com/music/chart-beat/morgan-wallen-problem-14th-week-number-one-billboard-200-1236307852/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-02 12:55:05 PM ET",
+      "published_at": "2026-08-02 03:00:12 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Here's Where to Watch WWE SummerSlam 2026 Live Online for Free"
+        "Morgan Wallen's 'I'm the Problem' Back at No. 1 on Billboard 200 for 14th Week"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1171,22 +1173,22 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-3257336295600145468",
-      "key": "gaming-0-3257336295600145468",
+      "id": "gaming-0-6008960509025283054",
+      "key": "gaming-0-6008960509025283054",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Elden Ring Players Are Hoping for Godwyn DLC After FromSoftware Shares Cryptic Social Media Post",
-      "title": "Elden Ring Players Are Hoping for Godwyn DLC After FromSoftware Shares Cryptic Social Media Post",
-      "snapshot": "It's been two years since FromSoftware released its Shadow of the Erdtree expansion, but a new post from the developer has some fans believing that even more Elden Ring DLC is on the way.",
-      "summary": "It's been two years since FromSoftware released its Shadow of the Erdtree expansion, but a new post from the developer has some fans believing that even more Elden Ring DLC is on the way.",
-      "url": "https://www.ign.com/articles/elden-ring-players-are-hoping-for-godwyn-dlc-after-fromsoftware-shares-cryptic-social-media-post",
+      "headline": "The Best Deals Today: Mega Man Star Force Legacy Collection, Saros, Death Stranding 2, and More",
+      "title": "The Best Deals Today: Mega Man Star Force Legacy Collection, Saros, Death Stranding 2, and More",
+      "snapshot": "A new weekend has arrived, and today, you can save on select LEGO sets, Death Stranding 2, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Sunday, August 2, below. 20% Off the LEGO Pokémon Pikachu and Poké Ball Set Macy's has a great deal today on this LEGO Pokémon Pikachu and Pok...",
+      "summary": "A new weekend has arrived, and today, you can save on select LEGO sets, Death Stranding 2, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Sunday, August 2, below. 20% Off the LEGO Pokémon Pikachu and Poké Ball Set Macy's has a great deal today on this LEGO Pokémon Pikachu and Pok...",
+      "url": "https://www.ign.com/articles/best-deals-for-august-2-2026",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-01 03:59:57 PM ET",
+      "published_at": "2026-08-02 01:18:04 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Elden Ring Players Are Hoping for Godwyn DLC After FromSoftware Shares Cryptic Social Media Post"
+        "The Best Deals Today: Mega Man Star Force Legacy Collection, Saros, Death Stranding 2, and More"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1198,8 +1200,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-7159358248814659404",
-      "key": "film-1-7159358248814659404",
+      "id": "film-1-1297575733197989358",
+      "key": "film-1-1297575733197989358",
       "category": "Film",
       "label": "Film",
       "headline": "'Spider-Man: Brand New Day' and 'The Odyssey' Power Biggest Collective Weekend in Box Office History With $430 Million",
@@ -1225,8 +1227,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-7780541348537086058",
-      "key": "film-11-7780541348537086058",
+      "id": "film-11-8913549249546342451",
+      "key": "film-11-8913549249546342451",
       "category": "Film",
       "label": "Film",
       "headline": "'A Life Illuminated': Of Bioluminescence, Mysterious Sea Creatures, And A Woman Scientist's Groundbreaking Quest",
@@ -1252,8 +1254,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-4888840293749942018",
-      "key": "film-23-4888840293749942018",
+      "id": "film-23-2395889782223229037",
+      "key": "film-23-2395889782223229037",
       "category": "Film",
       "label": "Film",
       "headline": "'The Days Off' Is a \"Love Letter to That Internet That No Longer Quite Exists\" (Locarno Trailer)",
@@ -1279,22 +1281,22 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-1621278827995125938",
-      "key": "film-33-1621278827995125938",
+      "id": "film-33-1850099798491815861",
+      "key": "film-33-1850099798491815861",
       "category": "Film",
       "label": "Film",
-      "headline": "Which Spider-Man movie is the best? We ranked them - including 'Brand New Day.' - Yahoo",
-      "title": "Which Spider-Man movie is the best? We ranked them - including 'Brand New Day.' - Yahoo",
-      "snapshot": "Which Spider-Man movie is the best? We ranked them - including 'Brand New Day.' Yahoo",
-      "summary": "Which Spider-Man movie is the best? We ranked them - including 'Brand New Day.' Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMlgtQkp4QmpiUl8zVWdiTDdBSFhCa3A2VlJtZ09NTzRrc0gzMGthdXRybHp1UHI2YXNtTnlMRUxiWjZWbVl2YWhieG1Jb1FqQVVRTC1QcHFoNEJRR2Jfbzdybm5vR3dFQi1zVUV5cFBNdmhiM2FKOW9LMVFZSC14S1E2UEJDVjlIWi03U3hWZEpNa19USGhqOVNUOXFINDM5RXF3RDI0NnduT3NLYmJ1cVp3VTJvcWR6WEJkSHJqeVZBMTFOQjZ0YzQtNEZ4LWNPRWVIOG5lQQ?oc=5",
+      "headline": "New movies to watch this weekend: See 'Spider-Man: Brand New Day' in theaters, rent 'Supergirl,' stream 'The Devil Wears Prada 2' on Disney+ - Yahoo",
+      "title": "New movies to watch this weekend: See 'Spider-Man: Brand New Day' in theaters, rent 'Supergirl,' stream 'The Devil Wears Prada 2' on Disney+ - Yahoo",
+      "snapshot": "New movies to watch this weekend: See 'Spider-Man: Brand New Day' in theaters, rent 'Supergirl,' stream 'The Devil Wears Prada 2' on Disney+ Yahoo",
+      "summary": "New movies to watch this weekend: See 'Spider-Man: Brand New Day' in theaters, rent 'Supergirl,' stream 'The Devil Wears Prada 2' on Disney+ Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQQWs3STRLUUxJR2MtenVVaXh1b2haMVdUM19kZnVUNTZSQzNiMFdUcUVyQ2xxOTBQOExIQkVXeU0tTWpfaUtmeHM5WmdNMnVQdVUwRThxZFJsRlVFUmh6bmdrcnhfZmtkSkViUUdPRThEcXpySHRuQndiNVNhVzRMcDRuOTRkSnZGbGJqYXIzZ2pqSjJhWEdmZmxvWmJ6bjVlbFR2NkkzaXRLR0ExX21nbUtRMnV6TzNjOXdpMmFhV3U5VkZXcEE2Z0RteWc0eGV5VVZFYkZBTXk5UkVTTXAxMmJ1WThZTXlOQWZpM0FmTFNiUlp1dDlnTENMWnJ4Sm9zdHNvYTEyOHNEaUltWjVuWlV4SEl2SnJUTVNNX29renA?oc=5",
       "source": "Google News",
       "source_name": "Google News",
       "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "published_at": "2026-08-01 01:58:24 PM ET",
+      "published_at": "2026-07-31 09:34:43 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Which Spider-Man movie is the best? We ranked them - including 'Brand New Day.' - Yahoo"
+        "New movies to watch this weekend: See 'Spider-Man: Brand New Day' in theaters, rent 'Supergirl,' stream 'The Devil Wears Prada 2' on Disney+ - Yahoo"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1306,22 +1308,22 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-6175993841376423850",
-      "key": "music-11-6175993841376423850",
+      "id": "music-11-1959271806991257112",
+      "key": "music-11-1959271806991257112",
       "category": "Music",
       "label": "Music",
-      "headline": "Trueno & Milo J Close LAMC 2026 at New York's SummerStage & More Uplifting Moments in Latin Music",
-      "title": "Trueno & Milo J Close LAMC 2026 at New York's SummerStage & More Uplifting Moments in Latin Music",
-      "snapshot": "Plus, the Global Impact panel explores Latin music's worldwide reach, and Sony Latin showcases emerging artists - all in this special LAMC Edition.",
-      "summary": "Plus, the Global Impact panel explores Latin music's worldwide reach, and Sony Latin showcases emerging artists - all in this special LAMC Edition.",
-      "url": "https://www.billboard.com/music/latin/trueno-milo-j-close-lamc-2026-new-york-summerstage-1236307580/",
+      "headline": "Lollapalooza 2026 Shortens Wolf Alice and Cortis Sets Due to Severe Flooding",
+      "title": "Lollapalooza 2026 Shortens Wolf Alice and Cortis Sets Due to Severe Flooding",
+      "snapshot": "The schedule changes on Aug. 1 came after heavy overnight rain soaked Chicago.",
+      "summary": "The schedule changes on Aug. 1 came after heavy overnight rain soaked Chicago.",
+      "url": "https://www.billboard.com/music/music-news/lollapalooza-2026-flooding-delays-wolf-alice-cortis-sets-1236307838/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-02 11:46:56 AM ET",
+      "published_at": "2026-08-02 01:32:00 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Trueno & Milo J Close LAMC 2026 at New York's SummerStage & More Uplifting Moments in Latin Music"
+        "Lollapalooza 2026 Shortens Wolf Alice and Cortis Sets Due to Severe Flooding"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1333,22 +1335,22 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-102774489585508658",
-      "key": "gaming-1-102774489585508658",
+      "id": "gaming-1-2347554073513676486",
+      "key": "gaming-1-2347554073513676486",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "The Best Deals Today: LEGO Pokémon, DDR5 RAM, Death Stranding 2, and More",
-      "title": "The Best Deals Today: LEGO Pokémon, DDR5 RAM, Death Stranding 2, and More",
-      "snapshot": "A new weekend has arrived, and today, you can save on select LEGO sets, Death Stranding 2, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Saturday, August 1, below. New LEGO Sets Now Live LEGO has listed its latest round of sets on its website, including the LEGO Ideas | The X-Fi...",
-      "summary": "A new weekend has arrived, and today, you can save on select LEGO sets, Death Stranding 2, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Saturday, August 1, below. New LEGO Sets Now Live LEGO has listed its latest round of sets on its website, including the LEGO Ideas | The X-Fi...",
-      "url": "https://www.ign.com/articles/best-deals-for-august-1-2026",
+      "headline": "Elden Ring Players Are Hoping for Godwyn DLC After FromSoftware Shares Cryptic Social Media Post",
+      "title": "Elden Ring Players Are Hoping for Godwyn DLC After FromSoftware Shares Cryptic Social Media Post",
+      "snapshot": "It's been two years since FromSoftware released its Shadow of the Erdtree expansion, but a new post from the developer has some fans believing that even more Elden Ring DLC is on the way.",
+      "summary": "It's been two years since FromSoftware released its Shadow of the Erdtree expansion, but a new post from the developer has some fans believing that even more Elden Ring DLC is on the way.",
+      "url": "https://www.ign.com/articles/elden-ring-players-are-hoping-for-godwyn-dlc-after-fromsoftware-shares-cryptic-social-media-post",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-01 12:40:13 PM ET",
+      "published_at": "2026-08-01 03:59:57 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "The Best Deals Today: LEGO Pokémon, DDR5 RAM, Death Stranding 2, and More"
+        "Elden Ring Players Are Hoping for Godwyn DLC After FromSoftware Shares Cryptic Social Media Post"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1360,8 +1362,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-2-72189573208310001",
-      "key": "film-2-72189573208310001",
+      "id": "film-2-6857327505578909222",
+      "key": "film-2-6857327505578909222",
       "category": "Film",
       "label": "Film",
       "headline": "21 Best Movies New to Streaming in August: 'Michael,' 'Mother Mary,' 'Oppenheimer' Back on Peacock and More",
@@ -1387,8 +1389,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-847487081988096503",
-      "key": "film-12-847487081988096503",
+      "id": "film-12-2821743963946622352",
+      "key": "film-12-2821743963946622352",
       "category": "Film",
       "label": "Film",
       "headline": "Vin Diesel Calls 'Fast Forever' The \"Best Script\" He's Read In Decades: \"I Am Still Crying\"",
@@ -1414,8 +1416,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-881854112704208709",
-      "key": "film-24-881854112704208709",
+      "id": "film-24-260773811350902658",
+      "key": "film-24-260773811350902658",
       "category": "Film",
       "label": "Film",
       "headline": "Sandra Bullock and Nicole Kidman Make Surprise Appearance at 'Practical Magic' Screening",
@@ -1441,8 +1443,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-5130442219450245609",
-      "key": "film-34-5130442219450245609",
+      "id": "film-34-1858261649272751041",
+      "key": "film-34-1858261649272751041",
       "category": "Film",
       "label": "Film",
       "headline": "New movies: the most exciting films coming to theaters in July 2026 and beyond - TechRadar",
@@ -1468,22 +1470,22 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-4283139909124724759",
-      "key": "music-12-4283139909124724759",
+      "id": "music-12-2049870776360315109",
+      "key": "music-12-2049870776360315109",
       "category": "Music",
       "label": "Music",
-      "headline": "BTS Return to MetLife Stadium With a Full ARIRANG World Tour Show: 15 Best Moments",
-      "title": "BTS Return to MetLife Stadium With a Full ARIRANG World Tour Show: 15 Best Moments",
-      "snapshot": "Two weeks after their World Cup Final Halftime Show performance in the same stadium, BTS gave New Jersey the complete two-and-a-half-hour version.",
-      "summary": "Two weeks after their World Cup Final Halftime Show performance in the same stadium, BTS gave New Jersey the complete two-and-a-half-hour version.",
-      "url": "https://www.billboard.com/lists/bts-arirang-tour-new-york-metlife-stadium-best-moments/",
+      "headline": "Watch Harry Styles Recover in Style From a Fall During His Second Night in Mexico City",
+      "title": "Watch Harry Styles Recover in Style From a Fall During His Second Night in Mexico City",
+      "snapshot": "The British superstar was performing the second show of his residency at GNP Seguros Stadium on Aug. 1 when he slipped on the rain-slicked stage.",
+      "summary": "The British superstar was performing the second show of his residency at GNP Seguros Stadium on Aug. 1 when he slipped on the rain-slicked stage.",
+      "url": "https://www.billboard.com/music/music-news/harry-styles-falls-on-stage-mexico-city-concert-1236307831/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-02 10:55:18 AM ET",
+      "published_at": "2026-08-02 01:22:22 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "BTS Return to MetLife Stadium With a Full ARIRANG World Tour Show: 15 Best Moments"
+        "Watch Harry Styles Recover in Style From a Fall During His Second Night in Mexico City"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1495,22 +1497,22 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-3679291896057917139",
-      "key": "gaming-2-3679291896057917139",
+      "id": "gaming-2-2978801106896065855",
+      "key": "gaming-2-2978801106896065855",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Hololive Dreams: How the Development Team Used RPG Mechanics to Create a Giant Rhythm Game",
-      "title": "Hololive Dreams: How the Development Team Used RPG Mechanics to Create a Giant Rhythm Game",
-      "snapshot": "Hololive Dreams combines rhythm-based gameplay with RPG progression, offering over 150 songs and 50 VTubers in an accessible new mobile experience.",
-      "summary": "Hololive Dreams combines rhythm-based gameplay with RPG progression, offering over 150 songs and 50 VTubers in an accessible new mobile experience.",
-      "url": "https://www.ign.com/articles/hololive-dreams-rhythm-rpg-mechanics",
+      "headline": "The Best Deals Today: LEGO Pokémon, DDR5 RAM, Death Stranding 2, and More",
+      "title": "The Best Deals Today: LEGO Pokémon, DDR5 RAM, Death Stranding 2, and More",
+      "snapshot": "A new weekend has arrived, and today, you can save on select LEGO sets, Death Stranding 2, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Saturday, August 1, below. New LEGO Sets Now Live LEGO has listed its latest round of sets on its website, including the LEGO Ideas | The X-Fi...",
+      "summary": "A new weekend has arrived, and today, you can save on select LEGO sets, Death Stranding 2, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Saturday, August 1, below. New LEGO Sets Now Live LEGO has listed its latest round of sets on its website, including the LEGO Ideas | The X-Fi...",
+      "url": "https://www.ign.com/articles/best-deals-for-august-1-2026",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-01 12:00:00 PM ET",
+      "published_at": "2026-08-01 12:40:13 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Hololive Dreams: How the Development Team Used RPG Mechanics to Create a Giant Rhythm Game"
+        "The Best Deals Today: LEGO Pokémon, DDR5 RAM, Death Stranding 2, and More"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1522,8 +1524,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-7120109849199932595",
-      "key": "film-3-7120109849199932595",
+      "id": "film-3-4959459983843917135",
+      "key": "film-3-4959459983843917135",
       "category": "Film",
       "label": "Film",
       "headline": "'Spider-Man: Brand New Day' Swings to Mind-Blowing $355 Million Debut, Second-Biggest Opening Weekend in Box Office History",
@@ -1549,8 +1551,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-8662882540437452049",
-      "key": "film-13-8662882540437452049",
+      "id": "film-13-6949842875630224051",
+      "key": "film-13-6949842875630224051",
       "category": "Film",
       "label": "Film",
       "headline": "Richard L. O'Connor Dies: Emmy-Winning Producer, Exec In Charge Of 'On Golden Pond', 'Muppet Movie' Was 96",
@@ -1576,8 +1578,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-5857037385345860437",
-      "key": "film-25-5857037385345860437",
+      "id": "film-25-6331244468151518831",
+      "key": "film-25-6331244468151518831",
       "category": "Film",
       "label": "Film",
       "headline": "Vin Diesel Says 'Fast Forever' Is the \"Best Script\" He's Read in Decades: \"I Am Still Crying\"",
@@ -1603,8 +1605,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-3604492546010084965",
-      "key": "film-35-3604492546010084965",
+      "id": "film-35-3886695198573340513",
+      "key": "film-35-3886695198573340513",
       "category": "Film",
       "label": "Film",
       "headline": "A Timeline of the Children of Blood and Bone Controversy - Refinery29",
@@ -1630,22 +1632,22 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-758248772708443885",
-      "key": "music-13-758248772708443885",
+      "id": "music-13-1161253974738997320",
+      "key": "music-13-1161253974738997320",
       "category": "Music",
       "label": "Music",
-      "headline": "Phil Collins Recalls Being 'Blown Away' by Taylor Swift Before Her Superstardom",
-      "title": "Phil Collins Recalls Being 'Blown Away' by Taylor Swift Before Her Superstardom",
-      "snapshot": "Speaking on BBC Radio 2's Tracks of My Years , Collins recalled meeting Swift at a Songwriters Hall of Fame event years ago.",
-      "summary": "Speaking on BBC Radio 2's Tracks of My Years , Collins recalled meeting Swift at a Songwriters Hall of Fame event years ago.",
-      "url": "https://www.billboard.com/music/music-news/phil-collins-praises-taylor-swift-1236307708/",
+      "headline": "Here's Where to Watch WWE SummerSlam 2026 Live Online for Free",
+      "title": "Here's Where to Watch WWE SummerSlam 2026 Live Online for Free",
+      "snapshot": "Don't miss Roman Reigns vs. Seth Rollins during the wrestling event, with Darius Rucker set to perform \"The Star-Spangled Banner.\"",
+      "summary": "Don't miss Roman Reigns vs. Seth Rollins during the wrestling event, with Darius Rucker set to perform \"The Star-Spangled Banner.\"",
+      "url": "https://www.billboard.com/culture/product-recommendations/wwe-summerslam-2026-how-to-watch-live-online-free-1236303355/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-02 05:03:27 AM ET",
+      "published_at": "2026-08-02 12:55:05 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Phil Collins Recalls Being 'Blown Away' by Taylor Swift Before Her Superstardom"
+        "Here's Where to Watch WWE SummerSlam 2026 Live Online for Free"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1657,22 +1659,22 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-2893099814986980026",
-      "key": "gaming-3-2893099814986980026",
+      "id": "gaming-3-4060496235197668024",
+      "key": "gaming-3-4060496235197668024",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Palworld TCG Prices Skyrocket as eBay Scalpers Profit Off of Card Game Launch",
-      "title": "Palworld TCG Prices Skyrocket as eBay Scalpers Profit Off of Card Game Launch",
-      "snapshot": "The Palworld TCG has officially launched, and so too has a wave of scalpers looking to make a quick buck on developer Pocketpair's new collectible cards.",
-      "summary": "The Palworld TCG has officially launched, and so too has a wave of scalpers looking to make a quick buck on developer Pocketpair's new collectible cards.",
-      "url": "https://www.ign.com/articles/palworld-tcg-prices-skyrocket-as-ebay-scalpers-profit-off-of-card-game-launch",
+      "headline": "Hololive Dreams: How the Development Team Used RPG Mechanics to Create a Giant Rhythm Game",
+      "title": "Hololive Dreams: How the Development Team Used RPG Mechanics to Create a Giant Rhythm Game",
+      "snapshot": "Hololive Dreams combines rhythm-based gameplay with RPG progression, offering over 150 songs and 50 VTubers in an accessible new mobile experience.",
+      "summary": "Hololive Dreams combines rhythm-based gameplay with RPG progression, offering over 150 songs and 50 VTubers in an accessible new mobile experience.",
+      "url": "https://www.ign.com/articles/hololive-dreams-rhythm-rpg-mechanics",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-01 10:54:16 AM ET",
+      "published_at": "2026-08-01 12:00:00 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Palworld TCG Prices Skyrocket as eBay Scalpers Profit Off of Card Game Launch"
+        "Hololive Dreams: How the Development Team Used RPG Mechanics to Create a Giant Rhythm Game"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1706,12 +1708,12 @@
         "‘Spider-Man: Brand New Day’ and ‘The Odyssey’ Power Biggest Collective Weekend in Box Office History With $430 Million",
         "‘A Life Illuminated’: Of Bioluminescence, Mysterious Sea Creatures, And A Woman Scientist’s Groundbreaking Quest",
         "‘The Days Off’ Is a “Love Letter to That Internet That No Longer Quite Exists” (Locarno Trailer)",
-        "Which Spider-Man movie is the best? We ranked them — including 'Brand New Day.' - Yahoo"
+        "New movies to watch this weekend: See 'Spider-Man: Brand New Day' in theaters, rent 'Supergirl,' stream 'The Devil Wears Prada 2' on Disney+ - Yahoo"
       ],
       "homepage_cards": [
         {
-          "id": "film-0-1381721181838048149",
-          "key": "film-0-1381721181838048149",
+          "id": "film-0-6853877693171492633",
+          "key": "film-0-6853877693171492633",
           "category": "Film",
           "label": "Film",
           "headline": "‘Spider-Man: Brand New Day’ Obliterates Expectations With $927 Million Global Debut",
@@ -1738,8 +1740,8 @@
           ]
         },
         {
-          "id": "film-10-9107957831017077591",
-          "key": "film-10-9107957831017077591",
+          "id": "film-10-1547272448335417949",
+          "key": "film-10-1547272448335417949",
           "category": "Film",
           "label": "Film",
           "headline": "Haile Gerima Dissects His 10 Hour Documentary Feature ‘Black Lions – Roman Wolves’ & Teases His Next Project On America’s Black Maroons",
@@ -1766,8 +1768,8 @@
           ]
         },
         {
-          "id": "film-22-2669960357595711392",
-          "key": "film-22-2669960357595711392",
+          "id": "film-22-1046363234474740150",
+          "key": "film-22-1046363234474740150",
           "category": "Film",
           "label": "Film",
           "headline": "‘Spider-Man: Brand New Day’ Soars to $355M for Second-Biggest Opening Weekend Ever",
@@ -1794,8 +1796,8 @@
           ]
         },
         {
-          "id": "film-32-2870752597043408452",
-          "key": "film-32-2870752597043408452",
+          "id": "film-32-3396499039019862295",
+          "key": "film-32-3396499039019862295",
           "category": "Film",
           "label": "Film",
           "headline": "I'm a Parenting Editor, and These Are the 2026 Kids' Movies I'm Most Excited About - Good Housekeeping",
@@ -1822,8 +1824,8 @@
           ]
         },
         {
-          "id": "film-1-7159358248814659404",
-          "key": "film-1-7159358248814659404",
+          "id": "film-1-1297575733197989358",
+          "key": "film-1-1297575733197989358",
           "category": "Film",
           "label": "Film",
           "headline": "‘Spider-Man: Brand New Day’ and ‘The Odyssey’ Power Biggest Collective Weekend in Box Office History With $430 Million",
@@ -1850,8 +1852,8 @@
           ]
         },
         {
-          "id": "film-11-7780541348537086058",
-          "key": "film-11-7780541348537086058",
+          "id": "film-11-8913549249546342451",
+          "key": "film-11-8913549249546342451",
           "category": "Film",
           "label": "Film",
           "headline": "‘A Life Illuminated’: Of Bioluminescence, Mysterious Sea Creatures, And A Woman Scientist’s Groundbreaking Quest",
@@ -1878,8 +1880,8 @@
           ]
         },
         {
-          "id": "film-23-4888840293749942018",
-          "key": "film-23-4888840293749942018",
+          "id": "film-23-2395889782223229037",
+          "key": "film-23-2395889782223229037",
           "category": "Film",
           "label": "Film",
           "headline": "‘The Days Off’ Is a “Love Letter to That Internet That No Longer Quite Exists” (Locarno Trailer)",
@@ -1906,25 +1908,25 @@
           ]
         },
         {
-          "id": "film-33-1621278827995125938",
-          "key": "film-33-1621278827995125938",
+          "id": "film-33-1850099798491815861",
+          "key": "film-33-1850099798491815861",
           "category": "Film",
           "label": "Film",
-          "headline": "Which Spider-Man movie is the best? We ranked them — including 'Brand New Day.' - Yahoo",
-          "title": "Which Spider-Man movie is the best? We ranked them — including 'Brand New Day.' - Yahoo",
-          "snapshot": "Which Spider-Man movie is the best? We ranked them — including 'Brand New Day.' Yahoo",
-          "summary": "Which Spider-Man movie is the best? We ranked them — including 'Brand New Day.' Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMlgtQkp4QmpiUl8zVWdiTDdBSFhCa3A2VlJtZ09NTzRrc0gzMGthdXRybHp1UHI2YXNtTnlMRUxiWjZWbVl2YWhieG1Jb1FqQVVRTC1QcHFoNEJRR2Jfbzdybm5vR3dFQi1zVUV5cFBNdmhiM2FKOW9LMVFZSC14S1E2UEJDVjlIWi03U3hWZEpNa19USGhqOVNUOXFINDM5RXF3RDI0NnduT3NLYmJ1cVp3VTJvcWR6WEJkSHJqeVZBMTFOQjZ0YzQtNEZ4LWNPRWVIOG5lQQ?oc=5",
+          "headline": "New movies to watch this weekend: See 'Spider-Man: Brand New Day' in theaters, rent 'Supergirl,' stream 'The Devil Wears Prada 2' on Disney+ - Yahoo",
+          "title": "New movies to watch this weekend: See 'Spider-Man: Brand New Day' in theaters, rent 'Supergirl,' stream 'The Devil Wears Prada 2' on Disney+ - Yahoo",
+          "snapshot": "New movies to watch this weekend: See 'Spider-Man: Brand New Day' in theaters, rent 'Supergirl,' stream 'The Devil Wears Prada 2' on Disney+ Yahoo",
+          "summary": "New movies to watch this weekend: See 'Spider-Man: Brand New Day' in theaters, rent 'Supergirl,' stream 'The Devil Wears Prada 2' on Disney+ Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQQWs3STRLUUxJR2MtenVVaXh1b2haMVdUM19kZnVUNTZSQzNiMFdUcUVyQ2xxOTBQOExIQkVXeU0tTWpfaUtmeHM5WmdNMnVQdVUwRThxZFJsRlVFUmh6bmdrcnhfZmtkSkViUUdPRThEcXpySHRuQndiNVNhVzRMcDRuOTRkSnZGbGJqYXIzZ2pqSjJhWEdmZmxvWmJ6bjVlbFR2NkkzaXRLR0ExX21nbUtRMnV6TzNjOXdpMmFhV3U5VkZXcEE2Z0RteWc0eGV5VVZFYkZBTXk5UkVTTXAxMmJ1WThZTXlOQWZpM0FmTFNiUlp1dDlnTENMWnJ4Sm9zdHNvYTEyOHNEaUltWjVuWlV4SEl2SnJUTVNNX29renA?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-01 01:58:24 PM ET",
+          "published_at": "2026-07-31 09:34:43 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 67,
           "key_data": [
-            "Which Spider-Man movie is the best? We ranked them — including 'Brand New Day.' - Yahoo"
+            "New movies to watch this weekend: See 'Spider-Man: Brand New Day' in theaters, rent 'Supergirl,' stream 'The Devil Wears Prada 2' on Disney+ - Yahoo"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1936,8 +1938,8 @@
       ],
       "items": [
         {
-          "id": "film-0-1381721181838048149",
-          "key": "film-0-1381721181838048149",
+          "id": "film-0-6853877693171492633",
+          "key": "film-0-6853877693171492633",
           "category": "Film",
           "label": "Film",
           "headline": "‘Spider-Man: Brand New Day’ Obliterates Expectations With $927 Million Global Debut",
@@ -1964,8 +1966,8 @@
           ]
         },
         {
-          "id": "film-10-9107957831017077591",
-          "key": "film-10-9107957831017077591",
+          "id": "film-10-1547272448335417949",
+          "key": "film-10-1547272448335417949",
           "category": "Film",
           "label": "Film",
           "headline": "Haile Gerima Dissects His 10 Hour Documentary Feature ‘Black Lions – Roman Wolves’ & Teases His Next Project On America’s Black Maroons",
@@ -1992,8 +1994,8 @@
           ]
         },
         {
-          "id": "film-22-2669960357595711392",
-          "key": "film-22-2669960357595711392",
+          "id": "film-22-1046363234474740150",
+          "key": "film-22-1046363234474740150",
           "category": "Film",
           "label": "Film",
           "headline": "‘Spider-Man: Brand New Day’ Soars to $355M for Second-Biggest Opening Weekend Ever",
@@ -2020,8 +2022,8 @@
           ]
         },
         {
-          "id": "film-32-2870752597043408452",
-          "key": "film-32-2870752597043408452",
+          "id": "film-32-3396499039019862295",
+          "key": "film-32-3396499039019862295",
           "category": "Film",
           "label": "Film",
           "headline": "I'm a Parenting Editor, and These Are the 2026 Kids' Movies I'm Most Excited About - Good Housekeeping",
@@ -2048,8 +2050,8 @@
           ]
         },
         {
-          "id": "film-1-7159358248814659404",
-          "key": "film-1-7159358248814659404",
+          "id": "film-1-1297575733197989358",
+          "key": "film-1-1297575733197989358",
           "category": "Film",
           "label": "Film",
           "headline": "‘Spider-Man: Brand New Day’ and ‘The Odyssey’ Power Biggest Collective Weekend in Box Office History With $430 Million",
@@ -2076,8 +2078,8 @@
           ]
         },
         {
-          "id": "film-11-7780541348537086058",
-          "key": "film-11-7780541348537086058",
+          "id": "film-11-8913549249546342451",
+          "key": "film-11-8913549249546342451",
           "category": "Film",
           "label": "Film",
           "headline": "‘A Life Illuminated’: Of Bioluminescence, Mysterious Sea Creatures, And A Woman Scientist’s Groundbreaking Quest",
@@ -2104,8 +2106,8 @@
           ]
         },
         {
-          "id": "film-23-4888840293749942018",
-          "key": "film-23-4888840293749942018",
+          "id": "film-23-2395889782223229037",
+          "key": "film-23-2395889782223229037",
           "category": "Film",
           "label": "Film",
           "headline": "‘The Days Off’ Is a “Love Letter to That Internet That No Longer Quite Exists” (Locarno Trailer)",
@@ -2132,25 +2134,25 @@
           ]
         },
         {
-          "id": "film-33-1621278827995125938",
-          "key": "film-33-1621278827995125938",
+          "id": "film-33-1850099798491815861",
+          "key": "film-33-1850099798491815861",
           "category": "Film",
           "label": "Film",
-          "headline": "Which Spider-Man movie is the best? We ranked them — including 'Brand New Day.' - Yahoo",
-          "title": "Which Spider-Man movie is the best? We ranked them — including 'Brand New Day.' - Yahoo",
-          "snapshot": "Which Spider-Man movie is the best? We ranked them — including 'Brand New Day.' Yahoo",
-          "summary": "Which Spider-Man movie is the best? We ranked them — including 'Brand New Day.' Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMlgtQkp4QmpiUl8zVWdiTDdBSFhCa3A2VlJtZ09NTzRrc0gzMGthdXRybHp1UHI2YXNtTnlMRUxiWjZWbVl2YWhieG1Jb1FqQVVRTC1QcHFoNEJRR2Jfbzdybm5vR3dFQi1zVUV5cFBNdmhiM2FKOW9LMVFZSC14S1E2UEJDVjlIWi03U3hWZEpNa19USGhqOVNUOXFINDM5RXF3RDI0NnduT3NLYmJ1cVp3VTJvcWR6WEJkSHJqeVZBMTFOQjZ0YzQtNEZ4LWNPRWVIOG5lQQ?oc=5",
+          "headline": "New movies to watch this weekend: See 'Spider-Man: Brand New Day' in theaters, rent 'Supergirl,' stream 'The Devil Wears Prada 2' on Disney+ - Yahoo",
+          "title": "New movies to watch this weekend: See 'Spider-Man: Brand New Day' in theaters, rent 'Supergirl,' stream 'The Devil Wears Prada 2' on Disney+ - Yahoo",
+          "snapshot": "New movies to watch this weekend: See 'Spider-Man: Brand New Day' in theaters, rent 'Supergirl,' stream 'The Devil Wears Prada 2' on Disney+ Yahoo",
+          "summary": "New movies to watch this weekend: See 'Spider-Man: Brand New Day' in theaters, rent 'Supergirl,' stream 'The Devil Wears Prada 2' on Disney+ Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQQWs3STRLUUxJR2MtenVVaXh1b2haMVdUM19kZnVUNTZSQzNiMFdUcUVyQ2xxOTBQOExIQkVXeU0tTWpfaUtmeHM5WmdNMnVQdVUwRThxZFJsRlVFUmh6bmdrcnhfZmtkSkViUUdPRThEcXpySHRuQndiNVNhVzRMcDRuOTRkSnZGbGJqYXIzZ2pqSjJhWEdmZmxvWmJ6bjVlbFR2NkkzaXRLR0ExX21nbUtRMnV6TzNjOXdpMmFhV3U5VkZXcEE2Z0RteWc0eGV5VVZFYkZBTXk5UkVTTXAxMmJ1WThZTXlOQWZpM0FmTFNiUlp1dDlnTENMWnJ4Sm9zdHNvYTEyOHNEaUltWjVuWlV4SEl2SnJUTVNNX29renA?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-01 01:58:24 PM ET",
+          "published_at": "2026-07-31 09:34:43 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 67,
           "key_data": [
-            "Which Spider-Man movie is the best? We ranked them — including 'Brand New Day.' - Yahoo"
+            "New movies to watch this weekend: See 'Spider-Man: Brand New Day' in theaters, rent 'Supergirl,' stream 'The Devil Wears Prada 2' on Disney+ - Yahoo"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2160,7 +2162,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-02 01:00:18 PM ET"
+      "updated_at": "2026-08-02 03:11:17 PM ET"
     },
     {
       "key": "tv",
@@ -2183,12 +2185,12 @@
         "Stassi Schroeder Takes Us Inside That Explosive ‘House of Stassi’ Finale: ‘I Felt Like Julius Caesar’",
         "Vincent Pastore Tributes: ‘The Sopranos’ Alums Jamie-Lynn Sigler, Michael Imperioli & More Remember “Kind-Hearted Brother”",
         "‘Wonder Man’ Star Yahya Abdul-Mateen II Reacts to Marvel Series Cancellation: “See You at the Emmys”",
-        "Streaming reshuffle: Music booms, TV originals shrink as fandom becomes entertainment’s new currency - Indian Television Dot Com"
+        "Streaming reshuffle: Music booms, TV originals shrink as fandom becomes entertainment’s new currency - indiantelevision.com"
       ],
       "homepage_cards": [
         {
-          "id": "tv-0-1580138491875216053",
-          "key": "tv-0-1580138491875216053",
+          "id": "tv-0-3382901819822971409",
+          "key": "tv-0-3382901819822971409",
           "category": "TV",
           "label": "TV",
           "headline": "‘Wonder Man’ Co-Creator Says ‘Contracts Were Signed, Schedules Were Cleared’ Before Marvel Series Was Canceled: ‘This Is Not a Marketing Stunt’",
@@ -2215,8 +2217,8 @@
           ]
         },
         {
-          "id": "tv-9-1475900420564246582",
-          "key": "tv-9-1475900420564246582",
+          "id": "tv-9-1001512303340270266",
+          "key": "tv-9-1001512303340270266",
           "category": "TV",
           "label": "TV",
           "headline": "‘Wonder Man’ Showrunner Posts Video To “Clear Up” Rumors About Cancellation: “There Is No Movie In The Works”",
@@ -2243,8 +2245,8 @@
           ]
         },
         {
-          "id": "tv-20-293518314544437765",
-          "key": "tv-20-293518314544437765",
+          "id": "tv-20-8683675599920614096",
+          "key": "tv-20-8683675599920614096",
           "category": "TV",
           "label": "TV",
           "headline": "‘Gabby Dollhouse’ Casts Gabby’s Little Sister for Netflix Series (Exclusive)",
@@ -2271,8 +2273,8 @@
           ]
         },
         {
-          "id": "tv-30-2755991597098651353",
-          "key": "tv-30-2755991597098651353",
+          "id": "tv-30-8560034373967539908",
+          "key": "tv-30-8560034373967539908",
           "category": "TV",
           "label": "TV",
           "headline": "Best OLED TV for 2026 - CNET",
@@ -2299,8 +2301,8 @@
           ]
         },
         {
-          "id": "tv-1-7303377855365163252",
-          "key": "tv-1-7303377855365163252",
+          "id": "tv-1-6712071145791348740",
+          "key": "tv-1-6712071145791348740",
           "category": "TV",
           "label": "TV",
           "headline": "Stassi Schroeder Takes Us Inside That Explosive ‘House of Stassi’ Finale: ‘I Felt Like Julius Caesar’",
@@ -2327,8 +2329,8 @@
           ]
         },
         {
-          "id": "tv-10-3313358748330304368",
-          "key": "tv-10-3313358748330304368",
+          "id": "tv-10-812816482423061802",
+          "key": "tv-10-812816482423061802",
           "category": "TV",
           "label": "TV",
           "headline": "Vincent Pastore Tributes: ‘The Sopranos’ Alums Jamie-Lynn Sigler, Michael Imperioli & More Remember “Kind-Hearted Brother”",
@@ -2355,8 +2357,8 @@
           ]
         },
         {
-          "id": "tv-21-8344398912066988495",
-          "key": "tv-21-8344398912066988495",
+          "id": "tv-21-7121099067215002812",
+          "key": "tv-21-7121099067215002812",
           "category": "TV",
           "label": "TV",
           "headline": "‘Wonder Man’ Star Yahya Abdul-Mateen II Reacts to Marvel Series Cancellation: “See You at the Emmys”",
@@ -2383,14 +2385,14 @@
           ]
         },
         {
-          "id": "tv-31-2485806049573600674",
-          "key": "tv-31-2485806049573600674",
+          "id": "tv-31-6034628500793330535",
+          "key": "tv-31-6034628500793330535",
           "category": "TV",
           "label": "TV",
-          "headline": "Streaming reshuffle: Music booms, TV originals shrink as fandom becomes entertainment’s new currency - Indian Television Dot Com",
-          "title": "Streaming reshuffle: Music booms, TV originals shrink as fandom becomes entertainment’s new currency - Indian Television Dot Com",
-          "snapshot": "Streaming reshuffle: Music booms, TV originals shrink as fandom becomes entertainment’s new currency Indian Television Dot Com",
-          "summary": "Streaming reshuffle: Music booms, TV originals shrink as fandom becomes entertainment’s new currency Indian Television Dot Com",
+          "headline": "Streaming reshuffle: Music booms, TV originals shrink as fandom becomes entertainment’s new currency - indiantelevision.com",
+          "title": "Streaming reshuffle: Music booms, TV originals shrink as fandom becomes entertainment’s new currency - indiantelevision.com",
+          "snapshot": "Streaming reshuffle: Music booms, TV originals shrink as fandom becomes entertainment’s new currency indiantelevision.com",
+          "summary": "Streaming reshuffle: Music booms, TV originals shrink as fandom becomes entertainment’s new currency indiantelevision.com",
           "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeGpDejlDV25IckFtZ2h1WnhYM2diN3REUjhKa2stcmNmWHR2ZlpYM3NxN21ZSFNRa2pnRVd2anFCVkN3YTNqTmVqeDJDb0lkNlBqTF9MRjUxaFYxN3BVMkxoVGE3MnkxV3M4YTh5V0h3RGNTSEMwbTkyMlJzTDhHQzNXNkdEZGxNRGJvWDNCVmRQUUlQYmRDaFNUZjl1a0NYZmU5RHNvdXE5OUZuOGlZeGJkYXZXNlAtQm1YNWZqU2FYU1dPcElnc190amV5bkFvRUNkbA?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -2401,7 +2403,7 @@
           "story_type": "rss_headline",
           "priority_score": 69,
           "key_data": [
-            "Streaming reshuffle: Music booms, TV originals shrink as fandom becomes entertainment’s new currency - Indian Television Dot Com"
+            "Streaming reshuffle: Music booms, TV originals shrink as fandom becomes entertainment’s new currency - indiantelevision.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2413,8 +2415,8 @@
       ],
       "items": [
         {
-          "id": "tv-0-1580138491875216053",
-          "key": "tv-0-1580138491875216053",
+          "id": "tv-0-3382901819822971409",
+          "key": "tv-0-3382901819822971409",
           "category": "TV",
           "label": "TV",
           "headline": "‘Wonder Man’ Co-Creator Says ‘Contracts Were Signed, Schedules Were Cleared’ Before Marvel Series Was Canceled: ‘This Is Not a Marketing Stunt’",
@@ -2441,8 +2443,8 @@
           ]
         },
         {
-          "id": "tv-9-1475900420564246582",
-          "key": "tv-9-1475900420564246582",
+          "id": "tv-9-1001512303340270266",
+          "key": "tv-9-1001512303340270266",
           "category": "TV",
           "label": "TV",
           "headline": "‘Wonder Man’ Showrunner Posts Video To “Clear Up” Rumors About Cancellation: “There Is No Movie In The Works”",
@@ -2469,8 +2471,8 @@
           ]
         },
         {
-          "id": "tv-20-293518314544437765",
-          "key": "tv-20-293518314544437765",
+          "id": "tv-20-8683675599920614096",
+          "key": "tv-20-8683675599920614096",
           "category": "TV",
           "label": "TV",
           "headline": "‘Gabby Dollhouse’ Casts Gabby’s Little Sister for Netflix Series (Exclusive)",
@@ -2497,8 +2499,8 @@
           ]
         },
         {
-          "id": "tv-30-2755991597098651353",
-          "key": "tv-30-2755991597098651353",
+          "id": "tv-30-8560034373967539908",
+          "key": "tv-30-8560034373967539908",
           "category": "TV",
           "label": "TV",
           "headline": "Best OLED TV for 2026 - CNET",
@@ -2525,8 +2527,8 @@
           ]
         },
         {
-          "id": "tv-1-7303377855365163252",
-          "key": "tv-1-7303377855365163252",
+          "id": "tv-1-6712071145791348740",
+          "key": "tv-1-6712071145791348740",
           "category": "TV",
           "label": "TV",
           "headline": "Stassi Schroeder Takes Us Inside That Explosive ‘House of Stassi’ Finale: ‘I Felt Like Julius Caesar’",
@@ -2553,8 +2555,8 @@
           ]
         },
         {
-          "id": "tv-10-3313358748330304368",
-          "key": "tv-10-3313358748330304368",
+          "id": "tv-10-812816482423061802",
+          "key": "tv-10-812816482423061802",
           "category": "TV",
           "label": "TV",
           "headline": "Vincent Pastore Tributes: ‘The Sopranos’ Alums Jamie-Lynn Sigler, Michael Imperioli & More Remember “Kind-Hearted Brother”",
@@ -2581,8 +2583,8 @@
           ]
         },
         {
-          "id": "tv-21-8344398912066988495",
-          "key": "tv-21-8344398912066988495",
+          "id": "tv-21-7121099067215002812",
+          "key": "tv-21-7121099067215002812",
           "category": "TV",
           "label": "TV",
           "headline": "‘Wonder Man’ Star Yahya Abdul-Mateen II Reacts to Marvel Series Cancellation: “See You at the Emmys”",
@@ -2609,14 +2611,14 @@
           ]
         },
         {
-          "id": "tv-31-2485806049573600674",
-          "key": "tv-31-2485806049573600674",
+          "id": "tv-31-6034628500793330535",
+          "key": "tv-31-6034628500793330535",
           "category": "TV",
           "label": "TV",
-          "headline": "Streaming reshuffle: Music booms, TV originals shrink as fandom becomes entertainment’s new currency - Indian Television Dot Com",
-          "title": "Streaming reshuffle: Music booms, TV originals shrink as fandom becomes entertainment’s new currency - Indian Television Dot Com",
-          "snapshot": "Streaming reshuffle: Music booms, TV originals shrink as fandom becomes entertainment’s new currency Indian Television Dot Com",
-          "summary": "Streaming reshuffle: Music booms, TV originals shrink as fandom becomes entertainment’s new currency Indian Television Dot Com",
+          "headline": "Streaming reshuffle: Music booms, TV originals shrink as fandom becomes entertainment’s new currency - indiantelevision.com",
+          "title": "Streaming reshuffle: Music booms, TV originals shrink as fandom becomes entertainment’s new currency - indiantelevision.com",
+          "snapshot": "Streaming reshuffle: Music booms, TV originals shrink as fandom becomes entertainment’s new currency indiantelevision.com",
+          "summary": "Streaming reshuffle: Music booms, TV originals shrink as fandom becomes entertainment’s new currency indiantelevision.com",
           "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeGpDejlDV25IckFtZ2h1WnhYM2diN3REUjhKa2stcmNmWHR2ZlpYM3NxN21ZSFNRa2pnRVd2anFCVkN3YTNqTmVqeDJDb0lkNlBqTF9MRjUxaFYxN3BVMkxoVGE3MnkxV3M4YTh5V0h3RGNTSEMwbTkyMlJzTDhHQzNXNkdEZGxNRGJvWDNCVmRQUUlQYmRDaFNUZjl1a0NYZmU5RHNvdXE5OUZuOGlZeGJkYXZXNlAtQm1YNWZqU2FYU1dPcElnc190amV5bkFvRUNkbA?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -2627,7 +2629,7 @@
           "story_type": "rss_headline",
           "priority_score": 69,
           "key_data": [
-            "Streaming reshuffle: Music booms, TV originals shrink as fandom becomes entertainment’s new currency - Indian Television Dot Com"
+            "Streaming reshuffle: Music booms, TV originals shrink as fandom becomes entertainment’s new currency - indiantelevision.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2637,7 +2639,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-02 01:00:19 PM ET"
+      "updated_at": "2026-08-02 03:11:18 PM ET"
     },
     {
       "key": "streaming",
@@ -2655,8 +2657,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "streaming-0-8109283290183560361",
-          "key": "streaming-0-8109283290183560361",
+          "id": "streaming-0-3363547723021263955",
+          "key": "streaming-0-3363547723021263955",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Disney turns $4-billion streaming loss into profit, and now it chases global growth - Los Angeles Times",
@@ -2683,8 +2685,8 @@
           ]
         },
         {
-          "id": "streaming-1-4775147737925668439",
-          "key": "streaming-1-4775147737925668439",
+          "id": "streaming-1-3067597801660571672",
+          "key": "streaming-1-3067597801660571672",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'Masters of the Universe' to 'Obsession,' 10 movies to stream now - USA Today",
@@ -2713,8 +2715,8 @@
       ],
       "items": [
         {
-          "id": "streaming-0-8109283290183560361",
-          "key": "streaming-0-8109283290183560361",
+          "id": "streaming-0-3363547723021263955",
+          "key": "streaming-0-3363547723021263955",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Disney turns $4-billion streaming loss into profit, and now it chases global growth - Los Angeles Times",
@@ -2741,8 +2743,8 @@
           ]
         },
         {
-          "id": "streaming-1-4775147737925668439",
-          "key": "streaming-1-4775147737925668439",
+          "id": "streaming-1-3067597801660571672",
+          "key": "streaming-1-3067597801660571672",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'Masters of the Universe' to 'Obsession,' 10 movies to stream now - USA Today",
@@ -2769,7 +2771,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-02 01:00:20 PM ET"
+      "updated_at": "2026-08-02 03:11:18 PM ET"
     },
     {
       "key": "music",
@@ -2779,23 +2781,23 @@
       "snapshot": "Music coverage is updating with 6 current RSS headline item(s).",
       "key_storylines": [
         "Lollapalooza Shortens Wolf Alice and Cortis Sets, Delays Several More Amid Intense Flooding",
-        "Here’s Where to Watch WWE SummerSlam 2026 Live Online for Free",
+        "Morgan Wallen’s ‘I’m the Problem’ Back at No. 1 on Billboard 200 for 14th Week",
         "Billboard’s 21 Under 21: See Who Made the 2026 List - Billboard",
         "The Rolling Stones ‘Behind the Song’: See Mick Jagger and Producer Andrew Watt’s Deep Dive on the Creation of ‘Mr. Charm’ (EXCLUSIVE)",
-        "Trueno & Milo J Close LAMC 2026 at New York’s SummerStage & More Uplifting Moments in Latin Music"
+        "Lollapalooza 2026 Shortens Wolf Alice and Cortis Sets Due to Severe Flooding"
       ],
       "watch_list": [
         "Lollapalooza Shortens Wolf Alice and Cortis Sets, Delays Several More Amid Intense Flooding",
-        "Here’s Where to Watch WWE SummerSlam 2026 Live Online for Free",
+        "Morgan Wallen’s ‘I’m the Problem’ Back at No. 1 on Billboard 200 for 14th Week",
         "Billboard’s 21 Under 21: See Who Made the 2026 List - Billboard",
         "The Rolling Stones ‘Behind the Song’: See Mick Jagger and Producer Andrew Watt’s Deep Dive on the Creation of ‘Mr. Charm’ (EXCLUSIVE)",
-        "Trueno & Milo J Close LAMC 2026 at New York’s SummerStage & More Uplifting Moments in Latin Music",
+        "Lollapalooza 2026 Shortens Wolf Alice and Cortis Sets Due to Severe Flooding",
         "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - Billboard"
       ],
       "homepage_cards": [
         {
-          "id": "music-0-930906311692175827",
-          "key": "music-0-930906311692175827",
+          "id": "music-0-3843014153680913211",
+          "key": "music-0-3843014153680913211",
           "category": "Music",
           "label": "Music",
           "headline": "Lollapalooza Shortens Wolf Alice and Cortis Sets, Delays Several More Amid Intense Flooding",
@@ -2822,25 +2824,25 @@
           ]
         },
         {
-          "id": "music-10-2564286731580762217",
-          "key": "music-10-2564286731580762217",
+          "id": "music-10-3579489454939547382",
+          "key": "music-10-3579489454939547382",
           "category": "Music",
           "label": "Music",
-          "headline": "Here’s Where to Watch WWE SummerSlam 2026 Live Online for Free",
-          "title": "Here’s Where to Watch WWE SummerSlam 2026 Live Online for Free",
-          "snapshot": "Don't miss Roman Reigns vs. Seth Rollins during the wrestling event, with Darius Rucker set to perform \"The Star-Spangled Banner.\"",
-          "summary": "Don't miss Roman Reigns vs. Seth Rollins during the wrestling event, with Darius Rucker set to perform \"The Star-Spangled Banner.\"",
-          "url": "https://www.billboard.com/culture/product-recommendations/wwe-summerslam-2026-how-to-watch-live-online-free-1236303355/",
+          "headline": "Morgan Wallen’s ‘I’m the Problem’ Back at No. 1 on Billboard 200 for 14th Week",
+          "title": "Morgan Wallen’s ‘I’m the Problem’ Back at No. 1 on Billboard 200 for 14th Week",
+          "snapshot": "Plus, Charli xcx’s Music, Fashion, Film debuts in the top three.",
+          "summary": "Plus, Charli xcx’s Music, Fashion, Film debuts in the top three.",
+          "url": "https://www.billboard.com/music/chart-beat/morgan-wallen-problem-14th-week-number-one-billboard-200-1236307852/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-02 12:55:05 PM ET",
+          "published_at": "2026-08-02 03:00:12 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "Here’s Where to Watch WWE SummerSlam 2026 Live Online for Free"
+            "Morgan Wallen’s ‘I’m the Problem’ Back at No. 1 on Billboard 200 for 14th Week"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2850,8 +2852,8 @@
           ]
         },
         {
-          "id": "music-20-4786538714333765518",
-          "key": "music-20-4786538714333765518",
+          "id": "music-20-645898093656504765",
+          "key": "music-20-645898093656504765",
           "category": "Music",
           "label": "Music",
           "headline": "Billboard’s 21 Under 21: See Who Made the 2026 List - Billboard",
@@ -2878,8 +2880,8 @@
           ]
         },
         {
-          "id": "music-1-6253898567418810711",
-          "key": "music-1-6253898567418810711",
+          "id": "music-1-1807823671296631486",
+          "key": "music-1-1807823671296631486",
           "category": "Music",
           "label": "Music",
           "headline": "The Rolling Stones ‘Behind the Song’: See Mick Jagger and Producer Andrew Watt’s Deep Dive on the Creation of ‘Mr. Charm’ (EXCLUSIVE)",
@@ -2906,25 +2908,25 @@
           ]
         },
         {
-          "id": "music-11-6175993841376423850",
-          "key": "music-11-6175993841376423850",
+          "id": "music-11-1959271806991257112",
+          "key": "music-11-1959271806991257112",
           "category": "Music",
           "label": "Music",
-          "headline": "Trueno & Milo J Close LAMC 2026 at New York’s SummerStage & More Uplifting Moments in Latin Music",
-          "title": "Trueno & Milo J Close LAMC 2026 at New York’s SummerStage & More Uplifting Moments in Latin Music",
-          "snapshot": "Plus, the Global Impact panel explores Latin music’s worldwide reach, and Sony Latin showcases emerging artists — all in this special LAMC Edition.",
-          "summary": "Plus, the Global Impact panel explores Latin music’s worldwide reach, and Sony Latin showcases emerging artists — all in this special LAMC Edition.",
-          "url": "https://www.billboard.com/music/latin/trueno-milo-j-close-lamc-2026-new-york-summerstage-1236307580/",
+          "headline": "Lollapalooza 2026 Shortens Wolf Alice and Cortis Sets Due to Severe Flooding",
+          "title": "Lollapalooza 2026 Shortens Wolf Alice and Cortis Sets Due to Severe Flooding",
+          "snapshot": "The schedule changes on Aug. 1 came after heavy overnight rain soaked Chicago.",
+          "summary": "The schedule changes on Aug. 1 came after heavy overnight rain soaked Chicago.",
+          "url": "https://www.billboard.com/music/music-news/lollapalooza-2026-flooding-delays-wolf-alice-cortis-sets-1236307838/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-02 11:46:56 AM ET",
+          "published_at": "2026-08-02 01:32:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "Trueno & Milo J Close LAMC 2026 at New York’s SummerStage & More Uplifting Moments in Latin Music"
+            "Lollapalooza 2026 Shortens Wolf Alice and Cortis Sets Due to Severe Flooding"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2934,8 +2936,8 @@
           ]
         },
         {
-          "id": "music-21-7250794062016360992",
-          "key": "music-21-7250794062016360992",
+          "id": "music-21-2452582467083880658",
+          "key": "music-21-2452582467083880658",
           "category": "Music",
           "label": "Music",
           "headline": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - Billboard",
@@ -2964,8 +2966,8 @@
       ],
       "items": [
         {
-          "id": "music-0-930906311692175827",
-          "key": "music-0-930906311692175827",
+          "id": "music-0-3843014153680913211",
+          "key": "music-0-3843014153680913211",
           "category": "Music",
           "label": "Music",
           "headline": "Lollapalooza Shortens Wolf Alice and Cortis Sets, Delays Several More Amid Intense Flooding",
@@ -2992,25 +2994,25 @@
           ]
         },
         {
-          "id": "music-10-2564286731580762217",
-          "key": "music-10-2564286731580762217",
+          "id": "music-10-3579489454939547382",
+          "key": "music-10-3579489454939547382",
           "category": "Music",
           "label": "Music",
-          "headline": "Here’s Where to Watch WWE SummerSlam 2026 Live Online for Free",
-          "title": "Here’s Where to Watch WWE SummerSlam 2026 Live Online for Free",
-          "snapshot": "Don't miss Roman Reigns vs. Seth Rollins during the wrestling event, with Darius Rucker set to perform \"The Star-Spangled Banner.\"",
-          "summary": "Don't miss Roman Reigns vs. Seth Rollins during the wrestling event, with Darius Rucker set to perform \"The Star-Spangled Banner.\"",
-          "url": "https://www.billboard.com/culture/product-recommendations/wwe-summerslam-2026-how-to-watch-live-online-free-1236303355/",
+          "headline": "Morgan Wallen’s ‘I’m the Problem’ Back at No. 1 on Billboard 200 for 14th Week",
+          "title": "Morgan Wallen’s ‘I’m the Problem’ Back at No. 1 on Billboard 200 for 14th Week",
+          "snapshot": "Plus, Charli xcx’s Music, Fashion, Film debuts in the top three.",
+          "summary": "Plus, Charli xcx’s Music, Fashion, Film debuts in the top three.",
+          "url": "https://www.billboard.com/music/chart-beat/morgan-wallen-problem-14th-week-number-one-billboard-200-1236307852/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-02 12:55:05 PM ET",
+          "published_at": "2026-08-02 03:00:12 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "Here’s Where to Watch WWE SummerSlam 2026 Live Online for Free"
+            "Morgan Wallen’s ‘I’m the Problem’ Back at No. 1 on Billboard 200 for 14th Week"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3020,8 +3022,8 @@
           ]
         },
         {
-          "id": "music-20-4786538714333765518",
-          "key": "music-20-4786538714333765518",
+          "id": "music-20-645898093656504765",
+          "key": "music-20-645898093656504765",
           "category": "Music",
           "label": "Music",
           "headline": "Billboard’s 21 Under 21: See Who Made the 2026 List - Billboard",
@@ -3048,8 +3050,8 @@
           ]
         },
         {
-          "id": "music-1-6253898567418810711",
-          "key": "music-1-6253898567418810711",
+          "id": "music-1-1807823671296631486",
+          "key": "music-1-1807823671296631486",
           "category": "Music",
           "label": "Music",
           "headline": "The Rolling Stones ‘Behind the Song’: See Mick Jagger and Producer Andrew Watt’s Deep Dive on the Creation of ‘Mr. Charm’ (EXCLUSIVE)",
@@ -3076,25 +3078,25 @@
           ]
         },
         {
-          "id": "music-11-6175993841376423850",
-          "key": "music-11-6175993841376423850",
+          "id": "music-11-1959271806991257112",
+          "key": "music-11-1959271806991257112",
           "category": "Music",
           "label": "Music",
-          "headline": "Trueno & Milo J Close LAMC 2026 at New York’s SummerStage & More Uplifting Moments in Latin Music",
-          "title": "Trueno & Milo J Close LAMC 2026 at New York’s SummerStage & More Uplifting Moments in Latin Music",
-          "snapshot": "Plus, the Global Impact panel explores Latin music’s worldwide reach, and Sony Latin showcases emerging artists — all in this special LAMC Edition.",
-          "summary": "Plus, the Global Impact panel explores Latin music’s worldwide reach, and Sony Latin showcases emerging artists — all in this special LAMC Edition.",
-          "url": "https://www.billboard.com/music/latin/trueno-milo-j-close-lamc-2026-new-york-summerstage-1236307580/",
+          "headline": "Lollapalooza 2026 Shortens Wolf Alice and Cortis Sets Due to Severe Flooding",
+          "title": "Lollapalooza 2026 Shortens Wolf Alice and Cortis Sets Due to Severe Flooding",
+          "snapshot": "The schedule changes on Aug. 1 came after heavy overnight rain soaked Chicago.",
+          "summary": "The schedule changes on Aug. 1 came after heavy overnight rain soaked Chicago.",
+          "url": "https://www.billboard.com/music/music-news/lollapalooza-2026-flooding-delays-wolf-alice-cortis-sets-1236307838/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-02 11:46:56 AM ET",
+          "published_at": "2026-08-02 01:32:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "Trueno & Milo J Close LAMC 2026 at New York’s SummerStage & More Uplifting Moments in Latin Music"
+            "Lollapalooza 2026 Shortens Wolf Alice and Cortis Sets Due to Severe Flooding"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3104,8 +3106,8 @@
           ]
         },
         {
-          "id": "music-21-7250794062016360992",
-          "key": "music-21-7250794062016360992",
+          "id": "music-21-2452582467083880658",
+          "key": "music-21-2452582467083880658",
           "category": "Music",
           "label": "Music",
           "headline": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - Billboard",
@@ -3132,7 +3134,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-02 01:00:21 PM ET"
+      "updated_at": "2026-08-02 03:11:19 PM ET"
     },
     {
       "key": "awards",
@@ -3154,8 +3156,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "awards-0-1869017703199073121",
-          "key": "awards-0-1869017703199073121",
+          "id": "awards-0-5825903835619069687",
+          "key": "awards-0-5825903835619069687",
           "category": "Awards",
           "label": "Awards",
           "headline": "Hollywood Foreign Press Association Sues Penske Media Corporation Over Golden Globes Purchase",
@@ -3182,8 +3184,8 @@
           ]
         },
         {
-          "id": "awards-3-7754528602611018686",
-          "key": "awards-3-7754528602611018686",
+          "id": "awards-3-6573595384919542469",
+          "key": "awards-3-6573595384919542469",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar - Deadline",
@@ -3210,8 +3212,8 @@
           ]
         },
         {
-          "id": "awards-1-6565885846066077211",
-          "key": "awards-1-6565885846066077211",
+          "id": "awards-1-3141206401003936347",
+          "key": "awards-1-3141206401003936347",
           "category": "Awards",
           "label": "Awards",
           "headline": "Emmys 2026 Voters’ Guide: Breaking Down the Early Frontrunners",
@@ -3238,8 +3240,8 @@
           ]
         },
         {
-          "id": "awards-4-4770190111433479804",
-          "key": "awards-4-4770190111433479804",
+          "id": "awards-4-3040480034067787454",
+          "key": "awards-4-3040480034067787454",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo",
@@ -3268,8 +3270,8 @@
       ],
       "items": [
         {
-          "id": "awards-0-1869017703199073121",
-          "key": "awards-0-1869017703199073121",
+          "id": "awards-0-5825903835619069687",
+          "key": "awards-0-5825903835619069687",
           "category": "Awards",
           "label": "Awards",
           "headline": "Hollywood Foreign Press Association Sues Penske Media Corporation Over Golden Globes Purchase",
@@ -3296,8 +3298,8 @@
           ]
         },
         {
-          "id": "awards-3-7754528602611018686",
-          "key": "awards-3-7754528602611018686",
+          "id": "awards-3-6573595384919542469",
+          "key": "awards-3-6573595384919542469",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar - Deadline",
@@ -3324,8 +3326,8 @@
           ]
         },
         {
-          "id": "awards-1-6565885846066077211",
-          "key": "awards-1-6565885846066077211",
+          "id": "awards-1-3141206401003936347",
+          "key": "awards-1-3141206401003936347",
           "category": "Awards",
           "label": "Awards",
           "headline": "Emmys 2026 Voters’ Guide: Breaking Down the Early Frontrunners",
@@ -3352,8 +3354,8 @@
           ]
         },
         {
-          "id": "awards-4-4770190111433479804",
-          "key": "awards-4-4770190111433479804",
+          "id": "awards-4-3040480034067787454",
+          "key": "awards-4-3040480034067787454",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo",
@@ -3380,7 +3382,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-02 01:00:21 PM ET"
+      "updated_at": "2026-08-02 03:11:19 PM ET"
     },
     {
       "key": "box_office",
@@ -3390,20 +3392,20 @@
       "snapshot": "Box Office coverage is updating with 4 current RSS headline item(s).",
       "key_storylines": [
         "Olivia Wilde’s ‘The Invite’ Nears $40 Million Globally, Becoming a Rare Hit Summer Comedy",
-        "‘Spider-Man: Brand New Day’ Powers To Amazing Second-Best Global Opening At Box Office With $927M WW; ‘Odyssey’ Nearing $1B - Deadline",
+        "New ‘Spider-Man’ Movie Scores Hollywood’s Second-Biggest Debut Ever - WSJ",
         "‘Spider-Man: Brand New Day’ Sets Box Office Record With $72 Million in Previews, Beating ‘Avengers: Endgame’",
-        "‘The Odyssey’ fuels Hollywood’s biggest box office resurgence since the pandemic - Deseret News"
+        "Spider-Man: Brand New Day Helps Movie Theaters Enjoy Biggest Domestic Box Office Weekend in History - MovieWeb"
       ],
       "watch_list": [
         "Olivia Wilde’s ‘The Invite’ Nears $40 Million Globally, Becoming a Rare Hit Summer Comedy",
-        "‘Spider-Man: Brand New Day’ Powers To Amazing Second-Best Global Opening At Box Office With $927M WW; ‘Odyssey’ Nearing $1B - Deadline",
+        "New ‘Spider-Man’ Movie Scores Hollywood’s Second-Biggest Debut Ever - WSJ",
         "‘Spider-Man: Brand New Day’ Sets Box Office Record With $72 Million in Previews, Beating ‘Avengers: Endgame’",
-        "‘The Odyssey’ fuels Hollywood’s biggest box office resurgence since the pandemic - Deseret News"
+        "Spider-Man: Brand New Day Helps Movie Theaters Enjoy Biggest Domestic Box Office Weekend in History - MovieWeb"
       ],
       "homepage_cards": [
         {
-          "id": "box_office-0-127494721007480748",
-          "key": "box_office-0-127494721007480748",
+          "id": "box_office-0-7210103306147748391",
+          "key": "box_office-0-7210103306147748391",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Olivia Wilde’s ‘The Invite’ Nears $40 Million Globally, Becoming a Rare Hit Summer Comedy",
@@ -3430,25 +3432,25 @@
           ]
         },
         {
-          "id": "box_office-10-3372614940568277503",
-          "key": "box_office-10-3372614940568277503",
+          "id": "box_office-7-5503868174291201418",
+          "key": "box_office-7-5503868174291201418",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "‘Spider-Man: Brand New Day’ Powers To Amazing Second-Best Global Opening At Box Office With $927M WW; ‘Odyssey’ Nearing $1B - Deadline",
-          "title": "‘Spider-Man: Brand New Day’ Powers To Amazing Second-Best Global Opening At Box Office With $927M WW; ‘Odyssey’ Nearing $1B - Deadline",
-          "snapshot": "‘Spider-Man: Brand New Day’ Powers To Amazing Second-Best Global Opening At Box Office With $927M WW; ‘Odyssey’ Nearing $1B Deadline",
-          "summary": "‘Spider-Man: Brand New Day’ Powers To Amazing Second-Best Global Opening At Box Office With $927M WW; ‘Odyssey’ Nearing $1B Deadline",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYzJQdXlnT29aaF84dTc1SGhTSFpMejQ1OXZuRmFtWDZQYkJBaXE3UlUzcjlYTUoyRnpvZFdfV3VCX0hYX2V1aldoZEV0cUU2RkRUOVp0MFlWaWxhdW5aaG5rSU9BM0dnZkJ5N0hSQ3dOeU5Ba3FoWjFya0tLVnJNU1Rya0pRMno4eFFV?oc=5",
+          "headline": "New ‘Spider-Man’ Movie Scores Hollywood’s Second-Biggest Debut Ever - WSJ",
+          "title": "New ‘Spider-Man’ Movie Scores Hollywood’s Second-Biggest Debut Ever - WSJ",
+          "snapshot": "New ‘Spider-Man’ Movie Scores Hollywood’s Second-Biggest Debut Ever WSJ",
+          "summary": "New ‘Spider-Man’ Movie Scores Hollywood’s Second-Biggest Debut Ever WSJ",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOWtITDI2WHN2VFZhVGo3YlVlZGFYQ2FIMWhvQV9LQjNMTHV6bkIzNTVWN2VwTHp6TVBlQks3OERTVFp3dzJBVkl0aTU5eDlKLUdnOTZ0SGlWQjU0QmlKRm9uRk1ySHFod2hub2ZaVGl6b0tBRWxiVFpRSWlodHA3Sjhuaw?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-02 11:53:00 AM ET",
+          "published_at": "2026-08-02 01:41:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 90,
+          "priority_score": 93,
           "key_data": [
-            "‘Spider-Man: Brand New Day’ Powers To Amazing Second-Best Global Opening At Box Office With $927M WW; ‘Odyssey’ Nearing $1B - Deadline"
+            "New ‘Spider-Man’ Movie Scores Hollywood’s Second-Biggest Debut Ever - WSJ"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3458,8 +3460,8 @@
           ]
         },
         {
-          "id": "box_office-1-7700752019153967587",
-          "key": "box_office-1-7700752019153967587",
+          "id": "box_office-1-50522129900175298",
+          "key": "box_office-1-50522129900175298",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Spider-Man: Brand New Day’ Sets Box Office Record With $72 Million in Previews, Beating ‘Avengers: Endgame’",
@@ -3486,25 +3488,25 @@
           ]
         },
         {
-          "id": "box_office-11-3977938692267721028",
-          "key": "box_office-11-3977938692267721028",
+          "id": "box_office-8-5222492684850032386",
+          "key": "box_office-8-5222492684850032386",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "‘The Odyssey’ fuels Hollywood’s biggest box office resurgence since the pandemic - Deseret News",
-          "title": "‘The Odyssey’ fuels Hollywood’s biggest box office resurgence since the pandemic - Deseret News",
-          "snapshot": "‘The Odyssey’ fuels Hollywood’s biggest box office resurgence since the pandemic Deseret News",
-          "summary": "‘The Odyssey’ fuels Hollywood’s biggest box office resurgence since the pandemic Deseret News",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUXNCMEt6MkJ6MDk5NHp6REZxQzZlSnh5WERWeC1yOTJHRGMxLXFHUnNsYVVLRFpMbU5faHprcVZBa0VjclFaZDcxVzlKazh2Qm9vZjdjR3F4SEV2X0ZPdzZpM0VLMWhQMG9mTWIyaVpUaWRzUXdKUkVFdV9iRGwxTjVQdjFTd3dYYWlqZlNKS1NFMWVXNFpHQ1R3Y2NuT05TLUI3YkZoTV9ITGRtalFVdA?oc=5",
+          "headline": "Spider-Man: Brand New Day Helps Movie Theaters Enjoy Biggest Domestic Box Office Weekend in History - MovieWeb",
+          "title": "Spider-Man: Brand New Day Helps Movie Theaters Enjoy Biggest Domestic Box Office Weekend in History - MovieWeb",
+          "snapshot": "Spider-Man: Brand New Day Helps Movie Theaters Enjoy Biggest Domestic Box Office Weekend in History MovieWeb",
+          "summary": "Spider-Man: Brand New Day Helps Movie Theaters Enjoy Biggest Domestic Box Office Weekend in History MovieWeb",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oRTRvaEI3d3FOTF9YeDlHLXl4d0xibDJDRHNvamYtUXNNVG8tLUhIdzVaaWR3alUtQXhEdHBpZHR4YV9BdmZoYW41R0IxX0tNb3NmcGdWaVpTcnFFLTBJWXhTS3FzRkpCMXc?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-07-27 06:23:24 PM ET",
+          "published_at": "2026-08-02 12:55:04 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 89,
+          "priority_score": 92,
           "key_data": [
-            "‘The Odyssey’ fuels Hollywood’s biggest box office resurgence since the pandemic - Deseret News"
+            "Spider-Man: Brand New Day Helps Movie Theaters Enjoy Biggest Domestic Box Office Weekend in History - MovieWeb"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3516,8 +3518,8 @@
       ],
       "items": [
         {
-          "id": "box_office-0-127494721007480748",
-          "key": "box_office-0-127494721007480748",
+          "id": "box_office-0-7210103306147748391",
+          "key": "box_office-0-7210103306147748391",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Olivia Wilde’s ‘The Invite’ Nears $40 Million Globally, Becoming a Rare Hit Summer Comedy",
@@ -3544,25 +3546,25 @@
           ]
         },
         {
-          "id": "box_office-10-3372614940568277503",
-          "key": "box_office-10-3372614940568277503",
+          "id": "box_office-7-5503868174291201418",
+          "key": "box_office-7-5503868174291201418",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "‘Spider-Man: Brand New Day’ Powers To Amazing Second-Best Global Opening At Box Office With $927M WW; ‘Odyssey’ Nearing $1B - Deadline",
-          "title": "‘Spider-Man: Brand New Day’ Powers To Amazing Second-Best Global Opening At Box Office With $927M WW; ‘Odyssey’ Nearing $1B - Deadline",
-          "snapshot": "‘Spider-Man: Brand New Day’ Powers To Amazing Second-Best Global Opening At Box Office With $927M WW; ‘Odyssey’ Nearing $1B Deadline",
-          "summary": "‘Spider-Man: Brand New Day’ Powers To Amazing Second-Best Global Opening At Box Office With $927M WW; ‘Odyssey’ Nearing $1B Deadline",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYzJQdXlnT29aaF84dTc1SGhTSFpMejQ1OXZuRmFtWDZQYkJBaXE3UlUzcjlYTUoyRnpvZFdfV3VCX0hYX2V1aldoZEV0cUU2RkRUOVp0MFlWaWxhdW5aaG5rSU9BM0dnZkJ5N0hSQ3dOeU5Ba3FoWjFya0tLVnJNU1Rya0pRMno4eFFV?oc=5",
+          "headline": "New ‘Spider-Man’ Movie Scores Hollywood’s Second-Biggest Debut Ever - WSJ",
+          "title": "New ‘Spider-Man’ Movie Scores Hollywood’s Second-Biggest Debut Ever - WSJ",
+          "snapshot": "New ‘Spider-Man’ Movie Scores Hollywood’s Second-Biggest Debut Ever WSJ",
+          "summary": "New ‘Spider-Man’ Movie Scores Hollywood’s Second-Biggest Debut Ever WSJ",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOWtITDI2WHN2VFZhVGo3YlVlZGFYQ2FIMWhvQV9LQjNMTHV6bkIzNTVWN2VwTHp6TVBlQks3OERTVFp3dzJBVkl0aTU5eDlKLUdnOTZ0SGlWQjU0QmlKRm9uRk1ySHFod2hub2ZaVGl6b0tBRWxiVFpRSWlodHA3Sjhuaw?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-02 11:53:00 AM ET",
+          "published_at": "2026-08-02 01:41:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 90,
+          "priority_score": 93,
           "key_data": [
-            "‘Spider-Man: Brand New Day’ Powers To Amazing Second-Best Global Opening At Box Office With $927M WW; ‘Odyssey’ Nearing $1B - Deadline"
+            "New ‘Spider-Man’ Movie Scores Hollywood’s Second-Biggest Debut Ever - WSJ"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3572,8 +3574,8 @@
           ]
         },
         {
-          "id": "box_office-1-7700752019153967587",
-          "key": "box_office-1-7700752019153967587",
+          "id": "box_office-1-50522129900175298",
+          "key": "box_office-1-50522129900175298",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Spider-Man: Brand New Day’ Sets Box Office Record With $72 Million in Previews, Beating ‘Avengers: Endgame’",
@@ -3600,25 +3602,25 @@
           ]
         },
         {
-          "id": "box_office-11-3977938692267721028",
-          "key": "box_office-11-3977938692267721028",
+          "id": "box_office-8-5222492684850032386",
+          "key": "box_office-8-5222492684850032386",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "‘The Odyssey’ fuels Hollywood’s biggest box office resurgence since the pandemic - Deseret News",
-          "title": "‘The Odyssey’ fuels Hollywood’s biggest box office resurgence since the pandemic - Deseret News",
-          "snapshot": "‘The Odyssey’ fuels Hollywood’s biggest box office resurgence since the pandemic Deseret News",
-          "summary": "‘The Odyssey’ fuels Hollywood’s biggest box office resurgence since the pandemic Deseret News",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUXNCMEt6MkJ6MDk5NHp6REZxQzZlSnh5WERWeC1yOTJHRGMxLXFHUnNsYVVLRFpMbU5faHprcVZBa0VjclFaZDcxVzlKazh2Qm9vZjdjR3F4SEV2X0ZPdzZpM0VLMWhQMG9mTWIyaVpUaWRzUXdKUkVFdV9iRGwxTjVQdjFTd3dYYWlqZlNKS1NFMWVXNFpHQ1R3Y2NuT05TLUI3YkZoTV9ITGRtalFVdA?oc=5",
+          "headline": "Spider-Man: Brand New Day Helps Movie Theaters Enjoy Biggest Domestic Box Office Weekend in History - MovieWeb",
+          "title": "Spider-Man: Brand New Day Helps Movie Theaters Enjoy Biggest Domestic Box Office Weekend in History - MovieWeb",
+          "snapshot": "Spider-Man: Brand New Day Helps Movie Theaters Enjoy Biggest Domestic Box Office Weekend in History MovieWeb",
+          "summary": "Spider-Man: Brand New Day Helps Movie Theaters Enjoy Biggest Domestic Box Office Weekend in History MovieWeb",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oRTRvaEI3d3FOTF9YeDlHLXl4d0xibDJDRHNvamYtUXNNVG8tLUhIdzVaaWR3alUtQXhEdHBpZHR4YV9BdmZoYW41R0IxX0tNb3NmcGdWaVpTcnFFLTBJWXhTS3FzRkpCMXc?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-07-27 06:23:24 PM ET",
+          "published_at": "2026-08-02 12:55:04 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 89,
+          "priority_score": 92,
           "key_data": [
-            "‘The Odyssey’ fuels Hollywood’s biggest box office resurgence since the pandemic - Deseret News"
+            "Spider-Man: Brand New Day Helps Movie Theaters Enjoy Biggest Domestic Box Office Weekend in History - MovieWeb"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3628,7 +3630,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-02 01:00:22 PM ET"
+      "updated_at": "2026-08-02 03:11:20 PM ET"
     },
     {
       "key": "celebrity",
@@ -3646,8 +3648,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "celebrity-0-8491123307406330528",
-          "key": "celebrity-0-8491123307406330528",
+          "id": "celebrity-0-40995831111735071",
+          "key": "celebrity-0-40995831111735071",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3674,8 +3676,8 @@
           ]
         },
         {
-          "id": "celebrity-1-1367259757703733610",
-          "key": "celebrity-1-1367259757703733610",
+          "id": "celebrity-1-9077211168158182977",
+          "key": "celebrity-1-9077211168158182977",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "From breakups to new beginnings: Inside a week of celebrity relationship news - Cleveland.com",
@@ -3704,8 +3706,8 @@
       ],
       "items": [
         {
-          "id": "celebrity-0-8491123307406330528",
-          "key": "celebrity-0-8491123307406330528",
+          "id": "celebrity-0-40995831111735071",
+          "key": "celebrity-0-40995831111735071",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3732,8 +3734,8 @@
           ]
         },
         {
-          "id": "celebrity-1-1367259757703733610",
-          "key": "celebrity-1-1367259757703733610",
+          "id": "celebrity-1-9077211168158182977",
+          "key": "celebrity-1-9077211168158182977",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "From breakups to new beginnings: Inside a week of celebrity relationship news - Cleveland.com",
@@ -3760,51 +3762,52 @@
           ]
         }
       ],
-      "updated_at": "2026-08-02 01:00:22 PM ET"
+      "updated_at": "2026-08-02 03:11:21 PM ET"
     },
     {
       "key": "hollywood",
       "name": "Hollywood",
       "title": "Hollywood Report",
-      "headline": "Toymaker Hasbro Reimagines Most Iconic Board Games With Spider-Man-Themed Graphics and Gameplay",
-      "snapshot": "Hollywood coverage is updating with 7 current RSS headline item(s).",
+      "headline": "‘Hadestown’ Parts Ways With Hades Actor Geno Segers After Online Controversy",
+      "snapshot": "Hollywood coverage is updating with 8 current RSS headline item(s).",
       "key_storylines": [
-        "Toymaker Hasbro Reimagines Most Iconic Board Games With Spider-Man-Themed Graphics and Gameplay",
-        "‘Spider-Man: Brand New Day’ Nearly Topples ‘Avengers: Endgame’ $357M All-Time U.S. Weekend Record – Sunday AM Box Office Update",
-        "‘Hadestown’ Parts Ways With Actor Geno Segers After Online Outrage",
+        "‘Hadestown’ Parts Ways With Hades Actor Geno Segers After Online Controversy",
+        "North American Box Office Sees Record $429M Weekend Thanks To ‘Brand New Day’; YTD B.O. Soars Past $6B",
+        "Nancy Guthrie Case Haunted by Sheriff’s Department’s Possible Mistakes",
         "Hollywood-grade soundstage could boost Cleveland's film industry with $5M Euclid project: Mission Possible - WKYC",
-        "Lil Uzi Vert’s Lollapalooza Set Canceled Amid “Weather Issues,” Joins Major Lazer"
+        "Toymaker Hasbro Reimagines Most Iconic Board Games With Spider-Man-Themed Graphics and Gameplay"
       ],
       "watch_list": [
-        "Toymaker Hasbro Reimagines Most Iconic Board Games With Spider-Man-Themed Graphics and Gameplay",
-        "‘Spider-Man: Brand New Day’ Nearly Topples ‘Avengers: Endgame’ $357M All-Time U.S. Weekend Record – Sunday AM Box Office Update",
-        "‘Hadestown’ Parts Ways With Actor Geno Segers After Online Outrage",
+        "‘Hadestown’ Parts Ways With Hades Actor Geno Segers After Online Controversy",
+        "North American Box Office Sees Record $429M Weekend Thanks To ‘Brand New Day’; YTD B.O. Soars Past $6B",
+        "Nancy Guthrie Case Haunted by Sheriff’s Department’s Possible Mistakes",
         "Hollywood-grade soundstage could boost Cleveland's film industry with $5M Euclid project: Mission Possible - WKYC",
-        "Lil Uzi Vert’s Lollapalooza Set Canceled Amid “Weather Issues,” Joins Major Lazer",
-        "Gavin Newsom Reportedly Concerned About State Antitrust Suit Against Paramount-Warner Bros. Merger",
-        "LA’s film decline needs urgent action — or Hollywood is dead - New York Post"
+        "Toymaker Hasbro Reimagines Most Iconic Board Games With Spider-Man-Themed Graphics and Gameplay",
+        "Broadway’s ‘Hadestown’ Parts Ways With Actor Geno Segers Following Online Controversy",
+        "Sally Field Won Her First Emmy for 1976’s ‘Sybil’",
+        "Horvath Convenes Entertainment Union Coalition on Hollywood's Future - Santa Monica Daily Press"
       ],
       "homepage_cards": [
         {
-          "id": "hollywood-0-6605153877691087852",
-          "key": "hollywood-0-6605153877691087852",
+          "id": "hollywood-0-2647249658170506032",
+          "key": "hollywood-0-2647249658170506032",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Toymaker Hasbro Reimagines Most Iconic Board Games With Spider-Man-Themed Graphics and Gameplay",
-          "title": "Toymaker Hasbro Reimagines Most Iconic Board Games With Spider-Man-Themed Graphics and Gameplay",
-          "snapshot": "“Spider-Man: Brand New Day” is shaping up to be a big hit at the box office, challenging 2019’s “Avengers: Endgame” for the biggest North American movie opening of all time. Now, fans can also compete in a different type of challenge, with toymaker Hasbro re-releasing a number of its most popular board games with Sp...",
-          "summary": "“Spider-Man: Brand New Day” is shaping up to be a big hit at the box office, challenging 2019’s “Avengers: Endgame” for the biggest North American movie opening of all time. Now, fans can also compete in a different type of challenge, with toymaker Hasbro re-releasing a number of its most popular board games with Sp...",
-          "url": "https://variety.com/2026/shopping/news/best-spider-man-board-games-hasbro-monopoly-buy-online-1236825826/",
+          "headline": "‘Hadestown’ Parts Ways With Hades Actor Geno Segers After Online Controversy",
+          "title": "‘Hadestown’ Parts Ways With Hades Actor Geno Segers After Online Controversy",
+          "snapshot": "Geno Segers, who was announced this week to join Broadway’s “Hadestown,” will no longer be part of the Broadway production. “Hadestown” announced a new principal cast earlier this week, with Segers set to play Hades. His previous stage credits include “On the Town” and “The Lion King” as well as TV roles in “Banshee...",
+          "summary": "Geno Segers, who was announced this week to join Broadway’s “Hadestown,” will no longer be part of the Broadway production. “Hadestown” announced a new principal cast earlier this week, with Segers set to play Hades. His previous stage credits include “On the Town” and “The Lion King” as well as TV roles in “Banshee...",
+          "url": "https://variety.com/2026/theater/news/broadways-hadestown-geno-segers-online-controversy-1236826009/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/feed/",
-          "published_at": "2026-08-01 11:55:33 PM ET",
+          "published_at": "2026-08-02 02:51:25 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Toymaker Hasbro Reimagines Most Iconic Board Games With Spider-Man-Themed Graphics and Gameplay"
+            "‘Hadestown’ Parts Ways With Hades Actor Geno Segers After Online Controversy"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3814,25 +3817,25 @@
           ]
         },
         {
-          "id": "hollywood-1-4670797785275522494",
-          "key": "hollywood-1-4670797785275522494",
+          "id": "hollywood-2-5343641884226526643",
+          "key": "hollywood-2-5343641884226526643",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "‘Spider-Man: Brand New Day’ Nearly Topples ‘Avengers: Endgame’ $357M All-Time U.S. Weekend Record – Sunday AM Box Office Update",
-          "title": "‘Spider-Man: Brand New Day’ Nearly Topples ‘Avengers: Endgame’ $357M All-Time U.S. Weekend Record – Sunday AM Box Office Update",
-          "snapshot": "SUNDAY AM: Refresh for more…It’s close, oh, so close, as Sony/Marvel Studios’ Spider-Man: Brand New Day with $355M nearly ended Avengers: Endgame run for the best opening weekend ever in North America, that Marvel Studios Russo Brothers pic still holding the 3-day title with $357.1M. But for Sony, there’s no problem...",
-          "summary": "SUNDAY AM: Refresh for more…It’s close, oh, so close, as Sony/Marvel Studios’ Spider-Man: Brand New Day with $355M nearly ended Avengers: Endgame run for the best opening weekend ever in North America, that Marvel Studios Russo Brothers pic still holding the 3-day title with $357.1M. But for Sony, there’s no problem...",
-          "url": "https://deadline.com/2026/08/box-office-spider-man-brand-new-day-1237014268/",
+          "headline": "North American Box Office Sees Record $429M Weekend Thanks To ‘Brand New Day’; YTD B.O. Soars Past $6B",
+          "title": "North American Box Office Sees Record $429M Weekend Thanks To ‘Brand New Day’; YTD B.O. Soars Past $6B",
+          "snapshot": "It was the best of times at the box office, and it was the best of times. No worst times as the entire North American marketplace hit a record $428.99M weekend for all pics per Rentrak thanks to the $355M second best ever domestic opening of Sony/Marvel Studio’s Spider-Man: Brand New Day. We knew it […]",
+          "summary": "It was the best of times at the box office, and it was the best of times. No worst times as the entire North American marketplace hit a record $428.99M weekend for all pics per Rentrak thanks to the $355M second best ever domestic opening of Sony/Marvel Studio’s Spider-Man: Brand New Day. We knew it […]",
+          "url": "https://deadline.com/2026/08/box-office-domestic-record-weekend-spider-man-brand-new-day-1237015511/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/feed/",
-          "published_at": "2026-08-02 10:55:00 AM ET",
+          "published_at": "2026-08-02 02:20:26 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 99,
+          "priority_score": 98,
           "key_data": [
-            "‘Spider-Man: Brand New Day’ Nearly Topples ‘Avengers: Endgame’ $357M All-Time U.S. Weekend Record – Sunday AM Box Office Update"
+            "North American Box Office Sees Record $429M Weekend Thanks To ‘Brand New Day’; YTD B.O. Soars Past $6B"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3842,25 +3845,25 @@
           ]
         },
         {
-          "id": "hollywood-3-5845920138109613844",
-          "key": "hollywood-3-5845920138109613844",
+          "id": "hollywood-8-3849635920967734155",
+          "key": "hollywood-8-3849635920967734155",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "‘Hadestown’ Parts Ways With Actor Geno Segers After Online Outrage",
-          "title": "‘Hadestown’ Parts Ways With Actor Geno Segers After Online Outrage",
-          "snapshot": "Segers had initially been announced as part of the upcoming cast, but the news quickly drew backlash online.",
-          "summary": "Segers had initially been announced as part of the upcoming cast, but the news quickly drew backlash online.",
-          "url": "https://www.hollywoodreporter.com/lifestyle/arts/hadestown-parts-ways-geno-segers-online-outrage-casting-1236661742/",
+          "headline": "Nancy Guthrie Case Haunted by Sheriff’s Department’s Possible Mistakes",
+          "title": "Nancy Guthrie Case Haunted by Sheriff’s Department’s Possible Mistakes",
+          "snapshot": "A new report from The Wall Street Journal accuses the Pima County Sheriff's Department of investigation delays, failing to protect crime-scene evidence and more.",
+          "summary": "A new report from The Wall Street Journal accuses the Pima County Sheriff's Department of investigation delays, failing to protect crime-scene evidence and more.",
+          "url": "https://www.hollywoodreporter.com/news/general-news/nancy-guthrie-case-haunted-possible-mistakes-sheriff-1236661720/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/feed/",
-          "published_at": "2026-08-02 12:50:36 PM ET",
+          "published_at": "2026-08-02 02:20:13 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 97,
+          "priority_score": 92,
           "key_data": [
-            "‘Hadestown’ Parts Ways With Actor Geno Segers After Online Outrage"
+            "Nancy Guthrie Case Haunted by Sheriff’s Department’s Possible Mistakes"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3870,8 +3873,8 @@
           ]
         },
         {
-          "id": "hollywood-6-1421182436740866215",
-          "key": "hollywood-6-1421182436740866215",
+          "id": "hollywood-13-6766347328239114574",
+          "key": "hollywood-13-6766347328239114574",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Hollywood-grade soundstage could boost Cleveland's film industry with $5M Euclid project: Mission Possible - WKYC",
@@ -3886,7 +3889,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 94,
+          "priority_score": 87,
           "key_data": [
             "Hollywood-grade soundstage could boost Cleveland's film industry with $5M Euclid project: Mission Possible - WKYC"
           ],
@@ -3898,25 +3901,53 @@
           ]
         },
         {
-          "id": "hollywood-2-6017085988195801412",
-          "key": "hollywood-2-6017085988195801412",
+          "id": "hollywood-1-3466011087657317875",
+          "key": "hollywood-1-3466011087657317875",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Lil Uzi Vert’s Lollapalooza Set Canceled Amid “Weather Issues,” Joins Major Lazer",
-          "title": "Lil Uzi Vert’s Lollapalooza Set Canceled Amid “Weather Issues,” Joins Major Lazer",
-          "snapshot": "As Lollapalooza gets into full swing, one name was removed from the weekend lineup amid heavy rain. On Friday, Lil Uzi Vert’s performance at the 35-year Chicago music festival was canceled ahead of headliner Charli XCX’s set “due to weather issues,” according to a message projected at the stage, as well as an announ...",
-          "summary": "As Lollapalooza gets into full swing, one name was removed from the weekend lineup amid heavy rain. On Friday, Lil Uzi Vert’s performance at the 35-year Chicago music festival was canceled ahead of headliner Charli XCX’s set “due to weather issues,” according to a message projected at the stage, as well as an announ...",
-          "url": "https://deadline.com/2026/08/lil-uzi-vert-lollapalooza-set-canceled-weather-issues-1237015301/",
+          "headline": "Toymaker Hasbro Reimagines Most Iconic Board Games With Spider-Man-Themed Graphics and Gameplay",
+          "title": "Toymaker Hasbro Reimagines Most Iconic Board Games With Spider-Man-Themed Graphics and Gameplay",
+          "snapshot": "“Spider-Man: Brand New Day” is shaping up to be a big hit at the box office, challenging 2019’s “Avengers: Endgame” for the biggest North American movie opening of all time. Now, fans can also compete in a different type of challenge, with toymaker Hasbro re-releasing a number of its most popular board games with Sp...",
+          "summary": "“Spider-Man: Brand New Day” is shaping up to be a big hit at the box office, challenging 2019’s “Avengers: Endgame” for the biggest North American movie opening of all time. Now, fans can also compete in a different type of challenge, with toymaker Hasbro re-releasing a number of its most popular board games with Sp...",
+          "url": "https://variety.com/2026/shopping/news/best-spider-man-board-games-hasbro-monopoly-buy-online-1236825826/",
+          "source": "Variety",
+          "source_name": "Variety",
+          "source_feed": "https://variety.com/feed/",
+          "published_at": "2026-08-01 11:55:33 PM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 99,
+          "key_data": [
+            "Toymaker Hasbro Reimagines Most Iconic Board Games With Spider-Man-Themed Graphics and Gameplay"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-3-5415786409127717048",
+          "key": "hollywood-3-5415786409127717048",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "Broadway’s ‘Hadestown’ Parts Ways With Actor Geno Segers Following Online Controversy",
+          "title": "Broadway’s ‘Hadestown’ Parts Ways With Actor Geno Segers Following Online Controversy",
+          "snapshot": "Earlier this week, the producers of Broadway’s Hadestown – Mara Isaacs, Dale Franzen, Hunter Arnold, and Tom Kirdahy – announced a new principal cast for the long-running musical, with the central role of Hades to be taken by Geno Segers, who had previously appeared on stage in On the Town and The Lion King and is k...",
+          "summary": "Earlier this week, the producers of Broadway’s Hadestown – Mara Isaacs, Dale Franzen, Hunter Arnold, and Tom Kirdahy – announced a new principal cast for the long-running musical, with the central role of Hades to be taken by Geno Segers, who had previously appeared on stage in On the Town and The Lion King and is k...",
+          "url": "https://deadline.com/2026/08/hadestown-geno-segers-broadway-1237015504/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/feed/",
-          "published_at": "2026-08-01 05:17:01 PM ET",
+          "published_at": "2026-08-02 01:56:11 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 98,
+          "priority_score": 97,
           "key_data": [
-            "Lil Uzi Vert’s Lollapalooza Set Canceled Amid “Weather Issues,” Joins Major Lazer"
+            "Broadway’s ‘Hadestown’ Parts Ways With Actor Geno Segers Following Online Controversy"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3926,25 +3957,25 @@
           ]
         },
         {
-          "id": "hollywood-4-3313724567407894654",
-          "key": "hollywood-4-3313724567407894654",
+          "id": "hollywood-9-7594800619760398478",
+          "key": "hollywood-9-7594800619760398478",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Gavin Newsom Reportedly Concerned About State Antitrust Suit Against Paramount-Warner Bros. Merger",
-          "title": "Gavin Newsom Reportedly Concerned About State Antitrust Suit Against Paramount-Warner Bros. Merger",
-          "snapshot": "In a Friday report, sources told The Wall Street Journal that California's governor has said if the merger is blocked due to the lawsuit, state employment will suffer, and that \"Newsom’s office has encouraged Attorney General Rob Bonta’s office, which has independent authority to file such suits, to find a resolutio...",
-          "summary": "In a Friday report, sources told The Wall Street Journal that California's governor has said if the merger is blocked due to the lawsuit, state employment will suffer, and that \"Newsom’s office has encouraged Attorney General Rob Bonta’s office, which has independent authority to file such suits, to find a resolutio...",
-          "url": "https://www.hollywoodreporter.com/business/business-news/gavin-newsom-concerned-state-suit-paramount-warner-bros-1236661514/",
+          "headline": "Sally Field Won Her First Emmy for 1976’s ‘Sybil’",
+          "title": "Sally Field Won Her First Emmy for 1976’s ‘Sybil’",
+          "snapshot": "The actress is back on the awards circuit for her role in Netflix’s ‘Remarkably Bright Creatures.’",
+          "summary": "The actress is back on the awards circuit for her role in Netflix’s ‘Remarkably Bright Creatures.’",
+          "url": "https://www.hollywoodreporter.com/tv/tv-features/sally-field-first-emmy-sybil-1236661223/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/feed/",
-          "published_at": "2026-08-01 07:46:57 PM ET",
+          "published_at": "2026-08-02 02:00:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 96,
+          "priority_score": 91,
           "key_data": [
-            "Gavin Newsom Reportedly Concerned About State Antitrust Suit Against Paramount-Warner Bros. Merger"
+            "Sally Field Won Her First Emmy for 1976’s ‘Sybil’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3954,25 +3985,25 @@
           ]
         },
         {
-          "id": "hollywood-7-6042065620945149244",
-          "key": "hollywood-7-6042065620945149244",
+          "id": "hollywood-14-5178985507174021928",
+          "key": "hollywood-14-5178985507174021928",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "LA’s film decline needs urgent action — or Hollywood is dead - New York Post",
-          "title": "LA’s film decline needs urgent action — or Hollywood is dead - New York Post",
-          "snapshot": "LA’s film decline needs urgent action — or Hollywood is dead New York Post",
-          "summary": "LA’s film decline needs urgent action — or Hollywood is dead New York Post",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONllFc2E3NDdXTVpqYkxVM19SelFJM0ZMcnVpMWpyTnZTMlU5VHBCMUJrVDdLalhBdG4zWHp3Z2lBOGkwNEllYTV1bzJ5bDVGRzJob1hKQ2RoZjdxXzl2QUphZ1h1bGVaZUVMVTVWUTJRS3VkRjAtQURybGVrLXo0VDJXTVcwZVVoWHlGZmUwQ3ZRbmM0d0FSUTFtNno?oc=5",
+          "headline": "Horvath Convenes Entertainment Union Coalition on Hollywood's Future - Santa Monica Daily Press",
+          "title": "Horvath Convenes Entertainment Union Coalition on Hollywood's Future - Santa Monica Daily Press",
+          "snapshot": "Horvath Convenes Entertainment Union Coalition on Hollywood's Future Santa Monica Daily Press",
+          "summary": "Horvath Convenes Entertainment Union Coalition on Hollywood's Future Santa Monica Daily Press",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLW9UQkhnM05fUnl6Uk1CYzg3dVA1b21GQXp4YzlCck5FaFdkUWZUYnpSTXREQjdHME5kVjdwWGU0SVVUWjNyY2MwNzhXenFtWWJKZm1rYzc1X3JyNzAwZkpBRXJ0NGMzTW1EcVQ0Z1JSU1Q3cGlwT3BhS0dkS1VxZ1lIN1RKYWY5dnlVMU1kQ3YxNmc?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-07-26 07:37:00 PM ET",
+          "published_at": "2026-08-01 12:00:52 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 93,
+          "priority_score": 86,
           "key_data": [
-            "LA’s film decline needs urgent action — or Hollywood is dead - New York Post"
+            "Horvath Convenes Entertainment Union Coalition on Hollywood's Future - Santa Monica Daily Press"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3984,25 +4015,25 @@
       ],
       "items": [
         {
-          "id": "hollywood-0-6605153877691087852",
-          "key": "hollywood-0-6605153877691087852",
+          "id": "hollywood-0-2647249658170506032",
+          "key": "hollywood-0-2647249658170506032",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Toymaker Hasbro Reimagines Most Iconic Board Games With Spider-Man-Themed Graphics and Gameplay",
-          "title": "Toymaker Hasbro Reimagines Most Iconic Board Games With Spider-Man-Themed Graphics and Gameplay",
-          "snapshot": "“Spider-Man: Brand New Day” is shaping up to be a big hit at the box office, challenging 2019’s “Avengers: Endgame” for the biggest North American movie opening of all time. Now, fans can also compete in a different type of challenge, with toymaker Hasbro re-releasing a number of its most popular board games with Sp...",
-          "summary": "“Spider-Man: Brand New Day” is shaping up to be a big hit at the box office, challenging 2019’s “Avengers: Endgame” for the biggest North American movie opening of all time. Now, fans can also compete in a different type of challenge, with toymaker Hasbro re-releasing a number of its most popular board games with Sp...",
-          "url": "https://variety.com/2026/shopping/news/best-spider-man-board-games-hasbro-monopoly-buy-online-1236825826/",
+          "headline": "‘Hadestown’ Parts Ways With Hades Actor Geno Segers After Online Controversy",
+          "title": "‘Hadestown’ Parts Ways With Hades Actor Geno Segers After Online Controversy",
+          "snapshot": "Geno Segers, who was announced this week to join Broadway’s “Hadestown,” will no longer be part of the Broadway production. “Hadestown” announced a new principal cast earlier this week, with Segers set to play Hades. His previous stage credits include “On the Town” and “The Lion King” as well as TV roles in “Banshee...",
+          "summary": "Geno Segers, who was announced this week to join Broadway’s “Hadestown,” will no longer be part of the Broadway production. “Hadestown” announced a new principal cast earlier this week, with Segers set to play Hades. His previous stage credits include “On the Town” and “The Lion King” as well as TV roles in “Banshee...",
+          "url": "https://variety.com/2026/theater/news/broadways-hadestown-geno-segers-online-controversy-1236826009/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/feed/",
-          "published_at": "2026-08-01 11:55:33 PM ET",
+          "published_at": "2026-08-02 02:51:25 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Toymaker Hasbro Reimagines Most Iconic Board Games With Spider-Man-Themed Graphics and Gameplay"
+            "‘Hadestown’ Parts Ways With Hades Actor Geno Segers After Online Controversy"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4012,25 +4043,25 @@
           ]
         },
         {
-          "id": "hollywood-1-4670797785275522494",
-          "key": "hollywood-1-4670797785275522494",
+          "id": "hollywood-2-5343641884226526643",
+          "key": "hollywood-2-5343641884226526643",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "‘Spider-Man: Brand New Day’ Nearly Topples ‘Avengers: Endgame’ $357M All-Time U.S. Weekend Record – Sunday AM Box Office Update",
-          "title": "‘Spider-Man: Brand New Day’ Nearly Topples ‘Avengers: Endgame’ $357M All-Time U.S. Weekend Record – Sunday AM Box Office Update",
-          "snapshot": "SUNDAY AM: Refresh for more…It’s close, oh, so close, as Sony/Marvel Studios’ Spider-Man: Brand New Day with $355M nearly ended Avengers: Endgame run for the best opening weekend ever in North America, that Marvel Studios Russo Brothers pic still holding the 3-day title with $357.1M. But for Sony, there’s no problem...",
-          "summary": "SUNDAY AM: Refresh for more…It’s close, oh, so close, as Sony/Marvel Studios’ Spider-Man: Brand New Day with $355M nearly ended Avengers: Endgame run for the best opening weekend ever in North America, that Marvel Studios Russo Brothers pic still holding the 3-day title with $357.1M. But for Sony, there’s no problem...",
-          "url": "https://deadline.com/2026/08/box-office-spider-man-brand-new-day-1237014268/",
+          "headline": "North American Box Office Sees Record $429M Weekend Thanks To ‘Brand New Day’; YTD B.O. Soars Past $6B",
+          "title": "North American Box Office Sees Record $429M Weekend Thanks To ‘Brand New Day’; YTD B.O. Soars Past $6B",
+          "snapshot": "It was the best of times at the box office, and it was the best of times. No worst times as the entire North American marketplace hit a record $428.99M weekend for all pics per Rentrak thanks to the $355M second best ever domestic opening of Sony/Marvel Studio’s Spider-Man: Brand New Day. We knew it […]",
+          "summary": "It was the best of times at the box office, and it was the best of times. No worst times as the entire North American marketplace hit a record $428.99M weekend for all pics per Rentrak thanks to the $355M second best ever domestic opening of Sony/Marvel Studio’s Spider-Man: Brand New Day. We knew it […]",
+          "url": "https://deadline.com/2026/08/box-office-domestic-record-weekend-spider-man-brand-new-day-1237015511/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/feed/",
-          "published_at": "2026-08-02 10:55:00 AM ET",
+          "published_at": "2026-08-02 02:20:26 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 99,
+          "priority_score": 98,
           "key_data": [
-            "‘Spider-Man: Brand New Day’ Nearly Topples ‘Avengers: Endgame’ $357M All-Time U.S. Weekend Record – Sunday AM Box Office Update"
+            "North American Box Office Sees Record $429M Weekend Thanks To ‘Brand New Day’; YTD B.O. Soars Past $6B"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4040,25 +4071,25 @@
           ]
         },
         {
-          "id": "hollywood-3-5845920138109613844",
-          "key": "hollywood-3-5845920138109613844",
+          "id": "hollywood-8-3849635920967734155",
+          "key": "hollywood-8-3849635920967734155",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "‘Hadestown’ Parts Ways With Actor Geno Segers After Online Outrage",
-          "title": "‘Hadestown’ Parts Ways With Actor Geno Segers After Online Outrage",
-          "snapshot": "Segers had initially been announced as part of the upcoming cast, but the news quickly drew backlash online.",
-          "summary": "Segers had initially been announced as part of the upcoming cast, but the news quickly drew backlash online.",
-          "url": "https://www.hollywoodreporter.com/lifestyle/arts/hadestown-parts-ways-geno-segers-online-outrage-casting-1236661742/",
+          "headline": "Nancy Guthrie Case Haunted by Sheriff’s Department’s Possible Mistakes",
+          "title": "Nancy Guthrie Case Haunted by Sheriff’s Department’s Possible Mistakes",
+          "snapshot": "A new report from The Wall Street Journal accuses the Pima County Sheriff's Department of investigation delays, failing to protect crime-scene evidence and more.",
+          "summary": "A new report from The Wall Street Journal accuses the Pima County Sheriff's Department of investigation delays, failing to protect crime-scene evidence and more.",
+          "url": "https://www.hollywoodreporter.com/news/general-news/nancy-guthrie-case-haunted-possible-mistakes-sheriff-1236661720/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/feed/",
-          "published_at": "2026-08-02 12:50:36 PM ET",
+          "published_at": "2026-08-02 02:20:13 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 97,
+          "priority_score": 92,
           "key_data": [
-            "‘Hadestown’ Parts Ways With Actor Geno Segers After Online Outrage"
+            "Nancy Guthrie Case Haunted by Sheriff’s Department’s Possible Mistakes"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4068,8 +4099,8 @@
           ]
         },
         {
-          "id": "hollywood-6-1421182436740866215",
-          "key": "hollywood-6-1421182436740866215",
+          "id": "hollywood-13-6766347328239114574",
+          "key": "hollywood-13-6766347328239114574",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Hollywood-grade soundstage could boost Cleveland's film industry with $5M Euclid project: Mission Possible - WKYC",
@@ -4084,7 +4115,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 94,
+          "priority_score": 87,
           "key_data": [
             "Hollywood-grade soundstage could boost Cleveland's film industry with $5M Euclid project: Mission Possible - WKYC"
           ],
@@ -4096,25 +4127,53 @@
           ]
         },
         {
-          "id": "hollywood-2-6017085988195801412",
-          "key": "hollywood-2-6017085988195801412",
+          "id": "hollywood-1-3466011087657317875",
+          "key": "hollywood-1-3466011087657317875",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Lil Uzi Vert’s Lollapalooza Set Canceled Amid “Weather Issues,” Joins Major Lazer",
-          "title": "Lil Uzi Vert’s Lollapalooza Set Canceled Amid “Weather Issues,” Joins Major Lazer",
-          "snapshot": "As Lollapalooza gets into full swing, one name was removed from the weekend lineup amid heavy rain. On Friday, Lil Uzi Vert’s performance at the 35-year Chicago music festival was canceled ahead of headliner Charli XCX’s set “due to weather issues,” according to a message projected at the stage, as well as an announ...",
-          "summary": "As Lollapalooza gets into full swing, one name was removed from the weekend lineup amid heavy rain. On Friday, Lil Uzi Vert’s performance at the 35-year Chicago music festival was canceled ahead of headliner Charli XCX’s set “due to weather issues,” according to a message projected at the stage, as well as an announ...",
-          "url": "https://deadline.com/2026/08/lil-uzi-vert-lollapalooza-set-canceled-weather-issues-1237015301/",
+          "headline": "Toymaker Hasbro Reimagines Most Iconic Board Games With Spider-Man-Themed Graphics and Gameplay",
+          "title": "Toymaker Hasbro Reimagines Most Iconic Board Games With Spider-Man-Themed Graphics and Gameplay",
+          "snapshot": "“Spider-Man: Brand New Day” is shaping up to be a big hit at the box office, challenging 2019’s “Avengers: Endgame” for the biggest North American movie opening of all time. Now, fans can also compete in a different type of challenge, with toymaker Hasbro re-releasing a number of its most popular board games with Sp...",
+          "summary": "“Spider-Man: Brand New Day” is shaping up to be a big hit at the box office, challenging 2019’s “Avengers: Endgame” for the biggest North American movie opening of all time. Now, fans can also compete in a different type of challenge, with toymaker Hasbro re-releasing a number of its most popular board games with Sp...",
+          "url": "https://variety.com/2026/shopping/news/best-spider-man-board-games-hasbro-monopoly-buy-online-1236825826/",
+          "source": "Variety",
+          "source_name": "Variety",
+          "source_feed": "https://variety.com/feed/",
+          "published_at": "2026-08-01 11:55:33 PM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 99,
+          "key_data": [
+            "Toymaker Hasbro Reimagines Most Iconic Board Games With Spider-Man-Themed Graphics and Gameplay"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-3-5415786409127717048",
+          "key": "hollywood-3-5415786409127717048",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "Broadway’s ‘Hadestown’ Parts Ways With Actor Geno Segers Following Online Controversy",
+          "title": "Broadway’s ‘Hadestown’ Parts Ways With Actor Geno Segers Following Online Controversy",
+          "snapshot": "Earlier this week, the producers of Broadway’s Hadestown – Mara Isaacs, Dale Franzen, Hunter Arnold, and Tom Kirdahy – announced a new principal cast for the long-running musical, with the central role of Hades to be taken by Geno Segers, who had previously appeared on stage in On the Town and The Lion King and is k...",
+          "summary": "Earlier this week, the producers of Broadway’s Hadestown – Mara Isaacs, Dale Franzen, Hunter Arnold, and Tom Kirdahy – announced a new principal cast for the long-running musical, with the central role of Hades to be taken by Geno Segers, who had previously appeared on stage in On the Town and The Lion King and is k...",
+          "url": "https://deadline.com/2026/08/hadestown-geno-segers-broadway-1237015504/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/feed/",
-          "published_at": "2026-08-01 05:17:01 PM ET",
+          "published_at": "2026-08-02 01:56:11 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 98,
+          "priority_score": 97,
           "key_data": [
-            "Lil Uzi Vert’s Lollapalooza Set Canceled Amid “Weather Issues,” Joins Major Lazer"
+            "Broadway’s ‘Hadestown’ Parts Ways With Actor Geno Segers Following Online Controversy"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4124,25 +4183,25 @@
           ]
         },
         {
-          "id": "hollywood-4-3313724567407894654",
-          "key": "hollywood-4-3313724567407894654",
+          "id": "hollywood-9-7594800619760398478",
+          "key": "hollywood-9-7594800619760398478",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Gavin Newsom Reportedly Concerned About State Antitrust Suit Against Paramount-Warner Bros. Merger",
-          "title": "Gavin Newsom Reportedly Concerned About State Antitrust Suit Against Paramount-Warner Bros. Merger",
-          "snapshot": "In a Friday report, sources told The Wall Street Journal that California's governor has said if the merger is blocked due to the lawsuit, state employment will suffer, and that \"Newsom’s office has encouraged Attorney General Rob Bonta’s office, which has independent authority to file such suits, to find a resolutio...",
-          "summary": "In a Friday report, sources told The Wall Street Journal that California's governor has said if the merger is blocked due to the lawsuit, state employment will suffer, and that \"Newsom’s office has encouraged Attorney General Rob Bonta’s office, which has independent authority to file such suits, to find a resolutio...",
-          "url": "https://www.hollywoodreporter.com/business/business-news/gavin-newsom-concerned-state-suit-paramount-warner-bros-1236661514/",
+          "headline": "Sally Field Won Her First Emmy for 1976’s ‘Sybil’",
+          "title": "Sally Field Won Her First Emmy for 1976’s ‘Sybil’",
+          "snapshot": "The actress is back on the awards circuit for her role in Netflix’s ‘Remarkably Bright Creatures.’",
+          "summary": "The actress is back on the awards circuit for her role in Netflix’s ‘Remarkably Bright Creatures.’",
+          "url": "https://www.hollywoodreporter.com/tv/tv-features/sally-field-first-emmy-sybil-1236661223/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/feed/",
-          "published_at": "2026-08-01 07:46:57 PM ET",
+          "published_at": "2026-08-02 02:00:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 96,
+          "priority_score": 91,
           "key_data": [
-            "Gavin Newsom Reportedly Concerned About State Antitrust Suit Against Paramount-Warner Bros. Merger"
+            "Sally Field Won Her First Emmy for 1976’s ‘Sybil’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4152,25 +4211,25 @@
           ]
         },
         {
-          "id": "hollywood-7-6042065620945149244",
-          "key": "hollywood-7-6042065620945149244",
+          "id": "hollywood-14-5178985507174021928",
+          "key": "hollywood-14-5178985507174021928",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "LA’s film decline needs urgent action — or Hollywood is dead - New York Post",
-          "title": "LA’s film decline needs urgent action — or Hollywood is dead - New York Post",
-          "snapshot": "LA’s film decline needs urgent action — or Hollywood is dead New York Post",
-          "summary": "LA’s film decline needs urgent action — or Hollywood is dead New York Post",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONllFc2E3NDdXTVpqYkxVM19SelFJM0ZMcnVpMWpyTnZTMlU5VHBCMUJrVDdLalhBdG4zWHp3Z2lBOGkwNEllYTV1bzJ5bDVGRzJob1hKQ2RoZjdxXzl2QUphZ1h1bGVaZUVMVTVWUTJRS3VkRjAtQURybGVrLXo0VDJXTVcwZVVoWHlGZmUwQ3ZRbmM0d0FSUTFtNno?oc=5",
+          "headline": "Horvath Convenes Entertainment Union Coalition on Hollywood's Future - Santa Monica Daily Press",
+          "title": "Horvath Convenes Entertainment Union Coalition on Hollywood's Future - Santa Monica Daily Press",
+          "snapshot": "Horvath Convenes Entertainment Union Coalition on Hollywood's Future Santa Monica Daily Press",
+          "summary": "Horvath Convenes Entertainment Union Coalition on Hollywood's Future Santa Monica Daily Press",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLW9UQkhnM05fUnl6Uk1CYzg3dVA1b21GQXp4YzlCck5FaFdkUWZUYnpSTXREQjdHME5kVjdwWGU0SVVUWjNyY2MwNzhXenFtWWJKZm1rYzc1X3JyNzAwZkpBRXJ0NGMzTW1EcVQ0Z1JSU1Q3cGlwT3BhS0dkS1VxZ1lIN1RKYWY5dnlVMU1kQ3YxNmc?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-07-26 07:37:00 PM ET",
+          "published_at": "2026-08-01 12:00:52 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 93,
+          "priority_score": 86,
           "key_data": [
-            "LA’s film decline needs urgent action — or Hollywood is dead - New York Post"
+            "Horvath Convenes Entertainment Union Coalition on Hollywood's Future - Santa Monica Daily Press"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4180,47 +4239,47 @@
           ]
         }
       ],
-      "updated_at": "2026-08-02 01:00:23 PM ET"
+      "updated_at": "2026-08-02 03:11:22 PM ET"
     },
     {
       "key": "gaming",
       "name": "Gaming",
       "title": "Gaming Report",
-      "headline": "Elden Ring Players Are Hoping for Godwyn DLC After FromSoftware Shares Cryptic Social Media Post",
+      "headline": "The Best Deals Today: Mega Man Star Force Legacy Collection, Saros, Death Stranding 2, and More",
       "snapshot": "Gaming coverage is updating with 4 current RSS headline item(s).",
       "key_storylines": [
-        "Elden Ring Players Are Hoping for Godwyn DLC After FromSoftware Shares Cryptic Social Media Post",
+        "The Best Deals Today: Mega Man Star Force Legacy Collection, Saros, Death Stranding 2, and More",
         "Video Games | Pros, Cons, Debate, Arguments, Digital Media, Play, Violence, Aggression, & Conflict - Encyclopedia Britannica",
-        "The Best Deals Today: LEGO Pokémon, DDR5 RAM, Death Stranding 2, and More",
+        "Elden Ring Players Are Hoping for Godwyn DLC After FromSoftware Shares Cryptic Social Media Post",
         "Prime Video just became a gaming platform - Morning Brew"
       ],
       "watch_list": [
-        "Elden Ring Players Are Hoping for Godwyn DLC After FromSoftware Shares Cryptic Social Media Post",
+        "The Best Deals Today: Mega Man Star Force Legacy Collection, Saros, Death Stranding 2, and More",
         "Video Games | Pros, Cons, Debate, Arguments, Digital Media, Play, Violence, Aggression, & Conflict - Encyclopedia Britannica",
-        "The Best Deals Today: LEGO Pokémon, DDR5 RAM, Death Stranding 2, and More",
+        "Elden Ring Players Are Hoping for Godwyn DLC After FromSoftware Shares Cryptic Social Media Post",
         "Prime Video just became a gaming platform - Morning Brew"
       ],
       "homepage_cards": [
         {
-          "id": "gaming-0-3257336295600145468",
-          "key": "gaming-0-3257336295600145468",
+          "id": "gaming-0-6008960509025283054",
+          "key": "gaming-0-6008960509025283054",
           "category": "Gaming",
           "label": "Gaming",
-          "headline": "Elden Ring Players Are Hoping for Godwyn DLC After FromSoftware Shares Cryptic Social Media Post",
-          "title": "Elden Ring Players Are Hoping for Godwyn DLC After FromSoftware Shares Cryptic Social Media Post",
-          "snapshot": "It's been two years since FromSoftware released its Shadow of the Erdtree expansion, but a new post from the developer has some fans believing that even more Elden Ring DLC is on the way.",
-          "summary": "It's been two years since FromSoftware released its Shadow of the Erdtree expansion, but a new post from the developer has some fans believing that even more Elden Ring DLC is on the way.",
-          "url": "https://www.ign.com/articles/elden-ring-players-are-hoping-for-godwyn-dlc-after-fromsoftware-shares-cryptic-social-media-post",
+          "headline": "The Best Deals Today: Mega Man Star Force Legacy Collection, Saros, Death Stranding 2, and More",
+          "title": "The Best Deals Today: Mega Man Star Force Legacy Collection, Saros, Death Stranding 2, and More",
+          "snapshot": "A new weekend has arrived, and today, you can save on select LEGO sets, Death Stranding 2, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Sunday, August 2, below. 20% Off the LEGO Pokémon Pikachu and Poké Ball Set Macy's has a great deal today on this LEGO Pokémon Pikachu and Pok...",
+          "summary": "A new weekend has arrived, and today, you can save on select LEGO sets, Death Stranding 2, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Sunday, August 2, below. 20% Off the LEGO Pokémon Pikachu and Poké Ball Set Macy's has a great deal today on this LEGO Pokémon Pikachu and Pok...",
+          "url": "https://www.ign.com/articles/best-deals-for-august-2-2026",
           "source": "IGN",
           "source_name": "IGN",
           "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-          "published_at": "2026-08-01 03:59:57 PM ET",
+          "published_at": "2026-08-02 01:18:04 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Elden Ring Players Are Hoping for Godwyn DLC After FromSoftware Shares Cryptic Social Media Post"
+            "The Best Deals Today: Mega Man Star Force Legacy Collection, Saros, Death Stranding 2, and More"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4230,8 +4289,8 @@
           ]
         },
         {
-          "id": "gaming-20-1988861170734631742",
-          "key": "gaming-20-1988861170734631742",
+          "id": "gaming-20-4766010265296101087",
+          "key": "gaming-20-4766010265296101087",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Video Games | Pros, Cons, Debate, Arguments, Digital Media, Play, Violence, Aggression, & Conflict - Encyclopedia Britannica",
@@ -4258,25 +4317,25 @@
           ]
         },
         {
-          "id": "gaming-1-102774489585508658",
-          "key": "gaming-1-102774489585508658",
+          "id": "gaming-1-2347554073513676486",
+          "key": "gaming-1-2347554073513676486",
           "category": "Gaming",
           "label": "Gaming",
-          "headline": "The Best Deals Today: LEGO Pokémon, DDR5 RAM, Death Stranding 2, and More",
-          "title": "The Best Deals Today: LEGO Pokémon, DDR5 RAM, Death Stranding 2, and More",
-          "snapshot": "A new weekend has arrived, and today, you can save on select LEGO sets, Death Stranding 2, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Saturday, August 1, below. New LEGO Sets Now Live LEGO has listed its latest round of sets on its website, including the LEGO Ideas | The X-Fi...",
-          "summary": "A new weekend has arrived, and today, you can save on select LEGO sets, Death Stranding 2, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Saturday, August 1, below. New LEGO Sets Now Live LEGO has listed its latest round of sets on its website, including the LEGO Ideas | The X-Fi...",
-          "url": "https://www.ign.com/articles/best-deals-for-august-1-2026",
+          "headline": "Elden Ring Players Are Hoping for Godwyn DLC After FromSoftware Shares Cryptic Social Media Post",
+          "title": "Elden Ring Players Are Hoping for Godwyn DLC After FromSoftware Shares Cryptic Social Media Post",
+          "snapshot": "It's been two years since FromSoftware released its Shadow of the Erdtree expansion, but a new post from the developer has some fans believing that even more Elden Ring DLC is on the way.",
+          "summary": "It's been two years since FromSoftware released its Shadow of the Erdtree expansion, but a new post from the developer has some fans believing that even more Elden Ring DLC is on the way.",
+          "url": "https://www.ign.com/articles/elden-ring-players-are-hoping-for-godwyn-dlc-after-fromsoftware-shares-cryptic-social-media-post",
           "source": "IGN",
           "source_name": "IGN",
           "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-          "published_at": "2026-08-01 12:40:13 PM ET",
+          "published_at": "2026-08-01 03:59:57 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "The Best Deals Today: LEGO Pokémon, DDR5 RAM, Death Stranding 2, and More"
+            "Elden Ring Players Are Hoping for Godwyn DLC After FromSoftware Shares Cryptic Social Media Post"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4286,8 +4345,8 @@
           ]
         },
         {
-          "id": "gaming-21-3016909202664331894",
-          "key": "gaming-21-3016909202664331894",
+          "id": "gaming-21-3442541639948059816",
+          "key": "gaming-21-3442541639948059816",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Prime Video just became a gaming platform - Morning Brew",
@@ -4316,25 +4375,25 @@
       ],
       "items": [
         {
-          "id": "gaming-0-3257336295600145468",
-          "key": "gaming-0-3257336295600145468",
+          "id": "gaming-0-6008960509025283054",
+          "key": "gaming-0-6008960509025283054",
           "category": "Gaming",
           "label": "Gaming",
-          "headline": "Elden Ring Players Are Hoping for Godwyn DLC After FromSoftware Shares Cryptic Social Media Post",
-          "title": "Elden Ring Players Are Hoping for Godwyn DLC After FromSoftware Shares Cryptic Social Media Post",
-          "snapshot": "It's been two years since FromSoftware released its Shadow of the Erdtree expansion, but a new post from the developer has some fans believing that even more Elden Ring DLC is on the way.",
-          "summary": "It's been two years since FromSoftware released its Shadow of the Erdtree expansion, but a new post from the developer has some fans believing that even more Elden Ring DLC is on the way.",
-          "url": "https://www.ign.com/articles/elden-ring-players-are-hoping-for-godwyn-dlc-after-fromsoftware-shares-cryptic-social-media-post",
+          "headline": "The Best Deals Today: Mega Man Star Force Legacy Collection, Saros, Death Stranding 2, and More",
+          "title": "The Best Deals Today: Mega Man Star Force Legacy Collection, Saros, Death Stranding 2, and More",
+          "snapshot": "A new weekend has arrived, and today, you can save on select LEGO sets, Death Stranding 2, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Sunday, August 2, below. 20% Off the LEGO Pokémon Pikachu and Poké Ball Set Macy's has a great deal today on this LEGO Pokémon Pikachu and Pok...",
+          "summary": "A new weekend has arrived, and today, you can save on select LEGO sets, Death Stranding 2, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Sunday, August 2, below. 20% Off the LEGO Pokémon Pikachu and Poké Ball Set Macy's has a great deal today on this LEGO Pokémon Pikachu and Pok...",
+          "url": "https://www.ign.com/articles/best-deals-for-august-2-2026",
           "source": "IGN",
           "source_name": "IGN",
           "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-          "published_at": "2026-08-01 03:59:57 PM ET",
+          "published_at": "2026-08-02 01:18:04 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Elden Ring Players Are Hoping for Godwyn DLC After FromSoftware Shares Cryptic Social Media Post"
+            "The Best Deals Today: Mega Man Star Force Legacy Collection, Saros, Death Stranding 2, and More"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4344,8 +4403,8 @@
           ]
         },
         {
-          "id": "gaming-20-1988861170734631742",
-          "key": "gaming-20-1988861170734631742",
+          "id": "gaming-20-4766010265296101087",
+          "key": "gaming-20-4766010265296101087",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Video Games | Pros, Cons, Debate, Arguments, Digital Media, Play, Violence, Aggression, & Conflict - Encyclopedia Britannica",
@@ -4372,25 +4431,25 @@
           ]
         },
         {
-          "id": "gaming-1-102774489585508658",
-          "key": "gaming-1-102774489585508658",
+          "id": "gaming-1-2347554073513676486",
+          "key": "gaming-1-2347554073513676486",
           "category": "Gaming",
           "label": "Gaming",
-          "headline": "The Best Deals Today: LEGO Pokémon, DDR5 RAM, Death Stranding 2, and More",
-          "title": "The Best Deals Today: LEGO Pokémon, DDR5 RAM, Death Stranding 2, and More",
-          "snapshot": "A new weekend has arrived, and today, you can save on select LEGO sets, Death Stranding 2, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Saturday, August 1, below. New LEGO Sets Now Live LEGO has listed its latest round of sets on its website, including the LEGO Ideas | The X-Fi...",
-          "summary": "A new weekend has arrived, and today, you can save on select LEGO sets, Death Stranding 2, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Saturday, August 1, below. New LEGO Sets Now Live LEGO has listed its latest round of sets on its website, including the LEGO Ideas | The X-Fi...",
-          "url": "https://www.ign.com/articles/best-deals-for-august-1-2026",
+          "headline": "Elden Ring Players Are Hoping for Godwyn DLC After FromSoftware Shares Cryptic Social Media Post",
+          "title": "Elden Ring Players Are Hoping for Godwyn DLC After FromSoftware Shares Cryptic Social Media Post",
+          "snapshot": "It's been two years since FromSoftware released its Shadow of the Erdtree expansion, but a new post from the developer has some fans believing that even more Elden Ring DLC is on the way.",
+          "summary": "It's been two years since FromSoftware released its Shadow of the Erdtree expansion, but a new post from the developer has some fans believing that even more Elden Ring DLC is on the way.",
+          "url": "https://www.ign.com/articles/elden-ring-players-are-hoping-for-godwyn-dlc-after-fromsoftware-shares-cryptic-social-media-post",
           "source": "IGN",
           "source_name": "IGN",
           "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-          "published_at": "2026-08-01 12:40:13 PM ET",
+          "published_at": "2026-08-01 03:59:57 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "The Best Deals Today: LEGO Pokémon, DDR5 RAM, Death Stranding 2, and More"
+            "Elden Ring Players Are Hoping for Godwyn DLC After FromSoftware Shares Cryptic Social Media Post"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4400,8 +4459,8 @@
           ]
         },
         {
-          "id": "gaming-21-3016909202664331894",
-          "key": "gaming-21-3016909202664331894",
+          "id": "gaming-21-3442541639948059816",
+          "key": "gaming-21-3442541639948059816",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Prime Video just became a gaming platform - Morning Brew",
@@ -4428,7 +4487,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-02 01:00:24 PM ET"
+      "updated_at": "2026-08-02 03:11:23 PM ET"
     },
     {
       "key": "media",
@@ -4453,8 +4512,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "media-0-1328692492924328107",
-          "key": "media-0-1328692492924328107",
+          "id": "media-0-8635009819292006456",
+          "key": "media-0-8635009819292006456",
           "category": "Media",
           "label": "Media",
           "headline": "AI Studio Asteria Strikes Strategic Partnership with Virtual Production Studio ZeroSpace (EXCLUSIVE)",
@@ -4481,8 +4540,8 @@
           ]
         },
         {
-          "id": "media-9-6469478226454825969",
-          "key": "media-9-6469478226454825969",
+          "id": "media-9-3101156787415478998",
+          "key": "media-9-3101156787415478998",
           "category": "Media",
           "label": "Media",
           "headline": "Anna Wintour Conferred With Jewish Leaders And Rabbis About Past Antisemitic Comments Made By 2027 Met Gala Honoree John Galliano",
@@ -4509,8 +4568,8 @@
           ]
         },
         {
-          "id": "media-21-2922190306909423908",
-          "key": "media-21-2922190306909423908",
+          "id": "media-21-2080049904325959756",
+          "key": "media-21-2080049904325959756",
           "category": "Media",
           "label": "Media",
           "headline": "NBCUniversal Finds New CFO As It Readies Spinoff - The Hollywood Reporter",
@@ -4537,8 +4596,8 @@
           ]
         },
         {
-          "id": "media-1-1100590734428875240",
-          "key": "media-1-1100590734428875240",
+          "id": "media-1-4120201216406268539",
+          "key": "media-1-4120201216406268539",
           "category": "Media",
           "label": "Media",
           "headline": "World Cup Boycott Backed by All 55 UEFA Countries as Asian, North and Central American, Caribbean Members Oppose FIFA Stake Sale",
@@ -4565,8 +4624,8 @@
           ]
         },
         {
-          "id": "media-10-5741225485998926018",
-          "key": "media-10-5741225485998926018",
+          "id": "media-10-4394972798224134057",
+          "key": "media-10-4394972798224134057",
           "category": "Media",
           "label": "Media",
           "headline": "FIFA Scraps Controversial Plan To Turn World Cup Into Commercial Enterprise",
@@ -4593,8 +4652,8 @@
           ]
         },
         {
-          "id": "media-22-8152461768507725304",
-          "key": "media-22-8152461768507725304",
+          "id": "media-22-979030123296274279",
+          "key": "media-22-979030123296274279",
           "category": "Media",
           "label": "Media",
           "headline": "The web is replacing newspapers — in more ways than one - Computerworld",
@@ -4623,8 +4682,8 @@
       ],
       "items": [
         {
-          "id": "media-0-1328692492924328107",
-          "key": "media-0-1328692492924328107",
+          "id": "media-0-8635009819292006456",
+          "key": "media-0-8635009819292006456",
           "category": "Media",
           "label": "Media",
           "headline": "AI Studio Asteria Strikes Strategic Partnership with Virtual Production Studio ZeroSpace (EXCLUSIVE)",
@@ -4651,8 +4710,8 @@
           ]
         },
         {
-          "id": "media-9-6469478226454825969",
-          "key": "media-9-6469478226454825969",
+          "id": "media-9-3101156787415478998",
+          "key": "media-9-3101156787415478998",
           "category": "Media",
           "label": "Media",
           "headline": "Anna Wintour Conferred With Jewish Leaders And Rabbis About Past Antisemitic Comments Made By 2027 Met Gala Honoree John Galliano",
@@ -4679,8 +4738,8 @@
           ]
         },
         {
-          "id": "media-21-2922190306909423908",
-          "key": "media-21-2922190306909423908",
+          "id": "media-21-2080049904325959756",
+          "key": "media-21-2080049904325959756",
           "category": "Media",
           "label": "Media",
           "headline": "NBCUniversal Finds New CFO As It Readies Spinoff - The Hollywood Reporter",
@@ -4707,8 +4766,8 @@
           ]
         },
         {
-          "id": "media-1-1100590734428875240",
-          "key": "media-1-1100590734428875240",
+          "id": "media-1-4120201216406268539",
+          "key": "media-1-4120201216406268539",
           "category": "Media",
           "label": "Media",
           "headline": "World Cup Boycott Backed by All 55 UEFA Countries as Asian, North and Central American, Caribbean Members Oppose FIFA Stake Sale",
@@ -4735,8 +4794,8 @@
           ]
         },
         {
-          "id": "media-10-5741225485998926018",
-          "key": "media-10-5741225485998926018",
+          "id": "media-10-4394972798224134057",
+          "key": "media-10-4394972798224134057",
           "category": "Media",
           "label": "Media",
           "headline": "FIFA Scraps Controversial Plan To Turn World Cup Into Commercial Enterprise",
@@ -4763,8 +4822,8 @@
           ]
         },
         {
-          "id": "media-22-8152461768507725304",
-          "key": "media-22-8152461768507725304",
+          "id": "media-22-979030123296274279",
+          "key": "media-22-979030123296274279",
           "category": "Media",
           "label": "Media",
           "headline": "The web is replacing newspapers — in more ways than one - Computerworld",
@@ -4791,7 +4850,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-02 01:00:24 PM ET"
+      "updated_at": "2026-08-02 03:11:24 PM ET"
     }
   ]
 }
