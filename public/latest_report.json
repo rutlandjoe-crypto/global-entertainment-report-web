@@ -5,9 +5,9 @@
   "vertical": "Entertainment",
   "headline": "'Michael 2' Eyes Filming Start 'Towards the End of this Year' or Early 2027 as Lionsgate Teases Release Date",
   "snapshot": "Global Entertainment Report accepted 48 real RSS item(s) across 31 checked feed request(s).",
-  "generated_at": "2026-08-06 11:49:40 PM ET",
-  "updated_at": "2026-08-06 11:49:40 PM ET",
-  "published_at": "2026-08-06 11:49:40 PM ET",
+  "generated_at": "2026-08-07 01:40:42 AM ET",
+  "updated_at": "2026-08-07 01:40:42 AM ET",
+  "published_at": "2026-08-07 01:40:42 AM ET",
   "source_mode": "live RSS ingestion",
   "freshness": {
     "max_item_age_hours": 336,
@@ -53,9 +53,9 @@
       "final_url": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 83,
+      "rejected_count": 82,
       "rejection_reasons": {
-        "stale-over-336h": 83
+        "stale-over-336h": 82
       }
     },
     {
@@ -95,11 +95,11 @@
       "url": "https://news.google.com/rss/search?q=television+tv+entertainment&hl=en-US&gl=US&ceid=US:en",
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=television+tv+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "item_count": 80,
+      "item_count": 79,
       "accepted_count": 2,
-      "rejected_count": 77,
+      "rejected_count": 76,
       "rejection_reasons": {
-        "stale-over-336h": 77
+        "stale-over-336h": 76
       }
     },
     {
@@ -232,10 +232,10 @@
       "final_url": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 57,
+      "rejected_count": 56,
       "rejection_reasons": {
-        "stale-over-336h": 56,
-        "duplicate-story": 1
+        "duplicate-story": 1,
+        "stale-over-336h": 55
       }
     },
     {
@@ -293,9 +293,9 @@
       "final_url": "https://www.hollywoodreporter.com/feed/",
       "item_count": 10,
       "accepted_count": 2,
-      "rejected_count": 4,
+      "rejected_count": 5,
       "rejection_reasons": {
-        "duplicate-story": 4
+        "duplicate-story": 5
       }
     },
     {
@@ -305,9 +305,9 @@
       "final_url": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 91,
+      "rejected_count": 90,
       "rejection_reasons": {
-        "stale-over-336h": 91
+        "stale-over-336h": 90
       }
     },
     {
@@ -375,17 +375,17 @@
   "key_storylines": [
     "'Michael 2' Eyes Filming Start 'Towards the End of this Year' or Early 2027 as Lionsgate Teases Release Date",
     "'Grown Ups 3' Begins Production, Adam Sandler Reunites With Co-Stars In Set Photo",
-    "'Spider-Man: Brand New Day' Scores Biggest First Week in Box Office History",
-    "Everything to know about 'Madden,' a new movie coming to Prime Video November 18 - aboutamazon.com",
-    "'CoComelon: The Movie' Brings Baby JJ (And SZA) To the Big Screen: Watch the First Teaser Trailer",
+    "What Is It Like to Portray Nazi Heinrich Himmler? Martin Müller Shares His Experience on 'I Is Another'",
+    "Everything to know about 'Madden,' a new movie coming to Prime Video November 18 - About Amazon",
+    "Stray Kids Are Back With 'THIS & THAT': Stream It Now",
     "Layoffs Hit Staff at Crossfire Developer That's No Moon",
     "After U.K. Approval of Paramount-WBD Deal, European Media Leaders Rally Behind David Ellison: 'The Industry Will Be Stronger'",
     "James Gunn Says 'The Batman: Part II' Won't Shoot Back-To-Back With 'Part III'"
   ],
   "live_newsroom": [
     {
-      "id": "film-0-6639325412839233787",
-      "key": "film-0-6639325412839233787",
+      "id": "film-0-2771046453980791707",
+      "key": "film-0-2771046453980791707",
       "category": "Film",
       "label": "Film",
       "headline": "'Michael 2' Eyes Filming Start 'Towards the End of this Year' or Early 2027 as Lionsgate Teases Release Date",
@@ -411,8 +411,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-1338098137997102098",
-      "key": "film-10-1338098137997102098",
+      "id": "film-10-7466070750476795909",
+      "key": "film-10-7466070750476795909",
       "category": "Film",
       "label": "Film",
       "headline": "'Grown Ups 3' Begins Production, Adam Sandler Reunites With Co-Stars In Set Photo",
@@ -438,22 +438,22 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-1487578098211419869",
-      "key": "film-22-1487578098211419869",
+      "id": "film-22-272161736847515457",
+      "key": "film-22-272161736847515457",
       "category": "Film",
       "label": "Film",
-      "headline": "'Spider-Man: Brand New Day' Scores Biggest First Week in Box Office History",
-      "title": "'Spider-Man: Brand New Day' Scores Biggest First Week in Box Office History",
-      "snapshot": "Tom Holland and Zendaya's unstoppable blockbuster is now the fastest film to make a half-billion domestically.",
-      "summary": "Tom Holland and Zendaya's unstoppable blockbuster is now the fastest film to make a half-billion domestically.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-biggest-first-week-1236668259/",
+      "headline": "What Is It Like to Portray Nazi Heinrich Himmler? Martin Müller Shares His Experience on 'I Is Another'",
+      "title": "What Is It Like to Portray Nazi Heinrich Himmler? Martin Müller Shares His Experience on 'I Is Another'",
+      "snapshot": "The film, starring Claes Bang and Valerie Pachner, debuts at Locarno, and director Felix Randau heard concerns that he may give a platform to a villain, but says: \"If you ignore evil, it will grow in the dark.\"",
+      "summary": "The film, starring Claes Bang and Valerie Pachner, debuts at Locarno, and director Felix Randau heard concerns that he may give a platform to a villain, but says: \"If you ignore evil, it will grow in the dark.\"",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/nazi-heinrich-himmler-i-is-another-film-actor-locarno-2026-1236652895/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-06 10:39:48 PM ET",
+      "published_at": "2026-08-07 01:00:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Spider-Man: Brand New Day' Scores Biggest First Week in Box Office History"
+        "What Is It Like to Portray Nazi Heinrich Himmler? Martin Müller Shares His Experience on 'I Is Another'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -465,14 +465,14 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-4283814062855691154",
-      "key": "film-32-4283814062855691154",
+      "id": "film-32-9183166993937186587",
+      "key": "film-32-9183166993937186587",
       "category": "Film",
       "label": "Film",
-      "headline": "Everything to know about 'Madden,' a new movie coming to Prime Video November 18 - aboutamazon.com",
-      "title": "Everything to know about 'Madden,' a new movie coming to Prime Video November 18 - aboutamazon.com",
-      "snapshot": "Everything to know about 'Madden,' a new movie coming to Prime Video November 18 aboutamazon.com",
-      "summary": "Everything to know about 'Madden,' a new movie coming to Prime Video November 18 aboutamazon.com",
+      "headline": "Everything to know about 'Madden,' a new movie coming to Prime Video November 18 - About Amazon",
+      "title": "Everything to know about 'Madden,' a new movie coming to Prime Video November 18 - About Amazon",
+      "snapshot": "Everything to know about 'Madden,' a new movie coming to Prime Video November 18 About Amazon",
+      "summary": "Everything to know about 'Madden,' a new movie coming to Prime Video November 18 About Amazon",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUGdCdzZlZVFNNFRNbG96RGFzeTRWVWFtc2lFanZBc3lBeFgtQjhwUFhaRmVkano1SWs1V1VWZG04eWRJWnJhbUFJc3lTZ1RrcFpnZGhya0phbzNfcm02cW1FZllWZk1qLU5oeEM0OG1vRFB6RVJEbkg0V0NUbUJnU0ZDeHExMUdYa1h6Zg?oc=5",
       "source": "Google News",
       "source_name": "Google News",
@@ -480,7 +480,7 @@
       "published_at": "2026-08-06 11:00:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Everything to know about 'Madden,' a new movie coming to Prime Video November 18 - aboutamazon.com"
+        "Everything to know about 'Madden,' a new movie coming to Prime Video November 18 - About Amazon"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -492,22 +492,22 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-4710781245432032601",
-      "key": "music-10-4710781245432032601",
+      "id": "music-10-4795302363981699340",
+      "key": "music-10-4795302363981699340",
       "category": "Music",
       "label": "Music",
-      "headline": "'CoComelon: The Movie' Brings Baby JJ (And SZA) To the Big Screen: Watch the First Teaser Trailer",
-      "title": "'CoComelon: The Movie' Brings Baby JJ (And SZA) To the Big Screen: Watch the First Teaser Trailer",
-      "snapshot": "The R&B star is bringing her voice to the first CoComelon movie, with original music from Justin Tranter.",
-      "summary": "The R&B star is bringing her voice to the first CoComelon movie, with original music from Justin Tranter.",
-      "url": "https://www.billboard.com/culture/tv-film/cocomelon-movie-trailer-sza-justin-tranter-music-1236311181/",
+      "headline": "Stray Kids Are Back With 'THIS & THAT': Stream It Now",
+      "title": "Stray Kids Are Back With 'THIS & THAT': Stream It Now",
+      "snapshot": "The eight-track collection opens with the anthemic digital single \"RUN IT,\" written and produced by the group's in-house production unit 3RACHA.",
+      "summary": "The eight-track collection opens with the anthemic digital single \"RUN IT,\" written and produced by the group's in-house production unit 3RACHA.",
+      "url": "https://www.billboard.com/music/pop/stray-kids-this-and-that-stream-it-now-1236311356/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-06 09:29:14 PM ET",
+      "published_at": "2026-08-07 12:52:30 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'CoComelon: The Movie' Brings Baby JJ (And SZA) To the Big Screen: Watch the First Teaser Trailer"
+        "Stray Kids Are Back With 'THIS & THAT': Stream It Now"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -519,8 +519,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-7670268014974886505",
-      "key": "gaming-0-7670268014974886505",
+      "id": "gaming-0-8771942307606325865",
+      "key": "gaming-0-8771942307606325865",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Layoffs Hit Staff at Crossfire Developer That's No Moon",
@@ -546,8 +546,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-8247969183316362922",
-      "key": "film-1-8247969183316362922",
+      "id": "film-1-876658969105635840",
+      "key": "film-1-876658969105635840",
       "category": "Film",
       "label": "Film",
       "headline": "After U.K. Approval of Paramount-WBD Deal, European Media Leaders Rally Behind David Ellison: 'The Industry Will Be Stronger'",
@@ -573,8 +573,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-4298180103484932928",
-      "key": "film-11-4298180103484932928",
+      "id": "film-11-6085595796366244928",
+      "key": "film-11-6085595796366244928",
       "category": "Film",
       "label": "Film",
       "headline": "James Gunn Says 'The Batman: Part II' Won't Shoot Back-To-Back With 'Part III'",
@@ -600,22 +600,22 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-2046645166542881722",
-      "key": "film-23-2046645166542881722",
+      "id": "film-23-6706746907480281139",
+      "key": "film-23-6706746907480281139",
       "category": "Film",
       "label": "Film",
-      "headline": "Morgan Freeman Will \"Overlook Some of the Glitches\" in a Script If They \"Pay You Enough\"",
-      "title": "Morgan Freeman Will \"Overlook Some of the Glitches\" in a Script If They \"Pay You Enough\"",
-      "snapshot": "As for whether he has any plans to retire as he approaches 90 years old, the Oscar winner said, \"If you can get out of bed and don't fall down when you do it, then you just count your blessings and keep moving.\"",
-      "summary": "As for whether he has any plans to retire as he approaches 90 years old, the Oscar winner said, \"If you can get out of bed and don't fall down when you do it, then you just count your blessings and keep moving.\"",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/morgan-freeman-overlook-mediocre-script-pay-enough-1236668210/",
+      "headline": "'Spider-Man: Brand New Day' Scores Biggest First Week in Box Office History",
+      "title": "'Spider-Man: Brand New Day' Scores Biggest First Week in Box Office History",
+      "snapshot": "Tom Holland and Zendaya's unstoppable blockbuster is now the fastest film to make a half-billion domestically.",
+      "summary": "Tom Holland and Zendaya's unstoppable blockbuster is now the fastest film to make a half-billion domestically.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-biggest-first-week-1236668259/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-06 10:39:20 PM ET",
+      "published_at": "2026-08-06 10:39:48 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Morgan Freeman Will \"Overlook Some of the Glitches\" in a Script If They \"Pay You Enough\""
+        "'Spider-Man: Brand New Day' Scores Biggest First Week in Box Office History"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -627,22 +627,22 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-55963163468297319",
-      "key": "film-33-55963163468297319",
+      "id": "film-33-4039532791001679044",
+      "key": "film-33-4039532791001679044",
       "category": "Film",
       "label": "Film",
-      "headline": "Your guide to 2026 movie release dates - Entertainment Weekly",
-      "title": "Your guide to 2026 movie release dates - Entertainment Weekly",
-      "snapshot": "Your guide to 2026 movie release dates Entertainment Weekly",
-      "summary": "Your guide to 2026 movie release dates Entertainment Weekly",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NbnB6enZzT2htbDhfSGxidjBsQ0o5WDlZeGxXT1BuTjVNY3N4T1RscFFtUkpsZzNiMzlFd2VkVnpUM2h0eXBMMFozd3JkaUZVVHR2aUxzTEwyTzVTTnJtcUNzNXpDeUVJ?oc=5",
+      "headline": "The Greatest Action Movie of All Time Isn't 'Die Hard'-It's This 1968 Classic - Men's Journal",
+      "title": "The Greatest Action Movie of All Time Isn't 'Die Hard'-It's This 1968 Classic - Men's Journal",
+      "snapshot": "The Greatest Action Movie of All Time Isn't 'Die Hard'-It's This 1968 Classic Men's Journal",
+      "summary": "The Greatest Action Movie of All Time Isn't 'Die Hard'-It's This 1968 Classic Men's Journal",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWWZjSmpYLU9hQ01xeTVVeFNES19uY045Yi1EQ0h4ejZpUHlJVU9HdnlWVzFaMkVlcF8zcEdTbVh2UEVqd3ZwVDQzNVRGTVVKWURsQzZNRjk2WWNnMS1vSHVyVmpzZ2JINDJvTXFwV2tFQXZNMXhMWTlyWTBmMmtHREdSNzFzUQ?oc=5",
       "source": "Google News",
       "source_name": "Google News",
       "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "published_at": "2026-08-04 05:55:00 PM ET",
+      "published_at": "2026-08-06 04:17:00 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Your guide to 2026 movie release dates - Entertainment Weekly"
+        "The Greatest Action Movie of All Time Isn't 'Die Hard'-It's This 1968 Classic - Men's Journal"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -654,22 +654,22 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-49253219663865940",
-      "key": "music-11-49253219663865940",
+      "id": "music-11-4263899279826191217",
+      "key": "music-11-4263899279826191217",
       "category": "Music",
       "label": "Music",
-      "headline": "Ryan Murphy Addresses Ariana Grande's 'American Horror Story' Exit: 'Who's Busier Than Ariana Grande? No One'",
-      "title": "Ryan Murphy Addresses Ariana Grande's 'American Horror Story' Exit: 'Who's Busier Than Ariana Grande? No One'",
-      "snapshot": "Murphy reveals he might revisit the scrapped role he had for the star at a later time.",
-      "summary": "Murphy reveals he might revisit the scrapped role he had for the star at a later time.",
-      "url": "https://www.billboard.com/culture/tv-film/ryan-murphy-ariana-grande-american-horror-story-interview-1236311231/",
+      "headline": "Karol G's New Album 'No Me Arrepiento de Sentir Tanto' Featuring Drake & More Is Here: Stream It Now",
+      "title": "Karol G's New Album 'No Me Arrepiento de Sentir Tanto' Featuring Drake & More Is Here: Stream It Now",
+      "snapshot": "The 14-track album follows 2025's Tropicoqueta , which debuted at No. 1 on Top Latin Albums.",
+      "summary": "The 14-track album follows 2025's Tropicoqueta , which debuted at No. 1 on Top Latin Albums.",
+      "url": "https://www.billboard.com/music/latin/karol-g-no-me-arrepiento-de-sentir-tanto-stream-it-now-1236309607/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-06 08:55:11 PM ET",
+      "published_at": "2026-08-07 12:00:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Ryan Murphy Addresses Ariana Grande's 'American Horror Story' Exit: 'Who's Busier Than Ariana Grande? No One'"
+        "Karol G's New Album 'No Me Arrepiento de Sentir Tanto' Featuring Drake & More Is Here: Stream It Now"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -681,8 +681,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-8316689112775756214",
-      "key": "gaming-1-8316689112775756214",
+      "id": "gaming-1-6714264285923363541",
+      "key": "gaming-1-6714264285923363541",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Quake Gets Free New Campaign Co-Developed by MachineGames for Game's 30th Anniversary",
@@ -710,8 +710,8 @@
   ],
   "editor_signals": [
     {
-      "id": "film-2-9190458585391185273",
-      "key": "film-2-9190458585391185273",
+      "id": "film-2-4024413107956950331",
+      "key": "film-2-4024413107956950331",
       "category": "Film",
       "label": "Film",
       "headline": "'Michael' Boosts Lionsgate Quarterly Results as Studio Narrows Loss to $29 Million",
@@ -737,8 +737,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-8279227821798307649",
-      "key": "film-12-8279227821798307649",
+      "id": "film-12-4359159504962613955",
+      "key": "film-12-4359159504962613955",
       "category": "Film",
       "label": "Film",
       "headline": "Paramount-WBD Deal Endorsed By Lionsgate CEO Jon Feltheimer: \"Uncertainty Is The Worst\"",
@@ -764,22 +764,22 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-2889519531589982592",
-      "key": "film-24-2889519531589982592",
+      "id": "film-24-4473288647051812256",
+      "key": "film-24-4473288647051812256",
       "category": "Film",
       "label": "Film",
-      "headline": "'Brady vs. Manning': Documentary Film in the Works About NFL Rivalry (Exclusive)",
-      "title": "'Brady vs. Manning': Documentary Film in the Works About NFL Rivalry (Exclusive)",
-      "snapshot": "Adapting Gary Myers' best-selling book, the project will examine Tom Brady and Peyton Manning's memorable match-ups that captivated football fans for years.",
-      "summary": "Adapting Gary Myers' best-selling book, the project will examine Tom Brady and Peyton Manning's memorable match-ups that captivated football fans for years.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/brady-vs-manning-documentary-nfl-gary-myers-1236665674/",
+      "headline": "Morgan Freeman Will \"Overlook Some of the Glitches\" in a Script If They \"Pay You Enough\"",
+      "title": "Morgan Freeman Will \"Overlook Some of the Glitches\" in a Script If They \"Pay You Enough\"",
+      "snapshot": "As for whether he has any plans to retire as he approaches 90 years old, the Oscar winner said, \"If you can get out of bed and don't fall down when you do it, then you just count your blessings and keep moving.\"",
+      "summary": "As for whether he has any plans to retire as he approaches 90 years old, the Oscar winner said, \"If you can get out of bed and don't fall down when you do it, then you just count your blessings and keep moving.\"",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/morgan-freeman-overlook-mediocre-script-pay-enough-1236668210/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-06 07:27:10 PM ET",
+      "published_at": "2026-08-06 10:39:20 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Brady vs. Manning': Documentary Film in the Works About NFL Rivalry (Exclusive)"
+        "Morgan Freeman Will \"Overlook Some of the Glitches\" in a Script If They \"Pay You Enough\""
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -791,22 +791,22 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-6537760620826919663",
-      "key": "film-34-6537760620826919663",
+      "id": "film-34-1159333258070600145",
+      "key": "film-34-1159333258070600145",
       "category": "Film",
       "label": "Film",
-      "headline": "The Zelda movie's Ganondorf casting hints at more movies - The Verge",
-      "title": "The Zelda movie's Ganondorf casting hints at more movies - The Verge",
-      "snapshot": "The Zelda movie's Ganondorf casting hints at more movies The Verge",
-      "summary": "The Zelda movie's Ganondorf casting hints at more movies The Verge",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdVNlVmFfR3NQYXhSZmtWZTExRzE0TU9VZFB5X0dSR011TDhYVFRaSmFRUDRfYWxrakNicWZfS0dMa2VxUjRNamNfYWoyLXZKdFhFSzJjaXd1MzNzSVoycUpwZnJsaTFRVDBYT1ljTV95VUp0TW9Jc2U1Zk55YVh3T3NWSzd5WlpFQ1pQYTNYWXF0ZnFhWlNqaEtVSEhUQ2tvWFE?oc=5",
+      "headline": "Your guide to 2026 movie release dates - Entertainment Weekly",
+      "title": "Your guide to 2026 movie release dates - Entertainment Weekly",
+      "snapshot": "Your guide to 2026 movie release dates Entertainment Weekly",
+      "summary": "Your guide to 2026 movie release dates Entertainment Weekly",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NbnB6enZzT2htbDhfSGxidjBsQ0o5WDlZeGxXT1BuTjVNY3N4T1RscFFtUkpsZzNiMzlFd2VkVnpUM2h0eXBMMFozd3JkaUZVVHR2aUxzTEwyTzVTTnJtcUNzNXpDeUVJ?oc=5",
       "source": "Google News",
       "source_name": "Google News",
       "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "published_at": "2026-08-06 02:31:57 PM ET",
+      "published_at": "2026-08-04 05:55:00 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "The Zelda movie's Ganondorf casting hints at more movies - The Verge"
+        "Your guide to 2026 movie release dates - Entertainment Weekly"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -818,22 +818,22 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-2569416602841848381",
-      "key": "music-12-2569416602841848381",
+      "id": "music-12-3900270494378420603",
+      "key": "music-12-3900270494378420603",
       "category": "Music",
       "label": "Music",
-      "headline": "Cam'ron Threatens to Expose Members of Cardi B's Team Over Unreleased Song: 'Take This as a Warning'",
-      "title": "Cam'ron Threatens to Expose Members of Cardi B's Team Over Unreleased Song: 'Take This as a Warning'",
-      "snapshot": "The Harlem rapper & media personality was asked to contribute to a remake of his hit song \"What Means the World to You\" that was released in 2000.",
-      "summary": "The Harlem rapper & media personality was asked to contribute to a remake of his hit song \"What Means the World to You\" that was released in 2000.",
-      "url": "https://www.billboard.com/music/rb-hip-hop/camron-threatens-expose-cardi-b-team-scrapped-feature-1236311115/",
+      "headline": "'CoComelon: The Movie' Brings Baby JJ (And SZA) To the Big Screen: Watch the First Teaser Trailer",
+      "title": "'CoComelon: The Movie' Brings Baby JJ (And SZA) To the Big Screen: Watch the First Teaser Trailer",
+      "snapshot": "The R&B star is bringing her voice to the first CoComelon movie, with original music from Justin Tranter.",
+      "summary": "The R&B star is bringing her voice to the first CoComelon movie, with original music from Justin Tranter.",
+      "url": "https://www.billboard.com/culture/tv-film/cocomelon-movie-trailer-sza-justin-tranter-music-1236311181/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-06 08:20:52 PM ET",
+      "published_at": "2026-08-06 09:29:14 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Cam'ron Threatens to Expose Members of Cardi B's Team Over Unreleased Song: 'Take This as a Warning'"
+        "'CoComelon: The Movie' Brings Baby JJ (And SZA) To the Big Screen: Watch the First Teaser Trailer"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -845,8 +845,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-8633937036544793720",
-      "key": "gaming-2-8633937036544793720",
+      "id": "gaming-2-4385914678023969079",
+      "key": "gaming-2-4385914678023969079",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Call of Duty: World at War Multiplayer Nearly Had a Much Larger Focus on Vehicles",
@@ -872,8 +872,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-5854999507775797270",
-      "key": "film-3-5854999507775797270",
+      "id": "film-3-2264850689289600518",
+      "key": "film-3-2264850689289600518",
       "category": "Film",
       "label": "Film",
       "headline": "Morgan Freeman Says You Can 'Overlook' a Mediocre Script 'If They're Going to Pay You Enough' Money",
@@ -899,8 +899,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-1015943998800899851",
-      "key": "film-13-1015943998800899851",
+      "id": "film-13-8129960322321533798",
+      "key": "film-13-8129960322321533798",
       "category": "Film",
       "label": "Film",
       "headline": "Lionsgate Motion Picture Chair Gives Update On 'Michael 2' Estimated Production Start & Release Date",
@@ -926,22 +926,22 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-1321541752335708801",
-      "key": "film-25-1321541752335708801",
+      "id": "film-25-4479425105360798151",
+      "key": "film-25-4479425105360798151",
       "category": "Film",
       "label": "Film",
-      "headline": "Giorgia Whigham Joins Kevin Bacon in Amazon MGM Horror Thriller 'Summoner' (Exclusive)",
-      "title": "Giorgia Whigham Joins Kevin Bacon in Amazon MGM Horror Thriller 'Summoner' (Exclusive)",
-      "snapshot": "Jeremy Slater, the longtime genre writer behind 'Mortal Kombat II' and 'The Umbrella Academy,' is making his directorial debut with the feature.",
-      "summary": "Jeremy Slater, the longtime genre writer behind 'Mortal Kombat II' and 'The Umbrella Academy,' is making his directorial debut with the feature.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/giorgia-whigham-kevin-bacon-amazon-mgm-thriller-summoner-1236666370/",
+      "headline": "'Brady vs. Manning': Documentary Film in the Works About NFL Rivalry (Exclusive)",
+      "title": "'Brady vs. Manning': Documentary Film in the Works About NFL Rivalry (Exclusive)",
+      "snapshot": "Adapting Gary Myers' best-selling book, the project will examine Tom Brady and Peyton Manning's memorable match-ups that captivated football fans for years.",
+      "summary": "Adapting Gary Myers' best-selling book, the project will examine Tom Brady and Peyton Manning's memorable match-ups that captivated football fans for years.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/brady-vs-manning-documentary-nfl-gary-myers-1236665674/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-06 06:27:26 PM ET",
+      "published_at": "2026-08-06 07:27:10 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Giorgia Whigham Joins Kevin Bacon in Amazon MGM Horror Thriller 'Summoner' (Exclusive)"
+        "'Brady vs. Manning': Documentary Film in the Works About NFL Rivalry (Exclusive)"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -953,22 +953,22 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-7504457838061291579",
-      "key": "film-35-7504457838061291579",
+      "id": "film-35-2174311300722034603",
+      "key": "film-35-2174311300722034603",
       "category": "Film",
       "label": "Film",
-      "headline": "2010 Robert De Niro Film, Originally a Box Office Hit, Named His Worst Movie of All Time - Men's Journal",
-      "title": "2010 Robert De Niro Film, Originally a Box Office Hit, Named His Worst Movie of All Time - Men's Journal",
-      "snapshot": "2010 Robert De Niro Film, Originally a Box Office Hit, Named His Worst Movie of All Time Men's Journal",
-      "summary": "2010 Robert De Niro Film, Originally a Box Office Hit, Named His Worst Movie of All Time Men's Journal",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTGZpdjFPakctQS03VFB1NFR0UjJETzFyWF9HT3hlTGhjVE5yQk1EUmhZUzdLVFRqbmVnR1FXc3M1MTJFNTN4S3JGdWN6VHQ1aUVNNGtHc2otc2dPbHVuMFpLQ2g5cks4UmxId1FYUVJpXzRZQUNUYWxXbUVYNG5XR3pNbmF2U19tM2lLRUg4UDlDMHNEVmttUHBIYURSMWFlNldaYy1qT2VSeTZtMXBORERRTHQ5SGhLTDNCN0FhVEo0SVJXS3pwdW9uYWdKcTZYSzZHVkNvaw?oc=5",
+      "headline": "The Zelda movie's Ganondorf casting hints at more movies - The Verge",
+      "title": "The Zelda movie's Ganondorf casting hints at more movies - The Verge",
+      "snapshot": "The Zelda movie's Ganondorf casting hints at more movies The Verge",
+      "summary": "The Zelda movie's Ganondorf casting hints at more movies The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdVNlVmFfR3NQYXhSZmtWZTExRzE0TU9VZFB5X0dSR011TDhYVFRaSmFRUDRfYWxrakNicWZfS0dMa2VxUjRNamNfYWoyLXZKdFhFSzJjaXd1MzNzSVoycUpwZnJsaTFRVDBYT1ljTV95VUp0TW9Jc2U1Zk55YVh3T3NWSzd5WlpFQ1pQYTNYWXF0ZnFhWlNqaEtVSEhUQ2tvWFE?oc=5",
       "source": "Google News",
       "source_name": "Google News",
       "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "published_at": "2026-08-03 04:00:47 PM ET",
+      "published_at": "2026-08-06 02:31:57 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "2010 Robert De Niro Film, Originally a Box Office Hit, Named His Worst Movie of All Time - Men's Journal"
+        "The Zelda movie's Ganondorf casting hints at more movies - The Verge"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -980,22 +980,22 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-1322707381592576503",
-      "key": "music-13-1322707381592576503",
+      "id": "music-13-4701290389407387968",
+      "key": "music-13-4701290389407387968",
       "category": "Music",
       "label": "Music",
-      "headline": "Barbra Streisand Is Stepping Into Children's Literature With Debut Picture Book 'And By the Way…'",
-      "title": "Barbra Streisand Is Stepping Into Children's Literature With Debut Picture Book 'And By the Way…'",
-      "snapshot": "The book will be released in March 2027.",
-      "summary": "The book will be released in March 2027.",
-      "url": "https://www.billboard.com/culture/lifestyle/barbra-streisand-childrens-picture-book-and-by-the-way-1236311190/",
+      "headline": "Ryan Murphy Addresses Ariana Grande's 'American Horror Story' Exit: 'Who's Busier Than Ariana Grande? No One'",
+      "title": "Ryan Murphy Addresses Ariana Grande's 'American Horror Story' Exit: 'Who's Busier Than Ariana Grande? No One'",
+      "snapshot": "Murphy reveals he might revisit the scrapped role he had for the star at a later time.",
+      "summary": "Murphy reveals he might revisit the scrapped role he had for the star at a later time.",
+      "url": "https://www.billboard.com/culture/tv-film/ryan-murphy-ariana-grande-american-horror-story-interview-1236311231/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-06 08:01:52 PM ET",
+      "published_at": "2026-08-06 08:55:11 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Barbra Streisand Is Stepping Into Children's Literature With Debut Picture Book 'And By the Way…'"
+        "Ryan Murphy Addresses Ariana Grande's 'American Horror Story' Exit: 'Who's Busier Than Ariana Grande? No One'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1007,8 +1007,8 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-7747591624729913016",
-      "key": "gaming-3-7747591624729913016",
+      "id": "gaming-3-4881010167425049775",
+      "key": "gaming-3-4881010167425049775",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Hideki Kamiya Reveals Spider-Man 2 Scene That Inspired Key Game Sequence in Okami",
@@ -1036,8 +1036,8 @@
   ],
   "homepage_cards": [
     {
-      "id": "film-0-6639325412839233787",
-      "key": "film-0-6639325412839233787",
+      "id": "film-0-2771046453980791707",
+      "key": "film-0-2771046453980791707",
       "category": "Film",
       "label": "Film",
       "headline": "'Michael 2' Eyes Filming Start 'Towards the End of this Year' or Early 2027 as Lionsgate Teases Release Date",
@@ -1063,8 +1063,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-1338098137997102098",
-      "key": "film-10-1338098137997102098",
+      "id": "film-10-7466070750476795909",
+      "key": "film-10-7466070750476795909",
       "category": "Film",
       "label": "Film",
       "headline": "'Grown Ups 3' Begins Production, Adam Sandler Reunites With Co-Stars In Set Photo",
@@ -1090,22 +1090,22 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-1487578098211419869",
-      "key": "film-22-1487578098211419869",
+      "id": "film-22-272161736847515457",
+      "key": "film-22-272161736847515457",
       "category": "Film",
       "label": "Film",
-      "headline": "'Spider-Man: Brand New Day' Scores Biggest First Week in Box Office History",
-      "title": "'Spider-Man: Brand New Day' Scores Biggest First Week in Box Office History",
-      "snapshot": "Tom Holland and Zendaya's unstoppable blockbuster is now the fastest film to make a half-billion domestically.",
-      "summary": "Tom Holland and Zendaya's unstoppable blockbuster is now the fastest film to make a half-billion domestically.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-biggest-first-week-1236668259/",
+      "headline": "What Is It Like to Portray Nazi Heinrich Himmler? Martin Müller Shares His Experience on 'I Is Another'",
+      "title": "What Is It Like to Portray Nazi Heinrich Himmler? Martin Müller Shares His Experience on 'I Is Another'",
+      "snapshot": "The film, starring Claes Bang and Valerie Pachner, debuts at Locarno, and director Felix Randau heard concerns that he may give a platform to a villain, but says: \"If you ignore evil, it will grow in the dark.\"",
+      "summary": "The film, starring Claes Bang and Valerie Pachner, debuts at Locarno, and director Felix Randau heard concerns that he may give a platform to a villain, but says: \"If you ignore evil, it will grow in the dark.\"",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/nazi-heinrich-himmler-i-is-another-film-actor-locarno-2026-1236652895/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-06 10:39:48 PM ET",
+      "published_at": "2026-08-07 01:00:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Spider-Man: Brand New Day' Scores Biggest First Week in Box Office History"
+        "What Is It Like to Portray Nazi Heinrich Himmler? Martin Müller Shares His Experience on 'I Is Another'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1117,14 +1117,14 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-4283814062855691154",
-      "key": "film-32-4283814062855691154",
+      "id": "film-32-9183166993937186587",
+      "key": "film-32-9183166993937186587",
       "category": "Film",
       "label": "Film",
-      "headline": "Everything to know about 'Madden,' a new movie coming to Prime Video November 18 - aboutamazon.com",
-      "title": "Everything to know about 'Madden,' a new movie coming to Prime Video November 18 - aboutamazon.com",
-      "snapshot": "Everything to know about 'Madden,' a new movie coming to Prime Video November 18 aboutamazon.com",
-      "summary": "Everything to know about 'Madden,' a new movie coming to Prime Video November 18 aboutamazon.com",
+      "headline": "Everything to know about 'Madden,' a new movie coming to Prime Video November 18 - About Amazon",
+      "title": "Everything to know about 'Madden,' a new movie coming to Prime Video November 18 - About Amazon",
+      "snapshot": "Everything to know about 'Madden,' a new movie coming to Prime Video November 18 About Amazon",
+      "summary": "Everything to know about 'Madden,' a new movie coming to Prime Video November 18 About Amazon",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUGdCdzZlZVFNNFRNbG96RGFzeTRWVWFtc2lFanZBc3lBeFgtQjhwUFhaRmVkano1SWs1V1VWZG04eWRJWnJhbUFJc3lTZ1RrcFpnZGhya0phbzNfcm02cW1FZllWZk1qLU5oeEM0OG1vRFB6RVJEbkg0V0NUbUJnU0ZDeHExMUdYa1h6Zg?oc=5",
       "source": "Google News",
       "source_name": "Google News",
@@ -1132,7 +1132,7 @@
       "published_at": "2026-08-06 11:00:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Everything to know about 'Madden,' a new movie coming to Prime Video November 18 - aboutamazon.com"
+        "Everything to know about 'Madden,' a new movie coming to Prime Video November 18 - About Amazon"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1144,22 +1144,22 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-4710781245432032601",
-      "key": "music-10-4710781245432032601",
+      "id": "music-10-4795302363981699340",
+      "key": "music-10-4795302363981699340",
       "category": "Music",
       "label": "Music",
-      "headline": "'CoComelon: The Movie' Brings Baby JJ (And SZA) To the Big Screen: Watch the First Teaser Trailer",
-      "title": "'CoComelon: The Movie' Brings Baby JJ (And SZA) To the Big Screen: Watch the First Teaser Trailer",
-      "snapshot": "The R&B star is bringing her voice to the first CoComelon movie, with original music from Justin Tranter.",
-      "summary": "The R&B star is bringing her voice to the first CoComelon movie, with original music from Justin Tranter.",
-      "url": "https://www.billboard.com/culture/tv-film/cocomelon-movie-trailer-sza-justin-tranter-music-1236311181/",
+      "headline": "Stray Kids Are Back With 'THIS & THAT': Stream It Now",
+      "title": "Stray Kids Are Back With 'THIS & THAT': Stream It Now",
+      "snapshot": "The eight-track collection opens with the anthemic digital single \"RUN IT,\" written and produced by the group's in-house production unit 3RACHA.",
+      "summary": "The eight-track collection opens with the anthemic digital single \"RUN IT,\" written and produced by the group's in-house production unit 3RACHA.",
+      "url": "https://www.billboard.com/music/pop/stray-kids-this-and-that-stream-it-now-1236311356/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-06 09:29:14 PM ET",
+      "published_at": "2026-08-07 12:52:30 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'CoComelon: The Movie' Brings Baby JJ (And SZA) To the Big Screen: Watch the First Teaser Trailer"
+        "Stray Kids Are Back With 'THIS & THAT': Stream It Now"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1171,8 +1171,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-7670268014974886505",
-      "key": "gaming-0-7670268014974886505",
+      "id": "gaming-0-8771942307606325865",
+      "key": "gaming-0-8771942307606325865",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Layoffs Hit Staff at Crossfire Developer That's No Moon",
@@ -1198,8 +1198,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-8247969183316362922",
-      "key": "film-1-8247969183316362922",
+      "id": "film-1-876658969105635840",
+      "key": "film-1-876658969105635840",
       "category": "Film",
       "label": "Film",
       "headline": "After U.K. Approval of Paramount-WBD Deal, European Media Leaders Rally Behind David Ellison: 'The Industry Will Be Stronger'",
@@ -1225,8 +1225,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-4298180103484932928",
-      "key": "film-11-4298180103484932928",
+      "id": "film-11-6085595796366244928",
+      "key": "film-11-6085595796366244928",
       "category": "Film",
       "label": "Film",
       "headline": "James Gunn Says 'The Batman: Part II' Won't Shoot Back-To-Back With 'Part III'",
@@ -1252,22 +1252,22 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-2046645166542881722",
-      "key": "film-23-2046645166542881722",
+      "id": "film-23-6706746907480281139",
+      "key": "film-23-6706746907480281139",
       "category": "Film",
       "label": "Film",
-      "headline": "Morgan Freeman Will \"Overlook Some of the Glitches\" in a Script If They \"Pay You Enough\"",
-      "title": "Morgan Freeman Will \"Overlook Some of the Glitches\" in a Script If They \"Pay You Enough\"",
-      "snapshot": "As for whether he has any plans to retire as he approaches 90 years old, the Oscar winner said, \"If you can get out of bed and don't fall down when you do it, then you just count your blessings and keep moving.\"",
-      "summary": "As for whether he has any plans to retire as he approaches 90 years old, the Oscar winner said, \"If you can get out of bed and don't fall down when you do it, then you just count your blessings and keep moving.\"",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/morgan-freeman-overlook-mediocre-script-pay-enough-1236668210/",
+      "headline": "'Spider-Man: Brand New Day' Scores Biggest First Week in Box Office History",
+      "title": "'Spider-Man: Brand New Day' Scores Biggest First Week in Box Office History",
+      "snapshot": "Tom Holland and Zendaya's unstoppable blockbuster is now the fastest film to make a half-billion domestically.",
+      "summary": "Tom Holland and Zendaya's unstoppable blockbuster is now the fastest film to make a half-billion domestically.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-biggest-first-week-1236668259/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-06 10:39:20 PM ET",
+      "published_at": "2026-08-06 10:39:48 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Morgan Freeman Will \"Overlook Some of the Glitches\" in a Script If They \"Pay You Enough\""
+        "'Spider-Man: Brand New Day' Scores Biggest First Week in Box Office History"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1279,22 +1279,22 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-55963163468297319",
-      "key": "film-33-55963163468297319",
+      "id": "film-33-4039532791001679044",
+      "key": "film-33-4039532791001679044",
       "category": "Film",
       "label": "Film",
-      "headline": "Your guide to 2026 movie release dates - Entertainment Weekly",
-      "title": "Your guide to 2026 movie release dates - Entertainment Weekly",
-      "snapshot": "Your guide to 2026 movie release dates Entertainment Weekly",
-      "summary": "Your guide to 2026 movie release dates Entertainment Weekly",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NbnB6enZzT2htbDhfSGxidjBsQ0o5WDlZeGxXT1BuTjVNY3N4T1RscFFtUkpsZzNiMzlFd2VkVnpUM2h0eXBMMFozd3JkaUZVVHR2aUxzTEwyTzVTTnJtcUNzNXpDeUVJ?oc=5",
+      "headline": "The Greatest Action Movie of All Time Isn't 'Die Hard'-It's This 1968 Classic - Men's Journal",
+      "title": "The Greatest Action Movie of All Time Isn't 'Die Hard'-It's This 1968 Classic - Men's Journal",
+      "snapshot": "The Greatest Action Movie of All Time Isn't 'Die Hard'-It's This 1968 Classic Men's Journal",
+      "summary": "The Greatest Action Movie of All Time Isn't 'Die Hard'-It's This 1968 Classic Men's Journal",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWWZjSmpYLU9hQ01xeTVVeFNES19uY045Yi1EQ0h4ejZpUHlJVU9HdnlWVzFaMkVlcF8zcEdTbVh2UEVqd3ZwVDQzNVRGTVVKWURsQzZNRjk2WWNnMS1vSHVyVmpzZ2JINDJvTXFwV2tFQXZNMXhMWTlyWTBmMmtHREdSNzFzUQ?oc=5",
       "source": "Google News",
       "source_name": "Google News",
       "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "published_at": "2026-08-04 05:55:00 PM ET",
+      "published_at": "2026-08-06 04:17:00 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Your guide to 2026 movie release dates - Entertainment Weekly"
+        "The Greatest Action Movie of All Time Isn't 'Die Hard'-It's This 1968 Classic - Men's Journal"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1306,22 +1306,22 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-49253219663865940",
-      "key": "music-11-49253219663865940",
+      "id": "music-11-4263899279826191217",
+      "key": "music-11-4263899279826191217",
       "category": "Music",
       "label": "Music",
-      "headline": "Ryan Murphy Addresses Ariana Grande's 'American Horror Story' Exit: 'Who's Busier Than Ariana Grande? No One'",
-      "title": "Ryan Murphy Addresses Ariana Grande's 'American Horror Story' Exit: 'Who's Busier Than Ariana Grande? No One'",
-      "snapshot": "Murphy reveals he might revisit the scrapped role he had for the star at a later time.",
-      "summary": "Murphy reveals he might revisit the scrapped role he had for the star at a later time.",
-      "url": "https://www.billboard.com/culture/tv-film/ryan-murphy-ariana-grande-american-horror-story-interview-1236311231/",
+      "headline": "Karol G's New Album 'No Me Arrepiento de Sentir Tanto' Featuring Drake & More Is Here: Stream It Now",
+      "title": "Karol G's New Album 'No Me Arrepiento de Sentir Tanto' Featuring Drake & More Is Here: Stream It Now",
+      "snapshot": "The 14-track album follows 2025's Tropicoqueta , which debuted at No. 1 on Top Latin Albums.",
+      "summary": "The 14-track album follows 2025's Tropicoqueta , which debuted at No. 1 on Top Latin Albums.",
+      "url": "https://www.billboard.com/music/latin/karol-g-no-me-arrepiento-de-sentir-tanto-stream-it-now-1236309607/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-06 08:55:11 PM ET",
+      "published_at": "2026-08-07 12:00:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Ryan Murphy Addresses Ariana Grande's 'American Horror Story' Exit: 'Who's Busier Than Ariana Grande? No One'"
+        "Karol G's New Album 'No Me Arrepiento de Sentir Tanto' Featuring Drake & More Is Here: Stream It Now"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1333,8 +1333,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-8316689112775756214",
-      "key": "gaming-1-8316689112775756214",
+      "id": "gaming-1-6714264285923363541",
+      "key": "gaming-1-6714264285923363541",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Quake Gets Free New Campaign Co-Developed by MachineGames for Game's 30th Anniversary",
@@ -1360,8 +1360,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-2-9190458585391185273",
-      "key": "film-2-9190458585391185273",
+      "id": "film-2-4024413107956950331",
+      "key": "film-2-4024413107956950331",
       "category": "Film",
       "label": "Film",
       "headline": "'Michael' Boosts Lionsgate Quarterly Results as Studio Narrows Loss to $29 Million",
@@ -1387,8 +1387,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-8279227821798307649",
-      "key": "film-12-8279227821798307649",
+      "id": "film-12-4359159504962613955",
+      "key": "film-12-4359159504962613955",
       "category": "Film",
       "label": "Film",
       "headline": "Paramount-WBD Deal Endorsed By Lionsgate CEO Jon Feltheimer: \"Uncertainty Is The Worst\"",
@@ -1414,22 +1414,22 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-2889519531589982592",
-      "key": "film-24-2889519531589982592",
+      "id": "film-24-4473288647051812256",
+      "key": "film-24-4473288647051812256",
       "category": "Film",
       "label": "Film",
-      "headline": "'Brady vs. Manning': Documentary Film in the Works About NFL Rivalry (Exclusive)",
-      "title": "'Brady vs. Manning': Documentary Film in the Works About NFL Rivalry (Exclusive)",
-      "snapshot": "Adapting Gary Myers' best-selling book, the project will examine Tom Brady and Peyton Manning's memorable match-ups that captivated football fans for years.",
-      "summary": "Adapting Gary Myers' best-selling book, the project will examine Tom Brady and Peyton Manning's memorable match-ups that captivated football fans for years.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/brady-vs-manning-documentary-nfl-gary-myers-1236665674/",
+      "headline": "Morgan Freeman Will \"Overlook Some of the Glitches\" in a Script If They \"Pay You Enough\"",
+      "title": "Morgan Freeman Will \"Overlook Some of the Glitches\" in a Script If They \"Pay You Enough\"",
+      "snapshot": "As for whether he has any plans to retire as he approaches 90 years old, the Oscar winner said, \"If you can get out of bed and don't fall down when you do it, then you just count your blessings and keep moving.\"",
+      "summary": "As for whether he has any plans to retire as he approaches 90 years old, the Oscar winner said, \"If you can get out of bed and don't fall down when you do it, then you just count your blessings and keep moving.\"",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/morgan-freeman-overlook-mediocre-script-pay-enough-1236668210/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-06 07:27:10 PM ET",
+      "published_at": "2026-08-06 10:39:20 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Brady vs. Manning': Documentary Film in the Works About NFL Rivalry (Exclusive)"
+        "Morgan Freeman Will \"Overlook Some of the Glitches\" in a Script If They \"Pay You Enough\""
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1441,22 +1441,22 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-6537760620826919663",
-      "key": "film-34-6537760620826919663",
+      "id": "film-34-1159333258070600145",
+      "key": "film-34-1159333258070600145",
       "category": "Film",
       "label": "Film",
-      "headline": "The Zelda movie's Ganondorf casting hints at more movies - The Verge",
-      "title": "The Zelda movie's Ganondorf casting hints at more movies - The Verge",
-      "snapshot": "The Zelda movie's Ganondorf casting hints at more movies The Verge",
-      "summary": "The Zelda movie's Ganondorf casting hints at more movies The Verge",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdVNlVmFfR3NQYXhSZmtWZTExRzE0TU9VZFB5X0dSR011TDhYVFRaSmFRUDRfYWxrakNicWZfS0dMa2VxUjRNamNfYWoyLXZKdFhFSzJjaXd1MzNzSVoycUpwZnJsaTFRVDBYT1ljTV95VUp0TW9Jc2U1Zk55YVh3T3NWSzd5WlpFQ1pQYTNYWXF0ZnFhWlNqaEtVSEhUQ2tvWFE?oc=5",
+      "headline": "Your guide to 2026 movie release dates - Entertainment Weekly",
+      "title": "Your guide to 2026 movie release dates - Entertainment Weekly",
+      "snapshot": "Your guide to 2026 movie release dates Entertainment Weekly",
+      "summary": "Your guide to 2026 movie release dates Entertainment Weekly",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NbnB6enZzT2htbDhfSGxidjBsQ0o5WDlZeGxXT1BuTjVNY3N4T1RscFFtUkpsZzNiMzlFd2VkVnpUM2h0eXBMMFozd3JkaUZVVHR2aUxzTEwyTzVTTnJtcUNzNXpDeUVJ?oc=5",
       "source": "Google News",
       "source_name": "Google News",
       "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "published_at": "2026-08-06 02:31:57 PM ET",
+      "published_at": "2026-08-04 05:55:00 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "The Zelda movie's Ganondorf casting hints at more movies - The Verge"
+        "Your guide to 2026 movie release dates - Entertainment Weekly"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1468,22 +1468,22 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-2569416602841848381",
-      "key": "music-12-2569416602841848381",
+      "id": "music-12-3900270494378420603",
+      "key": "music-12-3900270494378420603",
       "category": "Music",
       "label": "Music",
-      "headline": "Cam'ron Threatens to Expose Members of Cardi B's Team Over Unreleased Song: 'Take This as a Warning'",
-      "title": "Cam'ron Threatens to Expose Members of Cardi B's Team Over Unreleased Song: 'Take This as a Warning'",
-      "snapshot": "The Harlem rapper & media personality was asked to contribute to a remake of his hit song \"What Means the World to You\" that was released in 2000.",
-      "summary": "The Harlem rapper & media personality was asked to contribute to a remake of his hit song \"What Means the World to You\" that was released in 2000.",
-      "url": "https://www.billboard.com/music/rb-hip-hop/camron-threatens-expose-cardi-b-team-scrapped-feature-1236311115/",
+      "headline": "'CoComelon: The Movie' Brings Baby JJ (And SZA) To the Big Screen: Watch the First Teaser Trailer",
+      "title": "'CoComelon: The Movie' Brings Baby JJ (And SZA) To the Big Screen: Watch the First Teaser Trailer",
+      "snapshot": "The R&B star is bringing her voice to the first CoComelon movie, with original music from Justin Tranter.",
+      "summary": "The R&B star is bringing her voice to the first CoComelon movie, with original music from Justin Tranter.",
+      "url": "https://www.billboard.com/culture/tv-film/cocomelon-movie-trailer-sza-justin-tranter-music-1236311181/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-06 08:20:52 PM ET",
+      "published_at": "2026-08-06 09:29:14 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Cam'ron Threatens to Expose Members of Cardi B's Team Over Unreleased Song: 'Take This as a Warning'"
+        "'CoComelon: The Movie' Brings Baby JJ (And SZA) To the Big Screen: Watch the First Teaser Trailer"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1495,8 +1495,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-8633937036544793720",
-      "key": "gaming-2-8633937036544793720",
+      "id": "gaming-2-4385914678023969079",
+      "key": "gaming-2-4385914678023969079",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Call of Duty: World at War Multiplayer Nearly Had a Much Larger Focus on Vehicles",
@@ -1522,8 +1522,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-5854999507775797270",
-      "key": "film-3-5854999507775797270",
+      "id": "film-3-2264850689289600518",
+      "key": "film-3-2264850689289600518",
       "category": "Film",
       "label": "Film",
       "headline": "Morgan Freeman Says You Can 'Overlook' a Mediocre Script 'If They're Going to Pay You Enough' Money",
@@ -1549,8 +1549,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-1015943998800899851",
-      "key": "film-13-1015943998800899851",
+      "id": "film-13-8129960322321533798",
+      "key": "film-13-8129960322321533798",
       "category": "Film",
       "label": "Film",
       "headline": "Lionsgate Motion Picture Chair Gives Update On 'Michael 2' Estimated Production Start & Release Date",
@@ -1576,22 +1576,22 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-1321541752335708801",
-      "key": "film-25-1321541752335708801",
+      "id": "film-25-4479425105360798151",
+      "key": "film-25-4479425105360798151",
       "category": "Film",
       "label": "Film",
-      "headline": "Giorgia Whigham Joins Kevin Bacon in Amazon MGM Horror Thriller 'Summoner' (Exclusive)",
-      "title": "Giorgia Whigham Joins Kevin Bacon in Amazon MGM Horror Thriller 'Summoner' (Exclusive)",
-      "snapshot": "Jeremy Slater, the longtime genre writer behind 'Mortal Kombat II' and 'The Umbrella Academy,' is making his directorial debut with the feature.",
-      "summary": "Jeremy Slater, the longtime genre writer behind 'Mortal Kombat II' and 'The Umbrella Academy,' is making his directorial debut with the feature.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/giorgia-whigham-kevin-bacon-amazon-mgm-thriller-summoner-1236666370/",
+      "headline": "'Brady vs. Manning': Documentary Film in the Works About NFL Rivalry (Exclusive)",
+      "title": "'Brady vs. Manning': Documentary Film in the Works About NFL Rivalry (Exclusive)",
+      "snapshot": "Adapting Gary Myers' best-selling book, the project will examine Tom Brady and Peyton Manning's memorable match-ups that captivated football fans for years.",
+      "summary": "Adapting Gary Myers' best-selling book, the project will examine Tom Brady and Peyton Manning's memorable match-ups that captivated football fans for years.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/brady-vs-manning-documentary-nfl-gary-myers-1236665674/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-06 06:27:26 PM ET",
+      "published_at": "2026-08-06 07:27:10 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Giorgia Whigham Joins Kevin Bacon in Amazon MGM Horror Thriller 'Summoner' (Exclusive)"
+        "'Brady vs. Manning': Documentary Film in the Works About NFL Rivalry (Exclusive)"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1603,22 +1603,22 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-7504457838061291579",
-      "key": "film-35-7504457838061291579",
+      "id": "film-35-2174311300722034603",
+      "key": "film-35-2174311300722034603",
       "category": "Film",
       "label": "Film",
-      "headline": "2010 Robert De Niro Film, Originally a Box Office Hit, Named His Worst Movie of All Time - Men's Journal",
-      "title": "2010 Robert De Niro Film, Originally a Box Office Hit, Named His Worst Movie of All Time - Men's Journal",
-      "snapshot": "2010 Robert De Niro Film, Originally a Box Office Hit, Named His Worst Movie of All Time Men's Journal",
-      "summary": "2010 Robert De Niro Film, Originally a Box Office Hit, Named His Worst Movie of All Time Men's Journal",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTGZpdjFPakctQS03VFB1NFR0UjJETzFyWF9HT3hlTGhjVE5yQk1EUmhZUzdLVFRqbmVnR1FXc3M1MTJFNTN4S3JGdWN6VHQ1aUVNNGtHc2otc2dPbHVuMFpLQ2g5cks4UmxId1FYUVJpXzRZQUNUYWxXbUVYNG5XR3pNbmF2U19tM2lLRUg4UDlDMHNEVmttUHBIYURSMWFlNldaYy1qT2VSeTZtMXBORERRTHQ5SGhLTDNCN0FhVEo0SVJXS3pwdW9uYWdKcTZYSzZHVkNvaw?oc=5",
+      "headline": "The Zelda movie's Ganondorf casting hints at more movies - The Verge",
+      "title": "The Zelda movie's Ganondorf casting hints at more movies - The Verge",
+      "snapshot": "The Zelda movie's Ganondorf casting hints at more movies The Verge",
+      "summary": "The Zelda movie's Ganondorf casting hints at more movies The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdVNlVmFfR3NQYXhSZmtWZTExRzE0TU9VZFB5X0dSR011TDhYVFRaSmFRUDRfYWxrakNicWZfS0dMa2VxUjRNamNfYWoyLXZKdFhFSzJjaXd1MzNzSVoycUpwZnJsaTFRVDBYT1ljTV95VUp0TW9Jc2U1Zk55YVh3T3NWSzd5WlpFQ1pQYTNYWXF0ZnFhWlNqaEtVSEhUQ2tvWFE?oc=5",
       "source": "Google News",
       "source_name": "Google News",
       "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "published_at": "2026-08-03 04:00:47 PM ET",
+      "published_at": "2026-08-06 02:31:57 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "2010 Robert De Niro Film, Originally a Box Office Hit, Named His Worst Movie of All Time - Men's Journal"
+        "The Zelda movie's Ganondorf casting hints at more movies - The Verge"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1630,22 +1630,22 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-1322707381592576503",
-      "key": "music-13-1322707381592576503",
+      "id": "music-13-4701290389407387968",
+      "key": "music-13-4701290389407387968",
       "category": "Music",
       "label": "Music",
-      "headline": "Barbra Streisand Is Stepping Into Children's Literature With Debut Picture Book 'And By the Way…'",
-      "title": "Barbra Streisand Is Stepping Into Children's Literature With Debut Picture Book 'And By the Way…'",
-      "snapshot": "The book will be released in March 2027.",
-      "summary": "The book will be released in March 2027.",
-      "url": "https://www.billboard.com/culture/lifestyle/barbra-streisand-childrens-picture-book-and-by-the-way-1236311190/",
+      "headline": "Ryan Murphy Addresses Ariana Grande's 'American Horror Story' Exit: 'Who's Busier Than Ariana Grande? No One'",
+      "title": "Ryan Murphy Addresses Ariana Grande's 'American Horror Story' Exit: 'Who's Busier Than Ariana Grande? No One'",
+      "snapshot": "Murphy reveals he might revisit the scrapped role he had for the star at a later time.",
+      "summary": "Murphy reveals he might revisit the scrapped role he had for the star at a later time.",
+      "url": "https://www.billboard.com/culture/tv-film/ryan-murphy-ariana-grande-american-horror-story-interview-1236311231/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-06 08:01:52 PM ET",
+      "published_at": "2026-08-06 08:55:11 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Barbra Streisand Is Stepping Into Children's Literature With Debut Picture Book 'And By the Way…'"
+        "Ryan Murphy Addresses Ariana Grande's 'American Horror Story' Exit: 'Who's Busier Than Ariana Grande? No One'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1657,8 +1657,8 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-7747591624729913016",
-      "key": "gaming-3-7747591624729913016",
+      "id": "gaming-3-4881010167425049775",
+      "key": "gaming-3-4881010167425049775",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Hideki Kamiya Reveals Spider-Man 2 Scene That Inspired Key Game Sequence in Okami",
@@ -1694,24 +1694,24 @@
       "key_storylines": [
         "‘Michael 2’ Eyes Filming Start ‘Towards the End of this Year’ or Early 2027 as Lionsgate Teases Release Date",
         "‘Grown Ups 3’ Begins Production, Adam Sandler Reunites With Co-Stars In Set Photo",
-        "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History",
-        "Everything to know about ‘Madden,’ a new movie coming to Prime Video November 18 - aboutamazon.com",
+        "What Is It Like to Portray Nazi Heinrich Himmler? Martin Müller Shares His Experience on ‘I Is Another’",
+        "Everything to know about ‘Madden,’ a new movie coming to Prime Video November 18 - About Amazon",
         "After U.K. Approval of Paramount-WBD Deal, European Media Leaders Rally Behind David Ellison: ‘The Industry Will Be Stronger’"
       ],
       "watch_list": [
         "‘Michael 2’ Eyes Filming Start ‘Towards the End of this Year’ or Early 2027 as Lionsgate Teases Release Date",
         "‘Grown Ups 3’ Begins Production, Adam Sandler Reunites With Co-Stars In Set Photo",
-        "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History",
-        "Everything to know about ‘Madden,’ a new movie coming to Prime Video November 18 - aboutamazon.com",
+        "What Is It Like to Portray Nazi Heinrich Himmler? Martin Müller Shares His Experience on ‘I Is Another’",
+        "Everything to know about ‘Madden,’ a new movie coming to Prime Video November 18 - About Amazon",
         "After U.K. Approval of Paramount-WBD Deal, European Media Leaders Rally Behind David Ellison: ‘The Industry Will Be Stronger’",
         "James Gunn Says ‘The Batman: Part II’ Won’t Shoot Back-To-Back With ‘Part III’",
-        "Morgan Freeman Will “Overlook Some of the Glitches” in a Script If They “Pay You Enough”",
-        "Your guide to 2026 movie release dates - Entertainment Weekly"
+        "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History",
+        "The Greatest Action Movie of All Time Isn’t ‘Die Hard’—It’s This 1968 Classic - Men's Journal"
       ],
       "homepage_cards": [
         {
-          "id": "film-0-6639325412839233787",
-          "key": "film-0-6639325412839233787",
+          "id": "film-0-2771046453980791707",
+          "key": "film-0-2771046453980791707",
           "category": "Film",
           "label": "Film",
           "headline": "‘Michael 2’ Eyes Filming Start ‘Towards the End of this Year’ or Early 2027 as Lionsgate Teases Release Date",
@@ -1738,8 +1738,8 @@
           ]
         },
         {
-          "id": "film-10-1338098137997102098",
-          "key": "film-10-1338098137997102098",
+          "id": "film-10-7466070750476795909",
+          "key": "film-10-7466070750476795909",
           "category": "Film",
           "label": "Film",
           "headline": "‘Grown Ups 3’ Begins Production, Adam Sandler Reunites With Co-Stars In Set Photo",
@@ -1766,25 +1766,25 @@
           ]
         },
         {
-          "id": "film-22-1487578098211419869",
-          "key": "film-22-1487578098211419869",
+          "id": "film-22-272161736847515457",
+          "key": "film-22-272161736847515457",
           "category": "Film",
           "label": "Film",
-          "headline": "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History",
-          "title": "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History",
-          "snapshot": "Tom Holland and Zendaya's unstoppable blockbuster is now the fastest film to make a half-billion domestically.",
-          "summary": "Tom Holland and Zendaya's unstoppable blockbuster is now the fastest film to make a half-billion domestically.",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-biggest-first-week-1236668259/",
+          "headline": "What Is It Like to Portray Nazi Heinrich Himmler? Martin Müller Shares His Experience on ‘I Is Another’",
+          "title": "What Is It Like to Portray Nazi Heinrich Himmler? Martin Müller Shares His Experience on ‘I Is Another’",
+          "snapshot": "The film, starring Claes Bang and Valerie Pachner, debuts at Locarno, and director Felix Randau heard concerns that he may give a platform to a villain, but says: \"If you ignore evil, it will grow in the dark.\"",
+          "summary": "The film, starring Claes Bang and Valerie Pachner, debuts at Locarno, and director Felix Randau heard concerns that he may give a platform to a villain, but says: \"If you ignore evil, it will grow in the dark.\"",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/nazi-heinrich-himmler-i-is-another-film-actor-locarno-2026-1236652895/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-          "published_at": "2026-08-06 10:39:48 PM ET",
+          "published_at": "2026-08-07 01:00:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 78,
           "key_data": [
-            "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History"
+            "What Is It Like to Portray Nazi Heinrich Himmler? Martin Müller Shares His Experience on ‘I Is Another’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1794,14 +1794,14 @@
           ]
         },
         {
-          "id": "film-32-4283814062855691154",
-          "key": "film-32-4283814062855691154",
+          "id": "film-32-9183166993937186587",
+          "key": "film-32-9183166993937186587",
           "category": "Film",
           "label": "Film",
-          "headline": "Everything to know about ‘Madden,’ a new movie coming to Prime Video November 18 - aboutamazon.com",
-          "title": "Everything to know about ‘Madden,’ a new movie coming to Prime Video November 18 - aboutamazon.com",
-          "snapshot": "Everything to know about ‘Madden,’ a new movie coming to Prime Video November 18 aboutamazon.com",
-          "summary": "Everything to know about ‘Madden,’ a new movie coming to Prime Video November 18 aboutamazon.com",
+          "headline": "Everything to know about ‘Madden,’ a new movie coming to Prime Video November 18 - About Amazon",
+          "title": "Everything to know about ‘Madden,’ a new movie coming to Prime Video November 18 - About Amazon",
+          "snapshot": "Everything to know about ‘Madden,’ a new movie coming to Prime Video November 18 About Amazon",
+          "summary": "Everything to know about ‘Madden,’ a new movie coming to Prime Video November 18 About Amazon",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUGdCdzZlZVFNNFRNbG96RGFzeTRWVWFtc2lFanZBc3lBeFgtQjhwUFhaRmVkano1SWs1V1VWZG04eWRJWnJhbUFJc3lTZ1RrcFpnZGhya0phbzNfcm02cW1FZllWZk1qLU5oeEM0OG1vRFB6RVJEbkg0V0NUbUJnU0ZDeHExMUdYa1h6Zg?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -1812,7 +1812,7 @@
           "story_type": "rss_headline",
           "priority_score": 68,
           "key_data": [
-            "Everything to know about ‘Madden,’ a new movie coming to Prime Video November 18 - aboutamazon.com"
+            "Everything to know about ‘Madden,’ a new movie coming to Prime Video November 18 - About Amazon"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1822,8 +1822,8 @@
           ]
         },
         {
-          "id": "film-1-8247969183316362922",
-          "key": "film-1-8247969183316362922",
+          "id": "film-1-876658969105635840",
+          "key": "film-1-876658969105635840",
           "category": "Film",
           "label": "Film",
           "headline": "After U.K. Approval of Paramount-WBD Deal, European Media Leaders Rally Behind David Ellison: ‘The Industry Will Be Stronger’",
@@ -1850,8 +1850,8 @@
           ]
         },
         {
-          "id": "film-11-4298180103484932928",
-          "key": "film-11-4298180103484932928",
+          "id": "film-11-6085595796366244928",
+          "key": "film-11-6085595796366244928",
           "category": "Film",
           "label": "Film",
           "headline": "James Gunn Says ‘The Batman: Part II’ Won’t Shoot Back-To-Back With ‘Part III’",
@@ -1878,25 +1878,25 @@
           ]
         },
         {
-          "id": "film-23-2046645166542881722",
-          "key": "film-23-2046645166542881722",
+          "id": "film-23-6706746907480281139",
+          "key": "film-23-6706746907480281139",
           "category": "Film",
           "label": "Film",
-          "headline": "Morgan Freeman Will “Overlook Some of the Glitches” in a Script If They “Pay You Enough”",
-          "title": "Morgan Freeman Will “Overlook Some of the Glitches” in a Script If They “Pay You Enough”",
-          "snapshot": "As for whether he has any plans to retire as he approaches 90 years old, the Oscar winner said, \"If you can get out of bed and don’t fall down when you do it, then you just count your blessings and keep moving.\"",
-          "summary": "As for whether he has any plans to retire as he approaches 90 years old, the Oscar winner said, \"If you can get out of bed and don’t fall down when you do it, then you just count your blessings and keep moving.\"",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/morgan-freeman-overlook-mediocre-script-pay-enough-1236668210/",
+          "headline": "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History",
+          "title": "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History",
+          "snapshot": "Tom Holland and Zendaya's unstoppable blockbuster is now the fastest film to make a half-billion domestically.",
+          "summary": "Tom Holland and Zendaya's unstoppable blockbuster is now the fastest film to make a half-billion domestically.",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-biggest-first-week-1236668259/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-          "published_at": "2026-08-06 10:39:20 PM ET",
+          "published_at": "2026-08-06 10:39:48 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 77,
           "key_data": [
-            "Morgan Freeman Will “Overlook Some of the Glitches” in a Script If They “Pay You Enough”"
+            "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1906,25 +1906,25 @@
           ]
         },
         {
-          "id": "film-33-55963163468297319",
-          "key": "film-33-55963163468297319",
+          "id": "film-33-4039532791001679044",
+          "key": "film-33-4039532791001679044",
           "category": "Film",
           "label": "Film",
-          "headline": "Your guide to 2026 movie release dates - Entertainment Weekly",
-          "title": "Your guide to 2026 movie release dates - Entertainment Weekly",
-          "snapshot": "Your guide to 2026 movie release dates Entertainment Weekly",
-          "summary": "Your guide to 2026 movie release dates Entertainment Weekly",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NbnB6enZzT2htbDhfSGxidjBsQ0o5WDlZeGxXT1BuTjVNY3N4T1RscFFtUkpsZzNiMzlFd2VkVnpUM2h0eXBMMFozd3JkaUZVVHR2aUxzTEwyTzVTTnJtcUNzNXpDeUVJ?oc=5",
+          "headline": "The Greatest Action Movie of All Time Isn’t ‘Die Hard’—It’s This 1968 Classic - Men's Journal",
+          "title": "The Greatest Action Movie of All Time Isn’t ‘Die Hard’—It’s This 1968 Classic - Men's Journal",
+          "snapshot": "The Greatest Action Movie of All Time Isn’t ‘Die Hard’—It’s This 1968 Classic Men's Journal",
+          "summary": "The Greatest Action Movie of All Time Isn’t ‘Die Hard’—It’s This 1968 Classic Men's Journal",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWWZjSmpYLU9hQ01xeTVVeFNES19uY045Yi1EQ0h4ejZpUHlJVU9HdnlWVzFaMkVlcF8zcEdTbVh2UEVqd3ZwVDQzNVRGTVVKWURsQzZNRjk2WWNnMS1vSHVyVmpzZ2JINDJvTXFwV2tFQXZNMXhMWTlyWTBmMmtHREdSNzFzUQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-04 05:55:00 PM ET",
+          "published_at": "2026-08-06 04:17:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 67,
           "key_data": [
-            "Your guide to 2026 movie release dates - Entertainment Weekly"
+            "The Greatest Action Movie of All Time Isn’t ‘Die Hard’—It’s This 1968 Classic - Men's Journal"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1936,8 +1936,8 @@
       ],
       "items": [
         {
-          "id": "film-0-6639325412839233787",
-          "key": "film-0-6639325412839233787",
+          "id": "film-0-2771046453980791707",
+          "key": "film-0-2771046453980791707",
           "category": "Film",
           "label": "Film",
           "headline": "‘Michael 2’ Eyes Filming Start ‘Towards the End of this Year’ or Early 2027 as Lionsgate Teases Release Date",
@@ -1964,8 +1964,8 @@
           ]
         },
         {
-          "id": "film-10-1338098137997102098",
-          "key": "film-10-1338098137997102098",
+          "id": "film-10-7466070750476795909",
+          "key": "film-10-7466070750476795909",
           "category": "Film",
           "label": "Film",
           "headline": "‘Grown Ups 3’ Begins Production, Adam Sandler Reunites With Co-Stars In Set Photo",
@@ -1992,25 +1992,25 @@
           ]
         },
         {
-          "id": "film-22-1487578098211419869",
-          "key": "film-22-1487578098211419869",
+          "id": "film-22-272161736847515457",
+          "key": "film-22-272161736847515457",
           "category": "Film",
           "label": "Film",
-          "headline": "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History",
-          "title": "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History",
-          "snapshot": "Tom Holland and Zendaya's unstoppable blockbuster is now the fastest film to make a half-billion domestically.",
-          "summary": "Tom Holland and Zendaya's unstoppable blockbuster is now the fastest film to make a half-billion domestically.",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-biggest-first-week-1236668259/",
+          "headline": "What Is It Like to Portray Nazi Heinrich Himmler? Martin Müller Shares His Experience on ‘I Is Another’",
+          "title": "What Is It Like to Portray Nazi Heinrich Himmler? Martin Müller Shares His Experience on ‘I Is Another’",
+          "snapshot": "The film, starring Claes Bang and Valerie Pachner, debuts at Locarno, and director Felix Randau heard concerns that he may give a platform to a villain, but says: \"If you ignore evil, it will grow in the dark.\"",
+          "summary": "The film, starring Claes Bang and Valerie Pachner, debuts at Locarno, and director Felix Randau heard concerns that he may give a platform to a villain, but says: \"If you ignore evil, it will grow in the dark.\"",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/nazi-heinrich-himmler-i-is-another-film-actor-locarno-2026-1236652895/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-          "published_at": "2026-08-06 10:39:48 PM ET",
+          "published_at": "2026-08-07 01:00:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 78,
           "key_data": [
-            "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History"
+            "What Is It Like to Portray Nazi Heinrich Himmler? Martin Müller Shares His Experience on ‘I Is Another’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2020,14 +2020,14 @@
           ]
         },
         {
-          "id": "film-32-4283814062855691154",
-          "key": "film-32-4283814062855691154",
+          "id": "film-32-9183166993937186587",
+          "key": "film-32-9183166993937186587",
           "category": "Film",
           "label": "Film",
-          "headline": "Everything to know about ‘Madden,’ a new movie coming to Prime Video November 18 - aboutamazon.com",
-          "title": "Everything to know about ‘Madden,’ a new movie coming to Prime Video November 18 - aboutamazon.com",
-          "snapshot": "Everything to know about ‘Madden,’ a new movie coming to Prime Video November 18 aboutamazon.com",
-          "summary": "Everything to know about ‘Madden,’ a new movie coming to Prime Video November 18 aboutamazon.com",
+          "headline": "Everything to know about ‘Madden,’ a new movie coming to Prime Video November 18 - About Amazon",
+          "title": "Everything to know about ‘Madden,’ a new movie coming to Prime Video November 18 - About Amazon",
+          "snapshot": "Everything to know about ‘Madden,’ a new movie coming to Prime Video November 18 About Amazon",
+          "summary": "Everything to know about ‘Madden,’ a new movie coming to Prime Video November 18 About Amazon",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUGdCdzZlZVFNNFRNbG96RGFzeTRWVWFtc2lFanZBc3lBeFgtQjhwUFhaRmVkano1SWs1V1VWZG04eWRJWnJhbUFJc3lTZ1RrcFpnZGhya0phbzNfcm02cW1FZllWZk1qLU5oeEM0OG1vRFB6RVJEbkg0V0NUbUJnU0ZDeHExMUdYa1h6Zg?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -2038,7 +2038,7 @@
           "story_type": "rss_headline",
           "priority_score": 68,
           "key_data": [
-            "Everything to know about ‘Madden,’ a new movie coming to Prime Video November 18 - aboutamazon.com"
+            "Everything to know about ‘Madden,’ a new movie coming to Prime Video November 18 - About Amazon"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2048,8 +2048,8 @@
           ]
         },
         {
-          "id": "film-1-8247969183316362922",
-          "key": "film-1-8247969183316362922",
+          "id": "film-1-876658969105635840",
+          "key": "film-1-876658969105635840",
           "category": "Film",
           "label": "Film",
           "headline": "After U.K. Approval of Paramount-WBD Deal, European Media Leaders Rally Behind David Ellison: ‘The Industry Will Be Stronger’",
@@ -2076,8 +2076,8 @@
           ]
         },
         {
-          "id": "film-11-4298180103484932928",
-          "key": "film-11-4298180103484932928",
+          "id": "film-11-6085595796366244928",
+          "key": "film-11-6085595796366244928",
           "category": "Film",
           "label": "Film",
           "headline": "James Gunn Says ‘The Batman: Part II’ Won’t Shoot Back-To-Back With ‘Part III’",
@@ -2104,25 +2104,25 @@
           ]
         },
         {
-          "id": "film-23-2046645166542881722",
-          "key": "film-23-2046645166542881722",
+          "id": "film-23-6706746907480281139",
+          "key": "film-23-6706746907480281139",
           "category": "Film",
           "label": "Film",
-          "headline": "Morgan Freeman Will “Overlook Some of the Glitches” in a Script If They “Pay You Enough”",
-          "title": "Morgan Freeman Will “Overlook Some of the Glitches” in a Script If They “Pay You Enough”",
-          "snapshot": "As for whether he has any plans to retire as he approaches 90 years old, the Oscar winner said, \"If you can get out of bed and don’t fall down when you do it, then you just count your blessings and keep moving.\"",
-          "summary": "As for whether he has any plans to retire as he approaches 90 years old, the Oscar winner said, \"If you can get out of bed and don’t fall down when you do it, then you just count your blessings and keep moving.\"",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/morgan-freeman-overlook-mediocre-script-pay-enough-1236668210/",
+          "headline": "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History",
+          "title": "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History",
+          "snapshot": "Tom Holland and Zendaya's unstoppable blockbuster is now the fastest film to make a half-billion domestically.",
+          "summary": "Tom Holland and Zendaya's unstoppable blockbuster is now the fastest film to make a half-billion domestically.",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-biggest-first-week-1236668259/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-          "published_at": "2026-08-06 10:39:20 PM ET",
+          "published_at": "2026-08-06 10:39:48 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 77,
           "key_data": [
-            "Morgan Freeman Will “Overlook Some of the Glitches” in a Script If They “Pay You Enough”"
+            "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2132,25 +2132,25 @@
           ]
         },
         {
-          "id": "film-33-55963163468297319",
-          "key": "film-33-55963163468297319",
+          "id": "film-33-4039532791001679044",
+          "key": "film-33-4039532791001679044",
           "category": "Film",
           "label": "Film",
-          "headline": "Your guide to 2026 movie release dates - Entertainment Weekly",
-          "title": "Your guide to 2026 movie release dates - Entertainment Weekly",
-          "snapshot": "Your guide to 2026 movie release dates Entertainment Weekly",
-          "summary": "Your guide to 2026 movie release dates Entertainment Weekly",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NbnB6enZzT2htbDhfSGxidjBsQ0o5WDlZeGxXT1BuTjVNY3N4T1RscFFtUkpsZzNiMzlFd2VkVnpUM2h0eXBMMFozd3JkaUZVVHR2aUxzTEwyTzVTTnJtcUNzNXpDeUVJ?oc=5",
+          "headline": "The Greatest Action Movie of All Time Isn’t ‘Die Hard’—It’s This 1968 Classic - Men's Journal",
+          "title": "The Greatest Action Movie of All Time Isn’t ‘Die Hard’—It’s This 1968 Classic - Men's Journal",
+          "snapshot": "The Greatest Action Movie of All Time Isn’t ‘Die Hard’—It’s This 1968 Classic Men's Journal",
+          "summary": "The Greatest Action Movie of All Time Isn’t ‘Die Hard’—It’s This 1968 Classic Men's Journal",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWWZjSmpYLU9hQ01xeTVVeFNES19uY045Yi1EQ0h4ejZpUHlJVU9HdnlWVzFaMkVlcF8zcEdTbVh2UEVqd3ZwVDQzNVRGTVVKWURsQzZNRjk2WWNnMS1vSHVyVmpzZ2JINDJvTXFwV2tFQXZNMXhMWTlyWTBmMmtHREdSNzFzUQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-04 05:55:00 PM ET",
+          "published_at": "2026-08-06 04:17:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 67,
           "key_data": [
-            "Your guide to 2026 movie release dates - Entertainment Weekly"
+            "The Greatest Action Movie of All Time Isn’t ‘Die Hard’—It’s This 1968 Classic - Men's Journal"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2160,7 +2160,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-06 11:49:41 PM ET"
+      "updated_at": "2026-08-07 01:40:43 AM ET"
     },
     {
       "key": "tv",
@@ -2170,25 +2170,25 @@
       "snapshot": "TV coverage is updating with 8 current RSS headline item(s).",
       "key_storylines": [
         "‘The Big Bang Theory’ Star Melissa Rauch on Her Larger-Than-Life Surprise Role on ‘Stuart Fails to Save the Universe’",
-        "‘Stuart’ Episode 3: Wil Wheaton, Brian Posehn & John Ross Bowie Talk Wizards, Puppies, Penguins, Fireball Fight, Easter Egg & That Shocking Death",
+        "‘Stuart Fails’ Creators On ‘Big Bang’ OG Return For WGA Strike Roast In Magic-Themed Episode 3 Where Wizards Seek “Residuals For Eternal Spells”",
         "‘KPop Demon Hunters’ Writers Land Drama ‘A Really Bad Person’ at FX",
         "Shemaroo Entertainment secures licence for Hindi TV channel Mango TV - Storyboard18",
         "Nielsen to Acquire DoubleVerify for $2.15 Billion in Bid to Augment Digital Measurement"
       ],
       "watch_list": [
         "‘The Big Bang Theory’ Star Melissa Rauch on Her Larger-Than-Life Surprise Role on ‘Stuart Fails to Save the Universe’",
-        "‘Stuart’ Episode 3: Wil Wheaton, Brian Posehn & John Ross Bowie Talk Wizards, Puppies, Penguins, Fireball Fight, Easter Egg & That Shocking Death",
+        "‘Stuart Fails’ Creators On ‘Big Bang’ OG Return For WGA Strike Roast In Magic-Themed Episode 3 Where Wizards Seek “Residuals For Eternal Spells”",
         "‘KPop Demon Hunters’ Writers Land Drama ‘A Really Bad Person’ at FX",
         "Shemaroo Entertainment secures licence for Hindi TV channel Mango TV - Storyboard18",
         "Nielsen to Acquire DoubleVerify for $2.15 Billion in Bid to Augment Digital Measurement",
-        "‘Stuart Fails’ Creators On ‘Big Bang’ OG Return For WGA Strike Roast In Magic-Themed Episode 3 Where Wizards Seek “Residuals For Eternal Spells”",
+        "‘Stuart’ Episode 3: Wil Wheaton, Brian Posehn & John Ross Bowie Talk Wizards, Puppies, Penguins, Fireball Fight, Easter Egg & That Shocking Death",
         "How to Stream the 2026 Xfinity U.S. Gymnastics Championships Online",
         "Shemaroo gets MIB nod to launch Hindi entertainment channel Mango TV - Indian Television Dot Com"
       ],
       "homepage_cards": [
         {
-          "id": "tv-0-682929307843215400",
-          "key": "tv-0-682929307843215400",
+          "id": "tv-0-6434103159230098819",
+          "key": "tv-0-6434103159230098819",
           "category": "TV",
           "label": "TV",
           "headline": "‘The Big Bang Theory’ Star Melissa Rauch on Her Larger-Than-Life Surprise Role on ‘Stuart Fails to Save the Universe’",
@@ -2215,15 +2215,15 @@
           ]
         },
         {
-          "id": "tv-10-4408227776652544628",
-          "key": "tv-10-4408227776652544628",
+          "id": "tv-10-3325570693692939836",
+          "key": "tv-10-3325570693692939836",
           "category": "TV",
           "label": "TV",
-          "headline": "‘Stuart’ Episode 3: Wil Wheaton, Brian Posehn & John Ross Bowie Talk Wizards, Puppies, Penguins, Fireball Fight, Easter Egg & That Shocking Death",
-          "title": "‘Stuart’ Episode 3: Wil Wheaton, Brian Posehn & John Ross Bowie Talk Wizards, Puppies, Penguins, Fireball Fight, Easter Egg & That Shocking Death",
-          "snapshot": "SPOILER ALERT: The story includes details about Episode 3 of HBO Max’s Stuart Fails To Save the Universe. Three episodes in, Stuart Fails To Save the Universe has brought back seven actors from the original show in addition to the spinoff’s leading quartet of Stuart (Kevin Sussman), Brian Posehn (Bert), Lauren Lapku...",
-          "summary": "SPOILER ALERT: The story includes details about Episode 3 of HBO Max’s Stuart Fails To Save the Universe. Three episodes in, Stuart Fails To Save the Universe has brought back seven actors from the original show in addition to the spinoff’s leading quartet of Stuart (Kevin Sussman), Brian Posehn (Bert), Lauren Lapku...",
-          "url": "https://deadline.com/2026/08/stuart-episode-3-wil-wheaton-brian-posehn-john-ross-bowie-1237015025/",
+          "headline": "‘Stuart Fails’ Creators On ‘Big Bang’ OG Return For WGA Strike Roast In Magic-Themed Episode 3 Where Wizards Seek “Residuals For Eternal Spells”",
+          "title": "‘Stuart Fails’ Creators On ‘Big Bang’ OG Return For WGA Strike Roast In Magic-Themed Episode 3 Where Wizards Seek “Residuals For Eternal Spells”",
+          "snapshot": "SPOILER ALERT: The story includes details about Episode 3 of HBO Max’s Stuart Fails To Save the Universe. Another episode of Stuart Fails To Save the Universe, another surprise — and dark — OG return. In Episode 3, it was Melissa Rauch reprising her role as Bernadette Rostenkowski. Like in Episode 2, where Penny, in...",
+          "summary": "SPOILER ALERT: The story includes details about Episode 3 of HBO Max’s Stuart Fails To Save the Universe. Another episode of Stuart Fails To Save the Universe, another surprise — and dark — OG return. In Episode 3, it was Melissa Rauch reprising her role as Bernadette Rostenkowski. Like in Episode 2, where Penny, in...",
+          "url": "https://deadline.com/2026/08/stuart-fails-melissa-rauch-wga-magic-episode-3-explained-1237014249/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/tv/feed/",
@@ -2233,7 +2233,7 @@
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "‘Stuart’ Episode 3: Wil Wheaton, Brian Posehn & John Ross Bowie Talk Wizards, Puppies, Penguins, Fireball Fight, Easter Egg & That Shocking Death"
+            "‘Stuart Fails’ Creators On ‘Big Bang’ OG Return For WGA Strike Roast In Magic-Themed Episode 3 Where Wizards Seek “Residuals For Eternal Spells”"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2243,8 +2243,8 @@
           ]
         },
         {
-          "id": "tv-19-1502474507091061212",
-          "key": "tv-19-1502474507091061212",
+          "id": "tv-19-9005423942500030225",
+          "key": "tv-19-9005423942500030225",
           "category": "TV",
           "label": "TV",
           "headline": "‘KPop Demon Hunters’ Writers Land Drama ‘A Really Bad Person’ at FX",
@@ -2271,8 +2271,8 @@
           ]
         },
         {
-          "id": "tv-29-8550422426618839115",
-          "key": "tv-29-8550422426618839115",
+          "id": "tv-29-6420376176928890323",
+          "key": "tv-29-6420376176928890323",
           "category": "TV",
           "label": "TV",
           "headline": "Shemaroo Entertainment secures licence for Hindi TV channel Mango TV - Storyboard18",
@@ -2299,8 +2299,8 @@
           ]
         },
         {
-          "id": "tv-1-2975890412464934997",
-          "key": "tv-1-2975890412464934997",
+          "id": "tv-1-2521393518321142744",
+          "key": "tv-1-2521393518321142744",
           "category": "TV",
           "label": "TV",
           "headline": "Nielsen to Acquire DoubleVerify for $2.15 Billion in Bid to Augment Digital Measurement",
@@ -2327,15 +2327,15 @@
           ]
         },
         {
-          "id": "tv-11-1987604613183889790",
-          "key": "tv-11-1987604613183889790",
+          "id": "tv-11-7512404796641726561",
+          "key": "tv-11-7512404796641726561",
           "category": "TV",
           "label": "TV",
-          "headline": "‘Stuart Fails’ Creators On ‘Big Bang’ OG Return For WGA Strike Roast In Magic-Themed Episode 3 Where Wizards Seek “Residuals For Eternal Spells”",
-          "title": "‘Stuart Fails’ Creators On ‘Big Bang’ OG Return For WGA Strike Roast In Magic-Themed Episode 3 Where Wizards Seek “Residuals For Eternal Spells”",
-          "snapshot": "SPOILER ALERT: The story includes details about Episode 3 of HBO Max’s Stuart Fails To Save the Universe. Another episode of Stuart Fails To Save the Universe, another surprise — and dark — OG return. In Episode 3, it was Melissa Rauch reprising her role as Bernadette Rostenkowski. Like in Episode 2, where Penny, in...",
-          "summary": "SPOILER ALERT: The story includes details about Episode 3 of HBO Max’s Stuart Fails To Save the Universe. Another episode of Stuart Fails To Save the Universe, another surprise — and dark — OG return. In Episode 3, it was Melissa Rauch reprising her role as Bernadette Rostenkowski. Like in Episode 2, where Penny, in...",
-          "url": "https://deadline.com/2026/08/stuart-fails-melissa-rauch-wga-magic-episode-3-explained-1237014249/",
+          "headline": "‘Stuart’ Episode 3: Wil Wheaton, Brian Posehn & John Ross Bowie Talk Wizards, Puppies, Penguins, Fireball Fight, Easter Egg & That Shocking Death",
+          "title": "‘Stuart’ Episode 3: Wil Wheaton, Brian Posehn & John Ross Bowie Talk Wizards, Puppies, Penguins, Fireball Fight, Easter Egg & That Shocking Death",
+          "snapshot": "SPOILER ALERT: The story includes details about Episode 3 of HBO Max’s Stuart Fails To Save the Universe. Three episodes in, Stuart Fails To Save the Universe has brought back seven actors from the original show in addition to the spinoff’s leading quartet of Stuart (Kevin Sussman), Brian Posehn (Bert), Lauren Lapku...",
+          "summary": "SPOILER ALERT: The story includes details about Episode 3 of HBO Max’s Stuart Fails To Save the Universe. Three episodes in, Stuart Fails To Save the Universe has brought back seven actors from the original show in addition to the spinoff’s leading quartet of Stuart (Kevin Sussman), Brian Posehn (Bert), Lauren Lapku...",
+          "url": "https://deadline.com/2026/08/stuart-episode-3-wil-wheaton-brian-posehn-john-ross-bowie-1237015025/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/tv/feed/",
@@ -2345,7 +2345,7 @@
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "‘Stuart Fails’ Creators On ‘Big Bang’ OG Return For WGA Strike Roast In Magic-Themed Episode 3 Where Wizards Seek “Residuals For Eternal Spells”"
+            "‘Stuart’ Episode 3: Wil Wheaton, Brian Posehn & John Ross Bowie Talk Wizards, Puppies, Penguins, Fireball Fight, Easter Egg & That Shocking Death"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2355,8 +2355,8 @@
           ]
         },
         {
-          "id": "tv-20-7234401437714764603",
-          "key": "tv-20-7234401437714764603",
+          "id": "tv-20-7763772955339262390",
+          "key": "tv-20-7763772955339262390",
           "category": "TV",
           "label": "TV",
           "headline": "How to Stream the 2026 Xfinity U.S. Gymnastics Championships Online",
@@ -2383,8 +2383,8 @@
           ]
         },
         {
-          "id": "tv-30-7544112744251003308",
-          "key": "tv-30-7544112744251003308",
+          "id": "tv-30-5017842179743253198",
+          "key": "tv-30-5017842179743253198",
           "category": "TV",
           "label": "TV",
           "headline": "Shemaroo gets MIB nod to launch Hindi entertainment channel Mango TV - Indian Television Dot Com",
@@ -2413,8 +2413,8 @@
       ],
       "items": [
         {
-          "id": "tv-0-682929307843215400",
-          "key": "tv-0-682929307843215400",
+          "id": "tv-0-6434103159230098819",
+          "key": "tv-0-6434103159230098819",
           "category": "TV",
           "label": "TV",
           "headline": "‘The Big Bang Theory’ Star Melissa Rauch on Her Larger-Than-Life Surprise Role on ‘Stuart Fails to Save the Universe’",
@@ -2441,15 +2441,15 @@
           ]
         },
         {
-          "id": "tv-10-4408227776652544628",
-          "key": "tv-10-4408227776652544628",
+          "id": "tv-10-3325570693692939836",
+          "key": "tv-10-3325570693692939836",
           "category": "TV",
           "label": "TV",
-          "headline": "‘Stuart’ Episode 3: Wil Wheaton, Brian Posehn & John Ross Bowie Talk Wizards, Puppies, Penguins, Fireball Fight, Easter Egg & That Shocking Death",
-          "title": "‘Stuart’ Episode 3: Wil Wheaton, Brian Posehn & John Ross Bowie Talk Wizards, Puppies, Penguins, Fireball Fight, Easter Egg & That Shocking Death",
-          "snapshot": "SPOILER ALERT: The story includes details about Episode 3 of HBO Max’s Stuart Fails To Save the Universe. Three episodes in, Stuart Fails To Save the Universe has brought back seven actors from the original show in addition to the spinoff’s leading quartet of Stuart (Kevin Sussman), Brian Posehn (Bert), Lauren Lapku...",
-          "summary": "SPOILER ALERT: The story includes details about Episode 3 of HBO Max’s Stuart Fails To Save the Universe. Three episodes in, Stuart Fails To Save the Universe has brought back seven actors from the original show in addition to the spinoff’s leading quartet of Stuart (Kevin Sussman), Brian Posehn (Bert), Lauren Lapku...",
-          "url": "https://deadline.com/2026/08/stuart-episode-3-wil-wheaton-brian-posehn-john-ross-bowie-1237015025/",
+          "headline": "‘Stuart Fails’ Creators On ‘Big Bang’ OG Return For WGA Strike Roast In Magic-Themed Episode 3 Where Wizards Seek “Residuals For Eternal Spells”",
+          "title": "‘Stuart Fails’ Creators On ‘Big Bang’ OG Return For WGA Strike Roast In Magic-Themed Episode 3 Where Wizards Seek “Residuals For Eternal Spells”",
+          "snapshot": "SPOILER ALERT: The story includes details about Episode 3 of HBO Max’s Stuart Fails To Save the Universe. Another episode of Stuart Fails To Save the Universe, another surprise — and dark — OG return. In Episode 3, it was Melissa Rauch reprising her role as Bernadette Rostenkowski. Like in Episode 2, where Penny, in...",
+          "summary": "SPOILER ALERT: The story includes details about Episode 3 of HBO Max’s Stuart Fails To Save the Universe. Another episode of Stuart Fails To Save the Universe, another surprise — and dark — OG return. In Episode 3, it was Melissa Rauch reprising her role as Bernadette Rostenkowski. Like in Episode 2, where Penny, in...",
+          "url": "https://deadline.com/2026/08/stuart-fails-melissa-rauch-wga-magic-episode-3-explained-1237014249/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/tv/feed/",
@@ -2459,7 +2459,7 @@
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "‘Stuart’ Episode 3: Wil Wheaton, Brian Posehn & John Ross Bowie Talk Wizards, Puppies, Penguins, Fireball Fight, Easter Egg & That Shocking Death"
+            "‘Stuart Fails’ Creators On ‘Big Bang’ OG Return For WGA Strike Roast In Magic-Themed Episode 3 Where Wizards Seek “Residuals For Eternal Spells”"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2469,8 +2469,8 @@
           ]
         },
         {
-          "id": "tv-19-1502474507091061212",
-          "key": "tv-19-1502474507091061212",
+          "id": "tv-19-9005423942500030225",
+          "key": "tv-19-9005423942500030225",
           "category": "TV",
           "label": "TV",
           "headline": "‘KPop Demon Hunters’ Writers Land Drama ‘A Really Bad Person’ at FX",
@@ -2497,8 +2497,8 @@
           ]
         },
         {
-          "id": "tv-29-8550422426618839115",
-          "key": "tv-29-8550422426618839115",
+          "id": "tv-29-6420376176928890323",
+          "key": "tv-29-6420376176928890323",
           "category": "TV",
           "label": "TV",
           "headline": "Shemaroo Entertainment secures licence for Hindi TV channel Mango TV - Storyboard18",
@@ -2525,8 +2525,8 @@
           ]
         },
         {
-          "id": "tv-1-2975890412464934997",
-          "key": "tv-1-2975890412464934997",
+          "id": "tv-1-2521393518321142744",
+          "key": "tv-1-2521393518321142744",
           "category": "TV",
           "label": "TV",
           "headline": "Nielsen to Acquire DoubleVerify for $2.15 Billion in Bid to Augment Digital Measurement",
@@ -2553,15 +2553,15 @@
           ]
         },
         {
-          "id": "tv-11-1987604613183889790",
-          "key": "tv-11-1987604613183889790",
+          "id": "tv-11-7512404796641726561",
+          "key": "tv-11-7512404796641726561",
           "category": "TV",
           "label": "TV",
-          "headline": "‘Stuart Fails’ Creators On ‘Big Bang’ OG Return For WGA Strike Roast In Magic-Themed Episode 3 Where Wizards Seek “Residuals For Eternal Spells”",
-          "title": "‘Stuart Fails’ Creators On ‘Big Bang’ OG Return For WGA Strike Roast In Magic-Themed Episode 3 Where Wizards Seek “Residuals For Eternal Spells”",
-          "snapshot": "SPOILER ALERT: The story includes details about Episode 3 of HBO Max’s Stuart Fails To Save the Universe. Another episode of Stuart Fails To Save the Universe, another surprise — and dark — OG return. In Episode 3, it was Melissa Rauch reprising her role as Bernadette Rostenkowski. Like in Episode 2, where Penny, in...",
-          "summary": "SPOILER ALERT: The story includes details about Episode 3 of HBO Max’s Stuart Fails To Save the Universe. Another episode of Stuart Fails To Save the Universe, another surprise — and dark — OG return. In Episode 3, it was Melissa Rauch reprising her role as Bernadette Rostenkowski. Like in Episode 2, where Penny, in...",
-          "url": "https://deadline.com/2026/08/stuart-fails-melissa-rauch-wga-magic-episode-3-explained-1237014249/",
+          "headline": "‘Stuart’ Episode 3: Wil Wheaton, Brian Posehn & John Ross Bowie Talk Wizards, Puppies, Penguins, Fireball Fight, Easter Egg & That Shocking Death",
+          "title": "‘Stuart’ Episode 3: Wil Wheaton, Brian Posehn & John Ross Bowie Talk Wizards, Puppies, Penguins, Fireball Fight, Easter Egg & That Shocking Death",
+          "snapshot": "SPOILER ALERT: The story includes details about Episode 3 of HBO Max’s Stuart Fails To Save the Universe. Three episodes in, Stuart Fails To Save the Universe has brought back seven actors from the original show in addition to the spinoff’s leading quartet of Stuart (Kevin Sussman), Brian Posehn (Bert), Lauren Lapku...",
+          "summary": "SPOILER ALERT: The story includes details about Episode 3 of HBO Max’s Stuart Fails To Save the Universe. Three episodes in, Stuart Fails To Save the Universe has brought back seven actors from the original show in addition to the spinoff’s leading quartet of Stuart (Kevin Sussman), Brian Posehn (Bert), Lauren Lapku...",
+          "url": "https://deadline.com/2026/08/stuart-episode-3-wil-wheaton-brian-posehn-john-ross-bowie-1237015025/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/tv/feed/",
@@ -2571,7 +2571,7 @@
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "‘Stuart Fails’ Creators On ‘Big Bang’ OG Return For WGA Strike Roast In Magic-Themed Episode 3 Where Wizards Seek “Residuals For Eternal Spells”"
+            "‘Stuart’ Episode 3: Wil Wheaton, Brian Posehn & John Ross Bowie Talk Wizards, Puppies, Penguins, Fireball Fight, Easter Egg & That Shocking Death"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2581,8 +2581,8 @@
           ]
         },
         {
-          "id": "tv-20-7234401437714764603",
-          "key": "tv-20-7234401437714764603",
+          "id": "tv-20-7763772955339262390",
+          "key": "tv-20-7763772955339262390",
           "category": "TV",
           "label": "TV",
           "headline": "How to Stream the 2026 Xfinity U.S. Gymnastics Championships Online",
@@ -2609,8 +2609,8 @@
           ]
         },
         {
-          "id": "tv-30-7544112744251003308",
-          "key": "tv-30-7544112744251003308",
+          "id": "tv-30-5017842179743253198",
+          "key": "tv-30-5017842179743253198",
           "category": "TV",
           "label": "TV",
           "headline": "Shemaroo gets MIB nod to launch Hindi entertainment channel Mango TV - Indian Television Dot Com",
@@ -2637,7 +2637,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-06 11:49:42 PM ET"
+      "updated_at": "2026-08-07 01:40:44 AM ET"
     },
     {
       "key": "streaming",
@@ -2655,8 +2655,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "streaming-0-339002559638826638",
-          "key": "streaming-0-339002559638826638",
+          "id": "streaming-0-4530772593826949125",
+          "key": "streaming-0-4530772593826949125",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Disney turns $4-billion streaming loss into profit, and now it chases global growth - Los Angeles Times",
@@ -2683,8 +2683,8 @@
           ]
         },
         {
-          "id": "streaming-1-5017642669647052519",
-          "key": "streaming-1-5017642669647052519",
+          "id": "streaming-1-8654378009013453895",
+          "key": "streaming-1-8654378009013453895",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'The Devil Wears Prada 2' to 'Obsession,' 10 movies to stream now - USA Today",
@@ -2713,8 +2713,8 @@
       ],
       "items": [
         {
-          "id": "streaming-0-339002559638826638",
-          "key": "streaming-0-339002559638826638",
+          "id": "streaming-0-4530772593826949125",
+          "key": "streaming-0-4530772593826949125",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Disney turns $4-billion streaming loss into profit, and now it chases global growth - Los Angeles Times",
@@ -2741,8 +2741,8 @@
           ]
         },
         {
-          "id": "streaming-1-5017642669647052519",
-          "key": "streaming-1-5017642669647052519",
+          "id": "streaming-1-8654378009013453895",
+          "key": "streaming-1-8654378009013453895",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'The Devil Wears Prada 2' to 'Obsession,' 10 movies to stream now - USA Today",
@@ -2769,7 +2769,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-06 11:49:42 PM ET"
+      "updated_at": "2026-08-07 01:40:44 AM ET"
     },
     {
       "key": "music",
@@ -2779,23 +2779,23 @@
       "snapshot": "Music coverage is updating with 6 current RSS headline item(s).",
       "key_storylines": [
         "Peter Katsis, Veteran Manager for Backstreet Boys, Korn, Jane’s Addiction and More, Dies at 69",
-        "‘CoComelon: The Movie’ Brings Baby JJ (And SZA) To the Big Screen: Watch the First Teaser Trailer",
+        "Stray Kids Are Back With ‘THIS & THAT’: Stream It Now",
         "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - Billboard",
         "Phoebe Bridgers Will Unveil ‘Lost Weekend’ Album in Planetariums in More Than 30 Cities",
-        "Ryan Murphy Addresses Ariana Grande’s ‘American Horror Story’ Exit: ‘Who’s Busier Than Ariana Grande? No One’"
+        "Karol G’s New Album ‘No Me Arrepiento de Sentir Tanto’ Featuring Drake & More Is Here: Stream It Now"
       ],
       "watch_list": [
         "Peter Katsis, Veteran Manager for Backstreet Boys, Korn, Jane’s Addiction and More, Dies at 69",
-        "‘CoComelon: The Movie’ Brings Baby JJ (And SZA) To the Big Screen: Watch the First Teaser Trailer",
+        "Stray Kids Are Back With ‘THIS & THAT’: Stream It Now",
         "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - Billboard",
         "Phoebe Bridgers Will Unveil ‘Lost Weekend’ Album in Planetariums in More Than 30 Cities",
-        "Ryan Murphy Addresses Ariana Grande’s ‘American Horror Story’ Exit: ‘Who’s Busier Than Ariana Grande? No One’",
+        "Karol G’s New Album ‘No Me Arrepiento de Sentir Tanto’ Featuring Drake & More Is Here: Stream It Now",
         "It’s Official: Influence Media to Buy Anthem for Over $600 Million - Billboard"
       ],
       "homepage_cards": [
         {
-          "id": "music-0-5557681409225448043",
-          "key": "music-0-5557681409225448043",
+          "id": "music-0-142736086480318427",
+          "key": "music-0-142736086480318427",
           "category": "Music",
           "label": "Music",
           "headline": "Peter Katsis, Veteran Manager for Backstreet Boys, Korn, Jane’s Addiction and More, Dies at 69",
@@ -2822,25 +2822,25 @@
           ]
         },
         {
-          "id": "music-10-4710781245432032601",
-          "key": "music-10-4710781245432032601",
+          "id": "music-10-4795302363981699340",
+          "key": "music-10-4795302363981699340",
           "category": "Music",
           "label": "Music",
-          "headline": "‘CoComelon: The Movie’ Brings Baby JJ (And SZA) To the Big Screen: Watch the First Teaser Trailer",
-          "title": "‘CoComelon: The Movie’ Brings Baby JJ (And SZA) To the Big Screen: Watch the First Teaser Trailer",
-          "snapshot": "The R&B star is bringing her voice to the first CoComelon movie, with original music from Justin Tranter.",
-          "summary": "The R&B star is bringing her voice to the first CoComelon movie, with original music from Justin Tranter.",
-          "url": "https://www.billboard.com/culture/tv-film/cocomelon-movie-trailer-sza-justin-tranter-music-1236311181/",
+          "headline": "Stray Kids Are Back With ‘THIS & THAT’: Stream It Now",
+          "title": "Stray Kids Are Back With ‘THIS & THAT’: Stream It Now",
+          "snapshot": "The eight-track collection opens with the anthemic digital single \"RUN IT,” written and produced by the group’s in-house production unit 3RACHA.",
+          "summary": "The eight-track collection opens with the anthemic digital single \"RUN IT,” written and produced by the group’s in-house production unit 3RACHA.",
+          "url": "https://www.billboard.com/music/pop/stray-kids-this-and-that-stream-it-now-1236311356/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-06 09:29:14 PM ET",
+          "published_at": "2026-08-07 12:52:30 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "‘CoComelon: The Movie’ Brings Baby JJ (And SZA) To the Big Screen: Watch the First Teaser Trailer"
+            "Stray Kids Are Back With ‘THIS & THAT’: Stream It Now"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2850,8 +2850,8 @@
           ]
         },
         {
-          "id": "music-20-1592095498303961101",
-          "key": "music-20-1592095498303961101",
+          "id": "music-20-2090385974802804818",
+          "key": "music-20-2090385974802804818",
           "category": "Music",
           "label": "Music",
           "headline": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - Billboard",
@@ -2878,8 +2878,8 @@
           ]
         },
         {
-          "id": "music-1-4741895332278394752",
-          "key": "music-1-4741895332278394752",
+          "id": "music-1-7266605824274824876",
+          "key": "music-1-7266605824274824876",
           "category": "Music",
           "label": "Music",
           "headline": "Phoebe Bridgers Will Unveil ‘Lost Weekend’ Album in Planetariums in More Than 30 Cities",
@@ -2906,25 +2906,25 @@
           ]
         },
         {
-          "id": "music-11-49253219663865940",
-          "key": "music-11-49253219663865940",
+          "id": "music-11-4263899279826191217",
+          "key": "music-11-4263899279826191217",
           "category": "Music",
           "label": "Music",
-          "headline": "Ryan Murphy Addresses Ariana Grande’s ‘American Horror Story’ Exit: ‘Who’s Busier Than Ariana Grande? No One’",
-          "title": "Ryan Murphy Addresses Ariana Grande’s ‘American Horror Story’ Exit: ‘Who’s Busier Than Ariana Grande? No One’",
-          "snapshot": "Murphy reveals he might revisit the scrapped role he had for the star at a later time.",
-          "summary": "Murphy reveals he might revisit the scrapped role he had for the star at a later time.",
-          "url": "https://www.billboard.com/culture/tv-film/ryan-murphy-ariana-grande-american-horror-story-interview-1236311231/",
+          "headline": "Karol G’s New Album ‘No Me Arrepiento de Sentir Tanto’ Featuring Drake & More Is Here: Stream It Now",
+          "title": "Karol G’s New Album ‘No Me Arrepiento de Sentir Tanto’ Featuring Drake & More Is Here: Stream It Now",
+          "snapshot": "The 14-track album follows 2025's Tropicoqueta , which debuted at No. 1 on Top Latin Albums.",
+          "summary": "The 14-track album follows 2025's Tropicoqueta , which debuted at No. 1 on Top Latin Albums.",
+          "url": "https://www.billboard.com/music/latin/karol-g-no-me-arrepiento-de-sentir-tanto-stream-it-now-1236309607/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-06 08:55:11 PM ET",
+          "published_at": "2026-08-07 12:00:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "Ryan Murphy Addresses Ariana Grande’s ‘American Horror Story’ Exit: ‘Who’s Busier Than Ariana Grande? No One’"
+            "Karol G’s New Album ‘No Me Arrepiento de Sentir Tanto’ Featuring Drake & More Is Here: Stream It Now"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2934,8 +2934,8 @@
           ]
         },
         {
-          "id": "music-21-5310029308687466363",
-          "key": "music-21-5310029308687466363",
+          "id": "music-21-768763322379837919",
+          "key": "music-21-768763322379837919",
           "category": "Music",
           "label": "Music",
           "headline": "It’s Official: Influence Media to Buy Anthem for Over $600 Million - Billboard",
@@ -2964,8 +2964,8 @@
       ],
       "items": [
         {
-          "id": "music-0-5557681409225448043",
-          "key": "music-0-5557681409225448043",
+          "id": "music-0-142736086480318427",
+          "key": "music-0-142736086480318427",
           "category": "Music",
           "label": "Music",
           "headline": "Peter Katsis, Veteran Manager for Backstreet Boys, Korn, Jane’s Addiction and More, Dies at 69",
@@ -2992,25 +2992,25 @@
           ]
         },
         {
-          "id": "music-10-4710781245432032601",
-          "key": "music-10-4710781245432032601",
+          "id": "music-10-4795302363981699340",
+          "key": "music-10-4795302363981699340",
           "category": "Music",
           "label": "Music",
-          "headline": "‘CoComelon: The Movie’ Brings Baby JJ (And SZA) To the Big Screen: Watch the First Teaser Trailer",
-          "title": "‘CoComelon: The Movie’ Brings Baby JJ (And SZA) To the Big Screen: Watch the First Teaser Trailer",
-          "snapshot": "The R&B star is bringing her voice to the first CoComelon movie, with original music from Justin Tranter.",
-          "summary": "The R&B star is bringing her voice to the first CoComelon movie, with original music from Justin Tranter.",
-          "url": "https://www.billboard.com/culture/tv-film/cocomelon-movie-trailer-sza-justin-tranter-music-1236311181/",
+          "headline": "Stray Kids Are Back With ‘THIS & THAT’: Stream It Now",
+          "title": "Stray Kids Are Back With ‘THIS & THAT’: Stream It Now",
+          "snapshot": "The eight-track collection opens with the anthemic digital single \"RUN IT,” written and produced by the group’s in-house production unit 3RACHA.",
+          "summary": "The eight-track collection opens with the anthemic digital single \"RUN IT,” written and produced by the group’s in-house production unit 3RACHA.",
+          "url": "https://www.billboard.com/music/pop/stray-kids-this-and-that-stream-it-now-1236311356/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-06 09:29:14 PM ET",
+          "published_at": "2026-08-07 12:52:30 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "‘CoComelon: The Movie’ Brings Baby JJ (And SZA) To the Big Screen: Watch the First Teaser Trailer"
+            "Stray Kids Are Back With ‘THIS & THAT’: Stream It Now"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3020,8 +3020,8 @@
           ]
         },
         {
-          "id": "music-20-1592095498303961101",
-          "key": "music-20-1592095498303961101",
+          "id": "music-20-2090385974802804818",
+          "key": "music-20-2090385974802804818",
           "category": "Music",
           "label": "Music",
           "headline": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - Billboard",
@@ -3048,8 +3048,8 @@
           ]
         },
         {
-          "id": "music-1-4741895332278394752",
-          "key": "music-1-4741895332278394752",
+          "id": "music-1-7266605824274824876",
+          "key": "music-1-7266605824274824876",
           "category": "Music",
           "label": "Music",
           "headline": "Phoebe Bridgers Will Unveil ‘Lost Weekend’ Album in Planetariums in More Than 30 Cities",
@@ -3076,25 +3076,25 @@
           ]
         },
         {
-          "id": "music-11-49253219663865940",
-          "key": "music-11-49253219663865940",
+          "id": "music-11-4263899279826191217",
+          "key": "music-11-4263899279826191217",
           "category": "Music",
           "label": "Music",
-          "headline": "Ryan Murphy Addresses Ariana Grande’s ‘American Horror Story’ Exit: ‘Who’s Busier Than Ariana Grande? No One’",
-          "title": "Ryan Murphy Addresses Ariana Grande’s ‘American Horror Story’ Exit: ‘Who’s Busier Than Ariana Grande? No One’",
-          "snapshot": "Murphy reveals he might revisit the scrapped role he had for the star at a later time.",
-          "summary": "Murphy reveals he might revisit the scrapped role he had for the star at a later time.",
-          "url": "https://www.billboard.com/culture/tv-film/ryan-murphy-ariana-grande-american-horror-story-interview-1236311231/",
+          "headline": "Karol G’s New Album ‘No Me Arrepiento de Sentir Tanto’ Featuring Drake & More Is Here: Stream It Now",
+          "title": "Karol G’s New Album ‘No Me Arrepiento de Sentir Tanto’ Featuring Drake & More Is Here: Stream It Now",
+          "snapshot": "The 14-track album follows 2025's Tropicoqueta , which debuted at No. 1 on Top Latin Albums.",
+          "summary": "The 14-track album follows 2025's Tropicoqueta , which debuted at No. 1 on Top Latin Albums.",
+          "url": "https://www.billboard.com/music/latin/karol-g-no-me-arrepiento-de-sentir-tanto-stream-it-now-1236309607/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-06 08:55:11 PM ET",
+          "published_at": "2026-08-07 12:00:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "Ryan Murphy Addresses Ariana Grande’s ‘American Horror Story’ Exit: ‘Who’s Busier Than Ariana Grande? No One’"
+            "Karol G’s New Album ‘No Me Arrepiento de Sentir Tanto’ Featuring Drake & More Is Here: Stream It Now"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3104,8 +3104,8 @@
           ]
         },
         {
-          "id": "music-21-5310029308687466363",
-          "key": "music-21-5310029308687466363",
+          "id": "music-21-768763322379837919",
+          "key": "music-21-768763322379837919",
           "category": "Music",
           "label": "Music",
           "headline": "It’s Official: Influence Media to Buy Anthem for Over $600 Million - Billboard",
@@ -3132,7 +3132,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-06 11:49:43 PM ET"
+      "updated_at": "2026-08-07 01:40:45 AM ET"
     },
     {
       "key": "awards",
@@ -3150,8 +3150,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "awards-0-4207241848056504399",
-          "key": "awards-0-4207241848056504399",
+          "id": "awards-0-8119456689952382928",
+          "key": "awards-0-8119456689952382928",
           "category": "Awards",
           "label": "Awards",
           "headline": "James Gray Says AI Is ‘Worthless’ and Young People Won’t Stand for It: They ‘Have a Real Hunger for Interesting, Honest Stuff’",
@@ -3178,8 +3178,8 @@
           ]
         },
         {
-          "id": "awards-1-29676148269181735",
-          "key": "awards-1-29676148269181735",
+          "id": "awards-1-4233571587782486278",
+          "key": "awards-1-4233571587782486278",
           "category": "Awards",
           "label": "Awards",
           "headline": "Isabella Rossellini Talks Lynch, ‘Green Porno’ and How Animals Became Her Favorite ‘Muses’: ‘They Fascinate Me’",
@@ -3208,8 +3208,8 @@
       ],
       "items": [
         {
-          "id": "awards-0-4207241848056504399",
-          "key": "awards-0-4207241848056504399",
+          "id": "awards-0-8119456689952382928",
+          "key": "awards-0-8119456689952382928",
           "category": "Awards",
           "label": "Awards",
           "headline": "James Gray Says AI Is ‘Worthless’ and Young People Won’t Stand for It: They ‘Have a Real Hunger for Interesting, Honest Stuff’",
@@ -3236,8 +3236,8 @@
           ]
         },
         {
-          "id": "awards-1-29676148269181735",
-          "key": "awards-1-29676148269181735",
+          "id": "awards-1-4233571587782486278",
+          "key": "awards-1-4233571587782486278",
           "category": "Awards",
           "label": "Awards",
           "headline": "Isabella Rossellini Talks Lynch, ‘Green Porno’ and How Animals Became Her Favorite ‘Muses’: ‘They Fascinate Me’",
@@ -3264,7 +3264,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-06 11:49:43 PM ET"
+      "updated_at": "2026-08-07 01:40:46 AM ET"
     },
     {
       "key": "box_office",
@@ -3274,20 +3274,20 @@
       "snapshot": "Box Office coverage is updating with 4 current RSS headline item(s).",
       "key_storylines": [
         "‘Spider-Man: Brand New Day’ Becomes Highest-Grossing Movie of 2026 in 7 Days With $1.15 Billion",
-        "The Box Office Is Finally Back: “We’re All Breathing a Hell of a Lot Easier” - The Hollywood Reporter",
+        "The Highest-Grossing Theater for ‘The Odyssey’ in 70MM Hadn’t Screened a New Movie in 35 Years - The Hollywood Reporter",
         "‘Spider-Man: Brand New Day’ Crosses $1 Billion in Six Days, Second-Fastest Movie to Hit Milestone",
-        "The Highest-Grossing Theater for ‘The Odyssey’ in 70MM Hadn’t Screened a New Movie in 35 Years - The Hollywood Reporter"
+        "The Box Office Is Finally Back: “We’re All Breathing a Hell of a Lot Easier” - The Hollywood Reporter"
       ],
       "watch_list": [
         "‘Spider-Man: Brand New Day’ Becomes Highest-Grossing Movie of 2026 in 7 Days With $1.15 Billion",
-        "The Box Office Is Finally Back: “We’re All Breathing a Hell of a Lot Easier” - The Hollywood Reporter",
+        "The Highest-Grossing Theater for ‘The Odyssey’ in 70MM Hadn’t Screened a New Movie in 35 Years - The Hollywood Reporter",
         "‘Spider-Man: Brand New Day’ Crosses $1 Billion in Six Days, Second-Fastest Movie to Hit Milestone",
-        "The Highest-Grossing Theater for ‘The Odyssey’ in 70MM Hadn’t Screened a New Movie in 35 Years - The Hollywood Reporter"
+        "The Box Office Is Finally Back: “We’re All Breathing a Hell of a Lot Easier” - The Hollywood Reporter"
       ],
       "homepage_cards": [
         {
-          "id": "box_office-0-8710581894477419874",
-          "key": "box_office-0-8710581894477419874",
+          "id": "box_office-0-5158251076242147035",
+          "key": "box_office-0-5158251076242147035",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Spider-Man: Brand New Day’ Becomes Highest-Grossing Movie of 2026 in 7 Days With $1.15 Billion",
@@ -3314,25 +3314,25 @@
           ]
         },
         {
-          "id": "box_office-10-217754762442602294",
-          "key": "box_office-10-217754762442602294",
+          "id": "box_office-10-8497349269078584798",
+          "key": "box_office-10-8497349269078584798",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "The Box Office Is Finally Back: “We’re All Breathing a Hell of a Lot Easier” - The Hollywood Reporter",
-          "title": "The Box Office Is Finally Back: “We’re All Breathing a Hell of a Lot Easier” - The Hollywood Reporter",
-          "snapshot": "The Box Office Is Finally Back: “We’re All Breathing a Hell of a Lot Easier” The Hollywood Reporter",
-          "summary": "The Box Office Is Finally Back: “We’re All Breathing a Hell of a Lot Easier” The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZUhjUzc2d3gyRmZWRzNISmZUenQxZzUyUF93aWNtMmdXWnc5cmN4cXN5dXdjdXR0LTA4MWlBRVhUcU5PVy1xN2JKclB0RmdXajRMUllMWVdTREp3cXNiRTYzc01TUFpxNzZHTmd5enVyNm9PQ0hsS2tTdnlINmJnRm1Kb0lta0hLSi1Yc05IemlnRDhzYV8xZmYzeDR0cHM?oc=5",
+          "headline": "The Highest-Grossing Theater for ‘The Odyssey’ in 70MM Hadn’t Screened a New Movie in 35 Years - The Hollywood Reporter",
+          "title": "The Highest-Grossing Theater for ‘The Odyssey’ in 70MM Hadn’t Screened a New Movie in 35 Years - The Hollywood Reporter",
+          "snapshot": "The Highest-Grossing Theater for ‘The Odyssey’ in 70MM Hadn’t Screened a New Movie in 35 Years The Hollywood Reporter",
+          "summary": "The Highest-Grossing Theater for ‘The Odyssey’ in 70MM Hadn’t Screened a New Movie in 35 Years The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM0t3Qk5vV3laZGVDbjcyb1lzWk56dUNZbzZqSkRFdUtJQ3NRcXloaFgtRHFhaTZURXpTWEZFal96UVVmT3R4TWpaWWpORXJhRTQxOUNiZzd1TkluLUFZRXk3M29RMXphZkhRVHBWVGJKWTFZTURrdlI2ek45S2w3cGhJU1A0TVhYMXZwTG1mcDBBeDFISGtFbktIYjFzXzluSHBFT1E3WQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-04 09:22:53 AM ET",
+          "published_at": "2026-08-04 07:04:31 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "The Box Office Is Finally Back: “We’re All Breathing a Hell of a Lot Easier” - The Hollywood Reporter"
+            "The Highest-Grossing Theater for ‘The Odyssey’ in 70MM Hadn’t Screened a New Movie in 35 Years - The Hollywood Reporter"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3342,8 +3342,8 @@
           ]
         },
         {
-          "id": "box_office-1-4615781496396206626",
-          "key": "box_office-1-4615781496396206626",
+          "id": "box_office-1-1096594508753207187",
+          "key": "box_office-1-1096594508753207187",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Spider-Man: Brand New Day’ Crosses $1 Billion in Six Days, Second-Fastest Movie to Hit Milestone",
@@ -3370,25 +3370,25 @@
           ]
         },
         {
-          "id": "box_office-11-1205805850361390602",
-          "key": "box_office-11-1205805850361390602",
+          "id": "box_office-11-3093872815718728142",
+          "key": "box_office-11-3093872815718728142",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "The Highest-Grossing Theater for ‘The Odyssey’ in 70MM Hadn’t Screened a New Movie in 35 Years - The Hollywood Reporter",
-          "title": "The Highest-Grossing Theater for ‘The Odyssey’ in 70MM Hadn’t Screened a New Movie in 35 Years - The Hollywood Reporter",
-          "snapshot": "The Highest-Grossing Theater for ‘The Odyssey’ in 70MM Hadn’t Screened a New Movie in 35 Years The Hollywood Reporter",
-          "summary": "The Highest-Grossing Theater for ‘The Odyssey’ in 70MM Hadn’t Screened a New Movie in 35 Years The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM0t3Qk5vV3laZGVDbjcyb1lzWk56dUNZbzZqSkRFdUtJQ3NRcXloaFgtRHFhaTZURXpTWEZFal96UVVmT3R4TWpaWWpORXJhRTQxOUNiZzd1TkluLUFZRXk3M29RMXphZkhRVHBWVGJKWTFZTURrdlI2ek45S2w3cGhJU1A0TVhYMXZwTG1mcDBBeDFISGtFbktIYjFzXzluSHBFT1E3WQ?oc=5",
+          "headline": "The Box Office Is Finally Back: “We’re All Breathing a Hell of a Lot Easier” - The Hollywood Reporter",
+          "title": "The Box Office Is Finally Back: “We’re All Breathing a Hell of a Lot Easier” - The Hollywood Reporter",
+          "snapshot": "The Box Office Is Finally Back: “We’re All Breathing a Hell of a Lot Easier” The Hollywood Reporter",
+          "summary": "The Box Office Is Finally Back: “We’re All Breathing a Hell of a Lot Easier” The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZUhjUzc2d3gyRmZWRzNISmZUenQxZzUyUF93aWNtMmdXWnc5cmN4cXN5dXdjdXR0LTA4MWlBRVhUcU5PVy1xN2JKclB0RmdXajRMUllMWVdTREp3cXNiRTYzc01TUFpxNzZHTmd5enVyNm9PQ0hsS2tTdnlINmJnRm1Kb0lta0hLSi1Yc05IemlnRDhzYV8xZmYzeDR0cHM?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-04 07:04:31 PM ET",
+          "published_at": "2026-08-04 09:22:53 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "The Highest-Grossing Theater for ‘The Odyssey’ in 70MM Hadn’t Screened a New Movie in 35 Years - The Hollywood Reporter"
+            "The Box Office Is Finally Back: “We’re All Breathing a Hell of a Lot Easier” - The Hollywood Reporter"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3400,8 +3400,8 @@
       ],
       "items": [
         {
-          "id": "box_office-0-8710581894477419874",
-          "key": "box_office-0-8710581894477419874",
+          "id": "box_office-0-5158251076242147035",
+          "key": "box_office-0-5158251076242147035",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Spider-Man: Brand New Day’ Becomes Highest-Grossing Movie of 2026 in 7 Days With $1.15 Billion",
@@ -3428,25 +3428,25 @@
           ]
         },
         {
-          "id": "box_office-10-217754762442602294",
-          "key": "box_office-10-217754762442602294",
+          "id": "box_office-10-8497349269078584798",
+          "key": "box_office-10-8497349269078584798",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "The Box Office Is Finally Back: “We’re All Breathing a Hell of a Lot Easier” - The Hollywood Reporter",
-          "title": "The Box Office Is Finally Back: “We’re All Breathing a Hell of a Lot Easier” - The Hollywood Reporter",
-          "snapshot": "The Box Office Is Finally Back: “We’re All Breathing a Hell of a Lot Easier” The Hollywood Reporter",
-          "summary": "The Box Office Is Finally Back: “We’re All Breathing a Hell of a Lot Easier” The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZUhjUzc2d3gyRmZWRzNISmZUenQxZzUyUF93aWNtMmdXWnc5cmN4cXN5dXdjdXR0LTA4MWlBRVhUcU5PVy1xN2JKclB0RmdXajRMUllMWVdTREp3cXNiRTYzc01TUFpxNzZHTmd5enVyNm9PQ0hsS2tTdnlINmJnRm1Kb0lta0hLSi1Yc05IemlnRDhzYV8xZmYzeDR0cHM?oc=5",
+          "headline": "The Highest-Grossing Theater for ‘The Odyssey’ in 70MM Hadn’t Screened a New Movie in 35 Years - The Hollywood Reporter",
+          "title": "The Highest-Grossing Theater for ‘The Odyssey’ in 70MM Hadn’t Screened a New Movie in 35 Years - The Hollywood Reporter",
+          "snapshot": "The Highest-Grossing Theater for ‘The Odyssey’ in 70MM Hadn’t Screened a New Movie in 35 Years The Hollywood Reporter",
+          "summary": "The Highest-Grossing Theater for ‘The Odyssey’ in 70MM Hadn’t Screened a New Movie in 35 Years The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM0t3Qk5vV3laZGVDbjcyb1lzWk56dUNZbzZqSkRFdUtJQ3NRcXloaFgtRHFhaTZURXpTWEZFal96UVVmT3R4TWpaWWpORXJhRTQxOUNiZzd1TkluLUFZRXk3M29RMXphZkhRVHBWVGJKWTFZTURrdlI2ek45S2w3cGhJU1A0TVhYMXZwTG1mcDBBeDFISGtFbktIYjFzXzluSHBFT1E3WQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-04 09:22:53 AM ET",
+          "published_at": "2026-08-04 07:04:31 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "The Box Office Is Finally Back: “We’re All Breathing a Hell of a Lot Easier” - The Hollywood Reporter"
+            "The Highest-Grossing Theater for ‘The Odyssey’ in 70MM Hadn’t Screened a New Movie in 35 Years - The Hollywood Reporter"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3456,8 +3456,8 @@
           ]
         },
         {
-          "id": "box_office-1-4615781496396206626",
-          "key": "box_office-1-4615781496396206626",
+          "id": "box_office-1-1096594508753207187",
+          "key": "box_office-1-1096594508753207187",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Spider-Man: Brand New Day’ Crosses $1 Billion in Six Days, Second-Fastest Movie to Hit Milestone",
@@ -3484,25 +3484,25 @@
           ]
         },
         {
-          "id": "box_office-11-1205805850361390602",
-          "key": "box_office-11-1205805850361390602",
+          "id": "box_office-11-3093872815718728142",
+          "key": "box_office-11-3093872815718728142",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "The Highest-Grossing Theater for ‘The Odyssey’ in 70MM Hadn’t Screened a New Movie in 35 Years - The Hollywood Reporter",
-          "title": "The Highest-Grossing Theater for ‘The Odyssey’ in 70MM Hadn’t Screened a New Movie in 35 Years - The Hollywood Reporter",
-          "snapshot": "The Highest-Grossing Theater for ‘The Odyssey’ in 70MM Hadn’t Screened a New Movie in 35 Years The Hollywood Reporter",
-          "summary": "The Highest-Grossing Theater for ‘The Odyssey’ in 70MM Hadn’t Screened a New Movie in 35 Years The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM0t3Qk5vV3laZGVDbjcyb1lzWk56dUNZbzZqSkRFdUtJQ3NRcXloaFgtRHFhaTZURXpTWEZFal96UVVmT3R4TWpaWWpORXJhRTQxOUNiZzd1TkluLUFZRXk3M29RMXphZkhRVHBWVGJKWTFZTURrdlI2ek45S2w3cGhJU1A0TVhYMXZwTG1mcDBBeDFISGtFbktIYjFzXzluSHBFT1E3WQ?oc=5",
+          "headline": "The Box Office Is Finally Back: “We’re All Breathing a Hell of a Lot Easier” - The Hollywood Reporter",
+          "title": "The Box Office Is Finally Back: “We’re All Breathing a Hell of a Lot Easier” - The Hollywood Reporter",
+          "snapshot": "The Box Office Is Finally Back: “We’re All Breathing a Hell of a Lot Easier” The Hollywood Reporter",
+          "summary": "The Box Office Is Finally Back: “We’re All Breathing a Hell of a Lot Easier” The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZUhjUzc2d3gyRmZWRzNISmZUenQxZzUyUF93aWNtMmdXWnc5cmN4cXN5dXdjdXR0LTA4MWlBRVhUcU5PVy1xN2JKclB0RmdXajRMUllMWVdTREp3cXNiRTYzc01TUFpxNzZHTmd5enVyNm9PQ0hsS2tTdnlINmJnRm1Kb0lta0hLSi1Yc05IemlnRDhzYV8xZmYzeDR0cHM?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-04 07:04:31 PM ET",
+          "published_at": "2026-08-04 09:22:53 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "The Highest-Grossing Theater for ‘The Odyssey’ in 70MM Hadn’t Screened a New Movie in 35 Years - The Hollywood Reporter"
+            "The Box Office Is Finally Back: “We’re All Breathing a Hell of a Lot Easier” - The Hollywood Reporter"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3512,7 +3512,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-06 11:49:44 PM ET"
+      "updated_at": "2026-08-07 01:40:46 AM ET"
     },
     {
       "key": "celebrity",
@@ -3522,16 +3522,16 @@
       "snapshot": "Celebrity coverage is updating with 2 current RSS headline item(s).",
       "key_storylines": [
         "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
-        "Boxing News: R.I.P. - Florence \"Flo\" Anthony (Mrs. Micheal Spinks) » August 6, 2026 - FightNews"
+        "Boxing News: R.I.P. - Florence \"Flo\" Anthony (Mrs. Micheal Spinks) » August 7, 2026 - FightNews"
       ],
       "watch_list": [
         "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
-        "Boxing News: R.I.P. - Florence \"Flo\" Anthony (Mrs. Micheal Spinks) » August 6, 2026 - FightNews"
+        "Boxing News: R.I.P. - Florence \"Flo\" Anthony (Mrs. Micheal Spinks) » August 7, 2026 - FightNews"
       ],
       "homepage_cards": [
         {
-          "id": "celebrity-0-6030477218017010053",
-          "key": "celebrity-0-6030477218017010053",
+          "id": "celebrity-0-3066882916578852875",
+          "key": "celebrity-0-3066882916578852875",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3558,14 +3558,14 @@
           ]
         },
         {
-          "id": "celebrity-1-4870868942740136228",
-          "key": "celebrity-1-4870868942740136228",
+          "id": "celebrity-1-5977407841855753663",
+          "key": "celebrity-1-5977407841855753663",
           "category": "Celebrity",
           "label": "Celebrity",
-          "headline": "Boxing News: R.I.P. - Florence \"Flo\" Anthony (Mrs. Micheal Spinks) » August 6, 2026 - FightNews",
-          "title": "Boxing News: R.I.P. - Florence \"Flo\" Anthony (Mrs. Micheal Spinks) » August 6, 2026 - FightNews",
-          "snapshot": "Boxing News: R.I.P. - Florence \"Flo\" Anthony (Mrs. Micheal Spinks) » August 6, 2026 FightNews",
-          "summary": "Boxing News: R.I.P. - Florence \"Flo\" Anthony (Mrs. Micheal Spinks) » August 6, 2026 FightNews",
+          "headline": "Boxing News: R.I.P. - Florence \"Flo\" Anthony (Mrs. Micheal Spinks) » August 7, 2026 - FightNews",
+          "title": "Boxing News: R.I.P. - Florence \"Flo\" Anthony (Mrs. Micheal Spinks) » August 7, 2026 - FightNews",
+          "snapshot": "Boxing News: R.I.P. - Florence \"Flo\" Anthony (Mrs. Micheal Spinks) » August 7, 2026 FightNews",
+          "summary": "Boxing News: R.I.P. - Florence \"Flo\" Anthony (Mrs. Micheal Spinks) » August 7, 2026 FightNews",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15NDNTQUhyUW5lblJxTl80dHBHX1p0WXI5ZHYzRi0xQ2RNdVo0b2VfZ2hDVW1ic3FHVzFwb0lXUkpFUWF6a2FyNmprTEwtN3JwVWtWV2JRS3BaLTJrYlhId21acl9USGlDdGpFMEE5eUFOM1pzd2lSY01HMWtyX0U?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3576,7 +3576,7 @@
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Boxing News: R.I.P. - Florence \"Flo\" Anthony (Mrs. Micheal Spinks) » August 6, 2026 - FightNews"
+            "Boxing News: R.I.P. - Florence \"Flo\" Anthony (Mrs. Micheal Spinks) » August 7, 2026 - FightNews"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3588,8 +3588,8 @@
       ],
       "items": [
         {
-          "id": "celebrity-0-6030477218017010053",
-          "key": "celebrity-0-6030477218017010053",
+          "id": "celebrity-0-3066882916578852875",
+          "key": "celebrity-0-3066882916578852875",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3616,14 +3616,14 @@
           ]
         },
         {
-          "id": "celebrity-1-4870868942740136228",
-          "key": "celebrity-1-4870868942740136228",
+          "id": "celebrity-1-5977407841855753663",
+          "key": "celebrity-1-5977407841855753663",
           "category": "Celebrity",
           "label": "Celebrity",
-          "headline": "Boxing News: R.I.P. - Florence \"Flo\" Anthony (Mrs. Micheal Spinks) » August 6, 2026 - FightNews",
-          "title": "Boxing News: R.I.P. - Florence \"Flo\" Anthony (Mrs. Micheal Spinks) » August 6, 2026 - FightNews",
-          "snapshot": "Boxing News: R.I.P. - Florence \"Flo\" Anthony (Mrs. Micheal Spinks) » August 6, 2026 FightNews",
-          "summary": "Boxing News: R.I.P. - Florence \"Flo\" Anthony (Mrs. Micheal Spinks) » August 6, 2026 FightNews",
+          "headline": "Boxing News: R.I.P. - Florence \"Flo\" Anthony (Mrs. Micheal Spinks) » August 7, 2026 - FightNews",
+          "title": "Boxing News: R.I.P. - Florence \"Flo\" Anthony (Mrs. Micheal Spinks) » August 7, 2026 - FightNews",
+          "snapshot": "Boxing News: R.I.P. - Florence \"Flo\" Anthony (Mrs. Micheal Spinks) » August 7, 2026 FightNews",
+          "summary": "Boxing News: R.I.P. - Florence \"Flo\" Anthony (Mrs. Micheal Spinks) » August 7, 2026 FightNews",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15NDNTQUhyUW5lblJxTl80dHBHX1p0WXI5ZHYzRi0xQ2RNdVo0b2VfZ2hDVW1ic3FHVzFwb0lXUkpFUWF6a2FyNmprTEwtN3JwVWtWV2JRS3BaLTJrYlhId21acl9USGlDdGpFMEE5eUFOM1pzd2lSY01HMWtyX0U?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3634,7 +3634,7 @@
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Boxing News: R.I.P. - Florence \"Flo\" Anthony (Mrs. Micheal Spinks) » August 6, 2026 - FightNews"
+            "Boxing News: R.I.P. - Florence \"Flo\" Anthony (Mrs. Micheal Spinks) » August 7, 2026 - FightNews"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3644,7 +3644,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-06 11:49:45 PM ET"
+      "updated_at": "2026-08-07 01:40:47 AM ET"
     },
     {
       "key": "hollywood",
@@ -3666,12 +3666,12 @@
         "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
         "Nielsen Set To Acquire Ad-Tech Firm DoubleVerify For $2.5 Billion",
         "Eli Roth Talks the Unrated Gamble of ‘Ice Cream Man’ and What He Hopes the Town Learns From ‘Obsession’",
-        "LA’s film decline needs urgent action — or Hollywood is dead - New York Post"
+        "LA’s film decline needs urgent action — or Hollywood is dead - nypost.com"
       ],
       "homepage_cards": [
         {
-          "id": "hollywood-0-6852962170240181461",
-          "key": "hollywood-0-6852962170240181461",
+          "id": "hollywood-0-4305397869486067093",
+          "key": "hollywood-0-4305397869486067093",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "LISTEN: Fear, Loathing and Endless Potential: AI4 Conference Takes Stock of Transformative Technologies",
@@ -3698,8 +3698,8 @@
           ]
         },
         {
-          "id": "hollywood-1-6732332892101569020",
-          "key": "hollywood-1-6732332892101569020",
+          "id": "hollywood-1-5138458825707223502",
+          "key": "hollywood-1-5138458825707223502",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Joan Jett Cancels Tour Dates While Recovering From Surgery On Fractured Vertebrae",
@@ -3726,8 +3726,8 @@
           ]
         },
         {
-          "id": "hollywood-4-1662066517725202959",
-          "key": "hollywood-4-1662066517725202959",
+          "id": "hollywood-4-39219688463226004",
+          "key": "hollywood-4-39219688463226004",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "T-Mobile Offering Free Samsung Galaxy Z Fold8, $1,900 Phone Seen Throughout ‘Spider-Man: Brand New Day’",
@@ -3754,8 +3754,8 @@
           ]
         },
         {
-          "id": "hollywood-10-3109977473654751519",
-          "key": "hollywood-10-3109977473654751519",
+          "id": "hollywood-9-354641681087616797",
+          "key": "hollywood-9-354641681087616797",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
@@ -3770,7 +3770,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 90,
+          "priority_score": 91,
           "key_data": [
             "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University"
           ],
@@ -3782,8 +3782,8 @@
           ]
         },
         {
-          "id": "hollywood-2-8914744548827139868",
-          "key": "hollywood-2-8914744548827139868",
+          "id": "hollywood-2-4438247207839071669",
+          "key": "hollywood-2-4438247207839071669",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Nielsen Set To Acquire Ad-Tech Firm DoubleVerify For $2.5 Billion",
@@ -3810,8 +3810,8 @@
           ]
         },
         {
-          "id": "hollywood-5-7585212445618942214",
-          "key": "hollywood-5-7585212445618942214",
+          "id": "hollywood-5-8694308208898267744",
+          "key": "hollywood-5-8694308208898267744",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Eli Roth Talks the Unrated Gamble of ‘Ice Cream Man’ and What He Hopes the Town Learns From ‘Obsession’",
@@ -3838,14 +3838,14 @@
           ]
         },
         {
-          "id": "hollywood-11-7811440163271786929",
-          "key": "hollywood-11-7811440163271786929",
+          "id": "hollywood-10-8073707003276886741",
+          "key": "hollywood-10-8073707003276886741",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "LA’s film decline needs urgent action — or Hollywood is dead - New York Post",
-          "title": "LA’s film decline needs urgent action — or Hollywood is dead - New York Post",
-          "snapshot": "LA’s film decline needs urgent action — or Hollywood is dead New York Post",
-          "summary": "LA’s film decline needs urgent action — or Hollywood is dead New York Post",
+          "headline": "LA’s film decline needs urgent action — or Hollywood is dead - nypost.com",
+          "title": "LA’s film decline needs urgent action — or Hollywood is dead - nypost.com",
+          "snapshot": "LA’s film decline needs urgent action — or Hollywood is dead nypost.com",
+          "summary": "LA’s film decline needs urgent action — or Hollywood is dead nypost.com",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONllFc2E3NDdXTVpqYkxVM19SelFJM0ZMcnVpMWpyTnZTMlU5VHBCMUJrVDdLalhBdG4zWHp3Z2lBOGkwNEllYTV1bzJ5bDVGRzJob1hKQ2RoZjdxXzl2QUphZ1h1bGVaZUVMVTVWUTJRS3VkRjAtQURybGVrLXo0VDJXTVcwZVVoWHlGZmUwQ3ZRbmM0d0FSUTFtNno?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3854,9 +3854,9 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 89,
+          "priority_score": 90,
           "key_data": [
-            "LA’s film decline needs urgent action — or Hollywood is dead - New York Post"
+            "LA’s film decline needs urgent action — or Hollywood is dead - nypost.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3868,8 +3868,8 @@
       ],
       "items": [
         {
-          "id": "hollywood-0-6852962170240181461",
-          "key": "hollywood-0-6852962170240181461",
+          "id": "hollywood-0-4305397869486067093",
+          "key": "hollywood-0-4305397869486067093",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "LISTEN: Fear, Loathing and Endless Potential: AI4 Conference Takes Stock of Transformative Technologies",
@@ -3896,8 +3896,8 @@
           ]
         },
         {
-          "id": "hollywood-1-6732332892101569020",
-          "key": "hollywood-1-6732332892101569020",
+          "id": "hollywood-1-5138458825707223502",
+          "key": "hollywood-1-5138458825707223502",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Joan Jett Cancels Tour Dates While Recovering From Surgery On Fractured Vertebrae",
@@ -3924,8 +3924,8 @@
           ]
         },
         {
-          "id": "hollywood-4-1662066517725202959",
-          "key": "hollywood-4-1662066517725202959",
+          "id": "hollywood-4-39219688463226004",
+          "key": "hollywood-4-39219688463226004",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "T-Mobile Offering Free Samsung Galaxy Z Fold8, $1,900 Phone Seen Throughout ‘Spider-Man: Brand New Day’",
@@ -3952,8 +3952,8 @@
           ]
         },
         {
-          "id": "hollywood-10-3109977473654751519",
-          "key": "hollywood-10-3109977473654751519",
+          "id": "hollywood-9-354641681087616797",
+          "key": "hollywood-9-354641681087616797",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
@@ -3968,7 +3968,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 90,
+          "priority_score": 91,
           "key_data": [
             "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University"
           ],
@@ -3980,8 +3980,8 @@
           ]
         },
         {
-          "id": "hollywood-2-8914744548827139868",
-          "key": "hollywood-2-8914744548827139868",
+          "id": "hollywood-2-4438247207839071669",
+          "key": "hollywood-2-4438247207839071669",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Nielsen Set To Acquire Ad-Tech Firm DoubleVerify For $2.5 Billion",
@@ -4008,8 +4008,8 @@
           ]
         },
         {
-          "id": "hollywood-5-7585212445618942214",
-          "key": "hollywood-5-7585212445618942214",
+          "id": "hollywood-5-8694308208898267744",
+          "key": "hollywood-5-8694308208898267744",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Eli Roth Talks the Unrated Gamble of ‘Ice Cream Man’ and What He Hopes the Town Learns From ‘Obsession’",
@@ -4036,14 +4036,14 @@
           ]
         },
         {
-          "id": "hollywood-11-7811440163271786929",
-          "key": "hollywood-11-7811440163271786929",
+          "id": "hollywood-10-8073707003276886741",
+          "key": "hollywood-10-8073707003276886741",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "LA’s film decline needs urgent action — or Hollywood is dead - New York Post",
-          "title": "LA’s film decline needs urgent action — or Hollywood is dead - New York Post",
-          "snapshot": "LA’s film decline needs urgent action — or Hollywood is dead New York Post",
-          "summary": "LA’s film decline needs urgent action — or Hollywood is dead New York Post",
+          "headline": "LA’s film decline needs urgent action — or Hollywood is dead - nypost.com",
+          "title": "LA’s film decline needs urgent action — or Hollywood is dead - nypost.com",
+          "snapshot": "LA’s film decline needs urgent action — or Hollywood is dead nypost.com",
+          "summary": "LA’s film decline needs urgent action — or Hollywood is dead nypost.com",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONllFc2E3NDdXTVpqYkxVM19SelFJM0ZMcnVpMWpyTnZTMlU5VHBCMUJrVDdLalhBdG4zWHp3Z2lBOGkwNEllYTV1bzJ5bDVGRzJob1hKQ2RoZjdxXzl2QUphZ1h1bGVaZUVMVTVWUTJRS3VkRjAtQURybGVrLXo0VDJXTVcwZVVoWHlGZmUwQ3ZRbmM0d0FSUTFtNno?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -4052,9 +4052,9 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 89,
+          "priority_score": 90,
           "key_data": [
-            "LA’s film decline needs urgent action — or Hollywood is dead - New York Post"
+            "LA’s film decline needs urgent action — or Hollywood is dead - nypost.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4064,7 +4064,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-06 11:49:46 PM ET"
+      "updated_at": "2026-08-07 01:40:47 AM ET"
     },
     {
       "key": "gaming",
@@ -4076,18 +4076,18 @@
         "Layoffs Hit Staff at Crossfire Developer That’s No Moon",
         "What is friendslop? Inside gaming's fastest-growing trend, including the newest hit Big Walk - CBC",
         "Quake Gets Free New Campaign Co-Developed by MachineGames for Game's 30th Anniversary",
-        "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - mkaugaming.com"
+        "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - MKAU Gaming"
       ],
       "watch_list": [
         "Layoffs Hit Staff at Crossfire Developer That’s No Moon",
         "What is friendslop? Inside gaming's fastest-growing trend, including the newest hit Big Walk - CBC",
         "Quake Gets Free New Campaign Co-Developed by MachineGames for Game's 30th Anniversary",
-        "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - mkaugaming.com"
+        "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - MKAU Gaming"
       ],
       "homepage_cards": [
         {
-          "id": "gaming-0-7670268014974886505",
-          "key": "gaming-0-7670268014974886505",
+          "id": "gaming-0-8771942307606325865",
+          "key": "gaming-0-8771942307606325865",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Layoffs Hit Staff at Crossfire Developer That’s No Moon",
@@ -4114,8 +4114,8 @@
           ]
         },
         {
-          "id": "gaming-20-4427559958453818057",
-          "key": "gaming-20-4427559958453818057",
+          "id": "gaming-20-8468758252098950916",
+          "key": "gaming-20-8468758252098950916",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "What is friendslop? Inside gaming's fastest-growing trend, including the newest hit Big Walk - CBC",
@@ -4142,8 +4142,8 @@
           ]
         },
         {
-          "id": "gaming-1-8316689112775756214",
-          "key": "gaming-1-8316689112775756214",
+          "id": "gaming-1-6714264285923363541",
+          "key": "gaming-1-6714264285923363541",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Quake Gets Free New Campaign Co-Developed by MachineGames for Game's 30th Anniversary",
@@ -4170,14 +4170,14 @@
           ]
         },
         {
-          "id": "gaming-21-2060628045595045702",
-          "key": "gaming-21-2060628045595045702",
+          "id": "gaming-21-8556801608506182125",
+          "key": "gaming-21-8556801608506182125",
           "category": "Gaming",
           "label": "Gaming",
-          "headline": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - mkaugaming.com",
-          "title": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - mkaugaming.com",
-          "snapshot": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment mkaugaming.com",
-          "summary": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment mkaugaming.com",
+          "headline": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - MKAU Gaming",
+          "title": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - MKAU Gaming",
+          "snapshot": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment MKAU Gaming",
+          "summary": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment MKAU Gaming",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdFNTRWt5V3c0U3Q5M0pPdkNHUDQ3d2tpWkxGLXlwXzVHNmZGMmVlcmJVY2Q4TnlWc2pGaEFsMDdQdUExWHJYUlZidWdiV3pfQzFvd3JBQzIwc1k0LWNEdERFWUJhdTRiMDdDTmZTS0d3TlgxMnVsekxUWTI4dEx6ajlNZlhHRTRuRGRrMHNnOFluZE5zNzlGVE9TOUpSX19ibDJpT0tqZXE5YkVa?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -4188,7 +4188,7 @@
           "story_type": "rss_headline",
           "priority_score": 79,
           "key_data": [
-            "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - mkaugaming.com"
+            "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - MKAU Gaming"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4200,8 +4200,8 @@
       ],
       "items": [
         {
-          "id": "gaming-0-7670268014974886505",
-          "key": "gaming-0-7670268014974886505",
+          "id": "gaming-0-8771942307606325865",
+          "key": "gaming-0-8771942307606325865",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Layoffs Hit Staff at Crossfire Developer That’s No Moon",
@@ -4228,8 +4228,8 @@
           ]
         },
         {
-          "id": "gaming-20-4427559958453818057",
-          "key": "gaming-20-4427559958453818057",
+          "id": "gaming-20-8468758252098950916",
+          "key": "gaming-20-8468758252098950916",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "What is friendslop? Inside gaming's fastest-growing trend, including the newest hit Big Walk - CBC",
@@ -4256,8 +4256,8 @@
           ]
         },
         {
-          "id": "gaming-1-8316689112775756214",
-          "key": "gaming-1-8316689112775756214",
+          "id": "gaming-1-6714264285923363541",
+          "key": "gaming-1-6714264285923363541",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Quake Gets Free New Campaign Co-Developed by MachineGames for Game's 30th Anniversary",
@@ -4284,14 +4284,14 @@
           ]
         },
         {
-          "id": "gaming-21-2060628045595045702",
-          "key": "gaming-21-2060628045595045702",
+          "id": "gaming-21-8556801608506182125",
+          "key": "gaming-21-8556801608506182125",
           "category": "Gaming",
           "label": "Gaming",
-          "headline": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - mkaugaming.com",
-          "title": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - mkaugaming.com",
-          "snapshot": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment mkaugaming.com",
-          "summary": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment mkaugaming.com",
+          "headline": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - MKAU Gaming",
+          "title": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - MKAU Gaming",
+          "snapshot": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment MKAU Gaming",
+          "summary": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment MKAU Gaming",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdFNTRWt5V3c0U3Q5M0pPdkNHUDQ3d2tpWkxGLXlwXzVHNmZGMmVlcmJVY2Q4TnlWc2pGaEFsMDdQdUExWHJYUlZidWdiV3pfQzFvd3JBQzIwc1k0LWNEdERFWUJhdTRiMDdDTmZTS0d3TlgxMnVsekxUWTI4dEx6ajlNZlhHRTRuRGRrMHNnOFluZE5zNzlGVE9TOUpSX19ibDJpT0tqZXE5YkVa?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -4302,7 +4302,7 @@
           "story_type": "rss_headline",
           "priority_score": 79,
           "key_data": [
-            "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - mkaugaming.com"
+            "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - MKAU Gaming"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4312,7 +4312,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-06 11:49:47 PM ET"
+      "updated_at": "2026-08-07 01:40:48 AM ET"
     },
     {
       "key": "media",
@@ -4336,8 +4336,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "media-0-6070773552796286168",
-          "key": "media-0-6070773552796286168",
+          "id": "media-0-8072373969968384823",
+          "key": "media-0-8072373969968384823",
           "category": "Media",
           "label": "Media",
           "headline": "FCC Eliminates TV Station Ownership Cap in Win for Nexstar and Other Big Broadcasters",
@@ -4364,8 +4364,8 @@
           ]
         },
         {
-          "id": "media-8-4524009728304111313",
-          "key": "media-8-4524009728304111313",
+          "id": "media-8-7454949556733114692",
+          "key": "media-8-7454949556733114692",
           "category": "Media",
           "label": "Media",
           "headline": "Paramount’s Precipice: How David Ellison Could Salvage $111B WBD Merger (Hint – Call Kamala)",
@@ -4392,8 +4392,8 @@
           ]
         },
         {
-          "id": "media-15-6530963671468992350",
-          "key": "media-15-6530963671468992350",
+          "id": "media-15-7374360519713604887",
+          "key": "media-15-7374360519713604887",
           "category": "Media",
           "label": "Media",
           "headline": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
@@ -4420,8 +4420,8 @@
           ]
         },
         {
-          "id": "media-1-216971885583888410",
-          "key": "media-1-216971885583888410",
+          "id": "media-1-3399118562294831253",
+          "key": "media-1-3399118562294831253",
           "category": "Media",
           "label": "Media",
           "headline": "U.K. Approves Paramount-Warner Bros. Merger",
@@ -4448,8 +4448,8 @@
           ]
         },
         {
-          "id": "media-9-9119653393679327043",
-          "key": "media-9-9119653393679327043",
+          "id": "media-9-2917141837375259989",
+          "key": "media-9-2917141837375259989",
           "category": "Media",
           "label": "Media",
           "headline": "Judge Orders Nexstar Officials Off Tegna’s Board, Clarifies That It Violates Preliminary Injunction In Antitrust Case",
@@ -4478,8 +4478,8 @@
       ],
       "items": [
         {
-          "id": "media-0-6070773552796286168",
-          "key": "media-0-6070773552796286168",
+          "id": "media-0-8072373969968384823",
+          "key": "media-0-8072373969968384823",
           "category": "Media",
           "label": "Media",
           "headline": "FCC Eliminates TV Station Ownership Cap in Win for Nexstar and Other Big Broadcasters",
@@ -4506,8 +4506,8 @@
           ]
         },
         {
-          "id": "media-8-4524009728304111313",
-          "key": "media-8-4524009728304111313",
+          "id": "media-8-7454949556733114692",
+          "key": "media-8-7454949556733114692",
           "category": "Media",
           "label": "Media",
           "headline": "Paramount’s Precipice: How David Ellison Could Salvage $111B WBD Merger (Hint – Call Kamala)",
@@ -4534,8 +4534,8 @@
           ]
         },
         {
-          "id": "media-15-6530963671468992350",
-          "key": "media-15-6530963671468992350",
+          "id": "media-15-7374360519713604887",
+          "key": "media-15-7374360519713604887",
           "category": "Media",
           "label": "Media",
           "headline": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
@@ -4562,8 +4562,8 @@
           ]
         },
         {
-          "id": "media-1-216971885583888410",
-          "key": "media-1-216971885583888410",
+          "id": "media-1-3399118562294831253",
+          "key": "media-1-3399118562294831253",
           "category": "Media",
           "label": "Media",
           "headline": "U.K. Approves Paramount-Warner Bros. Merger",
@@ -4590,8 +4590,8 @@
           ]
         },
         {
-          "id": "media-9-9119653393679327043",
-          "key": "media-9-9119653393679327043",
+          "id": "media-9-2917141837375259989",
+          "key": "media-9-2917141837375259989",
           "category": "Media",
           "label": "Media",
           "headline": "Judge Orders Nexstar Officials Off Tegna’s Board, Clarifies That It Violates Preliminary Injunction In Antitrust Case",
@@ -4618,7 +4618,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-06 11:49:47 PM ET"
+      "updated_at": "2026-08-07 01:40:49 AM ET"
     }
   ]
 }
