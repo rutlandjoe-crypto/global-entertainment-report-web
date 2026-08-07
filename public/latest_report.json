@@ -5,9 +5,9 @@
   "vertical": "Entertainment",
   "headline": "Dwayne Johnson Defends 'Moana' After Bad Reviews: 'Just the Way It Goes'",
   "snapshot": "Global Entertainment Report accepted 48 real RSS item(s) across 31 checked feed request(s).",
-  "generated_at": "2026-08-07 05:39:38 PM ET",
-  "updated_at": "2026-08-07 05:39:38 PM ET",
-  "published_at": "2026-08-07 05:39:38 PM ET",
+  "generated_at": "2026-08-07 06:36:20 PM ET",
+  "updated_at": "2026-08-07 06:36:20 PM ET",
+  "published_at": "2026-08-07 06:36:20 PM ET",
   "source_mode": "live RSS ingestion",
   "freshness": {
     "max_item_age_hours": 336,
@@ -227,8 +227,10 @@
       "final_url": "https://variety.com/v/film/box-office/feed/",
       "item_count": 10,
       "accepted_count": 2,
-      "rejected_count": 0,
-      "rejection_reasons": {}
+      "rejected_count": 1,
+      "rejection_reasons": {
+        "duplicate-story": 1
+      }
     },
     {
       "category": "box_office",
@@ -237,10 +239,9 @@
       "final_url": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 55,
+      "rejected_count": 54,
       "rejection_reasons": {
-        "stale-over-336h": 54,
-        "duplicate-story": 1
+        "stale-over-336h": 54
       }
     },
     {
@@ -262,9 +263,9 @@
       "final_url": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 84,
+      "rejected_count": 83,
       "rejection_reasons": {
-        "stale-over-336h": 84
+        "stale-over-336h": 83
       }
     },
     {
@@ -286,9 +287,9 @@
       "final_url": "https://deadline.com/feed/",
       "item_count": 12,
       "accepted_count": 2,
-      "rejected_count": 7,
+      "rejected_count": 8,
       "rejection_reasons": {
-        "duplicate-story": 7
+        "duplicate-story": 8
       }
     },
     {
@@ -310,9 +311,9 @@
       "final_url": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 93,
+      "rejected_count": 92,
       "rejection_reasons": {
-        "stale-over-336h": 93
+        "stale-over-336h": 92
       }
     },
     {
@@ -379,18 +380,18 @@
   "x_handle": "@GlobalSportsRp",
   "key_storylines": [
     "Dwayne Johnson Defends 'Moana' After Bad Reviews: 'Just the Way It Goes'",
-    "'The Rivals Of Amziah King': Director Andrew Patterson On Being Discovered By Hollywood & Staying Indie With Matthew McConaughey - Crew Call Live",
-    "A Man Is Trapped Inside a Netflix Billboard Above Sunset Blvd.",
-    "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire",
-    "Charlie Worsham Shares Which Vince Gill Album Was 'Monumental For Me'",
-    "Big Walk Review",
+    "Sadie Sink Gives 'X-Men' Filming Update, Says She's Being Kept \"Separate\" From Cyclops Casting",
+    "A Man Is Trapped Inside a Netflix Billboard Above Sunset Boulevard",
+    "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - indiewire.com",
+    "Megan Thee Stallion & Roc Nation Must Face Trial in Cameraman's Lawsuit, Judge Says",
+    "Palworld 1.0 Showed Me Why Everyone Loves Survival Games",
     "'I Is Another' Review: An Impeccable Claes Bang Plays Felix Kersten, Massage Therapist to Heinrich Himmler and Would-Be Nobel Laureate",
-    "Spencer Pratt To The Rescue? Failed L.A. Mayoral Candidate Wants To Help Trump Save Hollywood, Supposedly"
+    "Anthony Bourdain Origin Story 'Tony', 'Teenage Sex And Death At Camp Miasma', 'Late Fame' In Dynamic Indie Weekend - Specialty Preview"
   ],
   "live_newsroom": [
     {
-      "id": "film-0-4992130345233239464",
-      "key": "film-0-4992130345233239464",
+      "id": "film-0-2416177053135487481",
+      "key": "film-0-2416177053135487481",
       "category": "Film",
       "label": "Film",
       "headline": "Dwayne Johnson Defends 'Moana' After Bad Reviews: 'Just the Way It Goes'",
@@ -416,22 +417,22 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-671917368002297943",
-      "key": "film-10-671917368002297943",
+      "id": "film-10-5868896171702432697",
+      "key": "film-10-5868896171702432697",
       "category": "Film",
       "label": "Film",
-      "headline": "'The Rivals Of Amziah King': Director Andrew Patterson On Being Discovered By Hollywood & Staying Indie With Matthew McConaughey - Crew Call Live",
-      "title": "'The Rivals Of Amziah King': Director Andrew Patterson On Being Discovered By Hollywood & Staying Indie With Matthew McConaughey - Crew Call Live",
-      "snapshot": "If there's any hope for a feature film to break out on the big screen, particularly with streaming competition from home, a filmmaker needs to break genre in order to intrigue and eventize. With his sophomore directorial, The Rivals of Amziah King, Oklahoma filmmaker Andrew Patterson is doing exactly that. To descri...",
-      "summary": "If there's any hope for a feature film to break out on the big screen, particularly with streaming competition from home, a filmmaker needs to break genre in order to intrigue and eventize. With his sophomore directorial, The Rivals of Amziah King, Oklahoma filmmaker Andrew Patterson is doing exactly that. To descri...",
-      "url": "https://deadline.com/video/the-rivals-of-amziah-king-andrew-patterson-interview/",
+      "headline": "Sadie Sink Gives 'X-Men' Filming Update, Says She's Being Kept \"Separate\" From Cyclops Casting",
+      "title": "Sadie Sink Gives 'X-Men' Filming Update, Says She's Being Kept \"Separate\" From Cyclops Casting",
+      "snapshot": "SPOILERS: This post contains details about Sadie Sink's Spider-Man: Brand New Day character While her newly revealed MCU character can read minds, Sadie Sink is being kept in the dark on the casting process of her future X-Men co-stars. The Spider-Man: Brand New Day actress admitted that she's being kept \"a little b...",
+      "summary": "SPOILERS: This post contains details about Sadie Sink's Spider-Man: Brand New Day character While her newly revealed MCU character can read minds, Sadie Sink is being kept in the dark on the casting process of her future X-Men co-stars. The Spider-Man: Brand New Day actress admitted that she's being kept \"a little b...",
+      "url": "https://deadline.com/2026/08/sadie-sink-x-men-filming-update-cyclops-casting-1237029050/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-08-07 05:15:00 PM ET",
+      "published_at": "2026-08-07 05:59:48 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'The Rivals Of Amziah King': Director Andrew Patterson On Being Discovered By Hollywood & Staying Indie With Matthew McConaughey - Crew Call Live"
+        "Sadie Sink Gives 'X-Men' Filming Update, Says She's Being Kept \"Separate\" From Cyclops Casting"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -443,14 +444,14 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-7724144384441556079",
-      "key": "film-22-7724144384441556079",
+      "id": "film-22-3020081689205908215",
+      "key": "film-22-3020081689205908215",
       "category": "Film",
       "label": "Film",
-      "headline": "A Man Is Trapped Inside a Netflix Billboard Above Sunset Blvd.",
-      "title": "A Man Is Trapped Inside a Netflix Billboard Above Sunset Blvd.",
-      "snapshot": "A marketing stunt for 'The Last House' has a performer trapped above Sunset Blvd. across three days.",
-      "summary": "A marketing stunt for 'The Last House' has a performer trapped above Sunset Blvd. across three days.",
+      "headline": "A Man Is Trapped Inside a Netflix Billboard Above Sunset Boulevard",
+      "title": "A Man Is Trapped Inside a Netflix Billboard Above Sunset Boulevard",
+      "snapshot": "A marketing stunt for 'The Last House' has a performer trapped above Sunset Boulevard across three days.",
+      "summary": "A marketing stunt for 'The Last House' has a performer trapped above Sunset Boulevard across three days.",
       "url": "https://www.hollywoodreporter.com/movies/movie-news/netflix-man-inside-billboard-last-house-1236669147/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
@@ -458,7 +459,7 @@
       "published_at": "2026-08-07 05:09:16 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "A Man Is Trapped Inside a Netflix Billboard Above Sunset Blvd."
+        "A Man Is Trapped Inside a Netflix Billboard Above Sunset Boulevard"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -470,14 +471,14 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-8067447655829502018",
-      "key": "film-32-8067447655829502018",
+      "id": "film-32-6200103251247789479",
+      "key": "film-32-6200103251247789479",
       "category": "Film",
       "label": "Film",
-      "headline": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire",
-      "title": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire",
-      "snapshot": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical IndieWire",
-      "summary": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical IndieWire",
+      "headline": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - indiewire.com",
+      "title": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - indiewire.com",
+      "snapshot": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical indiewire.com",
+      "summary": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical indiewire.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa2lwS3g2dWQySkhQVE9Zb09QeDJ3OVRLYXpHc0M0bzJPMXY4S0FaQXBhME1teHBnQnkzaXNfaUZJMGxNaE1KTFVXNkQwTmRLTF9vTWZOODVtY21yYUJFc1pqUnJib2FOc0IwWlFPWmt3X3hyZUw0MnlLVmkydkFJNE9pRlJtSjRpeUVSZlhB?oc=5",
       "source": "Google News",
       "source_name": "Google News",
@@ -485,7 +486,7 @@
       "published_at": "2026-08-07 01:17:11 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire"
+        "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - indiewire.com"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -497,22 +498,22 @@
       "priority_score": 68
     },
     {
-      "id": "music-9-8129169603419637997",
-      "key": "music-9-8129169603419637997",
+      "id": "music-9-2921443666861835187",
+      "key": "music-9-2921443666861835187",
       "category": "Music",
       "label": "Music",
-      "headline": "Charlie Worsham Shares Which Vince Gill Album Was 'Monumental For Me'",
-      "title": "Charlie Worsham Shares Which Vince Gill Album Was 'Monumental For Me'",
-      "snapshot": "Worsham issues his first independent album, Once Upon a Second Time Around , including collabs with Lainey Wilson, Stephen Wilson Jr. and The Travelin' McCourys.",
-      "summary": "Worsham issues his first independent album, Once Upon a Second Time Around , including collabs with Lainey Wilson, Stephen Wilson Jr. and The Travelin' McCourys.",
-      "url": "https://www.billboard.com/music/country/charlie-worsham-once-upon-a-second-time-around-interview-1236312119/",
+      "headline": "Megan Thee Stallion & Roc Nation Must Face Trial in Cameraman's Lawsuit, Judge Says",
+      "title": "Megan Thee Stallion & Roc Nation Must Face Trial in Cameraman's Lawsuit, Judge Says",
+      "snapshot": "A jury will have to decide a case filed by Emilio Garcia, who made salacious accusations about being forced to watch car sex in a 2024 lawsuit.",
+      "summary": "A jury will have to decide a case filed by Emilio Garcia, who made salacious accusations about being forced to watch car sex in a 2024 lawsuit.",
+      "url": "https://www.billboard.com/pro/megan-thee-stallion-roc-nation-trial-cameraman-lawsuit/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-07 04:56:39 PM ET",
+      "published_at": "2026-08-07 06:15:55 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Charlie Worsham Shares Which Vince Gill Album Was 'Monumental For Me'"
+        "Megan Thee Stallion & Roc Nation Must Face Trial in Cameraman's Lawsuit, Judge Says"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -524,22 +525,22 @@
       "priority_score": 91
     },
     {
-      "id": "gaming-0-8465705965743719406",
-      "key": "gaming-0-8465705965743719406",
+      "id": "gaming-0-7798343071119808553",
+      "key": "gaming-0-7798343071119808553",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Big Walk Review",
-      "title": "Big Walk Review",
-      "snapshot": "A clever co-op puzzle adventure that uses communication like no other.",
-      "summary": "A clever co-op puzzle adventure that uses communication like no other.",
-      "url": "https://www.ign.com/articles/big-walk-review",
+      "headline": "Palworld 1.0 Showed Me Why Everyone Loves Survival Games",
+      "title": "Palworld 1.0 Showed Me Why Everyone Loves Survival Games",
+      "snapshot": "Palworld 1.0 does a great job of easing you into its many complex systems.",
+      "summary": "Palworld 1.0 does a great job of easing you into its many complex systems.",
+      "url": "https://www.ign.com/articles/palworld-10-showed-me-why-everyone-loves-survival-games",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-07 04:34:11 PM ET",
+      "published_at": "2026-08-07 06:00:00 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Big Walk Review"
+        "Palworld 1.0 Showed Me Why Everyone Loves Survival Games"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -551,8 +552,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-3462486345415673784",
-      "key": "film-1-3462486345415673784",
+      "id": "film-1-3233059240874227362",
+      "key": "film-1-3233059240874227362",
       "category": "Film",
       "label": "Film",
       "headline": "'I Is Another' Review: An Impeccable Claes Bang Plays Felix Kersten, Massage Therapist to Heinrich Himmler and Would-Be Nobel Laureate",
@@ -578,22 +579,22 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-6560761490332821162",
-      "key": "film-11-6560761490332821162",
+      "id": "film-11-8376049578186591125",
+      "key": "film-11-8376049578186591125",
       "category": "Film",
       "label": "Film",
-      "headline": "Spencer Pratt To The Rescue? Failed L.A. Mayoral Candidate Wants To Help Trump Save Hollywood, Supposedly",
-      "title": "Spencer Pratt To The Rescue? Failed L.A. Mayoral Candidate Wants To Help Trump Save Hollywood, Supposedly",
-      "snapshot": "Spencer Pratt may have flamed out in his bid to be L.A. Mayor, but the reality TV enfant terrible has seemingly found a new calling - saving Hollywood with Donald Trump. Just days after the deeply unpopular former Apprentice host swooped into Southern California for a behind-closed-doors RNC fundraiser, The Hills al...",
-      "summary": "Spencer Pratt may have flamed out in his bid to be L.A. Mayor, but the reality TV enfant terrible has seemingly found a new calling - saving Hollywood with Donald Trump. Just days after the deeply unpopular former Apprentice host swooped into Southern California for a behind-closed-doors RNC fundraiser, The Hills al...",
-      "url": "https://deadline.com/2026/08/spencer-pratt-trump-saving-hollywood-1237028834/",
+      "headline": "Anthony Bourdain Origin Story 'Tony', 'Teenage Sex And Death At Camp Miasma', 'Late Fame' In Dynamic Indie Weekend - Specialty Preview",
+      "title": "Anthony Bourdain Origin Story 'Tony', 'Teenage Sex And Death At Camp Miasma', 'Late Fame' In Dynamic Indie Weekend - Specialty Preview",
+      "snapshot": "A dynamic selection of indies starts rolling out today with Dominic Sessa as a young Anthony Bourdain in Matt Johnson's Tony, indie director Jane Schoenbrun's latest, Teenage Sex And Death At Camp Miasma with Hannah Einbinder and Gillian Anderson, documentaries on cheesemongers, Girl Scout cookie season, and small t...",
+      "summary": "A dynamic selection of indies starts rolling out today with Dominic Sessa as a young Anthony Bourdain in Matt Johnson's Tony, indie director Jane Schoenbrun's latest, Teenage Sex And Death At Camp Miasma with Hannah Einbinder and Gillian Anderson, documentaries on cheesemongers, Girl Scout cookie season, and small t...",
+      "url": "https://deadline.com/2026/08/indie-films-opening-anthony-bourdain-biopic-tony-1237028878/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-08-07 04:36:32 PM ET",
+      "published_at": "2026-08-07 05:45:00 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Spencer Pratt To The Rescue? Failed L.A. Mayoral Candidate Wants To Help Trump Save Hollywood, Supposedly"
+        "Anthony Bourdain Origin Story 'Tony', 'Teenage Sex And Death At Camp Miasma', 'Late Fame' In Dynamic Indie Weekend - Specialty Preview"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -605,8 +606,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-5322751223091816308",
-      "key": "film-23-5322751223091816308",
+      "id": "film-23-1235966081108099524",
+      "key": "film-23-1235966081108099524",
       "category": "Film",
       "label": "Film",
       "headline": "Virginie Efira's Love for Cinema and Locarno Has No Limits - Even If Her Mic Does",
@@ -632,8 +633,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-3228319429036929274",
-      "key": "film-33-3228319429036929274",
+      "id": "film-33-5702507514976505784",
+      "key": "film-33-5702507514976505784",
       "category": "Film",
       "label": "Film",
       "headline": "Your guide to 2026 movie release dates - Entertainment Weekly",
@@ -659,22 +660,22 @@
       "priority_score": 67
     },
     {
-      "id": "music-10-1377310161841095340",
-      "key": "music-10-1377310161841095340",
+      "id": "music-10-3375635176553757238",
+      "key": "music-10-3375635176553757238",
       "category": "Music",
       "label": "Music",
-      "headline": "CORTIS Tells NYC to Put Their Phones Down at First U.S. Solo Concert: The 7 Best Moments",
-      "title": "CORTIS Tells NYC to Put Their Phones Down at First U.S. Solo Concert: The 7 Best Moments",
-      "snapshot": "With less than a year on the scene, the five-piece performed like pros at its first full concert in the States for a sold-out show at Infosys Theater at Madison Square Garden.",
-      "summary": "With less than a year on the scene, the five-piece performed like pros at its first full concert in the States for a sold-out show at Infosys Theater at Madison Square Garden.",
-      "url": "https://www.billboard.com/lists/cortis-put-your-phone-down-tour-nyc-best-moments-review/",
+      "headline": "This Weighted Derpy Pillow Mimics a Hug From the 'KPop Demon Hunters' Tiger to Help You Gently Fall Asleep",
+      "title": "This Weighted Derpy Pillow Mimics a Hug From the 'KPop Demon Hunters' Tiger to Help You Gently Fall Asleep",
+      "snapshot": "The feeling of holding the cuddly 18-inch Derpy plushie against the body provides a \"comforting, cozy feel,\" per a product description.",
+      "summary": "The feeling of holding the cuddly 18-inch Derpy plushie against the body provides a \"comforting, cozy feel,\" per a product description.",
+      "url": "https://www.billboard.com/culture/product-recommendations/derpy-kpop-demon-hunters-weighted-pillow-plush-buy-online-1236312095/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-07 04:32:51 PM ET",
+      "published_at": "2026-08-07 05:55:20 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "CORTIS Tells NYC to Put Their Phones Down at First U.S. Solo Concert: The 7 Best Moments"
+        "This Weighted Derpy Pillow Mimics a Hug From the 'KPop Demon Hunters' Tiger to Help You Gently Fall Asleep"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -686,22 +687,22 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-1-2460722392992739970",
-      "key": "gaming-1-2460722392992739970",
+      "id": "gaming-1-8249056166420122590",
+      "key": "gaming-1-8249056166420122590",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Doom 2016 Composer Mick Gordon Is Performing the Game's Soundtrack at a Music Festival for the Very First Time",
-      "title": "Doom 2016 Composer Mick Gordon Is Performing the Game's Soundtrack at a Music Festival for the Very First Time",
-      "snapshot": "Mick Gordon, the composer of Doom 2016's award-winning soundtrack, is taking the game's music on tour for the first time ever - and he's bringing the Doom Machine with him.",
-      "summary": "Mick Gordon, the composer of Doom 2016's award-winning soundtrack, is taking the game's music on tour for the first time ever - and he's bringing the Doom Machine with him.",
-      "url": "https://www.ign.com/articles/doom-2016-composer-mick-gordon-is-performing-the-games-soundtrack-live-in-concert-for-the-very-first-time",
+      "headline": "Big Walk Review",
+      "title": "Big Walk Review",
+      "snapshot": "A clever co-op puzzle adventure that uses communication like no other.",
+      "summary": "A clever co-op puzzle adventure that uses communication like no other.",
+      "url": "https://www.ign.com/articles/big-walk-review",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-07 03:50:03 PM ET",
+      "published_at": "2026-08-07 04:34:11 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Doom 2016 Composer Mick Gordon Is Performing the Game's Soundtrack at a Music Festival for the Very First Time"
+        "Big Walk Review"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -715,8 +716,8 @@
   ],
   "editor_signals": [
     {
-      "id": "film-2-6603685274361242023",
-      "key": "film-2-6603685274361242023",
+      "id": "film-2-8524271952665356013",
+      "key": "film-2-8524271952665356013",
       "category": "Film",
       "label": "Film",
       "headline": "Béla Tarr's Legacy to Be Celebrated at Sarajevo Film Festival",
@@ -742,22 +743,22 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-8794265752530402846",
-      "key": "film-12-8794265752530402846",
+      "id": "film-12-5278288515893647036",
+      "key": "film-12-5278288515893647036",
       "category": "Film",
       "label": "Film",
-      "headline": "Jean Lodge Dies: British Actor And Mother Of 'Days Of Our Lives' & 'The Nanny' Star Charles Shaughnessy Was 99",
-      "title": "Jean Lodge Dies: British Actor And Mother Of 'Days Of Our Lives' & 'The Nanny' Star Charles Shaughnessy Was 99",
-      "snapshot": "Jean Lodge, the British actor who play Queen Guinevere in the 1954 King Arthur movie The Black Knight and who was the mother of Days of Our Lives and The Nanny star Charles Shaughnessy and soap opera director David Shaughnessy, died Wednesday, August 5. She was 99. Her death was announced on Facebook by her […]",
-      "summary": "Jean Lodge, the British actor who play Queen Guinevere in the 1954 King Arthur movie The Black Knight and who was the mother of Days of Our Lives and The Nanny star Charles Shaughnessy and soap opera director David Shaughnessy, died Wednesday, August 5. She was 99. Her death was announced on Facebook by her […]",
-      "url": "https://deadline.com/2026/08/jean-lodge-dead-1237028765/",
+      "headline": "'The Rivals Of Amziah King': Director Andrew Patterson On Being Discovered By Hollywood & Staying Indie With Matthew McConaughey - Crew Call Live",
+      "title": "'The Rivals Of Amziah King': Director Andrew Patterson On Being Discovered By Hollywood & Staying Indie With Matthew McConaughey - Crew Call Live",
+      "snapshot": "If there's any hope for a feature film to break out on the big screen, particularly with streaming competition from home, a filmmaker needs to break genre in order to intrigue and eventize. With his sophomore directorial, The Rivals of Amziah King, Oklahoma filmmaker Andrew Patterson is doing exactly that. To descri...",
+      "summary": "If there's any hope for a feature film to break out on the big screen, particularly with streaming competition from home, a filmmaker needs to break genre in order to intrigue and eventize. With his sophomore directorial, The Rivals of Amziah King, Oklahoma filmmaker Andrew Patterson is doing exactly that. To descri...",
+      "url": "https://deadline.com/video/the-rivals-of-amziah-king-andrew-patterson-interview/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-08-07 02:49:31 PM ET",
+      "published_at": "2026-08-07 05:15:00 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Jean Lodge Dies: British Actor And Mother Of 'Days Of Our Lives' & 'The Nanny' Star Charles Shaughnessy Was 99"
+        "'The Rivals Of Amziah King': Director Andrew Patterson On Being Discovered By Hollywood & Staying Indie With Matthew McConaughey - Crew Call Live"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -769,8 +770,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-4083998055978022060",
-      "key": "film-24-4083998055978022060",
+      "id": "film-24-6404280958111432543",
+      "key": "film-24-6404280958111432543",
       "category": "Film",
       "label": "Film",
       "headline": "Kirill Sokolov, Director of 'They Will Kill You,' Tackling Sci-Fi Action Movie 'Blur' for Netflix (Exclusive)",
@@ -796,8 +797,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-3810561493644492920",
-      "key": "film-34-3810561493644492920",
+      "id": "film-34-6498225375464200848",
+      "key": "film-34-6498225375464200848",
       "category": "Film",
       "label": "Film",
       "headline": "Our favorite memories at the movies - The Verge",
@@ -823,22 +824,22 @@
       "priority_score": 66
     },
     {
-      "id": "music-11-8017343084340460975",
-      "key": "music-11-8017343084340460975",
+      "id": "music-11-922482950787453742",
+      "key": "music-11-922482950787453742",
       "category": "Music",
       "label": "Music",
-      "headline": "BLACKPINK's History-Making Accomplishments: A Timeline",
-      "title": "BLACKPINK's History-Making Accomplishments: A Timeline",
-      "snapshot": "\"All the records are the results of our fans, BLINKs, and their unconditional support,\" Jennie has said of the group's success.",
-      "summary": "\"All the records are the results of our fans, BLINKs, and their unconditional support,\" Jennie has said of the group's success.",
-      "url": "https://www.billboard.com/lists/blackpink-timeline-history-making-accomplishments/",
+      "headline": "In Canada: Osheaga Festival Draws Near-Record Attendance With Tate McRae, Stella Lefty & More",
+      "title": "In Canada: Osheaga Festival Draws Near-Record Attendance With Tate McRae, Stella Lefty & More",
+      "snapshot": "Also up north this week: A recap of this year's OVO Golf Classic and a high-profile departure from Departure.",
+      "summary": "Also up north this week: A recap of this year's OVO Golf Classic and a high-profile departure from Departure.",
+      "url": "https://www.billboard.com/pro/osheaga-festival-near-record-crowd-canada-music-news/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-07 04:19:38 PM ET",
+      "published_at": "2026-08-07 05:42:18 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "BLACKPINK's History-Making Accomplishments: A Timeline"
+        "In Canada: Osheaga Festival Draws Near-Record Attendance With Tate McRae, Stella Lefty & More"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -850,22 +851,22 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-2-1044998815050127445",
-      "key": "gaming-2-1044998815050127445",
+      "id": "gaming-2-9126123218110210165",
+      "key": "gaming-2-9126123218110210165",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Obsession Star Inde Navarrette Wants to Voice a Resident Evil Character",
-      "title": "Obsession Star Inde Navarrette Wants to Voice a Resident Evil Character",
-      "snapshot": "The internet's favorite final girl says she's branching into voice acting and would love to play a role in Capcom's flagship horror franchise, Resident Evil. Navarrette opened up about this new career path during an interview with Variety's Tiana DeNicola in late July, saying she's been getting into the Resident Evi...",
-      "summary": "The internet's favorite final girl says she's branching into voice acting and would love to play a role in Capcom's flagship horror franchise, Resident Evil. Navarrette opened up about this new career path during an interview with Variety's Tiana DeNicola in late July, saying she's been getting into the Resident Evi...",
-      "url": "https://www.ign.com/articles/obsession-star-inde-navarette-wants-to-voice-a-resident-evil-character",
+      "headline": "Doom 2016 Composer Mick Gordon Is Performing the Game's Soundtrack at a Music Festival for the Very First Time",
+      "title": "Doom 2016 Composer Mick Gordon Is Performing the Game's Soundtrack at a Music Festival for the Very First Time",
+      "snapshot": "Mick Gordon, the composer of Doom 2016's award-winning soundtrack, is taking the game's music on tour for the first time ever - and he's bringing the Doom Machine with him.",
+      "summary": "Mick Gordon, the composer of Doom 2016's award-winning soundtrack, is taking the game's music on tour for the first time ever - and he's bringing the Doom Machine with him.",
+      "url": "https://www.ign.com/articles/doom-2016-composer-mick-gordon-is-performing-the-games-soundtrack-live-in-concert-for-the-very-first-time",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-07 03:04:26 PM ET",
+      "published_at": "2026-08-07 03:50:03 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Obsession Star Inde Navarrette Wants to Voice a Resident Evil Character"
+        "Doom 2016 Composer Mick Gordon Is Performing the Game's Soundtrack at a Music Festival for the Very First Time"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -877,8 +878,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-1169108623894184436",
-      "key": "film-3-1169108623894184436",
+      "id": "film-3-6016718903060107678",
+      "key": "film-3-6016718903060107678",
       "category": "Film",
       "label": "Film",
       "headline": "Variety Toasts Young Hollywood's Hottest at Cover Bash With Tate McRae, Sombr, Tyriq Withers and Malachi Barton",
@@ -904,22 +905,22 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-3910347292604045600",
-      "key": "film-13-3910347292604045600",
+      "id": "film-13-8170146314829262868",
+      "key": "film-13-8170146314829262868",
       "category": "Film",
       "label": "Film",
-      "headline": "Vanessa Hudgens To Be Feted With Luminary Award At HollyShorts; Zach Cregger, Lana Condor Also Among Honorees",
-      "title": "Vanessa Hudgens To Be Feted With Luminary Award At HollyShorts; Zach Cregger, Lana Condor Also Among Honorees",
-      "snapshot": "EXCLUSIVE: Vanessa Hudgens will be feted with the Luminary Award at this year's HollyShorts Film Festival. Zach Cregger, Lana Condor, Miguel, Alexandra Shipp and Jim Cummings will also receive accolades at the short film fest. The honors will be given out at the HollyShorts opening night award ceremony on August 13....",
-      "summary": "EXCLUSIVE: Vanessa Hudgens will be feted with the Luminary Award at this year's HollyShorts Film Festival. Zach Cregger, Lana Condor, Miguel, Alexandra Shipp and Jim Cummings will also receive accolades at the short film fest. The honors will be given out at the HollyShorts opening night award ceremony on August 13....",
-      "url": "https://deadline.com/2026/08/vanessa-hudgens-zach-cregger-hollyshorts-honors-1237028733/",
+      "headline": "Spencer Pratt To The Rescue? Failed L.A. Mayoral Candidate Wants To Help Trump Save Hollywood, Supposedly",
+      "title": "Spencer Pratt To The Rescue? Failed L.A. Mayoral Candidate Wants To Help Trump Save Hollywood, Supposedly",
+      "snapshot": "Spencer Pratt may have flamed out in his bid to be L.A. Mayor, but the reality TV enfant terrible has seemingly found a new calling - saving Hollywood with Donald Trump. Just days after the deeply unpopular former Apprentice host swooped into Southern California for a behind-closed-doors RNC fundraiser, The Hills al...",
+      "summary": "Spencer Pratt may have flamed out in his bid to be L.A. Mayor, but the reality TV enfant terrible has seemingly found a new calling - saving Hollywood with Donald Trump. Just days after the deeply unpopular former Apprentice host swooped into Southern California for a behind-closed-doors RNC fundraiser, The Hills al...",
+      "url": "https://deadline.com/2026/08/spencer-pratt-trump-saving-hollywood-1237028834/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-08-07 01:37:38 PM ET",
+      "published_at": "2026-08-07 04:36:32 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Vanessa Hudgens To Be Feted With Luminary Award At HollyShorts; Zach Cregger, Lana Condor Also Among Honorees"
+        "Spencer Pratt To The Rescue? Failed L.A. Mayoral Candidate Wants To Help Trump Save Hollywood, Supposedly"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -931,8 +932,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-1927356992774103095",
-      "key": "film-25-1927356992774103095",
+      "id": "film-25-1389001582506329380",
+      "key": "film-25-1389001582506329380",
       "category": "Film",
       "label": "Film",
       "headline": "Mason Gooding, Emily Rudd to Star in 'Crawl' Sequel for Paramount (Exclusive)",
@@ -958,8 +959,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-2998487744053046730",
-      "key": "film-35-2998487744053046730",
+      "id": "film-35-8707346813365374574",
+      "key": "film-35-8707346813365374574",
       "category": "Film",
       "label": "Film",
       "headline": "Everything to know about 'Madden,' a new movie coming to Prime Video November 18 - About Amazon",
@@ -985,22 +986,22 @@
       "priority_score": 65
     },
     {
-      "id": "music-12-6246301043493756002",
-      "key": "music-12-6246301043493756002",
+      "id": "music-12-4151413821381822909",
+      "key": "music-12-4151413821381822909",
       "category": "Music",
       "label": "Music",
-      "headline": "A Timeline of Gracie Abrams & Paul Mescal's Relationship",
-      "title": "A Timeline of Gracie Abrams & Paul Mescal's Relationship",
-      "snapshot": "The couple first sparked romance rumors in 2024.",
-      "summary": "The couple first sparked romance rumors in 2024.",
-      "url": "https://www.billboard.com/lists/gracie-abrams-paul-mescal-relationship-timeline/",
+      "headline": "Charlie Worsham Shares Which Vince Gill Album Was 'Monumental For Me'",
+      "title": "Charlie Worsham Shares Which Vince Gill Album Was 'Monumental For Me'",
+      "snapshot": "Worsham issues his first independent album, Once Upon a Second Time Around , including collabs with Lainey Wilson, Stephen Wilson Jr. and The Travelin' McCourys.",
+      "summary": "Worsham issues his first independent album, Once Upon a Second Time Around , including collabs with Lainey Wilson, Stephen Wilson Jr. and The Travelin' McCourys.",
+      "url": "https://www.billboard.com/music/country/charlie-worsham-once-upon-a-second-time-around-interview-1236312119/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-07 04:18:33 PM ET",
+      "published_at": "2026-08-07 04:56:39 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "A Timeline of Gracie Abrams & Paul Mescal's Relationship"
+        "Charlie Worsham Shares Which Vince Gill Album Was 'Monumental For Me'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1012,22 +1013,22 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-3-85329940426893502",
-      "key": "gaming-3-85329940426893502",
+      "id": "gaming-3-5541694019729942699",
+      "key": "gaming-3-5541694019729942699",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Take-Two Boss Predicts Actual Good Video Game Streaming Within 3 Years, Says for Streaming to Matter It Would Have to Run GTA 6 as Well as Consoles",
-      "title": "Take-Two Boss Predicts Actual Good Video Game Streaming Within 3 Years, Says for Streaming to Matter It Would Have to Run GTA 6 as Well as Consoles",
-      "snapshot": "The boss of Take-Two has suggested the video game industry will be in \"commercial streaming mode\" within three years - but for video game streaming to matter, it will have to run GTA 6 just as well as consoles do.",
-      "summary": "The boss of Take-Two has suggested the video game industry will be in \"commercial streaming mode\" within three years - but for video game streaming to matter, it will have to run GTA 6 just as well as consoles do.",
-      "url": "https://www.ign.com/articles/take-two-boss-predicts-actual-good-video-game-streaming-within-3-years-says-for-streaming-to-matter-it-would-have-to-run-gta-6-as-well-as-consoles",
+      "headline": "Obsession Star Inde Navarrette Wants to Voice a Resident Evil Character",
+      "title": "Obsession Star Inde Navarrette Wants to Voice a Resident Evil Character",
+      "snapshot": "The internet's favorite final girl says she's branching into voice acting and would love to play a role in Capcom's flagship horror franchise, Resident Evil. Navarrette opened up about this new career path during an interview with Variety's Tiana DeNicola in late July, saying she's been getting into the Resident Evi...",
+      "summary": "The internet's favorite final girl says she's branching into voice acting and would love to play a role in Capcom's flagship horror franchise, Resident Evil. Navarrette opened up about this new career path during an interview with Variety's Tiana DeNicola in late July, saying she's been getting into the Resident Evi...",
+      "url": "https://www.ign.com/articles/obsession-star-inde-navarette-wants-to-voice-a-resident-evil-character",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-07 12:28:27 PM ET",
+      "published_at": "2026-08-07 03:04:26 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Take-Two Boss Predicts Actual Good Video Game Streaming Within 3 Years, Says for Streaming to Matter It Would Have to Run GTA 6 as Well as Consoles"
+        "Obsession Star Inde Navarrette Wants to Voice a Resident Evil Character"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1041,8 +1042,8 @@
   ],
   "homepage_cards": [
     {
-      "id": "film-0-4992130345233239464",
-      "key": "film-0-4992130345233239464",
+      "id": "film-0-2416177053135487481",
+      "key": "film-0-2416177053135487481",
       "category": "Film",
       "label": "Film",
       "headline": "Dwayne Johnson Defends 'Moana' After Bad Reviews: 'Just the Way It Goes'",
@@ -1068,22 +1069,22 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-671917368002297943",
-      "key": "film-10-671917368002297943",
+      "id": "film-10-5868896171702432697",
+      "key": "film-10-5868896171702432697",
       "category": "Film",
       "label": "Film",
-      "headline": "'The Rivals Of Amziah King': Director Andrew Patterson On Being Discovered By Hollywood & Staying Indie With Matthew McConaughey - Crew Call Live",
-      "title": "'The Rivals Of Amziah King': Director Andrew Patterson On Being Discovered By Hollywood & Staying Indie With Matthew McConaughey - Crew Call Live",
-      "snapshot": "If there's any hope for a feature film to break out on the big screen, particularly with streaming competition from home, a filmmaker needs to break genre in order to intrigue and eventize. With his sophomore directorial, The Rivals of Amziah King, Oklahoma filmmaker Andrew Patterson is doing exactly that. To descri...",
-      "summary": "If there's any hope for a feature film to break out on the big screen, particularly with streaming competition from home, a filmmaker needs to break genre in order to intrigue and eventize. With his sophomore directorial, The Rivals of Amziah King, Oklahoma filmmaker Andrew Patterson is doing exactly that. To descri...",
-      "url": "https://deadline.com/video/the-rivals-of-amziah-king-andrew-patterson-interview/",
+      "headline": "Sadie Sink Gives 'X-Men' Filming Update, Says She's Being Kept \"Separate\" From Cyclops Casting",
+      "title": "Sadie Sink Gives 'X-Men' Filming Update, Says She's Being Kept \"Separate\" From Cyclops Casting",
+      "snapshot": "SPOILERS: This post contains details about Sadie Sink's Spider-Man: Brand New Day character While her newly revealed MCU character can read minds, Sadie Sink is being kept in the dark on the casting process of her future X-Men co-stars. The Spider-Man: Brand New Day actress admitted that she's being kept \"a little b...",
+      "summary": "SPOILERS: This post contains details about Sadie Sink's Spider-Man: Brand New Day character While her newly revealed MCU character can read minds, Sadie Sink is being kept in the dark on the casting process of her future X-Men co-stars. The Spider-Man: Brand New Day actress admitted that she's being kept \"a little b...",
+      "url": "https://deadline.com/2026/08/sadie-sink-x-men-filming-update-cyclops-casting-1237029050/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-08-07 05:15:00 PM ET",
+      "published_at": "2026-08-07 05:59:48 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'The Rivals Of Amziah King': Director Andrew Patterson On Being Discovered By Hollywood & Staying Indie With Matthew McConaughey - Crew Call Live"
+        "Sadie Sink Gives 'X-Men' Filming Update, Says She's Being Kept \"Separate\" From Cyclops Casting"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1095,14 +1096,14 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-7724144384441556079",
-      "key": "film-22-7724144384441556079",
+      "id": "film-22-3020081689205908215",
+      "key": "film-22-3020081689205908215",
       "category": "Film",
       "label": "Film",
-      "headline": "A Man Is Trapped Inside a Netflix Billboard Above Sunset Blvd.",
-      "title": "A Man Is Trapped Inside a Netflix Billboard Above Sunset Blvd.",
-      "snapshot": "A marketing stunt for 'The Last House' has a performer trapped above Sunset Blvd. across three days.",
-      "summary": "A marketing stunt for 'The Last House' has a performer trapped above Sunset Blvd. across three days.",
+      "headline": "A Man Is Trapped Inside a Netflix Billboard Above Sunset Boulevard",
+      "title": "A Man Is Trapped Inside a Netflix Billboard Above Sunset Boulevard",
+      "snapshot": "A marketing stunt for 'The Last House' has a performer trapped above Sunset Boulevard across three days.",
+      "summary": "A marketing stunt for 'The Last House' has a performer trapped above Sunset Boulevard across three days.",
       "url": "https://www.hollywoodreporter.com/movies/movie-news/netflix-man-inside-billboard-last-house-1236669147/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
@@ -1110,7 +1111,7 @@
       "published_at": "2026-08-07 05:09:16 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "A Man Is Trapped Inside a Netflix Billboard Above Sunset Blvd."
+        "A Man Is Trapped Inside a Netflix Billboard Above Sunset Boulevard"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1122,14 +1123,14 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-8067447655829502018",
-      "key": "film-32-8067447655829502018",
+      "id": "film-32-6200103251247789479",
+      "key": "film-32-6200103251247789479",
       "category": "Film",
       "label": "Film",
-      "headline": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire",
-      "title": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire",
-      "snapshot": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical IndieWire",
-      "summary": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical IndieWire",
+      "headline": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - indiewire.com",
+      "title": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - indiewire.com",
+      "snapshot": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical indiewire.com",
+      "summary": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical indiewire.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa2lwS3g2dWQySkhQVE9Zb09QeDJ3OVRLYXpHc0M0bzJPMXY4S0FaQXBhME1teHBnQnkzaXNfaUZJMGxNaE1KTFVXNkQwTmRLTF9vTWZOODVtY21yYUJFc1pqUnJib2FOc0IwWlFPWmt3X3hyZUw0MnlLVmkydkFJNE9pRlJtSjRpeUVSZlhB?oc=5",
       "source": "Google News",
       "source_name": "Google News",
@@ -1137,7 +1138,7 @@
       "published_at": "2026-08-07 01:17:11 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire"
+        "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - indiewire.com"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1149,22 +1150,22 @@
       "priority_score": 68
     },
     {
-      "id": "music-9-8129169603419637997",
-      "key": "music-9-8129169603419637997",
+      "id": "music-9-2921443666861835187",
+      "key": "music-9-2921443666861835187",
       "category": "Music",
       "label": "Music",
-      "headline": "Charlie Worsham Shares Which Vince Gill Album Was 'Monumental For Me'",
-      "title": "Charlie Worsham Shares Which Vince Gill Album Was 'Monumental For Me'",
-      "snapshot": "Worsham issues his first independent album, Once Upon a Second Time Around , including collabs with Lainey Wilson, Stephen Wilson Jr. and The Travelin' McCourys.",
-      "summary": "Worsham issues his first independent album, Once Upon a Second Time Around , including collabs with Lainey Wilson, Stephen Wilson Jr. and The Travelin' McCourys.",
-      "url": "https://www.billboard.com/music/country/charlie-worsham-once-upon-a-second-time-around-interview-1236312119/",
+      "headline": "Megan Thee Stallion & Roc Nation Must Face Trial in Cameraman's Lawsuit, Judge Says",
+      "title": "Megan Thee Stallion & Roc Nation Must Face Trial in Cameraman's Lawsuit, Judge Says",
+      "snapshot": "A jury will have to decide a case filed by Emilio Garcia, who made salacious accusations about being forced to watch car sex in a 2024 lawsuit.",
+      "summary": "A jury will have to decide a case filed by Emilio Garcia, who made salacious accusations about being forced to watch car sex in a 2024 lawsuit.",
+      "url": "https://www.billboard.com/pro/megan-thee-stallion-roc-nation-trial-cameraman-lawsuit/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-07 04:56:39 PM ET",
+      "published_at": "2026-08-07 06:15:55 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Charlie Worsham Shares Which Vince Gill Album Was 'Monumental For Me'"
+        "Megan Thee Stallion & Roc Nation Must Face Trial in Cameraman's Lawsuit, Judge Says"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1176,22 +1177,22 @@
       "priority_score": 91
     },
     {
-      "id": "gaming-0-8465705965743719406",
-      "key": "gaming-0-8465705965743719406",
+      "id": "gaming-0-7798343071119808553",
+      "key": "gaming-0-7798343071119808553",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Big Walk Review",
-      "title": "Big Walk Review",
-      "snapshot": "A clever co-op puzzle adventure that uses communication like no other.",
-      "summary": "A clever co-op puzzle adventure that uses communication like no other.",
-      "url": "https://www.ign.com/articles/big-walk-review",
+      "headline": "Palworld 1.0 Showed Me Why Everyone Loves Survival Games",
+      "title": "Palworld 1.0 Showed Me Why Everyone Loves Survival Games",
+      "snapshot": "Palworld 1.0 does a great job of easing you into its many complex systems.",
+      "summary": "Palworld 1.0 does a great job of easing you into its many complex systems.",
+      "url": "https://www.ign.com/articles/palworld-10-showed-me-why-everyone-loves-survival-games",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-07 04:34:11 PM ET",
+      "published_at": "2026-08-07 06:00:00 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Big Walk Review"
+        "Palworld 1.0 Showed Me Why Everyone Loves Survival Games"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1203,8 +1204,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-3462486345415673784",
-      "key": "film-1-3462486345415673784",
+      "id": "film-1-3233059240874227362",
+      "key": "film-1-3233059240874227362",
       "category": "Film",
       "label": "Film",
       "headline": "'I Is Another' Review: An Impeccable Claes Bang Plays Felix Kersten, Massage Therapist to Heinrich Himmler and Would-Be Nobel Laureate",
@@ -1230,22 +1231,22 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-6560761490332821162",
-      "key": "film-11-6560761490332821162",
+      "id": "film-11-8376049578186591125",
+      "key": "film-11-8376049578186591125",
       "category": "Film",
       "label": "Film",
-      "headline": "Spencer Pratt To The Rescue? Failed L.A. Mayoral Candidate Wants To Help Trump Save Hollywood, Supposedly",
-      "title": "Spencer Pratt To The Rescue? Failed L.A. Mayoral Candidate Wants To Help Trump Save Hollywood, Supposedly",
-      "snapshot": "Spencer Pratt may have flamed out in his bid to be L.A. Mayor, but the reality TV enfant terrible has seemingly found a new calling - saving Hollywood with Donald Trump. Just days after the deeply unpopular former Apprentice host swooped into Southern California for a behind-closed-doors RNC fundraiser, The Hills al...",
-      "summary": "Spencer Pratt may have flamed out in his bid to be L.A. Mayor, but the reality TV enfant terrible has seemingly found a new calling - saving Hollywood with Donald Trump. Just days after the deeply unpopular former Apprentice host swooped into Southern California for a behind-closed-doors RNC fundraiser, The Hills al...",
-      "url": "https://deadline.com/2026/08/spencer-pratt-trump-saving-hollywood-1237028834/",
+      "headline": "Anthony Bourdain Origin Story 'Tony', 'Teenage Sex And Death At Camp Miasma', 'Late Fame' In Dynamic Indie Weekend - Specialty Preview",
+      "title": "Anthony Bourdain Origin Story 'Tony', 'Teenage Sex And Death At Camp Miasma', 'Late Fame' In Dynamic Indie Weekend - Specialty Preview",
+      "snapshot": "A dynamic selection of indies starts rolling out today with Dominic Sessa as a young Anthony Bourdain in Matt Johnson's Tony, indie director Jane Schoenbrun's latest, Teenage Sex And Death At Camp Miasma with Hannah Einbinder and Gillian Anderson, documentaries on cheesemongers, Girl Scout cookie season, and small t...",
+      "summary": "A dynamic selection of indies starts rolling out today with Dominic Sessa as a young Anthony Bourdain in Matt Johnson's Tony, indie director Jane Schoenbrun's latest, Teenage Sex And Death At Camp Miasma with Hannah Einbinder and Gillian Anderson, documentaries on cheesemongers, Girl Scout cookie season, and small t...",
+      "url": "https://deadline.com/2026/08/indie-films-opening-anthony-bourdain-biopic-tony-1237028878/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-08-07 04:36:32 PM ET",
+      "published_at": "2026-08-07 05:45:00 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Spencer Pratt To The Rescue? Failed L.A. Mayoral Candidate Wants To Help Trump Save Hollywood, Supposedly"
+        "Anthony Bourdain Origin Story 'Tony', 'Teenage Sex And Death At Camp Miasma', 'Late Fame' In Dynamic Indie Weekend - Specialty Preview"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1257,8 +1258,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-5322751223091816308",
-      "key": "film-23-5322751223091816308",
+      "id": "film-23-1235966081108099524",
+      "key": "film-23-1235966081108099524",
       "category": "Film",
       "label": "Film",
       "headline": "Virginie Efira's Love for Cinema and Locarno Has No Limits - Even If Her Mic Does",
@@ -1284,8 +1285,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-3228319429036929274",
-      "key": "film-33-3228319429036929274",
+      "id": "film-33-5702507514976505784",
+      "key": "film-33-5702507514976505784",
       "category": "Film",
       "label": "Film",
       "headline": "Your guide to 2026 movie release dates - Entertainment Weekly",
@@ -1311,22 +1312,22 @@
       "priority_score": 67
     },
     {
-      "id": "music-10-1377310161841095340",
-      "key": "music-10-1377310161841095340",
+      "id": "music-10-3375635176553757238",
+      "key": "music-10-3375635176553757238",
       "category": "Music",
       "label": "Music",
-      "headline": "CORTIS Tells NYC to Put Their Phones Down at First U.S. Solo Concert: The 7 Best Moments",
-      "title": "CORTIS Tells NYC to Put Their Phones Down at First U.S. Solo Concert: The 7 Best Moments",
-      "snapshot": "With less than a year on the scene, the five-piece performed like pros at its first full concert in the States for a sold-out show at Infosys Theater at Madison Square Garden.",
-      "summary": "With less than a year on the scene, the five-piece performed like pros at its first full concert in the States for a sold-out show at Infosys Theater at Madison Square Garden.",
-      "url": "https://www.billboard.com/lists/cortis-put-your-phone-down-tour-nyc-best-moments-review/",
+      "headline": "This Weighted Derpy Pillow Mimics a Hug From the 'KPop Demon Hunters' Tiger to Help You Gently Fall Asleep",
+      "title": "This Weighted Derpy Pillow Mimics a Hug From the 'KPop Demon Hunters' Tiger to Help You Gently Fall Asleep",
+      "snapshot": "The feeling of holding the cuddly 18-inch Derpy plushie against the body provides a \"comforting, cozy feel,\" per a product description.",
+      "summary": "The feeling of holding the cuddly 18-inch Derpy plushie against the body provides a \"comforting, cozy feel,\" per a product description.",
+      "url": "https://www.billboard.com/culture/product-recommendations/derpy-kpop-demon-hunters-weighted-pillow-plush-buy-online-1236312095/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-07 04:32:51 PM ET",
+      "published_at": "2026-08-07 05:55:20 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "CORTIS Tells NYC to Put Their Phones Down at First U.S. Solo Concert: The 7 Best Moments"
+        "This Weighted Derpy Pillow Mimics a Hug From the 'KPop Demon Hunters' Tiger to Help You Gently Fall Asleep"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1338,22 +1339,22 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-1-2460722392992739970",
-      "key": "gaming-1-2460722392992739970",
+      "id": "gaming-1-8249056166420122590",
+      "key": "gaming-1-8249056166420122590",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Doom 2016 Composer Mick Gordon Is Performing the Game's Soundtrack at a Music Festival for the Very First Time",
-      "title": "Doom 2016 Composer Mick Gordon Is Performing the Game's Soundtrack at a Music Festival for the Very First Time",
-      "snapshot": "Mick Gordon, the composer of Doom 2016's award-winning soundtrack, is taking the game's music on tour for the first time ever - and he's bringing the Doom Machine with him.",
-      "summary": "Mick Gordon, the composer of Doom 2016's award-winning soundtrack, is taking the game's music on tour for the first time ever - and he's bringing the Doom Machine with him.",
-      "url": "https://www.ign.com/articles/doom-2016-composer-mick-gordon-is-performing-the-games-soundtrack-live-in-concert-for-the-very-first-time",
+      "headline": "Big Walk Review",
+      "title": "Big Walk Review",
+      "snapshot": "A clever co-op puzzle adventure that uses communication like no other.",
+      "summary": "A clever co-op puzzle adventure that uses communication like no other.",
+      "url": "https://www.ign.com/articles/big-walk-review",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-07 03:50:03 PM ET",
+      "published_at": "2026-08-07 04:34:11 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Doom 2016 Composer Mick Gordon Is Performing the Game's Soundtrack at a Music Festival for the Very First Time"
+        "Big Walk Review"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1365,8 +1366,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-2-6603685274361242023",
-      "key": "film-2-6603685274361242023",
+      "id": "film-2-8524271952665356013",
+      "key": "film-2-8524271952665356013",
       "category": "Film",
       "label": "Film",
       "headline": "Béla Tarr's Legacy to Be Celebrated at Sarajevo Film Festival",
@@ -1392,22 +1393,22 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-8794265752530402846",
-      "key": "film-12-8794265752530402846",
+      "id": "film-12-5278288515893647036",
+      "key": "film-12-5278288515893647036",
       "category": "Film",
       "label": "Film",
-      "headline": "Jean Lodge Dies: British Actor And Mother Of 'Days Of Our Lives' & 'The Nanny' Star Charles Shaughnessy Was 99",
-      "title": "Jean Lodge Dies: British Actor And Mother Of 'Days Of Our Lives' & 'The Nanny' Star Charles Shaughnessy Was 99",
-      "snapshot": "Jean Lodge, the British actor who play Queen Guinevere in the 1954 King Arthur movie The Black Knight and who was the mother of Days of Our Lives and The Nanny star Charles Shaughnessy and soap opera director David Shaughnessy, died Wednesday, August 5. She was 99. Her death was announced on Facebook by her […]",
-      "summary": "Jean Lodge, the British actor who play Queen Guinevere in the 1954 King Arthur movie The Black Knight and who was the mother of Days of Our Lives and The Nanny star Charles Shaughnessy and soap opera director David Shaughnessy, died Wednesday, August 5. She was 99. Her death was announced on Facebook by her […]",
-      "url": "https://deadline.com/2026/08/jean-lodge-dead-1237028765/",
+      "headline": "'The Rivals Of Amziah King': Director Andrew Patterson On Being Discovered By Hollywood & Staying Indie With Matthew McConaughey - Crew Call Live",
+      "title": "'The Rivals Of Amziah King': Director Andrew Patterson On Being Discovered By Hollywood & Staying Indie With Matthew McConaughey - Crew Call Live",
+      "snapshot": "If there's any hope for a feature film to break out on the big screen, particularly with streaming competition from home, a filmmaker needs to break genre in order to intrigue and eventize. With his sophomore directorial, The Rivals of Amziah King, Oklahoma filmmaker Andrew Patterson is doing exactly that. To descri...",
+      "summary": "If there's any hope for a feature film to break out on the big screen, particularly with streaming competition from home, a filmmaker needs to break genre in order to intrigue and eventize. With his sophomore directorial, The Rivals of Amziah King, Oklahoma filmmaker Andrew Patterson is doing exactly that. To descri...",
+      "url": "https://deadline.com/video/the-rivals-of-amziah-king-andrew-patterson-interview/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-08-07 02:49:31 PM ET",
+      "published_at": "2026-08-07 05:15:00 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Jean Lodge Dies: British Actor And Mother Of 'Days Of Our Lives' & 'The Nanny' Star Charles Shaughnessy Was 99"
+        "'The Rivals Of Amziah King': Director Andrew Patterson On Being Discovered By Hollywood & Staying Indie With Matthew McConaughey - Crew Call Live"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1419,8 +1420,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-4083998055978022060",
-      "key": "film-24-4083998055978022060",
+      "id": "film-24-6404280958111432543",
+      "key": "film-24-6404280958111432543",
       "category": "Film",
       "label": "Film",
       "headline": "Kirill Sokolov, Director of 'They Will Kill You,' Tackling Sci-Fi Action Movie 'Blur' for Netflix (Exclusive)",
@@ -1446,8 +1447,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-3810561493644492920",
-      "key": "film-34-3810561493644492920",
+      "id": "film-34-6498225375464200848",
+      "key": "film-34-6498225375464200848",
       "category": "Film",
       "label": "Film",
       "headline": "Our favorite memories at the movies - The Verge",
@@ -1473,22 +1474,22 @@
       "priority_score": 66
     },
     {
-      "id": "music-11-8017343084340460975",
-      "key": "music-11-8017343084340460975",
+      "id": "music-11-922482950787453742",
+      "key": "music-11-922482950787453742",
       "category": "Music",
       "label": "Music",
-      "headline": "BLACKPINK's History-Making Accomplishments: A Timeline",
-      "title": "BLACKPINK's History-Making Accomplishments: A Timeline",
-      "snapshot": "\"All the records are the results of our fans, BLINKs, and their unconditional support,\" Jennie has said of the group's success.",
-      "summary": "\"All the records are the results of our fans, BLINKs, and their unconditional support,\" Jennie has said of the group's success.",
-      "url": "https://www.billboard.com/lists/blackpink-timeline-history-making-accomplishments/",
+      "headline": "In Canada: Osheaga Festival Draws Near-Record Attendance With Tate McRae, Stella Lefty & More",
+      "title": "In Canada: Osheaga Festival Draws Near-Record Attendance With Tate McRae, Stella Lefty & More",
+      "snapshot": "Also up north this week: A recap of this year's OVO Golf Classic and a high-profile departure from Departure.",
+      "summary": "Also up north this week: A recap of this year's OVO Golf Classic and a high-profile departure from Departure.",
+      "url": "https://www.billboard.com/pro/osheaga-festival-near-record-crowd-canada-music-news/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-07 04:19:38 PM ET",
+      "published_at": "2026-08-07 05:42:18 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "BLACKPINK's History-Making Accomplishments: A Timeline"
+        "In Canada: Osheaga Festival Draws Near-Record Attendance With Tate McRae, Stella Lefty & More"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1500,22 +1501,22 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-2-1044998815050127445",
-      "key": "gaming-2-1044998815050127445",
+      "id": "gaming-2-9126123218110210165",
+      "key": "gaming-2-9126123218110210165",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Obsession Star Inde Navarrette Wants to Voice a Resident Evil Character",
-      "title": "Obsession Star Inde Navarrette Wants to Voice a Resident Evil Character",
-      "snapshot": "The internet's favorite final girl says she's branching into voice acting and would love to play a role in Capcom's flagship horror franchise, Resident Evil. Navarrette opened up about this new career path during an interview with Variety's Tiana DeNicola in late July, saying she's been getting into the Resident Evi...",
-      "summary": "The internet's favorite final girl says she's branching into voice acting and would love to play a role in Capcom's flagship horror franchise, Resident Evil. Navarrette opened up about this new career path during an interview with Variety's Tiana DeNicola in late July, saying she's been getting into the Resident Evi...",
-      "url": "https://www.ign.com/articles/obsession-star-inde-navarette-wants-to-voice-a-resident-evil-character",
+      "headline": "Doom 2016 Composer Mick Gordon Is Performing the Game's Soundtrack at a Music Festival for the Very First Time",
+      "title": "Doom 2016 Composer Mick Gordon Is Performing the Game's Soundtrack at a Music Festival for the Very First Time",
+      "snapshot": "Mick Gordon, the composer of Doom 2016's award-winning soundtrack, is taking the game's music on tour for the first time ever - and he's bringing the Doom Machine with him.",
+      "summary": "Mick Gordon, the composer of Doom 2016's award-winning soundtrack, is taking the game's music on tour for the first time ever - and he's bringing the Doom Machine with him.",
+      "url": "https://www.ign.com/articles/doom-2016-composer-mick-gordon-is-performing-the-games-soundtrack-live-in-concert-for-the-very-first-time",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-07 03:04:26 PM ET",
+      "published_at": "2026-08-07 03:50:03 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Obsession Star Inde Navarrette Wants to Voice a Resident Evil Character"
+        "Doom 2016 Composer Mick Gordon Is Performing the Game's Soundtrack at a Music Festival for the Very First Time"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1527,8 +1528,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-1169108623894184436",
-      "key": "film-3-1169108623894184436",
+      "id": "film-3-6016718903060107678",
+      "key": "film-3-6016718903060107678",
       "category": "Film",
       "label": "Film",
       "headline": "Variety Toasts Young Hollywood's Hottest at Cover Bash With Tate McRae, Sombr, Tyriq Withers and Malachi Barton",
@@ -1554,22 +1555,22 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-3910347292604045600",
-      "key": "film-13-3910347292604045600",
+      "id": "film-13-8170146314829262868",
+      "key": "film-13-8170146314829262868",
       "category": "Film",
       "label": "Film",
-      "headline": "Vanessa Hudgens To Be Feted With Luminary Award At HollyShorts; Zach Cregger, Lana Condor Also Among Honorees",
-      "title": "Vanessa Hudgens To Be Feted With Luminary Award At HollyShorts; Zach Cregger, Lana Condor Also Among Honorees",
-      "snapshot": "EXCLUSIVE: Vanessa Hudgens will be feted with the Luminary Award at this year's HollyShorts Film Festival. Zach Cregger, Lana Condor, Miguel, Alexandra Shipp and Jim Cummings will also receive accolades at the short film fest. The honors will be given out at the HollyShorts opening night award ceremony on August 13....",
-      "summary": "EXCLUSIVE: Vanessa Hudgens will be feted with the Luminary Award at this year's HollyShorts Film Festival. Zach Cregger, Lana Condor, Miguel, Alexandra Shipp and Jim Cummings will also receive accolades at the short film fest. The honors will be given out at the HollyShorts opening night award ceremony on August 13....",
-      "url": "https://deadline.com/2026/08/vanessa-hudgens-zach-cregger-hollyshorts-honors-1237028733/",
+      "headline": "Spencer Pratt To The Rescue? Failed L.A. Mayoral Candidate Wants To Help Trump Save Hollywood, Supposedly",
+      "title": "Spencer Pratt To The Rescue? Failed L.A. Mayoral Candidate Wants To Help Trump Save Hollywood, Supposedly",
+      "snapshot": "Spencer Pratt may have flamed out in his bid to be L.A. Mayor, but the reality TV enfant terrible has seemingly found a new calling - saving Hollywood with Donald Trump. Just days after the deeply unpopular former Apprentice host swooped into Southern California for a behind-closed-doors RNC fundraiser, The Hills al...",
+      "summary": "Spencer Pratt may have flamed out in his bid to be L.A. Mayor, but the reality TV enfant terrible has seemingly found a new calling - saving Hollywood with Donald Trump. Just days after the deeply unpopular former Apprentice host swooped into Southern California for a behind-closed-doors RNC fundraiser, The Hills al...",
+      "url": "https://deadline.com/2026/08/spencer-pratt-trump-saving-hollywood-1237028834/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-08-07 01:37:38 PM ET",
+      "published_at": "2026-08-07 04:36:32 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Vanessa Hudgens To Be Feted With Luminary Award At HollyShorts; Zach Cregger, Lana Condor Also Among Honorees"
+        "Spencer Pratt To The Rescue? Failed L.A. Mayoral Candidate Wants To Help Trump Save Hollywood, Supposedly"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1581,8 +1582,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-1927356992774103095",
-      "key": "film-25-1927356992774103095",
+      "id": "film-25-1389001582506329380",
+      "key": "film-25-1389001582506329380",
       "category": "Film",
       "label": "Film",
       "headline": "Mason Gooding, Emily Rudd to Star in 'Crawl' Sequel for Paramount (Exclusive)",
@@ -1608,8 +1609,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-2998487744053046730",
-      "key": "film-35-2998487744053046730",
+      "id": "film-35-8707346813365374574",
+      "key": "film-35-8707346813365374574",
       "category": "Film",
       "label": "Film",
       "headline": "Everything to know about 'Madden,' a new movie coming to Prime Video November 18 - About Amazon",
@@ -1635,22 +1636,22 @@
       "priority_score": 65
     },
     {
-      "id": "music-12-6246301043493756002",
-      "key": "music-12-6246301043493756002",
+      "id": "music-12-4151413821381822909",
+      "key": "music-12-4151413821381822909",
       "category": "Music",
       "label": "Music",
-      "headline": "A Timeline of Gracie Abrams & Paul Mescal's Relationship",
-      "title": "A Timeline of Gracie Abrams & Paul Mescal's Relationship",
-      "snapshot": "The couple first sparked romance rumors in 2024.",
-      "summary": "The couple first sparked romance rumors in 2024.",
-      "url": "https://www.billboard.com/lists/gracie-abrams-paul-mescal-relationship-timeline/",
+      "headline": "Charlie Worsham Shares Which Vince Gill Album Was 'Monumental For Me'",
+      "title": "Charlie Worsham Shares Which Vince Gill Album Was 'Monumental For Me'",
+      "snapshot": "Worsham issues his first independent album, Once Upon a Second Time Around , including collabs with Lainey Wilson, Stephen Wilson Jr. and The Travelin' McCourys.",
+      "summary": "Worsham issues his first independent album, Once Upon a Second Time Around , including collabs with Lainey Wilson, Stephen Wilson Jr. and The Travelin' McCourys.",
+      "url": "https://www.billboard.com/music/country/charlie-worsham-once-upon-a-second-time-around-interview-1236312119/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-07 04:18:33 PM ET",
+      "published_at": "2026-08-07 04:56:39 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "A Timeline of Gracie Abrams & Paul Mescal's Relationship"
+        "Charlie Worsham Shares Which Vince Gill Album Was 'Monumental For Me'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1662,22 +1663,22 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-3-85329940426893502",
-      "key": "gaming-3-85329940426893502",
+      "id": "gaming-3-5541694019729942699",
+      "key": "gaming-3-5541694019729942699",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Take-Two Boss Predicts Actual Good Video Game Streaming Within 3 Years, Says for Streaming to Matter It Would Have to Run GTA 6 as Well as Consoles",
-      "title": "Take-Two Boss Predicts Actual Good Video Game Streaming Within 3 Years, Says for Streaming to Matter It Would Have to Run GTA 6 as Well as Consoles",
-      "snapshot": "The boss of Take-Two has suggested the video game industry will be in \"commercial streaming mode\" within three years - but for video game streaming to matter, it will have to run GTA 6 just as well as consoles do.",
-      "summary": "The boss of Take-Two has suggested the video game industry will be in \"commercial streaming mode\" within three years - but for video game streaming to matter, it will have to run GTA 6 just as well as consoles do.",
-      "url": "https://www.ign.com/articles/take-two-boss-predicts-actual-good-video-game-streaming-within-3-years-says-for-streaming-to-matter-it-would-have-to-run-gta-6-as-well-as-consoles",
+      "headline": "Obsession Star Inde Navarrette Wants to Voice a Resident Evil Character",
+      "title": "Obsession Star Inde Navarrette Wants to Voice a Resident Evil Character",
+      "snapshot": "The internet's favorite final girl says she's branching into voice acting and would love to play a role in Capcom's flagship horror franchise, Resident Evil. Navarrette opened up about this new career path during an interview with Variety's Tiana DeNicola in late July, saying she's been getting into the Resident Evi...",
+      "summary": "The internet's favorite final girl says she's branching into voice acting and would love to play a role in Capcom's flagship horror franchise, Resident Evil. Navarrette opened up about this new career path during an interview with Variety's Tiana DeNicola in late July, saying she's been getting into the Resident Evi...",
+      "url": "https://www.ign.com/articles/obsession-star-inde-navarette-wants-to-voice-a-resident-evil-character",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-07 12:28:27 PM ET",
+      "published_at": "2026-08-07 03:04:26 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Take-Two Boss Predicts Actual Good Video Game Streaming Within 3 Years, Says for Streaming to Matter It Would Have to Run GTA 6 as Well as Consoles"
+        "Obsession Star Inde Navarrette Wants to Voice a Resident Evil Character"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1698,25 +1699,25 @@
       "snapshot": "Film coverage is updating with 8 current RSS headline item(s).",
       "key_storylines": [
         "Dwayne Johnson Defends ‘Moana’ After Bad Reviews: ‘Just the Way It Goes’",
-        "‘The Rivals Of Amziah King’: Director Andrew Patterson On Being Discovered By Hollywood & Staying Indie With Matthew McConaughey – Crew Call Live",
-        "A Man Is Trapped Inside a Netflix Billboard Above Sunset Blvd.",
-        "Sundance 2026 Movies Sold: ‘The Gallerist’ with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire",
+        "Sadie Sink Gives ‘X-Men’ Filming Update, Says She’s Being Kept “Separate” From Cyclops Casting",
+        "A Man Is Trapped Inside a Netflix Billboard Above Sunset Boulevard",
+        "Sundance 2026 Movies Sold: ‘The Gallerist’ with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - indiewire.com",
         "‘I Is Another’ Review: An Impeccable Claes Bang Plays Felix Kersten, Massage Therapist to Heinrich Himmler and Would-Be Nobel Laureate"
       ],
       "watch_list": [
         "Dwayne Johnson Defends ‘Moana’ After Bad Reviews: ‘Just the Way It Goes’",
-        "‘The Rivals Of Amziah King’: Director Andrew Patterson On Being Discovered By Hollywood & Staying Indie With Matthew McConaughey – Crew Call Live",
-        "A Man Is Trapped Inside a Netflix Billboard Above Sunset Blvd.",
-        "Sundance 2026 Movies Sold: ‘The Gallerist’ with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire",
+        "Sadie Sink Gives ‘X-Men’ Filming Update, Says She’s Being Kept “Separate” From Cyclops Casting",
+        "A Man Is Trapped Inside a Netflix Billboard Above Sunset Boulevard",
+        "Sundance 2026 Movies Sold: ‘The Gallerist’ with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - indiewire.com",
         "‘I Is Another’ Review: An Impeccable Claes Bang Plays Felix Kersten, Massage Therapist to Heinrich Himmler and Would-Be Nobel Laureate",
-        "Spencer Pratt To The Rescue? Failed L.A. Mayoral Candidate Wants To Help Trump Save Hollywood, Supposedly",
+        "Anthony Bourdain Origin Story ‘Tony’, ‘Teenage Sex And Death At Camp Miasma’, ‘Late Fame’ In Dynamic Indie Weekend — Specialty Preview",
         "Virginie Efira’s Love for Cinema and Locarno Has No Limits — Even If Her Mic Does",
         "Your guide to 2026 movie release dates - Entertainment Weekly"
       ],
       "homepage_cards": [
         {
-          "id": "film-0-4992130345233239464",
-          "key": "film-0-4992130345233239464",
+          "id": "film-0-2416177053135487481",
+          "key": "film-0-2416177053135487481",
           "category": "Film",
           "label": "Film",
           "headline": "Dwayne Johnson Defends ‘Moana’ After Bad Reviews: ‘Just the Way It Goes’",
@@ -1743,25 +1744,25 @@
           ]
         },
         {
-          "id": "film-10-671917368002297943",
-          "key": "film-10-671917368002297943",
+          "id": "film-10-5868896171702432697",
+          "key": "film-10-5868896171702432697",
           "category": "Film",
           "label": "Film",
-          "headline": "‘The Rivals Of Amziah King’: Director Andrew Patterson On Being Discovered By Hollywood & Staying Indie With Matthew McConaughey – Crew Call Live",
-          "title": "‘The Rivals Of Amziah King’: Director Andrew Patterson On Being Discovered By Hollywood & Staying Indie With Matthew McConaughey – Crew Call Live",
-          "snapshot": "If there’s any hope for a feature film to break out on the big screen, particularly with streaming competition from home, a filmmaker needs to break genre in order to intrigue and eventize. With his sophomore directorial, The Rivals of Amziah King, Oklahoma filmmaker Andrew Patterson is doing exactly that. To descri...",
-          "summary": "If there’s any hope for a feature film to break out on the big screen, particularly with streaming competition from home, a filmmaker needs to break genre in order to intrigue and eventize. With his sophomore directorial, The Rivals of Amziah King, Oklahoma filmmaker Andrew Patterson is doing exactly that. To descri...",
-          "url": "https://deadline.com/video/the-rivals-of-amziah-king-andrew-patterson-interview/",
+          "headline": "Sadie Sink Gives ‘X-Men’ Filming Update, Says She’s Being Kept “Separate” From Cyclops Casting",
+          "title": "Sadie Sink Gives ‘X-Men’ Filming Update, Says She’s Being Kept “Separate” From Cyclops Casting",
+          "snapshot": "SPOILERS: This post contains details about Sadie Sink’s Spider-Man: Brand New Day character While her newly revealed MCU character can read minds, Sadie Sink is being kept in the dark on the casting process of her future X-Men co-stars. The Spider-Man: Brand New Day actress admitted that she’s being kept “a little b...",
+          "summary": "SPOILERS: This post contains details about Sadie Sink’s Spider-Man: Brand New Day character While her newly revealed MCU character can read minds, Sadie Sink is being kept in the dark on the casting process of her future X-Men co-stars. The Spider-Man: Brand New Day actress admitted that she’s being kept “a little b...",
+          "url": "https://deadline.com/2026/08/sadie-sink-x-men-filming-update-cyclops-casting-1237029050/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/film/feed/",
-          "published_at": "2026-08-07 05:15:00 PM ET",
+          "published_at": "2026-08-07 05:59:48 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "‘The Rivals Of Amziah King’: Director Andrew Patterson On Being Discovered By Hollywood & Staying Indie With Matthew McConaughey – Crew Call Live"
+            "Sadie Sink Gives ‘X-Men’ Filming Update, Says She’s Being Kept “Separate” From Cyclops Casting"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1771,14 +1772,14 @@
           ]
         },
         {
-          "id": "film-22-7724144384441556079",
-          "key": "film-22-7724144384441556079",
+          "id": "film-22-3020081689205908215",
+          "key": "film-22-3020081689205908215",
           "category": "Film",
           "label": "Film",
-          "headline": "A Man Is Trapped Inside a Netflix Billboard Above Sunset Blvd.",
-          "title": "A Man Is Trapped Inside a Netflix Billboard Above Sunset Blvd.",
-          "snapshot": "A marketing stunt for 'The Last House' has a performer trapped above Sunset Blvd. across three days.",
-          "summary": "A marketing stunt for 'The Last House' has a performer trapped above Sunset Blvd. across three days.",
+          "headline": "A Man Is Trapped Inside a Netflix Billboard Above Sunset Boulevard",
+          "title": "A Man Is Trapped Inside a Netflix Billboard Above Sunset Boulevard",
+          "snapshot": "A marketing stunt for 'The Last House' has a performer trapped above Sunset Boulevard across three days.",
+          "summary": "A marketing stunt for 'The Last House' has a performer trapped above Sunset Boulevard across three days.",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/netflix-man-inside-billboard-last-house-1236669147/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
@@ -1789,7 +1790,7 @@
           "story_type": "rss_headline",
           "priority_score": 78,
           "key_data": [
-            "A Man Is Trapped Inside a Netflix Billboard Above Sunset Blvd."
+            "A Man Is Trapped Inside a Netflix Billboard Above Sunset Boulevard"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1799,14 +1800,14 @@
           ]
         },
         {
-          "id": "film-32-8067447655829502018",
-          "key": "film-32-8067447655829502018",
+          "id": "film-32-6200103251247789479",
+          "key": "film-32-6200103251247789479",
           "category": "Film",
           "label": "Film",
-          "headline": "Sundance 2026 Movies Sold: ‘The Gallerist’ with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire",
-          "title": "Sundance 2026 Movies Sold: ‘The Gallerist’ with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire",
-          "snapshot": "Sundance 2026 Movies Sold: ‘The Gallerist’ with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical IndieWire",
-          "summary": "Sundance 2026 Movies Sold: ‘The Gallerist’ with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical IndieWire",
+          "headline": "Sundance 2026 Movies Sold: ‘The Gallerist’ with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - indiewire.com",
+          "title": "Sundance 2026 Movies Sold: ‘The Gallerist’ with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - indiewire.com",
+          "snapshot": "Sundance 2026 Movies Sold: ‘The Gallerist’ with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical indiewire.com",
+          "summary": "Sundance 2026 Movies Sold: ‘The Gallerist’ with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical indiewire.com",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa2lwS3g2dWQySkhQVE9Zb09QeDJ3OVRLYXpHc0M0bzJPMXY4S0FaQXBhME1teHBnQnkzaXNfaUZJMGxNaE1KTFVXNkQwTmRLTF9vTWZOODVtY21yYUJFc1pqUnJib2FOc0IwWlFPWmt3X3hyZUw0MnlLVmkydkFJNE9pRlJtSjRpeUVSZlhB?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -1817,7 +1818,7 @@
           "story_type": "rss_headline",
           "priority_score": 68,
           "key_data": [
-            "Sundance 2026 Movies Sold: ‘The Gallerist’ with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire"
+            "Sundance 2026 Movies Sold: ‘The Gallerist’ with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - indiewire.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1827,8 +1828,8 @@
           ]
         },
         {
-          "id": "film-1-3462486345415673784",
-          "key": "film-1-3462486345415673784",
+          "id": "film-1-3233059240874227362",
+          "key": "film-1-3233059240874227362",
           "category": "Film",
           "label": "Film",
           "headline": "‘I Is Another’ Review: An Impeccable Claes Bang Plays Felix Kersten, Massage Therapist to Heinrich Himmler and Would-Be Nobel Laureate",
@@ -1855,25 +1856,25 @@
           ]
         },
         {
-          "id": "film-11-6560761490332821162",
-          "key": "film-11-6560761490332821162",
+          "id": "film-11-8376049578186591125",
+          "key": "film-11-8376049578186591125",
           "category": "Film",
           "label": "Film",
-          "headline": "Spencer Pratt To The Rescue? Failed L.A. Mayoral Candidate Wants To Help Trump Save Hollywood, Supposedly",
-          "title": "Spencer Pratt To The Rescue? Failed L.A. Mayoral Candidate Wants To Help Trump Save Hollywood, Supposedly",
-          "snapshot": "Spencer Pratt may have flamed out in his bid to be L.A. Mayor, but the reality TV enfant terrible has seemingly found a new calling — saving Hollywood with Donald Trump. Just days after the deeply unpopular former Apprentice host swooped into Southern California for a behind-closed-doors RNC fundraiser, The Hills al...",
-          "summary": "Spencer Pratt may have flamed out in his bid to be L.A. Mayor, but the reality TV enfant terrible has seemingly found a new calling — saving Hollywood with Donald Trump. Just days after the deeply unpopular former Apprentice host swooped into Southern California for a behind-closed-doors RNC fundraiser, The Hills al...",
-          "url": "https://deadline.com/2026/08/spencer-pratt-trump-saving-hollywood-1237028834/",
+          "headline": "Anthony Bourdain Origin Story ‘Tony’, ‘Teenage Sex And Death At Camp Miasma’, ‘Late Fame’ In Dynamic Indie Weekend — Specialty Preview",
+          "title": "Anthony Bourdain Origin Story ‘Tony’, ‘Teenage Sex And Death At Camp Miasma’, ‘Late Fame’ In Dynamic Indie Weekend — Specialty Preview",
+          "snapshot": "A dynamic selection of indies starts rolling out today with Dominic Sessa as a young Anthony Bourdain in Matt Johnson’s Tony, indie director Jane Schoenbrun’s latest, Teenage Sex And Death At Camp Miasma with Hannah Einbinder and Gillian Anderson, documentaries on cheesemongers, Girl Scout cookie season, and small t...",
+          "summary": "A dynamic selection of indies starts rolling out today with Dominic Sessa as a young Anthony Bourdain in Matt Johnson’s Tony, indie director Jane Schoenbrun’s latest, Teenage Sex And Death At Camp Miasma with Hannah Einbinder and Gillian Anderson, documentaries on cheesemongers, Girl Scout cookie season, and small t...",
+          "url": "https://deadline.com/2026/08/indie-films-opening-anthony-bourdain-biopic-tony-1237028878/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/film/feed/",
-          "published_at": "2026-08-07 04:36:32 PM ET",
+          "published_at": "2026-08-07 05:45:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "Spencer Pratt To The Rescue? Failed L.A. Mayoral Candidate Wants To Help Trump Save Hollywood, Supposedly"
+            "Anthony Bourdain Origin Story ‘Tony’, ‘Teenage Sex And Death At Camp Miasma’, ‘Late Fame’ In Dynamic Indie Weekend — Specialty Preview"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1883,8 +1884,8 @@
           ]
         },
         {
-          "id": "film-23-5322751223091816308",
-          "key": "film-23-5322751223091816308",
+          "id": "film-23-1235966081108099524",
+          "key": "film-23-1235966081108099524",
           "category": "Film",
           "label": "Film",
           "headline": "Virginie Efira’s Love for Cinema and Locarno Has No Limits — Even If Her Mic Does",
@@ -1911,8 +1912,8 @@
           ]
         },
         {
-          "id": "film-33-3228319429036929274",
-          "key": "film-33-3228319429036929274",
+          "id": "film-33-5702507514976505784",
+          "key": "film-33-5702507514976505784",
           "category": "Film",
           "label": "Film",
           "headline": "Your guide to 2026 movie release dates - Entertainment Weekly",
@@ -1941,8 +1942,8 @@
       ],
       "items": [
         {
-          "id": "film-0-4992130345233239464",
-          "key": "film-0-4992130345233239464",
+          "id": "film-0-2416177053135487481",
+          "key": "film-0-2416177053135487481",
           "category": "Film",
           "label": "Film",
           "headline": "Dwayne Johnson Defends ‘Moana’ After Bad Reviews: ‘Just the Way It Goes’",
@@ -1969,25 +1970,25 @@
           ]
         },
         {
-          "id": "film-10-671917368002297943",
-          "key": "film-10-671917368002297943",
+          "id": "film-10-5868896171702432697",
+          "key": "film-10-5868896171702432697",
           "category": "Film",
           "label": "Film",
-          "headline": "‘The Rivals Of Amziah King’: Director Andrew Patterson On Being Discovered By Hollywood & Staying Indie With Matthew McConaughey – Crew Call Live",
-          "title": "‘The Rivals Of Amziah King’: Director Andrew Patterson On Being Discovered By Hollywood & Staying Indie With Matthew McConaughey – Crew Call Live",
-          "snapshot": "If there’s any hope for a feature film to break out on the big screen, particularly with streaming competition from home, a filmmaker needs to break genre in order to intrigue and eventize. With his sophomore directorial, The Rivals of Amziah King, Oklahoma filmmaker Andrew Patterson is doing exactly that. To descri...",
-          "summary": "If there’s any hope for a feature film to break out on the big screen, particularly with streaming competition from home, a filmmaker needs to break genre in order to intrigue and eventize. With his sophomore directorial, The Rivals of Amziah King, Oklahoma filmmaker Andrew Patterson is doing exactly that. To descri...",
-          "url": "https://deadline.com/video/the-rivals-of-amziah-king-andrew-patterson-interview/",
+          "headline": "Sadie Sink Gives ‘X-Men’ Filming Update, Says She’s Being Kept “Separate” From Cyclops Casting",
+          "title": "Sadie Sink Gives ‘X-Men’ Filming Update, Says She’s Being Kept “Separate” From Cyclops Casting",
+          "snapshot": "SPOILERS: This post contains details about Sadie Sink’s Spider-Man: Brand New Day character While her newly revealed MCU character can read minds, Sadie Sink is being kept in the dark on the casting process of her future X-Men co-stars. The Spider-Man: Brand New Day actress admitted that she’s being kept “a little b...",
+          "summary": "SPOILERS: This post contains details about Sadie Sink’s Spider-Man: Brand New Day character While her newly revealed MCU character can read minds, Sadie Sink is being kept in the dark on the casting process of her future X-Men co-stars. The Spider-Man: Brand New Day actress admitted that she’s being kept “a little b...",
+          "url": "https://deadline.com/2026/08/sadie-sink-x-men-filming-update-cyclops-casting-1237029050/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/film/feed/",
-          "published_at": "2026-08-07 05:15:00 PM ET",
+          "published_at": "2026-08-07 05:59:48 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "‘The Rivals Of Amziah King’: Director Andrew Patterson On Being Discovered By Hollywood & Staying Indie With Matthew McConaughey – Crew Call Live"
+            "Sadie Sink Gives ‘X-Men’ Filming Update, Says She’s Being Kept “Separate” From Cyclops Casting"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1997,14 +1998,14 @@
           ]
         },
         {
-          "id": "film-22-7724144384441556079",
-          "key": "film-22-7724144384441556079",
+          "id": "film-22-3020081689205908215",
+          "key": "film-22-3020081689205908215",
           "category": "Film",
           "label": "Film",
-          "headline": "A Man Is Trapped Inside a Netflix Billboard Above Sunset Blvd.",
-          "title": "A Man Is Trapped Inside a Netflix Billboard Above Sunset Blvd.",
-          "snapshot": "A marketing stunt for 'The Last House' has a performer trapped above Sunset Blvd. across three days.",
-          "summary": "A marketing stunt for 'The Last House' has a performer trapped above Sunset Blvd. across three days.",
+          "headline": "A Man Is Trapped Inside a Netflix Billboard Above Sunset Boulevard",
+          "title": "A Man Is Trapped Inside a Netflix Billboard Above Sunset Boulevard",
+          "snapshot": "A marketing stunt for 'The Last House' has a performer trapped above Sunset Boulevard across three days.",
+          "summary": "A marketing stunt for 'The Last House' has a performer trapped above Sunset Boulevard across three days.",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/netflix-man-inside-billboard-last-house-1236669147/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
@@ -2015,7 +2016,7 @@
           "story_type": "rss_headline",
           "priority_score": 78,
           "key_data": [
-            "A Man Is Trapped Inside a Netflix Billboard Above Sunset Blvd."
+            "A Man Is Trapped Inside a Netflix Billboard Above Sunset Boulevard"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2025,14 +2026,14 @@
           ]
         },
         {
-          "id": "film-32-8067447655829502018",
-          "key": "film-32-8067447655829502018",
+          "id": "film-32-6200103251247789479",
+          "key": "film-32-6200103251247789479",
           "category": "Film",
           "label": "Film",
-          "headline": "Sundance 2026 Movies Sold: ‘The Gallerist’ with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire",
-          "title": "Sundance 2026 Movies Sold: ‘The Gallerist’ with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire",
-          "snapshot": "Sundance 2026 Movies Sold: ‘The Gallerist’ with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical IndieWire",
-          "summary": "Sundance 2026 Movies Sold: ‘The Gallerist’ with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical IndieWire",
+          "headline": "Sundance 2026 Movies Sold: ‘The Gallerist’ with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - indiewire.com",
+          "title": "Sundance 2026 Movies Sold: ‘The Gallerist’ with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - indiewire.com",
+          "snapshot": "Sundance 2026 Movies Sold: ‘The Gallerist’ with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical indiewire.com",
+          "summary": "Sundance 2026 Movies Sold: ‘The Gallerist’ with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical indiewire.com",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa2lwS3g2dWQySkhQVE9Zb09QeDJ3OVRLYXpHc0M0bzJPMXY4S0FaQXBhME1teHBnQnkzaXNfaUZJMGxNaE1KTFVXNkQwTmRLTF9vTWZOODVtY21yYUJFc1pqUnJib2FOc0IwWlFPWmt3X3hyZUw0MnlLVmkydkFJNE9pRlJtSjRpeUVSZlhB?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -2043,7 +2044,7 @@
           "story_type": "rss_headline",
           "priority_score": 68,
           "key_data": [
-            "Sundance 2026 Movies Sold: ‘The Gallerist’ with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire"
+            "Sundance 2026 Movies Sold: ‘The Gallerist’ with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - indiewire.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2053,8 +2054,8 @@
           ]
         },
         {
-          "id": "film-1-3462486345415673784",
-          "key": "film-1-3462486345415673784",
+          "id": "film-1-3233059240874227362",
+          "key": "film-1-3233059240874227362",
           "category": "Film",
           "label": "Film",
           "headline": "‘I Is Another’ Review: An Impeccable Claes Bang Plays Felix Kersten, Massage Therapist to Heinrich Himmler and Would-Be Nobel Laureate",
@@ -2081,25 +2082,25 @@
           ]
         },
         {
-          "id": "film-11-6560761490332821162",
-          "key": "film-11-6560761490332821162",
+          "id": "film-11-8376049578186591125",
+          "key": "film-11-8376049578186591125",
           "category": "Film",
           "label": "Film",
-          "headline": "Spencer Pratt To The Rescue? Failed L.A. Mayoral Candidate Wants To Help Trump Save Hollywood, Supposedly",
-          "title": "Spencer Pratt To The Rescue? Failed L.A. Mayoral Candidate Wants To Help Trump Save Hollywood, Supposedly",
-          "snapshot": "Spencer Pratt may have flamed out in his bid to be L.A. Mayor, but the reality TV enfant terrible has seemingly found a new calling — saving Hollywood with Donald Trump. Just days after the deeply unpopular former Apprentice host swooped into Southern California for a behind-closed-doors RNC fundraiser, The Hills al...",
-          "summary": "Spencer Pratt may have flamed out in his bid to be L.A. Mayor, but the reality TV enfant terrible has seemingly found a new calling — saving Hollywood with Donald Trump. Just days after the deeply unpopular former Apprentice host swooped into Southern California for a behind-closed-doors RNC fundraiser, The Hills al...",
-          "url": "https://deadline.com/2026/08/spencer-pratt-trump-saving-hollywood-1237028834/",
+          "headline": "Anthony Bourdain Origin Story ‘Tony’, ‘Teenage Sex And Death At Camp Miasma’, ‘Late Fame’ In Dynamic Indie Weekend — Specialty Preview",
+          "title": "Anthony Bourdain Origin Story ‘Tony’, ‘Teenage Sex And Death At Camp Miasma’, ‘Late Fame’ In Dynamic Indie Weekend — Specialty Preview",
+          "snapshot": "A dynamic selection of indies starts rolling out today with Dominic Sessa as a young Anthony Bourdain in Matt Johnson’s Tony, indie director Jane Schoenbrun’s latest, Teenage Sex And Death At Camp Miasma with Hannah Einbinder and Gillian Anderson, documentaries on cheesemongers, Girl Scout cookie season, and small t...",
+          "summary": "A dynamic selection of indies starts rolling out today with Dominic Sessa as a young Anthony Bourdain in Matt Johnson’s Tony, indie director Jane Schoenbrun’s latest, Teenage Sex And Death At Camp Miasma with Hannah Einbinder and Gillian Anderson, documentaries on cheesemongers, Girl Scout cookie season, and small t...",
+          "url": "https://deadline.com/2026/08/indie-films-opening-anthony-bourdain-biopic-tony-1237028878/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/film/feed/",
-          "published_at": "2026-08-07 04:36:32 PM ET",
+          "published_at": "2026-08-07 05:45:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "Spencer Pratt To The Rescue? Failed L.A. Mayoral Candidate Wants To Help Trump Save Hollywood, Supposedly"
+            "Anthony Bourdain Origin Story ‘Tony’, ‘Teenage Sex And Death At Camp Miasma’, ‘Late Fame’ In Dynamic Indie Weekend — Specialty Preview"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2109,8 +2110,8 @@
           ]
         },
         {
-          "id": "film-23-5322751223091816308",
-          "key": "film-23-5322751223091816308",
+          "id": "film-23-1235966081108099524",
+          "key": "film-23-1235966081108099524",
           "category": "Film",
           "label": "Film",
           "headline": "Virginie Efira’s Love for Cinema and Locarno Has No Limits — Even If Her Mic Does",
@@ -2137,8 +2138,8 @@
           ]
         },
         {
-          "id": "film-33-3228319429036929274",
-          "key": "film-33-3228319429036929274",
+          "id": "film-33-5702507514976505784",
+          "key": "film-33-5702507514976505784",
           "category": "Film",
           "label": "Film",
           "headline": "Your guide to 2026 movie release dates - Entertainment Weekly",
@@ -2165,7 +2166,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-07 05:39:39 PM ET"
+      "updated_at": "2026-08-07 06:36:21 PM ET"
     },
     {
       "key": "tv",
@@ -2175,25 +2176,25 @@
       "snapshot": "TV coverage is updating with 8 current RSS headline item(s).",
       "key_storylines": [
         "‘Baywatch’ Honors Hero 16-Year-Old Lifeguard Ryder Williams During Set Visit (EXCLUSIVE)",
-        "‘Wicked: One Wonderful Night’s Christopher Scott & Edward Morrison On Bringing Oz To Life Through Movement And Style — The Process",
+        "Flo Anthony Dies: Groundbreaking Columnist & TV Personality Was 74",
         "Streaming Ratings: ‘Love Island USA’ Scores Another All-Time High Leading Up to Season 8 Finale",
         "Shemaroo Entertainment secures licence for Hindi TV channel Mango TV - Storyboard18",
         "Flo Anthony, Pioneering Page Six Entertainment Journalist, Dies at 74"
       ],
       "watch_list": [
         "‘Baywatch’ Honors Hero 16-Year-Old Lifeguard Ryder Williams During Set Visit (EXCLUSIVE)",
-        "‘Wicked: One Wonderful Night’s Christopher Scott & Edward Morrison On Bringing Oz To Life Through Movement And Style — The Process",
+        "Flo Anthony Dies: Groundbreaking Columnist & TV Personality Was 74",
         "Streaming Ratings: ‘Love Island USA’ Scores Another All-Time High Leading Up to Season 8 Finale",
         "Shemaroo Entertainment secures licence for Hindi TV channel Mango TV - Storyboard18",
         "Flo Anthony, Pioneering Page Six Entertainment Journalist, Dies at 74",
-        "Jake T. Austin Was “Disappointed” Not To Be Included In ‘Wizards Beyond Waverly Place’",
+        "‘Wicked: One Wonderful Night’s Christopher Scott & Edward Morrison On Bringing Oz To Life Through Movement And Style — The Process",
         "‘Heated Rivalry’ Season 2 Finds Its Troy and Harris in Charlie Gillespie and Justice Smith",
         "Shemaroo gets MIB nod to launch Hindi entertainment channel Mango TV - Indian Television Dot Com"
       ],
       "homepage_cards": [
         {
-          "id": "tv-0-2866360963904591931",
-          "key": "tv-0-2866360963904591931",
+          "id": "tv-0-6055452684959535464",
+          "key": "tv-0-6055452684959535464",
           "category": "TV",
           "label": "TV",
           "headline": "‘Baywatch’ Honors Hero 16-Year-Old Lifeguard Ryder Williams During Set Visit (EXCLUSIVE)",
@@ -2220,25 +2221,25 @@
           ]
         },
         {
-          "id": "tv-8-5430407760511542878",
-          "key": "tv-8-5430407760511542878",
+          "id": "tv-8-3041036120906631748",
+          "key": "tv-8-3041036120906631748",
           "category": "TV",
           "label": "TV",
-          "headline": "‘Wicked: One Wonderful Night’s Christopher Scott & Edward Morrison On Bringing Oz To Life Through Movement And Style — The Process",
-          "title": "‘Wicked: One Wonderful Night’s Christopher Scott & Edward Morrison On Bringing Oz To Life Through Movement And Style — The Process",
-          "snapshot": "Oz has never lacked spectacle. But turning Wicked into a one-night television extravaganza meant thinking bigger than both the stage musical and the films. NBC’s Wicked: One Wonderful Night united stars Cynthia Erivo (Elphaba), Ariana Grande (Glinda) and Michelle Yeoh (Madame Morrible) with other fellow cast members...",
-          "summary": "Oz has never lacked spectacle. But turning Wicked into a one-night television extravaganza meant thinking bigger than both the stage musical and the films. NBC’s Wicked: One Wonderful Night united stars Cynthia Erivo (Elphaba), Ariana Grande (Glinda) and Michelle Yeoh (Madame Morrible) with other fellow cast members...",
-          "url": "https://deadline.com/video/wicked-one-wonderful-night-making-of-interview/",
+          "headline": "Flo Anthony Dies: Groundbreaking Columnist & TV Personality Was 74",
+          "title": "Flo Anthony Dies: Groundbreaking Columnist & TV Personality Was 74",
+          "snapshot": "Florence “Flo” Anthony, a trailblazing entertainment journalist, author and TV and radio personality who broke a number of barriers for women of color, died August 6 of cancer. She was 74. Jack Hirsch, biographer of Anthony’s husband, Olympic and pro boxing champ Michael Spinks, confirmed the news to Anthony’s longt...",
+          "summary": "Florence “Flo” Anthony, a trailblazing entertainment journalist, author and TV and radio personality who broke a number of barriers for women of color, died August 6 of cancer. She was 74. Jack Hirsch, biographer of Anthony’s husband, Olympic and pro boxing champ Michael Spinks, confirmed the news to Anthony’s longt...",
+          "url": "https://deadline.com/2026/08/flo-anthony-dead-gossip-reporter-1237028910/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/tv/feed/",
-          "published_at": "2026-08-07 05:30:00 PM ET",
+          "published_at": "2026-08-07 05:51:05 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 92,
           "key_data": [
-            "‘Wicked: One Wonderful Night’s Christopher Scott & Edward Morrison On Bringing Oz To Life Through Movement And Style — The Process"
+            "Flo Anthony Dies: Groundbreaking Columnist & TV Personality Was 74"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2248,8 +2249,8 @@
           ]
         },
         {
-          "id": "tv-17-1306264710309313415",
-          "key": "tv-17-1306264710309313415",
+          "id": "tv-17-8346797161457808022",
+          "key": "tv-17-8346797161457808022",
           "category": "TV",
           "label": "TV",
           "headline": "Streaming Ratings: ‘Love Island USA’ Scores Another All-Time High Leading Up to Season 8 Finale",
@@ -2276,8 +2277,8 @@
           ]
         },
         {
-          "id": "tv-27-4382289358755932602",
-          "key": "tv-27-4382289358755932602",
+          "id": "tv-27-3210689250882688581",
+          "key": "tv-27-3210689250882688581",
           "category": "TV",
           "label": "TV",
           "headline": "Shemaroo Entertainment secures licence for Hindi TV channel Mango TV - Storyboard18",
@@ -2304,8 +2305,8 @@
           ]
         },
         {
-          "id": "tv-1-7680429233951688552",
-          "key": "tv-1-7680429233951688552",
+          "id": "tv-1-6090145825147076924",
+          "key": "tv-1-6090145825147076924",
           "category": "TV",
           "label": "TV",
           "headline": "Flo Anthony, Pioneering Page Six Entertainment Journalist, Dies at 74",
@@ -2332,25 +2333,25 @@
           ]
         },
         {
-          "id": "tv-9-8452530221296654161",
-          "key": "tv-9-8452530221296654161",
+          "id": "tv-9-8467303775386643201",
+          "key": "tv-9-8467303775386643201",
           "category": "TV",
           "label": "TV",
-          "headline": "Jake T. Austin Was “Disappointed” Not To Be Included In ‘Wizards Beyond Waverly Place’",
-          "title": "Jake T. Austin Was “Disappointed” Not To Be Included In ‘Wizards Beyond Waverly Place’",
-          "snapshot": "Although Wizards Beyond Waverly Place brought back some familiar faces before casting its final spell, not all of the Russo family was around for the finale. Jake T. Austin, who played youngest sibling Max Russo in the original Disney Channel series, expressed “how disappointed” he was not to be included in the Wiza...",
-          "summary": "Although Wizards Beyond Waverly Place brought back some familiar faces before casting its final spell, not all of the Russo family was around for the finale. Jake T. Austin, who played youngest sibling Max Russo in the original Disney Channel series, expressed “how disappointed” he was not to be included in the Wiza...",
-          "url": "https://deadline.com/2026/08/jake-t-austin-disappointed-not-in-wizards-beyond-waverly-place-1237028866/",
+          "headline": "‘Wicked: One Wonderful Night’s Christopher Scott & Edward Morrison On Bringing Oz To Life Through Movement And Style — The Process",
+          "title": "‘Wicked: One Wonderful Night’s Christopher Scott & Edward Morrison On Bringing Oz To Life Through Movement And Style — The Process",
+          "snapshot": "Oz has never lacked spectacle. But turning Wicked into a one-night television extravaganza meant thinking bigger than both the stage musical and the films. NBC’s Wicked: One Wonderful Night united stars Cynthia Erivo (Elphaba), Ariana Grande (Glinda) and Michelle Yeoh (Madame Morrible) with other fellow cast members...",
+          "summary": "Oz has never lacked spectacle. But turning Wicked into a one-night television extravaganza meant thinking bigger than both the stage musical and the films. NBC’s Wicked: One Wonderful Night united stars Cynthia Erivo (Elphaba), Ariana Grande (Glinda) and Michelle Yeoh (Madame Morrible) with other fellow cast members...",
+          "url": "https://deadline.com/video/wicked-one-wonderful-night-making-of-interview/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/tv/feed/",
-          "published_at": "2026-08-07 04:42:54 PM ET",
+          "published_at": "2026-08-07 05:30:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 91,
           "key_data": [
-            "Jake T. Austin Was “Disappointed” Not To Be Included In ‘Wizards Beyond Waverly Place’"
+            "‘Wicked: One Wonderful Night’s Christopher Scott & Edward Morrison On Bringing Oz To Life Through Movement And Style — The Process"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2360,8 +2361,8 @@
           ]
         },
         {
-          "id": "tv-18-9140181913002164595",
-          "key": "tv-18-9140181913002164595",
+          "id": "tv-18-88901463261321415",
+          "key": "tv-18-88901463261321415",
           "category": "TV",
           "label": "TV",
           "headline": "‘Heated Rivalry’ Season 2 Finds Its Troy and Harris in Charlie Gillespie and Justice Smith",
@@ -2388,8 +2389,8 @@
           ]
         },
         {
-          "id": "tv-28-706812845961557553",
-          "key": "tv-28-706812845961557553",
+          "id": "tv-28-4444813673534519016",
+          "key": "tv-28-4444813673534519016",
           "category": "TV",
           "label": "TV",
           "headline": "Shemaroo gets MIB nod to launch Hindi entertainment channel Mango TV - Indian Television Dot Com",
@@ -2418,8 +2419,8 @@
       ],
       "items": [
         {
-          "id": "tv-0-2866360963904591931",
-          "key": "tv-0-2866360963904591931",
+          "id": "tv-0-6055452684959535464",
+          "key": "tv-0-6055452684959535464",
           "category": "TV",
           "label": "TV",
           "headline": "‘Baywatch’ Honors Hero 16-Year-Old Lifeguard Ryder Williams During Set Visit (EXCLUSIVE)",
@@ -2446,25 +2447,25 @@
           ]
         },
         {
-          "id": "tv-8-5430407760511542878",
-          "key": "tv-8-5430407760511542878",
+          "id": "tv-8-3041036120906631748",
+          "key": "tv-8-3041036120906631748",
           "category": "TV",
           "label": "TV",
-          "headline": "‘Wicked: One Wonderful Night’s Christopher Scott & Edward Morrison On Bringing Oz To Life Through Movement And Style — The Process",
-          "title": "‘Wicked: One Wonderful Night’s Christopher Scott & Edward Morrison On Bringing Oz To Life Through Movement And Style — The Process",
-          "snapshot": "Oz has never lacked spectacle. But turning Wicked into a one-night television extravaganza meant thinking bigger than both the stage musical and the films. NBC’s Wicked: One Wonderful Night united stars Cynthia Erivo (Elphaba), Ariana Grande (Glinda) and Michelle Yeoh (Madame Morrible) with other fellow cast members...",
-          "summary": "Oz has never lacked spectacle. But turning Wicked into a one-night television extravaganza meant thinking bigger than both the stage musical and the films. NBC’s Wicked: One Wonderful Night united stars Cynthia Erivo (Elphaba), Ariana Grande (Glinda) and Michelle Yeoh (Madame Morrible) with other fellow cast members...",
-          "url": "https://deadline.com/video/wicked-one-wonderful-night-making-of-interview/",
+          "headline": "Flo Anthony Dies: Groundbreaking Columnist & TV Personality Was 74",
+          "title": "Flo Anthony Dies: Groundbreaking Columnist & TV Personality Was 74",
+          "snapshot": "Florence “Flo” Anthony, a trailblazing entertainment journalist, author and TV and radio personality who broke a number of barriers for women of color, died August 6 of cancer. She was 74. Jack Hirsch, biographer of Anthony’s husband, Olympic and pro boxing champ Michael Spinks, confirmed the news to Anthony’s longt...",
+          "summary": "Florence “Flo” Anthony, a trailblazing entertainment journalist, author and TV and radio personality who broke a number of barriers for women of color, died August 6 of cancer. She was 74. Jack Hirsch, biographer of Anthony’s husband, Olympic and pro boxing champ Michael Spinks, confirmed the news to Anthony’s longt...",
+          "url": "https://deadline.com/2026/08/flo-anthony-dead-gossip-reporter-1237028910/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/tv/feed/",
-          "published_at": "2026-08-07 05:30:00 PM ET",
+          "published_at": "2026-08-07 05:51:05 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 92,
           "key_data": [
-            "‘Wicked: One Wonderful Night’s Christopher Scott & Edward Morrison On Bringing Oz To Life Through Movement And Style — The Process"
+            "Flo Anthony Dies: Groundbreaking Columnist & TV Personality Was 74"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2474,8 +2475,8 @@
           ]
         },
         {
-          "id": "tv-17-1306264710309313415",
-          "key": "tv-17-1306264710309313415",
+          "id": "tv-17-8346797161457808022",
+          "key": "tv-17-8346797161457808022",
           "category": "TV",
           "label": "TV",
           "headline": "Streaming Ratings: ‘Love Island USA’ Scores Another All-Time High Leading Up to Season 8 Finale",
@@ -2502,8 +2503,8 @@
           ]
         },
         {
-          "id": "tv-27-4382289358755932602",
-          "key": "tv-27-4382289358755932602",
+          "id": "tv-27-3210689250882688581",
+          "key": "tv-27-3210689250882688581",
           "category": "TV",
           "label": "TV",
           "headline": "Shemaroo Entertainment secures licence for Hindi TV channel Mango TV - Storyboard18",
@@ -2530,8 +2531,8 @@
           ]
         },
         {
-          "id": "tv-1-7680429233951688552",
-          "key": "tv-1-7680429233951688552",
+          "id": "tv-1-6090145825147076924",
+          "key": "tv-1-6090145825147076924",
           "category": "TV",
           "label": "TV",
           "headline": "Flo Anthony, Pioneering Page Six Entertainment Journalist, Dies at 74",
@@ -2558,25 +2559,25 @@
           ]
         },
         {
-          "id": "tv-9-8452530221296654161",
-          "key": "tv-9-8452530221296654161",
+          "id": "tv-9-8467303775386643201",
+          "key": "tv-9-8467303775386643201",
           "category": "TV",
           "label": "TV",
-          "headline": "Jake T. Austin Was “Disappointed” Not To Be Included In ‘Wizards Beyond Waverly Place’",
-          "title": "Jake T. Austin Was “Disappointed” Not To Be Included In ‘Wizards Beyond Waverly Place’",
-          "snapshot": "Although Wizards Beyond Waverly Place brought back some familiar faces before casting its final spell, not all of the Russo family was around for the finale. Jake T. Austin, who played youngest sibling Max Russo in the original Disney Channel series, expressed “how disappointed” he was not to be included in the Wiza...",
-          "summary": "Although Wizards Beyond Waverly Place brought back some familiar faces before casting its final spell, not all of the Russo family was around for the finale. Jake T. Austin, who played youngest sibling Max Russo in the original Disney Channel series, expressed “how disappointed” he was not to be included in the Wiza...",
-          "url": "https://deadline.com/2026/08/jake-t-austin-disappointed-not-in-wizards-beyond-waverly-place-1237028866/",
+          "headline": "‘Wicked: One Wonderful Night’s Christopher Scott & Edward Morrison On Bringing Oz To Life Through Movement And Style — The Process",
+          "title": "‘Wicked: One Wonderful Night’s Christopher Scott & Edward Morrison On Bringing Oz To Life Through Movement And Style — The Process",
+          "snapshot": "Oz has never lacked spectacle. But turning Wicked into a one-night television extravaganza meant thinking bigger than both the stage musical and the films. NBC’s Wicked: One Wonderful Night united stars Cynthia Erivo (Elphaba), Ariana Grande (Glinda) and Michelle Yeoh (Madame Morrible) with other fellow cast members...",
+          "summary": "Oz has never lacked spectacle. But turning Wicked into a one-night television extravaganza meant thinking bigger than both the stage musical and the films. NBC’s Wicked: One Wonderful Night united stars Cynthia Erivo (Elphaba), Ariana Grande (Glinda) and Michelle Yeoh (Madame Morrible) with other fellow cast members...",
+          "url": "https://deadline.com/video/wicked-one-wonderful-night-making-of-interview/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/tv/feed/",
-          "published_at": "2026-08-07 04:42:54 PM ET",
+          "published_at": "2026-08-07 05:30:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 91,
           "key_data": [
-            "Jake T. Austin Was “Disappointed” Not To Be Included In ‘Wizards Beyond Waverly Place’"
+            "‘Wicked: One Wonderful Night’s Christopher Scott & Edward Morrison On Bringing Oz To Life Through Movement And Style — The Process"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2586,8 +2587,8 @@
           ]
         },
         {
-          "id": "tv-18-9140181913002164595",
-          "key": "tv-18-9140181913002164595",
+          "id": "tv-18-88901463261321415",
+          "key": "tv-18-88901463261321415",
           "category": "TV",
           "label": "TV",
           "headline": "‘Heated Rivalry’ Season 2 Finds Its Troy and Harris in Charlie Gillespie and Justice Smith",
@@ -2614,8 +2615,8 @@
           ]
         },
         {
-          "id": "tv-28-706812845961557553",
-          "key": "tv-28-706812845961557553",
+          "id": "tv-28-4444813673534519016",
+          "key": "tv-28-4444813673534519016",
           "category": "TV",
           "label": "TV",
           "headline": "Shemaroo gets MIB nod to launch Hindi entertainment channel Mango TV - Indian Television Dot Com",
@@ -2642,7 +2643,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-07 05:39:40 PM ET"
+      "updated_at": "2026-08-07 06:36:22 PM ET"
     },
     {
       "key": "streaming",
@@ -2660,8 +2661,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "streaming-0-6664984842537275152",
-          "key": "streaming-0-6664984842537275152",
+          "id": "streaming-0-8880718240024602202",
+          "key": "streaming-0-8880718240024602202",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'The Devil Wears Prada 2' to 'Obsession,' 10 movies to stream now - USA Today",
@@ -2688,8 +2689,8 @@
           ]
         },
         {
-          "id": "streaming-1-5851605458097221188",
-          "key": "streaming-1-5851605458097221188",
+          "id": "streaming-1-7369140668289946152",
+          "key": "streaming-1-7369140668289946152",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Disney turns $4-billion streaming loss into profit, and now it chases global growth - Los Angeles Times",
@@ -2718,8 +2719,8 @@
       ],
       "items": [
         {
-          "id": "streaming-0-6664984842537275152",
-          "key": "streaming-0-6664984842537275152",
+          "id": "streaming-0-8880718240024602202",
+          "key": "streaming-0-8880718240024602202",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'The Devil Wears Prada 2' to 'Obsession,' 10 movies to stream now - USA Today",
@@ -2746,8 +2747,8 @@
           ]
         },
         {
-          "id": "streaming-1-5851605458097221188",
-          "key": "streaming-1-5851605458097221188",
+          "id": "streaming-1-7369140668289946152",
+          "key": "streaming-1-7369140668289946152",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Disney turns $4-billion streaming loss into profit, and now it chases global growth - Los Angeles Times",
@@ -2774,7 +2775,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-07 05:39:41 PM ET"
+      "updated_at": "2026-08-07 06:36:22 PM ET"
     },
     {
       "key": "music",
@@ -2784,23 +2785,23 @@
       "snapshot": "Music coverage is updating with 6 current RSS headline item(s).",
       "key_storylines": [
         "Olivia Rodrigo Debuts ‘Pretty Sad’ Songs at Sweltering Brooklyn Surprise Show: Concert Review",
-        "Charlie Worsham Shares Which Vince Gill Album Was ‘Monumental For Me’",
-        "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - Billboard",
+        "Megan Thee Stallion & Roc Nation Must Face Trial in Cameraman’s Lawsuit, Judge Says",
+        "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - billboard.com",
         "Magnus Ferrell on His Viral Hit ‘Asleep Talking’ and Dad Will Ferrell Showing Michelle Obama His Music: ‘I Finally Felt Ready to Have a Spotlight on It’",
-        "CORTIS Tells NYC to Put Their Phones Down at First U.S. Solo Concert: The 7 Best Moments"
+        "This Weighted Derpy Pillow Mimics a Hug From the ‘KPop Demon Hunters’ Tiger to Help You Gently Fall Asleep"
       ],
       "watch_list": [
         "Olivia Rodrigo Debuts ‘Pretty Sad’ Songs at Sweltering Brooklyn Surprise Show: Concert Review",
-        "Charlie Worsham Shares Which Vince Gill Album Was ‘Monumental For Me’",
-        "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - Billboard",
+        "Megan Thee Stallion & Roc Nation Must Face Trial in Cameraman’s Lawsuit, Judge Says",
+        "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - billboard.com",
         "Magnus Ferrell on His Viral Hit ‘Asleep Talking’ and Dad Will Ferrell Showing Michelle Obama His Music: ‘I Finally Felt Ready to Have a Spotlight on It’",
-        "CORTIS Tells NYC to Put Their Phones Down at First U.S. Solo Concert: The 7 Best Moments",
+        "This Weighted Derpy Pillow Mimics a Hug From the ‘KPop Demon Hunters’ Tiger to Help You Gently Fall Asleep",
         "1976 Soul Music Hit Just Missed Billboard’s Top Spot, But It Made Lou Rawls an Icon - parade.com"
       ],
       "homepage_cards": [
         {
-          "id": "music-0-2042924435345462612",
-          "key": "music-0-2042924435345462612",
+          "id": "music-0-127649530102678904",
+          "key": "music-0-127649530102678904",
           "category": "Music",
           "label": "Music",
           "headline": "Olivia Rodrigo Debuts ‘Pretty Sad’ Songs at Sweltering Brooklyn Surprise Show: Concert Review",
@@ -2827,25 +2828,25 @@
           ]
         },
         {
-          "id": "music-9-8129169603419637997",
-          "key": "music-9-8129169603419637997",
+          "id": "music-9-2921443666861835187",
+          "key": "music-9-2921443666861835187",
           "category": "Music",
           "label": "Music",
-          "headline": "Charlie Worsham Shares Which Vince Gill Album Was ‘Monumental For Me’",
-          "title": "Charlie Worsham Shares Which Vince Gill Album Was ‘Monumental For Me’",
-          "snapshot": "Worsham issues his first independent album, Once Upon a Second Time Around , including collabs with Lainey Wilson, Stephen Wilson Jr. and The Travelin' McCourys.",
-          "summary": "Worsham issues his first independent album, Once Upon a Second Time Around , including collabs with Lainey Wilson, Stephen Wilson Jr. and The Travelin' McCourys.",
-          "url": "https://www.billboard.com/music/country/charlie-worsham-once-upon-a-second-time-around-interview-1236312119/",
+          "headline": "Megan Thee Stallion & Roc Nation Must Face Trial in Cameraman’s Lawsuit, Judge Says",
+          "title": "Megan Thee Stallion & Roc Nation Must Face Trial in Cameraman’s Lawsuit, Judge Says",
+          "snapshot": "A jury will have to decide a case filed by Emilio Garcia, who made salacious accusations about being forced to watch car sex in a 2024 lawsuit.",
+          "summary": "A jury will have to decide a case filed by Emilio Garcia, who made salacious accusations about being forced to watch car sex in a 2024 lawsuit.",
+          "url": "https://www.billboard.com/pro/megan-thee-stallion-roc-nation-trial-cameraman-lawsuit/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-07 04:56:39 PM ET",
+          "published_at": "2026-08-07 06:15:55 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 91,
           "key_data": [
-            "Charlie Worsham Shares Which Vince Gill Album Was ‘Monumental For Me’"
+            "Megan Thee Stallion & Roc Nation Must Face Trial in Cameraman’s Lawsuit, Judge Says"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2855,14 +2856,14 @@
           ]
         },
         {
-          "id": "music-19-5473152881396353461",
-          "key": "music-19-5473152881396353461",
+          "id": "music-19-7958577849634471827",
+          "key": "music-19-7958577849634471827",
           "category": "Music",
           "label": "Music",
-          "headline": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - Billboard",
-          "title": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - Billboard",
-          "snapshot": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales Billboard",
-          "summary": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales Billboard",
+          "headline": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - billboard.com",
+          "title": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - billboard.com",
+          "snapshot": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales billboard.com",
+          "summary": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales billboard.com",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeHY5aGdvYzJScUVUYnlQclZYVXRyMHpncU9RLXFZbHh6V2VHX253cDRHQlpUbzM5eEprWU5tOWJONU1xbEM2ZUVVNjl6bmctRVpKU3NhbGtHU1A2QzZmcEt3NWFQOENjRlE3UjE3WXVORW1TQTNtZ2xya2Zqd2dyRUpGMlFFVEVGOC1KWTdPUjU?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -2873,7 +2874,7 @@
           "story_type": "rss_headline",
           "priority_score": 81,
           "key_data": [
-            "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - Billboard"
+            "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - billboard.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2883,8 +2884,8 @@
           ]
         },
         {
-          "id": "music-1-549061130461960351",
-          "key": "music-1-549061130461960351",
+          "id": "music-1-4540001572337214220",
+          "key": "music-1-4540001572337214220",
           "category": "Music",
           "label": "Music",
           "headline": "Magnus Ferrell on His Viral Hit ‘Asleep Talking’ and Dad Will Ferrell Showing Michelle Obama His Music: ‘I Finally Felt Ready to Have a Spotlight on It’",
@@ -2911,25 +2912,25 @@
           ]
         },
         {
-          "id": "music-10-1377310161841095340",
-          "key": "music-10-1377310161841095340",
+          "id": "music-10-3375635176553757238",
+          "key": "music-10-3375635176553757238",
           "category": "Music",
           "label": "Music",
-          "headline": "CORTIS Tells NYC to Put Their Phones Down at First U.S. Solo Concert: The 7 Best Moments",
-          "title": "CORTIS Tells NYC to Put Their Phones Down at First U.S. Solo Concert: The 7 Best Moments",
-          "snapshot": "With less than a year on the scene, the five-piece performed like pros at its first full concert in the States for a sold-out show at Infosys Theater at Madison Square Garden.",
-          "summary": "With less than a year on the scene, the five-piece performed like pros at its first full concert in the States for a sold-out show at Infosys Theater at Madison Square Garden.",
-          "url": "https://www.billboard.com/lists/cortis-put-your-phone-down-tour-nyc-best-moments-review/",
+          "headline": "This Weighted Derpy Pillow Mimics a Hug From the ‘KPop Demon Hunters’ Tiger to Help You Gently Fall Asleep",
+          "title": "This Weighted Derpy Pillow Mimics a Hug From the ‘KPop Demon Hunters’ Tiger to Help You Gently Fall Asleep",
+          "snapshot": "The feeling of holding the cuddly 18-inch Derpy plushie against the body provides a \"comforting, cozy feel,\" per a product description.",
+          "summary": "The feeling of holding the cuddly 18-inch Derpy plushie against the body provides a \"comforting, cozy feel,\" per a product description.",
+          "url": "https://www.billboard.com/culture/product-recommendations/derpy-kpop-demon-hunters-weighted-pillow-plush-buy-online-1236312095/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-07 04:32:51 PM ET",
+          "published_at": "2026-08-07 05:55:20 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "CORTIS Tells NYC to Put Their Phones Down at First U.S. Solo Concert: The 7 Best Moments"
+            "This Weighted Derpy Pillow Mimics a Hug From the ‘KPop Demon Hunters’ Tiger to Help You Gently Fall Asleep"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2939,8 +2940,8 @@
           ]
         },
         {
-          "id": "music-20-8197103485022993048",
-          "key": "music-20-8197103485022993048",
+          "id": "music-20-476113724533368557",
+          "key": "music-20-476113724533368557",
           "category": "Music",
           "label": "Music",
           "headline": "1976 Soul Music Hit Just Missed Billboard’s Top Spot, But It Made Lou Rawls an Icon - parade.com",
@@ -2969,8 +2970,8 @@
       ],
       "items": [
         {
-          "id": "music-0-2042924435345462612",
-          "key": "music-0-2042924435345462612",
+          "id": "music-0-127649530102678904",
+          "key": "music-0-127649530102678904",
           "category": "Music",
           "label": "Music",
           "headline": "Olivia Rodrigo Debuts ‘Pretty Sad’ Songs at Sweltering Brooklyn Surprise Show: Concert Review",
@@ -2997,25 +2998,25 @@
           ]
         },
         {
-          "id": "music-9-8129169603419637997",
-          "key": "music-9-8129169603419637997",
+          "id": "music-9-2921443666861835187",
+          "key": "music-9-2921443666861835187",
           "category": "Music",
           "label": "Music",
-          "headline": "Charlie Worsham Shares Which Vince Gill Album Was ‘Monumental For Me’",
-          "title": "Charlie Worsham Shares Which Vince Gill Album Was ‘Monumental For Me’",
-          "snapshot": "Worsham issues his first independent album, Once Upon a Second Time Around , including collabs with Lainey Wilson, Stephen Wilson Jr. and The Travelin' McCourys.",
-          "summary": "Worsham issues his first independent album, Once Upon a Second Time Around , including collabs with Lainey Wilson, Stephen Wilson Jr. and The Travelin' McCourys.",
-          "url": "https://www.billboard.com/music/country/charlie-worsham-once-upon-a-second-time-around-interview-1236312119/",
+          "headline": "Megan Thee Stallion & Roc Nation Must Face Trial in Cameraman’s Lawsuit, Judge Says",
+          "title": "Megan Thee Stallion & Roc Nation Must Face Trial in Cameraman’s Lawsuit, Judge Says",
+          "snapshot": "A jury will have to decide a case filed by Emilio Garcia, who made salacious accusations about being forced to watch car sex in a 2024 lawsuit.",
+          "summary": "A jury will have to decide a case filed by Emilio Garcia, who made salacious accusations about being forced to watch car sex in a 2024 lawsuit.",
+          "url": "https://www.billboard.com/pro/megan-thee-stallion-roc-nation-trial-cameraman-lawsuit/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-07 04:56:39 PM ET",
+          "published_at": "2026-08-07 06:15:55 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 91,
           "key_data": [
-            "Charlie Worsham Shares Which Vince Gill Album Was ‘Monumental For Me’"
+            "Megan Thee Stallion & Roc Nation Must Face Trial in Cameraman’s Lawsuit, Judge Says"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3025,14 +3026,14 @@
           ]
         },
         {
-          "id": "music-19-5473152881396353461",
-          "key": "music-19-5473152881396353461",
+          "id": "music-19-7958577849634471827",
+          "key": "music-19-7958577849634471827",
           "category": "Music",
           "label": "Music",
-          "headline": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - Billboard",
-          "title": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - Billboard",
-          "snapshot": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales Billboard",
-          "summary": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales Billboard",
+          "headline": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - billboard.com",
+          "title": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - billboard.com",
+          "snapshot": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales billboard.com",
+          "summary": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales billboard.com",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeHY5aGdvYzJScUVUYnlQclZYVXRyMHpncU9RLXFZbHh6V2VHX253cDRHQlpUbzM5eEprWU5tOWJONU1xbEM2ZUVVNjl6bmctRVpKU3NhbGtHU1A2QzZmcEt3NWFQOENjRlE3UjE3WXVORW1TQTNtZ2xya2Zqd2dyRUpGMlFFVEVGOC1KWTdPUjU?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3043,7 +3044,7 @@
           "story_type": "rss_headline",
           "priority_score": 81,
           "key_data": [
-            "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - Billboard"
+            "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - billboard.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3053,8 +3054,8 @@
           ]
         },
         {
-          "id": "music-1-549061130461960351",
-          "key": "music-1-549061130461960351",
+          "id": "music-1-4540001572337214220",
+          "key": "music-1-4540001572337214220",
           "category": "Music",
           "label": "Music",
           "headline": "Magnus Ferrell on His Viral Hit ‘Asleep Talking’ and Dad Will Ferrell Showing Michelle Obama His Music: ‘I Finally Felt Ready to Have a Spotlight on It’",
@@ -3081,25 +3082,25 @@
           ]
         },
         {
-          "id": "music-10-1377310161841095340",
-          "key": "music-10-1377310161841095340",
+          "id": "music-10-3375635176553757238",
+          "key": "music-10-3375635176553757238",
           "category": "Music",
           "label": "Music",
-          "headline": "CORTIS Tells NYC to Put Their Phones Down at First U.S. Solo Concert: The 7 Best Moments",
-          "title": "CORTIS Tells NYC to Put Their Phones Down at First U.S. Solo Concert: The 7 Best Moments",
-          "snapshot": "With less than a year on the scene, the five-piece performed like pros at its first full concert in the States for a sold-out show at Infosys Theater at Madison Square Garden.",
-          "summary": "With less than a year on the scene, the five-piece performed like pros at its first full concert in the States for a sold-out show at Infosys Theater at Madison Square Garden.",
-          "url": "https://www.billboard.com/lists/cortis-put-your-phone-down-tour-nyc-best-moments-review/",
+          "headline": "This Weighted Derpy Pillow Mimics a Hug From the ‘KPop Demon Hunters’ Tiger to Help You Gently Fall Asleep",
+          "title": "This Weighted Derpy Pillow Mimics a Hug From the ‘KPop Demon Hunters’ Tiger to Help You Gently Fall Asleep",
+          "snapshot": "The feeling of holding the cuddly 18-inch Derpy plushie against the body provides a \"comforting, cozy feel,\" per a product description.",
+          "summary": "The feeling of holding the cuddly 18-inch Derpy plushie against the body provides a \"comforting, cozy feel,\" per a product description.",
+          "url": "https://www.billboard.com/culture/product-recommendations/derpy-kpop-demon-hunters-weighted-pillow-plush-buy-online-1236312095/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-07 04:32:51 PM ET",
+          "published_at": "2026-08-07 05:55:20 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "CORTIS Tells NYC to Put Their Phones Down at First U.S. Solo Concert: The 7 Best Moments"
+            "This Weighted Derpy Pillow Mimics a Hug From the ‘KPop Demon Hunters’ Tiger to Help You Gently Fall Asleep"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3109,8 +3110,8 @@
           ]
         },
         {
-          "id": "music-20-8197103485022993048",
-          "key": "music-20-8197103485022993048",
+          "id": "music-20-476113724533368557",
+          "key": "music-20-476113724533368557",
           "category": "Music",
           "label": "Music",
           "headline": "1976 Soul Music Hit Just Missed Billboard’s Top Spot, But It Made Lou Rawls an Icon - parade.com",
@@ -3137,7 +3138,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-07 05:39:41 PM ET"
+      "updated_at": "2026-08-07 06:36:23 PM ET"
     },
     {
       "key": "awards",
@@ -3155,8 +3156,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "awards-0-5681676477589394926",
-          "key": "awards-0-5681676477589394926",
+          "id": "awards-0-6170695897944684541",
+          "key": "awards-0-6170695897944684541",
           "category": "Awards",
           "label": "Awards",
           "headline": "James Gray Says AI Is ‘Worthless’ and Young People Won’t Stand for It: They ‘Have a Real Hunger for Interesting, Honest Stuff’",
@@ -3183,8 +3184,8 @@
           ]
         },
         {
-          "id": "awards-1-897217398720555032",
-          "key": "awards-1-897217398720555032",
+          "id": "awards-1-2147147367177169461",
+          "key": "awards-1-2147147367177169461",
           "category": "Awards",
           "label": "Awards",
           "headline": "Isabella Rossellini Talks Lynch, ‘Green Porno’ and How Animals Became Her Favorite ‘Muses’: ‘They Fascinate Me’",
@@ -3213,8 +3214,8 @@
       ],
       "items": [
         {
-          "id": "awards-0-5681676477589394926",
-          "key": "awards-0-5681676477589394926",
+          "id": "awards-0-6170695897944684541",
+          "key": "awards-0-6170695897944684541",
           "category": "Awards",
           "label": "Awards",
           "headline": "James Gray Says AI Is ‘Worthless’ and Young People Won’t Stand for It: They ‘Have a Real Hunger for Interesting, Honest Stuff’",
@@ -3241,8 +3242,8 @@
           ]
         },
         {
-          "id": "awards-1-897217398720555032",
-          "key": "awards-1-897217398720555032",
+          "id": "awards-1-2147147367177169461",
+          "key": "awards-1-2147147367177169461",
           "category": "Awards",
           "label": "Awards",
           "headline": "Isabella Rossellini Talks Lynch, ‘Green Porno’ and How Animals Became Her Favorite ‘Muses’: ‘They Fascinate Me’",
@@ -3269,7 +3270,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-07 05:39:42 PM ET"
+      "updated_at": "2026-08-07 06:36:23 PM ET"
     },
     {
       "key": "box_office",
@@ -3291,8 +3292,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "box_office-0-6899396172143013987",
-          "key": "box_office-0-6899396172143013987",
+          "id": "box_office-0-8354296391667232900",
+          "key": "box_office-0-8354296391667232900",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ and ‘Spider-Man: Brand New Day’ Power $239 Million U.K., Ireland July Box Office",
@@ -3319,8 +3320,8 @@
           ]
         },
         {
-          "id": "box_office-10-7768131875790312169",
-          "key": "box_office-10-7768131875790312169",
+          "id": "box_office-9-5613440617476724552",
+          "key": "box_office-9-5613440617476724552",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History - The Hollywood Reporter",
@@ -3335,7 +3336,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 90,
+          "priority_score": 91,
           "key_data": [
             "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History - The Hollywood Reporter"
           ],
@@ -3347,8 +3348,8 @@
           ]
         },
         {
-          "id": "box_office-1-3815262843050541179",
-          "key": "box_office-1-3815262843050541179",
+          "id": "box_office-1-6476379284848395666",
+          "key": "box_office-1-6476379284848395666",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Spider-Man: Brand New Day’ Becomes Highest-Grossing Movie of 2026 in 7 Days With $1.15 Billion",
@@ -3375,8 +3376,8 @@
           ]
         },
         {
-          "id": "box_office-11-2743804185476531221",
-          "key": "box_office-11-2743804185476531221",
+          "id": "box_office-10-7622392295255261998",
+          "key": "box_office-10-7622392295255261998",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "The Highest-Grossing Theater for ‘The Odyssey’ in 70MM Hadn’t Screened a New Movie in 35 Years - The Hollywood Reporter",
@@ -3391,7 +3392,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 89,
+          "priority_score": 90,
           "key_data": [
             "The Highest-Grossing Theater for ‘The Odyssey’ in 70MM Hadn’t Screened a New Movie in 35 Years - The Hollywood Reporter"
           ],
@@ -3405,8 +3406,8 @@
       ],
       "items": [
         {
-          "id": "box_office-0-6899396172143013987",
-          "key": "box_office-0-6899396172143013987",
+          "id": "box_office-0-8354296391667232900",
+          "key": "box_office-0-8354296391667232900",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ and ‘Spider-Man: Brand New Day’ Power $239 Million U.K., Ireland July Box Office",
@@ -3433,8 +3434,8 @@
           ]
         },
         {
-          "id": "box_office-10-7768131875790312169",
-          "key": "box_office-10-7768131875790312169",
+          "id": "box_office-9-5613440617476724552",
+          "key": "box_office-9-5613440617476724552",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History - The Hollywood Reporter",
@@ -3449,7 +3450,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 90,
+          "priority_score": 91,
           "key_data": [
             "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History - The Hollywood Reporter"
           ],
@@ -3461,8 +3462,8 @@
           ]
         },
         {
-          "id": "box_office-1-3815262843050541179",
-          "key": "box_office-1-3815262843050541179",
+          "id": "box_office-1-6476379284848395666",
+          "key": "box_office-1-6476379284848395666",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Spider-Man: Brand New Day’ Becomes Highest-Grossing Movie of 2026 in 7 Days With $1.15 Billion",
@@ -3489,8 +3490,8 @@
           ]
         },
         {
-          "id": "box_office-11-2743804185476531221",
-          "key": "box_office-11-2743804185476531221",
+          "id": "box_office-10-7622392295255261998",
+          "key": "box_office-10-7622392295255261998",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "The Highest-Grossing Theater for ‘The Odyssey’ in 70MM Hadn’t Screened a New Movie in 35 Years - The Hollywood Reporter",
@@ -3505,7 +3506,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 89,
+          "priority_score": 90,
           "key_data": [
             "The Highest-Grossing Theater for ‘The Odyssey’ in 70MM Hadn’t Screened a New Movie in 35 Years - The Hollywood Reporter"
           ],
@@ -3517,7 +3518,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-07 05:39:43 PM ET"
+      "updated_at": "2026-08-07 06:36:24 PM ET"
     },
     {
       "key": "celebrity",
@@ -3535,8 +3536,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "celebrity-0-7014550828597393746",
-          "key": "celebrity-0-7014550828597393746",
+          "id": "celebrity-0-4093740978854122919",
+          "key": "celebrity-0-4093740978854122919",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Gossip blogger Perez Hilton appeared to harm himself on a livestream. His audience called the police - Yahoo",
@@ -3563,8 +3564,8 @@
           ]
         },
         {
-          "id": "celebrity-1-1512668325976518590",
-          "key": "celebrity-1-1512668325976518590",
+          "id": "celebrity-1-2674493822131713130",
+          "key": "celebrity-1-2674493822131713130",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Flo Anthony, Trailblazing Celebrity Gossip Columnist, Dies at 74 - That Eric Alper",
@@ -3593,8 +3594,8 @@
       ],
       "items": [
         {
-          "id": "celebrity-0-7014550828597393746",
-          "key": "celebrity-0-7014550828597393746",
+          "id": "celebrity-0-4093740978854122919",
+          "key": "celebrity-0-4093740978854122919",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Gossip blogger Perez Hilton appeared to harm himself on a livestream. His audience called the police - Yahoo",
@@ -3621,8 +3622,8 @@
           ]
         },
         {
-          "id": "celebrity-1-1512668325976518590",
-          "key": "celebrity-1-1512668325976518590",
+          "id": "celebrity-1-2674493822131713130",
+          "key": "celebrity-1-2674493822131713130",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Flo Anthony, Trailblazing Celebrity Gossip Columnist, Dies at 74 - That Eric Alper",
@@ -3649,7 +3650,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-07 05:39:43 PM ET"
+      "updated_at": "2026-08-07 06:36:24 PM ET"
     },
     {
       "key": "hollywood",
@@ -3660,23 +3661,23 @@
       "key_storylines": [
         "The Best Hilton Hotels in Hawaii: From a 22-Acre Waikiki Resort to Charming, Boutique Abodes",
         "Judge Clarifies That Reporter Catherine Herridge Doesn’t Have To Pay $800-Per-Day Contempt Fines As She Pursues Supreme Court Appeal",
-        "Why Disney’s Next Big Consumer Product Bet Is Trading Cards",
+        "Keen Ruffalo Never Intended to Get Into the Family Business",
         "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
         "Trump White House Uses Spider-Man Imagery To Promote ICE Deportations"
       ],
       "watch_list": [
         "The Best Hilton Hotels in Hawaii: From a 22-Acre Waikiki Resort to Charming, Boutique Abodes",
         "Judge Clarifies That Reporter Catherine Herridge Doesn’t Have To Pay $800-Per-Day Contempt Fines As She Pursues Supreme Court Appeal",
-        "Why Disney’s Next Big Consumer Product Bet Is Trading Cards",
+        "Keen Ruffalo Never Intended to Get Into the Family Business",
         "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
         "Trump White House Uses Spider-Man Imagery To Promote ICE Deportations",
-        "‘I Is Another’ Review: Claes Bang Plays Himmler’s Masseur in Weighty Meditation on a WWII Footnote",
+        "Spencer Pratt Joins the Chat on the Federal Film and Television Tax Incentive",
         "LA’s film decline needs urgent action — or Hollywood is dead - New York Post"
       ],
       "homepage_cards": [
         {
-          "id": "hollywood-0-2642190632697346811",
-          "key": "hollywood-0-2642190632697346811",
+          "id": "hollywood-0-5573519050344266122",
+          "key": "hollywood-0-5573519050344266122",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "The Best Hilton Hotels in Hawaii: From a 22-Acre Waikiki Resort to Charming, Boutique Abodes",
@@ -3703,8 +3704,8 @@
           ]
         },
         {
-          "id": "hollywood-1-7911127689716836980",
-          "key": "hollywood-1-7911127689716836980",
+          "id": "hollywood-1-3662253391342168317",
+          "key": "hollywood-1-3662253391342168317",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Judge Clarifies That Reporter Catherine Herridge Doesn’t Have To Pay $800-Per-Day Contempt Fines As She Pursues Supreme Court Appeal",
@@ -3731,25 +3732,25 @@
           ]
         },
         {
-          "id": "hollywood-6-8894464704360523403",
-          "key": "hollywood-6-8894464704360523403",
+          "id": "hollywood-5-833021102201901229",
+          "key": "hollywood-5-833021102201901229",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Why Disney’s Next Big Consumer Product Bet Is Trading Cards",
-          "title": "Why Disney’s Next Big Consumer Product Bet Is Trading Cards",
-          "snapshot": "From collectible card sets by Topps to card games by Hasbro and Ravensburger, the entertainment giant has found a growth business in a mature consumer products world.",
-          "summary": "From collectible card sets by Topps to card games by Hasbro and Ravensburger, the entertainment giant has found a growth business in a mature consumer products world.",
-          "url": "https://www.hollywoodreporter.com/business/business-news/disney-topps-trading-cards-lorcana-business-1236666065/",
+          "headline": "Keen Ruffalo Never Intended to Get Into the Family Business",
+          "title": "Keen Ruffalo Never Intended to Get Into the Family Business",
+          "snapshot": "The 25-year-old actor stars in Prime Video’s ‘Sterling Point’ and the upcoming comedy ‘Nimrods.’",
+          "summary": "The 25-year-old actor stars in Prime Video’s ‘Sterling Point’ and the upcoming comedy ‘Nimrods.’",
+          "url": "https://www.hollywoodreporter.com/tv/tv-features/keen-ruffalo-sterling-point-next-big-thing-interview-1236666276/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/feed/",
-          "published_at": "2026-08-07 04:34:11 PM ET",
+          "published_at": "2026-08-07 06:20:32 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 94,
+          "priority_score": 95,
           "key_data": [
-            "Why Disney’s Next Big Consumer Product Bet Is Trading Cards"
+            "Keen Ruffalo Never Intended to Get Into the Family Business"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3759,8 +3760,8 @@
           ]
         },
         {
-          "id": "hollywood-11-276466706184438020",
-          "key": "hollywood-11-276466706184438020",
+          "id": "hollywood-10-8915232080923079621",
+          "key": "hollywood-10-8915232080923079621",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
@@ -3775,7 +3776,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 89,
+          "priority_score": 90,
           "key_data": [
             "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University"
           ],
@@ -3787,8 +3788,8 @@
           ]
         },
         {
-          "id": "hollywood-2-1350384244944754350",
-          "key": "hollywood-2-1350384244944754350",
+          "id": "hollywood-2-2217135679336542753",
+          "key": "hollywood-2-2217135679336542753",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Trump White House Uses Spider-Man Imagery To Promote ICE Deportations",
@@ -3815,25 +3816,25 @@
           ]
         },
         {
-          "id": "hollywood-7-9055684813298116160",
-          "key": "hollywood-7-9055684813298116160",
+          "id": "hollywood-6-3055866616565801170",
+          "key": "hollywood-6-3055866616565801170",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "‘I Is Another’ Review: Claes Bang Plays Himmler’s Masseur in Weighty Meditation on a WWII Footnote",
-          "title": "‘I Is Another’ Review: Claes Bang Plays Himmler’s Masseur in Weighty Meditation on a WWII Footnote",
-          "snapshot": "Also starring Valerie Pachner, this German drama from Felix Randau somehow adds up to more than the sum of its parts, becoming weirdly relevant in our post-truth world.",
-          "summary": "Also starring Valerie Pachner, this German drama from Felix Randau somehow adds up to more than the sum of its parts, becoming weirdly relevant in our post-truth world.",
-          "url": "https://www.hollywoodreporter.com/movies/movie-reviews/i-is-another-review-claes-bang-felix-randau-1236668816/",
+          "headline": "Spencer Pratt Joins the Chat on the Federal Film and Television Tax Incentive",
+          "title": "Spencer Pratt Joins the Chat on the Federal Film and Television Tax Incentive",
+          "snapshot": "The reality TV star and former L.A. mayoral candidate said on Friday that he is advocating for a 25 percent federal tax credit for Hollywood.",
+          "summary": "The reality TV star and former L.A. mayoral candidate said on Friday that he is advocating for a 25 percent federal tax credit for Hollywood.",
+          "url": "https://www.hollywoodreporter.com/business/business-news/spencer-pratt-federal-film-tv-tax-incentive-1236669201/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/feed/",
-          "published_at": "2026-08-07 04:00:00 PM ET",
+          "published_at": "2026-08-07 06:17:17 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 93,
+          "priority_score": 94,
           "key_data": [
-            "‘I Is Another’ Review: Claes Bang Plays Himmler’s Masseur in Weighty Meditation on a WWII Footnote"
+            "Spencer Pratt Joins the Chat on the Federal Film and Television Tax Incentive"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3843,8 +3844,8 @@
           ]
         },
         {
-          "id": "hollywood-12-1937112221726657379",
-          "key": "hollywood-12-1937112221726657379",
+          "id": "hollywood-11-2697750821572475946",
+          "key": "hollywood-11-2697750821572475946",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "LA’s film decline needs urgent action — or Hollywood is dead - New York Post",
@@ -3859,7 +3860,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 88,
+          "priority_score": 89,
           "key_data": [
             "LA’s film decline needs urgent action — or Hollywood is dead - New York Post"
           ],
@@ -3873,8 +3874,8 @@
       ],
       "items": [
         {
-          "id": "hollywood-0-2642190632697346811",
-          "key": "hollywood-0-2642190632697346811",
+          "id": "hollywood-0-5573519050344266122",
+          "key": "hollywood-0-5573519050344266122",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "The Best Hilton Hotels in Hawaii: From a 22-Acre Waikiki Resort to Charming, Boutique Abodes",
@@ -3901,8 +3902,8 @@
           ]
         },
         {
-          "id": "hollywood-1-7911127689716836980",
-          "key": "hollywood-1-7911127689716836980",
+          "id": "hollywood-1-3662253391342168317",
+          "key": "hollywood-1-3662253391342168317",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Judge Clarifies That Reporter Catherine Herridge Doesn’t Have To Pay $800-Per-Day Contempt Fines As She Pursues Supreme Court Appeal",
@@ -3929,25 +3930,25 @@
           ]
         },
         {
-          "id": "hollywood-6-8894464704360523403",
-          "key": "hollywood-6-8894464704360523403",
+          "id": "hollywood-5-833021102201901229",
+          "key": "hollywood-5-833021102201901229",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Why Disney’s Next Big Consumer Product Bet Is Trading Cards",
-          "title": "Why Disney’s Next Big Consumer Product Bet Is Trading Cards",
-          "snapshot": "From collectible card sets by Topps to card games by Hasbro and Ravensburger, the entertainment giant has found a growth business in a mature consumer products world.",
-          "summary": "From collectible card sets by Topps to card games by Hasbro and Ravensburger, the entertainment giant has found a growth business in a mature consumer products world.",
-          "url": "https://www.hollywoodreporter.com/business/business-news/disney-topps-trading-cards-lorcana-business-1236666065/",
+          "headline": "Keen Ruffalo Never Intended to Get Into the Family Business",
+          "title": "Keen Ruffalo Never Intended to Get Into the Family Business",
+          "snapshot": "The 25-year-old actor stars in Prime Video’s ‘Sterling Point’ and the upcoming comedy ‘Nimrods.’",
+          "summary": "The 25-year-old actor stars in Prime Video’s ‘Sterling Point’ and the upcoming comedy ‘Nimrods.’",
+          "url": "https://www.hollywoodreporter.com/tv/tv-features/keen-ruffalo-sterling-point-next-big-thing-interview-1236666276/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/feed/",
-          "published_at": "2026-08-07 04:34:11 PM ET",
+          "published_at": "2026-08-07 06:20:32 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 94,
+          "priority_score": 95,
           "key_data": [
-            "Why Disney’s Next Big Consumer Product Bet Is Trading Cards"
+            "Keen Ruffalo Never Intended to Get Into the Family Business"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3957,8 +3958,8 @@
           ]
         },
         {
-          "id": "hollywood-11-276466706184438020",
-          "key": "hollywood-11-276466706184438020",
+          "id": "hollywood-10-8915232080923079621",
+          "key": "hollywood-10-8915232080923079621",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
@@ -3973,7 +3974,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 89,
+          "priority_score": 90,
           "key_data": [
             "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University"
           ],
@@ -3985,8 +3986,8 @@
           ]
         },
         {
-          "id": "hollywood-2-1350384244944754350",
-          "key": "hollywood-2-1350384244944754350",
+          "id": "hollywood-2-2217135679336542753",
+          "key": "hollywood-2-2217135679336542753",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Trump White House Uses Spider-Man Imagery To Promote ICE Deportations",
@@ -4013,25 +4014,25 @@
           ]
         },
         {
-          "id": "hollywood-7-9055684813298116160",
-          "key": "hollywood-7-9055684813298116160",
+          "id": "hollywood-6-3055866616565801170",
+          "key": "hollywood-6-3055866616565801170",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "‘I Is Another’ Review: Claes Bang Plays Himmler’s Masseur in Weighty Meditation on a WWII Footnote",
-          "title": "‘I Is Another’ Review: Claes Bang Plays Himmler’s Masseur in Weighty Meditation on a WWII Footnote",
-          "snapshot": "Also starring Valerie Pachner, this German drama from Felix Randau somehow adds up to more than the sum of its parts, becoming weirdly relevant in our post-truth world.",
-          "summary": "Also starring Valerie Pachner, this German drama from Felix Randau somehow adds up to more than the sum of its parts, becoming weirdly relevant in our post-truth world.",
-          "url": "https://www.hollywoodreporter.com/movies/movie-reviews/i-is-another-review-claes-bang-felix-randau-1236668816/",
+          "headline": "Spencer Pratt Joins the Chat on the Federal Film and Television Tax Incentive",
+          "title": "Spencer Pratt Joins the Chat on the Federal Film and Television Tax Incentive",
+          "snapshot": "The reality TV star and former L.A. mayoral candidate said on Friday that he is advocating for a 25 percent federal tax credit for Hollywood.",
+          "summary": "The reality TV star and former L.A. mayoral candidate said on Friday that he is advocating for a 25 percent federal tax credit for Hollywood.",
+          "url": "https://www.hollywoodreporter.com/business/business-news/spencer-pratt-federal-film-tv-tax-incentive-1236669201/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/feed/",
-          "published_at": "2026-08-07 04:00:00 PM ET",
+          "published_at": "2026-08-07 06:17:17 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 93,
+          "priority_score": 94,
           "key_data": [
-            "‘I Is Another’ Review: Claes Bang Plays Himmler’s Masseur in Weighty Meditation on a WWII Footnote"
+            "Spencer Pratt Joins the Chat on the Federal Film and Television Tax Incentive"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4041,8 +4042,8 @@
           ]
         },
         {
-          "id": "hollywood-12-1937112221726657379",
-          "key": "hollywood-12-1937112221726657379",
+          "id": "hollywood-11-2697750821572475946",
+          "key": "hollywood-11-2697750821572475946",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "LA’s film decline needs urgent action — or Hollywood is dead - New York Post",
@@ -4057,7 +4058,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 88,
+          "priority_score": 89,
           "key_data": [
             "LA’s film decline needs urgent action — or Hollywood is dead - New York Post"
           ],
@@ -4069,47 +4070,47 @@
           ]
         }
       ],
-      "updated_at": "2026-08-07 05:39:44 PM ET"
+      "updated_at": "2026-08-07 06:36:25 PM ET"
     },
     {
       "key": "gaming",
       "name": "Gaming",
       "title": "Gaming Report",
-      "headline": "Big Walk Review",
+      "headline": "Palworld 1.0 Showed Me Why Everyone Loves Survival Games",
       "snapshot": "Gaming coverage is updating with 4 current RSS headline item(s).",
       "key_storylines": [
-        "Big Walk Review",
+        "Palworld 1.0 Showed Me Why Everyone Loves Survival Games",
         "What is friendslop? Inside gaming's fastest-growing trend, including the newest hit Big Walk - CBC",
-        "Doom 2016 Composer Mick Gordon Is Performing the Game's Soundtrack at a Music Festival for the Very First Time",
+        "Big Walk Review",
         "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - MKAU Gaming"
       ],
       "watch_list": [
-        "Big Walk Review",
+        "Palworld 1.0 Showed Me Why Everyone Loves Survival Games",
         "What is friendslop? Inside gaming's fastest-growing trend, including the newest hit Big Walk - CBC",
-        "Doom 2016 Composer Mick Gordon Is Performing the Game's Soundtrack at a Music Festival for the Very First Time",
+        "Big Walk Review",
         "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - MKAU Gaming"
       ],
       "homepage_cards": [
         {
-          "id": "gaming-0-8465705965743719406",
-          "key": "gaming-0-8465705965743719406",
+          "id": "gaming-0-7798343071119808553",
+          "key": "gaming-0-7798343071119808553",
           "category": "Gaming",
           "label": "Gaming",
-          "headline": "Big Walk Review",
-          "title": "Big Walk Review",
-          "snapshot": "A clever co-op puzzle adventure that uses communication like no other.",
-          "summary": "A clever co-op puzzle adventure that uses communication like no other.",
-          "url": "https://www.ign.com/articles/big-walk-review",
+          "headline": "Palworld 1.0 Showed Me Why Everyone Loves Survival Games",
+          "title": "Palworld 1.0 Showed Me Why Everyone Loves Survival Games",
+          "snapshot": "Palworld 1.0 does a great job of easing you into its many complex systems.",
+          "summary": "Palworld 1.0 does a great job of easing you into its many complex systems.",
+          "url": "https://www.ign.com/articles/palworld-10-showed-me-why-everyone-loves-survival-games",
           "source": "IGN",
           "source_name": "IGN",
           "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-          "published_at": "2026-08-07 04:34:11 PM ET",
+          "published_at": "2026-08-07 06:00:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Big Walk Review"
+            "Palworld 1.0 Showed Me Why Everyone Loves Survival Games"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4119,8 +4120,8 @@
           ]
         },
         {
-          "id": "gaming-20-9142058375717552407",
-          "key": "gaming-20-9142058375717552407",
+          "id": "gaming-20-6939052775184997028",
+          "key": "gaming-20-6939052775184997028",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "What is friendslop? Inside gaming's fastest-growing trend, including the newest hit Big Walk - CBC",
@@ -4147,25 +4148,25 @@
           ]
         },
         {
-          "id": "gaming-1-2460722392992739970",
-          "key": "gaming-1-2460722392992739970",
+          "id": "gaming-1-8249056166420122590",
+          "key": "gaming-1-8249056166420122590",
           "category": "Gaming",
           "label": "Gaming",
-          "headline": "Doom 2016 Composer Mick Gordon Is Performing the Game's Soundtrack at a Music Festival for the Very First Time",
-          "title": "Doom 2016 Composer Mick Gordon Is Performing the Game's Soundtrack at a Music Festival for the Very First Time",
-          "snapshot": "Mick Gordon, the composer of Doom 2016’s award-winning soundtrack, is taking the game’s music on tour for the first time ever — and he’s bringing the Doom Machine with him.",
-          "summary": "Mick Gordon, the composer of Doom 2016’s award-winning soundtrack, is taking the game’s music on tour for the first time ever — and he’s bringing the Doom Machine with him.",
-          "url": "https://www.ign.com/articles/doom-2016-composer-mick-gordon-is-performing-the-games-soundtrack-live-in-concert-for-the-very-first-time",
+          "headline": "Big Walk Review",
+          "title": "Big Walk Review",
+          "snapshot": "A clever co-op puzzle adventure that uses communication like no other.",
+          "summary": "A clever co-op puzzle adventure that uses communication like no other.",
+          "url": "https://www.ign.com/articles/big-walk-review",
           "source": "IGN",
           "source_name": "IGN",
           "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-          "published_at": "2026-08-07 03:50:03 PM ET",
+          "published_at": "2026-08-07 04:34:11 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Doom 2016 Composer Mick Gordon Is Performing the Game's Soundtrack at a Music Festival for the Very First Time"
+            "Big Walk Review"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4175,8 +4176,8 @@
           ]
         },
         {
-          "id": "gaming-21-8853900814874927827",
-          "key": "gaming-21-8853900814874927827",
+          "id": "gaming-21-3566451146774810741",
+          "key": "gaming-21-3566451146774810741",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - MKAU Gaming",
@@ -4205,25 +4206,25 @@
       ],
       "items": [
         {
-          "id": "gaming-0-8465705965743719406",
-          "key": "gaming-0-8465705965743719406",
+          "id": "gaming-0-7798343071119808553",
+          "key": "gaming-0-7798343071119808553",
           "category": "Gaming",
           "label": "Gaming",
-          "headline": "Big Walk Review",
-          "title": "Big Walk Review",
-          "snapshot": "A clever co-op puzzle adventure that uses communication like no other.",
-          "summary": "A clever co-op puzzle adventure that uses communication like no other.",
-          "url": "https://www.ign.com/articles/big-walk-review",
+          "headline": "Palworld 1.0 Showed Me Why Everyone Loves Survival Games",
+          "title": "Palworld 1.0 Showed Me Why Everyone Loves Survival Games",
+          "snapshot": "Palworld 1.0 does a great job of easing you into its many complex systems.",
+          "summary": "Palworld 1.0 does a great job of easing you into its many complex systems.",
+          "url": "https://www.ign.com/articles/palworld-10-showed-me-why-everyone-loves-survival-games",
           "source": "IGN",
           "source_name": "IGN",
           "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-          "published_at": "2026-08-07 04:34:11 PM ET",
+          "published_at": "2026-08-07 06:00:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Big Walk Review"
+            "Palworld 1.0 Showed Me Why Everyone Loves Survival Games"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4233,8 +4234,8 @@
           ]
         },
         {
-          "id": "gaming-20-9142058375717552407",
-          "key": "gaming-20-9142058375717552407",
+          "id": "gaming-20-6939052775184997028",
+          "key": "gaming-20-6939052775184997028",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "What is friendslop? Inside gaming's fastest-growing trend, including the newest hit Big Walk - CBC",
@@ -4261,25 +4262,25 @@
           ]
         },
         {
-          "id": "gaming-1-2460722392992739970",
-          "key": "gaming-1-2460722392992739970",
+          "id": "gaming-1-8249056166420122590",
+          "key": "gaming-1-8249056166420122590",
           "category": "Gaming",
           "label": "Gaming",
-          "headline": "Doom 2016 Composer Mick Gordon Is Performing the Game's Soundtrack at a Music Festival for the Very First Time",
-          "title": "Doom 2016 Composer Mick Gordon Is Performing the Game's Soundtrack at a Music Festival for the Very First Time",
-          "snapshot": "Mick Gordon, the composer of Doom 2016’s award-winning soundtrack, is taking the game’s music on tour for the first time ever — and he’s bringing the Doom Machine with him.",
-          "summary": "Mick Gordon, the composer of Doom 2016’s award-winning soundtrack, is taking the game’s music on tour for the first time ever — and he’s bringing the Doom Machine with him.",
-          "url": "https://www.ign.com/articles/doom-2016-composer-mick-gordon-is-performing-the-games-soundtrack-live-in-concert-for-the-very-first-time",
+          "headline": "Big Walk Review",
+          "title": "Big Walk Review",
+          "snapshot": "A clever co-op puzzle adventure that uses communication like no other.",
+          "summary": "A clever co-op puzzle adventure that uses communication like no other.",
+          "url": "https://www.ign.com/articles/big-walk-review",
           "source": "IGN",
           "source_name": "IGN",
           "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-          "published_at": "2026-08-07 03:50:03 PM ET",
+          "published_at": "2026-08-07 04:34:11 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Doom 2016 Composer Mick Gordon Is Performing the Game's Soundtrack at a Music Festival for the Very First Time"
+            "Big Walk Review"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4289,8 +4290,8 @@
           ]
         },
         {
-          "id": "gaming-21-8853900814874927827",
-          "key": "gaming-21-8853900814874927827",
+          "id": "gaming-21-3566451146774810741",
+          "key": "gaming-21-3566451146774810741",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - MKAU Gaming",
@@ -4317,7 +4318,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-07 05:39:45 PM ET"
+      "updated_at": "2026-08-07 06:36:26 PM ET"
     },
     {
       "key": "media",
@@ -4341,8 +4342,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "media-0-3114043539443957232",
-          "key": "media-0-3114043539443957232",
+          "id": "media-0-8901430188255359516",
+          "key": "media-0-8901430188255359516",
           "category": "Media",
           "label": "Media",
           "headline": "Paramount’s U.K. Concessions Give ‘Powerful Credibility’ to State AGs’ Lawsuit, Block the Merger Coalition Says: ‘The Dangers’ in U.S. Market ‘Are Unmistakable’",
@@ -4369,8 +4370,8 @@
           ]
         },
         {
-          "id": "media-9-7834282065150867938",
-          "key": "media-9-7834282065150867938",
+          "id": "media-9-1732299767703178238",
+          "key": "media-9-1732299767703178238",
           "category": "Media",
           "label": "Media",
           "headline": "Trump Nominates Danielle Thumann Severs To Fill Vacant FCC Seat",
@@ -4397,8 +4398,8 @@
           ]
         },
         {
-          "id": "media-16-749775337603948430",
-          "key": "media-16-749775337603948430",
+          "id": "media-16-7427705353280803647",
+          "key": "media-16-7427705353280803647",
           "category": "Media",
           "label": "Media",
           "headline": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
@@ -4425,8 +4426,8 @@
           ]
         },
         {
-          "id": "media-1-3337202874285719039",
-          "key": "media-1-3337202874285719039",
+          "id": "media-1-7765544146130898596",
+          "key": "media-1-7765544146130898596",
           "category": "Media",
           "label": "Media",
           "headline": "LISTEN: Fear, Loathing and Endless Potential: AI4 Conference Takes Stock of Transformative Technologies",
@@ -4453,8 +4454,8 @@
           ]
         },
         {
-          "id": "media-10-2130173865538021509",
-          "key": "media-10-2130173865538021509",
+          "id": "media-10-7244806027816106298",
+          "key": "media-10-7244806027816106298",
           "category": "Media",
           "label": "Media",
           "headline": "‘Swarm’s Janine Nabers Signs With Blue Marble Management",
@@ -4483,8 +4484,8 @@
       ],
       "items": [
         {
-          "id": "media-0-3114043539443957232",
-          "key": "media-0-3114043539443957232",
+          "id": "media-0-8901430188255359516",
+          "key": "media-0-8901430188255359516",
           "category": "Media",
           "label": "Media",
           "headline": "Paramount’s U.K. Concessions Give ‘Powerful Credibility’ to State AGs’ Lawsuit, Block the Merger Coalition Says: ‘The Dangers’ in U.S. Market ‘Are Unmistakable’",
@@ -4511,8 +4512,8 @@
           ]
         },
         {
-          "id": "media-9-7834282065150867938",
-          "key": "media-9-7834282065150867938",
+          "id": "media-9-1732299767703178238",
+          "key": "media-9-1732299767703178238",
           "category": "Media",
           "label": "Media",
           "headline": "Trump Nominates Danielle Thumann Severs To Fill Vacant FCC Seat",
@@ -4539,8 +4540,8 @@
           ]
         },
         {
-          "id": "media-16-749775337603948430",
-          "key": "media-16-749775337603948430",
+          "id": "media-16-7427705353280803647",
+          "key": "media-16-7427705353280803647",
           "category": "Media",
           "label": "Media",
           "headline": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
@@ -4567,8 +4568,8 @@
           ]
         },
         {
-          "id": "media-1-3337202874285719039",
-          "key": "media-1-3337202874285719039",
+          "id": "media-1-7765544146130898596",
+          "key": "media-1-7765544146130898596",
           "category": "Media",
           "label": "Media",
           "headline": "LISTEN: Fear, Loathing and Endless Potential: AI4 Conference Takes Stock of Transformative Technologies",
@@ -4595,8 +4596,8 @@
           ]
         },
         {
-          "id": "media-10-2130173865538021509",
-          "key": "media-10-2130173865538021509",
+          "id": "media-10-7244806027816106298",
+          "key": "media-10-7244806027816106298",
           "category": "Media",
           "label": "Media",
           "headline": "‘Swarm’s Janine Nabers Signs With Blue Marble Management",
@@ -4623,7 +4624,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-07 05:39:46 PM ET"
+      "updated_at": "2026-08-07 06:36:27 PM ET"
     }
   ]
 }
