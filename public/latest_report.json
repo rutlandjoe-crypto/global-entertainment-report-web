@@ -5,9 +5,9 @@
   "vertical": "Entertainment",
   "headline": "Anthony Michael Hall Says John Hughes Wanted a 'Breakfast Club' Sequel Where the Original Cast Is 'In Their 30s'",
   "snapshot": "Global Entertainment Report accepted 46 real RSS item(s) across 31 checked feed request(s).",
-  "generated_at": "2026-08-08 05:30:58 PM ET",
-  "updated_at": "2026-08-08 05:30:58 PM ET",
-  "published_at": "2026-08-08 05:30:58 PM ET",
+  "generated_at": "2026-08-08 06:29:58 PM ET",
+  "updated_at": "2026-08-08 06:29:58 PM ET",
+  "published_at": "2026-08-08 06:29:58 PM ET",
   "source_mode": "live RSS ingestion",
   "freshness": {
     "max_item_age_hours": 336,
@@ -75,10 +75,8 @@
       "final_url": "https://deadline.com/v/tv/feed/",
       "item_count": 12,
       "accepted_count": 2,
-      "rejected_count": 1,
-      "rejection_reasons": {
-        "duplicate-story": 1
-      }
+      "rejected_count": 0,
+      "rejection_reasons": {}
     },
     {
       "category": "tv",
@@ -234,10 +232,10 @@
       "final_url": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 43,
+      "rejected_count": 44,
       "rejection_reasons": {
         "duplicate-story": 2,
-        "stale-over-336h": 41
+        "stale-over-336h": 42
       }
     },
     {
@@ -257,11 +255,11 @@
       "url": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
-      "item_count": 94,
+      "item_count": 91,
       "accepted_count": 2,
-      "rejected_count": 81,
+      "rejected_count": 77,
       "rejection_reasons": {
-        "stale-over-336h": 81
+        "stale-over-336h": 77
       }
     },
     {
@@ -307,9 +305,9 @@
       "final_url": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 88,
+      "rejected_count": 89,
       "rejection_reasons": {
-        "stale-over-336h": 88
+        "stale-over-336h": 89
       }
     },
     {
@@ -379,15 +377,15 @@
     "Olivia Wilde Talks Fight To Get 'The Invite' A Theatrical Release Following Sundance Response: \"I Was Passionate About It With A Lot Of Support\"",
     "Monica Barbaro Teases Luca Guadagnino's OpenAI Film 'Artificial,' Addresses Timothée Chalamet's Ballet Comments",
     "Your guide to 2026 movie release dates - Entertainment Weekly",
-    "Get Beats Earbuds for Just $69 As Part of This Back to School Deal",
-    "'They Fundamentally Don't Understand Art' - Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs",
+    "aespa Kicks Off SYNK : COMPLæXITY Tour in Seoul: 6 Best Moments",
+    "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027",
     "'Cookie Queens' Review: A Doc About Girl Scout Cookies, Produced by Meghan Markle and Prince Harry, Is Too Much of a Reality-Show Ramble",
     "Anthony Michael Hall Says 'Breakfast Club' Director John Hughes Hoped For A Sequel With Grown-Up Characters"
   ],
   "live_newsroom": [
     {
-      "id": "film-0-2413734293849583842",
-      "key": "film-0-2413734293849583842",
+      "id": "film-0-5732696051202463927",
+      "key": "film-0-5732696051202463927",
       "category": "Film",
       "label": "Film",
       "headline": "Anthony Michael Hall Says John Hughes Wanted a 'Breakfast Club' Sequel Where the Original Cast Is 'In Their 30s'",
@@ -413,8 +411,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-3586539092270674275",
-      "key": "film-10-3586539092270674275",
+      "id": "film-10-138128568128414015",
+      "key": "film-10-138128568128414015",
       "category": "Film",
       "label": "Film",
       "headline": "Olivia Wilde Talks Fight To Get 'The Invite' A Theatrical Release Following Sundance Response: \"I Was Passionate About It With A Lot Of Support\"",
@@ -440,8 +438,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-608180287267804480",
-      "key": "film-22-608180287267804480",
+      "id": "film-22-8047706141646504468",
+      "key": "film-22-8047706141646504468",
       "category": "Film",
       "label": "Film",
       "headline": "Monica Barbaro Teases Luca Guadagnino's OpenAI Film 'Artificial,' Addresses Timothée Chalamet's Ballet Comments",
@@ -467,8 +465,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-2315353551337426497",
-      "key": "film-32-2315353551337426497",
+      "id": "film-32-2893838565234866788",
+      "key": "film-32-2893838565234866788",
       "category": "Film",
       "label": "Film",
       "headline": "Your guide to 2026 movie release dates - Entertainment Weekly",
@@ -494,22 +492,22 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-2323718332935072557",
-      "key": "music-10-2323718332935072557",
+      "id": "music-10-7121825058155007108",
+      "key": "music-10-7121825058155007108",
       "category": "Music",
       "label": "Music",
-      "headline": "Get Beats Earbuds for Just $69 As Part of This Back to School Deal",
-      "title": "Get Beats Earbuds for Just $69 As Part of This Back to School Deal",
-      "snapshot": "Beats products used to cost a pretty penny, but not anymore.",
-      "summary": "Beats products used to cost a pretty penny, but not anymore.",
-      "url": "https://www.billboard.com/culture/product-recommendations/best-beats-wireless-earbuds-deal-shop-sale-price-online-1236043439/",
+      "headline": "aespa Kicks Off SYNK : COMPLæXITY Tour in Seoul: 6 Best Moments",
+      "title": "aespa Kicks Off SYNK : COMPLæXITY Tour in Seoul: 6 Best Moments",
+      "snapshot": "aespa opened its fourth world tour at with 27 songs, an expanded universe and a show that brought the group's many sides into full view.",
+      "summary": "aespa opened its fourth world tour at with 27 songs, an expanded universe and a show that brought the group's many sides into full view.",
+      "url": "https://www.billboard.com/lists/aespa-synk-complaexity-tour-seoul-best-moments/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-08 03:39:00 PM ET",
+      "published_at": "2026-08-08 05:49:46 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Get Beats Earbuds for Just $69 As Part of This Back to School Deal"
+        "aespa Kicks Off SYNK : COMPLæXITY Tour in Seoul: 6 Best Moments"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -521,22 +519,22 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-8063594283873049798",
-      "key": "gaming-0-8063594283873049798",
+      "id": "gaming-0-473433724624774572",
+      "key": "gaming-0-473433724624774572",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "'They Fundamentally Don't Understand Art' - Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs",
-      "title": "'They Fundamentally Don't Understand Art' - Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs",
-      "snapshot": "After layoffs ripped through Doom developer id Software in July, id Software lead services programmer Chris Hays has taken aim at Xbox: \"They fundamentally don't understand art.\"",
-      "summary": "After layoffs ripped through Doom developer id Software in July, id Software lead services programmer Chris Hays has taken aim at Xbox: \"They fundamentally don't understand art.\"",
-      "url": "https://www.ign.com/articles/they-fundamentally-dont-understand-art-doom-dev-blasts-xbox-after-microsoft-gutted-id-software-with-layoffs",
+      "headline": "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027",
+      "title": "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027",
+      "snapshot": "Freddy Fazbear's Pizza is coming to life thanks to a new collaboration between Five Nights at Freddy's and entertainment and retail center American Dream.",
+      "summary": "Freddy Fazbear's Pizza is coming to life thanks to a new collaboration between Five Nights at Freddy's and entertainment and retail center American Dream.",
+      "url": "https://www.ign.com/articles/freddy-fazbears-pizza-opening-permanent-location-featuring-animatronic-stage-shows-in-2027",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-08 04:03:41 PM ET",
+      "published_at": "2026-08-08 06:00:13 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'They Fundamentally Don't Understand Art' - Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs"
+        "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -548,8 +546,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-745230891618355774",
-      "key": "film-1-745230891618355774",
+      "id": "film-1-1666277952887632303",
+      "key": "film-1-1666277952887632303",
       "category": "Film",
       "label": "Film",
       "headline": "'Cookie Queens' Review: A Doc About Girl Scout Cookies, Produced by Meghan Markle and Prince Harry, Is Too Much of a Reality-Show Ramble",
@@ -575,8 +573,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-9014532458953207156",
-      "key": "film-11-9014532458953207156",
+      "id": "film-11-67096191356399259",
+      "key": "film-11-67096191356399259",
       "category": "Film",
       "label": "Film",
       "headline": "Anthony Michael Hall Says 'Breakfast Club' Director John Hughes Hoped For A Sequel With Grown-Up Characters",
@@ -602,8 +600,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-3516453213418738470",
-      "key": "film-23-3516453213418738470",
+      "id": "film-23-2789825635096814253",
+      "key": "film-23-2789825635096814253",
       "category": "Film",
       "label": "Film",
       "headline": "40 Years Ago, Rob Reiner Turned Stephen King's Most Personal Story Into a Surprise Hit",
@@ -629,8 +627,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-8879206726905735531",
-      "key": "film-33-8879206726905735531",
+      "id": "film-33-736041339984255847",
+      "key": "film-33-736041339984255847",
       "category": "Film",
       "label": "Film",
       "headline": "Everything to know about 'Madden,' a new movie coming to Prime Video November 18 - About Amazon",
@@ -656,22 +654,22 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-5206544535664975764",
-      "key": "music-11-5206544535664975764",
+      "id": "music-11-2249606340816637314",
+      "key": "music-11-2249606340816637314",
       "category": "Music",
       "label": "Music",
-      "headline": "Taylor Swift's 'August,' 'Father Figure' & Other Songs Removed From Trump-Related TikTok Posts",
-      "title": "Taylor Swift's 'August,' 'Father Figure' & Other Songs Removed From Trump-Related TikTok Posts",
-      "snapshot": "A White House TikTok featuring \"The Fate of Ophelia\" has also been removed.",
-      "summary": "A White House TikTok featuring \"The Fate of Ophelia\" has also been removed.",
-      "url": "https://www.billboard.com/music/music-news/taylor-swift-songs-removed-trump-tiktok-posts-1236312291/",
+      "headline": "Get Beats Earbuds for Just $69 As Part of This Back to School Deal",
+      "title": "Get Beats Earbuds for Just $69 As Part of This Back to School Deal",
+      "snapshot": "Beats products used to cost a pretty penny, but not anymore.",
+      "summary": "Beats products used to cost a pretty penny, but not anymore.",
+      "url": "https://www.billboard.com/culture/product-recommendations/best-beats-wireless-earbuds-deal-shop-sale-price-online-1236043439/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-08 03:36:25 PM ET",
+      "published_at": "2026-08-08 03:39:00 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Taylor Swift's 'August,' 'Father Figure' & Other Songs Removed From Trump-Related TikTok Posts"
+        "Get Beats Earbuds for Just $69 As Part of This Back to School Deal"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -683,22 +681,22 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-2236922640852569986",
-      "key": "gaming-1-2236922640852569986",
+      "id": "gaming-1-9068416881137907375",
+      "key": "gaming-1-9068416881137907375",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "The Best Deals Today: AirPods Pro 3, LEGO Back to the Future, Saros, and More",
-      "title": "The Best Deals Today: AirPods Pro 3, LEGO Back to the Future, Saros, and More",
-      "snapshot": "A new weekend has arrived, and today, you can save on select LEGO sets, AirPods Pro 3, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Saturday, August 9, below. AirPods Pro 3 for $189 AirPods Pro 3 are a fantastic upgrade over the 2nd generation, bringing a built-in heart rate se...",
-      "summary": "A new weekend has arrived, and today, you can save on select LEGO sets, AirPods Pro 3, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Saturday, August 9, below. AirPods Pro 3 for $189 AirPods Pro 3 are a fantastic upgrade over the 2nd generation, bringing a built-in heart rate se...",
-      "url": "https://www.ign.com/articles/best-deals-for-august-8-2026",
+      "headline": "'They Fundamentally Don't Understand Art' - Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs",
+      "title": "'They Fundamentally Don't Understand Art' - Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs",
+      "snapshot": "After layoffs ripped through Doom developer id Software in July, lead services programmer Chris Hays has taken aim at Xbox: \"They fundamentally don't understand art.\"",
+      "summary": "After layoffs ripped through Doom developer id Software in July, lead services programmer Chris Hays has taken aim at Xbox: \"They fundamentally don't understand art.\"",
+      "url": "https://www.ign.com/articles/they-fundamentally-dont-understand-art-doom-dev-blasts-xbox-after-microsoft-gutted-id-software-with-layoffs",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-08 01:21:43 PM ET",
+      "published_at": "2026-08-08 04:03:41 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "The Best Deals Today: AirPods Pro 3, LEGO Back to the Future, Saros, and More"
+        "'They Fundamentally Don't Understand Art' - Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -712,8 +710,8 @@
   ],
   "editor_signals": [
     {
-      "id": "film-2-325665984153593717",
-      "key": "film-2-325665984153593717",
+      "id": "film-2-8626453462117711382",
+      "key": "film-2-8626453462117711382",
       "category": "Film",
       "label": "Film",
       "headline": "Giovanni Tortorici on Working With Monica Bellucci Who Plays an 'Eccentric' Aristocratic Matron in His Luca Guadagnino-Produced Film 'Ketticè'",
@@ -739,8 +737,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-876184115541488935",
-      "key": "film-12-876184115541488935",
+      "id": "film-12-3789506080176813287",
+      "key": "film-12-3789506080176813287",
       "category": "Film",
       "label": "Film",
       "headline": "Jason Clarke Joins Action-Thriller 'Supermax' From Amazon MGM & Miramax",
@@ -766,8 +764,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-8192803579078219529",
-      "key": "film-24-8192803579078219529",
+      "id": "film-24-383053925150417940",
+      "key": "film-24-383053925150417940",
       "category": "Film",
       "label": "Film",
       "headline": "Olivia Wilde Says She Fought for 'The Invite' to Get a Cinema Release: \"They Bribe You to Not Take Theatrical\"",
@@ -793,8 +791,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-8848980926724169584",
-      "key": "film-34-8848980926724169584",
+      "id": "film-34-652709252601162593",
+      "key": "film-34-652709252601162593",
       "category": "Film",
       "label": "Film",
       "headline": "Our favorite memories at the movies - The Verge",
@@ -820,22 +818,22 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-83292885493490335",
-      "key": "music-12-83292885493490335",
+      "id": "music-12-7431482087963915513",
+      "key": "music-12-7431482087963915513",
       "category": "Music",
       "label": "Music",
-      "headline": "Madonna Remembers William Orbit With Emotional Tribute: 'You Were My Ray of Light'",
-      "title": "Madonna Remembers William Orbit With Emotional Tribute: 'You Were My Ray of Light'",
-      "snapshot": "The pair collaborated on Madonna's Grammy-winning 1998 album, Ray of Light .",
-      "summary": "The pair collaborated on Madonna's Grammy-winning 1998 album, Ray of Light .",
-      "url": "https://www.billboard.com/music/music-news/madonna-william-orbit-tribute-ray-of-light-producer-1236312283/",
+      "headline": "Taylor Swift's 'August,' 'Father Figure' & Other Songs Removed From Trump-Related TikTok Posts",
+      "title": "Taylor Swift's 'August,' 'Father Figure' & Other Songs Removed From Trump-Related TikTok Posts",
+      "snapshot": "A White House TikTok featuring \"The Fate of Ophelia\" has also been removed.",
+      "summary": "A White House TikTok featuring \"The Fate of Ophelia\" has also been removed.",
+      "url": "https://www.billboard.com/music/music-news/taylor-swift-songs-removed-trump-tiktok-posts-1236312291/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-08 01:37:18 PM ET",
+      "published_at": "2026-08-08 03:36:25 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Madonna Remembers William Orbit With Emotional Tribute: 'You Were My Ray of Light'"
+        "Taylor Swift's 'August,' 'Father Figure' & Other Songs Removed From Trump-Related TikTok Posts"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -847,22 +845,22 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-5145831715976220506",
-      "key": "gaming-2-5145831715976220506",
+      "id": "gaming-2-4584989345980696362",
+      "key": "gaming-2-4584989345980696362",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Upcoming PS5 Games: The Future of PlayStation Exclusives",
-      "title": "Upcoming PS5 Games: The Future of PlayStation Exclusives",
-      "snapshot": "Checking in with the PS5 generation.",
-      "summary": "Checking in with the PS5 generation.",
-      "url": "https://www.ign.com/articles/upcoming-ps5-games",
+      "headline": "The Best Deals Today: AirPods Pro 3, LEGO Back to the Future, Saros, and More",
+      "title": "The Best Deals Today: AirPods Pro 3, LEGO Back to the Future, Saros, and More",
+      "snapshot": "A new weekend has arrived, and today, you can save on select LEGO sets, AirPods Pro 3, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Saturday, August 9, below. AirPods Pro 3 for $189 AirPods Pro 3 are a fantastic upgrade over the 2nd generation, bringing a built-in heart rate se...",
+      "summary": "A new weekend has arrived, and today, you can save on select LEGO sets, AirPods Pro 3, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Saturday, August 9, below. AirPods Pro 3 for $189 AirPods Pro 3 are a fantastic upgrade over the 2nd generation, bringing a built-in heart rate se...",
+      "url": "https://www.ign.com/articles/best-deals-for-august-8-2026",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-08 12:30:00 PM ET",
+      "published_at": "2026-08-08 01:21:43 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Upcoming PS5 Games: The Future of PlayStation Exclusives"
+        "The Best Deals Today: AirPods Pro 3, LEGO Back to the Future, Saros, and More"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -874,8 +872,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-2514846956853659040",
-      "key": "film-3-2514846956853659040",
+      "id": "film-3-5315161969104204786",
+      "key": "film-3-5315161969104204786",
       "category": "Film",
       "label": "Film",
       "headline": "Olivia Wilde Says She's Become 'So Much More Romantic' Because of 'The Invite': 'It Melted the Cynic Out of Me'",
@@ -901,8 +899,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-6747001863445593907",
-      "key": "film-13-6747001863445593907",
+      "id": "film-13-8746131676289896483",
+      "key": "film-13-8746131676289896483",
       "category": "Film",
       "label": "Film",
       "headline": "Bella Thorne Says 'Spring Breakers 2' Producers Tapped Her To Write, Direct & Star In Sequel After Seeing Directorial Debut",
@@ -928,8 +926,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-1172892777004471257",
-      "key": "film-25-1172892777004471257",
+      "id": "film-25-2673867742235286018",
+      "key": "film-25-2673867742235286018",
       "category": "Film",
       "label": "Film",
       "headline": "'Spider-Man: Brand New Day' Swinging to Best-Ever 10-Day Start With $143M Second Weekend",
@@ -955,8 +953,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-4334260134892356591",
-      "key": "film-35-4334260134892356591",
+      "id": "film-35-4301139798837922446",
+      "key": "film-35-4301139798837922446",
       "category": "Film",
       "label": "Film",
       "headline": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire",
@@ -982,22 +980,22 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-6991469787199011481",
-      "key": "music-13-6991469787199011481",
+      "id": "music-13-8054526161912581640",
+      "key": "music-13-8054526161912581640",
       "category": "Music",
       "label": "Music",
-      "headline": "Fuerza Regida Wraps Stadium Tour at New York's Citi Field Alongside 50 Cent, Bobby Shmurda, J Balvin & More",
-      "title": "Fuerza Regida Wraps Stadium Tour at New York's Citi Field Alongside 50 Cent, Bobby Shmurda, J Balvin & More",
-      "snapshot": "Fenix Flexin also joined the Aug. 7 concert, which marked the end of the This Is Our Dream Tour.",
-      "summary": "Fenix Flexin also joined the Aug. 7 concert, which marked the end of the This Is Our Dream Tour.",
-      "url": "https://www.billboard.com/music/latin/fuerza-regida-citi-field-50-cent-bobby-shmurda-new-york-1236312217/",
+      "headline": "Madonna Remembers William Orbit With Emotional Tribute: 'You Were My Ray of Light'",
+      "title": "Madonna Remembers William Orbit With Emotional Tribute: 'You Were My Ray of Light'",
+      "snapshot": "The pair collaborated on Madonna's Grammy-winning 1998 album, Ray of Light .",
+      "summary": "The pair collaborated on Madonna's Grammy-winning 1998 album, Ray of Light .",
+      "url": "https://www.billboard.com/music/music-news/madonna-william-orbit-tribute-ray-of-light-producer-1236312283/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-08 12:21:47 PM ET",
+      "published_at": "2026-08-08 01:37:18 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Fuerza Regida Wraps Stadium Tour at New York's Citi Field Alongside 50 Cent, Bobby Shmurda, J Balvin & More"
+        "Madonna Remembers William Orbit With Emotional Tribute: 'You Were My Ray of Light'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1009,22 +1007,22 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-8491750218052025257",
-      "key": "gaming-3-8491750218052025257",
+      "id": "gaming-3-652376113583488065",
+      "key": "gaming-3-652376113583488065",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Marvel Tokon Stumbles to Mixed Steam Reviews as 'Miserable' PC Port Complaints Prompt Response From Arc System Works",
-      "title": "Marvel Tokon Stumbles to Mixed Steam Reviews as 'Miserable' PC Port Complaints Prompt Response From Arc System Works",
-      "snapshot": "Marvel Tokon: Fighting Souls stumbled on Steam with \"Mixed\" user reviews as players complain of PlayStation account requirements, anti-cheat roadblocks, and other technical issues.",
-      "summary": "Marvel Tokon: Fighting Souls stumbled on Steam with \"Mixed\" user reviews as players complain of PlayStation account requirements, anti-cheat roadblocks, and other technical issues.",
-      "url": "https://www.ign.com/articles/marvel-tokon-stumbles-to-mixed-steam-reviews-as-miserable-pc-port-complaints-prompt-response-from-arc-system-works",
+      "headline": "Upcoming PS5 Games: The Future of PlayStation Exclusives",
+      "title": "Upcoming PS5 Games: The Future of PlayStation Exclusives",
+      "snapshot": "Checking in with the PS5 generation.",
+      "summary": "Checking in with the PS5 generation.",
+      "url": "https://www.ign.com/articles/upcoming-ps5-games",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-07 07:31:38 PM ET",
+      "published_at": "2026-08-08 12:30:00 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Marvel Tokon Stumbles to Mixed Steam Reviews as 'Miserable' PC Port Complaints Prompt Response From Arc System Works"
+        "Upcoming PS5 Games: The Future of PlayStation Exclusives"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1038,8 +1036,8 @@
   ],
   "homepage_cards": [
     {
-      "id": "film-0-2413734293849583842",
-      "key": "film-0-2413734293849583842",
+      "id": "film-0-5732696051202463927",
+      "key": "film-0-5732696051202463927",
       "category": "Film",
       "label": "Film",
       "headline": "Anthony Michael Hall Says John Hughes Wanted a 'Breakfast Club' Sequel Where the Original Cast Is 'In Their 30s'",
@@ -1065,8 +1063,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-3586539092270674275",
-      "key": "film-10-3586539092270674275",
+      "id": "film-10-138128568128414015",
+      "key": "film-10-138128568128414015",
       "category": "Film",
       "label": "Film",
       "headline": "Olivia Wilde Talks Fight To Get 'The Invite' A Theatrical Release Following Sundance Response: \"I Was Passionate About It With A Lot Of Support\"",
@@ -1092,8 +1090,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-608180287267804480",
-      "key": "film-22-608180287267804480",
+      "id": "film-22-8047706141646504468",
+      "key": "film-22-8047706141646504468",
       "category": "Film",
       "label": "Film",
       "headline": "Monica Barbaro Teases Luca Guadagnino's OpenAI Film 'Artificial,' Addresses Timothée Chalamet's Ballet Comments",
@@ -1119,8 +1117,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-2315353551337426497",
-      "key": "film-32-2315353551337426497",
+      "id": "film-32-2893838565234866788",
+      "key": "film-32-2893838565234866788",
       "category": "Film",
       "label": "Film",
       "headline": "Your guide to 2026 movie release dates - Entertainment Weekly",
@@ -1146,22 +1144,22 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-2323718332935072557",
-      "key": "music-10-2323718332935072557",
+      "id": "music-10-7121825058155007108",
+      "key": "music-10-7121825058155007108",
       "category": "Music",
       "label": "Music",
-      "headline": "Get Beats Earbuds for Just $69 As Part of This Back to School Deal",
-      "title": "Get Beats Earbuds for Just $69 As Part of This Back to School Deal",
-      "snapshot": "Beats products used to cost a pretty penny, but not anymore.",
-      "summary": "Beats products used to cost a pretty penny, but not anymore.",
-      "url": "https://www.billboard.com/culture/product-recommendations/best-beats-wireless-earbuds-deal-shop-sale-price-online-1236043439/",
+      "headline": "aespa Kicks Off SYNK : COMPLæXITY Tour in Seoul: 6 Best Moments",
+      "title": "aespa Kicks Off SYNK : COMPLæXITY Tour in Seoul: 6 Best Moments",
+      "snapshot": "aespa opened its fourth world tour at with 27 songs, an expanded universe and a show that brought the group's many sides into full view.",
+      "summary": "aespa opened its fourth world tour at with 27 songs, an expanded universe and a show that brought the group's many sides into full view.",
+      "url": "https://www.billboard.com/lists/aespa-synk-complaexity-tour-seoul-best-moments/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-08 03:39:00 PM ET",
+      "published_at": "2026-08-08 05:49:46 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Get Beats Earbuds for Just $69 As Part of This Back to School Deal"
+        "aespa Kicks Off SYNK : COMPLæXITY Tour in Seoul: 6 Best Moments"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1173,22 +1171,22 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-8063594283873049798",
-      "key": "gaming-0-8063594283873049798",
+      "id": "gaming-0-473433724624774572",
+      "key": "gaming-0-473433724624774572",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "'They Fundamentally Don't Understand Art' - Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs",
-      "title": "'They Fundamentally Don't Understand Art' - Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs",
-      "snapshot": "After layoffs ripped through Doom developer id Software in July, id Software lead services programmer Chris Hays has taken aim at Xbox: \"They fundamentally don't understand art.\"",
-      "summary": "After layoffs ripped through Doom developer id Software in July, id Software lead services programmer Chris Hays has taken aim at Xbox: \"They fundamentally don't understand art.\"",
-      "url": "https://www.ign.com/articles/they-fundamentally-dont-understand-art-doom-dev-blasts-xbox-after-microsoft-gutted-id-software-with-layoffs",
+      "headline": "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027",
+      "title": "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027",
+      "snapshot": "Freddy Fazbear's Pizza is coming to life thanks to a new collaboration between Five Nights at Freddy's and entertainment and retail center American Dream.",
+      "summary": "Freddy Fazbear's Pizza is coming to life thanks to a new collaboration between Five Nights at Freddy's and entertainment and retail center American Dream.",
+      "url": "https://www.ign.com/articles/freddy-fazbears-pizza-opening-permanent-location-featuring-animatronic-stage-shows-in-2027",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-08 04:03:41 PM ET",
+      "published_at": "2026-08-08 06:00:13 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'They Fundamentally Don't Understand Art' - Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs"
+        "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1200,8 +1198,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-745230891618355774",
-      "key": "film-1-745230891618355774",
+      "id": "film-1-1666277952887632303",
+      "key": "film-1-1666277952887632303",
       "category": "Film",
       "label": "Film",
       "headline": "'Cookie Queens' Review: A Doc About Girl Scout Cookies, Produced by Meghan Markle and Prince Harry, Is Too Much of a Reality-Show Ramble",
@@ -1227,8 +1225,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-9014532458953207156",
-      "key": "film-11-9014532458953207156",
+      "id": "film-11-67096191356399259",
+      "key": "film-11-67096191356399259",
       "category": "Film",
       "label": "Film",
       "headline": "Anthony Michael Hall Says 'Breakfast Club' Director John Hughes Hoped For A Sequel With Grown-Up Characters",
@@ -1254,8 +1252,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-3516453213418738470",
-      "key": "film-23-3516453213418738470",
+      "id": "film-23-2789825635096814253",
+      "key": "film-23-2789825635096814253",
       "category": "Film",
       "label": "Film",
       "headline": "40 Years Ago, Rob Reiner Turned Stephen King's Most Personal Story Into a Surprise Hit",
@@ -1281,8 +1279,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-8879206726905735531",
-      "key": "film-33-8879206726905735531",
+      "id": "film-33-736041339984255847",
+      "key": "film-33-736041339984255847",
       "category": "Film",
       "label": "Film",
       "headline": "Everything to know about 'Madden,' a new movie coming to Prime Video November 18 - About Amazon",
@@ -1308,22 +1306,22 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-5206544535664975764",
-      "key": "music-11-5206544535664975764",
+      "id": "music-11-2249606340816637314",
+      "key": "music-11-2249606340816637314",
       "category": "Music",
       "label": "Music",
-      "headline": "Taylor Swift's 'August,' 'Father Figure' & Other Songs Removed From Trump-Related TikTok Posts",
-      "title": "Taylor Swift's 'August,' 'Father Figure' & Other Songs Removed From Trump-Related TikTok Posts",
-      "snapshot": "A White House TikTok featuring \"The Fate of Ophelia\" has also been removed.",
-      "summary": "A White House TikTok featuring \"The Fate of Ophelia\" has also been removed.",
-      "url": "https://www.billboard.com/music/music-news/taylor-swift-songs-removed-trump-tiktok-posts-1236312291/",
+      "headline": "Get Beats Earbuds for Just $69 As Part of This Back to School Deal",
+      "title": "Get Beats Earbuds for Just $69 As Part of This Back to School Deal",
+      "snapshot": "Beats products used to cost a pretty penny, but not anymore.",
+      "summary": "Beats products used to cost a pretty penny, but not anymore.",
+      "url": "https://www.billboard.com/culture/product-recommendations/best-beats-wireless-earbuds-deal-shop-sale-price-online-1236043439/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-08 03:36:25 PM ET",
+      "published_at": "2026-08-08 03:39:00 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Taylor Swift's 'August,' 'Father Figure' & Other Songs Removed From Trump-Related TikTok Posts"
+        "Get Beats Earbuds for Just $69 As Part of This Back to School Deal"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1335,22 +1333,22 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-2236922640852569986",
-      "key": "gaming-1-2236922640852569986",
+      "id": "gaming-1-9068416881137907375",
+      "key": "gaming-1-9068416881137907375",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "The Best Deals Today: AirPods Pro 3, LEGO Back to the Future, Saros, and More",
-      "title": "The Best Deals Today: AirPods Pro 3, LEGO Back to the Future, Saros, and More",
-      "snapshot": "A new weekend has arrived, and today, you can save on select LEGO sets, AirPods Pro 3, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Saturday, August 9, below. AirPods Pro 3 for $189 AirPods Pro 3 are a fantastic upgrade over the 2nd generation, bringing a built-in heart rate se...",
-      "summary": "A new weekend has arrived, and today, you can save on select LEGO sets, AirPods Pro 3, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Saturday, August 9, below. AirPods Pro 3 for $189 AirPods Pro 3 are a fantastic upgrade over the 2nd generation, bringing a built-in heart rate se...",
-      "url": "https://www.ign.com/articles/best-deals-for-august-8-2026",
+      "headline": "'They Fundamentally Don't Understand Art' - Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs",
+      "title": "'They Fundamentally Don't Understand Art' - Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs",
+      "snapshot": "After layoffs ripped through Doom developer id Software in July, lead services programmer Chris Hays has taken aim at Xbox: \"They fundamentally don't understand art.\"",
+      "summary": "After layoffs ripped through Doom developer id Software in July, lead services programmer Chris Hays has taken aim at Xbox: \"They fundamentally don't understand art.\"",
+      "url": "https://www.ign.com/articles/they-fundamentally-dont-understand-art-doom-dev-blasts-xbox-after-microsoft-gutted-id-software-with-layoffs",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-08 01:21:43 PM ET",
+      "published_at": "2026-08-08 04:03:41 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "The Best Deals Today: AirPods Pro 3, LEGO Back to the Future, Saros, and More"
+        "'They Fundamentally Don't Understand Art' - Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1362,8 +1360,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-2-325665984153593717",
-      "key": "film-2-325665984153593717",
+      "id": "film-2-8626453462117711382",
+      "key": "film-2-8626453462117711382",
       "category": "Film",
       "label": "Film",
       "headline": "Giovanni Tortorici on Working With Monica Bellucci Who Plays an 'Eccentric' Aristocratic Matron in His Luca Guadagnino-Produced Film 'Ketticè'",
@@ -1389,8 +1387,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-876184115541488935",
-      "key": "film-12-876184115541488935",
+      "id": "film-12-3789506080176813287",
+      "key": "film-12-3789506080176813287",
       "category": "Film",
       "label": "Film",
       "headline": "Jason Clarke Joins Action-Thriller 'Supermax' From Amazon MGM & Miramax",
@@ -1416,8 +1414,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-8192803579078219529",
-      "key": "film-24-8192803579078219529",
+      "id": "film-24-383053925150417940",
+      "key": "film-24-383053925150417940",
       "category": "Film",
       "label": "Film",
       "headline": "Olivia Wilde Says She Fought for 'The Invite' to Get a Cinema Release: \"They Bribe You to Not Take Theatrical\"",
@@ -1443,8 +1441,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-8848980926724169584",
-      "key": "film-34-8848980926724169584",
+      "id": "film-34-652709252601162593",
+      "key": "film-34-652709252601162593",
       "category": "Film",
       "label": "Film",
       "headline": "Our favorite memories at the movies - The Verge",
@@ -1470,22 +1468,22 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-83292885493490335",
-      "key": "music-12-83292885493490335",
+      "id": "music-12-7431482087963915513",
+      "key": "music-12-7431482087963915513",
       "category": "Music",
       "label": "Music",
-      "headline": "Madonna Remembers William Orbit With Emotional Tribute: 'You Were My Ray of Light'",
-      "title": "Madonna Remembers William Orbit With Emotional Tribute: 'You Were My Ray of Light'",
-      "snapshot": "The pair collaborated on Madonna's Grammy-winning 1998 album, Ray of Light .",
-      "summary": "The pair collaborated on Madonna's Grammy-winning 1998 album, Ray of Light .",
-      "url": "https://www.billboard.com/music/music-news/madonna-william-orbit-tribute-ray-of-light-producer-1236312283/",
+      "headline": "Taylor Swift's 'August,' 'Father Figure' & Other Songs Removed From Trump-Related TikTok Posts",
+      "title": "Taylor Swift's 'August,' 'Father Figure' & Other Songs Removed From Trump-Related TikTok Posts",
+      "snapshot": "A White House TikTok featuring \"The Fate of Ophelia\" has also been removed.",
+      "summary": "A White House TikTok featuring \"The Fate of Ophelia\" has also been removed.",
+      "url": "https://www.billboard.com/music/music-news/taylor-swift-songs-removed-trump-tiktok-posts-1236312291/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-08 01:37:18 PM ET",
+      "published_at": "2026-08-08 03:36:25 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Madonna Remembers William Orbit With Emotional Tribute: 'You Were My Ray of Light'"
+        "Taylor Swift's 'August,' 'Father Figure' & Other Songs Removed From Trump-Related TikTok Posts"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1497,22 +1495,22 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-5145831715976220506",
-      "key": "gaming-2-5145831715976220506",
+      "id": "gaming-2-4584989345980696362",
+      "key": "gaming-2-4584989345980696362",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Upcoming PS5 Games: The Future of PlayStation Exclusives",
-      "title": "Upcoming PS5 Games: The Future of PlayStation Exclusives",
-      "snapshot": "Checking in with the PS5 generation.",
-      "summary": "Checking in with the PS5 generation.",
-      "url": "https://www.ign.com/articles/upcoming-ps5-games",
+      "headline": "The Best Deals Today: AirPods Pro 3, LEGO Back to the Future, Saros, and More",
+      "title": "The Best Deals Today: AirPods Pro 3, LEGO Back to the Future, Saros, and More",
+      "snapshot": "A new weekend has arrived, and today, you can save on select LEGO sets, AirPods Pro 3, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Saturday, August 9, below. AirPods Pro 3 for $189 AirPods Pro 3 are a fantastic upgrade over the 2nd generation, bringing a built-in heart rate se...",
+      "summary": "A new weekend has arrived, and today, you can save on select LEGO sets, AirPods Pro 3, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Saturday, August 9, below. AirPods Pro 3 for $189 AirPods Pro 3 are a fantastic upgrade over the 2nd generation, bringing a built-in heart rate se...",
+      "url": "https://www.ign.com/articles/best-deals-for-august-8-2026",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-08 12:30:00 PM ET",
+      "published_at": "2026-08-08 01:21:43 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Upcoming PS5 Games: The Future of PlayStation Exclusives"
+        "The Best Deals Today: AirPods Pro 3, LEGO Back to the Future, Saros, and More"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1524,8 +1522,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-2514846956853659040",
-      "key": "film-3-2514846956853659040",
+      "id": "film-3-5315161969104204786",
+      "key": "film-3-5315161969104204786",
       "category": "Film",
       "label": "Film",
       "headline": "Olivia Wilde Says She's Become 'So Much More Romantic' Because of 'The Invite': 'It Melted the Cynic Out of Me'",
@@ -1551,8 +1549,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-6747001863445593907",
-      "key": "film-13-6747001863445593907",
+      "id": "film-13-8746131676289896483",
+      "key": "film-13-8746131676289896483",
       "category": "Film",
       "label": "Film",
       "headline": "Bella Thorne Says 'Spring Breakers 2' Producers Tapped Her To Write, Direct & Star In Sequel After Seeing Directorial Debut",
@@ -1578,8 +1576,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-1172892777004471257",
-      "key": "film-25-1172892777004471257",
+      "id": "film-25-2673867742235286018",
+      "key": "film-25-2673867742235286018",
       "category": "Film",
       "label": "Film",
       "headline": "'Spider-Man: Brand New Day' Swinging to Best-Ever 10-Day Start With $143M Second Weekend",
@@ -1605,8 +1603,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-4334260134892356591",
-      "key": "film-35-4334260134892356591",
+      "id": "film-35-4301139798837922446",
+      "key": "film-35-4301139798837922446",
       "category": "Film",
       "label": "Film",
       "headline": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire",
@@ -1632,22 +1630,22 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-6991469787199011481",
-      "key": "music-13-6991469787199011481",
+      "id": "music-13-8054526161912581640",
+      "key": "music-13-8054526161912581640",
       "category": "Music",
       "label": "Music",
-      "headline": "Fuerza Regida Wraps Stadium Tour at New York's Citi Field Alongside 50 Cent, Bobby Shmurda, J Balvin & More",
-      "title": "Fuerza Regida Wraps Stadium Tour at New York's Citi Field Alongside 50 Cent, Bobby Shmurda, J Balvin & More",
-      "snapshot": "Fenix Flexin also joined the Aug. 7 concert, which marked the end of the This Is Our Dream Tour.",
-      "summary": "Fenix Flexin also joined the Aug. 7 concert, which marked the end of the This Is Our Dream Tour.",
-      "url": "https://www.billboard.com/music/latin/fuerza-regida-citi-field-50-cent-bobby-shmurda-new-york-1236312217/",
+      "headline": "Madonna Remembers William Orbit With Emotional Tribute: 'You Were My Ray of Light'",
+      "title": "Madonna Remembers William Orbit With Emotional Tribute: 'You Were My Ray of Light'",
+      "snapshot": "The pair collaborated on Madonna's Grammy-winning 1998 album, Ray of Light .",
+      "summary": "The pair collaborated on Madonna's Grammy-winning 1998 album, Ray of Light .",
+      "url": "https://www.billboard.com/music/music-news/madonna-william-orbit-tribute-ray-of-light-producer-1236312283/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-08 12:21:47 PM ET",
+      "published_at": "2026-08-08 01:37:18 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Fuerza Regida Wraps Stadium Tour at New York's Citi Field Alongside 50 Cent, Bobby Shmurda, J Balvin & More"
+        "Madonna Remembers William Orbit With Emotional Tribute: 'You Were My Ray of Light'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1659,22 +1657,22 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-8491750218052025257",
-      "key": "gaming-3-8491750218052025257",
+      "id": "gaming-3-652376113583488065",
+      "key": "gaming-3-652376113583488065",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Marvel Tokon Stumbles to Mixed Steam Reviews as 'Miserable' PC Port Complaints Prompt Response From Arc System Works",
-      "title": "Marvel Tokon Stumbles to Mixed Steam Reviews as 'Miserable' PC Port Complaints Prompt Response From Arc System Works",
-      "snapshot": "Marvel Tokon: Fighting Souls stumbled on Steam with \"Mixed\" user reviews as players complain of PlayStation account requirements, anti-cheat roadblocks, and other technical issues.",
-      "summary": "Marvel Tokon: Fighting Souls stumbled on Steam with \"Mixed\" user reviews as players complain of PlayStation account requirements, anti-cheat roadblocks, and other technical issues.",
-      "url": "https://www.ign.com/articles/marvel-tokon-stumbles-to-mixed-steam-reviews-as-miserable-pc-port-complaints-prompt-response-from-arc-system-works",
+      "headline": "Upcoming PS5 Games: The Future of PlayStation Exclusives",
+      "title": "Upcoming PS5 Games: The Future of PlayStation Exclusives",
+      "snapshot": "Checking in with the PS5 generation.",
+      "summary": "Checking in with the PS5 generation.",
+      "url": "https://www.ign.com/articles/upcoming-ps5-games",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-07 07:31:38 PM ET",
+      "published_at": "2026-08-08 12:30:00 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Marvel Tokon Stumbles to Mixed Steam Reviews as 'Miserable' PC Port Complaints Prompt Response From Arc System Works"
+        "Upcoming PS5 Games: The Future of PlayStation Exclusives"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1712,8 +1710,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "film-0-2413734293849583842",
-          "key": "film-0-2413734293849583842",
+          "id": "film-0-5732696051202463927",
+          "key": "film-0-5732696051202463927",
           "category": "Film",
           "label": "Film",
           "headline": "Anthony Michael Hall Says John Hughes Wanted a ‘Breakfast Club’ Sequel Where the Original Cast Is ‘In Their 30s’",
@@ -1740,8 +1738,8 @@
           ]
         },
         {
-          "id": "film-10-3586539092270674275",
-          "key": "film-10-3586539092270674275",
+          "id": "film-10-138128568128414015",
+          "key": "film-10-138128568128414015",
           "category": "Film",
           "label": "Film",
           "headline": "Olivia Wilde Talks Fight To Get ‘The Invite’ A Theatrical Release Following Sundance Response: “I Was Passionate About It With A Lot Of Support”",
@@ -1768,8 +1766,8 @@
           ]
         },
         {
-          "id": "film-22-608180287267804480",
-          "key": "film-22-608180287267804480",
+          "id": "film-22-8047706141646504468",
+          "key": "film-22-8047706141646504468",
           "category": "Film",
           "label": "Film",
           "headline": "Monica Barbaro Teases Luca Guadagnino’s OpenAI Film ‘Artificial,’ Addresses Timothée Chalamet’s Ballet Comments",
@@ -1796,8 +1794,8 @@
           ]
         },
         {
-          "id": "film-32-2315353551337426497",
-          "key": "film-32-2315353551337426497",
+          "id": "film-32-2893838565234866788",
+          "key": "film-32-2893838565234866788",
           "category": "Film",
           "label": "Film",
           "headline": "Your guide to 2026 movie release dates - Entertainment Weekly",
@@ -1824,8 +1822,8 @@
           ]
         },
         {
-          "id": "film-1-745230891618355774",
-          "key": "film-1-745230891618355774",
+          "id": "film-1-1666277952887632303",
+          "key": "film-1-1666277952887632303",
           "category": "Film",
           "label": "Film",
           "headline": "‘Cookie Queens’ Review: A Doc About Girl Scout Cookies, Produced by Meghan Markle and Prince Harry, Is Too Much of a Reality-Show Ramble",
@@ -1852,8 +1850,8 @@
           ]
         },
         {
-          "id": "film-11-9014532458953207156",
-          "key": "film-11-9014532458953207156",
+          "id": "film-11-67096191356399259",
+          "key": "film-11-67096191356399259",
           "category": "Film",
           "label": "Film",
           "headline": "Anthony Michael Hall Says ‘Breakfast Club’ Director John Hughes Hoped For A Sequel With Grown-Up Characters",
@@ -1880,8 +1878,8 @@
           ]
         },
         {
-          "id": "film-23-3516453213418738470",
-          "key": "film-23-3516453213418738470",
+          "id": "film-23-2789825635096814253",
+          "key": "film-23-2789825635096814253",
           "category": "Film",
           "label": "Film",
           "headline": "40 Years Ago, Rob Reiner Turned Stephen King’s Most Personal Story Into a Surprise Hit",
@@ -1908,8 +1906,8 @@
           ]
         },
         {
-          "id": "film-33-8879206726905735531",
-          "key": "film-33-8879206726905735531",
+          "id": "film-33-736041339984255847",
+          "key": "film-33-736041339984255847",
           "category": "Film",
           "label": "Film",
           "headline": "Everything to know about ‘Madden,’ a new movie coming to Prime Video November 18 - About Amazon",
@@ -1938,8 +1936,8 @@
       ],
       "items": [
         {
-          "id": "film-0-2413734293849583842",
-          "key": "film-0-2413734293849583842",
+          "id": "film-0-5732696051202463927",
+          "key": "film-0-5732696051202463927",
           "category": "Film",
           "label": "Film",
           "headline": "Anthony Michael Hall Says John Hughes Wanted a ‘Breakfast Club’ Sequel Where the Original Cast Is ‘In Their 30s’",
@@ -1966,8 +1964,8 @@
           ]
         },
         {
-          "id": "film-10-3586539092270674275",
-          "key": "film-10-3586539092270674275",
+          "id": "film-10-138128568128414015",
+          "key": "film-10-138128568128414015",
           "category": "Film",
           "label": "Film",
           "headline": "Olivia Wilde Talks Fight To Get ‘The Invite’ A Theatrical Release Following Sundance Response: “I Was Passionate About It With A Lot Of Support”",
@@ -1994,8 +1992,8 @@
           ]
         },
         {
-          "id": "film-22-608180287267804480",
-          "key": "film-22-608180287267804480",
+          "id": "film-22-8047706141646504468",
+          "key": "film-22-8047706141646504468",
           "category": "Film",
           "label": "Film",
           "headline": "Monica Barbaro Teases Luca Guadagnino’s OpenAI Film ‘Artificial,’ Addresses Timothée Chalamet’s Ballet Comments",
@@ -2022,8 +2020,8 @@
           ]
         },
         {
-          "id": "film-32-2315353551337426497",
-          "key": "film-32-2315353551337426497",
+          "id": "film-32-2893838565234866788",
+          "key": "film-32-2893838565234866788",
           "category": "Film",
           "label": "Film",
           "headline": "Your guide to 2026 movie release dates - Entertainment Weekly",
@@ -2050,8 +2048,8 @@
           ]
         },
         {
-          "id": "film-1-745230891618355774",
-          "key": "film-1-745230891618355774",
+          "id": "film-1-1666277952887632303",
+          "key": "film-1-1666277952887632303",
           "category": "Film",
           "label": "Film",
           "headline": "‘Cookie Queens’ Review: A Doc About Girl Scout Cookies, Produced by Meghan Markle and Prince Harry, Is Too Much of a Reality-Show Ramble",
@@ -2078,8 +2076,8 @@
           ]
         },
         {
-          "id": "film-11-9014532458953207156",
-          "key": "film-11-9014532458953207156",
+          "id": "film-11-67096191356399259",
+          "key": "film-11-67096191356399259",
           "category": "Film",
           "label": "Film",
           "headline": "Anthony Michael Hall Says ‘Breakfast Club’ Director John Hughes Hoped For A Sequel With Grown-Up Characters",
@@ -2106,8 +2104,8 @@
           ]
         },
         {
-          "id": "film-23-3516453213418738470",
-          "key": "film-23-3516453213418738470",
+          "id": "film-23-2789825635096814253",
+          "key": "film-23-2789825635096814253",
           "category": "Film",
           "label": "Film",
           "headline": "40 Years Ago, Rob Reiner Turned Stephen King’s Most Personal Story Into a Surprise Hit",
@@ -2134,8 +2132,8 @@
           ]
         },
         {
-          "id": "film-33-8879206726905735531",
-          "key": "film-33-8879206726905735531",
+          "id": "film-33-736041339984255847",
+          "key": "film-33-736041339984255847",
           "category": "Film",
           "label": "Film",
           "headline": "Everything to know about ‘Madden,’ a new movie coming to Prime Video November 18 - About Amazon",
@@ -2162,51 +2160,51 @@
           ]
         }
       ],
-      "updated_at": "2026-08-08 05:31:00 PM ET"
+      "updated_at": "2026-08-08 06:29:58 PM ET"
     },
     {
       "key": "tv",
       "name": "TV",
       "title": "TV Report",
-      "headline": "Bill Maher’s Joke About Ariana Grande’s Weight Draws Groans From ‘Real Time’ Audience",
+      "headline": "‘Abbott Elementary’ Stars Sheryl Lee Ralph and Janelle James on the Paramount-Warner Bros. Merger: ‘We’ve Lost Too Many People’",
       "snapshot": "TV coverage is updating with 7 current RSS headline item(s).",
       "key_storylines": [
-        "Bill Maher’s Joke About Ariana Grande’s Weight Draws Groans From ‘Real Time’ Audience",
-        "‘Heated Rivalry’ Author Appears To Dismiss Negative Reactions To Season 2 Casting",
+        "‘Abbott Elementary’ Stars Sheryl Lee Ralph and Janelle James on the Paramount-Warner Bros. Merger: ‘We’ve Lost Too Many People’",
+        "‘Monsters Of God’ Slithers Onto HBO: Reptilian Docuseries From ‘Tiger King’s Eric Goode",
         "Jake T. Austin Says He Wasn’t Invited to Partake in ‘Wizards of Waverly Place’ Revival: “Disappointed”",
         "Shemaroo gets MIB nod to launch Hindi entertainment channel Mango TV - Indian Television Dot Com",
-        "Behind the Scenes of Obama’s Acting Cameo in ‘Life, Larry’: Blaming Larry David for His Tan Suit Debacle, Improvising Lines and Ranting About Ketchup"
+        "‘Heated Rivalry’ Author Brushes Off Negativity Surrounding Season 2 Casting"
       ],
       "watch_list": [
-        "Bill Maher’s Joke About Ariana Grande’s Weight Draws Groans From ‘Real Time’ Audience",
-        "‘Heated Rivalry’ Author Appears To Dismiss Negative Reactions To Season 2 Casting",
+        "‘Abbott Elementary’ Stars Sheryl Lee Ralph and Janelle James on the Paramount-Warner Bros. Merger: ‘We’ve Lost Too Many People’",
+        "‘Monsters Of God’ Slithers Onto HBO: Reptilian Docuseries From ‘Tiger King’s Eric Goode",
         "Jake T. Austin Says He Wasn’t Invited to Partake in ‘Wizards of Waverly Place’ Revival: “Disappointed”",
         "Shemaroo gets MIB nod to launch Hindi entertainment channel Mango TV - Indian Television Dot Com",
-        "Behind the Scenes of Obama’s Acting Cameo in ‘Life, Larry’: Blaming Larry David for His Tan Suit Debacle, Improvising Lines and Ranting About Ketchup",
-        "Madeleine Carlisle, Former ’60 Minutes’ Associate Producer & Daughter Of Stephen Colbert, Lands Writing Gig At The Atlantic",
+        "‘Heated Rivalry’ Author Brushes Off Negativity Surrounding Season 2 Casting",
+        "‘Heated Rivalry’ Author Appears To Dismiss Negative Reactions To Season 2 Casting",
         "Streaming Ratings: ‘Love Island USA’ Scores Another All-Time High Leading Up to Season 8 Finale"
       ],
       "homepage_cards": [
         {
-          "id": "tv-0-5357760493736593697",
-          "key": "tv-0-5357760493736593697",
+          "id": "tv-0-807703344045696833",
+          "key": "tv-0-807703344045696833",
           "category": "TV",
           "label": "TV",
-          "headline": "Bill Maher’s Joke About Ariana Grande’s Weight Draws Groans From ‘Real Time’ Audience",
-          "title": "Bill Maher’s Joke About Ariana Grande’s Weight Draws Groans From ‘Real Time’ Audience",
-          "snapshot": "Bill Maher made a joke about Ariana Grande’s weight during Friday’s episode of “Real Time,” and drew mixed reactions from his live audience. “I hope the aliens are here, I do. I hope they’re here and watching us and they’re going to save us,” Maher said during his opening monologue. “And, by the way, the […]",
-          "summary": "Bill Maher made a joke about Ariana Grande’s weight during Friday’s episode of “Real Time,” and drew mixed reactions from his live audience. “I hope the aliens are here, I do. I hope they’re here and watching us and they’re going to save us,” Maher said during his opening monologue. “And, by the way, the […]",
-          "url": "https://variety.com/2026/tv/news/bill-maher-joke-ariana-grande-weight-real-time-1236830643/",
+          "headline": "‘Abbott Elementary’ Stars Sheryl Lee Ralph and Janelle James on the Paramount-Warner Bros. Merger: ‘We’ve Lost Too Many People’",
+          "title": "‘Abbott Elementary’ Stars Sheryl Lee Ralph and Janelle James on the Paramount-Warner Bros. Merger: ‘We’ve Lost Too Many People’",
+          "snapshot": "As “Abbott Elementary” gears up for Season 6 production in just a few short weeks, stars Sheryl Lee Ralph, Janelle James and Luke Tennie are reflecting on turbulent changes in the industry — from the pending Paramount-Warner Bros. merger to production struggling in Los Angeles. “Any time there is a consolidation, so...",
+          "summary": "As “Abbott Elementary” gears up for Season 6 production in just a few short weeks, stars Sheryl Lee Ralph, Janelle James and Luke Tennie are reflecting on turbulent changes in the industry — from the pending Paramount-Warner Bros. merger to production struggling in Los Angeles. “Any time there is a consolidation, so...",
+          "url": "https://variety.com/2026/scene/news/abbott-elementary-sheryl-lee-ralph-janelle-james-paramount-1236830682/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/tv/feed/",
-          "published_at": "2026-08-08 01:38:25 PM ET",
+          "published_at": "2026-08-08 06:19:26 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Bill Maher’s Joke About Ariana Grande’s Weight Draws Groans From ‘Real Time’ Audience"
+            "‘Abbott Elementary’ Stars Sheryl Lee Ralph and Janelle James on the Paramount-Warner Bros. Merger: ‘We’ve Lost Too Many People’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2216,25 +2214,25 @@
           ]
         },
         {
-          "id": "tv-10-8147260159954206295",
-          "key": "tv-10-8147260159954206295",
+          "id": "tv-10-6240405004040808826",
+          "key": "tv-10-6240405004040808826",
           "category": "TV",
           "label": "TV",
-          "headline": "‘Heated Rivalry’ Author Appears To Dismiss Negative Reactions To Season 2 Casting",
-          "title": "‘Heated Rivalry’ Author Appears To Dismiss Negative Reactions To Season 2 Casting",
-          "snapshot": "As Heated Rivalry hits the ice for another season with some new teammates, there’s bound to be some opinions about the casting choices for the book series’ beloved characters. Following the news that Justice Smith and Charlie Gillespie have been cast in Season 2, author Rachel Reid appeared to respond to negative on...",
-          "summary": "As Heated Rivalry hits the ice for another season with some new teammates, there’s bound to be some opinions about the casting choices for the book series’ beloved characters. Following the news that Justice Smith and Charlie Gillespie have been cast in Season 2, author Rachel Reid appeared to respond to negative on...",
-          "url": "https://deadline.com/2026/08/heated-rivalry-author-dismiss-negative-reactions-season-2-casting-1237029395/",
+          "headline": "‘Monsters Of God’ Slithers Onto HBO: Reptilian Docuseries From ‘Tiger King’s Eric Goode",
+          "title": "‘Monsters Of God’ Slithers Onto HBO: Reptilian Docuseries From ‘Tiger King’s Eric Goode",
+          "snapshot": "HBO’s new documentary series Monsters of God abounds with colorful creatures – and those are just the humans. The five-parter from Tiger King co-director Eric Goode features reptile dealers with a fondness for creepy crawlies and a loose connection to ethical and legal mores. There’s Tom Crutchfield, who loves women...",
+          "summary": "HBO’s new documentary series Monsters of God abounds with colorful creatures – and those are just the humans. The five-parter from Tiger King co-director Eric Goode features reptile dealers with a fondness for creepy crawlies and a loose connection to ethical and legal mores. There’s Tom Crutchfield, who loves women...",
+          "url": "https://deadline.com/2026/08/monsters-of-god-interview-eric-goode-1237029438/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/tv/feed/",
-          "published_at": "2026-08-08 05:25:40 PM ET",
+          "published_at": "2026-08-08 05:50:50 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "‘Heated Rivalry’ Author Appears To Dismiss Negative Reactions To Season 2 Casting"
+            "‘Monsters Of God’ Slithers Onto HBO: Reptilian Docuseries From ‘Tiger King’s Eric Goode"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2244,8 +2242,8 @@
           ]
         },
         {
-          "id": "tv-21-7117326025950806322",
-          "key": "tv-21-7117326025950806322",
+          "id": "tv-22-3259801394188976570",
+          "key": "tv-22-3259801394188976570",
           "category": "TV",
           "label": "TV",
           "headline": "Jake T. Austin Says He Wasn’t Invited to Partake in ‘Wizards of Waverly Place’ Revival: “Disappointed”",
@@ -2260,7 +2258,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 79,
+          "priority_score": 78,
           "key_data": [
             "Jake T. Austin Says He Wasn’t Invited to Partake in ‘Wizards of Waverly Place’ Revival: “Disappointed”"
           ],
@@ -2272,8 +2270,8 @@
           ]
         },
         {
-          "id": "tv-31-3899628977507848009",
-          "key": "tv-31-3899628977507848009",
+          "id": "tv-32-5944282692495305150",
+          "key": "tv-32-5944282692495305150",
           "category": "TV",
           "label": "TV",
           "headline": "Shemaroo gets MIB nod to launch Hindi entertainment channel Mango TV - Indian Television Dot Com",
@@ -2288,7 +2286,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 69,
+          "priority_score": 68,
           "key_data": [
             "Shemaroo gets MIB nod to launch Hindi entertainment channel Mango TV - Indian Television Dot Com"
           ],
@@ -2300,25 +2298,25 @@
           ]
         },
         {
-          "id": "tv-1-2770787294086164436",
-          "key": "tv-1-2770787294086164436",
+          "id": "tv-1-3329574692758586823",
+          "key": "tv-1-3329574692758586823",
           "category": "TV",
           "label": "TV",
-          "headline": "Behind the Scenes of Obama’s Acting Cameo in ‘Life, Larry’: Blaming Larry David for His Tan Suit Debacle, Improvising Lines and Ranting About Ketchup",
-          "title": "Behind the Scenes of Obama’s Acting Cameo in ‘Life, Larry’: Blaming Larry David for His Tan Suit Debacle, Improvising Lines and Ranting About Ketchup",
-          "snapshot": "In his HBO sketch series “Life, Larry and the Pursuit of Unhappiness,” Larry David travels throughout history, inserting his stubborn and curmudgeonly self into America’s most pivotal moments. “Lawrence,” as he’s often called, fights in the trenches of World War I, heckles George Washington during his Farewell Addre...",
-          "summary": "In his HBO sketch series “Life, Larry and the Pursuit of Unhappiness,” Larry David travels throughout history, inserting his stubborn and curmudgeonly self into America’s most pivotal moments. “Lawrence,” as he’s often called, fights in the trenches of World War I, heckles George Washington during his Farewell Addre...",
-          "url": "https://variety.com/2026/tv/news/obama-larry-david-show-tan-suit-1236829485/",
+          "headline": "‘Heated Rivalry’ Author Brushes Off Negativity Surrounding Season 2 Casting",
+          "title": "‘Heated Rivalry’ Author Brushes Off Negativity Surrounding Season 2 Casting",
+          "snapshot": "“Game Changer” author Rachel Reid is unbothered by the early critics of the “Heated Rivalry’s” upcoming second season. On Friday, it was revealed that Justice Smith and Charlie Gillespie are joining the Season 2 cast of “Heated Rivalry.” Then, later that same day, Reid took to her Instagram story to seemingly dismis...",
+          "summary": "“Game Changer” author Rachel Reid is unbothered by the early critics of the “Heated Rivalry’s” upcoming second season. On Friday, it was revealed that Justice Smith and Charlie Gillespie are joining the Season 2 cast of “Heated Rivalry.” Then, later that same day, Reid took to her Instagram story to seemingly dismis...",
+          "url": "https://variety.com/2026/tv/news/heated-rivalry-author-negativity-season-2-casting-1236830685/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/tv/feed/",
-          "published_at": "2026-08-07 09:35:00 PM ET",
+          "published_at": "2026-08-08 05:58:33 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Behind the Scenes of Obama’s Acting Cameo in ‘Life, Larry’: Blaming Larry David for His Tan Suit Debacle, Improvising Lines and Ranting About Ketchup"
+            "‘Heated Rivalry’ Author Brushes Off Negativity Surrounding Season 2 Casting"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2328,25 +2326,25 @@
           ]
         },
         {
-          "id": "tv-11-1692463606439099509",
-          "key": "tv-11-1692463606439099509",
+          "id": "tv-11-7578933065243962791",
+          "key": "tv-11-7578933065243962791",
           "category": "TV",
           "label": "TV",
-          "headline": "Madeleine Carlisle, Former ’60 Minutes’ Associate Producer & Daughter Of Stephen Colbert, Lands Writing Gig At The Atlantic",
-          "title": "Madeleine Carlisle, Former ’60 Minutes’ Associate Producer & Daughter Of Stephen Colbert, Lands Writing Gig At The Atlantic",
-          "snapshot": "Madeleine Carlisle, the recently-ex 60 Minutes associate producer and daughter of Stephen Colbert, has landed a new job: Staff writer at The Atlantic. The magazine yesterday announced that Carlisle is one of two new staff writing hires, along with Danyel Smith, who for three years has been a contributing writer to T...",
-          "summary": "Madeleine Carlisle, the recently-ex 60 Minutes associate producer and daughter of Stephen Colbert, has landed a new job: Staff writer at The Atlantic. The magazine yesterday announced that Carlisle is one of two new staff writing hires, along with Danyel Smith, who for three years has been a contributing writer to T...",
-          "url": "https://deadline.com/2026/08/madeleine-carlisle-stephen-colbert-60-minutes-atlantic-1237029326/",
+          "headline": "‘Heated Rivalry’ Author Appears To Dismiss Negative Reactions To Season 2 Casting",
+          "title": "‘Heated Rivalry’ Author Appears To Dismiss Negative Reactions To Season 2 Casting",
+          "snapshot": "As Heated Rivalry hits the ice for another season with some new teammates, there’s bound to be some opinions about the casting choices for the book series’ beloved characters. Following the news that Justice Smith and Charlie Gillespie have been cast in Season 2, author Rachel Reid appeared to respond to negative on...",
+          "summary": "As Heated Rivalry hits the ice for another season with some new teammates, there’s bound to be some opinions about the casting choices for the book series’ beloved characters. Following the news that Justice Smith and Charlie Gillespie have been cast in Season 2, author Rachel Reid appeared to respond to negative on...",
+          "url": "https://deadline.com/2026/08/heated-rivalry-author-dismiss-negative-reactions-season-2-casting-1237029395/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/tv/feed/",
-          "published_at": "2026-08-08 12:08:03 PM ET",
+          "published_at": "2026-08-08 05:25:40 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "Madeleine Carlisle, Former ’60 Minutes’ Associate Producer & Daughter Of Stephen Colbert, Lands Writing Gig At The Atlantic"
+            "‘Heated Rivalry’ Author Appears To Dismiss Negative Reactions To Season 2 Casting"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2356,8 +2354,8 @@
           ]
         },
         {
-          "id": "tv-22-4477121579172084739",
-          "key": "tv-22-4477121579172084739",
+          "id": "tv-23-102184894078301131",
+          "key": "tv-23-102184894078301131",
           "category": "TV",
           "label": "TV",
           "headline": "Streaming Ratings: ‘Love Island USA’ Scores Another All-Time High Leading Up to Season 8 Finale",
@@ -2372,7 +2370,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 78,
+          "priority_score": 77,
           "key_data": [
             "Streaming Ratings: ‘Love Island USA’ Scores Another All-Time High Leading Up to Season 8 Finale"
           ],
@@ -2386,25 +2384,25 @@
       ],
       "items": [
         {
-          "id": "tv-0-5357760493736593697",
-          "key": "tv-0-5357760493736593697",
+          "id": "tv-0-807703344045696833",
+          "key": "tv-0-807703344045696833",
           "category": "TV",
           "label": "TV",
-          "headline": "Bill Maher’s Joke About Ariana Grande’s Weight Draws Groans From ‘Real Time’ Audience",
-          "title": "Bill Maher’s Joke About Ariana Grande’s Weight Draws Groans From ‘Real Time’ Audience",
-          "snapshot": "Bill Maher made a joke about Ariana Grande’s weight during Friday’s episode of “Real Time,” and drew mixed reactions from his live audience. “I hope the aliens are here, I do. I hope they’re here and watching us and they’re going to save us,” Maher said during his opening monologue. “And, by the way, the […]",
-          "summary": "Bill Maher made a joke about Ariana Grande’s weight during Friday’s episode of “Real Time,” and drew mixed reactions from his live audience. “I hope the aliens are here, I do. I hope they’re here and watching us and they’re going to save us,” Maher said during his opening monologue. “And, by the way, the […]",
-          "url": "https://variety.com/2026/tv/news/bill-maher-joke-ariana-grande-weight-real-time-1236830643/",
+          "headline": "‘Abbott Elementary’ Stars Sheryl Lee Ralph and Janelle James on the Paramount-Warner Bros. Merger: ‘We’ve Lost Too Many People’",
+          "title": "‘Abbott Elementary’ Stars Sheryl Lee Ralph and Janelle James on the Paramount-Warner Bros. Merger: ‘We’ve Lost Too Many People’",
+          "snapshot": "As “Abbott Elementary” gears up for Season 6 production in just a few short weeks, stars Sheryl Lee Ralph, Janelle James and Luke Tennie are reflecting on turbulent changes in the industry — from the pending Paramount-Warner Bros. merger to production struggling in Los Angeles. “Any time there is a consolidation, so...",
+          "summary": "As “Abbott Elementary” gears up for Season 6 production in just a few short weeks, stars Sheryl Lee Ralph, Janelle James and Luke Tennie are reflecting on turbulent changes in the industry — from the pending Paramount-Warner Bros. merger to production struggling in Los Angeles. “Any time there is a consolidation, so...",
+          "url": "https://variety.com/2026/scene/news/abbott-elementary-sheryl-lee-ralph-janelle-james-paramount-1236830682/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/tv/feed/",
-          "published_at": "2026-08-08 01:38:25 PM ET",
+          "published_at": "2026-08-08 06:19:26 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Bill Maher’s Joke About Ariana Grande’s Weight Draws Groans From ‘Real Time’ Audience"
+            "‘Abbott Elementary’ Stars Sheryl Lee Ralph and Janelle James on the Paramount-Warner Bros. Merger: ‘We’ve Lost Too Many People’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2414,25 +2412,25 @@
           ]
         },
         {
-          "id": "tv-10-8147260159954206295",
-          "key": "tv-10-8147260159954206295",
+          "id": "tv-10-6240405004040808826",
+          "key": "tv-10-6240405004040808826",
           "category": "TV",
           "label": "TV",
-          "headline": "‘Heated Rivalry’ Author Appears To Dismiss Negative Reactions To Season 2 Casting",
-          "title": "‘Heated Rivalry’ Author Appears To Dismiss Negative Reactions To Season 2 Casting",
-          "snapshot": "As Heated Rivalry hits the ice for another season with some new teammates, there’s bound to be some opinions about the casting choices for the book series’ beloved characters. Following the news that Justice Smith and Charlie Gillespie have been cast in Season 2, author Rachel Reid appeared to respond to negative on...",
-          "summary": "As Heated Rivalry hits the ice for another season with some new teammates, there’s bound to be some opinions about the casting choices for the book series’ beloved characters. Following the news that Justice Smith and Charlie Gillespie have been cast in Season 2, author Rachel Reid appeared to respond to negative on...",
-          "url": "https://deadline.com/2026/08/heated-rivalry-author-dismiss-negative-reactions-season-2-casting-1237029395/",
+          "headline": "‘Monsters Of God’ Slithers Onto HBO: Reptilian Docuseries From ‘Tiger King’s Eric Goode",
+          "title": "‘Monsters Of God’ Slithers Onto HBO: Reptilian Docuseries From ‘Tiger King’s Eric Goode",
+          "snapshot": "HBO’s new documentary series Monsters of God abounds with colorful creatures – and those are just the humans. The five-parter from Tiger King co-director Eric Goode features reptile dealers with a fondness for creepy crawlies and a loose connection to ethical and legal mores. There’s Tom Crutchfield, who loves women...",
+          "summary": "HBO’s new documentary series Monsters of God abounds with colorful creatures – and those are just the humans. The five-parter from Tiger King co-director Eric Goode features reptile dealers with a fondness for creepy crawlies and a loose connection to ethical and legal mores. There’s Tom Crutchfield, who loves women...",
+          "url": "https://deadline.com/2026/08/monsters-of-god-interview-eric-goode-1237029438/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/tv/feed/",
-          "published_at": "2026-08-08 05:25:40 PM ET",
+          "published_at": "2026-08-08 05:50:50 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "‘Heated Rivalry’ Author Appears To Dismiss Negative Reactions To Season 2 Casting"
+            "‘Monsters Of God’ Slithers Onto HBO: Reptilian Docuseries From ‘Tiger King’s Eric Goode"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2442,8 +2440,8 @@
           ]
         },
         {
-          "id": "tv-21-7117326025950806322",
-          "key": "tv-21-7117326025950806322",
+          "id": "tv-22-3259801394188976570",
+          "key": "tv-22-3259801394188976570",
           "category": "TV",
           "label": "TV",
           "headline": "Jake T. Austin Says He Wasn’t Invited to Partake in ‘Wizards of Waverly Place’ Revival: “Disappointed”",
@@ -2458,7 +2456,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 79,
+          "priority_score": 78,
           "key_data": [
             "Jake T. Austin Says He Wasn’t Invited to Partake in ‘Wizards of Waverly Place’ Revival: “Disappointed”"
           ],
@@ -2470,8 +2468,8 @@
           ]
         },
         {
-          "id": "tv-31-3899628977507848009",
-          "key": "tv-31-3899628977507848009",
+          "id": "tv-32-5944282692495305150",
+          "key": "tv-32-5944282692495305150",
           "category": "TV",
           "label": "TV",
           "headline": "Shemaroo gets MIB nod to launch Hindi entertainment channel Mango TV - Indian Television Dot Com",
@@ -2486,7 +2484,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 69,
+          "priority_score": 68,
           "key_data": [
             "Shemaroo gets MIB nod to launch Hindi entertainment channel Mango TV - Indian Television Dot Com"
           ],
@@ -2498,25 +2496,25 @@
           ]
         },
         {
-          "id": "tv-1-2770787294086164436",
-          "key": "tv-1-2770787294086164436",
+          "id": "tv-1-3329574692758586823",
+          "key": "tv-1-3329574692758586823",
           "category": "TV",
           "label": "TV",
-          "headline": "Behind the Scenes of Obama’s Acting Cameo in ‘Life, Larry’: Blaming Larry David for His Tan Suit Debacle, Improvising Lines and Ranting About Ketchup",
-          "title": "Behind the Scenes of Obama’s Acting Cameo in ‘Life, Larry’: Blaming Larry David for His Tan Suit Debacle, Improvising Lines and Ranting About Ketchup",
-          "snapshot": "In his HBO sketch series “Life, Larry and the Pursuit of Unhappiness,” Larry David travels throughout history, inserting his stubborn and curmudgeonly self into America’s most pivotal moments. “Lawrence,” as he’s often called, fights in the trenches of World War I, heckles George Washington during his Farewell Addre...",
-          "summary": "In his HBO sketch series “Life, Larry and the Pursuit of Unhappiness,” Larry David travels throughout history, inserting his stubborn and curmudgeonly self into America’s most pivotal moments. “Lawrence,” as he’s often called, fights in the trenches of World War I, heckles George Washington during his Farewell Addre...",
-          "url": "https://variety.com/2026/tv/news/obama-larry-david-show-tan-suit-1236829485/",
+          "headline": "‘Heated Rivalry’ Author Brushes Off Negativity Surrounding Season 2 Casting",
+          "title": "‘Heated Rivalry’ Author Brushes Off Negativity Surrounding Season 2 Casting",
+          "snapshot": "“Game Changer” author Rachel Reid is unbothered by the early critics of the “Heated Rivalry’s” upcoming second season. On Friday, it was revealed that Justice Smith and Charlie Gillespie are joining the Season 2 cast of “Heated Rivalry.” Then, later that same day, Reid took to her Instagram story to seemingly dismis...",
+          "summary": "“Game Changer” author Rachel Reid is unbothered by the early critics of the “Heated Rivalry’s” upcoming second season. On Friday, it was revealed that Justice Smith and Charlie Gillespie are joining the Season 2 cast of “Heated Rivalry.” Then, later that same day, Reid took to her Instagram story to seemingly dismis...",
+          "url": "https://variety.com/2026/tv/news/heated-rivalry-author-negativity-season-2-casting-1236830685/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/tv/feed/",
-          "published_at": "2026-08-07 09:35:00 PM ET",
+          "published_at": "2026-08-08 05:58:33 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Behind the Scenes of Obama’s Acting Cameo in ‘Life, Larry’: Blaming Larry David for His Tan Suit Debacle, Improvising Lines and Ranting About Ketchup"
+            "‘Heated Rivalry’ Author Brushes Off Negativity Surrounding Season 2 Casting"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2526,25 +2524,25 @@
           ]
         },
         {
-          "id": "tv-11-1692463606439099509",
-          "key": "tv-11-1692463606439099509",
+          "id": "tv-11-7578933065243962791",
+          "key": "tv-11-7578933065243962791",
           "category": "TV",
           "label": "TV",
-          "headline": "Madeleine Carlisle, Former ’60 Minutes’ Associate Producer & Daughter Of Stephen Colbert, Lands Writing Gig At The Atlantic",
-          "title": "Madeleine Carlisle, Former ’60 Minutes’ Associate Producer & Daughter Of Stephen Colbert, Lands Writing Gig At The Atlantic",
-          "snapshot": "Madeleine Carlisle, the recently-ex 60 Minutes associate producer and daughter of Stephen Colbert, has landed a new job: Staff writer at The Atlantic. The magazine yesterday announced that Carlisle is one of two new staff writing hires, along with Danyel Smith, who for three years has been a contributing writer to T...",
-          "summary": "Madeleine Carlisle, the recently-ex 60 Minutes associate producer and daughter of Stephen Colbert, has landed a new job: Staff writer at The Atlantic. The magazine yesterday announced that Carlisle is one of two new staff writing hires, along with Danyel Smith, who for three years has been a contributing writer to T...",
-          "url": "https://deadline.com/2026/08/madeleine-carlisle-stephen-colbert-60-minutes-atlantic-1237029326/",
+          "headline": "‘Heated Rivalry’ Author Appears To Dismiss Negative Reactions To Season 2 Casting",
+          "title": "‘Heated Rivalry’ Author Appears To Dismiss Negative Reactions To Season 2 Casting",
+          "snapshot": "As Heated Rivalry hits the ice for another season with some new teammates, there’s bound to be some opinions about the casting choices for the book series’ beloved characters. Following the news that Justice Smith and Charlie Gillespie have been cast in Season 2, author Rachel Reid appeared to respond to negative on...",
+          "summary": "As Heated Rivalry hits the ice for another season with some new teammates, there’s bound to be some opinions about the casting choices for the book series’ beloved characters. Following the news that Justice Smith and Charlie Gillespie have been cast in Season 2, author Rachel Reid appeared to respond to negative on...",
+          "url": "https://deadline.com/2026/08/heated-rivalry-author-dismiss-negative-reactions-season-2-casting-1237029395/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/tv/feed/",
-          "published_at": "2026-08-08 12:08:03 PM ET",
+          "published_at": "2026-08-08 05:25:40 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "Madeleine Carlisle, Former ’60 Minutes’ Associate Producer & Daughter Of Stephen Colbert, Lands Writing Gig At The Atlantic"
+            "‘Heated Rivalry’ Author Appears To Dismiss Negative Reactions To Season 2 Casting"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2554,8 +2552,8 @@
           ]
         },
         {
-          "id": "tv-22-4477121579172084739",
-          "key": "tv-22-4477121579172084739",
+          "id": "tv-23-102184894078301131",
+          "key": "tv-23-102184894078301131",
           "category": "TV",
           "label": "TV",
           "headline": "Streaming Ratings: ‘Love Island USA’ Scores Another All-Time High Leading Up to Season 8 Finale",
@@ -2570,7 +2568,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 78,
+          "priority_score": 77,
           "key_data": [
             "Streaming Ratings: ‘Love Island USA’ Scores Another All-Time High Leading Up to Season 8 Finale"
           ],
@@ -2582,7 +2580,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-08 05:31:01 PM ET"
+      "updated_at": "2026-08-08 06:29:59 PM ET"
     },
     {
       "key": "streaming",
@@ -2600,8 +2598,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "streaming-0-3104284295487978278",
-          "key": "streaming-0-3104284295487978278",
+          "id": "streaming-0-1591329320849359331",
+          "key": "streaming-0-1591329320849359331",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Disney turns $4-billion streaming loss into profit, and now it chases global growth - Los Angeles Times",
@@ -2628,8 +2626,8 @@
           ]
         },
         {
-          "id": "streaming-1-8284150473112151547",
-          "key": "streaming-1-8284150473112151547",
+          "id": "streaming-1-692448838011053920",
+          "key": "streaming-1-692448838011053920",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'The Devil Wears Prada 2' to 'Obsession,' 10 movies to stream now - USA Today",
@@ -2658,8 +2656,8 @@
       ],
       "items": [
         {
-          "id": "streaming-0-3104284295487978278",
-          "key": "streaming-0-3104284295487978278",
+          "id": "streaming-0-1591329320849359331",
+          "key": "streaming-0-1591329320849359331",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Disney turns $4-billion streaming loss into profit, and now it chases global growth - Los Angeles Times",
@@ -2686,8 +2684,8 @@
           ]
         },
         {
-          "id": "streaming-1-8284150473112151547",
-          "key": "streaming-1-8284150473112151547",
+          "id": "streaming-1-692448838011053920",
+          "key": "streaming-1-692448838011053920",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'The Devil Wears Prada 2' to 'Obsession,' 10 movies to stream now - USA Today",
@@ -2714,7 +2712,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-08 05:31:01 PM ET"
+      "updated_at": "2026-08-08 06:30:00 PM ET"
     },
     {
       "key": "music",
@@ -2724,23 +2722,23 @@
       "snapshot": "Music coverage is updating with 6 current RSS headline item(s).",
       "key_storylines": [
         "Morrissey Cancels Las Vegas Residency Days Before Showtime Due to ‘Unforeseen Logistical Issues’",
-        "Get Beats Earbuds for Just $69 As Part of This Back to School Deal",
+        "aespa Kicks Off SYNK : COMPLæXITY Tour in Seoul: 6 Best Moments",
         "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - billboard.com",
         "L.A. Jazz Festival, Which Was Supposed to Feature John Legend, Janelle Monáe and Hundreds More, Canceled at the Last Minute",
-        "Taylor Swift’s ‘August,’ ‘Father Figure’ & Other Songs Removed From Trump-Related TikTok Posts"
+        "Get Beats Earbuds for Just $69 As Part of This Back to School Deal"
       ],
       "watch_list": [
         "Morrissey Cancels Las Vegas Residency Days Before Showtime Due to ‘Unforeseen Logistical Issues’",
-        "Get Beats Earbuds for Just $69 As Part of This Back to School Deal",
+        "aespa Kicks Off SYNK : COMPLæXITY Tour in Seoul: 6 Best Moments",
         "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - billboard.com",
         "L.A. Jazz Festival, Which Was Supposed to Feature John Legend, Janelle Monáe and Hundreds More, Canceled at the Last Minute",
-        "Taylor Swift’s ‘August,’ ‘Father Figure’ & Other Songs Removed From Trump-Related TikTok Posts",
+        "Get Beats Earbuds for Just $69 As Part of This Back to School Deal",
         "It’s Official: Influence Media to Buy Anthem for Over $600 Million - Billboard"
       ],
       "homepage_cards": [
         {
-          "id": "music-0-4855890369098525926",
-          "key": "music-0-4855890369098525926",
+          "id": "music-0-9157130244933396390",
+          "key": "music-0-9157130244933396390",
           "category": "Music",
           "label": "Music",
           "headline": "Morrissey Cancels Las Vegas Residency Days Before Showtime Due to ‘Unforeseen Logistical Issues’",
@@ -2767,25 +2765,25 @@
           ]
         },
         {
-          "id": "music-10-2323718332935072557",
-          "key": "music-10-2323718332935072557",
+          "id": "music-10-7121825058155007108",
+          "key": "music-10-7121825058155007108",
           "category": "Music",
           "label": "Music",
-          "headline": "Get Beats Earbuds for Just $69 As Part of This Back to School Deal",
-          "title": "Get Beats Earbuds for Just $69 As Part of This Back to School Deal",
-          "snapshot": "Beats products used to cost a pretty penny, but not anymore.",
-          "summary": "Beats products used to cost a pretty penny, but not anymore.",
-          "url": "https://www.billboard.com/culture/product-recommendations/best-beats-wireless-earbuds-deal-shop-sale-price-online-1236043439/",
+          "headline": "aespa Kicks Off SYNK : COMPLæXITY Tour in Seoul: 6 Best Moments",
+          "title": "aespa Kicks Off SYNK : COMPLæXITY Tour in Seoul: 6 Best Moments",
+          "snapshot": "aespa opened its fourth world tour at with 27 songs, an expanded universe and a show that brought the group's many sides into full view.",
+          "summary": "aespa opened its fourth world tour at with 27 songs, an expanded universe and a show that brought the group's many sides into full view.",
+          "url": "https://www.billboard.com/lists/aespa-synk-complaexity-tour-seoul-best-moments/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-08 03:39:00 PM ET",
+          "published_at": "2026-08-08 05:49:46 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "Get Beats Earbuds for Just $69 As Part of This Back to School Deal"
+            "aespa Kicks Off SYNK : COMPLæXITY Tour in Seoul: 6 Best Moments"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2795,8 +2793,8 @@
           ]
         },
         {
-          "id": "music-20-462297169941807253",
-          "key": "music-20-462297169941807253",
+          "id": "music-20-1813710514848221834",
+          "key": "music-20-1813710514848221834",
           "category": "Music",
           "label": "Music",
           "headline": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - billboard.com",
@@ -2823,8 +2821,8 @@
           ]
         },
         {
-          "id": "music-1-3592935518100995811",
-          "key": "music-1-3592935518100995811",
+          "id": "music-1-1878062991871624329",
+          "key": "music-1-1878062991871624329",
           "category": "Music",
           "label": "Music",
           "headline": "L.A. Jazz Festival, Which Was Supposed to Feature John Legend, Janelle Monáe and Hundreds More, Canceled at the Last Minute",
@@ -2851,25 +2849,25 @@
           ]
         },
         {
-          "id": "music-11-5206544535664975764",
-          "key": "music-11-5206544535664975764",
+          "id": "music-11-2249606340816637314",
+          "key": "music-11-2249606340816637314",
           "category": "Music",
           "label": "Music",
-          "headline": "Taylor Swift’s ‘August,’ ‘Father Figure’ & Other Songs Removed From Trump-Related TikTok Posts",
-          "title": "Taylor Swift’s ‘August,’ ‘Father Figure’ & Other Songs Removed From Trump-Related TikTok Posts",
-          "snapshot": "A White House TikTok featuring “The Fate of Ophelia” has also been removed.",
-          "summary": "A White House TikTok featuring “The Fate of Ophelia” has also been removed.",
-          "url": "https://www.billboard.com/music/music-news/taylor-swift-songs-removed-trump-tiktok-posts-1236312291/",
+          "headline": "Get Beats Earbuds for Just $69 As Part of This Back to School Deal",
+          "title": "Get Beats Earbuds for Just $69 As Part of This Back to School Deal",
+          "snapshot": "Beats products used to cost a pretty penny, but not anymore.",
+          "summary": "Beats products used to cost a pretty penny, but not anymore.",
+          "url": "https://www.billboard.com/culture/product-recommendations/best-beats-wireless-earbuds-deal-shop-sale-price-online-1236043439/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-08 03:36:25 PM ET",
+          "published_at": "2026-08-08 03:39:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "Taylor Swift’s ‘August,’ ‘Father Figure’ & Other Songs Removed From Trump-Related TikTok Posts"
+            "Get Beats Earbuds for Just $69 As Part of This Back to School Deal"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2879,8 +2877,8 @@
           ]
         },
         {
-          "id": "music-21-6467278993138852851",
-          "key": "music-21-6467278993138852851",
+          "id": "music-21-1219091838786152371",
+          "key": "music-21-1219091838786152371",
           "category": "Music",
           "label": "Music",
           "headline": "It’s Official: Influence Media to Buy Anthem for Over $600 Million - Billboard",
@@ -2909,8 +2907,8 @@
       ],
       "items": [
         {
-          "id": "music-0-4855890369098525926",
-          "key": "music-0-4855890369098525926",
+          "id": "music-0-9157130244933396390",
+          "key": "music-0-9157130244933396390",
           "category": "Music",
           "label": "Music",
           "headline": "Morrissey Cancels Las Vegas Residency Days Before Showtime Due to ‘Unforeseen Logistical Issues’",
@@ -2937,25 +2935,25 @@
           ]
         },
         {
-          "id": "music-10-2323718332935072557",
-          "key": "music-10-2323718332935072557",
+          "id": "music-10-7121825058155007108",
+          "key": "music-10-7121825058155007108",
           "category": "Music",
           "label": "Music",
-          "headline": "Get Beats Earbuds for Just $69 As Part of This Back to School Deal",
-          "title": "Get Beats Earbuds for Just $69 As Part of This Back to School Deal",
-          "snapshot": "Beats products used to cost a pretty penny, but not anymore.",
-          "summary": "Beats products used to cost a pretty penny, but not anymore.",
-          "url": "https://www.billboard.com/culture/product-recommendations/best-beats-wireless-earbuds-deal-shop-sale-price-online-1236043439/",
+          "headline": "aespa Kicks Off SYNK : COMPLæXITY Tour in Seoul: 6 Best Moments",
+          "title": "aespa Kicks Off SYNK : COMPLæXITY Tour in Seoul: 6 Best Moments",
+          "snapshot": "aespa opened its fourth world tour at with 27 songs, an expanded universe and a show that brought the group's many sides into full view.",
+          "summary": "aespa opened its fourth world tour at with 27 songs, an expanded universe and a show that brought the group's many sides into full view.",
+          "url": "https://www.billboard.com/lists/aespa-synk-complaexity-tour-seoul-best-moments/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-08 03:39:00 PM ET",
+          "published_at": "2026-08-08 05:49:46 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "Get Beats Earbuds for Just $69 As Part of This Back to School Deal"
+            "aespa Kicks Off SYNK : COMPLæXITY Tour in Seoul: 6 Best Moments"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2965,8 +2963,8 @@
           ]
         },
         {
-          "id": "music-20-462297169941807253",
-          "key": "music-20-462297169941807253",
+          "id": "music-20-1813710514848221834",
+          "key": "music-20-1813710514848221834",
           "category": "Music",
           "label": "Music",
           "headline": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - billboard.com",
@@ -2993,8 +2991,8 @@
           ]
         },
         {
-          "id": "music-1-3592935518100995811",
-          "key": "music-1-3592935518100995811",
+          "id": "music-1-1878062991871624329",
+          "key": "music-1-1878062991871624329",
           "category": "Music",
           "label": "Music",
           "headline": "L.A. Jazz Festival, Which Was Supposed to Feature John Legend, Janelle Monáe and Hundreds More, Canceled at the Last Minute",
@@ -3021,25 +3019,25 @@
           ]
         },
         {
-          "id": "music-11-5206544535664975764",
-          "key": "music-11-5206544535664975764",
+          "id": "music-11-2249606340816637314",
+          "key": "music-11-2249606340816637314",
           "category": "Music",
           "label": "Music",
-          "headline": "Taylor Swift’s ‘August,’ ‘Father Figure’ & Other Songs Removed From Trump-Related TikTok Posts",
-          "title": "Taylor Swift’s ‘August,’ ‘Father Figure’ & Other Songs Removed From Trump-Related TikTok Posts",
-          "snapshot": "A White House TikTok featuring “The Fate of Ophelia” has also been removed.",
-          "summary": "A White House TikTok featuring “The Fate of Ophelia” has also been removed.",
-          "url": "https://www.billboard.com/music/music-news/taylor-swift-songs-removed-trump-tiktok-posts-1236312291/",
+          "headline": "Get Beats Earbuds for Just $69 As Part of This Back to School Deal",
+          "title": "Get Beats Earbuds for Just $69 As Part of This Back to School Deal",
+          "snapshot": "Beats products used to cost a pretty penny, but not anymore.",
+          "summary": "Beats products used to cost a pretty penny, but not anymore.",
+          "url": "https://www.billboard.com/culture/product-recommendations/best-beats-wireless-earbuds-deal-shop-sale-price-online-1236043439/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-08 03:36:25 PM ET",
+          "published_at": "2026-08-08 03:39:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "Taylor Swift’s ‘August,’ ‘Father Figure’ & Other Songs Removed From Trump-Related TikTok Posts"
+            "Get Beats Earbuds for Just $69 As Part of This Back to School Deal"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3049,8 +3047,8 @@
           ]
         },
         {
-          "id": "music-21-6467278993138852851",
-          "key": "music-21-6467278993138852851",
+          "id": "music-21-1219091838786152371",
+          "key": "music-21-1219091838786152371",
           "category": "Music",
           "label": "Music",
           "headline": "It’s Official: Influence Media to Buy Anthem for Over $600 Million - Billboard",
@@ -3077,7 +3075,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-08 05:31:02 PM ET"
+      "updated_at": "2026-08-08 06:30:00 PM ET"
     },
     {
       "key": "awards",
@@ -3087,20 +3085,20 @@
       "snapshot": "Awards coverage is updating with 4 current RSS headline item(s).",
       "key_storylines": [
         "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
-        "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - deadline.com",
+        "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline",
         "James Gray Says AI Is ‘Worthless’ and Young People Won’t Stand for It: They ‘Have a Real Hunger for Interesting, Honest Stuff’",
         "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo"
       ],
       "watch_list": [
         "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
-        "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - deadline.com",
+        "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline",
         "James Gray Says AI Is ‘Worthless’ and Young People Won’t Stand for It: They ‘Have a Real Hunger for Interesting, Honest Stuff’",
         "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo"
       ],
       "homepage_cards": [
         {
-          "id": "awards-0-2917591859719435044",
-          "key": "awards-0-2917591859719435044",
+          "id": "awards-0-4348983708488144054",
+          "key": "awards-0-4348983708488144054",
           "category": "Awards",
           "label": "Awards",
           "headline": "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
@@ -3127,14 +3125,14 @@
           ]
         },
         {
-          "id": "awards-5-3112934958474358350",
-          "key": "awards-5-3112934958474358350",
+          "id": "awards-5-4302255992763149683",
+          "key": "awards-5-4302255992763149683",
           "category": "Awards",
           "label": "Awards",
-          "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - deadline.com",
-          "title": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - deadline.com",
-          "snapshot": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More deadline.com",
-          "summary": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More deadline.com",
+          "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline",
+          "title": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline",
+          "snapshot": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More Deadline",
+          "summary": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More Deadline",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdGg4QjJyZUJKQ2FiQTJmTllYMEE0WlN6V19uVXlWVjROc0ZVMUd0RV84VExSb2U3U05kbzdWVVBJdC1PLTV4UC1VREMtMHVfZW05VGpQS09JX3JPWERkQVM4eWdic1BtVldkeGJIeURUTlFRMlp4MjU4T1BRRXlNdUR3TEJZcnRfbWxTdWQxNUZjbk5PR2ktc1NlUQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3145,7 +3143,7 @@
           "story_type": "rss_headline",
           "priority_score": 95,
           "key_data": [
-            "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - deadline.com"
+            "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3155,8 +3153,8 @@
           ]
         },
         {
-          "id": "awards-1-851599254963900796",
-          "key": "awards-1-851599254963900796",
+          "id": "awards-1-3863976316351731819",
+          "key": "awards-1-3863976316351731819",
           "category": "Awards",
           "label": "Awards",
           "headline": "James Gray Says AI Is ‘Worthless’ and Young People Won’t Stand for It: They ‘Have a Real Hunger for Interesting, Honest Stuff’",
@@ -3183,8 +3181,8 @@
           ]
         },
         {
-          "id": "awards-6-496938683395676734",
-          "key": "awards-6-496938683395676734",
+          "id": "awards-6-2986832603579225234",
+          "key": "awards-6-2986832603579225234",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo",
@@ -3213,8 +3211,8 @@
       ],
       "items": [
         {
-          "id": "awards-0-2917591859719435044",
-          "key": "awards-0-2917591859719435044",
+          "id": "awards-0-4348983708488144054",
+          "key": "awards-0-4348983708488144054",
           "category": "Awards",
           "label": "Awards",
           "headline": "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
@@ -3241,14 +3239,14 @@
           ]
         },
         {
-          "id": "awards-5-3112934958474358350",
-          "key": "awards-5-3112934958474358350",
+          "id": "awards-5-4302255992763149683",
+          "key": "awards-5-4302255992763149683",
           "category": "Awards",
           "label": "Awards",
-          "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - deadline.com",
-          "title": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - deadline.com",
-          "snapshot": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More deadline.com",
-          "summary": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More deadline.com",
+          "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline",
+          "title": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline",
+          "snapshot": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More Deadline",
+          "summary": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More Deadline",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdGg4QjJyZUJKQ2FiQTJmTllYMEE0WlN6V19uVXlWVjROc0ZVMUd0RV84VExSb2U3U05kbzdWVVBJdC1PLTV4UC1VREMtMHVfZW05VGpQS09JX3JPWERkQVM4eWdic1BtVldkeGJIeURUTlFRMlp4MjU4T1BRRXlNdUR3TEJZcnRfbWxTdWQxNUZjbk5PR2ktc1NlUQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3259,7 +3257,7 @@
           "story_type": "rss_headline",
           "priority_score": 95,
           "key_data": [
-            "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - deadline.com"
+            "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3269,8 +3267,8 @@
           ]
         },
         {
-          "id": "awards-1-851599254963900796",
-          "key": "awards-1-851599254963900796",
+          "id": "awards-1-3863976316351731819",
+          "key": "awards-1-3863976316351731819",
           "category": "Awards",
           "label": "Awards",
           "headline": "James Gray Says AI Is ‘Worthless’ and Young People Won’t Stand for It: They ‘Have a Real Hunger for Interesting, Honest Stuff’",
@@ -3297,8 +3295,8 @@
           ]
         },
         {
-          "id": "awards-6-496938683395676734",
-          "key": "awards-6-496938683395676734",
+          "id": "awards-6-2986832603579225234",
+          "key": "awards-6-2986832603579225234",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo",
@@ -3325,7 +3323,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-08 05:31:03 PM ET"
+      "updated_at": "2026-08-08 06:30:01 PM ET"
     },
     {
       "key": "box_office",
@@ -3347,8 +3345,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "box_office-0-5288805543215505404",
-          "key": "box_office-0-5288805543215505404",
+          "id": "box_office-0-5608195653044608839",
+          "key": "box_office-0-5608195653044608839",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ Surpasses $1 Billion, Christopher Nolan’s First Movie Since ‘Dark Knight Rises’ to Reach Coveted Box Office Milestone",
@@ -3375,8 +3373,8 @@
           ]
         },
         {
-          "id": "box_office-9-1830394039167011094",
-          "key": "box_office-9-1830394039167011094",
+          "id": "box_office-9-4800915828012978819",
+          "key": "box_office-9-4800915828012978819",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History - The Hollywood Reporter",
@@ -3403,8 +3401,8 @@
           ]
         },
         {
-          "id": "box_office-1-7492487877325653034",
-          "key": "box_office-1-7492487877325653034",
+          "id": "box_office-1-2118608451774818970",
+          "key": "box_office-1-2118608451774818970",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ and ‘Spider-Man: Brand New Day’ Power $239 Million U.K., Ireland July Box Office",
@@ -3431,8 +3429,8 @@
           ]
         },
         {
-          "id": "box_office-10-7351937351934276446",
-          "key": "box_office-10-7351937351934276446",
+          "id": "box_office-10-4216412656775505337",
+          "key": "box_office-10-4216412656775505337",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Disney Admits ‘The Mandalorian and Grogu’ Disappointed at Box Office - The Hollywood Reporter",
@@ -3461,8 +3459,8 @@
       ],
       "items": [
         {
-          "id": "box_office-0-5288805543215505404",
-          "key": "box_office-0-5288805543215505404",
+          "id": "box_office-0-5608195653044608839",
+          "key": "box_office-0-5608195653044608839",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ Surpasses $1 Billion, Christopher Nolan’s First Movie Since ‘Dark Knight Rises’ to Reach Coveted Box Office Milestone",
@@ -3489,8 +3487,8 @@
           ]
         },
         {
-          "id": "box_office-9-1830394039167011094",
-          "key": "box_office-9-1830394039167011094",
+          "id": "box_office-9-4800915828012978819",
+          "key": "box_office-9-4800915828012978819",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History - The Hollywood Reporter",
@@ -3517,8 +3515,8 @@
           ]
         },
         {
-          "id": "box_office-1-7492487877325653034",
-          "key": "box_office-1-7492487877325653034",
+          "id": "box_office-1-2118608451774818970",
+          "key": "box_office-1-2118608451774818970",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ and ‘Spider-Man: Brand New Day’ Power $239 Million U.K., Ireland July Box Office",
@@ -3545,8 +3543,8 @@
           ]
         },
         {
-          "id": "box_office-10-7351937351934276446",
-          "key": "box_office-10-7351937351934276446",
+          "id": "box_office-10-4216412656775505337",
+          "key": "box_office-10-4216412656775505337",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Disney Admits ‘The Mandalorian and Grogu’ Disappointed at Box Office - The Hollywood Reporter",
@@ -3573,26 +3571,54 @@
           ]
         }
       ],
-      "updated_at": "2026-08-08 05:31:03 PM ET"
+      "updated_at": "2026-08-08 06:30:02 PM ET"
     },
     {
       "key": "celebrity",
       "name": "Celebrity",
       "title": "Celebrity Report",
-      "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
+      "headline": "Entertainment News | Latest Celebrity News, Videos & Photos - ABC News - Breaking News, Latest News and Videos",
       "snapshot": "Celebrity coverage is updating with 2 current RSS headline item(s).",
       "key_storylines": [
-        "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
-        "Celebrity Deaths of 2026: Golfer Matt McQuillan and More Stars We’ve Lost This Year - Us Weekly"
+        "Entertainment News | Latest Celebrity News, Videos & Photos - ABC News - Breaking News, Latest News and Videos",
+        "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly"
       ],
       "watch_list": [
-        "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
-        "Celebrity Deaths of 2026: Golfer Matt McQuillan and More Stars We’ve Lost This Year - Us Weekly"
+        "Entertainment News | Latest Celebrity News, Videos & Photos - ABC News - Breaking News, Latest News and Videos",
+        "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly"
       ],
       "homepage_cards": [
         {
-          "id": "celebrity-0-4164545858876500517",
-          "key": "celebrity-0-4164545858876500517",
+          "id": "celebrity-0-4415489406180869768",
+          "key": "celebrity-0-4415489406180869768",
+          "category": "Celebrity",
+          "label": "Celebrity",
+          "headline": "Entertainment News | Latest Celebrity News, Videos & Photos - ABC News - Breaking News, Latest News and Videos",
+          "title": "Entertainment News | Latest Celebrity News, Videos & Photos - ABC News - Breaking News, Latest News and Videos",
+          "snapshot": "Entertainment News | Latest Celebrity News, Videos & Photos ABC News - Breaking News, Latest News and Videos",
+          "summary": "Entertainment News | Latest Celebrity News, Videos & Photos ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10UEtQR2JlV0lMZTd0NExfeXVYQUpfa2NGTjV1d3NIWXZFTk1PZ01OVW55ZEExbjF0VjFWNFNJZzdqRnFMS3JtX0gtRWlqY2ZfU2c?oc=5",
+          "source": "Google News",
+          "source_name": "Google News",
+          "source_feed": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-08 12:04:09 PM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 100,
+          "key_data": [
+            "Entertainment News | Latest Celebrity News, Videos & Photos - ABC News - Breaking News, Latest News and Videos"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "celebrity-1-3898262355146364538",
+          "key": "celebrity-1-3898262355146364538",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3607,37 +3633,9 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 100,
-          "key_data": [
-            "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "celebrity-1-7087928340372397",
-          "key": "celebrity-1-7087928340372397",
-          "category": "Celebrity",
-          "label": "Celebrity",
-          "headline": "Celebrity Deaths of 2026: Golfer Matt McQuillan and More Stars We’ve Lost This Year - Us Weekly",
-          "title": "Celebrity Deaths of 2026: Golfer Matt McQuillan and More Stars We’ve Lost This Year - Us Weekly",
-          "snapshot": "Celebrity Deaths of 2026: Golfer Matt McQuillan and More Stars We’ve Lost This Year Us Weekly",
-          "summary": "Celebrity Deaths of 2026: Golfer Matt McQuillan and More Stars We’ve Lost This Year Us Weekly",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZjlCdHlXVERmNXlKZ3FNbndsOEc3WHNPZURITWdjN05kZHZzaTFFN2tyTlRwQmgxWllQelFkRXg2MU5hSVNvYUNoT1J0aC1iRUE3YkVXZno0SE5OMjBBM1lWUlQ0SGRDUl9yZ0x4enJqQy1jbFI5azZpLW96T3BxbTJsdXZLZmE0ZnRrSmpkdWgzZjJuOUxMQlFSU3RINFFRSTA3ZHE2UC1iME5ZSkdONTExek9QMENPdG94RlJ3VFU?oc=5",
-          "source": "Google News",
-          "source_name": "Google News",
-          "source_feed": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-08 01:19:41 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Celebrity Deaths of 2026: Golfer Matt McQuillan and More Stars We’ve Lost This Year - Us Weekly"
+            "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3649,8 +3647,36 @@
       ],
       "items": [
         {
-          "id": "celebrity-0-4164545858876500517",
-          "key": "celebrity-0-4164545858876500517",
+          "id": "celebrity-0-4415489406180869768",
+          "key": "celebrity-0-4415489406180869768",
+          "category": "Celebrity",
+          "label": "Celebrity",
+          "headline": "Entertainment News | Latest Celebrity News, Videos & Photos - ABC News - Breaking News, Latest News and Videos",
+          "title": "Entertainment News | Latest Celebrity News, Videos & Photos - ABC News - Breaking News, Latest News and Videos",
+          "snapshot": "Entertainment News | Latest Celebrity News, Videos & Photos ABC News - Breaking News, Latest News and Videos",
+          "summary": "Entertainment News | Latest Celebrity News, Videos & Photos ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10UEtQR2JlV0lMZTd0NExfeXVYQUpfa2NGTjV1d3NIWXZFTk1PZ01OVW55ZEExbjF0VjFWNFNJZzdqRnFMS3JtX0gtRWlqY2ZfU2c?oc=5",
+          "source": "Google News",
+          "source_name": "Google News",
+          "source_feed": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-08 12:04:09 PM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 100,
+          "key_data": [
+            "Entertainment News | Latest Celebrity News, Videos & Photos - ABC News - Breaking News, Latest News and Videos"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "celebrity-1-3898262355146364538",
+          "key": "celebrity-1-3898262355146364538",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3665,7 +3691,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 100,
+          "priority_score": 99,
           "key_data": [
             "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly"
           ],
@@ -3675,37 +3701,9 @@
           "what_to_watch": [
             "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
           ]
-        },
-        {
-          "id": "celebrity-1-7087928340372397",
-          "key": "celebrity-1-7087928340372397",
-          "category": "Celebrity",
-          "label": "Celebrity",
-          "headline": "Celebrity Deaths of 2026: Golfer Matt McQuillan and More Stars We’ve Lost This Year - Us Weekly",
-          "title": "Celebrity Deaths of 2026: Golfer Matt McQuillan and More Stars We’ve Lost This Year - Us Weekly",
-          "snapshot": "Celebrity Deaths of 2026: Golfer Matt McQuillan and More Stars We’ve Lost This Year Us Weekly",
-          "summary": "Celebrity Deaths of 2026: Golfer Matt McQuillan and More Stars We’ve Lost This Year Us Weekly",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZjlCdHlXVERmNXlKZ3FNbndsOEc3WHNPZURITWdjN05kZHZzaTFFN2tyTlRwQmgxWllQelFkRXg2MU5hSVNvYUNoT1J0aC1iRUE3YkVXZno0SE5OMjBBM1lWUlQ0SGRDUl9yZ0x4enJqQy1jbFI5azZpLW96T3BxbTJsdXZLZmE0ZnRrSmpkdWgzZjJuOUxMQlFSU3RINFFRSTA3ZHE2UC1iME5ZSkdONTExek9QMENPdG94RlJ3VFU?oc=5",
-          "source": "Google News",
-          "source_name": "Google News",
-          "source_feed": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-08 01:19:41 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 99,
-          "key_data": [
-            "Celebrity Deaths of 2026: Golfer Matt McQuillan and More Stars We’ve Lost This Year - Us Weekly"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
         }
       ],
-      "updated_at": "2026-08-08 05:31:04 PM ET"
+      "updated_at": "2026-08-08 06:30:02 PM ET"
     },
     {
       "key": "hollywood",
@@ -3715,23 +3713,23 @@
       "snapshot": "Hollywood coverage is updating with 6 current RSS headline item(s).",
       "key_storylines": [
         "Melissa Barrera Takes Weekend Off From Broadway’s ‘Titanique’ After She “Lost My Voice” On-Stage",
-        "Katie Maloney Wasn’t Interested in Reality TV After ‘Vanderpump Rules.’ Then Came Stassi Schroeder",
+        "Perez Hilton’s Condition “Serious But Stable” Amid Hospitalization, Will Require Surgery",
         "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
         "Madonna Pays Tribute To Late ‘Ray Of Light’ Producer William Orbit: “Your Music Gave Me A Magic Carpet To Fly On”",
-        "Hamish Hamilton’s Best Halftime Show Ever Was Also His Biggest Technical Gamble"
+        "Nordstrom Anniversary Sale Ends Sunday Night: Here Are the Most Popular Purchases of 2026 (So Far)"
       ],
       "watch_list": [
         "Melissa Barrera Takes Weekend Off From Broadway’s ‘Titanique’ After She “Lost My Voice” On-Stage",
-        "Katie Maloney Wasn’t Interested in Reality TV After ‘Vanderpump Rules.’ Then Came Stassi Schroeder",
+        "Perez Hilton’s Condition “Serious But Stable” Amid Hospitalization, Will Require Surgery",
         "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
         "Madonna Pays Tribute To Late ‘Ray Of Light’ Producer William Orbit: “Your Music Gave Me A Magic Carpet To Fly On”",
-        "Hamish Hamilton’s Best Halftime Show Ever Was Also His Biggest Technical Gamble",
+        "Nordstrom Anniversary Sale Ends Sunday Night: Here Are the Most Popular Purchases of 2026 (So Far)",
         "Why did the United States film industry settle in Hollywood? - Encyclopedia Britannica"
       ],
       "homepage_cards": [
         {
-          "id": "hollywood-0-8643978047207140982",
-          "key": "hollywood-0-8643978047207140982",
+          "id": "hollywood-0-6601132533095269146",
+          "key": "hollywood-0-6601132533095269146",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Melissa Barrera Takes Weekend Off From Broadway’s ‘Titanique’ After She “Lost My Voice” On-Stage",
@@ -3758,25 +3756,25 @@
           ]
         },
         {
-          "id": "hollywood-6-4371030856105046891",
-          "key": "hollywood-6-4371030856105046891",
+          "id": "hollywood-6-2597114473521575629",
+          "key": "hollywood-6-2597114473521575629",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Katie Maloney Wasn’t Interested in Reality TV After ‘Vanderpump Rules.’ Then Came Stassi Schroeder",
-          "title": "Katie Maloney Wasn’t Interested in Reality TV After ‘Vanderpump Rules.’ Then Came Stassi Schroeder",
-          "snapshot": "The reality star chats with The Hollywood Reporter about her TV return on Hulu’s ‘House of Stassi,’ her shocking admission in the season finale and how she got Ariana Madix to film a cameo for the series.",
-          "summary": "The reality star chats with The Hollywood Reporter about her TV return on Hulu’s ‘House of Stassi,’ her shocking admission in the season finale and how she got Ariana Madix to film a cameo for the series.",
-          "url": "https://www.hollywoodreporter.com/tv/tv-features/katie-maloney-house-of-stassi-tv-return-affair-ariana-madix-1236669348/",
+          "headline": "Perez Hilton’s Condition “Serious But Stable” Amid Hospitalization, Will Require Surgery",
+          "title": "Perez Hilton’s Condition “Serious But Stable” Amid Hospitalization, Will Require Surgery",
+          "snapshot": "\"He experienced significant blood loss and sustained additional injuries that will require surgery in the coming days,\" the celebrity gossip blogger's family shared in a statement on his website Saturday.",
+          "summary": "\"He experienced significant blood loss and sustained additional injuries that will require surgery in the coming days,\" the celebrity gossip blogger's family shared in a statement on his website Saturday.",
+          "url": "https://www.hollywoodreporter.com/news/general-news/perez-hilton-condition-serious-stable-require-surgery-1236669519/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/feed/",
-          "published_at": "2026-08-08 03:00:50 PM ET",
+          "published_at": "2026-08-08 06:13:59 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 94,
           "key_data": [
-            "Katie Maloney Wasn’t Interested in Reality TV After ‘Vanderpump Rules.’ Then Came Stassi Schroeder"
+            "Perez Hilton’s Condition “Serious But Stable” Amid Hospitalization, Will Require Surgery"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3786,8 +3784,8 @@
           ]
         },
         {
-          "id": "hollywood-12-8894342359437450184",
-          "key": "hollywood-12-8894342359437450184",
+          "id": "hollywood-12-4330710915192920972",
+          "key": "hollywood-12-4330710915192920972",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
@@ -3814,8 +3812,8 @@
           ]
         },
         {
-          "id": "hollywood-1-377868182634255256",
-          "key": "hollywood-1-377868182634255256",
+          "id": "hollywood-1-9171547245085141623",
+          "key": "hollywood-1-9171547245085141623",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Madonna Pays Tribute To Late ‘Ray Of Light’ Producer William Orbit: “Your Music Gave Me A Magic Carpet To Fly On”",
@@ -3842,25 +3840,25 @@
           ]
         },
         {
-          "id": "hollywood-7-5450528778569140915",
-          "key": "hollywood-7-5450528778569140915",
+          "id": "hollywood-7-6409048527261500599",
+          "key": "hollywood-7-6409048527261500599",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Hamish Hamilton’s Best Halftime Show Ever Was Also His Biggest Technical Gamble",
-          "title": "Hamish Hamilton’s Best Halftime Show Ever Was Also His Biggest Technical Gamble",
-          "snapshot": "With no backup cameras and a vision built for the screen, Bad Bunny’s Super Bowl Halftime Show was a marvel even for the veteran director: “I don’t think I will do another show that is as important.”",
-          "summary": "With no backup cameras and a vision built for the screen, Bad Bunny’s Super Bowl Halftime Show was a marvel even for the veteran director: “I don’t think I will do another show that is as important.”",
-          "url": "https://www.hollywoodreporter.com/music/music-features/hamish-hamilton-super-bowl-halftime-show-bad-bunny-1236668911/",
+          "headline": "Nordstrom Anniversary Sale Ends Sunday Night: Here Are the Most Popular Purchases of 2026 (So Far)",
+          "title": "Nordstrom Anniversary Sale Ends Sunday Night: Here Are the Most Popular Purchases of 2026 (So Far)",
+          "snapshot": "As the annual savings event enters its final hours, see the best-selling sale items to snag before it's too late — they may surprise you.",
+          "summary": "As the annual savings event enters its final hours, see the best-selling sale items to snag before it's too late — they may surprise you.",
+          "url": "https://www.hollywoodreporter.com/lifestyle/shopping/most-popular-nordstrom-anniversary-sale-items-2026-top-deals-1236669337/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/feed/",
-          "published_at": "2026-08-08 02:30:00 PM ET",
+          "published_at": "2026-08-08 05:42:03 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 93,
           "key_data": [
-            "Hamish Hamilton’s Best Halftime Show Ever Was Also His Biggest Technical Gamble"
+            "Nordstrom Anniversary Sale Ends Sunday Night: Here Are the Most Popular Purchases of 2026 (So Far)"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3870,8 +3868,8 @@
           ]
         },
         {
-          "id": "hollywood-13-4825785590561234719",
-          "key": "hollywood-13-4825785590561234719",
+          "id": "hollywood-13-365615838416423965",
+          "key": "hollywood-13-365615838416423965",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Why did the United States film industry settle in Hollywood? - Encyclopedia Britannica",
@@ -3900,8 +3898,8 @@
       ],
       "items": [
         {
-          "id": "hollywood-0-8643978047207140982",
-          "key": "hollywood-0-8643978047207140982",
+          "id": "hollywood-0-6601132533095269146",
+          "key": "hollywood-0-6601132533095269146",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Melissa Barrera Takes Weekend Off From Broadway’s ‘Titanique’ After She “Lost My Voice” On-Stage",
@@ -3928,25 +3926,25 @@
           ]
         },
         {
-          "id": "hollywood-6-4371030856105046891",
-          "key": "hollywood-6-4371030856105046891",
+          "id": "hollywood-6-2597114473521575629",
+          "key": "hollywood-6-2597114473521575629",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Katie Maloney Wasn’t Interested in Reality TV After ‘Vanderpump Rules.’ Then Came Stassi Schroeder",
-          "title": "Katie Maloney Wasn’t Interested in Reality TV After ‘Vanderpump Rules.’ Then Came Stassi Schroeder",
-          "snapshot": "The reality star chats with The Hollywood Reporter about her TV return on Hulu’s ‘House of Stassi,’ her shocking admission in the season finale and how she got Ariana Madix to film a cameo for the series.",
-          "summary": "The reality star chats with The Hollywood Reporter about her TV return on Hulu’s ‘House of Stassi,’ her shocking admission in the season finale and how she got Ariana Madix to film a cameo for the series.",
-          "url": "https://www.hollywoodreporter.com/tv/tv-features/katie-maloney-house-of-stassi-tv-return-affair-ariana-madix-1236669348/",
+          "headline": "Perez Hilton’s Condition “Serious But Stable” Amid Hospitalization, Will Require Surgery",
+          "title": "Perez Hilton’s Condition “Serious But Stable” Amid Hospitalization, Will Require Surgery",
+          "snapshot": "\"He experienced significant blood loss and sustained additional injuries that will require surgery in the coming days,\" the celebrity gossip blogger's family shared in a statement on his website Saturday.",
+          "summary": "\"He experienced significant blood loss and sustained additional injuries that will require surgery in the coming days,\" the celebrity gossip blogger's family shared in a statement on his website Saturday.",
+          "url": "https://www.hollywoodreporter.com/news/general-news/perez-hilton-condition-serious-stable-require-surgery-1236669519/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/feed/",
-          "published_at": "2026-08-08 03:00:50 PM ET",
+          "published_at": "2026-08-08 06:13:59 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 94,
           "key_data": [
-            "Katie Maloney Wasn’t Interested in Reality TV After ‘Vanderpump Rules.’ Then Came Stassi Schroeder"
+            "Perez Hilton’s Condition “Serious But Stable” Amid Hospitalization, Will Require Surgery"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3956,8 +3954,8 @@
           ]
         },
         {
-          "id": "hollywood-12-8894342359437450184",
-          "key": "hollywood-12-8894342359437450184",
+          "id": "hollywood-12-4330710915192920972",
+          "key": "hollywood-12-4330710915192920972",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
@@ -3984,8 +3982,8 @@
           ]
         },
         {
-          "id": "hollywood-1-377868182634255256",
-          "key": "hollywood-1-377868182634255256",
+          "id": "hollywood-1-9171547245085141623",
+          "key": "hollywood-1-9171547245085141623",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Madonna Pays Tribute To Late ‘Ray Of Light’ Producer William Orbit: “Your Music Gave Me A Magic Carpet To Fly On”",
@@ -4012,25 +4010,25 @@
           ]
         },
         {
-          "id": "hollywood-7-5450528778569140915",
-          "key": "hollywood-7-5450528778569140915",
+          "id": "hollywood-7-6409048527261500599",
+          "key": "hollywood-7-6409048527261500599",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Hamish Hamilton’s Best Halftime Show Ever Was Also His Biggest Technical Gamble",
-          "title": "Hamish Hamilton’s Best Halftime Show Ever Was Also His Biggest Technical Gamble",
-          "snapshot": "With no backup cameras and a vision built for the screen, Bad Bunny’s Super Bowl Halftime Show was a marvel even for the veteran director: “I don’t think I will do another show that is as important.”",
-          "summary": "With no backup cameras and a vision built for the screen, Bad Bunny’s Super Bowl Halftime Show was a marvel even for the veteran director: “I don’t think I will do another show that is as important.”",
-          "url": "https://www.hollywoodreporter.com/music/music-features/hamish-hamilton-super-bowl-halftime-show-bad-bunny-1236668911/",
+          "headline": "Nordstrom Anniversary Sale Ends Sunday Night: Here Are the Most Popular Purchases of 2026 (So Far)",
+          "title": "Nordstrom Anniversary Sale Ends Sunday Night: Here Are the Most Popular Purchases of 2026 (So Far)",
+          "snapshot": "As the annual savings event enters its final hours, see the best-selling sale items to snag before it's too late — they may surprise you.",
+          "summary": "As the annual savings event enters its final hours, see the best-selling sale items to snag before it's too late — they may surprise you.",
+          "url": "https://www.hollywoodreporter.com/lifestyle/shopping/most-popular-nordstrom-anniversary-sale-items-2026-top-deals-1236669337/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/feed/",
-          "published_at": "2026-08-08 02:30:00 PM ET",
+          "published_at": "2026-08-08 05:42:03 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 93,
           "key_data": [
-            "Hamish Hamilton’s Best Halftime Show Ever Was Also His Biggest Technical Gamble"
+            "Nordstrom Anniversary Sale Ends Sunday Night: Here Are the Most Popular Purchases of 2026 (So Far)"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4040,8 +4038,8 @@
           ]
         },
         {
-          "id": "hollywood-13-4825785590561234719",
-          "key": "hollywood-13-4825785590561234719",
+          "id": "hollywood-13-365615838416423965",
+          "key": "hollywood-13-365615838416423965",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Why did the United States film industry settle in Hollywood? - Encyclopedia Britannica",
@@ -4068,45 +4066,45 @@
           ]
         }
       ],
-      "updated_at": "2026-08-08 05:31:07 PM ET"
+      "updated_at": "2026-08-08 06:30:03 PM ET"
     },
     {
       "key": "gaming",
       "name": "Gaming",
       "title": "Gaming Report",
-      "headline": "'They Fundamentally Don't Understand Art' — Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs",
+      "headline": "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027",
       "snapshot": "Gaming coverage is updating with 3 current RSS headline item(s).",
       "key_storylines": [
-        "'They Fundamentally Don't Understand Art' — Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs",
+        "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027",
         "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - MKAU Gaming",
-        "The Best Deals Today: AirPods Pro 3, LEGO Back to the Future, Saros, and More"
+        "'They Fundamentally Don't Understand Art' — Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs"
       ],
       "watch_list": [
-        "'They Fundamentally Don't Understand Art' — Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs",
+        "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027",
         "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - MKAU Gaming",
-        "The Best Deals Today: AirPods Pro 3, LEGO Back to the Future, Saros, and More"
+        "'They Fundamentally Don't Understand Art' — Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs"
       ],
       "homepage_cards": [
         {
-          "id": "gaming-0-8063594283873049798",
-          "key": "gaming-0-8063594283873049798",
+          "id": "gaming-0-473433724624774572",
+          "key": "gaming-0-473433724624774572",
           "category": "Gaming",
           "label": "Gaming",
-          "headline": "'They Fundamentally Don't Understand Art' — Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs",
-          "title": "'They Fundamentally Don't Understand Art' — Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs",
-          "snapshot": "After layoffs ripped through Doom developer id Software in July, id Software lead services programmer Chris Hays has taken aim at Xbox: \"They fundamentally don't understand art.\"",
-          "summary": "After layoffs ripped through Doom developer id Software in July, id Software lead services programmer Chris Hays has taken aim at Xbox: \"They fundamentally don't understand art.\"",
-          "url": "https://www.ign.com/articles/they-fundamentally-dont-understand-art-doom-dev-blasts-xbox-after-microsoft-gutted-id-software-with-layoffs",
+          "headline": "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027",
+          "title": "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027",
+          "snapshot": "Freddy Fazbear's Pizza is coming to life thanks to a new collaboration between Five Nights at Freddy's and entertainment and retail center American Dream.",
+          "summary": "Freddy Fazbear's Pizza is coming to life thanks to a new collaboration between Five Nights at Freddy's and entertainment and retail center American Dream.",
+          "url": "https://www.ign.com/articles/freddy-fazbears-pizza-opening-permanent-location-featuring-animatronic-stage-shows-in-2027",
           "source": "IGN",
           "source_name": "IGN",
           "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-          "published_at": "2026-08-08 04:03:41 PM ET",
+          "published_at": "2026-08-08 06:00:13 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "'They Fundamentally Don't Understand Art' — Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs"
+            "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4116,8 +4114,8 @@
           ]
         },
         {
-          "id": "gaming-20-91328738089948521",
-          "key": "gaming-20-91328738089948521",
+          "id": "gaming-20-5597743092019093728",
+          "key": "gaming-20-5597743092019093728",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - MKAU Gaming",
@@ -4144,25 +4142,25 @@
           ]
         },
         {
-          "id": "gaming-1-2236922640852569986",
-          "key": "gaming-1-2236922640852569986",
+          "id": "gaming-1-9068416881137907375",
+          "key": "gaming-1-9068416881137907375",
           "category": "Gaming",
           "label": "Gaming",
-          "headline": "The Best Deals Today: AirPods Pro 3, LEGO Back to the Future, Saros, and More",
-          "title": "The Best Deals Today: AirPods Pro 3, LEGO Back to the Future, Saros, and More",
-          "snapshot": "A new weekend has arrived, and today, you can save on select LEGO sets, AirPods Pro 3, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Saturday, August 9, below. AirPods Pro 3 for $189 AirPods Pro 3 are a fantastic upgrade over the 2nd generation, bringing a built-in heart rate se...",
-          "summary": "A new weekend has arrived, and today, you can save on select LEGO sets, AirPods Pro 3, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Saturday, August 9, below. AirPods Pro 3 for $189 AirPods Pro 3 are a fantastic upgrade over the 2nd generation, bringing a built-in heart rate se...",
-          "url": "https://www.ign.com/articles/best-deals-for-august-8-2026",
+          "headline": "'They Fundamentally Don't Understand Art' — Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs",
+          "title": "'They Fundamentally Don't Understand Art' — Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs",
+          "snapshot": "After layoffs ripped through Doom developer id Software in July, lead services programmer Chris Hays has taken aim at Xbox: \"They fundamentally don't understand art.\"",
+          "summary": "After layoffs ripped through Doom developer id Software in July, lead services programmer Chris Hays has taken aim at Xbox: \"They fundamentally don't understand art.\"",
+          "url": "https://www.ign.com/articles/they-fundamentally-dont-understand-art-doom-dev-blasts-xbox-after-microsoft-gutted-id-software-with-layoffs",
           "source": "IGN",
           "source_name": "IGN",
           "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-          "published_at": "2026-08-08 01:21:43 PM ET",
+          "published_at": "2026-08-08 04:03:41 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "The Best Deals Today: AirPods Pro 3, LEGO Back to the Future, Saros, and More"
+            "'They Fundamentally Don't Understand Art' — Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4174,25 +4172,25 @@
       ],
       "items": [
         {
-          "id": "gaming-0-8063594283873049798",
-          "key": "gaming-0-8063594283873049798",
+          "id": "gaming-0-473433724624774572",
+          "key": "gaming-0-473433724624774572",
           "category": "Gaming",
           "label": "Gaming",
-          "headline": "'They Fundamentally Don't Understand Art' — Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs",
-          "title": "'They Fundamentally Don't Understand Art' — Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs",
-          "snapshot": "After layoffs ripped through Doom developer id Software in July, id Software lead services programmer Chris Hays has taken aim at Xbox: \"They fundamentally don't understand art.\"",
-          "summary": "After layoffs ripped through Doom developer id Software in July, id Software lead services programmer Chris Hays has taken aim at Xbox: \"They fundamentally don't understand art.\"",
-          "url": "https://www.ign.com/articles/they-fundamentally-dont-understand-art-doom-dev-blasts-xbox-after-microsoft-gutted-id-software-with-layoffs",
+          "headline": "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027",
+          "title": "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027",
+          "snapshot": "Freddy Fazbear's Pizza is coming to life thanks to a new collaboration between Five Nights at Freddy's and entertainment and retail center American Dream.",
+          "summary": "Freddy Fazbear's Pizza is coming to life thanks to a new collaboration between Five Nights at Freddy's and entertainment and retail center American Dream.",
+          "url": "https://www.ign.com/articles/freddy-fazbears-pizza-opening-permanent-location-featuring-animatronic-stage-shows-in-2027",
           "source": "IGN",
           "source_name": "IGN",
           "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-          "published_at": "2026-08-08 04:03:41 PM ET",
+          "published_at": "2026-08-08 06:00:13 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "'They Fundamentally Don't Understand Art' — Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs"
+            "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4202,8 +4200,8 @@
           ]
         },
         {
-          "id": "gaming-20-91328738089948521",
-          "key": "gaming-20-91328738089948521",
+          "id": "gaming-20-5597743092019093728",
+          "key": "gaming-20-5597743092019093728",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - MKAU Gaming",
@@ -4230,25 +4228,25 @@
           ]
         },
         {
-          "id": "gaming-1-2236922640852569986",
-          "key": "gaming-1-2236922640852569986",
+          "id": "gaming-1-9068416881137907375",
+          "key": "gaming-1-9068416881137907375",
           "category": "Gaming",
           "label": "Gaming",
-          "headline": "The Best Deals Today: AirPods Pro 3, LEGO Back to the Future, Saros, and More",
-          "title": "The Best Deals Today: AirPods Pro 3, LEGO Back to the Future, Saros, and More",
-          "snapshot": "A new weekend has arrived, and today, you can save on select LEGO sets, AirPods Pro 3, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Saturday, August 9, below. AirPods Pro 3 for $189 AirPods Pro 3 are a fantastic upgrade over the 2nd generation, bringing a built-in heart rate se...",
-          "summary": "A new weekend has arrived, and today, you can save on select LEGO sets, AirPods Pro 3, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Saturday, August 9, below. AirPods Pro 3 for $189 AirPods Pro 3 are a fantastic upgrade over the 2nd generation, bringing a built-in heart rate se...",
-          "url": "https://www.ign.com/articles/best-deals-for-august-8-2026",
+          "headline": "'They Fundamentally Don't Understand Art' — Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs",
+          "title": "'They Fundamentally Don't Understand Art' — Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs",
+          "snapshot": "After layoffs ripped through Doom developer id Software in July, lead services programmer Chris Hays has taken aim at Xbox: \"They fundamentally don't understand art.\"",
+          "summary": "After layoffs ripped through Doom developer id Software in July, lead services programmer Chris Hays has taken aim at Xbox: \"They fundamentally don't understand art.\"",
+          "url": "https://www.ign.com/articles/they-fundamentally-dont-understand-art-doom-dev-blasts-xbox-after-microsoft-gutted-id-software-with-layoffs",
           "source": "IGN",
           "source_name": "IGN",
           "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-          "published_at": "2026-08-08 01:21:43 PM ET",
+          "published_at": "2026-08-08 04:03:41 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "The Best Deals Today: AirPods Pro 3, LEGO Back to the Future, Saros, and More"
+            "'They Fundamentally Don't Understand Art' — Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4258,7 +4256,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-08 05:31:08 PM ET"
+      "updated_at": "2026-08-08 06:30:04 PM ET"
     },
     {
       "key": "media",
@@ -4280,8 +4278,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "media-0-5740890545175533340",
-          "key": "media-0-5740890545175533340",
+          "id": "media-0-1638344257504922142",
+          "key": "media-0-1638344257504922142",
           "category": "Media",
           "label": "Media",
           "headline": "Paramount’s U.K. Concessions Give ‘Powerful Credibility’ to State AGs’ Lawsuit, Block the Merger Coalition Says: ‘The Dangers’ in U.S. Market ‘Are Unmistakable’",
@@ -4308,8 +4306,8 @@
           ]
         },
         {
-          "id": "media-9-7045398935485710637",
-          "key": "media-9-7045398935485710637",
+          "id": "media-9-7799983294614915088",
+          "key": "media-9-7799983294614915088",
           "category": "Media",
           "label": "Media",
           "headline": "Judge Clarifies That Reporter Catherine Herridge Doesn’t Have To Pay $800-Per-Day Contempt Fines As She Pursues Supreme Court Appeal",
@@ -4336,8 +4334,8 @@
           ]
         },
         {
-          "id": "media-1-3039247518347364933",
-          "key": "media-1-3039247518347364933",
+          "id": "media-1-6480323299098990525",
+          "key": "media-1-6480323299098990525",
           "category": "Media",
           "label": "Media",
           "headline": "LISTEN: Fear, Loathing and Endless Potential: AI4 Conference Takes Stock of Transformative Technologies",
@@ -4364,8 +4362,8 @@
           ]
         },
         {
-          "id": "media-10-8369787404285543087",
-          "key": "media-10-8369787404285543087",
+          "id": "media-10-6464749373880345932",
+          "key": "media-10-6464749373880345932",
           "category": "Media",
           "label": "Media",
           "headline": "Trump White House Uses Spider-Man Imagery To Promote ICE Deportations",
@@ -4394,8 +4392,8 @@
       ],
       "items": [
         {
-          "id": "media-0-5740890545175533340",
-          "key": "media-0-5740890545175533340",
+          "id": "media-0-1638344257504922142",
+          "key": "media-0-1638344257504922142",
           "category": "Media",
           "label": "Media",
           "headline": "Paramount’s U.K. Concessions Give ‘Powerful Credibility’ to State AGs’ Lawsuit, Block the Merger Coalition Says: ‘The Dangers’ in U.S. Market ‘Are Unmistakable’",
@@ -4422,8 +4420,8 @@
           ]
         },
         {
-          "id": "media-9-7045398935485710637",
-          "key": "media-9-7045398935485710637",
+          "id": "media-9-7799983294614915088",
+          "key": "media-9-7799983294614915088",
           "category": "Media",
           "label": "Media",
           "headline": "Judge Clarifies That Reporter Catherine Herridge Doesn’t Have To Pay $800-Per-Day Contempt Fines As She Pursues Supreme Court Appeal",
@@ -4450,8 +4448,8 @@
           ]
         },
         {
-          "id": "media-1-3039247518347364933",
-          "key": "media-1-3039247518347364933",
+          "id": "media-1-6480323299098990525",
+          "key": "media-1-6480323299098990525",
           "category": "Media",
           "label": "Media",
           "headline": "LISTEN: Fear, Loathing and Endless Potential: AI4 Conference Takes Stock of Transformative Technologies",
@@ -4478,8 +4476,8 @@
           ]
         },
         {
-          "id": "media-10-8369787404285543087",
-          "key": "media-10-8369787404285543087",
+          "id": "media-10-6464749373880345932",
+          "key": "media-10-6464749373880345932",
           "category": "Media",
           "label": "Media",
           "headline": "Trump White House Uses Spider-Man Imagery To Promote ICE Deportations",
@@ -4506,7 +4504,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-08 05:31:09 PM ET"
+      "updated_at": "2026-08-08 06:30:05 PM ET"
     }
   ]
 }
