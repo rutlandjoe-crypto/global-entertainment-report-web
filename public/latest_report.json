@@ -5,9 +5,9 @@
   "vertical": "Entertainment",
   "headline": "Satyajit Ray's 'Goopy Gyne Bagha Byne' Making to be Chronicled in Srijit Mukherji's 'Maharaja Tomare Selam'",
   "snapshot": "Global Entertainment Report accepted 44 real RSS item(s) across 31 checked feed request(s).",
-  "generated_at": "2026-08-08 05:38:33 AM ET",
-  "updated_at": "2026-08-08 05:38:33 AM ET",
-  "published_at": "2026-08-08 05:38:33 AM ET",
+  "generated_at": "2026-08-08 06:34:25 AM ET",
+  "updated_at": "2026-08-08 06:34:25 AM ET",
+  "published_at": "2026-08-08 06:34:25 AM ET",
   "source_mode": "live RSS ingestion",
   "freshness": {
     "max_item_age_hours": 336,
@@ -53,9 +53,9 @@
       "final_url": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 79,
+      "rejected_count": 80,
       "rejection_reasons": {
-        "stale-over-336h": 79
+        "stale-over-336h": 80
       }
     },
     {
@@ -234,9 +234,10 @@
       "final_url": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 49,
+      "rejected_count": 52,
       "rejection_reasons": {
-        "stale-over-336h": 49
+        "stale-over-336h": 51,
+        "duplicate-story": 1
       }
     },
     {
@@ -258,9 +259,9 @@
       "final_url": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 83,
+      "rejected_count": 84,
       "rejection_reasons": {
-        "stale-over-336h": 83
+        "stale-over-336h": 84
       }
     },
     {
@@ -376,7 +377,7 @@
   "key_storylines": [
     "Satyajit Ray's 'Goopy Gyne Bagha Byne' Making to be Chronicled in Srijit Mukherji's 'Maharaja Tomare Selam'",
     "Jason Clarke Joins Action-Thriller 'Supermax' From Amazon MGM & Miramax",
-    "'Asphalt Guerrilla' Blends Fact, Fiction, AI and a Story About Filmmaking to Hold Up a Mirror to Our Time",
+    "Monica Bellucci Plays a Mother Who Yells and Is the \"Victim of a Social Role\" in Luca Guadagnino-Produced 'Ketticè'",
     "The 25 best cyberpunk movies of all time, ranked - Entertainment Weekly",
     "Vera Blue covers Radiohead's 'Creep' for triple j's Like A Version",
     "Marvel Tokon Stumbles to Mixed Steam Reviews as 'Miserable' PC Port Complaints Prompt Response From Arc System Works",
@@ -385,8 +386,8 @@
   ],
   "live_newsroom": [
     {
-      "id": "film-0-3559512100141028217",
-      "key": "film-0-3559512100141028217",
+      "id": "film-0-6431182768275968892",
+      "key": "film-0-6431182768275968892",
       "category": "Film",
       "label": "Film",
       "headline": "Satyajit Ray's 'Goopy Gyne Bagha Byne' Making to be Chronicled in Srijit Mukherji's 'Maharaja Tomare Selam'",
@@ -412,8 +413,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-7110699540298884644",
-      "key": "film-10-7110699540298884644",
+      "id": "film-10-7478136363107347481",
+      "key": "film-10-7478136363107347481",
       "category": "Film",
       "label": "Film",
       "headline": "Jason Clarke Joins Action-Thriller 'Supermax' From Amazon MGM & Miramax",
@@ -439,22 +440,22 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-993019426353273259",
-      "key": "film-22-993019426353273259",
+      "id": "film-22-6029869401950237171",
+      "key": "film-22-6029869401950237171",
       "category": "Film",
       "label": "Film",
-      "headline": "'Asphalt Guerrilla' Blends Fact, Fiction, AI and a Story About Filmmaking to Hold Up a Mirror to Our Time",
-      "title": "'Asphalt Guerrilla' Blends Fact, Fiction, AI and a Story About Filmmaking to Hold Up a Mirror to Our Time",
-      "snapshot": "Portuguese auteur Edgar Pêra discusses his new film, premiering at Locarno, shares how he is using AI to fight his concerns about it, and why he thinks about the rise of radicalism in the world as a symptom.",
-      "summary": "Portuguese auteur Edgar Pêra discusses his new film, premiering at Locarno, shares how he is using AI to fight his concerns about it, and why he thinks about the rise of radicalism in the world as a symptom.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/asphalt-guerrilla-film-interview-locarno-2026-ai-radicalism-1236668855/",
+      "headline": "Monica Bellucci Plays a Mother Who Yells and Is the \"Victim of a Social Role\" in Luca Guadagnino-Produced 'Ketticè'",
+      "title": "Monica Bellucci Plays a Mother Who Yells and Is the \"Victim of a Social Role\" in Luca Guadagnino-Produced 'Ketticè'",
+      "snapshot": "At Locarno, the Italian icon lauded the two young stars and filmmaker Giovanni Tortorici for their work on his second feature and shared that her character has forgotten about \"her femininity.\"",
+      "summary": "At Locarno, the Italian icon lauded the two young stars and filmmaker Giovanni Tortorici for their work on his second feature and shared that her character has forgotten about \"her femininity.\"",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/monica-bellucci-luca-guadagnino-film-kettice-locarno-2026-1236669217/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-08 02:00:00 AM ET",
+      "published_at": "2026-08-08 06:21:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Asphalt Guerrilla' Blends Fact, Fiction, AI and a Story About Filmmaking to Hold Up a Mirror to Our Time"
+        "Monica Bellucci Plays a Mother Who Yells and Is the \"Victim of a Social Role\" in Luca Guadagnino-Produced 'Ketticè'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -466,8 +467,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-8225723186158994683",
-      "key": "film-32-8225723186158994683",
+      "id": "film-32-5141660177380877645",
+      "key": "film-32-5141660177380877645",
       "category": "Film",
       "label": "Film",
       "headline": "The 25 best cyberpunk movies of all time, ranked - Entertainment Weekly",
@@ -493,8 +494,8 @@
       "priority_score": 68
     },
     {
-      "id": "music-9-3500382644257769626",
-      "key": "music-9-3500382644257769626",
+      "id": "music-9-5981166214579838567",
+      "key": "music-9-5981166214579838567",
       "category": "Music",
       "label": "Music",
       "headline": "Vera Blue covers Radiohead's 'Creep' for triple j's Like A Version",
@@ -520,8 +521,8 @@
       "priority_score": 91
     },
     {
-      "id": "gaming-0-7630830088471861116",
-      "key": "gaming-0-7630830088471861116",
+      "id": "gaming-0-704066103103260305",
+      "key": "gaming-0-704066103103260305",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Marvel Tokon Stumbles to Mixed Steam Reviews as 'Miserable' PC Port Complaints Prompt Response From Arc System Works",
@@ -547,8 +548,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-5598557267684673411",
-      "key": "film-1-5598557267684673411",
+      "id": "film-1-5488164969895166944",
+      "key": "film-1-5488164969895166944",
       "category": "Film",
       "label": "Film",
       "headline": "'I Rarely Wake Up Dreaming' Review: An Affecting Trans Relationship Drama Brings Fresh Perspective to the War in Ukraine",
@@ -574,8 +575,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-6551614323588186422",
-      "key": "film-11-6551614323588186422",
+      "id": "film-11-1965659317555607677",
+      "key": "film-11-1965659317555607677",
       "category": "Film",
       "label": "Film",
       "headline": "Bella Thorne Says 'Spring Breakers 2' Producers Tapped Her To Write, Direct & Star In Sequel After Seeing Directorial Debut",
@@ -601,22 +602,22 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-8754283457966189932",
-      "key": "film-23-8754283457966189932",
+      "id": "film-23-8634174451871587155",
+      "key": "film-23-8634174451871587155",
       "category": "Film",
       "label": "Film",
-      "headline": "Filmmaker Elham Ehsas Wants You to Know Afghanistan Sent a Man to Space in 1988",
-      "title": "Filmmaker Elham Ehsas Wants You to Know Afghanistan Sent a Man to Space in 1988",
-      "snapshot": "Ahead of the Locarno premiere of 'Forgotten Spaceman,' the London-based actor-director discusses his accidental documentary, a startling family connection and Afghanistan's \"buried\" history of achievement.",
-      "summary": "Ahead of the Locarno premiere of 'Forgotten Spaceman,' the London-based actor-director discusses his accidental documentary, a startling family connection and Afghanistan's \"buried\" history of achievement.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/forgotten-spaceman-locarno-film-about-afghanistan-cosmonaut-1236663264/",
+      "headline": "No, Brian Eno Is Not Behind the Film Soundtrack for 'At Night.' Experimental Musician Elvin Brandhi Is.",
+      "title": "No, Brian Eno Is Not Behind the Film Soundtrack for 'At Night.' Experimental Musician Elvin Brandhi Is.",
+      "snapshot": "The Locarno-premiering film by Beatrice Gibson is her first feature soundtrack, and she shares insights into its collaborative creation, whether she may return for more film work and her upcoming album.",
+      "summary": "The Locarno-premiering film by Beatrice Gibson is her first feature soundtrack, and she shares insights into its collaborative creation, whether she may return for more film work and her upcoming album.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/at-night-film-soundrack-elvin-brandhi-not-brian-eno-locarno-1236666314/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-08 01:00:00 AM ET",
+      "published_at": "2026-08-08 05:40:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Filmmaker Elham Ehsas Wants You to Know Afghanistan Sent a Man to Space in 1988"
+        "No, Brian Eno Is Not Behind the Film Soundtrack for 'At Night.' Experimental Musician Elvin Brandhi Is."
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -628,8 +629,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-8664416936298972487",
-      "key": "film-33-8664416936298972487",
+      "id": "film-33-8013829874041802400",
+      "key": "film-33-8013829874041802400",
       "category": "Film",
       "label": "Film",
       "headline": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire",
@@ -655,8 +656,8 @@
       "priority_score": 67
     },
     {
-      "id": "music-10-535034889685411921",
-      "key": "music-10-535034889685411921",
+      "id": "music-10-6350865763608254960",
+      "key": "music-10-6350865763608254960",
       "category": "Music",
       "label": "Music",
       "headline": "Brandi Carlile Postpones U.K. and European Tour Citing 'Personal Circumstances'",
@@ -682,8 +683,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-1-113621706425316859",
-      "key": "gaming-1-113621706425316859",
+      "id": "gaming-1-3336356945535388039",
+      "key": "gaming-1-3336356945535388039",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Newly Discovered Demon's Souls Prototype Footage Shows Scrapped First-Person Option",
@@ -711,8 +712,8 @@
   ],
   "editor_signals": [
     {
-      "id": "film-2-6522609873962447642",
-      "key": "film-2-6522609873962447642",
+      "id": "film-2-4380045776179834442",
+      "key": "film-2-4380045776179834442",
       "category": "Film",
       "label": "Film",
       "headline": "'The Last House' Ending Breakdown: Why Is the Family Trapped Inside Their Home?",
@@ -738,8 +739,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-5844160883967076209",
-      "key": "film-12-5844160883967076209",
+      "id": "film-12-5195350592160973954",
+      "key": "film-12-5195350592160973954",
       "category": "Film",
       "label": "Film",
       "headline": "Book-To-Movie Adaptations Coming Out In 2026",
@@ -765,22 +766,22 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-2814056199051352940",
-      "key": "film-24-2814056199051352940",
+      "id": "film-24-8538197471500786933",
+      "key": "film-24-8538197471500786933",
       "category": "Film",
       "label": "Film",
-      "headline": "Dwayne Johnson Addresses 'Moana' Mixed Reviews After Film Underperformed at Box Office",
-      "title": "Dwayne Johnson Addresses 'Moana' Mixed Reviews After Film Underperformed at Box Office",
-      "snapshot": "\"If you love it, great. If you don't, no problem,\" the actor said in a recent interview.",
-      "summary": "\"If you love it, great. If you don't, no problem,\" the actor said in a recent interview.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/dwayne-johnson-moana-mixed-reviews-film-underperformed-1236669273/",
+      "headline": "'Asphalt Guerrilla' Blends Fact, Fiction, AI and a Story About Filmmaking to Hold Up a Mirror to Our Time",
+      "title": "'Asphalt Guerrilla' Blends Fact, Fiction, AI and a Story About Filmmaking to Hold Up a Mirror to Our Time",
+      "snapshot": "Portuguese auteur Edgar Pêra discusses his new film, premiering at Locarno, shares how he is using AI to fight his concerns about it, and why he thinks about the rise of radicalism in the world as a symptom.",
+      "summary": "Portuguese auteur Edgar Pêra discusses his new film, premiering at Locarno, shares how he is using AI to fight his concerns about it, and why he thinks about the rise of radicalism in the world as a symptom.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/asphalt-guerrilla-film-interview-locarno-2026-ai-radicalism-1236668855/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-07 10:38:23 PM ET",
+      "published_at": "2026-08-08 02:00:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Dwayne Johnson Addresses 'Moana' Mixed Reviews After Film Underperformed at Box Office"
+        "'Asphalt Guerrilla' Blends Fact, Fiction, AI and a Story About Filmmaking to Hold Up a Mirror to Our Time"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -792,14 +793,14 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-5551340734741685416",
-      "key": "film-34-5551340734741685416",
+      "id": "film-34-2130447229811762558",
+      "key": "film-34-2130447229811762558",
       "category": "Film",
       "label": "Film",
-      "headline": "What's new to streaming this week? (Aug. 7, 2026) - Mashable",
-      "title": "What's new to streaming this week? (Aug. 7, 2026) - Mashable",
-      "snapshot": "What's new to streaming this week? (Aug. 7, 2026) Mashable",
-      "summary": "What's new to streaming this week? (Aug. 7, 2026) Mashable",
+      "headline": "What's new to streaming this week? (Aug. 7, 2026) - mashable.com",
+      "title": "What's new to streaming this week? (Aug. 7, 2026) - mashable.com",
+      "snapshot": "What's new to streaming this week? (Aug. 7, 2026) mashable.com",
+      "summary": "What's new to streaming this week? (Aug. 7, 2026) mashable.com",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94NlFGRmY2VHlaRTQzV2k3akowVGZXVm9PWHd0aHdZZzJUcnd6Y3F1bFdFaVVSYkZLdzdhR3dyS2c0dkFjRWxCNDZWdllSS3NpMXVwMVBPR2Uzdk1aNEtONzljMWY5NHpyOG9SNGMxa21yY1k?oc=5",
       "source": "Google News",
       "source_name": "Google News",
@@ -807,7 +808,7 @@
       "published_at": "2026-08-06 10:33:19 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "What's new to streaming this week? (Aug. 7, 2026) - Mashable"
+        "What's new to streaming this week? (Aug. 7, 2026) - mashable.com"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -819,8 +820,8 @@
       "priority_score": 66
     },
     {
-      "id": "music-11-3917387773367740704",
-      "key": "music-11-3917387773367740704",
+      "id": "music-11-2287012736810311448",
+      "key": "music-11-2287012736810311448",
       "category": "Music",
       "label": "Music",
       "headline": "Angélique Kidjo to Become First African Musician to Receive a Star on Hollywood Walk of Fame",
@@ -846,8 +847,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-2-136838802108291333",
-      "key": "gaming-2-136838802108291333",
+      "id": "gaming-2-3997104336000567827",
+      "key": "gaming-2-3997104336000567827",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Madden NFL 27 Review So Far",
@@ -873,8 +874,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-5397599605916392278",
-      "key": "film-3-5397599605916392278",
+      "id": "film-3-2269585704272137005",
+      "key": "film-3-2269585704272137005",
       "category": "Film",
       "label": "Film",
       "headline": "'One Night Only' Director Will Gluck Cut Out 'So Much Nudity' Because People Dislike Sex on Screen: 'It Takes You Out of the Movie'",
@@ -900,8 +901,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-2708272185303535587",
-      "key": "film-13-2708272185303535587",
+      "id": "film-13-6776976033741274200",
+      "key": "film-13-6776976033741274200",
       "category": "Film",
       "label": "Film",
       "headline": "Sadie Sink Gives 'X-Men' Filming Update, Says She's Being Kept \"Separate\" From Cyclops Casting",
@@ -927,22 +928,22 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-8920040132690940348",
-      "key": "film-25-8920040132690940348",
+      "id": "film-25-2360177425203859681",
+      "key": "film-25-2360177425203859681",
       "category": "Film",
       "label": "Film",
-      "headline": "No, Brian Eno Is Not Behind the Film Soundtrack for 'At Night.' Experimental Musician Elvin Brandhi Is.",
-      "title": "No, Brian Eno Is Not Behind the Film Soundtrack for 'At Night.' Experimental Musician Elvin Brandhi Is.",
-      "snapshot": "The Locarno-premiering film by Beatrice Gibson is her first feature soundtrack, and she shares insights into its collaborative creation, whether she may return for more film work and her upcoming album.",
-      "summary": "The Locarno-premiering film by Beatrice Gibson is her first feature soundtrack, and she shares insights into its collaborative creation, whether she may return for more film work and her upcoming album.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/at-night-film-soundrack-elvin-brandhi-not-brian-eno-locarno-1236666314/",
+      "headline": "Filmmaker Elham Ehsas Wants You to Know Afghanistan Sent a Man to Space in 1988",
+      "title": "Filmmaker Elham Ehsas Wants You to Know Afghanistan Sent a Man to Space in 1988",
+      "snapshot": "Ahead of the Locarno premiere of 'Forgotten Spaceman,' the London-based actor-director discusses his accidental documentary, a startling family connection and Afghanistan's \"buried\" history of achievement.",
+      "summary": "Ahead of the Locarno premiere of 'Forgotten Spaceman,' the London-based actor-director discusses his accidental documentary, a startling family connection and Afghanistan's \"buried\" history of achievement.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/forgotten-spaceman-locarno-film-about-afghanistan-cosmonaut-1236663264/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-07 05:40:00 PM ET",
+      "published_at": "2026-08-08 01:00:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "No, Brian Eno Is Not Behind the Film Soundtrack for 'At Night.' Experimental Musician Elvin Brandhi Is."
+        "Filmmaker Elham Ehsas Wants You to Know Afghanistan Sent a Man to Space in 1988"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -954,8 +955,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-7079153563826031952",
-      "key": "film-35-7079153563826031952",
+      "id": "film-35-4614166411628641909",
+      "key": "film-35-4614166411628641909",
       "category": "Film",
       "label": "Film",
       "headline": "Our favorite memories at the movies - The Verge",
@@ -981,8 +982,8 @@
       "priority_score": 65
     },
     {
-      "id": "music-12-8462970457852292759",
-      "key": "music-12-8462970457852292759",
+      "id": "music-12-3000522897878308575",
+      "key": "music-12-3000522897878308575",
       "category": "Music",
       "label": "Music",
       "headline": "Megan Thee Stallion Must Face Trial in Cameraman's Lawsuit Over Alleged Car-Sex Incident: Judge",
@@ -1008,8 +1009,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-3-2494132788958856381",
-      "key": "gaming-3-2494132788958856381",
+      "id": "gaming-3-4066903794879131147",
+      "key": "gaming-3-4066903794879131147",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Palworld 1.0 Showed Me Why Everyone Loves Survival Games",
@@ -1037,8 +1038,8 @@
   ],
   "homepage_cards": [
     {
-      "id": "film-0-3559512100141028217",
-      "key": "film-0-3559512100141028217",
+      "id": "film-0-6431182768275968892",
+      "key": "film-0-6431182768275968892",
       "category": "Film",
       "label": "Film",
       "headline": "Satyajit Ray's 'Goopy Gyne Bagha Byne' Making to be Chronicled in Srijit Mukherji's 'Maharaja Tomare Selam'",
@@ -1064,8 +1065,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-7110699540298884644",
-      "key": "film-10-7110699540298884644",
+      "id": "film-10-7478136363107347481",
+      "key": "film-10-7478136363107347481",
       "category": "Film",
       "label": "Film",
       "headline": "Jason Clarke Joins Action-Thriller 'Supermax' From Amazon MGM & Miramax",
@@ -1091,22 +1092,22 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-993019426353273259",
-      "key": "film-22-993019426353273259",
+      "id": "film-22-6029869401950237171",
+      "key": "film-22-6029869401950237171",
       "category": "Film",
       "label": "Film",
-      "headline": "'Asphalt Guerrilla' Blends Fact, Fiction, AI and a Story About Filmmaking to Hold Up a Mirror to Our Time",
-      "title": "'Asphalt Guerrilla' Blends Fact, Fiction, AI and a Story About Filmmaking to Hold Up a Mirror to Our Time",
-      "snapshot": "Portuguese auteur Edgar Pêra discusses his new film, premiering at Locarno, shares how he is using AI to fight his concerns about it, and why he thinks about the rise of radicalism in the world as a symptom.",
-      "summary": "Portuguese auteur Edgar Pêra discusses his new film, premiering at Locarno, shares how he is using AI to fight his concerns about it, and why he thinks about the rise of radicalism in the world as a symptom.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/asphalt-guerrilla-film-interview-locarno-2026-ai-radicalism-1236668855/",
+      "headline": "Monica Bellucci Plays a Mother Who Yells and Is the \"Victim of a Social Role\" in Luca Guadagnino-Produced 'Ketticè'",
+      "title": "Monica Bellucci Plays a Mother Who Yells and Is the \"Victim of a Social Role\" in Luca Guadagnino-Produced 'Ketticè'",
+      "snapshot": "At Locarno, the Italian icon lauded the two young stars and filmmaker Giovanni Tortorici for their work on his second feature and shared that her character has forgotten about \"her femininity.\"",
+      "summary": "At Locarno, the Italian icon lauded the two young stars and filmmaker Giovanni Tortorici for their work on his second feature and shared that her character has forgotten about \"her femininity.\"",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/monica-bellucci-luca-guadagnino-film-kettice-locarno-2026-1236669217/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-08 02:00:00 AM ET",
+      "published_at": "2026-08-08 06:21:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Asphalt Guerrilla' Blends Fact, Fiction, AI and a Story About Filmmaking to Hold Up a Mirror to Our Time"
+        "Monica Bellucci Plays a Mother Who Yells and Is the \"Victim of a Social Role\" in Luca Guadagnino-Produced 'Ketticè'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1118,8 +1119,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-8225723186158994683",
-      "key": "film-32-8225723186158994683",
+      "id": "film-32-5141660177380877645",
+      "key": "film-32-5141660177380877645",
       "category": "Film",
       "label": "Film",
       "headline": "The 25 best cyberpunk movies of all time, ranked - Entertainment Weekly",
@@ -1145,8 +1146,8 @@
       "priority_score": 68
     },
     {
-      "id": "music-9-3500382644257769626",
-      "key": "music-9-3500382644257769626",
+      "id": "music-9-5981166214579838567",
+      "key": "music-9-5981166214579838567",
       "category": "Music",
       "label": "Music",
       "headline": "Vera Blue covers Radiohead's 'Creep' for triple j's Like A Version",
@@ -1172,8 +1173,8 @@
       "priority_score": 91
     },
     {
-      "id": "gaming-0-7630830088471861116",
-      "key": "gaming-0-7630830088471861116",
+      "id": "gaming-0-704066103103260305",
+      "key": "gaming-0-704066103103260305",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Marvel Tokon Stumbles to Mixed Steam Reviews as 'Miserable' PC Port Complaints Prompt Response From Arc System Works",
@@ -1199,8 +1200,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-5598557267684673411",
-      "key": "film-1-5598557267684673411",
+      "id": "film-1-5488164969895166944",
+      "key": "film-1-5488164969895166944",
       "category": "Film",
       "label": "Film",
       "headline": "'I Rarely Wake Up Dreaming' Review: An Affecting Trans Relationship Drama Brings Fresh Perspective to the War in Ukraine",
@@ -1226,8 +1227,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-6551614323588186422",
-      "key": "film-11-6551614323588186422",
+      "id": "film-11-1965659317555607677",
+      "key": "film-11-1965659317555607677",
       "category": "Film",
       "label": "Film",
       "headline": "Bella Thorne Says 'Spring Breakers 2' Producers Tapped Her To Write, Direct & Star In Sequel After Seeing Directorial Debut",
@@ -1253,22 +1254,22 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-8754283457966189932",
-      "key": "film-23-8754283457966189932",
+      "id": "film-23-8634174451871587155",
+      "key": "film-23-8634174451871587155",
       "category": "Film",
       "label": "Film",
-      "headline": "Filmmaker Elham Ehsas Wants You to Know Afghanistan Sent a Man to Space in 1988",
-      "title": "Filmmaker Elham Ehsas Wants You to Know Afghanistan Sent a Man to Space in 1988",
-      "snapshot": "Ahead of the Locarno premiere of 'Forgotten Spaceman,' the London-based actor-director discusses his accidental documentary, a startling family connection and Afghanistan's \"buried\" history of achievement.",
-      "summary": "Ahead of the Locarno premiere of 'Forgotten Spaceman,' the London-based actor-director discusses his accidental documentary, a startling family connection and Afghanistan's \"buried\" history of achievement.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/forgotten-spaceman-locarno-film-about-afghanistan-cosmonaut-1236663264/",
+      "headline": "No, Brian Eno Is Not Behind the Film Soundtrack for 'At Night.' Experimental Musician Elvin Brandhi Is.",
+      "title": "No, Brian Eno Is Not Behind the Film Soundtrack for 'At Night.' Experimental Musician Elvin Brandhi Is.",
+      "snapshot": "The Locarno-premiering film by Beatrice Gibson is her first feature soundtrack, and she shares insights into its collaborative creation, whether she may return for more film work and her upcoming album.",
+      "summary": "The Locarno-premiering film by Beatrice Gibson is her first feature soundtrack, and she shares insights into its collaborative creation, whether she may return for more film work and her upcoming album.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/at-night-film-soundrack-elvin-brandhi-not-brian-eno-locarno-1236666314/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-08 01:00:00 AM ET",
+      "published_at": "2026-08-08 05:40:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Filmmaker Elham Ehsas Wants You to Know Afghanistan Sent a Man to Space in 1988"
+        "No, Brian Eno Is Not Behind the Film Soundtrack for 'At Night.' Experimental Musician Elvin Brandhi Is."
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1280,8 +1281,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-8664416936298972487",
-      "key": "film-33-8664416936298972487",
+      "id": "film-33-8013829874041802400",
+      "key": "film-33-8013829874041802400",
       "category": "Film",
       "label": "Film",
       "headline": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire",
@@ -1307,8 +1308,8 @@
       "priority_score": 67
     },
     {
-      "id": "music-10-535034889685411921",
-      "key": "music-10-535034889685411921",
+      "id": "music-10-6350865763608254960",
+      "key": "music-10-6350865763608254960",
       "category": "Music",
       "label": "Music",
       "headline": "Brandi Carlile Postpones U.K. and European Tour Citing 'Personal Circumstances'",
@@ -1334,8 +1335,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-1-113621706425316859",
-      "key": "gaming-1-113621706425316859",
+      "id": "gaming-1-3336356945535388039",
+      "key": "gaming-1-3336356945535388039",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Newly Discovered Demon's Souls Prototype Footage Shows Scrapped First-Person Option",
@@ -1361,8 +1362,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-2-6522609873962447642",
-      "key": "film-2-6522609873962447642",
+      "id": "film-2-4380045776179834442",
+      "key": "film-2-4380045776179834442",
       "category": "Film",
       "label": "Film",
       "headline": "'The Last House' Ending Breakdown: Why Is the Family Trapped Inside Their Home?",
@@ -1388,8 +1389,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-5844160883967076209",
-      "key": "film-12-5844160883967076209",
+      "id": "film-12-5195350592160973954",
+      "key": "film-12-5195350592160973954",
       "category": "Film",
       "label": "Film",
       "headline": "Book-To-Movie Adaptations Coming Out In 2026",
@@ -1415,22 +1416,22 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-2814056199051352940",
-      "key": "film-24-2814056199051352940",
+      "id": "film-24-8538197471500786933",
+      "key": "film-24-8538197471500786933",
       "category": "Film",
       "label": "Film",
-      "headline": "Dwayne Johnson Addresses 'Moana' Mixed Reviews After Film Underperformed at Box Office",
-      "title": "Dwayne Johnson Addresses 'Moana' Mixed Reviews After Film Underperformed at Box Office",
-      "snapshot": "\"If you love it, great. If you don't, no problem,\" the actor said in a recent interview.",
-      "summary": "\"If you love it, great. If you don't, no problem,\" the actor said in a recent interview.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/dwayne-johnson-moana-mixed-reviews-film-underperformed-1236669273/",
+      "headline": "'Asphalt Guerrilla' Blends Fact, Fiction, AI and a Story About Filmmaking to Hold Up a Mirror to Our Time",
+      "title": "'Asphalt Guerrilla' Blends Fact, Fiction, AI and a Story About Filmmaking to Hold Up a Mirror to Our Time",
+      "snapshot": "Portuguese auteur Edgar Pêra discusses his new film, premiering at Locarno, shares how he is using AI to fight his concerns about it, and why he thinks about the rise of radicalism in the world as a symptom.",
+      "summary": "Portuguese auteur Edgar Pêra discusses his new film, premiering at Locarno, shares how he is using AI to fight his concerns about it, and why he thinks about the rise of radicalism in the world as a symptom.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/asphalt-guerrilla-film-interview-locarno-2026-ai-radicalism-1236668855/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-07 10:38:23 PM ET",
+      "published_at": "2026-08-08 02:00:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Dwayne Johnson Addresses 'Moana' Mixed Reviews After Film Underperformed at Box Office"
+        "'Asphalt Guerrilla' Blends Fact, Fiction, AI and a Story About Filmmaking to Hold Up a Mirror to Our Time"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1442,14 +1443,14 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-5551340734741685416",
-      "key": "film-34-5551340734741685416",
+      "id": "film-34-2130447229811762558",
+      "key": "film-34-2130447229811762558",
       "category": "Film",
       "label": "Film",
-      "headline": "What's new to streaming this week? (Aug. 7, 2026) - Mashable",
-      "title": "What's new to streaming this week? (Aug. 7, 2026) - Mashable",
-      "snapshot": "What's new to streaming this week? (Aug. 7, 2026) Mashable",
-      "summary": "What's new to streaming this week? (Aug. 7, 2026) Mashable",
+      "headline": "What's new to streaming this week? (Aug. 7, 2026) - mashable.com",
+      "title": "What's new to streaming this week? (Aug. 7, 2026) - mashable.com",
+      "snapshot": "What's new to streaming this week? (Aug. 7, 2026) mashable.com",
+      "summary": "What's new to streaming this week? (Aug. 7, 2026) mashable.com",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94NlFGRmY2VHlaRTQzV2k3akowVGZXVm9PWHd0aHdZZzJUcnd6Y3F1bFdFaVVSYkZLdzdhR3dyS2c0dkFjRWxCNDZWdllSS3NpMXVwMVBPR2Uzdk1aNEtONzljMWY5NHpyOG9SNGMxa21yY1k?oc=5",
       "source": "Google News",
       "source_name": "Google News",
@@ -1457,7 +1458,7 @@
       "published_at": "2026-08-06 10:33:19 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "What's new to streaming this week? (Aug. 7, 2026) - Mashable"
+        "What's new to streaming this week? (Aug. 7, 2026) - mashable.com"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1469,8 +1470,8 @@
       "priority_score": 66
     },
     {
-      "id": "music-11-3917387773367740704",
-      "key": "music-11-3917387773367740704",
+      "id": "music-11-2287012736810311448",
+      "key": "music-11-2287012736810311448",
       "category": "Music",
       "label": "Music",
       "headline": "Angélique Kidjo to Become First African Musician to Receive a Star on Hollywood Walk of Fame",
@@ -1496,8 +1497,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-2-136838802108291333",
-      "key": "gaming-2-136838802108291333",
+      "id": "gaming-2-3997104336000567827",
+      "key": "gaming-2-3997104336000567827",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Madden NFL 27 Review So Far",
@@ -1523,8 +1524,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-5397599605916392278",
-      "key": "film-3-5397599605916392278",
+      "id": "film-3-2269585704272137005",
+      "key": "film-3-2269585704272137005",
       "category": "Film",
       "label": "Film",
       "headline": "'One Night Only' Director Will Gluck Cut Out 'So Much Nudity' Because People Dislike Sex on Screen: 'It Takes You Out of the Movie'",
@@ -1550,8 +1551,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-2708272185303535587",
-      "key": "film-13-2708272185303535587",
+      "id": "film-13-6776976033741274200",
+      "key": "film-13-6776976033741274200",
       "category": "Film",
       "label": "Film",
       "headline": "Sadie Sink Gives 'X-Men' Filming Update, Says She's Being Kept \"Separate\" From Cyclops Casting",
@@ -1577,22 +1578,22 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-8920040132690940348",
-      "key": "film-25-8920040132690940348",
+      "id": "film-25-2360177425203859681",
+      "key": "film-25-2360177425203859681",
       "category": "Film",
       "label": "Film",
-      "headline": "No, Brian Eno Is Not Behind the Film Soundtrack for 'At Night.' Experimental Musician Elvin Brandhi Is.",
-      "title": "No, Brian Eno Is Not Behind the Film Soundtrack for 'At Night.' Experimental Musician Elvin Brandhi Is.",
-      "snapshot": "The Locarno-premiering film by Beatrice Gibson is her first feature soundtrack, and she shares insights into its collaborative creation, whether she may return for more film work and her upcoming album.",
-      "summary": "The Locarno-premiering film by Beatrice Gibson is her first feature soundtrack, and she shares insights into its collaborative creation, whether she may return for more film work and her upcoming album.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/at-night-film-soundrack-elvin-brandhi-not-brian-eno-locarno-1236666314/",
+      "headline": "Filmmaker Elham Ehsas Wants You to Know Afghanistan Sent a Man to Space in 1988",
+      "title": "Filmmaker Elham Ehsas Wants You to Know Afghanistan Sent a Man to Space in 1988",
+      "snapshot": "Ahead of the Locarno premiere of 'Forgotten Spaceman,' the London-based actor-director discusses his accidental documentary, a startling family connection and Afghanistan's \"buried\" history of achievement.",
+      "summary": "Ahead of the Locarno premiere of 'Forgotten Spaceman,' the London-based actor-director discusses his accidental documentary, a startling family connection and Afghanistan's \"buried\" history of achievement.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/forgotten-spaceman-locarno-film-about-afghanistan-cosmonaut-1236663264/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-07 05:40:00 PM ET",
+      "published_at": "2026-08-08 01:00:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "No, Brian Eno Is Not Behind the Film Soundtrack for 'At Night.' Experimental Musician Elvin Brandhi Is."
+        "Filmmaker Elham Ehsas Wants You to Know Afghanistan Sent a Man to Space in 1988"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1604,8 +1605,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-7079153563826031952",
-      "key": "film-35-7079153563826031952",
+      "id": "film-35-4614166411628641909",
+      "key": "film-35-4614166411628641909",
       "category": "Film",
       "label": "Film",
       "headline": "Our favorite memories at the movies - The Verge",
@@ -1631,8 +1632,8 @@
       "priority_score": 65
     },
     {
-      "id": "music-12-8462970457852292759",
-      "key": "music-12-8462970457852292759",
+      "id": "music-12-3000522897878308575",
+      "key": "music-12-3000522897878308575",
       "category": "Music",
       "label": "Music",
       "headline": "Megan Thee Stallion Must Face Trial in Cameraman's Lawsuit Over Alleged Car-Sex Incident: Judge",
@@ -1658,8 +1659,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-3-2494132788958856381",
-      "key": "gaming-3-2494132788958856381",
+      "id": "gaming-3-4066903794879131147",
+      "key": "gaming-3-4066903794879131147",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Palworld 1.0 Showed Me Why Everyone Loves Survival Games",
@@ -1695,24 +1696,24 @@
       "key_storylines": [
         "Satyajit Ray’s ‘Goopy Gyne Bagha Byne’ Making to be Chronicled in Srijit Mukherji’s ‘Maharaja Tomare Selam’",
         "Jason Clarke Joins Action-Thriller ‘Supermax’ From Amazon MGM & Miramax",
-        "‘Asphalt Guerrilla’ Blends Fact, Fiction, AI and a Story About Filmmaking to Hold Up a Mirror to Our Time",
+        "Monica Bellucci Plays a Mother Who Yells and Is the “Victim of a Social Role” in Luca Guadagnino-Produced ‘Ketticè’",
         "The 25 best cyberpunk movies of all time, ranked - Entertainment Weekly",
         "‘I Rarely Wake Up Dreaming’ Review: An Affecting Trans Relationship Drama Brings Fresh Perspective to the War in Ukraine"
       ],
       "watch_list": [
         "Satyajit Ray’s ‘Goopy Gyne Bagha Byne’ Making to be Chronicled in Srijit Mukherji’s ‘Maharaja Tomare Selam’",
         "Jason Clarke Joins Action-Thriller ‘Supermax’ From Amazon MGM & Miramax",
-        "‘Asphalt Guerrilla’ Blends Fact, Fiction, AI and a Story About Filmmaking to Hold Up a Mirror to Our Time",
+        "Monica Bellucci Plays a Mother Who Yells and Is the “Victim of a Social Role” in Luca Guadagnino-Produced ‘Ketticè’",
         "The 25 best cyberpunk movies of all time, ranked - Entertainment Weekly",
         "‘I Rarely Wake Up Dreaming’ Review: An Affecting Trans Relationship Drama Brings Fresh Perspective to the War in Ukraine",
         "Bella Thorne Says ‘Spring Breakers 2’ Producers Tapped Her To Write, Direct & Star In Sequel After Seeing Directorial Debut",
-        "Filmmaker Elham Ehsas Wants You to Know Afghanistan Sent a Man to Space in 1988",
+        "No, Brian Eno Is Not Behind the Film Soundtrack for ‘At Night.’ Experimental Musician Elvin Brandhi Is.",
         "Sundance 2026 Movies Sold: ‘The Gallerist’ with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire"
       ],
       "homepage_cards": [
         {
-          "id": "film-0-3559512100141028217",
-          "key": "film-0-3559512100141028217",
+          "id": "film-0-6431182768275968892",
+          "key": "film-0-6431182768275968892",
           "category": "Film",
           "label": "Film",
           "headline": "Satyajit Ray’s ‘Goopy Gyne Bagha Byne’ Making to be Chronicled in Srijit Mukherji’s ‘Maharaja Tomare Selam’",
@@ -1739,8 +1740,8 @@
           ]
         },
         {
-          "id": "film-10-7110699540298884644",
-          "key": "film-10-7110699540298884644",
+          "id": "film-10-7478136363107347481",
+          "key": "film-10-7478136363107347481",
           "category": "Film",
           "label": "Film",
           "headline": "Jason Clarke Joins Action-Thriller ‘Supermax’ From Amazon MGM & Miramax",
@@ -1767,25 +1768,25 @@
           ]
         },
         {
-          "id": "film-22-993019426353273259",
-          "key": "film-22-993019426353273259",
+          "id": "film-22-6029869401950237171",
+          "key": "film-22-6029869401950237171",
           "category": "Film",
           "label": "Film",
-          "headline": "‘Asphalt Guerrilla’ Blends Fact, Fiction, AI and a Story About Filmmaking to Hold Up a Mirror to Our Time",
-          "title": "‘Asphalt Guerrilla’ Blends Fact, Fiction, AI and a Story About Filmmaking to Hold Up a Mirror to Our Time",
-          "snapshot": "Portuguese auteur Edgar Pêra discusses his new film, premiering at Locarno, shares how he is using AI to fight his concerns about it, and why he thinks about the rise of radicalism in the world as a symptom.",
-          "summary": "Portuguese auteur Edgar Pêra discusses his new film, premiering at Locarno, shares how he is using AI to fight his concerns about it, and why he thinks about the rise of radicalism in the world as a symptom.",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/asphalt-guerrilla-film-interview-locarno-2026-ai-radicalism-1236668855/",
+          "headline": "Monica Bellucci Plays a Mother Who Yells and Is the “Victim of a Social Role” in Luca Guadagnino-Produced ‘Ketticè’",
+          "title": "Monica Bellucci Plays a Mother Who Yells and Is the “Victim of a Social Role” in Luca Guadagnino-Produced ‘Ketticè’",
+          "snapshot": "At Locarno, the Italian icon lauded the two young stars and filmmaker Giovanni Tortorici for their work on his second feature and shared that her character has forgotten about \"her femininity.\"",
+          "summary": "At Locarno, the Italian icon lauded the two young stars and filmmaker Giovanni Tortorici for their work on his second feature and shared that her character has forgotten about \"her femininity.\"",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/monica-bellucci-luca-guadagnino-film-kettice-locarno-2026-1236669217/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-          "published_at": "2026-08-08 02:00:00 AM ET",
+          "published_at": "2026-08-08 06:21:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 78,
           "key_data": [
-            "‘Asphalt Guerrilla’ Blends Fact, Fiction, AI and a Story About Filmmaking to Hold Up a Mirror to Our Time"
+            "Monica Bellucci Plays a Mother Who Yells and Is the “Victim of a Social Role” in Luca Guadagnino-Produced ‘Ketticè’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1795,8 +1796,8 @@
           ]
         },
         {
-          "id": "film-32-8225723186158994683",
-          "key": "film-32-8225723186158994683",
+          "id": "film-32-5141660177380877645",
+          "key": "film-32-5141660177380877645",
           "category": "Film",
           "label": "Film",
           "headline": "The 25 best cyberpunk movies of all time, ranked - Entertainment Weekly",
@@ -1823,8 +1824,8 @@
           ]
         },
         {
-          "id": "film-1-5598557267684673411",
-          "key": "film-1-5598557267684673411",
+          "id": "film-1-5488164969895166944",
+          "key": "film-1-5488164969895166944",
           "category": "Film",
           "label": "Film",
           "headline": "‘I Rarely Wake Up Dreaming’ Review: An Affecting Trans Relationship Drama Brings Fresh Perspective to the War in Ukraine",
@@ -1851,8 +1852,8 @@
           ]
         },
         {
-          "id": "film-11-6551614323588186422",
-          "key": "film-11-6551614323588186422",
+          "id": "film-11-1965659317555607677",
+          "key": "film-11-1965659317555607677",
           "category": "Film",
           "label": "Film",
           "headline": "Bella Thorne Says ‘Spring Breakers 2’ Producers Tapped Her To Write, Direct & Star In Sequel After Seeing Directorial Debut",
@@ -1879,25 +1880,25 @@
           ]
         },
         {
-          "id": "film-23-8754283457966189932",
-          "key": "film-23-8754283457966189932",
+          "id": "film-23-8634174451871587155",
+          "key": "film-23-8634174451871587155",
           "category": "Film",
           "label": "Film",
-          "headline": "Filmmaker Elham Ehsas Wants You to Know Afghanistan Sent a Man to Space in 1988",
-          "title": "Filmmaker Elham Ehsas Wants You to Know Afghanistan Sent a Man to Space in 1988",
-          "snapshot": "Ahead of the Locarno premiere of 'Forgotten Spaceman,' the London-based actor-director discusses his accidental documentary, a startling family connection and Afghanistan's \"buried\" history of achievement.",
-          "summary": "Ahead of the Locarno premiere of 'Forgotten Spaceman,' the London-based actor-director discusses his accidental documentary, a startling family connection and Afghanistan's \"buried\" history of achievement.",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/forgotten-spaceman-locarno-film-about-afghanistan-cosmonaut-1236663264/",
+          "headline": "No, Brian Eno Is Not Behind the Film Soundtrack for ‘At Night.’ Experimental Musician Elvin Brandhi Is.",
+          "title": "No, Brian Eno Is Not Behind the Film Soundtrack for ‘At Night.’ Experimental Musician Elvin Brandhi Is.",
+          "snapshot": "The Locarno-premiering film by Beatrice Gibson is her first feature soundtrack, and she shares insights into its collaborative creation, whether she may return for more film work and her upcoming album.",
+          "summary": "The Locarno-premiering film by Beatrice Gibson is her first feature soundtrack, and she shares insights into its collaborative creation, whether she may return for more film work and her upcoming album.",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/at-night-film-soundrack-elvin-brandhi-not-brian-eno-locarno-1236666314/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-          "published_at": "2026-08-08 01:00:00 AM ET",
+          "published_at": "2026-08-08 05:40:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 77,
           "key_data": [
-            "Filmmaker Elham Ehsas Wants You to Know Afghanistan Sent a Man to Space in 1988"
+            "No, Brian Eno Is Not Behind the Film Soundtrack for ‘At Night.’ Experimental Musician Elvin Brandhi Is."
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1907,8 +1908,8 @@
           ]
         },
         {
-          "id": "film-33-8664416936298972487",
-          "key": "film-33-8664416936298972487",
+          "id": "film-33-8013829874041802400",
+          "key": "film-33-8013829874041802400",
           "category": "Film",
           "label": "Film",
           "headline": "Sundance 2026 Movies Sold: ‘The Gallerist’ with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire",
@@ -1937,8 +1938,8 @@
       ],
       "items": [
         {
-          "id": "film-0-3559512100141028217",
-          "key": "film-0-3559512100141028217",
+          "id": "film-0-6431182768275968892",
+          "key": "film-0-6431182768275968892",
           "category": "Film",
           "label": "Film",
           "headline": "Satyajit Ray’s ‘Goopy Gyne Bagha Byne’ Making to be Chronicled in Srijit Mukherji’s ‘Maharaja Tomare Selam’",
@@ -1965,8 +1966,8 @@
           ]
         },
         {
-          "id": "film-10-7110699540298884644",
-          "key": "film-10-7110699540298884644",
+          "id": "film-10-7478136363107347481",
+          "key": "film-10-7478136363107347481",
           "category": "Film",
           "label": "Film",
           "headline": "Jason Clarke Joins Action-Thriller ‘Supermax’ From Amazon MGM & Miramax",
@@ -1993,25 +1994,25 @@
           ]
         },
         {
-          "id": "film-22-993019426353273259",
-          "key": "film-22-993019426353273259",
+          "id": "film-22-6029869401950237171",
+          "key": "film-22-6029869401950237171",
           "category": "Film",
           "label": "Film",
-          "headline": "‘Asphalt Guerrilla’ Blends Fact, Fiction, AI and a Story About Filmmaking to Hold Up a Mirror to Our Time",
-          "title": "‘Asphalt Guerrilla’ Blends Fact, Fiction, AI and a Story About Filmmaking to Hold Up a Mirror to Our Time",
-          "snapshot": "Portuguese auteur Edgar Pêra discusses his new film, premiering at Locarno, shares how he is using AI to fight his concerns about it, and why he thinks about the rise of radicalism in the world as a symptom.",
-          "summary": "Portuguese auteur Edgar Pêra discusses his new film, premiering at Locarno, shares how he is using AI to fight his concerns about it, and why he thinks about the rise of radicalism in the world as a symptom.",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/asphalt-guerrilla-film-interview-locarno-2026-ai-radicalism-1236668855/",
+          "headline": "Monica Bellucci Plays a Mother Who Yells and Is the “Victim of a Social Role” in Luca Guadagnino-Produced ‘Ketticè’",
+          "title": "Monica Bellucci Plays a Mother Who Yells and Is the “Victim of a Social Role” in Luca Guadagnino-Produced ‘Ketticè’",
+          "snapshot": "At Locarno, the Italian icon lauded the two young stars and filmmaker Giovanni Tortorici for their work on his second feature and shared that her character has forgotten about \"her femininity.\"",
+          "summary": "At Locarno, the Italian icon lauded the two young stars and filmmaker Giovanni Tortorici for their work on his second feature and shared that her character has forgotten about \"her femininity.\"",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/monica-bellucci-luca-guadagnino-film-kettice-locarno-2026-1236669217/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-          "published_at": "2026-08-08 02:00:00 AM ET",
+          "published_at": "2026-08-08 06:21:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 78,
           "key_data": [
-            "‘Asphalt Guerrilla’ Blends Fact, Fiction, AI and a Story About Filmmaking to Hold Up a Mirror to Our Time"
+            "Monica Bellucci Plays a Mother Who Yells and Is the “Victim of a Social Role” in Luca Guadagnino-Produced ‘Ketticè’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2021,8 +2022,8 @@
           ]
         },
         {
-          "id": "film-32-8225723186158994683",
-          "key": "film-32-8225723186158994683",
+          "id": "film-32-5141660177380877645",
+          "key": "film-32-5141660177380877645",
           "category": "Film",
           "label": "Film",
           "headline": "The 25 best cyberpunk movies of all time, ranked - Entertainment Weekly",
@@ -2049,8 +2050,8 @@
           ]
         },
         {
-          "id": "film-1-5598557267684673411",
-          "key": "film-1-5598557267684673411",
+          "id": "film-1-5488164969895166944",
+          "key": "film-1-5488164969895166944",
           "category": "Film",
           "label": "Film",
           "headline": "‘I Rarely Wake Up Dreaming’ Review: An Affecting Trans Relationship Drama Brings Fresh Perspective to the War in Ukraine",
@@ -2077,8 +2078,8 @@
           ]
         },
         {
-          "id": "film-11-6551614323588186422",
-          "key": "film-11-6551614323588186422",
+          "id": "film-11-1965659317555607677",
+          "key": "film-11-1965659317555607677",
           "category": "Film",
           "label": "Film",
           "headline": "Bella Thorne Says ‘Spring Breakers 2’ Producers Tapped Her To Write, Direct & Star In Sequel After Seeing Directorial Debut",
@@ -2105,25 +2106,25 @@
           ]
         },
         {
-          "id": "film-23-8754283457966189932",
-          "key": "film-23-8754283457966189932",
+          "id": "film-23-8634174451871587155",
+          "key": "film-23-8634174451871587155",
           "category": "Film",
           "label": "Film",
-          "headline": "Filmmaker Elham Ehsas Wants You to Know Afghanistan Sent a Man to Space in 1988",
-          "title": "Filmmaker Elham Ehsas Wants You to Know Afghanistan Sent a Man to Space in 1988",
-          "snapshot": "Ahead of the Locarno premiere of 'Forgotten Spaceman,' the London-based actor-director discusses his accidental documentary, a startling family connection and Afghanistan's \"buried\" history of achievement.",
-          "summary": "Ahead of the Locarno premiere of 'Forgotten Spaceman,' the London-based actor-director discusses his accidental documentary, a startling family connection and Afghanistan's \"buried\" history of achievement.",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/forgotten-spaceman-locarno-film-about-afghanistan-cosmonaut-1236663264/",
+          "headline": "No, Brian Eno Is Not Behind the Film Soundtrack for ‘At Night.’ Experimental Musician Elvin Brandhi Is.",
+          "title": "No, Brian Eno Is Not Behind the Film Soundtrack for ‘At Night.’ Experimental Musician Elvin Brandhi Is.",
+          "snapshot": "The Locarno-premiering film by Beatrice Gibson is her first feature soundtrack, and she shares insights into its collaborative creation, whether she may return for more film work and her upcoming album.",
+          "summary": "The Locarno-premiering film by Beatrice Gibson is her first feature soundtrack, and she shares insights into its collaborative creation, whether she may return for more film work and her upcoming album.",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/at-night-film-soundrack-elvin-brandhi-not-brian-eno-locarno-1236666314/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-          "published_at": "2026-08-08 01:00:00 AM ET",
+          "published_at": "2026-08-08 05:40:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 77,
           "key_data": [
-            "Filmmaker Elham Ehsas Wants You to Know Afghanistan Sent a Man to Space in 1988"
+            "No, Brian Eno Is Not Behind the Film Soundtrack for ‘At Night.’ Experimental Musician Elvin Brandhi Is."
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2133,8 +2134,8 @@
           ]
         },
         {
-          "id": "film-33-8664416936298972487",
-          "key": "film-33-8664416936298972487",
+          "id": "film-33-8013829874041802400",
+          "key": "film-33-8013829874041802400",
           "category": "Film",
           "label": "Film",
           "headline": "Sundance 2026 Movies Sold: ‘The Gallerist’ with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire",
@@ -2161,7 +2162,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-08 05:38:35 AM ET"
+      "updated_at": "2026-08-08 06:34:28 AM ET"
     },
     {
       "key": "tv",
@@ -2187,8 +2188,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "tv-0-673113678513857297",
-          "key": "tv-0-673113678513857297",
+          "id": "tv-0-981476020786001476",
+          "key": "tv-0-981476020786001476",
           "category": "TV",
           "label": "TV",
           "headline": "Behind the Scenes of Obama’s Acting Cameo in ‘Life, Larry’: Blaming Larry David for His Tan Suit Debacle, Improvising Lines and Ranting About Ketchup",
@@ -2215,8 +2216,8 @@
           ]
         },
         {
-          "id": "tv-10-6833860258784605339",
-          "key": "tv-10-6833860258784605339",
+          "id": "tv-10-1980743974783710155",
+          "key": "tv-10-1980743974783710155",
           "category": "TV",
           "label": "TV",
           "headline": "‘Blue Bloods’ Alum Will Estes Reprising Role On ‘Boston Blue’: “Welcome (Back) To The Family”",
@@ -2243,8 +2244,8 @@
           ]
         },
         {
-          "id": "tv-20-2398351601420429118",
-          "key": "tv-20-2398351601420429118",
+          "id": "tv-20-3464518363453547912",
+          "key": "tv-20-3464518363453547912",
           "category": "TV",
           "label": "TV",
           "headline": "Jake T. Austin Says He Wasn’t Invited to Partake in ‘Wizards of Waverly Place’ Revival: “Disappointed”",
@@ -2271,8 +2272,8 @@
           ]
         },
         {
-          "id": "tv-30-3355969044080491941",
-          "key": "tv-30-3355969044080491941",
+          "id": "tv-30-4675586793284281535",
+          "key": "tv-30-4675586793284281535",
           "category": "TV",
           "label": "TV",
           "headline": "Shemaroo gets MIB nod to launch Hindi entertainment channel Mango TV - Indian Television Dot Com",
@@ -2299,8 +2300,8 @@
           ]
         },
         {
-          "id": "tv-1-2135724264089508860",
-          "key": "tv-1-2135724264089508860",
+          "id": "tv-1-4665007032545391225",
+          "key": "tv-1-4665007032545391225",
           "category": "TV",
           "label": "TV",
           "headline": "‘Power Book III: Raising Kanan’ Creator Sascha Penn and Stars Patina Miller and Mekai Curtis on the Deadly Series Finale and ‘Power: Origins’",
@@ -2327,8 +2328,8 @@
           ]
         },
         {
-          "id": "tv-11-4056985478306726102",
-          "key": "tv-11-4056985478306726102",
+          "id": "tv-11-7811023030511268689",
+          "key": "tv-11-7811023030511268689",
           "category": "TV",
           "label": "TV",
           "headline": "TV Show Book Adaptations Arriving In 2026 So Far",
@@ -2355,8 +2356,8 @@
           ]
         },
         {
-          "id": "tv-21-3319060148247158692",
-          "key": "tv-21-3319060148247158692",
+          "id": "tv-21-6778092657799530351",
+          "key": "tv-21-6778092657799530351",
           "category": "TV",
           "label": "TV",
           "headline": "Streaming Ratings: ‘Love Island USA’ Scores Another All-Time High Leading Up to Season 8 Finale",
@@ -2385,8 +2386,8 @@
       ],
       "items": [
         {
-          "id": "tv-0-673113678513857297",
-          "key": "tv-0-673113678513857297",
+          "id": "tv-0-981476020786001476",
+          "key": "tv-0-981476020786001476",
           "category": "TV",
           "label": "TV",
           "headline": "Behind the Scenes of Obama’s Acting Cameo in ‘Life, Larry’: Blaming Larry David for His Tan Suit Debacle, Improvising Lines and Ranting About Ketchup",
@@ -2413,8 +2414,8 @@
           ]
         },
         {
-          "id": "tv-10-6833860258784605339",
-          "key": "tv-10-6833860258784605339",
+          "id": "tv-10-1980743974783710155",
+          "key": "tv-10-1980743974783710155",
           "category": "TV",
           "label": "TV",
           "headline": "‘Blue Bloods’ Alum Will Estes Reprising Role On ‘Boston Blue’: “Welcome (Back) To The Family”",
@@ -2441,8 +2442,8 @@
           ]
         },
         {
-          "id": "tv-20-2398351601420429118",
-          "key": "tv-20-2398351601420429118",
+          "id": "tv-20-3464518363453547912",
+          "key": "tv-20-3464518363453547912",
           "category": "TV",
           "label": "TV",
           "headline": "Jake T. Austin Says He Wasn’t Invited to Partake in ‘Wizards of Waverly Place’ Revival: “Disappointed”",
@@ -2469,8 +2470,8 @@
           ]
         },
         {
-          "id": "tv-30-3355969044080491941",
-          "key": "tv-30-3355969044080491941",
+          "id": "tv-30-4675586793284281535",
+          "key": "tv-30-4675586793284281535",
           "category": "TV",
           "label": "TV",
           "headline": "Shemaroo gets MIB nod to launch Hindi entertainment channel Mango TV - Indian Television Dot Com",
@@ -2497,8 +2498,8 @@
           ]
         },
         {
-          "id": "tv-1-2135724264089508860",
-          "key": "tv-1-2135724264089508860",
+          "id": "tv-1-4665007032545391225",
+          "key": "tv-1-4665007032545391225",
           "category": "TV",
           "label": "TV",
           "headline": "‘Power Book III: Raising Kanan’ Creator Sascha Penn and Stars Patina Miller and Mekai Curtis on the Deadly Series Finale and ‘Power: Origins’",
@@ -2525,8 +2526,8 @@
           ]
         },
         {
-          "id": "tv-11-4056985478306726102",
-          "key": "tv-11-4056985478306726102",
+          "id": "tv-11-7811023030511268689",
+          "key": "tv-11-7811023030511268689",
           "category": "TV",
           "label": "TV",
           "headline": "TV Show Book Adaptations Arriving In 2026 So Far",
@@ -2553,8 +2554,8 @@
           ]
         },
         {
-          "id": "tv-21-3319060148247158692",
-          "key": "tv-21-3319060148247158692",
+          "id": "tv-21-6778092657799530351",
+          "key": "tv-21-6778092657799530351",
           "category": "TV",
           "label": "TV",
           "headline": "Streaming Ratings: ‘Love Island USA’ Scores Another All-Time High Leading Up to Season 8 Finale",
@@ -2581,7 +2582,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-08 05:38:36 AM ET"
+      "updated_at": "2026-08-08 06:34:29 AM ET"
     },
     {
       "key": "streaming",
@@ -2599,8 +2600,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "streaming-0-2211880001011538662",
-          "key": "streaming-0-2211880001011538662",
+          "id": "streaming-0-8800380953825401284",
+          "key": "streaming-0-8800380953825401284",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Disney turns $4-billion streaming loss into profit, and now it chases global growth - Los Angeles Times",
@@ -2627,8 +2628,8 @@
           ]
         },
         {
-          "id": "streaming-1-3866652642370827538",
-          "key": "streaming-1-3866652642370827538",
+          "id": "streaming-1-2747953184172003975",
+          "key": "streaming-1-2747953184172003975",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'The Devil Wears Prada 2' to 'Obsession,' 10 movies to stream now - USA Today",
@@ -2657,8 +2658,8 @@
       ],
       "items": [
         {
-          "id": "streaming-0-2211880001011538662",
-          "key": "streaming-0-2211880001011538662",
+          "id": "streaming-0-8800380953825401284",
+          "key": "streaming-0-8800380953825401284",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Disney turns $4-billion streaming loss into profit, and now it chases global growth - Los Angeles Times",
@@ -2685,8 +2686,8 @@
           ]
         },
         {
-          "id": "streaming-1-3866652642370827538",
-          "key": "streaming-1-3866652642370827538",
+          "id": "streaming-1-2747953184172003975",
+          "key": "streaming-1-2747953184172003975",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'The Devil Wears Prada 2' to 'Obsession,' 10 movies to stream now - USA Today",
@@ -2713,7 +2714,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-08 05:38:38 AM ET"
+      "updated_at": "2026-08-08 06:34:30 AM ET"
     },
     {
       "key": "music",
@@ -2738,8 +2739,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "music-0-7578009977098013632",
-          "key": "music-0-7578009977098013632",
+          "id": "music-0-7725373235008651837",
+          "key": "music-0-7725373235008651837",
           "category": "Music",
           "label": "Music",
           "headline": "Taylor Swift Song ‘August’ Removed From Trump TikTok Video",
@@ -2766,8 +2767,8 @@
           ]
         },
         {
-          "id": "music-9-3500382644257769626",
-          "key": "music-9-3500382644257769626",
+          "id": "music-9-5981166214579838567",
+          "key": "music-9-5981166214579838567",
           "category": "Music",
           "label": "Music",
           "headline": "Vera Blue covers Radiohead’s ‘Creep’ for triple j’s Like A Version",
@@ -2794,8 +2795,8 @@
           ]
         },
         {
-          "id": "music-19-1615205038935658327",
-          "key": "music-19-1615205038935658327",
+          "id": "music-19-4146751702986493679",
+          "key": "music-19-4146751702986493679",
           "category": "Music",
           "label": "Music",
           "headline": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - billboard.com",
@@ -2822,8 +2823,8 @@
           ]
         },
         {
-          "id": "music-1-1642559039760357119",
-          "key": "music-1-1642559039760357119",
+          "id": "music-1-6238375146662399089",
+          "key": "music-1-6238375146662399089",
           "category": "Music",
           "label": "Music",
           "headline": "Judy Collins on Doing a Farewell Tour While ‘Having a Lot More Steam in My Engine’: At 87, ‘I’m the Betty White of the Folk Movement’",
@@ -2850,8 +2851,8 @@
           ]
         },
         {
-          "id": "music-10-535034889685411921",
-          "key": "music-10-535034889685411921",
+          "id": "music-10-6350865763608254960",
+          "key": "music-10-6350865763608254960",
           "category": "Music",
           "label": "Music",
           "headline": "Brandi Carlile Postpones U.K. and European Tour Citing ‘Personal Circumstances’",
@@ -2878,8 +2879,8 @@
           ]
         },
         {
-          "id": "music-20-8093883425946262610",
-          "key": "music-20-8093883425946262610",
+          "id": "music-20-1073069217591728596",
+          "key": "music-20-1073069217591728596",
           "category": "Music",
           "label": "Music",
           "headline": "1976 Soul Music Hit Just Missed Billboard’s Top Spot, But It Made Lou Rawls an Icon - parade.com",
@@ -2908,8 +2909,8 @@
       ],
       "items": [
         {
-          "id": "music-0-7578009977098013632",
-          "key": "music-0-7578009977098013632",
+          "id": "music-0-7725373235008651837",
+          "key": "music-0-7725373235008651837",
           "category": "Music",
           "label": "Music",
           "headline": "Taylor Swift Song ‘August’ Removed From Trump TikTok Video",
@@ -2936,8 +2937,8 @@
           ]
         },
         {
-          "id": "music-9-3500382644257769626",
-          "key": "music-9-3500382644257769626",
+          "id": "music-9-5981166214579838567",
+          "key": "music-9-5981166214579838567",
           "category": "Music",
           "label": "Music",
           "headline": "Vera Blue covers Radiohead’s ‘Creep’ for triple j’s Like A Version",
@@ -2964,8 +2965,8 @@
           ]
         },
         {
-          "id": "music-19-1615205038935658327",
-          "key": "music-19-1615205038935658327",
+          "id": "music-19-4146751702986493679",
+          "key": "music-19-4146751702986493679",
           "category": "Music",
           "label": "Music",
           "headline": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - billboard.com",
@@ -2992,8 +2993,8 @@
           ]
         },
         {
-          "id": "music-1-1642559039760357119",
-          "key": "music-1-1642559039760357119",
+          "id": "music-1-6238375146662399089",
+          "key": "music-1-6238375146662399089",
           "category": "Music",
           "label": "Music",
           "headline": "Judy Collins on Doing a Farewell Tour While ‘Having a Lot More Steam in My Engine’: At 87, ‘I’m the Betty White of the Folk Movement’",
@@ -3020,8 +3021,8 @@
           ]
         },
         {
-          "id": "music-10-535034889685411921",
-          "key": "music-10-535034889685411921",
+          "id": "music-10-6350865763608254960",
+          "key": "music-10-6350865763608254960",
           "category": "Music",
           "label": "Music",
           "headline": "Brandi Carlile Postpones U.K. and European Tour Citing ‘Personal Circumstances’",
@@ -3048,8 +3049,8 @@
           ]
         },
         {
-          "id": "music-20-8093883425946262610",
-          "key": "music-20-8093883425946262610",
+          "id": "music-20-1073069217591728596",
+          "key": "music-20-1073069217591728596",
           "category": "Music",
           "label": "Music",
           "headline": "1976 Soul Music Hit Just Missed Billboard’s Top Spot, But It Made Lou Rawls an Icon - parade.com",
@@ -3076,7 +3077,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-08 05:38:39 AM ET"
+      "updated_at": "2026-08-08 06:34:30 AM ET"
     },
     {
       "key": "awards",
@@ -3094,8 +3095,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "awards-0-7491298134761781597",
-          "key": "awards-0-7491298134761781597",
+          "id": "awards-0-6370029566757447546",
+          "key": "awards-0-6370029566757447546",
           "category": "Awards",
           "label": "Awards",
           "headline": "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
@@ -3122,8 +3123,8 @@
           ]
         },
         {
-          "id": "awards-1-9044759944265284606",
-          "key": "awards-1-9044759944265284606",
+          "id": "awards-1-7951181248618694919",
+          "key": "awards-1-7951181248618694919",
           "category": "Awards",
           "label": "Awards",
           "headline": "James Gray Says AI Is ‘Worthless’ and Young People Won’t Stand for It: They ‘Have a Real Hunger for Interesting, Honest Stuff’",
@@ -3152,8 +3153,8 @@
       ],
       "items": [
         {
-          "id": "awards-0-7491298134761781597",
-          "key": "awards-0-7491298134761781597",
+          "id": "awards-0-6370029566757447546",
+          "key": "awards-0-6370029566757447546",
           "category": "Awards",
           "label": "Awards",
           "headline": "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
@@ -3180,8 +3181,8 @@
           ]
         },
         {
-          "id": "awards-1-9044759944265284606",
-          "key": "awards-1-9044759944265284606",
+          "id": "awards-1-7951181248618694919",
+          "key": "awards-1-7951181248618694919",
           "category": "Awards",
           "label": "Awards",
           "headline": "James Gray Says AI Is ‘Worthless’ and Young People Won’t Stand for It: They ‘Have a Real Hunger for Interesting, Honest Stuff’",
@@ -3208,7 +3209,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-08 05:38:39 AM ET"
+      "updated_at": "2026-08-08 06:34:31 AM ET"
     },
     {
       "key": "box_office",
@@ -3218,20 +3219,20 @@
       "snapshot": "Box Office coverage is updating with 4 current RSS headline item(s).",
       "key_storylines": [
         "‘The Odyssey’ Surpasses $1 Billion, Christopher Nolan’s First Movie Since ‘Dark Knight Rises’ to Reach Coveted Box Office Milestone",
-        "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History - hollywoodreporter.com",
+        "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History - The Hollywood Reporter",
         "‘The Odyssey’ and ‘Spider-Man: Brand New Day’ Power $239 Million U.K., Ireland July Box Office",
-        "The Highest-Grossing Theater for ‘The Odyssey’ in 70MM Hadn’t Screened a New Movie in 35 Years - hollywoodreporter.com"
+        "Disney Admits ‘The Mandalorian and Grogu’ Disappointed at Box Office - The Hollywood Reporter"
       ],
       "watch_list": [
         "‘The Odyssey’ Surpasses $1 Billion, Christopher Nolan’s First Movie Since ‘Dark Knight Rises’ to Reach Coveted Box Office Milestone",
-        "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History - hollywoodreporter.com",
+        "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History - The Hollywood Reporter",
         "‘The Odyssey’ and ‘Spider-Man: Brand New Day’ Power $239 Million U.K., Ireland July Box Office",
-        "The Highest-Grossing Theater for ‘The Odyssey’ in 70MM Hadn’t Screened a New Movie in 35 Years - hollywoodreporter.com"
+        "Disney Admits ‘The Mandalorian and Grogu’ Disappointed at Box Office - The Hollywood Reporter"
       ],
       "homepage_cards": [
         {
-          "id": "box_office-0-3622625978624136851",
-          "key": "box_office-0-3622625978624136851",
+          "id": "box_office-0-7778147367559159255",
+          "key": "box_office-0-7778147367559159255",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ Surpasses $1 Billion, Christopher Nolan’s First Movie Since ‘Dark Knight Rises’ to Reach Coveted Box Office Milestone",
@@ -3258,14 +3259,14 @@
           ]
         },
         {
-          "id": "box_office-10-7779770061718493008",
-          "key": "box_office-10-7779770061718493008",
+          "id": "box_office-10-6665635694729990613",
+          "key": "box_office-10-6665635694729990613",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History - hollywoodreporter.com",
-          "title": "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History - hollywoodreporter.com",
-          "snapshot": "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History hollywoodreporter.com",
-          "summary": "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History hollywoodreporter.com",
+          "headline": "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History - The Hollywood Reporter",
+          "title": "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History - The Hollywood Reporter",
+          "snapshot": "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History The Hollywood Reporter",
+          "summary": "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History The Hollywood Reporter",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZTBCTTFoUjJYY2dRQ2hDVk82YUpyWlNZZVRqeVJJLWs3ck1KUFRXN1hWMVB2OHNLemRRY3lHQy1sQ1QzLXlzMktmZXZwY293b19aa0lTdXhQZWpxaEZQYzg0Qk83aWZlMmNMMmhsbWExem8tUHNnVWlTcGwwT2VXLXhFWHM3akJXa0pWUlp4LVFFS01rc3RNM2Etc1dMUkVyMmgzSGlQOTZhdnNSdWZLR0piMTFlZFVJMWc?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3276,7 +3277,7 @@
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History - hollywoodreporter.com"
+            "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History - The Hollywood Reporter"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3286,8 +3287,8 @@
           ]
         },
         {
-          "id": "box_office-1-3525570731174103826",
-          "key": "box_office-1-3525570731174103826",
+          "id": "box_office-1-2659518879695617297",
+          "key": "box_office-1-2659518879695617297",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ and ‘Spider-Man: Brand New Day’ Power $239 Million U.K., Ireland July Box Office",
@@ -3314,25 +3315,25 @@
           ]
         },
         {
-          "id": "box_office-11-6300966896564826596",
-          "key": "box_office-11-6300966896564826596",
+          "id": "box_office-11-5739729552005989741",
+          "key": "box_office-11-5739729552005989741",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "The Highest-Grossing Theater for ‘The Odyssey’ in 70MM Hadn’t Screened a New Movie in 35 Years - hollywoodreporter.com",
-          "title": "The Highest-Grossing Theater for ‘The Odyssey’ in 70MM Hadn’t Screened a New Movie in 35 Years - hollywoodreporter.com",
-          "snapshot": "The Highest-Grossing Theater for ‘The Odyssey’ in 70MM Hadn’t Screened a New Movie in 35 Years hollywoodreporter.com",
-          "summary": "The Highest-Grossing Theater for ‘The Odyssey’ in 70MM Hadn’t Screened a New Movie in 35 Years hollywoodreporter.com",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM0t3Qk5vV3laZGVDbjcyb1lzWk56dUNZbzZqSkRFdUtJQ3NRcXloaFgtRHFhaTZURXpTWEZFal96UVVmT3R4TWpaWWpORXJhRTQxOUNiZzd1TkluLUFZRXk3M29RMXphZkhRVHBWVGJKWTFZTURrdlI2ek45S2w3cGhJU1A0TVhYMXZwTG1mcDBBeDFISGtFbktIYjFzXzluSHBFT1E3WQ?oc=5",
+          "headline": "Disney Admits ‘The Mandalorian and Grogu’ Disappointed at Box Office - The Hollywood Reporter",
+          "title": "Disney Admits ‘The Mandalorian and Grogu’ Disappointed at Box Office - The Hollywood Reporter",
+          "snapshot": "Disney Admits ‘The Mandalorian and Grogu’ Disappointed at Box Office The Hollywood Reporter",
+          "summary": "Disney Admits ‘The Mandalorian and Grogu’ Disappointed at Box Office The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdEowdTU1RnY3U3ZreUhCb2ZFSkQ4NmlnS191Ump6dnBKWW4zbDNfY2phMFRUTkRSMGRMX2tHaXNaOGhxZmY2b2FiQWkxWXRlemJRQXVaN3FqZ0s0c3RYTXlmVHRPcUwwTzc5RGNIOWFmZUhZUWMyUVRIZ1Z0eEh4Q0IxMUJTQS1CTE5pRzd4dVVVdTJSc0ZFMjluM2hCTG9mMU9qWHFkQjRuU2owWDJrVHhZazNIZVE?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-04 07:04:31 PM ET",
+          "published_at": "2026-08-05 10:17:38 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "The Highest-Grossing Theater for ‘The Odyssey’ in 70MM Hadn’t Screened a New Movie in 35 Years - hollywoodreporter.com"
+            "Disney Admits ‘The Mandalorian and Grogu’ Disappointed at Box Office - The Hollywood Reporter"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3344,8 +3345,8 @@
       ],
       "items": [
         {
-          "id": "box_office-0-3622625978624136851",
-          "key": "box_office-0-3622625978624136851",
+          "id": "box_office-0-7778147367559159255",
+          "key": "box_office-0-7778147367559159255",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ Surpasses $1 Billion, Christopher Nolan’s First Movie Since ‘Dark Knight Rises’ to Reach Coveted Box Office Milestone",
@@ -3372,14 +3373,14 @@
           ]
         },
         {
-          "id": "box_office-10-7779770061718493008",
-          "key": "box_office-10-7779770061718493008",
+          "id": "box_office-10-6665635694729990613",
+          "key": "box_office-10-6665635694729990613",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History - hollywoodreporter.com",
-          "title": "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History - hollywoodreporter.com",
-          "snapshot": "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History hollywoodreporter.com",
-          "summary": "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History hollywoodreporter.com",
+          "headline": "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History - The Hollywood Reporter",
+          "title": "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History - The Hollywood Reporter",
+          "snapshot": "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History The Hollywood Reporter",
+          "summary": "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History The Hollywood Reporter",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZTBCTTFoUjJYY2dRQ2hDVk82YUpyWlNZZVRqeVJJLWs3ck1KUFRXN1hWMVB2OHNLemRRY3lHQy1sQ1QzLXlzMktmZXZwY293b19aa0lTdXhQZWpxaEZQYzg0Qk83aWZlMmNMMmhsbWExem8tUHNnVWlTcGwwT2VXLXhFWHM3akJXa0pWUlp4LVFFS01rc3RNM2Etc1dMUkVyMmgzSGlQOTZhdnNSdWZLR0piMTFlZFVJMWc?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3390,7 +3391,7 @@
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History - hollywoodreporter.com"
+            "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History - The Hollywood Reporter"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3400,8 +3401,8 @@
           ]
         },
         {
-          "id": "box_office-1-3525570731174103826",
-          "key": "box_office-1-3525570731174103826",
+          "id": "box_office-1-2659518879695617297",
+          "key": "box_office-1-2659518879695617297",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ and ‘Spider-Man: Brand New Day’ Power $239 Million U.K., Ireland July Box Office",
@@ -3428,25 +3429,25 @@
           ]
         },
         {
-          "id": "box_office-11-6300966896564826596",
-          "key": "box_office-11-6300966896564826596",
+          "id": "box_office-11-5739729552005989741",
+          "key": "box_office-11-5739729552005989741",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "The Highest-Grossing Theater for ‘The Odyssey’ in 70MM Hadn’t Screened a New Movie in 35 Years - hollywoodreporter.com",
-          "title": "The Highest-Grossing Theater for ‘The Odyssey’ in 70MM Hadn’t Screened a New Movie in 35 Years - hollywoodreporter.com",
-          "snapshot": "The Highest-Grossing Theater for ‘The Odyssey’ in 70MM Hadn’t Screened a New Movie in 35 Years hollywoodreporter.com",
-          "summary": "The Highest-Grossing Theater for ‘The Odyssey’ in 70MM Hadn’t Screened a New Movie in 35 Years hollywoodreporter.com",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM0t3Qk5vV3laZGVDbjcyb1lzWk56dUNZbzZqSkRFdUtJQ3NRcXloaFgtRHFhaTZURXpTWEZFal96UVVmT3R4TWpaWWpORXJhRTQxOUNiZzd1TkluLUFZRXk3M29RMXphZkhRVHBWVGJKWTFZTURrdlI2ek45S2w3cGhJU1A0TVhYMXZwTG1mcDBBeDFISGtFbktIYjFzXzluSHBFT1E3WQ?oc=5",
+          "headline": "Disney Admits ‘The Mandalorian and Grogu’ Disappointed at Box Office - The Hollywood Reporter",
+          "title": "Disney Admits ‘The Mandalorian and Grogu’ Disappointed at Box Office - The Hollywood Reporter",
+          "snapshot": "Disney Admits ‘The Mandalorian and Grogu’ Disappointed at Box Office The Hollywood Reporter",
+          "summary": "Disney Admits ‘The Mandalorian and Grogu’ Disappointed at Box Office The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdEowdTU1RnY3U3ZreUhCb2ZFSkQ4NmlnS191Ump6dnBKWW4zbDNfY2phMFRUTkRSMGRMX2tHaXNaOGhxZmY2b2FiQWkxWXRlemJRQXVaN3FqZ0s0c3RYTXlmVHRPcUwwTzc5RGNIOWFmZUhZUWMyUVRIZ1Z0eEh4Q0IxMUJTQS1CTE5pRzd4dVVVdTJSc0ZFMjluM2hCTG9mMU9qWHFkQjRuU2owWDJrVHhZazNIZVE?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-04 07:04:31 PM ET",
+          "published_at": "2026-08-05 10:17:38 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "The Highest-Grossing Theater for ‘The Odyssey’ in 70MM Hadn’t Screened a New Movie in 35 Years - hollywoodreporter.com"
+            "Disney Admits ‘The Mandalorian and Grogu’ Disappointed at Box Office - The Hollywood Reporter"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3456,7 +3457,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-08 05:38:40 AM ET"
+      "updated_at": "2026-08-08 06:34:32 AM ET"
     },
     {
       "key": "celebrity",
@@ -3474,8 +3475,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "celebrity-0-7048511292068025961",
-          "key": "celebrity-0-7048511292068025961",
+          "id": "celebrity-0-4720123456216800465",
+          "key": "celebrity-0-4720123456216800465",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3502,8 +3503,8 @@
           ]
         },
         {
-          "id": "celebrity-1-2841561808521534921",
-          "key": "celebrity-1-2841561808521534921",
+          "id": "celebrity-1-7058872175668450418",
+          "key": "celebrity-1-7058872175668450418",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Flo Anthony, Trailblazing Celebrity Gossip Columnist, Dies at 74 - That Eric Alper",
@@ -3532,8 +3533,8 @@
       ],
       "items": [
         {
-          "id": "celebrity-0-7048511292068025961",
-          "key": "celebrity-0-7048511292068025961",
+          "id": "celebrity-0-4720123456216800465",
+          "key": "celebrity-0-4720123456216800465",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3560,8 +3561,8 @@
           ]
         },
         {
-          "id": "celebrity-1-2841561808521534921",
-          "key": "celebrity-1-2841561808521534921",
+          "id": "celebrity-1-7058872175668450418",
+          "key": "celebrity-1-7058872175668450418",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Flo Anthony, Trailblazing Celebrity Gossip Columnist, Dies at 74 - That Eric Alper",
@@ -3588,7 +3589,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-08 05:38:41 AM ET"
+      "updated_at": "2026-08-08 06:34:32 AM ET"
     },
     {
       "key": "hollywood",
@@ -3613,8 +3614,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "hollywood-0-1739018724689062405",
-          "key": "hollywood-0-1739018724689062405",
+          "id": "hollywood-0-8872649640478085663",
+          "key": "hollywood-0-8872649640478085663",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Brandi Carlile Postpones UK, European Tour Dates Due To “Personal Circumstances”",
@@ -3641,8 +3642,8 @@
           ]
         },
         {
-          "id": "hollywood-3-9147990313564740435",
-          "key": "hollywood-3-9147990313564740435",
+          "id": "hollywood-3-8705041680373430014",
+          "key": "hollywood-3-8705041680373430014",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Keen Ruffalo Never Intended to Get Into the Family Business",
@@ -3669,8 +3670,8 @@
           ]
         },
         {
-          "id": "hollywood-5-727635556587187993",
-          "key": "hollywood-5-727635556587187993",
+          "id": "hollywood-5-4000872282363962091",
+          "key": "hollywood-5-4000872282363962091",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
@@ -3697,8 +3698,8 @@
           ]
         },
         {
-          "id": "hollywood-1-6553523216101840169",
-          "key": "hollywood-1-6553523216101840169",
+          "id": "hollywood-1-456519335895665366",
+          "key": "hollywood-1-456519335895665366",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Amanda Knox Responds To Petition Protesting Her Edinburgh Fringe Show, Says It “Honors Meredith Kercher’s Memory”",
@@ -3725,8 +3726,8 @@
           ]
         },
         {
-          "id": "hollywood-4-226123697930547927",
-          "key": "hollywood-4-226123697930547927",
+          "id": "hollywood-4-6147908496196994808",
+          "key": "hollywood-4-6147908496196994808",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Spencer Pratt Joins the Chat on the Federal Film and Television Tax Incentive",
@@ -3753,8 +3754,8 @@
           ]
         },
         {
-          "id": "hollywood-6-3798780735277707890",
-          "key": "hollywood-6-3798780735277707890",
+          "id": "hollywood-6-588840416594676871",
+          "key": "hollywood-6-588840416594676871",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Why did the United States film industry settle in Hollywood? - Encyclopedia Britannica",
@@ -3783,8 +3784,8 @@
       ],
       "items": [
         {
-          "id": "hollywood-0-1739018724689062405",
-          "key": "hollywood-0-1739018724689062405",
+          "id": "hollywood-0-8872649640478085663",
+          "key": "hollywood-0-8872649640478085663",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Brandi Carlile Postpones UK, European Tour Dates Due To “Personal Circumstances”",
@@ -3811,8 +3812,8 @@
           ]
         },
         {
-          "id": "hollywood-3-9147990313564740435",
-          "key": "hollywood-3-9147990313564740435",
+          "id": "hollywood-3-8705041680373430014",
+          "key": "hollywood-3-8705041680373430014",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Keen Ruffalo Never Intended to Get Into the Family Business",
@@ -3839,8 +3840,8 @@
           ]
         },
         {
-          "id": "hollywood-5-727635556587187993",
-          "key": "hollywood-5-727635556587187993",
+          "id": "hollywood-5-4000872282363962091",
+          "key": "hollywood-5-4000872282363962091",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
@@ -3867,8 +3868,8 @@
           ]
         },
         {
-          "id": "hollywood-1-6553523216101840169",
-          "key": "hollywood-1-6553523216101840169",
+          "id": "hollywood-1-456519335895665366",
+          "key": "hollywood-1-456519335895665366",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Amanda Knox Responds To Petition Protesting Her Edinburgh Fringe Show, Says It “Honors Meredith Kercher’s Memory”",
@@ -3895,8 +3896,8 @@
           ]
         },
         {
-          "id": "hollywood-4-226123697930547927",
-          "key": "hollywood-4-226123697930547927",
+          "id": "hollywood-4-6147908496196994808",
+          "key": "hollywood-4-6147908496196994808",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Spencer Pratt Joins the Chat on the Federal Film and Television Tax Incentive",
@@ -3923,8 +3924,8 @@
           ]
         },
         {
-          "id": "hollywood-6-3798780735277707890",
-          "key": "hollywood-6-3798780735277707890",
+          "id": "hollywood-6-588840416594676871",
+          "key": "hollywood-6-588840416594676871",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Why did the United States film industry settle in Hollywood? - Encyclopedia Britannica",
@@ -3951,7 +3952,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-08 05:38:42 AM ET"
+      "updated_at": "2026-08-08 06:34:33 AM ET"
     },
     {
       "key": "gaming",
@@ -3971,8 +3972,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "gaming-0-7630830088471861116",
-          "key": "gaming-0-7630830088471861116",
+          "id": "gaming-0-704066103103260305",
+          "key": "gaming-0-704066103103260305",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Marvel Tokon Stumbles to Mixed Steam Reviews as 'Miserable' PC Port Complaints Prompt Response From Arc System Works",
@@ -3999,8 +4000,8 @@
           ]
         },
         {
-          "id": "gaming-20-4609076469140902860",
-          "key": "gaming-20-4609076469140902860",
+          "id": "gaming-20-5002376899406322880",
+          "key": "gaming-20-5002376899406322880",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - MKAU Gaming",
@@ -4027,8 +4028,8 @@
           ]
         },
         {
-          "id": "gaming-1-113621706425316859",
-          "key": "gaming-1-113621706425316859",
+          "id": "gaming-1-3336356945535388039",
+          "key": "gaming-1-3336356945535388039",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Newly Discovered Demon's Souls Prototype Footage Shows Scrapped First-Person Option",
@@ -4057,8 +4058,8 @@
       ],
       "items": [
         {
-          "id": "gaming-0-7630830088471861116",
-          "key": "gaming-0-7630830088471861116",
+          "id": "gaming-0-704066103103260305",
+          "key": "gaming-0-704066103103260305",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Marvel Tokon Stumbles to Mixed Steam Reviews as 'Miserable' PC Port Complaints Prompt Response From Arc System Works",
@@ -4085,8 +4086,8 @@
           ]
         },
         {
-          "id": "gaming-20-4609076469140902860",
-          "key": "gaming-20-4609076469140902860",
+          "id": "gaming-20-5002376899406322880",
+          "key": "gaming-20-5002376899406322880",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - MKAU Gaming",
@@ -4113,8 +4114,8 @@
           ]
         },
         {
-          "id": "gaming-1-113621706425316859",
-          "key": "gaming-1-113621706425316859",
+          "id": "gaming-1-3336356945535388039",
+          "key": "gaming-1-3336356945535388039",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Newly Discovered Demon's Souls Prototype Footage Shows Scrapped First-Person Option",
@@ -4141,7 +4142,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-08 05:38:43 AM ET"
+      "updated_at": "2026-08-08 06:34:34 AM ET"
     },
     {
       "key": "media",
@@ -4163,8 +4164,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "media-0-4938692946318538198",
-          "key": "media-0-4938692946318538198",
+          "id": "media-0-1622565412131351866",
+          "key": "media-0-1622565412131351866",
           "category": "Media",
           "label": "Media",
           "headline": "Paramount’s U.K. Concessions Give ‘Powerful Credibility’ to State AGs’ Lawsuit, Block the Merger Coalition Says: ‘The Dangers’ in U.S. Market ‘Are Unmistakable’",
@@ -4191,8 +4192,8 @@
           ]
         },
         {
-          "id": "media-9-5979300030108031258",
-          "key": "media-9-5979300030108031258",
+          "id": "media-9-3333220345494527515",
+          "key": "media-9-3333220345494527515",
           "category": "Media",
           "label": "Media",
           "headline": "Judge Clarifies That Reporter Catherine Herridge Doesn’t Have To Pay $800-Per-Day Contempt Fines As She Pursues Supreme Court Appeal",
@@ -4219,8 +4220,8 @@
           ]
         },
         {
-          "id": "media-1-3988253326201938502",
-          "key": "media-1-3988253326201938502",
+          "id": "media-1-1801107018482869054",
+          "key": "media-1-1801107018482869054",
           "category": "Media",
           "label": "Media",
           "headline": "LISTEN: Fear, Loathing and Endless Potential: AI4 Conference Takes Stock of Transformative Technologies",
@@ -4247,8 +4248,8 @@
           ]
         },
         {
-          "id": "media-10-1988570748813981485",
-          "key": "media-10-1988570748813981485",
+          "id": "media-10-2473799580710449782",
+          "key": "media-10-2473799580710449782",
           "category": "Media",
           "label": "Media",
           "headline": "Trump White House Uses Spider-Man Imagery To Promote ICE Deportations",
@@ -4277,8 +4278,8 @@
       ],
       "items": [
         {
-          "id": "media-0-4938692946318538198",
-          "key": "media-0-4938692946318538198",
+          "id": "media-0-1622565412131351866",
+          "key": "media-0-1622565412131351866",
           "category": "Media",
           "label": "Media",
           "headline": "Paramount’s U.K. Concessions Give ‘Powerful Credibility’ to State AGs’ Lawsuit, Block the Merger Coalition Says: ‘The Dangers’ in U.S. Market ‘Are Unmistakable’",
@@ -4305,8 +4306,8 @@
           ]
         },
         {
-          "id": "media-9-5979300030108031258",
-          "key": "media-9-5979300030108031258",
+          "id": "media-9-3333220345494527515",
+          "key": "media-9-3333220345494527515",
           "category": "Media",
           "label": "Media",
           "headline": "Judge Clarifies That Reporter Catherine Herridge Doesn’t Have To Pay $800-Per-Day Contempt Fines As She Pursues Supreme Court Appeal",
@@ -4333,8 +4334,8 @@
           ]
         },
         {
-          "id": "media-1-3988253326201938502",
-          "key": "media-1-3988253326201938502",
+          "id": "media-1-1801107018482869054",
+          "key": "media-1-1801107018482869054",
           "category": "Media",
           "label": "Media",
           "headline": "LISTEN: Fear, Loathing and Endless Potential: AI4 Conference Takes Stock of Transformative Technologies",
@@ -4361,8 +4362,8 @@
           ]
         },
         {
-          "id": "media-10-1988570748813981485",
-          "key": "media-10-1988570748813981485",
+          "id": "media-10-2473799580710449782",
+          "key": "media-10-2473799580710449782",
           "category": "Media",
           "label": "Media",
           "headline": "Trump White House Uses Spider-Man Imagery To Promote ICE Deportations",
@@ -4389,7 +4390,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-08 05:38:44 AM ET"
+      "updated_at": "2026-08-08 06:34:35 AM ET"
     }
   ]
 }
