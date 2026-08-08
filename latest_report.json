@@ -3,11 +3,11 @@
   "site": "Global Entertainment Report",
   "site_name": "Global Entertainment Report",
   "vertical": "Entertainment",
-  "headline": "Anthony Michael Hall Says John Hughes Wanted a 'Breakfast Club' Sequel Where the Original Cast Is 'In Their 30s'",
+  "headline": "Perez Hilton 'Will Require Surgery' After Live Stream Incident, Family Demands Media 'Cease Photographing Perez's Children'",
   "snapshot": "Global Entertainment Report accepted 46 real RSS item(s) across 31 checked feed request(s).",
-  "generated_at": "2026-08-08 06:29:58 PM ET",
-  "updated_at": "2026-08-08 06:29:58 PM ET",
-  "published_at": "2026-08-08 06:29:58 PM ET",
+  "generated_at": "2026-08-08 07:29:23 PM ET",
+  "updated_at": "2026-08-08 07:29:23 PM ET",
+  "published_at": "2026-08-08 07:29:23 PM ET",
   "source_mode": "live RSS ingestion",
   "freshness": {
     "max_item_age_hours": 336,
@@ -65,8 +65,10 @@
       "final_url": "https://variety.com/v/tv/feed/",
       "item_count": 10,
       "accepted_count": 2,
-      "rejected_count": 0,
-      "rejection_reasons": {}
+      "rejected_count": 1,
+      "rejection_reasons": {
+        "duplicate-story": 1
+      }
     },
     {
       "category": "tv",
@@ -232,10 +234,10 @@
       "final_url": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 44,
+      "rejected_count": 43,
       "rejection_reasons": {
         "duplicate-story": 2,
-        "stale-over-336h": 42
+        "stale-over-336h": 41
       }
     },
     {
@@ -255,11 +257,11 @@
       "url": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
-      "item_count": 91,
+      "item_count": 88,
       "accepted_count": 2,
-      "rejected_count": 77,
+      "rejected_count": 76,
       "rejection_reasons": {
-        "stale-over-336h": 77
+        "stale-over-336h": 76
       }
     },
     {
@@ -339,10 +341,8 @@
       "final_url": "https://variety.com/v/biz/feed/",
       "item_count": 10,
       "accepted_count": 2,
-      "rejected_count": 1,
-      "rejection_reasons": {
-        "duplicate-story": 1
-      }
+      "rejected_count": 0,
+      "rejection_reasons": {}
     },
     {
       "category": "media",
@@ -373,33 +373,33 @@
   "substack_url": "https://globalentertainmentreport.substack.com/",
   "x_handle": "@GlobalSportsRp",
   "key_storylines": [
-    "Anthony Michael Hall Says John Hughes Wanted a 'Breakfast Club' Sequel Where the Original Cast Is 'In Their 30s'",
-    "Olivia Wilde Talks Fight To Get 'The Invite' A Theatrical Release Following Sundance Response: \"I Was Passionate About It With A Lot Of Support\"",
+    "Perez Hilton 'Will Require Surgery' After Live Stream Incident, Family Demands Media 'Cease Photographing Perez's Children'",
+    "'One Night Only' Director Understands The \"Sex Purge\" Comparisons",
     "Monica Barbaro Teases Luca Guadagnino's OpenAI Film 'Artificial,' Addresses Timothée Chalamet's Ballet Comments",
     "Your guide to 2026 movie release dates - Entertainment Weekly",
     "aespa Kicks Off SYNK : COMPLæXITY Tour in Seoul: 6 Best Moments",
     "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027",
-    "'Cookie Queens' Review: A Doc About Girl Scout Cookies, Produced by Meghan Markle and Prince Harry, Is Too Much of a Reality-Show Ramble",
-    "Anthony Michael Hall Says 'Breakfast Club' Director John Hughes Hoped For A Sequel With Grown-Up Characters"
+    "Anthony Michael Hall Says John Hughes Wanted a 'Breakfast Club' Sequel Where the Original Cast Is 'In Their 30s'",
+    "Olivia Wilde Talks Fight To Get 'The Invite' A Theatrical Release Following Sundance Response: \"I Was Passionate About It With A Lot Of Support\""
   ],
   "live_newsroom": [
     {
-      "id": "film-0-5732696051202463927",
-      "key": "film-0-5732696051202463927",
+      "id": "film-0-7485077955597459253",
+      "key": "film-0-7485077955597459253",
       "category": "Film",
       "label": "Film",
-      "headline": "Anthony Michael Hall Says John Hughes Wanted a 'Breakfast Club' Sequel Where the Original Cast Is 'In Their 30s'",
-      "title": "Anthony Michael Hall Says John Hughes Wanted a 'Breakfast Club' Sequel Where the Original Cast Is 'In Their 30s'",
-      "snapshot": "\"The Breakfast Club\" star Anthony Michael Hall said during a recent appearance on \"The Rich Eisen Show\" that director John Hughes wanted a sequel in which the group of troubled teens reunites as adults. \"It was something that was on his mind, the idea of bringing back the 'Breakfast Club,'\" Hall said. \"Like, those f...",
-      "summary": "\"The Breakfast Club\" star Anthony Michael Hall said during a recent appearance on \"The Rich Eisen Show\" that director John Hughes wanted a sequel in which the group of troubled teens reunites as adults. \"It was something that was on his mind, the idea of bringing back the 'Breakfast Club,'\" Hall said. \"Like, those f...",
-      "url": "https://variety.com/2026/film/news/anthony-michael-hall-john-hughes-breakfast-club-sequel-1236830655/",
+      "headline": "Perez Hilton 'Will Require Surgery' After Live Stream Incident, Family Demands Media 'Cease Photographing Perez's Children'",
+      "title": "Perez Hilton 'Will Require Surgery' After Live Stream Incident, Family Demands Media 'Cease Photographing Perez's Children'",
+      "snapshot": "Perez Hilton's family released a statement on Saturday updating fans about the blogger's health after he appeared to commit self-harm during a TikTok livestream. \"Perez's condition remains serious but stable,\" read the statement, which was released on Hilton's website. \"He experienced significant blood loss and sust...",
+      "summary": "Perez Hilton's family released a statement on Saturday updating fans about the blogger's health after he appeared to commit self-harm during a TikTok livestream. \"Perez's condition remains serious but stable,\" read the statement, which was released on Hilton's website. \"He experienced significant blood loss and sust...",
+      "url": "https://variety.com/2026/film/news/perez-hilton-update-surgery-live-stream-family-statement-1236830699/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-08 02:10:47 PM ET",
+      "published_at": "2026-08-08 06:47:17 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Anthony Michael Hall Says John Hughes Wanted a 'Breakfast Club' Sequel Where the Original Cast Is 'In Their 30s'"
+        "Perez Hilton 'Will Require Surgery' After Live Stream Incident, Family Demands Media 'Cease Photographing Perez's Children'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -411,22 +411,22 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-138128568128414015",
-      "key": "film-10-138128568128414015",
+      "id": "film-10-1221785207515871743",
+      "key": "film-10-1221785207515871743",
       "category": "Film",
       "label": "Film",
-      "headline": "Olivia Wilde Talks Fight To Get 'The Invite' A Theatrical Release Following Sundance Response: \"I Was Passionate About It With A Lot Of Support\"",
-      "title": "Olivia Wilde Talks Fight To Get 'The Invite' A Theatrical Release Following Sundance Response: \"I Was Passionate About It With A Lot Of Support\"",
-      "snapshot": "Olivia Wilde has revealed that she was \"passionate\" about getting a theatrical release for The Invite following the audience response to the comedy at Sundance. \"I wanted to investigate this phenomenon that we found at Sundance when we felt the film have that chemical reaction with the audience the first time and it...",
-      "summary": "Olivia Wilde has revealed that she was \"passionate\" about getting a theatrical release for The Invite following the audience response to the comedy at Sundance. \"I wanted to investigate this phenomenon that we found at Sundance when we felt the film have that chemical reaction with the audience the first time and it...",
-      "url": "https://deadline.com/2026/08/olivia-wilde-the-invite-theatrical-release-1237029352/",
+      "headline": "'One Night Only' Director Understands The \"Sex Purge\" Comparisons",
+      "title": "'One Night Only' Director Understands The \"Sex Purge\" Comparisons",
+      "snapshot": "While One Night Only is intended as a romantic-comedy, there are some obvious dystopian undertones that audiences can't ignore. Director Will Gluck recently addressed online comparisons between the Purge franchise and his new Universal rom-com, which is now in theaters, about two New Yorkers (Monica Barbaro and Call...",
+      "summary": "While One Night Only is intended as a romantic-comedy, there are some obvious dystopian undertones that audiences can't ignore. Director Will Gluck recently addressed online comparisons between the Purge franchise and his new Universal rom-com, which is now in theaters, about two New Yorkers (Monica Barbaro and Call...",
+      "url": "https://deadline.com/2026/08/one-night-only-director-understands-sex-purge-comparisons-1237029460/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-08-08 12:45:58 PM ET",
+      "published_at": "2026-08-08 06:49:48 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Olivia Wilde Talks Fight To Get 'The Invite' A Theatrical Release Following Sundance Response: \"I Was Passionate About It With A Lot Of Support\""
+        "'One Night Only' Director Understands The \"Sex Purge\" Comparisons"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -438,8 +438,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-8047706141646504468",
-      "key": "film-22-8047706141646504468",
+      "id": "film-22-4504491847725839020",
+      "key": "film-22-4504491847725839020",
       "category": "Film",
       "label": "Film",
       "headline": "Monica Barbaro Teases Luca Guadagnino's OpenAI Film 'Artificial,' Addresses Timothée Chalamet's Ballet Comments",
@@ -465,8 +465,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-2893838565234866788",
-      "key": "film-32-2893838565234866788",
+      "id": "film-32-6321089042375105193",
+      "key": "film-32-6321089042375105193",
       "category": "Film",
       "label": "Film",
       "headline": "Your guide to 2026 movie release dates - Entertainment Weekly",
@@ -492,8 +492,8 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-7121825058155007108",
-      "key": "music-10-7121825058155007108",
+      "id": "music-10-394338954014810905",
+      "key": "music-10-394338954014810905",
       "category": "Music",
       "label": "Music",
       "headline": "aespa Kicks Off SYNK : COMPLæXITY Tour in Seoul: 6 Best Moments",
@@ -519,8 +519,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-473433724624774572",
-      "key": "gaming-0-473433724624774572",
+      "id": "gaming-0-5887527932262015969",
+      "key": "gaming-0-5887527932262015969",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027",
@@ -546,22 +546,22 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-1666277952887632303",
-      "key": "film-1-1666277952887632303",
+      "id": "film-1-7317432297224192180",
+      "key": "film-1-7317432297224192180",
       "category": "Film",
       "label": "Film",
-      "headline": "'Cookie Queens' Review: A Doc About Girl Scout Cookies, Produced by Meghan Markle and Prince Harry, Is Too Much of a Reality-Show Ramble",
-      "title": "'Cookie Queens' Review: A Doc About Girl Scout Cookies, Produced by Meghan Markle and Prince Harry, Is Too Much of a Reality-Show Ramble",
-      "snapshot": "As a director, Alysa Nahmias thinks like a reality-show producer - she frames the movie as a contest, inviting us to chortle in admiration at what eager-beaver achievers all four girls are. \"Cookie Queens\" never deviates from that one note.",
-      "summary": "As a director, Alysa Nahmias thinks like a reality-show producer - she frames the movie as a contest, inviting us to chortle in admiration at what eager-beaver achievers all four girls are. \"Cookie Queens\" never deviates from that one note.",
-      "url": "https://variety.com/2026/film/reviews/cookie-queens-review-prince-harry-meghan-markle-1236830251/",
+      "headline": "Anthony Michael Hall Says John Hughes Wanted a 'Breakfast Club' Sequel Where the Original Cast Is 'In Their 30s'",
+      "title": "Anthony Michael Hall Says John Hughes Wanted a 'Breakfast Club' Sequel Where the Original Cast Is 'In Their 30s'",
+      "snapshot": "\"The Breakfast Club\" star Anthony Michael Hall said during a recent appearance on \"The Rich Eisen Show\" that director John Hughes wanted a sequel in which the group of troubled teens reunites as adults. \"It was something that was on his mind, the idea of bringing back the 'Breakfast Club,'\" Hall said. \"Like, those f...",
+      "summary": "\"The Breakfast Club\" star Anthony Michael Hall said during a recent appearance on \"The Rich Eisen Show\" that director John Hughes wanted a sequel in which the group of troubled teens reunites as adults. \"It was something that was on his mind, the idea of bringing back the 'Breakfast Club,'\" Hall said. \"Like, those f...",
+      "url": "https://variety.com/2026/film/news/anthony-michael-hall-john-hughes-breakfast-club-sequel-1236830655/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-08 02:05:47 PM ET",
+      "published_at": "2026-08-08 02:10:47 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Cookie Queens' Review: A Doc About Girl Scout Cookies, Produced by Meghan Markle and Prince Harry, Is Too Much of a Reality-Show Ramble"
+        "Anthony Michael Hall Says John Hughes Wanted a 'Breakfast Club' Sequel Where the Original Cast Is 'In Their 30s'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -573,22 +573,22 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-67096191356399259",
-      "key": "film-11-67096191356399259",
+      "id": "film-11-2288814754470766565",
+      "key": "film-11-2288814754470766565",
       "category": "Film",
       "label": "Film",
-      "headline": "Anthony Michael Hall Says 'Breakfast Club' Director John Hughes Hoped For A Sequel With Grown-Up Characters",
-      "title": "Anthony Michael Hall Says 'Breakfast Club' Director John Hughes Hoped For A Sequel With Grown-Up Characters",
-      "snapshot": "The Brunch Club, maybe? Anthony Michael Hall, one of the stars of the generation-defining John Hughes film The Breakfast Club, says the director had discussed with him an eventual sequel to the 1985 hit teen film, perhaps building a re-visit around the lives of the since-grown characters. \"It was something that was...",
-      "summary": "The Brunch Club, maybe? Anthony Michael Hall, one of the stars of the generation-defining John Hughes film The Breakfast Club, says the director had discussed with him an eventual sequel to the 1985 hit teen film, perhaps building a re-visit around the lives of the since-grown characters. \"It was something that was...",
-      "url": "https://deadline.com/2026/08/anthony-michael-hall-breakfast-club-sequel-1237029314/",
+      "headline": "Olivia Wilde Talks Fight To Get 'The Invite' A Theatrical Release Following Sundance Response: \"I Was Passionate About It With A Lot Of Support\"",
+      "title": "Olivia Wilde Talks Fight To Get 'The Invite' A Theatrical Release Following Sundance Response: \"I Was Passionate About It With A Lot Of Support\"",
+      "snapshot": "Olivia Wilde has revealed that she was \"passionate\" about getting a theatrical release for The Invite following the audience response to the comedy at Sundance. \"I wanted to investigate this phenomenon that we found at Sundance when we felt the film have that chemical reaction with the audience the first time and it...",
+      "summary": "Olivia Wilde has revealed that she was \"passionate\" about getting a theatrical release for The Invite following the audience response to the comedy at Sundance. \"I wanted to investigate this phenomenon that we found at Sundance when we felt the film have that chemical reaction with the audience the first time and it...",
+      "url": "https://deadline.com/2026/08/olivia-wilde-the-invite-theatrical-release-1237029352/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-08-08 11:04:04 AM ET",
+      "published_at": "2026-08-08 12:45:58 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Anthony Michael Hall Says 'Breakfast Club' Director John Hughes Hoped For A Sequel With Grown-Up Characters"
+        "Olivia Wilde Talks Fight To Get 'The Invite' A Theatrical Release Following Sundance Response: \"I Was Passionate About It With A Lot Of Support\""
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -600,8 +600,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-2789825635096814253",
-      "key": "film-23-2789825635096814253",
+      "id": "film-23-8011129841845796417",
+      "key": "film-23-8011129841845796417",
       "category": "Film",
       "label": "Film",
       "headline": "40 Years Ago, Rob Reiner Turned Stephen King's Most Personal Story Into a Surprise Hit",
@@ -627,8 +627,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-736041339984255847",
-      "key": "film-33-736041339984255847",
+      "id": "film-33-1511505306921087634",
+      "key": "film-33-1511505306921087634",
       "category": "Film",
       "label": "Film",
       "headline": "Everything to know about 'Madden,' a new movie coming to Prime Video November 18 - About Amazon",
@@ -654,8 +654,8 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-2249606340816637314",
-      "key": "music-11-2249606340816637314",
+      "id": "music-11-839186811919088953",
+      "key": "music-11-839186811919088953",
       "category": "Music",
       "label": "Music",
       "headline": "Get Beats Earbuds for Just $69 As Part of This Back to School Deal",
@@ -681,8 +681,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-9068416881137907375",
-      "key": "gaming-1-9068416881137907375",
+      "id": "gaming-1-1849774459651271535",
+      "key": "gaming-1-1849774459651271535",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "'They Fundamentally Don't Understand Art' - Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs",
@@ -710,22 +710,22 @@
   ],
   "editor_signals": [
     {
-      "id": "film-2-8626453462117711382",
-      "key": "film-2-8626453462117711382",
+      "id": "film-2-47206215478744444",
+      "key": "film-2-47206215478744444",
       "category": "Film",
       "label": "Film",
-      "headline": "Giovanni Tortorici on Working With Monica Bellucci Who Plays an 'Eccentric' Aristocratic Matron in His Luca Guadagnino-Produced Film 'Ketticè'",
-      "title": "Giovanni Tortorici on Working With Monica Bellucci Who Plays an 'Eccentric' Aristocratic Matron in His Luca Guadagnino-Produced Film 'Ketticè'",
-      "snapshot": "Emerging Italian director Giovanni Tortorici, whose feature debut \"Diciannove\" made a splash last year after launcing from the Venice Horizons section, is in competition at the Locarno Film Festival with his followup, \"Ketticè,\" a coming-of-age drama set in 2012 Palermo, featuring Monica Bellucci who is among the fi...",
-      "summary": "Emerging Italian director Giovanni Tortorici, whose feature debut \"Diciannove\" made a splash last year after launcing from the Venice Horizons section, is in competition at the Locarno Film Festival with his followup, \"Ketticè,\" a coming-of-age drama set in 2012 Palermo, featuring Monica Bellucci who is among the fi...",
-      "url": "https://variety.com/2026/film/festivals/giovanni-tortorici-monica-bellucci-luca-guadagnino-kettice-1236828928/",
+      "headline": "'Cookie Queens' Review: A Doc About Girl Scout Cookies, Produced by Meghan Markle and Prince Harry, Is Too Much of a Reality-Show Ramble",
+      "title": "'Cookie Queens' Review: A Doc About Girl Scout Cookies, Produced by Meghan Markle and Prince Harry, Is Too Much of a Reality-Show Ramble",
+      "snapshot": "As a director, Alysa Nahmias thinks like a reality-show producer - she frames the movie as a contest, inviting us to chortle in admiration at what eager-beaver achievers all four girls are. \"Cookie Queens\" never deviates from that one note.",
+      "summary": "As a director, Alysa Nahmias thinks like a reality-show producer - she frames the movie as a contest, inviting us to chortle in admiration at what eager-beaver achievers all four girls are. \"Cookie Queens\" never deviates from that one note.",
+      "url": "https://variety.com/2026/film/reviews/cookie-queens-review-prince-harry-meghan-markle-1236830251/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-08 01:03:39 PM ET",
+      "published_at": "2026-08-08 02:05:47 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Giovanni Tortorici on Working With Monica Bellucci Who Plays an 'Eccentric' Aristocratic Matron in His Luca Guadagnino-Produced Film 'Ketticè'"
+        "'Cookie Queens' Review: A Doc About Girl Scout Cookies, Produced by Meghan Markle and Prince Harry, Is Too Much of a Reality-Show Ramble"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -737,22 +737,22 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-3789506080176813287",
-      "key": "film-12-3789506080176813287",
+      "id": "film-12-1749237362708409037",
+      "key": "film-12-1749237362708409037",
       "category": "Film",
       "label": "Film",
-      "headline": "Jason Clarke Joins Action-Thriller 'Supermax' From Amazon MGM & Miramax",
-      "title": "Jason Clarke Joins Action-Thriller 'Supermax' From Amazon MGM & Miramax",
-      "snapshot": "EXCLUSIVE: Jason Clarke has closed a deal to join Supermax, the new action-thriller from Amazon MGM Studios and Miramax, Deadline has learned. Character details are under wraps. The Australian actor is the second of the week to join following Jaafar Jackson, the breakout star of Lionsgate's Michael. The pair will sh...",
-      "summary": "EXCLUSIVE: Jason Clarke has closed a deal to join Supermax, the new action-thriller from Amazon MGM Studios and Miramax, Deadline has learned. Character details are under wraps. The Australian actor is the second of the week to join following Jaafar Jackson, the breakout star of Lionsgate's Michael. The pair will sh...",
-      "url": "https://deadline.com/2026/08/supermax-movie-jason-clarke-amazon-mgm-miramax-1237029162/",
+      "headline": "Anthony Michael Hall Says 'Breakfast Club' Director John Hughes Hoped For A Sequel With Grown-Up Characters",
+      "title": "Anthony Michael Hall Says 'Breakfast Club' Director John Hughes Hoped For A Sequel With Grown-Up Characters",
+      "snapshot": "The Brunch Club, maybe? Anthony Michael Hall, one of the stars of the generation-defining John Hughes film The Breakfast Club, says the director had discussed with him an eventual sequel to the 1985 hit teen film, perhaps building a re-visit around the lives of the since-grown characters. \"It was something that was...",
+      "summary": "The Brunch Club, maybe? Anthony Michael Hall, one of the stars of the generation-defining John Hughes film The Breakfast Club, says the director had discussed with him an eventual sequel to the 1985 hit teen film, perhaps building a re-visit around the lives of the since-grown characters. \"It was something that was...",
+      "url": "https://deadline.com/2026/08/anthony-michael-hall-breakfast-club-sequel-1237029314/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-08-07 09:54:43 PM ET",
+      "published_at": "2026-08-08 11:04:04 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Jason Clarke Joins Action-Thriller 'Supermax' From Amazon MGM & Miramax"
+        "Anthony Michael Hall Says 'Breakfast Club' Director John Hughes Hoped For A Sequel With Grown-Up Characters"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -764,8 +764,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-383053925150417940",
-      "key": "film-24-383053925150417940",
+      "id": "film-24-9019958375545110593",
+      "key": "film-24-9019958375545110593",
       "category": "Film",
       "label": "Film",
       "headline": "Olivia Wilde Says She Fought for 'The Invite' to Get a Cinema Release: \"They Bribe You to Not Take Theatrical\"",
@@ -791,8 +791,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-652709252601162593",
-      "key": "film-34-652709252601162593",
+      "id": "film-34-2094501115206172810",
+      "key": "film-34-2094501115206172810",
       "category": "Film",
       "label": "Film",
       "headline": "Our favorite memories at the movies - The Verge",
@@ -818,8 +818,8 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-7431482087963915513",
-      "key": "music-12-7431482087963915513",
+      "id": "music-12-2208480121318404810",
+      "key": "music-12-2208480121318404810",
       "category": "Music",
       "label": "Music",
       "headline": "Taylor Swift's 'August,' 'Father Figure' & Other Songs Removed From Trump-Related TikTok Posts",
@@ -845,8 +845,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-4584989345980696362",
-      "key": "gaming-2-4584989345980696362",
+      "id": "gaming-2-6754835985511429923",
+      "key": "gaming-2-6754835985511429923",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The Best Deals Today: AirPods Pro 3, LEGO Back to the Future, Saros, and More",
@@ -872,22 +872,22 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-5315161969104204786",
-      "key": "film-3-5315161969104204786",
+      "id": "film-3-8381272930705068011",
+      "key": "film-3-8381272930705068011",
       "category": "Film",
       "label": "Film",
-      "headline": "Olivia Wilde Says She's Become 'So Much More Romantic' Because of 'The Invite': 'It Melted the Cynic Out of Me'",
-      "title": "Olivia Wilde Says She's Become 'So Much More Romantic' Because of 'The Invite': 'It Melted the Cynic Out of Me'",
-      "snapshot": "Olivia Wilde said she has become \"so much more romantic\" because of \"The Invite.\" \"It's melted the cynic out of me,\" she said at Switzerand's Locarno Film Festival . \"I have spoken to people who have been through so much with their partners, and people have been in marriages for 40, 50, 60 years. They […]",
-      "summary": "Olivia Wilde said she has become \"so much more romantic\" because of \"The Invite.\" \"It's melted the cynic out of me,\" she said at Switzerand's Locarno Film Festival . \"I have spoken to people who have been through so much with their partners, and people have been in marriages for 40, 50, 60 years. They […]",
-      "url": "https://variety.com/2026/film/global/olivia-wilde-the-invite-locarno-seth-rogen-1236830606/",
+      "headline": "Giovanni Tortorici on Working With Monica Bellucci Who Plays an 'Eccentric' Aristocratic Matron in His Luca Guadagnino-Produced Film 'Ketticè'",
+      "title": "Giovanni Tortorici on Working With Monica Bellucci Who Plays an 'Eccentric' Aristocratic Matron in His Luca Guadagnino-Produced Film 'Ketticè'",
+      "snapshot": "Emerging Italian director Giovanni Tortorici, whose feature debut \"Diciannove\" made a splash last year after launcing from the Venice Horizons section, is in competition at the Locarno Film Festival with his followup, \"Ketticè,\" a coming-of-age drama set in 2012 Palermo, featuring Monica Bellucci who is among the fi...",
+      "summary": "Emerging Italian director Giovanni Tortorici, whose feature debut \"Diciannove\" made a splash last year after launcing from the Venice Horizons section, is in competition at the Locarno Film Festival with his followup, \"Ketticè,\" a coming-of-age drama set in 2012 Palermo, featuring Monica Bellucci who is among the fi...",
+      "url": "https://variety.com/2026/film/festivals/giovanni-tortorici-monica-bellucci-luca-guadagnino-kettice-1236828928/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-08 12:31:40 PM ET",
+      "published_at": "2026-08-08 01:03:39 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Olivia Wilde Says She's Become 'So Much More Romantic' Because of 'The Invite': 'It Melted the Cynic Out of Me'"
+        "Giovanni Tortorici on Working With Monica Bellucci Who Plays an 'Eccentric' Aristocratic Matron in His Luca Guadagnino-Produced Film 'Ketticè'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -899,22 +899,22 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-8746131676289896483",
-      "key": "film-13-8746131676289896483",
+      "id": "film-13-1504723408322630556",
+      "key": "film-13-1504723408322630556",
       "category": "Film",
       "label": "Film",
-      "headline": "Bella Thorne Says 'Spring Breakers 2' Producers Tapped Her To Write, Direct & Star In Sequel After Seeing Directorial Debut",
-      "title": "Bella Thorne Says 'Spring Breakers 2' Producers Tapped Her To Write, Direct & Star In Sequel After Seeing Directorial Debut",
-      "snapshot": "After wrapping on her directorial debut last year, Bella Thorne revealed that Spring Breakers 2 will be her sophomore feature in the director's chair. Following the announcement that she'll star in the sequel to Harmony Korine's 2012 cult crime drama, the actress said that producers asked her to write and direct the...",
-      "summary": "After wrapping on her directorial debut last year, Bella Thorne revealed that Spring Breakers 2 will be her sophomore feature in the director's chair. Following the announcement that she'll star in the sequel to Harmony Korine's 2012 cult crime drama, the actress said that producers asked her to write and direct the...",
-      "url": "https://deadline.com/2026/08/bella-thorne-spring-breakers-2-tapped-write-direct-star-1237029133/",
+      "headline": "Jason Clarke Joins Action-Thriller 'Supermax' From Amazon MGM & Miramax",
+      "title": "Jason Clarke Joins Action-Thriller 'Supermax' From Amazon MGM & Miramax",
+      "snapshot": "EXCLUSIVE: Jason Clarke has closed a deal to join Supermax, the new action-thriller from Amazon MGM Studios and Miramax, Deadline has learned. Character details are under wraps. The Australian actor is the second of the week to join following Jaafar Jackson, the breakout star of Lionsgate's Michael. The pair will sh...",
+      "summary": "EXCLUSIVE: Jason Clarke has closed a deal to join Supermax, the new action-thriller from Amazon MGM Studios and Miramax, Deadline has learned. Character details are under wraps. The Australian actor is the second of the week to join following Jaafar Jackson, the breakout star of Lionsgate's Michael. The pair will sh...",
+      "url": "https://deadline.com/2026/08/supermax-movie-jason-clarke-amazon-mgm-miramax-1237029162/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-08-07 09:03:11 PM ET",
+      "published_at": "2026-08-07 09:54:43 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Bella Thorne Says 'Spring Breakers 2' Producers Tapped Her To Write, Direct & Star In Sequel After Seeing Directorial Debut"
+        "Jason Clarke Joins Action-Thriller 'Supermax' From Amazon MGM & Miramax"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -926,8 +926,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-2673867742235286018",
-      "key": "film-25-2673867742235286018",
+      "id": "film-25-7231144061719847075",
+      "key": "film-25-7231144061719847075",
       "category": "Film",
       "label": "Film",
       "headline": "'Spider-Man: Brand New Day' Swinging to Best-Ever 10-Day Start With $143M Second Weekend",
@@ -953,8 +953,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-4301139798837922446",
-      "key": "film-35-4301139798837922446",
+      "id": "film-35-4496526152838058997",
+      "key": "film-35-4496526152838058997",
       "category": "Film",
       "label": "Film",
       "headline": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire",
@@ -980,8 +980,8 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-8054526161912581640",
-      "key": "music-13-8054526161912581640",
+      "id": "music-13-4674596746059011589",
+      "key": "music-13-4674596746059011589",
       "category": "Music",
       "label": "Music",
       "headline": "Madonna Remembers William Orbit With Emotional Tribute: 'You Were My Ray of Light'",
@@ -1007,8 +1007,8 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-652376113583488065",
-      "key": "gaming-3-652376113583488065",
+      "id": "gaming-3-5590501085700089362",
+      "key": "gaming-3-5590501085700089362",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Upcoming PS5 Games: The Future of PlayStation Exclusives",
@@ -1036,22 +1036,22 @@
   ],
   "homepage_cards": [
     {
-      "id": "film-0-5732696051202463927",
-      "key": "film-0-5732696051202463927",
+      "id": "film-0-7485077955597459253",
+      "key": "film-0-7485077955597459253",
       "category": "Film",
       "label": "Film",
-      "headline": "Anthony Michael Hall Says John Hughes Wanted a 'Breakfast Club' Sequel Where the Original Cast Is 'In Their 30s'",
-      "title": "Anthony Michael Hall Says John Hughes Wanted a 'Breakfast Club' Sequel Where the Original Cast Is 'In Their 30s'",
-      "snapshot": "\"The Breakfast Club\" star Anthony Michael Hall said during a recent appearance on \"The Rich Eisen Show\" that director John Hughes wanted a sequel in which the group of troubled teens reunites as adults. \"It was something that was on his mind, the idea of bringing back the 'Breakfast Club,'\" Hall said. \"Like, those f...",
-      "summary": "\"The Breakfast Club\" star Anthony Michael Hall said during a recent appearance on \"The Rich Eisen Show\" that director John Hughes wanted a sequel in which the group of troubled teens reunites as adults. \"It was something that was on his mind, the idea of bringing back the 'Breakfast Club,'\" Hall said. \"Like, those f...",
-      "url": "https://variety.com/2026/film/news/anthony-michael-hall-john-hughes-breakfast-club-sequel-1236830655/",
+      "headline": "Perez Hilton 'Will Require Surgery' After Live Stream Incident, Family Demands Media 'Cease Photographing Perez's Children'",
+      "title": "Perez Hilton 'Will Require Surgery' After Live Stream Incident, Family Demands Media 'Cease Photographing Perez's Children'",
+      "snapshot": "Perez Hilton's family released a statement on Saturday updating fans about the blogger's health after he appeared to commit self-harm during a TikTok livestream. \"Perez's condition remains serious but stable,\" read the statement, which was released on Hilton's website. \"He experienced significant blood loss and sust...",
+      "summary": "Perez Hilton's family released a statement on Saturday updating fans about the blogger's health after he appeared to commit self-harm during a TikTok livestream. \"Perez's condition remains serious but stable,\" read the statement, which was released on Hilton's website. \"He experienced significant blood loss and sust...",
+      "url": "https://variety.com/2026/film/news/perez-hilton-update-surgery-live-stream-family-statement-1236830699/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-08 02:10:47 PM ET",
+      "published_at": "2026-08-08 06:47:17 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Anthony Michael Hall Says John Hughes Wanted a 'Breakfast Club' Sequel Where the Original Cast Is 'In Their 30s'"
+        "Perez Hilton 'Will Require Surgery' After Live Stream Incident, Family Demands Media 'Cease Photographing Perez's Children'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1063,22 +1063,22 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-138128568128414015",
-      "key": "film-10-138128568128414015",
+      "id": "film-10-1221785207515871743",
+      "key": "film-10-1221785207515871743",
       "category": "Film",
       "label": "Film",
-      "headline": "Olivia Wilde Talks Fight To Get 'The Invite' A Theatrical Release Following Sundance Response: \"I Was Passionate About It With A Lot Of Support\"",
-      "title": "Olivia Wilde Talks Fight To Get 'The Invite' A Theatrical Release Following Sundance Response: \"I Was Passionate About It With A Lot Of Support\"",
-      "snapshot": "Olivia Wilde has revealed that she was \"passionate\" about getting a theatrical release for The Invite following the audience response to the comedy at Sundance. \"I wanted to investigate this phenomenon that we found at Sundance when we felt the film have that chemical reaction with the audience the first time and it...",
-      "summary": "Olivia Wilde has revealed that she was \"passionate\" about getting a theatrical release for The Invite following the audience response to the comedy at Sundance. \"I wanted to investigate this phenomenon that we found at Sundance when we felt the film have that chemical reaction with the audience the first time and it...",
-      "url": "https://deadline.com/2026/08/olivia-wilde-the-invite-theatrical-release-1237029352/",
+      "headline": "'One Night Only' Director Understands The \"Sex Purge\" Comparisons",
+      "title": "'One Night Only' Director Understands The \"Sex Purge\" Comparisons",
+      "snapshot": "While One Night Only is intended as a romantic-comedy, there are some obvious dystopian undertones that audiences can't ignore. Director Will Gluck recently addressed online comparisons between the Purge franchise and his new Universal rom-com, which is now in theaters, about two New Yorkers (Monica Barbaro and Call...",
+      "summary": "While One Night Only is intended as a romantic-comedy, there are some obvious dystopian undertones that audiences can't ignore. Director Will Gluck recently addressed online comparisons between the Purge franchise and his new Universal rom-com, which is now in theaters, about two New Yorkers (Monica Barbaro and Call...",
+      "url": "https://deadline.com/2026/08/one-night-only-director-understands-sex-purge-comparisons-1237029460/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-08-08 12:45:58 PM ET",
+      "published_at": "2026-08-08 06:49:48 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Olivia Wilde Talks Fight To Get 'The Invite' A Theatrical Release Following Sundance Response: \"I Was Passionate About It With A Lot Of Support\""
+        "'One Night Only' Director Understands The \"Sex Purge\" Comparisons"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1090,8 +1090,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-8047706141646504468",
-      "key": "film-22-8047706141646504468",
+      "id": "film-22-4504491847725839020",
+      "key": "film-22-4504491847725839020",
       "category": "Film",
       "label": "Film",
       "headline": "Monica Barbaro Teases Luca Guadagnino's OpenAI Film 'Artificial,' Addresses Timothée Chalamet's Ballet Comments",
@@ -1117,8 +1117,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-2893838565234866788",
-      "key": "film-32-2893838565234866788",
+      "id": "film-32-6321089042375105193",
+      "key": "film-32-6321089042375105193",
       "category": "Film",
       "label": "Film",
       "headline": "Your guide to 2026 movie release dates - Entertainment Weekly",
@@ -1144,8 +1144,8 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-7121825058155007108",
-      "key": "music-10-7121825058155007108",
+      "id": "music-10-394338954014810905",
+      "key": "music-10-394338954014810905",
       "category": "Music",
       "label": "Music",
       "headline": "aespa Kicks Off SYNK : COMPLæXITY Tour in Seoul: 6 Best Moments",
@@ -1171,8 +1171,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-473433724624774572",
-      "key": "gaming-0-473433724624774572",
+      "id": "gaming-0-5887527932262015969",
+      "key": "gaming-0-5887527932262015969",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027",
@@ -1198,22 +1198,22 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-1666277952887632303",
-      "key": "film-1-1666277952887632303",
+      "id": "film-1-7317432297224192180",
+      "key": "film-1-7317432297224192180",
       "category": "Film",
       "label": "Film",
-      "headline": "'Cookie Queens' Review: A Doc About Girl Scout Cookies, Produced by Meghan Markle and Prince Harry, Is Too Much of a Reality-Show Ramble",
-      "title": "'Cookie Queens' Review: A Doc About Girl Scout Cookies, Produced by Meghan Markle and Prince Harry, Is Too Much of a Reality-Show Ramble",
-      "snapshot": "As a director, Alysa Nahmias thinks like a reality-show producer - she frames the movie as a contest, inviting us to chortle in admiration at what eager-beaver achievers all four girls are. \"Cookie Queens\" never deviates from that one note.",
-      "summary": "As a director, Alysa Nahmias thinks like a reality-show producer - she frames the movie as a contest, inviting us to chortle in admiration at what eager-beaver achievers all four girls are. \"Cookie Queens\" never deviates from that one note.",
-      "url": "https://variety.com/2026/film/reviews/cookie-queens-review-prince-harry-meghan-markle-1236830251/",
+      "headline": "Anthony Michael Hall Says John Hughes Wanted a 'Breakfast Club' Sequel Where the Original Cast Is 'In Their 30s'",
+      "title": "Anthony Michael Hall Says John Hughes Wanted a 'Breakfast Club' Sequel Where the Original Cast Is 'In Their 30s'",
+      "snapshot": "\"The Breakfast Club\" star Anthony Michael Hall said during a recent appearance on \"The Rich Eisen Show\" that director John Hughes wanted a sequel in which the group of troubled teens reunites as adults. \"It was something that was on his mind, the idea of bringing back the 'Breakfast Club,'\" Hall said. \"Like, those f...",
+      "summary": "\"The Breakfast Club\" star Anthony Michael Hall said during a recent appearance on \"The Rich Eisen Show\" that director John Hughes wanted a sequel in which the group of troubled teens reunites as adults. \"It was something that was on his mind, the idea of bringing back the 'Breakfast Club,'\" Hall said. \"Like, those f...",
+      "url": "https://variety.com/2026/film/news/anthony-michael-hall-john-hughes-breakfast-club-sequel-1236830655/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-08 02:05:47 PM ET",
+      "published_at": "2026-08-08 02:10:47 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Cookie Queens' Review: A Doc About Girl Scout Cookies, Produced by Meghan Markle and Prince Harry, Is Too Much of a Reality-Show Ramble"
+        "Anthony Michael Hall Says John Hughes Wanted a 'Breakfast Club' Sequel Where the Original Cast Is 'In Their 30s'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1225,22 +1225,22 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-67096191356399259",
-      "key": "film-11-67096191356399259",
+      "id": "film-11-2288814754470766565",
+      "key": "film-11-2288814754470766565",
       "category": "Film",
       "label": "Film",
-      "headline": "Anthony Michael Hall Says 'Breakfast Club' Director John Hughes Hoped For A Sequel With Grown-Up Characters",
-      "title": "Anthony Michael Hall Says 'Breakfast Club' Director John Hughes Hoped For A Sequel With Grown-Up Characters",
-      "snapshot": "The Brunch Club, maybe? Anthony Michael Hall, one of the stars of the generation-defining John Hughes film The Breakfast Club, says the director had discussed with him an eventual sequel to the 1985 hit teen film, perhaps building a re-visit around the lives of the since-grown characters. \"It was something that was...",
-      "summary": "The Brunch Club, maybe? Anthony Michael Hall, one of the stars of the generation-defining John Hughes film The Breakfast Club, says the director had discussed with him an eventual sequel to the 1985 hit teen film, perhaps building a re-visit around the lives of the since-grown characters. \"It was something that was...",
-      "url": "https://deadline.com/2026/08/anthony-michael-hall-breakfast-club-sequel-1237029314/",
+      "headline": "Olivia Wilde Talks Fight To Get 'The Invite' A Theatrical Release Following Sundance Response: \"I Was Passionate About It With A Lot Of Support\"",
+      "title": "Olivia Wilde Talks Fight To Get 'The Invite' A Theatrical Release Following Sundance Response: \"I Was Passionate About It With A Lot Of Support\"",
+      "snapshot": "Olivia Wilde has revealed that she was \"passionate\" about getting a theatrical release for The Invite following the audience response to the comedy at Sundance. \"I wanted to investigate this phenomenon that we found at Sundance when we felt the film have that chemical reaction with the audience the first time and it...",
+      "summary": "Olivia Wilde has revealed that she was \"passionate\" about getting a theatrical release for The Invite following the audience response to the comedy at Sundance. \"I wanted to investigate this phenomenon that we found at Sundance when we felt the film have that chemical reaction with the audience the first time and it...",
+      "url": "https://deadline.com/2026/08/olivia-wilde-the-invite-theatrical-release-1237029352/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-08-08 11:04:04 AM ET",
+      "published_at": "2026-08-08 12:45:58 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Anthony Michael Hall Says 'Breakfast Club' Director John Hughes Hoped For A Sequel With Grown-Up Characters"
+        "Olivia Wilde Talks Fight To Get 'The Invite' A Theatrical Release Following Sundance Response: \"I Was Passionate About It With A Lot Of Support\""
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1252,8 +1252,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-2789825635096814253",
-      "key": "film-23-2789825635096814253",
+      "id": "film-23-8011129841845796417",
+      "key": "film-23-8011129841845796417",
       "category": "Film",
       "label": "Film",
       "headline": "40 Years Ago, Rob Reiner Turned Stephen King's Most Personal Story Into a Surprise Hit",
@@ -1279,8 +1279,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-736041339984255847",
-      "key": "film-33-736041339984255847",
+      "id": "film-33-1511505306921087634",
+      "key": "film-33-1511505306921087634",
       "category": "Film",
       "label": "Film",
       "headline": "Everything to know about 'Madden,' a new movie coming to Prime Video November 18 - About Amazon",
@@ -1306,8 +1306,8 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-2249606340816637314",
-      "key": "music-11-2249606340816637314",
+      "id": "music-11-839186811919088953",
+      "key": "music-11-839186811919088953",
       "category": "Music",
       "label": "Music",
       "headline": "Get Beats Earbuds for Just $69 As Part of This Back to School Deal",
@@ -1333,8 +1333,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-9068416881137907375",
-      "key": "gaming-1-9068416881137907375",
+      "id": "gaming-1-1849774459651271535",
+      "key": "gaming-1-1849774459651271535",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "'They Fundamentally Don't Understand Art' - Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs",
@@ -1360,22 +1360,22 @@
       "priority_score": 99
     },
     {
-      "id": "film-2-8626453462117711382",
-      "key": "film-2-8626453462117711382",
+      "id": "film-2-47206215478744444",
+      "key": "film-2-47206215478744444",
       "category": "Film",
       "label": "Film",
-      "headline": "Giovanni Tortorici on Working With Monica Bellucci Who Plays an 'Eccentric' Aristocratic Matron in His Luca Guadagnino-Produced Film 'Ketticè'",
-      "title": "Giovanni Tortorici on Working With Monica Bellucci Who Plays an 'Eccentric' Aristocratic Matron in His Luca Guadagnino-Produced Film 'Ketticè'",
-      "snapshot": "Emerging Italian director Giovanni Tortorici, whose feature debut \"Diciannove\" made a splash last year after launcing from the Venice Horizons section, is in competition at the Locarno Film Festival with his followup, \"Ketticè,\" a coming-of-age drama set in 2012 Palermo, featuring Monica Bellucci who is among the fi...",
-      "summary": "Emerging Italian director Giovanni Tortorici, whose feature debut \"Diciannove\" made a splash last year after launcing from the Venice Horizons section, is in competition at the Locarno Film Festival with his followup, \"Ketticè,\" a coming-of-age drama set in 2012 Palermo, featuring Monica Bellucci who is among the fi...",
-      "url": "https://variety.com/2026/film/festivals/giovanni-tortorici-monica-bellucci-luca-guadagnino-kettice-1236828928/",
+      "headline": "'Cookie Queens' Review: A Doc About Girl Scout Cookies, Produced by Meghan Markle and Prince Harry, Is Too Much of a Reality-Show Ramble",
+      "title": "'Cookie Queens' Review: A Doc About Girl Scout Cookies, Produced by Meghan Markle and Prince Harry, Is Too Much of a Reality-Show Ramble",
+      "snapshot": "As a director, Alysa Nahmias thinks like a reality-show producer - she frames the movie as a contest, inviting us to chortle in admiration at what eager-beaver achievers all four girls are. \"Cookie Queens\" never deviates from that one note.",
+      "summary": "As a director, Alysa Nahmias thinks like a reality-show producer - she frames the movie as a contest, inviting us to chortle in admiration at what eager-beaver achievers all four girls are. \"Cookie Queens\" never deviates from that one note.",
+      "url": "https://variety.com/2026/film/reviews/cookie-queens-review-prince-harry-meghan-markle-1236830251/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-08 01:03:39 PM ET",
+      "published_at": "2026-08-08 02:05:47 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Giovanni Tortorici on Working With Monica Bellucci Who Plays an 'Eccentric' Aristocratic Matron in His Luca Guadagnino-Produced Film 'Ketticè'"
+        "'Cookie Queens' Review: A Doc About Girl Scout Cookies, Produced by Meghan Markle and Prince Harry, Is Too Much of a Reality-Show Ramble"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1387,22 +1387,22 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-3789506080176813287",
-      "key": "film-12-3789506080176813287",
+      "id": "film-12-1749237362708409037",
+      "key": "film-12-1749237362708409037",
       "category": "Film",
       "label": "Film",
-      "headline": "Jason Clarke Joins Action-Thriller 'Supermax' From Amazon MGM & Miramax",
-      "title": "Jason Clarke Joins Action-Thriller 'Supermax' From Amazon MGM & Miramax",
-      "snapshot": "EXCLUSIVE: Jason Clarke has closed a deal to join Supermax, the new action-thriller from Amazon MGM Studios and Miramax, Deadline has learned. Character details are under wraps. The Australian actor is the second of the week to join following Jaafar Jackson, the breakout star of Lionsgate's Michael. The pair will sh...",
-      "summary": "EXCLUSIVE: Jason Clarke has closed a deal to join Supermax, the new action-thriller from Amazon MGM Studios and Miramax, Deadline has learned. Character details are under wraps. The Australian actor is the second of the week to join following Jaafar Jackson, the breakout star of Lionsgate's Michael. The pair will sh...",
-      "url": "https://deadline.com/2026/08/supermax-movie-jason-clarke-amazon-mgm-miramax-1237029162/",
+      "headline": "Anthony Michael Hall Says 'Breakfast Club' Director John Hughes Hoped For A Sequel With Grown-Up Characters",
+      "title": "Anthony Michael Hall Says 'Breakfast Club' Director John Hughes Hoped For A Sequel With Grown-Up Characters",
+      "snapshot": "The Brunch Club, maybe? Anthony Michael Hall, one of the stars of the generation-defining John Hughes film The Breakfast Club, says the director had discussed with him an eventual sequel to the 1985 hit teen film, perhaps building a re-visit around the lives of the since-grown characters. \"It was something that was...",
+      "summary": "The Brunch Club, maybe? Anthony Michael Hall, one of the stars of the generation-defining John Hughes film The Breakfast Club, says the director had discussed with him an eventual sequel to the 1985 hit teen film, perhaps building a re-visit around the lives of the since-grown characters. \"It was something that was...",
+      "url": "https://deadline.com/2026/08/anthony-michael-hall-breakfast-club-sequel-1237029314/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-08-07 09:54:43 PM ET",
+      "published_at": "2026-08-08 11:04:04 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Jason Clarke Joins Action-Thriller 'Supermax' From Amazon MGM & Miramax"
+        "Anthony Michael Hall Says 'Breakfast Club' Director John Hughes Hoped For A Sequel With Grown-Up Characters"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1414,8 +1414,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-383053925150417940",
-      "key": "film-24-383053925150417940",
+      "id": "film-24-9019958375545110593",
+      "key": "film-24-9019958375545110593",
       "category": "Film",
       "label": "Film",
       "headline": "Olivia Wilde Says She Fought for 'The Invite' to Get a Cinema Release: \"They Bribe You to Not Take Theatrical\"",
@@ -1441,8 +1441,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-652709252601162593",
-      "key": "film-34-652709252601162593",
+      "id": "film-34-2094501115206172810",
+      "key": "film-34-2094501115206172810",
       "category": "Film",
       "label": "Film",
       "headline": "Our favorite memories at the movies - The Verge",
@@ -1468,8 +1468,8 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-7431482087963915513",
-      "key": "music-12-7431482087963915513",
+      "id": "music-12-2208480121318404810",
+      "key": "music-12-2208480121318404810",
       "category": "Music",
       "label": "Music",
       "headline": "Taylor Swift's 'August,' 'Father Figure' & Other Songs Removed From Trump-Related TikTok Posts",
@@ -1495,8 +1495,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-4584989345980696362",
-      "key": "gaming-2-4584989345980696362",
+      "id": "gaming-2-6754835985511429923",
+      "key": "gaming-2-6754835985511429923",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The Best Deals Today: AirPods Pro 3, LEGO Back to the Future, Saros, and More",
@@ -1522,22 +1522,22 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-5315161969104204786",
-      "key": "film-3-5315161969104204786",
+      "id": "film-3-8381272930705068011",
+      "key": "film-3-8381272930705068011",
       "category": "Film",
       "label": "Film",
-      "headline": "Olivia Wilde Says She's Become 'So Much More Romantic' Because of 'The Invite': 'It Melted the Cynic Out of Me'",
-      "title": "Olivia Wilde Says She's Become 'So Much More Romantic' Because of 'The Invite': 'It Melted the Cynic Out of Me'",
-      "snapshot": "Olivia Wilde said she has become \"so much more romantic\" because of \"The Invite.\" \"It's melted the cynic out of me,\" she said at Switzerand's Locarno Film Festival . \"I have spoken to people who have been through so much with their partners, and people have been in marriages for 40, 50, 60 years. They […]",
-      "summary": "Olivia Wilde said she has become \"so much more romantic\" because of \"The Invite.\" \"It's melted the cynic out of me,\" she said at Switzerand's Locarno Film Festival . \"I have spoken to people who have been through so much with their partners, and people have been in marriages for 40, 50, 60 years. They […]",
-      "url": "https://variety.com/2026/film/global/olivia-wilde-the-invite-locarno-seth-rogen-1236830606/",
+      "headline": "Giovanni Tortorici on Working With Monica Bellucci Who Plays an 'Eccentric' Aristocratic Matron in His Luca Guadagnino-Produced Film 'Ketticè'",
+      "title": "Giovanni Tortorici on Working With Monica Bellucci Who Plays an 'Eccentric' Aristocratic Matron in His Luca Guadagnino-Produced Film 'Ketticè'",
+      "snapshot": "Emerging Italian director Giovanni Tortorici, whose feature debut \"Diciannove\" made a splash last year after launcing from the Venice Horizons section, is in competition at the Locarno Film Festival with his followup, \"Ketticè,\" a coming-of-age drama set in 2012 Palermo, featuring Monica Bellucci who is among the fi...",
+      "summary": "Emerging Italian director Giovanni Tortorici, whose feature debut \"Diciannove\" made a splash last year after launcing from the Venice Horizons section, is in competition at the Locarno Film Festival with his followup, \"Ketticè,\" a coming-of-age drama set in 2012 Palermo, featuring Monica Bellucci who is among the fi...",
+      "url": "https://variety.com/2026/film/festivals/giovanni-tortorici-monica-bellucci-luca-guadagnino-kettice-1236828928/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-08 12:31:40 PM ET",
+      "published_at": "2026-08-08 01:03:39 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Olivia Wilde Says She's Become 'So Much More Romantic' Because of 'The Invite': 'It Melted the Cynic Out of Me'"
+        "Giovanni Tortorici on Working With Monica Bellucci Who Plays an 'Eccentric' Aristocratic Matron in His Luca Guadagnino-Produced Film 'Ketticè'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1549,22 +1549,22 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-8746131676289896483",
-      "key": "film-13-8746131676289896483",
+      "id": "film-13-1504723408322630556",
+      "key": "film-13-1504723408322630556",
       "category": "Film",
       "label": "Film",
-      "headline": "Bella Thorne Says 'Spring Breakers 2' Producers Tapped Her To Write, Direct & Star In Sequel After Seeing Directorial Debut",
-      "title": "Bella Thorne Says 'Spring Breakers 2' Producers Tapped Her To Write, Direct & Star In Sequel After Seeing Directorial Debut",
-      "snapshot": "After wrapping on her directorial debut last year, Bella Thorne revealed that Spring Breakers 2 will be her sophomore feature in the director's chair. Following the announcement that she'll star in the sequel to Harmony Korine's 2012 cult crime drama, the actress said that producers asked her to write and direct the...",
-      "summary": "After wrapping on her directorial debut last year, Bella Thorne revealed that Spring Breakers 2 will be her sophomore feature in the director's chair. Following the announcement that she'll star in the sequel to Harmony Korine's 2012 cult crime drama, the actress said that producers asked her to write and direct the...",
-      "url": "https://deadline.com/2026/08/bella-thorne-spring-breakers-2-tapped-write-direct-star-1237029133/",
+      "headline": "Jason Clarke Joins Action-Thriller 'Supermax' From Amazon MGM & Miramax",
+      "title": "Jason Clarke Joins Action-Thriller 'Supermax' From Amazon MGM & Miramax",
+      "snapshot": "EXCLUSIVE: Jason Clarke has closed a deal to join Supermax, the new action-thriller from Amazon MGM Studios and Miramax, Deadline has learned. Character details are under wraps. The Australian actor is the second of the week to join following Jaafar Jackson, the breakout star of Lionsgate's Michael. The pair will sh...",
+      "summary": "EXCLUSIVE: Jason Clarke has closed a deal to join Supermax, the new action-thriller from Amazon MGM Studios and Miramax, Deadline has learned. Character details are under wraps. The Australian actor is the second of the week to join following Jaafar Jackson, the breakout star of Lionsgate's Michael. The pair will sh...",
+      "url": "https://deadline.com/2026/08/supermax-movie-jason-clarke-amazon-mgm-miramax-1237029162/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-08-07 09:03:11 PM ET",
+      "published_at": "2026-08-07 09:54:43 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Bella Thorne Says 'Spring Breakers 2' Producers Tapped Her To Write, Direct & Star In Sequel After Seeing Directorial Debut"
+        "Jason Clarke Joins Action-Thriller 'Supermax' From Amazon MGM & Miramax"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1576,8 +1576,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-2673867742235286018",
-      "key": "film-25-2673867742235286018",
+      "id": "film-25-7231144061719847075",
+      "key": "film-25-7231144061719847075",
       "category": "Film",
       "label": "Film",
       "headline": "'Spider-Man: Brand New Day' Swinging to Best-Ever 10-Day Start With $143M Second Weekend",
@@ -1603,8 +1603,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-4301139798837922446",
-      "key": "film-35-4301139798837922446",
+      "id": "film-35-4496526152838058997",
+      "key": "film-35-4496526152838058997",
       "category": "Film",
       "label": "Film",
       "headline": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire",
@@ -1630,8 +1630,8 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-8054526161912581640",
-      "key": "music-13-8054526161912581640",
+      "id": "music-13-4674596746059011589",
+      "key": "music-13-4674596746059011589",
       "category": "Music",
       "label": "Music",
       "headline": "Madonna Remembers William Orbit With Emotional Tribute: 'You Were My Ray of Light'",
@@ -1657,8 +1657,8 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-652376113583488065",
-      "key": "gaming-3-652376113583488065",
+      "id": "gaming-3-5590501085700089362",
+      "key": "gaming-3-5590501085700089362",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Upcoming PS5 Games: The Future of PlayStation Exclusives",
@@ -1689,46 +1689,46 @@
       "key": "film",
       "name": "Film",
       "title": "Film Report",
-      "headline": "Anthony Michael Hall Says John Hughes Wanted a ‘Breakfast Club’ Sequel Where the Original Cast Is ‘In Their 30s’",
+      "headline": "Perez Hilton ‘Will Require Surgery’ After Live Stream Incident, Family Demands Media ‘Cease Photographing Perez’s Children’",
       "snapshot": "Film coverage is updating with 8 current RSS headline item(s).",
       "key_storylines": [
-        "Anthony Michael Hall Says John Hughes Wanted a ‘Breakfast Club’ Sequel Where the Original Cast Is ‘In Their 30s’",
-        "Olivia Wilde Talks Fight To Get ‘The Invite’ A Theatrical Release Following Sundance Response: “I Was Passionate About It With A Lot Of Support”",
+        "Perez Hilton ‘Will Require Surgery’ After Live Stream Incident, Family Demands Media ‘Cease Photographing Perez’s Children’",
+        "‘One Night Only’ Director Understands The “Sex Purge” Comparisons",
         "Monica Barbaro Teases Luca Guadagnino’s OpenAI Film ‘Artificial,’ Addresses Timothée Chalamet’s Ballet Comments",
         "Your guide to 2026 movie release dates - Entertainment Weekly",
-        "‘Cookie Queens’ Review: A Doc About Girl Scout Cookies, Produced by Meghan Markle and Prince Harry, Is Too Much of a Reality-Show Ramble"
+        "Anthony Michael Hall Says John Hughes Wanted a ‘Breakfast Club’ Sequel Where the Original Cast Is ‘In Their 30s’"
       ],
       "watch_list": [
-        "Anthony Michael Hall Says John Hughes Wanted a ‘Breakfast Club’ Sequel Where the Original Cast Is ‘In Their 30s’",
-        "Olivia Wilde Talks Fight To Get ‘The Invite’ A Theatrical Release Following Sundance Response: “I Was Passionate About It With A Lot Of Support”",
+        "Perez Hilton ‘Will Require Surgery’ After Live Stream Incident, Family Demands Media ‘Cease Photographing Perez’s Children’",
+        "‘One Night Only’ Director Understands The “Sex Purge” Comparisons",
         "Monica Barbaro Teases Luca Guadagnino’s OpenAI Film ‘Artificial,’ Addresses Timothée Chalamet’s Ballet Comments",
         "Your guide to 2026 movie release dates - Entertainment Weekly",
-        "‘Cookie Queens’ Review: A Doc About Girl Scout Cookies, Produced by Meghan Markle and Prince Harry, Is Too Much of a Reality-Show Ramble",
-        "Anthony Michael Hall Says ‘Breakfast Club’ Director John Hughes Hoped For A Sequel With Grown-Up Characters",
+        "Anthony Michael Hall Says John Hughes Wanted a ‘Breakfast Club’ Sequel Where the Original Cast Is ‘In Their 30s’",
+        "Olivia Wilde Talks Fight To Get ‘The Invite’ A Theatrical Release Following Sundance Response: “I Was Passionate About It With A Lot Of Support”",
         "40 Years Ago, Rob Reiner Turned Stephen King’s Most Personal Story Into a Surprise Hit",
         "Everything to know about ‘Madden,’ a new movie coming to Prime Video November 18 - About Amazon"
       ],
       "homepage_cards": [
         {
-          "id": "film-0-5732696051202463927",
-          "key": "film-0-5732696051202463927",
+          "id": "film-0-7485077955597459253",
+          "key": "film-0-7485077955597459253",
           "category": "Film",
           "label": "Film",
-          "headline": "Anthony Michael Hall Says John Hughes Wanted a ‘Breakfast Club’ Sequel Where the Original Cast Is ‘In Their 30s’",
-          "title": "Anthony Michael Hall Says John Hughes Wanted a ‘Breakfast Club’ Sequel Where the Original Cast Is ‘In Their 30s’",
-          "snapshot": "“The Breakfast Club” star Anthony Michael Hall said during a recent appearance on “The Rich Eisen Show” that director John Hughes wanted a sequel in which the group of troubled teens reunites as adults. “It was something that was on his mind, the idea of bringing back the ‘Breakfast Club,’” Hall said. “Like, those f...",
-          "summary": "“The Breakfast Club” star Anthony Michael Hall said during a recent appearance on “The Rich Eisen Show” that director John Hughes wanted a sequel in which the group of troubled teens reunites as adults. “It was something that was on his mind, the idea of bringing back the ‘Breakfast Club,’” Hall said. “Like, those f...",
-          "url": "https://variety.com/2026/film/news/anthony-michael-hall-john-hughes-breakfast-club-sequel-1236830655/",
+          "headline": "Perez Hilton ‘Will Require Surgery’ After Live Stream Incident, Family Demands Media ‘Cease Photographing Perez’s Children’",
+          "title": "Perez Hilton ‘Will Require Surgery’ After Live Stream Incident, Family Demands Media ‘Cease Photographing Perez’s Children’",
+          "snapshot": "Perez Hilton’s family released a statement on Saturday updating fans about the blogger’s health after he appeared to commit self-harm during a TikTok livestream. “Perez’s condition remains serious but stable,” read the statement, which was released on Hilton’s website. “He experienced significant blood loss and sust...",
+          "summary": "Perez Hilton’s family released a statement on Saturday updating fans about the blogger’s health after he appeared to commit self-harm during a TikTok livestream. “Perez’s condition remains serious but stable,” read the statement, which was released on Hilton’s website. “He experienced significant blood loss and sust...",
+          "url": "https://variety.com/2026/film/news/perez-hilton-update-surgery-live-stream-family-statement-1236830699/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/feed/",
-          "published_at": "2026-08-08 02:10:47 PM ET",
+          "published_at": "2026-08-08 06:47:17 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Anthony Michael Hall Says John Hughes Wanted a ‘Breakfast Club’ Sequel Where the Original Cast Is ‘In Their 30s’"
+            "Perez Hilton ‘Will Require Surgery’ After Live Stream Incident, Family Demands Media ‘Cease Photographing Perez’s Children’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1738,25 +1738,25 @@
           ]
         },
         {
-          "id": "film-10-138128568128414015",
-          "key": "film-10-138128568128414015",
+          "id": "film-10-1221785207515871743",
+          "key": "film-10-1221785207515871743",
           "category": "Film",
           "label": "Film",
-          "headline": "Olivia Wilde Talks Fight To Get ‘The Invite’ A Theatrical Release Following Sundance Response: “I Was Passionate About It With A Lot Of Support”",
-          "title": "Olivia Wilde Talks Fight To Get ‘The Invite’ A Theatrical Release Following Sundance Response: “I Was Passionate About It With A Lot Of Support”",
-          "snapshot": "Olivia Wilde has revealed that she was “passionate” about getting a theatrical release for The Invite following the audience response to the comedy at Sundance. “I wanted to investigate this phenomenon that we found at Sundance when we felt the film have that chemical reaction with the audience the first time and it...",
-          "summary": "Olivia Wilde has revealed that she was “passionate” about getting a theatrical release for The Invite following the audience response to the comedy at Sundance. “I wanted to investigate this phenomenon that we found at Sundance when we felt the film have that chemical reaction with the audience the first time and it...",
-          "url": "https://deadline.com/2026/08/olivia-wilde-the-invite-theatrical-release-1237029352/",
+          "headline": "‘One Night Only’ Director Understands The “Sex Purge” Comparisons",
+          "title": "‘One Night Only’ Director Understands The “Sex Purge” Comparisons",
+          "snapshot": "While One Night Only is intended as a romantic-comedy, there are some obvious dystopian undertones that audiences can’t ignore. Director Will Gluck recently addressed online comparisons between the Purge franchise and his new Universal rom-com, which is now in theaters, about two New Yorkers (Monica Barbaro and Call...",
+          "summary": "While One Night Only is intended as a romantic-comedy, there are some obvious dystopian undertones that audiences can’t ignore. Director Will Gluck recently addressed online comparisons between the Purge franchise and his new Universal rom-com, which is now in theaters, about two New Yorkers (Monica Barbaro and Call...",
+          "url": "https://deadline.com/2026/08/one-night-only-director-understands-sex-purge-comparisons-1237029460/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/film/feed/",
-          "published_at": "2026-08-08 12:45:58 PM ET",
+          "published_at": "2026-08-08 06:49:48 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "Olivia Wilde Talks Fight To Get ‘The Invite’ A Theatrical Release Following Sundance Response: “I Was Passionate About It With A Lot Of Support”"
+            "‘One Night Only’ Director Understands The “Sex Purge” Comparisons"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1766,8 +1766,8 @@
           ]
         },
         {
-          "id": "film-22-8047706141646504468",
-          "key": "film-22-8047706141646504468",
+          "id": "film-22-4504491847725839020",
+          "key": "film-22-4504491847725839020",
           "category": "Film",
           "label": "Film",
           "headline": "Monica Barbaro Teases Luca Guadagnino’s OpenAI Film ‘Artificial,’ Addresses Timothée Chalamet’s Ballet Comments",
@@ -1794,8 +1794,8 @@
           ]
         },
         {
-          "id": "film-32-2893838565234866788",
-          "key": "film-32-2893838565234866788",
+          "id": "film-32-6321089042375105193",
+          "key": "film-32-6321089042375105193",
           "category": "Film",
           "label": "Film",
           "headline": "Your guide to 2026 movie release dates - Entertainment Weekly",
@@ -1822,25 +1822,25 @@
           ]
         },
         {
-          "id": "film-1-1666277952887632303",
-          "key": "film-1-1666277952887632303",
+          "id": "film-1-7317432297224192180",
+          "key": "film-1-7317432297224192180",
           "category": "Film",
           "label": "Film",
-          "headline": "‘Cookie Queens’ Review: A Doc About Girl Scout Cookies, Produced by Meghan Markle and Prince Harry, Is Too Much of a Reality-Show Ramble",
-          "title": "‘Cookie Queens’ Review: A Doc About Girl Scout Cookies, Produced by Meghan Markle and Prince Harry, Is Too Much of a Reality-Show Ramble",
-          "snapshot": "As a director, Alysa Nahmias thinks like a reality-show producer — she frames the movie as a contest, inviting us to chortle in admiration at what eager-beaver achievers all four girls are. \"Cookie Queens\" never deviates from that one note.",
-          "summary": "As a director, Alysa Nahmias thinks like a reality-show producer — she frames the movie as a contest, inviting us to chortle in admiration at what eager-beaver achievers all four girls are. \"Cookie Queens\" never deviates from that one note.",
-          "url": "https://variety.com/2026/film/reviews/cookie-queens-review-prince-harry-meghan-markle-1236830251/",
+          "headline": "Anthony Michael Hall Says John Hughes Wanted a ‘Breakfast Club’ Sequel Where the Original Cast Is ‘In Their 30s’",
+          "title": "Anthony Michael Hall Says John Hughes Wanted a ‘Breakfast Club’ Sequel Where the Original Cast Is ‘In Their 30s’",
+          "snapshot": "“The Breakfast Club” star Anthony Michael Hall said during a recent appearance on “The Rich Eisen Show” that director John Hughes wanted a sequel in which the group of troubled teens reunites as adults. “It was something that was on his mind, the idea of bringing back the ‘Breakfast Club,’” Hall said. “Like, those f...",
+          "summary": "“The Breakfast Club” star Anthony Michael Hall said during a recent appearance on “The Rich Eisen Show” that director John Hughes wanted a sequel in which the group of troubled teens reunites as adults. “It was something that was on his mind, the idea of bringing back the ‘Breakfast Club,’” Hall said. “Like, those f...",
+          "url": "https://variety.com/2026/film/news/anthony-michael-hall-john-hughes-breakfast-club-sequel-1236830655/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/feed/",
-          "published_at": "2026-08-08 02:05:47 PM ET",
+          "published_at": "2026-08-08 02:10:47 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "‘Cookie Queens’ Review: A Doc About Girl Scout Cookies, Produced by Meghan Markle and Prince Harry, Is Too Much of a Reality-Show Ramble"
+            "Anthony Michael Hall Says John Hughes Wanted a ‘Breakfast Club’ Sequel Where the Original Cast Is ‘In Their 30s’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1850,25 +1850,25 @@
           ]
         },
         {
-          "id": "film-11-67096191356399259",
-          "key": "film-11-67096191356399259",
+          "id": "film-11-2288814754470766565",
+          "key": "film-11-2288814754470766565",
           "category": "Film",
           "label": "Film",
-          "headline": "Anthony Michael Hall Says ‘Breakfast Club’ Director John Hughes Hoped For A Sequel With Grown-Up Characters",
-          "title": "Anthony Michael Hall Says ‘Breakfast Club’ Director John Hughes Hoped For A Sequel With Grown-Up Characters",
-          "snapshot": "The Brunch Club, maybe? Anthony Michael Hall, one of the stars of the generation-defining John Hughes film The Breakfast Club, says the director had discussed with him an eventual sequel to the 1985 hit teen film, perhaps building a re-visit around the lives of the since-grown characters. “It was something that was...",
-          "summary": "The Brunch Club, maybe? Anthony Michael Hall, one of the stars of the generation-defining John Hughes film The Breakfast Club, says the director had discussed with him an eventual sequel to the 1985 hit teen film, perhaps building a re-visit around the lives of the since-grown characters. “It was something that was...",
-          "url": "https://deadline.com/2026/08/anthony-michael-hall-breakfast-club-sequel-1237029314/",
+          "headline": "Olivia Wilde Talks Fight To Get ‘The Invite’ A Theatrical Release Following Sundance Response: “I Was Passionate About It With A Lot Of Support”",
+          "title": "Olivia Wilde Talks Fight To Get ‘The Invite’ A Theatrical Release Following Sundance Response: “I Was Passionate About It With A Lot Of Support”",
+          "snapshot": "Olivia Wilde has revealed that she was “passionate” about getting a theatrical release for The Invite following the audience response to the comedy at Sundance. “I wanted to investigate this phenomenon that we found at Sundance when we felt the film have that chemical reaction with the audience the first time and it...",
+          "summary": "Olivia Wilde has revealed that she was “passionate” about getting a theatrical release for The Invite following the audience response to the comedy at Sundance. “I wanted to investigate this phenomenon that we found at Sundance when we felt the film have that chemical reaction with the audience the first time and it...",
+          "url": "https://deadline.com/2026/08/olivia-wilde-the-invite-theatrical-release-1237029352/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/film/feed/",
-          "published_at": "2026-08-08 11:04:04 AM ET",
+          "published_at": "2026-08-08 12:45:58 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "Anthony Michael Hall Says ‘Breakfast Club’ Director John Hughes Hoped For A Sequel With Grown-Up Characters"
+            "Olivia Wilde Talks Fight To Get ‘The Invite’ A Theatrical Release Following Sundance Response: “I Was Passionate About It With A Lot Of Support”"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1878,8 +1878,8 @@
           ]
         },
         {
-          "id": "film-23-2789825635096814253",
-          "key": "film-23-2789825635096814253",
+          "id": "film-23-8011129841845796417",
+          "key": "film-23-8011129841845796417",
           "category": "Film",
           "label": "Film",
           "headline": "40 Years Ago, Rob Reiner Turned Stephen King’s Most Personal Story Into a Surprise Hit",
@@ -1906,8 +1906,8 @@
           ]
         },
         {
-          "id": "film-33-736041339984255847",
-          "key": "film-33-736041339984255847",
+          "id": "film-33-1511505306921087634",
+          "key": "film-33-1511505306921087634",
           "category": "Film",
           "label": "Film",
           "headline": "Everything to know about ‘Madden,’ a new movie coming to Prime Video November 18 - About Amazon",
@@ -1936,25 +1936,25 @@
       ],
       "items": [
         {
-          "id": "film-0-5732696051202463927",
-          "key": "film-0-5732696051202463927",
+          "id": "film-0-7485077955597459253",
+          "key": "film-0-7485077955597459253",
           "category": "Film",
           "label": "Film",
-          "headline": "Anthony Michael Hall Says John Hughes Wanted a ‘Breakfast Club’ Sequel Where the Original Cast Is ‘In Their 30s’",
-          "title": "Anthony Michael Hall Says John Hughes Wanted a ‘Breakfast Club’ Sequel Where the Original Cast Is ‘In Their 30s’",
-          "snapshot": "“The Breakfast Club” star Anthony Michael Hall said during a recent appearance on “The Rich Eisen Show” that director John Hughes wanted a sequel in which the group of troubled teens reunites as adults. “It was something that was on his mind, the idea of bringing back the ‘Breakfast Club,’” Hall said. “Like, those f...",
-          "summary": "“The Breakfast Club” star Anthony Michael Hall said during a recent appearance on “The Rich Eisen Show” that director John Hughes wanted a sequel in which the group of troubled teens reunites as adults. “It was something that was on his mind, the idea of bringing back the ‘Breakfast Club,’” Hall said. “Like, those f...",
-          "url": "https://variety.com/2026/film/news/anthony-michael-hall-john-hughes-breakfast-club-sequel-1236830655/",
+          "headline": "Perez Hilton ‘Will Require Surgery’ After Live Stream Incident, Family Demands Media ‘Cease Photographing Perez’s Children’",
+          "title": "Perez Hilton ‘Will Require Surgery’ After Live Stream Incident, Family Demands Media ‘Cease Photographing Perez’s Children’",
+          "snapshot": "Perez Hilton’s family released a statement on Saturday updating fans about the blogger’s health after he appeared to commit self-harm during a TikTok livestream. “Perez’s condition remains serious but stable,” read the statement, which was released on Hilton’s website. “He experienced significant blood loss and sust...",
+          "summary": "Perez Hilton’s family released a statement on Saturday updating fans about the blogger’s health after he appeared to commit self-harm during a TikTok livestream. “Perez’s condition remains serious but stable,” read the statement, which was released on Hilton’s website. “He experienced significant blood loss and sust...",
+          "url": "https://variety.com/2026/film/news/perez-hilton-update-surgery-live-stream-family-statement-1236830699/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/feed/",
-          "published_at": "2026-08-08 02:10:47 PM ET",
+          "published_at": "2026-08-08 06:47:17 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Anthony Michael Hall Says John Hughes Wanted a ‘Breakfast Club’ Sequel Where the Original Cast Is ‘In Their 30s’"
+            "Perez Hilton ‘Will Require Surgery’ After Live Stream Incident, Family Demands Media ‘Cease Photographing Perez’s Children’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1964,25 +1964,25 @@
           ]
         },
         {
-          "id": "film-10-138128568128414015",
-          "key": "film-10-138128568128414015",
+          "id": "film-10-1221785207515871743",
+          "key": "film-10-1221785207515871743",
           "category": "Film",
           "label": "Film",
-          "headline": "Olivia Wilde Talks Fight To Get ‘The Invite’ A Theatrical Release Following Sundance Response: “I Was Passionate About It With A Lot Of Support”",
-          "title": "Olivia Wilde Talks Fight To Get ‘The Invite’ A Theatrical Release Following Sundance Response: “I Was Passionate About It With A Lot Of Support”",
-          "snapshot": "Olivia Wilde has revealed that she was “passionate” about getting a theatrical release for The Invite following the audience response to the comedy at Sundance. “I wanted to investigate this phenomenon that we found at Sundance when we felt the film have that chemical reaction with the audience the first time and it...",
-          "summary": "Olivia Wilde has revealed that she was “passionate” about getting a theatrical release for The Invite following the audience response to the comedy at Sundance. “I wanted to investigate this phenomenon that we found at Sundance when we felt the film have that chemical reaction with the audience the first time and it...",
-          "url": "https://deadline.com/2026/08/olivia-wilde-the-invite-theatrical-release-1237029352/",
+          "headline": "‘One Night Only’ Director Understands The “Sex Purge” Comparisons",
+          "title": "‘One Night Only’ Director Understands The “Sex Purge” Comparisons",
+          "snapshot": "While One Night Only is intended as a romantic-comedy, there are some obvious dystopian undertones that audiences can’t ignore. Director Will Gluck recently addressed online comparisons between the Purge franchise and his new Universal rom-com, which is now in theaters, about two New Yorkers (Monica Barbaro and Call...",
+          "summary": "While One Night Only is intended as a romantic-comedy, there are some obvious dystopian undertones that audiences can’t ignore. Director Will Gluck recently addressed online comparisons between the Purge franchise and his new Universal rom-com, which is now in theaters, about two New Yorkers (Monica Barbaro and Call...",
+          "url": "https://deadline.com/2026/08/one-night-only-director-understands-sex-purge-comparisons-1237029460/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/film/feed/",
-          "published_at": "2026-08-08 12:45:58 PM ET",
+          "published_at": "2026-08-08 06:49:48 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "Olivia Wilde Talks Fight To Get ‘The Invite’ A Theatrical Release Following Sundance Response: “I Was Passionate About It With A Lot Of Support”"
+            "‘One Night Only’ Director Understands The “Sex Purge” Comparisons"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1992,8 +1992,8 @@
           ]
         },
         {
-          "id": "film-22-8047706141646504468",
-          "key": "film-22-8047706141646504468",
+          "id": "film-22-4504491847725839020",
+          "key": "film-22-4504491847725839020",
           "category": "Film",
           "label": "Film",
           "headline": "Monica Barbaro Teases Luca Guadagnino’s OpenAI Film ‘Artificial,’ Addresses Timothée Chalamet’s Ballet Comments",
@@ -2020,8 +2020,8 @@
           ]
         },
         {
-          "id": "film-32-2893838565234866788",
-          "key": "film-32-2893838565234866788",
+          "id": "film-32-6321089042375105193",
+          "key": "film-32-6321089042375105193",
           "category": "Film",
           "label": "Film",
           "headline": "Your guide to 2026 movie release dates - Entertainment Weekly",
@@ -2048,25 +2048,25 @@
           ]
         },
         {
-          "id": "film-1-1666277952887632303",
-          "key": "film-1-1666277952887632303",
+          "id": "film-1-7317432297224192180",
+          "key": "film-1-7317432297224192180",
           "category": "Film",
           "label": "Film",
-          "headline": "‘Cookie Queens’ Review: A Doc About Girl Scout Cookies, Produced by Meghan Markle and Prince Harry, Is Too Much of a Reality-Show Ramble",
-          "title": "‘Cookie Queens’ Review: A Doc About Girl Scout Cookies, Produced by Meghan Markle and Prince Harry, Is Too Much of a Reality-Show Ramble",
-          "snapshot": "As a director, Alysa Nahmias thinks like a reality-show producer — she frames the movie as a contest, inviting us to chortle in admiration at what eager-beaver achievers all four girls are. \"Cookie Queens\" never deviates from that one note.",
-          "summary": "As a director, Alysa Nahmias thinks like a reality-show producer — she frames the movie as a contest, inviting us to chortle in admiration at what eager-beaver achievers all four girls are. \"Cookie Queens\" never deviates from that one note.",
-          "url": "https://variety.com/2026/film/reviews/cookie-queens-review-prince-harry-meghan-markle-1236830251/",
+          "headline": "Anthony Michael Hall Says John Hughes Wanted a ‘Breakfast Club’ Sequel Where the Original Cast Is ‘In Their 30s’",
+          "title": "Anthony Michael Hall Says John Hughes Wanted a ‘Breakfast Club’ Sequel Where the Original Cast Is ‘In Their 30s’",
+          "snapshot": "“The Breakfast Club” star Anthony Michael Hall said during a recent appearance on “The Rich Eisen Show” that director John Hughes wanted a sequel in which the group of troubled teens reunites as adults. “It was something that was on his mind, the idea of bringing back the ‘Breakfast Club,’” Hall said. “Like, those f...",
+          "summary": "“The Breakfast Club” star Anthony Michael Hall said during a recent appearance on “The Rich Eisen Show” that director John Hughes wanted a sequel in which the group of troubled teens reunites as adults. “It was something that was on his mind, the idea of bringing back the ‘Breakfast Club,’” Hall said. “Like, those f...",
+          "url": "https://variety.com/2026/film/news/anthony-michael-hall-john-hughes-breakfast-club-sequel-1236830655/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/feed/",
-          "published_at": "2026-08-08 02:05:47 PM ET",
+          "published_at": "2026-08-08 02:10:47 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "‘Cookie Queens’ Review: A Doc About Girl Scout Cookies, Produced by Meghan Markle and Prince Harry, Is Too Much of a Reality-Show Ramble"
+            "Anthony Michael Hall Says John Hughes Wanted a ‘Breakfast Club’ Sequel Where the Original Cast Is ‘In Their 30s’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2076,25 +2076,25 @@
           ]
         },
         {
-          "id": "film-11-67096191356399259",
-          "key": "film-11-67096191356399259",
+          "id": "film-11-2288814754470766565",
+          "key": "film-11-2288814754470766565",
           "category": "Film",
           "label": "Film",
-          "headline": "Anthony Michael Hall Says ‘Breakfast Club’ Director John Hughes Hoped For A Sequel With Grown-Up Characters",
-          "title": "Anthony Michael Hall Says ‘Breakfast Club’ Director John Hughes Hoped For A Sequel With Grown-Up Characters",
-          "snapshot": "The Brunch Club, maybe? Anthony Michael Hall, one of the stars of the generation-defining John Hughes film The Breakfast Club, says the director had discussed with him an eventual sequel to the 1985 hit teen film, perhaps building a re-visit around the lives of the since-grown characters. “It was something that was...",
-          "summary": "The Brunch Club, maybe? Anthony Michael Hall, one of the stars of the generation-defining John Hughes film The Breakfast Club, says the director had discussed with him an eventual sequel to the 1985 hit teen film, perhaps building a re-visit around the lives of the since-grown characters. “It was something that was...",
-          "url": "https://deadline.com/2026/08/anthony-michael-hall-breakfast-club-sequel-1237029314/",
+          "headline": "Olivia Wilde Talks Fight To Get ‘The Invite’ A Theatrical Release Following Sundance Response: “I Was Passionate About It With A Lot Of Support”",
+          "title": "Olivia Wilde Talks Fight To Get ‘The Invite’ A Theatrical Release Following Sundance Response: “I Was Passionate About It With A Lot Of Support”",
+          "snapshot": "Olivia Wilde has revealed that she was “passionate” about getting a theatrical release for The Invite following the audience response to the comedy at Sundance. “I wanted to investigate this phenomenon that we found at Sundance when we felt the film have that chemical reaction with the audience the first time and it...",
+          "summary": "Olivia Wilde has revealed that she was “passionate” about getting a theatrical release for The Invite following the audience response to the comedy at Sundance. “I wanted to investigate this phenomenon that we found at Sundance when we felt the film have that chemical reaction with the audience the first time and it...",
+          "url": "https://deadline.com/2026/08/olivia-wilde-the-invite-theatrical-release-1237029352/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/film/feed/",
-          "published_at": "2026-08-08 11:04:04 AM ET",
+          "published_at": "2026-08-08 12:45:58 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "Anthony Michael Hall Says ‘Breakfast Club’ Director John Hughes Hoped For A Sequel With Grown-Up Characters"
+            "Olivia Wilde Talks Fight To Get ‘The Invite’ A Theatrical Release Following Sundance Response: “I Was Passionate About It With A Lot Of Support”"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2104,8 +2104,8 @@
           ]
         },
         {
-          "id": "film-23-2789825635096814253",
-          "key": "film-23-2789825635096814253",
+          "id": "film-23-8011129841845796417",
+          "key": "film-23-8011129841845796417",
           "category": "Film",
           "label": "Film",
           "headline": "40 Years Ago, Rob Reiner Turned Stephen King’s Most Personal Story Into a Surprise Hit",
@@ -2132,8 +2132,8 @@
           ]
         },
         {
-          "id": "film-33-736041339984255847",
-          "key": "film-33-736041339984255847",
+          "id": "film-33-1511505306921087634",
+          "key": "film-33-1511505306921087634",
           "category": "Film",
           "label": "Film",
           "headline": "Everything to know about ‘Madden,’ a new movie coming to Prime Video November 18 - About Amazon",
@@ -2160,7 +2160,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-08 06:29:58 PM ET"
+      "updated_at": "2026-08-08 07:29:25 PM ET"
     },
     {
       "key": "tv",
@@ -2186,8 +2186,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "tv-0-807703344045696833",
-          "key": "tv-0-807703344045696833",
+          "id": "tv-0-5275689762379371933",
+          "key": "tv-0-5275689762379371933",
           "category": "TV",
           "label": "TV",
           "headline": "‘Abbott Elementary’ Stars Sheryl Lee Ralph and Janelle James on the Paramount-Warner Bros. Merger: ‘We’ve Lost Too Many People’",
@@ -2214,8 +2214,8 @@
           ]
         },
         {
-          "id": "tv-10-6240405004040808826",
-          "key": "tv-10-6240405004040808826",
+          "id": "tv-9-8069409312512116997",
+          "key": "tv-9-8069409312512116997",
           "category": "TV",
           "label": "TV",
           "headline": "‘Monsters Of God’ Slithers Onto HBO: Reptilian Docuseries From ‘Tiger King’s Eric Goode",
@@ -2230,7 +2230,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 90,
+          "priority_score": 91,
           "key_data": [
             "‘Monsters Of God’ Slithers Onto HBO: Reptilian Docuseries From ‘Tiger King’s Eric Goode"
           ],
@@ -2242,8 +2242,8 @@
           ]
         },
         {
-          "id": "tv-22-3259801394188976570",
-          "key": "tv-22-3259801394188976570",
+          "id": "tv-21-927750092505141692",
+          "key": "tv-21-927750092505141692",
           "category": "TV",
           "label": "TV",
           "headline": "Jake T. Austin Says He Wasn’t Invited to Partake in ‘Wizards of Waverly Place’ Revival: “Disappointed”",
@@ -2258,7 +2258,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 78,
+          "priority_score": 79,
           "key_data": [
             "Jake T. Austin Says He Wasn’t Invited to Partake in ‘Wizards of Waverly Place’ Revival: “Disappointed”"
           ],
@@ -2270,8 +2270,8 @@
           ]
         },
         {
-          "id": "tv-32-5944282692495305150",
-          "key": "tv-32-5944282692495305150",
+          "id": "tv-31-6607949246781422285",
+          "key": "tv-31-6607949246781422285",
           "category": "TV",
           "label": "TV",
           "headline": "Shemaroo gets MIB nod to launch Hindi entertainment channel Mango TV - Indian Television Dot Com",
@@ -2286,7 +2286,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 68,
+          "priority_score": 69,
           "key_data": [
             "Shemaroo gets MIB nod to launch Hindi entertainment channel Mango TV - Indian Television Dot Com"
           ],
@@ -2298,8 +2298,8 @@
           ]
         },
         {
-          "id": "tv-1-3329574692758586823",
-          "key": "tv-1-3329574692758586823",
+          "id": "tv-1-7702669207656103594",
+          "key": "tv-1-7702669207656103594",
           "category": "TV",
           "label": "TV",
           "headline": "‘Heated Rivalry’ Author Brushes Off Negativity Surrounding Season 2 Casting",
@@ -2326,8 +2326,8 @@
           ]
         },
         {
-          "id": "tv-11-7578933065243962791",
-          "key": "tv-11-7578933065243962791",
+          "id": "tv-10-2551512497697075348",
+          "key": "tv-10-2551512497697075348",
           "category": "TV",
           "label": "TV",
           "headline": "‘Heated Rivalry’ Author Appears To Dismiss Negative Reactions To Season 2 Casting",
@@ -2342,7 +2342,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 89,
+          "priority_score": 90,
           "key_data": [
             "‘Heated Rivalry’ Author Appears To Dismiss Negative Reactions To Season 2 Casting"
           ],
@@ -2354,8 +2354,8 @@
           ]
         },
         {
-          "id": "tv-23-102184894078301131",
-          "key": "tv-23-102184894078301131",
+          "id": "tv-22-3783902678550412020",
+          "key": "tv-22-3783902678550412020",
           "category": "TV",
           "label": "TV",
           "headline": "Streaming Ratings: ‘Love Island USA’ Scores Another All-Time High Leading Up to Season 8 Finale",
@@ -2370,7 +2370,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 77,
+          "priority_score": 78,
           "key_data": [
             "Streaming Ratings: ‘Love Island USA’ Scores Another All-Time High Leading Up to Season 8 Finale"
           ],
@@ -2384,8 +2384,8 @@
       ],
       "items": [
         {
-          "id": "tv-0-807703344045696833",
-          "key": "tv-0-807703344045696833",
+          "id": "tv-0-5275689762379371933",
+          "key": "tv-0-5275689762379371933",
           "category": "TV",
           "label": "TV",
           "headline": "‘Abbott Elementary’ Stars Sheryl Lee Ralph and Janelle James on the Paramount-Warner Bros. Merger: ‘We’ve Lost Too Many People’",
@@ -2412,8 +2412,8 @@
           ]
         },
         {
-          "id": "tv-10-6240405004040808826",
-          "key": "tv-10-6240405004040808826",
+          "id": "tv-9-8069409312512116997",
+          "key": "tv-9-8069409312512116997",
           "category": "TV",
           "label": "TV",
           "headline": "‘Monsters Of God’ Slithers Onto HBO: Reptilian Docuseries From ‘Tiger King’s Eric Goode",
@@ -2428,7 +2428,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 90,
+          "priority_score": 91,
           "key_data": [
             "‘Monsters Of God’ Slithers Onto HBO: Reptilian Docuseries From ‘Tiger King’s Eric Goode"
           ],
@@ -2440,8 +2440,8 @@
           ]
         },
         {
-          "id": "tv-22-3259801394188976570",
-          "key": "tv-22-3259801394188976570",
+          "id": "tv-21-927750092505141692",
+          "key": "tv-21-927750092505141692",
           "category": "TV",
           "label": "TV",
           "headline": "Jake T. Austin Says He Wasn’t Invited to Partake in ‘Wizards of Waverly Place’ Revival: “Disappointed”",
@@ -2456,7 +2456,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 78,
+          "priority_score": 79,
           "key_data": [
             "Jake T. Austin Says He Wasn’t Invited to Partake in ‘Wizards of Waverly Place’ Revival: “Disappointed”"
           ],
@@ -2468,8 +2468,8 @@
           ]
         },
         {
-          "id": "tv-32-5944282692495305150",
-          "key": "tv-32-5944282692495305150",
+          "id": "tv-31-6607949246781422285",
+          "key": "tv-31-6607949246781422285",
           "category": "TV",
           "label": "TV",
           "headline": "Shemaroo gets MIB nod to launch Hindi entertainment channel Mango TV - Indian Television Dot Com",
@@ -2484,7 +2484,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 68,
+          "priority_score": 69,
           "key_data": [
             "Shemaroo gets MIB nod to launch Hindi entertainment channel Mango TV - Indian Television Dot Com"
           ],
@@ -2496,8 +2496,8 @@
           ]
         },
         {
-          "id": "tv-1-3329574692758586823",
-          "key": "tv-1-3329574692758586823",
+          "id": "tv-1-7702669207656103594",
+          "key": "tv-1-7702669207656103594",
           "category": "TV",
           "label": "TV",
           "headline": "‘Heated Rivalry’ Author Brushes Off Negativity Surrounding Season 2 Casting",
@@ -2524,8 +2524,8 @@
           ]
         },
         {
-          "id": "tv-11-7578933065243962791",
-          "key": "tv-11-7578933065243962791",
+          "id": "tv-10-2551512497697075348",
+          "key": "tv-10-2551512497697075348",
           "category": "TV",
           "label": "TV",
           "headline": "‘Heated Rivalry’ Author Appears To Dismiss Negative Reactions To Season 2 Casting",
@@ -2540,7 +2540,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 89,
+          "priority_score": 90,
           "key_data": [
             "‘Heated Rivalry’ Author Appears To Dismiss Negative Reactions To Season 2 Casting"
           ],
@@ -2552,8 +2552,8 @@
           ]
         },
         {
-          "id": "tv-23-102184894078301131",
-          "key": "tv-23-102184894078301131",
+          "id": "tv-22-3783902678550412020",
+          "key": "tv-22-3783902678550412020",
           "category": "TV",
           "label": "TV",
           "headline": "Streaming Ratings: ‘Love Island USA’ Scores Another All-Time High Leading Up to Season 8 Finale",
@@ -2568,7 +2568,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 77,
+          "priority_score": 78,
           "key_data": [
             "Streaming Ratings: ‘Love Island USA’ Scores Another All-Time High Leading Up to Season 8 Finale"
           ],
@@ -2580,7 +2580,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-08 06:29:59 PM ET"
+      "updated_at": "2026-08-08 07:29:26 PM ET"
     },
     {
       "key": "streaming",
@@ -2598,8 +2598,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "streaming-0-1591329320849359331",
-          "key": "streaming-0-1591329320849359331",
+          "id": "streaming-0-4470114040198073139",
+          "key": "streaming-0-4470114040198073139",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Disney turns $4-billion streaming loss into profit, and now it chases global growth - Los Angeles Times",
@@ -2626,8 +2626,8 @@
           ]
         },
         {
-          "id": "streaming-1-692448838011053920",
-          "key": "streaming-1-692448838011053920",
+          "id": "streaming-1-6561566480037516839",
+          "key": "streaming-1-6561566480037516839",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'The Devil Wears Prada 2' to 'Obsession,' 10 movies to stream now - USA Today",
@@ -2656,8 +2656,8 @@
       ],
       "items": [
         {
-          "id": "streaming-0-1591329320849359331",
-          "key": "streaming-0-1591329320849359331",
+          "id": "streaming-0-4470114040198073139",
+          "key": "streaming-0-4470114040198073139",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Disney turns $4-billion streaming loss into profit, and now it chases global growth - Los Angeles Times",
@@ -2684,8 +2684,8 @@
           ]
         },
         {
-          "id": "streaming-1-692448838011053920",
-          "key": "streaming-1-692448838011053920",
+          "id": "streaming-1-6561566480037516839",
+          "key": "streaming-1-6561566480037516839",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'The Devil Wears Prada 2' to 'Obsession,' 10 movies to stream now - USA Today",
@@ -2712,7 +2712,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-08 06:30:00 PM ET"
+      "updated_at": "2026-08-08 07:29:27 PM ET"
     },
     {
       "key": "music",
@@ -2737,8 +2737,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "music-0-9157130244933396390",
-          "key": "music-0-9157130244933396390",
+          "id": "music-0-3433622584175667666",
+          "key": "music-0-3433622584175667666",
           "category": "Music",
           "label": "Music",
           "headline": "Morrissey Cancels Las Vegas Residency Days Before Showtime Due to ‘Unforeseen Logistical Issues’",
@@ -2765,8 +2765,8 @@
           ]
         },
         {
-          "id": "music-10-7121825058155007108",
-          "key": "music-10-7121825058155007108",
+          "id": "music-10-394338954014810905",
+          "key": "music-10-394338954014810905",
           "category": "Music",
           "label": "Music",
           "headline": "aespa Kicks Off SYNK : COMPLæXITY Tour in Seoul: 6 Best Moments",
@@ -2793,8 +2793,8 @@
           ]
         },
         {
-          "id": "music-20-1813710514848221834",
-          "key": "music-20-1813710514848221834",
+          "id": "music-20-5803367864455626793",
+          "key": "music-20-5803367864455626793",
           "category": "Music",
           "label": "Music",
           "headline": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - billboard.com",
@@ -2821,8 +2821,8 @@
           ]
         },
         {
-          "id": "music-1-1878062991871624329",
-          "key": "music-1-1878062991871624329",
+          "id": "music-1-5486607392675173520",
+          "key": "music-1-5486607392675173520",
           "category": "Music",
           "label": "Music",
           "headline": "L.A. Jazz Festival, Which Was Supposed to Feature John Legend, Janelle Monáe and Hundreds More, Canceled at the Last Minute",
@@ -2849,8 +2849,8 @@
           ]
         },
         {
-          "id": "music-11-2249606340816637314",
-          "key": "music-11-2249606340816637314",
+          "id": "music-11-839186811919088953",
+          "key": "music-11-839186811919088953",
           "category": "Music",
           "label": "Music",
           "headline": "Get Beats Earbuds for Just $69 As Part of This Back to School Deal",
@@ -2877,8 +2877,8 @@
           ]
         },
         {
-          "id": "music-21-1219091838786152371",
-          "key": "music-21-1219091838786152371",
+          "id": "music-21-57576982694507406",
+          "key": "music-21-57576982694507406",
           "category": "Music",
           "label": "Music",
           "headline": "It’s Official: Influence Media to Buy Anthem for Over $600 Million - Billboard",
@@ -2907,8 +2907,8 @@
       ],
       "items": [
         {
-          "id": "music-0-9157130244933396390",
-          "key": "music-0-9157130244933396390",
+          "id": "music-0-3433622584175667666",
+          "key": "music-0-3433622584175667666",
           "category": "Music",
           "label": "Music",
           "headline": "Morrissey Cancels Las Vegas Residency Days Before Showtime Due to ‘Unforeseen Logistical Issues’",
@@ -2935,8 +2935,8 @@
           ]
         },
         {
-          "id": "music-10-7121825058155007108",
-          "key": "music-10-7121825058155007108",
+          "id": "music-10-394338954014810905",
+          "key": "music-10-394338954014810905",
           "category": "Music",
           "label": "Music",
           "headline": "aespa Kicks Off SYNK : COMPLæXITY Tour in Seoul: 6 Best Moments",
@@ -2963,8 +2963,8 @@
           ]
         },
         {
-          "id": "music-20-1813710514848221834",
-          "key": "music-20-1813710514848221834",
+          "id": "music-20-5803367864455626793",
+          "key": "music-20-5803367864455626793",
           "category": "Music",
           "label": "Music",
           "headline": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - billboard.com",
@@ -2991,8 +2991,8 @@
           ]
         },
         {
-          "id": "music-1-1878062991871624329",
-          "key": "music-1-1878062991871624329",
+          "id": "music-1-5486607392675173520",
+          "key": "music-1-5486607392675173520",
           "category": "Music",
           "label": "Music",
           "headline": "L.A. Jazz Festival, Which Was Supposed to Feature John Legend, Janelle Monáe and Hundreds More, Canceled at the Last Minute",
@@ -3019,8 +3019,8 @@
           ]
         },
         {
-          "id": "music-11-2249606340816637314",
-          "key": "music-11-2249606340816637314",
+          "id": "music-11-839186811919088953",
+          "key": "music-11-839186811919088953",
           "category": "Music",
           "label": "Music",
           "headline": "Get Beats Earbuds for Just $69 As Part of This Back to School Deal",
@@ -3047,8 +3047,8 @@
           ]
         },
         {
-          "id": "music-21-1219091838786152371",
-          "key": "music-21-1219091838786152371",
+          "id": "music-21-57576982694507406",
+          "key": "music-21-57576982694507406",
           "category": "Music",
           "label": "Music",
           "headline": "It’s Official: Influence Media to Buy Anthem for Over $600 Million - Billboard",
@@ -3075,7 +3075,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-08 06:30:00 PM ET"
+      "updated_at": "2026-08-08 07:29:28 PM ET"
     },
     {
       "key": "awards",
@@ -3097,8 +3097,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "awards-0-4348983708488144054",
-          "key": "awards-0-4348983708488144054",
+          "id": "awards-0-2497199103204436936",
+          "key": "awards-0-2497199103204436936",
           "category": "Awards",
           "label": "Awards",
           "headline": "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
@@ -3125,8 +3125,8 @@
           ]
         },
         {
-          "id": "awards-5-4302255992763149683",
-          "key": "awards-5-4302255992763149683",
+          "id": "awards-5-7105289926871715535",
+          "key": "awards-5-7105289926871715535",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline",
@@ -3153,8 +3153,8 @@
           ]
         },
         {
-          "id": "awards-1-3863976316351731819",
-          "key": "awards-1-3863976316351731819",
+          "id": "awards-1-6243681093339286274",
+          "key": "awards-1-6243681093339286274",
           "category": "Awards",
           "label": "Awards",
           "headline": "James Gray Says AI Is ‘Worthless’ and Young People Won’t Stand for It: They ‘Have a Real Hunger for Interesting, Honest Stuff’",
@@ -3181,8 +3181,8 @@
           ]
         },
         {
-          "id": "awards-6-2986832603579225234",
-          "key": "awards-6-2986832603579225234",
+          "id": "awards-6-7608547267621157924",
+          "key": "awards-6-7608547267621157924",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo",
@@ -3211,8 +3211,8 @@
       ],
       "items": [
         {
-          "id": "awards-0-4348983708488144054",
-          "key": "awards-0-4348983708488144054",
+          "id": "awards-0-2497199103204436936",
+          "key": "awards-0-2497199103204436936",
           "category": "Awards",
           "label": "Awards",
           "headline": "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
@@ -3239,8 +3239,8 @@
           ]
         },
         {
-          "id": "awards-5-4302255992763149683",
-          "key": "awards-5-4302255992763149683",
+          "id": "awards-5-7105289926871715535",
+          "key": "awards-5-7105289926871715535",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline",
@@ -3267,8 +3267,8 @@
           ]
         },
         {
-          "id": "awards-1-3863976316351731819",
-          "key": "awards-1-3863976316351731819",
+          "id": "awards-1-6243681093339286274",
+          "key": "awards-1-6243681093339286274",
           "category": "Awards",
           "label": "Awards",
           "headline": "James Gray Says AI Is ‘Worthless’ and Young People Won’t Stand for It: They ‘Have a Real Hunger for Interesting, Honest Stuff’",
@@ -3295,8 +3295,8 @@
           ]
         },
         {
-          "id": "awards-6-2986832603579225234",
-          "key": "awards-6-2986832603579225234",
+          "id": "awards-6-7608547267621157924",
+          "key": "awards-6-7608547267621157924",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo",
@@ -3323,7 +3323,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-08 06:30:01 PM ET"
+      "updated_at": "2026-08-08 07:29:28 PM ET"
     },
     {
       "key": "box_office",
@@ -3345,8 +3345,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "box_office-0-5608195653044608839",
-          "key": "box_office-0-5608195653044608839",
+          "id": "box_office-0-7671952103955218211",
+          "key": "box_office-0-7671952103955218211",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ Surpasses $1 Billion, Christopher Nolan’s First Movie Since ‘Dark Knight Rises’ to Reach Coveted Box Office Milestone",
@@ -3373,8 +3373,8 @@
           ]
         },
         {
-          "id": "box_office-9-4800915828012978819",
-          "key": "box_office-9-4800915828012978819",
+          "id": "box_office-9-872479268554117140",
+          "key": "box_office-9-872479268554117140",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History - The Hollywood Reporter",
@@ -3401,8 +3401,8 @@
           ]
         },
         {
-          "id": "box_office-1-2118608451774818970",
-          "key": "box_office-1-2118608451774818970",
+          "id": "box_office-1-3557178593713539717",
+          "key": "box_office-1-3557178593713539717",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ and ‘Spider-Man: Brand New Day’ Power $239 Million U.K., Ireland July Box Office",
@@ -3429,8 +3429,8 @@
           ]
         },
         {
-          "id": "box_office-10-4216412656775505337",
-          "key": "box_office-10-4216412656775505337",
+          "id": "box_office-10-1146029571116749113",
+          "key": "box_office-10-1146029571116749113",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Disney Admits ‘The Mandalorian and Grogu’ Disappointed at Box Office - The Hollywood Reporter",
@@ -3459,8 +3459,8 @@
       ],
       "items": [
         {
-          "id": "box_office-0-5608195653044608839",
-          "key": "box_office-0-5608195653044608839",
+          "id": "box_office-0-7671952103955218211",
+          "key": "box_office-0-7671952103955218211",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ Surpasses $1 Billion, Christopher Nolan’s First Movie Since ‘Dark Knight Rises’ to Reach Coveted Box Office Milestone",
@@ -3487,8 +3487,8 @@
           ]
         },
         {
-          "id": "box_office-9-4800915828012978819",
-          "key": "box_office-9-4800915828012978819",
+          "id": "box_office-9-872479268554117140",
+          "key": "box_office-9-872479268554117140",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History - The Hollywood Reporter",
@@ -3515,8 +3515,8 @@
           ]
         },
         {
-          "id": "box_office-1-2118608451774818970",
-          "key": "box_office-1-2118608451774818970",
+          "id": "box_office-1-3557178593713539717",
+          "key": "box_office-1-3557178593713539717",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ and ‘Spider-Man: Brand New Day’ Power $239 Million U.K., Ireland July Box Office",
@@ -3543,8 +3543,8 @@
           ]
         },
         {
-          "id": "box_office-10-4216412656775505337",
-          "key": "box_office-10-4216412656775505337",
+          "id": "box_office-10-1146029571116749113",
+          "key": "box_office-10-1146029571116749113",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Disney Admits ‘The Mandalorian and Grogu’ Disappointed at Box Office - The Hollywood Reporter",
@@ -3571,7 +3571,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-08 06:30:02 PM ET"
+      "updated_at": "2026-08-08 07:29:29 PM ET"
     },
     {
       "key": "celebrity",
@@ -3589,8 +3589,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "celebrity-0-4415489406180869768",
-          "key": "celebrity-0-4415489406180869768",
+          "id": "celebrity-0-2226537439014116596",
+          "key": "celebrity-0-2226537439014116596",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Entertainment News | Latest Celebrity News, Videos & Photos - ABC News - Breaking News, Latest News and Videos",
@@ -3617,8 +3617,8 @@
           ]
         },
         {
-          "id": "celebrity-1-3898262355146364538",
-          "key": "celebrity-1-3898262355146364538",
+          "id": "celebrity-1-2650558217967728994",
+          "key": "celebrity-1-2650558217967728994",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3647,8 +3647,8 @@
       ],
       "items": [
         {
-          "id": "celebrity-0-4415489406180869768",
-          "key": "celebrity-0-4415489406180869768",
+          "id": "celebrity-0-2226537439014116596",
+          "key": "celebrity-0-2226537439014116596",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Entertainment News | Latest Celebrity News, Videos & Photos - ABC News - Breaking News, Latest News and Videos",
@@ -3675,8 +3675,8 @@
           ]
         },
         {
-          "id": "celebrity-1-3898262355146364538",
-          "key": "celebrity-1-3898262355146364538",
+          "id": "celebrity-1-2650558217967728994",
+          "key": "celebrity-1-2650558217967728994",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3703,7 +3703,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-08 06:30:02 PM ET"
+      "updated_at": "2026-08-08 07:29:30 PM ET"
     },
     {
       "key": "hollywood",
@@ -3714,22 +3714,22 @@
       "key_storylines": [
         "Melissa Barrera Takes Weekend Off From Broadway’s ‘Titanique’ After She “Lost My Voice” On-Stage",
         "Perez Hilton’s Condition “Serious But Stable” Amid Hospitalization, Will Require Surgery",
-        "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
+        "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - elon.edu",
         "Madonna Pays Tribute To Late ‘Ray Of Light’ Producer William Orbit: “Your Music Gave Me A Magic Carpet To Fly On”",
         "Nordstrom Anniversary Sale Ends Sunday Night: Here Are the Most Popular Purchases of 2026 (So Far)"
       ],
       "watch_list": [
         "Melissa Barrera Takes Weekend Off From Broadway’s ‘Titanique’ After She “Lost My Voice” On-Stage",
         "Perez Hilton’s Condition “Serious But Stable” Amid Hospitalization, Will Require Surgery",
-        "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
+        "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - elon.edu",
         "Madonna Pays Tribute To Late ‘Ray Of Light’ Producer William Orbit: “Your Music Gave Me A Magic Carpet To Fly On”",
         "Nordstrom Anniversary Sale Ends Sunday Night: Here Are the Most Popular Purchases of 2026 (So Far)",
         "Why did the United States film industry settle in Hollywood? - Encyclopedia Britannica"
       ],
       "homepage_cards": [
         {
-          "id": "hollywood-0-6601132533095269146",
-          "key": "hollywood-0-6601132533095269146",
+          "id": "hollywood-0-5847646398615348021",
+          "key": "hollywood-0-5847646398615348021",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Melissa Barrera Takes Weekend Off From Broadway’s ‘Titanique’ After She “Lost My Voice” On-Stage",
@@ -3756,8 +3756,8 @@
           ]
         },
         {
-          "id": "hollywood-6-2597114473521575629",
-          "key": "hollywood-6-2597114473521575629",
+          "id": "hollywood-6-671469119086221474",
+          "key": "hollywood-6-671469119086221474",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Perez Hilton’s Condition “Serious But Stable” Amid Hospitalization, Will Require Surgery",
@@ -3784,14 +3784,14 @@
           ]
         },
         {
-          "id": "hollywood-12-4330710915192920972",
-          "key": "hollywood-12-4330710915192920972",
+          "id": "hollywood-12-715572371128816117",
+          "key": "hollywood-12-715572371128816117",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
-          "title": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
-          "snapshot": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders Elon University",
-          "summary": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders Elon University",
+          "headline": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - elon.edu",
+          "title": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - elon.edu",
+          "snapshot": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders elon.edu",
+          "summary": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders elon.edu",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdTdlVmlNeVpYR2tFTGFmcjZvU3JWT1FKV0xCbnRUX3Uxc3JvYy04VXNtSHBLVjNQX0RWTmRhYXpwQzlXY1NpZm16WnYzX0Nyb0J5cjlSeWlwbkRadDR4RlFfc2l0UTlxUjVOTVQ0OWRuTmJWd1NERkRIQUZOX1M0ZnNEendVbEE0amZzWGlEZm9fRWNQeDNBYlFWOVI5V3d4cEp3MENIVTBCQ2c2dDdZNEpPQQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3802,7 +3802,7 @@
           "story_type": "rss_headline",
           "priority_score": 88,
           "key_data": [
-            "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University"
+            "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - elon.edu"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3812,8 +3812,8 @@
           ]
         },
         {
-          "id": "hollywood-1-9171547245085141623",
-          "key": "hollywood-1-9171547245085141623",
+          "id": "hollywood-1-8441073411000163649",
+          "key": "hollywood-1-8441073411000163649",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Madonna Pays Tribute To Late ‘Ray Of Light’ Producer William Orbit: “Your Music Gave Me A Magic Carpet To Fly On”",
@@ -3840,8 +3840,8 @@
           ]
         },
         {
-          "id": "hollywood-7-6409048527261500599",
-          "key": "hollywood-7-6409048527261500599",
+          "id": "hollywood-7-2850846903481174557",
+          "key": "hollywood-7-2850846903481174557",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Nordstrom Anniversary Sale Ends Sunday Night: Here Are the Most Popular Purchases of 2026 (So Far)",
@@ -3868,8 +3868,8 @@
           ]
         },
         {
-          "id": "hollywood-13-365615838416423965",
-          "key": "hollywood-13-365615838416423965",
+          "id": "hollywood-13-3993933032821190706",
+          "key": "hollywood-13-3993933032821190706",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Why did the United States film industry settle in Hollywood? - Encyclopedia Britannica",
@@ -3898,8 +3898,8 @@
       ],
       "items": [
         {
-          "id": "hollywood-0-6601132533095269146",
-          "key": "hollywood-0-6601132533095269146",
+          "id": "hollywood-0-5847646398615348021",
+          "key": "hollywood-0-5847646398615348021",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Melissa Barrera Takes Weekend Off From Broadway’s ‘Titanique’ After She “Lost My Voice” On-Stage",
@@ -3926,8 +3926,8 @@
           ]
         },
         {
-          "id": "hollywood-6-2597114473521575629",
-          "key": "hollywood-6-2597114473521575629",
+          "id": "hollywood-6-671469119086221474",
+          "key": "hollywood-6-671469119086221474",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Perez Hilton’s Condition “Serious But Stable” Amid Hospitalization, Will Require Surgery",
@@ -3954,14 +3954,14 @@
           ]
         },
         {
-          "id": "hollywood-12-4330710915192920972",
-          "key": "hollywood-12-4330710915192920972",
+          "id": "hollywood-12-715572371128816117",
+          "key": "hollywood-12-715572371128816117",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
-          "title": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
-          "snapshot": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders Elon University",
-          "summary": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders Elon University",
+          "headline": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - elon.edu",
+          "title": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - elon.edu",
+          "snapshot": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders elon.edu",
+          "summary": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders elon.edu",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdTdlVmlNeVpYR2tFTGFmcjZvU3JWT1FKV0xCbnRUX3Uxc3JvYy04VXNtSHBLVjNQX0RWTmRhYXpwQzlXY1NpZm16WnYzX0Nyb0J5cjlSeWlwbkRadDR4RlFfc2l0UTlxUjVOTVQ0OWRuTmJWd1NERkRIQUZOX1M0ZnNEendVbEE0amZzWGlEZm9fRWNQeDNBYlFWOVI5V3d4cEp3MENIVTBCQ2c2dDdZNEpPQQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3972,7 +3972,7 @@
           "story_type": "rss_headline",
           "priority_score": 88,
           "key_data": [
-            "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University"
+            "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - elon.edu"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3982,8 +3982,8 @@
           ]
         },
         {
-          "id": "hollywood-1-9171547245085141623",
-          "key": "hollywood-1-9171547245085141623",
+          "id": "hollywood-1-8441073411000163649",
+          "key": "hollywood-1-8441073411000163649",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Madonna Pays Tribute To Late ‘Ray Of Light’ Producer William Orbit: “Your Music Gave Me A Magic Carpet To Fly On”",
@@ -4010,8 +4010,8 @@
           ]
         },
         {
-          "id": "hollywood-7-6409048527261500599",
-          "key": "hollywood-7-6409048527261500599",
+          "id": "hollywood-7-2850846903481174557",
+          "key": "hollywood-7-2850846903481174557",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Nordstrom Anniversary Sale Ends Sunday Night: Here Are the Most Popular Purchases of 2026 (So Far)",
@@ -4038,8 +4038,8 @@
           ]
         },
         {
-          "id": "hollywood-13-365615838416423965",
-          "key": "hollywood-13-365615838416423965",
+          "id": "hollywood-13-3993933032821190706",
+          "key": "hollywood-13-3993933032821190706",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Why did the United States film industry settle in Hollywood? - Encyclopedia Britannica",
@@ -4066,7 +4066,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-08 06:30:03 PM ET"
+      "updated_at": "2026-08-08 07:29:31 PM ET"
     },
     {
       "key": "gaming",
@@ -4086,8 +4086,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "gaming-0-473433724624774572",
-          "key": "gaming-0-473433724624774572",
+          "id": "gaming-0-5887527932262015969",
+          "key": "gaming-0-5887527932262015969",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027",
@@ -4114,8 +4114,8 @@
           ]
         },
         {
-          "id": "gaming-20-5597743092019093728",
-          "key": "gaming-20-5597743092019093728",
+          "id": "gaming-20-8887266172853040086",
+          "key": "gaming-20-8887266172853040086",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - MKAU Gaming",
@@ -4142,8 +4142,8 @@
           ]
         },
         {
-          "id": "gaming-1-9068416881137907375",
-          "key": "gaming-1-9068416881137907375",
+          "id": "gaming-1-1849774459651271535",
+          "key": "gaming-1-1849774459651271535",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "'They Fundamentally Don't Understand Art' — Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs",
@@ -4172,8 +4172,8 @@
       ],
       "items": [
         {
-          "id": "gaming-0-473433724624774572",
-          "key": "gaming-0-473433724624774572",
+          "id": "gaming-0-5887527932262015969",
+          "key": "gaming-0-5887527932262015969",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027",
@@ -4200,8 +4200,8 @@
           ]
         },
         {
-          "id": "gaming-20-5597743092019093728",
-          "key": "gaming-20-5597743092019093728",
+          "id": "gaming-20-8887266172853040086",
+          "key": "gaming-20-8887266172853040086",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - MKAU Gaming",
@@ -4228,8 +4228,8 @@
           ]
         },
         {
-          "id": "gaming-1-9068416881137907375",
-          "key": "gaming-1-9068416881137907375",
+          "id": "gaming-1-1849774459651271535",
+          "key": "gaming-1-1849774459651271535",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "'They Fundamentally Don't Understand Art' — Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs",
@@ -4256,47 +4256,47 @@
           ]
         }
       ],
-      "updated_at": "2026-08-08 06:30:04 PM ET"
+      "updated_at": "2026-08-08 07:29:31 PM ET"
     },
     {
       "key": "media",
       "name": "Media",
       "title": "Media Report",
-      "headline": "Paramount’s U.K. Concessions Give ‘Powerful Credibility’ to State AGs’ Lawsuit, Block the Merger Coalition Says: ‘The Dangers’ in U.S. Market ‘Are Unmistakable’",
+      "headline": "LISTEN: NBCUniversal Media Group Chief Matt Strauss on Growing Peacock, Testing Membership Rewards and Becoming a Daily Habit With Users",
       "snapshot": "Media coverage is updating with 4 current RSS headline item(s).",
       "key_storylines": [
-        "Paramount’s U.K. Concessions Give ‘Powerful Credibility’ to State AGs’ Lawsuit, Block the Merger Coalition Says: ‘The Dangers’ in U.S. Market ‘Are Unmistakable’",
+        "LISTEN: NBCUniversal Media Group Chief Matt Strauss on Growing Peacock, Testing Membership Rewards and Becoming a Daily Habit With Users",
         "Judge Clarifies That Reporter Catherine Herridge Doesn’t Have To Pay $800-Per-Day Contempt Fines As She Pursues Supreme Court Appeal",
-        "LISTEN: Fear, Loathing and Endless Potential: AI4 Conference Takes Stock of Transformative Technologies",
+        "Paramount’s U.K. Concessions Give ‘Powerful Credibility’ to State AGs’ Lawsuit, Block the Merger Coalition Says: ‘The Dangers’ in U.S. Market ‘Are Unmistakable’",
         "Trump White House Uses Spider-Man Imagery To Promote ICE Deportations"
       ],
       "watch_list": [
-        "Paramount’s U.K. Concessions Give ‘Powerful Credibility’ to State AGs’ Lawsuit, Block the Merger Coalition Says: ‘The Dangers’ in U.S. Market ‘Are Unmistakable’",
+        "LISTEN: NBCUniversal Media Group Chief Matt Strauss on Growing Peacock, Testing Membership Rewards and Becoming a Daily Habit With Users",
         "Judge Clarifies That Reporter Catherine Herridge Doesn’t Have To Pay $800-Per-Day Contempt Fines As She Pursues Supreme Court Appeal",
-        "LISTEN: Fear, Loathing and Endless Potential: AI4 Conference Takes Stock of Transformative Technologies",
+        "Paramount’s U.K. Concessions Give ‘Powerful Credibility’ to State AGs’ Lawsuit, Block the Merger Coalition Says: ‘The Dangers’ in U.S. Market ‘Are Unmistakable’",
         "Trump White House Uses Spider-Man Imagery To Promote ICE Deportations"
       ],
       "homepage_cards": [
         {
-          "id": "media-0-1638344257504922142",
-          "key": "media-0-1638344257504922142",
+          "id": "media-0-8767053137792294594",
+          "key": "media-0-8767053137792294594",
           "category": "Media",
           "label": "Media",
-          "headline": "Paramount’s U.K. Concessions Give ‘Powerful Credibility’ to State AGs’ Lawsuit, Block the Merger Coalition Says: ‘The Dangers’ in U.S. Market ‘Are Unmistakable’",
-          "title": "Paramount’s U.K. Concessions Give ‘Powerful Credibility’ to State AGs’ Lawsuit, Block the Merger Coalition Says: ‘The Dangers’ in U.S. Market ‘Are Unmistakable’",
-          "snapshot": "A coalition group campaigning against the proposed merger of Paramount Skydance and Warner Bros. Discovery has said the U.K.’s approval of the merger after obtaining “major concessions” lends “powerful credibility” to the pending legal case in the U.S. Earlier this week the U.K. confirmed the merger had received nec...",
-          "summary": "A coalition group campaigning against the proposed merger of Paramount Skydance and Warner Bros. Discovery has said the U.K.’s approval of the merger after obtaining “major concessions” lends “powerful credibility” to the pending legal case in the U.S. Earlier this week the U.K. confirmed the merger had received nec...",
-          "url": "https://variety.com/2026/biz/global/paramount-uk-concessions-block-the-merger-1236830054/",
+          "headline": "LISTEN: NBCUniversal Media Group Chief Matt Strauss on Growing Peacock, Testing Membership Rewards and Becoming a Daily Habit With Users",
+          "title": "LISTEN: NBCUniversal Media Group Chief Matt Strauss on Growing Peacock, Testing Membership Rewards and Becoming a Daily Habit With Users",
+          "snapshot": "On today’s episode of Variety‘s “Strictly Business” podcast, Matt Strauss, chairman of NBCUniversal Media Group, expands on the evolution of the Peacock streamer and his view of the “the great re-bundling” that is underway for streaming media. Strauss, who is a 22-year veteran of Comcast and NBCUniversal, unpacks th...",
+          "summary": "On today’s episode of Variety‘s “Strictly Business” podcast, Matt Strauss, chairman of NBCUniversal Media Group, expands on the evolution of the Peacock streamer and his view of the “the great re-bundling” that is underway for streaming media. Strauss, who is a 22-year veteran of Comcast and NBCUniversal, unpacks th...",
+          "url": "https://variety.com/2026/tv/news/matt-strauss-nbcuniversal-peacock-streaming-strictly-1236829718/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/biz/feed/",
-          "published_at": "2026-08-07 11:56:41 AM ET",
+          "published_at": "2026-08-07 01:49:36 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Paramount’s U.K. Concessions Give ‘Powerful Credibility’ to State AGs’ Lawsuit, Block the Merger Coalition Says: ‘The Dangers’ in U.S. Market ‘Are Unmistakable’"
+            "LISTEN: NBCUniversal Media Group Chief Matt Strauss on Growing Peacock, Testing Membership Rewards and Becoming a Daily Habit With Users"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4306,8 +4306,8 @@
           ]
         },
         {
-          "id": "media-9-7799983294614915088",
-          "key": "media-9-7799983294614915088",
+          "id": "media-10-9207784761667659634",
+          "key": "media-10-9207784761667659634",
           "category": "Media",
           "label": "Media",
           "headline": "Judge Clarifies That Reporter Catherine Herridge Doesn’t Have To Pay $800-Per-Day Contempt Fines As She Pursues Supreme Court Appeal",
@@ -4322,7 +4322,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 91,
+          "priority_score": 90,
           "key_data": [
             "Judge Clarifies That Reporter Catherine Herridge Doesn’t Have To Pay $800-Per-Day Contempt Fines As She Pursues Supreme Court Appeal"
           ],
@@ -4334,25 +4334,25 @@
           ]
         },
         {
-          "id": "media-1-6480323299098990525",
-          "key": "media-1-6480323299098990525",
+          "id": "media-1-2188659184357998229",
+          "key": "media-1-2188659184357998229",
           "category": "Media",
           "label": "Media",
-          "headline": "LISTEN: Fear, Loathing and Endless Potential: AI4 Conference Takes Stock of Transformative Technologies",
-          "title": "LISTEN: Fear, Loathing and Endless Potential: AI4 Conference Takes Stock of Transformative Technologies",
-          "snapshot": "On today’s episode of “Daily Variety” podcast, Variety’s Corbin Bolies reports from Las Vegas where he is covering the AI4 conference with a slew of top leaders and true believers. The excitement around generative AI is still as hot as the temperature in Sin City, but the polarizing effect of the technology is evide...",
-          "summary": "On today’s episode of “Daily Variety” podcast, Variety’s Corbin Bolies reports from Las Vegas where he is covering the AI4 conference with a slew of top leaders and true believers. The excitement around generative AI is still as hot as the temperature in Sin City, but the polarizing effect of the technology is evide...",
-          "url": "https://variety.com/2026/digital/news/ai4-conference-fear-loathing-daily-variety-podcast-1236829536/",
+          "headline": "Paramount’s U.K. Concessions Give ‘Powerful Credibility’ to State AGs’ Lawsuit, Block the Merger Coalition Says: ‘The Dangers’ in U.S. Market ‘Are Unmistakable’",
+          "title": "Paramount’s U.K. Concessions Give ‘Powerful Credibility’ to State AGs’ Lawsuit, Block the Merger Coalition Says: ‘The Dangers’ in U.S. Market ‘Are Unmistakable’",
+          "snapshot": "A coalition group campaigning against the proposed merger of Paramount Skydance and Warner Bros. Discovery has said the U.K.’s approval of the merger after obtaining “major concessions” lends “powerful credibility” to the pending legal case in the U.S. Earlier this week the U.K. confirmed the merger had received nec...",
+          "summary": "A coalition group campaigning against the proposed merger of Paramount Skydance and Warner Bros. Discovery has said the U.K.’s approval of the merger after obtaining “major concessions” lends “powerful credibility” to the pending legal case in the U.S. Earlier this week the U.K. confirmed the merger had received nec...",
+          "url": "https://variety.com/2026/biz/global/paramount-uk-concessions-block-the-merger-1236830054/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/biz/feed/",
-          "published_at": "2026-08-06 07:18:35 PM ET",
+          "published_at": "2026-08-07 11:56:41 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "LISTEN: Fear, Loathing and Endless Potential: AI4 Conference Takes Stock of Transformative Technologies"
+            "Paramount’s U.K. Concessions Give ‘Powerful Credibility’ to State AGs’ Lawsuit, Block the Merger Coalition Says: ‘The Dangers’ in U.S. Market ‘Are Unmistakable’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4362,8 +4362,8 @@
           ]
         },
         {
-          "id": "media-10-6464749373880345932",
-          "key": "media-10-6464749373880345932",
+          "id": "media-11-387422382764061403",
+          "key": "media-11-387422382764061403",
           "category": "Media",
           "label": "Media",
           "headline": "Trump White House Uses Spider-Man Imagery To Promote ICE Deportations",
@@ -4378,7 +4378,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 90,
+          "priority_score": 89,
           "key_data": [
             "Trump White House Uses Spider-Man Imagery To Promote ICE Deportations"
           ],
@@ -4392,25 +4392,25 @@
       ],
       "items": [
         {
-          "id": "media-0-1638344257504922142",
-          "key": "media-0-1638344257504922142",
+          "id": "media-0-8767053137792294594",
+          "key": "media-0-8767053137792294594",
           "category": "Media",
           "label": "Media",
-          "headline": "Paramount’s U.K. Concessions Give ‘Powerful Credibility’ to State AGs’ Lawsuit, Block the Merger Coalition Says: ‘The Dangers’ in U.S. Market ‘Are Unmistakable’",
-          "title": "Paramount’s U.K. Concessions Give ‘Powerful Credibility’ to State AGs’ Lawsuit, Block the Merger Coalition Says: ‘The Dangers’ in U.S. Market ‘Are Unmistakable’",
-          "snapshot": "A coalition group campaigning against the proposed merger of Paramount Skydance and Warner Bros. Discovery has said the U.K.’s approval of the merger after obtaining “major concessions” lends “powerful credibility” to the pending legal case in the U.S. Earlier this week the U.K. confirmed the merger had received nec...",
-          "summary": "A coalition group campaigning against the proposed merger of Paramount Skydance and Warner Bros. Discovery has said the U.K.’s approval of the merger after obtaining “major concessions” lends “powerful credibility” to the pending legal case in the U.S. Earlier this week the U.K. confirmed the merger had received nec...",
-          "url": "https://variety.com/2026/biz/global/paramount-uk-concessions-block-the-merger-1236830054/",
+          "headline": "LISTEN: NBCUniversal Media Group Chief Matt Strauss on Growing Peacock, Testing Membership Rewards and Becoming a Daily Habit With Users",
+          "title": "LISTEN: NBCUniversal Media Group Chief Matt Strauss on Growing Peacock, Testing Membership Rewards and Becoming a Daily Habit With Users",
+          "snapshot": "On today’s episode of Variety‘s “Strictly Business” podcast, Matt Strauss, chairman of NBCUniversal Media Group, expands on the evolution of the Peacock streamer and his view of the “the great re-bundling” that is underway for streaming media. Strauss, who is a 22-year veteran of Comcast and NBCUniversal, unpacks th...",
+          "summary": "On today’s episode of Variety‘s “Strictly Business” podcast, Matt Strauss, chairman of NBCUniversal Media Group, expands on the evolution of the Peacock streamer and his view of the “the great re-bundling” that is underway for streaming media. Strauss, who is a 22-year veteran of Comcast and NBCUniversal, unpacks th...",
+          "url": "https://variety.com/2026/tv/news/matt-strauss-nbcuniversal-peacock-streaming-strictly-1236829718/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/biz/feed/",
-          "published_at": "2026-08-07 11:56:41 AM ET",
+          "published_at": "2026-08-07 01:49:36 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Paramount’s U.K. Concessions Give ‘Powerful Credibility’ to State AGs’ Lawsuit, Block the Merger Coalition Says: ‘The Dangers’ in U.S. Market ‘Are Unmistakable’"
+            "LISTEN: NBCUniversal Media Group Chief Matt Strauss on Growing Peacock, Testing Membership Rewards and Becoming a Daily Habit With Users"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4420,8 +4420,8 @@
           ]
         },
         {
-          "id": "media-9-7799983294614915088",
-          "key": "media-9-7799983294614915088",
+          "id": "media-10-9207784761667659634",
+          "key": "media-10-9207784761667659634",
           "category": "Media",
           "label": "Media",
           "headline": "Judge Clarifies That Reporter Catherine Herridge Doesn’t Have To Pay $800-Per-Day Contempt Fines As She Pursues Supreme Court Appeal",
@@ -4436,7 +4436,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 91,
+          "priority_score": 90,
           "key_data": [
             "Judge Clarifies That Reporter Catherine Herridge Doesn’t Have To Pay $800-Per-Day Contempt Fines As She Pursues Supreme Court Appeal"
           ],
@@ -4448,25 +4448,25 @@
           ]
         },
         {
-          "id": "media-1-6480323299098990525",
-          "key": "media-1-6480323299098990525",
+          "id": "media-1-2188659184357998229",
+          "key": "media-1-2188659184357998229",
           "category": "Media",
           "label": "Media",
-          "headline": "LISTEN: Fear, Loathing and Endless Potential: AI4 Conference Takes Stock of Transformative Technologies",
-          "title": "LISTEN: Fear, Loathing and Endless Potential: AI4 Conference Takes Stock of Transformative Technologies",
-          "snapshot": "On today’s episode of “Daily Variety” podcast, Variety’s Corbin Bolies reports from Las Vegas where he is covering the AI4 conference with a slew of top leaders and true believers. The excitement around generative AI is still as hot as the temperature in Sin City, but the polarizing effect of the technology is evide...",
-          "summary": "On today’s episode of “Daily Variety” podcast, Variety’s Corbin Bolies reports from Las Vegas where he is covering the AI4 conference with a slew of top leaders and true believers. The excitement around generative AI is still as hot as the temperature in Sin City, but the polarizing effect of the technology is evide...",
-          "url": "https://variety.com/2026/digital/news/ai4-conference-fear-loathing-daily-variety-podcast-1236829536/",
+          "headline": "Paramount’s U.K. Concessions Give ‘Powerful Credibility’ to State AGs’ Lawsuit, Block the Merger Coalition Says: ‘The Dangers’ in U.S. Market ‘Are Unmistakable’",
+          "title": "Paramount’s U.K. Concessions Give ‘Powerful Credibility’ to State AGs’ Lawsuit, Block the Merger Coalition Says: ‘The Dangers’ in U.S. Market ‘Are Unmistakable’",
+          "snapshot": "A coalition group campaigning against the proposed merger of Paramount Skydance and Warner Bros. Discovery has said the U.K.’s approval of the merger after obtaining “major concessions” lends “powerful credibility” to the pending legal case in the U.S. Earlier this week the U.K. confirmed the merger had received nec...",
+          "summary": "A coalition group campaigning against the proposed merger of Paramount Skydance and Warner Bros. Discovery has said the U.K.’s approval of the merger after obtaining “major concessions” lends “powerful credibility” to the pending legal case in the U.S. Earlier this week the U.K. confirmed the merger had received nec...",
+          "url": "https://variety.com/2026/biz/global/paramount-uk-concessions-block-the-merger-1236830054/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/biz/feed/",
-          "published_at": "2026-08-06 07:18:35 PM ET",
+          "published_at": "2026-08-07 11:56:41 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "LISTEN: Fear, Loathing and Endless Potential: AI4 Conference Takes Stock of Transformative Technologies"
+            "Paramount’s U.K. Concessions Give ‘Powerful Credibility’ to State AGs’ Lawsuit, Block the Merger Coalition Says: ‘The Dangers’ in U.S. Market ‘Are Unmistakable’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4476,8 +4476,8 @@
           ]
         },
         {
-          "id": "media-10-6464749373880345932",
-          "key": "media-10-6464749373880345932",
+          "id": "media-11-387422382764061403",
+          "key": "media-11-387422382764061403",
           "category": "Media",
           "label": "Media",
           "headline": "Trump White House Uses Spider-Man Imagery To Promote ICE Deportations",
@@ -4492,7 +4492,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 90,
+          "priority_score": 89,
           "key_data": [
             "Trump White House Uses Spider-Man Imagery To Promote ICE Deportations"
           ],
@@ -4504,7 +4504,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-08 06:30:05 PM ET"
+      "updated_at": "2026-08-08 07:29:32 PM ET"
     }
   ]
 }
