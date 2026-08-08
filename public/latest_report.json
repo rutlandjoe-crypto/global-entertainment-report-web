@@ -4,16 +4,16 @@
   "site_name": "Global Entertainment Report",
   "vertical": "Entertainment",
   "headline": "'The Last House' Ending Breakdown: Why Is the Family Trapped Inside Their Home?",
-  "snapshot": "Global Entertainment Report accepted 45 real RSS item(s) across 31 checked feed request(s).",
-  "generated_at": "2026-08-08 12:57:27 AM ET",
-  "updated_at": "2026-08-08 12:57:27 AM ET",
-  "published_at": "2026-08-08 12:57:27 AM ET",
+  "snapshot": "Global Entertainment Report accepted 44 real RSS item(s) across 31 checked feed request(s).",
+  "generated_at": "2026-08-08 01:47:31 AM ET",
+  "updated_at": "2026-08-08 01:47:31 AM ET",
+  "published_at": "2026-08-08 01:47:31 AM ET",
   "source_mode": "live RSS ingestion",
   "freshness": {
     "max_item_age_hours": 336,
-    "accepted_real_items": 45,
+    "accepted_real_items": 44,
     "checked_feeds": 31,
-    "feeds_without_accepted_items": 7
+    "feeds_without_accepted_items": 8
   },
   "feed_audit": [
     {
@@ -53,9 +53,9 @@
       "final_url": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 82,
+      "rejected_count": 81,
       "rejection_reasons": {
-        "stale-over-336h": 82
+        "stale-over-336h": 81
       }
     },
     {
@@ -180,9 +180,8 @@
       "final_url": "https://variety.com/v/awards/feed/",
       "item_count": 10,
       "accepted_count": 2,
-      "rejected_count": 6,
+      "rejected_count": 5,
       "rejection_reasons": {
-        "duplicate-story": 1,
         "stale-over-336h": 5
       }
     },
@@ -237,9 +236,9 @@
       "final_url": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 50,
+      "rejected_count": 51,
       "rejection_reasons": {
-        "stale-over-336h": 49,
+        "stale-over-336h": 50,
         "duplicate-story": 1
       }
     },
@@ -298,9 +297,9 @@
       "final_url": "https://www.hollywoodreporter.com/feed/",
       "item_count": 10,
       "accepted_count": 2,
-      "rejected_count": 6,
+      "rejected_count": 7,
       "rejection_reasons": {
-        "duplicate-story": 6
+        "duplicate-story": 7
       }
     },
     {
@@ -367,10 +366,10 @@
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=media+entertainment+industry+news&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
-      "accepted_count": 1,
-      "rejected_count": 99,
+      "accepted_count": 0,
+      "rejected_count": 100,
       "rejection_reasons": {
-        "stale-over-336h": 99
+        "stale-over-336h": 100
       }
     }
   ],
@@ -380,7 +379,7 @@
   "key_storylines": [
     "'The Last House' Ending Breakdown: Why Is the Family Trapped Inside Their Home?",
     "Jason Clarke Joins Action-Thriller 'Supermax' From Amazon MGM & Miramax",
-    "Dwayne Johnson Addresses 'Moana' Mixed Reviews After Film Underperformed at Box Office",
+    "Filmmaker Elham Ehsas Wants You to Know Afghanistan Sent a Man to Space in 1988",
     "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire",
     "Angélique Kidjo to Become First African Musician to Receive a Star on Hollywood Walk of Fame",
     "Marvel Tokon Stumbles to Mixed Steam Reviews as 'Miserable' PC Port Complaints Prompt Response From Arc System Works",
@@ -389,8 +388,8 @@
   ],
   "live_newsroom": [
     {
-      "id": "film-0-6593049991051779092",
-      "key": "film-0-6593049991051779092",
+      "id": "film-0-8690763503986278437",
+      "key": "film-0-8690763503986278437",
       "category": "Film",
       "label": "Film",
       "headline": "'The Last House' Ending Breakdown: Why Is the Family Trapped Inside Their Home?",
@@ -416,8 +415,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-1409710626914775764",
-      "key": "film-10-1409710626914775764",
+      "id": "film-10-1981092210670740542",
+      "key": "film-10-1981092210670740542",
       "category": "Film",
       "label": "Film",
       "headline": "Jason Clarke Joins Action-Thriller 'Supermax' From Amazon MGM & Miramax",
@@ -443,22 +442,22 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-5066654062725999760",
-      "key": "film-22-5066654062725999760",
+      "id": "film-22-9183741153521665631",
+      "key": "film-22-9183741153521665631",
       "category": "Film",
       "label": "Film",
-      "headline": "Dwayne Johnson Addresses 'Moana' Mixed Reviews After Film Underperformed at Box Office",
-      "title": "Dwayne Johnson Addresses 'Moana' Mixed Reviews After Film Underperformed at Box Office",
-      "snapshot": "\"If you love it, great. If you don't, no problem,\" the actor said in a recent interview.",
-      "summary": "\"If you love it, great. If you don't, no problem,\" the actor said in a recent interview.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/dwayne-johnson-moana-mixed-reviews-film-underperformed-1236669273/",
+      "headline": "Filmmaker Elham Ehsas Wants You to Know Afghanistan Sent a Man to Space in 1988",
+      "title": "Filmmaker Elham Ehsas Wants You to Know Afghanistan Sent a Man to Space in 1988",
+      "snapshot": "Ahead of the Locarno premiere of 'Forgotten Spaceman,' the London-based actor-director discusses his accidental documentary, a startling family connection and Afghanistan's \"buried\" history of achievement.",
+      "summary": "Ahead of the Locarno premiere of 'Forgotten Spaceman,' the London-based actor-director discusses his accidental documentary, a startling family connection and Afghanistan's \"buried\" history of achievement.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/forgotten-spaceman-locarno-film-about-afghanistan-cosmonaut-1236663264/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-07 10:38:23 PM ET",
+      "published_at": "2026-08-08 01:00:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Dwayne Johnson Addresses 'Moana' Mixed Reviews After Film Underperformed at Box Office"
+        "Filmmaker Elham Ehsas Wants You to Know Afghanistan Sent a Man to Space in 1988"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -470,8 +469,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-7358979833783759790",
-      "key": "film-32-7358979833783759790",
+      "id": "film-32-4458572012760244332",
+      "key": "film-32-4458572012760244332",
       "category": "Film",
       "label": "Film",
       "headline": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire",
@@ -497,8 +496,8 @@
       "priority_score": 68
     },
     {
-      "id": "music-9-5622151902953049673",
-      "key": "music-9-5622151902953049673",
+      "id": "music-9-5586711161464295958",
+      "key": "music-9-5586711161464295958",
       "category": "Music",
       "label": "Music",
       "headline": "Angélique Kidjo to Become First African Musician to Receive a Star on Hollywood Walk of Fame",
@@ -524,8 +523,8 @@
       "priority_score": 91
     },
     {
-      "id": "gaming-0-4619002315900788325",
-      "key": "gaming-0-4619002315900788325",
+      "id": "gaming-0-4078043214976571755",
+      "key": "gaming-0-4078043214976571755",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Marvel Tokon Stumbles to Mixed Steam Reviews as 'Miserable' PC Port Complaints Prompt Response From Arc System Works",
@@ -551,8 +550,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-2894767157255048257",
-      "key": "film-1-2894767157255048257",
+      "id": "film-1-4079054028562295877",
+      "key": "film-1-4079054028562295877",
       "category": "Film",
       "label": "Film",
       "headline": "'One Night Only' Director Will Gluck Cut Out 'So Much Nudity' Because People Dislike Sex on Screen: 'It Takes You Out of the Movie'",
@@ -578,8 +577,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-6373199313942847297",
-      "key": "film-11-6373199313942847297",
+      "id": "film-11-1558107468046615684",
+      "key": "film-11-1558107468046615684",
       "category": "Film",
       "label": "Film",
       "headline": "Bella Thorne Says 'Spring Breakers 2' Producers Tapped Her To Write, Direct & Star In Sequel After Seeing Directorial Debut",
@@ -605,22 +604,22 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-5755867393675887092",
-      "key": "film-23-5755867393675887092",
+      "id": "film-23-2242941317937671033",
+      "key": "film-23-2242941317937671033",
       "category": "Film",
       "label": "Film",
-      "headline": "A Man Is Trapped Inside a Netflix Billboard Above Sunset Boulevard",
-      "title": "A Man Is Trapped Inside a Netflix Billboard Above Sunset Boulevard",
-      "snapshot": "A marketing stunt for 'The Last House' has a performer trapped above Sunset Boulevard across three days.",
-      "summary": "A marketing stunt for 'The Last House' has a performer trapped above Sunset Boulevard across three days.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/netflix-man-inside-billboard-last-house-1236669147/",
+      "headline": "Dwayne Johnson Addresses 'Moana' Mixed Reviews After Film Underperformed at Box Office",
+      "title": "Dwayne Johnson Addresses 'Moana' Mixed Reviews After Film Underperformed at Box Office",
+      "snapshot": "\"If you love it, great. If you don't, no problem,\" the actor said in a recent interview.",
+      "summary": "\"If you love it, great. If you don't, no problem,\" the actor said in a recent interview.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/dwayne-johnson-moana-mixed-reviews-film-underperformed-1236669273/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-07 05:09:16 PM ET",
+      "published_at": "2026-08-07 10:38:23 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "A Man Is Trapped Inside a Netflix Billboard Above Sunset Boulevard"
+        "Dwayne Johnson Addresses 'Moana' Mixed Reviews After Film Underperformed at Box Office"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -632,8 +631,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-134515116939982861",
-      "key": "film-33-134515116939982861",
+      "id": "film-33-6366313295786239705",
+      "key": "film-33-6366313295786239705",
       "category": "Film",
       "label": "Film",
       "headline": "What's new to streaming this week? (Aug. 7, 2026) - Mashable",
@@ -659,8 +658,8 @@
       "priority_score": 67
     },
     {
-      "id": "music-10-3884281938385438779",
-      "key": "music-10-3884281938385438779",
+      "id": "music-10-6960446464878351634",
+      "key": "music-10-6960446464878351634",
       "category": "Music",
       "label": "Music",
       "headline": "Megan Thee Stallion Must Face Trial in Cameraman's Lawsuit Over Alleged Car-Sex Incident: Judge",
@@ -686,8 +685,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-1-4150232953650219289",
-      "key": "gaming-1-4150232953650219289",
+      "id": "gaming-1-5755630786702066303",
+      "key": "gaming-1-5755630786702066303",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Newly Discovered Demon's Souls Prototype Footage Shows Scrapped First-Person Option",
@@ -715,8 +714,8 @@
   ],
   "editor_signals": [
     {
-      "id": "film-2-8732089930518989721",
-      "key": "film-2-8732089930518989721",
+      "id": "film-2-3030371758412701251",
+      "key": "film-2-3030371758412701251",
       "category": "Film",
       "label": "Film",
       "headline": "Dwayne Johnson Defends 'Moana' After Bad Reviews: 'Just the Way It Goes'",
@@ -742,8 +741,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-4882209787745905813",
-      "key": "film-12-4882209787745905813",
+      "id": "film-12-5975757266510147958",
+      "key": "film-12-5975757266510147958",
       "category": "Film",
       "label": "Film",
       "headline": "Book-To-Movie Adaptations Coming Out In 2026",
@@ -769,22 +768,22 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-3491342839042415130",
-      "key": "film-24-3491342839042415130",
+      "id": "film-24-7535526850862177106",
+      "key": "film-24-7535526850862177106",
       "category": "Film",
       "label": "Film",
-      "headline": "Virginie Efira's Love for Cinema and Locarno Has No Limits - Even If Her Mic Does",
-      "title": "Virginie Efira's Love for Cinema and Locarno Has No Limits - Even If Her Mic Does",
-      "snapshot": "The Belgian-born actress, who pulled double duty in the Cannes competition program this year with 'All of a Sudden' and 'Parallel Tales,' received the Leopard Club Award at the Swiss festival.",
-      "summary": "The Belgian-born actress, who pulled double duty in the Cannes competition program this year with 'All of a Sudden' and 'Parallel Tales,' received the Leopard Club Award at the Swiss festival.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/virginie-efira-locarno-leopard-club-award-cinema-microphone-1236668765/",
+      "headline": "A Man Is Trapped Inside a Netflix Billboard Above Sunset Boulevard",
+      "title": "A Man Is Trapped Inside a Netflix Billboard Above Sunset Boulevard",
+      "snapshot": "A marketing stunt for 'The Last House' has a performer trapped above Sunset Boulevard across three days.",
+      "summary": "A marketing stunt for 'The Last House' has a performer trapped above Sunset Boulevard across three days.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/netflix-man-inside-billboard-last-house-1236669147/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-07 05:02:31 PM ET",
+      "published_at": "2026-08-07 05:09:16 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Virginie Efira's Love for Cinema and Locarno Has No Limits - Even If Her Mic Does"
+        "A Man Is Trapped Inside a Netflix Billboard Above Sunset Boulevard"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -796,8 +795,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-3739073021454569297",
-      "key": "film-34-3739073021454569297",
+      "id": "film-34-7333310464837458752",
+      "key": "film-34-7333310464837458752",
       "category": "Film",
       "label": "Film",
       "headline": "Your guide to 2026 movie release dates - Entertainment Weekly",
@@ -823,8 +822,8 @@
       "priority_score": 66
     },
     {
-      "id": "music-11-5615868696527133383",
-      "key": "music-11-5615868696527133383",
+      "id": "music-11-2632234120728893871",
+      "key": "music-11-2632234120728893871",
       "category": "Music",
       "label": "Music",
       "headline": "This Weighted Derpy Pillow Mimics a Hug From the 'KPop Demon Hunters' Tiger to Help You Gently Fall Asleep",
@@ -850,8 +849,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-2-1050445567925116848",
-      "key": "gaming-2-1050445567925116848",
+      "id": "gaming-2-1227673005291614852",
+      "key": "gaming-2-1227673005291614852",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Madden NFL 27 Review So Far",
@@ -877,8 +876,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-5547327386258727881",
-      "key": "film-3-5547327386258727881",
+      "id": "film-3-2804826736684258638",
+      "key": "film-3-2804826736684258638",
       "category": "Film",
       "label": "Film",
       "headline": "'I Is Another' Review: An Impeccable Claes Bang Plays Felix Kersten, Massage Therapist to Heinrich Himmler and Would-Be Nobel Laureate",
@@ -904,8 +903,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-3983801060862519431",
-      "key": "film-13-3983801060862519431",
+      "id": "film-13-3239329411352791003",
+      "key": "film-13-3239329411352791003",
       "category": "Film",
       "label": "Film",
       "headline": "Sadie Sink Gives 'X-Men' Filming Update, Says She's Being Kept \"Separate\" From Cyclops Casting",
@@ -931,22 +930,22 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-7612355841598447302",
-      "key": "film-25-7612355841598447302",
+      "id": "film-25-6381974065378892899",
+      "key": "film-25-6381974065378892899",
       "category": "Film",
       "label": "Film",
-      "headline": "Kirill Sokolov, Director of 'They Will Kill You,' Tackling Sci-Fi Action Movie 'Blur' for Netflix (Exclusive)",
-      "title": "Kirill Sokolov, Director of 'They Will Kill You,' Tackling Sci-Fi Action Movie 'Blur' for Netflix (Exclusive)",
-      "snapshot": "Shawn Levy's 21 Laps will produce the feature.",
-      "summary": "Shawn Levy's 21 Laps will produce the feature.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/they-will-kill-you-sci-fi-action-movie-blur-netflix-1236660987/",
+      "headline": "Virginie Efira's Love for Cinema and Locarno Has No Limits - Even If Her Mic Does",
+      "title": "Virginie Efira's Love for Cinema and Locarno Has No Limits - Even If Her Mic Does",
+      "snapshot": "The Belgian-born actress, who pulled double duty in the Cannes competition program this year with 'All of a Sudden' and 'Parallel Tales,' received the Leopard Club Award at the Swiss festival.",
+      "summary": "The Belgian-born actress, who pulled double duty in the Cannes competition program this year with 'All of a Sudden' and 'Parallel Tales,' received the Leopard Club Award at the Swiss festival.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/virginie-efira-locarno-leopard-club-award-cinema-microphone-1236668765/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-07 04:49:49 PM ET",
+      "published_at": "2026-08-07 05:02:31 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Kirill Sokolov, Director of 'They Will Kill You,' Tackling Sci-Fi Action Movie 'Blur' for Netflix (Exclusive)"
+        "Virginie Efira's Love for Cinema and Locarno Has No Limits - Even If Her Mic Does"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -958,8 +957,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-6600847924720951982",
-      "key": "film-35-6600847924720951982",
+      "id": "film-35-3085234291545747472",
+      "key": "film-35-3085234291545747472",
       "category": "Film",
       "label": "Film",
       "headline": "Everything to know about 'Madden,' a new movie coming to Prime Video November 18 - About Amazon",
@@ -985,8 +984,8 @@
       "priority_score": 65
     },
     {
-      "id": "music-12-1986486147966087777",
-      "key": "music-12-1986486147966087777",
+      "id": "music-12-5473303926505474105",
+      "key": "music-12-5473303926505474105",
       "category": "Music",
       "label": "Music",
       "headline": "In Canada: Osheaga Festival Draws Near-Record Attendance With Tate McRae, Stella Lefty & More",
@@ -1012,8 +1011,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-3-5785976916689540020",
-      "key": "gaming-3-5785976916689540020",
+      "id": "gaming-3-6287638616964151868",
+      "key": "gaming-3-6287638616964151868",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Palworld 1.0 Showed Me Why Everyone Loves Survival Games",
@@ -1041,8 +1040,8 @@
   ],
   "homepage_cards": [
     {
-      "id": "film-0-6593049991051779092",
-      "key": "film-0-6593049991051779092",
+      "id": "film-0-8690763503986278437",
+      "key": "film-0-8690763503986278437",
       "category": "Film",
       "label": "Film",
       "headline": "'The Last House' Ending Breakdown: Why Is the Family Trapped Inside Their Home?",
@@ -1068,8 +1067,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-1409710626914775764",
-      "key": "film-10-1409710626914775764",
+      "id": "film-10-1981092210670740542",
+      "key": "film-10-1981092210670740542",
       "category": "Film",
       "label": "Film",
       "headline": "Jason Clarke Joins Action-Thriller 'Supermax' From Amazon MGM & Miramax",
@@ -1095,22 +1094,22 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-5066654062725999760",
-      "key": "film-22-5066654062725999760",
+      "id": "film-22-9183741153521665631",
+      "key": "film-22-9183741153521665631",
       "category": "Film",
       "label": "Film",
-      "headline": "Dwayne Johnson Addresses 'Moana' Mixed Reviews After Film Underperformed at Box Office",
-      "title": "Dwayne Johnson Addresses 'Moana' Mixed Reviews After Film Underperformed at Box Office",
-      "snapshot": "\"If you love it, great. If you don't, no problem,\" the actor said in a recent interview.",
-      "summary": "\"If you love it, great. If you don't, no problem,\" the actor said in a recent interview.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/dwayne-johnson-moana-mixed-reviews-film-underperformed-1236669273/",
+      "headline": "Filmmaker Elham Ehsas Wants You to Know Afghanistan Sent a Man to Space in 1988",
+      "title": "Filmmaker Elham Ehsas Wants You to Know Afghanistan Sent a Man to Space in 1988",
+      "snapshot": "Ahead of the Locarno premiere of 'Forgotten Spaceman,' the London-based actor-director discusses his accidental documentary, a startling family connection and Afghanistan's \"buried\" history of achievement.",
+      "summary": "Ahead of the Locarno premiere of 'Forgotten Spaceman,' the London-based actor-director discusses his accidental documentary, a startling family connection and Afghanistan's \"buried\" history of achievement.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/forgotten-spaceman-locarno-film-about-afghanistan-cosmonaut-1236663264/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-07 10:38:23 PM ET",
+      "published_at": "2026-08-08 01:00:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Dwayne Johnson Addresses 'Moana' Mixed Reviews After Film Underperformed at Box Office"
+        "Filmmaker Elham Ehsas Wants You to Know Afghanistan Sent a Man to Space in 1988"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1122,8 +1121,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-7358979833783759790",
-      "key": "film-32-7358979833783759790",
+      "id": "film-32-4458572012760244332",
+      "key": "film-32-4458572012760244332",
       "category": "Film",
       "label": "Film",
       "headline": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire",
@@ -1149,8 +1148,8 @@
       "priority_score": 68
     },
     {
-      "id": "music-9-5622151902953049673",
-      "key": "music-9-5622151902953049673",
+      "id": "music-9-5586711161464295958",
+      "key": "music-9-5586711161464295958",
       "category": "Music",
       "label": "Music",
       "headline": "Angélique Kidjo to Become First African Musician to Receive a Star on Hollywood Walk of Fame",
@@ -1176,8 +1175,8 @@
       "priority_score": 91
     },
     {
-      "id": "gaming-0-4619002315900788325",
-      "key": "gaming-0-4619002315900788325",
+      "id": "gaming-0-4078043214976571755",
+      "key": "gaming-0-4078043214976571755",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Marvel Tokon Stumbles to Mixed Steam Reviews as 'Miserable' PC Port Complaints Prompt Response From Arc System Works",
@@ -1203,8 +1202,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-2894767157255048257",
-      "key": "film-1-2894767157255048257",
+      "id": "film-1-4079054028562295877",
+      "key": "film-1-4079054028562295877",
       "category": "Film",
       "label": "Film",
       "headline": "'One Night Only' Director Will Gluck Cut Out 'So Much Nudity' Because People Dislike Sex on Screen: 'It Takes You Out of the Movie'",
@@ -1230,8 +1229,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-6373199313942847297",
-      "key": "film-11-6373199313942847297",
+      "id": "film-11-1558107468046615684",
+      "key": "film-11-1558107468046615684",
       "category": "Film",
       "label": "Film",
       "headline": "Bella Thorne Says 'Spring Breakers 2' Producers Tapped Her To Write, Direct & Star In Sequel After Seeing Directorial Debut",
@@ -1257,22 +1256,22 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-5755867393675887092",
-      "key": "film-23-5755867393675887092",
+      "id": "film-23-2242941317937671033",
+      "key": "film-23-2242941317937671033",
       "category": "Film",
       "label": "Film",
-      "headline": "A Man Is Trapped Inside a Netflix Billboard Above Sunset Boulevard",
-      "title": "A Man Is Trapped Inside a Netflix Billboard Above Sunset Boulevard",
-      "snapshot": "A marketing stunt for 'The Last House' has a performer trapped above Sunset Boulevard across three days.",
-      "summary": "A marketing stunt for 'The Last House' has a performer trapped above Sunset Boulevard across three days.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/netflix-man-inside-billboard-last-house-1236669147/",
+      "headline": "Dwayne Johnson Addresses 'Moana' Mixed Reviews After Film Underperformed at Box Office",
+      "title": "Dwayne Johnson Addresses 'Moana' Mixed Reviews After Film Underperformed at Box Office",
+      "snapshot": "\"If you love it, great. If you don't, no problem,\" the actor said in a recent interview.",
+      "summary": "\"If you love it, great. If you don't, no problem,\" the actor said in a recent interview.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/dwayne-johnson-moana-mixed-reviews-film-underperformed-1236669273/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-07 05:09:16 PM ET",
+      "published_at": "2026-08-07 10:38:23 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "A Man Is Trapped Inside a Netflix Billboard Above Sunset Boulevard"
+        "Dwayne Johnson Addresses 'Moana' Mixed Reviews After Film Underperformed at Box Office"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1284,8 +1283,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-134515116939982861",
-      "key": "film-33-134515116939982861",
+      "id": "film-33-6366313295786239705",
+      "key": "film-33-6366313295786239705",
       "category": "Film",
       "label": "Film",
       "headline": "What's new to streaming this week? (Aug. 7, 2026) - Mashable",
@@ -1311,8 +1310,8 @@
       "priority_score": 67
     },
     {
-      "id": "music-10-3884281938385438779",
-      "key": "music-10-3884281938385438779",
+      "id": "music-10-6960446464878351634",
+      "key": "music-10-6960446464878351634",
       "category": "Music",
       "label": "Music",
       "headline": "Megan Thee Stallion Must Face Trial in Cameraman's Lawsuit Over Alleged Car-Sex Incident: Judge",
@@ -1338,8 +1337,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-1-4150232953650219289",
-      "key": "gaming-1-4150232953650219289",
+      "id": "gaming-1-5755630786702066303",
+      "key": "gaming-1-5755630786702066303",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Newly Discovered Demon's Souls Prototype Footage Shows Scrapped First-Person Option",
@@ -1365,8 +1364,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-2-8732089930518989721",
-      "key": "film-2-8732089930518989721",
+      "id": "film-2-3030371758412701251",
+      "key": "film-2-3030371758412701251",
       "category": "Film",
       "label": "Film",
       "headline": "Dwayne Johnson Defends 'Moana' After Bad Reviews: 'Just the Way It Goes'",
@@ -1392,8 +1391,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-4882209787745905813",
-      "key": "film-12-4882209787745905813",
+      "id": "film-12-5975757266510147958",
+      "key": "film-12-5975757266510147958",
       "category": "Film",
       "label": "Film",
       "headline": "Book-To-Movie Adaptations Coming Out In 2026",
@@ -1419,22 +1418,22 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-3491342839042415130",
-      "key": "film-24-3491342839042415130",
+      "id": "film-24-7535526850862177106",
+      "key": "film-24-7535526850862177106",
       "category": "Film",
       "label": "Film",
-      "headline": "Virginie Efira's Love for Cinema and Locarno Has No Limits - Even If Her Mic Does",
-      "title": "Virginie Efira's Love for Cinema and Locarno Has No Limits - Even If Her Mic Does",
-      "snapshot": "The Belgian-born actress, who pulled double duty in the Cannes competition program this year with 'All of a Sudden' and 'Parallel Tales,' received the Leopard Club Award at the Swiss festival.",
-      "summary": "The Belgian-born actress, who pulled double duty in the Cannes competition program this year with 'All of a Sudden' and 'Parallel Tales,' received the Leopard Club Award at the Swiss festival.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/virginie-efira-locarno-leopard-club-award-cinema-microphone-1236668765/",
+      "headline": "A Man Is Trapped Inside a Netflix Billboard Above Sunset Boulevard",
+      "title": "A Man Is Trapped Inside a Netflix Billboard Above Sunset Boulevard",
+      "snapshot": "A marketing stunt for 'The Last House' has a performer trapped above Sunset Boulevard across three days.",
+      "summary": "A marketing stunt for 'The Last House' has a performer trapped above Sunset Boulevard across three days.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/netflix-man-inside-billboard-last-house-1236669147/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-07 05:02:31 PM ET",
+      "published_at": "2026-08-07 05:09:16 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Virginie Efira's Love for Cinema and Locarno Has No Limits - Even If Her Mic Does"
+        "A Man Is Trapped Inside a Netflix Billboard Above Sunset Boulevard"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1446,8 +1445,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-3739073021454569297",
-      "key": "film-34-3739073021454569297",
+      "id": "film-34-7333310464837458752",
+      "key": "film-34-7333310464837458752",
       "category": "Film",
       "label": "Film",
       "headline": "Your guide to 2026 movie release dates - Entertainment Weekly",
@@ -1473,8 +1472,8 @@
       "priority_score": 66
     },
     {
-      "id": "music-11-5615868696527133383",
-      "key": "music-11-5615868696527133383",
+      "id": "music-11-2632234120728893871",
+      "key": "music-11-2632234120728893871",
       "category": "Music",
       "label": "Music",
       "headline": "This Weighted Derpy Pillow Mimics a Hug From the 'KPop Demon Hunters' Tiger to Help You Gently Fall Asleep",
@@ -1500,8 +1499,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-2-1050445567925116848",
-      "key": "gaming-2-1050445567925116848",
+      "id": "gaming-2-1227673005291614852",
+      "key": "gaming-2-1227673005291614852",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Madden NFL 27 Review So Far",
@@ -1527,8 +1526,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-5547327386258727881",
-      "key": "film-3-5547327386258727881",
+      "id": "film-3-2804826736684258638",
+      "key": "film-3-2804826736684258638",
       "category": "Film",
       "label": "Film",
       "headline": "'I Is Another' Review: An Impeccable Claes Bang Plays Felix Kersten, Massage Therapist to Heinrich Himmler and Would-Be Nobel Laureate",
@@ -1554,8 +1553,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-3983801060862519431",
-      "key": "film-13-3983801060862519431",
+      "id": "film-13-3239329411352791003",
+      "key": "film-13-3239329411352791003",
       "category": "Film",
       "label": "Film",
       "headline": "Sadie Sink Gives 'X-Men' Filming Update, Says She's Being Kept \"Separate\" From Cyclops Casting",
@@ -1581,22 +1580,22 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-7612355841598447302",
-      "key": "film-25-7612355841598447302",
+      "id": "film-25-6381974065378892899",
+      "key": "film-25-6381974065378892899",
       "category": "Film",
       "label": "Film",
-      "headline": "Kirill Sokolov, Director of 'They Will Kill You,' Tackling Sci-Fi Action Movie 'Blur' for Netflix (Exclusive)",
-      "title": "Kirill Sokolov, Director of 'They Will Kill You,' Tackling Sci-Fi Action Movie 'Blur' for Netflix (Exclusive)",
-      "snapshot": "Shawn Levy's 21 Laps will produce the feature.",
-      "summary": "Shawn Levy's 21 Laps will produce the feature.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/they-will-kill-you-sci-fi-action-movie-blur-netflix-1236660987/",
+      "headline": "Virginie Efira's Love for Cinema and Locarno Has No Limits - Even If Her Mic Does",
+      "title": "Virginie Efira's Love for Cinema and Locarno Has No Limits - Even If Her Mic Does",
+      "snapshot": "The Belgian-born actress, who pulled double duty in the Cannes competition program this year with 'All of a Sudden' and 'Parallel Tales,' received the Leopard Club Award at the Swiss festival.",
+      "summary": "The Belgian-born actress, who pulled double duty in the Cannes competition program this year with 'All of a Sudden' and 'Parallel Tales,' received the Leopard Club Award at the Swiss festival.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/virginie-efira-locarno-leopard-club-award-cinema-microphone-1236668765/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-07 04:49:49 PM ET",
+      "published_at": "2026-08-07 05:02:31 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Kirill Sokolov, Director of 'They Will Kill You,' Tackling Sci-Fi Action Movie 'Blur' for Netflix (Exclusive)"
+        "Virginie Efira's Love for Cinema and Locarno Has No Limits - Even If Her Mic Does"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1608,8 +1607,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-6600847924720951982",
-      "key": "film-35-6600847924720951982",
+      "id": "film-35-3085234291545747472",
+      "key": "film-35-3085234291545747472",
       "category": "Film",
       "label": "Film",
       "headline": "Everything to know about 'Madden,' a new movie coming to Prime Video November 18 - About Amazon",
@@ -1635,8 +1634,8 @@
       "priority_score": 65
     },
     {
-      "id": "music-12-1986486147966087777",
-      "key": "music-12-1986486147966087777",
+      "id": "music-12-5473303926505474105",
+      "key": "music-12-5473303926505474105",
       "category": "Music",
       "label": "Music",
       "headline": "In Canada: Osheaga Festival Draws Near-Record Attendance With Tate McRae, Stella Lefty & More",
@@ -1662,8 +1661,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-3-5785976916689540020",
-      "key": "gaming-3-5785976916689540020",
+      "id": "gaming-3-6287638616964151868",
+      "key": "gaming-3-6287638616964151868",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Palworld 1.0 Showed Me Why Everyone Loves Survival Games",
@@ -1699,24 +1698,24 @@
       "key_storylines": [
         "‘The Last House’ Ending Breakdown: Why Is the Family Trapped Inside Their Home?",
         "Jason Clarke Joins Action-Thriller ‘Supermax’ From Amazon MGM & Miramax",
-        "Dwayne Johnson Addresses ‘Moana’ Mixed Reviews After Film Underperformed at Box Office",
+        "Filmmaker Elham Ehsas Wants You to Know Afghanistan Sent a Man to Space in 1988",
         "Sundance 2026 Movies Sold: ‘The Gallerist’ with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire",
         "‘One Night Only’ Director Will Gluck Cut Out ‘So Much Nudity’ Because People Dislike Sex on Screen: ‘It Takes You Out of the Movie’"
       ],
       "watch_list": [
         "‘The Last House’ Ending Breakdown: Why Is the Family Trapped Inside Their Home?",
         "Jason Clarke Joins Action-Thriller ‘Supermax’ From Amazon MGM & Miramax",
-        "Dwayne Johnson Addresses ‘Moana’ Mixed Reviews After Film Underperformed at Box Office",
+        "Filmmaker Elham Ehsas Wants You to Know Afghanistan Sent a Man to Space in 1988",
         "Sundance 2026 Movies Sold: ‘The Gallerist’ with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire",
         "‘One Night Only’ Director Will Gluck Cut Out ‘So Much Nudity’ Because People Dislike Sex on Screen: ‘It Takes You Out of the Movie’",
         "Bella Thorne Says ‘Spring Breakers 2’ Producers Tapped Her To Write, Direct & Star In Sequel After Seeing Directorial Debut",
-        "A Man Is Trapped Inside a Netflix Billboard Above Sunset Boulevard",
+        "Dwayne Johnson Addresses ‘Moana’ Mixed Reviews After Film Underperformed at Box Office",
         "What's new to streaming this week? (Aug. 7, 2026) - Mashable"
       ],
       "homepage_cards": [
         {
-          "id": "film-0-6593049991051779092",
-          "key": "film-0-6593049991051779092",
+          "id": "film-0-8690763503986278437",
+          "key": "film-0-8690763503986278437",
           "category": "Film",
           "label": "Film",
           "headline": "‘The Last House’ Ending Breakdown: Why Is the Family Trapped Inside Their Home?",
@@ -1743,8 +1742,8 @@
           ]
         },
         {
-          "id": "film-10-1409710626914775764",
-          "key": "film-10-1409710626914775764",
+          "id": "film-10-1981092210670740542",
+          "key": "film-10-1981092210670740542",
           "category": "Film",
           "label": "Film",
           "headline": "Jason Clarke Joins Action-Thriller ‘Supermax’ From Amazon MGM & Miramax",
@@ -1771,25 +1770,25 @@
           ]
         },
         {
-          "id": "film-22-5066654062725999760",
-          "key": "film-22-5066654062725999760",
+          "id": "film-22-9183741153521665631",
+          "key": "film-22-9183741153521665631",
           "category": "Film",
           "label": "Film",
-          "headline": "Dwayne Johnson Addresses ‘Moana’ Mixed Reviews After Film Underperformed at Box Office",
-          "title": "Dwayne Johnson Addresses ‘Moana’ Mixed Reviews After Film Underperformed at Box Office",
-          "snapshot": "“If you love it, great. If you don’t, no problem,” the actor said in a recent interview.",
-          "summary": "“If you love it, great. If you don’t, no problem,” the actor said in a recent interview.",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/dwayne-johnson-moana-mixed-reviews-film-underperformed-1236669273/",
+          "headline": "Filmmaker Elham Ehsas Wants You to Know Afghanistan Sent a Man to Space in 1988",
+          "title": "Filmmaker Elham Ehsas Wants You to Know Afghanistan Sent a Man to Space in 1988",
+          "snapshot": "Ahead of the Locarno premiere of 'Forgotten Spaceman,' the London-based actor-director discusses his accidental documentary, a startling family connection and Afghanistan's \"buried\" history of achievement.",
+          "summary": "Ahead of the Locarno premiere of 'Forgotten Spaceman,' the London-based actor-director discusses his accidental documentary, a startling family connection and Afghanistan's \"buried\" history of achievement.",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/forgotten-spaceman-locarno-film-about-afghanistan-cosmonaut-1236663264/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-          "published_at": "2026-08-07 10:38:23 PM ET",
+          "published_at": "2026-08-08 01:00:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 78,
           "key_data": [
-            "Dwayne Johnson Addresses ‘Moana’ Mixed Reviews After Film Underperformed at Box Office"
+            "Filmmaker Elham Ehsas Wants You to Know Afghanistan Sent a Man to Space in 1988"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1799,8 +1798,8 @@
           ]
         },
         {
-          "id": "film-32-7358979833783759790",
-          "key": "film-32-7358979833783759790",
+          "id": "film-32-4458572012760244332",
+          "key": "film-32-4458572012760244332",
           "category": "Film",
           "label": "Film",
           "headline": "Sundance 2026 Movies Sold: ‘The Gallerist’ with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire",
@@ -1827,8 +1826,8 @@
           ]
         },
         {
-          "id": "film-1-2894767157255048257",
-          "key": "film-1-2894767157255048257",
+          "id": "film-1-4079054028562295877",
+          "key": "film-1-4079054028562295877",
           "category": "Film",
           "label": "Film",
           "headline": "‘One Night Only’ Director Will Gluck Cut Out ‘So Much Nudity’ Because People Dislike Sex on Screen: ‘It Takes You Out of the Movie’",
@@ -1855,8 +1854,8 @@
           ]
         },
         {
-          "id": "film-11-6373199313942847297",
-          "key": "film-11-6373199313942847297",
+          "id": "film-11-1558107468046615684",
+          "key": "film-11-1558107468046615684",
           "category": "Film",
           "label": "Film",
           "headline": "Bella Thorne Says ‘Spring Breakers 2’ Producers Tapped Her To Write, Direct & Star In Sequel After Seeing Directorial Debut",
@@ -1883,25 +1882,25 @@
           ]
         },
         {
-          "id": "film-23-5755867393675887092",
-          "key": "film-23-5755867393675887092",
+          "id": "film-23-2242941317937671033",
+          "key": "film-23-2242941317937671033",
           "category": "Film",
           "label": "Film",
-          "headline": "A Man Is Trapped Inside a Netflix Billboard Above Sunset Boulevard",
-          "title": "A Man Is Trapped Inside a Netflix Billboard Above Sunset Boulevard",
-          "snapshot": "A marketing stunt for 'The Last House' has a performer trapped above Sunset Boulevard across three days.",
-          "summary": "A marketing stunt for 'The Last House' has a performer trapped above Sunset Boulevard across three days.",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/netflix-man-inside-billboard-last-house-1236669147/",
+          "headline": "Dwayne Johnson Addresses ‘Moana’ Mixed Reviews After Film Underperformed at Box Office",
+          "title": "Dwayne Johnson Addresses ‘Moana’ Mixed Reviews After Film Underperformed at Box Office",
+          "snapshot": "“If you love it, great. If you don’t, no problem,” the actor said in a recent interview.",
+          "summary": "“If you love it, great. If you don’t, no problem,” the actor said in a recent interview.",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/dwayne-johnson-moana-mixed-reviews-film-underperformed-1236669273/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-          "published_at": "2026-08-07 05:09:16 PM ET",
+          "published_at": "2026-08-07 10:38:23 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 77,
           "key_data": [
-            "A Man Is Trapped Inside a Netflix Billboard Above Sunset Boulevard"
+            "Dwayne Johnson Addresses ‘Moana’ Mixed Reviews After Film Underperformed at Box Office"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1911,8 +1910,8 @@
           ]
         },
         {
-          "id": "film-33-134515116939982861",
-          "key": "film-33-134515116939982861",
+          "id": "film-33-6366313295786239705",
+          "key": "film-33-6366313295786239705",
           "category": "Film",
           "label": "Film",
           "headline": "What's new to streaming this week? (Aug. 7, 2026) - Mashable",
@@ -1941,8 +1940,8 @@
       ],
       "items": [
         {
-          "id": "film-0-6593049991051779092",
-          "key": "film-0-6593049991051779092",
+          "id": "film-0-8690763503986278437",
+          "key": "film-0-8690763503986278437",
           "category": "Film",
           "label": "Film",
           "headline": "‘The Last House’ Ending Breakdown: Why Is the Family Trapped Inside Their Home?",
@@ -1969,8 +1968,8 @@
           ]
         },
         {
-          "id": "film-10-1409710626914775764",
-          "key": "film-10-1409710626914775764",
+          "id": "film-10-1981092210670740542",
+          "key": "film-10-1981092210670740542",
           "category": "Film",
           "label": "Film",
           "headline": "Jason Clarke Joins Action-Thriller ‘Supermax’ From Amazon MGM & Miramax",
@@ -1997,25 +1996,25 @@
           ]
         },
         {
-          "id": "film-22-5066654062725999760",
-          "key": "film-22-5066654062725999760",
+          "id": "film-22-9183741153521665631",
+          "key": "film-22-9183741153521665631",
           "category": "Film",
           "label": "Film",
-          "headline": "Dwayne Johnson Addresses ‘Moana’ Mixed Reviews After Film Underperformed at Box Office",
-          "title": "Dwayne Johnson Addresses ‘Moana’ Mixed Reviews After Film Underperformed at Box Office",
-          "snapshot": "“If you love it, great. If you don’t, no problem,” the actor said in a recent interview.",
-          "summary": "“If you love it, great. If you don’t, no problem,” the actor said in a recent interview.",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/dwayne-johnson-moana-mixed-reviews-film-underperformed-1236669273/",
+          "headline": "Filmmaker Elham Ehsas Wants You to Know Afghanistan Sent a Man to Space in 1988",
+          "title": "Filmmaker Elham Ehsas Wants You to Know Afghanistan Sent a Man to Space in 1988",
+          "snapshot": "Ahead of the Locarno premiere of 'Forgotten Spaceman,' the London-based actor-director discusses his accidental documentary, a startling family connection and Afghanistan's \"buried\" history of achievement.",
+          "summary": "Ahead of the Locarno premiere of 'Forgotten Spaceman,' the London-based actor-director discusses his accidental documentary, a startling family connection and Afghanistan's \"buried\" history of achievement.",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/forgotten-spaceman-locarno-film-about-afghanistan-cosmonaut-1236663264/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-          "published_at": "2026-08-07 10:38:23 PM ET",
+          "published_at": "2026-08-08 01:00:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 78,
           "key_data": [
-            "Dwayne Johnson Addresses ‘Moana’ Mixed Reviews After Film Underperformed at Box Office"
+            "Filmmaker Elham Ehsas Wants You to Know Afghanistan Sent a Man to Space in 1988"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2025,8 +2024,8 @@
           ]
         },
         {
-          "id": "film-32-7358979833783759790",
-          "key": "film-32-7358979833783759790",
+          "id": "film-32-4458572012760244332",
+          "key": "film-32-4458572012760244332",
           "category": "Film",
           "label": "Film",
           "headline": "Sundance 2026 Movies Sold: ‘The Gallerist’ with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire",
@@ -2053,8 +2052,8 @@
           ]
         },
         {
-          "id": "film-1-2894767157255048257",
-          "key": "film-1-2894767157255048257",
+          "id": "film-1-4079054028562295877",
+          "key": "film-1-4079054028562295877",
           "category": "Film",
           "label": "Film",
           "headline": "‘One Night Only’ Director Will Gluck Cut Out ‘So Much Nudity’ Because People Dislike Sex on Screen: ‘It Takes You Out of the Movie’",
@@ -2081,8 +2080,8 @@
           ]
         },
         {
-          "id": "film-11-6373199313942847297",
-          "key": "film-11-6373199313942847297",
+          "id": "film-11-1558107468046615684",
+          "key": "film-11-1558107468046615684",
           "category": "Film",
           "label": "Film",
           "headline": "Bella Thorne Says ‘Spring Breakers 2’ Producers Tapped Her To Write, Direct & Star In Sequel After Seeing Directorial Debut",
@@ -2109,25 +2108,25 @@
           ]
         },
         {
-          "id": "film-23-5755867393675887092",
-          "key": "film-23-5755867393675887092",
+          "id": "film-23-2242941317937671033",
+          "key": "film-23-2242941317937671033",
           "category": "Film",
           "label": "Film",
-          "headline": "A Man Is Trapped Inside a Netflix Billboard Above Sunset Boulevard",
-          "title": "A Man Is Trapped Inside a Netflix Billboard Above Sunset Boulevard",
-          "snapshot": "A marketing stunt for 'The Last House' has a performer trapped above Sunset Boulevard across three days.",
-          "summary": "A marketing stunt for 'The Last House' has a performer trapped above Sunset Boulevard across three days.",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/netflix-man-inside-billboard-last-house-1236669147/",
+          "headline": "Dwayne Johnson Addresses ‘Moana’ Mixed Reviews After Film Underperformed at Box Office",
+          "title": "Dwayne Johnson Addresses ‘Moana’ Mixed Reviews After Film Underperformed at Box Office",
+          "snapshot": "“If you love it, great. If you don’t, no problem,” the actor said in a recent interview.",
+          "summary": "“If you love it, great. If you don’t, no problem,” the actor said in a recent interview.",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/dwayne-johnson-moana-mixed-reviews-film-underperformed-1236669273/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-          "published_at": "2026-08-07 05:09:16 PM ET",
+          "published_at": "2026-08-07 10:38:23 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 77,
           "key_data": [
-            "A Man Is Trapped Inside a Netflix Billboard Above Sunset Boulevard"
+            "Dwayne Johnson Addresses ‘Moana’ Mixed Reviews After Film Underperformed at Box Office"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2137,8 +2136,8 @@
           ]
         },
         {
-          "id": "film-33-134515116939982861",
-          "key": "film-33-134515116939982861",
+          "id": "film-33-6366313295786239705",
+          "key": "film-33-6366313295786239705",
           "category": "Film",
           "label": "Film",
           "headline": "What's new to streaming this week? (Aug. 7, 2026) - Mashable",
@@ -2165,7 +2164,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-08 12:57:28 AM ET"
+      "updated_at": "2026-08-08 01:47:32 AM ET"
     },
     {
       "key": "tv",
@@ -2191,8 +2190,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "tv-0-207925739641799817",
-          "key": "tv-0-207925739641799817",
+          "id": "tv-0-2829528473401968725",
+          "key": "tv-0-2829528473401968725",
           "category": "TV",
           "label": "TV",
           "headline": "Behind the Scenes of Obama’s Acting Cameo in ‘Life, Larry’: Blaming Larry David for His Tan Suit Debacle, Improvising Lines and Ranting About Ketchup",
@@ -2219,8 +2218,8 @@
           ]
         },
         {
-          "id": "tv-8-8236989665305895952",
-          "key": "tv-8-8236989665305895952",
+          "id": "tv-8-6523943692059262450",
+          "key": "tv-8-6523943692059262450",
           "category": "TV",
           "label": "TV",
           "headline": "‘Blue Bloods’ Alum Will Estes Reprising Role On ‘Boston Blue’: “Welcome (Back) To The Family”",
@@ -2247,8 +2246,8 @@
           ]
         },
         {
-          "id": "tv-18-2416652127311127888",
-          "key": "tv-18-2416652127311127888",
+          "id": "tv-18-804730261551605662",
+          "key": "tv-18-804730261551605662",
           "category": "TV",
           "label": "TV",
           "headline": "Jake T. Austin Says He Wasn’t Invited to Partake in ‘Wizards of Waverly Place’ Revival: “Disappointed”",
@@ -2275,8 +2274,8 @@
           ]
         },
         {
-          "id": "tv-28-5684053667531663176",
-          "key": "tv-28-5684053667531663176",
+          "id": "tv-28-4250900471307011116",
+          "key": "tv-28-4250900471307011116",
           "category": "TV",
           "label": "TV",
           "headline": "Shemaroo gets MIB nod to launch Hindi entertainment channel Mango TV - Indian Television Dot Com",
@@ -2303,8 +2302,8 @@
           ]
         },
         {
-          "id": "tv-1-6150299116057473140",
-          "key": "tv-1-6150299116057473140",
+          "id": "tv-1-7540704608184666983",
+          "key": "tv-1-7540704608184666983",
           "category": "TV",
           "label": "TV",
           "headline": "‘Power Book III: Raising Kanan’ Creator Sascha Penn and Stars Patina Miller and Mekai Curtis on the Deadly Series Finale and ‘Power: Origins’",
@@ -2331,8 +2330,8 @@
           ]
         },
         {
-          "id": "tv-9-6418954406307078717",
-          "key": "tv-9-6418954406307078717",
+          "id": "tv-9-6875566925609249047",
+          "key": "tv-9-6875566925609249047",
           "category": "TV",
           "label": "TV",
           "headline": "TV Show Book Adaptations Arriving In 2026 So Far",
@@ -2359,8 +2358,8 @@
           ]
         },
         {
-          "id": "tv-19-4822571194686628041",
-          "key": "tv-19-4822571194686628041",
+          "id": "tv-19-2725785013334393455",
+          "key": "tv-19-2725785013334393455",
           "category": "TV",
           "label": "TV",
           "headline": "Streaming Ratings: ‘Love Island USA’ Scores Another All-Time High Leading Up to Season 8 Finale",
@@ -2389,8 +2388,8 @@
       ],
       "items": [
         {
-          "id": "tv-0-207925739641799817",
-          "key": "tv-0-207925739641799817",
+          "id": "tv-0-2829528473401968725",
+          "key": "tv-0-2829528473401968725",
           "category": "TV",
           "label": "TV",
           "headline": "Behind the Scenes of Obama’s Acting Cameo in ‘Life, Larry’: Blaming Larry David for His Tan Suit Debacle, Improvising Lines and Ranting About Ketchup",
@@ -2417,8 +2416,8 @@
           ]
         },
         {
-          "id": "tv-8-8236989665305895952",
-          "key": "tv-8-8236989665305895952",
+          "id": "tv-8-6523943692059262450",
+          "key": "tv-8-6523943692059262450",
           "category": "TV",
           "label": "TV",
           "headline": "‘Blue Bloods’ Alum Will Estes Reprising Role On ‘Boston Blue’: “Welcome (Back) To The Family”",
@@ -2445,8 +2444,8 @@
           ]
         },
         {
-          "id": "tv-18-2416652127311127888",
-          "key": "tv-18-2416652127311127888",
+          "id": "tv-18-804730261551605662",
+          "key": "tv-18-804730261551605662",
           "category": "TV",
           "label": "TV",
           "headline": "Jake T. Austin Says He Wasn’t Invited to Partake in ‘Wizards of Waverly Place’ Revival: “Disappointed”",
@@ -2473,8 +2472,8 @@
           ]
         },
         {
-          "id": "tv-28-5684053667531663176",
-          "key": "tv-28-5684053667531663176",
+          "id": "tv-28-4250900471307011116",
+          "key": "tv-28-4250900471307011116",
           "category": "TV",
           "label": "TV",
           "headline": "Shemaroo gets MIB nod to launch Hindi entertainment channel Mango TV - Indian Television Dot Com",
@@ -2501,8 +2500,8 @@
           ]
         },
         {
-          "id": "tv-1-6150299116057473140",
-          "key": "tv-1-6150299116057473140",
+          "id": "tv-1-7540704608184666983",
+          "key": "tv-1-7540704608184666983",
           "category": "TV",
           "label": "TV",
           "headline": "‘Power Book III: Raising Kanan’ Creator Sascha Penn and Stars Patina Miller and Mekai Curtis on the Deadly Series Finale and ‘Power: Origins’",
@@ -2529,8 +2528,8 @@
           ]
         },
         {
-          "id": "tv-9-6418954406307078717",
-          "key": "tv-9-6418954406307078717",
+          "id": "tv-9-6875566925609249047",
+          "key": "tv-9-6875566925609249047",
           "category": "TV",
           "label": "TV",
           "headline": "TV Show Book Adaptations Arriving In 2026 So Far",
@@ -2557,8 +2556,8 @@
           ]
         },
         {
-          "id": "tv-19-4822571194686628041",
-          "key": "tv-19-4822571194686628041",
+          "id": "tv-19-2725785013334393455",
+          "key": "tv-19-2725785013334393455",
           "category": "TV",
           "label": "TV",
           "headline": "Streaming Ratings: ‘Love Island USA’ Scores Another All-Time High Leading Up to Season 8 Finale",
@@ -2585,7 +2584,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-08 12:57:29 AM ET"
+      "updated_at": "2026-08-08 01:47:33 AM ET"
     },
     {
       "key": "streaming",
@@ -2603,8 +2602,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "streaming-0-8212568263945712066",
-          "key": "streaming-0-8212568263945712066",
+          "id": "streaming-0-3844508153967281648",
+          "key": "streaming-0-3844508153967281648",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Disney turns $4-billion streaming loss into profit, and now it chases global growth - Los Angeles Times",
@@ -2631,8 +2630,8 @@
           ]
         },
         {
-          "id": "streaming-1-405676595487030713",
-          "key": "streaming-1-405676595487030713",
+          "id": "streaming-1-5664890040345085478",
+          "key": "streaming-1-5664890040345085478",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'The Devil Wears Prada 2' to 'Obsession,' 10 movies to stream now - USA Today",
@@ -2661,8 +2660,8 @@
       ],
       "items": [
         {
-          "id": "streaming-0-8212568263945712066",
-          "key": "streaming-0-8212568263945712066",
+          "id": "streaming-0-3844508153967281648",
+          "key": "streaming-0-3844508153967281648",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Disney turns $4-billion streaming loss into profit, and now it chases global growth - Los Angeles Times",
@@ -2689,8 +2688,8 @@
           ]
         },
         {
-          "id": "streaming-1-405676595487030713",
-          "key": "streaming-1-405676595487030713",
+          "id": "streaming-1-5664890040345085478",
+          "key": "streaming-1-5664890040345085478",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'The Devil Wears Prada 2' to 'Obsession,' 10 movies to stream now - USA Today",
@@ -2717,50 +2716,50 @@
           ]
         }
       ],
-      "updated_at": "2026-08-08 12:57:30 AM ET"
+      "updated_at": "2026-08-08 01:47:33 AM ET"
     },
     {
       "key": "music",
       "name": "Music",
       "title": "Music Report",
-      "headline": "Judy Collins on Doing a Farewell Tour While ‘Having a Lot More Steam in My Engine’: At 87, ‘I’m the Betty White of the Folk Movement’",
+      "headline": "Taylor Swift Song ‘August’ Removed From Trump TikTok Video",
       "snapshot": "Music coverage is updating with 6 current RSS headline item(s).",
       "key_storylines": [
-        "Judy Collins on Doing a Farewell Tour While ‘Having a Lot More Steam in My Engine’: At 87, ‘I’m the Betty White of the Folk Movement’",
+        "Taylor Swift Song ‘August’ Removed From Trump TikTok Video",
         "Angélique Kidjo to Become First African Musician to Receive a Star on Hollywood Walk of Fame",
         "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - billboard.com",
-        "Olivia Rodrigo Debuts ‘Pretty Sad’ Songs at Sweltering Brooklyn Surprise Show: Concert Review",
+        "Judy Collins on Doing a Farewell Tour While ‘Having a Lot More Steam in My Engine’: At 87, ‘I’m the Betty White of the Folk Movement’",
         "Megan Thee Stallion Must Face Trial in Cameraman’s Lawsuit Over Alleged Car-Sex Incident: Judge"
       ],
       "watch_list": [
-        "Judy Collins on Doing a Farewell Tour While ‘Having a Lot More Steam in My Engine’: At 87, ‘I’m the Betty White of the Folk Movement’",
+        "Taylor Swift Song ‘August’ Removed From Trump TikTok Video",
         "Angélique Kidjo to Become First African Musician to Receive a Star on Hollywood Walk of Fame",
         "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - billboard.com",
-        "Olivia Rodrigo Debuts ‘Pretty Sad’ Songs at Sweltering Brooklyn Surprise Show: Concert Review",
+        "Judy Collins on Doing a Farewell Tour While ‘Having a Lot More Steam in My Engine’: At 87, ‘I’m the Betty White of the Folk Movement’",
         "Megan Thee Stallion Must Face Trial in Cameraman’s Lawsuit Over Alleged Car-Sex Incident: Judge",
         "1976 Soul Music Hit Just Missed Billboard’s Top Spot, But It Made Lou Rawls an Icon - parade.com"
       ],
       "homepage_cards": [
         {
-          "id": "music-0-7445059583159820017",
-          "key": "music-0-7445059583159820017",
+          "id": "music-0-8049443851297038966",
+          "key": "music-0-8049443851297038966",
           "category": "Music",
           "label": "Music",
-          "headline": "Judy Collins on Doing a Farewell Tour While ‘Having a Lot More Steam in My Engine’: At 87, ‘I’m the Betty White of the Folk Movement’",
-          "title": "Judy Collins on Doing a Farewell Tour While ‘Having a Lot More Steam in My Engine’: At 87, ‘I’m the Betty White of the Folk Movement’",
-          "snapshot": "How sweet — or suite — it still is. Judy Collins is doing a valedictory lap or two around the country on what is billed as a farewell tour, even though, at 87, she’s showing little in the way of weariness about maintaining a full concert schedule or lack of prowess in pulling these shows […]",
-          "summary": "How sweet — or suite — it still is. Judy Collins is doing a valedictory lap or two around the country on what is billed as a farewell tour, even though, at 87, she’s showing little in the way of weariness about maintaining a full concert schedule or lack of prowess in pulling these shows […]",
-          "url": "https://variety.com/2026/music/news/judy-collins-farewell-tour-interview-1236830430/",
+          "headline": "Taylor Swift Song ‘August’ Removed From Trump TikTok Video",
+          "title": "Taylor Swift Song ‘August’ Removed From Trump TikTok Video",
+          "snapshot": "A TikTok video that included Taylor Swift’s song “August” posted four days ago to the account for Donald Trump’s campaign has had the sound removed. The caption on the now Taylor-less “Team Trump” TikTok video reads, “I’m sure @Taylor Swift is going to be super excited we used her song! #taylorswift #maga #august.”...",
+          "summary": "A TikTok video that included Taylor Swift’s song “August” posted four days ago to the account for Donald Trump’s campaign has had the sound removed. The caption on the now Taylor-less “Team Trump” TikTok video reads, “I’m sure @Taylor Swift is going to be super excited we used her song! #taylorswift #maga #august.”...",
+          "url": "https://variety.com/2026/music/news/taylor-swift-song-august-removed-trump-tiktok-video-1236830512/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/music/feed/",
-          "published_at": "2026-08-07 06:42:40 PM ET",
+          "published_at": "2026-08-08 01:13:01 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Judy Collins on Doing a Farewell Tour While ‘Having a Lot More Steam in My Engine’: At 87, ‘I’m the Betty White of the Folk Movement’"
+            "Taylor Swift Song ‘August’ Removed From Trump TikTok Video"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2770,8 +2769,8 @@
           ]
         },
         {
-          "id": "music-9-5622151902953049673",
-          "key": "music-9-5622151902953049673",
+          "id": "music-9-5586711161464295958",
+          "key": "music-9-5586711161464295958",
           "category": "Music",
           "label": "Music",
           "headline": "Angélique Kidjo to Become First African Musician to Receive a Star on Hollywood Walk of Fame",
@@ -2798,8 +2797,8 @@
           ]
         },
         {
-          "id": "music-19-6714786329650550994",
-          "key": "music-19-6714786329650550994",
+          "id": "music-19-2361238991320024531",
+          "key": "music-19-2361238991320024531",
           "category": "Music",
           "label": "Music",
           "headline": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - billboard.com",
@@ -2826,25 +2825,25 @@
           ]
         },
         {
-          "id": "music-1-9046997302488343743",
-          "key": "music-1-9046997302488343743",
+          "id": "music-1-1588449276892118525",
+          "key": "music-1-1588449276892118525",
           "category": "Music",
           "label": "Music",
-          "headline": "Olivia Rodrigo Debuts ‘Pretty Sad’ Songs at Sweltering Brooklyn Surprise Show: Concert Review",
-          "title": "Olivia Rodrigo Debuts ‘Pretty Sad’ Songs at Sweltering Brooklyn Surprise Show: Concert Review",
-          "snapshot": "The announcement dropped on a pulverizingly humid Thursday afternoon in New York City: just a few hours later, an Olivia Rodrigo surprise gig would take place at Brooklyn’s intimate, 1,100-capacity venue Warsaw. The expected mad dash for tickets — only available at the venue’s box office — ensued, with fans lining u...",
-          "summary": "The announcement dropped on a pulverizingly humid Thursday afternoon in New York City: just a few hours later, an Olivia Rodrigo surprise gig would take place at Brooklyn’s intimate, 1,100-capacity venue Warsaw. The expected mad dash for tickets — only available at the venue’s box office — ensued, with fans lining u...",
-          "url": "https://variety.com/2026/music/reviews/olivia-rodrigo-debuts-pretty-sad-songs-brooklyn-surprise-concert-review-1236830406/",
+          "headline": "Judy Collins on Doing a Farewell Tour While ‘Having a Lot More Steam in My Engine’: At 87, ‘I’m the Betty White of the Folk Movement’",
+          "title": "Judy Collins on Doing a Farewell Tour While ‘Having a Lot More Steam in My Engine’: At 87, ‘I’m the Betty White of the Folk Movement’",
+          "snapshot": "How sweet — or suite — it still is. Judy Collins is doing a valedictory lap or two around the country on what is billed as a farewell tour, even though, at 87, she’s showing little in the way of weariness about maintaining a full concert schedule or lack of prowess in pulling these shows […]",
+          "summary": "How sweet — or suite — it still is. Judy Collins is doing a valedictory lap or two around the country on what is billed as a farewell tour, even though, at 87, she’s showing little in the way of weariness about maintaining a full concert schedule or lack of prowess in pulling these shows […]",
+          "url": "https://variety.com/2026/music/news/judy-collins-farewell-tour-interview-1236830430/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/music/feed/",
-          "published_at": "2026-08-07 05:28:57 PM ET",
+          "published_at": "2026-08-07 06:42:40 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Olivia Rodrigo Debuts ‘Pretty Sad’ Songs at Sweltering Brooklyn Surprise Show: Concert Review"
+            "Judy Collins on Doing a Farewell Tour While ‘Having a Lot More Steam in My Engine’: At 87, ‘I’m the Betty White of the Folk Movement’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2854,8 +2853,8 @@
           ]
         },
         {
-          "id": "music-10-3884281938385438779",
-          "key": "music-10-3884281938385438779",
+          "id": "music-10-6960446464878351634",
+          "key": "music-10-6960446464878351634",
           "category": "Music",
           "label": "Music",
           "headline": "Megan Thee Stallion Must Face Trial in Cameraman’s Lawsuit Over Alleged Car-Sex Incident: Judge",
@@ -2882,8 +2881,8 @@
           ]
         },
         {
-          "id": "music-20-6464461214381558047",
-          "key": "music-20-6464461214381558047",
+          "id": "music-20-4782421398751845489",
+          "key": "music-20-4782421398751845489",
           "category": "Music",
           "label": "Music",
           "headline": "1976 Soul Music Hit Just Missed Billboard’s Top Spot, But It Made Lou Rawls an Icon - parade.com",
@@ -2912,25 +2911,25 @@
       ],
       "items": [
         {
-          "id": "music-0-7445059583159820017",
-          "key": "music-0-7445059583159820017",
+          "id": "music-0-8049443851297038966",
+          "key": "music-0-8049443851297038966",
           "category": "Music",
           "label": "Music",
-          "headline": "Judy Collins on Doing a Farewell Tour While ‘Having a Lot More Steam in My Engine’: At 87, ‘I’m the Betty White of the Folk Movement’",
-          "title": "Judy Collins on Doing a Farewell Tour While ‘Having a Lot More Steam in My Engine’: At 87, ‘I’m the Betty White of the Folk Movement’",
-          "snapshot": "How sweet — or suite — it still is. Judy Collins is doing a valedictory lap or two around the country on what is billed as a farewell tour, even though, at 87, she’s showing little in the way of weariness about maintaining a full concert schedule or lack of prowess in pulling these shows […]",
-          "summary": "How sweet — or suite — it still is. Judy Collins is doing a valedictory lap or two around the country on what is billed as a farewell tour, even though, at 87, she’s showing little in the way of weariness about maintaining a full concert schedule or lack of prowess in pulling these shows […]",
-          "url": "https://variety.com/2026/music/news/judy-collins-farewell-tour-interview-1236830430/",
+          "headline": "Taylor Swift Song ‘August’ Removed From Trump TikTok Video",
+          "title": "Taylor Swift Song ‘August’ Removed From Trump TikTok Video",
+          "snapshot": "A TikTok video that included Taylor Swift’s song “August” posted four days ago to the account for Donald Trump’s campaign has had the sound removed. The caption on the now Taylor-less “Team Trump” TikTok video reads, “I’m sure @Taylor Swift is going to be super excited we used her song! #taylorswift #maga #august.”...",
+          "summary": "A TikTok video that included Taylor Swift’s song “August” posted four days ago to the account for Donald Trump’s campaign has had the sound removed. The caption on the now Taylor-less “Team Trump” TikTok video reads, “I’m sure @Taylor Swift is going to be super excited we used her song! #taylorswift #maga #august.”...",
+          "url": "https://variety.com/2026/music/news/taylor-swift-song-august-removed-trump-tiktok-video-1236830512/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/music/feed/",
-          "published_at": "2026-08-07 06:42:40 PM ET",
+          "published_at": "2026-08-08 01:13:01 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Judy Collins on Doing a Farewell Tour While ‘Having a Lot More Steam in My Engine’: At 87, ‘I’m the Betty White of the Folk Movement’"
+            "Taylor Swift Song ‘August’ Removed From Trump TikTok Video"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2940,8 +2939,8 @@
           ]
         },
         {
-          "id": "music-9-5622151902953049673",
-          "key": "music-9-5622151902953049673",
+          "id": "music-9-5586711161464295958",
+          "key": "music-9-5586711161464295958",
           "category": "Music",
           "label": "Music",
           "headline": "Angélique Kidjo to Become First African Musician to Receive a Star on Hollywood Walk of Fame",
@@ -2968,8 +2967,8 @@
           ]
         },
         {
-          "id": "music-19-6714786329650550994",
-          "key": "music-19-6714786329650550994",
+          "id": "music-19-2361238991320024531",
+          "key": "music-19-2361238991320024531",
           "category": "Music",
           "label": "Music",
           "headline": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - billboard.com",
@@ -2996,25 +2995,25 @@
           ]
         },
         {
-          "id": "music-1-9046997302488343743",
-          "key": "music-1-9046997302488343743",
+          "id": "music-1-1588449276892118525",
+          "key": "music-1-1588449276892118525",
           "category": "Music",
           "label": "Music",
-          "headline": "Olivia Rodrigo Debuts ‘Pretty Sad’ Songs at Sweltering Brooklyn Surprise Show: Concert Review",
-          "title": "Olivia Rodrigo Debuts ‘Pretty Sad’ Songs at Sweltering Brooklyn Surprise Show: Concert Review",
-          "snapshot": "The announcement dropped on a pulverizingly humid Thursday afternoon in New York City: just a few hours later, an Olivia Rodrigo surprise gig would take place at Brooklyn’s intimate, 1,100-capacity venue Warsaw. The expected mad dash for tickets — only available at the venue’s box office — ensued, with fans lining u...",
-          "summary": "The announcement dropped on a pulverizingly humid Thursday afternoon in New York City: just a few hours later, an Olivia Rodrigo surprise gig would take place at Brooklyn’s intimate, 1,100-capacity venue Warsaw. The expected mad dash for tickets — only available at the venue’s box office — ensued, with fans lining u...",
-          "url": "https://variety.com/2026/music/reviews/olivia-rodrigo-debuts-pretty-sad-songs-brooklyn-surprise-concert-review-1236830406/",
+          "headline": "Judy Collins on Doing a Farewell Tour While ‘Having a Lot More Steam in My Engine’: At 87, ‘I’m the Betty White of the Folk Movement’",
+          "title": "Judy Collins on Doing a Farewell Tour While ‘Having a Lot More Steam in My Engine’: At 87, ‘I’m the Betty White of the Folk Movement’",
+          "snapshot": "How sweet — or suite — it still is. Judy Collins is doing a valedictory lap or two around the country on what is billed as a farewell tour, even though, at 87, she’s showing little in the way of weariness about maintaining a full concert schedule or lack of prowess in pulling these shows […]",
+          "summary": "How sweet — or suite — it still is. Judy Collins is doing a valedictory lap or two around the country on what is billed as a farewell tour, even though, at 87, she’s showing little in the way of weariness about maintaining a full concert schedule or lack of prowess in pulling these shows […]",
+          "url": "https://variety.com/2026/music/news/judy-collins-farewell-tour-interview-1236830430/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/music/feed/",
-          "published_at": "2026-08-07 05:28:57 PM ET",
+          "published_at": "2026-08-07 06:42:40 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Olivia Rodrigo Debuts ‘Pretty Sad’ Songs at Sweltering Brooklyn Surprise Show: Concert Review"
+            "Judy Collins on Doing a Farewell Tour While ‘Having a Lot More Steam in My Engine’: At 87, ‘I’m the Betty White of the Folk Movement’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3024,8 +3023,8 @@
           ]
         },
         {
-          "id": "music-10-3884281938385438779",
-          "key": "music-10-3884281938385438779",
+          "id": "music-10-6960446464878351634",
+          "key": "music-10-6960446464878351634",
           "category": "Music",
           "label": "Music",
           "headline": "Megan Thee Stallion Must Face Trial in Cameraman’s Lawsuit Over Alleged Car-Sex Incident: Judge",
@@ -3052,8 +3051,8 @@
           ]
         },
         {
-          "id": "music-20-6464461214381558047",
-          "key": "music-20-6464461214381558047",
+          "id": "music-20-4782421398751845489",
+          "key": "music-20-4782421398751845489",
           "category": "Music",
           "label": "Music",
           "headline": "1976 Soul Music Hit Just Missed Billboard’s Top Spot, But It Made Lou Rawls an Icon - parade.com",
@@ -3080,26 +3079,54 @@
           ]
         }
       ],
-      "updated_at": "2026-08-08 12:57:30 AM ET"
+      "updated_at": "2026-08-08 01:47:34 AM ET"
     },
     {
       "key": "awards",
       "name": "Awards",
       "title": "Awards Report",
-      "headline": "James Gray Says AI Is ‘Worthless’ and Young People Won’t Stand for It: They ‘Have a Real Hunger for Interesting, Honest Stuff’",
+      "headline": "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
       "snapshot": "Awards coverage is updating with 2 current RSS headline item(s).",
       "key_storylines": [
-        "James Gray Says AI Is ‘Worthless’ and Young People Won’t Stand for It: They ‘Have a Real Hunger for Interesting, Honest Stuff’",
-        "Isabella Rossellini Talks Lynch, ‘Green Porno’ and How Animals Became Her Favorite ‘Muses’: ‘They Fascinate Me’"
+        "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
+        "James Gray Says AI Is ‘Worthless’ and Young People Won’t Stand for It: They ‘Have a Real Hunger for Interesting, Honest Stuff’"
       ],
       "watch_list": [
-        "James Gray Says AI Is ‘Worthless’ and Young People Won’t Stand for It: They ‘Have a Real Hunger for Interesting, Honest Stuff’",
-        "Isabella Rossellini Talks Lynch, ‘Green Porno’ and How Animals Became Her Favorite ‘Muses’: ‘They Fascinate Me’"
+        "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
+        "James Gray Says AI Is ‘Worthless’ and Young People Won’t Stand for It: They ‘Have a Real Hunger for Interesting, Honest Stuff’"
       ],
       "homepage_cards": [
         {
-          "id": "awards-0-2158355660506644281",
-          "key": "awards-0-2158355660506644281",
+          "id": "awards-0-8279253048338486123",
+          "key": "awards-0-8279253048338486123",
+          "category": "Awards",
+          "label": "Awards",
+          "headline": "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
+          "title": "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
+          "snapshot": "Madonna kicked off August with another “Club Confessions” appearance – this time, it was a performance at WorldPride in Amsterdam featuring surprise guest Kylie Minogue. Speaking of surprises, Nicole Kidman and Sandra Bullock popped into the Hollywood Forever Cemetery to introduce the Cinespia screening of “Practica...",
+          "summary": "Madonna kicked off August with another “Club Confessions” appearance – this time, it was a performance at WorldPride in Amsterdam featuring surprise guest Kylie Minogue. Speaking of surprises, Nicole Kidman and Sandra Bullock popped into the Hollywood Forever Cemetery to introduce the Cinespia screening of “Practica...",
+          "url": "https://variety.com/gallery/celebrity-pics-red-carpet-photos-august-2026/",
+          "source": "Variety",
+          "source_name": "Variety",
+          "source_feed": "https://variety.com/v/awards/feed/",
+          "published_at": "2026-08-07 11:00:31 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 100,
+          "key_data": [
+            "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "awards-1-4305546294338478067",
+          "key": "awards-1-4305546294338478067",
           "category": "Awards",
           "label": "Awards",
           "headline": "James Gray Says AI Is ‘Worthless’ and Young People Won’t Stand for It: They ‘Have a Real Hunger for Interesting, Honest Stuff’",
@@ -3114,37 +3141,9 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 100,
-          "key_data": [
-            "James Gray Says AI Is ‘Worthless’ and Young People Won’t Stand for It: They ‘Have a Real Hunger for Interesting, Honest Stuff’"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "awards-1-6363045821098685480",
-          "key": "awards-1-6363045821098685480",
-          "category": "Awards",
-          "label": "Awards",
-          "headline": "Isabella Rossellini Talks Lynch, ‘Green Porno’ and How Animals Became Her Favorite ‘Muses’: ‘They Fascinate Me’",
-          "title": "Isabella Rossellini Talks Lynch, ‘Green Porno’ and How Animals Became Her Favorite ‘Muses’: ‘They Fascinate Me’",
-          "snapshot": "Isabella Rossellini has received the Excellence Award at Locarno. “The prize I’m receiving tonight is for excellence, which is something I haven’t heard very often,” she said during the opening ceremony. “I’m very proud of it and, above all, so moved because my father received this back in 1948 for his film ‘Germany...",
-          "summary": "Isabella Rossellini has received the Excellence Award at Locarno. “The prize I’m receiving tonight is for excellence, which is something I haven’t heard very often,” she said during the opening ceremony. “I’m very proud of it and, above all, so moved because my father received this back in 1948 for his film ‘Germany...",
-          "url": "https://variety.com/2026/awards/actors/isabella-rossellini-lynch-green-porno-animals-locarno-1236828878/",
-          "source": "Variety",
-          "source_name": "Variety",
-          "source_feed": "https://variety.com/v/awards/feed/",
-          "published_at": "2026-08-06 05:26:45 AM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Isabella Rossellini Talks Lynch, ‘Green Porno’ and How Animals Became Her Favorite ‘Muses’: ‘They Fascinate Me’"
+            "James Gray Says AI Is ‘Worthless’ and Young People Won’t Stand for It: They ‘Have a Real Hunger for Interesting, Honest Stuff’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3156,8 +3155,36 @@
       ],
       "items": [
         {
-          "id": "awards-0-2158355660506644281",
-          "key": "awards-0-2158355660506644281",
+          "id": "awards-0-8279253048338486123",
+          "key": "awards-0-8279253048338486123",
+          "category": "Awards",
+          "label": "Awards",
+          "headline": "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
+          "title": "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
+          "snapshot": "Madonna kicked off August with another “Club Confessions” appearance – this time, it was a performance at WorldPride in Amsterdam featuring surprise guest Kylie Minogue. Speaking of surprises, Nicole Kidman and Sandra Bullock popped into the Hollywood Forever Cemetery to introduce the Cinespia screening of “Practica...",
+          "summary": "Madonna kicked off August with another “Club Confessions” appearance – this time, it was a performance at WorldPride in Amsterdam featuring surprise guest Kylie Minogue. Speaking of surprises, Nicole Kidman and Sandra Bullock popped into the Hollywood Forever Cemetery to introduce the Cinespia screening of “Practica...",
+          "url": "https://variety.com/gallery/celebrity-pics-red-carpet-photos-august-2026/",
+          "source": "Variety",
+          "source_name": "Variety",
+          "source_feed": "https://variety.com/v/awards/feed/",
+          "published_at": "2026-08-07 11:00:31 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 100,
+          "key_data": [
+            "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "awards-1-4305546294338478067",
+          "key": "awards-1-4305546294338478067",
           "category": "Awards",
           "label": "Awards",
           "headline": "James Gray Says AI Is ‘Worthless’ and Young People Won’t Stand for It: They ‘Have a Real Hunger for Interesting, Honest Stuff’",
@@ -3172,7 +3199,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 100,
+          "priority_score": 99,
           "key_data": [
             "James Gray Says AI Is ‘Worthless’ and Young People Won’t Stand for It: They ‘Have a Real Hunger for Interesting, Honest Stuff’"
           ],
@@ -3182,37 +3209,9 @@
           "what_to_watch": [
             "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
           ]
-        },
-        {
-          "id": "awards-1-6363045821098685480",
-          "key": "awards-1-6363045821098685480",
-          "category": "Awards",
-          "label": "Awards",
-          "headline": "Isabella Rossellini Talks Lynch, ‘Green Porno’ and How Animals Became Her Favorite ‘Muses’: ‘They Fascinate Me’",
-          "title": "Isabella Rossellini Talks Lynch, ‘Green Porno’ and How Animals Became Her Favorite ‘Muses’: ‘They Fascinate Me’",
-          "snapshot": "Isabella Rossellini has received the Excellence Award at Locarno. “The prize I’m receiving tonight is for excellence, which is something I haven’t heard very often,” she said during the opening ceremony. “I’m very proud of it and, above all, so moved because my father received this back in 1948 for his film ‘Germany...",
-          "summary": "Isabella Rossellini has received the Excellence Award at Locarno. “The prize I’m receiving tonight is for excellence, which is something I haven’t heard very often,” she said during the opening ceremony. “I’m very proud of it and, above all, so moved because my father received this back in 1948 for his film ‘Germany...",
-          "url": "https://variety.com/2026/awards/actors/isabella-rossellini-lynch-green-porno-animals-locarno-1236828878/",
-          "source": "Variety",
-          "source_name": "Variety",
-          "source_feed": "https://variety.com/v/awards/feed/",
-          "published_at": "2026-08-06 05:26:45 AM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 99,
-          "key_data": [
-            "Isabella Rossellini Talks Lynch, ‘Green Porno’ and How Animals Became Her Favorite ‘Muses’: ‘They Fascinate Me’"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
         }
       ],
-      "updated_at": "2026-08-08 12:57:31 AM ET"
+      "updated_at": "2026-08-08 01:47:35 AM ET"
     },
     {
       "key": "box_office",
@@ -3234,8 +3233,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "box_office-0-1134088323738324968",
-          "key": "box_office-0-1134088323738324968",
+          "id": "box_office-0-2271570090366421518",
+          "key": "box_office-0-2271570090366421518",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ Surpasses $1 Billion, Christopher Nolan’s First Movie Since ‘Dark Knight Rises’ to Reach Coveted Box Office Milestone",
@@ -3262,8 +3261,8 @@
           ]
         },
         {
-          "id": "box_office-10-5302109157390325478",
-          "key": "box_office-10-5302109157390325478",
+          "id": "box_office-10-5369538337250715458",
+          "key": "box_office-10-5369538337250715458",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History - The Hollywood Reporter",
@@ -3290,8 +3289,8 @@
           ]
         },
         {
-          "id": "box_office-1-6872776578436739354",
-          "key": "box_office-1-6872776578436739354",
+          "id": "box_office-1-2297183053286824029",
+          "key": "box_office-1-2297183053286824029",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ and ‘Spider-Man: Brand New Day’ Power $239 Million U.K., Ireland July Box Office",
@@ -3318,8 +3317,8 @@
           ]
         },
         {
-          "id": "box_office-11-3410454650749540851",
-          "key": "box_office-11-3410454650749540851",
+          "id": "box_office-11-25728060814262710",
+          "key": "box_office-11-25728060814262710",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "The Highest-Grossing Theater for ‘The Odyssey’ in 70MM Hadn’t Screened a New Movie in 35 Years - The Hollywood Reporter",
@@ -3348,8 +3347,8 @@
       ],
       "items": [
         {
-          "id": "box_office-0-1134088323738324968",
-          "key": "box_office-0-1134088323738324968",
+          "id": "box_office-0-2271570090366421518",
+          "key": "box_office-0-2271570090366421518",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ Surpasses $1 Billion, Christopher Nolan’s First Movie Since ‘Dark Knight Rises’ to Reach Coveted Box Office Milestone",
@@ -3376,8 +3375,8 @@
           ]
         },
         {
-          "id": "box_office-10-5302109157390325478",
-          "key": "box_office-10-5302109157390325478",
+          "id": "box_office-10-5369538337250715458",
+          "key": "box_office-10-5369538337250715458",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History - The Hollywood Reporter",
@@ -3404,8 +3403,8 @@
           ]
         },
         {
-          "id": "box_office-1-6872776578436739354",
-          "key": "box_office-1-6872776578436739354",
+          "id": "box_office-1-2297183053286824029",
+          "key": "box_office-1-2297183053286824029",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ and ‘Spider-Man: Brand New Day’ Power $239 Million U.K., Ireland July Box Office",
@@ -3432,8 +3431,8 @@
           ]
         },
         {
-          "id": "box_office-11-3410454650749540851",
-          "key": "box_office-11-3410454650749540851",
+          "id": "box_office-11-25728060814262710",
+          "key": "box_office-11-25728060814262710",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "The Highest-Grossing Theater for ‘The Odyssey’ in 70MM Hadn’t Screened a New Movie in 35 Years - The Hollywood Reporter",
@@ -3460,7 +3459,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-08 12:57:32 AM ET"
+      "updated_at": "2026-08-08 01:47:35 AM ET"
     },
     {
       "key": "celebrity",
@@ -3478,8 +3477,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "celebrity-0-5959893213219519788",
-          "key": "celebrity-0-5959893213219519788",
+          "id": "celebrity-0-4572100791821638353",
+          "key": "celebrity-0-4572100791821638353",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3506,8 +3505,8 @@
           ]
         },
         {
-          "id": "celebrity-1-1251987429548432124",
-          "key": "celebrity-1-1251987429548432124",
+          "id": "celebrity-1-3044641547134492950",
+          "key": "celebrity-1-3044641547134492950",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Gossip blogger Perez Hilton appeared to harm himself on a livestream. His audience called the police - Yahoo",
@@ -3536,8 +3535,8 @@
       ],
       "items": [
         {
-          "id": "celebrity-0-5959893213219519788",
-          "key": "celebrity-0-5959893213219519788",
+          "id": "celebrity-0-4572100791821638353",
+          "key": "celebrity-0-4572100791821638353",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3564,8 +3563,8 @@
           ]
         },
         {
-          "id": "celebrity-1-1251987429548432124",
-          "key": "celebrity-1-1251987429548432124",
+          "id": "celebrity-1-3044641547134492950",
+          "key": "celebrity-1-3044641547134492950",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Gossip blogger Perez Hilton appeared to harm himself on a livestream. His audience called the police - Yahoo",
@@ -3592,7 +3591,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-08 12:57:32 AM ET"
+      "updated_at": "2026-08-08 01:47:36 AM ET"
     },
     {
       "key": "hollywood",
@@ -3617,8 +3616,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "hollywood-0-2014788150878409965",
-          "key": "hollywood-0-2014788150878409965",
+          "id": "hollywood-0-8397156247034910597",
+          "key": "hollywood-0-8397156247034910597",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Brandi Carlile Postpones UK, European Tour Dates Due To “Personal Circumstances”",
@@ -3645,8 +3644,8 @@
           ]
         },
         {
-          "id": "hollywood-3-4513681819266039348",
-          "key": "hollywood-3-4513681819266039348",
+          "id": "hollywood-3-3161241006057157168",
+          "key": "hollywood-3-3161241006057157168",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Keen Ruffalo Never Intended to Get Into the Family Business",
@@ -3673,8 +3672,8 @@
           ]
         },
         {
-          "id": "hollywood-7-296974088368939149",
-          "key": "hollywood-7-296974088368939149",
+          "id": "hollywood-6-6513112261612313559",
+          "key": "hollywood-6-6513112261612313559",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
@@ -3689,7 +3688,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 93,
+          "priority_score": 94,
           "key_data": [
             "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University"
           ],
@@ -3701,8 +3700,8 @@
           ]
         },
         {
-          "id": "hollywood-1-6867851263758214507",
-          "key": "hollywood-1-6867851263758214507",
+          "id": "hollywood-1-8075604916041875565",
+          "key": "hollywood-1-8075604916041875565",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Amanda Knox Responds To Petition Protesting Her Edinburgh Fringe Show, Says It “Honors Meredith Kercher’s Memory”",
@@ -3729,8 +3728,8 @@
           ]
         },
         {
-          "id": "hollywood-4-4368164344889851146",
-          "key": "hollywood-4-4368164344889851146",
+          "id": "hollywood-4-5559519107865111312",
+          "key": "hollywood-4-5559519107865111312",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Spencer Pratt Joins the Chat on the Federal Film and Television Tax Incentive",
@@ -3757,8 +3756,8 @@
           ]
         },
         {
-          "id": "hollywood-8-5906134416402173398",
-          "key": "hollywood-8-5906134416402173398",
+          "id": "hollywood-7-2423596687548313721",
+          "key": "hollywood-7-2423596687548313721",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Why did the United States film industry settle in Hollywood? - Encyclopedia Britannica",
@@ -3773,7 +3772,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 92,
+          "priority_score": 93,
           "key_data": [
             "Why did the United States film industry settle in Hollywood? - Encyclopedia Britannica"
           ],
@@ -3787,8 +3786,8 @@
       ],
       "items": [
         {
-          "id": "hollywood-0-2014788150878409965",
-          "key": "hollywood-0-2014788150878409965",
+          "id": "hollywood-0-8397156247034910597",
+          "key": "hollywood-0-8397156247034910597",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Brandi Carlile Postpones UK, European Tour Dates Due To “Personal Circumstances”",
@@ -3815,8 +3814,8 @@
           ]
         },
         {
-          "id": "hollywood-3-4513681819266039348",
-          "key": "hollywood-3-4513681819266039348",
+          "id": "hollywood-3-3161241006057157168",
+          "key": "hollywood-3-3161241006057157168",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Keen Ruffalo Never Intended to Get Into the Family Business",
@@ -3843,8 +3842,8 @@
           ]
         },
         {
-          "id": "hollywood-7-296974088368939149",
-          "key": "hollywood-7-296974088368939149",
+          "id": "hollywood-6-6513112261612313559",
+          "key": "hollywood-6-6513112261612313559",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
@@ -3859,7 +3858,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 93,
+          "priority_score": 94,
           "key_data": [
             "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University"
           ],
@@ -3871,8 +3870,8 @@
           ]
         },
         {
-          "id": "hollywood-1-6867851263758214507",
-          "key": "hollywood-1-6867851263758214507",
+          "id": "hollywood-1-8075604916041875565",
+          "key": "hollywood-1-8075604916041875565",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Amanda Knox Responds To Petition Protesting Her Edinburgh Fringe Show, Says It “Honors Meredith Kercher’s Memory”",
@@ -3899,8 +3898,8 @@
           ]
         },
         {
-          "id": "hollywood-4-4368164344889851146",
-          "key": "hollywood-4-4368164344889851146",
+          "id": "hollywood-4-5559519107865111312",
+          "key": "hollywood-4-5559519107865111312",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Spencer Pratt Joins the Chat on the Federal Film and Television Tax Incentive",
@@ -3927,8 +3926,8 @@
           ]
         },
         {
-          "id": "hollywood-8-5906134416402173398",
-          "key": "hollywood-8-5906134416402173398",
+          "id": "hollywood-7-2423596687548313721",
+          "key": "hollywood-7-2423596687548313721",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Why did the United States film industry settle in Hollywood? - Encyclopedia Britannica",
@@ -3943,7 +3942,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 92,
+          "priority_score": 93,
           "key_data": [
             "Why did the United States film industry settle in Hollywood? - Encyclopedia Britannica"
           ],
@@ -3955,7 +3954,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-08 12:57:33 AM ET"
+      "updated_at": "2026-08-08 01:47:36 AM ET"
     },
     {
       "key": "gaming",
@@ -3965,18 +3964,18 @@
       "snapshot": "Gaming coverage is updating with 3 current RSS headline item(s).",
       "key_storylines": [
         "Marvel Tokon Stumbles to Mixed Steam Reviews as 'Miserable' PC Port Complaints Prompt Response From Arc System Works",
-        "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - mkaugaming.com",
+        "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - MKAU Gaming",
         "Newly Discovered Demon's Souls Prototype Footage Shows Scrapped First-Person Option"
       ],
       "watch_list": [
         "Marvel Tokon Stumbles to Mixed Steam Reviews as 'Miserable' PC Port Complaints Prompt Response From Arc System Works",
-        "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - mkaugaming.com",
+        "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - MKAU Gaming",
         "Newly Discovered Demon's Souls Prototype Footage Shows Scrapped First-Person Option"
       ],
       "homepage_cards": [
         {
-          "id": "gaming-0-4619002315900788325",
-          "key": "gaming-0-4619002315900788325",
+          "id": "gaming-0-4078043214976571755",
+          "key": "gaming-0-4078043214976571755",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Marvel Tokon Stumbles to Mixed Steam Reviews as 'Miserable' PC Port Complaints Prompt Response From Arc System Works",
@@ -4003,14 +4002,14 @@
           ]
         },
         {
-          "id": "gaming-20-5937195274228795999",
-          "key": "gaming-20-5937195274228795999",
+          "id": "gaming-20-4194508606485291186",
+          "key": "gaming-20-4194508606485291186",
           "category": "Gaming",
           "label": "Gaming",
-          "headline": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - mkaugaming.com",
-          "title": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - mkaugaming.com",
-          "snapshot": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment mkaugaming.com",
-          "summary": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment mkaugaming.com",
+          "headline": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - MKAU Gaming",
+          "title": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - MKAU Gaming",
+          "snapshot": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment MKAU Gaming",
+          "summary": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment MKAU Gaming",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdFNTRWt5V3c0U3Q5M0pPdkNHUDQ3d2tpWkxGLXlwXzVHNmZGMmVlcmJVY2Q4TnlWc2pGaEFsMDdQdUExWHJYUlZidWdiV3pfQzFvd3JBQzIwc1k0LWNEdERFWUJhdTRiMDdDTmZTS0d3TlgxMnVsekxUWTI4dEx6ajlNZlhHRTRuRGRrMHNnOFluZE5zNzlGVE9TOUpSX19ibDJpT0tqZXE5YkVa?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -4021,7 +4020,7 @@
           "story_type": "rss_headline",
           "priority_score": 80,
           "key_data": [
-            "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - mkaugaming.com"
+            "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - MKAU Gaming"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4031,8 +4030,8 @@
           ]
         },
         {
-          "id": "gaming-1-4150232953650219289",
-          "key": "gaming-1-4150232953650219289",
+          "id": "gaming-1-5755630786702066303",
+          "key": "gaming-1-5755630786702066303",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Newly Discovered Demon's Souls Prototype Footage Shows Scrapped First-Person Option",
@@ -4061,8 +4060,8 @@
       ],
       "items": [
         {
-          "id": "gaming-0-4619002315900788325",
-          "key": "gaming-0-4619002315900788325",
+          "id": "gaming-0-4078043214976571755",
+          "key": "gaming-0-4078043214976571755",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Marvel Tokon Stumbles to Mixed Steam Reviews as 'Miserable' PC Port Complaints Prompt Response From Arc System Works",
@@ -4089,14 +4088,14 @@
           ]
         },
         {
-          "id": "gaming-20-5937195274228795999",
-          "key": "gaming-20-5937195274228795999",
+          "id": "gaming-20-4194508606485291186",
+          "key": "gaming-20-4194508606485291186",
           "category": "Gaming",
           "label": "Gaming",
-          "headline": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - mkaugaming.com",
-          "title": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - mkaugaming.com",
-          "snapshot": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment mkaugaming.com",
-          "summary": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment mkaugaming.com",
+          "headline": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - MKAU Gaming",
+          "title": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - MKAU Gaming",
+          "snapshot": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment MKAU Gaming",
+          "summary": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment MKAU Gaming",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdFNTRWt5V3c0U3Q5M0pPdkNHUDQ3d2tpWkxGLXlwXzVHNmZGMmVlcmJVY2Q4TnlWc2pGaEFsMDdQdUExWHJYUlZidWdiV3pfQzFvd3JBQzIwc1k0LWNEdERFWUJhdTRiMDdDTmZTS0d3TlgxMnVsekxUWTI4dEx6ajlNZlhHRTRuRGRrMHNnOFluZE5zNzlGVE9TOUpSX19ibDJpT0tqZXE5YkVa?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -4107,7 +4106,7 @@
           "story_type": "rss_headline",
           "priority_score": 80,
           "key_data": [
-            "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - mkaugaming.com"
+            "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - MKAU Gaming"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4117,8 +4116,8 @@
           ]
         },
         {
-          "id": "gaming-1-4150232953650219289",
-          "key": "gaming-1-4150232953650219289",
+          "id": "gaming-1-5755630786702066303",
+          "key": "gaming-1-5755630786702066303",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Newly Discovered Demon's Souls Prototype Footage Shows Scrapped First-Person Option",
@@ -4145,32 +4144,30 @@
           ]
         }
       ],
-      "updated_at": "2026-08-08 12:57:34 AM ET"
+      "updated_at": "2026-08-08 01:47:37 AM ET"
     },
     {
       "key": "media",
       "name": "Media",
       "title": "Media Report",
       "headline": "Paramount’s U.K. Concessions Give ‘Powerful Credibility’ to State AGs’ Lawsuit, Block the Merger Coalition Says: ‘The Dangers’ in U.S. Market ‘Are Unmistakable’",
-      "snapshot": "Media coverage is updating with 5 current RSS headline item(s).",
+      "snapshot": "Media coverage is updating with 4 current RSS headline item(s).",
       "key_storylines": [
         "Paramount’s U.K. Concessions Give ‘Powerful Credibility’ to State AGs’ Lawsuit, Block the Merger Coalition Says: ‘The Dangers’ in U.S. Market ‘Are Unmistakable’",
         "Judge Clarifies That Reporter Catherine Herridge Doesn’t Have To Pay $800-Per-Day Contempt Fines As She Pursues Supreme Court Appeal",
-        "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
         "LISTEN: Fear, Loathing and Endless Potential: AI4 Conference Takes Stock of Transformative Technologies",
         "Trump White House Uses Spider-Man Imagery To Promote ICE Deportations"
       ],
       "watch_list": [
         "Paramount’s U.K. Concessions Give ‘Powerful Credibility’ to State AGs’ Lawsuit, Block the Merger Coalition Says: ‘The Dangers’ in U.S. Market ‘Are Unmistakable’",
         "Judge Clarifies That Reporter Catherine Herridge Doesn’t Have To Pay $800-Per-Day Contempt Fines As She Pursues Supreme Court Appeal",
-        "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
         "LISTEN: Fear, Loathing and Endless Potential: AI4 Conference Takes Stock of Transformative Technologies",
         "Trump White House Uses Spider-Man Imagery To Promote ICE Deportations"
       ],
       "homepage_cards": [
         {
-          "id": "media-0-6044291675380819097",
-          "key": "media-0-6044291675380819097",
+          "id": "media-0-2695507596598783167",
+          "key": "media-0-2695507596598783167",
           "category": "Media",
           "label": "Media",
           "headline": "Paramount’s U.K. Concessions Give ‘Powerful Credibility’ to State AGs’ Lawsuit, Block the Merger Coalition Says: ‘The Dangers’ in U.S. Market ‘Are Unmistakable’",
@@ -4197,8 +4194,8 @@
           ]
         },
         {
-          "id": "media-9-6364601476918676752",
-          "key": "media-9-6364601476918676752",
+          "id": "media-9-7610245266553602139",
+          "key": "media-9-7610245266553602139",
           "category": "Media",
           "label": "Media",
           "headline": "Judge Clarifies That Reporter Catherine Herridge Doesn’t Have To Pay $800-Per-Day Contempt Fines As She Pursues Supreme Court Appeal",
@@ -4225,36 +4222,8 @@
           ]
         },
         {
-          "id": "media-19-5532968946951413434",
-          "key": "media-19-5532968946951413434",
-          "category": "Media",
-          "label": "Media",
-          "headline": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
-          "title": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
-          "snapshot": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar News On AIR",
-          "summary": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar News On AIR",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSWNQSE9iNkw3bldMbkp6MEM2T0YyeVlOX1diZU9JdjZVZFpwMXNTemp3dXFqaW9iX3VwdTJvT3BsQ1pXWnI4ZGs3VlMzZzRMeEF1VG83SGVZVHlrSnVYLU1WcWhlcmNzRlNUWFhXaFdyUzRUaVQzN2RCX3lOTFZ6b0xHUzgtQUJfTnhvQllmM3gxQWF4c05vd1I4NjdsaGFmcnlQR2lNdTUtYVlQVm9JLVBKVTdnMWZuaElFSWphZm1yUGZOZHBVZkxmeExENGk2eWtwTEt2S1VhcjNIMG1PcnBsYmdWcmc?oc=5",
-          "source": "Google News",
-          "source_name": "Google News",
-          "source_feed": "https://news.google.com/rss/search?q=media+entertainment+industry+news&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-06 12:18:12 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 81,
-          "key_data": [
-            "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "media-1-4247345124857249501",
-          "key": "media-1-4247345124857249501",
+          "id": "media-1-4830130599414462888",
+          "key": "media-1-4830130599414462888",
           "category": "Media",
           "label": "Media",
           "headline": "LISTEN: Fear, Loathing and Endless Potential: AI4 Conference Takes Stock of Transformative Technologies",
@@ -4281,8 +4250,8 @@
           ]
         },
         {
-          "id": "media-10-780291632559713288",
-          "key": "media-10-780291632559713288",
+          "id": "media-10-4919749169149723625",
+          "key": "media-10-4919749169149723625",
           "category": "Media",
           "label": "Media",
           "headline": "Trump White House Uses Spider-Man Imagery To Promote ICE Deportations",
@@ -4311,8 +4280,8 @@
       ],
       "items": [
         {
-          "id": "media-0-6044291675380819097",
-          "key": "media-0-6044291675380819097",
+          "id": "media-0-2695507596598783167",
+          "key": "media-0-2695507596598783167",
           "category": "Media",
           "label": "Media",
           "headline": "Paramount’s U.K. Concessions Give ‘Powerful Credibility’ to State AGs’ Lawsuit, Block the Merger Coalition Says: ‘The Dangers’ in U.S. Market ‘Are Unmistakable’",
@@ -4339,8 +4308,8 @@
           ]
         },
         {
-          "id": "media-9-6364601476918676752",
-          "key": "media-9-6364601476918676752",
+          "id": "media-9-7610245266553602139",
+          "key": "media-9-7610245266553602139",
           "category": "Media",
           "label": "Media",
           "headline": "Judge Clarifies That Reporter Catherine Herridge Doesn’t Have To Pay $800-Per-Day Contempt Fines As She Pursues Supreme Court Appeal",
@@ -4367,36 +4336,8 @@
           ]
         },
         {
-          "id": "media-19-5532968946951413434",
-          "key": "media-19-5532968946951413434",
-          "category": "Media",
-          "label": "Media",
-          "headline": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
-          "title": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
-          "snapshot": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar News On AIR",
-          "summary": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar News On AIR",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSWNQSE9iNkw3bldMbkp6MEM2T0YyeVlOX1diZU9JdjZVZFpwMXNTemp3dXFqaW9iX3VwdTJvT3BsQ1pXWnI4ZGs3VlMzZzRMeEF1VG83SGVZVHlrSnVYLU1WcWhlcmNzRlNUWFhXaFdyUzRUaVQzN2RCX3lOTFZ6b0xHUzgtQUJfTnhvQllmM3gxQWF4c05vd1I4NjdsaGFmcnlQR2lNdTUtYVlQVm9JLVBKVTdnMWZuaElFSWphZm1yUGZOZHBVZkxmeExENGk2eWtwTEt2S1VhcjNIMG1PcnBsYmdWcmc?oc=5",
-          "source": "Google News",
-          "source_name": "Google News",
-          "source_feed": "https://news.google.com/rss/search?q=media+entertainment+industry+news&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-06 12:18:12 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 81,
-          "key_data": [
-            "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "media-1-4247345124857249501",
-          "key": "media-1-4247345124857249501",
+          "id": "media-1-4830130599414462888",
+          "key": "media-1-4830130599414462888",
           "category": "Media",
           "label": "Media",
           "headline": "LISTEN: Fear, Loathing and Endless Potential: AI4 Conference Takes Stock of Transformative Technologies",
@@ -4423,8 +4364,8 @@
           ]
         },
         {
-          "id": "media-10-780291632559713288",
-          "key": "media-10-780291632559713288",
+          "id": "media-10-4919749169149723625",
+          "key": "media-10-4919749169149723625",
           "category": "Media",
           "label": "Media",
           "headline": "Trump White House Uses Spider-Man Imagery To Promote ICE Deportations",
@@ -4451,7 +4392,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-08 12:57:35 AM ET"
+      "updated_at": "2026-08-08 01:47:38 AM ET"
     }
   ]
 }
