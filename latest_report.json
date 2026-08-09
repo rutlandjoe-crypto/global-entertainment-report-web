@@ -4,16 +4,16 @@
   "site_name": "Global Entertainment Report",
   "vertical": "Entertainment",
   "headline": "'Teenage Sex and Death at Camp Miasma' Cinematographer, Editor and Star Jack Haven Break Down Little Death's Bloody One-Take Dance",
-  "snapshot": "Global Entertainment Report accepted 44 real RSS item(s) across 31 checked feed request(s).",
-  "generated_at": "2026-08-09 03:33:24 PM ET",
-  "updated_at": "2026-08-09 03:33:24 PM ET",
-  "published_at": "2026-08-09 03:33:24 PM ET",
+  "snapshot": "Global Entertainment Report accepted 45 real RSS item(s) across 31 checked feed request(s).",
+  "generated_at": "2026-08-09 04:33:17 PM ET",
+  "updated_at": "2026-08-09 04:33:17 PM ET",
+  "published_at": "2026-08-09 04:33:17 PM ET",
   "source_mode": "live RSS ingestion",
   "freshness": {
     "max_item_age_hours": 336,
-    "accepted_real_items": 44,
+    "accepted_real_items": 45,
     "checked_feeds": 31,
-    "feeds_without_accepted_items": 8
+    "feeds_without_accepted_items": 7
   },
   "feed_audit": [
     {
@@ -220,9 +220,9 @@
       "final_url": "https://variety.com/v/film/box-office/feed/",
       "item_count": 10,
       "accepted_count": 2,
-      "rejected_count": 1,
+      "rejected_count": 3,
       "rejection_reasons": {
-        "duplicate-story": 1
+        "duplicate-story": 3
       }
     },
     {
@@ -232,10 +232,10 @@
       "final_url": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 51,
+      "rejected_count": 50,
       "rejection_reasons": {
         "duplicate-story": 2,
-        "stale-over-336h": 49
+        "stale-over-336h": 48
       }
     },
     {
@@ -281,9 +281,9 @@
       "final_url": "https://deadline.com/feed/",
       "item_count": 12,
       "accepted_count": 2,
-      "rejected_count": 7,
+      "rejected_count": 6,
       "rejection_reasons": {
-        "duplicate-story": 7
+        "duplicate-story": 6
       }
     },
     {
@@ -293,9 +293,9 @@
       "final_url": "https://www.hollywoodreporter.com/feed/",
       "item_count": 10,
       "accepted_count": 2,
-      "rejected_count": 4,
+      "rejected_count": 3,
       "rejection_reasons": {
-        "duplicate-story": 4
+        "duplicate-story": 3
       }
     },
     {
@@ -326,10 +326,10 @@
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=gaming+video+games+entertainment&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
-      "accepted_count": 0,
-      "rejected_count": 100,
+      "accepted_count": 1,
+      "rejected_count": 99,
       "rejection_reasons": {
-        "stale-over-336h": 100
+        "stale-over-336h": 99
       }
     },
     {
@@ -375,15 +375,15 @@
     "Alia Shawkat Talks Reuniting With Kristen Stewart In 'The Wrong Girls' After She \"Literally Was Not Allowed To Speak\" In 2010's 'The Runaways'",
     "Letterboxd Responds to Website Crash that Signed Users Out of Accounts",
     "30 Years Ago Today: 1996 Film, Named One of Robin Williams' Worst Movies, Was Released - Men's Journal",
-    "Whitney Houston Joins Barbie Signature Family",
+    "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night",
     "'If You're Not a Netflix Subscriber, You Definitely Should Be' - Take-Two Boss Teases Grand Theft Auto VI: An Extended Look",
     "The Blockbuster Mentality Is Back, Baby!",
     "'Five Nights at Freddy's' Immersive Freddy Fazbear's Pizza Opening In N.J. Mall"
   ],
   "live_newsroom": [
     {
-      "id": "film-0-8266076180822044022",
-      "key": "film-0-8266076180822044022",
+      "id": "film-0-1843678662844569066",
+      "key": "film-0-1843678662844569066",
       "category": "Film",
       "label": "Film",
       "headline": "'Teenage Sex and Death at Camp Miasma' Cinematographer, Editor and Star Jack Haven Break Down Little Death's Bloody One-Take Dance",
@@ -409,8 +409,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-3027966976223750619",
-      "key": "film-10-3027966976223750619",
+      "id": "film-10-6065306784907337238",
+      "key": "film-10-6065306784907337238",
       "category": "Film",
       "label": "Film",
       "headline": "Alia Shawkat Talks Reuniting With Kristen Stewart In 'The Wrong Girls' After She \"Literally Was Not Allowed To Speak\" In 2010's 'The Runaways'",
@@ -436,14 +436,14 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-4659656818236802326",
-      "key": "film-22-4659656818236802326",
+      "id": "film-22-276870407543081380",
+      "key": "film-22-276870407543081380",
       "category": "Film",
       "label": "Film",
       "headline": "Letterboxd Responds to Website Crash that Signed Users Out of Accounts",
       "title": "Letterboxd Responds to Website Crash that Signed Users Out of Accounts",
-      "snapshot": "\"We're still working to resolve the outage affecting our service,\" the platform for cinephiles wrote on social media Sunday morning.",
-      "summary": "\"We're still working to resolve the outage affecting our service,\" the platform for cinephiles wrote on social media Sunday morning.",
+      "snapshot": "The platform for cinephiles updated users Sunday afternoon that \"we're now back online.\"",
+      "summary": "The platform for cinephiles updated users Sunday afternoon that \"we're now back online.\"",
       "url": "https://www.hollywoodreporter.com/movies/movie-news/letterboxd-responds-app-crash-users-signed-out-accounts-1236669756/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
@@ -463,8 +463,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-820283023118224515",
-      "key": "film-32-820283023118224515",
+      "id": "film-32-4168641059589858149",
+      "key": "film-32-4168641059589858149",
       "category": "Film",
       "label": "Film",
       "headline": "30 Years Ago Today: 1996 Film, Named One of Robin Williams' Worst Movies, Was Released - Men's Journal",
@@ -490,22 +490,22 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-5779459454778484488",
-      "key": "music-10-5779459454778484488",
+      "id": "music-10-361680126328980245",
+      "key": "music-10-361680126328980245",
       "category": "Music",
       "label": "Music",
-      "headline": "Whitney Houston Joins Barbie Signature Family",
-      "title": "Whitney Houston Joins Barbie Signature Family",
-      "snapshot": "Inspired by singer's classic video \"I Wanna Dance with Somebody,\" collector's doll was unveiled at fifth annual Legacy of Love Gala in Atlanta.",
-      "summary": "Inspired by singer's classic video \"I Wanna Dance with Somebody,\" collector's doll was unveiled at fifth annual Legacy of Love Gala in Atlanta.",
-      "url": "https://www.billboard.com/music/pop/whitney-houston-barbie-signature-doll-mattel-1236312340/",
+      "headline": "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night",
+      "title": "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night",
+      "snapshot": "The four-night run at Wynn Las Vegas' Encore Theater was scheduled to begin Aug. 14.",
+      "summary": "The four-night run at Wynn Las Vegas' Encore Theater was scheduled to begin Aug. 14.",
+      "url": "https://www.billboard.com/music/music-news/morrissey-cancels-las-vegas-residency-logistical-issues-1236312360/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-09 03:32:40 PM ET",
+      "published_at": "2026-08-09 04:06:17 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Whitney Houston Joins Barbie Signature Family"
+        "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -517,8 +517,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-6543972169034959191",
-      "key": "gaming-0-6543972169034959191",
+      "id": "gaming-0-1771174860359558994",
+      "key": "gaming-0-1771174860359558994",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "'If You're Not a Netflix Subscriber, You Definitely Should Be' - Take-Two Boss Teases Grand Theft Auto VI: An Extended Look",
@@ -544,8 +544,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-4068225570800171982",
-      "key": "film-1-4068225570800171982",
+      "id": "film-1-1613072526871323066",
+      "key": "film-1-1613072526871323066",
       "category": "Film",
       "label": "Film",
       "headline": "The Blockbuster Mentality Is Back, Baby!",
@@ -571,8 +571,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-1222541656956789529",
-      "key": "film-11-1222541656956789529",
+      "id": "film-11-4877944649529633768",
+      "key": "film-11-4877944649529633768",
       "category": "Film",
       "label": "Film",
       "headline": "'Five Nights at Freddy's' Immersive Freddy Fazbear's Pizza Opening In N.J. Mall",
@@ -598,8 +598,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-9127146216688966795",
-      "key": "film-23-9127146216688966795",
+      "id": "film-23-9118910404372306641",
+      "key": "film-23-9118910404372306641",
       "category": "Film",
       "label": "Film",
       "headline": "'Spring Story,' 'The Surubí,' 'Yazz' Among Locarno Pro Winners",
@@ -625,8 +625,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-5187302504907006282",
-      "key": "film-33-5187302504907006282",
+      "id": "film-33-8834409920646132563",
+      "key": "film-33-8834409920646132563",
       "category": "Film",
       "label": "Film",
       "headline": "Our favorite memories at the movies - The Verge",
@@ -652,22 +652,22 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-6161922608862083466",
-      "key": "music-11-6161922608862083466",
+      "id": "music-11-3022086818875553012",
+      "key": "music-11-3022086818875553012",
       "category": "Music",
       "label": "Music",
-      "headline": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
-      "title": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
-      "snapshot": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
-      "summary": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
-      "url": "https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
+      "headline": "Whitney Houston Joins Barbie Signature Family",
+      "title": "Whitney Houston Joins Barbie Signature Family",
+      "snapshot": "Inspired by singer's classic video \"I Wanna Dance with Somebody,\" collector's doll was unveiled at fifth annual Legacy of Love Gala in Atlanta.",
+      "summary": "Inspired by singer's classic video \"I Wanna Dance with Somebody,\" collector's doll was unveiled at fifth annual Legacy of Love Gala in Atlanta.",
+      "url": "https://www.billboard.com/music/pop/whitney-houston-barbie-signature-doll-mattel-1236312340/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-09 03:14:52 PM ET",
+      "published_at": "2026-08-09 03:32:40 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List"
+        "Whitney Houston Joins Barbie Signature Family"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -679,8 +679,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-4184898747158495529",
-      "key": "gaming-1-4184898747158495529",
+      "id": "gaming-1-1284770651332896267",
+      "key": "gaming-1-1284770651332896267",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027",
@@ -708,8 +708,8 @@
   ],
   "editor_signals": [
     {
-      "id": "film-2-9014414747968953182",
-      "key": "film-2-9014414747968953182",
+      "id": "film-2-5379518113388919864",
+      "key": "film-2-5379518113388919864",
       "category": "Film",
       "label": "Film",
       "headline": "'Five Nights at Freddy's' to Open Real Freddy Fazbear's Pizza Location in 2027",
@@ -735,8 +735,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-4917129268614400924",
-      "key": "film-12-4917129268614400924",
+      "id": "film-12-1377462956900952298",
+      "key": "film-12-1377462956900952298",
       "category": "Film",
       "label": "Film",
       "headline": "James Gray Talks Dream Quality Of Cinema & Approach With Cast: \"I'm Not A Good Director Of Actors\" - Locarno",
@@ -762,8 +762,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-336468255438356469",
-      "key": "film-24-336468255438356469",
+      "id": "film-24-2800559998675845579",
+      "key": "film-24-2800559998675845579",
       "category": "Film",
       "label": "Film",
       "headline": "'Spider-Man: Brand New Day' Scores $145M for Third-Best Second Weekend Ever",
@@ -789,8 +789,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-4970157256257011457",
-      "key": "film-34-4970157256257011457",
+      "id": "film-34-638595601973715750",
+      "key": "film-34-638595601973715750",
       "category": "Film",
       "label": "Film",
       "headline": "The 35 best sci-fi movies of all time (August 2026) - Entertainment Weekly",
@@ -816,22 +816,22 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-9068679265191907822",
-      "key": "music-12-9068679265191907822",
+      "id": "music-12-249787091541227993",
+      "key": "music-12-249787091541227993",
       "category": "Music",
       "label": "Music",
-      "headline": "Ariana Grande Achieves Seventh No. 1 Album on Billboard 200 With 'petal'",
-      "title": "Ariana Grande Achieves Seventh No. 1 Album on Billboard 200 With 'petal'",
-      "snapshot": "The set scores Grande her biggest week by units earned this decade.",
-      "summary": "The set scores Grande her biggest week by units earned this decade.",
-      "url": "https://www.billboard.com/music/chart-beat/ariana-grande-petal-number-one-billboard-200-chart-1236312334/",
+      "headline": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
+      "title": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
+      "snapshot": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
+      "summary": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
+      "url": "https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-09 03:00:18 PM ET",
+      "published_at": "2026-08-09 03:14:52 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Ariana Grande Achieves Seventh No. 1 Album on Billboard 200 With 'petal'"
+        "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -843,8 +843,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-4267568674574165549",
-      "key": "gaming-2-4267568674574165549",
+      "id": "gaming-2-3591994647081166119",
+      "key": "gaming-2-3591994647081166119",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "'They Fundamentally Don't Understand Art' - Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs",
@@ -870,8 +870,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-7931019951086207195",
-      "key": "film-3-7931019951086207195",
+      "id": "film-3-7572059194911506534",
+      "key": "film-3-7572059194911506534",
       "category": "Film",
       "label": "Film",
       "headline": "Florian Hoffmann's U.N. Compound Drama 'Yazz' Takes Main Alliance 4 Development Prizes at Locarno Pro Awards",
@@ -897,8 +897,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-3787781961474914621",
-      "key": "film-13-3787781961474914621",
+      "id": "film-13-4752009592487659812",
+      "key": "film-13-4752009592487659812",
       "category": "Film",
       "label": "Film",
       "headline": "Matthew McConaughey Performs \"Quill\" In Scene From 'The Rivals of Amziah King' - Watch",
@@ -924,8 +924,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-8295508851377800415",
-      "key": "film-25-8295508851377800415",
+      "id": "film-25-4805273486500470307",
+      "key": "film-25-4805273486500470307",
       "category": "Film",
       "label": "Film",
       "headline": "'The Odyssey' Makes History as Christopher Nolan's Top-Grossing Movie Ever, Beating 'Dark Knight Rises'",
@@ -951,8 +951,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-6216817207321422617",
-      "key": "film-35-6216817207321422617",
+      "id": "film-35-8621763851138084080",
+      "key": "film-35-8621763851138084080",
       "category": "Film",
       "label": "Film",
       "headline": "Everything to know about 'Madden,' a new movie coming to Prime Video November 18 - About Amazon",
@@ -978,22 +978,22 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-2399093550489131790",
-      "key": "music-13-2399093550489131790",
+      "id": "music-13-4569237195353290132",
+      "key": "music-13-4569237195353290132",
       "category": "Music",
       "label": "Music",
-      "headline": "LA Jazz Festival Featuring John Legend & Janelle Monáe Canceled at Last Minute",
-      "title": "LA Jazz Festival Featuring John Legend & Janelle Monáe Canceled at Last Minute",
-      "snapshot": "The 17-day event has been postponed to 2027, organizers announced.",
-      "summary": "The 17-day event has been postponed to 2027, organizers announced.",
-      "url": "https://www.billboard.com/music/concerts/la-jazz-festival-canceled-postponed-2027-john-legend-1236312333/",
+      "headline": "Ariana Grande Achieves Seventh No. 1 Album on Billboard 200 With 'petal'",
+      "title": "Ariana Grande Achieves Seventh No. 1 Album on Billboard 200 With 'petal'",
+      "snapshot": "The set scores Grande her biggest week by units earned this decade.",
+      "summary": "The set scores Grande her biggest week by units earned this decade.",
+      "url": "https://www.billboard.com/music/chart-beat/ariana-grande-petal-number-one-billboard-200-chart-1236312334/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-09 01:41:32 PM ET",
+      "published_at": "2026-08-09 03:00:18 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "LA Jazz Festival Featuring John Legend & Janelle Monáe Canceled at Last Minute"
+        "Ariana Grande Achieves Seventh No. 1 Album on Billboard 200 With 'petal'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1005,8 +1005,8 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-3192320254275006088",
-      "key": "gaming-3-3192320254275006088",
+      "id": "gaming-3-6819800558297421190",
+      "key": "gaming-3-6819800558297421190",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The Best Deals Today: AirPods Pro 3, LEGO Back to the Future, Saros, and More",
@@ -1034,8 +1034,8 @@
   ],
   "homepage_cards": [
     {
-      "id": "film-0-8266076180822044022",
-      "key": "film-0-8266076180822044022",
+      "id": "film-0-1843678662844569066",
+      "key": "film-0-1843678662844569066",
       "category": "Film",
       "label": "Film",
       "headline": "'Teenage Sex and Death at Camp Miasma' Cinematographer, Editor and Star Jack Haven Break Down Little Death's Bloody One-Take Dance",
@@ -1061,8 +1061,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-3027966976223750619",
-      "key": "film-10-3027966976223750619",
+      "id": "film-10-6065306784907337238",
+      "key": "film-10-6065306784907337238",
       "category": "Film",
       "label": "Film",
       "headline": "Alia Shawkat Talks Reuniting With Kristen Stewart In 'The Wrong Girls' After She \"Literally Was Not Allowed To Speak\" In 2010's 'The Runaways'",
@@ -1088,14 +1088,14 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-4659656818236802326",
-      "key": "film-22-4659656818236802326",
+      "id": "film-22-276870407543081380",
+      "key": "film-22-276870407543081380",
       "category": "Film",
       "label": "Film",
       "headline": "Letterboxd Responds to Website Crash that Signed Users Out of Accounts",
       "title": "Letterboxd Responds to Website Crash that Signed Users Out of Accounts",
-      "snapshot": "\"We're still working to resolve the outage affecting our service,\" the platform for cinephiles wrote on social media Sunday morning.",
-      "summary": "\"We're still working to resolve the outage affecting our service,\" the platform for cinephiles wrote on social media Sunday morning.",
+      "snapshot": "The platform for cinephiles updated users Sunday afternoon that \"we're now back online.\"",
+      "summary": "The platform for cinephiles updated users Sunday afternoon that \"we're now back online.\"",
       "url": "https://www.hollywoodreporter.com/movies/movie-news/letterboxd-responds-app-crash-users-signed-out-accounts-1236669756/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
@@ -1115,8 +1115,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-820283023118224515",
-      "key": "film-32-820283023118224515",
+      "id": "film-32-4168641059589858149",
+      "key": "film-32-4168641059589858149",
       "category": "Film",
       "label": "Film",
       "headline": "30 Years Ago Today: 1996 Film, Named One of Robin Williams' Worst Movies, Was Released - Men's Journal",
@@ -1142,22 +1142,22 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-5779459454778484488",
-      "key": "music-10-5779459454778484488",
+      "id": "music-10-361680126328980245",
+      "key": "music-10-361680126328980245",
       "category": "Music",
       "label": "Music",
-      "headline": "Whitney Houston Joins Barbie Signature Family",
-      "title": "Whitney Houston Joins Barbie Signature Family",
-      "snapshot": "Inspired by singer's classic video \"I Wanna Dance with Somebody,\" collector's doll was unveiled at fifth annual Legacy of Love Gala in Atlanta.",
-      "summary": "Inspired by singer's classic video \"I Wanna Dance with Somebody,\" collector's doll was unveiled at fifth annual Legacy of Love Gala in Atlanta.",
-      "url": "https://www.billboard.com/music/pop/whitney-houston-barbie-signature-doll-mattel-1236312340/",
+      "headline": "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night",
+      "title": "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night",
+      "snapshot": "The four-night run at Wynn Las Vegas' Encore Theater was scheduled to begin Aug. 14.",
+      "summary": "The four-night run at Wynn Las Vegas' Encore Theater was scheduled to begin Aug. 14.",
+      "url": "https://www.billboard.com/music/music-news/morrissey-cancels-las-vegas-residency-logistical-issues-1236312360/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-09 03:32:40 PM ET",
+      "published_at": "2026-08-09 04:06:17 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Whitney Houston Joins Barbie Signature Family"
+        "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1169,8 +1169,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-6543972169034959191",
-      "key": "gaming-0-6543972169034959191",
+      "id": "gaming-0-1771174860359558994",
+      "key": "gaming-0-1771174860359558994",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "'If You're Not a Netflix Subscriber, You Definitely Should Be' - Take-Two Boss Teases Grand Theft Auto VI: An Extended Look",
@@ -1196,8 +1196,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-4068225570800171982",
-      "key": "film-1-4068225570800171982",
+      "id": "film-1-1613072526871323066",
+      "key": "film-1-1613072526871323066",
       "category": "Film",
       "label": "Film",
       "headline": "The Blockbuster Mentality Is Back, Baby!",
@@ -1223,8 +1223,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-1222541656956789529",
-      "key": "film-11-1222541656956789529",
+      "id": "film-11-4877944649529633768",
+      "key": "film-11-4877944649529633768",
       "category": "Film",
       "label": "Film",
       "headline": "'Five Nights at Freddy's' Immersive Freddy Fazbear's Pizza Opening In N.J. Mall",
@@ -1250,8 +1250,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-9127146216688966795",
-      "key": "film-23-9127146216688966795",
+      "id": "film-23-9118910404372306641",
+      "key": "film-23-9118910404372306641",
       "category": "Film",
       "label": "Film",
       "headline": "'Spring Story,' 'The Surubí,' 'Yazz' Among Locarno Pro Winners",
@@ -1277,8 +1277,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-5187302504907006282",
-      "key": "film-33-5187302504907006282",
+      "id": "film-33-8834409920646132563",
+      "key": "film-33-8834409920646132563",
       "category": "Film",
       "label": "Film",
       "headline": "Our favorite memories at the movies - The Verge",
@@ -1304,22 +1304,22 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-6161922608862083466",
-      "key": "music-11-6161922608862083466",
+      "id": "music-11-3022086818875553012",
+      "key": "music-11-3022086818875553012",
       "category": "Music",
       "label": "Music",
-      "headline": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
-      "title": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
-      "snapshot": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
-      "summary": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
-      "url": "https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
+      "headline": "Whitney Houston Joins Barbie Signature Family",
+      "title": "Whitney Houston Joins Barbie Signature Family",
+      "snapshot": "Inspired by singer's classic video \"I Wanna Dance with Somebody,\" collector's doll was unveiled at fifth annual Legacy of Love Gala in Atlanta.",
+      "summary": "Inspired by singer's classic video \"I Wanna Dance with Somebody,\" collector's doll was unveiled at fifth annual Legacy of Love Gala in Atlanta.",
+      "url": "https://www.billboard.com/music/pop/whitney-houston-barbie-signature-doll-mattel-1236312340/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-09 03:14:52 PM ET",
+      "published_at": "2026-08-09 03:32:40 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List"
+        "Whitney Houston Joins Barbie Signature Family"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1331,8 +1331,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-4184898747158495529",
-      "key": "gaming-1-4184898747158495529",
+      "id": "gaming-1-1284770651332896267",
+      "key": "gaming-1-1284770651332896267",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027",
@@ -1358,8 +1358,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-2-9014414747968953182",
-      "key": "film-2-9014414747968953182",
+      "id": "film-2-5379518113388919864",
+      "key": "film-2-5379518113388919864",
       "category": "Film",
       "label": "Film",
       "headline": "'Five Nights at Freddy's' to Open Real Freddy Fazbear's Pizza Location in 2027",
@@ -1385,8 +1385,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-4917129268614400924",
-      "key": "film-12-4917129268614400924",
+      "id": "film-12-1377462956900952298",
+      "key": "film-12-1377462956900952298",
       "category": "Film",
       "label": "Film",
       "headline": "James Gray Talks Dream Quality Of Cinema & Approach With Cast: \"I'm Not A Good Director Of Actors\" - Locarno",
@@ -1412,8 +1412,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-336468255438356469",
-      "key": "film-24-336468255438356469",
+      "id": "film-24-2800559998675845579",
+      "key": "film-24-2800559998675845579",
       "category": "Film",
       "label": "Film",
       "headline": "'Spider-Man: Brand New Day' Scores $145M for Third-Best Second Weekend Ever",
@@ -1439,8 +1439,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-4970157256257011457",
-      "key": "film-34-4970157256257011457",
+      "id": "film-34-638595601973715750",
+      "key": "film-34-638595601973715750",
       "category": "Film",
       "label": "Film",
       "headline": "The 35 best sci-fi movies of all time (August 2026) - Entertainment Weekly",
@@ -1466,22 +1466,22 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-9068679265191907822",
-      "key": "music-12-9068679265191907822",
+      "id": "music-12-249787091541227993",
+      "key": "music-12-249787091541227993",
       "category": "Music",
       "label": "Music",
-      "headline": "Ariana Grande Achieves Seventh No. 1 Album on Billboard 200 With 'petal'",
-      "title": "Ariana Grande Achieves Seventh No. 1 Album on Billboard 200 With 'petal'",
-      "snapshot": "The set scores Grande her biggest week by units earned this decade.",
-      "summary": "The set scores Grande her biggest week by units earned this decade.",
-      "url": "https://www.billboard.com/music/chart-beat/ariana-grande-petal-number-one-billboard-200-chart-1236312334/",
+      "headline": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
+      "title": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
+      "snapshot": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
+      "summary": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
+      "url": "https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-09 03:00:18 PM ET",
+      "published_at": "2026-08-09 03:14:52 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Ariana Grande Achieves Seventh No. 1 Album on Billboard 200 With 'petal'"
+        "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1493,8 +1493,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-4267568674574165549",
-      "key": "gaming-2-4267568674574165549",
+      "id": "gaming-2-3591994647081166119",
+      "key": "gaming-2-3591994647081166119",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "'They Fundamentally Don't Understand Art' - Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs",
@@ -1520,8 +1520,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-7931019951086207195",
-      "key": "film-3-7931019951086207195",
+      "id": "film-3-7572059194911506534",
+      "key": "film-3-7572059194911506534",
       "category": "Film",
       "label": "Film",
       "headline": "Florian Hoffmann's U.N. Compound Drama 'Yazz' Takes Main Alliance 4 Development Prizes at Locarno Pro Awards",
@@ -1547,8 +1547,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-3787781961474914621",
-      "key": "film-13-3787781961474914621",
+      "id": "film-13-4752009592487659812",
+      "key": "film-13-4752009592487659812",
       "category": "Film",
       "label": "Film",
       "headline": "Matthew McConaughey Performs \"Quill\" In Scene From 'The Rivals of Amziah King' - Watch",
@@ -1574,8 +1574,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-8295508851377800415",
-      "key": "film-25-8295508851377800415",
+      "id": "film-25-4805273486500470307",
+      "key": "film-25-4805273486500470307",
       "category": "Film",
       "label": "Film",
       "headline": "'The Odyssey' Makes History as Christopher Nolan's Top-Grossing Movie Ever, Beating 'Dark Knight Rises'",
@@ -1601,8 +1601,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-6216817207321422617",
-      "key": "film-35-6216817207321422617",
+      "id": "film-35-8621763851138084080",
+      "key": "film-35-8621763851138084080",
       "category": "Film",
       "label": "Film",
       "headline": "Everything to know about 'Madden,' a new movie coming to Prime Video November 18 - About Amazon",
@@ -1628,22 +1628,22 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-2399093550489131790",
-      "key": "music-13-2399093550489131790",
+      "id": "music-13-4569237195353290132",
+      "key": "music-13-4569237195353290132",
       "category": "Music",
       "label": "Music",
-      "headline": "LA Jazz Festival Featuring John Legend & Janelle Monáe Canceled at Last Minute",
-      "title": "LA Jazz Festival Featuring John Legend & Janelle Monáe Canceled at Last Minute",
-      "snapshot": "The 17-day event has been postponed to 2027, organizers announced.",
-      "summary": "The 17-day event has been postponed to 2027, organizers announced.",
-      "url": "https://www.billboard.com/music/concerts/la-jazz-festival-canceled-postponed-2027-john-legend-1236312333/",
+      "headline": "Ariana Grande Achieves Seventh No. 1 Album on Billboard 200 With 'petal'",
+      "title": "Ariana Grande Achieves Seventh No. 1 Album on Billboard 200 With 'petal'",
+      "snapshot": "The set scores Grande her biggest week by units earned this decade.",
+      "summary": "The set scores Grande her biggest week by units earned this decade.",
+      "url": "https://www.billboard.com/music/chart-beat/ariana-grande-petal-number-one-billboard-200-chart-1236312334/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-09 01:41:32 PM ET",
+      "published_at": "2026-08-09 03:00:18 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "LA Jazz Festival Featuring John Legend & Janelle Monáe Canceled at Last Minute"
+        "Ariana Grande Achieves Seventh No. 1 Album on Billboard 200 With 'petal'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1655,8 +1655,8 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-3192320254275006088",
-      "key": "gaming-3-3192320254275006088",
+      "id": "gaming-3-6819800558297421190",
+      "key": "gaming-3-6819800558297421190",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The Best Deals Today: AirPods Pro 3, LEGO Back to the Future, Saros, and More",
@@ -1708,8 +1708,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "film-0-8266076180822044022",
-          "key": "film-0-8266076180822044022",
+          "id": "film-0-1843678662844569066",
+          "key": "film-0-1843678662844569066",
           "category": "Film",
           "label": "Film",
           "headline": "‘Teenage Sex and Death at Camp Miasma’ Cinematographer, Editor and Star Jack Haven Break Down Little Death’s Bloody One-Take Dance",
@@ -1736,8 +1736,8 @@
           ]
         },
         {
-          "id": "film-10-3027966976223750619",
-          "key": "film-10-3027966976223750619",
+          "id": "film-10-6065306784907337238",
+          "key": "film-10-6065306784907337238",
           "category": "Film",
           "label": "Film",
           "headline": "Alia Shawkat Talks Reuniting With Kristen Stewart In ‘The Wrong Girls’ After She “Literally Was Not Allowed To Speak” In 2010’s ‘The Runaways’",
@@ -1764,14 +1764,14 @@
           ]
         },
         {
-          "id": "film-22-4659656818236802326",
-          "key": "film-22-4659656818236802326",
+          "id": "film-22-276870407543081380",
+          "key": "film-22-276870407543081380",
           "category": "Film",
           "label": "Film",
           "headline": "Letterboxd Responds to Website Crash that Signed Users Out of Accounts",
           "title": "Letterboxd Responds to Website Crash that Signed Users Out of Accounts",
-          "snapshot": "\"We’re still working to resolve the outage affecting our service,\" the platform for cinephiles wrote on social media Sunday morning.",
-          "summary": "\"We’re still working to resolve the outage affecting our service,\" the platform for cinephiles wrote on social media Sunday morning.",
+          "snapshot": "The platform for cinephiles updated users Sunday afternoon that \"we're now back online.\"",
+          "summary": "The platform for cinephiles updated users Sunday afternoon that \"we're now back online.\"",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/letterboxd-responds-app-crash-users-signed-out-accounts-1236669756/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
@@ -1792,8 +1792,8 @@
           ]
         },
         {
-          "id": "film-32-820283023118224515",
-          "key": "film-32-820283023118224515",
+          "id": "film-32-4168641059589858149",
+          "key": "film-32-4168641059589858149",
           "category": "Film",
           "label": "Film",
           "headline": "30 Years Ago Today: 1996 Film, Named One of Robin Williams’ Worst Movies, Was Released - Men's Journal",
@@ -1820,8 +1820,8 @@
           ]
         },
         {
-          "id": "film-1-4068225570800171982",
-          "key": "film-1-4068225570800171982",
+          "id": "film-1-1613072526871323066",
+          "key": "film-1-1613072526871323066",
           "category": "Film",
           "label": "Film",
           "headline": "The Blockbuster Mentality Is Back, Baby!",
@@ -1848,8 +1848,8 @@
           ]
         },
         {
-          "id": "film-11-1222541656956789529",
-          "key": "film-11-1222541656956789529",
+          "id": "film-11-4877944649529633768",
+          "key": "film-11-4877944649529633768",
           "category": "Film",
           "label": "Film",
           "headline": "‘Five Nights at Freddy’s’ Immersive Freddy Fazbear’s Pizza Opening In N.J. Mall",
@@ -1876,8 +1876,8 @@
           ]
         },
         {
-          "id": "film-23-9127146216688966795",
-          "key": "film-23-9127146216688966795",
+          "id": "film-23-9118910404372306641",
+          "key": "film-23-9118910404372306641",
           "category": "Film",
           "label": "Film",
           "headline": "‘Spring Story,’ ‘The Surubí,’ ‘Yazz’ Among Locarno Pro Winners",
@@ -1904,8 +1904,8 @@
           ]
         },
         {
-          "id": "film-33-5187302504907006282",
-          "key": "film-33-5187302504907006282",
+          "id": "film-33-8834409920646132563",
+          "key": "film-33-8834409920646132563",
           "category": "Film",
           "label": "Film",
           "headline": "Our favorite memories at the movies - The Verge",
@@ -1934,8 +1934,8 @@
       ],
       "items": [
         {
-          "id": "film-0-8266076180822044022",
-          "key": "film-0-8266076180822044022",
+          "id": "film-0-1843678662844569066",
+          "key": "film-0-1843678662844569066",
           "category": "Film",
           "label": "Film",
           "headline": "‘Teenage Sex and Death at Camp Miasma’ Cinematographer, Editor and Star Jack Haven Break Down Little Death’s Bloody One-Take Dance",
@@ -1962,8 +1962,8 @@
           ]
         },
         {
-          "id": "film-10-3027966976223750619",
-          "key": "film-10-3027966976223750619",
+          "id": "film-10-6065306784907337238",
+          "key": "film-10-6065306784907337238",
           "category": "Film",
           "label": "Film",
           "headline": "Alia Shawkat Talks Reuniting With Kristen Stewart In ‘The Wrong Girls’ After She “Literally Was Not Allowed To Speak” In 2010’s ‘The Runaways’",
@@ -1990,14 +1990,14 @@
           ]
         },
         {
-          "id": "film-22-4659656818236802326",
-          "key": "film-22-4659656818236802326",
+          "id": "film-22-276870407543081380",
+          "key": "film-22-276870407543081380",
           "category": "Film",
           "label": "Film",
           "headline": "Letterboxd Responds to Website Crash that Signed Users Out of Accounts",
           "title": "Letterboxd Responds to Website Crash that Signed Users Out of Accounts",
-          "snapshot": "\"We’re still working to resolve the outage affecting our service,\" the platform for cinephiles wrote on social media Sunday morning.",
-          "summary": "\"We’re still working to resolve the outage affecting our service,\" the platform for cinephiles wrote on social media Sunday morning.",
+          "snapshot": "The platform for cinephiles updated users Sunday afternoon that \"we're now back online.\"",
+          "summary": "The platform for cinephiles updated users Sunday afternoon that \"we're now back online.\"",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/letterboxd-responds-app-crash-users-signed-out-accounts-1236669756/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
@@ -2018,8 +2018,8 @@
           ]
         },
         {
-          "id": "film-32-820283023118224515",
-          "key": "film-32-820283023118224515",
+          "id": "film-32-4168641059589858149",
+          "key": "film-32-4168641059589858149",
           "category": "Film",
           "label": "Film",
           "headline": "30 Years Ago Today: 1996 Film, Named One of Robin Williams’ Worst Movies, Was Released - Men's Journal",
@@ -2046,8 +2046,8 @@
           ]
         },
         {
-          "id": "film-1-4068225570800171982",
-          "key": "film-1-4068225570800171982",
+          "id": "film-1-1613072526871323066",
+          "key": "film-1-1613072526871323066",
           "category": "Film",
           "label": "Film",
           "headline": "The Blockbuster Mentality Is Back, Baby!",
@@ -2074,8 +2074,8 @@
           ]
         },
         {
-          "id": "film-11-1222541656956789529",
-          "key": "film-11-1222541656956789529",
+          "id": "film-11-4877944649529633768",
+          "key": "film-11-4877944649529633768",
           "category": "Film",
           "label": "Film",
           "headline": "‘Five Nights at Freddy’s’ Immersive Freddy Fazbear’s Pizza Opening In N.J. Mall",
@@ -2102,8 +2102,8 @@
           ]
         },
         {
-          "id": "film-23-9127146216688966795",
-          "key": "film-23-9127146216688966795",
+          "id": "film-23-9118910404372306641",
+          "key": "film-23-9118910404372306641",
           "category": "Film",
           "label": "Film",
           "headline": "‘Spring Story,’ ‘The Surubí,’ ‘Yazz’ Among Locarno Pro Winners",
@@ -2130,8 +2130,8 @@
           ]
         },
         {
-          "id": "film-33-5187302504907006282",
-          "key": "film-33-5187302504907006282",
+          "id": "film-33-8834409920646132563",
+          "key": "film-33-8834409920646132563",
           "category": "Film",
           "label": "Film",
           "headline": "Our favorite memories at the movies - The Verge",
@@ -2158,7 +2158,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 03:33:26 PM ET"
+      "updated_at": "2026-08-09 04:33:18 PM ET"
     },
     {
       "key": "tv",
@@ -2183,8 +2183,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "tv-0-4571906440551769701",
-          "key": "tv-0-4571906440551769701",
+          "id": "tv-0-2199367389097198941",
+          "key": "tv-0-2199367389097198941",
           "category": "TV",
           "label": "TV",
           "headline": "What’s It Going to Take for Steve Carell to Finally Win an Emmy?",
@@ -2211,8 +2211,8 @@
           ]
         },
         {
-          "id": "tv-10-548537662612764532",
-          "key": "tv-10-548537662612764532",
+          "id": "tv-10-3592671675394304685",
+          "key": "tv-10-3592671675394304685",
           "category": "TV",
           "label": "TV",
           "headline": "Obama Blames Larry David For 2014 Tan Suit Debacle In ‘Life, Larry & the Pursuit of Unhappiness’ Finale",
@@ -2239,8 +2239,8 @@
           ]
         },
         {
-          "id": "tv-22-7498377704181050321",
-          "key": "tv-22-7498377704181050321",
+          "id": "tv-22-3658461407075729868",
+          "key": "tv-22-3658461407075729868",
           "category": "TV",
           "label": "TV",
           "headline": "Bill Maher’s Jab About Ariana Grande’s Weight Leads to ‘Real Time’ Studio Audience Groans",
@@ -2267,8 +2267,8 @@
           ]
         },
         {
-          "id": "tv-1-2909116197630793092",
-          "key": "tv-1-2909116197630793092",
+          "id": "tv-1-100789193789462878",
+          "key": "tv-1-100789193789462878",
           "category": "TV",
           "label": "TV",
           "headline": "Perez Hilton ‘Will Require Surgery’ After Live Stream Incident, Family Demands Media ‘Cease Photographing Perez’s Children’",
@@ -2295,8 +2295,8 @@
           ]
         },
         {
-          "id": "tv-11-1925618158110270596",
-          "key": "tv-11-1925618158110270596",
+          "id": "tv-11-2582070752539882492",
+          "key": "tv-11-2582070752539882492",
           "category": "TV",
           "label": "TV",
           "headline": "‘Monsters Of God’ Slithers Onto HBO: Reptilian Docuseries From ‘Tiger King’s Eric Goode",
@@ -2323,8 +2323,8 @@
           ]
         },
         {
-          "id": "tv-23-3400333363805075184",
-          "key": "tv-23-3400333363805075184",
+          "id": "tv-23-3147455178480203746",
+          "key": "tv-23-3147455178480203746",
           "category": "TV",
           "label": "TV",
           "headline": "‘Heated Rivalry’ Author Rachel Reid Pushes Back Against Season 2 Casting Criticism",
@@ -2353,8 +2353,8 @@
       ],
       "items": [
         {
-          "id": "tv-0-4571906440551769701",
-          "key": "tv-0-4571906440551769701",
+          "id": "tv-0-2199367389097198941",
+          "key": "tv-0-2199367389097198941",
           "category": "TV",
           "label": "TV",
           "headline": "What’s It Going to Take for Steve Carell to Finally Win an Emmy?",
@@ -2381,8 +2381,8 @@
           ]
         },
         {
-          "id": "tv-10-548537662612764532",
-          "key": "tv-10-548537662612764532",
+          "id": "tv-10-3592671675394304685",
+          "key": "tv-10-3592671675394304685",
           "category": "TV",
           "label": "TV",
           "headline": "Obama Blames Larry David For 2014 Tan Suit Debacle In ‘Life, Larry & the Pursuit of Unhappiness’ Finale",
@@ -2409,8 +2409,8 @@
           ]
         },
         {
-          "id": "tv-22-7498377704181050321",
-          "key": "tv-22-7498377704181050321",
+          "id": "tv-22-3658461407075729868",
+          "key": "tv-22-3658461407075729868",
           "category": "TV",
           "label": "TV",
           "headline": "Bill Maher’s Jab About Ariana Grande’s Weight Leads to ‘Real Time’ Studio Audience Groans",
@@ -2437,8 +2437,8 @@
           ]
         },
         {
-          "id": "tv-1-2909116197630793092",
-          "key": "tv-1-2909116197630793092",
+          "id": "tv-1-100789193789462878",
+          "key": "tv-1-100789193789462878",
           "category": "TV",
           "label": "TV",
           "headline": "Perez Hilton ‘Will Require Surgery’ After Live Stream Incident, Family Demands Media ‘Cease Photographing Perez’s Children’",
@@ -2465,8 +2465,8 @@
           ]
         },
         {
-          "id": "tv-11-1925618158110270596",
-          "key": "tv-11-1925618158110270596",
+          "id": "tv-11-2582070752539882492",
+          "key": "tv-11-2582070752539882492",
           "category": "TV",
           "label": "TV",
           "headline": "‘Monsters Of God’ Slithers Onto HBO: Reptilian Docuseries From ‘Tiger King’s Eric Goode",
@@ -2493,8 +2493,8 @@
           ]
         },
         {
-          "id": "tv-23-3400333363805075184",
-          "key": "tv-23-3400333363805075184",
+          "id": "tv-23-3147455178480203746",
+          "key": "tv-23-3147455178480203746",
           "category": "TV",
           "label": "TV",
           "headline": "‘Heated Rivalry’ Author Rachel Reid Pushes Back Against Season 2 Casting Criticism",
@@ -2521,30 +2521,30 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 03:33:27 PM ET"
+      "updated_at": "2026-08-09 04:33:20 PM ET"
     },
     {
       "key": "streaming",
       "name": "Streaming",
       "title": "Streaming Report",
-      "headline": "Disney turns $4-billion streaming loss into profit, and now it chases global growth - latimes.com",
+      "headline": "Disney turns $4-billion streaming loss into profit, and now it chases global growth - Los Angeles Times",
       "snapshot": "Streaming coverage is updating with 1 current RSS headline item(s).",
       "key_storylines": [
-        "Disney turns $4-billion streaming loss into profit, and now it chases global growth - latimes.com"
+        "Disney turns $4-billion streaming loss into profit, and now it chases global growth - Los Angeles Times"
       ],
       "watch_list": [
-        "Disney turns $4-billion streaming loss into profit, and now it chases global growth - latimes.com"
+        "Disney turns $4-billion streaming loss into profit, and now it chases global growth - Los Angeles Times"
       ],
       "homepage_cards": [
         {
-          "id": "streaming-0-2265842733161935189",
-          "key": "streaming-0-2265842733161935189",
+          "id": "streaming-0-7419516758766393720",
+          "key": "streaming-0-7419516758766393720",
           "category": "Streaming",
           "label": "Streaming",
-          "headline": "Disney turns $4-billion streaming loss into profit, and now it chases global growth - latimes.com",
-          "title": "Disney turns $4-billion streaming loss into profit, and now it chases global growth - latimes.com",
-          "snapshot": "Disney turns $4-billion streaming loss into profit, and now it chases global growth latimes.com",
-          "summary": "Disney turns $4-billion streaming loss into profit, and now it chases global growth latimes.com",
+          "headline": "Disney turns $4-billion streaming loss into profit, and now it chases global growth - Los Angeles Times",
+          "title": "Disney turns $4-billion streaming loss into profit, and now it chases global growth - Los Angeles Times",
+          "snapshot": "Disney turns $4-billion streaming loss into profit, and now it chases global growth Los Angeles Times",
+          "summary": "Disney turns $4-billion streaming loss into profit, and now it chases global growth Los Angeles Times",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa2g4VHQ0V0k1Y0hCMWRnVEVycUllVzl5V0haUzVzRDBxMjRuWU8yamUzWXZ1SVFlMG9CRjNOT1lQY1RFbmNtemJIelBPVHFhS1lKbHprRGd1djVDV3VEU09sa19saWRWR1BOTnplMXQzQVdKb0liWkhYM1FyYV9FS1pXajJ5WnRrTExKQmp4dmlFejl1alpHVFNqUkJ2aG44MjlBYkpZaDBQWGxvSEJuUHE4Yzl1M3hHN0FKSnoxUEVZZ1A4QVE?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -2555,7 +2555,7 @@
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Disney turns $4-billion streaming loss into profit, and now it chases global growth - latimes.com"
+            "Disney turns $4-billion streaming loss into profit, and now it chases global growth - Los Angeles Times"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2567,14 +2567,14 @@
       ],
       "items": [
         {
-          "id": "streaming-0-2265842733161935189",
-          "key": "streaming-0-2265842733161935189",
+          "id": "streaming-0-7419516758766393720",
+          "key": "streaming-0-7419516758766393720",
           "category": "Streaming",
           "label": "Streaming",
-          "headline": "Disney turns $4-billion streaming loss into profit, and now it chases global growth - latimes.com",
-          "title": "Disney turns $4-billion streaming loss into profit, and now it chases global growth - latimes.com",
-          "snapshot": "Disney turns $4-billion streaming loss into profit, and now it chases global growth latimes.com",
-          "summary": "Disney turns $4-billion streaming loss into profit, and now it chases global growth latimes.com",
+          "headline": "Disney turns $4-billion streaming loss into profit, and now it chases global growth - Los Angeles Times",
+          "title": "Disney turns $4-billion streaming loss into profit, and now it chases global growth - Los Angeles Times",
+          "snapshot": "Disney turns $4-billion streaming loss into profit, and now it chases global growth Los Angeles Times",
+          "summary": "Disney turns $4-billion streaming loss into profit, and now it chases global growth Los Angeles Times",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa2g4VHQ0V0k1Y0hCMWRnVEVycUllVzl5V0haUzVzRDBxMjRuWU8yamUzWXZ1SVFlMG9CRjNOT1lQY1RFbmNtemJIelBPVHFhS1lKbHprRGd1djVDV3VEU09sa19saWRWR1BOTnplMXQzQVdKb0liWkhYM1FyYV9FS1pXajJ5WnRrTExKQmp4dmlFejl1alpHVFNqUkJ2aG44MjlBYkpZaDBQWGxvSEJuUHE4Yzl1M3hHN0FKSnoxUEVZZ1A4QVE?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -2585,7 +2585,7 @@
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Disney turns $4-billion streaming loss into profit, and now it chases global growth - latimes.com"
+            "Disney turns $4-billion streaming loss into profit, and now it chases global growth - Los Angeles Times"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2595,50 +2595,50 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 03:33:27 PM ET"
+      "updated_at": "2026-08-09 04:33:20 PM ET"
     },
     {
       "key": "music",
       "name": "Music",
       "title": "Music Report",
-      "headline": "Morrissey Cancels Las Vegas Residency Days Before Showtime Due to ‘Unforeseen Logistical Issues’",
+      "headline": "Ariana Grande Debuts at No. 1 on Album Chart With ‘Petal,’ Earning Her Best First-Week Numbers in Seven Years",
       "snapshot": "Music coverage is updating with 6 current RSS headline item(s).",
       "key_storylines": [
-        "Morrissey Cancels Las Vegas Residency Days Before Showtime Due to ‘Unforeseen Logistical Issues’",
-        "Whitney Houston Joins Barbie Signature Family",
+        "Ariana Grande Debuts at No. 1 on Album Chart With ‘Petal,’ Earning Her Best First-Week Numbers in Seven Years",
+        "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night",
         "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - billboard.com",
-        "L.A. Jazz Festival, Which Was Supposed to Feature John Legend, Janelle Monáe and Hundreds More, Canceled at the Last Minute",
-        "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List"
+        "Morrissey Cancels Las Vegas Residency Days Before Showtime Due to ‘Unforeseen Logistical Issues’",
+        "Whitney Houston Joins Barbie Signature Family"
       ],
       "watch_list": [
+        "Ariana Grande Debuts at No. 1 on Album Chart With ‘Petal,’ Earning Her Best First-Week Numbers in Seven Years",
+        "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night",
+        "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - billboard.com",
         "Morrissey Cancels Las Vegas Residency Days Before Showtime Due to ‘Unforeseen Logistical Issues’",
         "Whitney Houston Joins Barbie Signature Family",
-        "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - billboard.com",
-        "L.A. Jazz Festival, Which Was Supposed to Feature John Legend, Janelle Monáe and Hundreds More, Canceled at the Last Minute",
-        "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
         "It’s Official: Influence Media to Buy Anthem for Over $600 Million - Billboard"
       ],
       "homepage_cards": [
         {
-          "id": "music-0-8122731384426803753",
-          "key": "music-0-8122731384426803753",
+          "id": "music-0-2830461635243531522",
+          "key": "music-0-2830461635243531522",
           "category": "Music",
           "label": "Music",
-          "headline": "Morrissey Cancels Las Vegas Residency Days Before Showtime Due to ‘Unforeseen Logistical Issues’",
-          "title": "Morrissey Cancels Las Vegas Residency Days Before Showtime Due to ‘Unforeseen Logistical Issues’",
-          "snapshot": "Morrissey has canceled his four-date Las Vegas residency at The Wynn just a week before showtime, Rolling Stone reports. The musician cited “unforeseen logistical issues” as the reason for the sudden cancellation. The former Smiths frontman was set to play four shows at The Wynn’s Encore Theater starting Aug. 14. Ti...",
-          "summary": "Morrissey has canceled his four-date Las Vegas residency at The Wynn just a week before showtime, Rolling Stone reports. The musician cited “unforeseen logistical issues” as the reason for the sudden cancellation. The former Smiths frontman was set to play four shows at The Wynn’s Encore Theater starting Aug. 14. Ti...",
-          "url": "https://variety.com/2026/music/news/morrissey-cancels-las-vegas-residency-logistical-issues-1236830670/",
+          "headline": "Ariana Grande Debuts at No. 1 on Album Chart With ‘Petal,’ Earning Her Best First-Week Numbers in Seven Years",
+          "title": "Ariana Grande Debuts at No. 1 on Album Chart With ‘Petal,’ Earning Her Best First-Week Numbers in Seven Years",
+          "snapshot": "Ariana Grande has earned her seventh No. 1 album on the Billboard 200 chart with “Petal,” which bows in the top spot with 295,000 equivalent album units, her best opening-week figure this decade. “Petal” and its songs and videos have been the topic of considerable conversation — before and after the singer’s declara...",
+          "summary": "Ariana Grande has earned her seventh No. 1 album on the Billboard 200 chart with “Petal,” which bows in the top spot with 295,000 equivalent album units, her best opening-week figure this decade. “Petal” and its songs and videos have been the topic of considerable conversation — before and after the singer’s declara...",
+          "url": "https://variety.com/2026/music/news/ariana-grande-debut-petal-album-chart-1236830944/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/music/feed/",
-          "published_at": "2026-08-08 03:37:14 PM ET",
+          "published_at": "2026-08-09 04:01:24 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Morrissey Cancels Las Vegas Residency Days Before Showtime Due to ‘Unforeseen Logistical Issues’"
+            "Ariana Grande Debuts at No. 1 on Album Chart With ‘Petal,’ Earning Her Best First-Week Numbers in Seven Years"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2648,25 +2648,25 @@
           ]
         },
         {
-          "id": "music-10-5779459454778484488",
-          "key": "music-10-5779459454778484488",
+          "id": "music-10-361680126328980245",
+          "key": "music-10-361680126328980245",
           "category": "Music",
           "label": "Music",
-          "headline": "Whitney Houston Joins Barbie Signature Family",
-          "title": "Whitney Houston Joins Barbie Signature Family",
-          "snapshot": "Inspired by singer's classic video \"I Wanna Dance with Somebody,\" collector's doll was unveiled at fifth annual Legacy of Love Gala in Atlanta.",
-          "summary": "Inspired by singer's classic video \"I Wanna Dance with Somebody,\" collector's doll was unveiled at fifth annual Legacy of Love Gala in Atlanta.",
-          "url": "https://www.billboard.com/music/pop/whitney-houston-barbie-signature-doll-mattel-1236312340/",
+          "headline": "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night",
+          "title": "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night",
+          "snapshot": "The four-night run at Wynn Las Vegas’ Encore Theater was scheduled to begin Aug. 14.",
+          "summary": "The four-night run at Wynn Las Vegas’ Encore Theater was scheduled to begin Aug. 14.",
+          "url": "https://www.billboard.com/music/music-news/morrissey-cancels-las-vegas-residency-logistical-issues-1236312360/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-09 03:32:40 PM ET",
+          "published_at": "2026-08-09 04:06:17 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "Whitney Houston Joins Barbie Signature Family"
+            "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2676,8 +2676,8 @@
           ]
         },
         {
-          "id": "music-20-2322711433209338449",
-          "key": "music-20-2322711433209338449",
+          "id": "music-20-179016975890196891",
+          "key": "music-20-179016975890196891",
           "category": "Music",
           "label": "Music",
           "headline": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - billboard.com",
@@ -2704,25 +2704,25 @@
           ]
         },
         {
-          "id": "music-1-3863314374681562343",
-          "key": "music-1-3863314374681562343",
+          "id": "music-1-304142770689186534",
+          "key": "music-1-304142770689186534",
           "category": "Music",
           "label": "Music",
-          "headline": "L.A. Jazz Festival, Which Was Supposed to Feature John Legend, Janelle Monáe and Hundreds More, Canceled at the Last Minute",
-          "title": "L.A. Jazz Festival, Which Was Supposed to Feature John Legend, Janelle Monáe and Hundreds More, Canceled at the Last Minute",
-          "snapshot": "The inaugural LA Jazz Fest, set for Aug. 7 to 23 and promising major events including a two-day concert at Dockweiler Beach with stars like John Legend, Janelle Monáe, Parliament/Funkadelic and Raphael Saadiq — was canceled Thursday at the very last minute, and commenters online are already comparing it to the famou...",
-          "summary": "The inaugural LA Jazz Fest, set for Aug. 7 to 23 and promising major events including a two-day concert at Dockweiler Beach with stars like John Legend, Janelle Monáe, Parliament/Funkadelic and Raphael Saadiq — was canceled Thursday at the very last minute, and commenters online are already comparing it to the famou...",
-          "url": "https://variety.com/2026/music/news/l-a-jazz-festival-canceled-john-legend-janelle-monae-1236830665/",
+          "headline": "Morrissey Cancels Las Vegas Residency Days Before Showtime Due to ‘Unforeseen Logistical Issues’",
+          "title": "Morrissey Cancels Las Vegas Residency Days Before Showtime Due to ‘Unforeseen Logistical Issues’",
+          "snapshot": "Morrissey has canceled his four-date Las Vegas residency at The Wynn just a week before showtime, Rolling Stone reports. The musician cited “unforeseen logistical issues” as the reason for the sudden cancellation. The former Smiths frontman was set to play four shows at The Wynn’s Encore Theater starting Aug. 14. Ti...",
+          "summary": "Morrissey has canceled his four-date Las Vegas residency at The Wynn just a week before showtime, Rolling Stone reports. The musician cited “unforeseen logistical issues” as the reason for the sudden cancellation. The former Smiths frontman was set to play four shows at The Wynn’s Encore Theater starting Aug. 14. Ti...",
+          "url": "https://variety.com/2026/music/news/morrissey-cancels-las-vegas-residency-logistical-issues-1236830670/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/music/feed/",
-          "published_at": "2026-08-08 03:33:20 PM ET",
+          "published_at": "2026-08-08 03:37:14 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "L.A. Jazz Festival, Which Was Supposed to Feature John Legend, Janelle Monáe and Hundreds More, Canceled at the Last Minute"
+            "Morrissey Cancels Las Vegas Residency Days Before Showtime Due to ‘Unforeseen Logistical Issues’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2732,25 +2732,25 @@
           ]
         },
         {
-          "id": "music-11-6161922608862083466",
-          "key": "music-11-6161922608862083466",
+          "id": "music-11-3022086818875553012",
+          "key": "music-11-3022086818875553012",
           "category": "Music",
           "label": "Music",
-          "headline": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
-          "title": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
-          "snapshot": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
-          "summary": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
-          "url": "https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
+          "headline": "Whitney Houston Joins Barbie Signature Family",
+          "title": "Whitney Houston Joins Barbie Signature Family",
+          "snapshot": "Inspired by singer's classic video \"I Wanna Dance with Somebody,\" collector's doll was unveiled at fifth annual Legacy of Love Gala in Atlanta.",
+          "summary": "Inspired by singer's classic video \"I Wanna Dance with Somebody,\" collector's doll was unveiled at fifth annual Legacy of Love Gala in Atlanta.",
+          "url": "https://www.billboard.com/music/pop/whitney-houston-barbie-signature-doll-mattel-1236312340/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-09 03:14:52 PM ET",
+          "published_at": "2026-08-09 03:32:40 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List"
+            "Whitney Houston Joins Barbie Signature Family"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2760,8 +2760,8 @@
           ]
         },
         {
-          "id": "music-21-1650600042939467431",
-          "key": "music-21-1650600042939467431",
+          "id": "music-21-2977013588258874478",
+          "key": "music-21-2977013588258874478",
           "category": "Music",
           "label": "Music",
           "headline": "It’s Official: Influence Media to Buy Anthem for Over $600 Million - Billboard",
@@ -2790,25 +2790,25 @@
       ],
       "items": [
         {
-          "id": "music-0-8122731384426803753",
-          "key": "music-0-8122731384426803753",
+          "id": "music-0-2830461635243531522",
+          "key": "music-0-2830461635243531522",
           "category": "Music",
           "label": "Music",
-          "headline": "Morrissey Cancels Las Vegas Residency Days Before Showtime Due to ‘Unforeseen Logistical Issues’",
-          "title": "Morrissey Cancels Las Vegas Residency Days Before Showtime Due to ‘Unforeseen Logistical Issues’",
-          "snapshot": "Morrissey has canceled his four-date Las Vegas residency at The Wynn just a week before showtime, Rolling Stone reports. The musician cited “unforeseen logistical issues” as the reason for the sudden cancellation. The former Smiths frontman was set to play four shows at The Wynn’s Encore Theater starting Aug. 14. Ti...",
-          "summary": "Morrissey has canceled his four-date Las Vegas residency at The Wynn just a week before showtime, Rolling Stone reports. The musician cited “unforeseen logistical issues” as the reason for the sudden cancellation. The former Smiths frontman was set to play four shows at The Wynn’s Encore Theater starting Aug. 14. Ti...",
-          "url": "https://variety.com/2026/music/news/morrissey-cancels-las-vegas-residency-logistical-issues-1236830670/",
+          "headline": "Ariana Grande Debuts at No. 1 on Album Chart With ‘Petal,’ Earning Her Best First-Week Numbers in Seven Years",
+          "title": "Ariana Grande Debuts at No. 1 on Album Chart With ‘Petal,’ Earning Her Best First-Week Numbers in Seven Years",
+          "snapshot": "Ariana Grande has earned her seventh No. 1 album on the Billboard 200 chart with “Petal,” which bows in the top spot with 295,000 equivalent album units, her best opening-week figure this decade. “Petal” and its songs and videos have been the topic of considerable conversation — before and after the singer’s declara...",
+          "summary": "Ariana Grande has earned her seventh No. 1 album on the Billboard 200 chart with “Petal,” which bows in the top spot with 295,000 equivalent album units, her best opening-week figure this decade. “Petal” and its songs and videos have been the topic of considerable conversation — before and after the singer’s declara...",
+          "url": "https://variety.com/2026/music/news/ariana-grande-debut-petal-album-chart-1236830944/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/music/feed/",
-          "published_at": "2026-08-08 03:37:14 PM ET",
+          "published_at": "2026-08-09 04:01:24 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Morrissey Cancels Las Vegas Residency Days Before Showtime Due to ‘Unforeseen Logistical Issues’"
+            "Ariana Grande Debuts at No. 1 on Album Chart With ‘Petal,’ Earning Her Best First-Week Numbers in Seven Years"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2818,25 +2818,25 @@
           ]
         },
         {
-          "id": "music-10-5779459454778484488",
-          "key": "music-10-5779459454778484488",
+          "id": "music-10-361680126328980245",
+          "key": "music-10-361680126328980245",
           "category": "Music",
           "label": "Music",
-          "headline": "Whitney Houston Joins Barbie Signature Family",
-          "title": "Whitney Houston Joins Barbie Signature Family",
-          "snapshot": "Inspired by singer's classic video \"I Wanna Dance with Somebody,\" collector's doll was unveiled at fifth annual Legacy of Love Gala in Atlanta.",
-          "summary": "Inspired by singer's classic video \"I Wanna Dance with Somebody,\" collector's doll was unveiled at fifth annual Legacy of Love Gala in Atlanta.",
-          "url": "https://www.billboard.com/music/pop/whitney-houston-barbie-signature-doll-mattel-1236312340/",
+          "headline": "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night",
+          "title": "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night",
+          "snapshot": "The four-night run at Wynn Las Vegas’ Encore Theater was scheduled to begin Aug. 14.",
+          "summary": "The four-night run at Wynn Las Vegas’ Encore Theater was scheduled to begin Aug. 14.",
+          "url": "https://www.billboard.com/music/music-news/morrissey-cancels-las-vegas-residency-logistical-issues-1236312360/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-09 03:32:40 PM ET",
+          "published_at": "2026-08-09 04:06:17 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "Whitney Houston Joins Barbie Signature Family"
+            "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2846,8 +2846,8 @@
           ]
         },
         {
-          "id": "music-20-2322711433209338449",
-          "key": "music-20-2322711433209338449",
+          "id": "music-20-179016975890196891",
+          "key": "music-20-179016975890196891",
           "category": "Music",
           "label": "Music",
           "headline": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - billboard.com",
@@ -2874,25 +2874,25 @@
           ]
         },
         {
-          "id": "music-1-3863314374681562343",
-          "key": "music-1-3863314374681562343",
+          "id": "music-1-304142770689186534",
+          "key": "music-1-304142770689186534",
           "category": "Music",
           "label": "Music",
-          "headline": "L.A. Jazz Festival, Which Was Supposed to Feature John Legend, Janelle Monáe and Hundreds More, Canceled at the Last Minute",
-          "title": "L.A. Jazz Festival, Which Was Supposed to Feature John Legend, Janelle Monáe and Hundreds More, Canceled at the Last Minute",
-          "snapshot": "The inaugural LA Jazz Fest, set for Aug. 7 to 23 and promising major events including a two-day concert at Dockweiler Beach with stars like John Legend, Janelle Monáe, Parliament/Funkadelic and Raphael Saadiq — was canceled Thursday at the very last minute, and commenters online are already comparing it to the famou...",
-          "summary": "The inaugural LA Jazz Fest, set for Aug. 7 to 23 and promising major events including a two-day concert at Dockweiler Beach with stars like John Legend, Janelle Monáe, Parliament/Funkadelic and Raphael Saadiq — was canceled Thursday at the very last minute, and commenters online are already comparing it to the famou...",
-          "url": "https://variety.com/2026/music/news/l-a-jazz-festival-canceled-john-legend-janelle-monae-1236830665/",
+          "headline": "Morrissey Cancels Las Vegas Residency Days Before Showtime Due to ‘Unforeseen Logistical Issues’",
+          "title": "Morrissey Cancels Las Vegas Residency Days Before Showtime Due to ‘Unforeseen Logistical Issues’",
+          "snapshot": "Morrissey has canceled his four-date Las Vegas residency at The Wynn just a week before showtime, Rolling Stone reports. The musician cited “unforeseen logistical issues” as the reason for the sudden cancellation. The former Smiths frontman was set to play four shows at The Wynn’s Encore Theater starting Aug. 14. Ti...",
+          "summary": "Morrissey has canceled his four-date Las Vegas residency at The Wynn just a week before showtime, Rolling Stone reports. The musician cited “unforeseen logistical issues” as the reason for the sudden cancellation. The former Smiths frontman was set to play four shows at The Wynn’s Encore Theater starting Aug. 14. Ti...",
+          "url": "https://variety.com/2026/music/news/morrissey-cancels-las-vegas-residency-logistical-issues-1236830670/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/music/feed/",
-          "published_at": "2026-08-08 03:33:20 PM ET",
+          "published_at": "2026-08-08 03:37:14 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "L.A. Jazz Festival, Which Was Supposed to Feature John Legend, Janelle Monáe and Hundreds More, Canceled at the Last Minute"
+            "Morrissey Cancels Las Vegas Residency Days Before Showtime Due to ‘Unforeseen Logistical Issues’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2902,25 +2902,25 @@
           ]
         },
         {
-          "id": "music-11-6161922608862083466",
-          "key": "music-11-6161922608862083466",
+          "id": "music-11-3022086818875553012",
+          "key": "music-11-3022086818875553012",
           "category": "Music",
           "label": "Music",
-          "headline": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
-          "title": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
-          "snapshot": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
-          "summary": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
-          "url": "https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
+          "headline": "Whitney Houston Joins Barbie Signature Family",
+          "title": "Whitney Houston Joins Barbie Signature Family",
+          "snapshot": "Inspired by singer's classic video \"I Wanna Dance with Somebody,\" collector's doll was unveiled at fifth annual Legacy of Love Gala in Atlanta.",
+          "summary": "Inspired by singer's classic video \"I Wanna Dance with Somebody,\" collector's doll was unveiled at fifth annual Legacy of Love Gala in Atlanta.",
+          "url": "https://www.billboard.com/music/pop/whitney-houston-barbie-signature-doll-mattel-1236312340/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-09 03:14:52 PM ET",
+          "published_at": "2026-08-09 03:32:40 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List"
+            "Whitney Houston Joins Barbie Signature Family"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2930,8 +2930,8 @@
           ]
         },
         {
-          "id": "music-21-1650600042939467431",
-          "key": "music-21-1650600042939467431",
+          "id": "music-21-2977013588258874478",
+          "key": "music-21-2977013588258874478",
           "category": "Music",
           "label": "Music",
           "headline": "It’s Official: Influence Media to Buy Anthem for Over $600 Million - Billboard",
@@ -2958,7 +2958,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 03:33:29 PM ET"
+      "updated_at": "2026-08-09 04:33:21 PM ET"
     },
     {
       "key": "awards",
@@ -2970,18 +2970,18 @@
         "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
         "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline",
         "James Gray Says AI Is ‘Worthless’ and Young People Won’t Stand for It: They ‘Have a Real Hunger for Interesting, Honest Stuff’",
-        "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - yahoo.com"
+        "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo"
       ],
       "watch_list": [
         "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
         "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline",
         "James Gray Says AI Is ‘Worthless’ and Young People Won’t Stand for It: They ‘Have a Real Hunger for Interesting, Honest Stuff’",
-        "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - yahoo.com"
+        "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo"
       ],
       "homepage_cards": [
         {
-          "id": "awards-0-2561007752493459347",
-          "key": "awards-0-2561007752493459347",
+          "id": "awards-0-1998364936857546913",
+          "key": "awards-0-1998364936857546913",
           "category": "Awards",
           "label": "Awards",
           "headline": "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
@@ -3008,8 +3008,8 @@
           ]
         },
         {
-          "id": "awards-5-5659063369552504427",
-          "key": "awards-5-5659063369552504427",
+          "id": "awards-5-8873436859556276570",
+          "key": "awards-5-8873436859556276570",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline",
@@ -3036,8 +3036,8 @@
           ]
         },
         {
-          "id": "awards-1-500522785792347342",
-          "key": "awards-1-500522785792347342",
+          "id": "awards-1-6108686011240397586",
+          "key": "awards-1-6108686011240397586",
           "category": "Awards",
           "label": "Awards",
           "headline": "James Gray Says AI Is ‘Worthless’ and Young People Won’t Stand for It: They ‘Have a Real Hunger for Interesting, Honest Stuff’",
@@ -3064,14 +3064,14 @@
           ]
         },
         {
-          "id": "awards-6-936987841106549857",
-          "key": "awards-6-936987841106549857",
+          "id": "awards-6-1983616610938698868",
+          "key": "awards-6-1983616610938698868",
           "category": "Awards",
           "label": "Awards",
-          "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - yahoo.com",
-          "title": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - yahoo.com",
-          "snapshot": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More yahoo.com",
-          "summary": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More yahoo.com",
+          "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo",
+          "title": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo",
+          "snapshot": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More Yahoo",
+          "summary": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More Yahoo",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWU9HUjNrd0ZCbC05ekE3WU1TTEUzZkNEOU50TW9yXzRvbTRSSGY0Um01M1ZnYW8wTTJZZHd4YkZiTlVVTVpnWVdKZlljSmtJdDM1eVFBNlFXUTgtM0JSVVVkRURFSHd1U1Vpd09CY0lpVHVUellYWll0QmFRMm1BY0JMdnI2N205dlhuRG5MQmEtdUVoZkxfM3d0NGE1Zw?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3082,7 +3082,7 @@
           "story_type": "rss_headline",
           "priority_score": 94,
           "key_data": [
-            "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - yahoo.com"
+            "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3094,8 +3094,8 @@
       ],
       "items": [
         {
-          "id": "awards-0-2561007752493459347",
-          "key": "awards-0-2561007752493459347",
+          "id": "awards-0-1998364936857546913",
+          "key": "awards-0-1998364936857546913",
           "category": "Awards",
           "label": "Awards",
           "headline": "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
@@ -3122,8 +3122,8 @@
           ]
         },
         {
-          "id": "awards-5-5659063369552504427",
-          "key": "awards-5-5659063369552504427",
+          "id": "awards-5-8873436859556276570",
+          "key": "awards-5-8873436859556276570",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline",
@@ -3150,8 +3150,8 @@
           ]
         },
         {
-          "id": "awards-1-500522785792347342",
-          "key": "awards-1-500522785792347342",
+          "id": "awards-1-6108686011240397586",
+          "key": "awards-1-6108686011240397586",
           "category": "Awards",
           "label": "Awards",
           "headline": "James Gray Says AI Is ‘Worthless’ and Young People Won’t Stand for It: They ‘Have a Real Hunger for Interesting, Honest Stuff’",
@@ -3178,14 +3178,14 @@
           ]
         },
         {
-          "id": "awards-6-936987841106549857",
-          "key": "awards-6-936987841106549857",
+          "id": "awards-6-1983616610938698868",
+          "key": "awards-6-1983616610938698868",
           "category": "Awards",
           "label": "Awards",
-          "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - yahoo.com",
-          "title": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - yahoo.com",
-          "snapshot": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More yahoo.com",
-          "summary": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More yahoo.com",
+          "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo",
+          "title": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo",
+          "snapshot": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More Yahoo",
+          "summary": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More Yahoo",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWU9HUjNrd0ZCbC05ekE3WU1TTEUzZkNEOU50TW9yXzRvbTRSSGY0Um01M1ZnYW8wTTJZZHd4YkZiTlVVTVpnWVdKZlljSmtJdDM1eVFBNlFXUTgtM0JSVVVkRURFSHd1U1Vpd09CY0lpVHVUellYWll0QmFRMm1BY0JMdnI2N205dlhuRG5MQmEtdUVoZkxfM3d0NGE1Zw?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3196,7 +3196,7 @@
           "story_type": "rss_headline",
           "priority_score": 94,
           "key_data": [
-            "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - yahoo.com"
+            "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3206,7 +3206,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 03:33:30 PM ET"
+      "updated_at": "2026-08-09 04:33:21 PM ET"
     },
     {
       "key": "box_office",
@@ -3228,8 +3228,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "box_office-0-3122344197749865715",
-          "key": "box_office-0-3122344197749865715",
+          "id": "box_office-0-8370968167239668844",
+          "key": "box_office-0-8370968167239668844",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘Spider-Man: Brand New Day’ Swings into Second Weekend With $43 Million on Friday",
@@ -3256,8 +3256,8 @@
           ]
         },
         {
-          "id": "box_office-9-3209676623048791694",
-          "key": "box_office-9-3209676623048791694",
+          "id": "box_office-7-643310503874181793",
+          "key": "box_office-7-643310503874181793",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today - Bollywood Hungama",
@@ -3272,7 +3272,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 91,
+          "priority_score": 93,
           "key_data": [
             "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today - Bollywood Hungama"
           ],
@@ -3284,8 +3284,8 @@
           ]
         },
         {
-          "id": "box_office-1-7559968543027969719",
-          "key": "box_office-1-7559968543027969719",
+          "id": "box_office-1-4936542069213652805",
+          "key": "box_office-1-4936542069213652805",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ Surpasses $1 Billion, Christopher Nolan’s First Movie Since ‘Dark Knight Rises’ to Reach Coveted Box Office Milestone",
@@ -3312,8 +3312,8 @@
           ]
         },
         {
-          "id": "box_office-10-1594560827417545176",
-          "key": "box_office-10-1594560827417545176",
+          "id": "box_office-8-151905150374854882",
+          "key": "box_office-8-151905150374854882",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Spider-Man’ Will Boost Hollywood’s Summer Box Office Past $4 Billion - Barron's",
@@ -3328,7 +3328,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 90,
+          "priority_score": 92,
           "key_data": [
             "‘Spider-Man’ Will Boost Hollywood’s Summer Box Office Past $4 Billion - Barron's"
           ],
@@ -3342,8 +3342,8 @@
       ],
       "items": [
         {
-          "id": "box_office-0-3122344197749865715",
-          "key": "box_office-0-3122344197749865715",
+          "id": "box_office-0-8370968167239668844",
+          "key": "box_office-0-8370968167239668844",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘Spider-Man: Brand New Day’ Swings into Second Weekend With $43 Million on Friday",
@@ -3370,8 +3370,8 @@
           ]
         },
         {
-          "id": "box_office-9-3209676623048791694",
-          "key": "box_office-9-3209676623048791694",
+          "id": "box_office-7-643310503874181793",
+          "key": "box_office-7-643310503874181793",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today - Bollywood Hungama",
@@ -3386,7 +3386,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 91,
+          "priority_score": 93,
           "key_data": [
             "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today - Bollywood Hungama"
           ],
@@ -3398,8 +3398,8 @@
           ]
         },
         {
-          "id": "box_office-1-7559968543027969719",
-          "key": "box_office-1-7559968543027969719",
+          "id": "box_office-1-4936542069213652805",
+          "key": "box_office-1-4936542069213652805",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ Surpasses $1 Billion, Christopher Nolan’s First Movie Since ‘Dark Knight Rises’ to Reach Coveted Box Office Milestone",
@@ -3426,8 +3426,8 @@
           ]
         },
         {
-          "id": "box_office-10-1594560827417545176",
-          "key": "box_office-10-1594560827417545176",
+          "id": "box_office-8-151905150374854882",
+          "key": "box_office-8-151905150374854882",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Spider-Man’ Will Boost Hollywood’s Summer Box Office Past $4 Billion - Barron's",
@@ -3442,7 +3442,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 90,
+          "priority_score": 92,
           "key_data": [
             "‘Spider-Man’ Will Boost Hollywood’s Summer Box Office Past $4 Billion - Barron's"
           ],
@@ -3454,7 +3454,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 03:33:30 PM ET"
+      "updated_at": "2026-08-09 04:33:22 PM ET"
     },
     {
       "key": "celebrity",
@@ -3472,8 +3472,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "celebrity-0-1054854544357238837",
-          "key": "celebrity-0-1054854544357238837",
+          "id": "celebrity-0-5833266598416331213",
+          "key": "celebrity-0-5833266598416331213",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Entertainment News | Latest Celebrity News, Videos & Photos - ABC News - Breaking News, Latest News and Videos",
@@ -3500,8 +3500,8 @@
           ]
         },
         {
-          "id": "celebrity-1-7715670399312673948",
-          "key": "celebrity-1-7715670399312673948",
+          "id": "celebrity-1-3046721240488213757",
+          "key": "celebrity-1-3046721240488213757",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3530,8 +3530,8 @@
       ],
       "items": [
         {
-          "id": "celebrity-0-1054854544357238837",
-          "key": "celebrity-0-1054854544357238837",
+          "id": "celebrity-0-5833266598416331213",
+          "key": "celebrity-0-5833266598416331213",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Entertainment News | Latest Celebrity News, Videos & Photos - ABC News - Breaking News, Latest News and Videos",
@@ -3558,8 +3558,8 @@
           ]
         },
         {
-          "id": "celebrity-1-7715670399312673948",
-          "key": "celebrity-1-7715670399312673948",
+          "id": "celebrity-1-3046721240488213757",
+          "key": "celebrity-1-3046721240488213757",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3586,50 +3586,50 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 03:33:31 PM ET"
+      "updated_at": "2026-08-09 04:33:23 PM ET"
     },
     {
       "key": "hollywood",
       "name": "Hollywood",
       "title": "Hollywood Report",
-      "headline": "Paramount Making Deals To Theaters For 30 Films A Year Post WBD Acquisition; Cinema United Still Anti-Merger",
+      "headline": "Summer Domestic Box Office On A Hot Streak, Will Cross $4B By Monday",
       "snapshot": "Hollywood coverage is updating with 6 current RSS headline item(s).",
       "key_storylines": [
-        "Paramount Making Deals To Theaters For 30 Films A Year Post WBD Acquisition; Cinema United Still Anti-Merger",
-        "Helloooo, Emmy: Art Carney’s Enduring ‘Honeymooners’ Triumph",
+        "Summer Domestic Box Office On A Hot Streak, Will Cross $4B By Monday",
+        "Two Eiffel Towers, One Perfect Ending: Inside the Final Frame of ‘Hacks’",
         "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
-        "‘Spider-Man: Brand New Day’ Is Second-Fastest Film To Cross $1B At Int’l Box Office; Global Now At $1.67B",
-        "What Finally Made Rafael Nadal Quit? Netflix’s ‘Rafa’ Has the Answer"
+        "Paramount Making Deals To Theaters For 30 Films A Year Post WBD Acquisition; Cinema United Still Anti-Merger",
+        "Helloooo, Emmy: Art Carney’s Enduring ‘Honeymooners’ Triumph"
       ],
       "watch_list": [
+        "Summer Domestic Box Office On A Hot Streak, Will Cross $4B By Monday",
+        "Two Eiffel Towers, One Perfect Ending: Inside the Final Frame of ‘Hacks’",
+        "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
         "Paramount Making Deals To Theaters For 30 Films A Year Post WBD Acquisition; Cinema United Still Anti-Merger",
         "Helloooo, Emmy: Art Carney’s Enduring ‘Honeymooners’ Triumph",
-        "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
-        "‘Spider-Man: Brand New Day’ Is Second-Fastest Film To Cross $1B At Int’l Box Office; Global Now At $1.67B",
-        "What Finally Made Rafael Nadal Quit? Netflix’s ‘Rafa’ Has the Answer",
         "Why did the United States film industry settle in Hollywood? - Encyclopedia Britannica"
       ],
       "homepage_cards": [
         {
-          "id": "hollywood-0-210191970856109156",
-          "key": "hollywood-0-210191970856109156",
+          "id": "hollywood-0-8353519256480421954",
+          "key": "hollywood-0-8353519256480421954",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Paramount Making Deals To Theaters For 30 Films A Year Post WBD Acquisition; Cinema United Still Anti-Merger",
-          "title": "Paramount Making Deals To Theaters For 30 Films A Year Post WBD Acquisition; Cinema United Still Anti-Merger",
-          "snapshot": "When it comes to Paramount’s legal wrestle with the AG’s antitrust case over the Melrose lot’s possible merger with Warner Bros, the key is to divide and conquer with exhibition. Deadline knows that Paramount has made a written commitments with at least one of the top two circuits, specifically, Regal for for 30 fil...",
-          "summary": "When it comes to Paramount’s legal wrestle with the AG’s antitrust case over the Melrose lot’s possible merger with Warner Bros, the key is to divide and conquer with exhibition. Deadline knows that Paramount has made a written commitments with at least one of the top two circuits, specifically, Regal for for 30 fil...",
-          "url": "https://deadline.com/2026/08/paramount-wbd-regal-amc-deals-1237029635/",
+          "headline": "Summer Domestic Box Office On A Hot Streak, Will Cross $4B By Monday",
+          "title": "Summer Domestic Box Office On A Hot Streak, Will Cross $4B By Monday",
+          "snapshot": "Forget the woes of a potential Paramount-WBD merger, the summer domestic box office is on fire, just $14.8M away from crossing $4 billion. This is all according to Rentrak. For for the period of May 1-Aug. 9, the summer B.O. stands at $3.985B. The last time the North American box office crossed $4B was 2023 […]",
+          "summary": "Forget the woes of a potential Paramount-WBD merger, the summer domestic box office is on fire, just $14.8M away from crossing $4 billion. This is all according to Rentrak. For for the period of May 1-Aug. 9, the summer B.O. stands at $3.985B. The last time the North American box office crossed $4B was 2023 […]",
+          "url": "https://deadline.com/2026/08/summer-domestic-box-office-record-spider-man-odyssey-1237029662/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/feed/",
-          "published_at": "2026-08-09 03:21:43 PM ET",
+          "published_at": "2026-08-09 03:45:26 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Paramount Making Deals To Theaters For 30 Films A Year Post WBD Acquisition; Cinema United Still Anti-Merger"
+            "Summer Domestic Box Office On A Hot Streak, Will Cross $4B By Monday"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3639,25 +3639,25 @@
           ]
         },
         {
-          "id": "hollywood-5-816360933467444474",
-          "key": "hollywood-5-816360933467444474",
+          "id": "hollywood-6-6634131572208063716",
+          "key": "hollywood-6-6634131572208063716",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Helloooo, Emmy: Art Carney’s Enduring ‘Honeymooners’ Triumph",
-          "title": "Helloooo, Emmy: Art Carney’s Enduring ‘Honeymooners’ Triumph",
-          "snapshot": "Jackie Gleason may have ruled the Kramden household, but Carney’s turn as Ed Norton earned the sitcom’s only Emmy.",
-          "summary": "Jackie Gleason may have ruled the Kramden household, but Carney’s turn as Ed Norton earned the sitcom’s only Emmy.",
-          "url": "https://www.hollywoodreporter.com/tv/tv-features/art-carney-emmy-win-the-honeymooners-1236668943/",
+          "headline": "Two Eiffel Towers, One Perfect Ending: Inside the Final Frame of ‘Hacks’",
+          "title": "Two Eiffel Towers, One Perfect Ending: Inside the Final Frame of ‘Hacks’",
+          "snapshot": "From VFX and steady-cam choreography to a reshoot beneath a golden Las Vegas sky, the series’ creative team engineered a seamless lasting image for Deborah and Ava.",
+          "summary": "From VFX and steady-cam choreography to a reshoot beneath a golden Las Vegas sky, the series’ creative team engineered a seamless lasting image for Deborah and Ava.",
+          "url": "https://www.hollywoodreporter.com/tv/tv-features/inside-final-frame-hacks-1236668947/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/feed/",
-          "published_at": "2026-08-09 03:00:00 PM ET",
+          "published_at": "2026-08-09 04:00:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 95,
+          "priority_score": 94,
           "key_data": [
-            "Helloooo, Emmy: Art Carney’s Enduring ‘Honeymooners’ Triumph"
+            "Two Eiffel Towers, One Perfect Ending: Inside the Final Frame of ‘Hacks’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3667,8 +3667,8 @@
           ]
         },
         {
-          "id": "hollywood-11-4896970166487108034",
-          "key": "hollywood-11-4896970166487108034",
+          "id": "hollywood-13-1543978330233753247",
+          "key": "hollywood-13-1543978330233753247",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
@@ -3683,7 +3683,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 89,
+          "priority_score": 87,
           "key_data": [
             "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University"
           ],
@@ -3695,25 +3695,25 @@
           ]
         },
         {
-          "id": "hollywood-1-3441490226195864974",
-          "key": "hollywood-1-3441490226195864974",
+          "id": "hollywood-1-512118257396796056",
+          "key": "hollywood-1-512118257396796056",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "‘Spider-Man: Brand New Day’ Is Second-Fastest Film To Cross $1B At Int’l Box Office; Global Now At $1.67B",
-          "title": "‘Spider-Man: Brand New Day’ Is Second-Fastest Film To Cross $1B At Int’l Box Office; Global Now At $1.67B",
-          "snapshot": "The global box office is humming with Sony/Marvel Studio’s Spider-Man: Brand New Day crossing the $1 billion threshold abroad in 12 days of release, the second-fastest to do so after Avengers: Endgame. The Destin Daniel Cretton movie is now the 12th highest ever at the worldwide B.O. with $1.67B ($655M domestic, $1....",
-          "summary": "The global box office is humming with Sony/Marvel Studio’s Spider-Man: Brand New Day crossing the $1 billion threshold abroad in 12 days of release, the second-fastest to do so after Avengers: Endgame. The Destin Daniel Cretton movie is now the 12th highest ever at the worldwide B.O. with $1.67B ($655M domestic, $1....",
-          "url": "https://deadline.com/2026/08/box-office-global-spider-man-brand-new-day-foreign-record-1237029582/",
+          "headline": "Paramount Making Deals To Theaters For 30 Films A Year Post WBD Acquisition; Cinema United Still Anti-Merger",
+          "title": "Paramount Making Deals To Theaters For 30 Films A Year Post WBD Acquisition; Cinema United Still Anti-Merger",
+          "snapshot": "When it comes to Paramount’s legal wrestle with the AG’s antitrust case over the Melrose lot’s possible merger with Warner Bros, the key is to divide and conquer with exhibition. Deadline knows that Paramount has made a written commitments with at least one of the top two circuits, specifically, Regal for for 30 fil...",
+          "summary": "When it comes to Paramount’s legal wrestle with the AG’s antitrust case over the Melrose lot’s possible merger with Warner Bros, the key is to divide and conquer with exhibition. Deadline knows that Paramount has made a written commitments with at least one of the top two circuits, specifically, Regal for for 30 fil...",
+          "url": "https://deadline.com/2026/08/paramount-wbd-regal-amc-deals-1237029635/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/feed/",
-          "published_at": "2026-08-09 12:05:34 PM ET",
+          "published_at": "2026-08-09 03:21:43 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "‘Spider-Man: Brand New Day’ Is Second-Fastest Film To Cross $1B At Int’l Box Office; Global Now At $1.67B"
+            "Paramount Making Deals To Theaters For 30 Films A Year Post WBD Acquisition; Cinema United Still Anti-Merger"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3723,25 +3723,25 @@
           ]
         },
         {
-          "id": "hollywood-6-689837826300125797",
-          "key": "hollywood-6-689837826300125797",
+          "id": "hollywood-7-6764093617534232095",
+          "key": "hollywood-7-6764093617534232095",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "What Finally Made Rafael Nadal Quit? Netflix’s ‘Rafa’ Has the Answer",
-          "title": "What Finally Made Rafael Nadal Quit? Netflix’s ‘Rafa’ Has the Answer",
-          "snapshot": "After years of resisting a documentary about his personal life, the 22-time Grand Slam tennis champion allowed Zach Heinzerling to follow his final season on and off the court.",
-          "summary": "After years of resisting a documentary about his personal life, the 22-time Grand Slam tennis champion allowed Zach Heinzerling to follow his final season on and off the court.",
-          "url": "https://www.hollywoodreporter.com/movies/movie-features/documentary-spotlight-game-set-match-1236668913/",
+          "headline": "Helloooo, Emmy: Art Carney’s Enduring ‘Honeymooners’ Triumph",
+          "title": "Helloooo, Emmy: Art Carney’s Enduring ‘Honeymooners’ Triumph",
+          "snapshot": "Jackie Gleason may have ruled the Kramden household, but Carney’s turn as Ed Norton earned the sitcom’s only Emmy.",
+          "summary": "Jackie Gleason may have ruled the Kramden household, but Carney’s turn as Ed Norton earned the sitcom’s only Emmy.",
+          "url": "https://www.hollywoodreporter.com/tv/tv-features/art-carney-emmy-win-the-honeymooners-1236668943/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/feed/",
-          "published_at": "2026-08-09 02:00:00 PM ET",
+          "published_at": "2026-08-09 03:00:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 94,
+          "priority_score": 93,
           "key_data": [
-            "What Finally Made Rafael Nadal Quit? Netflix’s ‘Rafa’ Has the Answer"
+            "Helloooo, Emmy: Art Carney’s Enduring ‘Honeymooners’ Triumph"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3751,8 +3751,8 @@
           ]
         },
         {
-          "id": "hollywood-12-1769222664778226481",
-          "key": "hollywood-12-1769222664778226481",
+          "id": "hollywood-14-4856906648344006903",
+          "key": "hollywood-14-4856906648344006903",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Why did the United States film industry settle in Hollywood? - Encyclopedia Britannica",
@@ -3767,7 +3767,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 88,
+          "priority_score": 86,
           "key_data": [
             "Why did the United States film industry settle in Hollywood? - Encyclopedia Britannica"
           ],
@@ -3781,25 +3781,25 @@
       ],
       "items": [
         {
-          "id": "hollywood-0-210191970856109156",
-          "key": "hollywood-0-210191970856109156",
+          "id": "hollywood-0-8353519256480421954",
+          "key": "hollywood-0-8353519256480421954",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Paramount Making Deals To Theaters For 30 Films A Year Post WBD Acquisition; Cinema United Still Anti-Merger",
-          "title": "Paramount Making Deals To Theaters For 30 Films A Year Post WBD Acquisition; Cinema United Still Anti-Merger",
-          "snapshot": "When it comes to Paramount’s legal wrestle with the AG’s antitrust case over the Melrose lot’s possible merger with Warner Bros, the key is to divide and conquer with exhibition. Deadline knows that Paramount has made a written commitments with at least one of the top two circuits, specifically, Regal for for 30 fil...",
-          "summary": "When it comes to Paramount’s legal wrestle with the AG’s antitrust case over the Melrose lot’s possible merger with Warner Bros, the key is to divide and conquer with exhibition. Deadline knows that Paramount has made a written commitments with at least one of the top two circuits, specifically, Regal for for 30 fil...",
-          "url": "https://deadline.com/2026/08/paramount-wbd-regal-amc-deals-1237029635/",
+          "headline": "Summer Domestic Box Office On A Hot Streak, Will Cross $4B By Monday",
+          "title": "Summer Domestic Box Office On A Hot Streak, Will Cross $4B By Monday",
+          "snapshot": "Forget the woes of a potential Paramount-WBD merger, the summer domestic box office is on fire, just $14.8M away from crossing $4 billion. This is all according to Rentrak. For for the period of May 1-Aug. 9, the summer B.O. stands at $3.985B. The last time the North American box office crossed $4B was 2023 […]",
+          "summary": "Forget the woes of a potential Paramount-WBD merger, the summer domestic box office is on fire, just $14.8M away from crossing $4 billion. This is all according to Rentrak. For for the period of May 1-Aug. 9, the summer B.O. stands at $3.985B. The last time the North American box office crossed $4B was 2023 […]",
+          "url": "https://deadline.com/2026/08/summer-domestic-box-office-record-spider-man-odyssey-1237029662/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/feed/",
-          "published_at": "2026-08-09 03:21:43 PM ET",
+          "published_at": "2026-08-09 03:45:26 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Paramount Making Deals To Theaters For 30 Films A Year Post WBD Acquisition; Cinema United Still Anti-Merger"
+            "Summer Domestic Box Office On A Hot Streak, Will Cross $4B By Monday"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3809,25 +3809,25 @@
           ]
         },
         {
-          "id": "hollywood-5-816360933467444474",
-          "key": "hollywood-5-816360933467444474",
+          "id": "hollywood-6-6634131572208063716",
+          "key": "hollywood-6-6634131572208063716",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Helloooo, Emmy: Art Carney’s Enduring ‘Honeymooners’ Triumph",
-          "title": "Helloooo, Emmy: Art Carney’s Enduring ‘Honeymooners’ Triumph",
-          "snapshot": "Jackie Gleason may have ruled the Kramden household, but Carney’s turn as Ed Norton earned the sitcom’s only Emmy.",
-          "summary": "Jackie Gleason may have ruled the Kramden household, but Carney’s turn as Ed Norton earned the sitcom’s only Emmy.",
-          "url": "https://www.hollywoodreporter.com/tv/tv-features/art-carney-emmy-win-the-honeymooners-1236668943/",
+          "headline": "Two Eiffel Towers, One Perfect Ending: Inside the Final Frame of ‘Hacks’",
+          "title": "Two Eiffel Towers, One Perfect Ending: Inside the Final Frame of ‘Hacks’",
+          "snapshot": "From VFX and steady-cam choreography to a reshoot beneath a golden Las Vegas sky, the series’ creative team engineered a seamless lasting image for Deborah and Ava.",
+          "summary": "From VFX and steady-cam choreography to a reshoot beneath a golden Las Vegas sky, the series’ creative team engineered a seamless lasting image for Deborah and Ava.",
+          "url": "https://www.hollywoodreporter.com/tv/tv-features/inside-final-frame-hacks-1236668947/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/feed/",
-          "published_at": "2026-08-09 03:00:00 PM ET",
+          "published_at": "2026-08-09 04:00:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 95,
+          "priority_score": 94,
           "key_data": [
-            "Helloooo, Emmy: Art Carney’s Enduring ‘Honeymooners’ Triumph"
+            "Two Eiffel Towers, One Perfect Ending: Inside the Final Frame of ‘Hacks’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3837,8 +3837,8 @@
           ]
         },
         {
-          "id": "hollywood-11-4896970166487108034",
-          "key": "hollywood-11-4896970166487108034",
+          "id": "hollywood-13-1543978330233753247",
+          "key": "hollywood-13-1543978330233753247",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
@@ -3853,7 +3853,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 89,
+          "priority_score": 87,
           "key_data": [
             "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University"
           ],
@@ -3865,25 +3865,25 @@
           ]
         },
         {
-          "id": "hollywood-1-3441490226195864974",
-          "key": "hollywood-1-3441490226195864974",
+          "id": "hollywood-1-512118257396796056",
+          "key": "hollywood-1-512118257396796056",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "‘Spider-Man: Brand New Day’ Is Second-Fastest Film To Cross $1B At Int’l Box Office; Global Now At $1.67B",
-          "title": "‘Spider-Man: Brand New Day’ Is Second-Fastest Film To Cross $1B At Int’l Box Office; Global Now At $1.67B",
-          "snapshot": "The global box office is humming with Sony/Marvel Studio’s Spider-Man: Brand New Day crossing the $1 billion threshold abroad in 12 days of release, the second-fastest to do so after Avengers: Endgame. The Destin Daniel Cretton movie is now the 12th highest ever at the worldwide B.O. with $1.67B ($655M domestic, $1....",
-          "summary": "The global box office is humming with Sony/Marvel Studio’s Spider-Man: Brand New Day crossing the $1 billion threshold abroad in 12 days of release, the second-fastest to do so after Avengers: Endgame. The Destin Daniel Cretton movie is now the 12th highest ever at the worldwide B.O. with $1.67B ($655M domestic, $1....",
-          "url": "https://deadline.com/2026/08/box-office-global-spider-man-brand-new-day-foreign-record-1237029582/",
+          "headline": "Paramount Making Deals To Theaters For 30 Films A Year Post WBD Acquisition; Cinema United Still Anti-Merger",
+          "title": "Paramount Making Deals To Theaters For 30 Films A Year Post WBD Acquisition; Cinema United Still Anti-Merger",
+          "snapshot": "When it comes to Paramount’s legal wrestle with the AG’s antitrust case over the Melrose lot’s possible merger with Warner Bros, the key is to divide and conquer with exhibition. Deadline knows that Paramount has made a written commitments with at least one of the top two circuits, specifically, Regal for for 30 fil...",
+          "summary": "When it comes to Paramount’s legal wrestle with the AG’s antitrust case over the Melrose lot’s possible merger with Warner Bros, the key is to divide and conquer with exhibition. Deadline knows that Paramount has made a written commitments with at least one of the top two circuits, specifically, Regal for for 30 fil...",
+          "url": "https://deadline.com/2026/08/paramount-wbd-regal-amc-deals-1237029635/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/feed/",
-          "published_at": "2026-08-09 12:05:34 PM ET",
+          "published_at": "2026-08-09 03:21:43 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "‘Spider-Man: Brand New Day’ Is Second-Fastest Film To Cross $1B At Int’l Box Office; Global Now At $1.67B"
+            "Paramount Making Deals To Theaters For 30 Films A Year Post WBD Acquisition; Cinema United Still Anti-Merger"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3893,25 +3893,25 @@
           ]
         },
         {
-          "id": "hollywood-6-689837826300125797",
-          "key": "hollywood-6-689837826300125797",
+          "id": "hollywood-7-6764093617534232095",
+          "key": "hollywood-7-6764093617534232095",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "What Finally Made Rafael Nadal Quit? Netflix’s ‘Rafa’ Has the Answer",
-          "title": "What Finally Made Rafael Nadal Quit? Netflix’s ‘Rafa’ Has the Answer",
-          "snapshot": "After years of resisting a documentary about his personal life, the 22-time Grand Slam tennis champion allowed Zach Heinzerling to follow his final season on and off the court.",
-          "summary": "After years of resisting a documentary about his personal life, the 22-time Grand Slam tennis champion allowed Zach Heinzerling to follow his final season on and off the court.",
-          "url": "https://www.hollywoodreporter.com/movies/movie-features/documentary-spotlight-game-set-match-1236668913/",
+          "headline": "Helloooo, Emmy: Art Carney’s Enduring ‘Honeymooners’ Triumph",
+          "title": "Helloooo, Emmy: Art Carney’s Enduring ‘Honeymooners’ Triumph",
+          "snapshot": "Jackie Gleason may have ruled the Kramden household, but Carney’s turn as Ed Norton earned the sitcom’s only Emmy.",
+          "summary": "Jackie Gleason may have ruled the Kramden household, but Carney’s turn as Ed Norton earned the sitcom’s only Emmy.",
+          "url": "https://www.hollywoodreporter.com/tv/tv-features/art-carney-emmy-win-the-honeymooners-1236668943/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/feed/",
-          "published_at": "2026-08-09 02:00:00 PM ET",
+          "published_at": "2026-08-09 03:00:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 94,
+          "priority_score": 93,
           "key_data": [
-            "What Finally Made Rafael Nadal Quit? Netflix’s ‘Rafa’ Has the Answer"
+            "Helloooo, Emmy: Art Carney’s Enduring ‘Honeymooners’ Triumph"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3921,8 +3921,8 @@
           ]
         },
         {
-          "id": "hollywood-12-1769222664778226481",
-          "key": "hollywood-12-1769222664778226481",
+          "id": "hollywood-14-4856906648344006903",
+          "key": "hollywood-14-4856906648344006903",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Why did the United States film industry settle in Hollywood? - Encyclopedia Britannica",
@@ -3937,7 +3937,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 88,
+          "priority_score": 86,
           "key_data": [
             "Why did the United States film industry settle in Hollywood? - Encyclopedia Britannica"
           ],
@@ -3949,26 +3949,28 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 03:33:32 PM ET"
+      "updated_at": "2026-08-09 04:33:23 PM ET"
     },
     {
       "key": "gaming",
       "name": "Gaming",
       "title": "Gaming Report",
       "headline": "'If You're Not a Netflix Subscriber, You Definitely Should Be' — Take-Two Boss Teases Grand Theft Auto VI: An Extended Look",
-      "snapshot": "Gaming coverage is updating with 2 current RSS headline item(s).",
+      "snapshot": "Gaming coverage is updating with 3 current RSS headline item(s).",
       "key_storylines": [
         "'If You're Not a Netflix Subscriber, You Definitely Should Be' — Take-Two Boss Teases Grand Theft Auto VI: An Extended Look",
+        "What is friendslop? Inside gaming's fastest-growing trend, including the newest hit Big Walk - CBC",
         "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027"
       ],
       "watch_list": [
         "'If You're Not a Netflix Subscriber, You Definitely Should Be' — Take-Two Boss Teases Grand Theft Auto VI: An Extended Look",
+        "What is friendslop? Inside gaming's fastest-growing trend, including the newest hit Big Walk - CBC",
         "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027"
       ],
       "homepage_cards": [
         {
-          "id": "gaming-0-6543972169034959191",
-          "key": "gaming-0-6543972169034959191",
+          "id": "gaming-0-1771174860359558994",
+          "key": "gaming-0-1771174860359558994",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "'If You're Not a Netflix Subscriber, You Definitely Should Be' — Take-Two Boss Teases Grand Theft Auto VI: An Extended Look",
@@ -3995,8 +3997,36 @@
           ]
         },
         {
-          "id": "gaming-1-4184898747158495529",
-          "key": "gaming-1-4184898747158495529",
+          "id": "gaming-20-3874611515861446514",
+          "key": "gaming-20-3874611515861446514",
+          "category": "Gaming",
+          "label": "Gaming",
+          "headline": "What is friendslop? Inside gaming's fastest-growing trend, including the newest hit Big Walk - CBC",
+          "title": "What is friendslop? Inside gaming's fastest-growing trend, including the newest hit Big Walk - CBC",
+          "snapshot": "What is friendslop? Inside gaming's fastest-growing trend, including the newest hit Big Walk CBC",
+          "summary": "What is friendslop? Inside gaming's fastest-growing trend, including the newest hit Big Walk CBC",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV1RoY0VuUTBTd0dRbV84Xzl2UXU0N1FzSktZNXFLR1VzZnBnWjRRLVZkOGkzQTFFblJwbDlMT2tEUm1UMEZyZnFpN3JFZ0I1REQtd0IzZk40RzdGdFBRUVFRanUtcnNfc3BWMkdTYXl4MmRULWtmdjEza2lCOVhhUWgtNDRzMG5Lc2VYcWRyWQ?oc=5",
+          "source": "Google News",
+          "source_name": "Google News",
+          "source_feed": "https://news.google.com/rss/search?q=gaming+video+games+entertainment&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-06 04:32:28 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 80,
+          "key_data": [
+            "What is friendslop? Inside gaming's fastest-growing trend, including the newest hit Big Walk - CBC"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "gaming-1-1284770651332896267",
+          "key": "gaming-1-1284770651332896267",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027",
@@ -4025,8 +4055,8 @@
       ],
       "items": [
         {
-          "id": "gaming-0-6543972169034959191",
-          "key": "gaming-0-6543972169034959191",
+          "id": "gaming-0-1771174860359558994",
+          "key": "gaming-0-1771174860359558994",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "'If You're Not a Netflix Subscriber, You Definitely Should Be' — Take-Two Boss Teases Grand Theft Auto VI: An Extended Look",
@@ -4053,8 +4083,36 @@
           ]
         },
         {
-          "id": "gaming-1-4184898747158495529",
-          "key": "gaming-1-4184898747158495529",
+          "id": "gaming-20-3874611515861446514",
+          "key": "gaming-20-3874611515861446514",
+          "category": "Gaming",
+          "label": "Gaming",
+          "headline": "What is friendslop? Inside gaming's fastest-growing trend, including the newest hit Big Walk - CBC",
+          "title": "What is friendslop? Inside gaming's fastest-growing trend, including the newest hit Big Walk - CBC",
+          "snapshot": "What is friendslop? Inside gaming's fastest-growing trend, including the newest hit Big Walk CBC",
+          "summary": "What is friendslop? Inside gaming's fastest-growing trend, including the newest hit Big Walk CBC",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV1RoY0VuUTBTd0dRbV84Xzl2UXU0N1FzSktZNXFLR1VzZnBnWjRRLVZkOGkzQTFFblJwbDlMT2tEUm1UMEZyZnFpN3JFZ0I1REQtd0IzZk40RzdGdFBRUVFRanUtcnNfc3BWMkdTYXl4MmRULWtmdjEza2lCOVhhUWgtNDRzMG5Lc2VYcWRyWQ?oc=5",
+          "source": "Google News",
+          "source_name": "Google News",
+          "source_feed": "https://news.google.com/rss/search?q=gaming+video+games+entertainment&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-06 04:32:28 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 80,
+          "key_data": [
+            "What is friendslop? Inside gaming's fastest-growing trend, including the newest hit Big Walk - CBC"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "gaming-1-1284770651332896267",
+          "key": "gaming-1-1284770651332896267",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027",
@@ -4081,7 +4139,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 03:33:33 PM ET"
+      "updated_at": "2026-08-09 04:33:24 PM ET"
     },
     {
       "key": "media",
@@ -4092,21 +4150,21 @@
       "key_storylines": [
         "David Ellison Is Promising Theater Owners Contractual Guarantees for Paramount-Warner Bros. 30-Film Annual Slate. But What if Moviegoers Don’t Care?",
         "Spencer Pratt To The Rescue? Failed L.A. Mayoral Candidate Wants To Help Trump Save Hollywood, Supposedly",
-        "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - newsonair.gov.in",
+        "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
         "LISTEN: NBCUniversal Media Group Chief Matt Strauss on Growing Peacock, Testing Membership Rewards and Becoming a Daily Habit With Users",
         "Judge Clarifies That Reporter Catherine Herridge Doesn’t Have To Pay $800-Per-Day Contempt Fines As She Pursues Supreme Court Appeal"
       ],
       "watch_list": [
         "David Ellison Is Promising Theater Owners Contractual Guarantees for Paramount-Warner Bros. 30-Film Annual Slate. But What if Moviegoers Don’t Care?",
         "Spencer Pratt To The Rescue? Failed L.A. Mayoral Candidate Wants To Help Trump Save Hollywood, Supposedly",
-        "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - newsonair.gov.in",
+        "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
         "LISTEN: NBCUniversal Media Group Chief Matt Strauss on Growing Peacock, Testing Membership Rewards and Becoming a Daily Habit With Users",
         "Judge Clarifies That Reporter Catherine Herridge Doesn’t Have To Pay $800-Per-Day Contempt Fines As She Pursues Supreme Court Appeal"
       ],
       "homepage_cards": [
         {
-          "id": "media-0-2414858306904848287",
-          "key": "media-0-2414858306904848287",
+          "id": "media-0-2408107736678314626",
+          "key": "media-0-2408107736678314626",
           "category": "Media",
           "label": "Media",
           "headline": "David Ellison Is Promising Theater Owners Contractual Guarantees for Paramount-Warner Bros. 30-Film Annual Slate. But What if Moviegoers Don’t Care?",
@@ -4133,8 +4191,8 @@
           ]
         },
         {
-          "id": "media-10-6517094321474546041",
-          "key": "media-10-6517094321474546041",
+          "id": "media-10-1875826018966620979",
+          "key": "media-10-1875826018966620979",
           "category": "Media",
           "label": "Media",
           "headline": "Spencer Pratt To The Rescue? Failed L.A. Mayoral Candidate Wants To Help Trump Save Hollywood, Supposedly",
@@ -4161,14 +4219,14 @@
           ]
         },
         {
-          "id": "media-20-5992139311130418277",
-          "key": "media-20-5992139311130418277",
+          "id": "media-20-7967002208587602680",
+          "key": "media-20-7967002208587602680",
           "category": "Media",
           "label": "Media",
-          "headline": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - newsonair.gov.in",
-          "title": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - newsonair.gov.in",
-          "snapshot": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar newsonair.gov.in",
-          "summary": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar newsonair.gov.in",
+          "headline": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
+          "title": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
+          "snapshot": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar News On AIR",
+          "summary": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar News On AIR",
           "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSWNQSE9iNkw3bldMbkp6MEM2T0YyeVlOX1diZU9JdjZVZFpwMXNTemp3dXFqaW9iX3VwdTJvT3BsQ1pXWnI4ZGs3VlMzZzRMeEF1VG83SGVZVHlrSnVYLU1WcWhlcmNzRlNUWFhXaFdyUzRUaVQzN2RCX3lOTFZ6b0xHUzgtQUJfTnhvQllmM3gxQWF4c05vd1I4NjdsaGFmcnlQR2lNdTUtYVlQVm9JLVBKVTdnMWZuaElFSWphZm1yUGZOZHBVZkxmeExENGk2eWtwTEt2S1VhcjNIMG1PcnBsYmdWcmc?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -4179,7 +4237,7 @@
           "story_type": "rss_headline",
           "priority_score": 80,
           "key_data": [
-            "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - newsonair.gov.in"
+            "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4189,8 +4247,8 @@
           ]
         },
         {
-          "id": "media-1-3293742849781821160",
-          "key": "media-1-3293742849781821160",
+          "id": "media-1-4016817020783202457",
+          "key": "media-1-4016817020783202457",
           "category": "Media",
           "label": "Media",
           "headline": "LISTEN: NBCUniversal Media Group Chief Matt Strauss on Growing Peacock, Testing Membership Rewards and Becoming a Daily Habit With Users",
@@ -4217,8 +4275,8 @@
           ]
         },
         {
-          "id": "media-11-4906603072516526316",
-          "key": "media-11-4906603072516526316",
+          "id": "media-11-5348506302746424156",
+          "key": "media-11-5348506302746424156",
           "category": "Media",
           "label": "Media",
           "headline": "Judge Clarifies That Reporter Catherine Herridge Doesn’t Have To Pay $800-Per-Day Contempt Fines As She Pursues Supreme Court Appeal",
@@ -4247,8 +4305,8 @@
       ],
       "items": [
         {
-          "id": "media-0-2414858306904848287",
-          "key": "media-0-2414858306904848287",
+          "id": "media-0-2408107736678314626",
+          "key": "media-0-2408107736678314626",
           "category": "Media",
           "label": "Media",
           "headline": "David Ellison Is Promising Theater Owners Contractual Guarantees for Paramount-Warner Bros. 30-Film Annual Slate. But What if Moviegoers Don’t Care?",
@@ -4275,8 +4333,8 @@
           ]
         },
         {
-          "id": "media-10-6517094321474546041",
-          "key": "media-10-6517094321474546041",
+          "id": "media-10-1875826018966620979",
+          "key": "media-10-1875826018966620979",
           "category": "Media",
           "label": "Media",
           "headline": "Spencer Pratt To The Rescue? Failed L.A. Mayoral Candidate Wants To Help Trump Save Hollywood, Supposedly",
@@ -4303,14 +4361,14 @@
           ]
         },
         {
-          "id": "media-20-5992139311130418277",
-          "key": "media-20-5992139311130418277",
+          "id": "media-20-7967002208587602680",
+          "key": "media-20-7967002208587602680",
           "category": "Media",
           "label": "Media",
-          "headline": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - newsonair.gov.in",
-          "title": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - newsonair.gov.in",
-          "snapshot": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar newsonair.gov.in",
-          "summary": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar newsonair.gov.in",
+          "headline": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
+          "title": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
+          "snapshot": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar News On AIR",
+          "summary": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar News On AIR",
           "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSWNQSE9iNkw3bldMbkp6MEM2T0YyeVlOX1diZU9JdjZVZFpwMXNTemp3dXFqaW9iX3VwdTJvT3BsQ1pXWnI4ZGs3VlMzZzRMeEF1VG83SGVZVHlrSnVYLU1WcWhlcmNzRlNUWFhXaFdyUzRUaVQzN2RCX3lOTFZ6b0xHUzgtQUJfTnhvQllmM3gxQWF4c05vd1I4NjdsaGFmcnlQR2lNdTUtYVlQVm9JLVBKVTdnMWZuaElFSWphZm1yUGZOZHBVZkxmeExENGk2eWtwTEt2S1VhcjNIMG1PcnBsYmdWcmc?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -4321,7 +4379,7 @@
           "story_type": "rss_headline",
           "priority_score": 80,
           "key_data": [
-            "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - newsonair.gov.in"
+            "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4331,8 +4389,8 @@
           ]
         },
         {
-          "id": "media-1-3293742849781821160",
-          "key": "media-1-3293742849781821160",
+          "id": "media-1-4016817020783202457",
+          "key": "media-1-4016817020783202457",
           "category": "Media",
           "label": "Media",
           "headline": "LISTEN: NBCUniversal Media Group Chief Matt Strauss on Growing Peacock, Testing Membership Rewards and Becoming a Daily Habit With Users",
@@ -4359,8 +4417,8 @@
           ]
         },
         {
-          "id": "media-11-4906603072516526316",
-          "key": "media-11-4906603072516526316",
+          "id": "media-11-5348506302746424156",
+          "key": "media-11-5348506302746424156",
           "category": "Media",
           "label": "Media",
           "headline": "Judge Clarifies That Reporter Catherine Herridge Doesn’t Have To Pay $800-Per-Day Contempt Fines As She Pursues Supreme Court Appeal",
@@ -4387,7 +4445,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 03:33:34 PM ET"
+      "updated_at": "2026-08-09 04:33:25 PM ET"
     }
   ]
 }
