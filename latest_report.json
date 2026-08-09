@@ -4,16 +4,16 @@
   "site_name": "Global Entertainment Report",
   "vertical": "Entertainment",
   "headline": "'Teenage Sex and Death at Camp Miasma' Cinematographer, Editor and Star Jack Haven Break Down Little Death's Bloody One-Take Dance",
-  "snapshot": "Global Entertainment Report accepted 46 real RSS item(s) across 31 checked feed request(s).",
-  "generated_at": "2026-08-09 06:31:56 PM ET",
-  "updated_at": "2026-08-09 06:31:56 PM ET",
-  "published_at": "2026-08-09 06:31:56 PM ET",
+  "snapshot": "Global Entertainment Report accepted 47 real RSS item(s) across 31 checked feed request(s).",
+  "generated_at": "2026-08-09 07:31:48 PM ET",
+  "updated_at": "2026-08-09 07:31:48 PM ET",
+  "published_at": "2026-08-09 07:31:48 PM ET",
   "source_mode": "live RSS ingestion",
   "freshness": {
     "max_item_age_hours": 336,
-    "accepted_real_items": 46,
+    "accepted_real_items": 47,
     "checked_feeds": 31,
-    "feeds_without_accepted_items": 7
+    "feeds_without_accepted_items": 6
   },
   "feed_audit": [
     {
@@ -53,9 +53,9 @@
       "final_url": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 80,
+      "rejected_count": 81,
       "rejection_reasons": {
-        "stale-over-336h": 80
+        "stale-over-336h": 81
       }
     },
     {
@@ -232,10 +232,10 @@
       "final_url": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 48,
+      "rejected_count": 45,
       "rejection_reasons": {
-        "duplicate-story": 2,
-        "stale-over-336h": 46
+        "duplicate-story": 3,
+        "stale-over-336h": 42
       }
     },
     {
@@ -255,11 +255,11 @@
       "url": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
-      "item_count": 91,
+      "item_count": 88,
       "accepted_count": 2,
-      "rejected_count": 79,
+      "rejected_count": 77,
       "rejection_reasons": {
-        "stale-over-336h": 79
+        "stale-over-336h": 77
       }
     },
     {
@@ -268,10 +268,10 @@
       "status_code": "200",
       "final_url": "https://variety.com/feed/",
       "item_count": 10,
-      "accepted_count": 0,
-      "rejected_count": 10,
+      "accepted_count": 1,
+      "rejected_count": 9,
       "rejection_reasons": {
-        "duplicate-story": 10
+        "duplicate-story": 9
       }
     },
     {
@@ -293,9 +293,9 @@
       "final_url": "https://www.hollywoodreporter.com/feed/",
       "item_count": 10,
       "accepted_count": 2,
-      "rejected_count": 4,
+      "rejected_count": 5,
       "rejection_reasons": {
-        "duplicate-story": 4
+        "duplicate-story": 5
       }
     },
     {
@@ -382,8 +382,8 @@
   ],
   "live_newsroom": [
     {
-      "id": "film-0-1457118195028226294",
-      "key": "film-0-1457118195028226294",
+      "id": "film-0-413887245600975517",
+      "key": "film-0-413887245600975517",
       "category": "Film",
       "label": "Film",
       "headline": "'Teenage Sex and Death at Camp Miasma' Cinematographer, Editor and Star Jack Haven Break Down Little Death's Bloody One-Take Dance",
@@ -409,8 +409,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-672725377716328786",
-      "key": "film-10-672725377716328786",
+      "id": "film-10-4195654658401870546",
+      "key": "film-10-4195654658401870546",
       "category": "Film",
       "label": "Film",
       "headline": "Anthony Bourdain Biopic A Top 2026 Limited Opening; Jane Schoenbrun, 'CatVideoFest', Fire Up Indie Weekend - Specialty Box Office",
@@ -436,8 +436,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-5187836161137342791",
-      "key": "film-22-5187836161137342791",
+      "id": "film-22-8689234354760704820",
+      "key": "film-22-8689234354760704820",
       "category": "Film",
       "label": "Film",
       "headline": "James Gray Told His Wife He Would Get an Award at Locarno. She Reminded Him to Take Out the Trash",
@@ -463,8 +463,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-142475693570875661",
-      "key": "film-32-142475693570875661",
+      "id": "film-32-8779399805990415529",
+      "key": "film-32-8779399805990415529",
       "category": "Film",
       "label": "Film",
       "headline": "30 Years Ago Today: 1996 Film, Named One of Robin Williams' Worst Movies, Was Released - Men's Journal",
@@ -490,8 +490,8 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-9138225348373621558",
-      "key": "music-10-9138225348373621558",
+      "id": "music-10-8328854152046514402",
+      "key": "music-10-8328854152046514402",
       "category": "Music",
       "label": "Music",
       "headline": "Ariana Grande Reacts to 'Petal' Debuting at No. 1 on Billboard 200",
@@ -517,8 +517,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-3052829677765832587",
-      "key": "gaming-0-3052829677765832587",
+      "id": "gaming-0-4562503104294586232",
+      "key": "gaming-0-4562503104294586232",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Marvel Tokon PC Launch Is So Bad That Famed FGC Content Creator Maximilian Dood Uninstalled the Game on Stream",
@@ -544,8 +544,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-2768866640176998510",
-      "key": "film-1-2768866640176998510",
+      "id": "film-1-7230661838671143182",
+      "key": "film-1-7230661838671143182",
       "category": "Film",
       "label": "Film",
       "headline": "The Blockbuster Mentality Is Back, Baby!",
@@ -571,8 +571,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-484880157149931090",
-      "key": "film-11-484880157149931090",
+      "id": "film-11-6226020028811597452",
+      "key": "film-11-6226020028811597452",
       "category": "Film",
       "label": "Film",
       "headline": "Wagner Moura Compares Netflix's 'The Last House' To His Hope That \"The World Was Gonna Change\" After COVID Isolation",
@@ -598,8 +598,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-8018345715451282262",
-      "key": "film-23-8018345715451282262",
+      "id": "film-23-2212087093502168884",
+      "key": "film-23-2212087093502168884",
       "category": "Film",
       "label": "Film",
       "headline": "Letterboxd Responds to Website Crash that Signed Users Out of Accounts",
@@ -625,8 +625,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-4280114027559170822",
-      "key": "film-33-4280114027559170822",
+      "id": "film-33-1463360212355068835",
+      "key": "film-33-1463360212355068835",
       "category": "Film",
       "label": "Film",
       "headline": "Our favorite memories at the movies - The Verge",
@@ -652,8 +652,8 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-1723394515253965859",
-      "key": "music-11-1723394515253965859",
+      "id": "music-11-6139379467711987523",
+      "key": "music-11-6139379467711987523",
       "category": "Music",
       "label": "Music",
       "headline": "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night",
@@ -679,8 +679,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-775583266406173507",
-      "key": "gaming-1-775583266406173507",
+      "id": "gaming-1-8948317222242386513",
+      "key": "gaming-1-8948317222242386513",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Blizzard Reportedly Leads Xbox as 'Top-Performing' Studio Thanks to Overwatch and Diablo",
@@ -708,8 +708,8 @@
   ],
   "editor_signals": [
     {
-      "id": "film-2-4227169251206955493",
-      "key": "film-2-4227169251206955493",
+      "id": "film-2-2473180445131380449",
+      "key": "film-2-2473180445131380449",
       "category": "Film",
       "label": "Film",
       "headline": "'Five Nights at Freddy's' to Open Real Freddy Fazbear's Pizza Location in 2027",
@@ -735,8 +735,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-9046945891408296544",
-      "key": "film-12-9046945891408296544",
+      "id": "film-12-5859152713010849635",
+      "key": "film-12-5859152713010849635",
       "category": "Film",
       "label": "Film",
       "headline": "Alia Shawkat Talks Reuniting With Kristen Stewart In 'The Wrong Girls' After She \"Literally Was Not Allowed To Speak\" In 2010's 'The Runaways'",
@@ -762,8 +762,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-6515523623680134328",
-      "key": "film-24-6515523623680134328",
+      "id": "film-24-6578759872933903742",
+      "key": "film-24-6578759872933903742",
       "category": "Film",
       "label": "Film",
       "headline": "'Spring Story,' 'The Surubí,' 'Yazz' Among Locarno Pro Winners",
@@ -789,8 +789,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-8660024904760629638",
-      "key": "film-34-8660024904760629638",
+      "id": "film-34-6711819098464549892",
+      "key": "film-34-6711819098464549892",
       "category": "Film",
       "label": "Film",
       "headline": "The 35 best sci-fi movies of all time (August 2026) - Entertainment Weekly",
@@ -816,8 +816,8 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-1433344537222017233",
-      "key": "music-12-1433344537222017233",
+      "id": "music-12-5956167513761468269",
+      "key": "music-12-5956167513761468269",
       "category": "Music",
       "label": "Music",
       "headline": "Whitney Houston Joins Barbie Signature Family",
@@ -843,8 +843,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-7182669368113397726",
-      "key": "gaming-2-7182669368113397726",
+      "id": "gaming-2-834124727102917799",
+      "key": "gaming-2-834124727102917799",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The Best Deals Today: Civilization VII, AirPods Pro 3, Spider-Man: Brand New Day Steelbook, and More",
@@ -870,8 +870,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-7803070368188934341",
-      "key": "film-3-7803070368188934341",
+      "id": "film-3-7036765164410141086",
+      "key": "film-3-7036765164410141086",
       "category": "Film",
       "label": "Film",
       "headline": "Florian Hoffmann's U.N. Compound Drama 'Yazz' Takes Main Alliance 4 Development Prizes at Locarno Pro Awards",
@@ -897,8 +897,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-448702132838777295",
-      "key": "film-13-448702132838777295",
+      "id": "film-13-8259381632977205360",
+      "key": "film-13-8259381632977205360",
       "category": "Film",
       "label": "Film",
       "headline": "'Five Nights at Freddy's' Immersive Freddy Fazbear's Pizza Opening In N.J. Mall",
@@ -924,8 +924,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-1037831102917710461",
-      "key": "film-25-1037831102917710461",
+      "id": "film-25-9168071187499463907",
+      "key": "film-25-9168071187499463907",
       "category": "Film",
       "label": "Film",
       "headline": "'Spider-Man: Brand New Day' Scores $145M for Third-Best Second Weekend Ever",
@@ -951,8 +951,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-7193914789479396291",
-      "key": "film-35-7193914789479396291",
+      "id": "film-35-7607805590547252582",
+      "key": "film-35-7607805590547252582",
       "category": "Film",
       "label": "Film",
       "headline": "Everything to know about 'Madden,' a new movie coming to Prime Video November 18 - About Amazon",
@@ -978,8 +978,8 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-9127370357115559257",
-      "key": "music-13-9127370357115559257",
+      "id": "music-13-1058877208091767199",
+      "key": "music-13-1058877208091767199",
       "category": "Music",
       "label": "Music",
       "headline": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
@@ -1005,8 +1005,8 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-2630111404538677605",
-      "key": "gaming-3-2630111404538677605",
+      "id": "gaming-3-7496427808206846049",
+      "key": "gaming-3-7496427808206846049",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "'If You're Not a Netflix Subscriber, You Definitely Should Be' - Take-Two Boss Teases Grand Theft Auto VI: An Extended Look",
@@ -1034,8 +1034,8 @@
   ],
   "homepage_cards": [
     {
-      "id": "film-0-1457118195028226294",
-      "key": "film-0-1457118195028226294",
+      "id": "film-0-413887245600975517",
+      "key": "film-0-413887245600975517",
       "category": "Film",
       "label": "Film",
       "headline": "'Teenage Sex and Death at Camp Miasma' Cinematographer, Editor and Star Jack Haven Break Down Little Death's Bloody One-Take Dance",
@@ -1061,8 +1061,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-672725377716328786",
-      "key": "film-10-672725377716328786",
+      "id": "film-10-4195654658401870546",
+      "key": "film-10-4195654658401870546",
       "category": "Film",
       "label": "Film",
       "headline": "Anthony Bourdain Biopic A Top 2026 Limited Opening; Jane Schoenbrun, 'CatVideoFest', Fire Up Indie Weekend - Specialty Box Office",
@@ -1088,8 +1088,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-5187836161137342791",
-      "key": "film-22-5187836161137342791",
+      "id": "film-22-8689234354760704820",
+      "key": "film-22-8689234354760704820",
       "category": "Film",
       "label": "Film",
       "headline": "James Gray Told His Wife He Would Get an Award at Locarno. She Reminded Him to Take Out the Trash",
@@ -1115,8 +1115,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-142475693570875661",
-      "key": "film-32-142475693570875661",
+      "id": "film-32-8779399805990415529",
+      "key": "film-32-8779399805990415529",
       "category": "Film",
       "label": "Film",
       "headline": "30 Years Ago Today: 1996 Film, Named One of Robin Williams' Worst Movies, Was Released - Men's Journal",
@@ -1142,8 +1142,8 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-9138225348373621558",
-      "key": "music-10-9138225348373621558",
+      "id": "music-10-8328854152046514402",
+      "key": "music-10-8328854152046514402",
       "category": "Music",
       "label": "Music",
       "headline": "Ariana Grande Reacts to 'Petal' Debuting at No. 1 on Billboard 200",
@@ -1169,8 +1169,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-3052829677765832587",
-      "key": "gaming-0-3052829677765832587",
+      "id": "gaming-0-4562503104294586232",
+      "key": "gaming-0-4562503104294586232",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Marvel Tokon PC Launch Is So Bad That Famed FGC Content Creator Maximilian Dood Uninstalled the Game on Stream",
@@ -1196,8 +1196,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-2768866640176998510",
-      "key": "film-1-2768866640176998510",
+      "id": "film-1-7230661838671143182",
+      "key": "film-1-7230661838671143182",
       "category": "Film",
       "label": "Film",
       "headline": "The Blockbuster Mentality Is Back, Baby!",
@@ -1223,8 +1223,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-484880157149931090",
-      "key": "film-11-484880157149931090",
+      "id": "film-11-6226020028811597452",
+      "key": "film-11-6226020028811597452",
       "category": "Film",
       "label": "Film",
       "headline": "Wagner Moura Compares Netflix's 'The Last House' To His Hope That \"The World Was Gonna Change\" After COVID Isolation",
@@ -1250,8 +1250,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-8018345715451282262",
-      "key": "film-23-8018345715451282262",
+      "id": "film-23-2212087093502168884",
+      "key": "film-23-2212087093502168884",
       "category": "Film",
       "label": "Film",
       "headline": "Letterboxd Responds to Website Crash that Signed Users Out of Accounts",
@@ -1277,8 +1277,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-4280114027559170822",
-      "key": "film-33-4280114027559170822",
+      "id": "film-33-1463360212355068835",
+      "key": "film-33-1463360212355068835",
       "category": "Film",
       "label": "Film",
       "headline": "Our favorite memories at the movies - The Verge",
@@ -1304,8 +1304,8 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-1723394515253965859",
-      "key": "music-11-1723394515253965859",
+      "id": "music-11-6139379467711987523",
+      "key": "music-11-6139379467711987523",
       "category": "Music",
       "label": "Music",
       "headline": "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night",
@@ -1331,8 +1331,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-775583266406173507",
-      "key": "gaming-1-775583266406173507",
+      "id": "gaming-1-8948317222242386513",
+      "key": "gaming-1-8948317222242386513",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Blizzard Reportedly Leads Xbox as 'Top-Performing' Studio Thanks to Overwatch and Diablo",
@@ -1358,8 +1358,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-2-4227169251206955493",
-      "key": "film-2-4227169251206955493",
+      "id": "film-2-2473180445131380449",
+      "key": "film-2-2473180445131380449",
       "category": "Film",
       "label": "Film",
       "headline": "'Five Nights at Freddy's' to Open Real Freddy Fazbear's Pizza Location in 2027",
@@ -1385,8 +1385,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-9046945891408296544",
-      "key": "film-12-9046945891408296544",
+      "id": "film-12-5859152713010849635",
+      "key": "film-12-5859152713010849635",
       "category": "Film",
       "label": "Film",
       "headline": "Alia Shawkat Talks Reuniting With Kristen Stewart In 'The Wrong Girls' After She \"Literally Was Not Allowed To Speak\" In 2010's 'The Runaways'",
@@ -1412,8 +1412,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-6515523623680134328",
-      "key": "film-24-6515523623680134328",
+      "id": "film-24-6578759872933903742",
+      "key": "film-24-6578759872933903742",
       "category": "Film",
       "label": "Film",
       "headline": "'Spring Story,' 'The Surubí,' 'Yazz' Among Locarno Pro Winners",
@@ -1439,8 +1439,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-8660024904760629638",
-      "key": "film-34-8660024904760629638",
+      "id": "film-34-6711819098464549892",
+      "key": "film-34-6711819098464549892",
       "category": "Film",
       "label": "Film",
       "headline": "The 35 best sci-fi movies of all time (August 2026) - Entertainment Weekly",
@@ -1466,8 +1466,8 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-1433344537222017233",
-      "key": "music-12-1433344537222017233",
+      "id": "music-12-5956167513761468269",
+      "key": "music-12-5956167513761468269",
       "category": "Music",
       "label": "Music",
       "headline": "Whitney Houston Joins Barbie Signature Family",
@@ -1493,8 +1493,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-7182669368113397726",
-      "key": "gaming-2-7182669368113397726",
+      "id": "gaming-2-834124727102917799",
+      "key": "gaming-2-834124727102917799",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The Best Deals Today: Civilization VII, AirPods Pro 3, Spider-Man: Brand New Day Steelbook, and More",
@@ -1520,8 +1520,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-7803070368188934341",
-      "key": "film-3-7803070368188934341",
+      "id": "film-3-7036765164410141086",
+      "key": "film-3-7036765164410141086",
       "category": "Film",
       "label": "Film",
       "headline": "Florian Hoffmann's U.N. Compound Drama 'Yazz' Takes Main Alliance 4 Development Prizes at Locarno Pro Awards",
@@ -1547,8 +1547,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-448702132838777295",
-      "key": "film-13-448702132838777295",
+      "id": "film-13-8259381632977205360",
+      "key": "film-13-8259381632977205360",
       "category": "Film",
       "label": "Film",
       "headline": "'Five Nights at Freddy's' Immersive Freddy Fazbear's Pizza Opening In N.J. Mall",
@@ -1574,8 +1574,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-1037831102917710461",
-      "key": "film-25-1037831102917710461",
+      "id": "film-25-9168071187499463907",
+      "key": "film-25-9168071187499463907",
       "category": "Film",
       "label": "Film",
       "headline": "'Spider-Man: Brand New Day' Scores $145M for Third-Best Second Weekend Ever",
@@ -1601,8 +1601,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-7193914789479396291",
-      "key": "film-35-7193914789479396291",
+      "id": "film-35-7607805590547252582",
+      "key": "film-35-7607805590547252582",
       "category": "Film",
       "label": "Film",
       "headline": "Everything to know about 'Madden,' a new movie coming to Prime Video November 18 - About Amazon",
@@ -1628,8 +1628,8 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-9127370357115559257",
-      "key": "music-13-9127370357115559257",
+      "id": "music-13-1058877208091767199",
+      "key": "music-13-1058877208091767199",
       "category": "Music",
       "label": "Music",
       "headline": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
@@ -1655,8 +1655,8 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-2630111404538677605",
-      "key": "gaming-3-2630111404538677605",
+      "id": "gaming-3-7496427808206846049",
+      "key": "gaming-3-7496427808206846049",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "'If You're Not a Netflix Subscriber, You Definitely Should Be' - Take-Two Boss Teases Grand Theft Auto VI: An Extended Look",
@@ -1708,8 +1708,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "film-0-1457118195028226294",
-          "key": "film-0-1457118195028226294",
+          "id": "film-0-413887245600975517",
+          "key": "film-0-413887245600975517",
           "category": "Film",
           "label": "Film",
           "headline": "‘Teenage Sex and Death at Camp Miasma’ Cinematographer, Editor and Star Jack Haven Break Down Little Death’s Bloody One-Take Dance",
@@ -1736,8 +1736,8 @@
           ]
         },
         {
-          "id": "film-10-672725377716328786",
-          "key": "film-10-672725377716328786",
+          "id": "film-10-4195654658401870546",
+          "key": "film-10-4195654658401870546",
           "category": "Film",
           "label": "Film",
           "headline": "Anthony Bourdain Biopic A Top 2026 Limited Opening; Jane Schoenbrun, ‘CatVideoFest’, Fire Up Indie Weekend – Specialty Box Office",
@@ -1764,8 +1764,8 @@
           ]
         },
         {
-          "id": "film-22-5187836161137342791",
-          "key": "film-22-5187836161137342791",
+          "id": "film-22-8689234354760704820",
+          "key": "film-22-8689234354760704820",
           "category": "Film",
           "label": "Film",
           "headline": "James Gray Told His Wife He Would Get an Award at Locarno. She Reminded Him to Take Out the Trash",
@@ -1792,8 +1792,8 @@
           ]
         },
         {
-          "id": "film-32-142475693570875661",
-          "key": "film-32-142475693570875661",
+          "id": "film-32-8779399805990415529",
+          "key": "film-32-8779399805990415529",
           "category": "Film",
           "label": "Film",
           "headline": "30 Years Ago Today: 1996 Film, Named One of Robin Williams’ Worst Movies, Was Released - Men's Journal",
@@ -1820,8 +1820,8 @@
           ]
         },
         {
-          "id": "film-1-2768866640176998510",
-          "key": "film-1-2768866640176998510",
+          "id": "film-1-7230661838671143182",
+          "key": "film-1-7230661838671143182",
           "category": "Film",
           "label": "Film",
           "headline": "The Blockbuster Mentality Is Back, Baby!",
@@ -1848,8 +1848,8 @@
           ]
         },
         {
-          "id": "film-11-484880157149931090",
-          "key": "film-11-484880157149931090",
+          "id": "film-11-6226020028811597452",
+          "key": "film-11-6226020028811597452",
           "category": "Film",
           "label": "Film",
           "headline": "Wagner Moura Compares Netflix’s ‘The Last House’ To His Hope That “The World Was Gonna Change” After COVID Isolation",
@@ -1876,8 +1876,8 @@
           ]
         },
         {
-          "id": "film-23-8018345715451282262",
-          "key": "film-23-8018345715451282262",
+          "id": "film-23-2212087093502168884",
+          "key": "film-23-2212087093502168884",
           "category": "Film",
           "label": "Film",
           "headline": "Letterboxd Responds to Website Crash that Signed Users Out of Accounts",
@@ -1904,8 +1904,8 @@
           ]
         },
         {
-          "id": "film-33-4280114027559170822",
-          "key": "film-33-4280114027559170822",
+          "id": "film-33-1463360212355068835",
+          "key": "film-33-1463360212355068835",
           "category": "Film",
           "label": "Film",
           "headline": "Our favorite memories at the movies - The Verge",
@@ -1934,8 +1934,8 @@
       ],
       "items": [
         {
-          "id": "film-0-1457118195028226294",
-          "key": "film-0-1457118195028226294",
+          "id": "film-0-413887245600975517",
+          "key": "film-0-413887245600975517",
           "category": "Film",
           "label": "Film",
           "headline": "‘Teenage Sex and Death at Camp Miasma’ Cinematographer, Editor and Star Jack Haven Break Down Little Death’s Bloody One-Take Dance",
@@ -1962,8 +1962,8 @@
           ]
         },
         {
-          "id": "film-10-672725377716328786",
-          "key": "film-10-672725377716328786",
+          "id": "film-10-4195654658401870546",
+          "key": "film-10-4195654658401870546",
           "category": "Film",
           "label": "Film",
           "headline": "Anthony Bourdain Biopic A Top 2026 Limited Opening; Jane Schoenbrun, ‘CatVideoFest’, Fire Up Indie Weekend – Specialty Box Office",
@@ -1990,8 +1990,8 @@
           ]
         },
         {
-          "id": "film-22-5187836161137342791",
-          "key": "film-22-5187836161137342791",
+          "id": "film-22-8689234354760704820",
+          "key": "film-22-8689234354760704820",
           "category": "Film",
           "label": "Film",
           "headline": "James Gray Told His Wife He Would Get an Award at Locarno. She Reminded Him to Take Out the Trash",
@@ -2018,8 +2018,8 @@
           ]
         },
         {
-          "id": "film-32-142475693570875661",
-          "key": "film-32-142475693570875661",
+          "id": "film-32-8779399805990415529",
+          "key": "film-32-8779399805990415529",
           "category": "Film",
           "label": "Film",
           "headline": "30 Years Ago Today: 1996 Film, Named One of Robin Williams’ Worst Movies, Was Released - Men's Journal",
@@ -2046,8 +2046,8 @@
           ]
         },
         {
-          "id": "film-1-2768866640176998510",
-          "key": "film-1-2768866640176998510",
+          "id": "film-1-7230661838671143182",
+          "key": "film-1-7230661838671143182",
           "category": "Film",
           "label": "Film",
           "headline": "The Blockbuster Mentality Is Back, Baby!",
@@ -2074,8 +2074,8 @@
           ]
         },
         {
-          "id": "film-11-484880157149931090",
-          "key": "film-11-484880157149931090",
+          "id": "film-11-6226020028811597452",
+          "key": "film-11-6226020028811597452",
           "category": "Film",
           "label": "Film",
           "headline": "Wagner Moura Compares Netflix’s ‘The Last House’ To His Hope That “The World Was Gonna Change” After COVID Isolation",
@@ -2102,8 +2102,8 @@
           ]
         },
         {
-          "id": "film-23-8018345715451282262",
-          "key": "film-23-8018345715451282262",
+          "id": "film-23-2212087093502168884",
+          "key": "film-23-2212087093502168884",
           "category": "Film",
           "label": "Film",
           "headline": "Letterboxd Responds to Website Crash that Signed Users Out of Accounts",
@@ -2130,8 +2130,8 @@
           ]
         },
         {
-          "id": "film-33-4280114027559170822",
-          "key": "film-33-4280114027559170822",
+          "id": "film-33-1463360212355068835",
+          "key": "film-33-1463360212355068835",
           "category": "Film",
           "label": "Film",
           "headline": "Our favorite memories at the movies - The Verge",
@@ -2158,7 +2158,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 06:31:57 PM ET"
+      "updated_at": "2026-08-09 07:31:49 PM ET"
     },
     {
       "key": "tv",
@@ -2169,22 +2169,22 @@
       "key_storylines": [
         "What’s It Going to Take for Steve Carell to Finally Win an Emmy?",
         "Obama Blames Larry David For 2014 Tan Suit Debacle In ‘Life, Larry & the Pursuit of Unhappiness’ Finale",
-        "Bill Maher’s Jab About Ariana Grande’s Weight Leads to ‘Real Time’ Studio Audience Groans",
+        "Justice Smith Responds to ‘Heated Rivalry’ Casting: “I Am Moved by the Support and Love”",
         "Perez Hilton ‘Will Require Surgery’ After Live Stream Incident, Family Demands Media ‘Cease Photographing Perez’s Children’",
         "‘Monsters Of God’ Slithers Onto HBO: Reptilian Docuseries From ‘Tiger King’s Eric Goode"
       ],
       "watch_list": [
         "What’s It Going to Take for Steve Carell to Finally Win an Emmy?",
         "Obama Blames Larry David For 2014 Tan Suit Debacle In ‘Life, Larry & the Pursuit of Unhappiness’ Finale",
-        "Bill Maher’s Jab About Ariana Grande’s Weight Leads to ‘Real Time’ Studio Audience Groans",
+        "Justice Smith Responds to ‘Heated Rivalry’ Casting: “I Am Moved by the Support and Love”",
         "Perez Hilton ‘Will Require Surgery’ After Live Stream Incident, Family Demands Media ‘Cease Photographing Perez’s Children’",
         "‘Monsters Of God’ Slithers Onto HBO: Reptilian Docuseries From ‘Tiger King’s Eric Goode",
-        "‘Heated Rivalry’ Author Rachel Reid Pushes Back Against Season 2 Casting Criticism"
+        "Where to Watch ‘Real Housewives Ultimate Girls Trip: Roaring 20th’ Anniversary Series Online"
       ],
       "homepage_cards": [
         {
-          "id": "tv-0-7627936090408714861",
-          "key": "tv-0-7627936090408714861",
+          "id": "tv-0-3638006283015037126",
+          "key": "tv-0-3638006283015037126",
           "category": "TV",
           "label": "TV",
           "headline": "What’s It Going to Take for Steve Carell to Finally Win an Emmy?",
@@ -2211,8 +2211,8 @@
           ]
         },
         {
-          "id": "tv-10-6351125173256592928",
-          "key": "tv-10-6351125173256592928",
+          "id": "tv-10-6882960229805896674",
+          "key": "tv-10-6882960229805896674",
           "category": "TV",
           "label": "TV",
           "headline": "Obama Blames Larry David For 2014 Tan Suit Debacle In ‘Life, Larry & the Pursuit of Unhappiness’ Finale",
@@ -2239,25 +2239,25 @@
           ]
         },
         {
-          "id": "tv-22-411733973778380669",
-          "key": "tv-22-411733973778380669",
+          "id": "tv-22-5810406843085990909",
+          "key": "tv-22-5810406843085990909",
           "category": "TV",
           "label": "TV",
-          "headline": "Bill Maher’s Jab About Ariana Grande’s Weight Leads to ‘Real Time’ Studio Audience Groans",
-          "title": "Bill Maher’s Jab About Ariana Grande’s Weight Leads to ‘Real Time’ Studio Audience Groans",
-          "snapshot": "The comedian's joke came after it was recently revealed that the Grammy winner would be \"taking a step back from visibility\" once her tour ends following \"endless, ongoing public scrutiny.\"",
-          "summary": "The comedian's joke came after it was recently revealed that the Grammy winner would be \"taking a step back from visibility\" once her tour ends following \"endless, ongoing public scrutiny.\"",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/bill-mahers-joke-ariana-grande-weight-real-time-1236669751/",
+          "headline": "Justice Smith Responds to ‘Heated Rivalry’ Casting: “I Am Moved by the Support and Love”",
+          "title": "Justice Smith Responds to ‘Heated Rivalry’ Casting: “I Am Moved by the Support and Love”",
+          "snapshot": "The 31-year-old actor is set to star alongside Charlie Gillespie, Hudson Williams and Connor Storrie in season two of the hit Crave-HBO Max series.",
+          "summary": "The 31-year-old actor is set to star alongside Charlie Gillespie, Hudson Williams and Connor Storrie in season two of the hit Crave-HBO Max series.",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/justice-smith-heated-rivalry-casting-response-1236669809/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/c/tv/tv-news/feed/",
-          "published_at": "2026-08-09 02:43:42 PM ET",
+          "published_at": "2026-08-09 07:24:18 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 78,
           "key_data": [
-            "Bill Maher’s Jab About Ariana Grande’s Weight Leads to ‘Real Time’ Studio Audience Groans"
+            "Justice Smith Responds to ‘Heated Rivalry’ Casting: “I Am Moved by the Support and Love”"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2267,8 +2267,8 @@
           ]
         },
         {
-          "id": "tv-1-8387686277573898337",
-          "key": "tv-1-8387686277573898337",
+          "id": "tv-1-4208380060453002460",
+          "key": "tv-1-4208380060453002460",
           "category": "TV",
           "label": "TV",
           "headline": "Perez Hilton ‘Will Require Surgery’ After Live Stream Incident, Family Demands Media ‘Cease Photographing Perez’s Children’",
@@ -2295,8 +2295,8 @@
           ]
         },
         {
-          "id": "tv-11-5888326065546608821",
-          "key": "tv-11-5888326065546608821",
+          "id": "tv-11-3122554711676403473",
+          "key": "tv-11-3122554711676403473",
           "category": "TV",
           "label": "TV",
           "headline": "‘Monsters Of God’ Slithers Onto HBO: Reptilian Docuseries From ‘Tiger King’s Eric Goode",
@@ -2323,25 +2323,25 @@
           ]
         },
         {
-          "id": "tv-23-8656176717731832633",
-          "key": "tv-23-8656176717731832633",
+          "id": "tv-23-4990787943843899077",
+          "key": "tv-23-4990787943843899077",
           "category": "TV",
           "label": "TV",
-          "headline": "‘Heated Rivalry’ Author Rachel Reid Pushes Back Against Season 2 Casting Criticism",
-          "title": "‘Heated Rivalry’ Author Rachel Reid Pushes Back Against Season 2 Casting Criticism",
-          "snapshot": "It was announced Friday that Charlie Gillespie will portray Troy, a professional hockey player who is traded to the Ottawa Centaurs in Reid's source material, while Justice Smith was cast as Harris, the team’s social media manager.",
-          "summary": "It was announced Friday that Charlie Gillespie will portray Troy, a professional hockey player who is traded to the Ottawa Centaurs in Reid's source material, while Justice Smith was cast as Harris, the team’s social media manager.",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/heated-rivalry-rachel-reid-season-2-casting-criticism-1236669555/",
+          "headline": "Where to Watch ‘Real Housewives Ultimate Girls Trip: Roaring 20th’ Anniversary Series Online",
+          "title": "Where to Watch ‘Real Housewives Ultimate Girls Trip: Roaring 20th’ Anniversary Series Online",
+          "snapshot": "Seven \"franchise-defining women\" hit the road in celebration of its landmark 20th anniversary.",
+          "summary": "Seven \"franchise-defining women\" hit the road in celebration of its landmark 20th anniversary.",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-real-housewives-ultimate-girls-trip-roaring-20th-free-1236669804/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/c/tv/tv-news/feed/",
-          "published_at": "2026-08-08 08:08:39 PM ET",
+          "published_at": "2026-08-09 07:05:45 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 77,
           "key_data": [
-            "‘Heated Rivalry’ Author Rachel Reid Pushes Back Against Season 2 Casting Criticism"
+            "Where to Watch ‘Real Housewives Ultimate Girls Trip: Roaring 20th’ Anniversary Series Online"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2353,8 +2353,8 @@
       ],
       "items": [
         {
-          "id": "tv-0-7627936090408714861",
-          "key": "tv-0-7627936090408714861",
+          "id": "tv-0-3638006283015037126",
+          "key": "tv-0-3638006283015037126",
           "category": "TV",
           "label": "TV",
           "headline": "What’s It Going to Take for Steve Carell to Finally Win an Emmy?",
@@ -2381,8 +2381,8 @@
           ]
         },
         {
-          "id": "tv-10-6351125173256592928",
-          "key": "tv-10-6351125173256592928",
+          "id": "tv-10-6882960229805896674",
+          "key": "tv-10-6882960229805896674",
           "category": "TV",
           "label": "TV",
           "headline": "Obama Blames Larry David For 2014 Tan Suit Debacle In ‘Life, Larry & the Pursuit of Unhappiness’ Finale",
@@ -2409,25 +2409,25 @@
           ]
         },
         {
-          "id": "tv-22-411733973778380669",
-          "key": "tv-22-411733973778380669",
+          "id": "tv-22-5810406843085990909",
+          "key": "tv-22-5810406843085990909",
           "category": "TV",
           "label": "TV",
-          "headline": "Bill Maher’s Jab About Ariana Grande’s Weight Leads to ‘Real Time’ Studio Audience Groans",
-          "title": "Bill Maher’s Jab About Ariana Grande’s Weight Leads to ‘Real Time’ Studio Audience Groans",
-          "snapshot": "The comedian's joke came after it was recently revealed that the Grammy winner would be \"taking a step back from visibility\" once her tour ends following \"endless, ongoing public scrutiny.\"",
-          "summary": "The comedian's joke came after it was recently revealed that the Grammy winner would be \"taking a step back from visibility\" once her tour ends following \"endless, ongoing public scrutiny.\"",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/bill-mahers-joke-ariana-grande-weight-real-time-1236669751/",
+          "headline": "Justice Smith Responds to ‘Heated Rivalry’ Casting: “I Am Moved by the Support and Love”",
+          "title": "Justice Smith Responds to ‘Heated Rivalry’ Casting: “I Am Moved by the Support and Love”",
+          "snapshot": "The 31-year-old actor is set to star alongside Charlie Gillespie, Hudson Williams and Connor Storrie in season two of the hit Crave-HBO Max series.",
+          "summary": "The 31-year-old actor is set to star alongside Charlie Gillespie, Hudson Williams and Connor Storrie in season two of the hit Crave-HBO Max series.",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/justice-smith-heated-rivalry-casting-response-1236669809/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/c/tv/tv-news/feed/",
-          "published_at": "2026-08-09 02:43:42 PM ET",
+          "published_at": "2026-08-09 07:24:18 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 78,
           "key_data": [
-            "Bill Maher’s Jab About Ariana Grande’s Weight Leads to ‘Real Time’ Studio Audience Groans"
+            "Justice Smith Responds to ‘Heated Rivalry’ Casting: “I Am Moved by the Support and Love”"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2437,8 +2437,8 @@
           ]
         },
         {
-          "id": "tv-1-8387686277573898337",
-          "key": "tv-1-8387686277573898337",
+          "id": "tv-1-4208380060453002460",
+          "key": "tv-1-4208380060453002460",
           "category": "TV",
           "label": "TV",
           "headline": "Perez Hilton ‘Will Require Surgery’ After Live Stream Incident, Family Demands Media ‘Cease Photographing Perez’s Children’",
@@ -2465,8 +2465,8 @@
           ]
         },
         {
-          "id": "tv-11-5888326065546608821",
-          "key": "tv-11-5888326065546608821",
+          "id": "tv-11-3122554711676403473",
+          "key": "tv-11-3122554711676403473",
           "category": "TV",
           "label": "TV",
           "headline": "‘Monsters Of God’ Slithers Onto HBO: Reptilian Docuseries From ‘Tiger King’s Eric Goode",
@@ -2493,25 +2493,25 @@
           ]
         },
         {
-          "id": "tv-23-8656176717731832633",
-          "key": "tv-23-8656176717731832633",
+          "id": "tv-23-4990787943843899077",
+          "key": "tv-23-4990787943843899077",
           "category": "TV",
           "label": "TV",
-          "headline": "‘Heated Rivalry’ Author Rachel Reid Pushes Back Against Season 2 Casting Criticism",
-          "title": "‘Heated Rivalry’ Author Rachel Reid Pushes Back Against Season 2 Casting Criticism",
-          "snapshot": "It was announced Friday that Charlie Gillespie will portray Troy, a professional hockey player who is traded to the Ottawa Centaurs in Reid's source material, while Justice Smith was cast as Harris, the team’s social media manager.",
-          "summary": "It was announced Friday that Charlie Gillespie will portray Troy, a professional hockey player who is traded to the Ottawa Centaurs in Reid's source material, while Justice Smith was cast as Harris, the team’s social media manager.",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/heated-rivalry-rachel-reid-season-2-casting-criticism-1236669555/",
+          "headline": "Where to Watch ‘Real Housewives Ultimate Girls Trip: Roaring 20th’ Anniversary Series Online",
+          "title": "Where to Watch ‘Real Housewives Ultimate Girls Trip: Roaring 20th’ Anniversary Series Online",
+          "snapshot": "Seven \"franchise-defining women\" hit the road in celebration of its landmark 20th anniversary.",
+          "summary": "Seven \"franchise-defining women\" hit the road in celebration of its landmark 20th anniversary.",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-real-housewives-ultimate-girls-trip-roaring-20th-free-1236669804/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/c/tv/tv-news/feed/",
-          "published_at": "2026-08-08 08:08:39 PM ET",
+          "published_at": "2026-08-09 07:05:45 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 77,
           "key_data": [
-            "‘Heated Rivalry’ Author Rachel Reid Pushes Back Against Season 2 Casting Criticism"
+            "Where to Watch ‘Real Housewives Ultimate Girls Trip: Roaring 20th’ Anniversary Series Online"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2521,7 +2521,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 06:31:57 PM ET"
+      "updated_at": "2026-08-09 07:31:50 PM ET"
     },
     {
       "key": "streaming",
@@ -2537,8 +2537,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "streaming-0-1057818030147844756",
-          "key": "streaming-0-1057818030147844756",
+          "id": "streaming-0-7174615348076704524",
+          "key": "streaming-0-7174615348076704524",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Disney turns $4-billion streaming loss into profit, and now it chases global growth - Los Angeles Times",
@@ -2567,8 +2567,8 @@
       ],
       "items": [
         {
-          "id": "streaming-0-1057818030147844756",
-          "key": "streaming-0-1057818030147844756",
+          "id": "streaming-0-7174615348076704524",
+          "key": "streaming-0-7174615348076704524",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Disney turns $4-billion streaming loss into profit, and now it chases global growth - Los Angeles Times",
@@ -2595,7 +2595,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 06:31:58 PM ET"
+      "updated_at": "2026-08-09 07:31:51 PM ET"
     },
     {
       "key": "music",
@@ -2620,8 +2620,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "music-0-7691979811620896959",
-          "key": "music-0-7691979811620896959",
+          "id": "music-0-1104426018407925512",
+          "key": "music-0-1104426018407925512",
           "category": "Music",
           "label": "Music",
           "headline": "Ariana Grande Debuts at No. 1 on Album Chart With ‘Petal,’ Earning Her Best First-Week Numbers in Seven Years",
@@ -2648,8 +2648,8 @@
           ]
         },
         {
-          "id": "music-10-9138225348373621558",
-          "key": "music-10-9138225348373621558",
+          "id": "music-10-8328854152046514402",
+          "key": "music-10-8328854152046514402",
           "category": "Music",
           "label": "Music",
           "headline": "Ariana Grande Reacts to ‘Petal’ Debuting at No. 1 on Billboard 200",
@@ -2676,8 +2676,8 @@
           ]
         },
         {
-          "id": "music-20-6981157072179599659",
-          "key": "music-20-6981157072179599659",
+          "id": "music-20-4875915935672621661",
+          "key": "music-20-4875915935672621661",
           "category": "Music",
           "label": "Music",
           "headline": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - billboard.com",
@@ -2704,8 +2704,8 @@
           ]
         },
         {
-          "id": "music-1-1623225722055632646",
-          "key": "music-1-1623225722055632646",
+          "id": "music-1-7958269372575286555",
+          "key": "music-1-7958269372575286555",
           "category": "Music",
           "label": "Music",
           "headline": "Morrissey Cancels Las Vegas Residency Days Before Showtime Due to ‘Unforeseen Logistical Issues’",
@@ -2732,8 +2732,8 @@
           ]
         },
         {
-          "id": "music-11-1723394515253965859",
-          "key": "music-11-1723394515253965859",
+          "id": "music-11-6139379467711987523",
+          "key": "music-11-6139379467711987523",
           "category": "Music",
           "label": "Music",
           "headline": "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night",
@@ -2760,8 +2760,8 @@
           ]
         },
         {
-          "id": "music-21-8170222487550697301",
-          "key": "music-21-8170222487550697301",
+          "id": "music-21-6974878549500877022",
+          "key": "music-21-6974878549500877022",
           "category": "Music",
           "label": "Music",
           "headline": "It’s Official: Influence Media to Buy Anthem for Over $600 Million - Billboard",
@@ -2790,8 +2790,8 @@
       ],
       "items": [
         {
-          "id": "music-0-7691979811620896959",
-          "key": "music-0-7691979811620896959",
+          "id": "music-0-1104426018407925512",
+          "key": "music-0-1104426018407925512",
           "category": "Music",
           "label": "Music",
           "headline": "Ariana Grande Debuts at No. 1 on Album Chart With ‘Petal,’ Earning Her Best First-Week Numbers in Seven Years",
@@ -2818,8 +2818,8 @@
           ]
         },
         {
-          "id": "music-10-9138225348373621558",
-          "key": "music-10-9138225348373621558",
+          "id": "music-10-8328854152046514402",
+          "key": "music-10-8328854152046514402",
           "category": "Music",
           "label": "Music",
           "headline": "Ariana Grande Reacts to ‘Petal’ Debuting at No. 1 on Billboard 200",
@@ -2846,8 +2846,8 @@
           ]
         },
         {
-          "id": "music-20-6981157072179599659",
-          "key": "music-20-6981157072179599659",
+          "id": "music-20-4875915935672621661",
+          "key": "music-20-4875915935672621661",
           "category": "Music",
           "label": "Music",
           "headline": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - billboard.com",
@@ -2874,8 +2874,8 @@
           ]
         },
         {
-          "id": "music-1-1623225722055632646",
-          "key": "music-1-1623225722055632646",
+          "id": "music-1-7958269372575286555",
+          "key": "music-1-7958269372575286555",
           "category": "Music",
           "label": "Music",
           "headline": "Morrissey Cancels Las Vegas Residency Days Before Showtime Due to ‘Unforeseen Logistical Issues’",
@@ -2902,8 +2902,8 @@
           ]
         },
         {
-          "id": "music-11-1723394515253965859",
-          "key": "music-11-1723394515253965859",
+          "id": "music-11-6139379467711987523",
+          "key": "music-11-6139379467711987523",
           "category": "Music",
           "label": "Music",
           "headline": "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night",
@@ -2930,8 +2930,8 @@
           ]
         },
         {
-          "id": "music-21-8170222487550697301",
-          "key": "music-21-8170222487550697301",
+          "id": "music-21-6974878549500877022",
+          "key": "music-21-6974878549500877022",
           "category": "Music",
           "label": "Music",
           "headline": "It’s Official: Influence Media to Buy Anthem for Over $600 Million - Billboard",
@@ -2958,7 +2958,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 06:31:59 PM ET"
+      "updated_at": "2026-08-09 07:31:52 PM ET"
     },
     {
       "key": "awards",
@@ -2968,20 +2968,20 @@
       "snapshot": "Awards coverage is updating with 4 current RSS headline item(s).",
       "key_storylines": [
         "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
-        "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - deadline.com",
+        "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline",
         "James Gray Says AI Is ‘Worthless’ and Young People Won’t Stand for It: They ‘Have a Real Hunger for Interesting, Honest Stuff’",
         "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo"
       ],
       "watch_list": [
         "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
-        "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - deadline.com",
+        "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline",
         "James Gray Says AI Is ‘Worthless’ and Young People Won’t Stand for It: They ‘Have a Real Hunger for Interesting, Honest Stuff’",
         "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo"
       ],
       "homepage_cards": [
         {
-          "id": "awards-0-6990356513352520637",
-          "key": "awards-0-6990356513352520637",
+          "id": "awards-0-1179660277827421435",
+          "key": "awards-0-1179660277827421435",
           "category": "Awards",
           "label": "Awards",
           "headline": "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
@@ -3008,14 +3008,14 @@
           ]
         },
         {
-          "id": "awards-5-2535815123587268888",
-          "key": "awards-5-2535815123587268888",
+          "id": "awards-5-8706215420132165618",
+          "key": "awards-5-8706215420132165618",
           "category": "Awards",
           "label": "Awards",
-          "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - deadline.com",
-          "title": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - deadline.com",
-          "snapshot": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More deadline.com",
-          "summary": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More deadline.com",
+          "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline",
+          "title": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline",
+          "snapshot": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More Deadline",
+          "summary": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More Deadline",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdGg4QjJyZUJKQ2FiQTJmTllYMEE0WlN6V19uVXlWVjROc0ZVMUd0RV84VExSb2U3U05kbzdWVVBJdC1PLTV4UC1VREMtMHVfZW05VGpQS09JX3JPWERkQVM4eWdic1BtVldkeGJIeURUTlFRMlp4MjU4T1BRRXlNdUR3TEJZcnRfbWxTdWQxNUZjbk5PR2ktc1NlUQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3026,7 +3026,7 @@
           "story_type": "rss_headline",
           "priority_score": 95,
           "key_data": [
-            "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - deadline.com"
+            "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3036,8 +3036,8 @@
           ]
         },
         {
-          "id": "awards-1-3747187106647190836",
-          "key": "awards-1-3747187106647190836",
+          "id": "awards-1-9190268583671815346",
+          "key": "awards-1-9190268583671815346",
           "category": "Awards",
           "label": "Awards",
           "headline": "James Gray Says AI Is ‘Worthless’ and Young People Won’t Stand for It: They ‘Have a Real Hunger for Interesting, Honest Stuff’",
@@ -3064,8 +3064,8 @@
           ]
         },
         {
-          "id": "awards-6-5243787571086501179",
-          "key": "awards-6-5243787571086501179",
+          "id": "awards-6-8369431113702769354",
+          "key": "awards-6-8369431113702769354",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo",
@@ -3094,8 +3094,8 @@
       ],
       "items": [
         {
-          "id": "awards-0-6990356513352520637",
-          "key": "awards-0-6990356513352520637",
+          "id": "awards-0-1179660277827421435",
+          "key": "awards-0-1179660277827421435",
           "category": "Awards",
           "label": "Awards",
           "headline": "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
@@ -3122,14 +3122,14 @@
           ]
         },
         {
-          "id": "awards-5-2535815123587268888",
-          "key": "awards-5-2535815123587268888",
+          "id": "awards-5-8706215420132165618",
+          "key": "awards-5-8706215420132165618",
           "category": "Awards",
           "label": "Awards",
-          "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - deadline.com",
-          "title": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - deadline.com",
-          "snapshot": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More deadline.com",
-          "summary": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More deadline.com",
+          "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline",
+          "title": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline",
+          "snapshot": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More Deadline",
+          "summary": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More Deadline",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdGg4QjJyZUJKQ2FiQTJmTllYMEE0WlN6V19uVXlWVjROc0ZVMUd0RV84VExSb2U3U05kbzdWVVBJdC1PLTV4UC1VREMtMHVfZW05VGpQS09JX3JPWERkQVM4eWdic1BtVldkeGJIeURUTlFRMlp4MjU4T1BRRXlNdUR3TEJZcnRfbWxTdWQxNUZjbk5PR2ktc1NlUQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3140,7 +3140,7 @@
           "story_type": "rss_headline",
           "priority_score": 95,
           "key_data": [
-            "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - deadline.com"
+            "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3150,8 +3150,8 @@
           ]
         },
         {
-          "id": "awards-1-3747187106647190836",
-          "key": "awards-1-3747187106647190836",
+          "id": "awards-1-9190268583671815346",
+          "key": "awards-1-9190268583671815346",
           "category": "Awards",
           "label": "Awards",
           "headline": "James Gray Says AI Is ‘Worthless’ and Young People Won’t Stand for It: They ‘Have a Real Hunger for Interesting, Honest Stuff’",
@@ -3178,8 +3178,8 @@
           ]
         },
         {
-          "id": "awards-6-5243787571086501179",
-          "key": "awards-6-5243787571086501179",
+          "id": "awards-6-8369431113702769354",
+          "key": "awards-6-8369431113702769354",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo",
@@ -3206,7 +3206,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 06:31:59 PM ET"
+      "updated_at": "2026-08-09 07:31:52 PM ET"
     },
     {
       "key": "box_office",
@@ -3216,20 +3216,20 @@
       "snapshot": "Box Office coverage is updating with 4 current RSS headline item(s).",
       "key_storylines": [
         "Box Office: ‘Spider-Man: Brand New Day’ Swings into Second Weekend With $43 Million on Friday",
-        "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today - bollywoodhungama.com",
+        "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today - Bollywood Hungama",
         "‘The Odyssey’ Surpasses $1 Billion, Christopher Nolan’s First Movie Since ‘Dark Knight Rises’ to Reach Coveted Box Office Milestone",
         "‘Spider-Man’ Will Boost Hollywood’s Summer Box Office Sales Past $4 Billion - Barron's"
       ],
       "watch_list": [
         "Box Office: ‘Spider-Man: Brand New Day’ Swings into Second Weekend With $43 Million on Friday",
-        "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today - bollywoodhungama.com",
+        "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today - Bollywood Hungama",
         "‘The Odyssey’ Surpasses $1 Billion, Christopher Nolan’s First Movie Since ‘Dark Knight Rises’ to Reach Coveted Box Office Milestone",
         "‘Spider-Man’ Will Boost Hollywood’s Summer Box Office Sales Past $4 Billion - Barron's"
       ],
       "homepage_cards": [
         {
-          "id": "box_office-0-5066704909500716236",
-          "key": "box_office-0-5066704909500716236",
+          "id": "box_office-0-4086397429399101640",
+          "key": "box_office-0-4086397429399101640",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘Spider-Man: Brand New Day’ Swings into Second Weekend With $43 Million on Friday",
@@ -3256,14 +3256,14 @@
           ]
         },
         {
-          "id": "box_office-7-5005791291008152830",
-          "key": "box_office-7-5005791291008152830",
+          "id": "box_office-7-4264239699227116796",
+          "key": "box_office-7-4264239699227116796",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today - bollywoodhungama.com",
-          "title": "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today - bollywoodhungama.com",
-          "snapshot": "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today bollywoodhungama.com",
-          "summary": "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today bollywoodhungama.com",
+          "headline": "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today - Bollywood Hungama",
+          "title": "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today - Bollywood Hungama",
+          "snapshot": "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today Bollywood Hungama",
+          "summary": "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today Bollywood Hungama",
           "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxON0MxTTNkS2NleVhSRXU0cG9uQlpodEtzX3NSU25zWEZTaG14Nk1KLTNBWUdva0dsLXFBM1ZpTVkwdmZQTmJwUlRtUUZsYUJPcTFfLU1ZVFEyTkdrcFJ3eXhxaXRBZXlNcHlYUlpHZldCMUVsMS1MN2hUbXJpblF6VnlxSFZVUC1heE56ajlFVVhPdHpXdkF0a2ZjNjg1WFJOT0sxOGs3VW56OU1PZENiU2V3QWsyUlAzOFVXUlZ3S2ZfMFBFTnAzN2dIblBLZEd1aWhNT29IdVg4Mk5RY0s3SnFSelBIWklfQnp3MGR5S185VWVhUjR4d3JudWNRemR0SnkyLVdqNVlBa3EySmMySW5n0gGXAkFVX3lxTE5sNF9LRGhHUGwtU21pQ25XdDFjYV9xYno2QUxKNFNfbHd2ZmJpUV9RUnl0cVpPSU1kN2JJVEpLanQ0bGhWcDZhSHducmEwOFZnUkFBMVRWc2hTek15QnpVek5ucmNBeno5ZHdBYmJqdmJ5ZUQ2elo0OWd4QkxzM3lZVVJXbzA4c2lMdWNYU1dLTjZLajJnWmdWUG5wc1dPSlBsU0JfMVBHdmlrVkFmanhuMjhHSF9EV3ZObmt1a05vTENYV09TSlpjQkZkS2RPYzUtWjlZQURGVGpKZ3NLZkF5TTVtRUt5cG1SLTRPdFNhWTFVQTl4cWJOU0dUMmxoT3Q3UzhoVUZNa0NETUFzMURXVHRhSDhobw?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3274,7 +3274,7 @@
           "story_type": "rss_headline",
           "priority_score": 93,
           "key_data": [
-            "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today - bollywoodhungama.com"
+            "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today - Bollywood Hungama"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3284,8 +3284,8 @@
           ]
         },
         {
-          "id": "box_office-1-3701564594345083817",
-          "key": "box_office-1-3701564594345083817",
+          "id": "box_office-1-2230796572931224425",
+          "key": "box_office-1-2230796572931224425",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ Surpasses $1 Billion, Christopher Nolan’s First Movie Since ‘Dark Knight Rises’ to Reach Coveted Box Office Milestone",
@@ -3312,8 +3312,8 @@
           ]
         },
         {
-          "id": "box_office-8-3954239814215125921",
-          "key": "box_office-8-3954239814215125921",
+          "id": "box_office-8-6809351911591789367",
+          "key": "box_office-8-6809351911591789367",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Spider-Man’ Will Boost Hollywood’s Summer Box Office Sales Past $4 Billion - Barron's",
@@ -3342,8 +3342,8 @@
       ],
       "items": [
         {
-          "id": "box_office-0-5066704909500716236",
-          "key": "box_office-0-5066704909500716236",
+          "id": "box_office-0-4086397429399101640",
+          "key": "box_office-0-4086397429399101640",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘Spider-Man: Brand New Day’ Swings into Second Weekend With $43 Million on Friday",
@@ -3370,14 +3370,14 @@
           ]
         },
         {
-          "id": "box_office-7-5005791291008152830",
-          "key": "box_office-7-5005791291008152830",
+          "id": "box_office-7-4264239699227116796",
+          "key": "box_office-7-4264239699227116796",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today - bollywoodhungama.com",
-          "title": "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today - bollywoodhungama.com",
-          "snapshot": "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today bollywoodhungama.com",
-          "summary": "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today bollywoodhungama.com",
+          "headline": "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today - Bollywood Hungama",
+          "title": "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today - Bollywood Hungama",
+          "snapshot": "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today Bollywood Hungama",
+          "summary": "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today Bollywood Hungama",
           "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxON0MxTTNkS2NleVhSRXU0cG9uQlpodEtzX3NSU25zWEZTaG14Nk1KLTNBWUdva0dsLXFBM1ZpTVkwdmZQTmJwUlRtUUZsYUJPcTFfLU1ZVFEyTkdrcFJ3eXhxaXRBZXlNcHlYUlpHZldCMUVsMS1MN2hUbXJpblF6VnlxSFZVUC1heE56ajlFVVhPdHpXdkF0a2ZjNjg1WFJOT0sxOGs3VW56OU1PZENiU2V3QWsyUlAzOFVXUlZ3S2ZfMFBFTnAzN2dIblBLZEd1aWhNT29IdVg4Mk5RY0s3SnFSelBIWklfQnp3MGR5S185VWVhUjR4d3JudWNRemR0SnkyLVdqNVlBa3EySmMySW5n0gGXAkFVX3lxTE5sNF9LRGhHUGwtU21pQ25XdDFjYV9xYno2QUxKNFNfbHd2ZmJpUV9RUnl0cVpPSU1kN2JJVEpLanQ0bGhWcDZhSHducmEwOFZnUkFBMVRWc2hTek15QnpVek5ucmNBeno5ZHdBYmJqdmJ5ZUQ2elo0OWd4QkxzM3lZVVJXbzA4c2lMdWNYU1dLTjZLajJnWmdWUG5wc1dPSlBsU0JfMVBHdmlrVkFmanhuMjhHSF9EV3ZObmt1a05vTENYV09TSlpjQkZkS2RPYzUtWjlZQURGVGpKZ3NLZkF5TTVtRUt5cG1SLTRPdFNhWTFVQTl4cWJOU0dUMmxoT3Q3UzhoVUZNa0NETUFzMURXVHRhSDhobw?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3388,7 +3388,7 @@
           "story_type": "rss_headline",
           "priority_score": 93,
           "key_data": [
-            "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today - bollywoodhungama.com"
+            "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today - Bollywood Hungama"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3398,8 +3398,8 @@
           ]
         },
         {
-          "id": "box_office-1-3701564594345083817",
-          "key": "box_office-1-3701564594345083817",
+          "id": "box_office-1-2230796572931224425",
+          "key": "box_office-1-2230796572931224425",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ Surpasses $1 Billion, Christopher Nolan’s First Movie Since ‘Dark Knight Rises’ to Reach Coveted Box Office Milestone",
@@ -3426,8 +3426,8 @@
           ]
         },
         {
-          "id": "box_office-8-3954239814215125921",
-          "key": "box_office-8-3954239814215125921",
+          "id": "box_office-8-6809351911591789367",
+          "key": "box_office-8-6809351911591789367",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Spider-Man’ Will Boost Hollywood’s Summer Box Office Sales Past $4 Billion - Barron's",
@@ -3454,7 +3454,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 06:32:00 PM ET"
+      "updated_at": "2026-08-09 07:31:53 PM ET"
     },
     {
       "key": "celebrity",
@@ -3472,8 +3472,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "celebrity-0-7950071318745631488",
-          "key": "celebrity-0-7950071318745631488",
+          "id": "celebrity-0-1591932353209770856",
+          "key": "celebrity-0-1591932353209770856",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Entertainment News | Latest Celebrity News, Videos & Photos - ABC News - Breaking News, Latest News and Videos",
@@ -3500,8 +3500,8 @@
           ]
         },
         {
-          "id": "celebrity-1-6072745445295799751",
-          "key": "celebrity-1-6072745445295799751",
+          "id": "celebrity-1-4918084320960558107",
+          "key": "celebrity-1-4918084320960558107",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3530,8 +3530,8 @@
       ],
       "items": [
         {
-          "id": "celebrity-0-7950071318745631488",
-          "key": "celebrity-0-7950071318745631488",
+          "id": "celebrity-0-1591932353209770856",
+          "key": "celebrity-0-1591932353209770856",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Entertainment News | Latest Celebrity News, Videos & Photos - ABC News - Breaking News, Latest News and Videos",
@@ -3558,8 +3558,8 @@
           ]
         },
         {
-          "id": "celebrity-1-6072745445295799751",
-          "key": "celebrity-1-6072745445295799751",
+          "id": "celebrity-1-4918084320960558107",
+          "key": "celebrity-1-4918084320960558107",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3586,22 +3586,23 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 06:32:00 PM ET"
+      "updated_at": "2026-08-09 07:31:54 PM ET"
     },
     {
       "key": "hollywood",
       "name": "Hollywood",
       "title": "Hollywood Report",
-      "headline": "Summer Domestic Box Office On A Hot Streak, Will Cross $4B By Monday",
-      "snapshot": "Hollywood coverage is updating with 6 current RSS headline item(s).",
+      "headline": "David Sackeroff, Emmy-Nominated ‘Seinfeld’ and ‘Home Improvement’ Production Designer, Dies at 81",
+      "snapshot": "Hollywood coverage is updating with 7 current RSS headline item(s).",
       "key_storylines": [
+        "David Sackeroff, Emmy-Nominated ‘Seinfeld’ and ‘Home Improvement’ Production Designer, Dies at 81",
         "Summer Domestic Box Office On A Hot Streak, Will Cross $4B By Monday",
         "Two Eiffel Towers, One Perfect Ending: Inside the Final Frame of ‘Hacks’",
         "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
-        "Paramount Making Deals To Theaters For 30 Films A Year Post WBD Acquisition; Cinema United Still Anti-Merger",
-        "Helloooo, Emmy: Art Carney’s Enduring ‘Honeymooners’ Triumph"
+        "Paramount Making Deals To Theaters For 30 Films A Year Post WBD Acquisition; Cinema United Still Anti-Merger"
       ],
       "watch_list": [
+        "David Sackeroff, Emmy-Nominated ‘Seinfeld’ and ‘Home Improvement’ Production Designer, Dies at 81",
         "Summer Domestic Box Office On A Hot Streak, Will Cross $4B By Monday",
         "Two Eiffel Towers, One Perfect Ending: Inside the Final Frame of ‘Hacks’",
         "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
@@ -3611,8 +3612,36 @@
       ],
       "homepage_cards": [
         {
-          "id": "hollywood-0-7339434293931091822",
-          "key": "hollywood-0-7339434293931091822",
+          "id": "hollywood-0-742743536437170536",
+          "key": "hollywood-0-742743536437170536",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "David Sackeroff, Emmy-Nominated ‘Seinfeld’ and ‘Home Improvement’ Production Designer, Dies at 81",
+          "title": "David Sackeroff, Emmy-Nominated ‘Seinfeld’ and ‘Home Improvement’ Production Designer, Dies at 81",
+          "snapshot": "David Sackeroff, an Emmy-nominated production designer and art director known for his work on classic shows like “Seinfeld,” “Alf” and “Carol & Company”, died July 10 on Bainbridge Island, Wash. He was 81. Sackeroff was born on November 8, 1944. He spent his childhood constructing miniature puppet theaters and devel...",
+          "summary": "David Sackeroff, an Emmy-nominated production designer and art director known for his work on classic shows like “Seinfeld,” “Alf” and “Carol & Company”, died July 10 on Bainbridge Island, Wash. He was 81. Sackeroff was born on November 8, 1944. He spent his childhood constructing miniature puppet theaters and devel...",
+          "url": "https://variety.com/2026/digital/news/david-sackeroff-dead-seinfeld-production-designer-1236831001/",
+          "source": "Variety",
+          "source_name": "Variety",
+          "source_feed": "https://variety.com/feed/",
+          "published_at": "2026-08-09 07:23:47 PM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 100,
+          "key_data": [
+            "David Sackeroff, Emmy-Nominated ‘Seinfeld’ and ‘Home Improvement’ Production Designer, Dies at 81"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-1-6179017260665161505",
+          "key": "hollywood-1-6179017260665161505",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Summer Domestic Box Office On A Hot Streak, Will Cross $4B By Monday",
@@ -3627,7 +3656,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 100,
+          "priority_score": 99,
           "key_data": [
             "Summer Domestic Box Office On A Hot Streak, Will Cross $4B By Monday"
           ],
@@ -3639,8 +3668,8 @@
           ]
         },
         {
-          "id": "hollywood-6-5637836165914563840",
-          "key": "hollywood-6-5637836165914563840",
+          "id": "hollywood-7-5090887341510953166",
+          "key": "hollywood-7-5090887341510953166",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Two Eiffel Towers, One Perfect Ending: Inside the Final Frame of ‘Hacks’",
@@ -3655,7 +3684,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 94,
+          "priority_score": 93,
           "key_data": [
             "Two Eiffel Towers, One Perfect Ending: Inside the Final Frame of ‘Hacks’"
           ],
@@ -3667,8 +3696,8 @@
           ]
         },
         {
-          "id": "hollywood-12-3870763574451402266",
-          "key": "hollywood-12-3870763574451402266",
+          "id": "hollywood-12-4646769989028454552",
+          "key": "hollywood-12-4646769989028454552",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
@@ -3695,8 +3724,8 @@
           ]
         },
         {
-          "id": "hollywood-1-3635440436265110263",
-          "key": "hollywood-1-3635440436265110263",
+          "id": "hollywood-2-5660266722613994378",
+          "key": "hollywood-2-5660266722613994378",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Paramount Making Deals To Theaters For 30 Films A Year Post WBD Acquisition; Cinema United Still Anti-Merger",
@@ -3711,7 +3740,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 99,
+          "priority_score": 98,
           "key_data": [
             "Paramount Making Deals To Theaters For 30 Films A Year Post WBD Acquisition; Cinema United Still Anti-Merger"
           ],
@@ -3723,8 +3752,8 @@
           ]
         },
         {
-          "id": "hollywood-7-3932979940515715525",
-          "key": "hollywood-7-3932979940515715525",
+          "id": "hollywood-8-8220585630980807588",
+          "key": "hollywood-8-8220585630980807588",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Helloooo, Emmy: Art Carney’s Enduring ‘Honeymooners’ Triumph",
@@ -3739,7 +3768,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 93,
+          "priority_score": 92,
           "key_data": [
             "Helloooo, Emmy: Art Carney’s Enduring ‘Honeymooners’ Triumph"
           ],
@@ -3751,8 +3780,8 @@
           ]
         },
         {
-          "id": "hollywood-13-3360065141701809622",
-          "key": "hollywood-13-3360065141701809622",
+          "id": "hollywood-13-293530164585758467",
+          "key": "hollywood-13-293530164585758467",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Why did the United States film industry settle in Hollywood? - Encyclopedia Britannica",
@@ -3781,8 +3810,36 @@
       ],
       "items": [
         {
-          "id": "hollywood-0-7339434293931091822",
-          "key": "hollywood-0-7339434293931091822",
+          "id": "hollywood-0-742743536437170536",
+          "key": "hollywood-0-742743536437170536",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "David Sackeroff, Emmy-Nominated ‘Seinfeld’ and ‘Home Improvement’ Production Designer, Dies at 81",
+          "title": "David Sackeroff, Emmy-Nominated ‘Seinfeld’ and ‘Home Improvement’ Production Designer, Dies at 81",
+          "snapshot": "David Sackeroff, an Emmy-nominated production designer and art director known for his work on classic shows like “Seinfeld,” “Alf” and “Carol & Company”, died July 10 on Bainbridge Island, Wash. He was 81. Sackeroff was born on November 8, 1944. He spent his childhood constructing miniature puppet theaters and devel...",
+          "summary": "David Sackeroff, an Emmy-nominated production designer and art director known for his work on classic shows like “Seinfeld,” “Alf” and “Carol & Company”, died July 10 on Bainbridge Island, Wash. He was 81. Sackeroff was born on November 8, 1944. He spent his childhood constructing miniature puppet theaters and devel...",
+          "url": "https://variety.com/2026/digital/news/david-sackeroff-dead-seinfeld-production-designer-1236831001/",
+          "source": "Variety",
+          "source_name": "Variety",
+          "source_feed": "https://variety.com/feed/",
+          "published_at": "2026-08-09 07:23:47 PM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 100,
+          "key_data": [
+            "David Sackeroff, Emmy-Nominated ‘Seinfeld’ and ‘Home Improvement’ Production Designer, Dies at 81"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-1-6179017260665161505",
+          "key": "hollywood-1-6179017260665161505",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Summer Domestic Box Office On A Hot Streak, Will Cross $4B By Monday",
@@ -3797,7 +3854,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 100,
+          "priority_score": 99,
           "key_data": [
             "Summer Domestic Box Office On A Hot Streak, Will Cross $4B By Monday"
           ],
@@ -3809,8 +3866,8 @@
           ]
         },
         {
-          "id": "hollywood-6-5637836165914563840",
-          "key": "hollywood-6-5637836165914563840",
+          "id": "hollywood-7-5090887341510953166",
+          "key": "hollywood-7-5090887341510953166",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Two Eiffel Towers, One Perfect Ending: Inside the Final Frame of ‘Hacks’",
@@ -3825,7 +3882,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 94,
+          "priority_score": 93,
           "key_data": [
             "Two Eiffel Towers, One Perfect Ending: Inside the Final Frame of ‘Hacks’"
           ],
@@ -3837,8 +3894,8 @@
           ]
         },
         {
-          "id": "hollywood-12-3870763574451402266",
-          "key": "hollywood-12-3870763574451402266",
+          "id": "hollywood-12-4646769989028454552",
+          "key": "hollywood-12-4646769989028454552",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
@@ -3865,8 +3922,8 @@
           ]
         },
         {
-          "id": "hollywood-1-3635440436265110263",
-          "key": "hollywood-1-3635440436265110263",
+          "id": "hollywood-2-5660266722613994378",
+          "key": "hollywood-2-5660266722613994378",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Paramount Making Deals To Theaters For 30 Films A Year Post WBD Acquisition; Cinema United Still Anti-Merger",
@@ -3881,7 +3938,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 99,
+          "priority_score": 98,
           "key_data": [
             "Paramount Making Deals To Theaters For 30 Films A Year Post WBD Acquisition; Cinema United Still Anti-Merger"
           ],
@@ -3893,8 +3950,8 @@
           ]
         },
         {
-          "id": "hollywood-7-3932979940515715525",
-          "key": "hollywood-7-3932979940515715525",
+          "id": "hollywood-8-8220585630980807588",
+          "key": "hollywood-8-8220585630980807588",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Helloooo, Emmy: Art Carney’s Enduring ‘Honeymooners’ Triumph",
@@ -3909,7 +3966,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 93,
+          "priority_score": 92,
           "key_data": [
             "Helloooo, Emmy: Art Carney’s Enduring ‘Honeymooners’ Triumph"
           ],
@@ -3921,8 +3978,8 @@
           ]
         },
         {
-          "id": "hollywood-13-3360065141701809622",
-          "key": "hollywood-13-3360065141701809622",
+          "id": "hollywood-13-293530164585758467",
+          "key": "hollywood-13-293530164585758467",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Why did the United States film industry settle in Hollywood? - Encyclopedia Britannica",
@@ -3949,7 +4006,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 06:32:01 PM ET"
+      "updated_at": "2026-08-09 07:31:54 PM ET"
     },
     {
       "key": "gaming",
@@ -3971,8 +4028,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "gaming-0-3052829677765832587",
-          "key": "gaming-0-3052829677765832587",
+          "id": "gaming-0-4562503104294586232",
+          "key": "gaming-0-4562503104294586232",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Marvel Tokon PC Launch Is So Bad That Famed FGC Content Creator Maximilian Dood Uninstalled the Game on Stream",
@@ -3999,8 +4056,8 @@
           ]
         },
         {
-          "id": "gaming-20-8102948073873981668",
-          "key": "gaming-20-8102948073873981668",
+          "id": "gaming-20-7607402249527130238",
+          "key": "gaming-20-7607402249527130238",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem - The Washington Post",
@@ -4027,8 +4084,8 @@
           ]
         },
         {
-          "id": "gaming-1-775583266406173507",
-          "key": "gaming-1-775583266406173507",
+          "id": "gaming-1-8948317222242386513",
+          "key": "gaming-1-8948317222242386513",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Blizzard Reportedly Leads Xbox as 'Top-Performing' Studio Thanks to Overwatch and Diablo",
@@ -4055,8 +4112,8 @@
           ]
         },
         {
-          "id": "gaming-21-7154219695717974038",
-          "key": "gaming-21-7154219695717974038",
+          "id": "gaming-21-6798067881191179290",
+          "key": "gaming-21-6798067881191179290",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "What is friendslop? Inside gaming's fastest-growing trend, including the newest hit Big Walk - CBC",
@@ -4085,8 +4142,8 @@
       ],
       "items": [
         {
-          "id": "gaming-0-3052829677765832587",
-          "key": "gaming-0-3052829677765832587",
+          "id": "gaming-0-4562503104294586232",
+          "key": "gaming-0-4562503104294586232",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Marvel Tokon PC Launch Is So Bad That Famed FGC Content Creator Maximilian Dood Uninstalled the Game on Stream",
@@ -4113,8 +4170,8 @@
           ]
         },
         {
-          "id": "gaming-20-8102948073873981668",
-          "key": "gaming-20-8102948073873981668",
+          "id": "gaming-20-7607402249527130238",
+          "key": "gaming-20-7607402249527130238",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem - The Washington Post",
@@ -4141,8 +4198,8 @@
           ]
         },
         {
-          "id": "gaming-1-775583266406173507",
-          "key": "gaming-1-775583266406173507",
+          "id": "gaming-1-8948317222242386513",
+          "key": "gaming-1-8948317222242386513",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Blizzard Reportedly Leads Xbox as 'Top-Performing' Studio Thanks to Overwatch and Diablo",
@@ -4169,8 +4226,8 @@
           ]
         },
         {
-          "id": "gaming-21-7154219695717974038",
-          "key": "gaming-21-7154219695717974038",
+          "id": "gaming-21-6798067881191179290",
+          "key": "gaming-21-6798067881191179290",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "What is friendslop? Inside gaming's fastest-growing trend, including the newest hit Big Walk - CBC",
@@ -4197,7 +4254,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 06:32:02 PM ET"
+      "updated_at": "2026-08-09 07:31:56 PM ET"
     },
     {
       "key": "media",
@@ -4221,8 +4278,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "media-0-4850799251721279208",
-          "key": "media-0-4850799251721279208",
+          "id": "media-0-5683738177782774804",
+          "key": "media-0-5683738177782774804",
           "category": "Media",
           "label": "Media",
           "headline": "David Ellison Is Promising Theater Owners Contractual Guarantees for Paramount-Warner Bros. 30-Film Annual Slate. But What if Moviegoers Don’t Care?",
@@ -4249,8 +4306,8 @@
           ]
         },
         {
-          "id": "media-10-8220475396015759577",
-          "key": "media-10-8220475396015759577",
+          "id": "media-10-6530318509964689005",
+          "key": "media-10-6530318509964689005",
           "category": "Media",
           "label": "Media",
           "headline": "Spencer Pratt To The Rescue? Failed L.A. Mayoral Candidate Wants To Help Trump Save Hollywood, Supposedly",
@@ -4277,8 +4334,8 @@
           ]
         },
         {
-          "id": "media-20-4458013100632150159",
-          "key": "media-20-4458013100632150159",
+          "id": "media-20-3925771976666488754",
+          "key": "media-20-3925771976666488754",
           "category": "Media",
           "label": "Media",
           "headline": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
@@ -4305,8 +4362,8 @@
           ]
         },
         {
-          "id": "media-1-4020647801868945794",
-          "key": "media-1-4020647801868945794",
+          "id": "media-1-4301527797422117680",
+          "key": "media-1-4301527797422117680",
           "category": "Media",
           "label": "Media",
           "headline": "LISTEN: NBCUniversal Media Group Chief Matt Strauss on Growing Peacock, Testing Membership Rewards and Becoming a Daily Habit With Users",
@@ -4333,8 +4390,8 @@
           ]
         },
         {
-          "id": "media-11-4672304720606317689",
-          "key": "media-11-4672304720606317689",
+          "id": "media-11-721796312557620733",
+          "key": "media-11-721796312557620733",
           "category": "Media",
           "label": "Media",
           "headline": "Judge Clarifies That Reporter Catherine Herridge Doesn’t Have To Pay $800-Per-Day Contempt Fines As She Pursues Supreme Court Appeal",
@@ -4363,8 +4420,8 @@
       ],
       "items": [
         {
-          "id": "media-0-4850799251721279208",
-          "key": "media-0-4850799251721279208",
+          "id": "media-0-5683738177782774804",
+          "key": "media-0-5683738177782774804",
           "category": "Media",
           "label": "Media",
           "headline": "David Ellison Is Promising Theater Owners Contractual Guarantees for Paramount-Warner Bros. 30-Film Annual Slate. But What if Moviegoers Don’t Care?",
@@ -4391,8 +4448,8 @@
           ]
         },
         {
-          "id": "media-10-8220475396015759577",
-          "key": "media-10-8220475396015759577",
+          "id": "media-10-6530318509964689005",
+          "key": "media-10-6530318509964689005",
           "category": "Media",
           "label": "Media",
           "headline": "Spencer Pratt To The Rescue? Failed L.A. Mayoral Candidate Wants To Help Trump Save Hollywood, Supposedly",
@@ -4419,8 +4476,8 @@
           ]
         },
         {
-          "id": "media-20-4458013100632150159",
-          "key": "media-20-4458013100632150159",
+          "id": "media-20-3925771976666488754",
+          "key": "media-20-3925771976666488754",
           "category": "Media",
           "label": "Media",
           "headline": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
@@ -4447,8 +4504,8 @@
           ]
         },
         {
-          "id": "media-1-4020647801868945794",
-          "key": "media-1-4020647801868945794",
+          "id": "media-1-4301527797422117680",
+          "key": "media-1-4301527797422117680",
           "category": "Media",
           "label": "Media",
           "headline": "LISTEN: NBCUniversal Media Group Chief Matt Strauss on Growing Peacock, Testing Membership Rewards and Becoming a Daily Habit With Users",
@@ -4475,8 +4532,8 @@
           ]
         },
         {
-          "id": "media-11-4672304720606317689",
-          "key": "media-11-4672304720606317689",
+          "id": "media-11-721796312557620733",
+          "key": "media-11-721796312557620733",
           "category": "Media",
           "label": "Media",
           "headline": "Judge Clarifies That Reporter Catherine Herridge Doesn’t Have To Pay $800-Per-Day Contempt Fines As She Pursues Supreme Court Appeal",
@@ -4503,7 +4560,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 06:32:03 PM ET"
+      "updated_at": "2026-08-09 07:31:56 PM ET"
     }
   ]
 }
