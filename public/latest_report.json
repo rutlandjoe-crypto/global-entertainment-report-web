@@ -5,9 +5,9 @@
   "vertical": "Entertainment",
   "headline": "'Donkey Princess' Review: A Princess Escapes the Kingdom, but Not the Patriarchy, in an Inventive, Shape-Shifting Fairytale",
   "snapshot": "Global Entertainment Report accepted 48 real RSS item(s) across 31 checked feed request(s).",
-  "generated_at": "2026-08-09 04:48:33 AM ET",
-  "updated_at": "2026-08-09 04:48:33 AM ET",
-  "published_at": "2026-08-09 04:48:33 AM ET",
+  "generated_at": "2026-08-09 05:40:02 AM ET",
+  "updated_at": "2026-08-09 05:40:02 AM ET",
+  "published_at": "2026-08-09 05:40:02 AM ET",
   "source_mode": "live RSS ingestion",
   "freshness": {
     "max_item_age_hours": 336,
@@ -53,9 +53,9 @@
       "final_url": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 82,
+      "rejected_count": 83,
       "rejection_reasons": {
-        "stale-over-336h": 82
+        "stale-over-336h": 83
       }
     },
     {
@@ -232,9 +232,8 @@
       "final_url": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 45,
+      "rejected_count": 44,
       "rejection_reasons": {
-        "duplicate-story": 1,
         "stale-over-336h": 44
       }
     },
@@ -293,9 +292,9 @@
       "final_url": "https://www.hollywoodreporter.com/feed/",
       "item_count": 10,
       "accepted_count": 2,
-      "rejected_count": 5,
+      "rejected_count": 6,
       "rejection_reasons": {
-        "duplicate-story": 5
+        "duplicate-story": 6
       }
     },
     {
@@ -373,8 +372,8 @@
   "key_storylines": [
     "'Donkey Princess' Review: A Princess Escapes the Kingdom, but Not the Patriarchy, in an Inventive, Shape-Shifting Fairytale",
     "Matthew McConaughey Performs \"Quill\" In Scene From 'The Rivals of Amziah King' - Watch",
-    "In 'Demons,' Love and Betrayal Become a Metaphor for the Relationship Between Russia and Ukraine (Exclusive Trailer)",
-    "Our favorite memories at the movies - The Verge",
+    "Luca Guadagnino Explains Why He Just Had to Produce Giovanni Tortorici's Coming-of-Age Drama 'Ketticè' in a \"Sterile\" Italian Film Landscape",
+    "Our favorite memories at the movies - theverge.com",
     "Joe Jonas Says He Sought Therapy After His Solo Album Underperformed",
     "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027",
     "Naseeruddin Shah, Gurvinder Singh Turn a Village's Real Grief Into Locarno Competition Title 'Rehmat': 'It's Important That These Films Get Made'",
@@ -382,8 +381,8 @@
   ],
   "live_newsroom": [
     {
-      "id": "film-0-6440562420792329181",
-      "key": "film-0-6440562420792329181",
+      "id": "film-0-857740361987421759",
+      "key": "film-0-857740361987421759",
       "category": "Film",
       "label": "Film",
       "headline": "'Donkey Princess' Review: A Princess Escapes the Kingdom, but Not the Patriarchy, in an Inventive, Shape-Shifting Fairytale",
@@ -409,8 +408,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-3911573440286437647",
-      "key": "film-10-3911573440286437647",
+      "id": "film-10-6605242799147471471",
+      "key": "film-10-6605242799147471471",
       "category": "Film",
       "label": "Film",
       "headline": "Matthew McConaughey Performs \"Quill\" In Scene From 'The Rivals of Amziah King' - Watch",
@@ -436,22 +435,22 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-8211604765025377682",
-      "key": "film-22-8211604765025377682",
+      "id": "film-22-4255319347935634469",
+      "key": "film-22-4255319347935634469",
       "category": "Film",
       "label": "Film",
-      "headline": "In 'Demons,' Love and Betrayal Become a Metaphor for the Relationship Between Russia and Ukraine (Exclusive Trailer)",
-      "title": "In 'Demons,' Love and Betrayal Become a Metaphor for the Relationship Between Russia and Ukraine (Exclusive Trailer)",
-      "snapshot": "The film from writer-director Natalka Vorozhbyt, premiering at Locarno, sees a drifter from Russia arrive in a remote village in central Ukraine and meet a strong and independent woman.",
-      "summary": "The film from writer-director Natalka Vorozhbyt, premiering at Locarno, sees a drifter from Russia arrive in a remote village in central Ukraine and meet a strong and independent woman.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/demons-film-trailer-russia-ukraine-relationship-locarno-1236666538/",
+      "headline": "Luca Guadagnino Explains Why He Just Had to Produce Giovanni Tortorici's Coming-of-Age Drama 'Ketticè' in a \"Sterile\" Italian Film Landscape",
+      "title": "Luca Guadagnino Explains Why He Just Had to Produce Giovanni Tortorici's Coming-of-Age Drama 'Ketticè' in a \"Sterile\" Italian Film Landscape",
+      "snapshot": "The Italian filmmaker came to the Swiss festival to speak about his ex-assistant's second feature, which puts a spotlight on young people, failed by schools and adults, whose cast includes Monica Bellucci.",
+      "summary": "The Italian filmmaker came to the Swiss festival to speak about his ex-assistant's second feature, which puts a spotlight on young people, failed by schools and adults, whose cast includes Monica Bellucci.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/luca-guadagnino-produce-kettice-film-sterile-italy-locarno-1236669247/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-09 04:00:00 AM ET",
+      "published_at": "2026-08-09 05:00:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "In 'Demons,' Love and Betrayal Become a Metaphor for the Relationship Between Russia and Ukraine (Exclusive Trailer)"
+        "Luca Guadagnino Explains Why He Just Had to Produce Giovanni Tortorici's Coming-of-Age Drama 'Ketticè' in a \"Sterile\" Italian Film Landscape"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -463,14 +462,14 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-7272232885900364457",
-      "key": "film-32-7272232885900364457",
+      "id": "film-32-4958976518810126175",
+      "key": "film-32-4958976518810126175",
       "category": "Film",
       "label": "Film",
-      "headline": "Our favorite memories at the movies - The Verge",
-      "title": "Our favorite memories at the movies - The Verge",
-      "snapshot": "Our favorite memories at the movies The Verge",
-      "summary": "Our favorite memories at the movies The Verge",
+      "headline": "Our favorite memories at the movies - theverge.com",
+      "title": "Our favorite memories at the movies - theverge.com",
+      "snapshot": "Our favorite memories at the movies theverge.com",
+      "summary": "Our favorite memories at the movies theverge.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWk1XOTVoaF9TWk9YUGlJM1hENkh4SUhMRGlYZHptY1RRUkotdXVEX1o2TGlvbkRkcjVkVG0xUWVPX1pMSl9WcERKU0ZReFc0cGtnc1dPU3ZaX2I5Znk4cElJb1RsVnVldGhUU1dmRE1UcktmZUUxZTFfb3dyLTFvVA?oc=5",
       "source": "Google News",
       "source_name": "Google News",
@@ -478,7 +477,7 @@
       "published_at": "2026-08-04 10:00:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Our favorite memories at the movies - The Verge"
+        "Our favorite memories at the movies - theverge.com"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -490,8 +489,8 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-7147608426452306627",
-      "key": "music-10-7147608426452306627",
+      "id": "music-10-2511781338273846425",
+      "key": "music-10-2511781338273846425",
       "category": "Music",
       "label": "Music",
       "headline": "Joe Jonas Says He Sought Therapy After His Solo Album Underperformed",
@@ -517,8 +516,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-3232178631377049765",
-      "key": "gaming-0-3232178631377049765",
+      "id": "gaming-0-3780899026086524816",
+      "key": "gaming-0-3780899026086524816",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027",
@@ -544,8 +543,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-2925955700036086612",
-      "key": "film-1-2925955700036086612",
+      "id": "film-1-2547634096972051831",
+      "key": "film-1-2547634096972051831",
       "category": "Film",
       "label": "Film",
       "headline": "Naseeruddin Shah, Gurvinder Singh Turn a Village's Real Grief Into Locarno Competition Title 'Rehmat': 'It's Important That These Films Get Made'",
@@ -571,8 +570,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-879461713716995521",
-      "key": "film-11-879461713716995521",
+      "id": "film-11-1866888391587755265",
+      "key": "film-11-1866888391587755265",
       "category": "Film",
       "label": "Film",
       "headline": "Jane Schoenbrun On Deconstructing The \"Toxic Soup\" Of The Slasher Genre In 'Teenage Sex & Death at Camp Miasma': \"It's There In The DNA\"",
@@ -598,22 +597,22 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-7417706131225034960",
-      "key": "film-23-7417706131225034960",
+      "id": "film-23-1349993758162069393",
+      "key": "film-23-1349993758162069393",
       "category": "Film",
       "label": "Film",
-      "headline": "'Objet a' Explores Desire and Control in an Age When We \"Touch Flat Screens More Than Our Lover's Skin\"",
-      "title": "'Objet a' Explores Desire and Control in an Age When We \"Touch Flat Screens More Than Our Lover's Skin\"",
-      "snapshot": "Aenne Schwarz and Louis Hofmann star as hand surgeons with irresistible fixations in Ann Oren's new Locarno film. The three discuss how it fits into a time of \"war, climate catastrophe and tech fascism.\"",
-      "summary": "Aenne Schwarz and Louis Hofmann star as hand surgeons with irresistible fixations in Ann Oren's new Locarno film. The three discuss how it fits into a time of \"war, climate catastrophe and tech fascism.\"",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/objet-a-film-interview-desire-control-touch-locarno-2026-1236669493/",
+      "headline": "In 'Demons,' Love and Betrayal Become a Metaphor for the Relationship Between Russia and Ukraine (Exclusive Trailer)",
+      "title": "In 'Demons,' Love and Betrayal Become a Metaphor for the Relationship Between Russia and Ukraine (Exclusive Trailer)",
+      "snapshot": "The film from writer-director Natalka Vorozhbyt, premiering at Locarno, sees a drifter from Russia arrive in a remote village in central Ukraine and meet a strong and independent woman.",
+      "summary": "The film from writer-director Natalka Vorozhbyt, premiering at Locarno, sees a drifter from Russia arrive in a remote village in central Ukraine and meet a strong and independent woman.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/demons-film-trailer-russia-ukraine-relationship-locarno-1236666538/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-09 02:03:00 AM ET",
+      "published_at": "2026-08-09 04:00:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Objet a' Explores Desire and Control in an Age When We \"Touch Flat Screens More Than Our Lover's Skin\""
+        "In 'Demons,' Love and Betrayal Become a Metaphor for the Relationship Between Russia and Ukraine (Exclusive Trailer)"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -625,8 +624,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-1390368320806269106",
-      "key": "film-33-1390368320806269106",
+      "id": "film-33-3648368224290877676",
+      "key": "film-33-3648368224290877676",
       "category": "Film",
       "label": "Film",
       "headline": "Your guide to 2026 movie release dates - Entertainment Weekly",
@@ -652,8 +651,8 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-787921771469478789",
-      "key": "music-11-787921771469478789",
+      "id": "music-11-1701960317899478283",
+      "key": "music-11-1701960317899478283",
       "category": "Music",
       "label": "Music",
       "headline": "Baker Boy Takes Album, Song and Film Clip of the Year at 2026 NIMAs",
@@ -679,8 +678,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-620371743228524479",
-      "key": "gaming-1-620371743228524479",
+      "id": "gaming-1-8591368970404411809",
+      "key": "gaming-1-8591368970404411809",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "'They Fundamentally Don't Understand Art' - Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs",
@@ -708,8 +707,8 @@
   ],
   "editor_signals": [
     {
-      "id": "film-2-8909835509173970488",
-      "key": "film-2-8909835509173970488",
+      "id": "film-2-2019164469366018273",
+      "key": "film-2-2019164469366018273",
       "category": "Film",
       "label": "Film",
       "headline": "Mahesh Babu's Look in S.S. Rajamouli's 'Varanasi' Unveiled",
@@ -735,8 +734,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-2222867688359227427",
-      "key": "film-12-2222867688359227427",
+      "id": "film-12-3326991374051085069",
+      "key": "film-12-3326991374051085069",
       "category": "Film",
       "label": "Film",
       "headline": "Dwayne Johnson Reacts To Live-Action 'Moana's Negative Reviews: \"Just The Way It Goes\"",
@@ -762,22 +761,22 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-5795560818026052955",
-      "key": "film-24-5795560818026052955",
+      "id": "film-24-460464032060375468",
+      "key": "film-24-460464032060375468",
       "category": "Film",
       "label": "Film",
-      "headline": "The 'One Night Only' Writer and Producer Have Seen Your Questions and Have (Some of) the Answers",
-      "title": "The 'One Night Only' Writer and Producer Have Seen Your Questions and Have (Some of) the Answers",
-      "snapshot": "\"Go see the film,\" star Callum Turner tells those wondering about the rules of the rom-com's alternate reality outlawing premarital sex (apart from one 12-hour window). \"You'll realize pretty quickly what the realm is that you're working within.\"",
-      "summary": "\"Go see the film,\" star Callum Turner tells those wondering about the rules of the rom-com's alternate reality outlawing premarital sex (apart from one 12-hour window). \"You'll realize pretty quickly what the realm is that you're working within.\"",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/one-night-only-writer-producer-no-premarital-sex-law-rules-1236669498/",
+      "headline": "'Objet a' Explores Desire and Control in an Age When We \"Touch Flat Screens More Than Our Lover's Skin\"",
+      "title": "'Objet a' Explores Desire and Control in an Age When We \"Touch Flat Screens More Than Our Lover's Skin\"",
+      "snapshot": "Aenne Schwarz and Louis Hofmann star as hand surgeons with irresistible fixations in Ann Oren's new Locarno film. The three discuss how it fits into a time of \"war, climate catastrophe and tech fascism.\"",
+      "summary": "Aenne Schwarz and Louis Hofmann star as hand surgeons with irresistible fixations in Ann Oren's new Locarno film. The three discuss how it fits into a time of \"war, climate catastrophe and tech fascism.\"",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/objet-a-film-interview-desire-control-touch-locarno-2026-1236669493/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-08 08:31:47 PM ET",
+      "published_at": "2026-08-09 02:03:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "The 'One Night Only' Writer and Producer Have Seen Your Questions and Have (Some of) the Answers"
+        "'Objet a' Explores Desire and Control in an Age When We \"Touch Flat Screens More Than Our Lover's Skin\""
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -789,8 +788,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-627569814126325404",
-      "key": "film-34-627569814126325404",
+      "id": "film-34-3932584521548568466",
+      "key": "film-34-3932584521548568466",
       "category": "Film",
       "label": "Film",
       "headline": "Everything to know about 'Madden,' a new movie coming to Prime Video November 18 - About Amazon",
@@ -816,8 +815,8 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-4235732439425453916",
-      "key": "music-12-4235732439425453916",
+      "id": "music-12-1601811514976982853",
+      "key": "music-12-1601811514976982853",
       "category": "Music",
       "label": "Music",
       "headline": "aespa Kicks Off SYNK : COMPLæXITY Tour in Seoul: 6 Best Moments",
@@ -843,8 +842,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-6169170322584324676",
-      "key": "gaming-2-6169170322584324676",
+      "id": "gaming-2-8487495428777811009",
+      "key": "gaming-2-8487495428777811009",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The Best Deals Today: AirPods Pro 3, LEGO Back to the Future, Saros, and More",
@@ -870,8 +869,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-6181301037760742243",
-      "key": "film-3-6181301037760742243",
+      "id": "film-3-6747069191654625163",
+      "key": "film-3-6747069191654625163",
       "category": "Film",
       "label": "Film",
       "headline": "Gina Prince-Bythewood Discusses the Worldbuilding of 'Children of Blood and Bone' and Praises Author Tomi Adeyemi as a 'Genius'",
@@ -897,8 +896,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-5256285747631831171",
-      "key": "film-13-5256285747631831171",
+      "id": "film-13-54202356518526421",
+      "key": "film-13-54202356518526421",
       "category": "Film",
       "label": "Film",
       "headline": "'One Night Only' Director Understands The \"Sex Purge\" Comparisons",
@@ -924,22 +923,22 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-6462293417205565155",
-      "key": "film-25-6462293417205565155",
+      "id": "film-25-5838606173628409337",
+      "key": "film-25-5838606173628409337",
       "category": "Film",
       "label": "Film",
-      "headline": "Monica Barbaro Teases Luca Guadagnino's OpenAI Film 'Artificial,' Addresses Timothée Chalamet's Ballet Comments",
-      "title": "Monica Barbaro Teases Luca Guadagnino's OpenAI Film 'Artificial,' Addresses Timothée Chalamet's Ballet Comments",
-      "snapshot": "The 'One Night Only' star said the film has been described to her as \"a madcap comedy\" and \"a horror story.\"",
-      "summary": "The 'One Night Only' star said the film has been described to her as \"a madcap comedy\" and \"a horror story.\"",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/monica-barbaro-openai-artificial-timothee-chalamet-ballet-1236669431/",
+      "headline": "The 'One Night Only' Writer and Producer Have Seen Your Questions and Have (Some of) the Answers",
+      "title": "The 'One Night Only' Writer and Producer Have Seen Your Questions and Have (Some of) the Answers",
+      "snapshot": "\"Go see the film,\" star Callum Turner tells those wondering about the rules of the rom-com's alternate reality outlawing premarital sex (apart from one 12-hour window). \"You'll realize pretty quickly what the realm is that you're working within.\"",
+      "summary": "\"Go see the film,\" star Callum Turner tells those wondering about the rules of the rom-com's alternate reality outlawing premarital sex (apart from one 12-hour window). \"You'll realize pretty quickly what the realm is that you're working within.\"",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/one-night-only-writer-producer-no-premarital-sex-law-rules-1236669498/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-08 04:35:24 PM ET",
+      "published_at": "2026-08-08 08:31:47 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Monica Barbaro Teases Luca Guadagnino's OpenAI Film 'Artificial,' Addresses Timothée Chalamet's Ballet Comments"
+        "The 'One Night Only' Writer and Producer Have Seen Your Questions and Have (Some of) the Answers"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -951,14 +950,14 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-2115959923303930884",
-      "key": "film-35-2115959923303930884",
+      "id": "film-35-7077692277169090097",
+      "key": "film-35-7077692277169090097",
       "category": "Film",
       "label": "Film",
-      "headline": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - indiewire.com",
-      "title": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - indiewire.com",
-      "snapshot": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical indiewire.com",
-      "summary": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical indiewire.com",
+      "headline": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire",
+      "title": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire",
+      "snapshot": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical IndieWire",
+      "summary": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical IndieWire",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa2lwS3g2dWQySkhQVE9Zb09QeDJ3OVRLYXpHc0M0bzJPMXY4S0FaQXBhME1teHBnQnkzaXNfaUZJMGxNaE1KTFVXNkQwTmRLTF9vTWZOODVtY21yYUJFc1pqUnJib2FOc0IwWlFPWmt3X3hyZUw0MnlLVmkydkFJNE9pRlJtSjRpeUVSZlhB?oc=5",
       "source": "Google News",
       "source_name": "Google News",
@@ -966,7 +965,7 @@
       "published_at": "2026-08-07 01:17:11 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - indiewire.com"
+        "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -978,8 +977,8 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-3141975974918533524",
-      "key": "music-13-3141975974918533524",
+      "id": "music-13-8646955711069153964",
+      "key": "music-13-8646955711069153964",
       "category": "Music",
       "label": "Music",
       "headline": "Get Beats Earbuds for Just $69 As Part of This Back to School Deal",
@@ -1005,8 +1004,8 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-663958953992258128",
-      "key": "gaming-3-663958953992258128",
+      "id": "gaming-3-1798160527908388022",
+      "key": "gaming-3-1798160527908388022",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Upcoming PS5 Games: The Future of PlayStation Exclusives",
@@ -1034,8 +1033,8 @@
   ],
   "homepage_cards": [
     {
-      "id": "film-0-6440562420792329181",
-      "key": "film-0-6440562420792329181",
+      "id": "film-0-857740361987421759",
+      "key": "film-0-857740361987421759",
       "category": "Film",
       "label": "Film",
       "headline": "'Donkey Princess' Review: A Princess Escapes the Kingdom, but Not the Patriarchy, in an Inventive, Shape-Shifting Fairytale",
@@ -1061,8 +1060,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-3911573440286437647",
-      "key": "film-10-3911573440286437647",
+      "id": "film-10-6605242799147471471",
+      "key": "film-10-6605242799147471471",
       "category": "Film",
       "label": "Film",
       "headline": "Matthew McConaughey Performs \"Quill\" In Scene From 'The Rivals of Amziah King' - Watch",
@@ -1088,22 +1087,22 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-8211604765025377682",
-      "key": "film-22-8211604765025377682",
+      "id": "film-22-4255319347935634469",
+      "key": "film-22-4255319347935634469",
       "category": "Film",
       "label": "Film",
-      "headline": "In 'Demons,' Love and Betrayal Become a Metaphor for the Relationship Between Russia and Ukraine (Exclusive Trailer)",
-      "title": "In 'Demons,' Love and Betrayal Become a Metaphor for the Relationship Between Russia and Ukraine (Exclusive Trailer)",
-      "snapshot": "The film from writer-director Natalka Vorozhbyt, premiering at Locarno, sees a drifter from Russia arrive in a remote village in central Ukraine and meet a strong and independent woman.",
-      "summary": "The film from writer-director Natalka Vorozhbyt, premiering at Locarno, sees a drifter from Russia arrive in a remote village in central Ukraine and meet a strong and independent woman.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/demons-film-trailer-russia-ukraine-relationship-locarno-1236666538/",
+      "headline": "Luca Guadagnino Explains Why He Just Had to Produce Giovanni Tortorici's Coming-of-Age Drama 'Ketticè' in a \"Sterile\" Italian Film Landscape",
+      "title": "Luca Guadagnino Explains Why He Just Had to Produce Giovanni Tortorici's Coming-of-Age Drama 'Ketticè' in a \"Sterile\" Italian Film Landscape",
+      "snapshot": "The Italian filmmaker came to the Swiss festival to speak about his ex-assistant's second feature, which puts a spotlight on young people, failed by schools and adults, whose cast includes Monica Bellucci.",
+      "summary": "The Italian filmmaker came to the Swiss festival to speak about his ex-assistant's second feature, which puts a spotlight on young people, failed by schools and adults, whose cast includes Monica Bellucci.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/luca-guadagnino-produce-kettice-film-sterile-italy-locarno-1236669247/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-09 04:00:00 AM ET",
+      "published_at": "2026-08-09 05:00:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "In 'Demons,' Love and Betrayal Become a Metaphor for the Relationship Between Russia and Ukraine (Exclusive Trailer)"
+        "Luca Guadagnino Explains Why He Just Had to Produce Giovanni Tortorici's Coming-of-Age Drama 'Ketticè' in a \"Sterile\" Italian Film Landscape"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1115,14 +1114,14 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-7272232885900364457",
-      "key": "film-32-7272232885900364457",
+      "id": "film-32-4958976518810126175",
+      "key": "film-32-4958976518810126175",
       "category": "Film",
       "label": "Film",
-      "headline": "Our favorite memories at the movies - The Verge",
-      "title": "Our favorite memories at the movies - The Verge",
-      "snapshot": "Our favorite memories at the movies The Verge",
-      "summary": "Our favorite memories at the movies The Verge",
+      "headline": "Our favorite memories at the movies - theverge.com",
+      "title": "Our favorite memories at the movies - theverge.com",
+      "snapshot": "Our favorite memories at the movies theverge.com",
+      "summary": "Our favorite memories at the movies theverge.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWk1XOTVoaF9TWk9YUGlJM1hENkh4SUhMRGlYZHptY1RRUkotdXVEX1o2TGlvbkRkcjVkVG0xUWVPX1pMSl9WcERKU0ZReFc0cGtnc1dPU3ZaX2I5Znk4cElJb1RsVnVldGhUU1dmRE1UcktmZUUxZTFfb3dyLTFvVA?oc=5",
       "source": "Google News",
       "source_name": "Google News",
@@ -1130,7 +1129,7 @@
       "published_at": "2026-08-04 10:00:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Our favorite memories at the movies - The Verge"
+        "Our favorite memories at the movies - theverge.com"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1142,8 +1141,8 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-7147608426452306627",
-      "key": "music-10-7147608426452306627",
+      "id": "music-10-2511781338273846425",
+      "key": "music-10-2511781338273846425",
       "category": "Music",
       "label": "Music",
       "headline": "Joe Jonas Says He Sought Therapy After His Solo Album Underperformed",
@@ -1169,8 +1168,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-3232178631377049765",
-      "key": "gaming-0-3232178631377049765",
+      "id": "gaming-0-3780899026086524816",
+      "key": "gaming-0-3780899026086524816",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027",
@@ -1196,8 +1195,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-2925955700036086612",
-      "key": "film-1-2925955700036086612",
+      "id": "film-1-2547634096972051831",
+      "key": "film-1-2547634096972051831",
       "category": "Film",
       "label": "Film",
       "headline": "Naseeruddin Shah, Gurvinder Singh Turn a Village's Real Grief Into Locarno Competition Title 'Rehmat': 'It's Important That These Films Get Made'",
@@ -1223,8 +1222,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-879461713716995521",
-      "key": "film-11-879461713716995521",
+      "id": "film-11-1866888391587755265",
+      "key": "film-11-1866888391587755265",
       "category": "Film",
       "label": "Film",
       "headline": "Jane Schoenbrun On Deconstructing The \"Toxic Soup\" Of The Slasher Genre In 'Teenage Sex & Death at Camp Miasma': \"It's There In The DNA\"",
@@ -1250,22 +1249,22 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-7417706131225034960",
-      "key": "film-23-7417706131225034960",
+      "id": "film-23-1349993758162069393",
+      "key": "film-23-1349993758162069393",
       "category": "Film",
       "label": "Film",
-      "headline": "'Objet a' Explores Desire and Control in an Age When We \"Touch Flat Screens More Than Our Lover's Skin\"",
-      "title": "'Objet a' Explores Desire and Control in an Age When We \"Touch Flat Screens More Than Our Lover's Skin\"",
-      "snapshot": "Aenne Schwarz and Louis Hofmann star as hand surgeons with irresistible fixations in Ann Oren's new Locarno film. The three discuss how it fits into a time of \"war, climate catastrophe and tech fascism.\"",
-      "summary": "Aenne Schwarz and Louis Hofmann star as hand surgeons with irresistible fixations in Ann Oren's new Locarno film. The three discuss how it fits into a time of \"war, climate catastrophe and tech fascism.\"",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/objet-a-film-interview-desire-control-touch-locarno-2026-1236669493/",
+      "headline": "In 'Demons,' Love and Betrayal Become a Metaphor for the Relationship Between Russia and Ukraine (Exclusive Trailer)",
+      "title": "In 'Demons,' Love and Betrayal Become a Metaphor for the Relationship Between Russia and Ukraine (Exclusive Trailer)",
+      "snapshot": "The film from writer-director Natalka Vorozhbyt, premiering at Locarno, sees a drifter from Russia arrive in a remote village in central Ukraine and meet a strong and independent woman.",
+      "summary": "The film from writer-director Natalka Vorozhbyt, premiering at Locarno, sees a drifter from Russia arrive in a remote village in central Ukraine and meet a strong and independent woman.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/demons-film-trailer-russia-ukraine-relationship-locarno-1236666538/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-09 02:03:00 AM ET",
+      "published_at": "2026-08-09 04:00:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Objet a' Explores Desire and Control in an Age When We \"Touch Flat Screens More Than Our Lover's Skin\""
+        "In 'Demons,' Love and Betrayal Become a Metaphor for the Relationship Between Russia and Ukraine (Exclusive Trailer)"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1277,8 +1276,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-1390368320806269106",
-      "key": "film-33-1390368320806269106",
+      "id": "film-33-3648368224290877676",
+      "key": "film-33-3648368224290877676",
       "category": "Film",
       "label": "Film",
       "headline": "Your guide to 2026 movie release dates - Entertainment Weekly",
@@ -1304,8 +1303,8 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-787921771469478789",
-      "key": "music-11-787921771469478789",
+      "id": "music-11-1701960317899478283",
+      "key": "music-11-1701960317899478283",
       "category": "Music",
       "label": "Music",
       "headline": "Baker Boy Takes Album, Song and Film Clip of the Year at 2026 NIMAs",
@@ -1331,8 +1330,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-620371743228524479",
-      "key": "gaming-1-620371743228524479",
+      "id": "gaming-1-8591368970404411809",
+      "key": "gaming-1-8591368970404411809",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "'They Fundamentally Don't Understand Art' - Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs",
@@ -1358,8 +1357,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-2-8909835509173970488",
-      "key": "film-2-8909835509173970488",
+      "id": "film-2-2019164469366018273",
+      "key": "film-2-2019164469366018273",
       "category": "Film",
       "label": "Film",
       "headline": "Mahesh Babu's Look in S.S. Rajamouli's 'Varanasi' Unveiled",
@@ -1385,8 +1384,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-2222867688359227427",
-      "key": "film-12-2222867688359227427",
+      "id": "film-12-3326991374051085069",
+      "key": "film-12-3326991374051085069",
       "category": "Film",
       "label": "Film",
       "headline": "Dwayne Johnson Reacts To Live-Action 'Moana's Negative Reviews: \"Just The Way It Goes\"",
@@ -1412,22 +1411,22 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-5795560818026052955",
-      "key": "film-24-5795560818026052955",
+      "id": "film-24-460464032060375468",
+      "key": "film-24-460464032060375468",
       "category": "Film",
       "label": "Film",
-      "headline": "The 'One Night Only' Writer and Producer Have Seen Your Questions and Have (Some of) the Answers",
-      "title": "The 'One Night Only' Writer and Producer Have Seen Your Questions and Have (Some of) the Answers",
-      "snapshot": "\"Go see the film,\" star Callum Turner tells those wondering about the rules of the rom-com's alternate reality outlawing premarital sex (apart from one 12-hour window). \"You'll realize pretty quickly what the realm is that you're working within.\"",
-      "summary": "\"Go see the film,\" star Callum Turner tells those wondering about the rules of the rom-com's alternate reality outlawing premarital sex (apart from one 12-hour window). \"You'll realize pretty quickly what the realm is that you're working within.\"",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/one-night-only-writer-producer-no-premarital-sex-law-rules-1236669498/",
+      "headline": "'Objet a' Explores Desire and Control in an Age When We \"Touch Flat Screens More Than Our Lover's Skin\"",
+      "title": "'Objet a' Explores Desire and Control in an Age When We \"Touch Flat Screens More Than Our Lover's Skin\"",
+      "snapshot": "Aenne Schwarz and Louis Hofmann star as hand surgeons with irresistible fixations in Ann Oren's new Locarno film. The three discuss how it fits into a time of \"war, climate catastrophe and tech fascism.\"",
+      "summary": "Aenne Schwarz and Louis Hofmann star as hand surgeons with irresistible fixations in Ann Oren's new Locarno film. The three discuss how it fits into a time of \"war, climate catastrophe and tech fascism.\"",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/objet-a-film-interview-desire-control-touch-locarno-2026-1236669493/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-08 08:31:47 PM ET",
+      "published_at": "2026-08-09 02:03:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "The 'One Night Only' Writer and Producer Have Seen Your Questions and Have (Some of) the Answers"
+        "'Objet a' Explores Desire and Control in an Age When We \"Touch Flat Screens More Than Our Lover's Skin\""
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1439,8 +1438,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-627569814126325404",
-      "key": "film-34-627569814126325404",
+      "id": "film-34-3932584521548568466",
+      "key": "film-34-3932584521548568466",
       "category": "Film",
       "label": "Film",
       "headline": "Everything to know about 'Madden,' a new movie coming to Prime Video November 18 - About Amazon",
@@ -1466,8 +1465,8 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-4235732439425453916",
-      "key": "music-12-4235732439425453916",
+      "id": "music-12-1601811514976982853",
+      "key": "music-12-1601811514976982853",
       "category": "Music",
       "label": "Music",
       "headline": "aespa Kicks Off SYNK : COMPLæXITY Tour in Seoul: 6 Best Moments",
@@ -1493,8 +1492,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-6169170322584324676",
-      "key": "gaming-2-6169170322584324676",
+      "id": "gaming-2-8487495428777811009",
+      "key": "gaming-2-8487495428777811009",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The Best Deals Today: AirPods Pro 3, LEGO Back to the Future, Saros, and More",
@@ -1520,8 +1519,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-6181301037760742243",
-      "key": "film-3-6181301037760742243",
+      "id": "film-3-6747069191654625163",
+      "key": "film-3-6747069191654625163",
       "category": "Film",
       "label": "Film",
       "headline": "Gina Prince-Bythewood Discusses the Worldbuilding of 'Children of Blood and Bone' and Praises Author Tomi Adeyemi as a 'Genius'",
@@ -1547,8 +1546,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-5256285747631831171",
-      "key": "film-13-5256285747631831171",
+      "id": "film-13-54202356518526421",
+      "key": "film-13-54202356518526421",
       "category": "Film",
       "label": "Film",
       "headline": "'One Night Only' Director Understands The \"Sex Purge\" Comparisons",
@@ -1574,22 +1573,22 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-6462293417205565155",
-      "key": "film-25-6462293417205565155",
+      "id": "film-25-5838606173628409337",
+      "key": "film-25-5838606173628409337",
       "category": "Film",
       "label": "Film",
-      "headline": "Monica Barbaro Teases Luca Guadagnino's OpenAI Film 'Artificial,' Addresses Timothée Chalamet's Ballet Comments",
-      "title": "Monica Barbaro Teases Luca Guadagnino's OpenAI Film 'Artificial,' Addresses Timothée Chalamet's Ballet Comments",
-      "snapshot": "The 'One Night Only' star said the film has been described to her as \"a madcap comedy\" and \"a horror story.\"",
-      "summary": "The 'One Night Only' star said the film has been described to her as \"a madcap comedy\" and \"a horror story.\"",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/monica-barbaro-openai-artificial-timothee-chalamet-ballet-1236669431/",
+      "headline": "The 'One Night Only' Writer and Producer Have Seen Your Questions and Have (Some of) the Answers",
+      "title": "The 'One Night Only' Writer and Producer Have Seen Your Questions and Have (Some of) the Answers",
+      "snapshot": "\"Go see the film,\" star Callum Turner tells those wondering about the rules of the rom-com's alternate reality outlawing premarital sex (apart from one 12-hour window). \"You'll realize pretty quickly what the realm is that you're working within.\"",
+      "summary": "\"Go see the film,\" star Callum Turner tells those wondering about the rules of the rom-com's alternate reality outlawing premarital sex (apart from one 12-hour window). \"You'll realize pretty quickly what the realm is that you're working within.\"",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/one-night-only-writer-producer-no-premarital-sex-law-rules-1236669498/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-08 04:35:24 PM ET",
+      "published_at": "2026-08-08 08:31:47 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Monica Barbaro Teases Luca Guadagnino's OpenAI Film 'Artificial,' Addresses Timothée Chalamet's Ballet Comments"
+        "The 'One Night Only' Writer and Producer Have Seen Your Questions and Have (Some of) the Answers"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1601,14 +1600,14 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-2115959923303930884",
-      "key": "film-35-2115959923303930884",
+      "id": "film-35-7077692277169090097",
+      "key": "film-35-7077692277169090097",
       "category": "Film",
       "label": "Film",
-      "headline": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - indiewire.com",
-      "title": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - indiewire.com",
-      "snapshot": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical indiewire.com",
-      "summary": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical indiewire.com",
+      "headline": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire",
+      "title": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire",
+      "snapshot": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical IndieWire",
+      "summary": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical IndieWire",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa2lwS3g2dWQySkhQVE9Zb09QeDJ3OVRLYXpHc0M0bzJPMXY4S0FaQXBhME1teHBnQnkzaXNfaUZJMGxNaE1KTFVXNkQwTmRLTF9vTWZOODVtY21yYUJFc1pqUnJib2FOc0IwWlFPWmt3X3hyZUw0MnlLVmkydkFJNE9pRlJtSjRpeUVSZlhB?oc=5",
       "source": "Google News",
       "source_name": "Google News",
@@ -1616,7 +1615,7 @@
       "published_at": "2026-08-07 01:17:11 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - indiewire.com"
+        "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1628,8 +1627,8 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-3141975974918533524",
-      "key": "music-13-3141975974918533524",
+      "id": "music-13-8646955711069153964",
+      "key": "music-13-8646955711069153964",
       "category": "Music",
       "label": "Music",
       "headline": "Get Beats Earbuds for Just $69 As Part of This Back to School Deal",
@@ -1655,8 +1654,8 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-663958953992258128",
-      "key": "gaming-3-663958953992258128",
+      "id": "gaming-3-1798160527908388022",
+      "key": "gaming-3-1798160527908388022",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Upcoming PS5 Games: The Future of PlayStation Exclusives",
@@ -1692,24 +1691,24 @@
       "key_storylines": [
         "‘Donkey Princess’ Review: A Princess Escapes the Kingdom, but Not the Patriarchy, in an Inventive, Shape-Shifting Fairytale",
         "Matthew McConaughey Performs “Quill” In Scene From ‘The Rivals of Amziah King’ — Watch",
-        "In ‘Demons,’ Love and Betrayal Become a Metaphor for the Relationship Between Russia and Ukraine (Exclusive Trailer)",
-        "Our favorite memories at the movies - The Verge",
+        "Luca Guadagnino Explains Why He Just Had to Produce Giovanni Tortorici’s Coming-of-Age Drama ‘Ketticè’ in a “Sterile” Italian Film Landscape",
+        "Our favorite memories at the movies - theverge.com",
         "Naseeruddin Shah, Gurvinder Singh Turn a Village’s Real Grief Into Locarno Competition Title ‘Rehmat’: ‘It’s Important That These Films Get Made’"
       ],
       "watch_list": [
         "‘Donkey Princess’ Review: A Princess Escapes the Kingdom, but Not the Patriarchy, in an Inventive, Shape-Shifting Fairytale",
         "Matthew McConaughey Performs “Quill” In Scene From ‘The Rivals of Amziah King’ — Watch",
-        "In ‘Demons,’ Love and Betrayal Become a Metaphor for the Relationship Between Russia and Ukraine (Exclusive Trailer)",
-        "Our favorite memories at the movies - The Verge",
+        "Luca Guadagnino Explains Why He Just Had to Produce Giovanni Tortorici’s Coming-of-Age Drama ‘Ketticè’ in a “Sterile” Italian Film Landscape",
+        "Our favorite memories at the movies - theverge.com",
         "Naseeruddin Shah, Gurvinder Singh Turn a Village’s Real Grief Into Locarno Competition Title ‘Rehmat’: ‘It’s Important That These Films Get Made’",
         "Jane Schoenbrun On Deconstructing The “Toxic Soup” Of The Slasher Genre In ‘Teenage Sex & Death at Camp Miasma’: “It’s There In The DNA”",
-        "‘Objet a’ Explores Desire and Control in an Age When We “Touch Flat Screens More Than Our Lover’s Skin”",
+        "In ‘Demons,’ Love and Betrayal Become a Metaphor for the Relationship Between Russia and Ukraine (Exclusive Trailer)",
         "Your guide to 2026 movie release dates - Entertainment Weekly"
       ],
       "homepage_cards": [
         {
-          "id": "film-0-6440562420792329181",
-          "key": "film-0-6440562420792329181",
+          "id": "film-0-857740361987421759",
+          "key": "film-0-857740361987421759",
           "category": "Film",
           "label": "Film",
           "headline": "‘Donkey Princess’ Review: A Princess Escapes the Kingdom, but Not the Patriarchy, in an Inventive, Shape-Shifting Fairytale",
@@ -1736,8 +1735,8 @@
           ]
         },
         {
-          "id": "film-10-3911573440286437647",
-          "key": "film-10-3911573440286437647",
+          "id": "film-10-6605242799147471471",
+          "key": "film-10-6605242799147471471",
           "category": "Film",
           "label": "Film",
           "headline": "Matthew McConaughey Performs “Quill” In Scene From ‘The Rivals of Amziah King’ — Watch",
@@ -1764,25 +1763,25 @@
           ]
         },
         {
-          "id": "film-22-8211604765025377682",
-          "key": "film-22-8211604765025377682",
+          "id": "film-22-4255319347935634469",
+          "key": "film-22-4255319347935634469",
           "category": "Film",
           "label": "Film",
-          "headline": "In ‘Demons,’ Love and Betrayal Become a Metaphor for the Relationship Between Russia and Ukraine (Exclusive Trailer)",
-          "title": "In ‘Demons,’ Love and Betrayal Become a Metaphor for the Relationship Between Russia and Ukraine (Exclusive Trailer)",
-          "snapshot": "The film from writer-director Natalka Vorozhbyt, premiering at Locarno, sees a drifter from Russia arrive in a remote village in central Ukraine and meet a strong and independent woman.",
-          "summary": "The film from writer-director Natalka Vorozhbyt, premiering at Locarno, sees a drifter from Russia arrive in a remote village in central Ukraine and meet a strong and independent woman.",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/demons-film-trailer-russia-ukraine-relationship-locarno-1236666538/",
+          "headline": "Luca Guadagnino Explains Why He Just Had to Produce Giovanni Tortorici’s Coming-of-Age Drama ‘Ketticè’ in a “Sterile” Italian Film Landscape",
+          "title": "Luca Guadagnino Explains Why He Just Had to Produce Giovanni Tortorici’s Coming-of-Age Drama ‘Ketticè’ in a “Sterile” Italian Film Landscape",
+          "snapshot": "The Italian filmmaker came to the Swiss festival to speak about his ex-assistant's second feature, which puts a spotlight on young people, failed by schools and adults, whose cast includes Monica Bellucci.",
+          "summary": "The Italian filmmaker came to the Swiss festival to speak about his ex-assistant's second feature, which puts a spotlight on young people, failed by schools and adults, whose cast includes Monica Bellucci.",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/luca-guadagnino-produce-kettice-film-sterile-italy-locarno-1236669247/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-          "published_at": "2026-08-09 04:00:00 AM ET",
+          "published_at": "2026-08-09 05:00:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 78,
           "key_data": [
-            "In ‘Demons,’ Love and Betrayal Become a Metaphor for the Relationship Between Russia and Ukraine (Exclusive Trailer)"
+            "Luca Guadagnino Explains Why He Just Had to Produce Giovanni Tortorici’s Coming-of-Age Drama ‘Ketticè’ in a “Sterile” Italian Film Landscape"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1792,14 +1791,14 @@
           ]
         },
         {
-          "id": "film-32-7272232885900364457",
-          "key": "film-32-7272232885900364457",
+          "id": "film-32-4958976518810126175",
+          "key": "film-32-4958976518810126175",
           "category": "Film",
           "label": "Film",
-          "headline": "Our favorite memories at the movies - The Verge",
-          "title": "Our favorite memories at the movies - The Verge",
-          "snapshot": "Our favorite memories at the movies The Verge",
-          "summary": "Our favorite memories at the movies The Verge",
+          "headline": "Our favorite memories at the movies - theverge.com",
+          "title": "Our favorite memories at the movies - theverge.com",
+          "snapshot": "Our favorite memories at the movies theverge.com",
+          "summary": "Our favorite memories at the movies theverge.com",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWk1XOTVoaF9TWk9YUGlJM1hENkh4SUhMRGlYZHptY1RRUkotdXVEX1o2TGlvbkRkcjVkVG0xUWVPX1pMSl9WcERKU0ZReFc0cGtnc1dPU3ZaX2I5Znk4cElJb1RsVnVldGhUU1dmRE1UcktmZUUxZTFfb3dyLTFvVA?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -1810,7 +1809,7 @@
           "story_type": "rss_headline",
           "priority_score": 68,
           "key_data": [
-            "Our favorite memories at the movies - The Verge"
+            "Our favorite memories at the movies - theverge.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1820,8 +1819,8 @@
           ]
         },
         {
-          "id": "film-1-2925955700036086612",
-          "key": "film-1-2925955700036086612",
+          "id": "film-1-2547634096972051831",
+          "key": "film-1-2547634096972051831",
           "category": "Film",
           "label": "Film",
           "headline": "Naseeruddin Shah, Gurvinder Singh Turn a Village’s Real Grief Into Locarno Competition Title ‘Rehmat’: ‘It’s Important That These Films Get Made’",
@@ -1848,8 +1847,8 @@
           ]
         },
         {
-          "id": "film-11-879461713716995521",
-          "key": "film-11-879461713716995521",
+          "id": "film-11-1866888391587755265",
+          "key": "film-11-1866888391587755265",
           "category": "Film",
           "label": "Film",
           "headline": "Jane Schoenbrun On Deconstructing The “Toxic Soup” Of The Slasher Genre In ‘Teenage Sex & Death at Camp Miasma’: “It’s There In The DNA”",
@@ -1876,25 +1875,25 @@
           ]
         },
         {
-          "id": "film-23-7417706131225034960",
-          "key": "film-23-7417706131225034960",
+          "id": "film-23-1349993758162069393",
+          "key": "film-23-1349993758162069393",
           "category": "Film",
           "label": "Film",
-          "headline": "‘Objet a’ Explores Desire and Control in an Age When We “Touch Flat Screens More Than Our Lover’s Skin”",
-          "title": "‘Objet a’ Explores Desire and Control in an Age When We “Touch Flat Screens More Than Our Lover’s Skin”",
-          "snapshot": "Aenne Schwarz and Louis Hofmann star as hand surgeons with irresistible fixations in Ann Oren's new Locarno film. The three discuss how it fits into a time of \"war, climate catastrophe and tech fascism.\"",
-          "summary": "Aenne Schwarz and Louis Hofmann star as hand surgeons with irresistible fixations in Ann Oren's new Locarno film. The three discuss how it fits into a time of \"war, climate catastrophe and tech fascism.\"",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/objet-a-film-interview-desire-control-touch-locarno-2026-1236669493/",
+          "headline": "In ‘Demons,’ Love and Betrayal Become a Metaphor for the Relationship Between Russia and Ukraine (Exclusive Trailer)",
+          "title": "In ‘Demons,’ Love and Betrayal Become a Metaphor for the Relationship Between Russia and Ukraine (Exclusive Trailer)",
+          "snapshot": "The film from writer-director Natalka Vorozhbyt, premiering at Locarno, sees a drifter from Russia arrive in a remote village in central Ukraine and meet a strong and independent woman.",
+          "summary": "The film from writer-director Natalka Vorozhbyt, premiering at Locarno, sees a drifter from Russia arrive in a remote village in central Ukraine and meet a strong and independent woman.",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/demons-film-trailer-russia-ukraine-relationship-locarno-1236666538/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-          "published_at": "2026-08-09 02:03:00 AM ET",
+          "published_at": "2026-08-09 04:00:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 77,
           "key_data": [
-            "‘Objet a’ Explores Desire and Control in an Age When We “Touch Flat Screens More Than Our Lover’s Skin”"
+            "In ‘Demons,’ Love and Betrayal Become a Metaphor for the Relationship Between Russia and Ukraine (Exclusive Trailer)"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1904,8 +1903,8 @@
           ]
         },
         {
-          "id": "film-33-1390368320806269106",
-          "key": "film-33-1390368320806269106",
+          "id": "film-33-3648368224290877676",
+          "key": "film-33-3648368224290877676",
           "category": "Film",
           "label": "Film",
           "headline": "Your guide to 2026 movie release dates - Entertainment Weekly",
@@ -1934,8 +1933,8 @@
       ],
       "items": [
         {
-          "id": "film-0-6440562420792329181",
-          "key": "film-0-6440562420792329181",
+          "id": "film-0-857740361987421759",
+          "key": "film-0-857740361987421759",
           "category": "Film",
           "label": "Film",
           "headline": "‘Donkey Princess’ Review: A Princess Escapes the Kingdom, but Not the Patriarchy, in an Inventive, Shape-Shifting Fairytale",
@@ -1962,8 +1961,8 @@
           ]
         },
         {
-          "id": "film-10-3911573440286437647",
-          "key": "film-10-3911573440286437647",
+          "id": "film-10-6605242799147471471",
+          "key": "film-10-6605242799147471471",
           "category": "Film",
           "label": "Film",
           "headline": "Matthew McConaughey Performs “Quill” In Scene From ‘The Rivals of Amziah King’ — Watch",
@@ -1990,25 +1989,25 @@
           ]
         },
         {
-          "id": "film-22-8211604765025377682",
-          "key": "film-22-8211604765025377682",
+          "id": "film-22-4255319347935634469",
+          "key": "film-22-4255319347935634469",
           "category": "Film",
           "label": "Film",
-          "headline": "In ‘Demons,’ Love and Betrayal Become a Metaphor for the Relationship Between Russia and Ukraine (Exclusive Trailer)",
-          "title": "In ‘Demons,’ Love and Betrayal Become a Metaphor for the Relationship Between Russia and Ukraine (Exclusive Trailer)",
-          "snapshot": "The film from writer-director Natalka Vorozhbyt, premiering at Locarno, sees a drifter from Russia arrive in a remote village in central Ukraine and meet a strong and independent woman.",
-          "summary": "The film from writer-director Natalka Vorozhbyt, premiering at Locarno, sees a drifter from Russia arrive in a remote village in central Ukraine and meet a strong and independent woman.",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/demons-film-trailer-russia-ukraine-relationship-locarno-1236666538/",
+          "headline": "Luca Guadagnino Explains Why He Just Had to Produce Giovanni Tortorici’s Coming-of-Age Drama ‘Ketticè’ in a “Sterile” Italian Film Landscape",
+          "title": "Luca Guadagnino Explains Why He Just Had to Produce Giovanni Tortorici’s Coming-of-Age Drama ‘Ketticè’ in a “Sterile” Italian Film Landscape",
+          "snapshot": "The Italian filmmaker came to the Swiss festival to speak about his ex-assistant's second feature, which puts a spotlight on young people, failed by schools and adults, whose cast includes Monica Bellucci.",
+          "summary": "The Italian filmmaker came to the Swiss festival to speak about his ex-assistant's second feature, which puts a spotlight on young people, failed by schools and adults, whose cast includes Monica Bellucci.",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/luca-guadagnino-produce-kettice-film-sterile-italy-locarno-1236669247/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-          "published_at": "2026-08-09 04:00:00 AM ET",
+          "published_at": "2026-08-09 05:00:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 78,
           "key_data": [
-            "In ‘Demons,’ Love and Betrayal Become a Metaphor for the Relationship Between Russia and Ukraine (Exclusive Trailer)"
+            "Luca Guadagnino Explains Why He Just Had to Produce Giovanni Tortorici’s Coming-of-Age Drama ‘Ketticè’ in a “Sterile” Italian Film Landscape"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2018,14 +2017,14 @@
           ]
         },
         {
-          "id": "film-32-7272232885900364457",
-          "key": "film-32-7272232885900364457",
+          "id": "film-32-4958976518810126175",
+          "key": "film-32-4958976518810126175",
           "category": "Film",
           "label": "Film",
-          "headline": "Our favorite memories at the movies - The Verge",
-          "title": "Our favorite memories at the movies - The Verge",
-          "snapshot": "Our favorite memories at the movies The Verge",
-          "summary": "Our favorite memories at the movies The Verge",
+          "headline": "Our favorite memories at the movies - theverge.com",
+          "title": "Our favorite memories at the movies - theverge.com",
+          "snapshot": "Our favorite memories at the movies theverge.com",
+          "summary": "Our favorite memories at the movies theverge.com",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWk1XOTVoaF9TWk9YUGlJM1hENkh4SUhMRGlYZHptY1RRUkotdXVEX1o2TGlvbkRkcjVkVG0xUWVPX1pMSl9WcERKU0ZReFc0cGtnc1dPU3ZaX2I5Znk4cElJb1RsVnVldGhUU1dmRE1UcktmZUUxZTFfb3dyLTFvVA?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -2036,7 +2035,7 @@
           "story_type": "rss_headline",
           "priority_score": 68,
           "key_data": [
-            "Our favorite memories at the movies - The Verge"
+            "Our favorite memories at the movies - theverge.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2046,8 +2045,8 @@
           ]
         },
         {
-          "id": "film-1-2925955700036086612",
-          "key": "film-1-2925955700036086612",
+          "id": "film-1-2547634096972051831",
+          "key": "film-1-2547634096972051831",
           "category": "Film",
           "label": "Film",
           "headline": "Naseeruddin Shah, Gurvinder Singh Turn a Village’s Real Grief Into Locarno Competition Title ‘Rehmat’: ‘It’s Important That These Films Get Made’",
@@ -2074,8 +2073,8 @@
           ]
         },
         {
-          "id": "film-11-879461713716995521",
-          "key": "film-11-879461713716995521",
+          "id": "film-11-1866888391587755265",
+          "key": "film-11-1866888391587755265",
           "category": "Film",
           "label": "Film",
           "headline": "Jane Schoenbrun On Deconstructing The “Toxic Soup” Of The Slasher Genre In ‘Teenage Sex & Death at Camp Miasma’: “It’s There In The DNA”",
@@ -2102,25 +2101,25 @@
           ]
         },
         {
-          "id": "film-23-7417706131225034960",
-          "key": "film-23-7417706131225034960",
+          "id": "film-23-1349993758162069393",
+          "key": "film-23-1349993758162069393",
           "category": "Film",
           "label": "Film",
-          "headline": "‘Objet a’ Explores Desire and Control in an Age When We “Touch Flat Screens More Than Our Lover’s Skin”",
-          "title": "‘Objet a’ Explores Desire and Control in an Age When We “Touch Flat Screens More Than Our Lover’s Skin”",
-          "snapshot": "Aenne Schwarz and Louis Hofmann star as hand surgeons with irresistible fixations in Ann Oren's new Locarno film. The three discuss how it fits into a time of \"war, climate catastrophe and tech fascism.\"",
-          "summary": "Aenne Schwarz and Louis Hofmann star as hand surgeons with irresistible fixations in Ann Oren's new Locarno film. The three discuss how it fits into a time of \"war, climate catastrophe and tech fascism.\"",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/objet-a-film-interview-desire-control-touch-locarno-2026-1236669493/",
+          "headline": "In ‘Demons,’ Love and Betrayal Become a Metaphor for the Relationship Between Russia and Ukraine (Exclusive Trailer)",
+          "title": "In ‘Demons,’ Love and Betrayal Become a Metaphor for the Relationship Between Russia and Ukraine (Exclusive Trailer)",
+          "snapshot": "The film from writer-director Natalka Vorozhbyt, premiering at Locarno, sees a drifter from Russia arrive in a remote village in central Ukraine and meet a strong and independent woman.",
+          "summary": "The film from writer-director Natalka Vorozhbyt, premiering at Locarno, sees a drifter from Russia arrive in a remote village in central Ukraine and meet a strong and independent woman.",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/demons-film-trailer-russia-ukraine-relationship-locarno-1236666538/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-          "published_at": "2026-08-09 02:03:00 AM ET",
+          "published_at": "2026-08-09 04:00:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 77,
           "key_data": [
-            "‘Objet a’ Explores Desire and Control in an Age When We “Touch Flat Screens More Than Our Lover’s Skin”"
+            "In ‘Demons,’ Love and Betrayal Become a Metaphor for the Relationship Between Russia and Ukraine (Exclusive Trailer)"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2130,8 +2129,8 @@
           ]
         },
         {
-          "id": "film-33-1390368320806269106",
-          "key": "film-33-1390368320806269106",
+          "id": "film-33-3648368224290877676",
+          "key": "film-33-3648368224290877676",
           "category": "Film",
           "label": "Film",
           "headline": "Your guide to 2026 movie release dates - Entertainment Weekly",
@@ -2158,7 +2157,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 04:48:35 AM ET"
+      "updated_at": "2026-08-09 05:40:03 AM ET"
     },
     {
       "key": "tv",
@@ -2183,8 +2182,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "tv-0-751952413668349940",
-          "key": "tv-0-751952413668349940",
+          "id": "tv-0-9180206386075182793",
+          "key": "tv-0-9180206386075182793",
           "category": "TV",
           "label": "TV",
           "headline": "‘Abbott Elementary’ Stars Sheryl Lee Ralph and Janelle James on the Paramount-Warner Bros. Merger: ‘We’ve Lost Too Many People’",
@@ -2211,8 +2210,8 @@
           ]
         },
         {
-          "id": "tv-9-1819313822510193939",
-          "key": "tv-9-1819313822510193939",
+          "id": "tv-9-908235078757470218",
+          "key": "tv-9-908235078757470218",
           "category": "TV",
           "label": "TV",
           "headline": "Obama Blames Larry David For 2014 Tan Suit Debacle In ‘Life, Larry & the Pursuit of Unhappiness’ Finale",
@@ -2239,8 +2238,8 @@
           ]
         },
         {
-          "id": "tv-21-6245390113845004384",
-          "key": "tv-21-6245390113845004384",
+          "id": "tv-21-5266569278028977525",
+          "key": "tv-21-5266569278028977525",
           "category": "TV",
           "label": "TV",
           "headline": "‘Heated Rivalry’ Author Rachel Reid Pushes Back Against Season 2 Casting Criticism",
@@ -2267,8 +2266,8 @@
           ]
         },
         {
-          "id": "tv-1-741969285275888394",
-          "key": "tv-1-741969285275888394",
+          "id": "tv-1-7498896565672100534",
+          "key": "tv-1-7498896565672100534",
           "category": "TV",
           "label": "TV",
           "headline": "‘Heated Rivalry’ Author Brushes Off Negativity Surrounding Season 2 Casting",
@@ -2295,8 +2294,8 @@
           ]
         },
         {
-          "id": "tv-10-9103513377537198352",
-          "key": "tv-10-9103513377537198352",
+          "id": "tv-10-3038456421073600742",
+          "key": "tv-10-3038456421073600742",
           "category": "TV",
           "label": "TV",
           "headline": "‘Monsters Of God’ Slithers Onto HBO: Reptilian Docuseries From ‘Tiger King’s Eric Goode",
@@ -2323,8 +2322,8 @@
           ]
         },
         {
-          "id": "tv-22-1845283204171854377",
-          "key": "tv-22-1845283204171854377",
+          "id": "tv-22-6268377319260100362",
+          "key": "tv-22-6268377319260100362",
           "category": "TV",
           "label": "TV",
           "headline": "Jake T. Austin Says He Wasn’t Invited to Partake in ‘Wizards of Waverly Place’ Revival: “Disappointed”",
@@ -2353,8 +2352,8 @@
       ],
       "items": [
         {
-          "id": "tv-0-751952413668349940",
-          "key": "tv-0-751952413668349940",
+          "id": "tv-0-9180206386075182793",
+          "key": "tv-0-9180206386075182793",
           "category": "TV",
           "label": "TV",
           "headline": "‘Abbott Elementary’ Stars Sheryl Lee Ralph and Janelle James on the Paramount-Warner Bros. Merger: ‘We’ve Lost Too Many People’",
@@ -2381,8 +2380,8 @@
           ]
         },
         {
-          "id": "tv-9-1819313822510193939",
-          "key": "tv-9-1819313822510193939",
+          "id": "tv-9-908235078757470218",
+          "key": "tv-9-908235078757470218",
           "category": "TV",
           "label": "TV",
           "headline": "Obama Blames Larry David For 2014 Tan Suit Debacle In ‘Life, Larry & the Pursuit of Unhappiness’ Finale",
@@ -2409,8 +2408,8 @@
           ]
         },
         {
-          "id": "tv-21-6245390113845004384",
-          "key": "tv-21-6245390113845004384",
+          "id": "tv-21-5266569278028977525",
+          "key": "tv-21-5266569278028977525",
           "category": "TV",
           "label": "TV",
           "headline": "‘Heated Rivalry’ Author Rachel Reid Pushes Back Against Season 2 Casting Criticism",
@@ -2437,8 +2436,8 @@
           ]
         },
         {
-          "id": "tv-1-741969285275888394",
-          "key": "tv-1-741969285275888394",
+          "id": "tv-1-7498896565672100534",
+          "key": "tv-1-7498896565672100534",
           "category": "TV",
           "label": "TV",
           "headline": "‘Heated Rivalry’ Author Brushes Off Negativity Surrounding Season 2 Casting",
@@ -2465,8 +2464,8 @@
           ]
         },
         {
-          "id": "tv-10-9103513377537198352",
-          "key": "tv-10-9103513377537198352",
+          "id": "tv-10-3038456421073600742",
+          "key": "tv-10-3038456421073600742",
           "category": "TV",
           "label": "TV",
           "headline": "‘Monsters Of God’ Slithers Onto HBO: Reptilian Docuseries From ‘Tiger King’s Eric Goode",
@@ -2493,8 +2492,8 @@
           ]
         },
         {
-          "id": "tv-22-1845283204171854377",
-          "key": "tv-22-1845283204171854377",
+          "id": "tv-22-6268377319260100362",
+          "key": "tv-22-6268377319260100362",
           "category": "TV",
           "label": "TV",
           "headline": "Jake T. Austin Says He Wasn’t Invited to Partake in ‘Wizards of Waverly Place’ Revival: “Disappointed”",
@@ -2521,7 +2520,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 04:48:36 AM ET"
+      "updated_at": "2026-08-09 05:40:04 AM ET"
     },
     {
       "key": "streaming",
@@ -2539,8 +2538,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "streaming-0-6272991764239415055",
-          "key": "streaming-0-6272991764239415055",
+          "id": "streaming-0-9193469691058288434",
+          "key": "streaming-0-9193469691058288434",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Disney turns $4-billion streaming loss into profit, and now it chases global growth - Los Angeles Times",
@@ -2567,8 +2566,8 @@
           ]
         },
         {
-          "id": "streaming-1-5553819014202440625",
-          "key": "streaming-1-5553819014202440625",
+          "id": "streaming-1-5463126507683259191",
+          "key": "streaming-1-5463126507683259191",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'The Devil Wears Prada 2' to 'Obsession,' 10 movies to stream now - USA Today",
@@ -2597,8 +2596,8 @@
       ],
       "items": [
         {
-          "id": "streaming-0-6272991764239415055",
-          "key": "streaming-0-6272991764239415055",
+          "id": "streaming-0-9193469691058288434",
+          "key": "streaming-0-9193469691058288434",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Disney turns $4-billion streaming loss into profit, and now it chases global growth - Los Angeles Times",
@@ -2625,8 +2624,8 @@
           ]
         },
         {
-          "id": "streaming-1-5553819014202440625",
-          "key": "streaming-1-5553819014202440625",
+          "id": "streaming-1-5463126507683259191",
+          "key": "streaming-1-5463126507683259191",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'The Devil Wears Prada 2' to 'Obsession,' 10 movies to stream now - USA Today",
@@ -2653,7 +2652,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 04:48:36 AM ET"
+      "updated_at": "2026-08-09 05:40:04 AM ET"
     },
     {
       "key": "music",
@@ -2678,8 +2677,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "music-0-4472293416259575151",
-          "key": "music-0-4472293416259575151",
+          "id": "music-0-6224605535106384736",
+          "key": "music-0-6224605535106384736",
           "category": "Music",
           "label": "Music",
           "headline": "Morrissey Cancels Las Vegas Residency Days Before Showtime Due to ‘Unforeseen Logistical Issues’",
@@ -2706,8 +2705,8 @@
           ]
         },
         {
-          "id": "music-10-7147608426452306627",
-          "key": "music-10-7147608426452306627",
+          "id": "music-10-2511781338273846425",
+          "key": "music-10-2511781338273846425",
           "category": "Music",
           "label": "Music",
           "headline": "Joe Jonas Says He Sought Therapy After His Solo Album Underperformed",
@@ -2734,8 +2733,8 @@
           ]
         },
         {
-          "id": "music-20-473216951884313824",
-          "key": "music-20-473216951884313824",
+          "id": "music-20-3446228328425357633",
+          "key": "music-20-3446228328425357633",
           "category": "Music",
           "label": "Music",
           "headline": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - billboard.com",
@@ -2762,8 +2761,8 @@
           ]
         },
         {
-          "id": "music-1-5844604711632118114",
-          "key": "music-1-5844604711632118114",
+          "id": "music-1-6730508492937049023",
+          "key": "music-1-6730508492937049023",
           "category": "Music",
           "label": "Music",
           "headline": "L.A. Jazz Festival, Which Was Supposed to Feature John Legend, Janelle Monáe and Hundreds More, Canceled at the Last Minute",
@@ -2790,8 +2789,8 @@
           ]
         },
         {
-          "id": "music-11-787921771469478789",
-          "key": "music-11-787921771469478789",
+          "id": "music-11-1701960317899478283",
+          "key": "music-11-1701960317899478283",
           "category": "Music",
           "label": "Music",
           "headline": "Baker Boy Takes Album, Song and Film Clip of the Year at 2026 NIMAs",
@@ -2818,8 +2817,8 @@
           ]
         },
         {
-          "id": "music-21-2312921076941847283",
-          "key": "music-21-2312921076941847283",
+          "id": "music-21-4226972521100460390",
+          "key": "music-21-4226972521100460390",
           "category": "Music",
           "label": "Music",
           "headline": "It’s Official: Influence Media to Buy Anthem for Over $600 Million - Billboard",
@@ -2848,8 +2847,8 @@
       ],
       "items": [
         {
-          "id": "music-0-4472293416259575151",
-          "key": "music-0-4472293416259575151",
+          "id": "music-0-6224605535106384736",
+          "key": "music-0-6224605535106384736",
           "category": "Music",
           "label": "Music",
           "headline": "Morrissey Cancels Las Vegas Residency Days Before Showtime Due to ‘Unforeseen Logistical Issues’",
@@ -2876,8 +2875,8 @@
           ]
         },
         {
-          "id": "music-10-7147608426452306627",
-          "key": "music-10-7147608426452306627",
+          "id": "music-10-2511781338273846425",
+          "key": "music-10-2511781338273846425",
           "category": "Music",
           "label": "Music",
           "headline": "Joe Jonas Says He Sought Therapy After His Solo Album Underperformed",
@@ -2904,8 +2903,8 @@
           ]
         },
         {
-          "id": "music-20-473216951884313824",
-          "key": "music-20-473216951884313824",
+          "id": "music-20-3446228328425357633",
+          "key": "music-20-3446228328425357633",
           "category": "Music",
           "label": "Music",
           "headline": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - billboard.com",
@@ -2932,8 +2931,8 @@
           ]
         },
         {
-          "id": "music-1-5844604711632118114",
-          "key": "music-1-5844604711632118114",
+          "id": "music-1-6730508492937049023",
+          "key": "music-1-6730508492937049023",
           "category": "Music",
           "label": "Music",
           "headline": "L.A. Jazz Festival, Which Was Supposed to Feature John Legend, Janelle Monáe and Hundreds More, Canceled at the Last Minute",
@@ -2960,8 +2959,8 @@
           ]
         },
         {
-          "id": "music-11-787921771469478789",
-          "key": "music-11-787921771469478789",
+          "id": "music-11-1701960317899478283",
+          "key": "music-11-1701960317899478283",
           "category": "Music",
           "label": "Music",
           "headline": "Baker Boy Takes Album, Song and Film Clip of the Year at 2026 NIMAs",
@@ -2988,8 +2987,8 @@
           ]
         },
         {
-          "id": "music-21-2312921076941847283",
-          "key": "music-21-2312921076941847283",
+          "id": "music-21-4226972521100460390",
+          "key": "music-21-4226972521100460390",
           "category": "Music",
           "label": "Music",
           "headline": "It’s Official: Influence Media to Buy Anthem for Over $600 Million - Billboard",
@@ -3016,7 +3015,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 04:48:37 AM ET"
+      "updated_at": "2026-08-09 05:40:05 AM ET"
     },
     {
       "key": "awards",
@@ -3026,20 +3025,20 @@
       "snapshot": "Awards coverage is updating with 4 current RSS headline item(s).",
       "key_storylines": [
         "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
-        "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - deadline.com",
+        "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline",
         "James Gray Says AI Is ‘Worthless’ and Young People Won’t Stand for It: They ‘Have a Real Hunger for Interesting, Honest Stuff’",
         "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo"
       ],
       "watch_list": [
         "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
-        "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - deadline.com",
+        "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline",
         "James Gray Says AI Is ‘Worthless’ and Young People Won’t Stand for It: They ‘Have a Real Hunger for Interesting, Honest Stuff’",
         "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo"
       ],
       "homepage_cards": [
         {
-          "id": "awards-0-1018856951753238842",
-          "key": "awards-0-1018856951753238842",
+          "id": "awards-0-7279647979090933090",
+          "key": "awards-0-7279647979090933090",
           "category": "Awards",
           "label": "Awards",
           "headline": "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
@@ -3066,14 +3065,14 @@
           ]
         },
         {
-          "id": "awards-5-7457569256029555380",
-          "key": "awards-5-7457569256029555380",
+          "id": "awards-5-4167843066703724843",
+          "key": "awards-5-4167843066703724843",
           "category": "Awards",
           "label": "Awards",
-          "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - deadline.com",
-          "title": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - deadline.com",
-          "snapshot": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More deadline.com",
-          "summary": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More deadline.com",
+          "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline",
+          "title": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline",
+          "snapshot": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More Deadline",
+          "summary": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More Deadline",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdGg4QjJyZUJKQ2FiQTJmTllYMEE0WlN6V19uVXlWVjROc0ZVMUd0RV84VExSb2U3U05kbzdWVVBJdC1PLTV4UC1VREMtMHVfZW05VGpQS09JX3JPWERkQVM4eWdic1BtVldkeGJIeURUTlFRMlp4MjU4T1BRRXlNdUR3TEJZcnRfbWxTdWQxNUZjbk5PR2ktc1NlUQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3084,7 +3083,7 @@
           "story_type": "rss_headline",
           "priority_score": 95,
           "key_data": [
-            "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - deadline.com"
+            "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3094,8 +3093,8 @@
           ]
         },
         {
-          "id": "awards-1-7470607014119133415",
-          "key": "awards-1-7470607014119133415",
+          "id": "awards-1-5086843912468024027",
+          "key": "awards-1-5086843912468024027",
           "category": "Awards",
           "label": "Awards",
           "headline": "James Gray Says AI Is ‘Worthless’ and Young People Won’t Stand for It: They ‘Have a Real Hunger for Interesting, Honest Stuff’",
@@ -3122,8 +3121,8 @@
           ]
         },
         {
-          "id": "awards-6-1554414288700122507",
-          "key": "awards-6-1554414288700122507",
+          "id": "awards-6-9189537221466749724",
+          "key": "awards-6-9189537221466749724",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo",
@@ -3152,8 +3151,8 @@
       ],
       "items": [
         {
-          "id": "awards-0-1018856951753238842",
-          "key": "awards-0-1018856951753238842",
+          "id": "awards-0-7279647979090933090",
+          "key": "awards-0-7279647979090933090",
           "category": "Awards",
           "label": "Awards",
           "headline": "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
@@ -3180,14 +3179,14 @@
           ]
         },
         {
-          "id": "awards-5-7457569256029555380",
-          "key": "awards-5-7457569256029555380",
+          "id": "awards-5-4167843066703724843",
+          "key": "awards-5-4167843066703724843",
           "category": "Awards",
           "label": "Awards",
-          "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - deadline.com",
-          "title": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - deadline.com",
-          "snapshot": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More deadline.com",
-          "summary": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More deadline.com",
+          "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline",
+          "title": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline",
+          "snapshot": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More Deadline",
+          "summary": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More Deadline",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdGg4QjJyZUJKQ2FiQTJmTllYMEE0WlN6V19uVXlWVjROc0ZVMUd0RV84VExSb2U3U05kbzdWVVBJdC1PLTV4UC1VREMtMHVfZW05VGpQS09JX3JPWERkQVM4eWdic1BtVldkeGJIeURUTlFRMlp4MjU4T1BRRXlNdUR3TEJZcnRfbWxTdWQxNUZjbk5PR2ktc1NlUQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3198,7 +3197,7 @@
           "story_type": "rss_headline",
           "priority_score": 95,
           "key_data": [
-            "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - deadline.com"
+            "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3208,8 +3207,8 @@
           ]
         },
         {
-          "id": "awards-1-7470607014119133415",
-          "key": "awards-1-7470607014119133415",
+          "id": "awards-1-5086843912468024027",
+          "key": "awards-1-5086843912468024027",
           "category": "Awards",
           "label": "Awards",
           "headline": "James Gray Says AI Is ‘Worthless’ and Young People Won’t Stand for It: They ‘Have a Real Hunger for Interesting, Honest Stuff’",
@@ -3236,8 +3235,8 @@
           ]
         },
         {
-          "id": "awards-6-1554414288700122507",
-          "key": "awards-6-1554414288700122507",
+          "id": "awards-6-9189537221466749724",
+          "key": "awards-6-9189537221466749724",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo",
@@ -3264,7 +3263,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 04:48:38 AM ET"
+      "updated_at": "2026-08-09 05:40:05 AM ET"
     },
     {
       "key": "box_office",
@@ -3274,20 +3273,20 @@
       "snapshot": "Box Office coverage is updating with 4 current RSS headline item(s).",
       "key_storylines": [
         "Box Office: ‘Spider-Man: Brand New Day’ Swings into Second Weekend With $43 Million on Friday",
-        "Dwayne Johnson Addresses ‘Moana’ Mixed Reviews After Film Underperformed at Box Office - The Hollywood Reporter",
+        "‘Spider-Man: Brand New Day’ Swinging to Best-Ever 10-Day Start With $143M Second Weekend - hollywoodreporter.com",
         "‘The Odyssey’ Surpasses $1 Billion, Christopher Nolan’s First Movie Since ‘Dark Knight Rises’ to Reach Coveted Box Office Milestone",
-        "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History - The Hollywood Reporter"
+        "Dwayne Johnson Addresses ‘Moana’ Mixed Reviews After Film Underperformed at Box Office - hollywoodreporter.com"
       ],
       "watch_list": [
         "Box Office: ‘Spider-Man: Brand New Day’ Swings into Second Weekend With $43 Million on Friday",
-        "Dwayne Johnson Addresses ‘Moana’ Mixed Reviews After Film Underperformed at Box Office - The Hollywood Reporter",
+        "‘Spider-Man: Brand New Day’ Swinging to Best-Ever 10-Day Start With $143M Second Weekend - hollywoodreporter.com",
         "‘The Odyssey’ Surpasses $1 Billion, Christopher Nolan’s First Movie Since ‘Dark Knight Rises’ to Reach Coveted Box Office Milestone",
-        "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History - The Hollywood Reporter"
+        "Dwayne Johnson Addresses ‘Moana’ Mixed Reviews After Film Underperformed at Box Office - hollywoodreporter.com"
       ],
       "homepage_cards": [
         {
-          "id": "box_office-0-7539265616183060664",
-          "key": "box_office-0-7539265616183060664",
+          "id": "box_office-0-9215075001974203562",
+          "key": "box_office-0-9215075001974203562",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘Spider-Man: Brand New Day’ Swings into Second Weekend With $43 Million on Friday",
@@ -3314,25 +3313,25 @@
           ]
         },
         {
-          "id": "box_office-10-1389284408597755051",
-          "key": "box_office-10-1389284408597755051",
+          "id": "box_office-10-5332183061595292262",
+          "key": "box_office-10-5332183061595292262",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "Dwayne Johnson Addresses ‘Moana’ Mixed Reviews After Film Underperformed at Box Office - The Hollywood Reporter",
-          "title": "Dwayne Johnson Addresses ‘Moana’ Mixed Reviews After Film Underperformed at Box Office - The Hollywood Reporter",
-          "snapshot": "Dwayne Johnson Addresses ‘Moana’ Mixed Reviews After Film Underperformed at Box Office The Hollywood Reporter",
-          "summary": "Dwayne Johnson Addresses ‘Moana’ Mixed Reviews After Film Underperformed at Box Office The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ0FxUnp0X0hlTkxWLTRPVTdDdG5Da2xUVmhxS3Z4X09pbVJRVmNsUjNKSjdSdGM2NGlFRFBwMG9yaGhFLVZqZTJyVS1DbEJJYVpWOFRuVncyeXcxenN1SVJVTkVZb1pmWlRJLWNneHluM1NMYjBzWXg0MzZ4TUhPRUVzM3M4Wkd5eHdDSVZ4OVN4cmJrWWJwZ3Z4YmUyYlBIV2NXM3I1VWpaclRsM25idEhrMGZSeUkzaUE?oc=5",
+          "headline": "‘Spider-Man: Brand New Day’ Swinging to Best-Ever 10-Day Start With $143M Second Weekend - hollywoodreporter.com",
+          "title": "‘Spider-Man: Brand New Day’ Swinging to Best-Ever 10-Day Start With $143M Second Weekend - hollywoodreporter.com",
+          "snapshot": "‘Spider-Man: Brand New Day’ Swinging to Best-Ever 10-Day Start With $143M Second Weekend hollywoodreporter.com",
+          "summary": "‘Spider-Man: Brand New Day’ Swinging to Best-Ever 10-Day Start With $143M Second Weekend hollywoodreporter.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaE5EdnVRbzliVEtxSjZlS0piYXY2NHJDOXpYNDhTc2pzLVZvUHZ5SlR0Y01hRXgwbTlHX0t3VmoxU1FQZFh5RFQzWFBrR0dTRFJ0WGs1Q1NVT0J3X1pUZkxSVEJmeS1TbUFfSm5pazBFUVY2THVEcm56NUlDRHVCTUNnbDNPUUZCaG5IM04wWVZ5WmZhaWZ1Y3VfVTRwOGlHWGhqRlJFUFlOdXNxWXUwNWpsVEY?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-07 10:38:45 PM ET",
+          "published_at": "2026-08-08 12:09:53 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "Dwayne Johnson Addresses ‘Moana’ Mixed Reviews After Film Underperformed at Box Office - The Hollywood Reporter"
+            "‘Spider-Man: Brand New Day’ Swinging to Best-Ever 10-Day Start With $143M Second Weekend - hollywoodreporter.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3342,8 +3341,8 @@
           ]
         },
         {
-          "id": "box_office-1-561681889828909475",
-          "key": "box_office-1-561681889828909475",
+          "id": "box_office-1-4585739779656652927",
+          "key": "box_office-1-4585739779656652927",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ Surpasses $1 Billion, Christopher Nolan’s First Movie Since ‘Dark Knight Rises’ to Reach Coveted Box Office Milestone",
@@ -3370,25 +3369,25 @@
           ]
         },
         {
-          "id": "box_office-11-6321858970589740156",
-          "key": "box_office-11-6321858970589740156",
+          "id": "box_office-11-6990596462490430152",
+          "key": "box_office-11-6990596462490430152",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History - The Hollywood Reporter",
-          "title": "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History - The Hollywood Reporter",
-          "snapshot": "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History The Hollywood Reporter",
-          "summary": "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZTBCTTFoUjJYY2dRQ2hDVk82YUpyWlNZZVRqeVJJLWs3ck1KUFRXN1hWMVB2OHNLemRRY3lHQy1sQ1QzLXlzMktmZXZwY293b19aa0lTdXhQZWpxaEZQYzg0Qk83aWZlMmNMMmhsbWExem8tUHNnVWlTcGwwT2VXLXhFWHM3akJXa0pWUlp4LVFFS01rc3RNM2Etc1dMUkVyMmgzSGlQOTZhdnNSdWZLR0piMTFlZFVJMWc?oc=5",
+          "headline": "Dwayne Johnson Addresses ‘Moana’ Mixed Reviews After Film Underperformed at Box Office - hollywoodreporter.com",
+          "title": "Dwayne Johnson Addresses ‘Moana’ Mixed Reviews After Film Underperformed at Box Office - hollywoodreporter.com",
+          "snapshot": "Dwayne Johnson Addresses ‘Moana’ Mixed Reviews After Film Underperformed at Box Office hollywoodreporter.com",
+          "summary": "Dwayne Johnson Addresses ‘Moana’ Mixed Reviews After Film Underperformed at Box Office hollywoodreporter.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ0FxUnp0X0hlTkxWLTRPVTdDdG5Da2xUVmhxS3Z4X09pbVJRVmNsUjNKSjdSdGM2NGlFRFBwMG9yaGhFLVZqZTJyVS1DbEJJYVpWOFRuVncyeXcxenN1SVJVTkVZb1pmWlRJLWNneHluM1NMYjBzWXg0MzZ4TUhPRUVzM3M4Wkd5eHdDSVZ4OVN4cmJrWWJwZ3Z4YmUyYlBIV2NXM3I1VWpaclRsM25idEhrMGZSeUkzaUE?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-06 10:39:57 PM ET",
+          "published_at": "2026-08-07 10:38:45 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History - The Hollywood Reporter"
+            "Dwayne Johnson Addresses ‘Moana’ Mixed Reviews After Film Underperformed at Box Office - hollywoodreporter.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3400,8 +3399,8 @@
       ],
       "items": [
         {
-          "id": "box_office-0-7539265616183060664",
-          "key": "box_office-0-7539265616183060664",
+          "id": "box_office-0-9215075001974203562",
+          "key": "box_office-0-9215075001974203562",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘Spider-Man: Brand New Day’ Swings into Second Weekend With $43 Million on Friday",
@@ -3428,25 +3427,25 @@
           ]
         },
         {
-          "id": "box_office-10-1389284408597755051",
-          "key": "box_office-10-1389284408597755051",
+          "id": "box_office-10-5332183061595292262",
+          "key": "box_office-10-5332183061595292262",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "Dwayne Johnson Addresses ‘Moana’ Mixed Reviews After Film Underperformed at Box Office - The Hollywood Reporter",
-          "title": "Dwayne Johnson Addresses ‘Moana’ Mixed Reviews After Film Underperformed at Box Office - The Hollywood Reporter",
-          "snapshot": "Dwayne Johnson Addresses ‘Moana’ Mixed Reviews After Film Underperformed at Box Office The Hollywood Reporter",
-          "summary": "Dwayne Johnson Addresses ‘Moana’ Mixed Reviews After Film Underperformed at Box Office The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ0FxUnp0X0hlTkxWLTRPVTdDdG5Da2xUVmhxS3Z4X09pbVJRVmNsUjNKSjdSdGM2NGlFRFBwMG9yaGhFLVZqZTJyVS1DbEJJYVpWOFRuVncyeXcxenN1SVJVTkVZb1pmWlRJLWNneHluM1NMYjBzWXg0MzZ4TUhPRUVzM3M4Wkd5eHdDSVZ4OVN4cmJrWWJwZ3Z4YmUyYlBIV2NXM3I1VWpaclRsM25idEhrMGZSeUkzaUE?oc=5",
+          "headline": "‘Spider-Man: Brand New Day’ Swinging to Best-Ever 10-Day Start With $143M Second Weekend - hollywoodreporter.com",
+          "title": "‘Spider-Man: Brand New Day’ Swinging to Best-Ever 10-Day Start With $143M Second Weekend - hollywoodreporter.com",
+          "snapshot": "‘Spider-Man: Brand New Day’ Swinging to Best-Ever 10-Day Start With $143M Second Weekend hollywoodreporter.com",
+          "summary": "‘Spider-Man: Brand New Day’ Swinging to Best-Ever 10-Day Start With $143M Second Weekend hollywoodreporter.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaE5EdnVRbzliVEtxSjZlS0piYXY2NHJDOXpYNDhTc2pzLVZvUHZ5SlR0Y01hRXgwbTlHX0t3VmoxU1FQZFh5RFQzWFBrR0dTRFJ0WGs1Q1NVT0J3X1pUZkxSVEJmeS1TbUFfSm5pazBFUVY2THVEcm56NUlDRHVCTUNnbDNPUUZCaG5IM04wWVZ5WmZhaWZ1Y3VfVTRwOGlHWGhqRlJFUFlOdXNxWXUwNWpsVEY?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-07 10:38:45 PM ET",
+          "published_at": "2026-08-08 12:09:53 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "Dwayne Johnson Addresses ‘Moana’ Mixed Reviews After Film Underperformed at Box Office - The Hollywood Reporter"
+            "‘Spider-Man: Brand New Day’ Swinging to Best-Ever 10-Day Start With $143M Second Weekend - hollywoodreporter.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3456,8 +3455,8 @@
           ]
         },
         {
-          "id": "box_office-1-561681889828909475",
-          "key": "box_office-1-561681889828909475",
+          "id": "box_office-1-4585739779656652927",
+          "key": "box_office-1-4585739779656652927",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ Surpasses $1 Billion, Christopher Nolan’s First Movie Since ‘Dark Knight Rises’ to Reach Coveted Box Office Milestone",
@@ -3484,25 +3483,25 @@
           ]
         },
         {
-          "id": "box_office-11-6321858970589740156",
-          "key": "box_office-11-6321858970589740156",
+          "id": "box_office-11-6990596462490430152",
+          "key": "box_office-11-6990596462490430152",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History - The Hollywood Reporter",
-          "title": "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History - The Hollywood Reporter",
-          "snapshot": "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History The Hollywood Reporter",
-          "summary": "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZTBCTTFoUjJYY2dRQ2hDVk82YUpyWlNZZVRqeVJJLWs3ck1KUFRXN1hWMVB2OHNLemRRY3lHQy1sQ1QzLXlzMktmZXZwY293b19aa0lTdXhQZWpxaEZQYzg0Qk83aWZlMmNMMmhsbWExem8tUHNnVWlTcGwwT2VXLXhFWHM3akJXa0pWUlp4LVFFS01rc3RNM2Etc1dMUkVyMmgzSGlQOTZhdnNSdWZLR0piMTFlZFVJMWc?oc=5",
+          "headline": "Dwayne Johnson Addresses ‘Moana’ Mixed Reviews After Film Underperformed at Box Office - hollywoodreporter.com",
+          "title": "Dwayne Johnson Addresses ‘Moana’ Mixed Reviews After Film Underperformed at Box Office - hollywoodreporter.com",
+          "snapshot": "Dwayne Johnson Addresses ‘Moana’ Mixed Reviews After Film Underperformed at Box Office hollywoodreporter.com",
+          "summary": "Dwayne Johnson Addresses ‘Moana’ Mixed Reviews After Film Underperformed at Box Office hollywoodreporter.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ0FxUnp0X0hlTkxWLTRPVTdDdG5Da2xUVmhxS3Z4X09pbVJRVmNsUjNKSjdSdGM2NGlFRFBwMG9yaGhFLVZqZTJyVS1DbEJJYVpWOFRuVncyeXcxenN1SVJVTkVZb1pmWlRJLWNneHluM1NMYjBzWXg0MzZ4TUhPRUVzM3M4Wkd5eHdDSVZ4OVN4cmJrWWJwZ3Z4YmUyYlBIV2NXM3I1VWpaclRsM25idEhrMGZSeUkzaUE?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-06 10:39:57 PM ET",
+          "published_at": "2026-08-07 10:38:45 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "‘Spider-Man: Brand New Day’ Scores Biggest First Week in Box Office History - The Hollywood Reporter"
+            "Dwayne Johnson Addresses ‘Moana’ Mixed Reviews After Film Underperformed at Box Office - hollywoodreporter.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3512,7 +3511,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 04:48:39 AM ET"
+      "updated_at": "2026-08-09 05:40:06 AM ET"
     },
     {
       "key": "celebrity",
@@ -3530,8 +3529,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "celebrity-0-2471896631151943912",
-          "key": "celebrity-0-2471896631151943912",
+          "id": "celebrity-0-4670854025617276084",
+          "key": "celebrity-0-4670854025617276084",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Entertainment News | Latest Celebrity News, Videos & Photos - ABC News - Breaking News, Latest News and Videos",
@@ -3558,8 +3557,8 @@
           ]
         },
         {
-          "id": "celebrity-1-511175284958367933",
-          "key": "celebrity-1-511175284958367933",
+          "id": "celebrity-1-8439213298879488608",
+          "key": "celebrity-1-8439213298879488608",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3588,8 +3587,8 @@
       ],
       "items": [
         {
-          "id": "celebrity-0-2471896631151943912",
-          "key": "celebrity-0-2471896631151943912",
+          "id": "celebrity-0-4670854025617276084",
+          "key": "celebrity-0-4670854025617276084",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Entertainment News | Latest Celebrity News, Videos & Photos - ABC News - Breaking News, Latest News and Videos",
@@ -3616,8 +3615,8 @@
           ]
         },
         {
-          "id": "celebrity-1-511175284958367933",
-          "key": "celebrity-1-511175284958367933",
+          "id": "celebrity-1-8439213298879488608",
+          "key": "celebrity-1-8439213298879488608",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3644,7 +3643,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 04:48:39 AM ET"
+      "updated_at": "2026-08-09 05:40:06 AM ET"
     },
     {
       "key": "hollywood",
@@ -3671,8 +3670,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "hollywood-0-952780239981608906",
-          "key": "hollywood-0-952780239981608906",
+          "id": "hollywood-0-2935835283073789112",
+          "key": "hollywood-0-2935835283073789112",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Whitney Houston Gets Her Own Barbie, Recreating Iconic ‘I Wanna Dance With Somebody’ Look",
@@ -3699,8 +3698,8 @@
           ]
         },
         {
-          "id": "hollywood-2-9078084900828315100",
-          "key": "hollywood-2-9078084900828315100",
+          "id": "hollywood-2-70662664641262054",
+          "key": "hollywood-2-70662664641262054",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Melissa Barrera Takes Weekend Off From Broadway’s ‘Titanique’ After She “Lost My Voice” On-Stage",
@@ -3727,8 +3726,8 @@
           ]
         },
         {
-          "id": "hollywood-6-6827064828065418546",
-          "key": "hollywood-6-6827064828065418546",
+          "id": "hollywood-6-3387070983852071724",
+          "key": "hollywood-6-3387070983852071724",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Whitney Houston’s Sister-in-Law Pat Houston Personally Approved Singer’s New Barbie Doll",
@@ -3755,8 +3754,8 @@
           ]
         },
         {
-          "id": "hollywood-11-3167479406267064112",
-          "key": "hollywood-11-3167479406267064112",
+          "id": "hollywood-10-6583184916010387816",
+          "key": "hollywood-10-6583184916010387816",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Why did the United States film industry settle in Hollywood? - Encyclopedia Britannica",
@@ -3771,7 +3770,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 89,
+          "priority_score": 90,
           "key_data": [
             "Why did the United States film industry settle in Hollywood? - Encyclopedia Britannica"
           ],
@@ -3783,8 +3782,8 @@
           ]
         },
         {
-          "id": "hollywood-1-2013570573864983420",
-          "key": "hollywood-1-2013570573864983420",
+          "id": "hollywood-1-6982402209815719171",
+          "key": "hollywood-1-6982402209815719171",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Andrew Lloyd Webber Is ‘Gutted’ on ‘Cats: The Jellicle Ball’ Closing Night: Producing on Broadway Is ‘Unsustainable’",
@@ -3811,8 +3810,8 @@
           ]
         },
         {
-          "id": "hollywood-3-7902811973029407166",
-          "key": "hollywood-3-7902811973029407166",
+          "id": "hollywood-3-96029438105394508",
+          "key": "hollywood-3-96029438105394508",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Madonna Pays Tribute To Late ‘Ray Of Light’ Producer William Orbit: “Your Music Gave Me A Magic Carpet To Fly On”",
@@ -3839,8 +3838,8 @@
           ]
         },
         {
-          "id": "hollywood-7-3959929234396800942",
-          "key": "hollywood-7-3959929234396800942",
+          "id": "hollywood-7-7797600327245963026",
+          "key": "hollywood-7-7797600327245963026",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Perez Hilton’s Condition “Serious But Stable” Amid Hospitalization, Will Require Surgery",
@@ -3867,8 +3866,8 @@
           ]
         },
         {
-          "id": "hollywood-12-5921811355175336472",
-          "key": "hollywood-12-5921811355175336472",
+          "id": "hollywood-11-1344384930565452767",
+          "key": "hollywood-11-1344384930565452767",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
@@ -3883,7 +3882,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 88,
+          "priority_score": 89,
           "key_data": [
             "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University"
           ],
@@ -3897,8 +3896,8 @@
       ],
       "items": [
         {
-          "id": "hollywood-0-952780239981608906",
-          "key": "hollywood-0-952780239981608906",
+          "id": "hollywood-0-2935835283073789112",
+          "key": "hollywood-0-2935835283073789112",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Whitney Houston Gets Her Own Barbie, Recreating Iconic ‘I Wanna Dance With Somebody’ Look",
@@ -3925,8 +3924,8 @@
           ]
         },
         {
-          "id": "hollywood-2-9078084900828315100",
-          "key": "hollywood-2-9078084900828315100",
+          "id": "hollywood-2-70662664641262054",
+          "key": "hollywood-2-70662664641262054",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Melissa Barrera Takes Weekend Off From Broadway’s ‘Titanique’ After She “Lost My Voice” On-Stage",
@@ -3953,8 +3952,8 @@
           ]
         },
         {
-          "id": "hollywood-6-6827064828065418546",
-          "key": "hollywood-6-6827064828065418546",
+          "id": "hollywood-6-3387070983852071724",
+          "key": "hollywood-6-3387070983852071724",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Whitney Houston’s Sister-in-Law Pat Houston Personally Approved Singer’s New Barbie Doll",
@@ -3981,8 +3980,8 @@
           ]
         },
         {
-          "id": "hollywood-11-3167479406267064112",
-          "key": "hollywood-11-3167479406267064112",
+          "id": "hollywood-10-6583184916010387816",
+          "key": "hollywood-10-6583184916010387816",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Why did the United States film industry settle in Hollywood? - Encyclopedia Britannica",
@@ -3997,7 +3996,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 89,
+          "priority_score": 90,
           "key_data": [
             "Why did the United States film industry settle in Hollywood? - Encyclopedia Britannica"
           ],
@@ -4009,8 +4008,8 @@
           ]
         },
         {
-          "id": "hollywood-1-2013570573864983420",
-          "key": "hollywood-1-2013570573864983420",
+          "id": "hollywood-1-6982402209815719171",
+          "key": "hollywood-1-6982402209815719171",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Andrew Lloyd Webber Is ‘Gutted’ on ‘Cats: The Jellicle Ball’ Closing Night: Producing on Broadway Is ‘Unsustainable’",
@@ -4037,8 +4036,8 @@
           ]
         },
         {
-          "id": "hollywood-3-7902811973029407166",
-          "key": "hollywood-3-7902811973029407166",
+          "id": "hollywood-3-96029438105394508",
+          "key": "hollywood-3-96029438105394508",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Madonna Pays Tribute To Late ‘Ray Of Light’ Producer William Orbit: “Your Music Gave Me A Magic Carpet To Fly On”",
@@ -4065,8 +4064,8 @@
           ]
         },
         {
-          "id": "hollywood-7-3959929234396800942",
-          "key": "hollywood-7-3959929234396800942",
+          "id": "hollywood-7-7797600327245963026",
+          "key": "hollywood-7-7797600327245963026",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Perez Hilton’s Condition “Serious But Stable” Amid Hospitalization, Will Require Surgery",
@@ -4093,8 +4092,8 @@
           ]
         },
         {
-          "id": "hollywood-12-5921811355175336472",
-          "key": "hollywood-12-5921811355175336472",
+          "id": "hollywood-11-1344384930565452767",
+          "key": "hollywood-11-1344384930565452767",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
@@ -4109,7 +4108,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 88,
+          "priority_score": 89,
           "key_data": [
             "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University"
           ],
@@ -4121,7 +4120,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 04:48:41 AM ET"
+      "updated_at": "2026-08-09 05:40:07 AM ET"
     },
     {
       "key": "gaming",
@@ -4141,8 +4140,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "gaming-0-3232178631377049765",
-          "key": "gaming-0-3232178631377049765",
+          "id": "gaming-0-3780899026086524816",
+          "key": "gaming-0-3780899026086524816",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027",
@@ -4169,8 +4168,8 @@
           ]
         },
         {
-          "id": "gaming-20-2291334472936835128",
-          "key": "gaming-20-2291334472936835128",
+          "id": "gaming-20-7224506338894749230",
+          "key": "gaming-20-7224506338894749230",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - MKAU Gaming",
@@ -4197,8 +4196,8 @@
           ]
         },
         {
-          "id": "gaming-1-620371743228524479",
-          "key": "gaming-1-620371743228524479",
+          "id": "gaming-1-8591368970404411809",
+          "key": "gaming-1-8591368970404411809",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "'They Fundamentally Don't Understand Art' — Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs",
@@ -4227,8 +4226,8 @@
       ],
       "items": [
         {
-          "id": "gaming-0-3232178631377049765",
-          "key": "gaming-0-3232178631377049765",
+          "id": "gaming-0-3780899026086524816",
+          "key": "gaming-0-3780899026086524816",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027",
@@ -4255,8 +4254,8 @@
           ]
         },
         {
-          "id": "gaming-20-2291334472936835128",
-          "key": "gaming-20-2291334472936835128",
+          "id": "gaming-20-7224506338894749230",
+          "key": "gaming-20-7224506338894749230",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - MKAU Gaming",
@@ -4283,8 +4282,8 @@
           ]
         },
         {
-          "id": "gaming-1-620371743228524479",
-          "key": "gaming-1-620371743228524479",
+          "id": "gaming-1-8591368970404411809",
+          "key": "gaming-1-8591368970404411809",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "'They Fundamentally Don't Understand Art' — Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs",
@@ -4311,7 +4310,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 04:48:42 AM ET"
+      "updated_at": "2026-08-09 05:40:08 AM ET"
     },
     {
       "key": "media",
@@ -4335,8 +4334,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "media-0-2525393183770888248",
-          "key": "media-0-2525393183770888248",
+          "id": "media-0-2672333679779718018",
+          "key": "media-0-2672333679779718018",
           "category": "Media",
           "label": "Media",
           "headline": "LISTEN: NBCUniversal Media Group Chief Matt Strauss on Growing Peacock, Testing Membership Rewards and Becoming a Daily Habit With Users",
@@ -4363,8 +4362,8 @@
           ]
         },
         {
-          "id": "media-10-4656537124318221391",
-          "key": "media-10-4656537124318221391",
+          "id": "media-10-5485330055322925987",
+          "key": "media-10-5485330055322925987",
           "category": "Media",
           "label": "Media",
           "headline": "Spencer Pratt To The Rescue? Failed L.A. Mayoral Candidate Wants To Help Trump Save Hollywood, Supposedly",
@@ -4391,8 +4390,8 @@
           ]
         },
         {
-          "id": "media-20-2096626585322556516",
-          "key": "media-20-2096626585322556516",
+          "id": "media-20-1356945342382169367",
+          "key": "media-20-1356945342382169367",
           "category": "Media",
           "label": "Media",
           "headline": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
@@ -4419,8 +4418,8 @@
           ]
         },
         {
-          "id": "media-1-8275256764440803896",
-          "key": "media-1-8275256764440803896",
+          "id": "media-1-4357257331212067964",
+          "key": "media-1-4357257331212067964",
           "category": "Media",
           "label": "Media",
           "headline": "Paramount’s U.K. Concessions Give ‘Powerful Credibility’ to State AGs’ Lawsuit, Block the Merger Coalition Says: ‘The Dangers’ in U.S. Market ‘Are Unmistakable’",
@@ -4447,8 +4446,8 @@
           ]
         },
         {
-          "id": "media-11-3434236985291849518",
-          "key": "media-11-3434236985291849518",
+          "id": "media-11-3425423274790372105",
+          "key": "media-11-3425423274790372105",
           "category": "Media",
           "label": "Media",
           "headline": "Judge Clarifies That Reporter Catherine Herridge Doesn’t Have To Pay $800-Per-Day Contempt Fines As She Pursues Supreme Court Appeal",
@@ -4477,8 +4476,8 @@
       ],
       "items": [
         {
-          "id": "media-0-2525393183770888248",
-          "key": "media-0-2525393183770888248",
+          "id": "media-0-2672333679779718018",
+          "key": "media-0-2672333679779718018",
           "category": "Media",
           "label": "Media",
           "headline": "LISTEN: NBCUniversal Media Group Chief Matt Strauss on Growing Peacock, Testing Membership Rewards and Becoming a Daily Habit With Users",
@@ -4505,8 +4504,8 @@
           ]
         },
         {
-          "id": "media-10-4656537124318221391",
-          "key": "media-10-4656537124318221391",
+          "id": "media-10-5485330055322925987",
+          "key": "media-10-5485330055322925987",
           "category": "Media",
           "label": "Media",
           "headline": "Spencer Pratt To The Rescue? Failed L.A. Mayoral Candidate Wants To Help Trump Save Hollywood, Supposedly",
@@ -4533,8 +4532,8 @@
           ]
         },
         {
-          "id": "media-20-2096626585322556516",
-          "key": "media-20-2096626585322556516",
+          "id": "media-20-1356945342382169367",
+          "key": "media-20-1356945342382169367",
           "category": "Media",
           "label": "Media",
           "headline": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
@@ -4561,8 +4560,8 @@
           ]
         },
         {
-          "id": "media-1-8275256764440803896",
-          "key": "media-1-8275256764440803896",
+          "id": "media-1-4357257331212067964",
+          "key": "media-1-4357257331212067964",
           "category": "Media",
           "label": "Media",
           "headline": "Paramount’s U.K. Concessions Give ‘Powerful Credibility’ to State AGs’ Lawsuit, Block the Merger Coalition Says: ‘The Dangers’ in U.S. Market ‘Are Unmistakable’",
@@ -4589,8 +4588,8 @@
           ]
         },
         {
-          "id": "media-11-3434236985291849518",
-          "key": "media-11-3434236985291849518",
+          "id": "media-11-3425423274790372105",
+          "key": "media-11-3425423274790372105",
           "category": "Media",
           "label": "Media",
           "headline": "Judge Clarifies That Reporter Catherine Herridge Doesn’t Have To Pay $800-Per-Day Contempt Fines As She Pursues Supreme Court Appeal",
@@ -4617,7 +4616,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 04:48:43 AM ET"
+      "updated_at": "2026-08-09 05:40:08 AM ET"
     }
   ]
 }
