@@ -3,15 +3,15 @@
   "site": "Global Entertainment Report",
   "site_name": "Global Entertainment Report",
   "vertical": "Entertainment",
-  "headline": "Protest at the Locarno Film Festival Remembers 60,000 Names of the Dead of Gaza",
-  "snapshot": "Global Entertainment Report accepted 47 real RSS item(s) across 31 checked feed request(s).",
-  "generated_at": "2026-08-09 10:34:58 AM ET",
-  "updated_at": "2026-08-09 10:34:58 AM ET",
-  "published_at": "2026-08-09 10:34:58 AM ET",
+  "headline": "Box Office: 'Spider-Man: Brand New Day' Flies to Third-Biggest Second Weekend of All Time With $145 Million",
+  "snapshot": "Global Entertainment Report accepted 46 real RSS item(s) across 31 checked feed request(s).",
+  "generated_at": "2026-08-09 11:32:26 AM ET",
+  "updated_at": "2026-08-09 11:32:26 AM ET",
+  "published_at": "2026-08-09 11:32:26 AM ET",
   "source_mode": "live RSS ingestion",
   "freshness": {
     "max_item_age_hours": 336,
-    "accepted_real_items": 47,
+    "accepted_real_items": 46,
     "checked_feeds": 31,
     "feeds_without_accepted_items": 6
   },
@@ -65,10 +65,8 @@
       "final_url": "https://variety.com/v/tv/feed/",
       "item_count": 10,
       "accepted_count": 2,
-      "rejected_count": 1,
-      "rejection_reasons": {
-        "duplicate-story": 1
-      }
+      "rejected_count": 0,
+      "rejection_reasons": {}
     },
     {
       "category": "tv",
@@ -164,9 +162,9 @@
       "final_url": "https://news.google.com/rss/search?q=music+entertainment+billboard&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 98,
+      "rejected_count": 97,
       "rejection_reasons": {
-        "stale-over-336h": 98
+        "stale-over-336h": 97
       }
     },
     {
@@ -232,9 +230,10 @@
       "final_url": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 46,
+      "rejected_count": 45,
       "rejection_reasons": {
-        "stale-over-336h": 46
+        "stale-over-336h": 44,
+        "duplicate-story": 1
       }
     },
     {
@@ -254,11 +253,11 @@
       "url": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
-      "item_count": 87,
+      "item_count": 90,
       "accepted_count": 2,
-      "rejected_count": 75,
+      "rejected_count": 78,
       "rejection_reasons": {
-        "stale-over-336h": 75
+        "stale-over-336h": 78
       }
     },
     {
@@ -267,10 +266,10 @@
       "status_code": "200",
       "final_url": "https://variety.com/feed/",
       "item_count": 10,
-      "accepted_count": 2,
-      "rejected_count": 8,
+      "accepted_count": 1,
+      "rejected_count": 9,
       "rejection_reasons": {
-        "duplicate-story": 8
+        "duplicate-story": 9
       }
     },
     {
@@ -372,33 +371,33 @@
   "substack_url": "https://globalentertainmentreport.substack.com/",
   "x_handle": "@GlobalSportsRp",
   "key_storylines": [
-    "Protest at the Locarno Film Festival Remembers 60,000 Names of the Dead of Gaza",
+    "Box Office: 'Spider-Man: Brand New Day' Flies to Third-Biggest Second Weekend of All Time With $145 Million",
     "James Gray Talks Dream Quality Of Cinema & Approach With Cast: \"I'm Not A Good Director Of Actors\" - Locarno",
     "'The Odyssey' Makes History as Christopher Nolan's Top-Grossing Movie Ever, Beating 'Dark Knight Rises'",
     "30 Years Ago Today: 1996 Film, Named One of Robin Williams' Worst Movies, Was Released - Men's Journal",
     "Joe Jonas Says He Sought Therapy After His Solo Album Underperformed",
     "'If You're Not a Netflix Subscriber, You Definitely Should Be' - Take-Two Boss Teases Grand Theft Auto VI: An Extended Look",
-    "David Ellison Is Promising Theater Owners Contractual Guarantees for Paramount-Warner Bros. 30-Film Annual Slate. But What if Moviegoers Don't Care?",
+    "Protest at the Locarno Film Festival Remembers 60,000 Names of the Dead of Gaza",
     "Matthew McConaughey Performs \"Quill\" In Scene From 'The Rivals of Amziah King' - Watch"
   ],
   "live_newsroom": [
     {
-      "id": "film-0-4065330844258969042",
-      "key": "film-0-4065330844258969042",
+      "id": "film-0-7889178871524545160",
+      "key": "film-0-7889178871524545160",
       "category": "Film",
       "label": "Film",
-      "headline": "Protest at the Locarno Film Festival Remembers 60,000 Names of the Dead of Gaza",
-      "title": "Protest at the Locarno Film Festival Remembers 60,000 Names of the Dead of Gaza",
-      "snapshot": "Locarno became the latest film festival to see protests at the continuing situation in Gaza and Palestine's Occupied Territories. While music from the Campari Lounge boomed into the evening, approximately 100 demonstrators unwound a shroud bearing the names of 60,000 people who have been killed in Gaza since the beg...",
-      "summary": "Locarno became the latest film festival to see protests at the continuing situation in Gaza and Palestine's Occupied Territories. While music from the Campari Lounge boomed into the evening, approximately 100 demonstrators unwound a shroud bearing the names of 60,000 people who have been killed in Gaza since the beg...",
-      "url": "https://variety.com/2026/film/global/gaza-protest-locarno-film-festival-palestine-israel-1236830809/",
+      "headline": "Box Office: 'Spider-Man: Brand New Day' Flies to Third-Biggest Second Weekend of All Time With $145 Million",
+      "title": "Box Office: 'Spider-Man: Brand New Day' Flies to Third-Biggest Second Weekend of All Time With $145 Million",
+      "snapshot": "\"Spider-Man: Brand New Day\" is continuing its unparalleled box office run, scoring another $145 million domestically during its second weekend in theaters. Just to put those stratospheric ticket sales in context, only one movie this year - \"Toy Story 5\" - earned around that much in its opening weekend, with Disney's...",
+      "summary": "\"Spider-Man: Brand New Day\" is continuing its unparalleled box office run, scoring another $145 million domestically during its second weekend in theaters. Just to put those stratospheric ticket sales in context, only one movie this year - \"Toy Story 5\" - earned around that much in its opening weekend, with Disney's...",
+      "url": "https://variety.com/2026/film/box-office/spiderman-brand-new-day-box-office-near-record-second-weekend-1236830807/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-09 09:59:48 AM ET",
+      "published_at": "2026-08-09 11:08:04 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Protest at the Locarno Film Festival Remembers 60,000 Names of the Dead of Gaza"
+        "Box Office: 'Spider-Man: Brand New Day' Flies to Third-Biggest Second Weekend of All Time With $145 Million"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -410,8 +409,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-2600781373103651348",
-      "key": "film-10-2600781373103651348",
+      "id": "film-10-3504610641685700914",
+      "key": "film-10-3504610641685700914",
       "category": "Film",
       "label": "Film",
       "headline": "James Gray Talks Dream Quality Of Cinema & Approach With Cast: \"I'm Not A Good Director Of Actors\" - Locarno",
@@ -437,8 +436,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-2517118466300639224",
-      "key": "film-22-2517118466300639224",
+      "id": "film-22-8897659720702256094",
+      "key": "film-22-8897659720702256094",
       "category": "Film",
       "label": "Film",
       "headline": "'The Odyssey' Makes History as Christopher Nolan's Top-Grossing Movie Ever, Beating 'Dark Knight Rises'",
@@ -464,8 +463,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-1975353712602543969",
-      "key": "film-32-1975353712602543969",
+      "id": "film-32-6332877895908054475",
+      "key": "film-32-6332877895908054475",
       "category": "Film",
       "label": "Film",
       "headline": "30 Years Ago Today: 1996 Film, Named One of Robin Williams' Worst Movies, Was Released - Men's Journal",
@@ -491,8 +490,8 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-3376882075337554396",
-      "key": "music-10-3376882075337554396",
+      "id": "music-10-3974903247660585761",
+      "key": "music-10-3974903247660585761",
       "category": "Music",
       "label": "Music",
       "headline": "Joe Jonas Says He Sought Therapy After His Solo Album Underperformed",
@@ -518,8 +517,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-4229208247386844834",
-      "key": "gaming-0-4229208247386844834",
+      "id": "gaming-0-5311805722535820945",
+      "key": "gaming-0-5311805722535820945",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "'If You're Not a Netflix Subscriber, You Definitely Should Be' - Take-Two Boss Teases Grand Theft Auto VI: An Extended Look",
@@ -545,22 +544,22 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-8044167656041183239",
-      "key": "film-1-8044167656041183239",
+      "id": "film-1-12081836087548597",
+      "key": "film-1-12081836087548597",
       "category": "Film",
       "label": "Film",
-      "headline": "David Ellison Is Promising Theater Owners Contractual Guarantees for Paramount-Warner Bros. 30-Film Annual Slate. But What if Moviegoers Don't Care?",
-      "title": "David Ellison Is Promising Theater Owners Contractual Guarantees for Paramount-Warner Bros. 30-Film Annual Slate. But What if Moviegoers Don't Care?",
-      "snapshot": "There's no question that David Ellison, the doggedly ambitious CEO of Paramount Skydance, loves movies and filmmaking. In making his case for Paramount's eye-poppingly pricey megadeal to merge with Warner Bros., he has repeatedly pledged that the combined company will release a lot more movies - to the tune of at le...",
-      "summary": "There's no question that David Ellison, the doggedly ambitious CEO of Paramount Skydance, loves movies and filmmaking. In making his case for Paramount's eye-poppingly pricey megadeal to merge with Warner Bros., he has repeatedly pledged that the combined company will release a lot more movies - to the tune of at le...",
-      "url": "https://variety.com/2026/film/news/david-ellison-theater-owners-guarantee-30-movies-paramount-warner-bros-merger-1236830791/",
+      "headline": "Protest at the Locarno Film Festival Remembers 60,000 Names of the Dead of Gaza",
+      "title": "Protest at the Locarno Film Festival Remembers 60,000 Names of the Dead of Gaza",
+      "snapshot": "Locarno became the latest film festival to see protests at the continuing situation in Gaza and Palestine's Occupied Territories. While music from the Campari Lounge boomed into the evening, approximately 100 demonstrators unwound a shroud bearing the names of 60,000 people who have been killed in Gaza since the beg...",
+      "summary": "Locarno became the latest film festival to see protests at the continuing situation in Gaza and Palestine's Occupied Territories. While music from the Campari Lounge boomed into the evening, approximately 100 demonstrators unwound a shroud bearing the names of 60,000 people who have been killed in Gaza since the beg...",
+      "url": "https://variety.com/2026/film/global/gaza-protest-locarno-film-festival-palestine-israel-1236830809/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-09 09:49:29 AM ET",
+      "published_at": "2026-08-09 09:59:48 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "David Ellison Is Promising Theater Owners Contractual Guarantees for Paramount-Warner Bros. 30-Film Annual Slate. But What if Moviegoers Don't Care?"
+        "Protest at the Locarno Film Festival Remembers 60,000 Names of the Dead of Gaza"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -572,14 +571,14 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-1491139532496393029",
-      "key": "film-11-1491139532496393029",
+      "id": "film-11-3313610559146280429",
+      "key": "film-11-3313610559146280429",
       "category": "Film",
       "label": "Film",
       "headline": "Matthew McConaughey Performs \"Quill\" In Scene From 'The Rivals of Amziah King' - Watch",
       "title": "Matthew McConaughey Performs \"Quill\" In Scene From 'The Rivals of Amziah King' - Watch",
-      "snapshot": "Matthew McConaughey shows off his vocal skills (and some hidden banjo talents) with his latest role in The Rivals of Amziah King. On Friday, Lakeshore Records released the single and music video for \"Quill\" from the original motion picture soundtrack, performed by the Oscar-winning and co-star Ben Hardesty, also fea...",
-      "summary": "Matthew McConaughey shows off his vocal skills (and some hidden banjo talents) with his latest role in The Rivals of Amziah King. On Friday, Lakeshore Records released the single and music video for \"Quill\" from the original motion picture soundtrack, performed by the Oscar-winning and co-star Ben Hardesty, also fea...",
+      "snapshot": "Matthew McConaughey shows off his vocal skills with his latest role in The Rivals of Amziah King. On Friday, Lakeshore Records released the single and music video for \"Quill\" from the original motion picture soundtrack, performed by the Oscar-winning and co-star Ben Hardesty, also featuring Miranda Zickler, Angelina...",
+      "summary": "Matthew McConaughey shows off his vocal skills with his latest role in The Rivals of Amziah King. On Friday, Lakeshore Records released the single and music video for \"Quill\" from the original motion picture soundtrack, performed by the Oscar-winning and co-star Ben Hardesty, also featuring Miranda Zickler, Angelina...",
       "url": "https://deadline.com/2026/08/matthew-mcconaughey-performs-quill-rivals-amziah-king-watch-1237029525/",
       "source": "Deadline",
       "source_name": "Deadline",
@@ -599,8 +598,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-2848570908966483305",
-      "key": "film-23-2848570908966483305",
+      "id": "film-23-4803445346034901385",
+      "key": "film-23-4803445346034901385",
       "category": "Film",
       "label": "Film",
       "headline": "'Down the Arm of God': Caleb Landry Jones Project, Created With People Without Housing, Is a \"Conversation Starter, Not an Advocacy Film\"",
@@ -626,8 +625,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-1460599001586292640",
-      "key": "film-33-1460599001586292640",
+      "id": "film-33-2704367756502191454",
+      "key": "film-33-2704367756502191454",
       "category": "Film",
       "label": "Film",
       "headline": "Our favorite memories at the movies - The Verge",
@@ -653,8 +652,8 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-5801422968503850447",
-      "key": "music-11-5801422968503850447",
+      "id": "music-11-2041472074393053576",
+      "key": "music-11-2041472074393053576",
       "category": "Music",
       "label": "Music",
       "headline": "Baker Boy Takes Album, Song and Film Clip of the Year at 2026 NIMAs",
@@ -680,8 +679,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-1768786672748052804",
-      "key": "gaming-1-1768786672748052804",
+      "id": "gaming-1-1501365106172648554",
+      "key": "gaming-1-1501365106172648554",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027",
@@ -709,22 +708,22 @@
   ],
   "editor_signals": [
     {
-      "id": "film-2-234318067584877845",
-      "key": "film-2-234318067584877845",
+      "id": "film-2-2663355913518795420",
+      "key": "film-2-2663355913518795420",
       "category": "Film",
       "label": "Film",
-      "headline": "Locarno Sufi Trance Doc 'As Light as Air' Director Umair Bilal on Surrendering to a Pakistani Shrine Town: 'I Became Part of Its Rhythm'",
-      "title": "Locarno Sufi Trance Doc 'As Light as Air' Director Umair Bilal on Surrendering to a Pakistani Shrine Town: 'I Became Part of Its Rhythm'",
-      "snapshot": "Umair Bilal spent months in Sehwan, Pakistan, trying to direct a documentary. Then he gave up. \"Every time I tried to impose that logic onto Sehwan, it felt like I was working against the place rather than with it,\" the Pakistani filmmaker tells Variety of his debut feature, \"As Light as Air,\" which premieres in […]",
-      "summary": "Umair Bilal spent months in Sehwan, Pakistan, trying to direct a documentary. Then he gave up. \"Every time I tried to impose that logic onto Sehwan, it felt like I was working against the place rather than with it,\" the Pakistani filmmaker tells Variety of his debut feature, \"As Light as Air,\" which premieres in […]",
-      "url": "https://variety.com/2026/film/festivals/sufi-trance-as-light-as-air-locarno-1236826269/",
+      "headline": "David Ellison Is Promising Theater Owners Contractual Guarantees for Paramount-Warner Bros. 30-Film Annual Slate. But What if Moviegoers Don't Care?",
+      "title": "David Ellison Is Promising Theater Owners Contractual Guarantees for Paramount-Warner Bros. 30-Film Annual Slate. But What if Moviegoers Don't Care?",
+      "snapshot": "There's no question that David Ellison, the doggedly ambitious CEO of Paramount Skydance, loves movies and filmmaking. In making his case for Paramount's eye-poppingly pricey megadeal to merge with Warner Bros., he has repeatedly pledged that the combined company will release a lot more movies - to the tune of at le...",
+      "summary": "There's no question that David Ellison, the doggedly ambitious CEO of Paramount Skydance, loves movies and filmmaking. In making his case for Paramount's eye-poppingly pricey megadeal to merge with Warner Bros., he has repeatedly pledged that the combined company will release a lot more movies - to the tune of at le...",
+      "url": "https://variety.com/2026/film/news/david-ellison-theater-owners-guarantee-30-movies-paramount-warner-bros-merger-1236830791/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-09 09:06:21 AM ET",
+      "published_at": "2026-08-09 09:49:29 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Locarno Sufi Trance Doc 'As Light as Air' Director Umair Bilal on Surrendering to a Pakistani Shrine Town: 'I Became Part of Its Rhythm'"
+        "David Ellison Is Promising Theater Owners Contractual Guarantees for Paramount-Warner Bros. 30-Film Annual Slate. But What if Moviegoers Don't Care?"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -736,8 +735,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-6550634697476222700",
-      "key": "film-12-6550634697476222700",
+      "id": "film-12-4433811088665268185",
+      "key": "film-12-4433811088665268185",
       "category": "Film",
       "label": "Film",
       "headline": "Jane Schoenbrun On Deconstructing The \"Toxic Soup\" Of The Slasher Genre In 'Teenage Sex & Death at Camp Miasma': \"It's There In The DNA\"",
@@ -763,8 +762,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-2449146841951981607",
-      "key": "film-24-2449146841951981607",
+      "id": "film-24-9127229115582988542",
+      "key": "film-24-9127229115582988542",
       "category": "Film",
       "label": "Film",
       "headline": "James Gray Says Actors \"Dictate the Style\" of Films and Explains Why, When People Talk in a Cinema, \"You Want to Kill Them\"",
@@ -790,8 +789,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-9052316248387776637",
-      "key": "film-34-9052316248387776637",
+      "id": "film-34-7853870431763104288",
+      "key": "film-34-7853870431763104288",
       "category": "Film",
       "label": "Film",
       "headline": "The 35 best sci-fi movies of all time (August 2026) - Entertainment Weekly",
@@ -817,8 +816,8 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-5114459280317429565",
-      "key": "music-12-5114459280317429565",
+      "id": "music-12-8217649023917418622",
+      "key": "music-12-8217649023917418622",
       "category": "Music",
       "label": "Music",
       "headline": "aespa Kicks Off SYNK : COMPLæXITY Tour in Seoul: 6 Best Moments",
@@ -844,8 +843,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-7298988004861775997",
-      "key": "gaming-2-7298988004861775997",
+      "id": "gaming-2-5597117963865310066",
+      "key": "gaming-2-5597117963865310066",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "'They Fundamentally Don't Understand Art' - Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs",
@@ -871,22 +870,22 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-7922843841226231522",
-      "key": "film-3-7922843841226231522",
+      "id": "film-3-1653804782003069504",
+      "key": "film-3-1653804782003069504",
       "category": "Film",
       "label": "Film",
-      "headline": "'Our Time Will Come' Review: Two Orphans Journey to Accra to Find Their Kin in an Emotionally Absorbing Ghanaian Drama",
-      "title": "'Our Time Will Come' Review: Two Orphans Journey to Accra to Find Their Kin in an Emotionally Absorbing Ghanaian Drama",
-      "snapshot": "Elements of \"Oliver Twist\" are given a West African update in \"Our Time Will Come,\" an atmospheric and emotionally absorbing feature debut from writer-director Amartei Armar, who thankfully cares too much for his orphaned characters to torture them (and us) with unending miserabilism. Beginning as a road trip, then...",
-      "summary": "Elements of \"Oliver Twist\" are given a West African update in \"Our Time Will Come,\" an atmospheric and emotionally absorbing feature debut from writer-director Amartei Armar, who thankfully cares too much for his orphaned characters to torture them (and us) with unending miserabilism. Beginning as a road trip, then...",
-      "url": "https://variety.com/2026/film/reviews/our-time-will-come-review-1236830797/",
+      "headline": "Locarno Sufi Trance Doc 'As Light as Air' Director Umair Bilal on Surrendering to a Pakistani Shrine Town: 'I Became Part of Its Rhythm'",
+      "title": "Locarno Sufi Trance Doc 'As Light as Air' Director Umair Bilal on Surrendering to a Pakistani Shrine Town: 'I Became Part of Its Rhythm'",
+      "snapshot": "Umair Bilal spent months in Sehwan, Pakistan, trying to direct a documentary. Then he gave up. \"Every time I tried to impose that logic onto Sehwan, it felt like I was working against the place rather than with it,\" the Pakistani filmmaker tells Variety of his debut feature, \"As Light as Air,\" which premieres in […]",
+      "summary": "Umair Bilal spent months in Sehwan, Pakistan, trying to direct a documentary. Then he gave up. \"Every time I tried to impose that logic onto Sehwan, it felt like I was working against the place rather than with it,\" the Pakistani filmmaker tells Variety of his debut feature, \"As Light as Air,\" which premieres in […]",
+      "url": "https://variety.com/2026/film/festivals/sufi-trance-as-light-as-air-locarno-1236826269/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-09 08:49:23 AM ET",
+      "published_at": "2026-08-09 09:06:21 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Our Time Will Come' Review: Two Orphans Journey to Accra to Find Their Kin in an Emotionally Absorbing Ghanaian Drama"
+        "Locarno Sufi Trance Doc 'As Light as Air' Director Umair Bilal on Surrendering to a Pakistani Shrine Town: 'I Became Part of Its Rhythm'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -898,8 +897,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-4174259439431186968",
-      "key": "film-13-4174259439431186968",
+      "id": "film-13-3470021690422804062",
+      "key": "film-13-3470021690422804062",
       "category": "Film",
       "label": "Film",
       "headline": "Dwayne Johnson Reacts To Live-Action 'Moana's Negative Reviews: \"Just The Way It Goes\"",
@@ -925,8 +924,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-876809572935236744",
-      "key": "film-25-876809572935236744",
+      "id": "film-25-8847209483339809030",
+      "key": "film-25-8847209483339809030",
       "category": "Film",
       "label": "Film",
       "headline": "Luca Guadagnino Explains Why He Just Had to Produce Giovanni Tortorici's Coming-of-Age Drama 'Ketticè' in a \"Sterile\" Italian Film Landscape",
@@ -952,8 +951,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-7345559475459381680",
-      "key": "film-35-7345559475459381680",
+      "id": "film-35-3996804968027016642",
+      "key": "film-35-3996804968027016642",
       "category": "Film",
       "label": "Film",
       "headline": "Everything to know about 'Madden,' a new movie coming to Prime Video November 18 - About Amazon",
@@ -979,8 +978,8 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-8840106684299754623",
-      "key": "music-13-8840106684299754623",
+      "id": "music-13-4769698363766028746",
+      "key": "music-13-4769698363766028746",
       "category": "Music",
       "label": "Music",
       "headline": "Get Beats Earbuds for Just $69 As Part of This Back to School Deal",
@@ -1006,8 +1005,8 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-5100800766151760727",
-      "key": "gaming-3-5100800766151760727",
+      "id": "gaming-3-7085742060104301655",
+      "key": "gaming-3-7085742060104301655",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The Best Deals Today: AirPods Pro 3, LEGO Back to the Future, Saros, and More",
@@ -1035,22 +1034,22 @@
   ],
   "homepage_cards": [
     {
-      "id": "film-0-4065330844258969042",
-      "key": "film-0-4065330844258969042",
+      "id": "film-0-7889178871524545160",
+      "key": "film-0-7889178871524545160",
       "category": "Film",
       "label": "Film",
-      "headline": "Protest at the Locarno Film Festival Remembers 60,000 Names of the Dead of Gaza",
-      "title": "Protest at the Locarno Film Festival Remembers 60,000 Names of the Dead of Gaza",
-      "snapshot": "Locarno became the latest film festival to see protests at the continuing situation in Gaza and Palestine's Occupied Territories. While music from the Campari Lounge boomed into the evening, approximately 100 demonstrators unwound a shroud bearing the names of 60,000 people who have been killed in Gaza since the beg...",
-      "summary": "Locarno became the latest film festival to see protests at the continuing situation in Gaza and Palestine's Occupied Territories. While music from the Campari Lounge boomed into the evening, approximately 100 demonstrators unwound a shroud bearing the names of 60,000 people who have been killed in Gaza since the beg...",
-      "url": "https://variety.com/2026/film/global/gaza-protest-locarno-film-festival-palestine-israel-1236830809/",
+      "headline": "Box Office: 'Spider-Man: Brand New Day' Flies to Third-Biggest Second Weekend of All Time With $145 Million",
+      "title": "Box Office: 'Spider-Man: Brand New Day' Flies to Third-Biggest Second Weekend of All Time With $145 Million",
+      "snapshot": "\"Spider-Man: Brand New Day\" is continuing its unparalleled box office run, scoring another $145 million domestically during its second weekend in theaters. Just to put those stratospheric ticket sales in context, only one movie this year - \"Toy Story 5\" - earned around that much in its opening weekend, with Disney's...",
+      "summary": "\"Spider-Man: Brand New Day\" is continuing its unparalleled box office run, scoring another $145 million domestically during its second weekend in theaters. Just to put those stratospheric ticket sales in context, only one movie this year - \"Toy Story 5\" - earned around that much in its opening weekend, with Disney's...",
+      "url": "https://variety.com/2026/film/box-office/spiderman-brand-new-day-box-office-near-record-second-weekend-1236830807/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-09 09:59:48 AM ET",
+      "published_at": "2026-08-09 11:08:04 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Protest at the Locarno Film Festival Remembers 60,000 Names of the Dead of Gaza"
+        "Box Office: 'Spider-Man: Brand New Day' Flies to Third-Biggest Second Weekend of All Time With $145 Million"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1062,8 +1061,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-2600781373103651348",
-      "key": "film-10-2600781373103651348",
+      "id": "film-10-3504610641685700914",
+      "key": "film-10-3504610641685700914",
       "category": "Film",
       "label": "Film",
       "headline": "James Gray Talks Dream Quality Of Cinema & Approach With Cast: \"I'm Not A Good Director Of Actors\" - Locarno",
@@ -1089,8 +1088,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-2517118466300639224",
-      "key": "film-22-2517118466300639224",
+      "id": "film-22-8897659720702256094",
+      "key": "film-22-8897659720702256094",
       "category": "Film",
       "label": "Film",
       "headline": "'The Odyssey' Makes History as Christopher Nolan's Top-Grossing Movie Ever, Beating 'Dark Knight Rises'",
@@ -1116,8 +1115,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-1975353712602543969",
-      "key": "film-32-1975353712602543969",
+      "id": "film-32-6332877895908054475",
+      "key": "film-32-6332877895908054475",
       "category": "Film",
       "label": "Film",
       "headline": "30 Years Ago Today: 1996 Film, Named One of Robin Williams' Worst Movies, Was Released - Men's Journal",
@@ -1143,8 +1142,8 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-3376882075337554396",
-      "key": "music-10-3376882075337554396",
+      "id": "music-10-3974903247660585761",
+      "key": "music-10-3974903247660585761",
       "category": "Music",
       "label": "Music",
       "headline": "Joe Jonas Says He Sought Therapy After His Solo Album Underperformed",
@@ -1170,8 +1169,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-4229208247386844834",
-      "key": "gaming-0-4229208247386844834",
+      "id": "gaming-0-5311805722535820945",
+      "key": "gaming-0-5311805722535820945",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "'If You're Not a Netflix Subscriber, You Definitely Should Be' - Take-Two Boss Teases Grand Theft Auto VI: An Extended Look",
@@ -1197,22 +1196,22 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-8044167656041183239",
-      "key": "film-1-8044167656041183239",
+      "id": "film-1-12081836087548597",
+      "key": "film-1-12081836087548597",
       "category": "Film",
       "label": "Film",
-      "headline": "David Ellison Is Promising Theater Owners Contractual Guarantees for Paramount-Warner Bros. 30-Film Annual Slate. But What if Moviegoers Don't Care?",
-      "title": "David Ellison Is Promising Theater Owners Contractual Guarantees for Paramount-Warner Bros. 30-Film Annual Slate. But What if Moviegoers Don't Care?",
-      "snapshot": "There's no question that David Ellison, the doggedly ambitious CEO of Paramount Skydance, loves movies and filmmaking. In making his case for Paramount's eye-poppingly pricey megadeal to merge with Warner Bros., he has repeatedly pledged that the combined company will release a lot more movies - to the tune of at le...",
-      "summary": "There's no question that David Ellison, the doggedly ambitious CEO of Paramount Skydance, loves movies and filmmaking. In making his case for Paramount's eye-poppingly pricey megadeal to merge with Warner Bros., he has repeatedly pledged that the combined company will release a lot more movies - to the tune of at le...",
-      "url": "https://variety.com/2026/film/news/david-ellison-theater-owners-guarantee-30-movies-paramount-warner-bros-merger-1236830791/",
+      "headline": "Protest at the Locarno Film Festival Remembers 60,000 Names of the Dead of Gaza",
+      "title": "Protest at the Locarno Film Festival Remembers 60,000 Names of the Dead of Gaza",
+      "snapshot": "Locarno became the latest film festival to see protests at the continuing situation in Gaza and Palestine's Occupied Territories. While music from the Campari Lounge boomed into the evening, approximately 100 demonstrators unwound a shroud bearing the names of 60,000 people who have been killed in Gaza since the beg...",
+      "summary": "Locarno became the latest film festival to see protests at the continuing situation in Gaza and Palestine's Occupied Territories. While music from the Campari Lounge boomed into the evening, approximately 100 demonstrators unwound a shroud bearing the names of 60,000 people who have been killed in Gaza since the beg...",
+      "url": "https://variety.com/2026/film/global/gaza-protest-locarno-film-festival-palestine-israel-1236830809/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-09 09:49:29 AM ET",
+      "published_at": "2026-08-09 09:59:48 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "David Ellison Is Promising Theater Owners Contractual Guarantees for Paramount-Warner Bros. 30-Film Annual Slate. But What if Moviegoers Don't Care?"
+        "Protest at the Locarno Film Festival Remembers 60,000 Names of the Dead of Gaza"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1224,14 +1223,14 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-1491139532496393029",
-      "key": "film-11-1491139532496393029",
+      "id": "film-11-3313610559146280429",
+      "key": "film-11-3313610559146280429",
       "category": "Film",
       "label": "Film",
       "headline": "Matthew McConaughey Performs \"Quill\" In Scene From 'The Rivals of Amziah King' - Watch",
       "title": "Matthew McConaughey Performs \"Quill\" In Scene From 'The Rivals of Amziah King' - Watch",
-      "snapshot": "Matthew McConaughey shows off his vocal skills (and some hidden banjo talents) with his latest role in The Rivals of Amziah King. On Friday, Lakeshore Records released the single and music video for \"Quill\" from the original motion picture soundtrack, performed by the Oscar-winning and co-star Ben Hardesty, also fea...",
-      "summary": "Matthew McConaughey shows off his vocal skills (and some hidden banjo talents) with his latest role in The Rivals of Amziah King. On Friday, Lakeshore Records released the single and music video for \"Quill\" from the original motion picture soundtrack, performed by the Oscar-winning and co-star Ben Hardesty, also fea...",
+      "snapshot": "Matthew McConaughey shows off his vocal skills with his latest role in The Rivals of Amziah King. On Friday, Lakeshore Records released the single and music video for \"Quill\" from the original motion picture soundtrack, performed by the Oscar-winning and co-star Ben Hardesty, also featuring Miranda Zickler, Angelina...",
+      "summary": "Matthew McConaughey shows off his vocal skills with his latest role in The Rivals of Amziah King. On Friday, Lakeshore Records released the single and music video for \"Quill\" from the original motion picture soundtrack, performed by the Oscar-winning and co-star Ben Hardesty, also featuring Miranda Zickler, Angelina...",
       "url": "https://deadline.com/2026/08/matthew-mcconaughey-performs-quill-rivals-amziah-king-watch-1237029525/",
       "source": "Deadline",
       "source_name": "Deadline",
@@ -1251,8 +1250,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-2848570908966483305",
-      "key": "film-23-2848570908966483305",
+      "id": "film-23-4803445346034901385",
+      "key": "film-23-4803445346034901385",
       "category": "Film",
       "label": "Film",
       "headline": "'Down the Arm of God': Caleb Landry Jones Project, Created With People Without Housing, Is a \"Conversation Starter, Not an Advocacy Film\"",
@@ -1278,8 +1277,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-1460599001586292640",
-      "key": "film-33-1460599001586292640",
+      "id": "film-33-2704367756502191454",
+      "key": "film-33-2704367756502191454",
       "category": "Film",
       "label": "Film",
       "headline": "Our favorite memories at the movies - The Verge",
@@ -1305,8 +1304,8 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-5801422968503850447",
-      "key": "music-11-5801422968503850447",
+      "id": "music-11-2041472074393053576",
+      "key": "music-11-2041472074393053576",
       "category": "Music",
       "label": "Music",
       "headline": "Baker Boy Takes Album, Song and Film Clip of the Year at 2026 NIMAs",
@@ -1332,8 +1331,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-1768786672748052804",
-      "key": "gaming-1-1768786672748052804",
+      "id": "gaming-1-1501365106172648554",
+      "key": "gaming-1-1501365106172648554",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027",
@@ -1359,22 +1358,22 @@
       "priority_score": 99
     },
     {
-      "id": "film-2-234318067584877845",
-      "key": "film-2-234318067584877845",
+      "id": "film-2-2663355913518795420",
+      "key": "film-2-2663355913518795420",
       "category": "Film",
       "label": "Film",
-      "headline": "Locarno Sufi Trance Doc 'As Light as Air' Director Umair Bilal on Surrendering to a Pakistani Shrine Town: 'I Became Part of Its Rhythm'",
-      "title": "Locarno Sufi Trance Doc 'As Light as Air' Director Umair Bilal on Surrendering to a Pakistani Shrine Town: 'I Became Part of Its Rhythm'",
-      "snapshot": "Umair Bilal spent months in Sehwan, Pakistan, trying to direct a documentary. Then he gave up. \"Every time I tried to impose that logic onto Sehwan, it felt like I was working against the place rather than with it,\" the Pakistani filmmaker tells Variety of his debut feature, \"As Light as Air,\" which premieres in […]",
-      "summary": "Umair Bilal spent months in Sehwan, Pakistan, trying to direct a documentary. Then he gave up. \"Every time I tried to impose that logic onto Sehwan, it felt like I was working against the place rather than with it,\" the Pakistani filmmaker tells Variety of his debut feature, \"As Light as Air,\" which premieres in […]",
-      "url": "https://variety.com/2026/film/festivals/sufi-trance-as-light-as-air-locarno-1236826269/",
+      "headline": "David Ellison Is Promising Theater Owners Contractual Guarantees for Paramount-Warner Bros. 30-Film Annual Slate. But What if Moviegoers Don't Care?",
+      "title": "David Ellison Is Promising Theater Owners Contractual Guarantees for Paramount-Warner Bros. 30-Film Annual Slate. But What if Moviegoers Don't Care?",
+      "snapshot": "There's no question that David Ellison, the doggedly ambitious CEO of Paramount Skydance, loves movies and filmmaking. In making his case for Paramount's eye-poppingly pricey megadeal to merge with Warner Bros., he has repeatedly pledged that the combined company will release a lot more movies - to the tune of at le...",
+      "summary": "There's no question that David Ellison, the doggedly ambitious CEO of Paramount Skydance, loves movies and filmmaking. In making his case for Paramount's eye-poppingly pricey megadeal to merge with Warner Bros., he has repeatedly pledged that the combined company will release a lot more movies - to the tune of at le...",
+      "url": "https://variety.com/2026/film/news/david-ellison-theater-owners-guarantee-30-movies-paramount-warner-bros-merger-1236830791/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-09 09:06:21 AM ET",
+      "published_at": "2026-08-09 09:49:29 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Locarno Sufi Trance Doc 'As Light as Air' Director Umair Bilal on Surrendering to a Pakistani Shrine Town: 'I Became Part of Its Rhythm'"
+        "David Ellison Is Promising Theater Owners Contractual Guarantees for Paramount-Warner Bros. 30-Film Annual Slate. But What if Moviegoers Don't Care?"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1386,8 +1385,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-6550634697476222700",
-      "key": "film-12-6550634697476222700",
+      "id": "film-12-4433811088665268185",
+      "key": "film-12-4433811088665268185",
       "category": "Film",
       "label": "Film",
       "headline": "Jane Schoenbrun On Deconstructing The \"Toxic Soup\" Of The Slasher Genre In 'Teenage Sex & Death at Camp Miasma': \"It's There In The DNA\"",
@@ -1413,8 +1412,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-2449146841951981607",
-      "key": "film-24-2449146841951981607",
+      "id": "film-24-9127229115582988542",
+      "key": "film-24-9127229115582988542",
       "category": "Film",
       "label": "Film",
       "headline": "James Gray Says Actors \"Dictate the Style\" of Films and Explains Why, When People Talk in a Cinema, \"You Want to Kill Them\"",
@@ -1440,8 +1439,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-9052316248387776637",
-      "key": "film-34-9052316248387776637",
+      "id": "film-34-7853870431763104288",
+      "key": "film-34-7853870431763104288",
       "category": "Film",
       "label": "Film",
       "headline": "The 35 best sci-fi movies of all time (August 2026) - Entertainment Weekly",
@@ -1467,8 +1466,8 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-5114459280317429565",
-      "key": "music-12-5114459280317429565",
+      "id": "music-12-8217649023917418622",
+      "key": "music-12-8217649023917418622",
       "category": "Music",
       "label": "Music",
       "headline": "aespa Kicks Off SYNK : COMPLæXITY Tour in Seoul: 6 Best Moments",
@@ -1494,8 +1493,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-7298988004861775997",
-      "key": "gaming-2-7298988004861775997",
+      "id": "gaming-2-5597117963865310066",
+      "key": "gaming-2-5597117963865310066",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "'They Fundamentally Don't Understand Art' - Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs",
@@ -1521,22 +1520,22 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-7922843841226231522",
-      "key": "film-3-7922843841226231522",
+      "id": "film-3-1653804782003069504",
+      "key": "film-3-1653804782003069504",
       "category": "Film",
       "label": "Film",
-      "headline": "'Our Time Will Come' Review: Two Orphans Journey to Accra to Find Their Kin in an Emotionally Absorbing Ghanaian Drama",
-      "title": "'Our Time Will Come' Review: Two Orphans Journey to Accra to Find Their Kin in an Emotionally Absorbing Ghanaian Drama",
-      "snapshot": "Elements of \"Oliver Twist\" are given a West African update in \"Our Time Will Come,\" an atmospheric and emotionally absorbing feature debut from writer-director Amartei Armar, who thankfully cares too much for his orphaned characters to torture them (and us) with unending miserabilism. Beginning as a road trip, then...",
-      "summary": "Elements of \"Oliver Twist\" are given a West African update in \"Our Time Will Come,\" an atmospheric and emotionally absorbing feature debut from writer-director Amartei Armar, who thankfully cares too much for his orphaned characters to torture them (and us) with unending miserabilism. Beginning as a road trip, then...",
-      "url": "https://variety.com/2026/film/reviews/our-time-will-come-review-1236830797/",
+      "headline": "Locarno Sufi Trance Doc 'As Light as Air' Director Umair Bilal on Surrendering to a Pakistani Shrine Town: 'I Became Part of Its Rhythm'",
+      "title": "Locarno Sufi Trance Doc 'As Light as Air' Director Umair Bilal on Surrendering to a Pakistani Shrine Town: 'I Became Part of Its Rhythm'",
+      "snapshot": "Umair Bilal spent months in Sehwan, Pakistan, trying to direct a documentary. Then he gave up. \"Every time I tried to impose that logic onto Sehwan, it felt like I was working against the place rather than with it,\" the Pakistani filmmaker tells Variety of his debut feature, \"As Light as Air,\" which premieres in […]",
+      "summary": "Umair Bilal spent months in Sehwan, Pakistan, trying to direct a documentary. Then he gave up. \"Every time I tried to impose that logic onto Sehwan, it felt like I was working against the place rather than with it,\" the Pakistani filmmaker tells Variety of his debut feature, \"As Light as Air,\" which premieres in […]",
+      "url": "https://variety.com/2026/film/festivals/sufi-trance-as-light-as-air-locarno-1236826269/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-09 08:49:23 AM ET",
+      "published_at": "2026-08-09 09:06:21 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Our Time Will Come' Review: Two Orphans Journey to Accra to Find Their Kin in an Emotionally Absorbing Ghanaian Drama"
+        "Locarno Sufi Trance Doc 'As Light as Air' Director Umair Bilal on Surrendering to a Pakistani Shrine Town: 'I Became Part of Its Rhythm'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1548,8 +1547,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-4174259439431186968",
-      "key": "film-13-4174259439431186968",
+      "id": "film-13-3470021690422804062",
+      "key": "film-13-3470021690422804062",
       "category": "Film",
       "label": "Film",
       "headline": "Dwayne Johnson Reacts To Live-Action 'Moana's Negative Reviews: \"Just The Way It Goes\"",
@@ -1575,8 +1574,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-876809572935236744",
-      "key": "film-25-876809572935236744",
+      "id": "film-25-8847209483339809030",
+      "key": "film-25-8847209483339809030",
       "category": "Film",
       "label": "Film",
       "headline": "Luca Guadagnino Explains Why He Just Had to Produce Giovanni Tortorici's Coming-of-Age Drama 'Ketticè' in a \"Sterile\" Italian Film Landscape",
@@ -1602,8 +1601,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-7345559475459381680",
-      "key": "film-35-7345559475459381680",
+      "id": "film-35-3996804968027016642",
+      "key": "film-35-3996804968027016642",
       "category": "Film",
       "label": "Film",
       "headline": "Everything to know about 'Madden,' a new movie coming to Prime Video November 18 - About Amazon",
@@ -1629,8 +1628,8 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-8840106684299754623",
-      "key": "music-13-8840106684299754623",
+      "id": "music-13-4769698363766028746",
+      "key": "music-13-4769698363766028746",
       "category": "Music",
       "label": "Music",
       "headline": "Get Beats Earbuds for Just $69 As Part of This Back to School Deal",
@@ -1656,8 +1655,8 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-5100800766151760727",
-      "key": "gaming-3-5100800766151760727",
+      "id": "gaming-3-7085742060104301655",
+      "key": "gaming-3-7085742060104301655",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The Best Deals Today: AirPods Pro 3, LEGO Back to the Future, Saros, and More",
@@ -1688,46 +1687,46 @@
       "key": "film",
       "name": "Film",
       "title": "Film Report",
-      "headline": "Protest at the Locarno Film Festival Remembers 60,000 Names of the Dead of Gaza",
+      "headline": "Box Office: ‘Spider-Man: Brand New Day’ Flies to Third-Biggest Second Weekend of All Time With $145 Million",
       "snapshot": "Film coverage is updating with 8 current RSS headline item(s).",
       "key_storylines": [
-        "Protest at the Locarno Film Festival Remembers 60,000 Names of the Dead of Gaza",
+        "Box Office: ‘Spider-Man: Brand New Day’ Flies to Third-Biggest Second Weekend of All Time With $145 Million",
         "James Gray Talks Dream Quality Of Cinema & Approach With Cast: “I’m Not A Good Director Of Actors” – Locarno",
         "‘The Odyssey’ Makes History as Christopher Nolan’s Top-Grossing Movie Ever, Beating ‘Dark Knight Rises’",
         "30 Years Ago Today: 1996 Film, Named One of Robin Williams’ Worst Movies, Was Released - Men's Journal",
-        "David Ellison Is Promising Theater Owners Contractual Guarantees for Paramount-Warner Bros. 30-Film Annual Slate. But What if Moviegoers Don’t Care?"
+        "Protest at the Locarno Film Festival Remembers 60,000 Names of the Dead of Gaza"
       ],
       "watch_list": [
-        "Protest at the Locarno Film Festival Remembers 60,000 Names of the Dead of Gaza",
+        "Box Office: ‘Spider-Man: Brand New Day’ Flies to Third-Biggest Second Weekend of All Time With $145 Million",
         "James Gray Talks Dream Quality Of Cinema & Approach With Cast: “I’m Not A Good Director Of Actors” – Locarno",
         "‘The Odyssey’ Makes History as Christopher Nolan’s Top-Grossing Movie Ever, Beating ‘Dark Knight Rises’",
         "30 Years Ago Today: 1996 Film, Named One of Robin Williams’ Worst Movies, Was Released - Men's Journal",
-        "David Ellison Is Promising Theater Owners Contractual Guarantees for Paramount-Warner Bros. 30-Film Annual Slate. But What if Moviegoers Don’t Care?",
+        "Protest at the Locarno Film Festival Remembers 60,000 Names of the Dead of Gaza",
         "Matthew McConaughey Performs “Quill” In Scene From ‘The Rivals of Amziah King’ — Watch",
         "‘Down the Arm of God’: Caleb Landry Jones Project, Created With People Without Housing, Is a “Conversation Starter, Not an Advocacy Film”",
         "Our favorite memories at the movies - The Verge"
       ],
       "homepage_cards": [
         {
-          "id": "film-0-4065330844258969042",
-          "key": "film-0-4065330844258969042",
+          "id": "film-0-7889178871524545160",
+          "key": "film-0-7889178871524545160",
           "category": "Film",
           "label": "Film",
-          "headline": "Protest at the Locarno Film Festival Remembers 60,000 Names of the Dead of Gaza",
-          "title": "Protest at the Locarno Film Festival Remembers 60,000 Names of the Dead of Gaza",
-          "snapshot": "Locarno became the latest film festival to see protests at the continuing situation in Gaza and Palestine’s Occupied Territories. While music from the Campari Lounge boomed into the evening, approximately 100 demonstrators unwound a shroud bearing the names of 60,000 people who have been killed in Gaza since the beg...",
-          "summary": "Locarno became the latest film festival to see protests at the continuing situation in Gaza and Palestine’s Occupied Territories. While music from the Campari Lounge boomed into the evening, approximately 100 demonstrators unwound a shroud bearing the names of 60,000 people who have been killed in Gaza since the beg...",
-          "url": "https://variety.com/2026/film/global/gaza-protest-locarno-film-festival-palestine-israel-1236830809/",
+          "headline": "Box Office: ‘Spider-Man: Brand New Day’ Flies to Third-Biggest Second Weekend of All Time With $145 Million",
+          "title": "Box Office: ‘Spider-Man: Brand New Day’ Flies to Third-Biggest Second Weekend of All Time With $145 Million",
+          "snapshot": "“Spider-Man: Brand New Day” is continuing its unparalleled box office run, scoring another $145 million domestically during its second weekend in theaters. Just to put those stratospheric ticket sales in context, only one movie this year — “Toy Story 5” — earned around that much in its opening weekend, with Disney’s...",
+          "summary": "“Spider-Man: Brand New Day” is continuing its unparalleled box office run, scoring another $145 million domestically during its second weekend in theaters. Just to put those stratospheric ticket sales in context, only one movie this year — “Toy Story 5” — earned around that much in its opening weekend, with Disney’s...",
+          "url": "https://variety.com/2026/film/box-office/spiderman-brand-new-day-box-office-near-record-second-weekend-1236830807/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/feed/",
-          "published_at": "2026-08-09 09:59:48 AM ET",
+          "published_at": "2026-08-09 11:08:04 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Protest at the Locarno Film Festival Remembers 60,000 Names of the Dead of Gaza"
+            "Box Office: ‘Spider-Man: Brand New Day’ Flies to Third-Biggest Second Weekend of All Time With $145 Million"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1737,8 +1736,8 @@
           ]
         },
         {
-          "id": "film-10-2600781373103651348",
-          "key": "film-10-2600781373103651348",
+          "id": "film-10-3504610641685700914",
+          "key": "film-10-3504610641685700914",
           "category": "Film",
           "label": "Film",
           "headline": "James Gray Talks Dream Quality Of Cinema & Approach With Cast: “I’m Not A Good Director Of Actors” – Locarno",
@@ -1765,8 +1764,8 @@
           ]
         },
         {
-          "id": "film-22-2517118466300639224",
-          "key": "film-22-2517118466300639224",
+          "id": "film-22-8897659720702256094",
+          "key": "film-22-8897659720702256094",
           "category": "Film",
           "label": "Film",
           "headline": "‘The Odyssey’ Makes History as Christopher Nolan’s Top-Grossing Movie Ever, Beating ‘Dark Knight Rises’",
@@ -1793,8 +1792,8 @@
           ]
         },
         {
-          "id": "film-32-1975353712602543969",
-          "key": "film-32-1975353712602543969",
+          "id": "film-32-6332877895908054475",
+          "key": "film-32-6332877895908054475",
           "category": "Film",
           "label": "Film",
           "headline": "30 Years Ago Today: 1996 Film, Named One of Robin Williams’ Worst Movies, Was Released - Men's Journal",
@@ -1821,25 +1820,25 @@
           ]
         },
         {
-          "id": "film-1-8044167656041183239",
-          "key": "film-1-8044167656041183239",
+          "id": "film-1-12081836087548597",
+          "key": "film-1-12081836087548597",
           "category": "Film",
           "label": "Film",
-          "headline": "David Ellison Is Promising Theater Owners Contractual Guarantees for Paramount-Warner Bros. 30-Film Annual Slate. But What if Moviegoers Don’t Care?",
-          "title": "David Ellison Is Promising Theater Owners Contractual Guarantees for Paramount-Warner Bros. 30-Film Annual Slate. But What if Moviegoers Don’t Care?",
-          "snapshot": "There’s no question that David Ellison, the doggedly ambitious CEO of Paramount Skydance, loves movies and filmmaking. In making his case for Paramount’s eye-poppingly pricey megadeal to merge with Warner Bros., he has repeatedly pledged that the combined company will release a lot more movies — to the tune of at le...",
-          "summary": "There’s no question that David Ellison, the doggedly ambitious CEO of Paramount Skydance, loves movies and filmmaking. In making his case for Paramount’s eye-poppingly pricey megadeal to merge with Warner Bros., he has repeatedly pledged that the combined company will release a lot more movies — to the tune of at le...",
-          "url": "https://variety.com/2026/film/news/david-ellison-theater-owners-guarantee-30-movies-paramount-warner-bros-merger-1236830791/",
+          "headline": "Protest at the Locarno Film Festival Remembers 60,000 Names of the Dead of Gaza",
+          "title": "Protest at the Locarno Film Festival Remembers 60,000 Names of the Dead of Gaza",
+          "snapshot": "Locarno became the latest film festival to see protests at the continuing situation in Gaza and Palestine’s Occupied Territories. While music from the Campari Lounge boomed into the evening, approximately 100 demonstrators unwound a shroud bearing the names of 60,000 people who have been killed in Gaza since the beg...",
+          "summary": "Locarno became the latest film festival to see protests at the continuing situation in Gaza and Palestine’s Occupied Territories. While music from the Campari Lounge boomed into the evening, approximately 100 demonstrators unwound a shroud bearing the names of 60,000 people who have been killed in Gaza since the beg...",
+          "url": "https://variety.com/2026/film/global/gaza-protest-locarno-film-festival-palestine-israel-1236830809/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/feed/",
-          "published_at": "2026-08-09 09:49:29 AM ET",
+          "published_at": "2026-08-09 09:59:48 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "David Ellison Is Promising Theater Owners Contractual Guarantees for Paramount-Warner Bros. 30-Film Annual Slate. But What if Moviegoers Don’t Care?"
+            "Protest at the Locarno Film Festival Remembers 60,000 Names of the Dead of Gaza"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1849,14 +1848,14 @@
           ]
         },
         {
-          "id": "film-11-1491139532496393029",
-          "key": "film-11-1491139532496393029",
+          "id": "film-11-3313610559146280429",
+          "key": "film-11-3313610559146280429",
           "category": "Film",
           "label": "Film",
           "headline": "Matthew McConaughey Performs “Quill” In Scene From ‘The Rivals of Amziah King’ — Watch",
           "title": "Matthew McConaughey Performs “Quill” In Scene From ‘The Rivals of Amziah King’ — Watch",
-          "snapshot": "Matthew McConaughey shows off his vocal skills (and some hidden banjo talents) with his latest role in The Rivals of Amziah King. On Friday, Lakeshore Records released the single and music video for “Quill” from the original motion picture soundtrack, performed by the Oscar-winning and co-star Ben Hardesty, also fea...",
-          "summary": "Matthew McConaughey shows off his vocal skills (and some hidden banjo talents) with his latest role in The Rivals of Amziah King. On Friday, Lakeshore Records released the single and music video for “Quill” from the original motion picture soundtrack, performed by the Oscar-winning and co-star Ben Hardesty, also fea...",
+          "snapshot": "Matthew McConaughey shows off his vocal skills with his latest role in The Rivals of Amziah King. On Friday, Lakeshore Records released the single and music video for “Quill” from the original motion picture soundtrack, performed by the Oscar-winning and co-star Ben Hardesty, also featuring Miranda Zickler, Angelina...",
+          "summary": "Matthew McConaughey shows off his vocal skills with his latest role in The Rivals of Amziah King. On Friday, Lakeshore Records released the single and music video for “Quill” from the original motion picture soundtrack, performed by the Oscar-winning and co-star Ben Hardesty, also featuring Miranda Zickler, Angelina...",
           "url": "https://deadline.com/2026/08/matthew-mcconaughey-performs-quill-rivals-amziah-king-watch-1237029525/",
           "source": "Deadline",
           "source_name": "Deadline",
@@ -1877,8 +1876,8 @@
           ]
         },
         {
-          "id": "film-23-2848570908966483305",
-          "key": "film-23-2848570908966483305",
+          "id": "film-23-4803445346034901385",
+          "key": "film-23-4803445346034901385",
           "category": "Film",
           "label": "Film",
           "headline": "‘Down the Arm of God’: Caleb Landry Jones Project, Created With People Without Housing, Is a “Conversation Starter, Not an Advocacy Film”",
@@ -1905,8 +1904,8 @@
           ]
         },
         {
-          "id": "film-33-1460599001586292640",
-          "key": "film-33-1460599001586292640",
+          "id": "film-33-2704367756502191454",
+          "key": "film-33-2704367756502191454",
           "category": "Film",
           "label": "Film",
           "headline": "Our favorite memories at the movies - The Verge",
@@ -1935,25 +1934,25 @@
       ],
       "items": [
         {
-          "id": "film-0-4065330844258969042",
-          "key": "film-0-4065330844258969042",
+          "id": "film-0-7889178871524545160",
+          "key": "film-0-7889178871524545160",
           "category": "Film",
           "label": "Film",
-          "headline": "Protest at the Locarno Film Festival Remembers 60,000 Names of the Dead of Gaza",
-          "title": "Protest at the Locarno Film Festival Remembers 60,000 Names of the Dead of Gaza",
-          "snapshot": "Locarno became the latest film festival to see protests at the continuing situation in Gaza and Palestine’s Occupied Territories. While music from the Campari Lounge boomed into the evening, approximately 100 demonstrators unwound a shroud bearing the names of 60,000 people who have been killed in Gaza since the beg...",
-          "summary": "Locarno became the latest film festival to see protests at the continuing situation in Gaza and Palestine’s Occupied Territories. While music from the Campari Lounge boomed into the evening, approximately 100 demonstrators unwound a shroud bearing the names of 60,000 people who have been killed in Gaza since the beg...",
-          "url": "https://variety.com/2026/film/global/gaza-protest-locarno-film-festival-palestine-israel-1236830809/",
+          "headline": "Box Office: ‘Spider-Man: Brand New Day’ Flies to Third-Biggest Second Weekend of All Time With $145 Million",
+          "title": "Box Office: ‘Spider-Man: Brand New Day’ Flies to Third-Biggest Second Weekend of All Time With $145 Million",
+          "snapshot": "“Spider-Man: Brand New Day” is continuing its unparalleled box office run, scoring another $145 million domestically during its second weekend in theaters. Just to put those stratospheric ticket sales in context, only one movie this year — “Toy Story 5” — earned around that much in its opening weekend, with Disney’s...",
+          "summary": "“Spider-Man: Brand New Day” is continuing its unparalleled box office run, scoring another $145 million domestically during its second weekend in theaters. Just to put those stratospheric ticket sales in context, only one movie this year — “Toy Story 5” — earned around that much in its opening weekend, with Disney’s...",
+          "url": "https://variety.com/2026/film/box-office/spiderman-brand-new-day-box-office-near-record-second-weekend-1236830807/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/feed/",
-          "published_at": "2026-08-09 09:59:48 AM ET",
+          "published_at": "2026-08-09 11:08:04 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Protest at the Locarno Film Festival Remembers 60,000 Names of the Dead of Gaza"
+            "Box Office: ‘Spider-Man: Brand New Day’ Flies to Third-Biggest Second Weekend of All Time With $145 Million"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1963,8 +1962,8 @@
           ]
         },
         {
-          "id": "film-10-2600781373103651348",
-          "key": "film-10-2600781373103651348",
+          "id": "film-10-3504610641685700914",
+          "key": "film-10-3504610641685700914",
           "category": "Film",
           "label": "Film",
           "headline": "James Gray Talks Dream Quality Of Cinema & Approach With Cast: “I’m Not A Good Director Of Actors” – Locarno",
@@ -1991,8 +1990,8 @@
           ]
         },
         {
-          "id": "film-22-2517118466300639224",
-          "key": "film-22-2517118466300639224",
+          "id": "film-22-8897659720702256094",
+          "key": "film-22-8897659720702256094",
           "category": "Film",
           "label": "Film",
           "headline": "‘The Odyssey’ Makes History as Christopher Nolan’s Top-Grossing Movie Ever, Beating ‘Dark Knight Rises’",
@@ -2019,8 +2018,8 @@
           ]
         },
         {
-          "id": "film-32-1975353712602543969",
-          "key": "film-32-1975353712602543969",
+          "id": "film-32-6332877895908054475",
+          "key": "film-32-6332877895908054475",
           "category": "Film",
           "label": "Film",
           "headline": "30 Years Ago Today: 1996 Film, Named One of Robin Williams’ Worst Movies, Was Released - Men's Journal",
@@ -2047,25 +2046,25 @@
           ]
         },
         {
-          "id": "film-1-8044167656041183239",
-          "key": "film-1-8044167656041183239",
+          "id": "film-1-12081836087548597",
+          "key": "film-1-12081836087548597",
           "category": "Film",
           "label": "Film",
-          "headline": "David Ellison Is Promising Theater Owners Contractual Guarantees for Paramount-Warner Bros. 30-Film Annual Slate. But What if Moviegoers Don’t Care?",
-          "title": "David Ellison Is Promising Theater Owners Contractual Guarantees for Paramount-Warner Bros. 30-Film Annual Slate. But What if Moviegoers Don’t Care?",
-          "snapshot": "There’s no question that David Ellison, the doggedly ambitious CEO of Paramount Skydance, loves movies and filmmaking. In making his case for Paramount’s eye-poppingly pricey megadeal to merge with Warner Bros., he has repeatedly pledged that the combined company will release a lot more movies — to the tune of at le...",
-          "summary": "There’s no question that David Ellison, the doggedly ambitious CEO of Paramount Skydance, loves movies and filmmaking. In making his case for Paramount’s eye-poppingly pricey megadeal to merge with Warner Bros., he has repeatedly pledged that the combined company will release a lot more movies — to the tune of at le...",
-          "url": "https://variety.com/2026/film/news/david-ellison-theater-owners-guarantee-30-movies-paramount-warner-bros-merger-1236830791/",
+          "headline": "Protest at the Locarno Film Festival Remembers 60,000 Names of the Dead of Gaza",
+          "title": "Protest at the Locarno Film Festival Remembers 60,000 Names of the Dead of Gaza",
+          "snapshot": "Locarno became the latest film festival to see protests at the continuing situation in Gaza and Palestine’s Occupied Territories. While music from the Campari Lounge boomed into the evening, approximately 100 demonstrators unwound a shroud bearing the names of 60,000 people who have been killed in Gaza since the beg...",
+          "summary": "Locarno became the latest film festival to see protests at the continuing situation in Gaza and Palestine’s Occupied Territories. While music from the Campari Lounge boomed into the evening, approximately 100 demonstrators unwound a shroud bearing the names of 60,000 people who have been killed in Gaza since the beg...",
+          "url": "https://variety.com/2026/film/global/gaza-protest-locarno-film-festival-palestine-israel-1236830809/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/feed/",
-          "published_at": "2026-08-09 09:49:29 AM ET",
+          "published_at": "2026-08-09 09:59:48 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "David Ellison Is Promising Theater Owners Contractual Guarantees for Paramount-Warner Bros. 30-Film Annual Slate. But What if Moviegoers Don’t Care?"
+            "Protest at the Locarno Film Festival Remembers 60,000 Names of the Dead of Gaza"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2075,14 +2074,14 @@
           ]
         },
         {
-          "id": "film-11-1491139532496393029",
-          "key": "film-11-1491139532496393029",
+          "id": "film-11-3313610559146280429",
+          "key": "film-11-3313610559146280429",
           "category": "Film",
           "label": "Film",
           "headline": "Matthew McConaughey Performs “Quill” In Scene From ‘The Rivals of Amziah King’ — Watch",
           "title": "Matthew McConaughey Performs “Quill” In Scene From ‘The Rivals of Amziah King’ — Watch",
-          "snapshot": "Matthew McConaughey shows off his vocal skills (and some hidden banjo talents) with his latest role in The Rivals of Amziah King. On Friday, Lakeshore Records released the single and music video for “Quill” from the original motion picture soundtrack, performed by the Oscar-winning and co-star Ben Hardesty, also fea...",
-          "summary": "Matthew McConaughey shows off his vocal skills (and some hidden banjo talents) with his latest role in The Rivals of Amziah King. On Friday, Lakeshore Records released the single and music video for “Quill” from the original motion picture soundtrack, performed by the Oscar-winning and co-star Ben Hardesty, also fea...",
+          "snapshot": "Matthew McConaughey shows off his vocal skills with his latest role in The Rivals of Amziah King. On Friday, Lakeshore Records released the single and music video for “Quill” from the original motion picture soundtrack, performed by the Oscar-winning and co-star Ben Hardesty, also featuring Miranda Zickler, Angelina...",
+          "summary": "Matthew McConaughey shows off his vocal skills with his latest role in The Rivals of Amziah King. On Friday, Lakeshore Records released the single and music video for “Quill” from the original motion picture soundtrack, performed by the Oscar-winning and co-star Ben Hardesty, also featuring Miranda Zickler, Angelina...",
           "url": "https://deadline.com/2026/08/matthew-mcconaughey-performs-quill-rivals-amziah-king-watch-1237029525/",
           "source": "Deadline",
           "source_name": "Deadline",
@@ -2103,8 +2102,8 @@
           ]
         },
         {
-          "id": "film-23-2848570908966483305",
-          "key": "film-23-2848570908966483305",
+          "id": "film-23-4803445346034901385",
+          "key": "film-23-4803445346034901385",
           "category": "Film",
           "label": "Film",
           "headline": "‘Down the Arm of God’: Caleb Landry Jones Project, Created With People Without Housing, Is a “Conversation Starter, Not an Advocacy Film”",
@@ -2131,8 +2130,8 @@
           ]
         },
         {
-          "id": "film-33-1460599001586292640",
-          "key": "film-33-1460599001586292640",
+          "id": "film-33-2704367756502191454",
+          "key": "film-33-2704367756502191454",
           "category": "Film",
           "label": "Film",
           "headline": "Our favorite memories at the movies - The Verge",
@@ -2159,50 +2158,50 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 10:35:00 AM ET"
+      "updated_at": "2026-08-09 11:32:27 AM ET"
     },
     {
       "key": "tv",
       "name": "TV",
       "title": "TV Report",
-      "headline": "‘Abbott Elementary’ Stars Sheryl Lee Ralph and Janelle James on the Paramount-Warner Bros. Merger: ‘We’ve Lost Too Many People’",
+      "headline": "Perez Hilton ‘Will Require Surgery’ After Live Stream Incident, Family Demands Media ‘Cease Photographing Perez’s Children’",
       "snapshot": "TV coverage is updating with 6 current RSS headline item(s).",
       "key_storylines": [
-        "‘Abbott Elementary’ Stars Sheryl Lee Ralph and Janelle James on the Paramount-Warner Bros. Merger: ‘We’ve Lost Too Many People’",
+        "Perez Hilton ‘Will Require Surgery’ After Live Stream Incident, Family Demands Media ‘Cease Photographing Perez’s Children’",
         "Obama Blames Larry David For 2014 Tan Suit Debacle In ‘Life, Larry & the Pursuit of Unhappiness’ Finale",
         "‘Heated Rivalry’ Author Rachel Reid Pushes Back Against Season 2 Casting Criticism",
-        "‘Heated Rivalry’ Author Brushes Off Negativity Surrounding Season 2 Casting",
+        "‘Abbott Elementary’ Stars Sheryl Lee Ralph and Janelle James on the Paramount-Warner Bros. Merger: ‘We’ve Lost Too Many People’",
         "‘Monsters Of God’ Slithers Onto HBO: Reptilian Docuseries From ‘Tiger King’s Eric Goode"
       ],
       "watch_list": [
-        "‘Abbott Elementary’ Stars Sheryl Lee Ralph and Janelle James on the Paramount-Warner Bros. Merger: ‘We’ve Lost Too Many People’",
+        "Perez Hilton ‘Will Require Surgery’ After Live Stream Incident, Family Demands Media ‘Cease Photographing Perez’s Children’",
         "Obama Blames Larry David For 2014 Tan Suit Debacle In ‘Life, Larry & the Pursuit of Unhappiness’ Finale",
         "‘Heated Rivalry’ Author Rachel Reid Pushes Back Against Season 2 Casting Criticism",
-        "‘Heated Rivalry’ Author Brushes Off Negativity Surrounding Season 2 Casting",
+        "‘Abbott Elementary’ Stars Sheryl Lee Ralph and Janelle James on the Paramount-Warner Bros. Merger: ‘We’ve Lost Too Many People’",
         "‘Monsters Of God’ Slithers Onto HBO: Reptilian Docuseries From ‘Tiger King’s Eric Goode",
         "Jake T. Austin Says He Wasn’t Invited to Partake in ‘Wizards of Waverly Place’ Revival: “Disappointed”"
       ],
       "homepage_cards": [
         {
-          "id": "tv-0-1479547100213687746",
-          "key": "tv-0-1479547100213687746",
+          "id": "tv-0-58054214322595876",
+          "key": "tv-0-58054214322595876",
           "category": "TV",
           "label": "TV",
-          "headline": "‘Abbott Elementary’ Stars Sheryl Lee Ralph and Janelle James on the Paramount-Warner Bros. Merger: ‘We’ve Lost Too Many People’",
-          "title": "‘Abbott Elementary’ Stars Sheryl Lee Ralph and Janelle James on the Paramount-Warner Bros. Merger: ‘We’ve Lost Too Many People’",
-          "snapshot": "As “Abbott Elementary” gears up for Season 6 production in just a few short weeks, stars Sheryl Lee Ralph, Janelle James and Luke Tennie are reflecting on turbulent changes in the industry — from the pending Paramount-Warner Bros. merger to production struggling in Los Angeles. “Any time there is a consolidation, so...",
-          "summary": "As “Abbott Elementary” gears up for Season 6 production in just a few short weeks, stars Sheryl Lee Ralph, Janelle James and Luke Tennie are reflecting on turbulent changes in the industry — from the pending Paramount-Warner Bros. merger to production struggling in Los Angeles. “Any time there is a consolidation, so...",
-          "url": "https://variety.com/2026/scene/news/abbott-elementary-sheryl-lee-ralph-janelle-james-paramount-1236830682/",
+          "headline": "Perez Hilton ‘Will Require Surgery’ After Live Stream Incident, Family Demands Media ‘Cease Photographing Perez’s Children’",
+          "title": "Perez Hilton ‘Will Require Surgery’ After Live Stream Incident, Family Demands Media ‘Cease Photographing Perez’s Children’",
+          "snapshot": "Perez Hilton’s family released a statement on Saturday updating fans about the blogger’s health after he appeared to commit self-harm during a TikTok livestream. “Perez’s condition remains serious but stable,” read the statement, which was released on Hilton’s website. “He experienced significant blood loss and sust...",
+          "summary": "Perez Hilton’s family released a statement on Saturday updating fans about the blogger’s health after he appeared to commit self-harm during a TikTok livestream. “Perez’s condition remains serious but stable,” read the statement, which was released on Hilton’s website. “He experienced significant blood loss and sust...",
+          "url": "https://variety.com/2026/film/news/perez-hilton-update-surgery-live-stream-family-statement-1236830699/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/tv/feed/",
-          "published_at": "2026-08-08 06:19:26 PM ET",
+          "published_at": "2026-08-08 06:47:17 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "‘Abbott Elementary’ Stars Sheryl Lee Ralph and Janelle James on the Paramount-Warner Bros. Merger: ‘We’ve Lost Too Many People’"
+            "Perez Hilton ‘Will Require Surgery’ After Live Stream Incident, Family Demands Media ‘Cease Photographing Perez’s Children’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2212,8 +2211,8 @@
           ]
         },
         {
-          "id": "tv-9-5326221816306557024",
-          "key": "tv-9-5326221816306557024",
+          "id": "tv-10-1295926774918317375",
+          "key": "tv-10-1295926774918317375",
           "category": "TV",
           "label": "TV",
           "headline": "Obama Blames Larry David For 2014 Tan Suit Debacle In ‘Life, Larry & the Pursuit of Unhappiness’ Finale",
@@ -2228,7 +2227,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 91,
+          "priority_score": 90,
           "key_data": [
             "Obama Blames Larry David For 2014 Tan Suit Debacle In ‘Life, Larry & the Pursuit of Unhappiness’ Finale"
           ],
@@ -2240,8 +2239,8 @@
           ]
         },
         {
-          "id": "tv-21-6373827875799902784",
-          "key": "tv-21-6373827875799902784",
+          "id": "tv-22-8290378177062934673",
+          "key": "tv-22-8290378177062934673",
           "category": "TV",
           "label": "TV",
           "headline": "‘Heated Rivalry’ Author Rachel Reid Pushes Back Against Season 2 Casting Criticism",
@@ -2256,7 +2255,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 79,
+          "priority_score": 78,
           "key_data": [
             "‘Heated Rivalry’ Author Rachel Reid Pushes Back Against Season 2 Casting Criticism"
           ],
@@ -2268,25 +2267,25 @@
           ]
         },
         {
-          "id": "tv-1-4475351453053607599",
-          "key": "tv-1-4475351453053607599",
+          "id": "tv-1-8841246373061447608",
+          "key": "tv-1-8841246373061447608",
           "category": "TV",
           "label": "TV",
-          "headline": "‘Heated Rivalry’ Author Brushes Off Negativity Surrounding Season 2 Casting",
-          "title": "‘Heated Rivalry’ Author Brushes Off Negativity Surrounding Season 2 Casting",
-          "snapshot": "“Game Changer” author Rachel Reid is unbothered by the early critics of the “Heated Rivalry’s” upcoming second season. On Friday, it was revealed that Justice Smith and Charlie Gillespie are joining the Season 2 cast of “Heated Rivalry.” Then, later that same day, Reid took to her Instagram story to seemingly dismis...",
-          "summary": "“Game Changer” author Rachel Reid is unbothered by the early critics of the “Heated Rivalry’s” upcoming second season. On Friday, it was revealed that Justice Smith and Charlie Gillespie are joining the Season 2 cast of “Heated Rivalry.” Then, later that same day, Reid took to her Instagram story to seemingly dismis...",
-          "url": "https://variety.com/2026/tv/news/heated-rivalry-author-negativity-season-2-casting-1236830685/",
+          "headline": "‘Abbott Elementary’ Stars Sheryl Lee Ralph and Janelle James on the Paramount-Warner Bros. Merger: ‘We’ve Lost Too Many People’",
+          "title": "‘Abbott Elementary’ Stars Sheryl Lee Ralph and Janelle James on the Paramount-Warner Bros. Merger: ‘We’ve Lost Too Many People’",
+          "snapshot": "As “Abbott Elementary” gears up for Season 6 production in just a few short weeks, stars Sheryl Lee Ralph, Janelle James and Luke Tennie are reflecting on turbulent changes in the industry — from the pending Paramount-Warner Bros. merger to production struggling in Los Angeles. “Any time there is a consolidation, so...",
+          "summary": "As “Abbott Elementary” gears up for Season 6 production in just a few short weeks, stars Sheryl Lee Ralph, Janelle James and Luke Tennie are reflecting on turbulent changes in the industry — from the pending Paramount-Warner Bros. merger to production struggling in Los Angeles. “Any time there is a consolidation, so...",
+          "url": "https://variety.com/2026/scene/news/abbott-elementary-sheryl-lee-ralph-janelle-james-paramount-1236830682/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/tv/feed/",
-          "published_at": "2026-08-08 05:58:33 PM ET",
+          "published_at": "2026-08-08 06:19:26 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "‘Heated Rivalry’ Author Brushes Off Negativity Surrounding Season 2 Casting"
+            "‘Abbott Elementary’ Stars Sheryl Lee Ralph and Janelle James on the Paramount-Warner Bros. Merger: ‘We’ve Lost Too Many People’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2296,8 +2295,8 @@
           ]
         },
         {
-          "id": "tv-10-3696270776919109879",
-          "key": "tv-10-3696270776919109879",
+          "id": "tv-11-6506123015240715011",
+          "key": "tv-11-6506123015240715011",
           "category": "TV",
           "label": "TV",
           "headline": "‘Monsters Of God’ Slithers Onto HBO: Reptilian Docuseries From ‘Tiger King’s Eric Goode",
@@ -2312,7 +2311,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 90,
+          "priority_score": 89,
           "key_data": [
             "‘Monsters Of God’ Slithers Onto HBO: Reptilian Docuseries From ‘Tiger King’s Eric Goode"
           ],
@@ -2324,8 +2323,8 @@
           ]
         },
         {
-          "id": "tv-22-2500906562738377571",
-          "key": "tv-22-2500906562738377571",
+          "id": "tv-23-2804379228365009528",
+          "key": "tv-23-2804379228365009528",
           "category": "TV",
           "label": "TV",
           "headline": "Jake T. Austin Says He Wasn’t Invited to Partake in ‘Wizards of Waverly Place’ Revival: “Disappointed”",
@@ -2340,7 +2339,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 78,
+          "priority_score": 77,
           "key_data": [
             "Jake T. Austin Says He Wasn’t Invited to Partake in ‘Wizards of Waverly Place’ Revival: “Disappointed”"
           ],
@@ -2354,25 +2353,25 @@
       ],
       "items": [
         {
-          "id": "tv-0-1479547100213687746",
-          "key": "tv-0-1479547100213687746",
+          "id": "tv-0-58054214322595876",
+          "key": "tv-0-58054214322595876",
           "category": "TV",
           "label": "TV",
-          "headline": "‘Abbott Elementary’ Stars Sheryl Lee Ralph and Janelle James on the Paramount-Warner Bros. Merger: ‘We’ve Lost Too Many People’",
-          "title": "‘Abbott Elementary’ Stars Sheryl Lee Ralph and Janelle James on the Paramount-Warner Bros. Merger: ‘We’ve Lost Too Many People’",
-          "snapshot": "As “Abbott Elementary” gears up for Season 6 production in just a few short weeks, stars Sheryl Lee Ralph, Janelle James and Luke Tennie are reflecting on turbulent changes in the industry — from the pending Paramount-Warner Bros. merger to production struggling in Los Angeles. “Any time there is a consolidation, so...",
-          "summary": "As “Abbott Elementary” gears up for Season 6 production in just a few short weeks, stars Sheryl Lee Ralph, Janelle James and Luke Tennie are reflecting on turbulent changes in the industry — from the pending Paramount-Warner Bros. merger to production struggling in Los Angeles. “Any time there is a consolidation, so...",
-          "url": "https://variety.com/2026/scene/news/abbott-elementary-sheryl-lee-ralph-janelle-james-paramount-1236830682/",
+          "headline": "Perez Hilton ‘Will Require Surgery’ After Live Stream Incident, Family Demands Media ‘Cease Photographing Perez’s Children’",
+          "title": "Perez Hilton ‘Will Require Surgery’ After Live Stream Incident, Family Demands Media ‘Cease Photographing Perez’s Children’",
+          "snapshot": "Perez Hilton’s family released a statement on Saturday updating fans about the blogger’s health after he appeared to commit self-harm during a TikTok livestream. “Perez’s condition remains serious but stable,” read the statement, which was released on Hilton’s website. “He experienced significant blood loss and sust...",
+          "summary": "Perez Hilton’s family released a statement on Saturday updating fans about the blogger’s health after he appeared to commit self-harm during a TikTok livestream. “Perez’s condition remains serious but stable,” read the statement, which was released on Hilton’s website. “He experienced significant blood loss and sust...",
+          "url": "https://variety.com/2026/film/news/perez-hilton-update-surgery-live-stream-family-statement-1236830699/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/tv/feed/",
-          "published_at": "2026-08-08 06:19:26 PM ET",
+          "published_at": "2026-08-08 06:47:17 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "‘Abbott Elementary’ Stars Sheryl Lee Ralph and Janelle James on the Paramount-Warner Bros. Merger: ‘We’ve Lost Too Many People’"
+            "Perez Hilton ‘Will Require Surgery’ After Live Stream Incident, Family Demands Media ‘Cease Photographing Perez’s Children’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2382,8 +2381,8 @@
           ]
         },
         {
-          "id": "tv-9-5326221816306557024",
-          "key": "tv-9-5326221816306557024",
+          "id": "tv-10-1295926774918317375",
+          "key": "tv-10-1295926774918317375",
           "category": "TV",
           "label": "TV",
           "headline": "Obama Blames Larry David For 2014 Tan Suit Debacle In ‘Life, Larry & the Pursuit of Unhappiness’ Finale",
@@ -2398,7 +2397,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 91,
+          "priority_score": 90,
           "key_data": [
             "Obama Blames Larry David For 2014 Tan Suit Debacle In ‘Life, Larry & the Pursuit of Unhappiness’ Finale"
           ],
@@ -2410,8 +2409,8 @@
           ]
         },
         {
-          "id": "tv-21-6373827875799902784",
-          "key": "tv-21-6373827875799902784",
+          "id": "tv-22-8290378177062934673",
+          "key": "tv-22-8290378177062934673",
           "category": "TV",
           "label": "TV",
           "headline": "‘Heated Rivalry’ Author Rachel Reid Pushes Back Against Season 2 Casting Criticism",
@@ -2426,7 +2425,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 79,
+          "priority_score": 78,
           "key_data": [
             "‘Heated Rivalry’ Author Rachel Reid Pushes Back Against Season 2 Casting Criticism"
           ],
@@ -2438,25 +2437,25 @@
           ]
         },
         {
-          "id": "tv-1-4475351453053607599",
-          "key": "tv-1-4475351453053607599",
+          "id": "tv-1-8841246373061447608",
+          "key": "tv-1-8841246373061447608",
           "category": "TV",
           "label": "TV",
-          "headline": "‘Heated Rivalry’ Author Brushes Off Negativity Surrounding Season 2 Casting",
-          "title": "‘Heated Rivalry’ Author Brushes Off Negativity Surrounding Season 2 Casting",
-          "snapshot": "“Game Changer” author Rachel Reid is unbothered by the early critics of the “Heated Rivalry’s” upcoming second season. On Friday, it was revealed that Justice Smith and Charlie Gillespie are joining the Season 2 cast of “Heated Rivalry.” Then, later that same day, Reid took to her Instagram story to seemingly dismis...",
-          "summary": "“Game Changer” author Rachel Reid is unbothered by the early critics of the “Heated Rivalry’s” upcoming second season. On Friday, it was revealed that Justice Smith and Charlie Gillespie are joining the Season 2 cast of “Heated Rivalry.” Then, later that same day, Reid took to her Instagram story to seemingly dismis...",
-          "url": "https://variety.com/2026/tv/news/heated-rivalry-author-negativity-season-2-casting-1236830685/",
+          "headline": "‘Abbott Elementary’ Stars Sheryl Lee Ralph and Janelle James on the Paramount-Warner Bros. Merger: ‘We’ve Lost Too Many People’",
+          "title": "‘Abbott Elementary’ Stars Sheryl Lee Ralph and Janelle James on the Paramount-Warner Bros. Merger: ‘We’ve Lost Too Many People’",
+          "snapshot": "As “Abbott Elementary” gears up for Season 6 production in just a few short weeks, stars Sheryl Lee Ralph, Janelle James and Luke Tennie are reflecting on turbulent changes in the industry — from the pending Paramount-Warner Bros. merger to production struggling in Los Angeles. “Any time there is a consolidation, so...",
+          "summary": "As “Abbott Elementary” gears up for Season 6 production in just a few short weeks, stars Sheryl Lee Ralph, Janelle James and Luke Tennie are reflecting on turbulent changes in the industry — from the pending Paramount-Warner Bros. merger to production struggling in Los Angeles. “Any time there is a consolidation, so...",
+          "url": "https://variety.com/2026/scene/news/abbott-elementary-sheryl-lee-ralph-janelle-james-paramount-1236830682/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/tv/feed/",
-          "published_at": "2026-08-08 05:58:33 PM ET",
+          "published_at": "2026-08-08 06:19:26 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "‘Heated Rivalry’ Author Brushes Off Negativity Surrounding Season 2 Casting"
+            "‘Abbott Elementary’ Stars Sheryl Lee Ralph and Janelle James on the Paramount-Warner Bros. Merger: ‘We’ve Lost Too Many People’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2466,8 +2465,8 @@
           ]
         },
         {
-          "id": "tv-10-3696270776919109879",
-          "key": "tv-10-3696270776919109879",
+          "id": "tv-11-6506123015240715011",
+          "key": "tv-11-6506123015240715011",
           "category": "TV",
           "label": "TV",
           "headline": "‘Monsters Of God’ Slithers Onto HBO: Reptilian Docuseries From ‘Tiger King’s Eric Goode",
@@ -2482,7 +2481,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 90,
+          "priority_score": 89,
           "key_data": [
             "‘Monsters Of God’ Slithers Onto HBO: Reptilian Docuseries From ‘Tiger King’s Eric Goode"
           ],
@@ -2494,8 +2493,8 @@
           ]
         },
         {
-          "id": "tv-22-2500906562738377571",
-          "key": "tv-22-2500906562738377571",
+          "id": "tv-23-2804379228365009528",
+          "key": "tv-23-2804379228365009528",
           "category": "TV",
           "label": "TV",
           "headline": "Jake T. Austin Says He Wasn’t Invited to Partake in ‘Wizards of Waverly Place’ Revival: “Disappointed”",
@@ -2510,7 +2509,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 78,
+          "priority_score": 77,
           "key_data": [
             "Jake T. Austin Says He Wasn’t Invited to Partake in ‘Wizards of Waverly Place’ Revival: “Disappointed”"
           ],
@@ -2522,7 +2521,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 10:35:01 AM ET"
+      "updated_at": "2026-08-09 11:32:27 AM ET"
     },
     {
       "key": "streaming",
@@ -2538,8 +2537,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "streaming-0-8722906045820177196",
-          "key": "streaming-0-8722906045820177196",
+          "id": "streaming-0-5492980908402886750",
+          "key": "streaming-0-5492980908402886750",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Disney turns $4-billion streaming loss into profit, and now it chases global growth - Los Angeles Times",
@@ -2568,8 +2567,8 @@
       ],
       "items": [
         {
-          "id": "streaming-0-8722906045820177196",
-          "key": "streaming-0-8722906045820177196",
+          "id": "streaming-0-5492980908402886750",
+          "key": "streaming-0-5492980908402886750",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Disney turns $4-billion streaming loss into profit, and now it chases global growth - Los Angeles Times",
@@ -2596,7 +2595,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 10:35:02 AM ET"
+      "updated_at": "2026-08-09 11:32:28 AM ET"
     },
     {
       "key": "music",
@@ -2621,8 +2620,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "music-0-3057630411339498488",
-          "key": "music-0-3057630411339498488",
+          "id": "music-0-3503108439211509657",
+          "key": "music-0-3503108439211509657",
           "category": "Music",
           "label": "Music",
           "headline": "Morrissey Cancels Las Vegas Residency Days Before Showtime Due to ‘Unforeseen Logistical Issues’",
@@ -2649,8 +2648,8 @@
           ]
         },
         {
-          "id": "music-10-3376882075337554396",
-          "key": "music-10-3376882075337554396",
+          "id": "music-10-3974903247660585761",
+          "key": "music-10-3974903247660585761",
           "category": "Music",
           "label": "Music",
           "headline": "Joe Jonas Says He Sought Therapy After His Solo Album Underperformed",
@@ -2677,8 +2676,8 @@
           ]
         },
         {
-          "id": "music-20-4149438427233491275",
-          "key": "music-20-4149438427233491275",
+          "id": "music-20-8532617234769085863",
+          "key": "music-20-8532617234769085863",
           "category": "Music",
           "label": "Music",
           "headline": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - billboard.com",
@@ -2705,8 +2704,8 @@
           ]
         },
         {
-          "id": "music-1-7735248994052931712",
-          "key": "music-1-7735248994052931712",
+          "id": "music-1-2857673511193521796",
+          "key": "music-1-2857673511193521796",
           "category": "Music",
           "label": "Music",
           "headline": "L.A. Jazz Festival, Which Was Supposed to Feature John Legend, Janelle Monáe and Hundreds More, Canceled at the Last Minute",
@@ -2733,8 +2732,8 @@
           ]
         },
         {
-          "id": "music-11-5801422968503850447",
-          "key": "music-11-5801422968503850447",
+          "id": "music-11-2041472074393053576",
+          "key": "music-11-2041472074393053576",
           "category": "Music",
           "label": "Music",
           "headline": "Baker Boy Takes Album, Song and Film Clip of the Year at 2026 NIMAs",
@@ -2761,8 +2760,8 @@
           ]
         },
         {
-          "id": "music-21-4679341927108696578",
-          "key": "music-21-4679341927108696578",
+          "id": "music-21-7842930229414113953",
+          "key": "music-21-7842930229414113953",
           "category": "Music",
           "label": "Music",
           "headline": "It’s Official: Influence Media to Buy Anthem for Over $600 Million - Billboard",
@@ -2791,8 +2790,8 @@
       ],
       "items": [
         {
-          "id": "music-0-3057630411339498488",
-          "key": "music-0-3057630411339498488",
+          "id": "music-0-3503108439211509657",
+          "key": "music-0-3503108439211509657",
           "category": "Music",
           "label": "Music",
           "headline": "Morrissey Cancels Las Vegas Residency Days Before Showtime Due to ‘Unforeseen Logistical Issues’",
@@ -2819,8 +2818,8 @@
           ]
         },
         {
-          "id": "music-10-3376882075337554396",
-          "key": "music-10-3376882075337554396",
+          "id": "music-10-3974903247660585761",
+          "key": "music-10-3974903247660585761",
           "category": "Music",
           "label": "Music",
           "headline": "Joe Jonas Says He Sought Therapy After His Solo Album Underperformed",
@@ -2847,8 +2846,8 @@
           ]
         },
         {
-          "id": "music-20-4149438427233491275",
-          "key": "music-20-4149438427233491275",
+          "id": "music-20-8532617234769085863",
+          "key": "music-20-8532617234769085863",
           "category": "Music",
           "label": "Music",
           "headline": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - billboard.com",
@@ -2875,8 +2874,8 @@
           ]
         },
         {
-          "id": "music-1-7735248994052931712",
-          "key": "music-1-7735248994052931712",
+          "id": "music-1-2857673511193521796",
+          "key": "music-1-2857673511193521796",
           "category": "Music",
           "label": "Music",
           "headline": "L.A. Jazz Festival, Which Was Supposed to Feature John Legend, Janelle Monáe and Hundreds More, Canceled at the Last Minute",
@@ -2903,8 +2902,8 @@
           ]
         },
         {
-          "id": "music-11-5801422968503850447",
-          "key": "music-11-5801422968503850447",
+          "id": "music-11-2041472074393053576",
+          "key": "music-11-2041472074393053576",
           "category": "Music",
           "label": "Music",
           "headline": "Baker Boy Takes Album, Song and Film Clip of the Year at 2026 NIMAs",
@@ -2931,8 +2930,8 @@
           ]
         },
         {
-          "id": "music-21-4679341927108696578",
-          "key": "music-21-4679341927108696578",
+          "id": "music-21-7842930229414113953",
+          "key": "music-21-7842930229414113953",
           "category": "Music",
           "label": "Music",
           "headline": "It’s Official: Influence Media to Buy Anthem for Over $600 Million - Billboard",
@@ -2959,7 +2958,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 10:35:03 AM ET"
+      "updated_at": "2026-08-09 11:32:28 AM ET"
     },
     {
       "key": "awards",
@@ -2969,20 +2968,20 @@
       "snapshot": "Awards coverage is updating with 4 current RSS headline item(s).",
       "key_storylines": [
         "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
-        "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - deadline.com",
+        "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline",
         "James Gray Says AI Is ‘Worthless’ and Young People Won’t Stand for It: They ‘Have a Real Hunger for Interesting, Honest Stuff’",
         "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo"
       ],
       "watch_list": [
         "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
-        "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - deadline.com",
+        "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline",
         "James Gray Says AI Is ‘Worthless’ and Young People Won’t Stand for It: They ‘Have a Real Hunger for Interesting, Honest Stuff’",
         "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo"
       ],
       "homepage_cards": [
         {
-          "id": "awards-0-4845840344252903589",
-          "key": "awards-0-4845840344252903589",
+          "id": "awards-0-6689221047941010463",
+          "key": "awards-0-6689221047941010463",
           "category": "Awards",
           "label": "Awards",
           "headline": "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
@@ -3009,14 +3008,14 @@
           ]
         },
         {
-          "id": "awards-5-2627968106662431166",
-          "key": "awards-5-2627968106662431166",
+          "id": "awards-5-3224444861835262535",
+          "key": "awards-5-3224444861835262535",
           "category": "Awards",
           "label": "Awards",
-          "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - deadline.com",
-          "title": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - deadline.com",
-          "snapshot": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More deadline.com",
-          "summary": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More deadline.com",
+          "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline",
+          "title": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline",
+          "snapshot": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More Deadline",
+          "summary": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More Deadline",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdGg4QjJyZUJKQ2FiQTJmTllYMEE0WlN6V19uVXlWVjROc0ZVMUd0RV84VExSb2U3U05kbzdWVVBJdC1PLTV4UC1VREMtMHVfZW05VGpQS09JX3JPWERkQVM4eWdic1BtVldkeGJIeURUTlFRMlp4MjU4T1BRRXlNdUR3TEJZcnRfbWxTdWQxNUZjbk5PR2ktc1NlUQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3027,7 +3026,7 @@
           "story_type": "rss_headline",
           "priority_score": 95,
           "key_data": [
-            "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - deadline.com"
+            "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3037,8 +3036,8 @@
           ]
         },
         {
-          "id": "awards-1-5902861414476975930",
-          "key": "awards-1-5902861414476975930",
+          "id": "awards-1-4493681517074833812",
+          "key": "awards-1-4493681517074833812",
           "category": "Awards",
           "label": "Awards",
           "headline": "James Gray Says AI Is ‘Worthless’ and Young People Won’t Stand for It: They ‘Have a Real Hunger for Interesting, Honest Stuff’",
@@ -3065,8 +3064,8 @@
           ]
         },
         {
-          "id": "awards-6-2581157207280289811",
-          "key": "awards-6-2581157207280289811",
+          "id": "awards-6-626140605910883537",
+          "key": "awards-6-626140605910883537",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo",
@@ -3095,8 +3094,8 @@
       ],
       "items": [
         {
-          "id": "awards-0-4845840344252903589",
-          "key": "awards-0-4845840344252903589",
+          "id": "awards-0-6689221047941010463",
+          "key": "awards-0-6689221047941010463",
           "category": "Awards",
           "label": "Awards",
           "headline": "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
@@ -3123,14 +3122,14 @@
           ]
         },
         {
-          "id": "awards-5-2627968106662431166",
-          "key": "awards-5-2627968106662431166",
+          "id": "awards-5-3224444861835262535",
+          "key": "awards-5-3224444861835262535",
           "category": "Awards",
           "label": "Awards",
-          "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - deadline.com",
-          "title": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - deadline.com",
-          "snapshot": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More deadline.com",
-          "summary": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More deadline.com",
+          "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline",
+          "title": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline",
+          "snapshot": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More Deadline",
+          "summary": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More Deadline",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdGg4QjJyZUJKQ2FiQTJmTllYMEE0WlN6V19uVXlWVjROc0ZVMUd0RV84VExSb2U3U05kbzdWVVBJdC1PLTV4UC1VREMtMHVfZW05VGpQS09JX3JPWERkQVM4eWdic1BtVldkeGJIeURUTlFRMlp4MjU4T1BRRXlNdUR3TEJZcnRfbWxTdWQxNUZjbk5PR2ktc1NlUQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3141,7 +3140,7 @@
           "story_type": "rss_headline",
           "priority_score": 95,
           "key_data": [
-            "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - deadline.com"
+            "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3151,8 +3150,8 @@
           ]
         },
         {
-          "id": "awards-1-5902861414476975930",
-          "key": "awards-1-5902861414476975930",
+          "id": "awards-1-4493681517074833812",
+          "key": "awards-1-4493681517074833812",
           "category": "Awards",
           "label": "Awards",
           "headline": "James Gray Says AI Is ‘Worthless’ and Young People Won’t Stand for It: They ‘Have a Real Hunger for Interesting, Honest Stuff’",
@@ -3179,8 +3178,8 @@
           ]
         },
         {
-          "id": "awards-6-2581157207280289811",
-          "key": "awards-6-2581157207280289811",
+          "id": "awards-6-626140605910883537",
+          "key": "awards-6-626140605910883537",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo",
@@ -3207,7 +3206,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 10:35:03 AM ET"
+      "updated_at": "2026-08-09 11:32:29 AM ET"
     },
     {
       "key": "box_office",
@@ -3229,8 +3228,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "box_office-0-1078962646862423411",
-          "key": "box_office-0-1078962646862423411",
+          "id": "box_office-0-2104698642911675031",
+          "key": "box_office-0-2104698642911675031",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘Spider-Man: Brand New Day’ Swings into Second Weekend With $43 Million on Friday",
@@ -3257,8 +3256,8 @@
           ]
         },
         {
-          "id": "box_office-10-2874046711560563707",
-          "key": "box_office-10-2874046711560563707",
+          "id": "box_office-10-467029640992757032",
+          "key": "box_office-10-467029640992757032",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Spider-Man: Brand New Day’ Swinging to Best-Ever 10-Day Start With $143M Second Weekend - The Hollywood Reporter",
@@ -3285,8 +3284,8 @@
           ]
         },
         {
-          "id": "box_office-1-3287932329204292545",
-          "key": "box_office-1-3287932329204292545",
+          "id": "box_office-1-8392144407543416144",
+          "key": "box_office-1-8392144407543416144",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ Surpasses $1 Billion, Christopher Nolan’s First Movie Since ‘Dark Knight Rises’ to Reach Coveted Box Office Milestone",
@@ -3313,8 +3312,8 @@
           ]
         },
         {
-          "id": "box_office-11-2339209631447622569",
-          "key": "box_office-11-2339209631447622569",
+          "id": "box_office-11-7387726764316313489",
+          "key": "box_office-11-7387726764316313489",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Dwayne Johnson Addresses ‘Moana’ Mixed Reviews After Film Underperformed at Box Office - The Hollywood Reporter",
@@ -3343,8 +3342,8 @@
       ],
       "items": [
         {
-          "id": "box_office-0-1078962646862423411",
-          "key": "box_office-0-1078962646862423411",
+          "id": "box_office-0-2104698642911675031",
+          "key": "box_office-0-2104698642911675031",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘Spider-Man: Brand New Day’ Swings into Second Weekend With $43 Million on Friday",
@@ -3371,8 +3370,8 @@
           ]
         },
         {
-          "id": "box_office-10-2874046711560563707",
-          "key": "box_office-10-2874046711560563707",
+          "id": "box_office-10-467029640992757032",
+          "key": "box_office-10-467029640992757032",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Spider-Man: Brand New Day’ Swinging to Best-Ever 10-Day Start With $143M Second Weekend - The Hollywood Reporter",
@@ -3399,8 +3398,8 @@
           ]
         },
         {
-          "id": "box_office-1-3287932329204292545",
-          "key": "box_office-1-3287932329204292545",
+          "id": "box_office-1-8392144407543416144",
+          "key": "box_office-1-8392144407543416144",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ Surpasses $1 Billion, Christopher Nolan’s First Movie Since ‘Dark Knight Rises’ to Reach Coveted Box Office Milestone",
@@ -3427,8 +3426,8 @@
           ]
         },
         {
-          "id": "box_office-11-2339209631447622569",
-          "key": "box_office-11-2339209631447622569",
+          "id": "box_office-11-7387726764316313489",
+          "key": "box_office-11-7387726764316313489",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Dwayne Johnson Addresses ‘Moana’ Mixed Reviews After Film Underperformed at Box Office - The Hollywood Reporter",
@@ -3455,7 +3454,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 10:35:04 AM ET"
+      "updated_at": "2026-08-09 11:32:29 AM ET"
     },
     {
       "key": "celebrity",
@@ -3473,8 +3472,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "celebrity-0-1825240032851569354",
-          "key": "celebrity-0-1825240032851569354",
+          "id": "celebrity-0-2720701047497492317",
+          "key": "celebrity-0-2720701047497492317",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Entertainment News | Latest Celebrity News, Videos & Photos - ABC News - Breaking News, Latest News and Videos",
@@ -3501,8 +3500,8 @@
           ]
         },
         {
-          "id": "celebrity-1-7337454700056642818",
-          "key": "celebrity-1-7337454700056642818",
+          "id": "celebrity-1-1857103821035858514",
+          "key": "celebrity-1-1857103821035858514",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3531,8 +3530,8 @@
       ],
       "items": [
         {
-          "id": "celebrity-0-1825240032851569354",
-          "key": "celebrity-0-1825240032851569354",
+          "id": "celebrity-0-2720701047497492317",
+          "key": "celebrity-0-2720701047497492317",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Entertainment News | Latest Celebrity News, Videos & Photos - ABC News - Breaking News, Latest News and Videos",
@@ -3559,8 +3558,8 @@
           ]
         },
         {
-          "id": "celebrity-1-7337454700056642818",
-          "key": "celebrity-1-7337454700056642818",
+          "id": "celebrity-1-1857103821035858514",
+          "key": "celebrity-1-1857103821035858514",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3587,35 +3586,34 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 10:35:05 AM ET"
+      "updated_at": "2026-08-09 11:32:30 AM ET"
     },
     {
       "key": "hollywood",
       "name": "Hollywood",
       "title": "Hollywood Report",
       "headline": "Whitney Houston Gets Her Own Barbie, Recreating Iconic ‘I Wanna Dance With Somebody’ Look",
-      "snapshot": "Hollywood coverage is updating with 8 current RSS headline item(s).",
+      "snapshot": "Hollywood coverage is updating with 7 current RSS headline item(s).",
       "key_storylines": [
         "Whitney Houston Gets Her Own Barbie, Recreating Iconic ‘I Wanna Dance With Somebody’ Look",
-        "‘The Odyssey’ Becomes Christopher Nolan’s Highest Grossing Movie Ever At Global Box Office With $1.1B",
+        "‘Spider-Man: Brand New Day’ Catches Third-Best U.S. 2nd Weekend With $145M – Sunday Box Office Update",
         "Whitney Houston’s Sister-in-Law Pat Houston Personally Approved Singer’s New Barbie Doll",
-        "Why did the United States film industry settle in Hollywood? - Encyclopedia Britannica",
-        "Andrew Lloyd Webber Is ‘Gutted’ on ‘Cats: The Jellicle Ball’ Closing Night: Producing on Broadway Is ‘Unsustainable’"
+        "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
+        "‘The Odyssey’ Becomes Christopher Nolan’s Highest Grossing Movie Ever At Global Box Office With $1.1B"
       ],
       "watch_list": [
         "Whitney Houston Gets Her Own Barbie, Recreating Iconic ‘I Wanna Dance With Somebody’ Look",
-        "‘The Odyssey’ Becomes Christopher Nolan’s Highest Grossing Movie Ever At Global Box Office With $1.1B",
+        "‘Spider-Man: Brand New Day’ Catches Third-Best U.S. 2nd Weekend With $145M – Sunday Box Office Update",
         "Whitney Houston’s Sister-in-Law Pat Houston Personally Approved Singer’s New Barbie Doll",
-        "Why did the United States film industry settle in Hollywood? - Encyclopedia Britannica",
-        "Andrew Lloyd Webber Is ‘Gutted’ on ‘Cats: The Jellicle Ball’ Closing Night: Producing on Broadway Is ‘Unsustainable’",
-        "Melissa Barrera Takes Weekend Off From Broadway’s ‘Titanique’ After She “Lost My Voice” On-Stage",
+        "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
+        "‘The Odyssey’ Becomes Christopher Nolan’s Highest Grossing Movie Ever At Global Box Office With $1.1B",
         "Perez Hilton’s Condition “Serious But Stable” Amid Hospitalization, Will Require Surgery",
-        "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University"
+        "Why did the United States film industry settle in Hollywood? - Encyclopedia Britannica"
       ],
       "homepage_cards": [
         {
-          "id": "hollywood-0-2337160267659842630",
-          "key": "hollywood-0-2337160267659842630",
+          "id": "hollywood-0-7472458447314369301",
+          "key": "hollywood-0-7472458447314369301",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Whitney Houston Gets Her Own Barbie, Recreating Iconic ‘I Wanna Dance With Somebody’ Look",
@@ -3642,8 +3640,92 @@
           ]
         },
         {
-          "id": "hollywood-2-5394384776779378584",
-          "key": "hollywood-2-5394384776779378584",
+          "id": "hollywood-1-8089664418841829123",
+          "key": "hollywood-1-8089664418841829123",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "‘Spider-Man: Brand New Day’ Catches Third-Best U.S. 2nd Weekend With $145M – Sunday Box Office Update",
+          "title": "‘Spider-Man: Brand New Day’ Catches Third-Best U.S. 2nd Weekend With $145M – Sunday Box Office Update",
+          "snapshot": "SUNDAY AM WRITETHRU after Saturday AM update: For a film’s second weekend to gross over $100M, that’s quite a gift, not just for a studio, but the greater exhibition industry. Spider: Man: Brand New Day caught $145M this weekend in its web (Sony just updated from $144.5M), the eighth title to pull this off, and […]",
+          "summary": "SUNDAY AM WRITETHRU after Saturday AM update: For a film’s second weekend to gross over $100M, that’s quite a gift, not just for a studio, but the greater exhibition industry. Spider: Man: Brand New Day caught $145M this weekend in its web (Sony just updated from $144.5M), the eighth title to pull this off, and […]",
+          "url": "https://deadline.com/2026/08/box-office-spider-man-brand-new-day-one-night-only-1237028481/",
+          "source": "Deadline",
+          "source_name": "Deadline",
+          "source_feed": "https://deadline.com/feed/",
+          "published_at": "2026-08-09 11:04:00 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 99,
+          "key_data": [
+            "‘Spider-Man: Brand New Day’ Catches Third-Best U.S. 2nd Weekend With $145M – Sunday Box Office Update"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-5-2339955503531834366",
+          "key": "hollywood-5-2339955503531834366",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "Whitney Houston’s Sister-in-Law Pat Houston Personally Approved Singer’s New Barbie Doll",
+          "title": "Whitney Houston’s Sister-in-Law Pat Houston Personally Approved Singer’s New Barbie Doll",
+          "snapshot": "The Whitney Houston Barbie Signature Doll captures the superstar's memorable look from the \"I Wanna Dance With Somebody\" music video.",
+          "summary": "The Whitney Houston Barbie Signature Doll captures the superstar's memorable look from the \"I Wanna Dance With Somebody\" music video.",
+          "url": "https://www.hollywoodreporter.com/lifestyle/shopping/whitney-houston-official-barbie-doll-release-buy-online-1236665168/",
+          "source": "The Hollywood Reporter",
+          "source_name": "The Hollywood Reporter",
+          "source_feed": "https://www.hollywoodreporter.com/feed/",
+          "published_at": "2026-08-09 12:01:00 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 95,
+          "key_data": [
+            "Whitney Houston’s Sister-in-Law Pat Houston Personally Approved Singer’s New Barbie Doll"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-7-8009741740610038513",
+          "key": "hollywood-7-8009741740610038513",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
+          "title": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
+          "snapshot": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders Elon University",
+          "summary": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders Elon University",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdTdlVmlNeVpYR2tFTGFmcjZvU3JWT1FKV0xCbnRUX3Uxc3JvYy04VXNtSHBLVjNQX0RWTmRhYXpwQzlXY1NpZm16WnYzX0Nyb0J5cjlSeWlwbkRadDR4RlFfc2l0UTlxUjVOTVQ0OWRuTmJWd1NERkRIQUZOX1M0ZnNEendVbEE0amZzWGlEZm9fRWNQeDNBYlFWOVI5V3d4cEp3MENIVTBCQ2c2dDdZNEpPQQ?oc=5",
+          "source": "Google News",
+          "source_name": "Google News",
+          "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-05 06:22:48 PM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 93,
+          "key_data": [
+            "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-2-2180214661375782225",
+          "key": "hollywood-2-2180214661375782225",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘The Odyssey’ Becomes Christopher Nolan’s Highest Grossing Movie Ever At Global Box Office With $1.1B",
@@ -3670,25 +3752,25 @@
           ]
         },
         {
-          "id": "hollywood-6-4027645022822198183",
-          "key": "hollywood-6-4027645022822198183",
+          "id": "hollywood-6-863526132070266768",
+          "key": "hollywood-6-863526132070266768",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Whitney Houston’s Sister-in-Law Pat Houston Personally Approved Singer’s New Barbie Doll",
-          "title": "Whitney Houston’s Sister-in-Law Pat Houston Personally Approved Singer’s New Barbie Doll",
-          "snapshot": "The Whitney Houston Barbie Signature Doll captures the superstar's memorable look from the \"I Wanna Dance With Somebody\" music video.",
-          "summary": "The Whitney Houston Barbie Signature Doll captures the superstar's memorable look from the \"I Wanna Dance With Somebody\" music video.",
-          "url": "https://www.hollywoodreporter.com/lifestyle/shopping/whitney-houston-official-barbie-doll-release-buy-online-1236665168/",
+          "headline": "Perez Hilton’s Condition “Serious But Stable” Amid Hospitalization, Will Require Surgery",
+          "title": "Perez Hilton’s Condition “Serious But Stable” Amid Hospitalization, Will Require Surgery",
+          "snapshot": "\"He experienced significant blood loss and sustained additional injuries that will require surgery in the coming days,\" the celebrity gossip blogger's family shared in a statement on his website Saturday.",
+          "summary": "\"He experienced significant blood loss and sustained additional injuries that will require surgery in the coming days,\" the celebrity gossip blogger's family shared in a statement on his website Saturday.",
+          "url": "https://www.hollywoodreporter.com/news/general-news/perez-hilton-condition-serious-stable-require-surgery-1236669519/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/feed/",
-          "published_at": "2026-08-09 12:01:00 AM ET",
+          "published_at": "2026-08-08 06:13:59 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 94,
           "key_data": [
-            "Whitney Houston’s Sister-in-Law Pat Houston Personally Approved Singer’s New Barbie Doll"
+            "Perez Hilton’s Condition “Serious But Stable” Amid Hospitalization, Will Require Surgery"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3698,8 +3780,8 @@
           ]
         },
         {
-          "id": "hollywood-8-6744632881860269432",
-          "key": "hollywood-8-6744632881860269432",
+          "id": "hollywood-8-976725697722596203",
+          "key": "hollywood-8-976725697722596203",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Why did the United States film industry settle in Hollywood? - Encyclopedia Britannica",
@@ -3717,118 +3799,6 @@
           "priority_score": 92,
           "key_data": [
             "Why did the United States film industry settle in Hollywood? - Encyclopedia Britannica"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "hollywood-1-8407986746535753385",
-          "key": "hollywood-1-8407986746535753385",
-          "category": "Hollywood",
-          "label": "Hollywood",
-          "headline": "Andrew Lloyd Webber Is ‘Gutted’ on ‘Cats: The Jellicle Ball’ Closing Night: Producing on Broadway Is ‘Unsustainable’",
-          "title": "Andrew Lloyd Webber Is ‘Gutted’ on ‘Cats: The Jellicle Ball’ Closing Night: Producing on Broadway Is ‘Unsustainable’",
-          "snapshot": "Ahead of tonight’s final “Cats: The Jellicle Ball” show, composer Andrew Lloyd Webber is speaking out about how producing on Broadway has become “unsustainable.” “I’m gutted that the wonderful Broadway production of ‘Cats: The Jellicle Ball’ is closing today,” Lloyd Webber wrote on Instagram. “I’m immensely proud to...",
-          "summary": "Ahead of tonight’s final “Cats: The Jellicle Ball” show, composer Andrew Lloyd Webber is speaking out about how producing on Broadway has become “unsustainable.” “I’m gutted that the wonderful Broadway production of ‘Cats: The Jellicle Ball’ is closing today,” Lloyd Webber wrote on Instagram. “I’m immensely proud to...",
-          "url": "https://variety.com/2026/legit/news/andrew-lloyd-webber-cats-the-jellicle-ball-closing-night-1236830708/",
-          "source": "Variety",
-          "source_name": "Variety",
-          "source_feed": "https://variety.com/feed/",
-          "published_at": "2026-08-08 07:54:28 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 99,
-          "key_data": [
-            "Andrew Lloyd Webber Is ‘Gutted’ on ‘Cats: The Jellicle Ball’ Closing Night: Producing on Broadway Is ‘Unsustainable’"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "hollywood-3-1340367969098241118",
-          "key": "hollywood-3-1340367969098241118",
-          "category": "Hollywood",
-          "label": "Hollywood",
-          "headline": "Melissa Barrera Takes Weekend Off From Broadway’s ‘Titanique’ After She “Lost My Voice” On-Stage",
-          "title": "Melissa Barrera Takes Weekend Off From Broadway’s ‘Titanique’ After She “Lost My Voice” On-Stage",
-          "snapshot": "As Melissa Barrera enters the final stretch of her Broadway debut run in Titanique, she’s taking a few days off to get her voice and body back into performance shape. On Saturday, the actress who plays Rose DeWitt Bukater in the hit Titanic (1997) musical parody announced that she “lost her voice” during a performan...",
-          "summary": "As Melissa Barrera enters the final stretch of her Broadway debut run in Titanique, she’s taking a few days off to get her voice and body back into performance shape. On Saturday, the actress who plays Rose DeWitt Bukater in the hit Titanic (1997) musical parody announced that she “lost her voice” during a performan...",
-          "url": "https://deadline.com/2026/08/melissa-barrera-takes-weekend-off-titanique-lost-voice-1237029390/",
-          "source": "Deadline",
-          "source_name": "Deadline",
-          "source_feed": "https://deadline.com/feed/",
-          "published_at": "2026-08-08 04:20:28 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 97,
-          "key_data": [
-            "Melissa Barrera Takes Weekend Off From Broadway’s ‘Titanique’ After She “Lost My Voice” On-Stage"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "hollywood-7-4592848426724478644",
-          "key": "hollywood-7-4592848426724478644",
-          "category": "Hollywood",
-          "label": "Hollywood",
-          "headline": "Perez Hilton’s Condition “Serious But Stable” Amid Hospitalization, Will Require Surgery",
-          "title": "Perez Hilton’s Condition “Serious But Stable” Amid Hospitalization, Will Require Surgery",
-          "snapshot": "\"He experienced significant blood loss and sustained additional injuries that will require surgery in the coming days,\" the celebrity gossip blogger's family shared in a statement on his website Saturday.",
-          "summary": "\"He experienced significant blood loss and sustained additional injuries that will require surgery in the coming days,\" the celebrity gossip blogger's family shared in a statement on his website Saturday.",
-          "url": "https://www.hollywoodreporter.com/news/general-news/perez-hilton-condition-serious-stable-require-surgery-1236669519/",
-          "source": "The Hollywood Reporter",
-          "source_name": "The Hollywood Reporter",
-          "source_feed": "https://www.hollywoodreporter.com/feed/",
-          "published_at": "2026-08-08 06:13:59 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 93,
-          "key_data": [
-            "Perez Hilton’s Condition “Serious But Stable” Amid Hospitalization, Will Require Surgery"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "hollywood-9-723467632092396118",
-          "key": "hollywood-9-723467632092396118",
-          "category": "Hollywood",
-          "label": "Hollywood",
-          "headline": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
-          "title": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
-          "snapshot": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders Elon University",
-          "summary": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders Elon University",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdTdlVmlNeVpYR2tFTGFmcjZvU3JWT1FKV0xCbnRUX3Uxc3JvYy04VXNtSHBLVjNQX0RWTmRhYXpwQzlXY1NpZm16WnYzX0Nyb0J5cjlSeWlwbkRadDR4RlFfc2l0UTlxUjVOTVQ0OWRuTmJWd1NERkRIQUZOX1M0ZnNEendVbEE0amZzWGlEZm9fRWNQeDNBYlFWOVI5V3d4cEp3MENIVTBCQ2c2dDdZNEpPQQ?oc=5",
-          "source": "Google News",
-          "source_name": "Google News",
-          "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-05 06:22:48 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 91,
-          "key_data": [
-            "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3840,8 +3810,8 @@
       ],
       "items": [
         {
-          "id": "hollywood-0-2337160267659842630",
-          "key": "hollywood-0-2337160267659842630",
+          "id": "hollywood-0-7472458447314369301",
+          "key": "hollywood-0-7472458447314369301",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Whitney Houston Gets Her Own Barbie, Recreating Iconic ‘I Wanna Dance With Somebody’ Look",
@@ -3868,8 +3838,92 @@
           ]
         },
         {
-          "id": "hollywood-2-5394384776779378584",
-          "key": "hollywood-2-5394384776779378584",
+          "id": "hollywood-1-8089664418841829123",
+          "key": "hollywood-1-8089664418841829123",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "‘Spider-Man: Brand New Day’ Catches Third-Best U.S. 2nd Weekend With $145M – Sunday Box Office Update",
+          "title": "‘Spider-Man: Brand New Day’ Catches Third-Best U.S. 2nd Weekend With $145M – Sunday Box Office Update",
+          "snapshot": "SUNDAY AM WRITETHRU after Saturday AM update: For a film’s second weekend to gross over $100M, that’s quite a gift, not just for a studio, but the greater exhibition industry. Spider: Man: Brand New Day caught $145M this weekend in its web (Sony just updated from $144.5M), the eighth title to pull this off, and […]",
+          "summary": "SUNDAY AM WRITETHRU after Saturday AM update: For a film’s second weekend to gross over $100M, that’s quite a gift, not just for a studio, but the greater exhibition industry. Spider: Man: Brand New Day caught $145M this weekend in its web (Sony just updated from $144.5M), the eighth title to pull this off, and […]",
+          "url": "https://deadline.com/2026/08/box-office-spider-man-brand-new-day-one-night-only-1237028481/",
+          "source": "Deadline",
+          "source_name": "Deadline",
+          "source_feed": "https://deadline.com/feed/",
+          "published_at": "2026-08-09 11:04:00 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 99,
+          "key_data": [
+            "‘Spider-Man: Brand New Day’ Catches Third-Best U.S. 2nd Weekend With $145M – Sunday Box Office Update"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-5-2339955503531834366",
+          "key": "hollywood-5-2339955503531834366",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "Whitney Houston’s Sister-in-Law Pat Houston Personally Approved Singer’s New Barbie Doll",
+          "title": "Whitney Houston’s Sister-in-Law Pat Houston Personally Approved Singer’s New Barbie Doll",
+          "snapshot": "The Whitney Houston Barbie Signature Doll captures the superstar's memorable look from the \"I Wanna Dance With Somebody\" music video.",
+          "summary": "The Whitney Houston Barbie Signature Doll captures the superstar's memorable look from the \"I Wanna Dance With Somebody\" music video.",
+          "url": "https://www.hollywoodreporter.com/lifestyle/shopping/whitney-houston-official-barbie-doll-release-buy-online-1236665168/",
+          "source": "The Hollywood Reporter",
+          "source_name": "The Hollywood Reporter",
+          "source_feed": "https://www.hollywoodreporter.com/feed/",
+          "published_at": "2026-08-09 12:01:00 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 95,
+          "key_data": [
+            "Whitney Houston’s Sister-in-Law Pat Houston Personally Approved Singer’s New Barbie Doll"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-7-8009741740610038513",
+          "key": "hollywood-7-8009741740610038513",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
+          "title": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
+          "snapshot": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders Elon University",
+          "summary": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders Elon University",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdTdlVmlNeVpYR2tFTGFmcjZvU3JWT1FKV0xCbnRUX3Uxc3JvYy04VXNtSHBLVjNQX0RWTmRhYXpwQzlXY1NpZm16WnYzX0Nyb0J5cjlSeWlwbkRadDR4RlFfc2l0UTlxUjVOTVQ0OWRuTmJWd1NERkRIQUZOX1M0ZnNEendVbEE0amZzWGlEZm9fRWNQeDNBYlFWOVI5V3d4cEp3MENIVTBCQ2c2dDdZNEpPQQ?oc=5",
+          "source": "Google News",
+          "source_name": "Google News",
+          "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-05 06:22:48 PM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 93,
+          "key_data": [
+            "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-2-2180214661375782225",
+          "key": "hollywood-2-2180214661375782225",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘The Odyssey’ Becomes Christopher Nolan’s Highest Grossing Movie Ever At Global Box Office With $1.1B",
@@ -3896,25 +3950,25 @@
           ]
         },
         {
-          "id": "hollywood-6-4027645022822198183",
-          "key": "hollywood-6-4027645022822198183",
+          "id": "hollywood-6-863526132070266768",
+          "key": "hollywood-6-863526132070266768",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Whitney Houston’s Sister-in-Law Pat Houston Personally Approved Singer’s New Barbie Doll",
-          "title": "Whitney Houston’s Sister-in-Law Pat Houston Personally Approved Singer’s New Barbie Doll",
-          "snapshot": "The Whitney Houston Barbie Signature Doll captures the superstar's memorable look from the \"I Wanna Dance With Somebody\" music video.",
-          "summary": "The Whitney Houston Barbie Signature Doll captures the superstar's memorable look from the \"I Wanna Dance With Somebody\" music video.",
-          "url": "https://www.hollywoodreporter.com/lifestyle/shopping/whitney-houston-official-barbie-doll-release-buy-online-1236665168/",
+          "headline": "Perez Hilton’s Condition “Serious But Stable” Amid Hospitalization, Will Require Surgery",
+          "title": "Perez Hilton’s Condition “Serious But Stable” Amid Hospitalization, Will Require Surgery",
+          "snapshot": "\"He experienced significant blood loss and sustained additional injuries that will require surgery in the coming days,\" the celebrity gossip blogger's family shared in a statement on his website Saturday.",
+          "summary": "\"He experienced significant blood loss and sustained additional injuries that will require surgery in the coming days,\" the celebrity gossip blogger's family shared in a statement on his website Saturday.",
+          "url": "https://www.hollywoodreporter.com/news/general-news/perez-hilton-condition-serious-stable-require-surgery-1236669519/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/feed/",
-          "published_at": "2026-08-09 12:01:00 AM ET",
+          "published_at": "2026-08-08 06:13:59 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 94,
           "key_data": [
-            "Whitney Houston’s Sister-in-Law Pat Houston Personally Approved Singer’s New Barbie Doll"
+            "Perez Hilton’s Condition “Serious But Stable” Amid Hospitalization, Will Require Surgery"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3924,8 +3978,8 @@
           ]
         },
         {
-          "id": "hollywood-8-6744632881860269432",
-          "key": "hollywood-8-6744632881860269432",
+          "id": "hollywood-8-976725697722596203",
+          "key": "hollywood-8-976725697722596203",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Why did the United States film industry settle in Hollywood? - Encyclopedia Britannica",
@@ -3950,121 +4004,9 @@
           "what_to_watch": [
             "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
           ]
-        },
-        {
-          "id": "hollywood-1-8407986746535753385",
-          "key": "hollywood-1-8407986746535753385",
-          "category": "Hollywood",
-          "label": "Hollywood",
-          "headline": "Andrew Lloyd Webber Is ‘Gutted’ on ‘Cats: The Jellicle Ball’ Closing Night: Producing on Broadway Is ‘Unsustainable’",
-          "title": "Andrew Lloyd Webber Is ‘Gutted’ on ‘Cats: The Jellicle Ball’ Closing Night: Producing on Broadway Is ‘Unsustainable’",
-          "snapshot": "Ahead of tonight’s final “Cats: The Jellicle Ball” show, composer Andrew Lloyd Webber is speaking out about how producing on Broadway has become “unsustainable.” “I’m gutted that the wonderful Broadway production of ‘Cats: The Jellicle Ball’ is closing today,” Lloyd Webber wrote on Instagram. “I’m immensely proud to...",
-          "summary": "Ahead of tonight’s final “Cats: The Jellicle Ball” show, composer Andrew Lloyd Webber is speaking out about how producing on Broadway has become “unsustainable.” “I’m gutted that the wonderful Broadway production of ‘Cats: The Jellicle Ball’ is closing today,” Lloyd Webber wrote on Instagram. “I’m immensely proud to...",
-          "url": "https://variety.com/2026/legit/news/andrew-lloyd-webber-cats-the-jellicle-ball-closing-night-1236830708/",
-          "source": "Variety",
-          "source_name": "Variety",
-          "source_feed": "https://variety.com/feed/",
-          "published_at": "2026-08-08 07:54:28 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 99,
-          "key_data": [
-            "Andrew Lloyd Webber Is ‘Gutted’ on ‘Cats: The Jellicle Ball’ Closing Night: Producing on Broadway Is ‘Unsustainable’"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "hollywood-3-1340367969098241118",
-          "key": "hollywood-3-1340367969098241118",
-          "category": "Hollywood",
-          "label": "Hollywood",
-          "headline": "Melissa Barrera Takes Weekend Off From Broadway’s ‘Titanique’ After She “Lost My Voice” On-Stage",
-          "title": "Melissa Barrera Takes Weekend Off From Broadway’s ‘Titanique’ After She “Lost My Voice” On-Stage",
-          "snapshot": "As Melissa Barrera enters the final stretch of her Broadway debut run in Titanique, she’s taking a few days off to get her voice and body back into performance shape. On Saturday, the actress who plays Rose DeWitt Bukater in the hit Titanic (1997) musical parody announced that she “lost her voice” during a performan...",
-          "summary": "As Melissa Barrera enters the final stretch of her Broadway debut run in Titanique, she’s taking a few days off to get her voice and body back into performance shape. On Saturday, the actress who plays Rose DeWitt Bukater in the hit Titanic (1997) musical parody announced that she “lost her voice” during a performan...",
-          "url": "https://deadline.com/2026/08/melissa-barrera-takes-weekend-off-titanique-lost-voice-1237029390/",
-          "source": "Deadline",
-          "source_name": "Deadline",
-          "source_feed": "https://deadline.com/feed/",
-          "published_at": "2026-08-08 04:20:28 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 97,
-          "key_data": [
-            "Melissa Barrera Takes Weekend Off From Broadway’s ‘Titanique’ After She “Lost My Voice” On-Stage"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "hollywood-7-4592848426724478644",
-          "key": "hollywood-7-4592848426724478644",
-          "category": "Hollywood",
-          "label": "Hollywood",
-          "headline": "Perez Hilton’s Condition “Serious But Stable” Amid Hospitalization, Will Require Surgery",
-          "title": "Perez Hilton’s Condition “Serious But Stable” Amid Hospitalization, Will Require Surgery",
-          "snapshot": "\"He experienced significant blood loss and sustained additional injuries that will require surgery in the coming days,\" the celebrity gossip blogger's family shared in a statement on his website Saturday.",
-          "summary": "\"He experienced significant blood loss and sustained additional injuries that will require surgery in the coming days,\" the celebrity gossip blogger's family shared in a statement on his website Saturday.",
-          "url": "https://www.hollywoodreporter.com/news/general-news/perez-hilton-condition-serious-stable-require-surgery-1236669519/",
-          "source": "The Hollywood Reporter",
-          "source_name": "The Hollywood Reporter",
-          "source_feed": "https://www.hollywoodreporter.com/feed/",
-          "published_at": "2026-08-08 06:13:59 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 93,
-          "key_data": [
-            "Perez Hilton’s Condition “Serious But Stable” Amid Hospitalization, Will Require Surgery"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "hollywood-9-723467632092396118",
-          "key": "hollywood-9-723467632092396118",
-          "category": "Hollywood",
-          "label": "Hollywood",
-          "headline": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
-          "title": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
-          "snapshot": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders Elon University",
-          "summary": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders Elon University",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdTdlVmlNeVpYR2tFTGFmcjZvU3JWT1FKV0xCbnRUX3Uxc3JvYy04VXNtSHBLVjNQX0RWTmRhYXpwQzlXY1NpZm16WnYzX0Nyb0J5cjlSeWlwbkRadDR4RlFfc2l0UTlxUjVOTVQ0OWRuTmJWd1NERkRIQUZOX1M0ZnNEendVbEE0amZzWGlEZm9fRWNQeDNBYlFWOVI5V3d4cEp3MENIVTBCQ2c2dDdZNEpPQQ?oc=5",
-          "source": "Google News",
-          "source_name": "Google News",
-          "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-05 06:22:48 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 91,
-          "key_data": [
-            "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
         }
       ],
-      "updated_at": "2026-08-09 10:35:05 AM ET"
+      "updated_at": "2026-08-09 11:32:31 AM ET"
     },
     {
       "key": "gaming",
@@ -4084,8 +4026,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "gaming-0-4229208247386844834",
-          "key": "gaming-0-4229208247386844834",
+          "id": "gaming-0-5311805722535820945",
+          "key": "gaming-0-5311805722535820945",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "'If You're Not a Netflix Subscriber, You Definitely Should Be' — Take-Two Boss Teases Grand Theft Auto VI: An Extended Look",
@@ -4112,8 +4054,8 @@
           ]
         },
         {
-          "id": "gaming-20-3489458522308449995",
-          "key": "gaming-20-3489458522308449995",
+          "id": "gaming-20-8157509785256440776",
+          "key": "gaming-20-8157509785256440776",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - MKAU Gaming",
@@ -4140,8 +4082,8 @@
           ]
         },
         {
-          "id": "gaming-1-1768786672748052804",
-          "key": "gaming-1-1768786672748052804",
+          "id": "gaming-1-1501365106172648554",
+          "key": "gaming-1-1501365106172648554",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027",
@@ -4170,8 +4112,8 @@
       ],
       "items": [
         {
-          "id": "gaming-0-4229208247386844834",
-          "key": "gaming-0-4229208247386844834",
+          "id": "gaming-0-5311805722535820945",
+          "key": "gaming-0-5311805722535820945",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "'If You're Not a Netflix Subscriber, You Definitely Should Be' — Take-Two Boss Teases Grand Theft Auto VI: An Extended Look",
@@ -4198,8 +4140,8 @@
           ]
         },
         {
-          "id": "gaming-20-3489458522308449995",
-          "key": "gaming-20-3489458522308449995",
+          "id": "gaming-20-8157509785256440776",
+          "key": "gaming-20-8157509785256440776",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "How Gaming Communities Are Influencing The Future Of Online Casino Entertainment - MKAU Gaming",
@@ -4226,8 +4168,8 @@
           ]
         },
         {
-          "id": "gaming-1-1768786672748052804",
-          "key": "gaming-1-1768786672748052804",
+          "id": "gaming-1-1501365106172648554",
+          "key": "gaming-1-1501365106172648554",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027",
@@ -4254,7 +4196,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 10:35:06 AM ET"
+      "updated_at": "2026-08-09 11:32:31 AM ET"
     },
     {
       "key": "media",
@@ -4278,8 +4220,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "media-0-183539958742718101",
-          "key": "media-0-183539958742718101",
+          "id": "media-0-7926498536044674551",
+          "key": "media-0-7926498536044674551",
           "category": "Media",
           "label": "Media",
           "headline": "LISTEN: NBCUniversal Media Group Chief Matt Strauss on Growing Peacock, Testing Membership Rewards and Becoming a Daily Habit With Users",
@@ -4306,8 +4248,8 @@
           ]
         },
         {
-          "id": "media-9-976117709857708621",
-          "key": "media-9-976117709857708621",
+          "id": "media-9-1853860980695500535",
+          "key": "media-9-1853860980695500535",
           "category": "Media",
           "label": "Media",
           "headline": "Spencer Pratt To The Rescue? Failed L.A. Mayoral Candidate Wants To Help Trump Save Hollywood, Supposedly",
@@ -4334,8 +4276,8 @@
           ]
         },
         {
-          "id": "media-19-1174472074728421741",
-          "key": "media-19-1174472074728421741",
+          "id": "media-19-865337266190059564",
+          "key": "media-19-865337266190059564",
           "category": "Media",
           "label": "Media",
           "headline": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - newsonair.gov.in",
@@ -4362,8 +4304,8 @@
           ]
         },
         {
-          "id": "media-1-48648003722678094",
-          "key": "media-1-48648003722678094",
+          "id": "media-1-7018734424042715535",
+          "key": "media-1-7018734424042715535",
           "category": "Media",
           "label": "Media",
           "headline": "Paramount’s U.K. Concessions Give ‘Powerful Credibility’ to State AGs’ Lawsuit, Block the Merger Coalition Says: ‘The Dangers’ in U.S. Market ‘Are Unmistakable’",
@@ -4390,8 +4332,8 @@
           ]
         },
         {
-          "id": "media-10-7548155304044852338",
-          "key": "media-10-7548155304044852338",
+          "id": "media-10-7511963882761026415",
+          "key": "media-10-7511963882761026415",
           "category": "Media",
           "label": "Media",
           "headline": "Judge Clarifies That Reporter Catherine Herridge Doesn’t Have To Pay $800-Per-Day Contempt Fines As She Pursues Supreme Court Appeal",
@@ -4420,8 +4362,8 @@
       ],
       "items": [
         {
-          "id": "media-0-183539958742718101",
-          "key": "media-0-183539958742718101",
+          "id": "media-0-7926498536044674551",
+          "key": "media-0-7926498536044674551",
           "category": "Media",
           "label": "Media",
           "headline": "LISTEN: NBCUniversal Media Group Chief Matt Strauss on Growing Peacock, Testing Membership Rewards and Becoming a Daily Habit With Users",
@@ -4448,8 +4390,8 @@
           ]
         },
         {
-          "id": "media-9-976117709857708621",
-          "key": "media-9-976117709857708621",
+          "id": "media-9-1853860980695500535",
+          "key": "media-9-1853860980695500535",
           "category": "Media",
           "label": "Media",
           "headline": "Spencer Pratt To The Rescue? Failed L.A. Mayoral Candidate Wants To Help Trump Save Hollywood, Supposedly",
@@ -4476,8 +4418,8 @@
           ]
         },
         {
-          "id": "media-19-1174472074728421741",
-          "key": "media-19-1174472074728421741",
+          "id": "media-19-865337266190059564",
+          "key": "media-19-865337266190059564",
           "category": "Media",
           "label": "Media",
           "headline": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - newsonair.gov.in",
@@ -4504,8 +4446,8 @@
           ]
         },
         {
-          "id": "media-1-48648003722678094",
-          "key": "media-1-48648003722678094",
+          "id": "media-1-7018734424042715535",
+          "key": "media-1-7018734424042715535",
           "category": "Media",
           "label": "Media",
           "headline": "Paramount’s U.K. Concessions Give ‘Powerful Credibility’ to State AGs’ Lawsuit, Block the Merger Coalition Says: ‘The Dangers’ in U.S. Market ‘Are Unmistakable’",
@@ -4532,8 +4474,8 @@
           ]
         },
         {
-          "id": "media-10-7548155304044852338",
-          "key": "media-10-7548155304044852338",
+          "id": "media-10-7511963882761026415",
+          "key": "media-10-7511963882761026415",
           "category": "Media",
           "label": "Media",
           "headline": "Judge Clarifies That Reporter Catherine Herridge Doesn’t Have To Pay $800-Per-Day Contempt Fines As She Pursues Supreme Court Appeal",
@@ -4560,7 +4502,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 10:35:07 AM ET"
+      "updated_at": "2026-08-09 11:32:32 AM ET"
     }
   ]
 }
