@@ -4,14 +4,14 @@
   "site_name": "Global Entertainment Report",
   "vertical": "Entertainment",
   "headline": "'Teenage Sex and Death at Camp Miasma' Cinematographer, Editor and Star Jack Haven Break Down Little Death's Bloody One-Take Dance",
-  "snapshot": "Global Entertainment Report accepted 45 real RSS item(s) across 31 checked feed request(s).",
-  "generated_at": "2026-08-09 05:32:56 PM ET",
-  "updated_at": "2026-08-09 05:32:56 PM ET",
-  "published_at": "2026-08-09 05:32:56 PM ET",
+  "snapshot": "Global Entertainment Report accepted 46 real RSS item(s) across 31 checked feed request(s).",
+  "generated_at": "2026-08-09 06:31:56 PM ET",
+  "updated_at": "2026-08-09 06:31:56 PM ET",
+  "published_at": "2026-08-09 06:31:56 PM ET",
   "source_mode": "live RSS ingestion",
   "freshness": {
     "max_item_age_hours": 336,
-    "accepted_real_items": 45,
+    "accepted_real_items": 46,
     "checked_feeds": 31,
     "feeds_without_accepted_items": 7
   },
@@ -53,9 +53,9 @@
       "final_url": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 81,
+      "rejected_count": 80,
       "rejection_reasons": {
-        "stale-over-336h": 81
+        "stale-over-336h": 80
       }
     },
     {
@@ -232,10 +232,10 @@
       "final_url": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 49,
+      "rejected_count": 48,
       "rejection_reasons": {
         "duplicate-story": 2,
-        "stale-over-336h": 47
+        "stale-over-336h": 46
       }
     },
     {
@@ -255,11 +255,11 @@
       "url": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
-      "item_count": 89,
+      "item_count": 91,
       "accepted_count": 2,
-      "rejected_count": 77,
+      "rejected_count": 79,
       "rejection_reasons": {
-        "stale-over-336h": 77
+        "stale-over-336h": 79
       }
     },
     {
@@ -326,10 +326,10 @@
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=gaming+video+games+entertainment&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
-      "accepted_count": 1,
-      "rejected_count": 99,
+      "accepted_count": 2,
+      "rejected_count": 98,
       "rejection_reasons": {
-        "stale-over-336h": 99
+        "stale-over-336h": 98
       }
     },
     {
@@ -375,15 +375,15 @@
     "Anthony Bourdain Biopic A Top 2026 Limited Opening; Jane Schoenbrun, 'CatVideoFest', Fire Up Indie Weekend - Specialty Box Office",
     "James Gray Told His Wife He Would Get an Award at Locarno. She Reminded Him to Take Out the Trash",
     "30 Years Ago Today: 1996 Film, Named One of Robin Williams' Worst Movies, Was Released - Men's Journal",
-    "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night",
-    "Blizzard Reportedly Leads Xbox as 'Top-Performing' Studio Thanks to Overwatch and Diablo",
+    "Ariana Grande Reacts to 'Petal' Debuting at No. 1 on Billboard 200",
+    "Marvel Tokon PC Launch Is So Bad That Famed FGC Content Creator Maximilian Dood Uninstalled the Game on Stream",
     "The Blockbuster Mentality Is Back, Baby!",
     "Wagner Moura Compares Netflix's 'The Last House' To His Hope That \"The World Was Gonna Change\" After COVID Isolation"
   ],
   "live_newsroom": [
     {
-      "id": "film-0-2445943714642715433",
-      "key": "film-0-2445943714642715433",
+      "id": "film-0-1457118195028226294",
+      "key": "film-0-1457118195028226294",
       "category": "Film",
       "label": "Film",
       "headline": "'Teenage Sex and Death at Camp Miasma' Cinematographer, Editor and Star Jack Haven Break Down Little Death's Bloody One-Take Dance",
@@ -409,8 +409,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-5460209966427330949",
-      "key": "film-10-5460209966427330949",
+      "id": "film-10-672725377716328786",
+      "key": "film-10-672725377716328786",
       "category": "Film",
       "label": "Film",
       "headline": "Anthony Bourdain Biopic A Top 2026 Limited Opening; Jane Schoenbrun, 'CatVideoFest', Fire Up Indie Weekend - Specialty Box Office",
@@ -436,8 +436,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-2769052140418183238",
-      "key": "film-22-2769052140418183238",
+      "id": "film-22-5187836161137342791",
+      "key": "film-22-5187836161137342791",
       "category": "Film",
       "label": "Film",
       "headline": "James Gray Told His Wife He Would Get an Award at Locarno. She Reminded Him to Take Out the Trash",
@@ -463,8 +463,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-2509893193740449597",
-      "key": "film-32-2509893193740449597",
+      "id": "film-32-142475693570875661",
+      "key": "film-32-142475693570875661",
       "category": "Film",
       "label": "Film",
       "headline": "30 Years Ago Today: 1996 Film, Named One of Robin Williams' Worst Movies, Was Released - Men's Journal",
@@ -490,22 +490,22 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-1751541108671144207",
-      "key": "music-10-1751541108671144207",
+      "id": "music-10-9138225348373621558",
+      "key": "music-10-9138225348373621558",
       "category": "Music",
       "label": "Music",
-      "headline": "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night",
-      "title": "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night",
-      "snapshot": "The four-night run at Wynn Las Vegas' Encore Theater was scheduled to begin Aug. 14.",
-      "summary": "The four-night run at Wynn Las Vegas' Encore Theater was scheduled to begin Aug. 14.",
-      "url": "https://www.billboard.com/music/music-news/morrissey-cancels-las-vegas-residency-logistical-issues-1236312360/",
+      "headline": "Ariana Grande Reacts to 'Petal' Debuting at No. 1 on Billboard 200",
+      "title": "Ariana Grande Reacts to 'Petal' Debuting at No. 1 on Billboard 200",
+      "snapshot": "She also celebrated the making of the album, her seventh No. 1, with behind-the-scenes footage from the studio captioned \"petal forever.\"",
+      "summary": "She also celebrated the making of the album, her seventh No. 1, with behind-the-scenes footage from the studio captioned \"petal forever.\"",
+      "url": "https://www.billboard.com/music/music-news/ariana-grande-petal-number-1-album-reaction-1236312364/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-09 04:06:17 PM ET",
+      "published_at": "2026-08-09 06:30:49 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night"
+        "Ariana Grande Reacts to 'Petal' Debuting at No. 1 on Billboard 200"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -517,22 +517,22 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-2562389764032180760",
-      "key": "gaming-0-2562389764032180760",
+      "id": "gaming-0-3052829677765832587",
+      "key": "gaming-0-3052829677765832587",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Blizzard Reportedly Leads Xbox as 'Top-Performing' Studio Thanks to Overwatch and Diablo",
-      "title": "Blizzard Reportedly Leads Xbox as 'Top-Performing' Studio Thanks to Overwatch and Diablo",
-      "snapshot": "Blizzard Entertainment is reportedly Microsoft's golden child after Overwatch and Diablo 4: Lord of Hatred helped it become the \"top-performing\" Xbox studio.",
-      "summary": "Blizzard Entertainment is reportedly Microsoft's golden child after Overwatch and Diablo 4: Lord of Hatred helped it become the \"top-performing\" Xbox studio.",
-      "url": "https://www.ign.com/articles/blizzard-reportedly-leads-xbox-as-top-performing-studio-thanks-to-overwatch-and-diablo",
+      "headline": "Marvel Tokon PC Launch Is So Bad That Famed FGC Content Creator Maximilian Dood Uninstalled the Game on Stream",
+      "title": "Marvel Tokon PC Launch Is So Bad That Famed FGC Content Creator Maximilian Dood Uninstalled the Game on Stream",
+      "snapshot": "Marvel Tokon: Fighting Souls' launch weekend has been filled with so many PC issues that even famed FGC content creator Maximilian Christiansen (a.k.a. Maximilian Dood) couldn't help but uninstall the game on stream.",
+      "summary": "Marvel Tokon: Fighting Souls' launch weekend has been filled with so many PC issues that even famed FGC content creator Maximilian Christiansen (a.k.a. Maximilian Dood) couldn't help but uninstall the game on stream.",
+      "url": "https://www.ign.com/articles/marvel-tokon-pc-launch-is-so-bad-that-famed-fgc-content-creator-maximilian-dood-uninstalled-the-game-on-stream",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-09 04:29:23 PM ET",
+      "published_at": "2026-08-09 06:02:57 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Blizzard Reportedly Leads Xbox as 'Top-Performing' Studio Thanks to Overwatch and Diablo"
+        "Marvel Tokon PC Launch Is So Bad That Famed FGC Content Creator Maximilian Dood Uninstalled the Game on Stream"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -544,8 +544,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-3512974028028256836",
-      "key": "film-1-3512974028028256836",
+      "id": "film-1-2768866640176998510",
+      "key": "film-1-2768866640176998510",
       "category": "Film",
       "label": "Film",
       "headline": "The Blockbuster Mentality Is Back, Baby!",
@@ -571,8 +571,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-8116086845783538367",
-      "key": "film-11-8116086845783538367",
+      "id": "film-11-484880157149931090",
+      "key": "film-11-484880157149931090",
       "category": "Film",
       "label": "Film",
       "headline": "Wagner Moura Compares Netflix's 'The Last House' To His Hope That \"The World Was Gonna Change\" After COVID Isolation",
@@ -598,8 +598,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-6937081536167434816",
-      "key": "film-23-6937081536167434816",
+      "id": "film-23-8018345715451282262",
+      "key": "film-23-8018345715451282262",
       "category": "Film",
       "label": "Film",
       "headline": "Letterboxd Responds to Website Crash that Signed Users Out of Accounts",
@@ -625,8 +625,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-3945304417533352138",
-      "key": "film-33-3945304417533352138",
+      "id": "film-33-4280114027559170822",
+      "key": "film-33-4280114027559170822",
       "category": "Film",
       "label": "Film",
       "headline": "Our favorite memories at the movies - The Verge",
@@ -652,22 +652,22 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-5332625716725130510",
-      "key": "music-11-5332625716725130510",
+      "id": "music-11-1723394515253965859",
+      "key": "music-11-1723394515253965859",
       "category": "Music",
       "label": "Music",
-      "headline": "Whitney Houston Joins Barbie Signature Family",
-      "title": "Whitney Houston Joins Barbie Signature Family",
-      "snapshot": "Inspired by singer's classic video \"I Wanna Dance with Somebody,\" collector's doll was unveiled at fifth annual Legacy of Love Gala in Atlanta.",
-      "summary": "Inspired by singer's classic video \"I Wanna Dance with Somebody,\" collector's doll was unveiled at fifth annual Legacy of Love Gala in Atlanta.",
-      "url": "https://www.billboard.com/music/pop/whitney-houston-barbie-signature-doll-mattel-1236312340/",
+      "headline": "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night",
+      "title": "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night",
+      "snapshot": "The four-night run at Wynn Las Vegas' Encore Theater was scheduled to begin Aug. 14.",
+      "summary": "The four-night run at Wynn Las Vegas' Encore Theater was scheduled to begin Aug. 14.",
+      "url": "https://www.billboard.com/music/music-news/morrissey-cancels-las-vegas-residency-logistical-issues-1236312360/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-09 03:32:40 PM ET",
+      "published_at": "2026-08-09 04:06:17 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Whitney Houston Joins Barbie Signature Family"
+        "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -679,22 +679,22 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-6202354643698496568",
-      "key": "gaming-1-6202354643698496568",
+      "id": "gaming-1-775583266406173507",
+      "key": "gaming-1-775583266406173507",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "The Best Deals Today: Civilization VII, AirPods Pro 3, Spider-Man: Brand New Day Steelbook, and More",
-      "title": "The Best Deals Today: Civilization VII, AirPods Pro 3, Spider-Man: Brand New Day Steelbook, and More",
-      "snapshot": "A new weekend has arrived, and today, you can save on Civilization VII, select LEGO sets, AirPods Pro 3, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Sunday, August 9, below. Civilization VII for $19.99 Amazon has Civilization VII on sale for $19.99 this weekend, saving you $20...",
-      "summary": "A new weekend has arrived, and today, you can save on Civilization VII, select LEGO sets, AirPods Pro 3, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Sunday, August 9, below. Civilization VII for $19.99 Amazon has Civilization VII on sale for $19.99 this weekend, saving you $20...",
-      "url": "https://www.ign.com/articles/best-deals-for-august-9-2026",
+      "headline": "Blizzard Reportedly Leads Xbox as 'Top-Performing' Studio Thanks to Overwatch and Diablo",
+      "title": "Blizzard Reportedly Leads Xbox as 'Top-Performing' Studio Thanks to Overwatch and Diablo",
+      "snapshot": "Blizzard Entertainment is reportedly Microsoft's golden child after Overwatch and Diablo 4: Lord of Hatred helped it become the \"top-performing\" Xbox studio.",
+      "summary": "Blizzard Entertainment is reportedly Microsoft's golden child after Overwatch and Diablo 4: Lord of Hatred helped it become the \"top-performing\" Xbox studio.",
+      "url": "https://www.ign.com/articles/blizzard-reportedly-leads-xbox-as-top-performing-studio-thanks-to-overwatch-and-diablo",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-09 04:26:42 PM ET",
+      "published_at": "2026-08-09 04:29:23 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "The Best Deals Today: Civilization VII, AirPods Pro 3, Spider-Man: Brand New Day Steelbook, and More"
+        "Blizzard Reportedly Leads Xbox as 'Top-Performing' Studio Thanks to Overwatch and Diablo"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -708,8 +708,8 @@
   ],
   "editor_signals": [
     {
-      "id": "film-2-7738529629532298763",
-      "key": "film-2-7738529629532298763",
+      "id": "film-2-4227169251206955493",
+      "key": "film-2-4227169251206955493",
       "category": "Film",
       "label": "Film",
       "headline": "'Five Nights at Freddy's' to Open Real Freddy Fazbear's Pizza Location in 2027",
@@ -735,8 +735,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-190190576369008596",
-      "key": "film-12-190190576369008596",
+      "id": "film-12-9046945891408296544",
+      "key": "film-12-9046945891408296544",
       "category": "Film",
       "label": "Film",
       "headline": "Alia Shawkat Talks Reuniting With Kristen Stewart In 'The Wrong Girls' After She \"Literally Was Not Allowed To Speak\" In 2010's 'The Runaways'",
@@ -762,8 +762,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-4420480401840320634",
-      "key": "film-24-4420480401840320634",
+      "id": "film-24-6515523623680134328",
+      "key": "film-24-6515523623680134328",
       "category": "Film",
       "label": "Film",
       "headline": "'Spring Story,' 'The Surubí,' 'Yazz' Among Locarno Pro Winners",
@@ -789,8 +789,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-882118267202573543",
-      "key": "film-34-882118267202573543",
+      "id": "film-34-8660024904760629638",
+      "key": "film-34-8660024904760629638",
       "category": "Film",
       "label": "Film",
       "headline": "The 35 best sci-fi movies of all time (August 2026) - Entertainment Weekly",
@@ -816,22 +816,22 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-6495923758307845233",
-      "key": "music-12-6495923758307845233",
+      "id": "music-12-1433344537222017233",
+      "key": "music-12-1433344537222017233",
       "category": "Music",
       "label": "Music",
-      "headline": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
-      "title": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
-      "snapshot": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
-      "summary": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
-      "url": "https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
+      "headline": "Whitney Houston Joins Barbie Signature Family",
+      "title": "Whitney Houston Joins Barbie Signature Family",
+      "snapshot": "Inspired by singer's classic video \"I Wanna Dance with Somebody,\" collector's doll was unveiled at fifth annual Legacy of Love Gala in Atlanta.",
+      "summary": "Inspired by singer's classic video \"I Wanna Dance with Somebody,\" collector's doll was unveiled at fifth annual Legacy of Love Gala in Atlanta.",
+      "url": "https://www.billboard.com/music/pop/whitney-houston-barbie-signature-doll-mattel-1236312340/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-09 03:14:52 PM ET",
+      "published_at": "2026-08-09 03:32:40 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List"
+        "Whitney Houston Joins Barbie Signature Family"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -843,22 +843,22 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-281261723583730286",
-      "key": "gaming-2-281261723583730286",
+      "id": "gaming-2-7182669368113397726",
+      "key": "gaming-2-7182669368113397726",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "'If You're Not a Netflix Subscriber, You Definitely Should Be' - Take-Two Boss Teases Grand Theft Auto VI: An Extended Look",
-      "title": "'If You're Not a Netflix Subscriber, You Definitely Should Be' - Take-Two Boss Teases Grand Theft Auto VI: An Extended Look",
-      "snapshot": "Take-Two Boss Strauss Zelnick discusses Grand Theft Auto VI: An Extended Look Netflix reveal.",
-      "summary": "Take-Two Boss Strauss Zelnick discusses Grand Theft Auto VI: An Extended Look Netflix reveal.",
-      "url": "https://www.ign.com/articles/if-youre-not-a-netflix-subscriber-you-definitely-should-be-take-two-boss-teases-grand-theft-auto-vi-an-extended-look",
+      "headline": "The Best Deals Today: Civilization VII, AirPods Pro 3, Spider-Man: Brand New Day Steelbook, and More",
+      "title": "The Best Deals Today: Civilization VII, AirPods Pro 3, Spider-Man: Brand New Day Steelbook, and More",
+      "snapshot": "A new weekend has arrived, and today, you can save on Civilization VII, select LEGO sets, AirPods Pro 3, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Sunday, August 9, below. Civilization VII for $19.99 Amazon has Civilization VII on sale for $19.99 this weekend, saving you $20...",
+      "summary": "A new weekend has arrived, and today, you can save on Civilization VII, select LEGO sets, AirPods Pro 3, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Sunday, August 9, below. Civilization VII for $19.99 Amazon has Civilization VII on sale for $19.99 this weekend, saving you $20...",
+      "url": "https://www.ign.com/articles/best-deals-for-august-9-2026",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-09 06:25:54 AM ET",
+      "published_at": "2026-08-09 04:26:42 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'If You're Not a Netflix Subscriber, You Definitely Should Be' - Take-Two Boss Teases Grand Theft Auto VI: An Extended Look"
+        "The Best Deals Today: Civilization VII, AirPods Pro 3, Spider-Man: Brand New Day Steelbook, and More"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -870,8 +870,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-8458282914222499539",
-      "key": "film-3-8458282914222499539",
+      "id": "film-3-7803070368188934341",
+      "key": "film-3-7803070368188934341",
       "category": "Film",
       "label": "Film",
       "headline": "Florian Hoffmann's U.N. Compound Drama 'Yazz' Takes Main Alliance 4 Development Prizes at Locarno Pro Awards",
@@ -897,8 +897,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-4563148009830306537",
-      "key": "film-13-4563148009830306537",
+      "id": "film-13-448702132838777295",
+      "key": "film-13-448702132838777295",
       "category": "Film",
       "label": "Film",
       "headline": "'Five Nights at Freddy's' Immersive Freddy Fazbear's Pizza Opening In N.J. Mall",
@@ -924,8 +924,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-4196767986727640125",
-      "key": "film-25-4196767986727640125",
+      "id": "film-25-1037831102917710461",
+      "key": "film-25-1037831102917710461",
       "category": "Film",
       "label": "Film",
       "headline": "'Spider-Man: Brand New Day' Scores $145M for Third-Best Second Weekend Ever",
@@ -951,8 +951,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-1074737406028392129",
-      "key": "film-35-1074737406028392129",
+      "id": "film-35-7193914789479396291",
+      "key": "film-35-7193914789479396291",
       "category": "Film",
       "label": "Film",
       "headline": "Everything to know about 'Madden,' a new movie coming to Prime Video November 18 - About Amazon",
@@ -978,22 +978,22 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-4485113064712873774",
-      "key": "music-13-4485113064712873774",
+      "id": "music-13-9127370357115559257",
+      "key": "music-13-9127370357115559257",
       "category": "Music",
       "label": "Music",
-      "headline": "Ariana Grande Achieves Seventh No. 1 Album on Billboard 200 With 'petal'",
-      "title": "Ariana Grande Achieves Seventh No. 1 Album on Billboard 200 With 'petal'",
-      "snapshot": "The set scores Grande her biggest week by units earned this decade.",
-      "summary": "The set scores Grande her biggest week by units earned this decade.",
-      "url": "https://www.billboard.com/music/chart-beat/ariana-grande-petal-number-one-billboard-200-chart-1236312334/",
+      "headline": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
+      "title": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
+      "snapshot": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
+      "summary": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
+      "url": "https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-09 03:00:18 PM ET",
+      "published_at": "2026-08-09 03:14:52 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Ariana Grande Achieves Seventh No. 1 Album on Billboard 200 With 'petal'"
+        "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1005,22 +1005,22 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-8294886513676941198",
-      "key": "gaming-3-8294886513676941198",
+      "id": "gaming-3-2630111404538677605",
+      "key": "gaming-3-2630111404538677605",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027",
-      "title": "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027",
-      "snapshot": "Freddy Fazbear's Pizza is coming to life thanks to a new collaboration between Five Nights at Freddy's and entertainment and retail center American Dream.",
-      "summary": "Freddy Fazbear's Pizza is coming to life thanks to a new collaboration between Five Nights at Freddy's and entertainment and retail center American Dream.",
-      "url": "https://www.ign.com/articles/freddy-fazbears-pizza-opening-permanent-location-featuring-animatronic-stage-shows-in-2027",
+      "headline": "'If You're Not a Netflix Subscriber, You Definitely Should Be' - Take-Two Boss Teases Grand Theft Auto VI: An Extended Look",
+      "title": "'If You're Not a Netflix Subscriber, You Definitely Should Be' - Take-Two Boss Teases Grand Theft Auto VI: An Extended Look",
+      "snapshot": "Take-Two Boss Strauss Zelnick discusses Grand Theft Auto VI: An Extended Look Netflix reveal.",
+      "summary": "Take-Two Boss Strauss Zelnick discusses Grand Theft Auto VI: An Extended Look Netflix reveal.",
+      "url": "https://www.ign.com/articles/if-youre-not-a-netflix-subscriber-you-definitely-should-be-take-two-boss-teases-grand-theft-auto-vi-an-extended-look",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-08 06:00:13 PM ET",
+      "published_at": "2026-08-09 06:25:54 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027"
+        "'If You're Not a Netflix Subscriber, You Definitely Should Be' - Take-Two Boss Teases Grand Theft Auto VI: An Extended Look"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1034,8 +1034,8 @@
   ],
   "homepage_cards": [
     {
-      "id": "film-0-2445943714642715433",
-      "key": "film-0-2445943714642715433",
+      "id": "film-0-1457118195028226294",
+      "key": "film-0-1457118195028226294",
       "category": "Film",
       "label": "Film",
       "headline": "'Teenage Sex and Death at Camp Miasma' Cinematographer, Editor and Star Jack Haven Break Down Little Death's Bloody One-Take Dance",
@@ -1061,8 +1061,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-5460209966427330949",
-      "key": "film-10-5460209966427330949",
+      "id": "film-10-672725377716328786",
+      "key": "film-10-672725377716328786",
       "category": "Film",
       "label": "Film",
       "headline": "Anthony Bourdain Biopic A Top 2026 Limited Opening; Jane Schoenbrun, 'CatVideoFest', Fire Up Indie Weekend - Specialty Box Office",
@@ -1088,8 +1088,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-2769052140418183238",
-      "key": "film-22-2769052140418183238",
+      "id": "film-22-5187836161137342791",
+      "key": "film-22-5187836161137342791",
       "category": "Film",
       "label": "Film",
       "headline": "James Gray Told His Wife He Would Get an Award at Locarno. She Reminded Him to Take Out the Trash",
@@ -1115,8 +1115,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-2509893193740449597",
-      "key": "film-32-2509893193740449597",
+      "id": "film-32-142475693570875661",
+      "key": "film-32-142475693570875661",
       "category": "Film",
       "label": "Film",
       "headline": "30 Years Ago Today: 1996 Film, Named One of Robin Williams' Worst Movies, Was Released - Men's Journal",
@@ -1142,22 +1142,22 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-1751541108671144207",
-      "key": "music-10-1751541108671144207",
+      "id": "music-10-9138225348373621558",
+      "key": "music-10-9138225348373621558",
       "category": "Music",
       "label": "Music",
-      "headline": "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night",
-      "title": "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night",
-      "snapshot": "The four-night run at Wynn Las Vegas' Encore Theater was scheduled to begin Aug. 14.",
-      "summary": "The four-night run at Wynn Las Vegas' Encore Theater was scheduled to begin Aug. 14.",
-      "url": "https://www.billboard.com/music/music-news/morrissey-cancels-las-vegas-residency-logistical-issues-1236312360/",
+      "headline": "Ariana Grande Reacts to 'Petal' Debuting at No. 1 on Billboard 200",
+      "title": "Ariana Grande Reacts to 'Petal' Debuting at No. 1 on Billboard 200",
+      "snapshot": "She also celebrated the making of the album, her seventh No. 1, with behind-the-scenes footage from the studio captioned \"petal forever.\"",
+      "summary": "She also celebrated the making of the album, her seventh No. 1, with behind-the-scenes footage from the studio captioned \"petal forever.\"",
+      "url": "https://www.billboard.com/music/music-news/ariana-grande-petal-number-1-album-reaction-1236312364/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-09 04:06:17 PM ET",
+      "published_at": "2026-08-09 06:30:49 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night"
+        "Ariana Grande Reacts to 'Petal' Debuting at No. 1 on Billboard 200"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1169,22 +1169,22 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-2562389764032180760",
-      "key": "gaming-0-2562389764032180760",
+      "id": "gaming-0-3052829677765832587",
+      "key": "gaming-0-3052829677765832587",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Blizzard Reportedly Leads Xbox as 'Top-Performing' Studio Thanks to Overwatch and Diablo",
-      "title": "Blizzard Reportedly Leads Xbox as 'Top-Performing' Studio Thanks to Overwatch and Diablo",
-      "snapshot": "Blizzard Entertainment is reportedly Microsoft's golden child after Overwatch and Diablo 4: Lord of Hatred helped it become the \"top-performing\" Xbox studio.",
-      "summary": "Blizzard Entertainment is reportedly Microsoft's golden child after Overwatch and Diablo 4: Lord of Hatred helped it become the \"top-performing\" Xbox studio.",
-      "url": "https://www.ign.com/articles/blizzard-reportedly-leads-xbox-as-top-performing-studio-thanks-to-overwatch-and-diablo",
+      "headline": "Marvel Tokon PC Launch Is So Bad That Famed FGC Content Creator Maximilian Dood Uninstalled the Game on Stream",
+      "title": "Marvel Tokon PC Launch Is So Bad That Famed FGC Content Creator Maximilian Dood Uninstalled the Game on Stream",
+      "snapshot": "Marvel Tokon: Fighting Souls' launch weekend has been filled with so many PC issues that even famed FGC content creator Maximilian Christiansen (a.k.a. Maximilian Dood) couldn't help but uninstall the game on stream.",
+      "summary": "Marvel Tokon: Fighting Souls' launch weekend has been filled with so many PC issues that even famed FGC content creator Maximilian Christiansen (a.k.a. Maximilian Dood) couldn't help but uninstall the game on stream.",
+      "url": "https://www.ign.com/articles/marvel-tokon-pc-launch-is-so-bad-that-famed-fgc-content-creator-maximilian-dood-uninstalled-the-game-on-stream",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-09 04:29:23 PM ET",
+      "published_at": "2026-08-09 06:02:57 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Blizzard Reportedly Leads Xbox as 'Top-Performing' Studio Thanks to Overwatch and Diablo"
+        "Marvel Tokon PC Launch Is So Bad That Famed FGC Content Creator Maximilian Dood Uninstalled the Game on Stream"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1196,8 +1196,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-3512974028028256836",
-      "key": "film-1-3512974028028256836",
+      "id": "film-1-2768866640176998510",
+      "key": "film-1-2768866640176998510",
       "category": "Film",
       "label": "Film",
       "headline": "The Blockbuster Mentality Is Back, Baby!",
@@ -1223,8 +1223,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-8116086845783538367",
-      "key": "film-11-8116086845783538367",
+      "id": "film-11-484880157149931090",
+      "key": "film-11-484880157149931090",
       "category": "Film",
       "label": "Film",
       "headline": "Wagner Moura Compares Netflix's 'The Last House' To His Hope That \"The World Was Gonna Change\" After COVID Isolation",
@@ -1250,8 +1250,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-6937081536167434816",
-      "key": "film-23-6937081536167434816",
+      "id": "film-23-8018345715451282262",
+      "key": "film-23-8018345715451282262",
       "category": "Film",
       "label": "Film",
       "headline": "Letterboxd Responds to Website Crash that Signed Users Out of Accounts",
@@ -1277,8 +1277,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-3945304417533352138",
-      "key": "film-33-3945304417533352138",
+      "id": "film-33-4280114027559170822",
+      "key": "film-33-4280114027559170822",
       "category": "Film",
       "label": "Film",
       "headline": "Our favorite memories at the movies - The Verge",
@@ -1304,22 +1304,22 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-5332625716725130510",
-      "key": "music-11-5332625716725130510",
+      "id": "music-11-1723394515253965859",
+      "key": "music-11-1723394515253965859",
       "category": "Music",
       "label": "Music",
-      "headline": "Whitney Houston Joins Barbie Signature Family",
-      "title": "Whitney Houston Joins Barbie Signature Family",
-      "snapshot": "Inspired by singer's classic video \"I Wanna Dance with Somebody,\" collector's doll was unveiled at fifth annual Legacy of Love Gala in Atlanta.",
-      "summary": "Inspired by singer's classic video \"I Wanna Dance with Somebody,\" collector's doll was unveiled at fifth annual Legacy of Love Gala in Atlanta.",
-      "url": "https://www.billboard.com/music/pop/whitney-houston-barbie-signature-doll-mattel-1236312340/",
+      "headline": "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night",
+      "title": "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night",
+      "snapshot": "The four-night run at Wynn Las Vegas' Encore Theater was scheduled to begin Aug. 14.",
+      "summary": "The four-night run at Wynn Las Vegas' Encore Theater was scheduled to begin Aug. 14.",
+      "url": "https://www.billboard.com/music/music-news/morrissey-cancels-las-vegas-residency-logistical-issues-1236312360/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-09 03:32:40 PM ET",
+      "published_at": "2026-08-09 04:06:17 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Whitney Houston Joins Barbie Signature Family"
+        "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1331,22 +1331,22 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-6202354643698496568",
-      "key": "gaming-1-6202354643698496568",
+      "id": "gaming-1-775583266406173507",
+      "key": "gaming-1-775583266406173507",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "The Best Deals Today: Civilization VII, AirPods Pro 3, Spider-Man: Brand New Day Steelbook, and More",
-      "title": "The Best Deals Today: Civilization VII, AirPods Pro 3, Spider-Man: Brand New Day Steelbook, and More",
-      "snapshot": "A new weekend has arrived, and today, you can save on Civilization VII, select LEGO sets, AirPods Pro 3, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Sunday, August 9, below. Civilization VII for $19.99 Amazon has Civilization VII on sale for $19.99 this weekend, saving you $20...",
-      "summary": "A new weekend has arrived, and today, you can save on Civilization VII, select LEGO sets, AirPods Pro 3, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Sunday, August 9, below. Civilization VII for $19.99 Amazon has Civilization VII on sale for $19.99 this weekend, saving you $20...",
-      "url": "https://www.ign.com/articles/best-deals-for-august-9-2026",
+      "headline": "Blizzard Reportedly Leads Xbox as 'Top-Performing' Studio Thanks to Overwatch and Diablo",
+      "title": "Blizzard Reportedly Leads Xbox as 'Top-Performing' Studio Thanks to Overwatch and Diablo",
+      "snapshot": "Blizzard Entertainment is reportedly Microsoft's golden child after Overwatch and Diablo 4: Lord of Hatred helped it become the \"top-performing\" Xbox studio.",
+      "summary": "Blizzard Entertainment is reportedly Microsoft's golden child after Overwatch and Diablo 4: Lord of Hatred helped it become the \"top-performing\" Xbox studio.",
+      "url": "https://www.ign.com/articles/blizzard-reportedly-leads-xbox-as-top-performing-studio-thanks-to-overwatch-and-diablo",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-09 04:26:42 PM ET",
+      "published_at": "2026-08-09 04:29:23 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "The Best Deals Today: Civilization VII, AirPods Pro 3, Spider-Man: Brand New Day Steelbook, and More"
+        "Blizzard Reportedly Leads Xbox as 'Top-Performing' Studio Thanks to Overwatch and Diablo"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1358,8 +1358,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-2-7738529629532298763",
-      "key": "film-2-7738529629532298763",
+      "id": "film-2-4227169251206955493",
+      "key": "film-2-4227169251206955493",
       "category": "Film",
       "label": "Film",
       "headline": "'Five Nights at Freddy's' to Open Real Freddy Fazbear's Pizza Location in 2027",
@@ -1385,8 +1385,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-190190576369008596",
-      "key": "film-12-190190576369008596",
+      "id": "film-12-9046945891408296544",
+      "key": "film-12-9046945891408296544",
       "category": "Film",
       "label": "Film",
       "headline": "Alia Shawkat Talks Reuniting With Kristen Stewart In 'The Wrong Girls' After She \"Literally Was Not Allowed To Speak\" In 2010's 'The Runaways'",
@@ -1412,8 +1412,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-4420480401840320634",
-      "key": "film-24-4420480401840320634",
+      "id": "film-24-6515523623680134328",
+      "key": "film-24-6515523623680134328",
       "category": "Film",
       "label": "Film",
       "headline": "'Spring Story,' 'The Surubí,' 'Yazz' Among Locarno Pro Winners",
@@ -1439,8 +1439,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-882118267202573543",
-      "key": "film-34-882118267202573543",
+      "id": "film-34-8660024904760629638",
+      "key": "film-34-8660024904760629638",
       "category": "Film",
       "label": "Film",
       "headline": "The 35 best sci-fi movies of all time (August 2026) - Entertainment Weekly",
@@ -1466,22 +1466,22 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-6495923758307845233",
-      "key": "music-12-6495923758307845233",
+      "id": "music-12-1433344537222017233",
+      "key": "music-12-1433344537222017233",
       "category": "Music",
       "label": "Music",
-      "headline": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
-      "title": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
-      "snapshot": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
-      "summary": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
-      "url": "https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
+      "headline": "Whitney Houston Joins Barbie Signature Family",
+      "title": "Whitney Houston Joins Barbie Signature Family",
+      "snapshot": "Inspired by singer's classic video \"I Wanna Dance with Somebody,\" collector's doll was unveiled at fifth annual Legacy of Love Gala in Atlanta.",
+      "summary": "Inspired by singer's classic video \"I Wanna Dance with Somebody,\" collector's doll was unveiled at fifth annual Legacy of Love Gala in Atlanta.",
+      "url": "https://www.billboard.com/music/pop/whitney-houston-barbie-signature-doll-mattel-1236312340/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-09 03:14:52 PM ET",
+      "published_at": "2026-08-09 03:32:40 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List"
+        "Whitney Houston Joins Barbie Signature Family"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1493,22 +1493,22 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-281261723583730286",
-      "key": "gaming-2-281261723583730286",
+      "id": "gaming-2-7182669368113397726",
+      "key": "gaming-2-7182669368113397726",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "'If You're Not a Netflix Subscriber, You Definitely Should Be' - Take-Two Boss Teases Grand Theft Auto VI: An Extended Look",
-      "title": "'If You're Not a Netflix Subscriber, You Definitely Should Be' - Take-Two Boss Teases Grand Theft Auto VI: An Extended Look",
-      "snapshot": "Take-Two Boss Strauss Zelnick discusses Grand Theft Auto VI: An Extended Look Netflix reveal.",
-      "summary": "Take-Two Boss Strauss Zelnick discusses Grand Theft Auto VI: An Extended Look Netflix reveal.",
-      "url": "https://www.ign.com/articles/if-youre-not-a-netflix-subscriber-you-definitely-should-be-take-two-boss-teases-grand-theft-auto-vi-an-extended-look",
+      "headline": "The Best Deals Today: Civilization VII, AirPods Pro 3, Spider-Man: Brand New Day Steelbook, and More",
+      "title": "The Best Deals Today: Civilization VII, AirPods Pro 3, Spider-Man: Brand New Day Steelbook, and More",
+      "snapshot": "A new weekend has arrived, and today, you can save on Civilization VII, select LEGO sets, AirPods Pro 3, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Sunday, August 9, below. Civilization VII for $19.99 Amazon has Civilization VII on sale for $19.99 this weekend, saving you $20...",
+      "summary": "A new weekend has arrived, and today, you can save on Civilization VII, select LEGO sets, AirPods Pro 3, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Sunday, August 9, below. Civilization VII for $19.99 Amazon has Civilization VII on sale for $19.99 this weekend, saving you $20...",
+      "url": "https://www.ign.com/articles/best-deals-for-august-9-2026",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-09 06:25:54 AM ET",
+      "published_at": "2026-08-09 04:26:42 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'If You're Not a Netflix Subscriber, You Definitely Should Be' - Take-Two Boss Teases Grand Theft Auto VI: An Extended Look"
+        "The Best Deals Today: Civilization VII, AirPods Pro 3, Spider-Man: Brand New Day Steelbook, and More"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1520,8 +1520,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-8458282914222499539",
-      "key": "film-3-8458282914222499539",
+      "id": "film-3-7803070368188934341",
+      "key": "film-3-7803070368188934341",
       "category": "Film",
       "label": "Film",
       "headline": "Florian Hoffmann's U.N. Compound Drama 'Yazz' Takes Main Alliance 4 Development Prizes at Locarno Pro Awards",
@@ -1547,8 +1547,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-4563148009830306537",
-      "key": "film-13-4563148009830306537",
+      "id": "film-13-448702132838777295",
+      "key": "film-13-448702132838777295",
       "category": "Film",
       "label": "Film",
       "headline": "'Five Nights at Freddy's' Immersive Freddy Fazbear's Pizza Opening In N.J. Mall",
@@ -1574,8 +1574,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-4196767986727640125",
-      "key": "film-25-4196767986727640125",
+      "id": "film-25-1037831102917710461",
+      "key": "film-25-1037831102917710461",
       "category": "Film",
       "label": "Film",
       "headline": "'Spider-Man: Brand New Day' Scores $145M for Third-Best Second Weekend Ever",
@@ -1601,8 +1601,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-1074737406028392129",
-      "key": "film-35-1074737406028392129",
+      "id": "film-35-7193914789479396291",
+      "key": "film-35-7193914789479396291",
       "category": "Film",
       "label": "Film",
       "headline": "Everything to know about 'Madden,' a new movie coming to Prime Video November 18 - About Amazon",
@@ -1628,22 +1628,22 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-4485113064712873774",
-      "key": "music-13-4485113064712873774",
+      "id": "music-13-9127370357115559257",
+      "key": "music-13-9127370357115559257",
       "category": "Music",
       "label": "Music",
-      "headline": "Ariana Grande Achieves Seventh No. 1 Album on Billboard 200 With 'petal'",
-      "title": "Ariana Grande Achieves Seventh No. 1 Album on Billboard 200 With 'petal'",
-      "snapshot": "The set scores Grande her biggest week by units earned this decade.",
-      "summary": "The set scores Grande her biggest week by units earned this decade.",
-      "url": "https://www.billboard.com/music/chart-beat/ariana-grande-petal-number-one-billboard-200-chart-1236312334/",
+      "headline": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
+      "title": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
+      "snapshot": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
+      "summary": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
+      "url": "https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-09 03:00:18 PM ET",
+      "published_at": "2026-08-09 03:14:52 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Ariana Grande Achieves Seventh No. 1 Album on Billboard 200 With 'petal'"
+        "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1655,22 +1655,22 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-8294886513676941198",
-      "key": "gaming-3-8294886513676941198",
+      "id": "gaming-3-2630111404538677605",
+      "key": "gaming-3-2630111404538677605",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027",
-      "title": "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027",
-      "snapshot": "Freddy Fazbear's Pizza is coming to life thanks to a new collaboration between Five Nights at Freddy's and entertainment and retail center American Dream.",
-      "summary": "Freddy Fazbear's Pizza is coming to life thanks to a new collaboration between Five Nights at Freddy's and entertainment and retail center American Dream.",
-      "url": "https://www.ign.com/articles/freddy-fazbears-pizza-opening-permanent-location-featuring-animatronic-stage-shows-in-2027",
+      "headline": "'If You're Not a Netflix Subscriber, You Definitely Should Be' - Take-Two Boss Teases Grand Theft Auto VI: An Extended Look",
+      "title": "'If You're Not a Netflix Subscriber, You Definitely Should Be' - Take-Two Boss Teases Grand Theft Auto VI: An Extended Look",
+      "snapshot": "Take-Two Boss Strauss Zelnick discusses Grand Theft Auto VI: An Extended Look Netflix reveal.",
+      "summary": "Take-Two Boss Strauss Zelnick discusses Grand Theft Auto VI: An Extended Look Netflix reveal.",
+      "url": "https://www.ign.com/articles/if-youre-not-a-netflix-subscriber-you-definitely-should-be-take-two-boss-teases-grand-theft-auto-vi-an-extended-look",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-08 06:00:13 PM ET",
+      "published_at": "2026-08-09 06:25:54 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027"
+        "'If You're Not a Netflix Subscriber, You Definitely Should Be' - Take-Two Boss Teases Grand Theft Auto VI: An Extended Look"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1708,8 +1708,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "film-0-2445943714642715433",
-          "key": "film-0-2445943714642715433",
+          "id": "film-0-1457118195028226294",
+          "key": "film-0-1457118195028226294",
           "category": "Film",
           "label": "Film",
           "headline": "‘Teenage Sex and Death at Camp Miasma’ Cinematographer, Editor and Star Jack Haven Break Down Little Death’s Bloody One-Take Dance",
@@ -1736,8 +1736,8 @@
           ]
         },
         {
-          "id": "film-10-5460209966427330949",
-          "key": "film-10-5460209966427330949",
+          "id": "film-10-672725377716328786",
+          "key": "film-10-672725377716328786",
           "category": "Film",
           "label": "Film",
           "headline": "Anthony Bourdain Biopic A Top 2026 Limited Opening; Jane Schoenbrun, ‘CatVideoFest’, Fire Up Indie Weekend – Specialty Box Office",
@@ -1764,8 +1764,8 @@
           ]
         },
         {
-          "id": "film-22-2769052140418183238",
-          "key": "film-22-2769052140418183238",
+          "id": "film-22-5187836161137342791",
+          "key": "film-22-5187836161137342791",
           "category": "Film",
           "label": "Film",
           "headline": "James Gray Told His Wife He Would Get an Award at Locarno. She Reminded Him to Take Out the Trash",
@@ -1792,8 +1792,8 @@
           ]
         },
         {
-          "id": "film-32-2509893193740449597",
-          "key": "film-32-2509893193740449597",
+          "id": "film-32-142475693570875661",
+          "key": "film-32-142475693570875661",
           "category": "Film",
           "label": "Film",
           "headline": "30 Years Ago Today: 1996 Film, Named One of Robin Williams’ Worst Movies, Was Released - Men's Journal",
@@ -1820,8 +1820,8 @@
           ]
         },
         {
-          "id": "film-1-3512974028028256836",
-          "key": "film-1-3512974028028256836",
+          "id": "film-1-2768866640176998510",
+          "key": "film-1-2768866640176998510",
           "category": "Film",
           "label": "Film",
           "headline": "The Blockbuster Mentality Is Back, Baby!",
@@ -1848,8 +1848,8 @@
           ]
         },
         {
-          "id": "film-11-8116086845783538367",
-          "key": "film-11-8116086845783538367",
+          "id": "film-11-484880157149931090",
+          "key": "film-11-484880157149931090",
           "category": "Film",
           "label": "Film",
           "headline": "Wagner Moura Compares Netflix’s ‘The Last House’ To His Hope That “The World Was Gonna Change” After COVID Isolation",
@@ -1876,8 +1876,8 @@
           ]
         },
         {
-          "id": "film-23-6937081536167434816",
-          "key": "film-23-6937081536167434816",
+          "id": "film-23-8018345715451282262",
+          "key": "film-23-8018345715451282262",
           "category": "Film",
           "label": "Film",
           "headline": "Letterboxd Responds to Website Crash that Signed Users Out of Accounts",
@@ -1904,8 +1904,8 @@
           ]
         },
         {
-          "id": "film-33-3945304417533352138",
-          "key": "film-33-3945304417533352138",
+          "id": "film-33-4280114027559170822",
+          "key": "film-33-4280114027559170822",
           "category": "Film",
           "label": "Film",
           "headline": "Our favorite memories at the movies - The Verge",
@@ -1934,8 +1934,8 @@
       ],
       "items": [
         {
-          "id": "film-0-2445943714642715433",
-          "key": "film-0-2445943714642715433",
+          "id": "film-0-1457118195028226294",
+          "key": "film-0-1457118195028226294",
           "category": "Film",
           "label": "Film",
           "headline": "‘Teenage Sex and Death at Camp Miasma’ Cinematographer, Editor and Star Jack Haven Break Down Little Death’s Bloody One-Take Dance",
@@ -1962,8 +1962,8 @@
           ]
         },
         {
-          "id": "film-10-5460209966427330949",
-          "key": "film-10-5460209966427330949",
+          "id": "film-10-672725377716328786",
+          "key": "film-10-672725377716328786",
           "category": "Film",
           "label": "Film",
           "headline": "Anthony Bourdain Biopic A Top 2026 Limited Opening; Jane Schoenbrun, ‘CatVideoFest’, Fire Up Indie Weekend – Specialty Box Office",
@@ -1990,8 +1990,8 @@
           ]
         },
         {
-          "id": "film-22-2769052140418183238",
-          "key": "film-22-2769052140418183238",
+          "id": "film-22-5187836161137342791",
+          "key": "film-22-5187836161137342791",
           "category": "Film",
           "label": "Film",
           "headline": "James Gray Told His Wife He Would Get an Award at Locarno. She Reminded Him to Take Out the Trash",
@@ -2018,8 +2018,8 @@
           ]
         },
         {
-          "id": "film-32-2509893193740449597",
-          "key": "film-32-2509893193740449597",
+          "id": "film-32-142475693570875661",
+          "key": "film-32-142475693570875661",
           "category": "Film",
           "label": "Film",
           "headline": "30 Years Ago Today: 1996 Film, Named One of Robin Williams’ Worst Movies, Was Released - Men's Journal",
@@ -2046,8 +2046,8 @@
           ]
         },
         {
-          "id": "film-1-3512974028028256836",
-          "key": "film-1-3512974028028256836",
+          "id": "film-1-2768866640176998510",
+          "key": "film-1-2768866640176998510",
           "category": "Film",
           "label": "Film",
           "headline": "The Blockbuster Mentality Is Back, Baby!",
@@ -2074,8 +2074,8 @@
           ]
         },
         {
-          "id": "film-11-8116086845783538367",
-          "key": "film-11-8116086845783538367",
+          "id": "film-11-484880157149931090",
+          "key": "film-11-484880157149931090",
           "category": "Film",
           "label": "Film",
           "headline": "Wagner Moura Compares Netflix’s ‘The Last House’ To His Hope That “The World Was Gonna Change” After COVID Isolation",
@@ -2102,8 +2102,8 @@
           ]
         },
         {
-          "id": "film-23-6937081536167434816",
-          "key": "film-23-6937081536167434816",
+          "id": "film-23-8018345715451282262",
+          "key": "film-23-8018345715451282262",
           "category": "Film",
           "label": "Film",
           "headline": "Letterboxd Responds to Website Crash that Signed Users Out of Accounts",
@@ -2130,8 +2130,8 @@
           ]
         },
         {
-          "id": "film-33-3945304417533352138",
-          "key": "film-33-3945304417533352138",
+          "id": "film-33-4280114027559170822",
+          "key": "film-33-4280114027559170822",
           "category": "Film",
           "label": "Film",
           "headline": "Our favorite memories at the movies - The Verge",
@@ -2158,7 +2158,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 05:32:57 PM ET"
+      "updated_at": "2026-08-09 06:31:57 PM ET"
     },
     {
       "key": "tv",
@@ -2183,8 +2183,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "tv-0-7910294511116898386",
-          "key": "tv-0-7910294511116898386",
+          "id": "tv-0-7627936090408714861",
+          "key": "tv-0-7627936090408714861",
           "category": "TV",
           "label": "TV",
           "headline": "What’s It Going to Take for Steve Carell to Finally Win an Emmy?",
@@ -2211,8 +2211,8 @@
           ]
         },
         {
-          "id": "tv-10-3121652967635604286",
-          "key": "tv-10-3121652967635604286",
+          "id": "tv-10-6351125173256592928",
+          "key": "tv-10-6351125173256592928",
           "category": "TV",
           "label": "TV",
           "headline": "Obama Blames Larry David For 2014 Tan Suit Debacle In ‘Life, Larry & the Pursuit of Unhappiness’ Finale",
@@ -2239,8 +2239,8 @@
           ]
         },
         {
-          "id": "tv-22-5029235472594865543",
-          "key": "tv-22-5029235472594865543",
+          "id": "tv-22-411733973778380669",
+          "key": "tv-22-411733973778380669",
           "category": "TV",
           "label": "TV",
           "headline": "Bill Maher’s Jab About Ariana Grande’s Weight Leads to ‘Real Time’ Studio Audience Groans",
@@ -2267,8 +2267,8 @@
           ]
         },
         {
-          "id": "tv-1-4763352795213214154",
-          "key": "tv-1-4763352795213214154",
+          "id": "tv-1-8387686277573898337",
+          "key": "tv-1-8387686277573898337",
           "category": "TV",
           "label": "TV",
           "headline": "Perez Hilton ‘Will Require Surgery’ After Live Stream Incident, Family Demands Media ‘Cease Photographing Perez’s Children’",
@@ -2295,8 +2295,8 @@
           ]
         },
         {
-          "id": "tv-11-1106784947543075085",
-          "key": "tv-11-1106784947543075085",
+          "id": "tv-11-5888326065546608821",
+          "key": "tv-11-5888326065546608821",
           "category": "TV",
           "label": "TV",
           "headline": "‘Monsters Of God’ Slithers Onto HBO: Reptilian Docuseries From ‘Tiger King’s Eric Goode",
@@ -2323,8 +2323,8 @@
           ]
         },
         {
-          "id": "tv-23-4483939821579674048",
-          "key": "tv-23-4483939821579674048",
+          "id": "tv-23-8656176717731832633",
+          "key": "tv-23-8656176717731832633",
           "category": "TV",
           "label": "TV",
           "headline": "‘Heated Rivalry’ Author Rachel Reid Pushes Back Against Season 2 Casting Criticism",
@@ -2353,8 +2353,8 @@
       ],
       "items": [
         {
-          "id": "tv-0-7910294511116898386",
-          "key": "tv-0-7910294511116898386",
+          "id": "tv-0-7627936090408714861",
+          "key": "tv-0-7627936090408714861",
           "category": "TV",
           "label": "TV",
           "headline": "What’s It Going to Take for Steve Carell to Finally Win an Emmy?",
@@ -2381,8 +2381,8 @@
           ]
         },
         {
-          "id": "tv-10-3121652967635604286",
-          "key": "tv-10-3121652967635604286",
+          "id": "tv-10-6351125173256592928",
+          "key": "tv-10-6351125173256592928",
           "category": "TV",
           "label": "TV",
           "headline": "Obama Blames Larry David For 2014 Tan Suit Debacle In ‘Life, Larry & the Pursuit of Unhappiness’ Finale",
@@ -2409,8 +2409,8 @@
           ]
         },
         {
-          "id": "tv-22-5029235472594865543",
-          "key": "tv-22-5029235472594865543",
+          "id": "tv-22-411733973778380669",
+          "key": "tv-22-411733973778380669",
           "category": "TV",
           "label": "TV",
           "headline": "Bill Maher’s Jab About Ariana Grande’s Weight Leads to ‘Real Time’ Studio Audience Groans",
@@ -2437,8 +2437,8 @@
           ]
         },
         {
-          "id": "tv-1-4763352795213214154",
-          "key": "tv-1-4763352795213214154",
+          "id": "tv-1-8387686277573898337",
+          "key": "tv-1-8387686277573898337",
           "category": "TV",
           "label": "TV",
           "headline": "Perez Hilton ‘Will Require Surgery’ After Live Stream Incident, Family Demands Media ‘Cease Photographing Perez’s Children’",
@@ -2465,8 +2465,8 @@
           ]
         },
         {
-          "id": "tv-11-1106784947543075085",
-          "key": "tv-11-1106784947543075085",
+          "id": "tv-11-5888326065546608821",
+          "key": "tv-11-5888326065546608821",
           "category": "TV",
           "label": "TV",
           "headline": "‘Monsters Of God’ Slithers Onto HBO: Reptilian Docuseries From ‘Tiger King’s Eric Goode",
@@ -2493,8 +2493,8 @@
           ]
         },
         {
-          "id": "tv-23-4483939821579674048",
-          "key": "tv-23-4483939821579674048",
+          "id": "tv-23-8656176717731832633",
+          "key": "tv-23-8656176717731832633",
           "category": "TV",
           "label": "TV",
           "headline": "‘Heated Rivalry’ Author Rachel Reid Pushes Back Against Season 2 Casting Criticism",
@@ -2521,7 +2521,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 05:32:57 PM ET"
+      "updated_at": "2026-08-09 06:31:57 PM ET"
     },
     {
       "key": "streaming",
@@ -2537,8 +2537,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "streaming-0-7296343607921316338",
-          "key": "streaming-0-7296343607921316338",
+          "id": "streaming-0-1057818030147844756",
+          "key": "streaming-0-1057818030147844756",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Disney turns $4-billion streaming loss into profit, and now it chases global growth - Los Angeles Times",
@@ -2567,8 +2567,8 @@
       ],
       "items": [
         {
-          "id": "streaming-0-7296343607921316338",
-          "key": "streaming-0-7296343607921316338",
+          "id": "streaming-0-1057818030147844756",
+          "key": "streaming-0-1057818030147844756",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Disney turns $4-billion streaming loss into profit, and now it chases global growth - Los Angeles Times",
@@ -2595,7 +2595,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 05:32:58 PM ET"
+      "updated_at": "2026-08-09 06:31:58 PM ET"
     },
     {
       "key": "music",
@@ -2605,23 +2605,23 @@
       "snapshot": "Music coverage is updating with 6 current RSS headline item(s).",
       "key_storylines": [
         "Ariana Grande Debuts at No. 1 on Album Chart With ‘Petal,’ Earning Her Best First-Week Numbers in Seven Years",
-        "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night",
+        "Ariana Grande Reacts to ‘Petal’ Debuting at No. 1 on Billboard 200",
         "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - billboard.com",
         "Morrissey Cancels Las Vegas Residency Days Before Showtime Due to ‘Unforeseen Logistical Issues’",
-        "Whitney Houston Joins Barbie Signature Family"
+        "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night"
       ],
       "watch_list": [
         "Ariana Grande Debuts at No. 1 on Album Chart With ‘Petal,’ Earning Her Best First-Week Numbers in Seven Years",
-        "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night",
+        "Ariana Grande Reacts to ‘Petal’ Debuting at No. 1 on Billboard 200",
         "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - billboard.com",
         "Morrissey Cancels Las Vegas Residency Days Before Showtime Due to ‘Unforeseen Logistical Issues’",
-        "Whitney Houston Joins Barbie Signature Family",
+        "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night",
         "It’s Official: Influence Media to Buy Anthem for Over $600 Million - Billboard"
       ],
       "homepage_cards": [
         {
-          "id": "music-0-5867772676731832632",
-          "key": "music-0-5867772676731832632",
+          "id": "music-0-7691979811620896959",
+          "key": "music-0-7691979811620896959",
           "category": "Music",
           "label": "Music",
           "headline": "Ariana Grande Debuts at No. 1 on Album Chart With ‘Petal,’ Earning Her Best First-Week Numbers in Seven Years",
@@ -2648,25 +2648,25 @@
           ]
         },
         {
-          "id": "music-10-1751541108671144207",
-          "key": "music-10-1751541108671144207",
+          "id": "music-10-9138225348373621558",
+          "key": "music-10-9138225348373621558",
           "category": "Music",
           "label": "Music",
-          "headline": "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night",
-          "title": "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night",
-          "snapshot": "The four-night run at Wynn Las Vegas’ Encore Theater was scheduled to begin Aug. 14.",
-          "summary": "The four-night run at Wynn Las Vegas’ Encore Theater was scheduled to begin Aug. 14.",
-          "url": "https://www.billboard.com/music/music-news/morrissey-cancels-las-vegas-residency-logistical-issues-1236312360/",
+          "headline": "Ariana Grande Reacts to ‘Petal’ Debuting at No. 1 on Billboard 200",
+          "title": "Ariana Grande Reacts to ‘Petal’ Debuting at No. 1 on Billboard 200",
+          "snapshot": "She also celebrated the making of the album, her seventh No. 1, with behind-the-scenes footage from the studio captioned \"petal forever.\"",
+          "summary": "She also celebrated the making of the album, her seventh No. 1, with behind-the-scenes footage from the studio captioned \"petal forever.\"",
+          "url": "https://www.billboard.com/music/music-news/ariana-grande-petal-number-1-album-reaction-1236312364/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-09 04:06:17 PM ET",
+          "published_at": "2026-08-09 06:30:49 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night"
+            "Ariana Grande Reacts to ‘Petal’ Debuting at No. 1 on Billboard 200"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2676,8 +2676,8 @@
           ]
         },
         {
-          "id": "music-20-551548251916066654",
-          "key": "music-20-551548251916066654",
+          "id": "music-20-6981157072179599659",
+          "key": "music-20-6981157072179599659",
           "category": "Music",
           "label": "Music",
           "headline": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - billboard.com",
@@ -2704,8 +2704,8 @@
           ]
         },
         {
-          "id": "music-1-3205762614344226006",
-          "key": "music-1-3205762614344226006",
+          "id": "music-1-1623225722055632646",
+          "key": "music-1-1623225722055632646",
           "category": "Music",
           "label": "Music",
           "headline": "Morrissey Cancels Las Vegas Residency Days Before Showtime Due to ‘Unforeseen Logistical Issues’",
@@ -2732,25 +2732,25 @@
           ]
         },
         {
-          "id": "music-11-5332625716725130510",
-          "key": "music-11-5332625716725130510",
+          "id": "music-11-1723394515253965859",
+          "key": "music-11-1723394515253965859",
           "category": "Music",
           "label": "Music",
-          "headline": "Whitney Houston Joins Barbie Signature Family",
-          "title": "Whitney Houston Joins Barbie Signature Family",
-          "snapshot": "Inspired by singer's classic video \"I Wanna Dance with Somebody,\" collector's doll was unveiled at fifth annual Legacy of Love Gala in Atlanta.",
-          "summary": "Inspired by singer's classic video \"I Wanna Dance with Somebody,\" collector's doll was unveiled at fifth annual Legacy of Love Gala in Atlanta.",
-          "url": "https://www.billboard.com/music/pop/whitney-houston-barbie-signature-doll-mattel-1236312340/",
+          "headline": "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night",
+          "title": "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night",
+          "snapshot": "The four-night run at Wynn Las Vegas’ Encore Theater was scheduled to begin Aug. 14.",
+          "summary": "The four-night run at Wynn Las Vegas’ Encore Theater was scheduled to begin Aug. 14.",
+          "url": "https://www.billboard.com/music/music-news/morrissey-cancels-las-vegas-residency-logistical-issues-1236312360/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-09 03:32:40 PM ET",
+          "published_at": "2026-08-09 04:06:17 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "Whitney Houston Joins Barbie Signature Family"
+            "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2760,8 +2760,8 @@
           ]
         },
         {
-          "id": "music-21-3772228774046865613",
-          "key": "music-21-3772228774046865613",
+          "id": "music-21-8170222487550697301",
+          "key": "music-21-8170222487550697301",
           "category": "Music",
           "label": "Music",
           "headline": "It’s Official: Influence Media to Buy Anthem for Over $600 Million - Billboard",
@@ -2790,8 +2790,8 @@
       ],
       "items": [
         {
-          "id": "music-0-5867772676731832632",
-          "key": "music-0-5867772676731832632",
+          "id": "music-0-7691979811620896959",
+          "key": "music-0-7691979811620896959",
           "category": "Music",
           "label": "Music",
           "headline": "Ariana Grande Debuts at No. 1 on Album Chart With ‘Petal,’ Earning Her Best First-Week Numbers in Seven Years",
@@ -2818,25 +2818,25 @@
           ]
         },
         {
-          "id": "music-10-1751541108671144207",
-          "key": "music-10-1751541108671144207",
+          "id": "music-10-9138225348373621558",
+          "key": "music-10-9138225348373621558",
           "category": "Music",
           "label": "Music",
-          "headline": "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night",
-          "title": "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night",
-          "snapshot": "The four-night run at Wynn Las Vegas’ Encore Theater was scheduled to begin Aug. 14.",
-          "summary": "The four-night run at Wynn Las Vegas’ Encore Theater was scheduled to begin Aug. 14.",
-          "url": "https://www.billboard.com/music/music-news/morrissey-cancels-las-vegas-residency-logistical-issues-1236312360/",
+          "headline": "Ariana Grande Reacts to ‘Petal’ Debuting at No. 1 on Billboard 200",
+          "title": "Ariana Grande Reacts to ‘Petal’ Debuting at No. 1 on Billboard 200",
+          "snapshot": "She also celebrated the making of the album, her seventh No. 1, with behind-the-scenes footage from the studio captioned \"petal forever.\"",
+          "summary": "She also celebrated the making of the album, her seventh No. 1, with behind-the-scenes footage from the studio captioned \"petal forever.\"",
+          "url": "https://www.billboard.com/music/music-news/ariana-grande-petal-number-1-album-reaction-1236312364/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-09 04:06:17 PM ET",
+          "published_at": "2026-08-09 06:30:49 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night"
+            "Ariana Grande Reacts to ‘Petal’ Debuting at No. 1 on Billboard 200"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2846,8 +2846,8 @@
           ]
         },
         {
-          "id": "music-20-551548251916066654",
-          "key": "music-20-551548251916066654",
+          "id": "music-20-6981157072179599659",
+          "key": "music-20-6981157072179599659",
           "category": "Music",
           "label": "Music",
           "headline": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - billboard.com",
@@ -2874,8 +2874,8 @@
           ]
         },
         {
-          "id": "music-1-3205762614344226006",
-          "key": "music-1-3205762614344226006",
+          "id": "music-1-1623225722055632646",
+          "key": "music-1-1623225722055632646",
           "category": "Music",
           "label": "Music",
           "headline": "Morrissey Cancels Las Vegas Residency Days Before Showtime Due to ‘Unforeseen Logistical Issues’",
@@ -2902,25 +2902,25 @@
           ]
         },
         {
-          "id": "music-11-5332625716725130510",
-          "key": "music-11-5332625716725130510",
+          "id": "music-11-1723394515253965859",
+          "key": "music-11-1723394515253965859",
           "category": "Music",
           "label": "Music",
-          "headline": "Whitney Houston Joins Barbie Signature Family",
-          "title": "Whitney Houston Joins Barbie Signature Family",
-          "snapshot": "Inspired by singer's classic video \"I Wanna Dance with Somebody,\" collector's doll was unveiled at fifth annual Legacy of Love Gala in Atlanta.",
-          "summary": "Inspired by singer's classic video \"I Wanna Dance with Somebody,\" collector's doll was unveiled at fifth annual Legacy of Love Gala in Atlanta.",
-          "url": "https://www.billboard.com/music/pop/whitney-houston-barbie-signature-doll-mattel-1236312340/",
+          "headline": "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night",
+          "title": "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night",
+          "snapshot": "The four-night run at Wynn Las Vegas’ Encore Theater was scheduled to begin Aug. 14.",
+          "summary": "The four-night run at Wynn Las Vegas’ Encore Theater was scheduled to begin Aug. 14.",
+          "url": "https://www.billboard.com/music/music-news/morrissey-cancels-las-vegas-residency-logistical-issues-1236312360/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-09 03:32:40 PM ET",
+          "published_at": "2026-08-09 04:06:17 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "Whitney Houston Joins Barbie Signature Family"
+            "Morrissey Cancels Las Vegas Residency Shows Days Before Opening Night"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2930,8 +2930,8 @@
           ]
         },
         {
-          "id": "music-21-3772228774046865613",
-          "key": "music-21-3772228774046865613",
+          "id": "music-21-8170222487550697301",
+          "key": "music-21-8170222487550697301",
           "category": "Music",
           "label": "Music",
           "headline": "It’s Official: Influence Media to Buy Anthem for Over $600 Million - Billboard",
@@ -2958,7 +2958,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 05:32:59 PM ET"
+      "updated_at": "2026-08-09 06:31:59 PM ET"
     },
     {
       "key": "awards",
@@ -2968,20 +2968,20 @@
       "snapshot": "Awards coverage is updating with 4 current RSS headline item(s).",
       "key_storylines": [
         "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
-        "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline",
+        "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - deadline.com",
         "James Gray Says AI Is ‘Worthless’ and Young People Won’t Stand for It: They ‘Have a Real Hunger for Interesting, Honest Stuff’",
         "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo"
       ],
       "watch_list": [
         "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
-        "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline",
+        "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - deadline.com",
         "James Gray Says AI Is ‘Worthless’ and Young People Won’t Stand for It: They ‘Have a Real Hunger for Interesting, Honest Stuff’",
         "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo"
       ],
       "homepage_cards": [
         {
-          "id": "awards-0-2160633619312643556",
-          "key": "awards-0-2160633619312643556",
+          "id": "awards-0-6990356513352520637",
+          "key": "awards-0-6990356513352520637",
           "category": "Awards",
           "label": "Awards",
           "headline": "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
@@ -3008,14 +3008,14 @@
           ]
         },
         {
-          "id": "awards-5-8659143020633800997",
-          "key": "awards-5-8659143020633800997",
+          "id": "awards-5-2535815123587268888",
+          "key": "awards-5-2535815123587268888",
           "category": "Awards",
           "label": "Awards",
-          "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline",
-          "title": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline",
-          "snapshot": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More Deadline",
-          "summary": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More Deadline",
+          "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - deadline.com",
+          "title": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - deadline.com",
+          "snapshot": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More deadline.com",
+          "summary": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More deadline.com",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdGg4QjJyZUJKQ2FiQTJmTllYMEE0WlN6V19uVXlWVjROc0ZVMUd0RV84VExSb2U3U05kbzdWVVBJdC1PLTV4UC1VREMtMHVfZW05VGpQS09JX3JPWERkQVM4eWdic1BtVldkeGJIeURUTlFRMlp4MjU4T1BRRXlNdUR3TEJZcnRfbWxTdWQxNUZjbk5PR2ktc1NlUQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3026,7 +3026,7 @@
           "story_type": "rss_headline",
           "priority_score": 95,
           "key_data": [
-            "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline"
+            "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - deadline.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3036,8 +3036,8 @@
           ]
         },
         {
-          "id": "awards-1-587620568405831691",
-          "key": "awards-1-587620568405831691",
+          "id": "awards-1-3747187106647190836",
+          "key": "awards-1-3747187106647190836",
           "category": "Awards",
           "label": "Awards",
           "headline": "James Gray Says AI Is ‘Worthless’ and Young People Won’t Stand for It: They ‘Have a Real Hunger for Interesting, Honest Stuff’",
@@ -3064,8 +3064,8 @@
           ]
         },
         {
-          "id": "awards-6-8609895262480829223",
-          "key": "awards-6-8609895262480829223",
+          "id": "awards-6-5243787571086501179",
+          "key": "awards-6-5243787571086501179",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo",
@@ -3094,8 +3094,8 @@
       ],
       "items": [
         {
-          "id": "awards-0-2160633619312643556",
-          "key": "awards-0-2160633619312643556",
+          "id": "awards-0-6990356513352520637",
+          "key": "awards-0-6990356513352520637",
           "category": "Awards",
           "label": "Awards",
           "headline": "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
@@ -3122,14 +3122,14 @@
           ]
         },
         {
-          "id": "awards-5-8659143020633800997",
-          "key": "awards-5-8659143020633800997",
+          "id": "awards-5-2535815123587268888",
+          "key": "awards-5-2535815123587268888",
           "category": "Awards",
           "label": "Awards",
-          "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline",
-          "title": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline",
-          "snapshot": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More Deadline",
-          "summary": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More Deadline",
+          "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - deadline.com",
+          "title": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - deadline.com",
+          "snapshot": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More deadline.com",
+          "summary": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More deadline.com",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdGg4QjJyZUJKQ2FiQTJmTllYMEE0WlN6V19uVXlWVjROc0ZVMUd0RV84VExSb2U3U05kbzdWVVBJdC1PLTV4UC1VREMtMHVfZW05VGpQS09JX3JPWERkQVM4eWdic1BtVldkeGJIeURUTlFRMlp4MjU4T1BRRXlNdUR3TEJZcnRfbWxTdWQxNUZjbk5PR2ktc1NlUQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3140,7 +3140,7 @@
           "story_type": "rss_headline",
           "priority_score": 95,
           "key_data": [
-            "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Deadline"
+            "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - deadline.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3150,8 +3150,8 @@
           ]
         },
         {
-          "id": "awards-1-587620568405831691",
-          "key": "awards-1-587620568405831691",
+          "id": "awards-1-3747187106647190836",
+          "key": "awards-1-3747187106647190836",
           "category": "Awards",
           "label": "Awards",
           "headline": "James Gray Says AI Is ‘Worthless’ and Young People Won’t Stand for It: They ‘Have a Real Hunger for Interesting, Honest Stuff’",
@@ -3178,8 +3178,8 @@
           ]
         },
         {
-          "id": "awards-6-8609895262480829223",
-          "key": "awards-6-8609895262480829223",
+          "id": "awards-6-5243787571086501179",
+          "key": "awards-6-5243787571086501179",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo",
@@ -3206,7 +3206,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 05:32:59 PM ET"
+      "updated_at": "2026-08-09 06:31:59 PM ET"
     },
     {
       "key": "box_office",
@@ -3216,20 +3216,20 @@
       "snapshot": "Box Office coverage is updating with 4 current RSS headline item(s).",
       "key_storylines": [
         "Box Office: ‘Spider-Man: Brand New Day’ Swings into Second Weekend With $43 Million on Friday",
-        "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today - Bollywood Hungama",
+        "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today - bollywoodhungama.com",
         "‘The Odyssey’ Surpasses $1 Billion, Christopher Nolan’s First Movie Since ‘Dark Knight Rises’ to Reach Coveted Box Office Milestone",
         "‘Spider-Man’ Will Boost Hollywood’s Summer Box Office Sales Past $4 Billion - Barron's"
       ],
       "watch_list": [
         "Box Office: ‘Spider-Man: Brand New Day’ Swings into Second Weekend With $43 Million on Friday",
-        "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today - Bollywood Hungama",
+        "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today - bollywoodhungama.com",
         "‘The Odyssey’ Surpasses $1 Billion, Christopher Nolan’s First Movie Since ‘Dark Knight Rises’ to Reach Coveted Box Office Milestone",
         "‘Spider-Man’ Will Boost Hollywood’s Summer Box Office Sales Past $4 Billion - Barron's"
       ],
       "homepage_cards": [
         {
-          "id": "box_office-0-963638727070536127",
-          "key": "box_office-0-963638727070536127",
+          "id": "box_office-0-5066704909500716236",
+          "key": "box_office-0-5066704909500716236",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘Spider-Man: Brand New Day’ Swings into Second Weekend With $43 Million on Friday",
@@ -3256,14 +3256,14 @@
           ]
         },
         {
-          "id": "box_office-7-1887296651435543948",
-          "key": "box_office-7-1887296651435543948",
+          "id": "box_office-7-5005791291008152830",
+          "key": "box_office-7-5005791291008152830",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today - Bollywood Hungama",
-          "title": "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today - Bollywood Hungama",
-          "snapshot": "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today Bollywood Hungama",
-          "summary": "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today Bollywood Hungama",
+          "headline": "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today - bollywoodhungama.com",
+          "title": "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today - bollywoodhungama.com",
+          "snapshot": "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today bollywoodhungama.com",
+          "summary": "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today bollywoodhungama.com",
           "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxON0MxTTNkS2NleVhSRXU0cG9uQlpodEtzX3NSU25zWEZTaG14Nk1KLTNBWUdva0dsLXFBM1ZpTVkwdmZQTmJwUlRtUUZsYUJPcTFfLU1ZVFEyTkdrcFJ3eXhxaXRBZXlNcHlYUlpHZldCMUVsMS1MN2hUbXJpblF6VnlxSFZVUC1heE56ajlFVVhPdHpXdkF0a2ZjNjg1WFJOT0sxOGs3VW56OU1PZENiU2V3QWsyUlAzOFVXUlZ3S2ZfMFBFTnAzN2dIblBLZEd1aWhNT29IdVg4Mk5RY0s3SnFSelBIWklfQnp3MGR5S185VWVhUjR4d3JudWNRemR0SnkyLVdqNVlBa3EySmMySW5n0gGXAkFVX3lxTE5sNF9LRGhHUGwtU21pQ25XdDFjYV9xYno2QUxKNFNfbHd2ZmJpUV9RUnl0cVpPSU1kN2JJVEpLanQ0bGhWcDZhSHducmEwOFZnUkFBMVRWc2hTek15QnpVek5ucmNBeno5ZHdBYmJqdmJ5ZUQ2elo0OWd4QkxzM3lZVVJXbzA4c2lMdWNYU1dLTjZLajJnWmdWUG5wc1dPSlBsU0JfMVBHdmlrVkFmanhuMjhHSF9EV3ZObmt1a05vTENYV09TSlpjQkZkS2RPYzUtWjlZQURGVGpKZ3NLZkF5TTVtRUt5cG1SLTRPdFNhWTFVQTl4cWJOU0dUMmxoT3Q3UzhoVUZNa0NETUFzMURXVHRhSDhobw?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3274,7 +3274,7 @@
           "story_type": "rss_headline",
           "priority_score": 93,
           "key_data": [
-            "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today - Bollywood Hungama"
+            "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today - bollywoodhungama.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3284,8 +3284,8 @@
           ]
         },
         {
-          "id": "box_office-1-1029856353874735805",
-          "key": "box_office-1-1029856353874735805",
+          "id": "box_office-1-3701564594345083817",
+          "key": "box_office-1-3701564594345083817",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ Surpasses $1 Billion, Christopher Nolan’s First Movie Since ‘Dark Knight Rises’ to Reach Coveted Box Office Milestone",
@@ -3312,8 +3312,8 @@
           ]
         },
         {
-          "id": "box_office-8-8173958000669384664",
-          "key": "box_office-8-8173958000669384664",
+          "id": "box_office-8-3954239814215125921",
+          "key": "box_office-8-3954239814215125921",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Spider-Man’ Will Boost Hollywood’s Summer Box Office Sales Past $4 Billion - Barron's",
@@ -3342,8 +3342,8 @@
       ],
       "items": [
         {
-          "id": "box_office-0-963638727070536127",
-          "key": "box_office-0-963638727070536127",
+          "id": "box_office-0-5066704909500716236",
+          "key": "box_office-0-5066704909500716236",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘Spider-Man: Brand New Day’ Swings into Second Weekend With $43 Million on Friday",
@@ -3370,14 +3370,14 @@
           ]
         },
         {
-          "id": "box_office-7-1887296651435543948",
-          "key": "box_office-7-1887296651435543948",
+          "id": "box_office-7-5005791291008152830",
+          "key": "box_office-7-5005791291008152830",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today - Bollywood Hungama",
-          "title": "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today - Bollywood Hungama",
-          "snapshot": "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today Bollywood Hungama",
-          "summary": "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today Bollywood Hungama",
+          "headline": "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today - bollywoodhungama.com",
+          "title": "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today - bollywoodhungama.com",
+          "snapshot": "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today bollywoodhungama.com",
+          "summary": "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today bollywoodhungama.com",
           "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxON0MxTTNkS2NleVhSRXU0cG9uQlpodEtzX3NSU25zWEZTaG14Nk1KLTNBWUdva0dsLXFBM1ZpTVkwdmZQTmJwUlRtUUZsYUJPcTFfLU1ZVFEyTkdrcFJ3eXhxaXRBZXlNcHlYUlpHZldCMUVsMS1MN2hUbXJpblF6VnlxSFZVUC1heE56ajlFVVhPdHpXdkF0a2ZjNjg1WFJOT0sxOGs3VW56OU1PZENiU2V3QWsyUlAzOFVXUlZ3S2ZfMFBFTnAzN2dIblBLZEd1aWhNT29IdVg4Mk5RY0s3SnFSelBIWklfQnp3MGR5S185VWVhUjR4d3JudWNRemR0SnkyLVdqNVlBa3EySmMySW5n0gGXAkFVX3lxTE5sNF9LRGhHUGwtU21pQ25XdDFjYV9xYno2QUxKNFNfbHd2ZmJpUV9RUnl0cVpPSU1kN2JJVEpLanQ0bGhWcDZhSHducmEwOFZnUkFBMVRWc2hTek15QnpVek5ucmNBeno5ZHdBYmJqdmJ5ZUQ2elo0OWd4QkxzM3lZVVJXbzA4c2lMdWNYU1dLTjZLajJnWmdWUG5wc1dPSlBsU0JfMVBHdmlrVkFmanhuMjhHSF9EV3ZObmt1a05vTENYV09TSlpjQkZkS2RPYzUtWjlZQURGVGpKZ3NLZkF5TTVtRUt5cG1SLTRPdFNhWTFVQTl4cWJOU0dUMmxoT3Q3UzhoVUZNa0NETUFzMURXVHRhSDhobw?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3388,7 +3388,7 @@
           "story_type": "rss_headline",
           "priority_score": 93,
           "key_data": [
-            "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today - Bollywood Hungama"
+            "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today - bollywoodhungama.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3398,8 +3398,8 @@
           ]
         },
         {
-          "id": "box_office-1-1029856353874735805",
-          "key": "box_office-1-1029856353874735805",
+          "id": "box_office-1-3701564594345083817",
+          "key": "box_office-1-3701564594345083817",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ Surpasses $1 Billion, Christopher Nolan’s First Movie Since ‘Dark Knight Rises’ to Reach Coveted Box Office Milestone",
@@ -3426,8 +3426,8 @@
           ]
         },
         {
-          "id": "box_office-8-8173958000669384664",
-          "key": "box_office-8-8173958000669384664",
+          "id": "box_office-8-3954239814215125921",
+          "key": "box_office-8-3954239814215125921",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Spider-Man’ Will Boost Hollywood’s Summer Box Office Sales Past $4 Billion - Barron's",
@@ -3454,7 +3454,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 05:33:00 PM ET"
+      "updated_at": "2026-08-09 06:32:00 PM ET"
     },
     {
       "key": "celebrity",
@@ -3472,8 +3472,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "celebrity-0-5021596068154835570",
-          "key": "celebrity-0-5021596068154835570",
+          "id": "celebrity-0-7950071318745631488",
+          "key": "celebrity-0-7950071318745631488",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Entertainment News | Latest Celebrity News, Videos & Photos - ABC News - Breaking News, Latest News and Videos",
@@ -3500,8 +3500,8 @@
           ]
         },
         {
-          "id": "celebrity-1-8007066959586481311",
-          "key": "celebrity-1-8007066959586481311",
+          "id": "celebrity-1-6072745445295799751",
+          "key": "celebrity-1-6072745445295799751",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3530,8 +3530,8 @@
       ],
       "items": [
         {
-          "id": "celebrity-0-5021596068154835570",
-          "key": "celebrity-0-5021596068154835570",
+          "id": "celebrity-0-7950071318745631488",
+          "key": "celebrity-0-7950071318745631488",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Entertainment News | Latest Celebrity News, Videos & Photos - ABC News - Breaking News, Latest News and Videos",
@@ -3558,8 +3558,8 @@
           ]
         },
         {
-          "id": "celebrity-1-8007066959586481311",
-          "key": "celebrity-1-8007066959586481311",
+          "id": "celebrity-1-6072745445295799751",
+          "key": "celebrity-1-6072745445295799751",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3586,7 +3586,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 05:33:00 PM ET"
+      "updated_at": "2026-08-09 06:32:00 PM ET"
     },
     {
       "key": "hollywood",
@@ -3611,8 +3611,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "hollywood-0-6390030687174651497",
-          "key": "hollywood-0-6390030687174651497",
+          "id": "hollywood-0-7339434293931091822",
+          "key": "hollywood-0-7339434293931091822",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Summer Domestic Box Office On A Hot Streak, Will Cross $4B By Monday",
@@ -3639,8 +3639,8 @@
           ]
         },
         {
-          "id": "hollywood-6-5112790161007684303",
-          "key": "hollywood-6-5112790161007684303",
+          "id": "hollywood-6-5637836165914563840",
+          "key": "hollywood-6-5637836165914563840",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Two Eiffel Towers, One Perfect Ending: Inside the Final Frame of ‘Hacks’",
@@ -3667,8 +3667,8 @@
           ]
         },
         {
-          "id": "hollywood-12-9099852069802458470",
-          "key": "hollywood-12-9099852069802458470",
+          "id": "hollywood-12-3870763574451402266",
+          "key": "hollywood-12-3870763574451402266",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
@@ -3695,8 +3695,8 @@
           ]
         },
         {
-          "id": "hollywood-1-3008283437291857102",
-          "key": "hollywood-1-3008283437291857102",
+          "id": "hollywood-1-3635440436265110263",
+          "key": "hollywood-1-3635440436265110263",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Paramount Making Deals To Theaters For 30 Films A Year Post WBD Acquisition; Cinema United Still Anti-Merger",
@@ -3723,8 +3723,8 @@
           ]
         },
         {
-          "id": "hollywood-7-7154822186224851690",
-          "key": "hollywood-7-7154822186224851690",
+          "id": "hollywood-7-3932979940515715525",
+          "key": "hollywood-7-3932979940515715525",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Helloooo, Emmy: Art Carney’s Enduring ‘Honeymooners’ Triumph",
@@ -3751,8 +3751,8 @@
           ]
         },
         {
-          "id": "hollywood-13-5251084720468821242",
-          "key": "hollywood-13-5251084720468821242",
+          "id": "hollywood-13-3360065141701809622",
+          "key": "hollywood-13-3360065141701809622",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Why did the United States film industry settle in Hollywood? - Encyclopedia Britannica",
@@ -3781,8 +3781,8 @@
       ],
       "items": [
         {
-          "id": "hollywood-0-6390030687174651497",
-          "key": "hollywood-0-6390030687174651497",
+          "id": "hollywood-0-7339434293931091822",
+          "key": "hollywood-0-7339434293931091822",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Summer Domestic Box Office On A Hot Streak, Will Cross $4B By Monday",
@@ -3809,8 +3809,8 @@
           ]
         },
         {
-          "id": "hollywood-6-5112790161007684303",
-          "key": "hollywood-6-5112790161007684303",
+          "id": "hollywood-6-5637836165914563840",
+          "key": "hollywood-6-5637836165914563840",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Two Eiffel Towers, One Perfect Ending: Inside the Final Frame of ‘Hacks’",
@@ -3837,8 +3837,8 @@
           ]
         },
         {
-          "id": "hollywood-12-9099852069802458470",
-          "key": "hollywood-12-9099852069802458470",
+          "id": "hollywood-12-3870763574451402266",
+          "key": "hollywood-12-3870763574451402266",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
@@ -3865,8 +3865,8 @@
           ]
         },
         {
-          "id": "hollywood-1-3008283437291857102",
-          "key": "hollywood-1-3008283437291857102",
+          "id": "hollywood-1-3635440436265110263",
+          "key": "hollywood-1-3635440436265110263",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Paramount Making Deals To Theaters For 30 Films A Year Post WBD Acquisition; Cinema United Still Anti-Merger",
@@ -3893,8 +3893,8 @@
           ]
         },
         {
-          "id": "hollywood-7-7154822186224851690",
-          "key": "hollywood-7-7154822186224851690",
+          "id": "hollywood-7-3932979940515715525",
+          "key": "hollywood-7-3932979940515715525",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Helloooo, Emmy: Art Carney’s Enduring ‘Honeymooners’ Triumph",
@@ -3921,8 +3921,8 @@
           ]
         },
         {
-          "id": "hollywood-13-5251084720468821242",
-          "key": "hollywood-13-5251084720468821242",
+          "id": "hollywood-13-3360065141701809622",
+          "key": "hollywood-13-3360065141701809622",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Why did the United States film industry settle in Hollywood? - Encyclopedia Britannica",
@@ -3949,28 +3949,86 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 05:33:01 PM ET"
+      "updated_at": "2026-08-09 06:32:01 PM ET"
     },
     {
       "key": "gaming",
       "name": "Gaming",
       "title": "Gaming Report",
-      "headline": "Blizzard Reportedly Leads Xbox as 'Top-Performing' Studio Thanks to Overwatch and Diablo",
-      "snapshot": "Gaming coverage is updating with 3 current RSS headline item(s).",
+      "headline": "Marvel Tokon PC Launch Is So Bad That Famed FGC Content Creator Maximilian Dood Uninstalled the Game on Stream",
+      "snapshot": "Gaming coverage is updating with 4 current RSS headline item(s).",
       "key_storylines": [
+        "Marvel Tokon PC Launch Is So Bad That Famed FGC Content Creator Maximilian Dood Uninstalled the Game on Stream",
+        "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem - The Washington Post",
         "Blizzard Reportedly Leads Xbox as 'Top-Performing' Studio Thanks to Overwatch and Diablo",
-        "What is friendslop? Inside gaming's fastest-growing trend, including the newest hit Big Walk - CBC",
-        "The Best Deals Today: Civilization VII, AirPods Pro 3, Spider-Man: Brand New Day Steelbook, and More"
+        "What is friendslop? Inside gaming's fastest-growing trend, including the newest hit Big Walk - CBC"
       ],
       "watch_list": [
+        "Marvel Tokon PC Launch Is So Bad That Famed FGC Content Creator Maximilian Dood Uninstalled the Game on Stream",
+        "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem - The Washington Post",
         "Blizzard Reportedly Leads Xbox as 'Top-Performing' Studio Thanks to Overwatch and Diablo",
-        "What is friendslop? Inside gaming's fastest-growing trend, including the newest hit Big Walk - CBC",
-        "The Best Deals Today: Civilization VII, AirPods Pro 3, Spider-Man: Brand New Day Steelbook, and More"
+        "What is friendslop? Inside gaming's fastest-growing trend, including the newest hit Big Walk - CBC"
       ],
       "homepage_cards": [
         {
-          "id": "gaming-0-2562389764032180760",
-          "key": "gaming-0-2562389764032180760",
+          "id": "gaming-0-3052829677765832587",
+          "key": "gaming-0-3052829677765832587",
+          "category": "Gaming",
+          "label": "Gaming",
+          "headline": "Marvel Tokon PC Launch Is So Bad That Famed FGC Content Creator Maximilian Dood Uninstalled the Game on Stream",
+          "title": "Marvel Tokon PC Launch Is So Bad That Famed FGC Content Creator Maximilian Dood Uninstalled the Game on Stream",
+          "snapshot": "Marvel Tokon: Fighting Souls' launch weekend has been filled with so many PC issues that even famed FGC content creator Maximilian Christiansen (a.k.a. Maximilian Dood) couldn't help but uninstall the game on stream.",
+          "summary": "Marvel Tokon: Fighting Souls' launch weekend has been filled with so many PC issues that even famed FGC content creator Maximilian Christiansen (a.k.a. Maximilian Dood) couldn't help but uninstall the game on stream.",
+          "url": "https://www.ign.com/articles/marvel-tokon-pc-launch-is-so-bad-that-famed-fgc-content-creator-maximilian-dood-uninstalled-the-game-on-stream",
+          "source": "IGN",
+          "source_name": "IGN",
+          "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
+          "published_at": "2026-08-09 06:02:57 PM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 100,
+          "key_data": [
+            "Marvel Tokon PC Launch Is So Bad That Famed FGC Content Creator Maximilian Dood Uninstalled the Game on Stream"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "gaming-20-8102948073873981668",
+          "key": "gaming-20-8102948073873981668",
+          "category": "Gaming",
+          "label": "Gaming",
+          "headline": "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem - The Washington Post",
+          "title": "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem - The Washington Post",
+          "snapshot": "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem The Washington Post",
+          "summary": "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbS1tN1Rtcl9jUXA0cFVXX045czdjUDByanFTcjd3RFVLaUJ0M0RtNHh1b3BPQXc2Y3hjMklnT2JyTmJXeUlTOEtXN1FyaVlPUUtRTFhPSnIxNG5PUWpfaFJLQ3NHUWhRQnJLdnpNRmJUbXdzb2p5V2dOck9jb1o5bzh2d0lYUFNYZVE1ZHRBSUZjTktOTFNRQmdsdFRzNmFRZjB3OEdxSzZ3UmxHQnFNOTVDU2tTU20yRW1VcGg1NGwtX0puQVE?oc=5",
+          "source": "Google News",
+          "source_name": "Google News",
+          "source_feed": "https://news.google.com/rss/search?q=gaming+video+games+entertainment&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-09 01:00:01 PM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 80,
+          "key_data": [
+            "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem - The Washington Post"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "gaming-1-775583266406173507",
+          "key": "gaming-1-775583266406173507",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Blizzard Reportedly Leads Xbox as 'Top-Performing' Studio Thanks to Overwatch and Diablo",
@@ -3985,7 +4043,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 100,
+          "priority_score": 99,
           "key_data": [
             "Blizzard Reportedly Leads Xbox as 'Top-Performing' Studio Thanks to Overwatch and Diablo"
           ],
@@ -3997,8 +4055,8 @@
           ]
         },
         {
-          "id": "gaming-20-2407911987568565587",
-          "key": "gaming-20-2407911987568565587",
+          "id": "gaming-21-7154219695717974038",
+          "key": "gaming-21-7154219695717974038",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "What is friendslop? Inside gaming's fastest-growing trend, including the newest hit Big Walk - CBC",
@@ -4013,37 +4071,9 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 80,
+          "priority_score": 79,
           "key_data": [
             "What is friendslop? Inside gaming's fastest-growing trend, including the newest hit Big Walk - CBC"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "gaming-1-6202354643698496568",
-          "key": "gaming-1-6202354643698496568",
-          "category": "Gaming",
-          "label": "Gaming",
-          "headline": "The Best Deals Today: Civilization VII, AirPods Pro 3, Spider-Man: Brand New Day Steelbook, and More",
-          "title": "The Best Deals Today: Civilization VII, AirPods Pro 3, Spider-Man: Brand New Day Steelbook, and More",
-          "snapshot": "A new weekend has arrived, and today, you can save on Civilization VII, select LEGO sets, AirPods Pro 3, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Sunday, August 9, below. Civilization VII for $19.99 Amazon has Civilization VII on sale for $19.99 this weekend, saving you $20...",
-          "summary": "A new weekend has arrived, and today, you can save on Civilization VII, select LEGO sets, AirPods Pro 3, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Sunday, August 9, below. Civilization VII for $19.99 Amazon has Civilization VII on sale for $19.99 this weekend, saving you $20...",
-          "url": "https://www.ign.com/articles/best-deals-for-august-9-2026",
-          "source": "IGN",
-          "source_name": "IGN",
-          "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-          "published_at": "2026-08-09 04:26:42 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 99,
-          "key_data": [
-            "The Best Deals Today: Civilization VII, AirPods Pro 3, Spider-Man: Brand New Day Steelbook, and More"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4055,8 +4085,64 @@
       ],
       "items": [
         {
-          "id": "gaming-0-2562389764032180760",
-          "key": "gaming-0-2562389764032180760",
+          "id": "gaming-0-3052829677765832587",
+          "key": "gaming-0-3052829677765832587",
+          "category": "Gaming",
+          "label": "Gaming",
+          "headline": "Marvel Tokon PC Launch Is So Bad That Famed FGC Content Creator Maximilian Dood Uninstalled the Game on Stream",
+          "title": "Marvel Tokon PC Launch Is So Bad That Famed FGC Content Creator Maximilian Dood Uninstalled the Game on Stream",
+          "snapshot": "Marvel Tokon: Fighting Souls' launch weekend has been filled with so many PC issues that even famed FGC content creator Maximilian Christiansen (a.k.a. Maximilian Dood) couldn't help but uninstall the game on stream.",
+          "summary": "Marvel Tokon: Fighting Souls' launch weekend has been filled with so many PC issues that even famed FGC content creator Maximilian Christiansen (a.k.a. Maximilian Dood) couldn't help but uninstall the game on stream.",
+          "url": "https://www.ign.com/articles/marvel-tokon-pc-launch-is-so-bad-that-famed-fgc-content-creator-maximilian-dood-uninstalled-the-game-on-stream",
+          "source": "IGN",
+          "source_name": "IGN",
+          "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
+          "published_at": "2026-08-09 06:02:57 PM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 100,
+          "key_data": [
+            "Marvel Tokon PC Launch Is So Bad That Famed FGC Content Creator Maximilian Dood Uninstalled the Game on Stream"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "gaming-20-8102948073873981668",
+          "key": "gaming-20-8102948073873981668",
+          "category": "Gaming",
+          "label": "Gaming",
+          "headline": "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem - The Washington Post",
+          "title": "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem - The Washington Post",
+          "snapshot": "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem The Washington Post",
+          "summary": "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbS1tN1Rtcl9jUXA0cFVXX045czdjUDByanFTcjd3RFVLaUJ0M0RtNHh1b3BPQXc2Y3hjMklnT2JyTmJXeUlTOEtXN1FyaVlPUUtRTFhPSnIxNG5PUWpfaFJLQ3NHUWhRQnJLdnpNRmJUbXdzb2p5V2dOck9jb1o5bzh2d0lYUFNYZVE1ZHRBSUZjTktOTFNRQmdsdFRzNmFRZjB3OEdxSzZ3UmxHQnFNOTVDU2tTU20yRW1VcGg1NGwtX0puQVE?oc=5",
+          "source": "Google News",
+          "source_name": "Google News",
+          "source_feed": "https://news.google.com/rss/search?q=gaming+video+games+entertainment&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-09 01:00:01 PM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 80,
+          "key_data": [
+            "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem - The Washington Post"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "gaming-1-775583266406173507",
+          "key": "gaming-1-775583266406173507",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Blizzard Reportedly Leads Xbox as 'Top-Performing' Studio Thanks to Overwatch and Diablo",
@@ -4071,7 +4157,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 100,
+          "priority_score": 99,
           "key_data": [
             "Blizzard Reportedly Leads Xbox as 'Top-Performing' Studio Thanks to Overwatch and Diablo"
           ],
@@ -4083,8 +4169,8 @@
           ]
         },
         {
-          "id": "gaming-20-2407911987568565587",
-          "key": "gaming-20-2407911987568565587",
+          "id": "gaming-21-7154219695717974038",
+          "key": "gaming-21-7154219695717974038",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "What is friendslop? Inside gaming's fastest-growing trend, including the newest hit Big Walk - CBC",
@@ -4099,7 +4185,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 80,
+          "priority_score": 79,
           "key_data": [
             "What is friendslop? Inside gaming's fastest-growing trend, including the newest hit Big Walk - CBC"
           ],
@@ -4109,37 +4195,9 @@
           "what_to_watch": [
             "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
           ]
-        },
-        {
-          "id": "gaming-1-6202354643698496568",
-          "key": "gaming-1-6202354643698496568",
-          "category": "Gaming",
-          "label": "Gaming",
-          "headline": "The Best Deals Today: Civilization VII, AirPods Pro 3, Spider-Man: Brand New Day Steelbook, and More",
-          "title": "The Best Deals Today: Civilization VII, AirPods Pro 3, Spider-Man: Brand New Day Steelbook, and More",
-          "snapshot": "A new weekend has arrived, and today, you can save on Civilization VII, select LEGO sets, AirPods Pro 3, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Sunday, August 9, below. Civilization VII for $19.99 Amazon has Civilization VII on sale for $19.99 this weekend, saving you $20...",
-          "summary": "A new weekend has arrived, and today, you can save on Civilization VII, select LEGO sets, AirPods Pro 3, Saros, Mega Man Star Force Legacy Collection, and more. Check out our top picks for Sunday, August 9, below. Civilization VII for $19.99 Amazon has Civilization VII on sale for $19.99 this weekend, saving you $20...",
-          "url": "https://www.ign.com/articles/best-deals-for-august-9-2026",
-          "source": "IGN",
-          "source_name": "IGN",
-          "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-          "published_at": "2026-08-09 04:26:42 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 99,
-          "key_data": [
-            "The Best Deals Today: Civilization VII, AirPods Pro 3, Spider-Man: Brand New Day Steelbook, and More"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
         }
       ],
-      "updated_at": "2026-08-09 05:33:02 PM ET"
+      "updated_at": "2026-08-09 06:32:02 PM ET"
     },
     {
       "key": "media",
@@ -4163,8 +4221,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "media-0-108546766812142621",
-          "key": "media-0-108546766812142621",
+          "id": "media-0-4850799251721279208",
+          "key": "media-0-4850799251721279208",
           "category": "Media",
           "label": "Media",
           "headline": "David Ellison Is Promising Theater Owners Contractual Guarantees for Paramount-Warner Bros. 30-Film Annual Slate. But What if Moviegoers Don’t Care?",
@@ -4191,8 +4249,8 @@
           ]
         },
         {
-          "id": "media-10-4970533955926169362",
-          "key": "media-10-4970533955926169362",
+          "id": "media-10-8220475396015759577",
+          "key": "media-10-8220475396015759577",
           "category": "Media",
           "label": "Media",
           "headline": "Spencer Pratt To The Rescue? Failed L.A. Mayoral Candidate Wants To Help Trump Save Hollywood, Supposedly",
@@ -4219,8 +4277,8 @@
           ]
         },
         {
-          "id": "media-20-8627347769229577432",
-          "key": "media-20-8627347769229577432",
+          "id": "media-20-4458013100632150159",
+          "key": "media-20-4458013100632150159",
           "category": "Media",
           "label": "Media",
           "headline": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
@@ -4247,8 +4305,8 @@
           ]
         },
         {
-          "id": "media-1-9020317210187344587",
-          "key": "media-1-9020317210187344587",
+          "id": "media-1-4020647801868945794",
+          "key": "media-1-4020647801868945794",
           "category": "Media",
           "label": "Media",
           "headline": "LISTEN: NBCUniversal Media Group Chief Matt Strauss on Growing Peacock, Testing Membership Rewards and Becoming a Daily Habit With Users",
@@ -4275,8 +4333,8 @@
           ]
         },
         {
-          "id": "media-11-6356733063953860217",
-          "key": "media-11-6356733063953860217",
+          "id": "media-11-4672304720606317689",
+          "key": "media-11-4672304720606317689",
           "category": "Media",
           "label": "Media",
           "headline": "Judge Clarifies That Reporter Catherine Herridge Doesn’t Have To Pay $800-Per-Day Contempt Fines As She Pursues Supreme Court Appeal",
@@ -4305,8 +4363,8 @@
       ],
       "items": [
         {
-          "id": "media-0-108546766812142621",
-          "key": "media-0-108546766812142621",
+          "id": "media-0-4850799251721279208",
+          "key": "media-0-4850799251721279208",
           "category": "Media",
           "label": "Media",
           "headline": "David Ellison Is Promising Theater Owners Contractual Guarantees for Paramount-Warner Bros. 30-Film Annual Slate. But What if Moviegoers Don’t Care?",
@@ -4333,8 +4391,8 @@
           ]
         },
         {
-          "id": "media-10-4970533955926169362",
-          "key": "media-10-4970533955926169362",
+          "id": "media-10-8220475396015759577",
+          "key": "media-10-8220475396015759577",
           "category": "Media",
           "label": "Media",
           "headline": "Spencer Pratt To The Rescue? Failed L.A. Mayoral Candidate Wants To Help Trump Save Hollywood, Supposedly",
@@ -4361,8 +4419,8 @@
           ]
         },
         {
-          "id": "media-20-8627347769229577432",
-          "key": "media-20-8627347769229577432",
+          "id": "media-20-4458013100632150159",
+          "key": "media-20-4458013100632150159",
           "category": "Media",
           "label": "Media",
           "headline": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
@@ -4389,8 +4447,8 @@
           ]
         },
         {
-          "id": "media-1-9020317210187344587",
-          "key": "media-1-9020317210187344587",
+          "id": "media-1-4020647801868945794",
+          "key": "media-1-4020647801868945794",
           "category": "Media",
           "label": "Media",
           "headline": "LISTEN: NBCUniversal Media Group Chief Matt Strauss on Growing Peacock, Testing Membership Rewards and Becoming a Daily Habit With Users",
@@ -4417,8 +4475,8 @@
           ]
         },
         {
-          "id": "media-11-6356733063953860217",
-          "key": "media-11-6356733063953860217",
+          "id": "media-11-4672304720606317689",
+          "key": "media-11-4672304720606317689",
           "category": "Media",
           "label": "Media",
           "headline": "Judge Clarifies That Reporter Catherine Herridge Doesn’t Have To Pay $800-Per-Day Contempt Fines As She Pursues Supreme Court Appeal",
@@ -4445,7 +4503,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-09 05:33:03 PM ET"
+      "updated_at": "2026-08-09 06:32:03 PM ET"
     }
   ]
 }
