@@ -5,9 +5,9 @@
   "vertical": "Entertainment",
   "headline": "Jacob Elordi in Talks to Star in Ari Aster's 'Scapegoat' With Scarlett Johansson",
   "snapshot": "Global Entertainment Report accepted 47 real RSS item(s) across 31 checked feed request(s).",
-  "generated_at": "2026-08-10 06:37:41 PM ET",
-  "updated_at": "2026-08-10 06:37:41 PM ET",
-  "published_at": "2026-08-10 06:37:41 PM ET",
+  "generated_at": "2026-08-10 07:35:36 PM ET",
+  "updated_at": "2026-08-10 07:35:36 PM ET",
+  "published_at": "2026-08-10 07:35:36 PM ET",
   "source_mode": "live RSS ingestion",
   "freshness": {
     "max_item_age_hours": 336,
@@ -234,10 +234,10 @@
       "final_url": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 46,
+      "rejected_count": 39,
       "rejection_reasons": {
         "duplicate-story": 2,
-        "stale-over-336h": 44
+        "stale-over-336h": 37
       }
     },
     {
@@ -257,11 +257,11 @@
       "url": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
-      "item_count": 86,
+      "item_count": 85,
       "accepted_count": 2,
-      "rejected_count": 76,
+      "rejected_count": 75,
       "rejection_reasons": {
-        "stale-over-336h": 76
+        "stale-over-336h": 75
       }
     },
     {
@@ -307,8 +307,9 @@
       "final_url": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 92,
+      "rejected_count": 93,
       "rejection_reasons": {
+        "duplicate-story": 1,
         "stale-over-336h": 92
       }
     },
@@ -379,15 +380,15 @@
     "Jon Cypher Dies: 'Hill Street Blues' Police Chief, 'Major Dad' Regular & 'Masters Of The Universe' Ally Was 94",
     "Anne Hathaway on Her Jam-Packed Year of Movies and Upcoming Adaptation of Hit Novel 'Yesteryear'",
     "Fayetteville's CAMEO Collective builds on its movie theater roots - The Fayetteville Observer",
-    "Biggie's Manager Wins Court Order Requiring Faith Evans to Share Primary Wave Catalog Money",
-    "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes",
+    "Jon Glass Named General Counsel of Merlin, Leading Legal Affairs and Partnerships",
+    "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game",
     "'Teenage Sex and Death at Camp Miasma': Hannah Einbinder and Jane Schoenbrun on the Future of Queer Cinema",
     "Alexa Swinton, David Arquette, Wyatt Oleff & Sawyer Spielberg Set For Demolition Derby Drama 'Wreckless' From First-Time Feature Filmmaker Kayla Arend"
   ],
   "live_newsroom": [
     {
-      "id": "film-0-4161616907372242904",
-      "key": "film-0-4161616907372242904",
+      "id": "film-0-6548443258427468549",
+      "key": "film-0-6548443258427468549",
       "category": "Film",
       "label": "Film",
       "headline": "Jacob Elordi in Talks to Star in Ari Aster's 'Scapegoat' With Scarlett Johansson",
@@ -413,8 +414,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-6224910425011894972",
-      "key": "film-10-6224910425011894972",
+      "id": "film-10-7616401830977496991",
+      "key": "film-10-7616401830977496991",
       "category": "Film",
       "label": "Film",
       "headline": "Jon Cypher Dies: 'Hill Street Blues' Police Chief, 'Major Dad' Regular & 'Masters Of The Universe' Ally Was 94",
@@ -440,8 +441,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-7219053956479745015",
-      "key": "film-22-7219053956479745015",
+      "id": "film-22-4458562680468393187",
+      "key": "film-22-4458562680468393187",
       "category": "Film",
       "label": "Film",
       "headline": "Anne Hathaway on Her Jam-Packed Year of Movies and Upcoming Adaptation of Hit Novel 'Yesteryear'",
@@ -467,8 +468,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-698358330137931306",
-      "key": "film-32-698358330137931306",
+      "id": "film-32-7060581393198018303",
+      "key": "film-32-7060581393198018303",
       "category": "Film",
       "label": "Film",
       "headline": "Fayetteville's CAMEO Collective builds on its movie theater roots - The Fayetteville Observer",
@@ -494,22 +495,22 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-3437622466772345020",
-      "key": "music-10-3437622466772345020",
+      "id": "music-10-2155472598220264403",
+      "key": "music-10-2155472598220264403",
       "category": "Music",
       "label": "Music",
-      "headline": "Biggie's Manager Wins Court Order Requiring Faith Evans to Share Primary Wave Catalog Money",
-      "title": "Biggie's Manager Wins Court Order Requiring Faith Evans to Share Primary Wave Catalog Money",
-      "snapshot": "A lawyer for Wayne Barrow, who's the estate trustee for The Notorious B.I.G.'s mother Voletta Wallace, tells Billboard the decision is \"a complete vindication.\"",
-      "summary": "A lawyer for Wayne Barrow, who's the estate trustee for The Notorious B.I.G.'s mother Voletta Wallace, tells Billboard the decision is \"a complete vindication.\"",
-      "url": "https://www.billboard.com/pro/notorious-big-lawsuit-biggie-manager-wins-faith-evans/",
+      "headline": "Jon Glass Named General Counsel of Merlin, Leading Legal Affairs and Partnerships",
+      "title": "Jon Glass Named General Counsel of Merlin, Leading Legal Affairs and Partnerships",
+      "snapshot": "Glass joins the indie licensing organization after 16 years with Warner Music Group.",
+      "summary": "Glass joins the indie licensing organization after 16 years with Warner Music Group.",
+      "url": "https://www.billboard.com/pro/merlin-hires-jon-glass-general-counsel/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-10 06:20:22 PM ET",
+      "published_at": "2026-08-10 07:01:00 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Biggie's Manager Wins Court Order Requiring Faith Evans to Share Primary Wave Catalog Money"
+        "Jon Glass Named General Counsel of Merlin, Leading Legal Affairs and Partnerships"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -521,22 +522,22 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-4350283507248369850",
-      "key": "gaming-0-4350283507248369850",
+      "id": "gaming-0-8397018877053099549",
+      "key": "gaming-0-8397018877053099549",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes",
-      "title": "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes",
-      "snapshot": "Kazuhisa Wada, producer for Atlus' P-Studio, says he \"can't say for sure\" if Persona 1 and 2 remakes are coming, but said they are still games he thinks \"we have to do.\"",
-      "summary": "Kazuhisa Wada, producer for Atlus' P-Studio, says he \"can't say for sure\" if Persona 1 and 2 remakes are coming, but said they are still games he thinks \"we have to do.\"",
-      "url": "https://www.ign.com/articles/atlus-producer-says-i-think-we-have-to-do-persona-1-and-2-remakes",
+      "headline": "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game",
+      "title": "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game",
+      "snapshot": "Grand Theft Auto 6 fans are pre-ordering the $100 Ultimate Edition more than the standard edition of the game.",
+      "summary": "Grand Theft Auto 6 fans are pre-ordering the $100 Ultimate Edition more than the standard edition of the game.",
+      "url": "https://www.ign.com/articles/gta-6-boss-says-more-people-are-pre-ordering-the-100-version-of-the-game",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-10 05:45:55 PM ET",
+      "published_at": "2026-08-10 06:14:28 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes"
+        "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -548,8 +549,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-2051397305289232953",
-      "key": "film-1-2051397305289232953",
+      "id": "film-1-8421820964129728995",
+      "key": "film-1-8421820964129728995",
       "category": "Film",
       "label": "Film",
       "headline": "'Teenage Sex and Death at Camp Miasma': Hannah Einbinder and Jane Schoenbrun on the Future of Queer Cinema",
@@ -575,8 +576,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-6622914507063567398",
-      "key": "film-11-6622914507063567398",
+      "id": "film-11-3179414814035269775",
+      "key": "film-11-3179414814035269775",
       "category": "Film",
       "label": "Film",
       "headline": "Alexa Swinton, David Arquette, Wyatt Oleff & Sawyer Spielberg Set For Demolition Derby Drama 'Wreckless' From First-Time Feature Filmmaker Kayla Arend",
@@ -602,8 +603,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-2960729564089549502",
-      "key": "film-23-2960729564089549502",
+      "id": "film-23-2103444464392145803",
+      "key": "film-23-2103444464392145803",
       "category": "Film",
       "label": "Film",
       "headline": "Danny Boyle's Rupert Murdoch Movie 'Ink' Sets December Theatrical Release From Netflix",
@@ -629,14 +630,14 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-4794023530683960943",
-      "key": "film-33-4794023530683960943",
+      "id": "film-33-648125711245036938",
+      "key": "film-33-648125711245036938",
       "category": "Film",
       "label": "Film",
-      "headline": "The 35 best sci-fi movies of all time (August 2026) - Entertainment Weekly",
-      "title": "The 35 best sci-fi movies of all time (August 2026) - Entertainment Weekly",
-      "snapshot": "The 35 best sci-fi movies of all time (August 2026) Entertainment Weekly",
-      "summary": "The 35 best sci-fi movies of all time (August 2026) Entertainment Weekly",
+      "headline": "The 35 best sci-fi movies of all time (August 2026) - ew.com",
+      "title": "The 35 best sci-fi movies of all time (August 2026) - ew.com",
+      "snapshot": "The 35 best sci-fi movies of all time (August 2026) ew.com",
+      "summary": "The 35 best sci-fi movies of all time (August 2026) ew.com",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0ySGg0RW9YdGtGbXBwOTljYkxPNlY3TWktVDhfN25LN2NrTFVTUmx5azBnVzh6VW9UMElkMWxzbmJBWGxiRlB4VGVDVUo2WUhpWEQybXptY19jUU1XelEyV2F2MVY?oc=5",
       "source": "Google News",
       "source_name": "Google News",
@@ -644,7 +645,7 @@
       "published_at": "2026-08-07 07:16:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "The 35 best sci-fi movies of all time (August 2026) - Entertainment Weekly"
+        "The 35 best sci-fi movies of all time (August 2026) - ew.com"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -656,22 +657,22 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-2413403338396246816",
-      "key": "music-11-2413403338396246816",
+      "id": "music-11-272726712630622949",
+      "key": "music-11-272726712630622949",
       "category": "Music",
       "label": "Music",
-      "headline": "'Real Housewives' Star Luann de Lesseps Apologizes to Jennifer Lopez After Saying She's 'From the Hood' Instead of 'The Block': 'I Couldn't Think!'",
-      "title": "'Real Housewives' Star Luann de Lesseps Apologizes to Jennifer Lopez After Saying She's 'From the Hood' Instead of 'The Block': 'I Couldn't Think!'",
-      "snapshot": "Luann says she's embarrassed by the mistake and hopes \"J.Lo is not upset with me, because I love her.\"",
-      "summary": "Luann says she's embarrassed by the mistake and hopes \"J.Lo is not upset with me, because I love her.\"",
-      "url": "https://www.billboard.com/music/latin/luann-real-housewives-apologizes-jennifer-lopez-the-hood-1236312963/",
+      "headline": "Every Surprise Song BTS Has Performed on the ARIRANG World Tour (So Far)",
+      "title": "Every Surprise Song BTS Has Performed on the ARIRANG World Tour (So Far)",
+      "snapshot": "The K-pop group has played two surprise songs during every show's encore.",
+      "summary": "The K-pop group has played two surprise songs during every show's encore.",
+      "url": "https://www.billboard.com/lists/bts-surprise-songs-arirang-tour-every-track/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-10 06:18:48 PM ET",
+      "published_at": "2026-08-10 07:00:00 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Real Housewives' Star Luann de Lesseps Apologizes to Jennifer Lopez After Saying She's 'From the Hood' Instead of 'The Block': 'I Couldn't Think!'"
+        "Every Surprise Song BTS Has Performed on the ARIRANG World Tour (So Far)"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -683,22 +684,22 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-8365880461488626102",
-      "key": "gaming-1-8365880461488626102",
+      "id": "gaming-1-159962034713276880",
+      "key": "gaming-1-159962034713276880",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Fields of Mistria Review So Far",
-      "title": "Fields of Mistria Review So Far",
-      "snapshot": "This fantasy farming sim takes place in a pastel pixel art world full of mythical creatures and magic.",
-      "summary": "This fantasy farming sim takes place in a pastel pixel art world full of mythical creatures and magic.",
-      "url": "https://www.ign.com/articles/fields-of-mistria-review",
+      "headline": "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes",
+      "title": "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes",
+      "snapshot": "Kazuhisa Wada, producer for Atlus' P-Studio, says he \"can't say for sure\" if Persona 1 and 2 remakes are coming, but said they are still games he thinks \"we have to do.\"",
+      "summary": "Kazuhisa Wada, producer for Atlus' P-Studio, says he \"can't say for sure\" if Persona 1 and 2 remakes are coming, but said they are still games he thinks \"we have to do.\"",
+      "url": "https://www.ign.com/articles/atlus-producer-says-i-think-we-have-to-do-persona-1-and-2-remakes",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-10 05:30:12 PM ET",
+      "published_at": "2026-08-10 05:45:55 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Fields of Mistria Review So Far"
+        "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -712,8 +713,8 @@
   ],
   "editor_signals": [
     {
-      "id": "film-2-3627769193117558093",
-      "key": "film-2-3627769193117558093",
+      "id": "film-2-3040998041639958670",
+      "key": "film-2-3040998041639958670",
       "category": "Film",
       "label": "Film",
       "headline": "'Hearing' Review: Lê Bảo Continues His Sensory Exploration With an Arresting Study in Silence",
@@ -739,8 +740,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-1143755857518893407",
-      "key": "film-12-1143755857518893407",
+      "id": "film-12-3886604781987921433",
+      "key": "film-12-3886604781987921433",
       "category": "Film",
       "label": "Film",
       "headline": "Sony Pre-Empts 'The Ballad Of The Ember Knight'; 14th Century-Set Spec By First-Time Scribes Lands Near 7-Figures",
@@ -766,8 +767,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-3292769226913810106",
-      "key": "film-24-3292769226913810106",
+      "id": "film-24-9177063265162666777",
+      "key": "film-24-9177063265162666777",
       "category": "Film",
       "label": "Film",
       "headline": "James Gray Rejects Men Not Being \"Allowed to Engage With the Tender Side\"",
@@ -793,14 +794,14 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-5003370921341877218",
-      "key": "film-34-5003370921341877218",
+      "id": "film-34-6494502899717088243",
+      "key": "film-34-6494502899717088243",
       "category": "Film",
       "label": "Film",
-      "headline": "Our favorite memories at the movies - The Verge",
-      "title": "Our favorite memories at the movies - The Verge",
-      "snapshot": "Our favorite memories at the movies The Verge",
-      "summary": "Our favorite memories at the movies The Verge",
+      "headline": "Our favorite memories at the movies - theverge.com",
+      "title": "Our favorite memories at the movies - theverge.com",
+      "snapshot": "Our favorite memories at the movies theverge.com",
+      "summary": "Our favorite memories at the movies theverge.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWk1XOTVoaF9TWk9YUGlJM1hENkh4SUhMRGlYZHptY1RRUkotdXVEX1o2TGlvbkRkcjVkVG0xUWVPX1pMSl9WcERKU0ZReFc0cGtnc1dPU3ZaX2I5Znk4cElJb1RsVnVldGhUU1dmRE1UcktmZUUxZTFfb3dyLTFvVA?oc=5",
       "source": "Google News",
       "source_name": "Google News",
@@ -808,7 +809,7 @@
       "published_at": "2026-08-04 10:00:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Our favorite memories at the movies - The Verge"
+        "Our favorite memories at the movies - theverge.com"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -820,22 +821,22 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-6811467859209047370",
-      "key": "music-12-6811467859209047370",
+      "id": "music-12-6077995414157194485",
+      "key": "music-12-6077995414157194485",
       "category": "Music",
       "label": "Music",
-      "headline": "iHeartMedia Earnings: Political Ads Help Drive Q2 Revenue Up 4.7%",
-      "title": "iHeartMedia Earnings: Political Ads Help Drive Q2 Revenue Up 4.7%",
-      "snapshot": "Executives forecast continued strong advertising in the second half of the year and are predicting growth in adjusted EBITDA.",
-      "summary": "Executives forecast continued strong advertising in the second half of the year and are predicting growth in adjusted EBITDA.",
-      "url": "https://www.billboard.com/pro/iheartmedia-q2-earnings-political-ads-revenue-up/",
+      "headline": "Biggie's Manager Wins Court Order Requiring Faith Evans to Share Primary Wave Catalog Money",
+      "title": "Biggie's Manager Wins Court Order Requiring Faith Evans to Share Primary Wave Catalog Money",
+      "snapshot": "A lawyer for Wayne Barrow, who's the estate trustee for The Notorious B.I.G.'s mother Voletta Wallace, tells Billboard the decision is \"a complete vindication.\"",
+      "summary": "A lawyer for Wayne Barrow, who's the estate trustee for The Notorious B.I.G.'s mother Voletta Wallace, tells Billboard the decision is \"a complete vindication.\"",
+      "url": "https://www.billboard.com/pro/notorious-big-lawsuit-biggie-manager-wins-faith-evans/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-10 06:11:47 PM ET",
+      "published_at": "2026-08-10 06:20:22 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "iHeartMedia Earnings: Political Ads Help Drive Q2 Revenue Up 4.7%"
+        "Biggie's Manager Wins Court Order Requiring Faith Evans to Share Primary Wave Catalog Money"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -847,22 +848,22 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-6195009892786005615",
-      "key": "gaming-2-6195009892786005615",
+      "id": "gaming-2-6823847198441999325",
+      "key": "gaming-2-6823847198441999325",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Battlefield 6 Player With Over 400 Hours Gets Full Refund from Steam After Key Modes Were Removed",
-      "title": "Battlefield 6 Player With Over 400 Hours Gets Full Refund from Steam After Key Modes Were Removed",
-      "snapshot": "A Battlefield 6 player with hundreds of hours of playtime has scored a full refund of the game after Battlefield Studios removed key modes from the game's quick-play matchmaking.",
-      "summary": "A Battlefield 6 player with hundreds of hours of playtime has scored a full refund of the game after Battlefield Studios removed key modes from the game's quick-play matchmaking.",
-      "url": "https://www.ign.com/articles/battlefield-6-player-with-over-400-hours-gets-full-refund-from-steam-after-key-modes-were-removed",
+      "headline": "Fields of Mistria Review So Far",
+      "title": "Fields of Mistria Review So Far",
+      "snapshot": "This fantasy farming sim takes place in a pastel pixel art world full of mythical creatures and magic.",
+      "summary": "This fantasy farming sim takes place in a pastel pixel art world full of mythical creatures and magic.",
+      "url": "https://www.ign.com/articles/fields-of-mistria-review",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-10 05:10:16 PM ET",
+      "published_at": "2026-08-10 05:30:12 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Battlefield 6 Player With Over 400 Hours Gets Full Refund from Steam After Key Modes Were Removed"
+        "Fields of Mistria Review So Far"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -874,8 +875,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-3588552688562856035",
-      "key": "film-3-3588552688562856035",
+      "id": "film-3-3683638680219268137",
+      "key": "film-3-3683638680219268137",
       "category": "Film",
       "label": "Film",
       "headline": "UTA Signs 'Forgotten Island' Writer-Director Januel Mercado (EXCLUSIVE)",
@@ -901,8 +902,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-6175367423320886480",
-      "key": "film-13-6175367423320886480",
+      "id": "film-13-4017957104042670393",
+      "key": "film-13-4017957104042670393",
       "category": "Film",
       "label": "Film",
       "headline": "Jacob Elordi Circling Ari Aster's Next Film 'Scapegoat' At A24 Starring Scarlett Johansson",
@@ -928,8 +929,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-3792823222931735859",
-      "key": "film-25-3792823222931735859",
+      "id": "film-25-1836943264139979108",
+      "key": "film-25-1836943264139979108",
       "category": "Film",
       "label": "Film",
       "headline": "Brad Pitt Says He's Drinking Again After 7 Years of Sobriety",
@@ -955,8 +956,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-1883441819055822730",
-      "key": "film-35-1883441819055822730",
+      "id": "film-35-3744957664674074529",
+      "key": "film-35-3744957664674074529",
       "category": "Film",
       "label": "Film",
       "headline": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire",
@@ -982,22 +983,22 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-5938719599381787386",
-      "key": "music-13-5938719599381787386",
+      "id": "music-13-3119238553361628329",
+      "key": "music-13-3119238553361628329",
       "category": "Music",
       "label": "Music",
-      "headline": "WWE's Most Iconic Superstars Have the Apparel to Match, From Stone Cold Steve Austin to the Undertaker",
-      "title": "WWE's Most Iconic Superstars Have the Apparel to Match, From Stone Cold Steve Austin to the Undertaker",
-      "snapshot": "Ahead of Raw and SmackDown each week, rep WWE Superstars spanning the Attitude Era to today.",
-      "summary": "Ahead of Raw and SmackDown each week, rep WWE Superstars spanning the Attitude Era to today.",
-      "url": "https://www.billboard.com/culture/product-recommendations/best-wwe-official-apparel-online-1236312563/",
+      "headline": "'Real Housewives' Star Luann de Lesseps Apologizes to Jennifer Lopez After Saying She's 'From the Hood' Instead of 'The Block': 'I Couldn't Think!'",
+      "title": "'Real Housewives' Star Luann de Lesseps Apologizes to Jennifer Lopez After Saying She's 'From the Hood' Instead of 'The Block': 'I Couldn't Think!'",
+      "snapshot": "Luann says she's embarrassed by the mistake and hopes \"J.Lo is not upset with me, because I love her.\"",
+      "summary": "Luann says she's embarrassed by the mistake and hopes \"J.Lo is not upset with me, because I love her.\"",
+      "url": "https://www.billboard.com/music/latin/luann-real-housewives-apologizes-jennifer-lopez-the-hood-1236312963/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-10 06:03:17 PM ET",
+      "published_at": "2026-08-10 06:18:48 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "WWE's Most Iconic Superstars Have the Apparel to Match, From Stone Cold Steve Austin to the Undertaker"
+        "'Real Housewives' Star Luann de Lesseps Apologizes to Jennifer Lopez After Saying She's 'From the Hood' Instead of 'The Block': 'I Couldn't Think!'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1009,22 +1010,22 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-984837911320506616",
-      "key": "gaming-3-984837911320506616",
+      "id": "gaming-3-894289739219305912",
+      "key": "gaming-3-894289739219305912",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Professional Smash Bros. Melee Payer Hungrybox Popped Off So Hard After Winning a Game That He Literally Fainted",
-      "title": "Professional Smash Bros. Melee Payer Hungrybox Popped Off So Hard After Winning a Game That He Literally Fainted",
-      "snapshot": "Professional Super Smash Bros. Melee player Juan 'Hungrybox' Debiedma went viral over the weekend after fainting while celebrating a victory over fellow player Hugh 'SluG' Hegarty.",
-      "summary": "Professional Super Smash Bros. Melee player Juan 'Hungrybox' Debiedma went viral over the weekend after fainting while celebrating a victory over fellow player Hugh 'SluG' Hegarty.",
-      "url": "https://www.ign.com/articles/professional-smash-bros-melee-payer-hungrybox-popped-off-so-hard-after-winning-a-game-that-he-literally-fainted",
+      "headline": "Battlefield 6 Player With Over 400 Hours Gets Full Refund from Steam After Key Modes Were Removed",
+      "title": "Battlefield 6 Player With Over 400 Hours Gets Full Refund from Steam After Key Modes Were Removed",
+      "snapshot": "A Battlefield 6 player with hundreds of hours of playtime has scored a full refund of the game after Battlefield Studios removed key modes from the game's quick-play matchmaking.",
+      "summary": "A Battlefield 6 player with hundreds of hours of playtime has scored a full refund of the game after Battlefield Studios removed key modes from the game's quick-play matchmaking.",
+      "url": "https://www.ign.com/articles/battlefield-6-player-with-over-400-hours-gets-full-refund-from-steam-after-key-modes-were-removed",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-10 04:20:54 PM ET",
+      "published_at": "2026-08-10 05:10:16 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Professional Smash Bros. Melee Payer Hungrybox Popped Off So Hard After Winning a Game That He Literally Fainted"
+        "Battlefield 6 Player With Over 400 Hours Gets Full Refund from Steam After Key Modes Were Removed"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1038,8 +1039,8 @@
   ],
   "homepage_cards": [
     {
-      "id": "film-0-4161616907372242904",
-      "key": "film-0-4161616907372242904",
+      "id": "film-0-6548443258427468549",
+      "key": "film-0-6548443258427468549",
       "category": "Film",
       "label": "Film",
       "headline": "Jacob Elordi in Talks to Star in Ari Aster's 'Scapegoat' With Scarlett Johansson",
@@ -1065,8 +1066,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-6224910425011894972",
-      "key": "film-10-6224910425011894972",
+      "id": "film-10-7616401830977496991",
+      "key": "film-10-7616401830977496991",
       "category": "Film",
       "label": "Film",
       "headline": "Jon Cypher Dies: 'Hill Street Blues' Police Chief, 'Major Dad' Regular & 'Masters Of The Universe' Ally Was 94",
@@ -1092,8 +1093,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-7219053956479745015",
-      "key": "film-22-7219053956479745015",
+      "id": "film-22-4458562680468393187",
+      "key": "film-22-4458562680468393187",
       "category": "Film",
       "label": "Film",
       "headline": "Anne Hathaway on Her Jam-Packed Year of Movies and Upcoming Adaptation of Hit Novel 'Yesteryear'",
@@ -1119,8 +1120,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-698358330137931306",
-      "key": "film-32-698358330137931306",
+      "id": "film-32-7060581393198018303",
+      "key": "film-32-7060581393198018303",
       "category": "Film",
       "label": "Film",
       "headline": "Fayetteville's CAMEO Collective builds on its movie theater roots - The Fayetteville Observer",
@@ -1146,22 +1147,22 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-3437622466772345020",
-      "key": "music-10-3437622466772345020",
+      "id": "music-10-2155472598220264403",
+      "key": "music-10-2155472598220264403",
       "category": "Music",
       "label": "Music",
-      "headline": "Biggie's Manager Wins Court Order Requiring Faith Evans to Share Primary Wave Catalog Money",
-      "title": "Biggie's Manager Wins Court Order Requiring Faith Evans to Share Primary Wave Catalog Money",
-      "snapshot": "A lawyer for Wayne Barrow, who's the estate trustee for The Notorious B.I.G.'s mother Voletta Wallace, tells Billboard the decision is \"a complete vindication.\"",
-      "summary": "A lawyer for Wayne Barrow, who's the estate trustee for The Notorious B.I.G.'s mother Voletta Wallace, tells Billboard the decision is \"a complete vindication.\"",
-      "url": "https://www.billboard.com/pro/notorious-big-lawsuit-biggie-manager-wins-faith-evans/",
+      "headline": "Jon Glass Named General Counsel of Merlin, Leading Legal Affairs and Partnerships",
+      "title": "Jon Glass Named General Counsel of Merlin, Leading Legal Affairs and Partnerships",
+      "snapshot": "Glass joins the indie licensing organization after 16 years with Warner Music Group.",
+      "summary": "Glass joins the indie licensing organization after 16 years with Warner Music Group.",
+      "url": "https://www.billboard.com/pro/merlin-hires-jon-glass-general-counsel/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-10 06:20:22 PM ET",
+      "published_at": "2026-08-10 07:01:00 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Biggie's Manager Wins Court Order Requiring Faith Evans to Share Primary Wave Catalog Money"
+        "Jon Glass Named General Counsel of Merlin, Leading Legal Affairs and Partnerships"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1173,22 +1174,22 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-4350283507248369850",
-      "key": "gaming-0-4350283507248369850",
+      "id": "gaming-0-8397018877053099549",
+      "key": "gaming-0-8397018877053099549",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes",
-      "title": "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes",
-      "snapshot": "Kazuhisa Wada, producer for Atlus' P-Studio, says he \"can't say for sure\" if Persona 1 and 2 remakes are coming, but said they are still games he thinks \"we have to do.\"",
-      "summary": "Kazuhisa Wada, producer for Atlus' P-Studio, says he \"can't say for sure\" if Persona 1 and 2 remakes are coming, but said they are still games he thinks \"we have to do.\"",
-      "url": "https://www.ign.com/articles/atlus-producer-says-i-think-we-have-to-do-persona-1-and-2-remakes",
+      "headline": "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game",
+      "title": "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game",
+      "snapshot": "Grand Theft Auto 6 fans are pre-ordering the $100 Ultimate Edition more than the standard edition of the game.",
+      "summary": "Grand Theft Auto 6 fans are pre-ordering the $100 Ultimate Edition more than the standard edition of the game.",
+      "url": "https://www.ign.com/articles/gta-6-boss-says-more-people-are-pre-ordering-the-100-version-of-the-game",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-10 05:45:55 PM ET",
+      "published_at": "2026-08-10 06:14:28 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes"
+        "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1200,8 +1201,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-2051397305289232953",
-      "key": "film-1-2051397305289232953",
+      "id": "film-1-8421820964129728995",
+      "key": "film-1-8421820964129728995",
       "category": "Film",
       "label": "Film",
       "headline": "'Teenage Sex and Death at Camp Miasma': Hannah Einbinder and Jane Schoenbrun on the Future of Queer Cinema",
@@ -1227,8 +1228,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-6622914507063567398",
-      "key": "film-11-6622914507063567398",
+      "id": "film-11-3179414814035269775",
+      "key": "film-11-3179414814035269775",
       "category": "Film",
       "label": "Film",
       "headline": "Alexa Swinton, David Arquette, Wyatt Oleff & Sawyer Spielberg Set For Demolition Derby Drama 'Wreckless' From First-Time Feature Filmmaker Kayla Arend",
@@ -1254,8 +1255,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-2960729564089549502",
-      "key": "film-23-2960729564089549502",
+      "id": "film-23-2103444464392145803",
+      "key": "film-23-2103444464392145803",
       "category": "Film",
       "label": "Film",
       "headline": "Danny Boyle's Rupert Murdoch Movie 'Ink' Sets December Theatrical Release From Netflix",
@@ -1281,14 +1282,14 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-4794023530683960943",
-      "key": "film-33-4794023530683960943",
+      "id": "film-33-648125711245036938",
+      "key": "film-33-648125711245036938",
       "category": "Film",
       "label": "Film",
-      "headline": "The 35 best sci-fi movies of all time (August 2026) - Entertainment Weekly",
-      "title": "The 35 best sci-fi movies of all time (August 2026) - Entertainment Weekly",
-      "snapshot": "The 35 best sci-fi movies of all time (August 2026) Entertainment Weekly",
-      "summary": "The 35 best sci-fi movies of all time (August 2026) Entertainment Weekly",
+      "headline": "The 35 best sci-fi movies of all time (August 2026) - ew.com",
+      "title": "The 35 best sci-fi movies of all time (August 2026) - ew.com",
+      "snapshot": "The 35 best sci-fi movies of all time (August 2026) ew.com",
+      "summary": "The 35 best sci-fi movies of all time (August 2026) ew.com",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0ySGg0RW9YdGtGbXBwOTljYkxPNlY3TWktVDhfN25LN2NrTFVTUmx5azBnVzh6VW9UMElkMWxzbmJBWGxiRlB4VGVDVUo2WUhpWEQybXptY19jUU1XelEyV2F2MVY?oc=5",
       "source": "Google News",
       "source_name": "Google News",
@@ -1296,7 +1297,7 @@
       "published_at": "2026-08-07 07:16:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "The 35 best sci-fi movies of all time (August 2026) - Entertainment Weekly"
+        "The 35 best sci-fi movies of all time (August 2026) - ew.com"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1308,22 +1309,22 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-2413403338396246816",
-      "key": "music-11-2413403338396246816",
+      "id": "music-11-272726712630622949",
+      "key": "music-11-272726712630622949",
       "category": "Music",
       "label": "Music",
-      "headline": "'Real Housewives' Star Luann de Lesseps Apologizes to Jennifer Lopez After Saying She's 'From the Hood' Instead of 'The Block': 'I Couldn't Think!'",
-      "title": "'Real Housewives' Star Luann de Lesseps Apologizes to Jennifer Lopez After Saying She's 'From the Hood' Instead of 'The Block': 'I Couldn't Think!'",
-      "snapshot": "Luann says she's embarrassed by the mistake and hopes \"J.Lo is not upset with me, because I love her.\"",
-      "summary": "Luann says she's embarrassed by the mistake and hopes \"J.Lo is not upset with me, because I love her.\"",
-      "url": "https://www.billboard.com/music/latin/luann-real-housewives-apologizes-jennifer-lopez-the-hood-1236312963/",
+      "headline": "Every Surprise Song BTS Has Performed on the ARIRANG World Tour (So Far)",
+      "title": "Every Surprise Song BTS Has Performed on the ARIRANG World Tour (So Far)",
+      "snapshot": "The K-pop group has played two surprise songs during every show's encore.",
+      "summary": "The K-pop group has played two surprise songs during every show's encore.",
+      "url": "https://www.billboard.com/lists/bts-surprise-songs-arirang-tour-every-track/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-10 06:18:48 PM ET",
+      "published_at": "2026-08-10 07:00:00 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Real Housewives' Star Luann de Lesseps Apologizes to Jennifer Lopez After Saying She's 'From the Hood' Instead of 'The Block': 'I Couldn't Think!'"
+        "Every Surprise Song BTS Has Performed on the ARIRANG World Tour (So Far)"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1335,22 +1336,22 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-8365880461488626102",
-      "key": "gaming-1-8365880461488626102",
+      "id": "gaming-1-159962034713276880",
+      "key": "gaming-1-159962034713276880",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Fields of Mistria Review So Far",
-      "title": "Fields of Mistria Review So Far",
-      "snapshot": "This fantasy farming sim takes place in a pastel pixel art world full of mythical creatures and magic.",
-      "summary": "This fantasy farming sim takes place in a pastel pixel art world full of mythical creatures and magic.",
-      "url": "https://www.ign.com/articles/fields-of-mistria-review",
+      "headline": "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes",
+      "title": "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes",
+      "snapshot": "Kazuhisa Wada, producer for Atlus' P-Studio, says he \"can't say for sure\" if Persona 1 and 2 remakes are coming, but said they are still games he thinks \"we have to do.\"",
+      "summary": "Kazuhisa Wada, producer for Atlus' P-Studio, says he \"can't say for sure\" if Persona 1 and 2 remakes are coming, but said they are still games he thinks \"we have to do.\"",
+      "url": "https://www.ign.com/articles/atlus-producer-says-i-think-we-have-to-do-persona-1-and-2-remakes",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-10 05:30:12 PM ET",
+      "published_at": "2026-08-10 05:45:55 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Fields of Mistria Review So Far"
+        "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1362,8 +1363,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-2-3627769193117558093",
-      "key": "film-2-3627769193117558093",
+      "id": "film-2-3040998041639958670",
+      "key": "film-2-3040998041639958670",
       "category": "Film",
       "label": "Film",
       "headline": "'Hearing' Review: Lê Bảo Continues His Sensory Exploration With an Arresting Study in Silence",
@@ -1389,8 +1390,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-1143755857518893407",
-      "key": "film-12-1143755857518893407",
+      "id": "film-12-3886604781987921433",
+      "key": "film-12-3886604781987921433",
       "category": "Film",
       "label": "Film",
       "headline": "Sony Pre-Empts 'The Ballad Of The Ember Knight'; 14th Century-Set Spec By First-Time Scribes Lands Near 7-Figures",
@@ -1416,8 +1417,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-3292769226913810106",
-      "key": "film-24-3292769226913810106",
+      "id": "film-24-9177063265162666777",
+      "key": "film-24-9177063265162666777",
       "category": "Film",
       "label": "Film",
       "headline": "James Gray Rejects Men Not Being \"Allowed to Engage With the Tender Side\"",
@@ -1443,14 +1444,14 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-5003370921341877218",
-      "key": "film-34-5003370921341877218",
+      "id": "film-34-6494502899717088243",
+      "key": "film-34-6494502899717088243",
       "category": "Film",
       "label": "Film",
-      "headline": "Our favorite memories at the movies - The Verge",
-      "title": "Our favorite memories at the movies - The Verge",
-      "snapshot": "Our favorite memories at the movies The Verge",
-      "summary": "Our favorite memories at the movies The Verge",
+      "headline": "Our favorite memories at the movies - theverge.com",
+      "title": "Our favorite memories at the movies - theverge.com",
+      "snapshot": "Our favorite memories at the movies theverge.com",
+      "summary": "Our favorite memories at the movies theverge.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWk1XOTVoaF9TWk9YUGlJM1hENkh4SUhMRGlYZHptY1RRUkotdXVEX1o2TGlvbkRkcjVkVG0xUWVPX1pMSl9WcERKU0ZReFc0cGtnc1dPU3ZaX2I5Znk4cElJb1RsVnVldGhUU1dmRE1UcktmZUUxZTFfb3dyLTFvVA?oc=5",
       "source": "Google News",
       "source_name": "Google News",
@@ -1458,7 +1459,7 @@
       "published_at": "2026-08-04 10:00:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Our favorite memories at the movies - The Verge"
+        "Our favorite memories at the movies - theverge.com"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1470,22 +1471,22 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-6811467859209047370",
-      "key": "music-12-6811467859209047370",
+      "id": "music-12-6077995414157194485",
+      "key": "music-12-6077995414157194485",
       "category": "Music",
       "label": "Music",
-      "headline": "iHeartMedia Earnings: Political Ads Help Drive Q2 Revenue Up 4.7%",
-      "title": "iHeartMedia Earnings: Political Ads Help Drive Q2 Revenue Up 4.7%",
-      "snapshot": "Executives forecast continued strong advertising in the second half of the year and are predicting growth in adjusted EBITDA.",
-      "summary": "Executives forecast continued strong advertising in the second half of the year and are predicting growth in adjusted EBITDA.",
-      "url": "https://www.billboard.com/pro/iheartmedia-q2-earnings-political-ads-revenue-up/",
+      "headline": "Biggie's Manager Wins Court Order Requiring Faith Evans to Share Primary Wave Catalog Money",
+      "title": "Biggie's Manager Wins Court Order Requiring Faith Evans to Share Primary Wave Catalog Money",
+      "snapshot": "A lawyer for Wayne Barrow, who's the estate trustee for The Notorious B.I.G.'s mother Voletta Wallace, tells Billboard the decision is \"a complete vindication.\"",
+      "summary": "A lawyer for Wayne Barrow, who's the estate trustee for The Notorious B.I.G.'s mother Voletta Wallace, tells Billboard the decision is \"a complete vindication.\"",
+      "url": "https://www.billboard.com/pro/notorious-big-lawsuit-biggie-manager-wins-faith-evans/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-10 06:11:47 PM ET",
+      "published_at": "2026-08-10 06:20:22 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "iHeartMedia Earnings: Political Ads Help Drive Q2 Revenue Up 4.7%"
+        "Biggie's Manager Wins Court Order Requiring Faith Evans to Share Primary Wave Catalog Money"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1497,22 +1498,22 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-6195009892786005615",
-      "key": "gaming-2-6195009892786005615",
+      "id": "gaming-2-6823847198441999325",
+      "key": "gaming-2-6823847198441999325",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Battlefield 6 Player With Over 400 Hours Gets Full Refund from Steam After Key Modes Were Removed",
-      "title": "Battlefield 6 Player With Over 400 Hours Gets Full Refund from Steam After Key Modes Were Removed",
-      "snapshot": "A Battlefield 6 player with hundreds of hours of playtime has scored a full refund of the game after Battlefield Studios removed key modes from the game's quick-play matchmaking.",
-      "summary": "A Battlefield 6 player with hundreds of hours of playtime has scored a full refund of the game after Battlefield Studios removed key modes from the game's quick-play matchmaking.",
-      "url": "https://www.ign.com/articles/battlefield-6-player-with-over-400-hours-gets-full-refund-from-steam-after-key-modes-were-removed",
+      "headline": "Fields of Mistria Review So Far",
+      "title": "Fields of Mistria Review So Far",
+      "snapshot": "This fantasy farming sim takes place in a pastel pixel art world full of mythical creatures and magic.",
+      "summary": "This fantasy farming sim takes place in a pastel pixel art world full of mythical creatures and magic.",
+      "url": "https://www.ign.com/articles/fields-of-mistria-review",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-10 05:10:16 PM ET",
+      "published_at": "2026-08-10 05:30:12 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Battlefield 6 Player With Over 400 Hours Gets Full Refund from Steam After Key Modes Were Removed"
+        "Fields of Mistria Review So Far"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1524,8 +1525,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-3588552688562856035",
-      "key": "film-3-3588552688562856035",
+      "id": "film-3-3683638680219268137",
+      "key": "film-3-3683638680219268137",
       "category": "Film",
       "label": "Film",
       "headline": "UTA Signs 'Forgotten Island' Writer-Director Januel Mercado (EXCLUSIVE)",
@@ -1551,8 +1552,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-6175367423320886480",
-      "key": "film-13-6175367423320886480",
+      "id": "film-13-4017957104042670393",
+      "key": "film-13-4017957104042670393",
       "category": "Film",
       "label": "Film",
       "headline": "Jacob Elordi Circling Ari Aster's Next Film 'Scapegoat' At A24 Starring Scarlett Johansson",
@@ -1578,8 +1579,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-3792823222931735859",
-      "key": "film-25-3792823222931735859",
+      "id": "film-25-1836943264139979108",
+      "key": "film-25-1836943264139979108",
       "category": "Film",
       "label": "Film",
       "headline": "Brad Pitt Says He's Drinking Again After 7 Years of Sobriety",
@@ -1605,8 +1606,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-1883441819055822730",
-      "key": "film-35-1883441819055822730",
+      "id": "film-35-3744957664674074529",
+      "key": "film-35-3744957664674074529",
       "category": "Film",
       "label": "Film",
       "headline": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire",
@@ -1632,22 +1633,22 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-5938719599381787386",
-      "key": "music-13-5938719599381787386",
+      "id": "music-13-3119238553361628329",
+      "key": "music-13-3119238553361628329",
       "category": "Music",
       "label": "Music",
-      "headline": "WWE's Most Iconic Superstars Have the Apparel to Match, From Stone Cold Steve Austin to the Undertaker",
-      "title": "WWE's Most Iconic Superstars Have the Apparel to Match, From Stone Cold Steve Austin to the Undertaker",
-      "snapshot": "Ahead of Raw and SmackDown each week, rep WWE Superstars spanning the Attitude Era to today.",
-      "summary": "Ahead of Raw and SmackDown each week, rep WWE Superstars spanning the Attitude Era to today.",
-      "url": "https://www.billboard.com/culture/product-recommendations/best-wwe-official-apparel-online-1236312563/",
+      "headline": "'Real Housewives' Star Luann de Lesseps Apologizes to Jennifer Lopez After Saying She's 'From the Hood' Instead of 'The Block': 'I Couldn't Think!'",
+      "title": "'Real Housewives' Star Luann de Lesseps Apologizes to Jennifer Lopez After Saying She's 'From the Hood' Instead of 'The Block': 'I Couldn't Think!'",
+      "snapshot": "Luann says she's embarrassed by the mistake and hopes \"J.Lo is not upset with me, because I love her.\"",
+      "summary": "Luann says she's embarrassed by the mistake and hopes \"J.Lo is not upset with me, because I love her.\"",
+      "url": "https://www.billboard.com/music/latin/luann-real-housewives-apologizes-jennifer-lopez-the-hood-1236312963/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-10 06:03:17 PM ET",
+      "published_at": "2026-08-10 06:18:48 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "WWE's Most Iconic Superstars Have the Apparel to Match, From Stone Cold Steve Austin to the Undertaker"
+        "'Real Housewives' Star Luann de Lesseps Apologizes to Jennifer Lopez After Saying She's 'From the Hood' Instead of 'The Block': 'I Couldn't Think!'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1659,22 +1660,22 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-984837911320506616",
-      "key": "gaming-3-984837911320506616",
+      "id": "gaming-3-894289739219305912",
+      "key": "gaming-3-894289739219305912",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Professional Smash Bros. Melee Payer Hungrybox Popped Off So Hard After Winning a Game That He Literally Fainted",
-      "title": "Professional Smash Bros. Melee Payer Hungrybox Popped Off So Hard After Winning a Game That He Literally Fainted",
-      "snapshot": "Professional Super Smash Bros. Melee player Juan 'Hungrybox' Debiedma went viral over the weekend after fainting while celebrating a victory over fellow player Hugh 'SluG' Hegarty.",
-      "summary": "Professional Super Smash Bros. Melee player Juan 'Hungrybox' Debiedma went viral over the weekend after fainting while celebrating a victory over fellow player Hugh 'SluG' Hegarty.",
-      "url": "https://www.ign.com/articles/professional-smash-bros-melee-payer-hungrybox-popped-off-so-hard-after-winning-a-game-that-he-literally-fainted",
+      "headline": "Battlefield 6 Player With Over 400 Hours Gets Full Refund from Steam After Key Modes Were Removed",
+      "title": "Battlefield 6 Player With Over 400 Hours Gets Full Refund from Steam After Key Modes Were Removed",
+      "snapshot": "A Battlefield 6 player with hundreds of hours of playtime has scored a full refund of the game after Battlefield Studios removed key modes from the game's quick-play matchmaking.",
+      "summary": "A Battlefield 6 player with hundreds of hours of playtime has scored a full refund of the game after Battlefield Studios removed key modes from the game's quick-play matchmaking.",
+      "url": "https://www.ign.com/articles/battlefield-6-player-with-over-400-hours-gets-full-refund-from-steam-after-key-modes-were-removed",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-10 04:20:54 PM ET",
+      "published_at": "2026-08-10 05:10:16 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Professional Smash Bros. Melee Payer Hungrybox Popped Off So Hard After Winning a Game That He Literally Fainted"
+        "Battlefield 6 Player With Over 400 Hours Gets Full Refund from Steam After Key Modes Were Removed"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1708,12 +1709,12 @@
         "‘Teenage Sex and Death at Camp Miasma’: Hannah Einbinder and Jane Schoenbrun on the Future of Queer Cinema",
         "Alexa Swinton, David Arquette, Wyatt Oleff & Sawyer Spielberg Set For Demolition Derby Drama ‘Wreckless’ From First-Time Feature Filmmaker Kayla Arend",
         "Danny Boyle’s Rupert Murdoch Movie ‘Ink’ Sets December Theatrical Release From Netflix",
-        "The 35 best sci-fi movies of all time (August 2026) - Entertainment Weekly"
+        "The 35 best sci-fi movies of all time (August 2026) - ew.com"
       ],
       "homepage_cards": [
         {
-          "id": "film-0-4161616907372242904",
-          "key": "film-0-4161616907372242904",
+          "id": "film-0-6548443258427468549",
+          "key": "film-0-6548443258427468549",
           "category": "Film",
           "label": "Film",
           "headline": "Jacob Elordi in Talks to Star in Ari Aster’s ‘Scapegoat’ With Scarlett Johansson",
@@ -1740,8 +1741,8 @@
           ]
         },
         {
-          "id": "film-10-6224910425011894972",
-          "key": "film-10-6224910425011894972",
+          "id": "film-10-7616401830977496991",
+          "key": "film-10-7616401830977496991",
           "category": "Film",
           "label": "Film",
           "headline": "Jon Cypher Dies: ‘Hill Street Blues’ Police Chief, ‘Major Dad’ Regular & ‘Masters Of The Universe’ Ally Was 94",
@@ -1768,8 +1769,8 @@
           ]
         },
         {
-          "id": "film-22-7219053956479745015",
-          "key": "film-22-7219053956479745015",
+          "id": "film-22-4458562680468393187",
+          "key": "film-22-4458562680468393187",
           "category": "Film",
           "label": "Film",
           "headline": "Anne Hathaway on Her Jam-Packed Year of Movies and Upcoming Adaptation of Hit Novel ‘Yesteryear’",
@@ -1796,8 +1797,8 @@
           ]
         },
         {
-          "id": "film-32-698358330137931306",
-          "key": "film-32-698358330137931306",
+          "id": "film-32-7060581393198018303",
+          "key": "film-32-7060581393198018303",
           "category": "Film",
           "label": "Film",
           "headline": "Fayetteville's CAMEO Collective builds on its movie theater roots - The Fayetteville Observer",
@@ -1824,8 +1825,8 @@
           ]
         },
         {
-          "id": "film-1-2051397305289232953",
-          "key": "film-1-2051397305289232953",
+          "id": "film-1-8421820964129728995",
+          "key": "film-1-8421820964129728995",
           "category": "Film",
           "label": "Film",
           "headline": "‘Teenage Sex and Death at Camp Miasma’: Hannah Einbinder and Jane Schoenbrun on the Future of Queer Cinema",
@@ -1852,8 +1853,8 @@
           ]
         },
         {
-          "id": "film-11-6622914507063567398",
-          "key": "film-11-6622914507063567398",
+          "id": "film-11-3179414814035269775",
+          "key": "film-11-3179414814035269775",
           "category": "Film",
           "label": "Film",
           "headline": "Alexa Swinton, David Arquette, Wyatt Oleff & Sawyer Spielberg Set For Demolition Derby Drama ‘Wreckless’ From First-Time Feature Filmmaker Kayla Arend",
@@ -1880,8 +1881,8 @@
           ]
         },
         {
-          "id": "film-23-2960729564089549502",
-          "key": "film-23-2960729564089549502",
+          "id": "film-23-2103444464392145803",
+          "key": "film-23-2103444464392145803",
           "category": "Film",
           "label": "Film",
           "headline": "Danny Boyle’s Rupert Murdoch Movie ‘Ink’ Sets December Theatrical Release From Netflix",
@@ -1908,14 +1909,14 @@
           ]
         },
         {
-          "id": "film-33-4794023530683960943",
-          "key": "film-33-4794023530683960943",
+          "id": "film-33-648125711245036938",
+          "key": "film-33-648125711245036938",
           "category": "Film",
           "label": "Film",
-          "headline": "The 35 best sci-fi movies of all time (August 2026) - Entertainment Weekly",
-          "title": "The 35 best sci-fi movies of all time (August 2026) - Entertainment Weekly",
-          "snapshot": "The 35 best sci-fi movies of all time (August 2026) Entertainment Weekly",
-          "summary": "The 35 best sci-fi movies of all time (August 2026) Entertainment Weekly",
+          "headline": "The 35 best sci-fi movies of all time (August 2026) - ew.com",
+          "title": "The 35 best sci-fi movies of all time (August 2026) - ew.com",
+          "snapshot": "The 35 best sci-fi movies of all time (August 2026) ew.com",
+          "summary": "The 35 best sci-fi movies of all time (August 2026) ew.com",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0ySGg0RW9YdGtGbXBwOTljYkxPNlY3TWktVDhfN25LN2NrTFVTUmx5azBnVzh6VW9UMElkMWxzbmJBWGxiRlB4VGVDVUo2WUhpWEQybXptY19jUU1XelEyV2F2MVY?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -1926,7 +1927,7 @@
           "story_type": "rss_headline",
           "priority_score": 67,
           "key_data": [
-            "The 35 best sci-fi movies of all time (August 2026) - Entertainment Weekly"
+            "The 35 best sci-fi movies of all time (August 2026) - ew.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1938,8 +1939,8 @@
       ],
       "items": [
         {
-          "id": "film-0-4161616907372242904",
-          "key": "film-0-4161616907372242904",
+          "id": "film-0-6548443258427468549",
+          "key": "film-0-6548443258427468549",
           "category": "Film",
           "label": "Film",
           "headline": "Jacob Elordi in Talks to Star in Ari Aster’s ‘Scapegoat’ With Scarlett Johansson",
@@ -1966,8 +1967,8 @@
           ]
         },
         {
-          "id": "film-10-6224910425011894972",
-          "key": "film-10-6224910425011894972",
+          "id": "film-10-7616401830977496991",
+          "key": "film-10-7616401830977496991",
           "category": "Film",
           "label": "Film",
           "headline": "Jon Cypher Dies: ‘Hill Street Blues’ Police Chief, ‘Major Dad’ Regular & ‘Masters Of The Universe’ Ally Was 94",
@@ -1994,8 +1995,8 @@
           ]
         },
         {
-          "id": "film-22-7219053956479745015",
-          "key": "film-22-7219053956479745015",
+          "id": "film-22-4458562680468393187",
+          "key": "film-22-4458562680468393187",
           "category": "Film",
           "label": "Film",
           "headline": "Anne Hathaway on Her Jam-Packed Year of Movies and Upcoming Adaptation of Hit Novel ‘Yesteryear’",
@@ -2022,8 +2023,8 @@
           ]
         },
         {
-          "id": "film-32-698358330137931306",
-          "key": "film-32-698358330137931306",
+          "id": "film-32-7060581393198018303",
+          "key": "film-32-7060581393198018303",
           "category": "Film",
           "label": "Film",
           "headline": "Fayetteville's CAMEO Collective builds on its movie theater roots - The Fayetteville Observer",
@@ -2050,8 +2051,8 @@
           ]
         },
         {
-          "id": "film-1-2051397305289232953",
-          "key": "film-1-2051397305289232953",
+          "id": "film-1-8421820964129728995",
+          "key": "film-1-8421820964129728995",
           "category": "Film",
           "label": "Film",
           "headline": "‘Teenage Sex and Death at Camp Miasma’: Hannah Einbinder and Jane Schoenbrun on the Future of Queer Cinema",
@@ -2078,8 +2079,8 @@
           ]
         },
         {
-          "id": "film-11-6622914507063567398",
-          "key": "film-11-6622914507063567398",
+          "id": "film-11-3179414814035269775",
+          "key": "film-11-3179414814035269775",
           "category": "Film",
           "label": "Film",
           "headline": "Alexa Swinton, David Arquette, Wyatt Oleff & Sawyer Spielberg Set For Demolition Derby Drama ‘Wreckless’ From First-Time Feature Filmmaker Kayla Arend",
@@ -2106,8 +2107,8 @@
           ]
         },
         {
-          "id": "film-23-2960729564089549502",
-          "key": "film-23-2960729564089549502",
+          "id": "film-23-2103444464392145803",
+          "key": "film-23-2103444464392145803",
           "category": "Film",
           "label": "Film",
           "headline": "Danny Boyle’s Rupert Murdoch Movie ‘Ink’ Sets December Theatrical Release From Netflix",
@@ -2134,14 +2135,14 @@
           ]
         },
         {
-          "id": "film-33-4794023530683960943",
-          "key": "film-33-4794023530683960943",
+          "id": "film-33-648125711245036938",
+          "key": "film-33-648125711245036938",
           "category": "Film",
           "label": "Film",
-          "headline": "The 35 best sci-fi movies of all time (August 2026) - Entertainment Weekly",
-          "title": "The 35 best sci-fi movies of all time (August 2026) - Entertainment Weekly",
-          "snapshot": "The 35 best sci-fi movies of all time (August 2026) Entertainment Weekly",
-          "summary": "The 35 best sci-fi movies of all time (August 2026) Entertainment Weekly",
+          "headline": "The 35 best sci-fi movies of all time (August 2026) - ew.com",
+          "title": "The 35 best sci-fi movies of all time (August 2026) - ew.com",
+          "snapshot": "The 35 best sci-fi movies of all time (August 2026) ew.com",
+          "summary": "The 35 best sci-fi movies of all time (August 2026) ew.com",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0ySGg0RW9YdGtGbXBwOTljYkxPNlY3TWktVDhfN25LN2NrTFVTUmx5azBnVzh6VW9UMElkMWxzbmJBWGxiRlB4VGVDVUo2WUhpWEQybXptY19jUU1XelEyV2F2MVY?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -2152,7 +2153,7 @@
           "story_type": "rss_headline",
           "priority_score": 67,
           "key_data": [
-            "The 35 best sci-fi movies of all time (August 2026) - Entertainment Weekly"
+            "The 35 best sci-fi movies of all time (August 2026) - ew.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2162,7 +2163,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-10 06:37:43 PM ET"
+      "updated_at": "2026-08-10 07:35:37 PM ET"
     },
     {
       "key": "tv",
@@ -2174,22 +2175,22 @@
         "Unscripted Producer Rachel Tung Renews ABC & Hulu Development Deal (EXCLUSIVE)",
         "‘Pluribus’ Duo Vince Gilligan And Composer Dave Porter On Long-Running Collaboration & That Addictive Main Theme – Crew Call Podcast",
         "Jeffrey Dean Morgan Says Manager Fired Him Due to Age Just Before Booking ‘Grey’s Anatomy’ and ‘Supernatural’",
-        "Korea’s market volatility becomes TV entertainment - koreaherald.com",
+        "Korea’s market volatility becomes TV entertainment - The Korea Herald",
         "Damon Wayans Reunites With ‘In Living Color’ Co-Star David Alan Grier in ‘St. Denis Medical’ Season 3 Premiere"
       ],
       "watch_list": [
         "Unscripted Producer Rachel Tung Renews ABC & Hulu Development Deal (EXCLUSIVE)",
         "‘Pluribus’ Duo Vince Gilligan And Composer Dave Porter On Long-Running Collaboration & That Addictive Main Theme – Crew Call Podcast",
         "Jeffrey Dean Morgan Says Manager Fired Him Due to Age Just Before Booking ‘Grey’s Anatomy’ and ‘Supernatural’",
-        "Korea’s market volatility becomes TV entertainment - koreaherald.com",
+        "Korea’s market volatility becomes TV entertainment - The Korea Herald",
         "Damon Wayans Reunites With ‘In Living Color’ Co-Star David Alan Grier in ‘St. Denis Medical’ Season 3 Premiere",
         "‘Love Island USA’ Season 8 Reunion Red Carpet Photos: Melanie Moreno, Corbin Mims, Titi Davis, Caleb McDaniel, Sol Dean, Zach Georgiou & More",
         "Kidnapping Survivor Turns True Crime Investigator in New Series: How to Watch ‘Somebody Knows Something’"
       ],
       "homepage_cards": [
         {
-          "id": "tv-0-956745659066616661",
-          "key": "tv-0-956745659066616661",
+          "id": "tv-0-1700785002276123377",
+          "key": "tv-0-1700785002276123377",
           "category": "TV",
           "label": "TV",
           "headline": "Unscripted Producer Rachel Tung Renews ABC & Hulu Development Deal (EXCLUSIVE)",
@@ -2216,8 +2217,8 @@
           ]
         },
         {
-          "id": "tv-9-4567276265337075228",
-          "key": "tv-9-4567276265337075228",
+          "id": "tv-9-5771397407491736480",
+          "key": "tv-9-5771397407491736480",
           "category": "TV",
           "label": "TV",
           "headline": "‘Pluribus’ Duo Vince Gilligan And Composer Dave Porter On Long-Running Collaboration & That Addictive Main Theme – Crew Call Podcast",
@@ -2244,8 +2245,8 @@
           ]
         },
         {
-          "id": "tv-20-8136283267288331187",
-          "key": "tv-20-8136283267288331187",
+          "id": "tv-20-7359027295301396661",
+          "key": "tv-20-7359027295301396661",
           "category": "TV",
           "label": "TV",
           "headline": "Jeffrey Dean Morgan Says Manager Fired Him Due to Age Just Before Booking ‘Grey’s Anatomy’ and ‘Supernatural’",
@@ -2272,14 +2273,14 @@
           ]
         },
         {
-          "id": "tv-30-6081083309863037914",
-          "key": "tv-30-6081083309863037914",
+          "id": "tv-30-1730520654212882534",
+          "key": "tv-30-1730520654212882534",
           "category": "TV",
           "label": "TV",
-          "headline": "Korea’s market volatility becomes TV entertainment - koreaherald.com",
-          "title": "Korea’s market volatility becomes TV entertainment - koreaherald.com",
-          "snapshot": "Korea’s market volatility becomes TV entertainment koreaherald.com",
-          "summary": "Korea’s market volatility becomes TV entertainment koreaherald.com",
+          "headline": "Korea’s market volatility becomes TV entertainment - The Korea Herald",
+          "title": "Korea’s market volatility becomes TV entertainment - The Korea Herald",
+          "snapshot": "Korea’s market volatility becomes TV entertainment The Korea Herald",
+          "summary": "Korea’s market volatility becomes TV entertainment The Korea Herald",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44b2ttRWdzRkM4cFAwUVdLWDkyUEpYeHhldy1KSUw5S1lVWEtPT2xqQ2dXajVJQ1BHR0RMUzhXeEpUb3kybmZnOXhWTDRNdzlpNmU5RkxRTQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -2290,7 +2291,7 @@
           "story_type": "rss_headline",
           "priority_score": 70,
           "key_data": [
-            "Korea’s market volatility becomes TV entertainment - koreaherald.com"
+            "Korea’s market volatility becomes TV entertainment - The Korea Herald"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2300,8 +2301,8 @@
           ]
         },
         {
-          "id": "tv-1-3256854631513977913",
-          "key": "tv-1-3256854631513977913",
+          "id": "tv-1-6695373627577040759",
+          "key": "tv-1-6695373627577040759",
           "category": "TV",
           "label": "TV",
           "headline": "Damon Wayans Reunites With ‘In Living Color’ Co-Star David Alan Grier in ‘St. Denis Medical’ Season 3 Premiere",
@@ -2328,8 +2329,8 @@
           ]
         },
         {
-          "id": "tv-10-7592495231634423571",
-          "key": "tv-10-7592495231634423571",
+          "id": "tv-10-3372631415729842524",
+          "key": "tv-10-3372631415729842524",
           "category": "TV",
           "label": "TV",
           "headline": "‘Love Island USA’ Season 8 Reunion Red Carpet Photos: Melanie Moreno, Corbin Mims, Titi Davis, Caleb McDaniel, Sol Dean, Zach Georgiou & More",
@@ -2356,8 +2357,8 @@
           ]
         },
         {
-          "id": "tv-21-3103348503353301101",
-          "key": "tv-21-3103348503353301101",
+          "id": "tv-21-8212491201771424936",
+          "key": "tv-21-8212491201771424936",
           "category": "TV",
           "label": "TV",
           "headline": "Kidnapping Survivor Turns True Crime Investigator in New Series: How to Watch ‘Somebody Knows Something’",
@@ -2386,8 +2387,8 @@
       ],
       "items": [
         {
-          "id": "tv-0-956745659066616661",
-          "key": "tv-0-956745659066616661",
+          "id": "tv-0-1700785002276123377",
+          "key": "tv-0-1700785002276123377",
           "category": "TV",
           "label": "TV",
           "headline": "Unscripted Producer Rachel Tung Renews ABC & Hulu Development Deal (EXCLUSIVE)",
@@ -2414,8 +2415,8 @@
           ]
         },
         {
-          "id": "tv-9-4567276265337075228",
-          "key": "tv-9-4567276265337075228",
+          "id": "tv-9-5771397407491736480",
+          "key": "tv-9-5771397407491736480",
           "category": "TV",
           "label": "TV",
           "headline": "‘Pluribus’ Duo Vince Gilligan And Composer Dave Porter On Long-Running Collaboration & That Addictive Main Theme – Crew Call Podcast",
@@ -2442,8 +2443,8 @@
           ]
         },
         {
-          "id": "tv-20-8136283267288331187",
-          "key": "tv-20-8136283267288331187",
+          "id": "tv-20-7359027295301396661",
+          "key": "tv-20-7359027295301396661",
           "category": "TV",
           "label": "TV",
           "headline": "Jeffrey Dean Morgan Says Manager Fired Him Due to Age Just Before Booking ‘Grey’s Anatomy’ and ‘Supernatural’",
@@ -2470,14 +2471,14 @@
           ]
         },
         {
-          "id": "tv-30-6081083309863037914",
-          "key": "tv-30-6081083309863037914",
+          "id": "tv-30-1730520654212882534",
+          "key": "tv-30-1730520654212882534",
           "category": "TV",
           "label": "TV",
-          "headline": "Korea’s market volatility becomes TV entertainment - koreaherald.com",
-          "title": "Korea’s market volatility becomes TV entertainment - koreaherald.com",
-          "snapshot": "Korea’s market volatility becomes TV entertainment koreaherald.com",
-          "summary": "Korea’s market volatility becomes TV entertainment koreaherald.com",
+          "headline": "Korea’s market volatility becomes TV entertainment - The Korea Herald",
+          "title": "Korea’s market volatility becomes TV entertainment - The Korea Herald",
+          "snapshot": "Korea’s market volatility becomes TV entertainment The Korea Herald",
+          "summary": "Korea’s market volatility becomes TV entertainment The Korea Herald",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44b2ttRWdzRkM4cFAwUVdLWDkyUEpYeHhldy1KSUw5S1lVWEtPT2xqQ2dXajVJQ1BHR0RMUzhXeEpUb3kybmZnOXhWTDRNdzlpNmU5RkxRTQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -2488,7 +2489,7 @@
           "story_type": "rss_headline",
           "priority_score": 70,
           "key_data": [
-            "Korea’s market volatility becomes TV entertainment - koreaherald.com"
+            "Korea’s market volatility becomes TV entertainment - The Korea Herald"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2498,8 +2499,8 @@
           ]
         },
         {
-          "id": "tv-1-3256854631513977913",
-          "key": "tv-1-3256854631513977913",
+          "id": "tv-1-6695373627577040759",
+          "key": "tv-1-6695373627577040759",
           "category": "TV",
           "label": "TV",
           "headline": "Damon Wayans Reunites With ‘In Living Color’ Co-Star David Alan Grier in ‘St. Denis Medical’ Season 3 Premiere",
@@ -2526,8 +2527,8 @@
           ]
         },
         {
-          "id": "tv-10-7592495231634423571",
-          "key": "tv-10-7592495231634423571",
+          "id": "tv-10-3372631415729842524",
+          "key": "tv-10-3372631415729842524",
           "category": "TV",
           "label": "TV",
           "headline": "‘Love Island USA’ Season 8 Reunion Red Carpet Photos: Melanie Moreno, Corbin Mims, Titi Davis, Caleb McDaniel, Sol Dean, Zach Georgiou & More",
@@ -2554,8 +2555,8 @@
           ]
         },
         {
-          "id": "tv-21-3103348503353301101",
-          "key": "tv-21-3103348503353301101",
+          "id": "tv-21-8212491201771424936",
+          "key": "tv-21-8212491201771424936",
           "category": "TV",
           "label": "TV",
           "headline": "Kidnapping Survivor Turns True Crime Investigator in New Series: How to Watch ‘Somebody Knows Something’",
@@ -2582,7 +2583,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-10 06:37:44 PM ET"
+      "updated_at": "2026-08-10 07:35:39 PM ET"
     },
     {
       "key": "streaming",
@@ -2600,8 +2601,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "streaming-0-4326474707707424990",
-          "key": "streaming-0-4326474707707424990",
+          "id": "streaming-0-521116664472438612",
+          "key": "streaming-0-521116664472438612",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'The Last House' to 'Obsession,' 10 movies to stream right now - USA Today",
@@ -2628,8 +2629,8 @@
           ]
         },
         {
-          "id": "streaming-1-2583213408259993036",
-          "key": "streaming-1-2583213408259993036",
+          "id": "streaming-1-6793680236488956941",
+          "key": "streaming-1-6793680236488956941",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Disney turns $4-billion streaming loss into profit, and now it chases global growth - Los Angeles Times",
@@ -2658,8 +2659,8 @@
       ],
       "items": [
         {
-          "id": "streaming-0-4326474707707424990",
-          "key": "streaming-0-4326474707707424990",
+          "id": "streaming-0-521116664472438612",
+          "key": "streaming-0-521116664472438612",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'The Last House' to 'Obsession,' 10 movies to stream right now - USA Today",
@@ -2686,8 +2687,8 @@
           ]
         },
         {
-          "id": "streaming-1-2583213408259993036",
-          "key": "streaming-1-2583213408259993036",
+          "id": "streaming-1-6793680236488956941",
+          "key": "streaming-1-6793680236488956941",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Disney turns $4-billion streaming loss into profit, and now it chases global growth - Los Angeles Times",
@@ -2714,7 +2715,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-10 06:37:44 PM ET"
+      "updated_at": "2026-08-10 07:35:40 PM ET"
     },
     {
       "key": "music",
@@ -2724,23 +2725,23 @@
       "snapshot": "Music coverage is updating with 6 current RSS headline item(s).",
       "key_storylines": [
         "AI Music Company Suno Unveils Download Caps for Free, Paid Tiers in Quest to Combat Abuse (EXCLUSIVE)",
-        "Biggie’s Manager Wins Court Order Requiring Faith Evans to Share Primary Wave Catalog Money",
+        "Jon Glass Named General Counsel of Merlin, Leading Legal Affairs and Partnerships",
         "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - Billboard",
         "First Artists Management Rebrands as Fam Agency, Expands With New Agent Dan North",
-        "‘Real Housewives’ Star Luann de Lesseps Apologizes to Jennifer Lopez After Saying She’s ‘From the Hood’ Instead of ‘The Block’: ‘I Couldn’t Think!’"
+        "Every Surprise Song BTS Has Performed on the ARIRANG World Tour (So Far)"
       ],
       "watch_list": [
         "AI Music Company Suno Unveils Download Caps for Free, Paid Tiers in Quest to Combat Abuse (EXCLUSIVE)",
-        "Biggie’s Manager Wins Court Order Requiring Faith Evans to Share Primary Wave Catalog Money",
+        "Jon Glass Named General Counsel of Merlin, Leading Legal Affairs and Partnerships",
         "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - Billboard",
         "First Artists Management Rebrands as Fam Agency, Expands With New Agent Dan North",
-        "‘Real Housewives’ Star Luann de Lesseps Apologizes to Jennifer Lopez After Saying She’s ‘From the Hood’ Instead of ‘The Block’: ‘I Couldn’t Think!’",
+        "Every Surprise Song BTS Has Performed on the ARIRANG World Tour (So Far)",
         "It’s Official: Influence Media to Buy Anthem for Over $600 Million - Billboard"
       ],
       "homepage_cards": [
         {
-          "id": "music-0-9157497038608894872",
-          "key": "music-0-9157497038608894872",
+          "id": "music-0-3874168667454312686",
+          "key": "music-0-3874168667454312686",
           "category": "Music",
           "label": "Music",
           "headline": "AI Music Company Suno Unveils Download Caps for Free, Paid Tiers in Quest to Combat Abuse (EXCLUSIVE)",
@@ -2767,25 +2768,25 @@
           ]
         },
         {
-          "id": "music-10-3437622466772345020",
-          "key": "music-10-3437622466772345020",
+          "id": "music-10-2155472598220264403",
+          "key": "music-10-2155472598220264403",
           "category": "Music",
           "label": "Music",
-          "headline": "Biggie’s Manager Wins Court Order Requiring Faith Evans to Share Primary Wave Catalog Money",
-          "title": "Biggie’s Manager Wins Court Order Requiring Faith Evans to Share Primary Wave Catalog Money",
-          "snapshot": "A lawyer for Wayne Barrow, who's the estate trustee for The Notorious B.I.G.'s mother Voletta Wallace, tells Billboard the decision is \"a complete vindication.\"",
-          "summary": "A lawyer for Wayne Barrow, who's the estate trustee for The Notorious B.I.G.'s mother Voletta Wallace, tells Billboard the decision is \"a complete vindication.\"",
-          "url": "https://www.billboard.com/pro/notorious-big-lawsuit-biggie-manager-wins-faith-evans/",
+          "headline": "Jon Glass Named General Counsel of Merlin, Leading Legal Affairs and Partnerships",
+          "title": "Jon Glass Named General Counsel of Merlin, Leading Legal Affairs and Partnerships",
+          "snapshot": "Glass joins the indie licensing organization after 16 years with Warner Music Group.",
+          "summary": "Glass joins the indie licensing organization after 16 years with Warner Music Group.",
+          "url": "https://www.billboard.com/pro/merlin-hires-jon-glass-general-counsel/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-10 06:20:22 PM ET",
+          "published_at": "2026-08-10 07:01:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "Biggie’s Manager Wins Court Order Requiring Faith Evans to Share Primary Wave Catalog Money"
+            "Jon Glass Named General Counsel of Merlin, Leading Legal Affairs and Partnerships"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2795,8 +2796,8 @@
           ]
         },
         {
-          "id": "music-20-4810589497586748279",
-          "key": "music-20-4810589497586748279",
+          "id": "music-20-2420775817395164932",
+          "key": "music-20-2420775817395164932",
           "category": "Music",
           "label": "Music",
           "headline": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - Billboard",
@@ -2823,8 +2824,8 @@
           ]
         },
         {
-          "id": "music-1-5200906867571481955",
-          "key": "music-1-5200906867571481955",
+          "id": "music-1-7290438343919364289",
+          "key": "music-1-7290438343919364289",
           "category": "Music",
           "label": "Music",
           "headline": "First Artists Management Rebrands as Fam Agency, Expands With New Agent Dan North",
@@ -2851,25 +2852,25 @@
           ]
         },
         {
-          "id": "music-11-2413403338396246816",
-          "key": "music-11-2413403338396246816",
+          "id": "music-11-272726712630622949",
+          "key": "music-11-272726712630622949",
           "category": "Music",
           "label": "Music",
-          "headline": "‘Real Housewives’ Star Luann de Lesseps Apologizes to Jennifer Lopez After Saying She’s ‘From the Hood’ Instead of ‘The Block’: ‘I Couldn’t Think!’",
-          "title": "‘Real Housewives’ Star Luann de Lesseps Apologizes to Jennifer Lopez After Saying She’s ‘From the Hood’ Instead of ‘The Block’: ‘I Couldn’t Think!’",
-          "snapshot": "Luann says she’s embarrassed by the mistake and hopes “J.Lo is not upset with me, because I love her.”",
-          "summary": "Luann says she’s embarrassed by the mistake and hopes “J.Lo is not upset with me, because I love her.”",
-          "url": "https://www.billboard.com/music/latin/luann-real-housewives-apologizes-jennifer-lopez-the-hood-1236312963/",
+          "headline": "Every Surprise Song BTS Has Performed on the ARIRANG World Tour (So Far)",
+          "title": "Every Surprise Song BTS Has Performed on the ARIRANG World Tour (So Far)",
+          "snapshot": "The K-pop group has played two surprise songs during every show's encore.",
+          "summary": "The K-pop group has played two surprise songs during every show's encore.",
+          "url": "https://www.billboard.com/lists/bts-surprise-songs-arirang-tour-every-track/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-10 06:18:48 PM ET",
+          "published_at": "2026-08-10 07:00:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "‘Real Housewives’ Star Luann de Lesseps Apologizes to Jennifer Lopez After Saying She’s ‘From the Hood’ Instead of ‘The Block’: ‘I Couldn’t Think!’"
+            "Every Surprise Song BTS Has Performed on the ARIRANG World Tour (So Far)"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2879,8 +2880,8 @@
           ]
         },
         {
-          "id": "music-21-2456059256176997654",
-          "key": "music-21-2456059256176997654",
+          "id": "music-21-8820742514772116323",
+          "key": "music-21-8820742514772116323",
           "category": "Music",
           "label": "Music",
           "headline": "It’s Official: Influence Media to Buy Anthem for Over $600 Million - Billboard",
@@ -2909,8 +2910,8 @@
       ],
       "items": [
         {
-          "id": "music-0-9157497038608894872",
-          "key": "music-0-9157497038608894872",
+          "id": "music-0-3874168667454312686",
+          "key": "music-0-3874168667454312686",
           "category": "Music",
           "label": "Music",
           "headline": "AI Music Company Suno Unveils Download Caps for Free, Paid Tiers in Quest to Combat Abuse (EXCLUSIVE)",
@@ -2937,25 +2938,25 @@
           ]
         },
         {
-          "id": "music-10-3437622466772345020",
-          "key": "music-10-3437622466772345020",
+          "id": "music-10-2155472598220264403",
+          "key": "music-10-2155472598220264403",
           "category": "Music",
           "label": "Music",
-          "headline": "Biggie’s Manager Wins Court Order Requiring Faith Evans to Share Primary Wave Catalog Money",
-          "title": "Biggie’s Manager Wins Court Order Requiring Faith Evans to Share Primary Wave Catalog Money",
-          "snapshot": "A lawyer for Wayne Barrow, who's the estate trustee for The Notorious B.I.G.'s mother Voletta Wallace, tells Billboard the decision is \"a complete vindication.\"",
-          "summary": "A lawyer for Wayne Barrow, who's the estate trustee for The Notorious B.I.G.'s mother Voletta Wallace, tells Billboard the decision is \"a complete vindication.\"",
-          "url": "https://www.billboard.com/pro/notorious-big-lawsuit-biggie-manager-wins-faith-evans/",
+          "headline": "Jon Glass Named General Counsel of Merlin, Leading Legal Affairs and Partnerships",
+          "title": "Jon Glass Named General Counsel of Merlin, Leading Legal Affairs and Partnerships",
+          "snapshot": "Glass joins the indie licensing organization after 16 years with Warner Music Group.",
+          "summary": "Glass joins the indie licensing organization after 16 years with Warner Music Group.",
+          "url": "https://www.billboard.com/pro/merlin-hires-jon-glass-general-counsel/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-10 06:20:22 PM ET",
+          "published_at": "2026-08-10 07:01:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "Biggie’s Manager Wins Court Order Requiring Faith Evans to Share Primary Wave Catalog Money"
+            "Jon Glass Named General Counsel of Merlin, Leading Legal Affairs and Partnerships"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2965,8 +2966,8 @@
           ]
         },
         {
-          "id": "music-20-4810589497586748279",
-          "key": "music-20-4810589497586748279",
+          "id": "music-20-2420775817395164932",
+          "key": "music-20-2420775817395164932",
           "category": "Music",
           "label": "Music",
           "headline": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - Billboard",
@@ -2993,8 +2994,8 @@
           ]
         },
         {
-          "id": "music-1-5200906867571481955",
-          "key": "music-1-5200906867571481955",
+          "id": "music-1-7290438343919364289",
+          "key": "music-1-7290438343919364289",
           "category": "Music",
           "label": "Music",
           "headline": "First Artists Management Rebrands as Fam Agency, Expands With New Agent Dan North",
@@ -3021,25 +3022,25 @@
           ]
         },
         {
-          "id": "music-11-2413403338396246816",
-          "key": "music-11-2413403338396246816",
+          "id": "music-11-272726712630622949",
+          "key": "music-11-272726712630622949",
           "category": "Music",
           "label": "Music",
-          "headline": "‘Real Housewives’ Star Luann de Lesseps Apologizes to Jennifer Lopez After Saying She’s ‘From the Hood’ Instead of ‘The Block’: ‘I Couldn’t Think!’",
-          "title": "‘Real Housewives’ Star Luann de Lesseps Apologizes to Jennifer Lopez After Saying She’s ‘From the Hood’ Instead of ‘The Block’: ‘I Couldn’t Think!’",
-          "snapshot": "Luann says she’s embarrassed by the mistake and hopes “J.Lo is not upset with me, because I love her.”",
-          "summary": "Luann says she’s embarrassed by the mistake and hopes “J.Lo is not upset with me, because I love her.”",
-          "url": "https://www.billboard.com/music/latin/luann-real-housewives-apologizes-jennifer-lopez-the-hood-1236312963/",
+          "headline": "Every Surprise Song BTS Has Performed on the ARIRANG World Tour (So Far)",
+          "title": "Every Surprise Song BTS Has Performed on the ARIRANG World Tour (So Far)",
+          "snapshot": "The K-pop group has played two surprise songs during every show's encore.",
+          "summary": "The K-pop group has played two surprise songs during every show's encore.",
+          "url": "https://www.billboard.com/lists/bts-surprise-songs-arirang-tour-every-track/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-10 06:18:48 PM ET",
+          "published_at": "2026-08-10 07:00:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "‘Real Housewives’ Star Luann de Lesseps Apologizes to Jennifer Lopez After Saying She’s ‘From the Hood’ Instead of ‘The Block’: ‘I Couldn’t Think!’"
+            "Every Surprise Song BTS Has Performed on the ARIRANG World Tour (So Far)"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3049,8 +3050,8 @@
           ]
         },
         {
-          "id": "music-21-2456059256176997654",
-          "key": "music-21-2456059256176997654",
+          "id": "music-21-8820742514772116323",
+          "key": "music-21-8820742514772116323",
           "category": "Music",
           "label": "Music",
           "headline": "It’s Official: Influence Media to Buy Anthem for Over $600 Million - Billboard",
@@ -3077,7 +3078,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-10 06:37:46 PM ET"
+      "updated_at": "2026-08-10 07:35:41 PM ET"
     },
     {
       "key": "awards",
@@ -3087,18 +3088,18 @@
       "snapshot": "Awards coverage is updating with 3 current RSS headline item(s).",
       "key_storylines": [
         "William H. Macy, Shawn Hatosy and Troy Kotsur Among Astra TV Awards Honorees; Lisa Ann Walter Set as Host",
-        "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - yahoo.com",
+        "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo",
         "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026"
       ],
       "watch_list": [
         "William H. Macy, Shawn Hatosy and Troy Kotsur Among Astra TV Awards Honorees; Lisa Ann Walter Set as Host",
-        "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - yahoo.com",
+        "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo",
         "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026"
       ],
       "homepage_cards": [
         {
-          "id": "awards-0-3445065227103023007",
-          "key": "awards-0-3445065227103023007",
+          "id": "awards-0-9201211678929917305",
+          "key": "awards-0-9201211678929917305",
           "category": "Awards",
           "label": "Awards",
           "headline": "William H. Macy, Shawn Hatosy and Troy Kotsur Among Astra TV Awards Honorees; Lisa Ann Walter Set as Host",
@@ -3125,14 +3126,14 @@
           ]
         },
         {
-          "id": "awards-6-3866303481744281550",
-          "key": "awards-6-3866303481744281550",
+          "id": "awards-6-486084011255855395",
+          "key": "awards-6-486084011255855395",
           "category": "Awards",
           "label": "Awards",
-          "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - yahoo.com",
-          "title": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - yahoo.com",
-          "snapshot": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More yahoo.com",
-          "summary": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More yahoo.com",
+          "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo",
+          "title": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo",
+          "snapshot": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More Yahoo",
+          "summary": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More Yahoo",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWU9HUjNrd0ZCbC05ekE3WU1TTEUzZkNEOU50TW9yXzRvbTRSSGY0Um01M1ZnYW8wTTJZZHd4YkZiTlVVTVpnWVdKZlljSmtJdDM1eVFBNlFXUTgtM0JSVVVkRURFSHd1U1Vpd09CY0lpVHVUellYWll0QmFRMm1BY0JMdnI2N205dlhuRG5MQmEtdUVoZkxfM3d0NGE1Zw?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3143,7 +3144,7 @@
           "story_type": "rss_headline",
           "priority_score": 94,
           "key_data": [
-            "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - yahoo.com"
+            "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3153,8 +3154,8 @@
           ]
         },
         {
-          "id": "awards-1-3470914117285949218",
-          "key": "awards-1-3470914117285949218",
+          "id": "awards-1-1587188309956297408",
+          "key": "awards-1-1587188309956297408",
           "category": "Awards",
           "label": "Awards",
           "headline": "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
@@ -3183,8 +3184,8 @@
       ],
       "items": [
         {
-          "id": "awards-0-3445065227103023007",
-          "key": "awards-0-3445065227103023007",
+          "id": "awards-0-9201211678929917305",
+          "key": "awards-0-9201211678929917305",
           "category": "Awards",
           "label": "Awards",
           "headline": "William H. Macy, Shawn Hatosy and Troy Kotsur Among Astra TV Awards Honorees; Lisa Ann Walter Set as Host",
@@ -3211,14 +3212,14 @@
           ]
         },
         {
-          "id": "awards-6-3866303481744281550",
-          "key": "awards-6-3866303481744281550",
+          "id": "awards-6-486084011255855395",
+          "key": "awards-6-486084011255855395",
           "category": "Awards",
           "label": "Awards",
-          "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - yahoo.com",
-          "title": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - yahoo.com",
-          "snapshot": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More yahoo.com",
-          "summary": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More yahoo.com",
+          "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo",
+          "title": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo",
+          "snapshot": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More Yahoo",
+          "summary": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More Yahoo",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWU9HUjNrd0ZCbC05ekE3WU1TTEUzZkNEOU50TW9yXzRvbTRSSGY0Um01M1ZnYW8wTTJZZHd4YkZiTlVVTVpnWVdKZlljSmtJdDM1eVFBNlFXUTgtM0JSVVVkRURFSHd1U1Vpd09CY0lpVHVUellYWll0QmFRMm1BY0JMdnI2N205dlhuRG5MQmEtdUVoZkxfM3d0NGE1Zw?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3229,7 +3230,7 @@
           "story_type": "rss_headline",
           "priority_score": 94,
           "key_data": [
-            "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - yahoo.com"
+            "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3239,8 +3240,8 @@
           ]
         },
         {
-          "id": "awards-1-3470914117285949218",
-          "key": "awards-1-3470914117285949218",
+          "id": "awards-1-1587188309956297408",
+          "key": "awards-1-1587188309956297408",
           "category": "Awards",
           "label": "Awards",
           "headline": "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
@@ -3267,7 +3268,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-10 06:37:46 PM ET"
+      "updated_at": "2026-08-10 07:35:41 PM ET"
     },
     {
       "key": "box_office",
@@ -3289,8 +3290,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "box_office-0-8556576768118537978",
-          "key": "box_office-0-8556576768118537978",
+          "id": "box_office-0-7327139536685588798",
+          "key": "box_office-0-7327139536685588798",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Spider-Man: Brand New Day’ Becomes Highest Grossing Hollywood Film in India",
@@ -3317,8 +3318,8 @@
           ]
         },
         {
-          "id": "box_office-10-6292543886987820595",
-          "key": "box_office-10-6292543886987820595",
+          "id": "box_office-10-8653912350701422566",
+          "key": "box_office-10-8653912350701422566",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Spider-Man: Brand New Day’ Scores $145M for Third-Best Second Weekend Ever - The Hollywood Reporter",
@@ -3345,8 +3346,8 @@
           ]
         },
         {
-          "id": "box_office-1-3312207474416828768",
-          "key": "box_office-1-3312207474416828768",
+          "id": "box_office-1-6397566768574845216",
+          "key": "box_office-1-6397566768574845216",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Korea Box Office: ‘The Odyssey’ Bests ‘Spider-Man: Brand New Day’",
@@ -3373,8 +3374,8 @@
           ]
         },
         {
-          "id": "box_office-11-7878655910443573563",
-          "key": "box_office-11-7878655910443573563",
+          "id": "box_office-11-7142759931746782490",
+          "key": "box_office-11-7142759931746782490",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today - Bollywood Hungama",
@@ -3403,8 +3404,8 @@
       ],
       "items": [
         {
-          "id": "box_office-0-8556576768118537978",
-          "key": "box_office-0-8556576768118537978",
+          "id": "box_office-0-7327139536685588798",
+          "key": "box_office-0-7327139536685588798",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Spider-Man: Brand New Day’ Becomes Highest Grossing Hollywood Film in India",
@@ -3431,8 +3432,8 @@
           ]
         },
         {
-          "id": "box_office-10-6292543886987820595",
-          "key": "box_office-10-6292543886987820595",
+          "id": "box_office-10-8653912350701422566",
+          "key": "box_office-10-8653912350701422566",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Spider-Man: Brand New Day’ Scores $145M for Third-Best Second Weekend Ever - The Hollywood Reporter",
@@ -3459,8 +3460,8 @@
           ]
         },
         {
-          "id": "box_office-1-3312207474416828768",
-          "key": "box_office-1-3312207474416828768",
+          "id": "box_office-1-6397566768574845216",
+          "key": "box_office-1-6397566768574845216",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Korea Box Office: ‘The Odyssey’ Bests ‘Spider-Man: Brand New Day’",
@@ -3487,8 +3488,8 @@
           ]
         },
         {
-          "id": "box_office-11-7878655910443573563",
-          "key": "box_office-11-7878655910443573563",
+          "id": "box_office-11-7142759931746782490",
+          "key": "box_office-11-7142759931746782490",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Spider-Man: Brand New Day Box Office: Becomes highest grossing Hollywood film in India, set to cross Rs. 400 crores today - Bollywood Hungama",
@@ -3515,32 +3516,32 @@
           ]
         }
       ],
-      "updated_at": "2026-08-10 06:37:47 PM ET"
+      "updated_at": "2026-08-10 07:35:42 PM ET"
     },
     {
       "key": "celebrity",
       "name": "Celebrity",
       "title": "Celebrity Report",
-      "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
+      "headline": "Celebrity deaths 2026: Remembering the stars who died this year - ew.com",
       "snapshot": "Celebrity coverage is updating with 2 current RSS headline item(s).",
       "key_storylines": [
-        "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
+        "Celebrity deaths 2026: Remembering the stars who died this year - ew.com",
         "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - Washington Times"
       ],
       "watch_list": [
-        "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
+        "Celebrity deaths 2026: Remembering the stars who died this year - ew.com",
         "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - Washington Times"
       ],
       "homepage_cards": [
         {
-          "id": "celebrity-0-6890255998867900956",
-          "key": "celebrity-0-6890255998867900956",
+          "id": "celebrity-0-938412332577189508",
+          "key": "celebrity-0-938412332577189508",
           "category": "Celebrity",
           "label": "Celebrity",
-          "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
-          "title": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
-          "snapshot": "Celebrity deaths 2026: Remembering the stars who died this year Entertainment Weekly",
-          "summary": "Celebrity deaths 2026: Remembering the stars who died this year Entertainment Weekly",
+          "headline": "Celebrity deaths 2026: Remembering the stars who died this year - ew.com",
+          "title": "Celebrity deaths 2026: Remembering the stars who died this year - ew.com",
+          "snapshot": "Celebrity deaths 2026: Remembering the stars who died this year ew.com",
+          "summary": "Celebrity deaths 2026: Remembering the stars who died this year ew.com",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84ZTg1Z05mQ3JVYmpCb3dWbHl5Y3pMcHlYNVBtUDlsX0d0VGs5QXdOME5FUzFETWhGTTZQUzllUWZwakRJUWYyeDBCS0lYRFZ5TXAzLXdhZDM0d2s5dzhEdUhfMHk5a3hlRXRNSkVaMUNwbmx4ampTaXVB?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3551,7 +3552,7 @@
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly"
+            "Celebrity deaths 2026: Remembering the stars who died this year - ew.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3561,8 +3562,8 @@
           ]
         },
         {
-          "id": "celebrity-1-1717531142336940601",
-          "key": "celebrity-1-1717531142336940601",
+          "id": "celebrity-1-5905765733665878794",
+          "key": "celebrity-1-5905765733665878794",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - Washington Times",
@@ -3591,14 +3592,14 @@
       ],
       "items": [
         {
-          "id": "celebrity-0-6890255998867900956",
-          "key": "celebrity-0-6890255998867900956",
+          "id": "celebrity-0-938412332577189508",
+          "key": "celebrity-0-938412332577189508",
           "category": "Celebrity",
           "label": "Celebrity",
-          "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
-          "title": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
-          "snapshot": "Celebrity deaths 2026: Remembering the stars who died this year Entertainment Weekly",
-          "summary": "Celebrity deaths 2026: Remembering the stars who died this year Entertainment Weekly",
+          "headline": "Celebrity deaths 2026: Remembering the stars who died this year - ew.com",
+          "title": "Celebrity deaths 2026: Remembering the stars who died this year - ew.com",
+          "snapshot": "Celebrity deaths 2026: Remembering the stars who died this year ew.com",
+          "summary": "Celebrity deaths 2026: Remembering the stars who died this year ew.com",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84ZTg1Z05mQ3JVYmpCb3dWbHl5Y3pMcHlYNVBtUDlsX0d0VGs5QXdOME5FUzFETWhGTTZQUzllUWZwakRJUWYyeDBCS0lYRFZ5TXAzLXdhZDM0d2s5dzhEdUhfMHk5a3hlRXRNSkVaMUNwbmx4ampTaXVB?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3609,7 +3610,7 @@
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly"
+            "Celebrity deaths 2026: Remembering the stars who died this year - ew.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3619,8 +3620,8 @@
           ]
         },
         {
-          "id": "celebrity-1-1717531142336940601",
-          "key": "celebrity-1-1717531142336940601",
+          "id": "celebrity-1-5905765733665878794",
+          "key": "celebrity-1-5905765733665878794",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - Washington Times",
@@ -3647,7 +3648,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-10 06:37:47 PM ET"
+      "updated_at": "2026-08-10 07:35:42 PM ET"
     },
     {
       "key": "hollywood",
@@ -3659,22 +3660,22 @@
         "Trump Media, Operator of Truth Social, Reports Q2 Net Loss of $238.1 Million and Revenue of $1.7 Million",
         "Nikki Glaser Signs With WME",
         "Spotify’s New Ad-Skipping Feature Is Not Scaring Off Podcast Advertisers Yet",
-        "What percentage of Hollywood film professionals are nepo babies? - StephenFollows.com",
+        "Why Is the American Film Industry Located in Hollywood? - Encyclopedia Britannica",
         "‘Spider-Man: Brand New Day’ Second-Fastest Film To Cross $1B At Int’l Box Office, With Global At $1.67B; ‘PAW Patrol: The Dino Movie’ Opens With $25M"
       ],
       "watch_list": [
         "Trump Media, Operator of Truth Social, Reports Q2 Net Loss of $238.1 Million and Revenue of $1.7 Million",
         "Nikki Glaser Signs With WME",
         "Spotify’s New Ad-Skipping Feature Is Not Scaring Off Podcast Advertisers Yet",
-        "What percentage of Hollywood film professionals are nepo babies? - StephenFollows.com",
+        "Why Is the American Film Industry Located in Hollywood? - Encyclopedia Britannica",
         "‘Spider-Man: Brand New Day’ Second-Fastest Film To Cross $1B At Int’l Box Office, With Global At $1.67B; ‘PAW Patrol: The Dino Movie’ Opens With $25M",
         "‘The Last House’ Star Wagner Moura Talks the Netflix Chart-Topper and Why He Believes the Tide Is Turning for Latino Actors",
-        "Why Is the American Film Industry Located in Hollywood? - Encyclopedia Britannica"
+        "The Future Of Young Hollywood Is Bright, Thanks To These Rising Stars - Refinery29"
       ],
       "homepage_cards": [
         {
-          "id": "hollywood-0-999591637056981110",
-          "key": "hollywood-0-999591637056981110",
+          "id": "hollywood-0-6731700212373116302",
+          "key": "hollywood-0-6731700212373116302",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Trump Media, Operator of Truth Social, Reports Q2 Net Loss of $238.1 Million and Revenue of $1.7 Million",
@@ -3701,14 +3702,14 @@
           ]
         },
         {
-          "id": "hollywood-1-5716301638736601504",
-          "key": "hollywood-1-5716301638736601504",
+          "id": "hollywood-1-7635029420543192676",
+          "key": "hollywood-1-7635029420543192676",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Nikki Glaser Signs With WME",
           "title": "Nikki Glaser Signs With WME",
-          "snapshot": "Comedian Nikki Glaser has taken on a new agency, signing with WME in all areas. Glaser currently holds three Emmy nominations for her Hulu special Good Girl and her work as host of the 83rd Annual Golden Globes. She’s been working as a stand-up since the early 2000s but saw her career take off to a new level […]",
-          "summary": "Comedian Nikki Glaser has taken on a new agency, signing with WME in all areas. Glaser currently holds three Emmy nominations for her Hulu special Good Girl and her work as host of the 83rd Annual Golden Globes. She’s been working as a stand-up since the early 2000s but saw her career take off to a new level […]",
+          "snapshot": "Comedian Nikki Glaser has taken on a new agency, signing with WME in all areas. This follows eight years at UTA, during which Glaser rose to become recognized as one of today’s biggest comedy stars. Glaser currently holds three Emmy nominations for her Hulu special Good Girl and her work as host of the 83rd annual G...",
+          "summary": "Comedian Nikki Glaser has taken on a new agency, signing with WME in all areas. This follows eight years at UTA, during which Glaser rose to become recognized as one of today’s biggest comedy stars. Glaser currently holds three Emmy nominations for her Hulu special Good Girl and her work as host of the 83rd annual G...",
           "url": "https://deadline.com/2026/08/nikki-glaser-signs-wme-1237030562/",
           "source": "Deadline",
           "source_name": "Deadline",
@@ -3729,8 +3730,8 @@
           ]
         },
         {
-          "id": "hollywood-4-6430146597348146773",
-          "key": "hollywood-4-6430146597348146773",
+          "id": "hollywood-4-6206914528100883267",
+          "key": "hollywood-4-6206914528100883267",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Spotify’s New Ad-Skipping Feature Is Not Scaring Off Podcast Advertisers Yet",
@@ -3757,25 +3758,25 @@
           ]
         },
         {
-          "id": "hollywood-10-1785897047853619939",
-          "key": "hollywood-10-1785897047853619939",
+          "id": "hollywood-10-103746949894638836",
+          "key": "hollywood-10-103746949894638836",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "What percentage of Hollywood film professionals are nepo babies? - StephenFollows.com",
-          "title": "What percentage of Hollywood film professionals are nepo babies? - StephenFollows.com",
-          "snapshot": "What percentage of Hollywood film professionals are nepo babies? StephenFollows.com",
-          "summary": "What percentage of Hollywood film professionals are nepo babies? StephenFollows.com",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ydEQ1MEttcG1ZSXhTYmlpNXc5OGs1ZWtxTDBjclZacWNib0ZmNk9Ib2tHVEQwTUFTYlM4TU1sVl9IQVBfbVVEZE5QZ0p2UUN6SUxJV3lnbndwM1pPY0N5OHZsLW1GdklnX1diY2JMcw?oc=5",
+          "headline": "Why Is the American Film Industry Located in Hollywood? - Encyclopedia Britannica",
+          "title": "Why Is the American Film Industry Located in Hollywood? - Encyclopedia Britannica",
+          "snapshot": "Why Is the American Film Industry Located in Hollywood? Encyclopedia Britannica",
+          "summary": "Why Is the American Film Industry Located in Hollywood? Encyclopedia Britannica",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTzFTYnFmMTYwTjFrR1ZLVDFudGtUTTBwVTNMMVRRRWlKOHA1RjFVT21Xams5MEx0eUFES05ybTRtTTFnd0pMZDQ0VlR4MEtpTGZTWjhBR1dXZjZ4SkVzRVhKNU54ek1tSXUtM1Rla3hxV3ZDT2g1elVQbUNCUk8xbzMzSVhnakJvOEcweXFB?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-10 06:59:38 AM ET",
+          "published_at": "2026-08-06 01:00:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "What percentage of Hollywood film professionals are nepo babies? - StephenFollows.com"
+            "Why Is the American Film Industry Located in Hollywood? - Encyclopedia Britannica"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3785,8 +3786,8 @@
           ]
         },
         {
-          "id": "hollywood-2-7330853895481437913",
-          "key": "hollywood-2-7330853895481437913",
+          "id": "hollywood-2-276524664340573272",
+          "key": "hollywood-2-276524664340573272",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘Spider-Man: Brand New Day’ Second-Fastest Film To Cross $1B At Int’l Box Office, With Global At $1.67B; ‘PAW Patrol: The Dino Movie’ Opens With $25M",
@@ -3813,8 +3814,8 @@
           ]
         },
         {
-          "id": "hollywood-5-6208906337772315417",
-          "key": "hollywood-5-6208906337772315417",
+          "id": "hollywood-5-7427902150947154122",
+          "key": "hollywood-5-7427902150947154122",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘The Last House’ Star Wagner Moura Talks the Netflix Chart-Topper and Why He Believes the Tide Is Turning for Latino Actors",
@@ -3841,25 +3842,25 @@
           ]
         },
         {
-          "id": "hollywood-11-7302631260798723748",
-          "key": "hollywood-11-7302631260798723748",
+          "id": "hollywood-11-4505512965933195512",
+          "key": "hollywood-11-4505512965933195512",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Why Is the American Film Industry Located in Hollywood? - Encyclopedia Britannica",
-          "title": "Why Is the American Film Industry Located in Hollywood? - Encyclopedia Britannica",
-          "snapshot": "Why Is the American Film Industry Located in Hollywood? Encyclopedia Britannica",
-          "summary": "Why Is the American Film Industry Located in Hollywood? Encyclopedia Britannica",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTzFTYnFmMTYwTjFrR1ZLVDFudGtUTTBwVTNMMVRRRWlKOHA1RjFVT21Xams5MEx0eUFES05ybTRtTTFnd0pMZDQ0VlR4MEtpTGZTWjhBR1dXZjZ4SkVzRVhKNU54ek1tSXUtM1Rla3hxV3ZDT2g1elVQbUNCUk8xbzMzSVhnakJvOEcweXFB?oc=5",
+          "headline": "The Future Of Young Hollywood Is Bright, Thanks To These Rising Stars - Refinery29",
+          "title": "The Future Of Young Hollywood Is Bright, Thanks To These Rising Stars - Refinery29",
+          "snapshot": "The Future Of Young Hollywood Is Bright, Thanks To These Rising Stars Refinery29",
+          "summary": "The Future Of Young Hollywood Is Bright, Thanks To These Rising Stars Refinery29",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUXViM3J1d3B6emU2MUFUblNCU2xQNlFKaG1qYngyaUxFQUZQckpWRkJseHZmOXBMLWp6TkVUYjBRelhUV282TVN1WGY5YmpZQm1Uck5vZXB2bnU0U2xXZXcwUEMwRzhVcHk4X0FDQ1VpZzVnQ01GSXhSSEVGWVdvdzVCYjFQbVg5M1pqaFFJdVdaTFA5ZmU3cjR1VnpUT2FTSEhEWnlVSGE4OE9QSmc0Zmk3SQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-06 01:00:00 AM ET",
+          "published_at": "2026-08-10 12:59:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "Why Is the American Film Industry Located in Hollywood? - Encyclopedia Britannica"
+            "The Future Of Young Hollywood Is Bright, Thanks To These Rising Stars - Refinery29"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3871,8 +3872,8 @@
       ],
       "items": [
         {
-          "id": "hollywood-0-999591637056981110",
-          "key": "hollywood-0-999591637056981110",
+          "id": "hollywood-0-6731700212373116302",
+          "key": "hollywood-0-6731700212373116302",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Trump Media, Operator of Truth Social, Reports Q2 Net Loss of $238.1 Million and Revenue of $1.7 Million",
@@ -3899,14 +3900,14 @@
           ]
         },
         {
-          "id": "hollywood-1-5716301638736601504",
-          "key": "hollywood-1-5716301638736601504",
+          "id": "hollywood-1-7635029420543192676",
+          "key": "hollywood-1-7635029420543192676",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Nikki Glaser Signs With WME",
           "title": "Nikki Glaser Signs With WME",
-          "snapshot": "Comedian Nikki Glaser has taken on a new agency, signing with WME in all areas. Glaser currently holds three Emmy nominations for her Hulu special Good Girl and her work as host of the 83rd Annual Golden Globes. She’s been working as a stand-up since the early 2000s but saw her career take off to a new level […]",
-          "summary": "Comedian Nikki Glaser has taken on a new agency, signing with WME in all areas. Glaser currently holds three Emmy nominations for her Hulu special Good Girl and her work as host of the 83rd Annual Golden Globes. She’s been working as a stand-up since the early 2000s but saw her career take off to a new level […]",
+          "snapshot": "Comedian Nikki Glaser has taken on a new agency, signing with WME in all areas. This follows eight years at UTA, during which Glaser rose to become recognized as one of today’s biggest comedy stars. Glaser currently holds three Emmy nominations for her Hulu special Good Girl and her work as host of the 83rd annual G...",
+          "summary": "Comedian Nikki Glaser has taken on a new agency, signing with WME in all areas. This follows eight years at UTA, during which Glaser rose to become recognized as one of today’s biggest comedy stars. Glaser currently holds three Emmy nominations for her Hulu special Good Girl and her work as host of the 83rd annual G...",
           "url": "https://deadline.com/2026/08/nikki-glaser-signs-wme-1237030562/",
           "source": "Deadline",
           "source_name": "Deadline",
@@ -3927,8 +3928,8 @@
           ]
         },
         {
-          "id": "hollywood-4-6430146597348146773",
-          "key": "hollywood-4-6430146597348146773",
+          "id": "hollywood-4-6206914528100883267",
+          "key": "hollywood-4-6206914528100883267",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Spotify’s New Ad-Skipping Feature Is Not Scaring Off Podcast Advertisers Yet",
@@ -3955,25 +3956,25 @@
           ]
         },
         {
-          "id": "hollywood-10-1785897047853619939",
-          "key": "hollywood-10-1785897047853619939",
+          "id": "hollywood-10-103746949894638836",
+          "key": "hollywood-10-103746949894638836",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "What percentage of Hollywood film professionals are nepo babies? - StephenFollows.com",
-          "title": "What percentage of Hollywood film professionals are nepo babies? - StephenFollows.com",
-          "snapshot": "What percentage of Hollywood film professionals are nepo babies? StephenFollows.com",
-          "summary": "What percentage of Hollywood film professionals are nepo babies? StephenFollows.com",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ydEQ1MEttcG1ZSXhTYmlpNXc5OGs1ZWtxTDBjclZacWNib0ZmNk9Ib2tHVEQwTUFTYlM4TU1sVl9IQVBfbVVEZE5QZ0p2UUN6SUxJV3lnbndwM1pPY0N5OHZsLW1GdklnX1diY2JMcw?oc=5",
+          "headline": "Why Is the American Film Industry Located in Hollywood? - Encyclopedia Britannica",
+          "title": "Why Is the American Film Industry Located in Hollywood? - Encyclopedia Britannica",
+          "snapshot": "Why Is the American Film Industry Located in Hollywood? Encyclopedia Britannica",
+          "summary": "Why Is the American Film Industry Located in Hollywood? Encyclopedia Britannica",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTzFTYnFmMTYwTjFrR1ZLVDFudGtUTTBwVTNMMVRRRWlKOHA1RjFVT21Xams5MEx0eUFES05ybTRtTTFnd0pMZDQ0VlR4MEtpTGZTWjhBR1dXZjZ4SkVzRVhKNU54ek1tSXUtM1Rla3hxV3ZDT2g1elVQbUNCUk8xbzMzSVhnakJvOEcweXFB?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-10 06:59:38 AM ET",
+          "published_at": "2026-08-06 01:00:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "What percentage of Hollywood film professionals are nepo babies? - StephenFollows.com"
+            "Why Is the American Film Industry Located in Hollywood? - Encyclopedia Britannica"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3983,8 +3984,8 @@
           ]
         },
         {
-          "id": "hollywood-2-7330853895481437913",
-          "key": "hollywood-2-7330853895481437913",
+          "id": "hollywood-2-276524664340573272",
+          "key": "hollywood-2-276524664340573272",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘Spider-Man: Brand New Day’ Second-Fastest Film To Cross $1B At Int’l Box Office, With Global At $1.67B; ‘PAW Patrol: The Dino Movie’ Opens With $25M",
@@ -4011,8 +4012,8 @@
           ]
         },
         {
-          "id": "hollywood-5-6208906337772315417",
-          "key": "hollywood-5-6208906337772315417",
+          "id": "hollywood-5-7427902150947154122",
+          "key": "hollywood-5-7427902150947154122",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘The Last House’ Star Wagner Moura Talks the Netflix Chart-Topper and Why He Believes the Tide Is Turning for Latino Actors",
@@ -4039,25 +4040,25 @@
           ]
         },
         {
-          "id": "hollywood-11-7302631260798723748",
-          "key": "hollywood-11-7302631260798723748",
+          "id": "hollywood-11-4505512965933195512",
+          "key": "hollywood-11-4505512965933195512",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Why Is the American Film Industry Located in Hollywood? - Encyclopedia Britannica",
-          "title": "Why Is the American Film Industry Located in Hollywood? - Encyclopedia Britannica",
-          "snapshot": "Why Is the American Film Industry Located in Hollywood? Encyclopedia Britannica",
-          "summary": "Why Is the American Film Industry Located in Hollywood? Encyclopedia Britannica",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTzFTYnFmMTYwTjFrR1ZLVDFudGtUTTBwVTNMMVRRRWlKOHA1RjFVT21Xams5MEx0eUFES05ybTRtTTFnd0pMZDQ0VlR4MEtpTGZTWjhBR1dXZjZ4SkVzRVhKNU54ek1tSXUtM1Rla3hxV3ZDT2g1elVQbUNCUk8xbzMzSVhnakJvOEcweXFB?oc=5",
+          "headline": "The Future Of Young Hollywood Is Bright, Thanks To These Rising Stars - Refinery29",
+          "title": "The Future Of Young Hollywood Is Bright, Thanks To These Rising Stars - Refinery29",
+          "snapshot": "The Future Of Young Hollywood Is Bright, Thanks To These Rising Stars Refinery29",
+          "summary": "The Future Of Young Hollywood Is Bright, Thanks To These Rising Stars Refinery29",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUXViM3J1d3B6emU2MUFUblNCU2xQNlFKaG1qYngyaUxFQUZQckpWRkJseHZmOXBMLWp6TkVUYjBRelhUV282TVN1WGY5YmpZQm1Uck5vZXB2bnU0U2xXZXcwUEMwRzhVcHk4X0FDQ1VpZzVnQ01GSXhSSEVGWVdvdzVCYjFQbVg5M1pqaFFJdVdaTFA5ZmU3cjR1VnpUT2FTSEhEWnlVSGE4OE9QSmc0Zmk3SQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-06 01:00:00 AM ET",
+          "published_at": "2026-08-10 12:59:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "Why Is the American Film Industry Located in Hollywood? - Encyclopedia Britannica"
+            "The Future Of Young Hollywood Is Bright, Thanks To These Rising Stars - Refinery29"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4067,45 +4068,45 @@
           ]
         }
       ],
-      "updated_at": "2026-08-10 06:37:48 PM ET"
+      "updated_at": "2026-08-10 07:35:43 PM ET"
     },
     {
       "key": "gaming",
       "name": "Gaming",
       "title": "Gaming Report",
-      "headline": "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes",
+      "headline": "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game",
       "snapshot": "Gaming coverage is updating with 3 current RSS headline item(s).",
       "key_storylines": [
-        "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes",
+        "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game",
         "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem - The Washington Post",
-        "Fields of Mistria Review So Far"
+        "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes"
       ],
       "watch_list": [
-        "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes",
+        "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game",
         "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem - The Washington Post",
-        "Fields of Mistria Review So Far"
+        "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes"
       ],
       "homepage_cards": [
         {
-          "id": "gaming-0-4350283507248369850",
-          "key": "gaming-0-4350283507248369850",
+          "id": "gaming-0-8397018877053099549",
+          "key": "gaming-0-8397018877053099549",
           "category": "Gaming",
           "label": "Gaming",
-          "headline": "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes",
-          "title": "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes",
-          "snapshot": "Kazuhisa Wada, producer for Atlus' P-Studio, says he \"can't say for sure\" if Persona 1 and 2 remakes are coming, but said they are still games he thinks \"we have to do.\"",
-          "summary": "Kazuhisa Wada, producer for Atlus' P-Studio, says he \"can't say for sure\" if Persona 1 and 2 remakes are coming, but said they are still games he thinks \"we have to do.\"",
-          "url": "https://www.ign.com/articles/atlus-producer-says-i-think-we-have-to-do-persona-1-and-2-remakes",
+          "headline": "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game",
+          "title": "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game",
+          "snapshot": "Grand Theft Auto 6 fans are pre-ordering the $100 Ultimate Edition more than the standard edition of the game.",
+          "summary": "Grand Theft Auto 6 fans are pre-ordering the $100 Ultimate Edition more than the standard edition of the game.",
+          "url": "https://www.ign.com/articles/gta-6-boss-says-more-people-are-pre-ordering-the-100-version-of-the-game",
           "source": "IGN",
           "source_name": "IGN",
           "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-          "published_at": "2026-08-10 05:45:55 PM ET",
+          "published_at": "2026-08-10 06:14:28 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes"
+            "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4115,8 +4116,8 @@
           ]
         },
         {
-          "id": "gaming-20-5188247318448910114",
-          "key": "gaming-20-5188247318448910114",
+          "id": "gaming-20-8825344267878517218",
+          "key": "gaming-20-8825344267878517218",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem - The Washington Post",
@@ -4143,25 +4144,25 @@
           ]
         },
         {
-          "id": "gaming-1-8365880461488626102",
-          "key": "gaming-1-8365880461488626102",
+          "id": "gaming-1-159962034713276880",
+          "key": "gaming-1-159962034713276880",
           "category": "Gaming",
           "label": "Gaming",
-          "headline": "Fields of Mistria Review So Far",
-          "title": "Fields of Mistria Review So Far",
-          "snapshot": "This fantasy farming sim takes place in a pastel pixel art world full of mythical creatures and magic.",
-          "summary": "This fantasy farming sim takes place in a pastel pixel art world full of mythical creatures and magic.",
-          "url": "https://www.ign.com/articles/fields-of-mistria-review",
+          "headline": "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes",
+          "title": "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes",
+          "snapshot": "Kazuhisa Wada, producer for Atlus' P-Studio, says he \"can't say for sure\" if Persona 1 and 2 remakes are coming, but said they are still games he thinks \"we have to do.\"",
+          "summary": "Kazuhisa Wada, producer for Atlus' P-Studio, says he \"can't say for sure\" if Persona 1 and 2 remakes are coming, but said they are still games he thinks \"we have to do.\"",
+          "url": "https://www.ign.com/articles/atlus-producer-says-i-think-we-have-to-do-persona-1-and-2-remakes",
           "source": "IGN",
           "source_name": "IGN",
           "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-          "published_at": "2026-08-10 05:30:12 PM ET",
+          "published_at": "2026-08-10 05:45:55 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Fields of Mistria Review So Far"
+            "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4173,25 +4174,25 @@
       ],
       "items": [
         {
-          "id": "gaming-0-4350283507248369850",
-          "key": "gaming-0-4350283507248369850",
+          "id": "gaming-0-8397018877053099549",
+          "key": "gaming-0-8397018877053099549",
           "category": "Gaming",
           "label": "Gaming",
-          "headline": "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes",
-          "title": "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes",
-          "snapshot": "Kazuhisa Wada, producer for Atlus' P-Studio, says he \"can't say for sure\" if Persona 1 and 2 remakes are coming, but said they are still games he thinks \"we have to do.\"",
-          "summary": "Kazuhisa Wada, producer for Atlus' P-Studio, says he \"can't say for sure\" if Persona 1 and 2 remakes are coming, but said they are still games he thinks \"we have to do.\"",
-          "url": "https://www.ign.com/articles/atlus-producer-says-i-think-we-have-to-do-persona-1-and-2-remakes",
+          "headline": "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game",
+          "title": "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game",
+          "snapshot": "Grand Theft Auto 6 fans are pre-ordering the $100 Ultimate Edition more than the standard edition of the game.",
+          "summary": "Grand Theft Auto 6 fans are pre-ordering the $100 Ultimate Edition more than the standard edition of the game.",
+          "url": "https://www.ign.com/articles/gta-6-boss-says-more-people-are-pre-ordering-the-100-version-of-the-game",
           "source": "IGN",
           "source_name": "IGN",
           "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-          "published_at": "2026-08-10 05:45:55 PM ET",
+          "published_at": "2026-08-10 06:14:28 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes"
+            "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4201,8 +4202,8 @@
           ]
         },
         {
-          "id": "gaming-20-5188247318448910114",
-          "key": "gaming-20-5188247318448910114",
+          "id": "gaming-20-8825344267878517218",
+          "key": "gaming-20-8825344267878517218",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem - The Washington Post",
@@ -4229,25 +4230,25 @@
           ]
         },
         {
-          "id": "gaming-1-8365880461488626102",
-          "key": "gaming-1-8365880461488626102",
+          "id": "gaming-1-159962034713276880",
+          "key": "gaming-1-159962034713276880",
           "category": "Gaming",
           "label": "Gaming",
-          "headline": "Fields of Mistria Review So Far",
-          "title": "Fields of Mistria Review So Far",
-          "snapshot": "This fantasy farming sim takes place in a pastel pixel art world full of mythical creatures and magic.",
-          "summary": "This fantasy farming sim takes place in a pastel pixel art world full of mythical creatures and magic.",
-          "url": "https://www.ign.com/articles/fields-of-mistria-review",
+          "headline": "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes",
+          "title": "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes",
+          "snapshot": "Kazuhisa Wada, producer for Atlus' P-Studio, says he \"can't say for sure\" if Persona 1 and 2 remakes are coming, but said they are still games he thinks \"we have to do.\"",
+          "summary": "Kazuhisa Wada, producer for Atlus' P-Studio, says he \"can't say for sure\" if Persona 1 and 2 remakes are coming, but said they are still games he thinks \"we have to do.\"",
+          "url": "https://www.ign.com/articles/atlus-producer-says-i-think-we-have-to-do-persona-1-and-2-remakes",
           "source": "IGN",
           "source_name": "IGN",
           "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-          "published_at": "2026-08-10 05:30:12 PM ET",
+          "published_at": "2026-08-10 05:45:55 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Fields of Mistria Review So Far"
+            "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4257,7 +4258,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-10 06:37:49 PM ET"
+      "updated_at": "2026-08-10 07:35:43 PM ET"
     },
     {
       "key": "media",
@@ -4281,8 +4282,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "media-0-44369602441486461",
-          "key": "media-0-44369602441486461",
+          "id": "media-0-744459193560384681",
+          "key": "media-0-744459193560384681",
           "category": "Media",
           "label": "Media",
           "headline": "Mark Zuckerberg Says He’s Surprised the ‘Discourse’ From AI Companies ‘Is So Filled With Doom’",
@@ -4309,8 +4310,8 @@
           ]
         },
         {
-          "id": "media-9-8939639779875033107",
-          "key": "media-9-8939639779875033107",
+          "id": "media-9-7057190692919616927",
+          "key": "media-9-7057190692919616927",
           "category": "Media",
           "label": "Media",
           "headline": "O-T Fagbenle Signs With Artists First",
@@ -4337,8 +4338,8 @@
           ]
         },
         {
-          "id": "media-18-6916543439115784845",
-          "key": "media-18-6916543439115784845",
+          "id": "media-18-266886033044042500",
+          "key": "media-18-266886033044042500",
           "category": "Media",
           "label": "Media",
           "headline": "Cynopsis 8/10/2026: The Media And Entertainment Industry Is Creating Jobs - Cynopsis",
@@ -4365,8 +4366,8 @@
           ]
         },
         {
-          "id": "media-1-2681389953630295228",
-          "key": "media-1-2681389953630295228",
+          "id": "media-1-2780823769549364449",
+          "key": "media-1-2780823769549364449",
           "category": "Media",
           "label": "Media",
           "headline": "Bozoma Saint John Signs With CAA (EXCLUSIVE)",
@@ -4393,8 +4394,8 @@
           ]
         },
         {
-          "id": "media-10-7246477202291887351",
-          "key": "media-10-7246477202291887351",
+          "id": "media-10-6963773369071322477",
+          "key": "media-10-6963773369071322477",
           "category": "Media",
           "label": "Media",
           "headline": "Made In L.A., The Paramount Strategy: ‘Clueless’ Series & Viola Davis’ ‘Ascent’ Among Recipients In Latest California TV Tax Credit Allocations",
@@ -4423,8 +4424,8 @@
       ],
       "items": [
         {
-          "id": "media-0-44369602441486461",
-          "key": "media-0-44369602441486461",
+          "id": "media-0-744459193560384681",
+          "key": "media-0-744459193560384681",
           "category": "Media",
           "label": "Media",
           "headline": "Mark Zuckerberg Says He’s Surprised the ‘Discourse’ From AI Companies ‘Is So Filled With Doom’",
@@ -4451,8 +4452,8 @@
           ]
         },
         {
-          "id": "media-9-8939639779875033107",
-          "key": "media-9-8939639779875033107",
+          "id": "media-9-7057190692919616927",
+          "key": "media-9-7057190692919616927",
           "category": "Media",
           "label": "Media",
           "headline": "O-T Fagbenle Signs With Artists First",
@@ -4479,8 +4480,8 @@
           ]
         },
         {
-          "id": "media-18-6916543439115784845",
-          "key": "media-18-6916543439115784845",
+          "id": "media-18-266886033044042500",
+          "key": "media-18-266886033044042500",
           "category": "Media",
           "label": "Media",
           "headline": "Cynopsis 8/10/2026: The Media And Entertainment Industry Is Creating Jobs - Cynopsis",
@@ -4507,8 +4508,8 @@
           ]
         },
         {
-          "id": "media-1-2681389953630295228",
-          "key": "media-1-2681389953630295228",
+          "id": "media-1-2780823769549364449",
+          "key": "media-1-2780823769549364449",
           "category": "Media",
           "label": "Media",
           "headline": "Bozoma Saint John Signs With CAA (EXCLUSIVE)",
@@ -4535,8 +4536,8 @@
           ]
         },
         {
-          "id": "media-10-7246477202291887351",
-          "key": "media-10-7246477202291887351",
+          "id": "media-10-6963773369071322477",
+          "key": "media-10-6963773369071322477",
           "category": "Media",
           "label": "Media",
           "headline": "Made In L.A., The Paramount Strategy: ‘Clueless’ Series & Viola Davis’ ‘Ascent’ Among Recipients In Latest California TV Tax Credit Allocations",
@@ -4563,7 +4564,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-10 06:37:50 PM ET"
+      "updated_at": "2026-08-10 07:35:44 PM ET"
     }
   ]
 }
