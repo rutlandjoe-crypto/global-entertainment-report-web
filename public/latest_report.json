@@ -4,14 +4,14 @@
   "site_name": "Global Entertainment Report",
   "vertical": "Entertainment",
   "headline": "LISTEN: Summer Box Office Will Surpass the $4 Billion Benchmark",
-  "snapshot": "Global Entertainment Report accepted 46 real RSS item(s) across 31 checked feed request(s).",
-  "generated_at": "2026-08-10 11:45:15 PM ET",
-  "updated_at": "2026-08-10 11:45:15 PM ET",
-  "published_at": "2026-08-10 11:45:15 PM ET",
+  "snapshot": "Global Entertainment Report accepted 45 real RSS item(s) across 31 checked feed request(s).",
+  "generated_at": "2026-08-11 01:09:42 AM ET",
+  "updated_at": "2026-08-11 01:09:42 AM ET",
+  "published_at": "2026-08-11 01:09:42 AM ET",
   "source_mode": "live RSS ingestion",
   "freshness": {
     "max_item_age_hours": 336,
-    "accepted_real_items": 46,
+    "accepted_real_items": 45,
     "checked_feeds": 31,
     "feeds_without_accepted_items": 6
   },
@@ -196,11 +196,11 @@
       "url": "https://news.google.com/rss/search?q=entertainment+awards+oscars+emmys+grammys&hl=en-US&gl=US&ceid=US:en",
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=entertainment+awards+oscars+emmys+grammys&hl=en-US&gl=US&ceid=US:en",
-      "item_count": 74,
+      "item_count": 73,
       "accepted_count": 0,
-      "rejected_count": 74,
+      "rejected_count": 73,
       "rejection_reasons": {
-        "stale-over-336h": 74
+        "stale-over-336h": 73
       }
     },
     {
@@ -280,10 +280,10 @@
       "status_code": "200",
       "final_url": "https://deadline.com/feed/",
       "item_count": 12,
-      "accepted_count": 2,
-      "rejected_count": 10,
+      "accepted_count": 1,
+      "rejected_count": 11,
       "rejection_reasons": {
-        "duplicate-story": 10
+        "duplicate-story": 11
       }
     },
     {
@@ -305,10 +305,10 @@
       "final_url": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 93,
+      "rejected_count": 94,
       "rejection_reasons": {
         "duplicate-story": 1,
-        "stale-over-336h": 92
+        "stale-over-336h": 93
       }
     },
     {
@@ -376,8 +376,8 @@
   "key_storylines": [
     "LISTEN: Summer Box Office Will Surpass the $4 Billion Benchmark",
     "Reggie Bannister Dies: 'Phantasm' Actor Was 80",
-    "Chris Evans Teases \"Brutal\" 'Avengers: Doomsday' Storyline for Captain America",
-    "Fayetteville's CAMEO Collective builds on its movie theater roots - The Fayetteville Observer",
+    "Ann Hui to Receive Busan Film Festival's Camellia Award",
+    "Fayetteville's CAMEO Collective builds on its movie theater roots - fayobserver.com",
     "aespa's Karina Makes Converse Debut by Modeling Two Distinct Footwear Styles: Shop Here",
     "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game",
     "Jacob Elordi in Talks to Star in Ari Aster's 'Scapegoat' With Scarlett Johansson",
@@ -385,8 +385,8 @@
   ],
   "live_newsroom": [
     {
-      "id": "film-0-1094418688829408580",
-      "key": "film-0-1094418688829408580",
+      "id": "film-0-4892452850797195953",
+      "key": "film-0-4892452850797195953",
       "category": "Film",
       "label": "Film",
       "headline": "LISTEN: Summer Box Office Will Surpass the $4 Billion Benchmark",
@@ -412,8 +412,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-8922466215488259173",
-      "key": "film-10-8922466215488259173",
+      "id": "film-10-3989160596627746046",
+      "key": "film-10-3989160596627746046",
       "category": "Film",
       "label": "Film",
       "headline": "Reggie Bannister Dies: 'Phantasm' Actor Was 80",
@@ -439,22 +439,22 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-3935997144446632886",
-      "key": "film-22-3935997144446632886",
+      "id": "film-22-6759285758399318205",
+      "key": "film-22-6759285758399318205",
       "category": "Film",
       "label": "Film",
-      "headline": "Chris Evans Teases \"Brutal\" 'Avengers: Doomsday' Storyline for Captain America",
-      "title": "Chris Evans Teases \"Brutal\" 'Avengers: Doomsday' Storyline for Captain America",
-      "snapshot": "The Marvel film directed by the Russo Brothers hits theaters on Dec. 18.",
-      "summary": "The Marvel film directed by the Russo Brothers hits theaters on Dec. 18.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/chris-evans-teases-avengers-doomsday-arc-captain-america-1236670567/",
+      "headline": "Ann Hui to Receive Busan Film Festival's Camellia Award",
+      "title": "Ann Hui to Receive Busan Film Festival's Camellia Award",
+      "snapshot": "\"Now that I'm nearly eighty… the prize comes just in time,\" says the Hong Kong New Wave master, who will accept the Chanel-backed honor at Busan's opening ceremony on Oct. 6.",
+      "summary": "\"Now that I'm nearly eighty… the prize comes just in time,\" says the Hong Kong New Wave master, who will accept the Chanel-backed honor at Busan's opening ceremony on Oct. 6.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/ann-hui-2026-busan-film-festival-camellia-award-1236670749/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-10 10:03:05 PM ET",
+      "published_at": "2026-08-11 12:34:36 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Chris Evans Teases \"Brutal\" 'Avengers: Doomsday' Storyline for Captain America"
+        "Ann Hui to Receive Busan Film Festival's Camellia Award"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -466,14 +466,14 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-354682851556876253",
-      "key": "film-32-354682851556876253",
+      "id": "film-32-5310650744292644541",
+      "key": "film-32-5310650744292644541",
       "category": "Film",
       "label": "Film",
-      "headline": "Fayetteville's CAMEO Collective builds on its movie theater roots - The Fayetteville Observer",
-      "title": "Fayetteville's CAMEO Collective builds on its movie theater roots - The Fayetteville Observer",
-      "snapshot": "Fayetteville's CAMEO Collective builds on its movie theater roots The Fayetteville Observer",
-      "summary": "Fayetteville's CAMEO Collective builds on its movie theater roots The Fayetteville Observer",
+      "headline": "Fayetteville's CAMEO Collective builds on its movie theater roots - fayobserver.com",
+      "title": "Fayetteville's CAMEO Collective builds on its movie theater roots - fayobserver.com",
+      "snapshot": "Fayetteville's CAMEO Collective builds on its movie theater roots fayobserver.com",
+      "summary": "Fayetteville's CAMEO Collective builds on its movie theater roots fayobserver.com",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSWEtOGJVNHNLR2pLZThkbWlrZ2JiMlYxbWd1RkJGRHVpVG9kUzZCbC1md3JSNTVTN2FpYnhZalhBVnRDc25SXzFOTXB0RGVxU0plRlBBeFpkN3kwaW5lUkc1T1Zrd2pHT20xbEd4MV9mYnN1WGhEY3VmVUV6eERDOFJnVzhUcWVQVHBmLVd1WjY5c0RCR05rd1NmR0JYaExEbWtqSVNqNTd2bW1KZW1JcUVrSU1fWlc5V2ZVbE03OGNpR1pMaGc5SUN5WXR1S2dYMi1nQjZn?oc=5",
       "source": "Google News",
       "source_name": "Google News",
@@ -481,7 +481,7 @@
       "published_at": "2026-08-10 05:04:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Fayetteville's CAMEO Collective builds on its movie theater roots - The Fayetteville Observer"
+        "Fayetteville's CAMEO Collective builds on its movie theater roots - fayobserver.com"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -493,8 +493,8 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-7906843368715534486",
-      "key": "music-10-7906843368715534486",
+      "id": "music-10-9075479546133750247",
+      "key": "music-10-9075479546133750247",
       "category": "Music",
       "label": "Music",
       "headline": "aespa's Karina Makes Converse Debut by Modeling Two Distinct Footwear Styles: Shop Here",
@@ -520,8 +520,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-2341261965262492313",
-      "key": "gaming-0-2341261965262492313",
+      "id": "gaming-0-7988266048789013018",
+      "key": "gaming-0-7988266048789013018",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game",
@@ -547,8 +547,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-5195478290864128996",
-      "key": "film-1-5195478290864128996",
+      "id": "film-1-4082371737949062940",
+      "key": "film-1-4082371737949062940",
       "category": "Film",
       "label": "Film",
       "headline": "Jacob Elordi in Talks to Star in Ari Aster's 'Scapegoat' With Scarlett Johansson",
@@ -574,8 +574,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-2115296955156964368",
-      "key": "film-11-2115296955156964368",
+      "id": "film-11-2029950769363761228",
+      "key": "film-11-2029950769363761228",
       "category": "Film",
       "label": "Film",
       "headline": "Which Carley Fortune Books Are Getting Adapted? 'One Golden Summer,' 'This Summer Will Be Different' & More",
@@ -601,22 +601,22 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-2564542832700689974",
-      "key": "film-23-2564542832700689974",
+      "id": "film-23-6129072379979939",
+      "key": "film-23-6129072379979939",
       "category": "Film",
       "label": "Film",
-      "headline": "Reggie Bannister, a Horror Icon Known for the 'Phantasm' Franchise, Dies at 80",
-      "title": "Reggie Bannister, a Horror Icon Known for the 'Phantasm' Franchise, Dies at 80",
-      "snapshot": "The actor was eventually dubbed \"the hardest working man in horror,\" thanks to his work in the cult classic film franchise created by filmmaker Don Coscarelli.",
-      "summary": "The actor was eventually dubbed \"the hardest working man in horror,\" thanks to his work in the cult classic film franchise created by filmmaker Don Coscarelli.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/reggie-bannister-dead-phantasm-actor-1236670639/",
+      "headline": "Chris Evans Teases \"Brutal\" 'Avengers: Doomsday' Storyline for Captain America",
+      "title": "Chris Evans Teases \"Brutal\" 'Avengers: Doomsday' Storyline for Captain America",
+      "snapshot": "The Marvel film directed by the Russo Brothers hits theaters on Dec. 18.",
+      "summary": "The Marvel film directed by the Russo Brothers hits theaters on Dec. 18.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/chris-evans-teases-avengers-doomsday-arc-captain-america-1236670567/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-10 09:06:07 PM ET",
+      "published_at": "2026-08-10 10:03:05 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Reggie Bannister, a Horror Icon Known for the 'Phantasm' Franchise, Dies at 80"
+        "Chris Evans Teases \"Brutal\" 'Avengers: Doomsday' Storyline for Captain America"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -628,8 +628,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-1582826165886275553",
-      "key": "film-33-1582826165886275553",
+      "id": "film-33-3058449718854920519",
+      "key": "film-33-3058449718854920519",
       "category": "Film",
       "label": "Film",
       "headline": "The 35 best sci-fi movies of all time (August 2026) - Entertainment Weekly",
@@ -655,8 +655,8 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-7312050364216198339",
-      "key": "music-11-7312050364216198339",
+      "id": "music-11-5074724258824931652",
+      "key": "music-11-5074724258824931652",
       "category": "Music",
       "label": "Music",
       "headline": "Limp Bizkit to Headline Australia's Good Things Festival 2026",
@@ -682,8 +682,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-675659202137603239",
-      "key": "gaming-1-675659202137603239",
+      "id": "gaming-1-4432430811049350185",
+      "key": "gaming-1-4432430811049350185",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes",
@@ -711,8 +711,8 @@
   ],
   "editor_signals": [
     {
-      "id": "film-2-824587094659568",
-      "key": "film-2-824587094659568",
+      "id": "film-2-3067383103930204312",
+      "key": "film-2-3067383103930204312",
       "category": "Film",
       "label": "Film",
       "headline": "'Teenage Sex and Death at Camp Miasma': Hannah Einbinder and Jane Schoenbrun on the Future of Queer Cinema",
@@ -738,8 +738,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-2388864730301066478",
-      "key": "film-12-2388864730301066478",
+      "id": "film-12-6550900777515956483",
+      "key": "film-12-6550900777515956483",
       "category": "Film",
       "label": "Film",
       "headline": "Meet The New 'X-Men': See The Actors Who've Been Cast & The Characters They Play",
@@ -765,22 +765,22 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-142538364568880907",
-      "key": "film-24-142538364568880907",
+      "id": "film-24-8446742597843638298",
+      "key": "film-24-8446742597843638298",
       "category": "Film",
       "label": "Film",
-      "headline": "J.J. Abrams on 'The End of Oak Street' Theories and Daughter Gracie's Acting Debut: \"I Know How Hard She's Working\"",
-      "title": "J.J. Abrams on 'The End of Oak Street' Theories and Daughter Gracie's Acting Debut: \"I Know How Hard She's Working\"",
-      "snapshot": "The filmmaker speaks out about speculation that the new sci-fi movie may be connected to his 'Cloverfield' franchise, while also praising his pop star daughter's career pivot.",
-      "summary": "The filmmaker speaks out about speculation that the new sci-fi movie may be connected to his 'Cloverfield' franchise, while also praising his pop star daughter's career pivot.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/j-j-abrams-end-of-oak-street-theories-gracie-abrams-acting-1236670415/",
+      "headline": "Reggie Bannister, a Horror Icon Known for the 'Phantasm' Franchise, Dies at 80",
+      "title": "Reggie Bannister, a Horror Icon Known for the 'Phantasm' Franchise, Dies at 80",
+      "snapshot": "The actor was eventually dubbed \"the hardest working man in horror,\" thanks to his work in the cult classic film franchise created by filmmaker Don Coscarelli.",
+      "summary": "The actor was eventually dubbed \"the hardest working man in horror,\" thanks to his work in the cult classic film franchise created by filmmaker Don Coscarelli.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/reggie-bannister-dead-phantasm-actor-1236670639/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-10 08:24:01 PM ET",
+      "published_at": "2026-08-10 09:06:07 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "J.J. Abrams on 'The End of Oak Street' Theories and Daughter Gracie's Acting Debut: \"I Know How Hard She's Working\""
+        "Reggie Bannister, a Horror Icon Known for the 'Phantasm' Franchise, Dies at 80"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -792,8 +792,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-832313828633157554",
-      "key": "film-34-832313828633157554",
+      "id": "film-34-7206027809288709128",
+      "key": "film-34-7206027809288709128",
       "category": "Film",
       "label": "Film",
       "headline": "Our favorite memories at the movies - The Verge",
@@ -819,8 +819,8 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-1202646822342899706",
-      "key": "music-12-1202646822342899706",
+      "id": "music-12-2523198278041116903",
+      "key": "music-12-2523198278041116903",
       "category": "Music",
       "label": "Music",
       "headline": "With Sophia Stepping Back From KATSEYE, Will the Global Girl Group Remain a Quartet?",
@@ -846,8 +846,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-1570322931564930368",
-      "key": "gaming-2-1570322931564930368",
+      "id": "gaming-2-3590612782790699660",
+      "key": "gaming-2-3590612782790699660",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Fields of Mistria Review So Far",
@@ -873,8 +873,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-6766506524723993244",
-      "key": "film-3-6766506524723993244",
+      "id": "film-3-6442480077995177529",
+      "key": "film-3-6442480077995177529",
       "category": "Film",
       "label": "Film",
       "headline": "'Hearing' Review: Lê Bảo Continues His Sensory Exploration With an Arresting Study in Silence",
@@ -900,8 +900,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-1588563719947193165",
-      "key": "film-13-1588563719947193165",
+      "id": "film-13-409912542435396172",
+      "key": "film-13-409912542435396172",
       "category": "Film",
       "label": "Film",
       "headline": "Jon Cypher Dies: 'Hill Street Blues' Police Chief, 'Major Dad' Regular & 'Masters Of The Universe' Ally Was 94",
@@ -927,22 +927,22 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-1742274722538470479",
-      "key": "film-25-1742274722538470479",
+      "id": "film-25-5250120257889883705",
+      "key": "film-25-5250120257889883705",
       "category": "Film",
       "label": "Film",
-      "headline": "Anne Hathaway on Her Jam-Packed Year of Movies and Upcoming Adaptation of Hit Novel 'Yesteryear'",
-      "title": "Anne Hathaway on Her Jam-Packed Year of Movies and Upcoming Adaptation of Hit Novel 'Yesteryear'",
-      "snapshot": "The star is celebrating her fourth film of 2026 with 'The End of Oak Street,' and also opening up about taking on the bestselling tradwife satire.",
-      "summary": "The star is celebrating her fourth film of 2026 with 'The End of Oak Street,' and also opening up about taking on the bestselling tradwife satire.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/anne-hathaway-year-of-movies-adaptation-novel-yesteryear-1236669859/",
+      "headline": "J.J. Abrams on 'The End of Oak Street' Theories and Daughter Gracie's Acting Debut: \"I Know How Hard She's Working\"",
+      "title": "J.J. Abrams on 'The End of Oak Street' Theories and Daughter Gracie's Acting Debut: \"I Know How Hard She's Working\"",
+      "snapshot": "The filmmaker speaks out about speculation that the new sci-fi movie may be connected to his 'Cloverfield' franchise, while also praising his pop star daughter's career pivot.",
+      "summary": "The filmmaker speaks out about speculation that the new sci-fi movie may be connected to his 'Cloverfield' franchise, while also praising his pop star daughter's career pivot.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/j-j-abrams-end-of-oak-street-theories-gracie-abrams-acting-1236670415/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-10 12:46:30 PM ET",
+      "published_at": "2026-08-10 08:24:01 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Anne Hathaway on Her Jam-Packed Year of Movies and Upcoming Adaptation of Hit Novel 'Yesteryear'"
+        "J.J. Abrams on 'The End of Oak Street' Theories and Daughter Gracie's Acting Debut: \"I Know How Hard She's Working\""
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -954,8 +954,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-7846747378276821127",
-      "key": "film-35-7846747378276821127",
+      "id": "film-35-3452829823604251323",
+      "key": "film-35-3452829823604251323",
       "category": "Film",
       "label": "Film",
       "headline": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire",
@@ -981,8 +981,8 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-6879917985214243984",
-      "key": "music-13-6879917985214243984",
+      "id": "music-13-2045205741100561120",
+      "key": "music-13-2045205741100561120",
       "category": "Music",
       "label": "Music",
       "headline": "Travis Barker Told Son Landon Barker to Turn Down 'The Voice': 'You're Way Too Cool for That'",
@@ -1008,8 +1008,8 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-2992549945165250970",
-      "key": "gaming-3-2992549945165250970",
+      "id": "gaming-3-2189903345890969987",
+      "key": "gaming-3-2189903345890969987",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Battlefield 6 Player With Over 400 Hours Gets Full Refund from Steam After Key Modes Were Removed",
@@ -1037,8 +1037,8 @@
   ],
   "homepage_cards": [
     {
-      "id": "film-0-1094418688829408580",
-      "key": "film-0-1094418688829408580",
+      "id": "film-0-4892452850797195953",
+      "key": "film-0-4892452850797195953",
       "category": "Film",
       "label": "Film",
       "headline": "LISTEN: Summer Box Office Will Surpass the $4 Billion Benchmark",
@@ -1064,8 +1064,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-8922466215488259173",
-      "key": "film-10-8922466215488259173",
+      "id": "film-10-3989160596627746046",
+      "key": "film-10-3989160596627746046",
       "category": "Film",
       "label": "Film",
       "headline": "Reggie Bannister Dies: 'Phantasm' Actor Was 80",
@@ -1091,22 +1091,22 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-3935997144446632886",
-      "key": "film-22-3935997144446632886",
+      "id": "film-22-6759285758399318205",
+      "key": "film-22-6759285758399318205",
       "category": "Film",
       "label": "Film",
-      "headline": "Chris Evans Teases \"Brutal\" 'Avengers: Doomsday' Storyline for Captain America",
-      "title": "Chris Evans Teases \"Brutal\" 'Avengers: Doomsday' Storyline for Captain America",
-      "snapshot": "The Marvel film directed by the Russo Brothers hits theaters on Dec. 18.",
-      "summary": "The Marvel film directed by the Russo Brothers hits theaters on Dec. 18.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/chris-evans-teases-avengers-doomsday-arc-captain-america-1236670567/",
+      "headline": "Ann Hui to Receive Busan Film Festival's Camellia Award",
+      "title": "Ann Hui to Receive Busan Film Festival's Camellia Award",
+      "snapshot": "\"Now that I'm nearly eighty… the prize comes just in time,\" says the Hong Kong New Wave master, who will accept the Chanel-backed honor at Busan's opening ceremony on Oct. 6.",
+      "summary": "\"Now that I'm nearly eighty… the prize comes just in time,\" says the Hong Kong New Wave master, who will accept the Chanel-backed honor at Busan's opening ceremony on Oct. 6.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/ann-hui-2026-busan-film-festival-camellia-award-1236670749/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-10 10:03:05 PM ET",
+      "published_at": "2026-08-11 12:34:36 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Chris Evans Teases \"Brutal\" 'Avengers: Doomsday' Storyline for Captain America"
+        "Ann Hui to Receive Busan Film Festival's Camellia Award"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1118,14 +1118,14 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-354682851556876253",
-      "key": "film-32-354682851556876253",
+      "id": "film-32-5310650744292644541",
+      "key": "film-32-5310650744292644541",
       "category": "Film",
       "label": "Film",
-      "headline": "Fayetteville's CAMEO Collective builds on its movie theater roots - The Fayetteville Observer",
-      "title": "Fayetteville's CAMEO Collective builds on its movie theater roots - The Fayetteville Observer",
-      "snapshot": "Fayetteville's CAMEO Collective builds on its movie theater roots The Fayetteville Observer",
-      "summary": "Fayetteville's CAMEO Collective builds on its movie theater roots The Fayetteville Observer",
+      "headline": "Fayetteville's CAMEO Collective builds on its movie theater roots - fayobserver.com",
+      "title": "Fayetteville's CAMEO Collective builds on its movie theater roots - fayobserver.com",
+      "snapshot": "Fayetteville's CAMEO Collective builds on its movie theater roots fayobserver.com",
+      "summary": "Fayetteville's CAMEO Collective builds on its movie theater roots fayobserver.com",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSWEtOGJVNHNLR2pLZThkbWlrZ2JiMlYxbWd1RkJGRHVpVG9kUzZCbC1md3JSNTVTN2FpYnhZalhBVnRDc25SXzFOTXB0RGVxU0plRlBBeFpkN3kwaW5lUkc1T1Zrd2pHT20xbEd4MV9mYnN1WGhEY3VmVUV6eERDOFJnVzhUcWVQVHBmLVd1WjY5c0RCR05rd1NmR0JYaExEbWtqSVNqNTd2bW1KZW1JcUVrSU1fWlc5V2ZVbE03OGNpR1pMaGc5SUN5WXR1S2dYMi1nQjZn?oc=5",
       "source": "Google News",
       "source_name": "Google News",
@@ -1133,7 +1133,7 @@
       "published_at": "2026-08-10 05:04:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Fayetteville's CAMEO Collective builds on its movie theater roots - The Fayetteville Observer"
+        "Fayetteville's CAMEO Collective builds on its movie theater roots - fayobserver.com"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1145,8 +1145,8 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-7906843368715534486",
-      "key": "music-10-7906843368715534486",
+      "id": "music-10-9075479546133750247",
+      "key": "music-10-9075479546133750247",
       "category": "Music",
       "label": "Music",
       "headline": "aespa's Karina Makes Converse Debut by Modeling Two Distinct Footwear Styles: Shop Here",
@@ -1172,8 +1172,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-2341261965262492313",
-      "key": "gaming-0-2341261965262492313",
+      "id": "gaming-0-7988266048789013018",
+      "key": "gaming-0-7988266048789013018",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game",
@@ -1199,8 +1199,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-5195478290864128996",
-      "key": "film-1-5195478290864128996",
+      "id": "film-1-4082371737949062940",
+      "key": "film-1-4082371737949062940",
       "category": "Film",
       "label": "Film",
       "headline": "Jacob Elordi in Talks to Star in Ari Aster's 'Scapegoat' With Scarlett Johansson",
@@ -1226,8 +1226,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-2115296955156964368",
-      "key": "film-11-2115296955156964368",
+      "id": "film-11-2029950769363761228",
+      "key": "film-11-2029950769363761228",
       "category": "Film",
       "label": "Film",
       "headline": "Which Carley Fortune Books Are Getting Adapted? 'One Golden Summer,' 'This Summer Will Be Different' & More",
@@ -1253,22 +1253,22 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-2564542832700689974",
-      "key": "film-23-2564542832700689974",
+      "id": "film-23-6129072379979939",
+      "key": "film-23-6129072379979939",
       "category": "Film",
       "label": "Film",
-      "headline": "Reggie Bannister, a Horror Icon Known for the 'Phantasm' Franchise, Dies at 80",
-      "title": "Reggie Bannister, a Horror Icon Known for the 'Phantasm' Franchise, Dies at 80",
-      "snapshot": "The actor was eventually dubbed \"the hardest working man in horror,\" thanks to his work in the cult classic film franchise created by filmmaker Don Coscarelli.",
-      "summary": "The actor was eventually dubbed \"the hardest working man in horror,\" thanks to his work in the cult classic film franchise created by filmmaker Don Coscarelli.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/reggie-bannister-dead-phantasm-actor-1236670639/",
+      "headline": "Chris Evans Teases \"Brutal\" 'Avengers: Doomsday' Storyline for Captain America",
+      "title": "Chris Evans Teases \"Brutal\" 'Avengers: Doomsday' Storyline for Captain America",
+      "snapshot": "The Marvel film directed by the Russo Brothers hits theaters on Dec. 18.",
+      "summary": "The Marvel film directed by the Russo Brothers hits theaters on Dec. 18.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/chris-evans-teases-avengers-doomsday-arc-captain-america-1236670567/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-10 09:06:07 PM ET",
+      "published_at": "2026-08-10 10:03:05 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Reggie Bannister, a Horror Icon Known for the 'Phantasm' Franchise, Dies at 80"
+        "Chris Evans Teases \"Brutal\" 'Avengers: Doomsday' Storyline for Captain America"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1280,8 +1280,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-1582826165886275553",
-      "key": "film-33-1582826165886275553",
+      "id": "film-33-3058449718854920519",
+      "key": "film-33-3058449718854920519",
       "category": "Film",
       "label": "Film",
       "headline": "The 35 best sci-fi movies of all time (August 2026) - Entertainment Weekly",
@@ -1307,8 +1307,8 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-7312050364216198339",
-      "key": "music-11-7312050364216198339",
+      "id": "music-11-5074724258824931652",
+      "key": "music-11-5074724258824931652",
       "category": "Music",
       "label": "Music",
       "headline": "Limp Bizkit to Headline Australia's Good Things Festival 2026",
@@ -1334,8 +1334,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-675659202137603239",
-      "key": "gaming-1-675659202137603239",
+      "id": "gaming-1-4432430811049350185",
+      "key": "gaming-1-4432430811049350185",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes",
@@ -1361,8 +1361,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-2-824587094659568",
-      "key": "film-2-824587094659568",
+      "id": "film-2-3067383103930204312",
+      "key": "film-2-3067383103930204312",
       "category": "Film",
       "label": "Film",
       "headline": "'Teenage Sex and Death at Camp Miasma': Hannah Einbinder and Jane Schoenbrun on the Future of Queer Cinema",
@@ -1388,8 +1388,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-2388864730301066478",
-      "key": "film-12-2388864730301066478",
+      "id": "film-12-6550900777515956483",
+      "key": "film-12-6550900777515956483",
       "category": "Film",
       "label": "Film",
       "headline": "Meet The New 'X-Men': See The Actors Who've Been Cast & The Characters They Play",
@@ -1415,22 +1415,22 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-142538364568880907",
-      "key": "film-24-142538364568880907",
+      "id": "film-24-8446742597843638298",
+      "key": "film-24-8446742597843638298",
       "category": "Film",
       "label": "Film",
-      "headline": "J.J. Abrams on 'The End of Oak Street' Theories and Daughter Gracie's Acting Debut: \"I Know How Hard She's Working\"",
-      "title": "J.J. Abrams on 'The End of Oak Street' Theories and Daughter Gracie's Acting Debut: \"I Know How Hard She's Working\"",
-      "snapshot": "The filmmaker speaks out about speculation that the new sci-fi movie may be connected to his 'Cloverfield' franchise, while also praising his pop star daughter's career pivot.",
-      "summary": "The filmmaker speaks out about speculation that the new sci-fi movie may be connected to his 'Cloverfield' franchise, while also praising his pop star daughter's career pivot.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/j-j-abrams-end-of-oak-street-theories-gracie-abrams-acting-1236670415/",
+      "headline": "Reggie Bannister, a Horror Icon Known for the 'Phantasm' Franchise, Dies at 80",
+      "title": "Reggie Bannister, a Horror Icon Known for the 'Phantasm' Franchise, Dies at 80",
+      "snapshot": "The actor was eventually dubbed \"the hardest working man in horror,\" thanks to his work in the cult classic film franchise created by filmmaker Don Coscarelli.",
+      "summary": "The actor was eventually dubbed \"the hardest working man in horror,\" thanks to his work in the cult classic film franchise created by filmmaker Don Coscarelli.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/reggie-bannister-dead-phantasm-actor-1236670639/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-10 08:24:01 PM ET",
+      "published_at": "2026-08-10 09:06:07 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "J.J. Abrams on 'The End of Oak Street' Theories and Daughter Gracie's Acting Debut: \"I Know How Hard She's Working\""
+        "Reggie Bannister, a Horror Icon Known for the 'Phantasm' Franchise, Dies at 80"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1442,8 +1442,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-832313828633157554",
-      "key": "film-34-832313828633157554",
+      "id": "film-34-7206027809288709128",
+      "key": "film-34-7206027809288709128",
       "category": "Film",
       "label": "Film",
       "headline": "Our favorite memories at the movies - The Verge",
@@ -1469,8 +1469,8 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-1202646822342899706",
-      "key": "music-12-1202646822342899706",
+      "id": "music-12-2523198278041116903",
+      "key": "music-12-2523198278041116903",
       "category": "Music",
       "label": "Music",
       "headline": "With Sophia Stepping Back From KATSEYE, Will the Global Girl Group Remain a Quartet?",
@@ -1496,8 +1496,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-1570322931564930368",
-      "key": "gaming-2-1570322931564930368",
+      "id": "gaming-2-3590612782790699660",
+      "key": "gaming-2-3590612782790699660",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Fields of Mistria Review So Far",
@@ -1523,8 +1523,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-6766506524723993244",
-      "key": "film-3-6766506524723993244",
+      "id": "film-3-6442480077995177529",
+      "key": "film-3-6442480077995177529",
       "category": "Film",
       "label": "Film",
       "headline": "'Hearing' Review: Lê Bảo Continues His Sensory Exploration With an Arresting Study in Silence",
@@ -1550,8 +1550,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-1588563719947193165",
-      "key": "film-13-1588563719947193165",
+      "id": "film-13-409912542435396172",
+      "key": "film-13-409912542435396172",
       "category": "Film",
       "label": "Film",
       "headline": "Jon Cypher Dies: 'Hill Street Blues' Police Chief, 'Major Dad' Regular & 'Masters Of The Universe' Ally Was 94",
@@ -1577,22 +1577,22 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-1742274722538470479",
-      "key": "film-25-1742274722538470479",
+      "id": "film-25-5250120257889883705",
+      "key": "film-25-5250120257889883705",
       "category": "Film",
       "label": "Film",
-      "headline": "Anne Hathaway on Her Jam-Packed Year of Movies and Upcoming Adaptation of Hit Novel 'Yesteryear'",
-      "title": "Anne Hathaway on Her Jam-Packed Year of Movies and Upcoming Adaptation of Hit Novel 'Yesteryear'",
-      "snapshot": "The star is celebrating her fourth film of 2026 with 'The End of Oak Street,' and also opening up about taking on the bestselling tradwife satire.",
-      "summary": "The star is celebrating her fourth film of 2026 with 'The End of Oak Street,' and also opening up about taking on the bestselling tradwife satire.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/anne-hathaway-year-of-movies-adaptation-novel-yesteryear-1236669859/",
+      "headline": "J.J. Abrams on 'The End of Oak Street' Theories and Daughter Gracie's Acting Debut: \"I Know How Hard She's Working\"",
+      "title": "J.J. Abrams on 'The End of Oak Street' Theories and Daughter Gracie's Acting Debut: \"I Know How Hard She's Working\"",
+      "snapshot": "The filmmaker speaks out about speculation that the new sci-fi movie may be connected to his 'Cloverfield' franchise, while also praising his pop star daughter's career pivot.",
+      "summary": "The filmmaker speaks out about speculation that the new sci-fi movie may be connected to his 'Cloverfield' franchise, while also praising his pop star daughter's career pivot.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/j-j-abrams-end-of-oak-street-theories-gracie-abrams-acting-1236670415/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-10 12:46:30 PM ET",
+      "published_at": "2026-08-10 08:24:01 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Anne Hathaway on Her Jam-Packed Year of Movies and Upcoming Adaptation of Hit Novel 'Yesteryear'"
+        "J.J. Abrams on 'The End of Oak Street' Theories and Daughter Gracie's Acting Debut: \"I Know How Hard She's Working\""
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1604,8 +1604,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-7846747378276821127",
-      "key": "film-35-7846747378276821127",
+      "id": "film-35-3452829823604251323",
+      "key": "film-35-3452829823604251323",
       "category": "Film",
       "label": "Film",
       "headline": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire",
@@ -1631,8 +1631,8 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-6879917985214243984",
-      "key": "music-13-6879917985214243984",
+      "id": "music-13-2045205741100561120",
+      "key": "music-13-2045205741100561120",
       "category": "Music",
       "label": "Music",
       "headline": "Travis Barker Told Son Landon Barker to Turn Down 'The Voice': 'You're Way Too Cool for That'",
@@ -1658,8 +1658,8 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-2992549945165250970",
-      "key": "gaming-3-2992549945165250970",
+      "id": "gaming-3-2189903345890969987",
+      "key": "gaming-3-2189903345890969987",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Battlefield 6 Player With Over 400 Hours Gets Full Refund from Steam After Key Modes Were Removed",
@@ -1695,24 +1695,24 @@
       "key_storylines": [
         "LISTEN: Summer Box Office Will Surpass the $4 Billion Benchmark",
         "Reggie Bannister Dies: ‘Phantasm’ Actor Was 80",
-        "Chris Evans Teases “Brutal” ‘Avengers: Doomsday’ Storyline for Captain America",
-        "Fayetteville's CAMEO Collective builds on its movie theater roots - The Fayetteville Observer",
+        "Ann Hui to Receive Busan Film Festival’s Camellia Award",
+        "Fayetteville's CAMEO Collective builds on its movie theater roots - fayobserver.com",
         "Jacob Elordi in Talks to Star in Ari Aster’s ‘Scapegoat’ With Scarlett Johansson"
       ],
       "watch_list": [
         "LISTEN: Summer Box Office Will Surpass the $4 Billion Benchmark",
         "Reggie Bannister Dies: ‘Phantasm’ Actor Was 80",
-        "Chris Evans Teases “Brutal” ‘Avengers: Doomsday’ Storyline for Captain America",
-        "Fayetteville's CAMEO Collective builds on its movie theater roots - The Fayetteville Observer",
+        "Ann Hui to Receive Busan Film Festival’s Camellia Award",
+        "Fayetteville's CAMEO Collective builds on its movie theater roots - fayobserver.com",
         "Jacob Elordi in Talks to Star in Ari Aster’s ‘Scapegoat’ With Scarlett Johansson",
         "Which Carley Fortune Books Are Getting Adapted? ‘One Golden Summer,’ ‘This Summer Will Be Different’ & More",
-        "Reggie Bannister, a Horror Icon Known for the ‘Phantasm’ Franchise, Dies at 80",
+        "Chris Evans Teases “Brutal” ‘Avengers: Doomsday’ Storyline for Captain America",
         "The 35 best sci-fi movies of all time (August 2026) - Entertainment Weekly"
       ],
       "homepage_cards": [
         {
-          "id": "film-0-1094418688829408580",
-          "key": "film-0-1094418688829408580",
+          "id": "film-0-4892452850797195953",
+          "key": "film-0-4892452850797195953",
           "category": "Film",
           "label": "Film",
           "headline": "LISTEN: Summer Box Office Will Surpass the $4 Billion Benchmark",
@@ -1739,8 +1739,8 @@
           ]
         },
         {
-          "id": "film-10-8922466215488259173",
-          "key": "film-10-8922466215488259173",
+          "id": "film-10-3989160596627746046",
+          "key": "film-10-3989160596627746046",
           "category": "Film",
           "label": "Film",
           "headline": "Reggie Bannister Dies: ‘Phantasm’ Actor Was 80",
@@ -1767,25 +1767,25 @@
           ]
         },
         {
-          "id": "film-22-3935997144446632886",
-          "key": "film-22-3935997144446632886",
+          "id": "film-22-6759285758399318205",
+          "key": "film-22-6759285758399318205",
           "category": "Film",
           "label": "Film",
-          "headline": "Chris Evans Teases “Brutal” ‘Avengers: Doomsday’ Storyline for Captain America",
-          "title": "Chris Evans Teases “Brutal” ‘Avengers: Doomsday’ Storyline for Captain America",
-          "snapshot": "The Marvel film directed by the Russo Brothers hits theaters on Dec. 18.",
-          "summary": "The Marvel film directed by the Russo Brothers hits theaters on Dec. 18.",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/chris-evans-teases-avengers-doomsday-arc-captain-america-1236670567/",
+          "headline": "Ann Hui to Receive Busan Film Festival’s Camellia Award",
+          "title": "Ann Hui to Receive Busan Film Festival’s Camellia Award",
+          "snapshot": "\"Now that I'm nearly eighty… the prize comes just in time,\" says the Hong Kong New Wave master, who will accept the Chanel-backed honor at Busan's opening ceremony on Oct. 6.",
+          "summary": "\"Now that I'm nearly eighty… the prize comes just in time,\" says the Hong Kong New Wave master, who will accept the Chanel-backed honor at Busan's opening ceremony on Oct. 6.",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/ann-hui-2026-busan-film-festival-camellia-award-1236670749/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-          "published_at": "2026-08-10 10:03:05 PM ET",
+          "published_at": "2026-08-11 12:34:36 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 78,
           "key_data": [
-            "Chris Evans Teases “Brutal” ‘Avengers: Doomsday’ Storyline for Captain America"
+            "Ann Hui to Receive Busan Film Festival’s Camellia Award"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1795,14 +1795,14 @@
           ]
         },
         {
-          "id": "film-32-354682851556876253",
-          "key": "film-32-354682851556876253",
+          "id": "film-32-5310650744292644541",
+          "key": "film-32-5310650744292644541",
           "category": "Film",
           "label": "Film",
-          "headline": "Fayetteville's CAMEO Collective builds on its movie theater roots - The Fayetteville Observer",
-          "title": "Fayetteville's CAMEO Collective builds on its movie theater roots - The Fayetteville Observer",
-          "snapshot": "Fayetteville's CAMEO Collective builds on its movie theater roots The Fayetteville Observer",
-          "summary": "Fayetteville's CAMEO Collective builds on its movie theater roots The Fayetteville Observer",
+          "headline": "Fayetteville's CAMEO Collective builds on its movie theater roots - fayobserver.com",
+          "title": "Fayetteville's CAMEO Collective builds on its movie theater roots - fayobserver.com",
+          "snapshot": "Fayetteville's CAMEO Collective builds on its movie theater roots fayobserver.com",
+          "summary": "Fayetteville's CAMEO Collective builds on its movie theater roots fayobserver.com",
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSWEtOGJVNHNLR2pLZThkbWlrZ2JiMlYxbWd1RkJGRHVpVG9kUzZCbC1md3JSNTVTN2FpYnhZalhBVnRDc25SXzFOTXB0RGVxU0plRlBBeFpkN3kwaW5lUkc1T1Zrd2pHT20xbEd4MV9mYnN1WGhEY3VmVUV6eERDOFJnVzhUcWVQVHBmLVd1WjY5c0RCR05rd1NmR0JYaExEbWtqSVNqNTd2bW1KZW1JcUVrSU1fWlc5V2ZVbE03OGNpR1pMaGc5SUN5WXR1S2dYMi1nQjZn?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -1813,7 +1813,7 @@
           "story_type": "rss_headline",
           "priority_score": 68,
           "key_data": [
-            "Fayetteville's CAMEO Collective builds on its movie theater roots - The Fayetteville Observer"
+            "Fayetteville's CAMEO Collective builds on its movie theater roots - fayobserver.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1823,8 +1823,8 @@
           ]
         },
         {
-          "id": "film-1-5195478290864128996",
-          "key": "film-1-5195478290864128996",
+          "id": "film-1-4082371737949062940",
+          "key": "film-1-4082371737949062940",
           "category": "Film",
           "label": "Film",
           "headline": "Jacob Elordi in Talks to Star in Ari Aster’s ‘Scapegoat’ With Scarlett Johansson",
@@ -1851,8 +1851,8 @@
           ]
         },
         {
-          "id": "film-11-2115296955156964368",
-          "key": "film-11-2115296955156964368",
+          "id": "film-11-2029950769363761228",
+          "key": "film-11-2029950769363761228",
           "category": "Film",
           "label": "Film",
           "headline": "Which Carley Fortune Books Are Getting Adapted? ‘One Golden Summer,’ ‘This Summer Will Be Different’ & More",
@@ -1879,25 +1879,25 @@
           ]
         },
         {
-          "id": "film-23-2564542832700689974",
-          "key": "film-23-2564542832700689974",
+          "id": "film-23-6129072379979939",
+          "key": "film-23-6129072379979939",
           "category": "Film",
           "label": "Film",
-          "headline": "Reggie Bannister, a Horror Icon Known for the ‘Phantasm’ Franchise, Dies at 80",
-          "title": "Reggie Bannister, a Horror Icon Known for the ‘Phantasm’ Franchise, Dies at 80",
-          "snapshot": "The actor was eventually dubbed \"the hardest working man in horror,\" thanks to his work in the cult classic film franchise created by filmmaker Don Coscarelli.",
-          "summary": "The actor was eventually dubbed \"the hardest working man in horror,\" thanks to his work in the cult classic film franchise created by filmmaker Don Coscarelli.",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/reggie-bannister-dead-phantasm-actor-1236670639/",
+          "headline": "Chris Evans Teases “Brutal” ‘Avengers: Doomsday’ Storyline for Captain America",
+          "title": "Chris Evans Teases “Brutal” ‘Avengers: Doomsday’ Storyline for Captain America",
+          "snapshot": "The Marvel film directed by the Russo Brothers hits theaters on Dec. 18.",
+          "summary": "The Marvel film directed by the Russo Brothers hits theaters on Dec. 18.",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/chris-evans-teases-avengers-doomsday-arc-captain-america-1236670567/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-          "published_at": "2026-08-10 09:06:07 PM ET",
+          "published_at": "2026-08-10 10:03:05 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 77,
           "key_data": [
-            "Reggie Bannister, a Horror Icon Known for the ‘Phantasm’ Franchise, Dies at 80"
+            "Chris Evans Teases “Brutal” ‘Avengers: Doomsday’ Storyline for Captain America"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1907,8 +1907,8 @@
           ]
         },
         {
-          "id": "film-33-1582826165886275553",
-          "key": "film-33-1582826165886275553",
+          "id": "film-33-3058449718854920519",
+          "key": "film-33-3058449718854920519",
           "category": "Film",
           "label": "Film",
           "headline": "The 35 best sci-fi movies of all time (August 2026) - Entertainment Weekly",
@@ -1937,8 +1937,8 @@
       ],
       "items": [
         {
-          "id": "film-0-1094418688829408580",
-          "key": "film-0-1094418688829408580",
+          "id": "film-0-4892452850797195953",
+          "key": "film-0-4892452850797195953",
           "category": "Film",
           "label": "Film",
           "headline": "LISTEN: Summer Box Office Will Surpass the $4 Billion Benchmark",
@@ -1965,8 +1965,8 @@
           ]
         },
         {
-          "id": "film-10-8922466215488259173",
-          "key": "film-10-8922466215488259173",
+          "id": "film-10-3989160596627746046",
+          "key": "film-10-3989160596627746046",
           "category": "Film",
           "label": "Film",
           "headline": "Reggie Bannister Dies: ‘Phantasm’ Actor Was 80",
@@ -1993,25 +1993,25 @@
           ]
         },
         {
-          "id": "film-22-3935997144446632886",
-          "key": "film-22-3935997144446632886",
+          "id": "film-22-6759285758399318205",
+          "key": "film-22-6759285758399318205",
           "category": "Film",
           "label": "Film",
-          "headline": "Chris Evans Teases “Brutal” ‘Avengers: Doomsday’ Storyline for Captain America",
-          "title": "Chris Evans Teases “Brutal” ‘Avengers: Doomsday’ Storyline for Captain America",
-          "snapshot": "The Marvel film directed by the Russo Brothers hits theaters on Dec. 18.",
-          "summary": "The Marvel film directed by the Russo Brothers hits theaters on Dec. 18.",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/chris-evans-teases-avengers-doomsday-arc-captain-america-1236670567/",
+          "headline": "Ann Hui to Receive Busan Film Festival’s Camellia Award",
+          "title": "Ann Hui to Receive Busan Film Festival’s Camellia Award",
+          "snapshot": "\"Now that I'm nearly eighty… the prize comes just in time,\" says the Hong Kong New Wave master, who will accept the Chanel-backed honor at Busan's opening ceremony on Oct. 6.",
+          "summary": "\"Now that I'm nearly eighty… the prize comes just in time,\" says the Hong Kong New Wave master, who will accept the Chanel-backed honor at Busan's opening ceremony on Oct. 6.",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/ann-hui-2026-busan-film-festival-camellia-award-1236670749/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-          "published_at": "2026-08-10 10:03:05 PM ET",
+          "published_at": "2026-08-11 12:34:36 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 78,
           "key_data": [
-            "Chris Evans Teases “Brutal” ‘Avengers: Doomsday’ Storyline for Captain America"
+            "Ann Hui to Receive Busan Film Festival’s Camellia Award"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2021,14 +2021,14 @@
           ]
         },
         {
-          "id": "film-32-354682851556876253",
-          "key": "film-32-354682851556876253",
+          "id": "film-32-5310650744292644541",
+          "key": "film-32-5310650744292644541",
           "category": "Film",
           "label": "Film",
-          "headline": "Fayetteville's CAMEO Collective builds on its movie theater roots - The Fayetteville Observer",
-          "title": "Fayetteville's CAMEO Collective builds on its movie theater roots - The Fayetteville Observer",
-          "snapshot": "Fayetteville's CAMEO Collective builds on its movie theater roots The Fayetteville Observer",
-          "summary": "Fayetteville's CAMEO Collective builds on its movie theater roots The Fayetteville Observer",
+          "headline": "Fayetteville's CAMEO Collective builds on its movie theater roots - fayobserver.com",
+          "title": "Fayetteville's CAMEO Collective builds on its movie theater roots - fayobserver.com",
+          "snapshot": "Fayetteville's CAMEO Collective builds on its movie theater roots fayobserver.com",
+          "summary": "Fayetteville's CAMEO Collective builds on its movie theater roots fayobserver.com",
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSWEtOGJVNHNLR2pLZThkbWlrZ2JiMlYxbWd1RkJGRHVpVG9kUzZCbC1md3JSNTVTN2FpYnhZalhBVnRDc25SXzFOTXB0RGVxU0plRlBBeFpkN3kwaW5lUkc1T1Zrd2pHT20xbEd4MV9mYnN1WGhEY3VmVUV6eERDOFJnVzhUcWVQVHBmLVd1WjY5c0RCR05rd1NmR0JYaExEbWtqSVNqNTd2bW1KZW1JcUVrSU1fWlc5V2ZVbE03OGNpR1pMaGc5SUN5WXR1S2dYMi1nQjZn?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -2039,7 +2039,7 @@
           "story_type": "rss_headline",
           "priority_score": 68,
           "key_data": [
-            "Fayetteville's CAMEO Collective builds on its movie theater roots - The Fayetteville Observer"
+            "Fayetteville's CAMEO Collective builds on its movie theater roots - fayobserver.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2049,8 +2049,8 @@
           ]
         },
         {
-          "id": "film-1-5195478290864128996",
-          "key": "film-1-5195478290864128996",
+          "id": "film-1-4082371737949062940",
+          "key": "film-1-4082371737949062940",
           "category": "Film",
           "label": "Film",
           "headline": "Jacob Elordi in Talks to Star in Ari Aster’s ‘Scapegoat’ With Scarlett Johansson",
@@ -2077,8 +2077,8 @@
           ]
         },
         {
-          "id": "film-11-2115296955156964368",
-          "key": "film-11-2115296955156964368",
+          "id": "film-11-2029950769363761228",
+          "key": "film-11-2029950769363761228",
           "category": "Film",
           "label": "Film",
           "headline": "Which Carley Fortune Books Are Getting Adapted? ‘One Golden Summer,’ ‘This Summer Will Be Different’ & More",
@@ -2105,25 +2105,25 @@
           ]
         },
         {
-          "id": "film-23-2564542832700689974",
-          "key": "film-23-2564542832700689974",
+          "id": "film-23-6129072379979939",
+          "key": "film-23-6129072379979939",
           "category": "Film",
           "label": "Film",
-          "headline": "Reggie Bannister, a Horror Icon Known for the ‘Phantasm’ Franchise, Dies at 80",
-          "title": "Reggie Bannister, a Horror Icon Known for the ‘Phantasm’ Franchise, Dies at 80",
-          "snapshot": "The actor was eventually dubbed \"the hardest working man in horror,\" thanks to his work in the cult classic film franchise created by filmmaker Don Coscarelli.",
-          "summary": "The actor was eventually dubbed \"the hardest working man in horror,\" thanks to his work in the cult classic film franchise created by filmmaker Don Coscarelli.",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/reggie-bannister-dead-phantasm-actor-1236670639/",
+          "headline": "Chris Evans Teases “Brutal” ‘Avengers: Doomsday’ Storyline for Captain America",
+          "title": "Chris Evans Teases “Brutal” ‘Avengers: Doomsday’ Storyline for Captain America",
+          "snapshot": "The Marvel film directed by the Russo Brothers hits theaters on Dec. 18.",
+          "summary": "The Marvel film directed by the Russo Brothers hits theaters on Dec. 18.",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/chris-evans-teases-avengers-doomsday-arc-captain-america-1236670567/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-          "published_at": "2026-08-10 09:06:07 PM ET",
+          "published_at": "2026-08-10 10:03:05 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 77,
           "key_data": [
-            "Reggie Bannister, a Horror Icon Known for the ‘Phantasm’ Franchise, Dies at 80"
+            "Chris Evans Teases “Brutal” ‘Avengers: Doomsday’ Storyline for Captain America"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2133,8 +2133,8 @@
           ]
         },
         {
-          "id": "film-33-1582826165886275553",
-          "key": "film-33-1582826165886275553",
+          "id": "film-33-3058449718854920519",
+          "key": "film-33-3058449718854920519",
           "category": "Film",
           "label": "Film",
           "headline": "The 35 best sci-fi movies of all time (August 2026) - Entertainment Weekly",
@@ -2161,7 +2161,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-10 11:45:16 PM ET"
+      "updated_at": "2026-08-11 01:09:44 AM ET"
     },
     {
       "key": "tv",
@@ -2171,24 +2171,24 @@
       "snapshot": "TV coverage is updating with 7 current RSS headline item(s).",
       "key_storylines": [
         "Boxing Legend Chris John Joins Silver Media Group for Animated Series ‘Dragon’s Dojo’ (EXCLUSIVE)",
-        "Disney’s ‘Camp Rock 3’ Red Carpet Photos: Demi Lovato, Jonas Brothers, Liamani Segura, Malachi Barton & More",
+        "Téa Leoni & Tim Daly Say “We Don’t Need An Intimacy Coordinator” On ‘Newlyweds’; Jamie Lee Curtis Shares Her NSFW Title On NBC Comedy",
         "Netflix Adds Logan Marshall-Green, Scott Bakula and More to ‘The Sticks,’ Shares First-Look at Hockey Drama",
         "Korea’s market volatility becomes TV entertainment - The Korea Herald",
         "Demi Lovato to Make ‘Camp Rock 3’ Cameo Appearance"
       ],
       "watch_list": [
         "Boxing Legend Chris John Joins Silver Media Group for Animated Series ‘Dragon’s Dojo’ (EXCLUSIVE)",
-        "Disney’s ‘Camp Rock 3’ Red Carpet Photos: Demi Lovato, Jonas Brothers, Liamani Segura, Malachi Barton & More",
+        "Téa Leoni & Tim Daly Say “We Don’t Need An Intimacy Coordinator” On ‘Newlyweds’; Jamie Lee Curtis Shares Her NSFW Title On NBC Comedy",
         "Netflix Adds Logan Marshall-Green, Scott Bakula and More to ‘The Sticks,’ Shares First-Look at Hockey Drama",
         "Korea’s market volatility becomes TV entertainment - The Korea Herald",
         "Demi Lovato to Make ‘Camp Rock 3’ Cameo Appearance",
-        "Telemundo’s ‘Operación Triunfo’ Carries On With Final Live Show Following Devastating 7.4 Magnitude Quake In Colombia",
+        "Disney’s ‘Camp Rock 3’ Red Carpet Photos: Demi Lovato, Jonas Brothers, Liamani Segura, Malachi Barton & More",
         "‘Camp Rock 3’ Surprise! Demi Lovato Reprises Role as Mitchie in Disney’s Movie"
       ],
       "homepage_cards": [
         {
-          "id": "tv-0-1808894912234965526",
-          "key": "tv-0-1808894912234965526",
+          "id": "tv-0-4832839453046094861",
+          "key": "tv-0-4832839453046094861",
           "category": "TV",
           "label": "TV",
           "headline": "Boxing Legend Chris John Joins Silver Media Group for Animated Series ‘Dragon’s Dojo’ (EXCLUSIVE)",
@@ -2215,25 +2215,25 @@
           ]
         },
         {
-          "id": "tv-10-3959444239301405270",
-          "key": "tv-10-3959444239301405270",
+          "id": "tv-10-8092247923950221434",
+          "key": "tv-10-8092247923950221434",
           "category": "TV",
           "label": "TV",
-          "headline": "Disney’s ‘Camp Rock 3’ Red Carpet Photos: Demi Lovato, Jonas Brothers, Liamani Segura, Malachi Barton & More",
-          "title": "Disney’s ‘Camp Rock 3’ Red Carpet Photos: Demi Lovato, Jonas Brothers, Liamani Segura, Malachi Barton & More",
-          "snapshot": "Disney celebrated the premiere of Camp Rock 3 ahead of the movie’s premiere on August 13 at 8 p.m. ET/PT on Disney Channel and the next day on Disney+. Demi Lovato joined the cast on the red carpet alongside the Jonas Brothers, Liamani Segura, Malachi Barton, Lumo Pollack, Sherry Cola, and more. The movie franchise...",
-          "summary": "Disney celebrated the premiere of Camp Rock 3 ahead of the movie’s premiere on August 13 at 8 p.m. ET/PT on Disney Channel and the next day on Disney+. Demi Lovato joined the cast on the red carpet alongside the Jonas Brothers, Liamani Segura, Malachi Barton, Lumo Pollack, Sherry Cola, and more. The movie franchise...",
-          "url": "https://deadline.com/gallery/camp-rock-3-red-carpet-photos-disney-plus/",
+          "headline": "Téa Leoni & Tim Daly Say “We Don’t Need An Intimacy Coordinator” On ‘Newlyweds’; Jamie Lee Curtis Shares Her NSFW Title On NBC Comedy",
+          "title": "Téa Leoni & Tim Daly Say “We Don’t Need An Intimacy Coordinator” On ‘Newlyweds’; Jamie Lee Curtis Shares Her NSFW Title On NBC Comedy",
+          "snapshot": "NBC did some method casting on its comedy pilot Newlyweds earlier this year, with Tèa Leoni and Tim Daly, who had tied the knot just months prior, tapped as the titular leads in the multi-camera comedy. It marked an on-screen reunion of the duo who also played a husband and wife on the 2014 CBS […]",
+          "summary": "NBC did some method casting on its comedy pilot Newlyweds earlier this year, with Tèa Leoni and Tim Daly, who had tied the knot just months prior, tapped as the titular leads in the multi-camera comedy. It marked an on-screen reunion of the duo who also played a husband and wife on the 2014 CBS […]",
+          "url": "https://deadline.com/2026/08/tea-leoni-tim-daly-newlyweds-couple-jamie-lee-curtis-boss-1237030834/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/tv/feed/",
-          "published_at": "2026-08-10 09:41:19 PM ET",
+          "published_at": "2026-08-11 12:23:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "Disney’s ‘Camp Rock 3’ Red Carpet Photos: Demi Lovato, Jonas Brothers, Liamani Segura, Malachi Barton & More"
+            "Téa Leoni & Tim Daly Say “We Don’t Need An Intimacy Coordinator” On ‘Newlyweds’; Jamie Lee Curtis Shares Her NSFW Title On NBC Comedy"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2243,8 +2243,8 @@
           ]
         },
         {
-          "id": "tv-20-425201357504203565",
-          "key": "tv-20-425201357504203565",
+          "id": "tv-20-7549008172737622608",
+          "key": "tv-20-7549008172737622608",
           "category": "TV",
           "label": "TV",
           "headline": "Netflix Adds Logan Marshall-Green, Scott Bakula and More to ‘The Sticks,’ Shares First-Look at Hockey Drama",
@@ -2271,8 +2271,8 @@
           ]
         },
         {
-          "id": "tv-30-7054842997578424408",
-          "key": "tv-30-7054842997578424408",
+          "id": "tv-30-3119646115922108530",
+          "key": "tv-30-3119646115922108530",
           "category": "TV",
           "label": "TV",
           "headline": "Korea’s market volatility becomes TV entertainment - The Korea Herald",
@@ -2299,8 +2299,8 @@
           ]
         },
         {
-          "id": "tv-1-3391151286011796430",
-          "key": "tv-1-3391151286011796430",
+          "id": "tv-1-3094443279561971610",
+          "key": "tv-1-3094443279561971610",
           "category": "TV",
           "label": "TV",
           "headline": "Demi Lovato to Make ‘Camp Rock 3’ Cameo Appearance",
@@ -2327,25 +2327,25 @@
           ]
         },
         {
-          "id": "tv-11-8151659194954176243",
-          "key": "tv-11-8151659194954176243",
+          "id": "tv-11-7758300648390992701",
+          "key": "tv-11-7758300648390992701",
           "category": "TV",
           "label": "TV",
-          "headline": "Telemundo’s ‘Operación Triunfo’ Carries On With Final Live Show Following Devastating 7.4 Magnitude Quake In Colombia",
-          "title": "Telemundo’s ‘Operación Triunfo’ Carries On With Final Live Show Following Devastating 7.4 Magnitude Quake In Colombia",
-          "snapshot": "Telemundo’s Operación Triunfo Season 1 finale was marred by sadness after the 7.4-magnitude earthquake that struck Colombia on Monday, August 10. The singing competition was to be full of joy as one singer was crowned the winner of the talent show following weeks of arduous work. Although the show is produced for th...",
-          "summary": "Telemundo’s Operación Triunfo Season 1 finale was marred by sadness after the 7.4-magnitude earthquake that struck Colombia on Monday, August 10. The singing competition was to be full of joy as one singer was crowned the winner of the talent show following weeks of arduous work. Although the show is produced for th...",
-          "url": "https://deadline.com/2026/08/telemundo-operacion-triunfo-final-live-show-quake-colombia-1237030655/",
+          "headline": "Disney’s ‘Camp Rock 3’ Red Carpet Photos: Demi Lovato, Jonas Brothers, Liamani Segura, Malachi Barton & More",
+          "title": "Disney’s ‘Camp Rock 3’ Red Carpet Photos: Demi Lovato, Jonas Brothers, Liamani Segura, Malachi Barton & More",
+          "snapshot": "Disney celebrated the premiere of Camp Rock 3 ahead of the movie’s premiere on August 13 at 8 p.m. ET/PT on Disney Channel and the next day on Disney+. Demi Lovato joined the cast on the red carpet alongside the Jonas Brothers, Liamani Segura, Malachi Barton, Lumo Pollack, Sherry Cola, and more. The movie franchise...",
+          "summary": "Disney celebrated the premiere of Camp Rock 3 ahead of the movie’s premiere on August 13 at 8 p.m. ET/PT on Disney Channel and the next day on Disney+. Demi Lovato joined the cast on the red carpet alongside the Jonas Brothers, Liamani Segura, Malachi Barton, Lumo Pollack, Sherry Cola, and more. The movie franchise...",
+          "url": "https://deadline.com/gallery/camp-rock-3-red-carpet-photos-disney-plus/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/tv/feed/",
-          "published_at": "2026-08-10 08:12:12 PM ET",
+          "published_at": "2026-08-10 09:41:19 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "Telemundo’s ‘Operación Triunfo’ Carries On With Final Live Show Following Devastating 7.4 Magnitude Quake In Colombia"
+            "Disney’s ‘Camp Rock 3’ Red Carpet Photos: Demi Lovato, Jonas Brothers, Liamani Segura, Malachi Barton & More"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2355,8 +2355,8 @@
           ]
         },
         {
-          "id": "tv-21-3524164006344071465",
-          "key": "tv-21-3524164006344071465",
+          "id": "tv-21-6064198185325285975",
+          "key": "tv-21-6064198185325285975",
           "category": "TV",
           "label": "TV",
           "headline": "‘Camp Rock 3’ Surprise! Demi Lovato Reprises Role as Mitchie in Disney’s Movie",
@@ -2385,8 +2385,8 @@
       ],
       "items": [
         {
-          "id": "tv-0-1808894912234965526",
-          "key": "tv-0-1808894912234965526",
+          "id": "tv-0-4832839453046094861",
+          "key": "tv-0-4832839453046094861",
           "category": "TV",
           "label": "TV",
           "headline": "Boxing Legend Chris John Joins Silver Media Group for Animated Series ‘Dragon’s Dojo’ (EXCLUSIVE)",
@@ -2413,25 +2413,25 @@
           ]
         },
         {
-          "id": "tv-10-3959444239301405270",
-          "key": "tv-10-3959444239301405270",
+          "id": "tv-10-8092247923950221434",
+          "key": "tv-10-8092247923950221434",
           "category": "TV",
           "label": "TV",
-          "headline": "Disney’s ‘Camp Rock 3’ Red Carpet Photos: Demi Lovato, Jonas Brothers, Liamani Segura, Malachi Barton & More",
-          "title": "Disney’s ‘Camp Rock 3’ Red Carpet Photos: Demi Lovato, Jonas Brothers, Liamani Segura, Malachi Barton & More",
-          "snapshot": "Disney celebrated the premiere of Camp Rock 3 ahead of the movie’s premiere on August 13 at 8 p.m. ET/PT on Disney Channel and the next day on Disney+. Demi Lovato joined the cast on the red carpet alongside the Jonas Brothers, Liamani Segura, Malachi Barton, Lumo Pollack, Sherry Cola, and more. The movie franchise...",
-          "summary": "Disney celebrated the premiere of Camp Rock 3 ahead of the movie’s premiere on August 13 at 8 p.m. ET/PT on Disney Channel and the next day on Disney+. Demi Lovato joined the cast on the red carpet alongside the Jonas Brothers, Liamani Segura, Malachi Barton, Lumo Pollack, Sherry Cola, and more. The movie franchise...",
-          "url": "https://deadline.com/gallery/camp-rock-3-red-carpet-photos-disney-plus/",
+          "headline": "Téa Leoni & Tim Daly Say “We Don’t Need An Intimacy Coordinator” On ‘Newlyweds’; Jamie Lee Curtis Shares Her NSFW Title On NBC Comedy",
+          "title": "Téa Leoni & Tim Daly Say “We Don’t Need An Intimacy Coordinator” On ‘Newlyweds’; Jamie Lee Curtis Shares Her NSFW Title On NBC Comedy",
+          "snapshot": "NBC did some method casting on its comedy pilot Newlyweds earlier this year, with Tèa Leoni and Tim Daly, who had tied the knot just months prior, tapped as the titular leads in the multi-camera comedy. It marked an on-screen reunion of the duo who also played a husband and wife on the 2014 CBS […]",
+          "summary": "NBC did some method casting on its comedy pilot Newlyweds earlier this year, with Tèa Leoni and Tim Daly, who had tied the knot just months prior, tapped as the titular leads in the multi-camera comedy. It marked an on-screen reunion of the duo who also played a husband and wife on the 2014 CBS […]",
+          "url": "https://deadline.com/2026/08/tea-leoni-tim-daly-newlyweds-couple-jamie-lee-curtis-boss-1237030834/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/tv/feed/",
-          "published_at": "2026-08-10 09:41:19 PM ET",
+          "published_at": "2026-08-11 12:23:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "Disney’s ‘Camp Rock 3’ Red Carpet Photos: Demi Lovato, Jonas Brothers, Liamani Segura, Malachi Barton & More"
+            "Téa Leoni & Tim Daly Say “We Don’t Need An Intimacy Coordinator” On ‘Newlyweds’; Jamie Lee Curtis Shares Her NSFW Title On NBC Comedy"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2441,8 +2441,8 @@
           ]
         },
         {
-          "id": "tv-20-425201357504203565",
-          "key": "tv-20-425201357504203565",
+          "id": "tv-20-7549008172737622608",
+          "key": "tv-20-7549008172737622608",
           "category": "TV",
           "label": "TV",
           "headline": "Netflix Adds Logan Marshall-Green, Scott Bakula and More to ‘The Sticks,’ Shares First-Look at Hockey Drama",
@@ -2469,8 +2469,8 @@
           ]
         },
         {
-          "id": "tv-30-7054842997578424408",
-          "key": "tv-30-7054842997578424408",
+          "id": "tv-30-3119646115922108530",
+          "key": "tv-30-3119646115922108530",
           "category": "TV",
           "label": "TV",
           "headline": "Korea’s market volatility becomes TV entertainment - The Korea Herald",
@@ -2497,8 +2497,8 @@
           ]
         },
         {
-          "id": "tv-1-3391151286011796430",
-          "key": "tv-1-3391151286011796430",
+          "id": "tv-1-3094443279561971610",
+          "key": "tv-1-3094443279561971610",
           "category": "TV",
           "label": "TV",
           "headline": "Demi Lovato to Make ‘Camp Rock 3’ Cameo Appearance",
@@ -2525,25 +2525,25 @@
           ]
         },
         {
-          "id": "tv-11-8151659194954176243",
-          "key": "tv-11-8151659194954176243",
+          "id": "tv-11-7758300648390992701",
+          "key": "tv-11-7758300648390992701",
           "category": "TV",
           "label": "TV",
-          "headline": "Telemundo’s ‘Operación Triunfo’ Carries On With Final Live Show Following Devastating 7.4 Magnitude Quake In Colombia",
-          "title": "Telemundo’s ‘Operación Triunfo’ Carries On With Final Live Show Following Devastating 7.4 Magnitude Quake In Colombia",
-          "snapshot": "Telemundo’s Operación Triunfo Season 1 finale was marred by sadness after the 7.4-magnitude earthquake that struck Colombia on Monday, August 10. The singing competition was to be full of joy as one singer was crowned the winner of the talent show following weeks of arduous work. Although the show is produced for th...",
-          "summary": "Telemundo’s Operación Triunfo Season 1 finale was marred by sadness after the 7.4-magnitude earthquake that struck Colombia on Monday, August 10. The singing competition was to be full of joy as one singer was crowned the winner of the talent show following weeks of arduous work. Although the show is produced for th...",
-          "url": "https://deadline.com/2026/08/telemundo-operacion-triunfo-final-live-show-quake-colombia-1237030655/",
+          "headline": "Disney’s ‘Camp Rock 3’ Red Carpet Photos: Demi Lovato, Jonas Brothers, Liamani Segura, Malachi Barton & More",
+          "title": "Disney’s ‘Camp Rock 3’ Red Carpet Photos: Demi Lovato, Jonas Brothers, Liamani Segura, Malachi Barton & More",
+          "snapshot": "Disney celebrated the premiere of Camp Rock 3 ahead of the movie’s premiere on August 13 at 8 p.m. ET/PT on Disney Channel and the next day on Disney+. Demi Lovato joined the cast on the red carpet alongside the Jonas Brothers, Liamani Segura, Malachi Barton, Lumo Pollack, Sherry Cola, and more. The movie franchise...",
+          "summary": "Disney celebrated the premiere of Camp Rock 3 ahead of the movie’s premiere on August 13 at 8 p.m. ET/PT on Disney Channel and the next day on Disney+. Demi Lovato joined the cast on the red carpet alongside the Jonas Brothers, Liamani Segura, Malachi Barton, Lumo Pollack, Sherry Cola, and more. The movie franchise...",
+          "url": "https://deadline.com/gallery/camp-rock-3-red-carpet-photos-disney-plus/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/tv/feed/",
-          "published_at": "2026-08-10 08:12:12 PM ET",
+          "published_at": "2026-08-10 09:41:19 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "Telemundo’s ‘Operación Triunfo’ Carries On With Final Live Show Following Devastating 7.4 Magnitude Quake In Colombia"
+            "Disney’s ‘Camp Rock 3’ Red Carpet Photos: Demi Lovato, Jonas Brothers, Liamani Segura, Malachi Barton & More"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2553,8 +2553,8 @@
           ]
         },
         {
-          "id": "tv-21-3524164006344071465",
-          "key": "tv-21-3524164006344071465",
+          "id": "tv-21-6064198185325285975",
+          "key": "tv-21-6064198185325285975",
           "category": "TV",
           "label": "TV",
           "headline": "‘Camp Rock 3’ Surprise! Demi Lovato Reprises Role as Mitchie in Disney’s Movie",
@@ -2581,7 +2581,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-10 11:45:17 PM ET"
+      "updated_at": "2026-08-11 01:09:46 AM ET"
     },
     {
       "key": "streaming",
@@ -2599,8 +2599,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "streaming-0-6627165974227775980",
-          "key": "streaming-0-6627165974227775980",
+          "id": "streaming-0-9035302131282062205",
+          "key": "streaming-0-9035302131282062205",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'The Last House' to 'Obsession,' 10 movies to stream right now - USA Today",
@@ -2627,8 +2627,8 @@
           ]
         },
         {
-          "id": "streaming-1-2333359306586608822",
-          "key": "streaming-1-2333359306586608822",
+          "id": "streaming-1-269968674087473487",
+          "key": "streaming-1-269968674087473487",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Disney turns $4-billion streaming loss into profit, and now it chases global growth - Los Angeles Times",
@@ -2657,8 +2657,8 @@
       ],
       "items": [
         {
-          "id": "streaming-0-6627165974227775980",
-          "key": "streaming-0-6627165974227775980",
+          "id": "streaming-0-9035302131282062205",
+          "key": "streaming-0-9035302131282062205",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'The Last House' to 'Obsession,' 10 movies to stream right now - USA Today",
@@ -2685,8 +2685,8 @@
           ]
         },
         {
-          "id": "streaming-1-2333359306586608822",
-          "key": "streaming-1-2333359306586608822",
+          "id": "streaming-1-269968674087473487",
+          "key": "streaming-1-269968674087473487",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Disney turns $4-billion streaming loss into profit, and now it chases global growth - Los Angeles Times",
@@ -2713,7 +2713,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-10 11:45:18 PM ET"
+      "updated_at": "2026-08-11 01:09:47 AM ET"
     },
     {
       "key": "music",
@@ -2734,12 +2734,12 @@
         "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - Billboard",
         "What to Know About Tupac’s Murder Trial and Suspect Duane ‘Keffe D’ Davis",
         "Limp Bizkit to Headline Australia’s Good Things Festival 2026",
-        "It’s Official: Influence Media to Buy Anthem for Over $600 Million - ca.billboard.com"
+        "It’s Official: Influence Media to Buy Anthem for Over $600 Million - Billboard"
       ],
       "homepage_cards": [
         {
-          "id": "music-0-5506209578749371578",
-          "key": "music-0-5506209578749371578",
+          "id": "music-0-4889311987888985039",
+          "key": "music-0-4889311987888985039",
           "category": "Music",
           "label": "Music",
           "headline": "Ella Langley’s ‘Choosin’ Texas’ Spends 17th Week at No. 1, Now Solely Holds Fourth Place Spot Among All-Time Hot 100 Streaks",
@@ -2766,8 +2766,8 @@
           ]
         },
         {
-          "id": "music-10-7906843368715534486",
-          "key": "music-10-7906843368715534486",
+          "id": "music-10-9075479546133750247",
+          "key": "music-10-9075479546133750247",
           "category": "Music",
           "label": "Music",
           "headline": "aespa’s Karina Makes Converse Debut by Modeling Two Distinct Footwear Styles: Shop Here",
@@ -2794,8 +2794,8 @@
           ]
         },
         {
-          "id": "music-20-3606942926372354497",
-          "key": "music-20-3606942926372354497",
+          "id": "music-20-1679863828650003697",
+          "key": "music-20-1679863828650003697",
           "category": "Music",
           "label": "Music",
           "headline": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - Billboard",
@@ -2822,8 +2822,8 @@
           ]
         },
         {
-          "id": "music-1-7446263481431995380",
-          "key": "music-1-7446263481431995380",
+          "id": "music-1-7664096434326687550",
+          "key": "music-1-7664096434326687550",
           "category": "Music",
           "label": "Music",
           "headline": "What to Know About Tupac’s Murder Trial and Suspect Duane ‘Keffe D’ Davis",
@@ -2850,8 +2850,8 @@
           ]
         },
         {
-          "id": "music-11-7312050364216198339",
-          "key": "music-11-7312050364216198339",
+          "id": "music-11-5074724258824931652",
+          "key": "music-11-5074724258824931652",
           "category": "Music",
           "label": "Music",
           "headline": "Limp Bizkit to Headline Australia’s Good Things Festival 2026",
@@ -2878,14 +2878,14 @@
           ]
         },
         {
-          "id": "music-21-8875275120963092031",
-          "key": "music-21-8875275120963092031",
+          "id": "music-21-5125817625895058547",
+          "key": "music-21-5125817625895058547",
           "category": "Music",
           "label": "Music",
-          "headline": "It’s Official: Influence Media to Buy Anthem for Over $600 Million - ca.billboard.com",
-          "title": "It’s Official: Influence Media to Buy Anthem for Over $600 Million - ca.billboard.com",
-          "snapshot": "It’s Official: Influence Media to Buy Anthem for Over $600 Million ca.billboard.com",
-          "summary": "It’s Official: Influence Media to Buy Anthem for Over $600 Million ca.billboard.com",
+          "headline": "It’s Official: Influence Media to Buy Anthem for Over $600 Million - Billboard",
+          "title": "It’s Official: Influence Media to Buy Anthem for Over $600 Million - Billboard",
+          "snapshot": "It’s Official: Influence Media to Buy Anthem for Over $600 Million Billboard",
+          "summary": "It’s Official: Influence Media to Buy Anthem for Over $600 Million Billboard",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPejZNQzUzVzlBMjNnR19DUVBXUEhtZkFZLUt0NlV0S21WY3FWVVFmNDZGeWJsZ1RMUVBpMElqLXBtamQyQ21xYmtkNDNPTTRON1JiWGduc1RpMnJKVWczcGg0SkVEVlZoQ3F1bXpjNmk0Y2l2RTZxY0JGcS1PYmVZT2RCSmhROXNDMXpaRWJ6UjM4WHB6MUJtT3I0MHJ6c0V5UEZaREhpTXoxM245?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -2896,7 +2896,7 @@
           "story_type": "rss_headline",
           "priority_score": 79,
           "key_data": [
-            "It’s Official: Influence Media to Buy Anthem for Over $600 Million - ca.billboard.com"
+            "It’s Official: Influence Media to Buy Anthem for Over $600 Million - Billboard"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2908,8 +2908,8 @@
       ],
       "items": [
         {
-          "id": "music-0-5506209578749371578",
-          "key": "music-0-5506209578749371578",
+          "id": "music-0-4889311987888985039",
+          "key": "music-0-4889311987888985039",
           "category": "Music",
           "label": "Music",
           "headline": "Ella Langley’s ‘Choosin’ Texas’ Spends 17th Week at No. 1, Now Solely Holds Fourth Place Spot Among All-Time Hot 100 Streaks",
@@ -2936,8 +2936,8 @@
           ]
         },
         {
-          "id": "music-10-7906843368715534486",
-          "key": "music-10-7906843368715534486",
+          "id": "music-10-9075479546133750247",
+          "key": "music-10-9075479546133750247",
           "category": "Music",
           "label": "Music",
           "headline": "aespa’s Karina Makes Converse Debut by Modeling Two Distinct Footwear Styles: Shop Here",
@@ -2964,8 +2964,8 @@
           ]
         },
         {
-          "id": "music-20-3606942926372354497",
-          "key": "music-20-3606942926372354497",
+          "id": "music-20-1679863828650003697",
+          "key": "music-20-1679863828650003697",
           "category": "Music",
           "label": "Music",
           "headline": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - Billboard",
@@ -2992,8 +2992,8 @@
           ]
         },
         {
-          "id": "music-1-7446263481431995380",
-          "key": "music-1-7446263481431995380",
+          "id": "music-1-7664096434326687550",
+          "key": "music-1-7664096434326687550",
           "category": "Music",
           "label": "Music",
           "headline": "What to Know About Tupac’s Murder Trial and Suspect Duane ‘Keffe D’ Davis",
@@ -3020,8 +3020,8 @@
           ]
         },
         {
-          "id": "music-11-7312050364216198339",
-          "key": "music-11-7312050364216198339",
+          "id": "music-11-5074724258824931652",
+          "key": "music-11-5074724258824931652",
           "category": "Music",
           "label": "Music",
           "headline": "Limp Bizkit to Headline Australia’s Good Things Festival 2026",
@@ -3048,14 +3048,14 @@
           ]
         },
         {
-          "id": "music-21-8875275120963092031",
-          "key": "music-21-8875275120963092031",
+          "id": "music-21-5125817625895058547",
+          "key": "music-21-5125817625895058547",
           "category": "Music",
           "label": "Music",
-          "headline": "It’s Official: Influence Media to Buy Anthem for Over $600 Million - ca.billboard.com",
-          "title": "It’s Official: Influence Media to Buy Anthem for Over $600 Million - ca.billboard.com",
-          "snapshot": "It’s Official: Influence Media to Buy Anthem for Over $600 Million ca.billboard.com",
-          "summary": "It’s Official: Influence Media to Buy Anthem for Over $600 Million ca.billboard.com",
+          "headline": "It’s Official: Influence Media to Buy Anthem for Over $600 Million - Billboard",
+          "title": "It’s Official: Influence Media to Buy Anthem for Over $600 Million - Billboard",
+          "snapshot": "It’s Official: Influence Media to Buy Anthem for Over $600 Million Billboard",
+          "summary": "It’s Official: Influence Media to Buy Anthem for Over $600 Million Billboard",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPejZNQzUzVzlBMjNnR19DUVBXUEhtZkFZLUt0NlV0S21WY3FWVVFmNDZGeWJsZ1RMUVBpMElqLXBtamQyQ21xYmtkNDNPTTRON1JiWGduc1RpMnJKVWczcGg0SkVEVlZoQ3F1bXpjNmk0Y2l2RTZxY0JGcS1PYmVZT2RCSmhROXNDMXpaRWJ6UjM4WHB6MUJtT3I0MHJ6c0V5UEZaREhpTXoxM245?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3066,7 +3066,7 @@
           "story_type": "rss_headline",
           "priority_score": 79,
           "key_data": [
-            "It’s Official: Influence Media to Buy Anthem for Over $600 Million - ca.billboard.com"
+            "It’s Official: Influence Media to Buy Anthem for Over $600 Million - Billboard"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3076,7 +3076,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-10 11:45:20 PM ET"
+      "updated_at": "2026-08-11 01:09:48 AM ET"
     },
     {
       "key": "awards",
@@ -3094,8 +3094,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "awards-0-2858080375139760477",
-          "key": "awards-0-2858080375139760477",
+          "id": "awards-0-3620787881312684837",
+          "key": "awards-0-3620787881312684837",
           "category": "Awards",
           "label": "Awards",
           "headline": "William H. Macy, Shawn Hatosy and Troy Kotsur Among Astra TV Awards Honorees; Lisa Ann Walter Set as Host",
@@ -3122,8 +3122,8 @@
           ]
         },
         {
-          "id": "awards-1-6826660282660997432",
-          "key": "awards-1-6826660282660997432",
+          "id": "awards-1-4379587556072940287",
+          "key": "awards-1-4379587556072940287",
           "category": "Awards",
           "label": "Awards",
           "headline": "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
@@ -3152,8 +3152,8 @@
       ],
       "items": [
         {
-          "id": "awards-0-2858080375139760477",
-          "key": "awards-0-2858080375139760477",
+          "id": "awards-0-3620787881312684837",
+          "key": "awards-0-3620787881312684837",
           "category": "Awards",
           "label": "Awards",
           "headline": "William H. Macy, Shawn Hatosy and Troy Kotsur Among Astra TV Awards Honorees; Lisa Ann Walter Set as Host",
@@ -3180,8 +3180,8 @@
           ]
         },
         {
-          "id": "awards-1-6826660282660997432",
-          "key": "awards-1-6826660282660997432",
+          "id": "awards-1-4379587556072940287",
+          "key": "awards-1-4379587556072940287",
           "category": "Awards",
           "label": "Awards",
           "headline": "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
@@ -3208,7 +3208,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-10 11:45:21 PM ET"
+      "updated_at": "2026-08-11 01:09:49 AM ET"
     },
     {
       "key": "box_office",
@@ -3230,8 +3230,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "box_office-0-3946180683826066327",
-          "key": "box_office-0-3946180683826066327",
+          "id": "box_office-0-2728881258321812476",
+          "key": "box_office-0-2728881258321812476",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Spider-Man: Brand New Day’ Becomes Highest Grossing Hollywood Film in India",
@@ -3258,8 +3258,8 @@
           ]
         },
         {
-          "id": "box_office-10-300756412404808030",
-          "key": "box_office-10-300756412404808030",
+          "id": "box_office-10-8120555703276452407",
+          "key": "box_office-10-8120555703276452407",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Spider-Man: Brand New Day’ Scores $145M for Third-Best Second Weekend Ever - The Hollywood Reporter",
@@ -3286,8 +3286,8 @@
           ]
         },
         {
-          "id": "box_office-1-98751236317627625",
-          "key": "box_office-1-98751236317627625",
+          "id": "box_office-1-1570996130332742896",
+          "key": "box_office-1-1570996130332742896",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Korea Box Office: ‘The Odyssey’ Bests ‘Spider-Man: Brand New Day’",
@@ -3314,8 +3314,8 @@
           ]
         },
         {
-          "id": "box_office-11-2763159060345507750",
-          "key": "box_office-11-2763159060345507750",
+          "id": "box_office-11-2273337307762580933",
+          "key": "box_office-11-2273337307762580933",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Spider-Man: Brand New Day Box Office: Becomes first Hollywood film to enter Rs. 400 crore club in India - Bollywood Hungama",
@@ -3344,8 +3344,8 @@
       ],
       "items": [
         {
-          "id": "box_office-0-3946180683826066327",
-          "key": "box_office-0-3946180683826066327",
+          "id": "box_office-0-2728881258321812476",
+          "key": "box_office-0-2728881258321812476",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Spider-Man: Brand New Day’ Becomes Highest Grossing Hollywood Film in India",
@@ -3372,8 +3372,8 @@
           ]
         },
         {
-          "id": "box_office-10-300756412404808030",
-          "key": "box_office-10-300756412404808030",
+          "id": "box_office-10-8120555703276452407",
+          "key": "box_office-10-8120555703276452407",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Spider-Man: Brand New Day’ Scores $145M for Third-Best Second Weekend Ever - The Hollywood Reporter",
@@ -3400,8 +3400,8 @@
           ]
         },
         {
-          "id": "box_office-1-98751236317627625",
-          "key": "box_office-1-98751236317627625",
+          "id": "box_office-1-1570996130332742896",
+          "key": "box_office-1-1570996130332742896",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Korea Box Office: ‘The Odyssey’ Bests ‘Spider-Man: Brand New Day’",
@@ -3428,8 +3428,8 @@
           ]
         },
         {
-          "id": "box_office-11-2763159060345507750",
-          "key": "box_office-11-2763159060345507750",
+          "id": "box_office-11-2273337307762580933",
+          "key": "box_office-11-2273337307762580933",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Spider-Man: Brand New Day Box Office: Becomes first Hollywood film to enter Rs. 400 crore club in India - Bollywood Hungama",
@@ -3456,7 +3456,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-10 11:45:21 PM ET"
+      "updated_at": "2026-08-11 01:09:50 AM ET"
     },
     {
       "key": "celebrity",
@@ -3474,8 +3474,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "celebrity-0-8060176381142508155",
-          "key": "celebrity-0-8060176381142508155",
+          "id": "celebrity-0-6070467759625695766",
+          "key": "celebrity-0-6070467759625695766",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3502,8 +3502,8 @@
           ]
         },
         {
-          "id": "celebrity-1-5018572812468878182",
-          "key": "celebrity-1-5018572812468878182",
+          "id": "celebrity-1-3679031381352104530",
+          "key": "celebrity-1-3679031381352104530",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Entertainment News | Latest Celebrity News, Videos & Photos - ABC News - Breaking News, Latest News and Videos",
@@ -3532,8 +3532,8 @@
       ],
       "items": [
         {
-          "id": "celebrity-0-8060176381142508155",
-          "key": "celebrity-0-8060176381142508155",
+          "id": "celebrity-0-6070467759625695766",
+          "key": "celebrity-0-6070467759625695766",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3560,8 +3560,8 @@
           ]
         },
         {
-          "id": "celebrity-1-5018572812468878182",
-          "key": "celebrity-1-5018572812468878182",
+          "id": "celebrity-1-3679031381352104530",
+          "key": "celebrity-1-3679031381352104530",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Entertainment News | Latest Celebrity News, Videos & Photos - ABC News - Breaking News, Latest News and Videos",
@@ -3588,34 +3588,33 @@
           ]
         }
       ],
-      "updated_at": "2026-08-10 11:45:22 PM ET"
+      "updated_at": "2026-08-11 01:09:50 AM ET"
     },
     {
       "key": "hollywood",
       "name": "Hollywood",
       "title": "Hollywood Report",
       "headline": "Bill Bellamy to Receive Icon Award at Whats Funny Comedy Festival, Co-Founded by Lil Rel Howery",
-      "snapshot": "Hollywood coverage is updating with 7 current RSS headline item(s).",
+      "snapshot": "Hollywood coverage is updating with 6 current RSS headline item(s).",
       "key_storylines": [
         "Bill Bellamy to Receive Icon Award at Whats Funny Comedy Festival, Co-Founded by Lil Rel Howery",
         "Nikki Glaser Signs With WME",
-        "The Best Student Discounts on Streaming Services, Subscriptions and Tech",
+        "‘Camp Rock 3’ Director on Bringing the Jonas Brothers Back — and Those Surprise Star Cameos",
         "Why Is the American Film Industry Located in Hollywood? - Encyclopedia Britannica",
-        "‘Spider-Man: Brand New Day’ Second-Fastest Film To Cross $1B At Int’l Box Office, With Global At $1.67B; ‘PAW Patrol: The Dino Movie’ Opens With $25M"
+        "The Best Student Discounts on Streaming Services, Subscriptions and Tech"
       ],
       "watch_list": [
         "Bill Bellamy to Receive Icon Award at Whats Funny Comedy Festival, Co-Founded by Lil Rel Howery",
         "Nikki Glaser Signs With WME",
-        "The Best Student Discounts on Streaming Services, Subscriptions and Tech",
+        "‘Camp Rock 3’ Director on Bringing the Jonas Brothers Back — and Those Surprise Star Cameos",
         "Why Is the American Film Industry Located in Hollywood? - Encyclopedia Britannica",
-        "‘Spider-Man: Brand New Day’ Second-Fastest Film To Cross $1B At Int’l Box Office, With Global At $1.67B; ‘PAW Patrol: The Dino Movie’ Opens With $25M",
-        "Patina Miller and ‘Raising Kanan’ Boss Sascha Penn on Closing Their Tragic Chapter in the ‘Power’ Universe: “This Ending Always Made Sense to Me”",
-        "The Future Of Young Hollywood Is Bright, Thanks To These Rising Stars - Refinery29"
+        "The Best Student Discounts on Streaming Services, Subscriptions and Tech",
+        "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University"
       ],
       "homepage_cards": [
         {
-          "id": "hollywood-0-3258727571707178803",
-          "key": "hollywood-0-3258727571707178803",
+          "id": "hollywood-0-5164300445091655139",
+          "key": "hollywood-0-5164300445091655139",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Bill Bellamy to Receive Icon Award at Whats Funny Comedy Festival, Co-Founded by Lil Rel Howery",
@@ -3642,8 +3641,8 @@
           ]
         },
         {
-          "id": "hollywood-1-9193588231033208985",
-          "key": "hollywood-1-9193588231033208985",
+          "id": "hollywood-1-9022846752402037746",
+          "key": "hollywood-1-9022846752402037746",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Nikki Glaser Signs With WME",
@@ -3670,8 +3669,64 @@
           ]
         },
         {
-          "id": "hollywood-3-3603204300034239935",
-          "key": "hollywood-3-3603204300034239935",
+          "id": "hollywood-2-5000206011688896966",
+          "key": "hollywood-2-5000206011688896966",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "‘Camp Rock 3’ Director on Bringing the Jonas Brothers Back — and Those Surprise Star Cameos",
+          "title": "‘Camp Rock 3’ Director on Bringing the Jonas Brothers Back — and Those Surprise Star Cameos",
+          "snapshot": "Director Veronica Rodriguez talks about how she kept the tone of the original with an updated vibe for the summer camp-set story, which stars hot up-and-comers Liamani Segura and Malachi Barton.",
+          "summary": "Director Veronica Rodriguez talks about how she kept the tone of the original with an updated vibe for the summer camp-set story, which stars hot up-and-comers Liamani Segura and Malachi Barton.",
+          "url": "https://www.hollywoodreporter.com/tv/tv-features/camp-rock-3-jonas-brothers-demi-lovato-milo-manheim-1236670313/",
+          "source": "The Hollywood Reporter",
+          "source_name": "The Hollywood Reporter",
+          "source_feed": "https://www.hollywoodreporter.com/feed/",
+          "published_at": "2026-08-11 12:02:20 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 98,
+          "key_data": [
+            "‘Camp Rock 3’ Director on Bringing the Jonas Brothers Back — and Those Surprise Star Cameos"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-5-357553775391667665",
+          "key": "hollywood-5-357553775391667665",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "Why Is the American Film Industry Located in Hollywood? - Encyclopedia Britannica",
+          "title": "Why Is the American Film Industry Located in Hollywood? - Encyclopedia Britannica",
+          "snapshot": "Why Is the American Film Industry Located in Hollywood? Encyclopedia Britannica",
+          "summary": "Why Is the American Film Industry Located in Hollywood? Encyclopedia Britannica",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTzFTYnFmMTYwTjFrR1ZLVDFudGtUTTBwVTNMMVRRRWlKOHA1RjFVT21Xams5MEx0eUFES05ybTRtTTFnd0pMZDQ0VlR4MEtpTGZTWjhBR1dXZjZ4SkVzRVhKNU54ek1tSXUtM1Rla3hxV3ZDT2g1elVQbUNCUk8xbzMzSVhnakJvOEcweXFB?oc=5",
+          "source": "Google News",
+          "source_name": "Google News",
+          "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-06 01:00:00 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 95,
+          "key_data": [
+            "Why Is the American Film Industry Located in Hollywood? - Encyclopedia Britannica"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-3-3364947389574300286",
+          "key": "hollywood-3-3364947389574300286",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "The Best Student Discounts on Streaming Services, Subscriptions and Tech",
@@ -3698,109 +3753,25 @@
           ]
         },
         {
-          "id": "hollywood-6-6509908766260679299",
-          "key": "hollywood-6-6509908766260679299",
+          "id": "hollywood-6-7099221342838277290",
+          "key": "hollywood-6-7099221342838277290",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Why Is the American Film Industry Located in Hollywood? - Encyclopedia Britannica",
-          "title": "Why Is the American Film Industry Located in Hollywood? - Encyclopedia Britannica",
-          "snapshot": "Why Is the American Film Industry Located in Hollywood? Encyclopedia Britannica",
-          "summary": "Why Is the American Film Industry Located in Hollywood? Encyclopedia Britannica",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTzFTYnFmMTYwTjFrR1ZLVDFudGtUTTBwVTNMMVRRRWlKOHA1RjFVT21Xams5MEx0eUFES05ybTRtTTFnd0pMZDQ0VlR4MEtpTGZTWjhBR1dXZjZ4SkVzRVhKNU54ek1tSXUtM1Rla3hxV3ZDT2g1elVQbUNCUk8xbzMzSVhnakJvOEcweXFB?oc=5",
+          "headline": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
+          "title": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
+          "snapshot": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders Elon University",
+          "summary": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders Elon University",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdTdlVmlNeVpYR2tFTGFmcjZvU3JWT1FKV0xCbnRUX3Uxc3JvYy04VXNtSHBLVjNQX0RWTmRhYXpwQzlXY1NpZm16WnYzX0Nyb0J5cjlSeWlwbkRadDR4RlFfc2l0UTlxUjVOTVQ0OWRuTmJWd1NERkRIQUZOX1M0ZnNEendVbEE0amZzWGlEZm9fRWNQeDNBYlFWOVI5V3d4cEp3MENIVTBCQ2c2dDdZNEpPQQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-06 01:00:00 AM ET",
+          "published_at": "2026-08-05 06:22:48 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 94,
           "key_data": [
-            "Why Is the American Film Industry Located in Hollywood? - Encyclopedia Britannica"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "hollywood-2-7646568987663101550",
-          "key": "hollywood-2-7646568987663101550",
-          "category": "Hollywood",
-          "label": "Hollywood",
-          "headline": "‘Spider-Man: Brand New Day’ Second-Fastest Film To Cross $1B At Int’l Box Office, With Global At $1.67B; ‘PAW Patrol: The Dino Movie’ Opens With $25M",
-          "title": "‘Spider-Man: Brand New Day’ Second-Fastest Film To Cross $1B At Int’l Box Office, With Global At $1.67B; ‘PAW Patrol: The Dino Movie’ Opens With $25M",
-          "snapshot": "MONDAY WRITETHRU UPDATE: The global box office is humming with Sony/Marvel Studios’ Spider-Man: Brand New Day crossing the $1 billion threshold abroad in 12 days of release, the second-fastest to do so after Avengers: Endgame. The Destin Daniel Cretton movie is now the 12th highest-grossing ever at the worldwide box...",
-          "summary": "MONDAY WRITETHRU UPDATE: The global box office is humming with Sony/Marvel Studios’ Spider-Man: Brand New Day crossing the $1 billion threshold abroad in 12 days of release, the second-fastest to do so after Avengers: Endgame. The Destin Daniel Cretton movie is now the 12th highest-grossing ever at the worldwide box...",
-          "url": "https://deadline.com/2026/08/box-office-global-spider-man-brand-new-day-foreign-record-1237029582/",
-          "source": "Deadline",
-          "source_name": "Deadline",
-          "source_feed": "https://deadline.com/feed/",
-          "published_at": "2026-08-10 04:54:00 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 98,
-          "key_data": [
-            "‘Spider-Man: Brand New Day’ Second-Fastest Film To Cross $1B At Int’l Box Office, With Global At $1.67B; ‘PAW Patrol: The Dino Movie’ Opens With $25M"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "hollywood-4-5112157284440854486",
-          "key": "hollywood-4-5112157284440854486",
-          "category": "Hollywood",
-          "label": "Hollywood",
-          "headline": "Patina Miller and ‘Raising Kanan’ Boss Sascha Penn on Closing Their Tragic Chapter in the ‘Power’ Universe: “This Ending Always Made Sense to Me”",
-          "title": "Patina Miller and ‘Raising Kanan’ Boss Sascha Penn on Closing Their Tragic Chapter in the ‘Power’ Universe: “This Ending Always Made Sense to Me”",
-          "snapshot": "Miller confirms Raq's fate in the final episode of 'Power Book III: Raising Kanan,' while Penn explains his decisions and wonders why the Emmys haven't yet recognized his cast: \"The work speaks for itself.\"",
-          "summary": "Miller confirms Raq's fate in the final episode of 'Power Book III: Raising Kanan,' while Penn explains his decisions and wonders why the Emmys haven't yet recognized his cast: \"The work speaks for itself.\"",
-          "url": "https://www.hollywoodreporter.com/tv/tv-features/raising-kanan-finale-raq-fate-patina-miller-sascha-penn-1236670642/",
-          "source": "The Hollywood Reporter",
-          "source_name": "The Hollywood Reporter",
-          "source_feed": "https://www.hollywoodreporter.com/feed/",
-          "published_at": "2026-08-10 09:07:48 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 96,
-          "key_data": [
-            "Patina Miller and ‘Raising Kanan’ Boss Sascha Penn on Closing Their Tragic Chapter in the ‘Power’ Universe: “This Ending Always Made Sense to Me”"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "hollywood-7-5245210522137467319",
-          "key": "hollywood-7-5245210522137467319",
-          "category": "Hollywood",
-          "label": "Hollywood",
-          "headline": "The Future Of Young Hollywood Is Bright, Thanks To These Rising Stars - Refinery29",
-          "title": "The Future Of Young Hollywood Is Bright, Thanks To These Rising Stars - Refinery29",
-          "snapshot": "The Future Of Young Hollywood Is Bright, Thanks To These Rising Stars Refinery29",
-          "summary": "The Future Of Young Hollywood Is Bright, Thanks To These Rising Stars Refinery29",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUXViM3J1d3B6emU2MUFUblNCU2xQNlFKaG1qYngyaUxFQUZQckpWRkJseHZmOXBMLWp6TkVUYjBRelhUV282TVN1WGY5YmpZQm1Uck5vZXB2bnU0U2xXZXcwUEMwRzhVcHk4X0FDQ1VpZzVnQ01GSXhSSEVGWVdvdzVCYjFQbVg5M1pqaFFJdVdaTFA5ZmU3cjR1VnpUT2FTSEhEWnlVSGE4OE9QSmc0Zmk3SQ?oc=5",
-          "source": "Google News",
-          "source_name": "Google News",
-          "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-10 12:59:00 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 93,
-          "key_data": [
-            "The Future Of Young Hollywood Is Bright, Thanks To These Rising Stars - Refinery29"
+            "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3812,8 +3783,8 @@
       ],
       "items": [
         {
-          "id": "hollywood-0-3258727571707178803",
-          "key": "hollywood-0-3258727571707178803",
+          "id": "hollywood-0-5164300445091655139",
+          "key": "hollywood-0-5164300445091655139",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Bill Bellamy to Receive Icon Award at Whats Funny Comedy Festival, Co-Founded by Lil Rel Howery",
@@ -3840,8 +3811,8 @@
           ]
         },
         {
-          "id": "hollywood-1-9193588231033208985",
-          "key": "hollywood-1-9193588231033208985",
+          "id": "hollywood-1-9022846752402037746",
+          "key": "hollywood-1-9022846752402037746",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Nikki Glaser Signs With WME",
@@ -3868,8 +3839,64 @@
           ]
         },
         {
-          "id": "hollywood-3-3603204300034239935",
-          "key": "hollywood-3-3603204300034239935",
+          "id": "hollywood-2-5000206011688896966",
+          "key": "hollywood-2-5000206011688896966",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "‘Camp Rock 3’ Director on Bringing the Jonas Brothers Back — and Those Surprise Star Cameos",
+          "title": "‘Camp Rock 3’ Director on Bringing the Jonas Brothers Back — and Those Surprise Star Cameos",
+          "snapshot": "Director Veronica Rodriguez talks about how she kept the tone of the original with an updated vibe for the summer camp-set story, which stars hot up-and-comers Liamani Segura and Malachi Barton.",
+          "summary": "Director Veronica Rodriguez talks about how she kept the tone of the original with an updated vibe for the summer camp-set story, which stars hot up-and-comers Liamani Segura and Malachi Barton.",
+          "url": "https://www.hollywoodreporter.com/tv/tv-features/camp-rock-3-jonas-brothers-demi-lovato-milo-manheim-1236670313/",
+          "source": "The Hollywood Reporter",
+          "source_name": "The Hollywood Reporter",
+          "source_feed": "https://www.hollywoodreporter.com/feed/",
+          "published_at": "2026-08-11 12:02:20 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 98,
+          "key_data": [
+            "‘Camp Rock 3’ Director on Bringing the Jonas Brothers Back — and Those Surprise Star Cameos"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-5-357553775391667665",
+          "key": "hollywood-5-357553775391667665",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "Why Is the American Film Industry Located in Hollywood? - Encyclopedia Britannica",
+          "title": "Why Is the American Film Industry Located in Hollywood? - Encyclopedia Britannica",
+          "snapshot": "Why Is the American Film Industry Located in Hollywood? Encyclopedia Britannica",
+          "summary": "Why Is the American Film Industry Located in Hollywood? Encyclopedia Britannica",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTzFTYnFmMTYwTjFrR1ZLVDFudGtUTTBwVTNMMVRRRWlKOHA1RjFVT21Xams5MEx0eUFES05ybTRtTTFnd0pMZDQ0VlR4MEtpTGZTWjhBR1dXZjZ4SkVzRVhKNU54ek1tSXUtM1Rla3hxV3ZDT2g1elVQbUNCUk8xbzMzSVhnakJvOEcweXFB?oc=5",
+          "source": "Google News",
+          "source_name": "Google News",
+          "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-06 01:00:00 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 95,
+          "key_data": [
+            "Why Is the American Film Industry Located in Hollywood? - Encyclopedia Britannica"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-3-3364947389574300286",
+          "key": "hollywood-3-3364947389574300286",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "The Best Student Discounts on Streaming Services, Subscriptions and Tech",
@@ -3896,109 +3923,25 @@
           ]
         },
         {
-          "id": "hollywood-6-6509908766260679299",
-          "key": "hollywood-6-6509908766260679299",
+          "id": "hollywood-6-7099221342838277290",
+          "key": "hollywood-6-7099221342838277290",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Why Is the American Film Industry Located in Hollywood? - Encyclopedia Britannica",
-          "title": "Why Is the American Film Industry Located in Hollywood? - Encyclopedia Britannica",
-          "snapshot": "Why Is the American Film Industry Located in Hollywood? Encyclopedia Britannica",
-          "summary": "Why Is the American Film Industry Located in Hollywood? Encyclopedia Britannica",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTzFTYnFmMTYwTjFrR1ZLVDFudGtUTTBwVTNMMVRRRWlKOHA1RjFVT21Xams5MEx0eUFES05ybTRtTTFnd0pMZDQ0VlR4MEtpTGZTWjhBR1dXZjZ4SkVzRVhKNU54ek1tSXUtM1Rla3hxV3ZDT2g1elVQbUNCUk8xbzMzSVhnakJvOEcweXFB?oc=5",
+          "headline": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
+          "title": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
+          "snapshot": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders Elon University",
+          "summary": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders Elon University",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdTdlVmlNeVpYR2tFTGFmcjZvU3JWT1FKV0xCbnRUX3Uxc3JvYy04VXNtSHBLVjNQX0RWTmRhYXpwQzlXY1NpZm16WnYzX0Nyb0J5cjlSeWlwbkRadDR4RlFfc2l0UTlxUjVOTVQ0OWRuTmJWd1NERkRIQUZOX1M0ZnNEendVbEE0amZzWGlEZm9fRWNQeDNBYlFWOVI5V3d4cEp3MENIVTBCQ2c2dDdZNEpPQQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-06 01:00:00 AM ET",
+          "published_at": "2026-08-05 06:22:48 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 94,
           "key_data": [
-            "Why Is the American Film Industry Located in Hollywood? - Encyclopedia Britannica"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "hollywood-2-7646568987663101550",
-          "key": "hollywood-2-7646568987663101550",
-          "category": "Hollywood",
-          "label": "Hollywood",
-          "headline": "‘Spider-Man: Brand New Day’ Second-Fastest Film To Cross $1B At Int’l Box Office, With Global At $1.67B; ‘PAW Patrol: The Dino Movie’ Opens With $25M",
-          "title": "‘Spider-Man: Brand New Day’ Second-Fastest Film To Cross $1B At Int’l Box Office, With Global At $1.67B; ‘PAW Patrol: The Dino Movie’ Opens With $25M",
-          "snapshot": "MONDAY WRITETHRU UPDATE: The global box office is humming with Sony/Marvel Studios’ Spider-Man: Brand New Day crossing the $1 billion threshold abroad in 12 days of release, the second-fastest to do so after Avengers: Endgame. The Destin Daniel Cretton movie is now the 12th highest-grossing ever at the worldwide box...",
-          "summary": "MONDAY WRITETHRU UPDATE: The global box office is humming with Sony/Marvel Studios’ Spider-Man: Brand New Day crossing the $1 billion threshold abroad in 12 days of release, the second-fastest to do so after Avengers: Endgame. The Destin Daniel Cretton movie is now the 12th highest-grossing ever at the worldwide box...",
-          "url": "https://deadline.com/2026/08/box-office-global-spider-man-brand-new-day-foreign-record-1237029582/",
-          "source": "Deadline",
-          "source_name": "Deadline",
-          "source_feed": "https://deadline.com/feed/",
-          "published_at": "2026-08-10 04:54:00 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 98,
-          "key_data": [
-            "‘Spider-Man: Brand New Day’ Second-Fastest Film To Cross $1B At Int’l Box Office, With Global At $1.67B; ‘PAW Patrol: The Dino Movie’ Opens With $25M"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "hollywood-4-5112157284440854486",
-          "key": "hollywood-4-5112157284440854486",
-          "category": "Hollywood",
-          "label": "Hollywood",
-          "headline": "Patina Miller and ‘Raising Kanan’ Boss Sascha Penn on Closing Their Tragic Chapter in the ‘Power’ Universe: “This Ending Always Made Sense to Me”",
-          "title": "Patina Miller and ‘Raising Kanan’ Boss Sascha Penn on Closing Their Tragic Chapter in the ‘Power’ Universe: “This Ending Always Made Sense to Me”",
-          "snapshot": "Miller confirms Raq's fate in the final episode of 'Power Book III: Raising Kanan,' while Penn explains his decisions and wonders why the Emmys haven't yet recognized his cast: \"The work speaks for itself.\"",
-          "summary": "Miller confirms Raq's fate in the final episode of 'Power Book III: Raising Kanan,' while Penn explains his decisions and wonders why the Emmys haven't yet recognized his cast: \"The work speaks for itself.\"",
-          "url": "https://www.hollywoodreporter.com/tv/tv-features/raising-kanan-finale-raq-fate-patina-miller-sascha-penn-1236670642/",
-          "source": "The Hollywood Reporter",
-          "source_name": "The Hollywood Reporter",
-          "source_feed": "https://www.hollywoodreporter.com/feed/",
-          "published_at": "2026-08-10 09:07:48 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 96,
-          "key_data": [
-            "Patina Miller and ‘Raising Kanan’ Boss Sascha Penn on Closing Their Tragic Chapter in the ‘Power’ Universe: “This Ending Always Made Sense to Me”"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "hollywood-7-5245210522137467319",
-          "key": "hollywood-7-5245210522137467319",
-          "category": "Hollywood",
-          "label": "Hollywood",
-          "headline": "The Future Of Young Hollywood Is Bright, Thanks To These Rising Stars - Refinery29",
-          "title": "The Future Of Young Hollywood Is Bright, Thanks To These Rising Stars - Refinery29",
-          "snapshot": "The Future Of Young Hollywood Is Bright, Thanks To These Rising Stars Refinery29",
-          "summary": "The Future Of Young Hollywood Is Bright, Thanks To These Rising Stars Refinery29",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUXViM3J1d3B6emU2MUFUblNCU2xQNlFKaG1qYngyaUxFQUZQckpWRkJseHZmOXBMLWp6TkVUYjBRelhUV282TVN1WGY5YmpZQm1Uck5vZXB2bnU0U2xXZXcwUEMwRzhVcHk4X0FDQ1VpZzVnQ01GSXhSSEVGWVdvdzVCYjFQbVg5M1pqaFFJdVdaTFA5ZmU3cjR1VnpUT2FTSEhEWnlVSGE4OE9QSmc0Zmk3SQ?oc=5",
-          "source": "Google News",
-          "source_name": "Google News",
-          "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-10 12:59:00 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 93,
-          "key_data": [
-            "The Future Of Young Hollywood Is Bright, Thanks To These Rising Stars - Refinery29"
+            "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4008,7 +3951,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-10 11:45:23 PM ET"
+      "updated_at": "2026-08-11 01:09:51 AM ET"
     },
     {
       "key": "gaming",
@@ -4018,18 +3961,18 @@
       "snapshot": "Gaming coverage is updating with 3 current RSS headline item(s).",
       "key_storylines": [
         "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game",
-        "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem - washingtonpost.com",
+        "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem - The Washington Post",
         "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes"
       ],
       "watch_list": [
         "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game",
-        "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem - washingtonpost.com",
+        "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem - The Washington Post",
         "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes"
       ],
       "homepage_cards": [
         {
-          "id": "gaming-0-2341261965262492313",
-          "key": "gaming-0-2341261965262492313",
+          "id": "gaming-0-7988266048789013018",
+          "key": "gaming-0-7988266048789013018",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game",
@@ -4056,14 +3999,14 @@
           ]
         },
         {
-          "id": "gaming-20-6459621671798696647",
-          "key": "gaming-20-6459621671798696647",
+          "id": "gaming-20-3134779973428223585",
+          "key": "gaming-20-3134779973428223585",
           "category": "Gaming",
           "label": "Gaming",
-          "headline": "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem - washingtonpost.com",
-          "title": "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem - washingtonpost.com",
-          "snapshot": "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem washingtonpost.com",
-          "summary": "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem washingtonpost.com",
+          "headline": "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem - The Washington Post",
+          "title": "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem - The Washington Post",
+          "snapshot": "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem The Washington Post",
+          "summary": "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbS1tN1Rtcl9jUXA0cFVXX045czdjUDByanFTcjd3RFVLaUJ0M0RtNHh1b3BPQXc2Y3hjMklnT2JyTmJXeUlTOEtXN1FyaVlPUUtRTFhPSnIxNG5PUWpfaFJLQ3NHUWhRQnJLdnpNRmJUbXdzb2p5V2dOck9jb1o5bzh2d0lYUFNYZVE1ZHRBSUZjTktOTFNRQmdsdFRzNmFRZjB3OEdxSzZ3UmxHQnFNOTVDU2tTU20yRW1VcGg1NGwtX0puQVE?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -4074,7 +4017,7 @@
           "story_type": "rss_headline",
           "priority_score": 80,
           "key_data": [
-            "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem - washingtonpost.com"
+            "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem - The Washington Post"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4084,8 +4027,8 @@
           ]
         },
         {
-          "id": "gaming-1-675659202137603239",
-          "key": "gaming-1-675659202137603239",
+          "id": "gaming-1-4432430811049350185",
+          "key": "gaming-1-4432430811049350185",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes",
@@ -4114,8 +4057,8 @@
       ],
       "items": [
         {
-          "id": "gaming-0-2341261965262492313",
-          "key": "gaming-0-2341261965262492313",
+          "id": "gaming-0-7988266048789013018",
+          "key": "gaming-0-7988266048789013018",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game",
@@ -4142,14 +4085,14 @@
           ]
         },
         {
-          "id": "gaming-20-6459621671798696647",
-          "key": "gaming-20-6459621671798696647",
+          "id": "gaming-20-3134779973428223585",
+          "key": "gaming-20-3134779973428223585",
           "category": "Gaming",
           "label": "Gaming",
-          "headline": "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem - washingtonpost.com",
-          "title": "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem - washingtonpost.com",
-          "snapshot": "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem washingtonpost.com",
-          "summary": "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem washingtonpost.com",
+          "headline": "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem - The Washington Post",
+          "title": "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem - The Washington Post",
+          "snapshot": "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem The Washington Post",
+          "summary": "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbS1tN1Rtcl9jUXA0cFVXX045czdjUDByanFTcjd3RFVLaUJ0M0RtNHh1b3BPQXc2Y3hjMklnT2JyTmJXeUlTOEtXN1FyaVlPUUtRTFhPSnIxNG5PUWpfaFJLQ3NHUWhRQnJLdnpNRmJUbXdzb2p5V2dOck9jb1o5bzh2d0lYUFNYZVE1ZHRBSUZjTktOTFNRQmdsdFRzNmFRZjB3OEdxSzZ3UmxHQnFNOTVDU2tTU20yRW1VcGg1NGwtX0puQVE?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -4160,7 +4103,7 @@
           "story_type": "rss_headline",
           "priority_score": 80,
           "key_data": [
-            "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem - washingtonpost.com"
+            "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem - The Washington Post"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4170,8 +4113,8 @@
           ]
         },
         {
-          "id": "gaming-1-675659202137603239",
-          "key": "gaming-1-675659202137603239",
+          "id": "gaming-1-4432430811049350185",
+          "key": "gaming-1-4432430811049350185",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes",
@@ -4198,7 +4141,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-10 11:45:24 PM ET"
+      "updated_at": "2026-08-11 01:09:52 AM ET"
     },
     {
       "key": "media",
@@ -4222,8 +4165,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "media-0-2905872462661819720",
-          "key": "media-0-2905872462661819720",
+          "id": "media-0-1824099888554415534",
+          "key": "media-0-1824099888554415534",
           "category": "Media",
           "label": "Media",
           "headline": "Mark Zuckerberg Says He’s Surprised the ‘Discourse’ From AI Companies ‘Is So Filled With Doom’",
@@ -4250,8 +4193,8 @@
           ]
         },
         {
-          "id": "media-9-7082804560558977648",
-          "key": "media-9-7082804560558977648",
+          "id": "media-9-865125292354638674",
+          "key": "media-9-865125292354638674",
           "category": "Media",
           "label": "Media",
           "headline": "CAA Signs Ashley Gill & Grant Gibbs Of Musical Comedy Duo A Twink And A Redhead",
@@ -4278,8 +4221,8 @@
           ]
         },
         {
-          "id": "media-20-7490028704106096443",
-          "key": "media-20-7490028704106096443",
+          "id": "media-20-7731905249559112170",
+          "key": "media-20-7731905249559112170",
           "category": "Media",
           "label": "Media",
           "headline": "Cynopsis 8/10/2026: The Media And Entertainment Industry Is Creating Jobs - Cynopsis",
@@ -4306,8 +4249,8 @@
           ]
         },
         {
-          "id": "media-1-4791212113089414337",
-          "key": "media-1-4791212113089414337",
+          "id": "media-1-5783834826380448194",
+          "key": "media-1-5783834826380448194",
           "category": "Media",
           "label": "Media",
           "headline": "Bozoma Saint John Signs With CAA (EXCLUSIVE)",
@@ -4334,8 +4277,8 @@
           ]
         },
         {
-          "id": "media-10-8024612230433376054",
-          "key": "media-10-8024612230433376054",
+          "id": "media-10-3991616471622889655",
+          "key": "media-10-3991616471622889655",
           "category": "Media",
           "label": "Media",
           "headline": "Jerry Katzman Dies: Former WMA President Was 89",
@@ -4364,8 +4307,8 @@
       ],
       "items": [
         {
-          "id": "media-0-2905872462661819720",
-          "key": "media-0-2905872462661819720",
+          "id": "media-0-1824099888554415534",
+          "key": "media-0-1824099888554415534",
           "category": "Media",
           "label": "Media",
           "headline": "Mark Zuckerberg Says He’s Surprised the ‘Discourse’ From AI Companies ‘Is So Filled With Doom’",
@@ -4392,8 +4335,8 @@
           ]
         },
         {
-          "id": "media-9-7082804560558977648",
-          "key": "media-9-7082804560558977648",
+          "id": "media-9-865125292354638674",
+          "key": "media-9-865125292354638674",
           "category": "Media",
           "label": "Media",
           "headline": "CAA Signs Ashley Gill & Grant Gibbs Of Musical Comedy Duo A Twink And A Redhead",
@@ -4420,8 +4363,8 @@
           ]
         },
         {
-          "id": "media-20-7490028704106096443",
-          "key": "media-20-7490028704106096443",
+          "id": "media-20-7731905249559112170",
+          "key": "media-20-7731905249559112170",
           "category": "Media",
           "label": "Media",
           "headline": "Cynopsis 8/10/2026: The Media And Entertainment Industry Is Creating Jobs - Cynopsis",
@@ -4448,8 +4391,8 @@
           ]
         },
         {
-          "id": "media-1-4791212113089414337",
-          "key": "media-1-4791212113089414337",
+          "id": "media-1-5783834826380448194",
+          "key": "media-1-5783834826380448194",
           "category": "Media",
           "label": "Media",
           "headline": "Bozoma Saint John Signs With CAA (EXCLUSIVE)",
@@ -4476,8 +4419,8 @@
           ]
         },
         {
-          "id": "media-10-8024612230433376054",
-          "key": "media-10-8024612230433376054",
+          "id": "media-10-3991616471622889655",
+          "key": "media-10-3991616471622889655",
           "category": "Media",
           "label": "Media",
           "headline": "Jerry Katzman Dies: Former WMA President Was 89",
@@ -4504,7 +4447,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-10 11:45:26 PM ET"
+      "updated_at": "2026-08-11 01:09:54 AM ET"
     }
   ]
 }
