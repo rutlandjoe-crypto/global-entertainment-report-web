@@ -3,17 +3,17 @@
   "site": "Global Entertainment Report",
   "site_name": "Global Entertainment Report",
   "vertical": "Entertainment",
-  "headline": "George MacKay, Louisa Harland, Nathalie Emmanuel and Eric Kofi Abrefa Join 'The Animals' From 'Supacell' Star Calvin Demba (EXCLUSIVE)",
-  "snapshot": "Global Entertainment Report accepted 44 real RSS item(s) across 31 checked feed request(s).",
-  "generated_at": "2026-08-11 06:05:25 AM ET",
-  "updated_at": "2026-08-11 06:05:25 AM ET",
-  "published_at": "2026-08-11 06:05:25 AM ET",
+  "headline": "Monica Bellucci Has 'Never' Done Anything Like 'Ketticè': 'I Was on Set in My Pajamas with a Knife in My Hand and Slippers on My Feet'",
+  "snapshot": "Global Entertainment Report accepted 45 real RSS item(s) across 31 checked feed request(s).",
+  "generated_at": "2026-08-11 07:44:03 AM ET",
+  "updated_at": "2026-08-11 07:44:03 AM ET",
+  "published_at": "2026-08-11 07:44:03 AM ET",
   "source_mode": "live RSS ingestion",
   "freshness": {
     "max_item_age_hours": 336,
-    "accepted_real_items": 44,
+    "accepted_real_items": 45,
     "checked_feeds": 31,
-    "feeds_without_accepted_items": 8
+    "feeds_without_accepted_items": 7
   },
   "feed_audit": [
     {
@@ -222,9 +222,9 @@
       "final_url": "https://variety.com/v/film/box-office/feed/",
       "item_count": 10,
       "accepted_count": 2,
-      "rejected_count": 2,
+      "rejected_count": 1,
       "rejection_reasons": {
-        "duplicate-story": 2
+        "duplicate-story": 1
       }
     },
     {
@@ -236,8 +236,8 @@
       "accepted_count": 2,
       "rejected_count": 35,
       "rejection_reasons": {
-        "stale-over-336h": 33,
-        "duplicate-story": 2
+        "stale-over-336h": 32,
+        "duplicate-story": 3
       }
     },
     {
@@ -257,11 +257,11 @@
       "url": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
-      "item_count": 89,
+      "item_count": 92,
       "accepted_count": 2,
-      "rejected_count": 81,
+      "rejected_count": 85,
       "rejection_reasons": {
-        "stale-over-336h": 81
+        "stale-over-336h": 85
       }
     },
     {
@@ -270,10 +270,10 @@
       "status_code": "200",
       "final_url": "https://variety.com/feed/",
       "item_count": 10,
-      "accepted_count": 0,
-      "rejected_count": 10,
+      "accepted_count": 1,
+      "rejected_count": 9,
       "rejection_reasons": {
-        "duplicate-story": 10
+        "duplicate-story": 9
       }
     },
     {
@@ -307,10 +307,10 @@
       "final_url": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 94,
+      "rejected_count": 95,
       "rejection_reasons": {
         "duplicate-story": 1,
-        "stale-over-336h": 93
+        "stale-over-336h": 94
       }
     },
     {
@@ -342,8 +342,10 @@
       "final_url": "https://variety.com/v/biz/feed/",
       "item_count": 10,
       "accepted_count": 2,
-      "rejected_count": 0,
-      "rejection_reasons": {}
+      "rejected_count": 1,
+      "rejection_reasons": {
+        "duplicate-story": 1
+      }
     },
     {
       "category": "media",
@@ -374,33 +376,33 @@
   "substack_url": "https://globalentertainmentreport.substack.com/",
   "x_handle": "@GlobalSportsRp",
   "key_storylines": [
-    "George MacKay, Louisa Harland, Nathalie Emmanuel and Eric Kofi Abrefa Join 'The Animals' From 'Supacell' Star Calvin Demba (EXCLUSIVE)",
+    "Monica Bellucci Has 'Never' Done Anything Like 'Ketticè': 'I Was on Set in My Pajamas with a Knife in My Hand and Slippers on My Feet'",
     "Reggie Bannister Dies: 'Phantasm' Actor Was 80",
     "'The State of Us': Samuel Bottomley Breaks Callum Scott Howells Out of Hospice for One Final Hurrah in Edinburgh-Bound Indie (Exclusive Clip)",
-    "The Odyssey is now Christopher Nolan's highest-grossing movie ever - CBC",
+    "The Odyssey is now Christopher Nolan's highest-grossing movie ever - cbc.ca",
     "Laufey Reveals the One Thing She's Still Terrified of Doing Onstage",
-    "Halloween: The Game Refused Classification in Australia, So It Won't Be Sold in New Zealand Despite the Fact That's a Different Country",
-    "'House of the Dragon' Star Fabien Frankel Joins Short Film 'Love Unlimited' (EXCLUSIVE)",
+    "Saber CEO Admits 'Dig' at Gearbox Boss Randy Pitchford in New Game Trailer, Saying It's Payback for 'Shots at Embracer in Borderlands 4'",
+    "Films Boutique Nabs Mani Haghighi's 'I Deserve a Lover Whose Every Rise Sets Fiery Dooms Raging Across the Skies' Ahead of New York Premiere (EXCLUSIVE)",
     "Which Carley Fortune Books Are Getting Adapted? 'One Golden Summer,' 'This Summer Will Be Different' & More"
   ],
   "live_newsroom": [
     {
-      "id": "film-0-5925009083184746160",
-      "key": "film-0-5925009083184746160",
+      "id": "film-0-1401927501311794940",
+      "key": "film-0-1401927501311794940",
       "category": "Film",
       "label": "Film",
-      "headline": "George MacKay, Louisa Harland, Nathalie Emmanuel and Eric Kofi Abrefa Join 'The Animals' From 'Supacell' Star Calvin Demba (EXCLUSIVE)",
-      "title": "George MacKay, Louisa Harland, Nathalie Emmanuel and Eric Kofi Abrefa Join 'The Animals' From 'Supacell' Star Calvin Demba (EXCLUSIVE)",
-      "snapshot": "Calvin Demba, the British actor, writer and director best known on screen for the Netflix hit \"Supacell,\" has lined up an impressive cast list for his second short film behind the camera, \"The Animals.\" George MacKay (\"Rose of Nevada,\" \"Sense and Sensibility\") stars alongside Louisa Harland (\"Renegade Nell,\" \"Derry...",
-      "summary": "Calvin Demba, the British actor, writer and director best known on screen for the Netflix hit \"Supacell,\" has lined up an impressive cast list for his second short film behind the camera, \"The Animals.\" George MacKay (\"Rose of Nevada,\" \"Sense and Sensibility\") stars alongside Louisa Harland (\"Renegade Nell,\" \"Derry...",
-      "url": "https://variety.com/2026/film/global/george-mackay-louisa-harland-nathalie-emmanuel-the-animals-1236831878/",
+      "headline": "Monica Bellucci Has 'Never' Done Anything Like 'Ketticè': 'I Was on Set in My Pajamas with a Knife in My Hand and Slippers on My Feet'",
+      "title": "Monica Bellucci Has 'Never' Done Anything Like 'Ketticè': 'I Was on Set in My Pajamas with a Knife in My Hand and Slippers on My Feet'",
+      "snapshot": "Do you think Monica Bellucci has done it all? Think again. \"I've never done anything like that,\" she tells Variety about her role in \"Ketticè.\" Directed by Giovanni Tortorici, the film premiered at Locarno. \"I was on set in my pajamas with a knife in my hand and slippers on my feet. This woman has abandoned her […]",
+      "summary": "Do you think Monica Bellucci has done it all? Think again. \"I've never done anything like that,\" she tells Variety about her role in \"Ketticè.\" Directed by Giovanni Tortorici, the film premiered at Locarno. \"I was on set in my pajamas with a knife in my hand and slippers on my feet. This woman has abandoned her […]",
+      "url": "https://variety.com/2026/film/global/monica-bellucci-kettice-locarno-giovanni-tortorici-1236831849/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-11 05:30:28 AM ET",
+      "published_at": "2026-08-11 07:37:28 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "George MacKay, Louisa Harland, Nathalie Emmanuel and Eric Kofi Abrefa Join 'The Animals' From 'Supacell' Star Calvin Demba (EXCLUSIVE)"
+        "Monica Bellucci Has 'Never' Done Anything Like 'Ketticè': 'I Was on Set in My Pajamas with a Knife in My Hand and Slippers on My Feet'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -412,8 +414,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-4177761974544284567",
-      "key": "film-10-4177761974544284567",
+      "id": "film-10-6086799571070941720",
+      "key": "film-10-6086799571070941720",
       "category": "Film",
       "label": "Film",
       "headline": "Reggie Bannister Dies: 'Phantasm' Actor Was 80",
@@ -439,8 +441,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-7272804376431112401",
-      "key": "film-22-7272804376431112401",
+      "id": "film-22-2659269063067000991",
+      "key": "film-22-2659269063067000991",
       "category": "Film",
       "label": "Film",
       "headline": "'The State of Us': Samuel Bottomley Breaks Callum Scott Howells Out of Hospice for One Final Hurrah in Edinburgh-Bound Indie (Exclusive Clip)",
@@ -466,14 +468,14 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-2009969696915728018",
-      "key": "film-32-2009969696915728018",
+      "id": "film-32-1130387808671084920",
+      "key": "film-32-1130387808671084920",
       "category": "Film",
       "label": "Film",
-      "headline": "The Odyssey is now Christopher Nolan's highest-grossing movie ever - CBC",
-      "title": "The Odyssey is now Christopher Nolan's highest-grossing movie ever - CBC",
-      "snapshot": "The Odyssey is now Christopher Nolan's highest-grossing movie ever CBC",
-      "summary": "The Odyssey is now Christopher Nolan's highest-grossing movie ever CBC",
+      "headline": "The Odyssey is now Christopher Nolan's highest-grossing movie ever - cbc.ca",
+      "title": "The Odyssey is now Christopher Nolan's highest-grossing movie ever - cbc.ca",
+      "snapshot": "The Odyssey is now Christopher Nolan's highest-grossing movie ever cbc.ca",
+      "summary": "The Odyssey is now Christopher Nolan's highest-grossing movie ever cbc.ca",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEMUh6LW04bEk4TTlkR3hkVkM2c2VXWkd1ODNiSmRpdVV1dWV5WlFraWVEYjZia0ZBMHNyTUJ2TUZGVGE5Y1VFNnVzeGJsUVBVNGpkS245UzkwT0NWWENoWlhtTGN2TDFBV041VWJCQ3N3alQtUUJJeFNB?oc=5",
       "source": "Google News",
       "source_name": "Google News",
@@ -481,7 +483,7 @@
       "published_at": "2026-08-10 03:23:11 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "The Odyssey is now Christopher Nolan's highest-grossing movie ever - CBC"
+        "The Odyssey is now Christopher Nolan's highest-grossing movie ever - cbc.ca"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -493,8 +495,8 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-8302841683284334601",
-      "key": "music-10-8302841683284334601",
+      "id": "music-10-2936800038829057590",
+      "key": "music-10-2936800038829057590",
       "category": "Music",
       "label": "Music",
       "headline": "Laufey Reveals the One Thing She's Still Terrified of Doing Onstage",
@@ -520,22 +522,22 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-5953324084383540111",
-      "key": "gaming-0-5953324084383540111",
+      "id": "gaming-0-1634508282158959350",
+      "key": "gaming-0-1634508282158959350",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Halloween: The Game Refused Classification in Australia, So It Won't Be Sold in New Zealand Despite the Fact That's a Different Country",
-      "title": "Halloween: The Game Refused Classification in Australia, So It Won't Be Sold in New Zealand Despite the Fact That's a Different Country",
-      "snapshot": "The determination involves Australia's rules against having incentives for illicit drug use, but it's entirely unclear why it impacts NZ, or why Illfonic won't tweak its terminology to skirt the rules.",
-      "summary": "The determination involves Australia's rules against having incentives for illicit drug use, but it's entirely unclear why it impacts NZ, or why Illfonic won't tweak its terminology to skirt the rules.",
-      "url": "https://www.ign.com/articles/halloween-the-game-refused-classification-in-australia-so-it-wont-be-sold-in-new-zealand-despite-the-fact-thats-a-different-country",
+      "headline": "Saber CEO Admits 'Dig' at Gearbox Boss Randy Pitchford in New Game Trailer, Saying It's Payback for 'Shots at Embracer in Borderlands 4'",
+      "title": "Saber CEO Admits 'Dig' at Gearbox Boss Randy Pitchford in New Game Trailer, Saying It's Payback for 'Shots at Embracer in Borderlands 4'",
+      "snapshot": "Beef between two high-profile video game industry CEOs has bubbled over into the public domain, via a trailer for new taxi simulation game Rideshare Stimulator.",
+      "summary": "Beef between two high-profile video game industry CEOs has bubbled over into the public domain, via a trailer for new taxi simulation game Rideshare Stimulator.",
+      "url": "https://www.ign.com/articles/saber-ceo-admits-dig-at-gearbox-boss-randy-pitchford-in-new-game-trailer-saying-its-payback-for-shots-at-embracer-in-borderlands-4",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-11 02:50:47 AM ET",
+      "published_at": "2026-08-11 06:34:42 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Halloween: The Game Refused Classification in Australia, So It Won't Be Sold in New Zealand Despite the Fact That's a Different Country"
+        "Saber CEO Admits 'Dig' at Gearbox Boss Randy Pitchford in New Game Trailer, Saying It's Payback for 'Shots at Embracer in Borderlands 4'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -547,22 +549,22 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-310639033385868090",
-      "key": "film-1-310639033385868090",
+      "id": "film-1-3834533718225949616",
+      "key": "film-1-3834533718225949616",
       "category": "Film",
       "label": "Film",
-      "headline": "'House of the Dragon' Star Fabien Frankel Joins Short Film 'Love Unlimited' (EXCLUSIVE)",
-      "title": "'House of the Dragon' Star Fabien Frankel Joins Short Film 'Love Unlimited' (EXCLUSIVE)",
-      "snapshot": "Fabien Frankel, currently seen on screens as the dashing, honor-obsessed knight Ser Criston Cole in \"House of the Dragon,\" is ready to take on a very different role. The British actor is set to star in \"Love Unlimited,\" the debut short drama from actor Olivier Huband (\"A Discovery of Witches,\" \"Becoming Elizabeth\")....",
-      "summary": "Fabien Frankel, currently seen on screens as the dashing, honor-obsessed knight Ser Criston Cole in \"House of the Dragon,\" is ready to take on a very different role. The British actor is set to star in \"Love Unlimited,\" the debut short drama from actor Olivier Huband (\"A Discovery of Witches,\" \"Becoming Elizabeth\")....",
-      "url": "https://variety.com/2026/film/global/fabien-frankel-short-film-love-unlimited-1236831857/",
+      "headline": "Films Boutique Nabs Mani Haghighi's 'I Deserve a Lover Whose Every Rise Sets Fiery Dooms Raging Across the Skies' Ahead of New York Premiere (EXCLUSIVE)",
+      "title": "Films Boutique Nabs Mani Haghighi's 'I Deserve a Lover Whose Every Rise Sets Fiery Dooms Raging Across the Skies' Ahead of New York Premiere (EXCLUSIVE)",
+      "snapshot": "Berlin-based sales agency Films Boutique has acquired worldwide rights to Iranian filmmaker Mani Haghighi's documentary \"I Deserve a Lover Whose Every Rise Sets Fiery Dooms Raging Across the Skies,\" which is set to premiere at the New York Film Festival. Set between Tabriz and Tehran in the weeks between the 12-Day...",
+      "summary": "Berlin-based sales agency Films Boutique has acquired worldwide rights to Iranian filmmaker Mani Haghighi's documentary \"I Deserve a Lover Whose Every Rise Sets Fiery Dooms Raging Across the Skies,\" which is set to premiere at the New York Film Festival. Set between Tabriz and Tehran in the weeks between the 12-Day...",
+      "url": "https://variety.com/2026/film/global/films-boutique-mani-haghighi-new-york-film-festival-1236831895/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-11 04:58:20 AM ET",
+      "published_at": "2026-08-11 07:25:01 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'House of the Dragon' Star Fabien Frankel Joins Short Film 'Love Unlimited' (EXCLUSIVE)"
+        "Films Boutique Nabs Mani Haghighi's 'I Deserve a Lover Whose Every Rise Sets Fiery Dooms Raging Across the Skies' Ahead of New York Premiere (EXCLUSIVE)"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -574,8 +576,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-7142893287666925703",
-      "key": "film-11-7142893287666925703",
+      "id": "film-11-1400094377430970142",
+      "key": "film-11-1400094377430970142",
       "category": "Film",
       "label": "Film",
       "headline": "Which Carley Fortune Books Are Getting Adapted? 'One Golden Summer,' 'This Summer Will Be Different' & More",
@@ -601,8 +603,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-4378323459690437469",
-      "key": "film-23-4378323459690437469",
+      "id": "film-23-8730116624284729011",
+      "key": "film-23-8730116624284729011",
       "category": "Film",
       "label": "Film",
       "headline": "'The End of Oak Street': First Reactions",
@@ -628,8 +630,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-24966000443632560",
-      "key": "film-33-24966000443632560",
+      "id": "film-33-7851109234597378032",
+      "key": "film-33-7851109234597378032",
       "category": "Film",
       "label": "Film",
       "headline": "Fayetteville's CAMEO Collective builds on its movie theater roots - The Fayetteville Observer",
@@ -655,8 +657,8 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-6448530494416011808",
-      "key": "music-11-6448530494416011808",
+      "id": "music-11-4295936362479837708",
+      "key": "music-11-4295936362479837708",
       "category": "Music",
       "label": "Music",
       "headline": "aespa's Karina Makes Converse Debut by Modeling Two Distinct Footwear Styles: Shop Here",
@@ -682,22 +684,22 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-1368439967622591546",
-      "key": "gaming-1-1368439967622591546",
+      "id": "gaming-1-8254130583593105752",
+      "key": "gaming-1-8254130583593105752",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game",
-      "title": "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game",
-      "snapshot": "Grand Theft Auto 6 fans are pre-ordering the $100 Ultimate Edition more than the standard edition of the game.",
-      "summary": "Grand Theft Auto 6 fans are pre-ordering the $100 Ultimate Edition more than the standard edition of the game.",
-      "url": "https://www.ign.com/articles/gta-6-boss-says-more-people-are-pre-ordering-the-100-version-of-the-game",
+      "headline": "New, Temporary Time Attack Circuit Coming to Forza Horizon 6 for Four Weeks",
+      "title": "New, Temporary Time Attack Circuit Coming to Forza Horizon 6 for Four Weeks",
+      "snapshot": "The Horizon Mascot Party brings new cars, a new track, and new custom props.",
+      "summary": "The Horizon Mascot Party brings new cars, a new track, and new custom props.",
+      "url": "https://www.ign.com/articles/new-temporary-time-attack-circuit-coming-to-forza-horizon-6-for-four-weeks",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-10 06:14:28 PM ET",
+      "published_at": "2026-08-11 06:14:46 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game"
+        "New, Temporary Time Attack Circuit Coming to Forza Horizon 6 for Four Weeks"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -711,22 +713,22 @@
   ],
   "editor_signals": [
     {
-      "id": "film-2-3963683748700022083",
-      "key": "film-2-3963683748700022083",
+      "id": "film-2-7225564897014334788",
+      "key": "film-2-7225564897014334788",
       "category": "Film",
       "label": "Film",
-      "headline": "'Pacifiction' Director Albert Serra on His New Film 'Sixteen Moments of My Life' and Why He'd Love to Have Directed Elvis Presley",
-      "title": "'Pacifiction' Director Albert Serra on His New Film 'Sixteen Moments of My Life' and Why He'd Love to Have Directed Elvis Presley",
-      "snapshot": "Don't call Albert Serra's new film, \"Seize moments de ma vie\" (\"Sixteen Moments of My Life\"), a concert film. Premiering out of competition at the Locarno Film Festival, the film documents a one-off performance by screen legend Ingrid Caven at the Théâtre des Bouffes du Nord in Paris. \"I will never shoot a concert u...",
-      "summary": "Don't call Albert Serra's new film, \"Seize moments de ma vie\" (\"Sixteen Moments of My Life\"), a concert film. Premiering out of competition at the Locarno Film Festival, the film documents a one-off performance by screen legend Ingrid Caven at the Théâtre des Bouffes du Nord in Paris. \"I will never shoot a concert u...",
-      "url": "https://variety.com/2026/film/global/albert-serra-ingrid-caven-16-moments-of-my-life-locarno-1236831563/",
+      "headline": "George MacKay, Louisa Harland, Nathalie Emmanuel and Eric Kofi Abrefa Join 'The Animals' From 'Supacell' Star Calvin Demba (EXCLUSIVE)",
+      "title": "George MacKay, Louisa Harland, Nathalie Emmanuel and Eric Kofi Abrefa Join 'The Animals' From 'Supacell' Star Calvin Demba (EXCLUSIVE)",
+      "snapshot": "Calvin Demba, the British actor, writer and director best known on screen for the Netflix hit \"Supacell,\" has lined up an impressive cast list for his second short film behind the camera, \"The Animals.\" George MacKay (\"Rose of Nevada,\" \"Sense and Sensibility\") stars alongside Louisa Harland (\"Renegade Nell,\" \"Derry...",
+      "summary": "Calvin Demba, the British actor, writer and director best known on screen for the Netflix hit \"Supacell,\" has lined up an impressive cast list for his second short film behind the camera, \"The Animals.\" George MacKay (\"Rose of Nevada,\" \"Sense and Sensibility\") stars alongside Louisa Harland (\"Renegade Nell,\" \"Derry...",
+      "url": "https://variety.com/2026/film/global/george-mackay-louisa-harland-nathalie-emmanuel-the-animals-1236831878/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-11 03:09:38 AM ET",
+      "published_at": "2026-08-11 05:30:28 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Pacifiction' Director Albert Serra on His New Film 'Sixteen Moments of My Life' and Why He'd Love to Have Directed Elvis Presley"
+        "George MacKay, Louisa Harland, Nathalie Emmanuel and Eric Kofi Abrefa Join 'The Animals' From 'Supacell' Star Calvin Demba (EXCLUSIVE)"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -738,8 +740,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-4896111810003926041",
-      "key": "film-12-4896111810003926041",
+      "id": "film-12-8701482320820153412",
+      "key": "film-12-8701482320820153412",
       "category": "Film",
       "label": "Film",
       "headline": "Meet The New 'X-Men': See The Actors Who've Been Cast & The Characters They Play",
@@ -765,8 +767,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-8540847347128007491",
-      "key": "film-24-8540847347128007491",
+      "id": "film-24-8316678812175790706",
+      "key": "film-24-8316678812175790706",
       "category": "Film",
       "label": "Film",
       "headline": "'Congo Boy' Is an Autobiographical and Musical Refugee Drama. Its Director Has More in the Works.",
@@ -792,8 +794,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-8845331206870818845",
-      "key": "film-34-8845331206870818845",
+      "id": "film-34-707211185532730736",
+      "key": "film-34-707211185532730736",
       "category": "Film",
       "label": "Film",
       "headline": "The 35 best sci-fi movies of all time (August 2026) - Entertainment Weekly",
@@ -819,8 +821,8 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-7539822573005351692",
-      "key": "music-12-7539822573005351692",
+      "id": "music-12-4440563237688216252",
+      "key": "music-12-4440563237688216252",
       "category": "Music",
       "label": "Music",
       "headline": "Limp Bizkit to Headline Australia's Good Things Festival 2026",
@@ -846,22 +848,22 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-3997666488954778089",
-      "key": "gaming-2-3997666488954778089",
+      "id": "gaming-2-6376471548236904383",
+      "key": "gaming-2-6376471548236904383",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes",
-      "title": "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes",
-      "snapshot": "Kazuhisa Wada, producer for Atlus' P-Studio, says he \"can't say for sure\" if Persona 1 and 2 remakes are coming, but said they are still games he thinks \"we have to do.\"",
-      "summary": "Kazuhisa Wada, producer for Atlus' P-Studio, says he \"can't say for sure\" if Persona 1 and 2 remakes are coming, but said they are still games he thinks \"we have to do.\"",
-      "url": "https://www.ign.com/articles/atlus-producer-says-i-think-we-have-to-do-persona-1-and-2-remakes",
+      "headline": "'A Must-Have Day 1 Purchase': Remedy Bets Big on Control Resonant, as Alan Wake 2 Passes 3 Million Sold",
+      "title": "'A Must-Have Day 1 Purchase': Remedy Bets Big on Control Resonant, as Alan Wake 2 Passes 3 Million Sold",
+      "snapshot": "Alan Wake and Control developer Remedy is betting big on Control Resonant, as Alan Wake 2 finally passes 3 million copies sold.",
+      "summary": "Alan Wake and Control developer Remedy is betting big on Control Resonant, as Alan Wake 2 finally passes 3 million copies sold.",
+      "url": "https://www.ign.com/articles/a-must-have-day-1-purchase-remedy-bets-big-on-control-resonant-as-alan-wake-2-passes-3-million-sold",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-10 05:45:55 PM ET",
+      "published_at": "2026-08-11 05:26:08 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes"
+        "'A Must-Have Day 1 Purchase': Remedy Bets Big on Control Resonant, as Alan Wake 2 Passes 3 Million Sold"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -873,22 +875,22 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-3441189682436093903",
-      "key": "film-3-3441189682436093903",
+      "id": "film-3-9210678425803082501",
+      "key": "film-3-9210678425803082501",
       "category": "Film",
       "label": "Film",
-      "headline": "Locarno: The Filmmakers Behind 'Piluk,' From the National Film Board of Canada, Discuss the Language of Animation",
-      "title": "Locarno: The Filmmakers Behind 'Piluk,' From the National Film Board of Canada, Discuss the Language of Animation",
-      "snapshot": "With a world premiere in the Locarno Film Festival's Pardi di Domani selection of short and medium-length films, the filmmakers behind \"Piluk\" saw the production as a chance to tell a story with the simplest possible textures: pencil, paper and the human voice. Produced by Marc Bertrand and Jelena Popović of the Nat...",
-      "summary": "With a world premiere in the Locarno Film Festival's Pardi di Domani selection of short and medium-length films, the filmmakers behind \"Piluk\" saw the production as a chance to tell a story with the simplest possible textures: pencil, paper and the human voice. Produced by Marc Bertrand and Jelena Popović of the Nat...",
-      "url": "https://variety.com/2026/film/global/locarno-piluk-animation-national-film-board-of-canada-1236831733/",
+      "headline": "'House of the Dragon' Star Fabien Frankel Joins Short Film 'Love Unlimited' (EXCLUSIVE)",
+      "title": "'House of the Dragon' Star Fabien Frankel Joins Short Film 'Love Unlimited' (EXCLUSIVE)",
+      "snapshot": "Fabien Frankel, currently seen on screens as the dashing, honor-obsessed knight Ser Criston Cole in \"House of the Dragon,\" is ready to take on a very different role. The British actor is set to star in \"Love Unlimited,\" the debut short drama from actor Olivier Huband (\"A Discovery of Witches,\" \"Becoming Elizabeth\")....",
+      "summary": "Fabien Frankel, currently seen on screens as the dashing, honor-obsessed knight Ser Criston Cole in \"House of the Dragon,\" is ready to take on a very different role. The British actor is set to star in \"Love Unlimited,\" the debut short drama from actor Olivier Huband (\"A Discovery of Witches,\" \"Becoming Elizabeth\")....",
+      "url": "https://variety.com/2026/film/global/fabien-frankel-short-film-love-unlimited-1236831857/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-11 02:55:23 AM ET",
+      "published_at": "2026-08-11 04:58:20 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Locarno: The Filmmakers Behind 'Piluk,' From the National Film Board of Canada, Discuss the Language of Animation"
+        "'House of the Dragon' Star Fabien Frankel Joins Short Film 'Love Unlimited' (EXCLUSIVE)"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -900,8 +902,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-1679114982948252832",
-      "key": "film-13-1679114982948252832",
+      "id": "film-13-3679407260494348817",
+      "key": "film-13-3679407260494348817",
       "category": "Film",
       "label": "Film",
       "headline": "Jon Cypher Dies: 'Hill Street Blues' Police Chief, 'Major Dad' Regular & 'Masters Of The Universe' Ally Was 94",
@@ -927,8 +929,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-668047160984181661",
-      "key": "film-25-668047160984181661",
+      "id": "film-25-645119350923370280",
+      "key": "film-25-645119350923370280",
       "category": "Film",
       "label": "Film",
       "headline": "Ann Hui to Receive Busan Film Festival's Camellia Award",
@@ -954,14 +956,14 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-6539645615861904251",
-      "key": "film-35-6539645615861904251",
+      "id": "film-35-5880317528156852730",
+      "key": "film-35-5880317528156852730",
       "category": "Film",
       "label": "Film",
-      "headline": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire",
-      "title": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire",
-      "snapshot": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical IndieWire",
-      "summary": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical IndieWire",
+      "headline": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - indiewire.com",
+      "title": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - indiewire.com",
+      "snapshot": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical indiewire.com",
+      "summary": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical indiewire.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa2lwS3g2dWQySkhQVE9Zb09QeDJ3OVRLYXpHc0M0bzJPMXY4S0FaQXBhME1teHBnQnkzaXNfaUZJMGxNaE1KTFVXNkQwTmRLTF9vTWZOODVtY21yYUJFc1pqUnJib2FOc0IwWlFPWmt3X3hyZUw0MnlLVmkydkFJNE9pRlJtSjRpeUVSZlhB?oc=5",
       "source": "Google News",
       "source_name": "Google News",
@@ -969,7 +971,7 @@
       "published_at": "2026-08-07 01:17:11 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire"
+        "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - indiewire.com"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -981,8 +983,8 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-7836294282000348558",
-      "key": "music-13-7836294282000348558",
+      "id": "music-13-3031690914957272356",
+      "key": "music-13-3031690914957272356",
       "category": "Music",
       "label": "Music",
       "headline": "With Sophia Stepping Back From KATSEYE, Will the Global Girl Group Remain a Quartet?",
@@ -1008,22 +1010,22 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-3887525303490951865",
-      "key": "gaming-3-3887525303490951865",
+      "id": "gaming-3-1828563991274710419",
+      "key": "gaming-3-1828563991274710419",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Fields of Mistria Review So Far",
-      "title": "Fields of Mistria Review So Far",
-      "snapshot": "This fantasy farming sim takes place in a pastel pixel art world full of mythical creatures and magic.",
-      "summary": "This fantasy farming sim takes place in a pastel pixel art world full of mythical creatures and magic.",
-      "url": "https://www.ign.com/articles/fields-of-mistria-review",
+      "headline": "Halloween: The Game Refused Classification in Australia, So It Won't Be Sold in New Zealand Despite the Fact That's a Different Country",
+      "title": "Halloween: The Game Refused Classification in Australia, So It Won't Be Sold in New Zealand Despite the Fact That's a Different Country",
+      "snapshot": "The determination involves Australia's rules against having incentives for illicit drug use, but it's entirely unclear why it impacts NZ, or why Illfonic won't tweak its terminology to skirt the rules.",
+      "summary": "The determination involves Australia's rules against having incentives for illicit drug use, but it's entirely unclear why it impacts NZ, or why Illfonic won't tweak its terminology to skirt the rules.",
+      "url": "https://www.ign.com/articles/halloween-the-game-refused-classification-in-australia-so-it-wont-be-sold-in-new-zealand-despite-the-fact-thats-a-different-country",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-10 05:30:12 PM ET",
+      "published_at": "2026-08-11 02:50:47 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Fields of Mistria Review So Far"
+        "Halloween: The Game Refused Classification in Australia, So It Won't Be Sold in New Zealand Despite the Fact That's a Different Country"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1037,22 +1039,22 @@
   ],
   "homepage_cards": [
     {
-      "id": "film-0-5925009083184746160",
-      "key": "film-0-5925009083184746160",
+      "id": "film-0-1401927501311794940",
+      "key": "film-0-1401927501311794940",
       "category": "Film",
       "label": "Film",
-      "headline": "George MacKay, Louisa Harland, Nathalie Emmanuel and Eric Kofi Abrefa Join 'The Animals' From 'Supacell' Star Calvin Demba (EXCLUSIVE)",
-      "title": "George MacKay, Louisa Harland, Nathalie Emmanuel and Eric Kofi Abrefa Join 'The Animals' From 'Supacell' Star Calvin Demba (EXCLUSIVE)",
-      "snapshot": "Calvin Demba, the British actor, writer and director best known on screen for the Netflix hit \"Supacell,\" has lined up an impressive cast list for his second short film behind the camera, \"The Animals.\" George MacKay (\"Rose of Nevada,\" \"Sense and Sensibility\") stars alongside Louisa Harland (\"Renegade Nell,\" \"Derry...",
-      "summary": "Calvin Demba, the British actor, writer and director best known on screen for the Netflix hit \"Supacell,\" has lined up an impressive cast list for his second short film behind the camera, \"The Animals.\" George MacKay (\"Rose of Nevada,\" \"Sense and Sensibility\") stars alongside Louisa Harland (\"Renegade Nell,\" \"Derry...",
-      "url": "https://variety.com/2026/film/global/george-mackay-louisa-harland-nathalie-emmanuel-the-animals-1236831878/",
+      "headline": "Monica Bellucci Has 'Never' Done Anything Like 'Ketticè': 'I Was on Set in My Pajamas with a Knife in My Hand and Slippers on My Feet'",
+      "title": "Monica Bellucci Has 'Never' Done Anything Like 'Ketticè': 'I Was on Set in My Pajamas with a Knife in My Hand and Slippers on My Feet'",
+      "snapshot": "Do you think Monica Bellucci has done it all? Think again. \"I've never done anything like that,\" she tells Variety about her role in \"Ketticè.\" Directed by Giovanni Tortorici, the film premiered at Locarno. \"I was on set in my pajamas with a knife in my hand and slippers on my feet. This woman has abandoned her […]",
+      "summary": "Do you think Monica Bellucci has done it all? Think again. \"I've never done anything like that,\" she tells Variety about her role in \"Ketticè.\" Directed by Giovanni Tortorici, the film premiered at Locarno. \"I was on set in my pajamas with a knife in my hand and slippers on my feet. This woman has abandoned her […]",
+      "url": "https://variety.com/2026/film/global/monica-bellucci-kettice-locarno-giovanni-tortorici-1236831849/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-11 05:30:28 AM ET",
+      "published_at": "2026-08-11 07:37:28 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "George MacKay, Louisa Harland, Nathalie Emmanuel and Eric Kofi Abrefa Join 'The Animals' From 'Supacell' Star Calvin Demba (EXCLUSIVE)"
+        "Monica Bellucci Has 'Never' Done Anything Like 'Ketticè': 'I Was on Set in My Pajamas with a Knife in My Hand and Slippers on My Feet'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1064,8 +1066,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-4177761974544284567",
-      "key": "film-10-4177761974544284567",
+      "id": "film-10-6086799571070941720",
+      "key": "film-10-6086799571070941720",
       "category": "Film",
       "label": "Film",
       "headline": "Reggie Bannister Dies: 'Phantasm' Actor Was 80",
@@ -1091,8 +1093,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-7272804376431112401",
-      "key": "film-22-7272804376431112401",
+      "id": "film-22-2659269063067000991",
+      "key": "film-22-2659269063067000991",
       "category": "Film",
       "label": "Film",
       "headline": "'The State of Us': Samuel Bottomley Breaks Callum Scott Howells Out of Hospice for One Final Hurrah in Edinburgh-Bound Indie (Exclusive Clip)",
@@ -1118,14 +1120,14 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-2009969696915728018",
-      "key": "film-32-2009969696915728018",
+      "id": "film-32-1130387808671084920",
+      "key": "film-32-1130387808671084920",
       "category": "Film",
       "label": "Film",
-      "headline": "The Odyssey is now Christopher Nolan's highest-grossing movie ever - CBC",
-      "title": "The Odyssey is now Christopher Nolan's highest-grossing movie ever - CBC",
-      "snapshot": "The Odyssey is now Christopher Nolan's highest-grossing movie ever CBC",
-      "summary": "The Odyssey is now Christopher Nolan's highest-grossing movie ever CBC",
+      "headline": "The Odyssey is now Christopher Nolan's highest-grossing movie ever - cbc.ca",
+      "title": "The Odyssey is now Christopher Nolan's highest-grossing movie ever - cbc.ca",
+      "snapshot": "The Odyssey is now Christopher Nolan's highest-grossing movie ever cbc.ca",
+      "summary": "The Odyssey is now Christopher Nolan's highest-grossing movie ever cbc.ca",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEMUh6LW04bEk4TTlkR3hkVkM2c2VXWkd1ODNiSmRpdVV1dWV5WlFraWVEYjZia0ZBMHNyTUJ2TUZGVGE5Y1VFNnVzeGJsUVBVNGpkS245UzkwT0NWWENoWlhtTGN2TDFBV041VWJCQ3N3alQtUUJJeFNB?oc=5",
       "source": "Google News",
       "source_name": "Google News",
@@ -1133,7 +1135,7 @@
       "published_at": "2026-08-10 03:23:11 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "The Odyssey is now Christopher Nolan's highest-grossing movie ever - CBC"
+        "The Odyssey is now Christopher Nolan's highest-grossing movie ever - cbc.ca"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1145,8 +1147,8 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-8302841683284334601",
-      "key": "music-10-8302841683284334601",
+      "id": "music-10-2936800038829057590",
+      "key": "music-10-2936800038829057590",
       "category": "Music",
       "label": "Music",
       "headline": "Laufey Reveals the One Thing She's Still Terrified of Doing Onstage",
@@ -1172,22 +1174,22 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-5953324084383540111",
-      "key": "gaming-0-5953324084383540111",
+      "id": "gaming-0-1634508282158959350",
+      "key": "gaming-0-1634508282158959350",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Halloween: The Game Refused Classification in Australia, So It Won't Be Sold in New Zealand Despite the Fact That's a Different Country",
-      "title": "Halloween: The Game Refused Classification in Australia, So It Won't Be Sold in New Zealand Despite the Fact That's a Different Country",
-      "snapshot": "The determination involves Australia's rules against having incentives for illicit drug use, but it's entirely unclear why it impacts NZ, or why Illfonic won't tweak its terminology to skirt the rules.",
-      "summary": "The determination involves Australia's rules against having incentives for illicit drug use, but it's entirely unclear why it impacts NZ, or why Illfonic won't tweak its terminology to skirt the rules.",
-      "url": "https://www.ign.com/articles/halloween-the-game-refused-classification-in-australia-so-it-wont-be-sold-in-new-zealand-despite-the-fact-thats-a-different-country",
+      "headline": "Saber CEO Admits 'Dig' at Gearbox Boss Randy Pitchford in New Game Trailer, Saying It's Payback for 'Shots at Embracer in Borderlands 4'",
+      "title": "Saber CEO Admits 'Dig' at Gearbox Boss Randy Pitchford in New Game Trailer, Saying It's Payback for 'Shots at Embracer in Borderlands 4'",
+      "snapshot": "Beef between two high-profile video game industry CEOs has bubbled over into the public domain, via a trailer for new taxi simulation game Rideshare Stimulator.",
+      "summary": "Beef between two high-profile video game industry CEOs has bubbled over into the public domain, via a trailer for new taxi simulation game Rideshare Stimulator.",
+      "url": "https://www.ign.com/articles/saber-ceo-admits-dig-at-gearbox-boss-randy-pitchford-in-new-game-trailer-saying-its-payback-for-shots-at-embracer-in-borderlands-4",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-11 02:50:47 AM ET",
+      "published_at": "2026-08-11 06:34:42 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Halloween: The Game Refused Classification in Australia, So It Won't Be Sold in New Zealand Despite the Fact That's a Different Country"
+        "Saber CEO Admits 'Dig' at Gearbox Boss Randy Pitchford in New Game Trailer, Saying It's Payback for 'Shots at Embracer in Borderlands 4'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1199,22 +1201,22 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-310639033385868090",
-      "key": "film-1-310639033385868090",
+      "id": "film-1-3834533718225949616",
+      "key": "film-1-3834533718225949616",
       "category": "Film",
       "label": "Film",
-      "headline": "'House of the Dragon' Star Fabien Frankel Joins Short Film 'Love Unlimited' (EXCLUSIVE)",
-      "title": "'House of the Dragon' Star Fabien Frankel Joins Short Film 'Love Unlimited' (EXCLUSIVE)",
-      "snapshot": "Fabien Frankel, currently seen on screens as the dashing, honor-obsessed knight Ser Criston Cole in \"House of the Dragon,\" is ready to take on a very different role. The British actor is set to star in \"Love Unlimited,\" the debut short drama from actor Olivier Huband (\"A Discovery of Witches,\" \"Becoming Elizabeth\")....",
-      "summary": "Fabien Frankel, currently seen on screens as the dashing, honor-obsessed knight Ser Criston Cole in \"House of the Dragon,\" is ready to take on a very different role. The British actor is set to star in \"Love Unlimited,\" the debut short drama from actor Olivier Huband (\"A Discovery of Witches,\" \"Becoming Elizabeth\")....",
-      "url": "https://variety.com/2026/film/global/fabien-frankel-short-film-love-unlimited-1236831857/",
+      "headline": "Films Boutique Nabs Mani Haghighi's 'I Deserve a Lover Whose Every Rise Sets Fiery Dooms Raging Across the Skies' Ahead of New York Premiere (EXCLUSIVE)",
+      "title": "Films Boutique Nabs Mani Haghighi's 'I Deserve a Lover Whose Every Rise Sets Fiery Dooms Raging Across the Skies' Ahead of New York Premiere (EXCLUSIVE)",
+      "snapshot": "Berlin-based sales agency Films Boutique has acquired worldwide rights to Iranian filmmaker Mani Haghighi's documentary \"I Deserve a Lover Whose Every Rise Sets Fiery Dooms Raging Across the Skies,\" which is set to premiere at the New York Film Festival. Set between Tabriz and Tehran in the weeks between the 12-Day...",
+      "summary": "Berlin-based sales agency Films Boutique has acquired worldwide rights to Iranian filmmaker Mani Haghighi's documentary \"I Deserve a Lover Whose Every Rise Sets Fiery Dooms Raging Across the Skies,\" which is set to premiere at the New York Film Festival. Set between Tabriz and Tehran in the weeks between the 12-Day...",
+      "url": "https://variety.com/2026/film/global/films-boutique-mani-haghighi-new-york-film-festival-1236831895/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-11 04:58:20 AM ET",
+      "published_at": "2026-08-11 07:25:01 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'House of the Dragon' Star Fabien Frankel Joins Short Film 'Love Unlimited' (EXCLUSIVE)"
+        "Films Boutique Nabs Mani Haghighi's 'I Deserve a Lover Whose Every Rise Sets Fiery Dooms Raging Across the Skies' Ahead of New York Premiere (EXCLUSIVE)"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1226,8 +1228,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-7142893287666925703",
-      "key": "film-11-7142893287666925703",
+      "id": "film-11-1400094377430970142",
+      "key": "film-11-1400094377430970142",
       "category": "Film",
       "label": "Film",
       "headline": "Which Carley Fortune Books Are Getting Adapted? 'One Golden Summer,' 'This Summer Will Be Different' & More",
@@ -1253,8 +1255,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-4378323459690437469",
-      "key": "film-23-4378323459690437469",
+      "id": "film-23-8730116624284729011",
+      "key": "film-23-8730116624284729011",
       "category": "Film",
       "label": "Film",
       "headline": "'The End of Oak Street': First Reactions",
@@ -1280,8 +1282,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-24966000443632560",
-      "key": "film-33-24966000443632560",
+      "id": "film-33-7851109234597378032",
+      "key": "film-33-7851109234597378032",
       "category": "Film",
       "label": "Film",
       "headline": "Fayetteville's CAMEO Collective builds on its movie theater roots - The Fayetteville Observer",
@@ -1307,8 +1309,8 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-6448530494416011808",
-      "key": "music-11-6448530494416011808",
+      "id": "music-11-4295936362479837708",
+      "key": "music-11-4295936362479837708",
       "category": "Music",
       "label": "Music",
       "headline": "aespa's Karina Makes Converse Debut by Modeling Two Distinct Footwear Styles: Shop Here",
@@ -1334,22 +1336,22 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-1368439967622591546",
-      "key": "gaming-1-1368439967622591546",
+      "id": "gaming-1-8254130583593105752",
+      "key": "gaming-1-8254130583593105752",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game",
-      "title": "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game",
-      "snapshot": "Grand Theft Auto 6 fans are pre-ordering the $100 Ultimate Edition more than the standard edition of the game.",
-      "summary": "Grand Theft Auto 6 fans are pre-ordering the $100 Ultimate Edition more than the standard edition of the game.",
-      "url": "https://www.ign.com/articles/gta-6-boss-says-more-people-are-pre-ordering-the-100-version-of-the-game",
+      "headline": "New, Temporary Time Attack Circuit Coming to Forza Horizon 6 for Four Weeks",
+      "title": "New, Temporary Time Attack Circuit Coming to Forza Horizon 6 for Four Weeks",
+      "snapshot": "The Horizon Mascot Party brings new cars, a new track, and new custom props.",
+      "summary": "The Horizon Mascot Party brings new cars, a new track, and new custom props.",
+      "url": "https://www.ign.com/articles/new-temporary-time-attack-circuit-coming-to-forza-horizon-6-for-four-weeks",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-10 06:14:28 PM ET",
+      "published_at": "2026-08-11 06:14:46 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game"
+        "New, Temporary Time Attack Circuit Coming to Forza Horizon 6 for Four Weeks"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1361,22 +1363,22 @@
       "priority_score": 99
     },
     {
-      "id": "film-2-3963683748700022083",
-      "key": "film-2-3963683748700022083",
+      "id": "film-2-7225564897014334788",
+      "key": "film-2-7225564897014334788",
       "category": "Film",
       "label": "Film",
-      "headline": "'Pacifiction' Director Albert Serra on His New Film 'Sixteen Moments of My Life' and Why He'd Love to Have Directed Elvis Presley",
-      "title": "'Pacifiction' Director Albert Serra on His New Film 'Sixteen Moments of My Life' and Why He'd Love to Have Directed Elvis Presley",
-      "snapshot": "Don't call Albert Serra's new film, \"Seize moments de ma vie\" (\"Sixteen Moments of My Life\"), a concert film. Premiering out of competition at the Locarno Film Festival, the film documents a one-off performance by screen legend Ingrid Caven at the Théâtre des Bouffes du Nord in Paris. \"I will never shoot a concert u...",
-      "summary": "Don't call Albert Serra's new film, \"Seize moments de ma vie\" (\"Sixteen Moments of My Life\"), a concert film. Premiering out of competition at the Locarno Film Festival, the film documents a one-off performance by screen legend Ingrid Caven at the Théâtre des Bouffes du Nord in Paris. \"I will never shoot a concert u...",
-      "url": "https://variety.com/2026/film/global/albert-serra-ingrid-caven-16-moments-of-my-life-locarno-1236831563/",
+      "headline": "George MacKay, Louisa Harland, Nathalie Emmanuel and Eric Kofi Abrefa Join 'The Animals' From 'Supacell' Star Calvin Demba (EXCLUSIVE)",
+      "title": "George MacKay, Louisa Harland, Nathalie Emmanuel and Eric Kofi Abrefa Join 'The Animals' From 'Supacell' Star Calvin Demba (EXCLUSIVE)",
+      "snapshot": "Calvin Demba, the British actor, writer and director best known on screen for the Netflix hit \"Supacell,\" has lined up an impressive cast list for his second short film behind the camera, \"The Animals.\" George MacKay (\"Rose of Nevada,\" \"Sense and Sensibility\") stars alongside Louisa Harland (\"Renegade Nell,\" \"Derry...",
+      "summary": "Calvin Demba, the British actor, writer and director best known on screen for the Netflix hit \"Supacell,\" has lined up an impressive cast list for his second short film behind the camera, \"The Animals.\" George MacKay (\"Rose of Nevada,\" \"Sense and Sensibility\") stars alongside Louisa Harland (\"Renegade Nell,\" \"Derry...",
+      "url": "https://variety.com/2026/film/global/george-mackay-louisa-harland-nathalie-emmanuel-the-animals-1236831878/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-11 03:09:38 AM ET",
+      "published_at": "2026-08-11 05:30:28 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Pacifiction' Director Albert Serra on His New Film 'Sixteen Moments of My Life' and Why He'd Love to Have Directed Elvis Presley"
+        "George MacKay, Louisa Harland, Nathalie Emmanuel and Eric Kofi Abrefa Join 'The Animals' From 'Supacell' Star Calvin Demba (EXCLUSIVE)"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1388,8 +1390,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-4896111810003926041",
-      "key": "film-12-4896111810003926041",
+      "id": "film-12-8701482320820153412",
+      "key": "film-12-8701482320820153412",
       "category": "Film",
       "label": "Film",
       "headline": "Meet The New 'X-Men': See The Actors Who've Been Cast & The Characters They Play",
@@ -1415,8 +1417,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-8540847347128007491",
-      "key": "film-24-8540847347128007491",
+      "id": "film-24-8316678812175790706",
+      "key": "film-24-8316678812175790706",
       "category": "Film",
       "label": "Film",
       "headline": "'Congo Boy' Is an Autobiographical and Musical Refugee Drama. Its Director Has More in the Works.",
@@ -1442,8 +1444,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-8845331206870818845",
-      "key": "film-34-8845331206870818845",
+      "id": "film-34-707211185532730736",
+      "key": "film-34-707211185532730736",
       "category": "Film",
       "label": "Film",
       "headline": "The 35 best sci-fi movies of all time (August 2026) - Entertainment Weekly",
@@ -1469,8 +1471,8 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-7539822573005351692",
-      "key": "music-12-7539822573005351692",
+      "id": "music-12-4440563237688216252",
+      "key": "music-12-4440563237688216252",
       "category": "Music",
       "label": "Music",
       "headline": "Limp Bizkit to Headline Australia's Good Things Festival 2026",
@@ -1496,22 +1498,22 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-3997666488954778089",
-      "key": "gaming-2-3997666488954778089",
+      "id": "gaming-2-6376471548236904383",
+      "key": "gaming-2-6376471548236904383",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes",
-      "title": "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes",
-      "snapshot": "Kazuhisa Wada, producer for Atlus' P-Studio, says he \"can't say for sure\" if Persona 1 and 2 remakes are coming, but said they are still games he thinks \"we have to do.\"",
-      "summary": "Kazuhisa Wada, producer for Atlus' P-Studio, says he \"can't say for sure\" if Persona 1 and 2 remakes are coming, but said they are still games he thinks \"we have to do.\"",
-      "url": "https://www.ign.com/articles/atlus-producer-says-i-think-we-have-to-do-persona-1-and-2-remakes",
+      "headline": "'A Must-Have Day 1 Purchase': Remedy Bets Big on Control Resonant, as Alan Wake 2 Passes 3 Million Sold",
+      "title": "'A Must-Have Day 1 Purchase': Remedy Bets Big on Control Resonant, as Alan Wake 2 Passes 3 Million Sold",
+      "snapshot": "Alan Wake and Control developer Remedy is betting big on Control Resonant, as Alan Wake 2 finally passes 3 million copies sold.",
+      "summary": "Alan Wake and Control developer Remedy is betting big on Control Resonant, as Alan Wake 2 finally passes 3 million copies sold.",
+      "url": "https://www.ign.com/articles/a-must-have-day-1-purchase-remedy-bets-big-on-control-resonant-as-alan-wake-2-passes-3-million-sold",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-10 05:45:55 PM ET",
+      "published_at": "2026-08-11 05:26:08 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Atlus Producer Says 'I Think We Have to Do' Persona 1 and 2 Remakes"
+        "'A Must-Have Day 1 Purchase': Remedy Bets Big on Control Resonant, as Alan Wake 2 Passes 3 Million Sold"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1523,22 +1525,22 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-3441189682436093903",
-      "key": "film-3-3441189682436093903",
+      "id": "film-3-9210678425803082501",
+      "key": "film-3-9210678425803082501",
       "category": "Film",
       "label": "Film",
-      "headline": "Locarno: The Filmmakers Behind 'Piluk,' From the National Film Board of Canada, Discuss the Language of Animation",
-      "title": "Locarno: The Filmmakers Behind 'Piluk,' From the National Film Board of Canada, Discuss the Language of Animation",
-      "snapshot": "With a world premiere in the Locarno Film Festival's Pardi di Domani selection of short and medium-length films, the filmmakers behind \"Piluk\" saw the production as a chance to tell a story with the simplest possible textures: pencil, paper and the human voice. Produced by Marc Bertrand and Jelena Popović of the Nat...",
-      "summary": "With a world premiere in the Locarno Film Festival's Pardi di Domani selection of short and medium-length films, the filmmakers behind \"Piluk\" saw the production as a chance to tell a story with the simplest possible textures: pencil, paper and the human voice. Produced by Marc Bertrand and Jelena Popović of the Nat...",
-      "url": "https://variety.com/2026/film/global/locarno-piluk-animation-national-film-board-of-canada-1236831733/",
+      "headline": "'House of the Dragon' Star Fabien Frankel Joins Short Film 'Love Unlimited' (EXCLUSIVE)",
+      "title": "'House of the Dragon' Star Fabien Frankel Joins Short Film 'Love Unlimited' (EXCLUSIVE)",
+      "snapshot": "Fabien Frankel, currently seen on screens as the dashing, honor-obsessed knight Ser Criston Cole in \"House of the Dragon,\" is ready to take on a very different role. The British actor is set to star in \"Love Unlimited,\" the debut short drama from actor Olivier Huband (\"A Discovery of Witches,\" \"Becoming Elizabeth\")....",
+      "summary": "Fabien Frankel, currently seen on screens as the dashing, honor-obsessed knight Ser Criston Cole in \"House of the Dragon,\" is ready to take on a very different role. The British actor is set to star in \"Love Unlimited,\" the debut short drama from actor Olivier Huband (\"A Discovery of Witches,\" \"Becoming Elizabeth\")....",
+      "url": "https://variety.com/2026/film/global/fabien-frankel-short-film-love-unlimited-1236831857/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-11 02:55:23 AM ET",
+      "published_at": "2026-08-11 04:58:20 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Locarno: The Filmmakers Behind 'Piluk,' From the National Film Board of Canada, Discuss the Language of Animation"
+        "'House of the Dragon' Star Fabien Frankel Joins Short Film 'Love Unlimited' (EXCLUSIVE)"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1550,8 +1552,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-1679114982948252832",
-      "key": "film-13-1679114982948252832",
+      "id": "film-13-3679407260494348817",
+      "key": "film-13-3679407260494348817",
       "category": "Film",
       "label": "Film",
       "headline": "Jon Cypher Dies: 'Hill Street Blues' Police Chief, 'Major Dad' Regular & 'Masters Of The Universe' Ally Was 94",
@@ -1577,8 +1579,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-668047160984181661",
-      "key": "film-25-668047160984181661",
+      "id": "film-25-645119350923370280",
+      "key": "film-25-645119350923370280",
       "category": "Film",
       "label": "Film",
       "headline": "Ann Hui to Receive Busan Film Festival's Camellia Award",
@@ -1604,14 +1606,14 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-6539645615861904251",
-      "key": "film-35-6539645615861904251",
+      "id": "film-35-5880317528156852730",
+      "key": "film-35-5880317528156852730",
       "category": "Film",
       "label": "Film",
-      "headline": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire",
-      "title": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire",
-      "snapshot": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical IndieWire",
-      "summary": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical IndieWire",
+      "headline": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - indiewire.com",
+      "title": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - indiewire.com",
+      "snapshot": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical indiewire.com",
+      "summary": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical indiewire.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa2lwS3g2dWQySkhQVE9Zb09QeDJ3OVRLYXpHc0M0bzJPMXY4S0FaQXBhME1teHBnQnkzaXNfaUZJMGxNaE1KTFVXNkQwTmRLTF9vTWZOODVtY21yYUJFc1pqUnJib2FOc0IwWlFPWmt3X3hyZUw0MnlLVmkydkFJNE9pRlJtSjRpeUVSZlhB?oc=5",
       "source": "Google News",
       "source_name": "Google News",
@@ -1619,7 +1621,7 @@
       "published_at": "2026-08-07 01:17:11 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire"
+        "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - indiewire.com"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1631,8 +1633,8 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-7836294282000348558",
-      "key": "music-13-7836294282000348558",
+      "id": "music-13-3031690914957272356",
+      "key": "music-13-3031690914957272356",
       "category": "Music",
       "label": "Music",
       "headline": "With Sophia Stepping Back From KATSEYE, Will the Global Girl Group Remain a Quartet?",
@@ -1658,22 +1660,22 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-3887525303490951865",
-      "key": "gaming-3-3887525303490951865",
+      "id": "gaming-3-1828563991274710419",
+      "key": "gaming-3-1828563991274710419",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Fields of Mistria Review So Far",
-      "title": "Fields of Mistria Review So Far",
-      "snapshot": "This fantasy farming sim takes place in a pastel pixel art world full of mythical creatures and magic.",
-      "summary": "This fantasy farming sim takes place in a pastel pixel art world full of mythical creatures and magic.",
-      "url": "https://www.ign.com/articles/fields-of-mistria-review",
+      "headline": "Halloween: The Game Refused Classification in Australia, So It Won't Be Sold in New Zealand Despite the Fact That's a Different Country",
+      "title": "Halloween: The Game Refused Classification in Australia, So It Won't Be Sold in New Zealand Despite the Fact That's a Different Country",
+      "snapshot": "The determination involves Australia's rules against having incentives for illicit drug use, but it's entirely unclear why it impacts NZ, or why Illfonic won't tweak its terminology to skirt the rules.",
+      "summary": "The determination involves Australia's rules against having incentives for illicit drug use, but it's entirely unclear why it impacts NZ, or why Illfonic won't tweak its terminology to skirt the rules.",
+      "url": "https://www.ign.com/articles/halloween-the-game-refused-classification-in-australia-so-it-wont-be-sold-in-new-zealand-despite-the-fact-thats-a-different-country",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-10 05:30:12 PM ET",
+      "published_at": "2026-08-11 02:50:47 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Fields of Mistria Review So Far"
+        "Halloween: The Game Refused Classification in Australia, So It Won't Be Sold in New Zealand Despite the Fact That's a Different Country"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1690,46 +1692,46 @@
       "key": "film",
       "name": "Film",
       "title": "Film Report",
-      "headline": "George MacKay, Louisa Harland, Nathalie Emmanuel and Eric Kofi Abrefa Join ‘The Animals’ From ‘Supacell’ Star Calvin Demba (EXCLUSIVE)",
+      "headline": "Monica Bellucci Has ‘Never’ Done Anything Like ‘Ketticè’: ‘I Was on Set in My Pajamas with a Knife in My Hand and Slippers on My Feet’",
       "snapshot": "Film coverage is updating with 8 current RSS headline item(s).",
       "key_storylines": [
-        "George MacKay, Louisa Harland, Nathalie Emmanuel and Eric Kofi Abrefa Join ‘The Animals’ From ‘Supacell’ Star Calvin Demba (EXCLUSIVE)",
+        "Monica Bellucci Has ‘Never’ Done Anything Like ‘Ketticè’: ‘I Was on Set in My Pajamas with a Knife in My Hand and Slippers on My Feet’",
         "Reggie Bannister Dies: ‘Phantasm’ Actor Was 80",
         "‘The State of Us’: Samuel Bottomley Breaks Callum Scott Howells Out of Hospice for One Final Hurrah in Edinburgh-Bound Indie (Exclusive Clip)",
-        "The Odyssey is now Christopher Nolan's highest-grossing movie ever - CBC",
-        "‘House of the Dragon’ Star Fabien Frankel Joins Short Film ‘Love Unlimited’ (EXCLUSIVE)"
+        "The Odyssey is now Christopher Nolan's highest-grossing movie ever - cbc.ca",
+        "Films Boutique Nabs Mani Haghighi’s ‘I Deserve a Lover Whose Every Rise Sets Fiery Dooms Raging Across the Skies’ Ahead of New York Premiere (EXCLUSIVE)"
       ],
       "watch_list": [
-        "George MacKay, Louisa Harland, Nathalie Emmanuel and Eric Kofi Abrefa Join ‘The Animals’ From ‘Supacell’ Star Calvin Demba (EXCLUSIVE)",
+        "Monica Bellucci Has ‘Never’ Done Anything Like ‘Ketticè’: ‘I Was on Set in My Pajamas with a Knife in My Hand and Slippers on My Feet’",
         "Reggie Bannister Dies: ‘Phantasm’ Actor Was 80",
         "‘The State of Us’: Samuel Bottomley Breaks Callum Scott Howells Out of Hospice for One Final Hurrah in Edinburgh-Bound Indie (Exclusive Clip)",
-        "The Odyssey is now Christopher Nolan's highest-grossing movie ever - CBC",
-        "‘House of the Dragon’ Star Fabien Frankel Joins Short Film ‘Love Unlimited’ (EXCLUSIVE)",
+        "The Odyssey is now Christopher Nolan's highest-grossing movie ever - cbc.ca",
+        "Films Boutique Nabs Mani Haghighi’s ‘I Deserve a Lover Whose Every Rise Sets Fiery Dooms Raging Across the Skies’ Ahead of New York Premiere (EXCLUSIVE)",
         "Which Carley Fortune Books Are Getting Adapted? ‘One Golden Summer,’ ‘This Summer Will Be Different’ & More",
         "‘The End of Oak Street’: First Reactions",
         "Fayetteville's CAMEO Collective builds on its movie theater roots - The Fayetteville Observer"
       ],
       "homepage_cards": [
         {
-          "id": "film-0-5925009083184746160",
-          "key": "film-0-5925009083184746160",
+          "id": "film-0-1401927501311794940",
+          "key": "film-0-1401927501311794940",
           "category": "Film",
           "label": "Film",
-          "headline": "George MacKay, Louisa Harland, Nathalie Emmanuel and Eric Kofi Abrefa Join ‘The Animals’ From ‘Supacell’ Star Calvin Demba (EXCLUSIVE)",
-          "title": "George MacKay, Louisa Harland, Nathalie Emmanuel and Eric Kofi Abrefa Join ‘The Animals’ From ‘Supacell’ Star Calvin Demba (EXCLUSIVE)",
-          "snapshot": "Calvin Demba, the British actor, writer and director best known on screen for the Netflix hit “Supacell,” has lined up an impressive cast list for his second short film behind the camera, “The Animals.” George MacKay (“Rose of Nevada,” “Sense and Sensibility”) stars alongside Louisa Harland (“Renegade Nell,” “Derry...",
-          "summary": "Calvin Demba, the British actor, writer and director best known on screen for the Netflix hit “Supacell,” has lined up an impressive cast list for his second short film behind the camera, “The Animals.” George MacKay (“Rose of Nevada,” “Sense and Sensibility”) stars alongside Louisa Harland (“Renegade Nell,” “Derry...",
-          "url": "https://variety.com/2026/film/global/george-mackay-louisa-harland-nathalie-emmanuel-the-animals-1236831878/",
+          "headline": "Monica Bellucci Has ‘Never’ Done Anything Like ‘Ketticè’: ‘I Was on Set in My Pajamas with a Knife in My Hand and Slippers on My Feet’",
+          "title": "Monica Bellucci Has ‘Never’ Done Anything Like ‘Ketticè’: ‘I Was on Set in My Pajamas with a Knife in My Hand and Slippers on My Feet’",
+          "snapshot": "Do you think Monica Bellucci has done it all? Think again. “I’ve never done anything like that,” she tells Variety about her role in “Ketticè.” Directed by Giovanni Tortorici, the film premiered at Locarno. “I was on set in my pajamas with a knife in my hand and slippers on my feet. This woman has abandoned her […]",
+          "summary": "Do you think Monica Bellucci has done it all? Think again. “I’ve never done anything like that,” she tells Variety about her role in “Ketticè.” Directed by Giovanni Tortorici, the film premiered at Locarno. “I was on set in my pajamas with a knife in my hand and slippers on my feet. This woman has abandoned her […]",
+          "url": "https://variety.com/2026/film/global/monica-bellucci-kettice-locarno-giovanni-tortorici-1236831849/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/feed/",
-          "published_at": "2026-08-11 05:30:28 AM ET",
+          "published_at": "2026-08-11 07:37:28 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "George MacKay, Louisa Harland, Nathalie Emmanuel and Eric Kofi Abrefa Join ‘The Animals’ From ‘Supacell’ Star Calvin Demba (EXCLUSIVE)"
+            "Monica Bellucci Has ‘Never’ Done Anything Like ‘Ketticè’: ‘I Was on Set in My Pajamas with a Knife in My Hand and Slippers on My Feet’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1739,8 +1741,8 @@
           ]
         },
         {
-          "id": "film-10-4177761974544284567",
-          "key": "film-10-4177761974544284567",
+          "id": "film-10-6086799571070941720",
+          "key": "film-10-6086799571070941720",
           "category": "Film",
           "label": "Film",
           "headline": "Reggie Bannister Dies: ‘Phantasm’ Actor Was 80",
@@ -1767,8 +1769,8 @@
           ]
         },
         {
-          "id": "film-22-7272804376431112401",
-          "key": "film-22-7272804376431112401",
+          "id": "film-22-2659269063067000991",
+          "key": "film-22-2659269063067000991",
           "category": "Film",
           "label": "Film",
           "headline": "‘The State of Us’: Samuel Bottomley Breaks Callum Scott Howells Out of Hospice for One Final Hurrah in Edinburgh-Bound Indie (Exclusive Clip)",
@@ -1795,14 +1797,14 @@
           ]
         },
         {
-          "id": "film-32-2009969696915728018",
-          "key": "film-32-2009969696915728018",
+          "id": "film-32-1130387808671084920",
+          "key": "film-32-1130387808671084920",
           "category": "Film",
           "label": "Film",
-          "headline": "The Odyssey is now Christopher Nolan's highest-grossing movie ever - CBC",
-          "title": "The Odyssey is now Christopher Nolan's highest-grossing movie ever - CBC",
-          "snapshot": "The Odyssey is now Christopher Nolan's highest-grossing movie ever CBC",
-          "summary": "The Odyssey is now Christopher Nolan's highest-grossing movie ever CBC",
+          "headline": "The Odyssey is now Christopher Nolan's highest-grossing movie ever - cbc.ca",
+          "title": "The Odyssey is now Christopher Nolan's highest-grossing movie ever - cbc.ca",
+          "snapshot": "The Odyssey is now Christopher Nolan's highest-grossing movie ever cbc.ca",
+          "summary": "The Odyssey is now Christopher Nolan's highest-grossing movie ever cbc.ca",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEMUh6LW04bEk4TTlkR3hkVkM2c2VXWkd1ODNiSmRpdVV1dWV5WlFraWVEYjZia0ZBMHNyTUJ2TUZGVGE5Y1VFNnVzeGJsUVBVNGpkS245UzkwT0NWWENoWlhtTGN2TDFBV041VWJCQ3N3alQtUUJJeFNB?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -1813,7 +1815,7 @@
           "story_type": "rss_headline",
           "priority_score": 68,
           "key_data": [
-            "The Odyssey is now Christopher Nolan's highest-grossing movie ever - CBC"
+            "The Odyssey is now Christopher Nolan's highest-grossing movie ever - cbc.ca"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1823,25 +1825,25 @@
           ]
         },
         {
-          "id": "film-1-310639033385868090",
-          "key": "film-1-310639033385868090",
+          "id": "film-1-3834533718225949616",
+          "key": "film-1-3834533718225949616",
           "category": "Film",
           "label": "Film",
-          "headline": "‘House of the Dragon’ Star Fabien Frankel Joins Short Film ‘Love Unlimited’ (EXCLUSIVE)",
-          "title": "‘House of the Dragon’ Star Fabien Frankel Joins Short Film ‘Love Unlimited’ (EXCLUSIVE)",
-          "snapshot": "Fabien Frankel, currently seen on screens as the dashing, honor-obsessed knight Ser Criston Cole in “House of the Dragon,” is ready to take on a very different role. The British actor is set to star in “Love Unlimited,” the debut short drama from actor Olivier Huband (“A Discovery of Witches,” “Becoming Elizabeth”)....",
-          "summary": "Fabien Frankel, currently seen on screens as the dashing, honor-obsessed knight Ser Criston Cole in “House of the Dragon,” is ready to take on a very different role. The British actor is set to star in “Love Unlimited,” the debut short drama from actor Olivier Huband (“A Discovery of Witches,” “Becoming Elizabeth”)....",
-          "url": "https://variety.com/2026/film/global/fabien-frankel-short-film-love-unlimited-1236831857/",
+          "headline": "Films Boutique Nabs Mani Haghighi’s ‘I Deserve a Lover Whose Every Rise Sets Fiery Dooms Raging Across the Skies’ Ahead of New York Premiere (EXCLUSIVE)",
+          "title": "Films Boutique Nabs Mani Haghighi’s ‘I Deserve a Lover Whose Every Rise Sets Fiery Dooms Raging Across the Skies’ Ahead of New York Premiere (EXCLUSIVE)",
+          "snapshot": "Berlin-based sales agency Films Boutique has acquired worldwide rights to Iranian filmmaker Mani Haghighi’s documentary “I Deserve a Lover Whose Every Rise Sets Fiery Dooms Raging Across the Skies,” which is set to premiere at the New York Film Festival. Set between Tabriz and Tehran in the weeks between the 12-Day...",
+          "summary": "Berlin-based sales agency Films Boutique has acquired worldwide rights to Iranian filmmaker Mani Haghighi’s documentary “I Deserve a Lover Whose Every Rise Sets Fiery Dooms Raging Across the Skies,” which is set to premiere at the New York Film Festival. Set between Tabriz and Tehran in the weeks between the 12-Day...",
+          "url": "https://variety.com/2026/film/global/films-boutique-mani-haghighi-new-york-film-festival-1236831895/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/feed/",
-          "published_at": "2026-08-11 04:58:20 AM ET",
+          "published_at": "2026-08-11 07:25:01 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "‘House of the Dragon’ Star Fabien Frankel Joins Short Film ‘Love Unlimited’ (EXCLUSIVE)"
+            "Films Boutique Nabs Mani Haghighi’s ‘I Deserve a Lover Whose Every Rise Sets Fiery Dooms Raging Across the Skies’ Ahead of New York Premiere (EXCLUSIVE)"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1851,8 +1853,8 @@
           ]
         },
         {
-          "id": "film-11-7142893287666925703",
-          "key": "film-11-7142893287666925703",
+          "id": "film-11-1400094377430970142",
+          "key": "film-11-1400094377430970142",
           "category": "Film",
           "label": "Film",
           "headline": "Which Carley Fortune Books Are Getting Adapted? ‘One Golden Summer,’ ‘This Summer Will Be Different’ & More",
@@ -1879,8 +1881,8 @@
           ]
         },
         {
-          "id": "film-23-4378323459690437469",
-          "key": "film-23-4378323459690437469",
+          "id": "film-23-8730116624284729011",
+          "key": "film-23-8730116624284729011",
           "category": "Film",
           "label": "Film",
           "headline": "‘The End of Oak Street’: First Reactions",
@@ -1907,8 +1909,8 @@
           ]
         },
         {
-          "id": "film-33-24966000443632560",
-          "key": "film-33-24966000443632560",
+          "id": "film-33-7851109234597378032",
+          "key": "film-33-7851109234597378032",
           "category": "Film",
           "label": "Film",
           "headline": "Fayetteville's CAMEO Collective builds on its movie theater roots - The Fayetteville Observer",
@@ -1937,25 +1939,25 @@
       ],
       "items": [
         {
-          "id": "film-0-5925009083184746160",
-          "key": "film-0-5925009083184746160",
+          "id": "film-0-1401927501311794940",
+          "key": "film-0-1401927501311794940",
           "category": "Film",
           "label": "Film",
-          "headline": "George MacKay, Louisa Harland, Nathalie Emmanuel and Eric Kofi Abrefa Join ‘The Animals’ From ‘Supacell’ Star Calvin Demba (EXCLUSIVE)",
-          "title": "George MacKay, Louisa Harland, Nathalie Emmanuel and Eric Kofi Abrefa Join ‘The Animals’ From ‘Supacell’ Star Calvin Demba (EXCLUSIVE)",
-          "snapshot": "Calvin Demba, the British actor, writer and director best known on screen for the Netflix hit “Supacell,” has lined up an impressive cast list for his second short film behind the camera, “The Animals.” George MacKay (“Rose of Nevada,” “Sense and Sensibility”) stars alongside Louisa Harland (“Renegade Nell,” “Derry...",
-          "summary": "Calvin Demba, the British actor, writer and director best known on screen for the Netflix hit “Supacell,” has lined up an impressive cast list for his second short film behind the camera, “The Animals.” George MacKay (“Rose of Nevada,” “Sense and Sensibility”) stars alongside Louisa Harland (“Renegade Nell,” “Derry...",
-          "url": "https://variety.com/2026/film/global/george-mackay-louisa-harland-nathalie-emmanuel-the-animals-1236831878/",
+          "headline": "Monica Bellucci Has ‘Never’ Done Anything Like ‘Ketticè’: ‘I Was on Set in My Pajamas with a Knife in My Hand and Slippers on My Feet’",
+          "title": "Monica Bellucci Has ‘Never’ Done Anything Like ‘Ketticè’: ‘I Was on Set in My Pajamas with a Knife in My Hand and Slippers on My Feet’",
+          "snapshot": "Do you think Monica Bellucci has done it all? Think again. “I’ve never done anything like that,” she tells Variety about her role in “Ketticè.” Directed by Giovanni Tortorici, the film premiered at Locarno. “I was on set in my pajamas with a knife in my hand and slippers on my feet. This woman has abandoned her […]",
+          "summary": "Do you think Monica Bellucci has done it all? Think again. “I’ve never done anything like that,” she tells Variety about her role in “Ketticè.” Directed by Giovanni Tortorici, the film premiered at Locarno. “I was on set in my pajamas with a knife in my hand and slippers on my feet. This woman has abandoned her […]",
+          "url": "https://variety.com/2026/film/global/monica-bellucci-kettice-locarno-giovanni-tortorici-1236831849/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/feed/",
-          "published_at": "2026-08-11 05:30:28 AM ET",
+          "published_at": "2026-08-11 07:37:28 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "George MacKay, Louisa Harland, Nathalie Emmanuel and Eric Kofi Abrefa Join ‘The Animals’ From ‘Supacell’ Star Calvin Demba (EXCLUSIVE)"
+            "Monica Bellucci Has ‘Never’ Done Anything Like ‘Ketticè’: ‘I Was on Set in My Pajamas with a Knife in My Hand and Slippers on My Feet’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1965,8 +1967,8 @@
           ]
         },
         {
-          "id": "film-10-4177761974544284567",
-          "key": "film-10-4177761974544284567",
+          "id": "film-10-6086799571070941720",
+          "key": "film-10-6086799571070941720",
           "category": "Film",
           "label": "Film",
           "headline": "Reggie Bannister Dies: ‘Phantasm’ Actor Was 80",
@@ -1993,8 +1995,8 @@
           ]
         },
         {
-          "id": "film-22-7272804376431112401",
-          "key": "film-22-7272804376431112401",
+          "id": "film-22-2659269063067000991",
+          "key": "film-22-2659269063067000991",
           "category": "Film",
           "label": "Film",
           "headline": "‘The State of Us’: Samuel Bottomley Breaks Callum Scott Howells Out of Hospice for One Final Hurrah in Edinburgh-Bound Indie (Exclusive Clip)",
@@ -2021,14 +2023,14 @@
           ]
         },
         {
-          "id": "film-32-2009969696915728018",
-          "key": "film-32-2009969696915728018",
+          "id": "film-32-1130387808671084920",
+          "key": "film-32-1130387808671084920",
           "category": "Film",
           "label": "Film",
-          "headline": "The Odyssey is now Christopher Nolan's highest-grossing movie ever - CBC",
-          "title": "The Odyssey is now Christopher Nolan's highest-grossing movie ever - CBC",
-          "snapshot": "The Odyssey is now Christopher Nolan's highest-grossing movie ever CBC",
-          "summary": "The Odyssey is now Christopher Nolan's highest-grossing movie ever CBC",
+          "headline": "The Odyssey is now Christopher Nolan's highest-grossing movie ever - cbc.ca",
+          "title": "The Odyssey is now Christopher Nolan's highest-grossing movie ever - cbc.ca",
+          "snapshot": "The Odyssey is now Christopher Nolan's highest-grossing movie ever cbc.ca",
+          "summary": "The Odyssey is now Christopher Nolan's highest-grossing movie ever cbc.ca",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEMUh6LW04bEk4TTlkR3hkVkM2c2VXWkd1ODNiSmRpdVV1dWV5WlFraWVEYjZia0ZBMHNyTUJ2TUZGVGE5Y1VFNnVzeGJsUVBVNGpkS245UzkwT0NWWENoWlhtTGN2TDFBV041VWJCQ3N3alQtUUJJeFNB?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -2039,7 +2041,7 @@
           "story_type": "rss_headline",
           "priority_score": 68,
           "key_data": [
-            "The Odyssey is now Christopher Nolan's highest-grossing movie ever - CBC"
+            "The Odyssey is now Christopher Nolan's highest-grossing movie ever - cbc.ca"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2049,25 +2051,25 @@
           ]
         },
         {
-          "id": "film-1-310639033385868090",
-          "key": "film-1-310639033385868090",
+          "id": "film-1-3834533718225949616",
+          "key": "film-1-3834533718225949616",
           "category": "Film",
           "label": "Film",
-          "headline": "‘House of the Dragon’ Star Fabien Frankel Joins Short Film ‘Love Unlimited’ (EXCLUSIVE)",
-          "title": "‘House of the Dragon’ Star Fabien Frankel Joins Short Film ‘Love Unlimited’ (EXCLUSIVE)",
-          "snapshot": "Fabien Frankel, currently seen on screens as the dashing, honor-obsessed knight Ser Criston Cole in “House of the Dragon,” is ready to take on a very different role. The British actor is set to star in “Love Unlimited,” the debut short drama from actor Olivier Huband (“A Discovery of Witches,” “Becoming Elizabeth”)....",
-          "summary": "Fabien Frankel, currently seen on screens as the dashing, honor-obsessed knight Ser Criston Cole in “House of the Dragon,” is ready to take on a very different role. The British actor is set to star in “Love Unlimited,” the debut short drama from actor Olivier Huband (“A Discovery of Witches,” “Becoming Elizabeth”)....",
-          "url": "https://variety.com/2026/film/global/fabien-frankel-short-film-love-unlimited-1236831857/",
+          "headline": "Films Boutique Nabs Mani Haghighi’s ‘I Deserve a Lover Whose Every Rise Sets Fiery Dooms Raging Across the Skies’ Ahead of New York Premiere (EXCLUSIVE)",
+          "title": "Films Boutique Nabs Mani Haghighi’s ‘I Deserve a Lover Whose Every Rise Sets Fiery Dooms Raging Across the Skies’ Ahead of New York Premiere (EXCLUSIVE)",
+          "snapshot": "Berlin-based sales agency Films Boutique has acquired worldwide rights to Iranian filmmaker Mani Haghighi’s documentary “I Deserve a Lover Whose Every Rise Sets Fiery Dooms Raging Across the Skies,” which is set to premiere at the New York Film Festival. Set between Tabriz and Tehran in the weeks between the 12-Day...",
+          "summary": "Berlin-based sales agency Films Boutique has acquired worldwide rights to Iranian filmmaker Mani Haghighi’s documentary “I Deserve a Lover Whose Every Rise Sets Fiery Dooms Raging Across the Skies,” which is set to premiere at the New York Film Festival. Set between Tabriz and Tehran in the weeks between the 12-Day...",
+          "url": "https://variety.com/2026/film/global/films-boutique-mani-haghighi-new-york-film-festival-1236831895/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/feed/",
-          "published_at": "2026-08-11 04:58:20 AM ET",
+          "published_at": "2026-08-11 07:25:01 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "‘House of the Dragon’ Star Fabien Frankel Joins Short Film ‘Love Unlimited’ (EXCLUSIVE)"
+            "Films Boutique Nabs Mani Haghighi’s ‘I Deserve a Lover Whose Every Rise Sets Fiery Dooms Raging Across the Skies’ Ahead of New York Premiere (EXCLUSIVE)"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2077,8 +2079,8 @@
           ]
         },
         {
-          "id": "film-11-7142893287666925703",
-          "key": "film-11-7142893287666925703",
+          "id": "film-11-1400094377430970142",
+          "key": "film-11-1400094377430970142",
           "category": "Film",
           "label": "Film",
           "headline": "Which Carley Fortune Books Are Getting Adapted? ‘One Golden Summer,’ ‘This Summer Will Be Different’ & More",
@@ -2105,8 +2107,8 @@
           ]
         },
         {
-          "id": "film-23-4378323459690437469",
-          "key": "film-23-4378323459690437469",
+          "id": "film-23-8730116624284729011",
+          "key": "film-23-8730116624284729011",
           "category": "Film",
           "label": "Film",
           "headline": "‘The End of Oak Street’: First Reactions",
@@ -2133,8 +2135,8 @@
           ]
         },
         {
-          "id": "film-33-24966000443632560",
-          "key": "film-33-24966000443632560",
+          "id": "film-33-7851109234597378032",
+          "key": "film-33-7851109234597378032",
           "category": "Film",
           "label": "Film",
           "headline": "Fayetteville's CAMEO Collective builds on its movie theater roots - The Fayetteville Observer",
@@ -2161,7 +2163,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-11 06:05:27 AM ET"
+      "updated_at": "2026-08-11 07:44:04 AM ET"
     },
     {
       "key": "tv",
@@ -2186,8 +2188,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "tv-0-8051603939358495045",
-          "key": "tv-0-8051603939358495045",
+          "id": "tv-0-7874998010651404029",
+          "key": "tv-0-7874998010651404029",
           "category": "TV",
           "label": "TV",
           "headline": "RTL Group Posts 3.9% Revenue Rise as Streaming Side Grows, Though Fremantle Continues to Suffer",
@@ -2214,8 +2216,8 @@
           ]
         },
         {
-          "id": "tv-10-6879445328138286163",
-          "key": "tv-10-6879445328138286163",
+          "id": "tv-10-4887698839930133116",
+          "key": "tv-10-4887698839930133116",
           "category": "TV",
           "label": "TV",
           "headline": "Fremantle Revenues Slide But Earnings Shoot Up To $69.2M",
@@ -2242,8 +2244,8 @@
           ]
         },
         {
-          "id": "tv-20-4788984309871004762",
-          "key": "tv-20-4788984309871004762",
+          "id": "tv-20-1792880024492180477",
+          "key": "tv-20-1792880024492180477",
           "category": "TV",
           "label": "TV",
           "headline": "Netflix Adds Logan Marshall-Green, Scott Bakula and More to ‘The Sticks,’ Shares First-Look at Hockey Drama",
@@ -2270,8 +2272,8 @@
           ]
         },
         {
-          "id": "tv-1-1607603651850082509",
-          "key": "tv-1-1607603651850082509",
+          "id": "tv-1-8692741514773564481",
+          "key": "tv-1-8692741514773564481",
           "category": "TV",
           "label": "TV",
           "headline": "‘Mobile Suit Gundam RG XARX-ZERO’ Director Kamiyama Kenji Built His New Series Around a Metaphor for AI Fears: ‘Will We End Up Being Used by It?’",
@@ -2298,8 +2300,8 @@
           ]
         },
         {
-          "id": "tv-11-5029415955179877496",
-          "key": "tv-11-5029415955179877496",
+          "id": "tv-11-8691861940814026105",
+          "key": "tv-11-8691861940814026105",
           "category": "TV",
           "label": "TV",
           "headline": "Linda Cardellini Reveals Homage To Betsy Palmer In ‘Crystal Lake’: “A Certain Sweater Makes An Appearance”",
@@ -2326,8 +2328,8 @@
           ]
         },
         {
-          "id": "tv-21-5022853854041087629",
-          "key": "tv-21-5022853854041087629",
+          "id": "tv-21-7834930399857389227",
+          "key": "tv-21-7834930399857389227",
           "category": "TV",
           "label": "TV",
           "headline": "‘Camp Rock 3’ Surprise! Demi Lovato Reprises Role as Mitchie in Disney’s Movie",
@@ -2356,8 +2358,8 @@
       ],
       "items": [
         {
-          "id": "tv-0-8051603939358495045",
-          "key": "tv-0-8051603939358495045",
+          "id": "tv-0-7874998010651404029",
+          "key": "tv-0-7874998010651404029",
           "category": "TV",
           "label": "TV",
           "headline": "RTL Group Posts 3.9% Revenue Rise as Streaming Side Grows, Though Fremantle Continues to Suffer",
@@ -2384,8 +2386,8 @@
           ]
         },
         {
-          "id": "tv-10-6879445328138286163",
-          "key": "tv-10-6879445328138286163",
+          "id": "tv-10-4887698839930133116",
+          "key": "tv-10-4887698839930133116",
           "category": "TV",
           "label": "TV",
           "headline": "Fremantle Revenues Slide But Earnings Shoot Up To $69.2M",
@@ -2412,8 +2414,8 @@
           ]
         },
         {
-          "id": "tv-20-4788984309871004762",
-          "key": "tv-20-4788984309871004762",
+          "id": "tv-20-1792880024492180477",
+          "key": "tv-20-1792880024492180477",
           "category": "TV",
           "label": "TV",
           "headline": "Netflix Adds Logan Marshall-Green, Scott Bakula and More to ‘The Sticks,’ Shares First-Look at Hockey Drama",
@@ -2440,8 +2442,8 @@
           ]
         },
         {
-          "id": "tv-1-1607603651850082509",
-          "key": "tv-1-1607603651850082509",
+          "id": "tv-1-8692741514773564481",
+          "key": "tv-1-8692741514773564481",
           "category": "TV",
           "label": "TV",
           "headline": "‘Mobile Suit Gundam RG XARX-ZERO’ Director Kamiyama Kenji Built His New Series Around a Metaphor for AI Fears: ‘Will We End Up Being Used by It?’",
@@ -2468,8 +2470,8 @@
           ]
         },
         {
-          "id": "tv-11-5029415955179877496",
-          "key": "tv-11-5029415955179877496",
+          "id": "tv-11-8691861940814026105",
+          "key": "tv-11-8691861940814026105",
           "category": "TV",
           "label": "TV",
           "headline": "Linda Cardellini Reveals Homage To Betsy Palmer In ‘Crystal Lake’: “A Certain Sweater Makes An Appearance”",
@@ -2496,8 +2498,8 @@
           ]
         },
         {
-          "id": "tv-21-5022853854041087629",
-          "key": "tv-21-5022853854041087629",
+          "id": "tv-21-7834930399857389227",
+          "key": "tv-21-7834930399857389227",
           "category": "TV",
           "label": "TV",
           "headline": "‘Camp Rock 3’ Surprise! Demi Lovato Reprises Role as Mitchie in Disney’s Movie",
@@ -2524,7 +2526,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-11 06:05:27 AM ET"
+      "updated_at": "2026-08-11 07:44:05 AM ET"
     },
     {
       "key": "streaming",
@@ -2542,8 +2544,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "streaming-0-6426480311582009075",
-          "key": "streaming-0-6426480311582009075",
+          "id": "streaming-0-4994834915276303115",
+          "key": "streaming-0-4994834915276303115",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'The Last House' to 'Obsession,' 10 movies to stream right now - USA Today",
@@ -2570,8 +2572,8 @@
           ]
         },
         {
-          "id": "streaming-1-5526390117747849236",
-          "key": "streaming-1-5526390117747849236",
+          "id": "streaming-1-6137687482544909391",
+          "key": "streaming-1-6137687482544909391",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Disney turns $4-billion streaming loss into profit, and now it chases global growth - latimes.com",
@@ -2600,8 +2602,8 @@
       ],
       "items": [
         {
-          "id": "streaming-0-6426480311582009075",
-          "key": "streaming-0-6426480311582009075",
+          "id": "streaming-0-4994834915276303115",
+          "key": "streaming-0-4994834915276303115",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'The Last House' to 'Obsession,' 10 movies to stream right now - USA Today",
@@ -2628,8 +2630,8 @@
           ]
         },
         {
-          "id": "streaming-1-5526390117747849236",
-          "key": "streaming-1-5526390117747849236",
+          "id": "streaming-1-6137687482544909391",
+          "key": "streaming-1-6137687482544909391",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Disney turns $4-billion streaming loss into profit, and now it chases global growth - latimes.com",
@@ -2656,7 +2658,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-11 06:05:28 AM ET"
+      "updated_at": "2026-08-11 07:44:06 AM ET"
     },
     {
       "key": "music",
@@ -2681,8 +2683,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "music-0-5320707798477093555",
-          "key": "music-0-5320707798477093555",
+          "id": "music-0-2074800192640743913",
+          "key": "music-0-2074800192640743913",
           "category": "Music",
           "label": "Music",
           "headline": "Ella Langley’s ‘Choosin’ Texas’ Spends 17th Week at No. 1, Now Solely Holds Fourth Place Spot Among All-Time Hot 100 Streaks",
@@ -2709,8 +2711,8 @@
           ]
         },
         {
-          "id": "music-10-8302841683284334601",
-          "key": "music-10-8302841683284334601",
+          "id": "music-10-2936800038829057590",
+          "key": "music-10-2936800038829057590",
           "category": "Music",
           "label": "Music",
           "headline": "Laufey Reveals the One Thing She’s Still Terrified of Doing Onstage",
@@ -2737,8 +2739,8 @@
           ]
         },
         {
-          "id": "music-20-7836208092768912506",
-          "key": "music-20-7836208092768912506",
+          "id": "music-20-7991622329730848533",
+          "key": "music-20-7991622329730848533",
           "category": "Music",
           "label": "Music",
           "headline": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - Billboard",
@@ -2765,8 +2767,8 @@
           ]
         },
         {
-          "id": "music-1-4127988942715876281",
-          "key": "music-1-4127988942715876281",
+          "id": "music-1-7840341847365024109",
+          "key": "music-1-7840341847365024109",
           "category": "Music",
           "label": "Music",
           "headline": "What to Know About Tupac’s Murder Trial and Suspect Duane ‘Keffe D’ Davis",
@@ -2793,8 +2795,8 @@
           ]
         },
         {
-          "id": "music-11-6448530494416011808",
-          "key": "music-11-6448530494416011808",
+          "id": "music-11-4295936362479837708",
+          "key": "music-11-4295936362479837708",
           "category": "Music",
           "label": "Music",
           "headline": "aespa’s Karina Makes Converse Debut by Modeling Two Distinct Footwear Styles: Shop Here",
@@ -2821,8 +2823,8 @@
           ]
         },
         {
-          "id": "music-21-9056483908524005559",
-          "key": "music-21-9056483908524005559",
+          "id": "music-21-1190595067663898965",
+          "key": "music-21-1190595067663898965",
           "category": "Music",
           "label": "Music",
           "headline": "It’s Official: Influence Media to Buy Anthem for Over $600 Million - Billboard",
@@ -2851,8 +2853,8 @@
       ],
       "items": [
         {
-          "id": "music-0-5320707798477093555",
-          "key": "music-0-5320707798477093555",
+          "id": "music-0-2074800192640743913",
+          "key": "music-0-2074800192640743913",
           "category": "Music",
           "label": "Music",
           "headline": "Ella Langley’s ‘Choosin’ Texas’ Spends 17th Week at No. 1, Now Solely Holds Fourth Place Spot Among All-Time Hot 100 Streaks",
@@ -2879,8 +2881,8 @@
           ]
         },
         {
-          "id": "music-10-8302841683284334601",
-          "key": "music-10-8302841683284334601",
+          "id": "music-10-2936800038829057590",
+          "key": "music-10-2936800038829057590",
           "category": "Music",
           "label": "Music",
           "headline": "Laufey Reveals the One Thing She’s Still Terrified of Doing Onstage",
@@ -2907,8 +2909,8 @@
           ]
         },
         {
-          "id": "music-20-7836208092768912506",
-          "key": "music-20-7836208092768912506",
+          "id": "music-20-7991622329730848533",
+          "key": "music-20-7991622329730848533",
           "category": "Music",
           "label": "Music",
           "headline": "Sony’s Global Music Biz Revenue Tops $3.53 Billion on 36% Surge in Vinyl, Live, Merch Sales - Billboard",
@@ -2935,8 +2937,8 @@
           ]
         },
         {
-          "id": "music-1-4127988942715876281",
-          "key": "music-1-4127988942715876281",
+          "id": "music-1-7840341847365024109",
+          "key": "music-1-7840341847365024109",
           "category": "Music",
           "label": "Music",
           "headline": "What to Know About Tupac’s Murder Trial and Suspect Duane ‘Keffe D’ Davis",
@@ -2963,8 +2965,8 @@
           ]
         },
         {
-          "id": "music-11-6448530494416011808",
-          "key": "music-11-6448530494416011808",
+          "id": "music-11-4295936362479837708",
+          "key": "music-11-4295936362479837708",
           "category": "Music",
           "label": "Music",
           "headline": "aespa’s Karina Makes Converse Debut by Modeling Two Distinct Footwear Styles: Shop Here",
@@ -2991,8 +2993,8 @@
           ]
         },
         {
-          "id": "music-21-9056483908524005559",
-          "key": "music-21-9056483908524005559",
+          "id": "music-21-1190595067663898965",
+          "key": "music-21-1190595067663898965",
           "category": "Music",
           "label": "Music",
           "headline": "It’s Official: Influence Media to Buy Anthem for Over $600 Million - Billboard",
@@ -3019,7 +3021,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-11 06:05:29 AM ET"
+      "updated_at": "2026-08-11 07:44:06 AM ET"
     },
     {
       "key": "awards",
@@ -3037,8 +3039,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "awards-0-5220564981406303444",
-          "key": "awards-0-5220564981406303444",
+          "id": "awards-0-6638867069730228212",
+          "key": "awards-0-6638867069730228212",
           "category": "Awards",
           "label": "Awards",
           "headline": "William H. Macy, Shawn Hatosy and Troy Kotsur Among Astra TV Awards Honorees; Lisa Ann Walter Set as Host",
@@ -3065,8 +3067,8 @@
           ]
         },
         {
-          "id": "awards-1-3122027762438059350",
-          "key": "awards-1-3122027762438059350",
+          "id": "awards-1-1701935640508708742",
+          "key": "awards-1-1701935640508708742",
           "category": "Awards",
           "label": "Awards",
           "headline": "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
@@ -3095,8 +3097,8 @@
       ],
       "items": [
         {
-          "id": "awards-0-5220564981406303444",
-          "key": "awards-0-5220564981406303444",
+          "id": "awards-0-6638867069730228212",
+          "key": "awards-0-6638867069730228212",
           "category": "Awards",
           "label": "Awards",
           "headline": "William H. Macy, Shawn Hatosy and Troy Kotsur Among Astra TV Awards Honorees; Lisa Ann Walter Set as Host",
@@ -3123,8 +3125,8 @@
           ]
         },
         {
-          "id": "awards-1-3122027762438059350",
-          "key": "awards-1-3122027762438059350",
+          "id": "awards-1-1701935640508708742",
+          "key": "awards-1-1701935640508708742",
           "category": "Awards",
           "label": "Awards",
           "headline": "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
@@ -3151,47 +3153,47 @@
           ]
         }
       ],
-      "updated_at": "2026-08-11 06:05:30 AM ET"
+      "updated_at": "2026-08-11 07:44:07 AM ET"
     },
     {
       "key": "box_office",
       "name": "Box Office",
       "title": "Box Office Report",
-      "headline": "‘Spider-Man: Brand New Day’ Becomes Highest Grossing Hollywood Film in India",
+      "headline": "LISTEN: Summer Box Office Will Surpass the $4 Billion Benchmark",
       "snapshot": "Box Office coverage is updating with 4 current RSS headline item(s).",
       "key_storylines": [
-        "‘Spider-Man: Brand New Day’ Becomes Highest Grossing Hollywood Film in India",
+        "LISTEN: Summer Box Office Will Surpass the $4 Billion Benchmark",
         "‘Spider-Man: Brand New Day’ Scores $145M for Third-Best Second Weekend Ever - The Hollywood Reporter",
-        "Korea Box Office: ‘The Odyssey’ Bests ‘Spider-Man: Brand New Day’",
+        "‘Spider-Man: Brand New Day’ Becomes Highest Grossing Hollywood Film in India",
         "Spider-Man: Brand New Day Box Office: Becomes first Hollywood film to enter Rs. 400 crore club in India - Bollywood Hungama"
       ],
       "watch_list": [
-        "‘Spider-Man: Brand New Day’ Becomes Highest Grossing Hollywood Film in India",
+        "LISTEN: Summer Box Office Will Surpass the $4 Billion Benchmark",
         "‘Spider-Man: Brand New Day’ Scores $145M for Third-Best Second Weekend Ever - The Hollywood Reporter",
-        "Korea Box Office: ‘The Odyssey’ Bests ‘Spider-Man: Brand New Day’",
+        "‘Spider-Man: Brand New Day’ Becomes Highest Grossing Hollywood Film in India",
         "Spider-Man: Brand New Day Box Office: Becomes first Hollywood film to enter Rs. 400 crore club in India - Bollywood Hungama"
       ],
       "homepage_cards": [
         {
-          "id": "box_office-0-8073024887051141415",
-          "key": "box_office-0-8073024887051141415",
+          "id": "box_office-0-1993639850123767944",
+          "key": "box_office-0-1993639850123767944",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "‘Spider-Man: Brand New Day’ Becomes Highest Grossing Hollywood Film in India",
-          "title": "‘Spider-Man: Brand New Day’ Becomes Highest Grossing Hollywood Film in India",
-          "snapshot": "Sony’s “Spider-Man: Brand New Day” has become the highest-grossing Hollywood film in India, dethroning “Avatar: The Way of Water.” A $10.6 million weekend boosted the “Spider-Man: Brand New Day” India total to $52.8 million, according to Sony. “Avatar: The Way of Water” had a lifetime gross of $50.8 million. The res...",
-          "summary": "Sony’s “Spider-Man: Brand New Day” has become the highest-grossing Hollywood film in India, dethroning “Avatar: The Way of Water.” A $10.6 million weekend boosted the “Spider-Man: Brand New Day” India total to $52.8 million, according to Sony. “Avatar: The Way of Water” had a lifetime gross of $50.8 million. The res...",
-          "url": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-india-box-office-record-1236827437/",
+          "headline": "LISTEN: Summer Box Office Will Surpass the $4 Billion Benchmark",
+          "title": "LISTEN: Summer Box Office Will Surpass the $4 Billion Benchmark",
+          "snapshot": "On today’s episode, in our Box Office segment, Variety’s Rebecca Rubin reports that the good news keeps on coming for the movie biz as “Spider Man: Brand New Day” soars in weekend two and “The Odyssey” becomes Christopher Nolan’s highest-grossing film. Most important, the summer tally to date has already hit the $4...",
+          "summary": "On today’s episode, in our Box Office segment, Variety’s Rebecca Rubin reports that the good news keeps on coming for the movie biz as “Spider Man: Brand New Day” soars in weekend two and “The Odyssey” becomes Christopher Nolan’s highest-grossing film. Most important, the summer tally to date has already hit the $4...",
+          "url": "https://variety.com/2026/film/box-office/summer-box-office-4-billion-benchmark-daily-variety-1236831774/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/box-office/feed/",
-          "published_at": "2026-08-10 03:36:13 AM ET",
+          "published_at": "2026-08-10 05:18:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "‘Spider-Man: Brand New Day’ Becomes Highest Grossing Hollywood Film in India"
+            "LISTEN: Summer Box Office Will Surpass the $4 Billion Benchmark"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3201,8 +3203,8 @@
           ]
         },
         {
-          "id": "box_office-8-1930301511767949720",
-          "key": "box_office-8-1930301511767949720",
+          "id": "box_office-9-4449712872580756293",
+          "key": "box_office-9-4449712872580756293",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Spider-Man: Brand New Day’ Scores $145M for Third-Best Second Weekend Ever - The Hollywood Reporter",
@@ -3217,7 +3219,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 92,
+          "priority_score": 91,
           "key_data": [
             "‘Spider-Man: Brand New Day’ Scores $145M for Third-Best Second Weekend Ever - The Hollywood Reporter"
           ],
@@ -3229,25 +3231,25 @@
           ]
         },
         {
-          "id": "box_office-1-5046227866282272059",
-          "key": "box_office-1-5046227866282272059",
+          "id": "box_office-1-5469948143036709817",
+          "key": "box_office-1-5469948143036709817",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "Korea Box Office: ‘The Odyssey’ Bests ‘Spider-Man: Brand New Day’",
-          "title": "Korea Box Office: ‘The Odyssey’ Bests ‘Spider-Man: Brand New Day’",
-          "snapshot": "“The Odyssey” sailed to the top of the South Korean box office during the weekend of Aug. 7–9. According to data from KOBIS, the tracking service operated by the Korean Film Council, the Christopher Nolan-directed epic generated $10.3 million from 1,333,569 admissions over the three-day frame across 1,798 screens, c...",
-          "summary": "“The Odyssey” sailed to the top of the South Korean box office during the weekend of Aug. 7–9. According to data from KOBIS, the tracking service operated by the Korean Film Council, the Christopher Nolan-directed epic generated $10.3 million from 1,333,569 admissions over the three-day frame across 1,798 screens, c...",
-          "url": "https://variety.com/2026/film/box-office/korea-box-office-the-odyssey-spider-man-brand-new-day-1236831065/",
+          "headline": "‘Spider-Man: Brand New Day’ Becomes Highest Grossing Hollywood Film in India",
+          "title": "‘Spider-Man: Brand New Day’ Becomes Highest Grossing Hollywood Film in India",
+          "snapshot": "Sony’s “Spider-Man: Brand New Day” has become the highest-grossing Hollywood film in India, dethroning “Avatar: The Way of Water.” A $10.6 million weekend boosted the “Spider-Man: Brand New Day” India total to $52.8 million, according to Sony. “Avatar: The Way of Water” had a lifetime gross of $50.8 million. The res...",
+          "summary": "Sony’s “Spider-Man: Brand New Day” has become the highest-grossing Hollywood film in India, dethroning “Avatar: The Way of Water.” A $10.6 million weekend boosted the “Spider-Man: Brand New Day” India total to $52.8 million, according to Sony. “Avatar: The Way of Water” had a lifetime gross of $50.8 million. The res...",
+          "url": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-india-box-office-record-1236827437/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/box-office/feed/",
-          "published_at": "2026-08-10 02:16:56 AM ET",
+          "published_at": "2026-08-10 03:36:13 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Korea Box Office: ‘The Odyssey’ Bests ‘Spider-Man: Brand New Day’"
+            "‘Spider-Man: Brand New Day’ Becomes Highest Grossing Hollywood Film in India"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3257,8 +3259,8 @@
           ]
         },
         {
-          "id": "box_office-9-3207347120038187643",
-          "key": "box_office-9-3207347120038187643",
+          "id": "box_office-10-3080118885366629708",
+          "key": "box_office-10-3080118885366629708",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Spider-Man: Brand New Day Box Office: Becomes first Hollywood film to enter Rs. 400 crore club in India - Bollywood Hungama",
@@ -3273,7 +3275,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 91,
+          "priority_score": 90,
           "key_data": [
             "Spider-Man: Brand New Day Box Office: Becomes first Hollywood film to enter Rs. 400 crore club in India - Bollywood Hungama"
           ],
@@ -3287,25 +3289,25 @@
       ],
       "items": [
         {
-          "id": "box_office-0-8073024887051141415",
-          "key": "box_office-0-8073024887051141415",
+          "id": "box_office-0-1993639850123767944",
+          "key": "box_office-0-1993639850123767944",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "‘Spider-Man: Brand New Day’ Becomes Highest Grossing Hollywood Film in India",
-          "title": "‘Spider-Man: Brand New Day’ Becomes Highest Grossing Hollywood Film in India",
-          "snapshot": "Sony’s “Spider-Man: Brand New Day” has become the highest-grossing Hollywood film in India, dethroning “Avatar: The Way of Water.” A $10.6 million weekend boosted the “Spider-Man: Brand New Day” India total to $52.8 million, according to Sony. “Avatar: The Way of Water” had a lifetime gross of $50.8 million. The res...",
-          "summary": "Sony’s “Spider-Man: Brand New Day” has become the highest-grossing Hollywood film in India, dethroning “Avatar: The Way of Water.” A $10.6 million weekend boosted the “Spider-Man: Brand New Day” India total to $52.8 million, according to Sony. “Avatar: The Way of Water” had a lifetime gross of $50.8 million. The res...",
-          "url": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-india-box-office-record-1236827437/",
+          "headline": "LISTEN: Summer Box Office Will Surpass the $4 Billion Benchmark",
+          "title": "LISTEN: Summer Box Office Will Surpass the $4 Billion Benchmark",
+          "snapshot": "On today’s episode, in our Box Office segment, Variety’s Rebecca Rubin reports that the good news keeps on coming for the movie biz as “Spider Man: Brand New Day” soars in weekend two and “The Odyssey” becomes Christopher Nolan’s highest-grossing film. Most important, the summer tally to date has already hit the $4...",
+          "summary": "On today’s episode, in our Box Office segment, Variety’s Rebecca Rubin reports that the good news keeps on coming for the movie biz as “Spider Man: Brand New Day” soars in weekend two and “The Odyssey” becomes Christopher Nolan’s highest-grossing film. Most important, the summer tally to date has already hit the $4...",
+          "url": "https://variety.com/2026/film/box-office/summer-box-office-4-billion-benchmark-daily-variety-1236831774/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/box-office/feed/",
-          "published_at": "2026-08-10 03:36:13 AM ET",
+          "published_at": "2026-08-10 05:18:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "‘Spider-Man: Brand New Day’ Becomes Highest Grossing Hollywood Film in India"
+            "LISTEN: Summer Box Office Will Surpass the $4 Billion Benchmark"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3315,8 +3317,8 @@
           ]
         },
         {
-          "id": "box_office-8-1930301511767949720",
-          "key": "box_office-8-1930301511767949720",
+          "id": "box_office-9-4449712872580756293",
+          "key": "box_office-9-4449712872580756293",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Spider-Man: Brand New Day’ Scores $145M for Third-Best Second Weekend Ever - The Hollywood Reporter",
@@ -3331,7 +3333,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 92,
+          "priority_score": 91,
           "key_data": [
             "‘Spider-Man: Brand New Day’ Scores $145M for Third-Best Second Weekend Ever - The Hollywood Reporter"
           ],
@@ -3343,25 +3345,25 @@
           ]
         },
         {
-          "id": "box_office-1-5046227866282272059",
-          "key": "box_office-1-5046227866282272059",
+          "id": "box_office-1-5469948143036709817",
+          "key": "box_office-1-5469948143036709817",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "Korea Box Office: ‘The Odyssey’ Bests ‘Spider-Man: Brand New Day’",
-          "title": "Korea Box Office: ‘The Odyssey’ Bests ‘Spider-Man: Brand New Day’",
-          "snapshot": "“The Odyssey” sailed to the top of the South Korean box office during the weekend of Aug. 7–9. According to data from KOBIS, the tracking service operated by the Korean Film Council, the Christopher Nolan-directed epic generated $10.3 million from 1,333,569 admissions over the three-day frame across 1,798 screens, c...",
-          "summary": "“The Odyssey” sailed to the top of the South Korean box office during the weekend of Aug. 7–9. According to data from KOBIS, the tracking service operated by the Korean Film Council, the Christopher Nolan-directed epic generated $10.3 million from 1,333,569 admissions over the three-day frame across 1,798 screens, c...",
-          "url": "https://variety.com/2026/film/box-office/korea-box-office-the-odyssey-spider-man-brand-new-day-1236831065/",
+          "headline": "‘Spider-Man: Brand New Day’ Becomes Highest Grossing Hollywood Film in India",
+          "title": "‘Spider-Man: Brand New Day’ Becomes Highest Grossing Hollywood Film in India",
+          "snapshot": "Sony’s “Spider-Man: Brand New Day” has become the highest-grossing Hollywood film in India, dethroning “Avatar: The Way of Water.” A $10.6 million weekend boosted the “Spider-Man: Brand New Day” India total to $52.8 million, according to Sony. “Avatar: The Way of Water” had a lifetime gross of $50.8 million. The res...",
+          "summary": "Sony’s “Spider-Man: Brand New Day” has become the highest-grossing Hollywood film in India, dethroning “Avatar: The Way of Water.” A $10.6 million weekend boosted the “Spider-Man: Brand New Day” India total to $52.8 million, according to Sony. “Avatar: The Way of Water” had a lifetime gross of $50.8 million. The res...",
+          "url": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-india-box-office-record-1236827437/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/box-office/feed/",
-          "published_at": "2026-08-10 02:16:56 AM ET",
+          "published_at": "2026-08-10 03:36:13 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Korea Box Office: ‘The Odyssey’ Bests ‘Spider-Man: Brand New Day’"
+            "‘Spider-Man: Brand New Day’ Becomes Highest Grossing Hollywood Film in India"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3371,8 +3373,8 @@
           ]
         },
         {
-          "id": "box_office-9-3207347120038187643",
-          "key": "box_office-9-3207347120038187643",
+          "id": "box_office-10-3080118885366629708",
+          "key": "box_office-10-3080118885366629708",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Spider-Man: Brand New Day Box Office: Becomes first Hollywood film to enter Rs. 400 crore club in India - Bollywood Hungama",
@@ -3387,7 +3389,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 91,
+          "priority_score": 90,
           "key_data": [
             "Spider-Man: Brand New Day Box Office: Becomes first Hollywood film to enter Rs. 400 crore club in India - Bollywood Hungama"
           ],
@@ -3399,7 +3401,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-11 06:05:30 AM ET"
+      "updated_at": "2026-08-11 07:44:08 AM ET"
     },
     {
       "key": "celebrity",
@@ -3409,16 +3411,16 @@
       "snapshot": "Celebrity coverage is updating with 2 current RSS headline item(s).",
       "key_storylines": [
         "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
-        "Celebrity Deaths of 2026: Dukes of Hazzard’s Ben Jones and More Stars We’ve Lost This Year - Us Weekly"
+        "Celebrity Deaths of 2026: Phantasm’s Reggie Bannister and More Stars We’ve Lost This Year - Us Weekly"
       ],
       "watch_list": [
         "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
-        "Celebrity Deaths of 2026: Dukes of Hazzard’s Ben Jones and More Stars We’ve Lost This Year - Us Weekly"
+        "Celebrity Deaths of 2026: Phantasm’s Reggie Bannister and More Stars We’ve Lost This Year - Us Weekly"
       ],
       "homepage_cards": [
         {
-          "id": "celebrity-0-2051121846338962566",
-          "key": "celebrity-0-2051121846338962566",
+          "id": "celebrity-0-6570942170713680179",
+          "key": "celebrity-0-6570942170713680179",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3445,25 +3447,25 @@
           ]
         },
         {
-          "id": "celebrity-1-403285851944226584",
-          "key": "celebrity-1-403285851944226584",
+          "id": "celebrity-1-1594555513463814388",
+          "key": "celebrity-1-1594555513463814388",
           "category": "Celebrity",
           "label": "Celebrity",
-          "headline": "Celebrity Deaths of 2026: Dukes of Hazzard’s Ben Jones and More Stars We’ve Lost This Year - Us Weekly",
-          "title": "Celebrity Deaths of 2026: Dukes of Hazzard’s Ben Jones and More Stars We’ve Lost This Year - Us Weekly",
-          "snapshot": "Celebrity Deaths of 2026: Dukes of Hazzard’s Ben Jones and More Stars We’ve Lost This Year Us Weekly",
-          "summary": "Celebrity Deaths of 2026: Dukes of Hazzard’s Ben Jones and More Stars We’ve Lost This Year Us Weekly",
+          "headline": "Celebrity Deaths of 2026: Phantasm’s Reggie Bannister and More Stars We’ve Lost This Year - Us Weekly",
+          "title": "Celebrity Deaths of 2026: Phantasm’s Reggie Bannister and More Stars We’ve Lost This Year - Us Weekly",
+          "snapshot": "Celebrity Deaths of 2026: Phantasm’s Reggie Bannister and More Stars We’ve Lost This Year Us Weekly",
+          "summary": "Celebrity Deaths of 2026: Phantasm’s Reggie Bannister and More Stars We’ve Lost This Year Us Weekly",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZjlCdHlXVERmNXlKZ3FNbndsOEc3WHNPZURITWdjN05kZHZzaTFFN2tyTlRwQmgxWllQelFkRXg2MU5hSVNvYUNoT1J0aC1iRUE3YkVXZno0SE5OMjBBM1lWUlQ0SGRDUl9yZ0x4enJqQy1jbFI5azZpLW96T3BxbTJsdXZLZmE0ZnRrSmpkdWgzZjJuOUxMQlFSU3RINFFRSTA3ZHE2UC1iME5ZSkdONTExek9QMENPdG94RlJ3VFU?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-11 12:22:49 AM ET",
+          "published_at": "2026-08-11 06:22:49 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Celebrity Deaths of 2026: Dukes of Hazzard’s Ben Jones and More Stars We’ve Lost This Year - Us Weekly"
+            "Celebrity Deaths of 2026: Phantasm’s Reggie Bannister and More Stars We’ve Lost This Year - Us Weekly"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3475,8 +3477,8 @@
       ],
       "items": [
         {
-          "id": "celebrity-0-2051121846338962566",
-          "key": "celebrity-0-2051121846338962566",
+          "id": "celebrity-0-6570942170713680179",
+          "key": "celebrity-0-6570942170713680179",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3503,25 +3505,25 @@
           ]
         },
         {
-          "id": "celebrity-1-403285851944226584",
-          "key": "celebrity-1-403285851944226584",
+          "id": "celebrity-1-1594555513463814388",
+          "key": "celebrity-1-1594555513463814388",
           "category": "Celebrity",
           "label": "Celebrity",
-          "headline": "Celebrity Deaths of 2026: Dukes of Hazzard’s Ben Jones and More Stars We’ve Lost This Year - Us Weekly",
-          "title": "Celebrity Deaths of 2026: Dukes of Hazzard’s Ben Jones and More Stars We’ve Lost This Year - Us Weekly",
-          "snapshot": "Celebrity Deaths of 2026: Dukes of Hazzard’s Ben Jones and More Stars We’ve Lost This Year Us Weekly",
-          "summary": "Celebrity Deaths of 2026: Dukes of Hazzard’s Ben Jones and More Stars We’ve Lost This Year Us Weekly",
+          "headline": "Celebrity Deaths of 2026: Phantasm’s Reggie Bannister and More Stars We’ve Lost This Year - Us Weekly",
+          "title": "Celebrity Deaths of 2026: Phantasm’s Reggie Bannister and More Stars We’ve Lost This Year - Us Weekly",
+          "snapshot": "Celebrity Deaths of 2026: Phantasm’s Reggie Bannister and More Stars We’ve Lost This Year Us Weekly",
+          "summary": "Celebrity Deaths of 2026: Phantasm’s Reggie Bannister and More Stars We’ve Lost This Year Us Weekly",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZjlCdHlXVERmNXlKZ3FNbndsOEc3WHNPZURITWdjN05kZHZzaTFFN2tyTlRwQmgxWllQelFkRXg2MU5hSVNvYUNoT1J0aC1iRUE3YkVXZno0SE5OMjBBM1lWUlQ0SGRDUl9yZ0x4enJqQy1jbFI5azZpLW96T3BxbTJsdXZLZmE0ZnRrSmpkdWgzZjJuOUxMQlFSU3RINFFRSTA3ZHE2UC1iME5ZSkdONTExek9QMENPdG94RlJ3VFU?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-11 12:22:49 AM ET",
+          "published_at": "2026-08-11 06:22:49 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Celebrity Deaths of 2026: Dukes of Hazzard’s Ben Jones and More Stars We’ve Lost This Year - Us Weekly"
+            "Celebrity Deaths of 2026: Phantasm’s Reggie Bannister and More Stars We’ve Lost This Year - Us Weekly"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3531,22 +3533,23 @@
           ]
         }
       ],
-      "updated_at": "2026-08-11 06:05:31 AM ET"
+      "updated_at": "2026-08-11 07:44:09 AM ET"
     },
     {
       "key": "hollywood",
       "name": "Hollywood",
       "title": "Hollywood Report",
-      "headline": "Hong Kong Filmmaker Ann Hui To Receive Camellia Award At Busan International Film Festival",
-      "snapshot": "Hollywood coverage is updating with 6 current RSS headline item(s).",
+      "headline": "‘The Chosen’ Star Jonathan Roumie to Voice Banijay Live’s ‘Luminiscence’ Experience at St. Patrick’s Cathedral",
+      "snapshot": "Hollywood coverage is updating with 7 current RSS headline item(s).",
       "key_storylines": [
+        "‘The Chosen’ Star Jonathan Roumie to Voice Banijay Live’s ‘Luminiscence’ Experience at St. Patrick’s Cathedral",
         "Hong Kong Filmmaker Ann Hui To Receive Camellia Award At Busan International Film Festival",
         "RTL Boss Clement Schwebig on the Hybrid Future of European TV: “Scale Is Essential”",
         "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
-        "Nikki Glaser Signs With WME",
-        "European Broadcast Giant RTL Group Bets on Streaming to Fuel Growth"
+        "Nikki Glaser Signs With WME"
       ],
       "watch_list": [
+        "‘The Chosen’ Star Jonathan Roumie to Voice Banijay Live’s ‘Luminiscence’ Experience at St. Patrick’s Cathedral",
         "Hong Kong Filmmaker Ann Hui To Receive Camellia Award At Busan International Film Festival",
         "RTL Boss Clement Schwebig on the Hybrid Future of European TV: “Scale Is Essential”",
         "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
@@ -3556,8 +3559,36 @@
       ],
       "homepage_cards": [
         {
-          "id": "hollywood-0-7847510607649942437",
-          "key": "hollywood-0-7847510607649942437",
+          "id": "hollywood-0-1883963414732916241",
+          "key": "hollywood-0-1883963414732916241",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "‘The Chosen’ Star Jonathan Roumie to Voice Banijay Live’s ‘Luminiscence’ Experience at St. Patrick’s Cathedral",
+          "title": "‘The Chosen’ Star Jonathan Roumie to Voice Banijay Live’s ‘Luminiscence’ Experience at St. Patrick’s Cathedral",
+          "snapshot": "Banijay is expanding its “Luminiscence” immersive experience franchise in the U.S. with an installation at New York’s iconic St. Patrick’s Cathedral that opens Oct. 1. To take viewers through the experience as narrator, the Banijay Live unit behind the “Luminiscence” business has tapped an actor who has logged more...",
+          "summary": "Banijay is expanding its “Luminiscence” immersive experience franchise in the U.S. with an installation at New York’s iconic St. Patrick’s Cathedral that opens Oct. 1. To take viewers through the experience as narrator, the Banijay Live unit behind the “Luminiscence” business has tapped an actor who has logged more...",
+          "url": "https://variety.com/2026/biz/news/jonathan-roumie-chosen-st-patricks-immersive-banijay-1236831784/",
+          "source": "Variety",
+          "source_name": "Variety",
+          "source_feed": "https://variety.com/feed/",
+          "published_at": "2026-08-11 07:00:00 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 100,
+          "key_data": [
+            "‘The Chosen’ Star Jonathan Roumie to Voice Banijay Live’s ‘Luminiscence’ Experience at St. Patrick’s Cathedral"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-1-8800889971113422976",
+          "key": "hollywood-1-8800889971113422976",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Hong Kong Filmmaker Ann Hui To Receive Camellia Award At Busan International Film Festival",
@@ -3572,7 +3603,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 100,
+          "priority_score": 99,
           "key_data": [
             "Hong Kong Filmmaker Ann Hui To Receive Camellia Award At Busan International Film Festival"
           ],
@@ -3584,8 +3615,8 @@
           ]
         },
         {
-          "id": "hollywood-2-7832992490504442647",
-          "key": "hollywood-2-7832992490504442647",
+          "id": "hollywood-3-6916934217515011195",
+          "key": "hollywood-3-6916934217515011195",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "RTL Boss Clement Schwebig on the Hybrid Future of European TV: “Scale Is Essential”",
@@ -3600,7 +3631,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 98,
+          "priority_score": 97,
           "key_data": [
             "RTL Boss Clement Schwebig on the Hybrid Future of European TV: “Scale Is Essential”"
           ],
@@ -3612,8 +3643,8 @@
           ]
         },
         {
-          "id": "hollywood-6-8265491227930270875",
-          "key": "hollywood-6-8265491227930270875",
+          "id": "hollywood-7-2596188582540208517",
+          "key": "hollywood-7-2596188582540208517",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
@@ -3628,7 +3659,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 94,
+          "priority_score": 93,
           "key_data": [
             "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University"
           ],
@@ -3640,8 +3671,8 @@
           ]
         },
         {
-          "id": "hollywood-1-389477741529577290",
-          "key": "hollywood-1-389477741529577290",
+          "id": "hollywood-2-8840918472426472966",
+          "key": "hollywood-2-8840918472426472966",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Nikki Glaser Signs With WME",
@@ -3656,7 +3687,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 99,
+          "priority_score": 98,
           "key_data": [
             "Nikki Glaser Signs With WME"
           ],
@@ -3668,8 +3699,8 @@
           ]
         },
         {
-          "id": "hollywood-3-2878129377070548705",
-          "key": "hollywood-3-2878129377070548705",
+          "id": "hollywood-4-6088888907741318728",
+          "key": "hollywood-4-6088888907741318728",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "European Broadcast Giant RTL Group Bets on Streaming to Fuel Growth",
@@ -3684,7 +3715,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 97,
+          "priority_score": 96,
           "key_data": [
             "European Broadcast Giant RTL Group Bets on Streaming to Fuel Growth"
           ],
@@ -3696,8 +3727,8 @@
           ]
         },
         {
-          "id": "hollywood-7-8153717256212860630",
-          "key": "hollywood-7-8153717256212860630",
+          "id": "hollywood-8-1871684772380430774",
+          "key": "hollywood-8-1871684772380430774",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "The Future Of Young Hollywood Is Bright, Thanks To These Rising Stars - Refinery29",
@@ -3712,7 +3743,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 93,
+          "priority_score": 92,
           "key_data": [
             "The Future Of Young Hollywood Is Bright, Thanks To These Rising Stars - Refinery29"
           ],
@@ -3726,8 +3757,36 @@
       ],
       "items": [
         {
-          "id": "hollywood-0-7847510607649942437",
-          "key": "hollywood-0-7847510607649942437",
+          "id": "hollywood-0-1883963414732916241",
+          "key": "hollywood-0-1883963414732916241",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "‘The Chosen’ Star Jonathan Roumie to Voice Banijay Live’s ‘Luminiscence’ Experience at St. Patrick’s Cathedral",
+          "title": "‘The Chosen’ Star Jonathan Roumie to Voice Banijay Live’s ‘Luminiscence’ Experience at St. Patrick’s Cathedral",
+          "snapshot": "Banijay is expanding its “Luminiscence” immersive experience franchise in the U.S. with an installation at New York’s iconic St. Patrick’s Cathedral that opens Oct. 1. To take viewers through the experience as narrator, the Banijay Live unit behind the “Luminiscence” business has tapped an actor who has logged more...",
+          "summary": "Banijay is expanding its “Luminiscence” immersive experience franchise in the U.S. with an installation at New York’s iconic St. Patrick’s Cathedral that opens Oct. 1. To take viewers through the experience as narrator, the Banijay Live unit behind the “Luminiscence” business has tapped an actor who has logged more...",
+          "url": "https://variety.com/2026/biz/news/jonathan-roumie-chosen-st-patricks-immersive-banijay-1236831784/",
+          "source": "Variety",
+          "source_name": "Variety",
+          "source_feed": "https://variety.com/feed/",
+          "published_at": "2026-08-11 07:00:00 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 100,
+          "key_data": [
+            "‘The Chosen’ Star Jonathan Roumie to Voice Banijay Live’s ‘Luminiscence’ Experience at St. Patrick’s Cathedral"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-1-8800889971113422976",
+          "key": "hollywood-1-8800889971113422976",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Hong Kong Filmmaker Ann Hui To Receive Camellia Award At Busan International Film Festival",
@@ -3742,7 +3801,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 100,
+          "priority_score": 99,
           "key_data": [
             "Hong Kong Filmmaker Ann Hui To Receive Camellia Award At Busan International Film Festival"
           ],
@@ -3754,8 +3813,8 @@
           ]
         },
         {
-          "id": "hollywood-2-7832992490504442647",
-          "key": "hollywood-2-7832992490504442647",
+          "id": "hollywood-3-6916934217515011195",
+          "key": "hollywood-3-6916934217515011195",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "RTL Boss Clement Schwebig on the Hybrid Future of European TV: “Scale Is Essential”",
@@ -3770,7 +3829,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 98,
+          "priority_score": 97,
           "key_data": [
             "RTL Boss Clement Schwebig on the Hybrid Future of European TV: “Scale Is Essential”"
           ],
@@ -3782,8 +3841,8 @@
           ]
         },
         {
-          "id": "hollywood-6-8265491227930270875",
-          "key": "hollywood-6-8265491227930270875",
+          "id": "hollywood-7-2596188582540208517",
+          "key": "hollywood-7-2596188582540208517",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
@@ -3798,7 +3857,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 94,
+          "priority_score": 93,
           "key_data": [
             "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University"
           ],
@@ -3810,8 +3869,8 @@
           ]
         },
         {
-          "id": "hollywood-1-389477741529577290",
-          "key": "hollywood-1-389477741529577290",
+          "id": "hollywood-2-8840918472426472966",
+          "key": "hollywood-2-8840918472426472966",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Nikki Glaser Signs With WME",
@@ -3826,7 +3885,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 99,
+          "priority_score": 98,
           "key_data": [
             "Nikki Glaser Signs With WME"
           ],
@@ -3838,8 +3897,8 @@
           ]
         },
         {
-          "id": "hollywood-3-2878129377070548705",
-          "key": "hollywood-3-2878129377070548705",
+          "id": "hollywood-4-6088888907741318728",
+          "key": "hollywood-4-6088888907741318728",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "European Broadcast Giant RTL Group Bets on Streaming to Fuel Growth",
@@ -3854,7 +3913,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 97,
+          "priority_score": 96,
           "key_data": [
             "European Broadcast Giant RTL Group Bets on Streaming to Fuel Growth"
           ],
@@ -3866,8 +3925,8 @@
           ]
         },
         {
-          "id": "hollywood-7-8153717256212860630",
-          "key": "hollywood-7-8153717256212860630",
+          "id": "hollywood-8-1871684772380430774",
+          "key": "hollywood-8-1871684772380430774",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "The Future Of Young Hollywood Is Bright, Thanks To These Rising Stars - Refinery29",
@@ -3882,7 +3941,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 93,
+          "priority_score": 92,
           "key_data": [
             "The Future Of Young Hollywood Is Bright, Thanks To These Rising Stars - Refinery29"
           ],
@@ -3894,45 +3953,45 @@
           ]
         }
       ],
-      "updated_at": "2026-08-11 06:05:32 AM ET"
+      "updated_at": "2026-08-11 07:44:13 AM ET"
     },
     {
       "key": "gaming",
       "name": "Gaming",
       "title": "Gaming Report",
-      "headline": "Halloween: The Game Refused Classification in Australia, So It Won’t Be Sold in New Zealand Despite the Fact That’s a Different Country",
+      "headline": "Saber CEO Admits 'Dig' at Gearbox Boss Randy Pitchford in New Game Trailer, Saying It's Payback for 'Shots at Embracer in Borderlands 4'",
       "snapshot": "Gaming coverage is updating with 3 current RSS headline item(s).",
       "key_storylines": [
-        "Halloween: The Game Refused Classification in Australia, So It Won’t Be Sold in New Zealand Despite the Fact That’s a Different Country",
+        "Saber CEO Admits 'Dig' at Gearbox Boss Randy Pitchford in New Game Trailer, Saying It's Payback for 'Shots at Embracer in Borderlands 4'",
         "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem - The Washington Post",
-        "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game"
+        "New, Temporary Time Attack Circuit Coming to Forza Horizon 6 for Four Weeks"
       ],
       "watch_list": [
-        "Halloween: The Game Refused Classification in Australia, So It Won’t Be Sold in New Zealand Despite the Fact That’s a Different Country",
+        "Saber CEO Admits 'Dig' at Gearbox Boss Randy Pitchford in New Game Trailer, Saying It's Payback for 'Shots at Embracer in Borderlands 4'",
         "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem - The Washington Post",
-        "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game"
+        "New, Temporary Time Attack Circuit Coming to Forza Horizon 6 for Four Weeks"
       ],
       "homepage_cards": [
         {
-          "id": "gaming-0-5953324084383540111",
-          "key": "gaming-0-5953324084383540111",
+          "id": "gaming-0-1634508282158959350",
+          "key": "gaming-0-1634508282158959350",
           "category": "Gaming",
           "label": "Gaming",
-          "headline": "Halloween: The Game Refused Classification in Australia, So It Won’t Be Sold in New Zealand Despite the Fact That’s a Different Country",
-          "title": "Halloween: The Game Refused Classification in Australia, So It Won’t Be Sold in New Zealand Despite the Fact That’s a Different Country",
-          "snapshot": "The determination involves Australia’s rules against having incentives for illicit drug use, but it’s entirely unclear why it impacts NZ, or why Illfonic won’t tweak its terminology to skirt the rules.",
-          "summary": "The determination involves Australia’s rules against having incentives for illicit drug use, but it’s entirely unclear why it impacts NZ, or why Illfonic won’t tweak its terminology to skirt the rules.",
-          "url": "https://www.ign.com/articles/halloween-the-game-refused-classification-in-australia-so-it-wont-be-sold-in-new-zealand-despite-the-fact-thats-a-different-country",
+          "headline": "Saber CEO Admits 'Dig' at Gearbox Boss Randy Pitchford in New Game Trailer, Saying It's Payback for 'Shots at Embracer in Borderlands 4'",
+          "title": "Saber CEO Admits 'Dig' at Gearbox Boss Randy Pitchford in New Game Trailer, Saying It's Payback for 'Shots at Embracer in Borderlands 4'",
+          "snapshot": "Beef between two high-profile video game industry CEOs has bubbled over into the public domain, via a trailer for new taxi simulation game Rideshare Stimulator.",
+          "summary": "Beef between two high-profile video game industry CEOs has bubbled over into the public domain, via a trailer for new taxi simulation game Rideshare Stimulator.",
+          "url": "https://www.ign.com/articles/saber-ceo-admits-dig-at-gearbox-boss-randy-pitchford-in-new-game-trailer-saying-its-payback-for-shots-at-embracer-in-borderlands-4",
           "source": "IGN",
           "source_name": "IGN",
           "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-          "published_at": "2026-08-11 02:50:47 AM ET",
+          "published_at": "2026-08-11 06:34:42 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Halloween: The Game Refused Classification in Australia, So It Won’t Be Sold in New Zealand Despite the Fact That’s a Different Country"
+            "Saber CEO Admits 'Dig' at Gearbox Boss Randy Pitchford in New Game Trailer, Saying It's Payback for 'Shots at Embracer in Borderlands 4'"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3942,8 +4001,8 @@
           ]
         },
         {
-          "id": "gaming-20-49017804523628259",
-          "key": "gaming-20-49017804523628259",
+          "id": "gaming-20-9108709786252106422",
+          "key": "gaming-20-9108709786252106422",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem - The Washington Post",
@@ -3970,25 +4029,25 @@
           ]
         },
         {
-          "id": "gaming-1-1368439967622591546",
-          "key": "gaming-1-1368439967622591546",
+          "id": "gaming-1-8254130583593105752",
+          "key": "gaming-1-8254130583593105752",
           "category": "Gaming",
           "label": "Gaming",
-          "headline": "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game",
-          "title": "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game",
-          "snapshot": "Grand Theft Auto 6 fans are pre-ordering the $100 Ultimate Edition more than the standard edition of the game.",
-          "summary": "Grand Theft Auto 6 fans are pre-ordering the $100 Ultimate Edition more than the standard edition of the game.",
-          "url": "https://www.ign.com/articles/gta-6-boss-says-more-people-are-pre-ordering-the-100-version-of-the-game",
+          "headline": "New, Temporary Time Attack Circuit Coming to Forza Horizon 6 for Four Weeks",
+          "title": "New, Temporary Time Attack Circuit Coming to Forza Horizon 6 for Four Weeks",
+          "snapshot": "The Horizon Mascot Party brings new cars, a new track, and new custom props.",
+          "summary": "The Horizon Mascot Party brings new cars, a new track, and new custom props.",
+          "url": "https://www.ign.com/articles/new-temporary-time-attack-circuit-coming-to-forza-horizon-6-for-four-weeks",
           "source": "IGN",
           "source_name": "IGN",
           "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-          "published_at": "2026-08-10 06:14:28 PM ET",
+          "published_at": "2026-08-11 06:14:46 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game"
+            "New, Temporary Time Attack Circuit Coming to Forza Horizon 6 for Four Weeks"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4000,25 +4059,25 @@
       ],
       "items": [
         {
-          "id": "gaming-0-5953324084383540111",
-          "key": "gaming-0-5953324084383540111",
+          "id": "gaming-0-1634508282158959350",
+          "key": "gaming-0-1634508282158959350",
           "category": "Gaming",
           "label": "Gaming",
-          "headline": "Halloween: The Game Refused Classification in Australia, So It Won’t Be Sold in New Zealand Despite the Fact That’s a Different Country",
-          "title": "Halloween: The Game Refused Classification in Australia, So It Won’t Be Sold in New Zealand Despite the Fact That’s a Different Country",
-          "snapshot": "The determination involves Australia’s rules against having incentives for illicit drug use, but it’s entirely unclear why it impacts NZ, or why Illfonic won’t tweak its terminology to skirt the rules.",
-          "summary": "The determination involves Australia’s rules against having incentives for illicit drug use, but it’s entirely unclear why it impacts NZ, or why Illfonic won’t tweak its terminology to skirt the rules.",
-          "url": "https://www.ign.com/articles/halloween-the-game-refused-classification-in-australia-so-it-wont-be-sold-in-new-zealand-despite-the-fact-thats-a-different-country",
+          "headline": "Saber CEO Admits 'Dig' at Gearbox Boss Randy Pitchford in New Game Trailer, Saying It's Payback for 'Shots at Embracer in Borderlands 4'",
+          "title": "Saber CEO Admits 'Dig' at Gearbox Boss Randy Pitchford in New Game Trailer, Saying It's Payback for 'Shots at Embracer in Borderlands 4'",
+          "snapshot": "Beef between two high-profile video game industry CEOs has bubbled over into the public domain, via a trailer for new taxi simulation game Rideshare Stimulator.",
+          "summary": "Beef between two high-profile video game industry CEOs has bubbled over into the public domain, via a trailer for new taxi simulation game Rideshare Stimulator.",
+          "url": "https://www.ign.com/articles/saber-ceo-admits-dig-at-gearbox-boss-randy-pitchford-in-new-game-trailer-saying-its-payback-for-shots-at-embracer-in-borderlands-4",
           "source": "IGN",
           "source_name": "IGN",
           "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-          "published_at": "2026-08-11 02:50:47 AM ET",
+          "published_at": "2026-08-11 06:34:42 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Halloween: The Game Refused Classification in Australia, So It Won’t Be Sold in New Zealand Despite the Fact That’s a Different Country"
+            "Saber CEO Admits 'Dig' at Gearbox Boss Randy Pitchford in New Game Trailer, Saying It's Payback for 'Shots at Embracer in Borderlands 4'"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4028,8 +4087,8 @@
           ]
         },
         {
-          "id": "gaming-20-49017804523628259",
-          "key": "gaming-20-49017804523628259",
+          "id": "gaming-20-9108709786252106422",
+          "key": "gaming-20-9108709786252106422",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem - The Washington Post",
@@ -4056,25 +4115,25 @@
           ]
         },
         {
-          "id": "gaming-1-1368439967622591546",
-          "key": "gaming-1-1368439967622591546",
+          "id": "gaming-1-8254130583593105752",
+          "key": "gaming-1-8254130583593105752",
           "category": "Gaming",
           "label": "Gaming",
-          "headline": "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game",
-          "title": "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game",
-          "snapshot": "Grand Theft Auto 6 fans are pre-ordering the $100 Ultimate Edition more than the standard edition of the game.",
-          "summary": "Grand Theft Auto 6 fans are pre-ordering the $100 Ultimate Edition more than the standard edition of the game.",
-          "url": "https://www.ign.com/articles/gta-6-boss-says-more-people-are-pre-ordering-the-100-version-of-the-game",
+          "headline": "New, Temporary Time Attack Circuit Coming to Forza Horizon 6 for Four Weeks",
+          "title": "New, Temporary Time Attack Circuit Coming to Forza Horizon 6 for Four Weeks",
+          "snapshot": "The Horizon Mascot Party brings new cars, a new track, and new custom props.",
+          "summary": "The Horizon Mascot Party brings new cars, a new track, and new custom props.",
+          "url": "https://www.ign.com/articles/new-temporary-time-attack-circuit-coming-to-forza-horizon-6-for-four-weeks",
           "source": "IGN",
           "source_name": "IGN",
           "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-          "published_at": "2026-08-10 06:14:28 PM ET",
+          "published_at": "2026-08-11 06:14:46 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game"
+            "New, Temporary Time Attack Circuit Coming to Forza Horizon 6 for Four Weeks"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4084,7 +4143,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-11 06:05:32 AM ET"
+      "updated_at": "2026-08-11 07:44:14 AM ET"
     },
     {
       "key": "media",
@@ -4108,8 +4167,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "media-0-4306070639850201222",
-          "key": "media-0-4306070639850201222",
+          "id": "media-0-8166424678458202628",
+          "key": "media-0-8166424678458202628",
           "category": "Media",
           "label": "Media",
           "headline": "UTA Signs ‘Forgotten Island’ Writer-Director Januel Mercado (EXCLUSIVE)",
@@ -4136,8 +4195,8 @@
           ]
         },
         {
-          "id": "media-10-1046813892268169967",
-          "key": "media-10-1046813892268169967",
+          "id": "media-9-3665712888601168170",
+          "key": "media-9-3665712888601168170",
           "category": "Media",
           "label": "Media",
           "headline": "CAA Signs Ashley Gill & Grant Gibbs Of Musical Comedy Duo A Twink And A Redhead",
@@ -4152,7 +4211,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 90,
+          "priority_score": 91,
           "key_data": [
             "CAA Signs Ashley Gill & Grant Gibbs Of Musical Comedy Duo A Twink And A Redhead"
           ],
@@ -4164,8 +4223,8 @@
           ]
         },
         {
-          "id": "media-20-7929497760697747685",
-          "key": "media-20-7929497760697747685",
+          "id": "media-19-178224587270425152",
+          "key": "media-19-178224587270425152",
           "category": "Media",
           "label": "Media",
           "headline": "Cynopsis 8/10/2026: The Media And Entertainment Industry Is Creating Jobs - Cynopsis",
@@ -4180,7 +4239,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 80,
+          "priority_score": 81,
           "key_data": [
             "Cynopsis 8/10/2026: The Media And Entertainment Industry Is Creating Jobs - Cynopsis"
           ],
@@ -4192,8 +4251,8 @@
           ]
         },
         {
-          "id": "media-1-3396058066456998149",
-          "key": "media-1-3396058066456998149",
+          "id": "media-1-5734853107598927166",
+          "key": "media-1-5734853107598927166",
           "category": "Media",
           "label": "Media",
           "headline": "Mark Zuckerberg Says He’s Surprised the ‘Discourse’ From AI Companies ‘Is So Filled With Doom’",
@@ -4220,8 +4279,8 @@
           ]
         },
         {
-          "id": "media-11-6136706414339041418",
-          "key": "media-11-6136706414339041418",
+          "id": "media-10-7047294563299745166",
+          "key": "media-10-7047294563299745166",
           "category": "Media",
           "label": "Media",
           "headline": "Jerry Katzman Dies: Former WMA President Was 89",
@@ -4236,7 +4295,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 89,
+          "priority_score": 90,
           "key_data": [
             "Jerry Katzman Dies: Former WMA President Was 89"
           ],
@@ -4250,8 +4309,8 @@
       ],
       "items": [
         {
-          "id": "media-0-4306070639850201222",
-          "key": "media-0-4306070639850201222",
+          "id": "media-0-8166424678458202628",
+          "key": "media-0-8166424678458202628",
           "category": "Media",
           "label": "Media",
           "headline": "UTA Signs ‘Forgotten Island’ Writer-Director Januel Mercado (EXCLUSIVE)",
@@ -4278,8 +4337,8 @@
           ]
         },
         {
-          "id": "media-10-1046813892268169967",
-          "key": "media-10-1046813892268169967",
+          "id": "media-9-3665712888601168170",
+          "key": "media-9-3665712888601168170",
           "category": "Media",
           "label": "Media",
           "headline": "CAA Signs Ashley Gill & Grant Gibbs Of Musical Comedy Duo A Twink And A Redhead",
@@ -4294,7 +4353,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 90,
+          "priority_score": 91,
           "key_data": [
             "CAA Signs Ashley Gill & Grant Gibbs Of Musical Comedy Duo A Twink And A Redhead"
           ],
@@ -4306,8 +4365,8 @@
           ]
         },
         {
-          "id": "media-20-7929497760697747685",
-          "key": "media-20-7929497760697747685",
+          "id": "media-19-178224587270425152",
+          "key": "media-19-178224587270425152",
           "category": "Media",
           "label": "Media",
           "headline": "Cynopsis 8/10/2026: The Media And Entertainment Industry Is Creating Jobs - Cynopsis",
@@ -4322,7 +4381,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 80,
+          "priority_score": 81,
           "key_data": [
             "Cynopsis 8/10/2026: The Media And Entertainment Industry Is Creating Jobs - Cynopsis"
           ],
@@ -4334,8 +4393,8 @@
           ]
         },
         {
-          "id": "media-1-3396058066456998149",
-          "key": "media-1-3396058066456998149",
+          "id": "media-1-5734853107598927166",
+          "key": "media-1-5734853107598927166",
           "category": "Media",
           "label": "Media",
           "headline": "Mark Zuckerberg Says He’s Surprised the ‘Discourse’ From AI Companies ‘Is So Filled With Doom’",
@@ -4362,8 +4421,8 @@
           ]
         },
         {
-          "id": "media-11-6136706414339041418",
-          "key": "media-11-6136706414339041418",
+          "id": "media-10-7047294563299745166",
+          "key": "media-10-7047294563299745166",
           "category": "Media",
           "label": "Media",
           "headline": "Jerry Katzman Dies: Former WMA President Was 89",
@@ -4378,7 +4437,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 89,
+          "priority_score": 90,
           "key_data": [
             "Jerry Katzman Dies: Former WMA President Was 89"
           ],
@@ -4390,7 +4449,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-11 06:05:33 AM ET"
+      "updated_at": "2026-08-11 07:44:15 AM ET"
     }
   ]
 }
