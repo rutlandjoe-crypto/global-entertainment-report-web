@@ -3,17 +3,17 @@
   "site": "Global Entertainment Report",
   "site_name": "Global Entertainment Report",
   "vertical": "Entertainment",
-  "headline": "WGA Slams David Ellison's Plan to Pull Paramount From California: 'This Type of Behavior Is Precisely Why the Merger Should Be Blocked'",
-  "snapshot": "Global Entertainment Report accepted 44 real RSS item(s) across 31 checked feed request(s).",
-  "generated_at": "2026-08-12 02:14:44 AM ET",
-  "updated_at": "2026-08-12 02:14:44 AM ET",
-  "published_at": "2026-08-12 02:14:44 AM ET",
+  "headline": "Oscar Nominee Barkhad Abdi, Jim Deddes Lead Teddy Cherim's 'Maalstroom'; First-Look Image Released (EXCLUSIVE)",
+  "snapshot": "Global Entertainment Report accepted 45 real RSS item(s) across 31 checked feed request(s).",
+  "generated_at": "2026-08-12 04:18:06 AM ET",
+  "updated_at": "2026-08-12 04:18:06 AM ET",
+  "published_at": "2026-08-12 04:18:06 AM ET",
   "source_mode": "live RSS ingestion",
   "freshness": {
     "max_item_age_hours": 336,
-    "accepted_real_items": 44,
+    "accepted_real_items": 45,
     "checked_feeds": 31,
-    "feeds_without_accepted_items": 7
+    "feeds_without_accepted_items": 6
   },
   "feed_audit": [
     {
@@ -53,9 +53,8 @@
       "final_url": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 85,
+      "rejected_count": 84,
       "rejection_reasons": {
-        "duplicate-story": 1,
         "stale-over-336h": 84
       }
     },
@@ -66,9 +65,9 @@
       "final_url": "https://variety.com/v/tv/feed/",
       "item_count": 10,
       "accepted_count": 2,
-      "rejected_count": 3,
+      "rejected_count": 2,
       "rejection_reasons": {
-        "duplicate-story": 3
+        "duplicate-story": 2
       }
     },
     {
@@ -167,9 +166,9 @@
       "final_url": "https://news.google.com/rss/search?q=music+entertainment+billboard&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 96,
+      "rejected_count": 97,
       "rejection_reasons": {
-        "stale-over-336h": 96
+        "stale-over-336h": 97
       }
     },
     {
@@ -200,10 +199,10 @@
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=entertainment+awards+oscars+emmys+grammys&hl=en-US&gl=US&ceid=US:en",
       "item_count": 73,
-      "accepted_count": 0,
-      "rejected_count": 73,
+      "accepted_count": 1,
+      "rejected_count": 72,
       "rejection_reasons": {
-        "stale-over-336h": 73
+        "stale-over-336h": 72
       }
     },
     {
@@ -235,10 +234,10 @@
       "final_url": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 36,
+      "rejected_count": 35,
       "rejection_reasons": {
         "stale-over-336h": 34,
-        "duplicate-story": 2
+        "duplicate-story": 1
       }
     },
     {
@@ -258,11 +257,11 @@
       "url": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
-      "item_count": 94,
+      "item_count": 91,
       "accepted_count": 2,
-      "rejected_count": 84,
+      "rejected_count": 82,
       "rejection_reasons": {
-        "stale-over-336h": 84
+        "stale-over-336h": 82
       }
     },
     {
@@ -296,9 +295,9 @@
       "final_url": "https://www.hollywoodreporter.com/feed/",
       "item_count": 10,
       "accepted_count": 2,
-      "rejected_count": 4,
+      "rejected_count": 5,
       "rejection_reasons": {
-        "duplicate-story": 4
+        "duplicate-story": 5
       }
     },
     {
@@ -375,33 +374,33 @@
   "substack_url": "https://globalentertainmentreport.substack.com/",
   "x_handle": "@GlobalSportsRp",
   "key_storylines": [
-    "WGA Slams David Ellison's Plan to Pull Paramount From California: 'This Type of Behavior Is Precisely Why the Merger Should Be Blocked'",
+    "Oscar Nominee Barkhad Abdi, Jim Deddes Lead Teddy Cherim's 'Maalstroom'; First-Look Image Released (EXCLUSIVE)",
     "Rosario Dawson Says She's \"A Reject Of Spider-Man\" After 'Brand New Day' Cut 'Daredevil's Claire Temple Cameo",
-    "Crunchyroll, Sony Nab Makoto Shinkai's Untitled Next Anime Film for Global Release",
+    "Makeup Oscar Record Holder Recalls Turning Jim Carrey Into the Grinch, Transforming Jacko for 'Thriller' and Playing King Kong",
     "Crunchyroll, Sony Pictures Entertainment to Release Makoto Shinkai's Next Movie - Crunchyroll",
-    "Bird & Byron Fly Into Live Rounds on 'AGT' With 'Haunting' Original Song: Watch",
+    "Warner Chappell Music Signs 'Freaked Out' Hitmakers Fat Papi and Prodshushy",
     "Crimson Desert Dev Conducting 'Extensive Research' on Multiplayer Modes, Plots Potential Sequels",
-    "Jenna Ortega 'Would Go All Day' Without Food or Water as a Child Star to Make Sure She Wasn't 'In the Way of Anybody'",
+    "Caleb Landry Jones on the Five-Year Battle to Make 'Down the Arm of God,' Confronting Prejudices Against Homelessness and How Luc Besson Saved the Film",
     "Mel Gibson Shares 'Lethal Weapon 5' Update: \"I Think That The Fifth Script Is Better Than All Of The Others\""
   ],
   "live_newsroom": [
     {
-      "id": "film-0-6528948746983928212",
-      "key": "film-0-6528948746983928212",
+      "id": "film-0-2145588472358931670",
+      "key": "film-0-2145588472358931670",
       "category": "Film",
       "label": "Film",
-      "headline": "WGA Slams David Ellison's Plan to Pull Paramount From California: 'This Type of Behavior Is Precisely Why the Merger Should Be Blocked'",
-      "title": "WGA Slams David Ellison's Plan to Pull Paramount From California: 'This Type of Behavior Is Precisely Why the Merger Should Be Blocked'",
-      "snapshot": "The Writers Guild of America has fired back at Paramount Skydance CEO David Ellison after he threatened to start pulling Paramount out of California on Oct. 1 if California AG Rob Bonta refused to come to the bargaining table and settle the antitrust suit to stop the studio's acquisition of Warner Bros. \"By threaten...",
-      "summary": "The Writers Guild of America has fired back at Paramount Skydance CEO David Ellison after he threatened to start pulling Paramount out of California on Oct. 1 if California AG Rob Bonta refused to come to the bargaining table and settle the antitrust suit to stop the studio's acquisition of Warner Bros. \"By threaten...",
-      "url": "https://variety.com/2026/film/news/wga-david-ellison-paramount-move-california-warner-bros-1236832685/",
+      "headline": "Oscar Nominee Barkhad Abdi, Jim Deddes Lead Teddy Cherim's 'Maalstroom'; First-Look Image Released (EXCLUSIVE)",
+      "title": "Oscar Nominee Barkhad Abdi, Jim Deddes Lead Teddy Cherim's 'Maalstroom'; First-Look Image Released (EXCLUSIVE)",
+      "snapshot": "Jim Deddes, Tenzing Woing and Somali-American actor Barkhad Abdi, known for his Oscar-nominated role in \"Captain Phillips,\" lead the cast of \"Maalstroom,\" which has just wrapped. Variety has been given the first-look image. The Dutch-Belgian co-production was written and directed by Teddy Cherim, and produced by Mar...",
+      "summary": "Jim Deddes, Tenzing Woing and Somali-American actor Barkhad Abdi, known for his Oscar-nominated role in \"Captain Phillips,\" lead the cast of \"Maalstroom,\" which has just wrapped. Variety has been given the first-look image. The Dutch-Belgian co-production was written and directed by Teddy Cherim, and produced by Mar...",
+      "url": "https://variety.com/2026/film/global/barkhad-abdi-jim-deddes-teddy-cherims-maalstroom-1236832364/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-11 10:50:57 PM ET",
+      "published_at": "2026-08-12 03:00:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "WGA Slams David Ellison's Plan to Pull Paramount From California: 'This Type of Behavior Is Precisely Why the Merger Should Be Blocked'"
+        "Oscar Nominee Barkhad Abdi, Jim Deddes Lead Teddy Cherim's 'Maalstroom'; First-Look Image Released (EXCLUSIVE)"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -413,8 +412,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-494054644991477457",
-      "key": "film-10-494054644991477457",
+      "id": "film-10-6021468505545866401",
+      "key": "film-10-6021468505545866401",
       "category": "Film",
       "label": "Film",
       "headline": "Rosario Dawson Says She's \"A Reject Of Spider-Man\" After 'Brand New Day' Cut 'Daredevil's Claire Temple Cameo",
@@ -440,22 +439,22 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-1683358017872198745",
-      "key": "film-22-1683358017872198745",
+      "id": "film-22-4681697332850917127",
+      "key": "film-22-4681697332850917127",
       "category": "Film",
       "label": "Film",
-      "headline": "Crunchyroll, Sony Nab Makoto Shinkai's Untitled Next Anime Film for Global Release",
-      "title": "Crunchyroll, Sony Nab Makoto Shinkai's Untitled Next Anime Film for Global Release",
-      "snapshot": "The deal covers every territory outside Asia, with the exception of India, for a director whose last three features grossed a combined $874 million worldwide.",
-      "summary": "The deal covers every territory outside Asia, with the exception of India, for a director whose last three features grossed a combined $874 million worldwide.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/crunchyroll-sony-makoto-shinkai-next-film-global-release-1236671844/",
+      "headline": "Makeup Oscar Record Holder Recalls Turning Jim Carrey Into the Grinch, Transforming Jacko for 'Thriller' and Playing King Kong",
+      "title": "Makeup Oscar Record Holder Recalls Turning Jim Carrey Into the Grinch, Transforming Jacko for 'Thriller' and Playing King Kong",
+      "snapshot": "Rick Baker, who is being honored at the Locarno Film Festival, has created and seen a lot.",
+      "summary": "Rick Baker, who is being honored at the Locarno Film Festival, has created and seen a lot.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/jim-carrey-grinch-michael-jackson-thriller-makeup-qa-1236654780/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-12 12:51:59 AM ET",
+      "published_at": "2026-08-12 02:00:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Crunchyroll, Sony Nab Makoto Shinkai's Untitled Next Anime Film for Global Release"
+        "Makeup Oscar Record Holder Recalls Turning Jim Carrey Into the Grinch, Transforming Jacko for 'Thriller' and Playing King Kong"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -467,8 +466,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-4165792089732626931",
-      "key": "film-32-4165792089732626931",
+      "id": "film-32-7417743113223032449",
+      "key": "film-32-7417743113223032449",
       "category": "Film",
       "label": "Film",
       "headline": "Crunchyroll, Sony Pictures Entertainment to Release Makoto Shinkai's Next Movie - Crunchyroll",
@@ -494,22 +493,22 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-4851439256534281860",
-      "key": "music-10-4851439256534281860",
+      "id": "music-10-4668466156510072747",
+      "key": "music-10-4668466156510072747",
       "category": "Music",
       "label": "Music",
-      "headline": "Bird & Byron Fly Into Live Rounds on 'AGT' With 'Haunting' Original Song: Watch",
-      "title": "Bird & Byron Fly Into Live Rounds on 'AGT' With 'Haunting' Original Song: Watch",
-      "snapshot": "Facing elimination, the pair performed an original number.",
-      "summary": "Facing elimination, the pair performed an original number.",
-      "url": "https://www.billboard.com/music/music-news/bird-byron-live-rounds-agt-original-song-watch-1236314631/",
+      "headline": "Warner Chappell Music Signs 'Freaked Out' Hitmakers Fat Papi and Prodshushy",
+      "title": "Warner Chappell Music Signs 'Freaked Out' Hitmakers Fat Papi and Prodshushy",
+      "snapshot": "\"Freaked Out\" gave Fat Papi his first career entry on the Billboard Hot 100, debuting at No. 89 and lifting to No. 88 on the latest chart.",
+      "summary": "\"Freaked Out\" gave Fat Papi his first career entry on the Billboard Hot 100, debuting at No. 89 and lifting to No. 88 on the latest chart.",
+      "url": "https://www.billboard.com/pro/warner-chappell-signs-freaked-out-fat-papi-prodshushy/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-12 12:40:04 AM ET",
+      "published_at": "2026-08-12 03:14:02 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Bird & Byron Fly Into Live Rounds on 'AGT' With 'Haunting' Original Song: Watch"
+        "Warner Chappell Music Signs 'Freaked Out' Hitmakers Fat Papi and Prodshushy"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -521,8 +520,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-4907186255022051903",
-      "key": "gaming-0-4907186255022051903",
+      "id": "gaming-0-2284513750961858306",
+      "key": "gaming-0-2284513750961858306",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Crimson Desert Dev Conducting 'Extensive Research' on Multiplayer Modes, Plots Potential Sequels",
@@ -548,22 +547,22 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-3161176800113730214",
-      "key": "film-1-3161176800113730214",
+      "id": "film-1-6420578163798064633",
+      "key": "film-1-6420578163798064633",
       "category": "Film",
       "label": "Film",
-      "headline": "Jenna Ortega 'Would Go All Day' Without Food or Water as a Child Star to Make Sure She Wasn't 'In the Way of Anybody'",
-      "title": "Jenna Ortega 'Would Go All Day' Without Food or Water as a Child Star to Make Sure She Wasn't 'In the Way of Anybody'",
-      "snapshot": "Jenna Ortega recently told Esquire that, as a child actor, she would go entire days without asking for food or water to make sure she was not \"in the way of anybody.\" \"I really had it going for me as a child 'cause I can't think of one mistake I made,\" Ortega said. \"Is that […]",
-      "summary": "Jenna Ortega recently told Esquire that, as a child actor, she would go entire days without asking for food or water to make sure she was not \"in the way of anybody.\" \"I really had it going for me as a child 'cause I can't think of one mistake I made,\" Ortega said. \"Is that […]",
-      "url": "https://variety.com/2026/tv/news/jenna-ortega-all-day-without-food-water-child-star-1236832697/",
+      "headline": "Caleb Landry Jones on the Five-Year Battle to Make 'Down the Arm of God,' Confronting Prejudices Against Homelessness and How Luc Besson Saved the Film",
+      "title": "Caleb Landry Jones on the Five-Year Battle to Make 'Down the Arm of God,' Confronting Prejudices Against Homelessness and How Luc Besson Saved the Film",
+      "snapshot": "Trying to find funding for \"Down the Arm of God\" proved to be a difficult five-year ordeal for lead star and co-writer Caleb Landry Jones - one that brought the \"Three Billboards Outside Ebbing, Missouri\" and \"Get Out\" actor to terms with the very real-world prejudices that his film grapples with. \"Some people were...",
+      "summary": "Trying to find funding for \"Down the Arm of God\" proved to be a difficult five-year ordeal for lead star and co-writer Caleb Landry Jones - one that brought the \"Three Billboards Outside Ebbing, Missouri\" and \"Get Out\" actor to terms with the very real-world prejudices that his film grapples with. \"Some people were...",
+      "url": "https://variety.com/2026/film/global/caleb-landry-jones-down-the-arm-of-god-luc-besson-1236827771/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-11 10:24:38 PM ET",
+      "published_at": "2026-08-12 02:31:59 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Jenna Ortega 'Would Go All Day' Without Food or Water as a Child Star to Make Sure She Wasn't 'In the Way of Anybody'"
+        "Caleb Landry Jones on the Five-Year Battle to Make 'Down the Arm of God,' Confronting Prejudices Against Homelessness and How Luc Besson Saved the Film"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -575,8 +574,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-1951404082110631718",
-      "key": "film-11-1951404082110631718",
+      "id": "film-11-1599384625124009752",
+      "key": "film-11-1599384625124009752",
       "category": "Film",
       "label": "Film",
       "headline": "Mel Gibson Shares 'Lethal Weapon 5' Update: \"I Think That The Fifth Script Is Better Than All Of The Others\"",
@@ -602,22 +601,22 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-4528482842003662579",
-      "key": "film-23-4528482842003662579",
+      "id": "film-23-5851297048317847879",
+      "key": "film-23-5851297048317847879",
       "category": "Film",
       "label": "Film",
-      "headline": "Bill Jersey, Two-Time Oscar-Nominated Documentarian, Dies at 99",
-      "title": "Bill Jersey, Two-Time Oscar-Nominated Documentarian, Dies at 99",
-      "snapshot": "His résumé includes 'A Time for Burning,' now in the National Film Registry, 'Super Chief: The Life and Legacy of Earl Warren' and 'The Rise and Fall of Jim Crow.'",
-      "summary": "His résumé includes 'A Time for Burning,' now in the National Film Registry, 'Super Chief: The Life and Legacy of Earl Warren' and 'The Rise and Fall of Jim Crow.'",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/bill-jersey-dead-documentarian-time-for-burning-jim-crow-1236671735/",
+      "headline": "Crunchyroll, Sony Nab Makoto Shinkai's Untitled Next Anime Film for Global Release",
+      "title": "Crunchyroll, Sony Nab Makoto Shinkai's Untitled Next Anime Film for Global Release",
+      "snapshot": "The deal covers every territory outside Asia, with the exception of India, for a director whose last three features grossed a combined $874 million worldwide.",
+      "summary": "The deal covers every territory outside Asia, with the exception of India, for a director whose last three features grossed a combined $874 million worldwide.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/crunchyroll-sony-makoto-shinkai-next-film-global-release-1236671844/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-11 08:48:28 PM ET",
+      "published_at": "2026-08-12 12:51:59 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Bill Jersey, Two-Time Oscar-Nominated Documentarian, Dies at 99"
+        "Crunchyroll, Sony Nab Makoto Shinkai's Untitled Next Anime Film for Global Release"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -629,8 +628,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-6863149805374202069",
-      "key": "film-33-6863149805374202069",
+      "id": "film-33-4625557875855066469",
+      "key": "film-33-4625557875855066469",
       "category": "Film",
       "label": "Film",
       "headline": "The 35 best sci-fi movies of all time (August 2026) - Entertainment Weekly",
@@ -656,22 +655,22 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-7905439987876047119",
-      "key": "music-11-7905439987876047119",
+      "id": "music-11-826088413689755212",
+      "key": "music-11-826088413689755212",
       "category": "Music",
       "label": "Music",
-      "headline": "Olivia Rodrigo's Daisy Chain Fields Festival Has No Overlapping Sets: See the Full Schedule",
-      "title": "Olivia Rodrigo's Daisy Chain Fields Festival Has No Overlapping Sets: See the Full Schedule",
-      "snapshot": "The pop superstar will headline the all-women fest later this month, the schedule for which has been published.",
-      "summary": "The pop superstar will headline the all-women fest later this month, the schedule for which has been published.",
-      "url": "https://www.billboard.com/music/pop/olivia-rodrigo-daisy-chain-fields-no-overlapping-sets-1236314601/",
+      "headline": "Curtis '50 Cent' Jackson Was Once Nicknamed Boo Boo",
+      "title": "Curtis '50 Cent' Jackson Was Once Nicknamed Boo Boo",
+      "snapshot": "The rap star revealed his unfortunate old nickname while going a few rounds with Jimmy Fallon on his new TV series, and philanthropic ventures.",
+      "summary": "The rap star revealed his unfortunate old nickname while going a few rounds with Jimmy Fallon on his new TV series, and philanthropic ventures.",
+      "url": "https://www.billboard.com/music/rb-hip-hop/curtis-50-cent-jackson-nicknamed-boo-boo-1236314642/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-11 10:33:46 PM ET",
+      "published_at": "2026-08-12 02:24:08 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Olivia Rodrigo's Daisy Chain Fields Festival Has No Overlapping Sets: See the Full Schedule"
+        "Curtis '50 Cent' Jackson Was Once Nicknamed Boo Boo"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -683,8 +682,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-1001443703849116239",
-      "key": "gaming-1-1001443703849116239",
+      "id": "gaming-1-8257036282767385267",
+      "key": "gaming-1-8257036282767385267",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The Intel Gamer Days Sale Stacks Walmart's Best Gaming PC Deals With Two Free Upcoming PC Games",
@@ -712,22 +711,22 @@
   ],
   "editor_signals": [
     {
-      "id": "film-2-2610111032592496146",
-      "key": "film-2-2610111032592496146",
+      "id": "film-2-8645657311974320680",
+      "key": "film-2-8645657311974320680",
       "category": "Film",
       "label": "Film",
-      "headline": "'The Brink of War' Review: Reagan and Gorbachev Engage in Unengaging Verbal Battle",
-      "title": "'The Brink of War' Review: Reagan and Gorbachev Engage in Unengaging Verbal Battle",
-      "snapshot": "There was a time when talky slabs of recent political history like \"The Brink of War,\" carried by skilled name actors who aren't quite stars, were largely the preserve of Emmy-chasing TV networks. Today, with a bit of added Christian-right rhetoric, they're ready for the big screen, as the growing faith-based film i...",
-      "summary": "There was a time when talky slabs of recent political history like \"The Brink of War,\" carried by skilled name actors who aren't quite stars, were largely the preserve of Emmy-chasing TV networks. Today, with a bit of added Christian-right rhetoric, they're ready for the big screen, as the growing faith-based film i...",
-      "url": "https://variety.com/2026/film/news/the-brink-of-war-review-1236831938/",
+      "headline": "WGA Slams David Ellison's Plan to Pull Paramount From California: 'This Type of Behavior Is Precisely Why the Merger Should Be Blocked'",
+      "title": "WGA Slams David Ellison's Plan to Pull Paramount From California: 'This Type of Behavior Is Precisely Why the Merger Should Be Blocked'",
+      "snapshot": "The Writers Guild of America has fired back at Paramount Skydance CEO David Ellison after he threatened to start pulling Paramount out of California on Oct. 1 if California AG Rob Bonta refused to come to the bargaining table and settle the antitrust suit to stop the studio's acquisition of Warner Bros. \"By threaten...",
+      "summary": "The Writers Guild of America has fired back at Paramount Skydance CEO David Ellison after he threatened to start pulling Paramount out of California on Oct. 1 if California AG Rob Bonta refused to come to the bargaining table and settle the antitrust suit to stop the studio's acquisition of Warner Bros. \"By threaten...",
+      "url": "https://variety.com/2026/film/news/wga-david-ellison-paramount-move-california-warner-bros-1236832685/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-11 09:00:00 PM ET",
+      "published_at": "2026-08-11 10:50:57 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'The Brink of War' Review: Reagan and Gorbachev Engage in Unengaging Verbal Battle"
+        "WGA Slams David Ellison's Plan to Pull Paramount From California: 'This Type of Behavior Is Precisely Why the Merger Should Be Blocked'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -739,8 +738,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-258369508268695015",
-      "key": "film-12-258369508268695015",
+      "id": "film-12-1402669156042419822",
+      "key": "film-12-1402669156042419822",
       "category": "Film",
       "label": "Film",
       "headline": "National CineMedia To Acquire Captivate For $275M, Expand From Movie Theater Ads To Offices & Apartment Buildings",
@@ -766,22 +765,22 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-4253197535586218980",
-      "key": "film-24-4253197535586218980",
+      "id": "film-24-5380156051037569008",
+      "key": "film-24-5380156051037569008",
       "category": "Film",
       "label": "Film",
-      "headline": "Jonas Brothers on Today's New Generation of Disney Stars: \"Don't Envy Anybody That's Doing This Now\"",
-      "title": "Jonas Brothers on Today's New Generation of Disney Stars: \"Don't Envy Anybody That's Doing This Now\"",
-      "snapshot": "Nick, Joe and Kevin Jonas return to Disney for 'Camp Rock 3,' along with a whole new cast of campers.",
-      "summary": "Nick, Joe and Kevin Jonas return to Disney for 'Camp Rock 3,' along with a whole new cast of campers.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/jonas-brothers-new-generation-disney-stars-camp-rock-3-1236671030/",
+      "headline": "Bill Jersey, Two-Time Oscar-Nominated Documentarian, Dies at 99",
+      "title": "Bill Jersey, Two-Time Oscar-Nominated Documentarian, Dies at 99",
+      "snapshot": "His résumé includes 'A Time for Burning,' now in the National Film Registry, 'Super Chief: The Life and Legacy of Earl Warren' and 'The Rise and Fall of Jim Crow.'",
+      "summary": "His résumé includes 'A Time for Burning,' now in the National Film Registry, 'Super Chief: The Life and Legacy of Earl Warren' and 'The Rise and Fall of Jim Crow.'",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/bill-jersey-dead-documentarian-time-for-burning-jim-crow-1236671735/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-11 03:10:08 PM ET",
+      "published_at": "2026-08-11 08:48:28 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Jonas Brothers on Today's New Generation of Disney Stars: \"Don't Envy Anybody That's Doing This Now\""
+        "Bill Jersey, Two-Time Oscar-Nominated Documentarian, Dies at 99"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -793,14 +792,14 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-1346920667704505018",
-      "key": "film-34-1346920667704505018",
+      "id": "film-34-1185363597080591712",
+      "key": "film-34-1185363597080591712",
       "category": "Film",
       "label": "Film",
-      "headline": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire",
-      "title": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire",
-      "snapshot": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical IndieWire",
-      "summary": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical IndieWire",
+      "headline": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - indiewire.com",
+      "title": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - indiewire.com",
+      "snapshot": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical indiewire.com",
+      "summary": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical indiewire.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa2lwS3g2dWQySkhQVE9Zb09QeDJ3OVRLYXpHc0M0bzJPMXY4S0FaQXBhME1teHBnQnkzaXNfaUZJMGxNaE1KTFVXNkQwTmRLTF9vTWZOODVtY21yYUJFc1pqUnJib2FOc0IwWlFPWmt3X3hyZUw0MnlLVmkydkFJNE9pRlJtSjRpeUVSZlhB?oc=5",
       "source": "Google News",
       "source_name": "Google News",
@@ -808,7 +807,7 @@
       "published_at": "2026-08-07 01:17:11 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire"
+        "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - indiewire.com"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -820,22 +819,22 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-2898295361544651815",
-      "key": "music-12-2898295361544651815",
+      "id": "music-12-7915627828073780710",
+      "key": "music-12-7915627828073780710",
       "category": "Music",
       "label": "Music",
-      "headline": "Olly Arkins to Exit Australian Festival Association",
-      "title": "Olly Arkins to Exit Australian Festival Association",
-      "snapshot": "Olly Arkins, chief executive officer of the AFA, will depart from the trade body with effect from Aug. 21.",
-      "summary": "Olly Arkins, chief executive officer of the AFA, will depart from the trade body with effect from Aug. 21.",
-      "url": "https://www.billboard.com/pro/olly-arkins-exit-australian-festival-association/",
+      "headline": "Bird & Byron Fly Into Live Rounds on 'AGT' With 'Haunting' Original Song: Watch",
+      "title": "Bird & Byron Fly Into Live Rounds on 'AGT' With 'Haunting' Original Song: Watch",
+      "snapshot": "Facing elimination, the pair performed an original number.",
+      "summary": "Facing elimination, the pair performed an original number.",
+      "url": "https://www.billboard.com/music/music-news/bird-byron-live-rounds-agt-original-song-watch-1236314631/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-11 10:00:02 PM ET",
+      "published_at": "2026-08-12 12:40:04 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Olly Arkins to Exit Australian Festival Association"
+        "Bird & Byron Fly Into Live Rounds on 'AGT' With 'Haunting' Original Song: Watch"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -847,8 +846,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-1125937566315525311",
-      "key": "gaming-2-1125937566315525311",
+      "id": "gaming-2-3755560786534531749",
+      "key": "gaming-2-3755560786534531749",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Xbox CEO Gets Elder Scrolls 6 Demo, Teases the Subtitle",
@@ -874,22 +873,22 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-6214785242891098192",
-      "key": "film-3-6214785242891098192",
+      "id": "film-3-4874455060535574295",
+      "key": "film-3-4874455060535574295",
       "category": "Film",
       "label": "Film",
-      "headline": "John Hinckley Jr. Shares New Message to Jodie Foster, 45 Years After Trying to Assassinate Ronald Reagan to Impress Her: 'I Wish Her Well'",
-      "title": "John Hinckley Jr. Shares New Message to Jodie Foster, 45 Years After Trying to Assassinate Ronald Reagan to Impress Her: 'I Wish Her Well'",
-      "snapshot": "John Hinckley Jr., the Oklahoma native who tried to assassinate President Ronald Regan in 1981 in an attempt to impress Jodie Foster, shared a new message for \"The Silence of the Lambs\" star during a recent appearance on the \"Mark Joseph Show\" (via EW). \"I just wish Jodie Foster well, you know,\" Hinckley said. \"I […]",
-      "summary": "John Hinckley Jr., the Oklahoma native who tried to assassinate President Ronald Regan in 1981 in an attempt to impress Jodie Foster, shared a new message for \"The Silence of the Lambs\" star during a recent appearance on the \"Mark Joseph Show\" (via EW). \"I just wish Jodie Foster well, you know,\" Hinckley said. \"I […]",
-      "url": "https://variety.com/2026/film/news/john-hinckley-jr-message-jodie-foster-ronald-reagan-1236832616/",
+      "headline": "Jenna Ortega 'Would Go All Day' Without Food or Water as a Child Star to Make Sure She Wasn't 'In the Way of Anybody'",
+      "title": "Jenna Ortega 'Would Go All Day' Without Food or Water as a Child Star to Make Sure She Wasn't 'In the Way of Anybody'",
+      "snapshot": "Jenna Ortega recently told Esquire that, as a child actor, she would go entire days without asking for food or water to make sure she was not \"in the way of anybody.\" \"I really had it going for me as a child 'cause I can't think of one mistake I made,\" Ortega said. \"Is that […]",
+      "summary": "Jenna Ortega recently told Esquire that, as a child actor, she would go entire days without asking for food or water to make sure she was not \"in the way of anybody.\" \"I really had it going for me as a child 'cause I can't think of one mistake I made,\" Ortega said. \"Is that […]",
+      "url": "https://variety.com/2026/tv/news/jenna-ortega-all-day-without-food-water-child-star-1236832697/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-11 07:56:19 PM ET",
+      "published_at": "2026-08-11 10:24:38 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "John Hinckley Jr. Shares New Message to Jodie Foster, 45 Years After Trying to Assassinate Ronald Reagan to Impress Her: 'I Wish Her Well'"
+        "Jenna Ortega 'Would Go All Day' Without Food or Water as a Child Star to Make Sure She Wasn't 'In the Way of Anybody'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -901,8 +900,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-1078122902178090922",
-      "key": "film-13-1078122902178090922",
+      "id": "film-13-9011361293425250946",
+      "key": "film-13-9011361293425250946",
       "category": "Film",
       "label": "Film",
       "headline": "Crunchyroll Acquires Makoto Shinkai's Next Feature Film",
@@ -928,22 +927,22 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-1071353582527888035",
-      "key": "film-25-1071353582527888035",
+      "id": "film-25-2926252206139418126",
+      "key": "film-25-2926252206139418126",
       "category": "Film",
       "label": "Film",
-      "headline": "Why Julie Andrews Won't Return for 'Princess Diaries 3'",
-      "title": "Why Julie Andrews Won't Return for 'Princess Diaries 3'",
-      "snapshot": "\"I'm not completely retired, but it's a different kind of work that I do these days,\" the actress tells The Hollywood Reporter.",
-      "summary": "\"I'm not completely retired, but it's a different kind of work that I do these days,\" the actress tells The Hollywood Reporter.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/why-julie-andrews-wont-return-princess-diaries-3-1236670387/",
+      "headline": "Jonas Brothers on Today's New Generation of Disney Stars: \"Don't Envy Anybody That's Doing This Now\"",
+      "title": "Jonas Brothers on Today's New Generation of Disney Stars: \"Don't Envy Anybody That's Doing This Now\"",
+      "snapshot": "Nick, Joe and Kevin Jonas return to Disney for 'Camp Rock 3,' along with a whole new cast of campers.",
+      "summary": "Nick, Joe and Kevin Jonas return to Disney for 'Camp Rock 3,' along with a whole new cast of campers.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/jonas-brothers-new-generation-disney-stars-camp-rock-3-1236671030/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-11 01:55:27 PM ET",
+      "published_at": "2026-08-11 03:10:08 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Why Julie Andrews Won't Return for 'Princess Diaries 3'"
+        "Jonas Brothers on Today's New Generation of Disney Stars: \"Don't Envy Anybody That's Doing This Now\""
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -955,8 +954,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-4392372730229191377",
-      "key": "film-35-4392372730229191377",
+      "id": "film-35-1610547657607346198",
+      "key": "film-35-1610547657607346198",
       "category": "Film",
       "label": "Film",
       "headline": "Our favorite memories at the movies - The Verge",
@@ -982,22 +981,22 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-281505299612683990",
-      "key": "music-13-281505299612683990",
+      "id": "music-13-1795418964998401772",
+      "key": "music-13-1795418964998401772",
       "category": "Music",
       "label": "Music",
-      "headline": "Chinese Singer Liu Yuning Expands His Musical World With New Music & Cross-Cultural Collaborations",
-      "title": "Chinese Singer Liu Yuning Expands His Musical World With New Music & Cross-Cultural Collaborations",
-      "snapshot": "\"JUMP\" sees Liu Yuning teaming up with J Balvin on a track that blends rock with traditional Chinese instruments.",
-      "summary": "\"JUMP\" sees Liu Yuning teaming up with J Balvin on a track that blends rock with traditional Chinese instruments.",
-      "url": "https://www.billboard.com/music/music-news/liu-yuning-new-music-cross-cultural-collaborations-1236314585/",
+      "headline": "Olivia Rodrigo's Daisy Chain Fields Festival Has No Overlapping Sets: See the Full Schedule",
+      "title": "Olivia Rodrigo's Daisy Chain Fields Festival Has No Overlapping Sets: See the Full Schedule",
+      "snapshot": "The pop superstar will headline the all-women fest later this month, the schedule for which has been published.",
+      "summary": "The pop superstar will headline the all-women fest later this month, the schedule for which has been published.",
+      "url": "https://www.billboard.com/music/pop/olivia-rodrigo-daisy-chain-fields-no-overlapping-sets-1236314601/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-11 09:43:07 PM ET",
+      "published_at": "2026-08-11 10:33:46 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Chinese Singer Liu Yuning Expands His Musical World With New Music & Cross-Cultural Collaborations"
+        "Olivia Rodrigo's Daisy Chain Fields Festival Has No Overlapping Sets: See the Full Schedule"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1009,8 +1008,8 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-9142765135019041292",
-      "key": "gaming-3-9142765135019041292",
+      "id": "gaming-3-1062124672841813016",
+      "key": "gaming-3-1062124672841813016",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Bethesda Finally Confirms The Elder Scrolls IV: Oblivion Remastered Patch Is Coming",
@@ -1038,22 +1037,22 @@
   ],
   "homepage_cards": [
     {
-      "id": "film-0-6528948746983928212",
-      "key": "film-0-6528948746983928212",
+      "id": "film-0-2145588472358931670",
+      "key": "film-0-2145588472358931670",
       "category": "Film",
       "label": "Film",
-      "headline": "WGA Slams David Ellison's Plan to Pull Paramount From California: 'This Type of Behavior Is Precisely Why the Merger Should Be Blocked'",
-      "title": "WGA Slams David Ellison's Plan to Pull Paramount From California: 'This Type of Behavior Is Precisely Why the Merger Should Be Blocked'",
-      "snapshot": "The Writers Guild of America has fired back at Paramount Skydance CEO David Ellison after he threatened to start pulling Paramount out of California on Oct. 1 if California AG Rob Bonta refused to come to the bargaining table and settle the antitrust suit to stop the studio's acquisition of Warner Bros. \"By threaten...",
-      "summary": "The Writers Guild of America has fired back at Paramount Skydance CEO David Ellison after he threatened to start pulling Paramount out of California on Oct. 1 if California AG Rob Bonta refused to come to the bargaining table and settle the antitrust suit to stop the studio's acquisition of Warner Bros. \"By threaten...",
-      "url": "https://variety.com/2026/film/news/wga-david-ellison-paramount-move-california-warner-bros-1236832685/",
+      "headline": "Oscar Nominee Barkhad Abdi, Jim Deddes Lead Teddy Cherim's 'Maalstroom'; First-Look Image Released (EXCLUSIVE)",
+      "title": "Oscar Nominee Barkhad Abdi, Jim Deddes Lead Teddy Cherim's 'Maalstroom'; First-Look Image Released (EXCLUSIVE)",
+      "snapshot": "Jim Deddes, Tenzing Woing and Somali-American actor Barkhad Abdi, known for his Oscar-nominated role in \"Captain Phillips,\" lead the cast of \"Maalstroom,\" which has just wrapped. Variety has been given the first-look image. The Dutch-Belgian co-production was written and directed by Teddy Cherim, and produced by Mar...",
+      "summary": "Jim Deddes, Tenzing Woing and Somali-American actor Barkhad Abdi, known for his Oscar-nominated role in \"Captain Phillips,\" lead the cast of \"Maalstroom,\" which has just wrapped. Variety has been given the first-look image. The Dutch-Belgian co-production was written and directed by Teddy Cherim, and produced by Mar...",
+      "url": "https://variety.com/2026/film/global/barkhad-abdi-jim-deddes-teddy-cherims-maalstroom-1236832364/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-11 10:50:57 PM ET",
+      "published_at": "2026-08-12 03:00:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "WGA Slams David Ellison's Plan to Pull Paramount From California: 'This Type of Behavior Is Precisely Why the Merger Should Be Blocked'"
+        "Oscar Nominee Barkhad Abdi, Jim Deddes Lead Teddy Cherim's 'Maalstroom'; First-Look Image Released (EXCLUSIVE)"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1065,8 +1064,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-494054644991477457",
-      "key": "film-10-494054644991477457",
+      "id": "film-10-6021468505545866401",
+      "key": "film-10-6021468505545866401",
       "category": "Film",
       "label": "Film",
       "headline": "Rosario Dawson Says She's \"A Reject Of Spider-Man\" After 'Brand New Day' Cut 'Daredevil's Claire Temple Cameo",
@@ -1092,22 +1091,22 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-1683358017872198745",
-      "key": "film-22-1683358017872198745",
+      "id": "film-22-4681697332850917127",
+      "key": "film-22-4681697332850917127",
       "category": "Film",
       "label": "Film",
-      "headline": "Crunchyroll, Sony Nab Makoto Shinkai's Untitled Next Anime Film for Global Release",
-      "title": "Crunchyroll, Sony Nab Makoto Shinkai's Untitled Next Anime Film for Global Release",
-      "snapshot": "The deal covers every territory outside Asia, with the exception of India, for a director whose last three features grossed a combined $874 million worldwide.",
-      "summary": "The deal covers every territory outside Asia, with the exception of India, for a director whose last three features grossed a combined $874 million worldwide.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/crunchyroll-sony-makoto-shinkai-next-film-global-release-1236671844/",
+      "headline": "Makeup Oscar Record Holder Recalls Turning Jim Carrey Into the Grinch, Transforming Jacko for 'Thriller' and Playing King Kong",
+      "title": "Makeup Oscar Record Holder Recalls Turning Jim Carrey Into the Grinch, Transforming Jacko for 'Thriller' and Playing King Kong",
+      "snapshot": "Rick Baker, who is being honored at the Locarno Film Festival, has created and seen a lot.",
+      "summary": "Rick Baker, who is being honored at the Locarno Film Festival, has created and seen a lot.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/jim-carrey-grinch-michael-jackson-thriller-makeup-qa-1236654780/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-12 12:51:59 AM ET",
+      "published_at": "2026-08-12 02:00:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Crunchyroll, Sony Nab Makoto Shinkai's Untitled Next Anime Film for Global Release"
+        "Makeup Oscar Record Holder Recalls Turning Jim Carrey Into the Grinch, Transforming Jacko for 'Thriller' and Playing King Kong"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1119,8 +1118,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-4165792089732626931",
-      "key": "film-32-4165792089732626931",
+      "id": "film-32-7417743113223032449",
+      "key": "film-32-7417743113223032449",
       "category": "Film",
       "label": "Film",
       "headline": "Crunchyroll, Sony Pictures Entertainment to Release Makoto Shinkai's Next Movie - Crunchyroll",
@@ -1146,22 +1145,22 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-4851439256534281860",
-      "key": "music-10-4851439256534281860",
+      "id": "music-10-4668466156510072747",
+      "key": "music-10-4668466156510072747",
       "category": "Music",
       "label": "Music",
-      "headline": "Bird & Byron Fly Into Live Rounds on 'AGT' With 'Haunting' Original Song: Watch",
-      "title": "Bird & Byron Fly Into Live Rounds on 'AGT' With 'Haunting' Original Song: Watch",
-      "snapshot": "Facing elimination, the pair performed an original number.",
-      "summary": "Facing elimination, the pair performed an original number.",
-      "url": "https://www.billboard.com/music/music-news/bird-byron-live-rounds-agt-original-song-watch-1236314631/",
+      "headline": "Warner Chappell Music Signs 'Freaked Out' Hitmakers Fat Papi and Prodshushy",
+      "title": "Warner Chappell Music Signs 'Freaked Out' Hitmakers Fat Papi and Prodshushy",
+      "snapshot": "\"Freaked Out\" gave Fat Papi his first career entry on the Billboard Hot 100, debuting at No. 89 and lifting to No. 88 on the latest chart.",
+      "summary": "\"Freaked Out\" gave Fat Papi his first career entry on the Billboard Hot 100, debuting at No. 89 and lifting to No. 88 on the latest chart.",
+      "url": "https://www.billboard.com/pro/warner-chappell-signs-freaked-out-fat-papi-prodshushy/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-12 12:40:04 AM ET",
+      "published_at": "2026-08-12 03:14:02 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Bird & Byron Fly Into Live Rounds on 'AGT' With 'Haunting' Original Song: Watch"
+        "Warner Chappell Music Signs 'Freaked Out' Hitmakers Fat Papi and Prodshushy"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1173,8 +1172,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-4907186255022051903",
-      "key": "gaming-0-4907186255022051903",
+      "id": "gaming-0-2284513750961858306",
+      "key": "gaming-0-2284513750961858306",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Crimson Desert Dev Conducting 'Extensive Research' on Multiplayer Modes, Plots Potential Sequels",
@@ -1200,22 +1199,22 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-3161176800113730214",
-      "key": "film-1-3161176800113730214",
+      "id": "film-1-6420578163798064633",
+      "key": "film-1-6420578163798064633",
       "category": "Film",
       "label": "Film",
-      "headline": "Jenna Ortega 'Would Go All Day' Without Food or Water as a Child Star to Make Sure She Wasn't 'In the Way of Anybody'",
-      "title": "Jenna Ortega 'Would Go All Day' Without Food or Water as a Child Star to Make Sure She Wasn't 'In the Way of Anybody'",
-      "snapshot": "Jenna Ortega recently told Esquire that, as a child actor, she would go entire days without asking for food or water to make sure she was not \"in the way of anybody.\" \"I really had it going for me as a child 'cause I can't think of one mistake I made,\" Ortega said. \"Is that […]",
-      "summary": "Jenna Ortega recently told Esquire that, as a child actor, she would go entire days without asking for food or water to make sure she was not \"in the way of anybody.\" \"I really had it going for me as a child 'cause I can't think of one mistake I made,\" Ortega said. \"Is that […]",
-      "url": "https://variety.com/2026/tv/news/jenna-ortega-all-day-without-food-water-child-star-1236832697/",
+      "headline": "Caleb Landry Jones on the Five-Year Battle to Make 'Down the Arm of God,' Confronting Prejudices Against Homelessness and How Luc Besson Saved the Film",
+      "title": "Caleb Landry Jones on the Five-Year Battle to Make 'Down the Arm of God,' Confronting Prejudices Against Homelessness and How Luc Besson Saved the Film",
+      "snapshot": "Trying to find funding for \"Down the Arm of God\" proved to be a difficult five-year ordeal for lead star and co-writer Caleb Landry Jones - one that brought the \"Three Billboards Outside Ebbing, Missouri\" and \"Get Out\" actor to terms with the very real-world prejudices that his film grapples with. \"Some people were...",
+      "summary": "Trying to find funding for \"Down the Arm of God\" proved to be a difficult five-year ordeal for lead star and co-writer Caleb Landry Jones - one that brought the \"Three Billboards Outside Ebbing, Missouri\" and \"Get Out\" actor to terms with the very real-world prejudices that his film grapples with. \"Some people were...",
+      "url": "https://variety.com/2026/film/global/caleb-landry-jones-down-the-arm-of-god-luc-besson-1236827771/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-11 10:24:38 PM ET",
+      "published_at": "2026-08-12 02:31:59 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Jenna Ortega 'Would Go All Day' Without Food or Water as a Child Star to Make Sure She Wasn't 'In the Way of Anybody'"
+        "Caleb Landry Jones on the Five-Year Battle to Make 'Down the Arm of God,' Confronting Prejudices Against Homelessness and How Luc Besson Saved the Film"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1227,8 +1226,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-1951404082110631718",
-      "key": "film-11-1951404082110631718",
+      "id": "film-11-1599384625124009752",
+      "key": "film-11-1599384625124009752",
       "category": "Film",
       "label": "Film",
       "headline": "Mel Gibson Shares 'Lethal Weapon 5' Update: \"I Think That The Fifth Script Is Better Than All Of The Others\"",
@@ -1254,22 +1253,22 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-4528482842003662579",
-      "key": "film-23-4528482842003662579",
+      "id": "film-23-5851297048317847879",
+      "key": "film-23-5851297048317847879",
       "category": "Film",
       "label": "Film",
-      "headline": "Bill Jersey, Two-Time Oscar-Nominated Documentarian, Dies at 99",
-      "title": "Bill Jersey, Two-Time Oscar-Nominated Documentarian, Dies at 99",
-      "snapshot": "His résumé includes 'A Time for Burning,' now in the National Film Registry, 'Super Chief: The Life and Legacy of Earl Warren' and 'The Rise and Fall of Jim Crow.'",
-      "summary": "His résumé includes 'A Time for Burning,' now in the National Film Registry, 'Super Chief: The Life and Legacy of Earl Warren' and 'The Rise and Fall of Jim Crow.'",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/bill-jersey-dead-documentarian-time-for-burning-jim-crow-1236671735/",
+      "headline": "Crunchyroll, Sony Nab Makoto Shinkai's Untitled Next Anime Film for Global Release",
+      "title": "Crunchyroll, Sony Nab Makoto Shinkai's Untitled Next Anime Film for Global Release",
+      "snapshot": "The deal covers every territory outside Asia, with the exception of India, for a director whose last three features grossed a combined $874 million worldwide.",
+      "summary": "The deal covers every territory outside Asia, with the exception of India, for a director whose last three features grossed a combined $874 million worldwide.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/crunchyroll-sony-makoto-shinkai-next-film-global-release-1236671844/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-11 08:48:28 PM ET",
+      "published_at": "2026-08-12 12:51:59 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Bill Jersey, Two-Time Oscar-Nominated Documentarian, Dies at 99"
+        "Crunchyroll, Sony Nab Makoto Shinkai's Untitled Next Anime Film for Global Release"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1281,8 +1280,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-6863149805374202069",
-      "key": "film-33-6863149805374202069",
+      "id": "film-33-4625557875855066469",
+      "key": "film-33-4625557875855066469",
       "category": "Film",
       "label": "Film",
       "headline": "The 35 best sci-fi movies of all time (August 2026) - Entertainment Weekly",
@@ -1308,22 +1307,22 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-7905439987876047119",
-      "key": "music-11-7905439987876047119",
+      "id": "music-11-826088413689755212",
+      "key": "music-11-826088413689755212",
       "category": "Music",
       "label": "Music",
-      "headline": "Olivia Rodrigo's Daisy Chain Fields Festival Has No Overlapping Sets: See the Full Schedule",
-      "title": "Olivia Rodrigo's Daisy Chain Fields Festival Has No Overlapping Sets: See the Full Schedule",
-      "snapshot": "The pop superstar will headline the all-women fest later this month, the schedule for which has been published.",
-      "summary": "The pop superstar will headline the all-women fest later this month, the schedule for which has been published.",
-      "url": "https://www.billboard.com/music/pop/olivia-rodrigo-daisy-chain-fields-no-overlapping-sets-1236314601/",
+      "headline": "Curtis '50 Cent' Jackson Was Once Nicknamed Boo Boo",
+      "title": "Curtis '50 Cent' Jackson Was Once Nicknamed Boo Boo",
+      "snapshot": "The rap star revealed his unfortunate old nickname while going a few rounds with Jimmy Fallon on his new TV series, and philanthropic ventures.",
+      "summary": "The rap star revealed his unfortunate old nickname while going a few rounds with Jimmy Fallon on his new TV series, and philanthropic ventures.",
+      "url": "https://www.billboard.com/music/rb-hip-hop/curtis-50-cent-jackson-nicknamed-boo-boo-1236314642/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-11 10:33:46 PM ET",
+      "published_at": "2026-08-12 02:24:08 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Olivia Rodrigo's Daisy Chain Fields Festival Has No Overlapping Sets: See the Full Schedule"
+        "Curtis '50 Cent' Jackson Was Once Nicknamed Boo Boo"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1335,8 +1334,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-1001443703849116239",
-      "key": "gaming-1-1001443703849116239",
+      "id": "gaming-1-8257036282767385267",
+      "key": "gaming-1-8257036282767385267",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The Intel Gamer Days Sale Stacks Walmart's Best Gaming PC Deals With Two Free Upcoming PC Games",
@@ -1362,22 +1361,22 @@
       "priority_score": 99
     },
     {
-      "id": "film-2-2610111032592496146",
-      "key": "film-2-2610111032592496146",
+      "id": "film-2-8645657311974320680",
+      "key": "film-2-8645657311974320680",
       "category": "Film",
       "label": "Film",
-      "headline": "'The Brink of War' Review: Reagan and Gorbachev Engage in Unengaging Verbal Battle",
-      "title": "'The Brink of War' Review: Reagan and Gorbachev Engage in Unengaging Verbal Battle",
-      "snapshot": "There was a time when talky slabs of recent political history like \"The Brink of War,\" carried by skilled name actors who aren't quite stars, were largely the preserve of Emmy-chasing TV networks. Today, with a bit of added Christian-right rhetoric, they're ready for the big screen, as the growing faith-based film i...",
-      "summary": "There was a time when talky slabs of recent political history like \"The Brink of War,\" carried by skilled name actors who aren't quite stars, were largely the preserve of Emmy-chasing TV networks. Today, with a bit of added Christian-right rhetoric, they're ready for the big screen, as the growing faith-based film i...",
-      "url": "https://variety.com/2026/film/news/the-brink-of-war-review-1236831938/",
+      "headline": "WGA Slams David Ellison's Plan to Pull Paramount From California: 'This Type of Behavior Is Precisely Why the Merger Should Be Blocked'",
+      "title": "WGA Slams David Ellison's Plan to Pull Paramount From California: 'This Type of Behavior Is Precisely Why the Merger Should Be Blocked'",
+      "snapshot": "The Writers Guild of America has fired back at Paramount Skydance CEO David Ellison after he threatened to start pulling Paramount out of California on Oct. 1 if California AG Rob Bonta refused to come to the bargaining table and settle the antitrust suit to stop the studio's acquisition of Warner Bros. \"By threaten...",
+      "summary": "The Writers Guild of America has fired back at Paramount Skydance CEO David Ellison after he threatened to start pulling Paramount out of California on Oct. 1 if California AG Rob Bonta refused to come to the bargaining table and settle the antitrust suit to stop the studio's acquisition of Warner Bros. \"By threaten...",
+      "url": "https://variety.com/2026/film/news/wga-david-ellison-paramount-move-california-warner-bros-1236832685/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-11 09:00:00 PM ET",
+      "published_at": "2026-08-11 10:50:57 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'The Brink of War' Review: Reagan and Gorbachev Engage in Unengaging Verbal Battle"
+        "WGA Slams David Ellison's Plan to Pull Paramount From California: 'This Type of Behavior Is Precisely Why the Merger Should Be Blocked'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1389,8 +1388,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-258369508268695015",
-      "key": "film-12-258369508268695015",
+      "id": "film-12-1402669156042419822",
+      "key": "film-12-1402669156042419822",
       "category": "Film",
       "label": "Film",
       "headline": "National CineMedia To Acquire Captivate For $275M, Expand From Movie Theater Ads To Offices & Apartment Buildings",
@@ -1416,22 +1415,22 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-4253197535586218980",
-      "key": "film-24-4253197535586218980",
+      "id": "film-24-5380156051037569008",
+      "key": "film-24-5380156051037569008",
       "category": "Film",
       "label": "Film",
-      "headline": "Jonas Brothers on Today's New Generation of Disney Stars: \"Don't Envy Anybody That's Doing This Now\"",
-      "title": "Jonas Brothers on Today's New Generation of Disney Stars: \"Don't Envy Anybody That's Doing This Now\"",
-      "snapshot": "Nick, Joe and Kevin Jonas return to Disney for 'Camp Rock 3,' along with a whole new cast of campers.",
-      "summary": "Nick, Joe and Kevin Jonas return to Disney for 'Camp Rock 3,' along with a whole new cast of campers.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/jonas-brothers-new-generation-disney-stars-camp-rock-3-1236671030/",
+      "headline": "Bill Jersey, Two-Time Oscar-Nominated Documentarian, Dies at 99",
+      "title": "Bill Jersey, Two-Time Oscar-Nominated Documentarian, Dies at 99",
+      "snapshot": "His résumé includes 'A Time for Burning,' now in the National Film Registry, 'Super Chief: The Life and Legacy of Earl Warren' and 'The Rise and Fall of Jim Crow.'",
+      "summary": "His résumé includes 'A Time for Burning,' now in the National Film Registry, 'Super Chief: The Life and Legacy of Earl Warren' and 'The Rise and Fall of Jim Crow.'",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/bill-jersey-dead-documentarian-time-for-burning-jim-crow-1236671735/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-11 03:10:08 PM ET",
+      "published_at": "2026-08-11 08:48:28 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Jonas Brothers on Today's New Generation of Disney Stars: \"Don't Envy Anybody That's Doing This Now\""
+        "Bill Jersey, Two-Time Oscar-Nominated Documentarian, Dies at 99"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1443,14 +1442,14 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-1346920667704505018",
-      "key": "film-34-1346920667704505018",
+      "id": "film-34-1185363597080591712",
+      "key": "film-34-1185363597080591712",
       "category": "Film",
       "label": "Film",
-      "headline": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire",
-      "title": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire",
-      "snapshot": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical IndieWire",
-      "summary": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical IndieWire",
+      "headline": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - indiewire.com",
+      "title": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - indiewire.com",
+      "snapshot": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical indiewire.com",
+      "summary": "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical indiewire.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa2lwS3g2dWQySkhQVE9Zb09QeDJ3OVRLYXpHc0M0bzJPMXY4S0FaQXBhME1teHBnQnkzaXNfaUZJMGxNaE1KTFVXNkQwTmRLTF9vTWZOODVtY21yYUJFc1pqUnJib2FOc0IwWlFPWmt3X3hyZUw0MnlLVmkydkFJNE9pRlJtSjRpeUVSZlhB?oc=5",
       "source": "Google News",
       "source_name": "Google News",
@@ -1458,7 +1457,7 @@
       "published_at": "2026-08-07 01:17:11 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - IndieWire"
+        "Sundance 2026 Movies Sold: 'The Gallerist' with Natalie Portman and Jenna Ortega Acquired by Roadside Attractions and Vertical - indiewire.com"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1470,22 +1469,22 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-2898295361544651815",
-      "key": "music-12-2898295361544651815",
+      "id": "music-12-7915627828073780710",
+      "key": "music-12-7915627828073780710",
       "category": "Music",
       "label": "Music",
-      "headline": "Olly Arkins to Exit Australian Festival Association",
-      "title": "Olly Arkins to Exit Australian Festival Association",
-      "snapshot": "Olly Arkins, chief executive officer of the AFA, will depart from the trade body with effect from Aug. 21.",
-      "summary": "Olly Arkins, chief executive officer of the AFA, will depart from the trade body with effect from Aug. 21.",
-      "url": "https://www.billboard.com/pro/olly-arkins-exit-australian-festival-association/",
+      "headline": "Bird & Byron Fly Into Live Rounds on 'AGT' With 'Haunting' Original Song: Watch",
+      "title": "Bird & Byron Fly Into Live Rounds on 'AGT' With 'Haunting' Original Song: Watch",
+      "snapshot": "Facing elimination, the pair performed an original number.",
+      "summary": "Facing elimination, the pair performed an original number.",
+      "url": "https://www.billboard.com/music/music-news/bird-byron-live-rounds-agt-original-song-watch-1236314631/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-11 10:00:02 PM ET",
+      "published_at": "2026-08-12 12:40:04 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Olly Arkins to Exit Australian Festival Association"
+        "Bird & Byron Fly Into Live Rounds on 'AGT' With 'Haunting' Original Song: Watch"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1497,8 +1496,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-1125937566315525311",
-      "key": "gaming-2-1125937566315525311",
+      "id": "gaming-2-3755560786534531749",
+      "key": "gaming-2-3755560786534531749",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Xbox CEO Gets Elder Scrolls 6 Demo, Teases the Subtitle",
@@ -1524,22 +1523,22 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-6214785242891098192",
-      "key": "film-3-6214785242891098192",
+      "id": "film-3-4874455060535574295",
+      "key": "film-3-4874455060535574295",
       "category": "Film",
       "label": "Film",
-      "headline": "John Hinckley Jr. Shares New Message to Jodie Foster, 45 Years After Trying to Assassinate Ronald Reagan to Impress Her: 'I Wish Her Well'",
-      "title": "John Hinckley Jr. Shares New Message to Jodie Foster, 45 Years After Trying to Assassinate Ronald Reagan to Impress Her: 'I Wish Her Well'",
-      "snapshot": "John Hinckley Jr., the Oklahoma native who tried to assassinate President Ronald Regan in 1981 in an attempt to impress Jodie Foster, shared a new message for \"The Silence of the Lambs\" star during a recent appearance on the \"Mark Joseph Show\" (via EW). \"I just wish Jodie Foster well, you know,\" Hinckley said. \"I […]",
-      "summary": "John Hinckley Jr., the Oklahoma native who tried to assassinate President Ronald Regan in 1981 in an attempt to impress Jodie Foster, shared a new message for \"The Silence of the Lambs\" star during a recent appearance on the \"Mark Joseph Show\" (via EW). \"I just wish Jodie Foster well, you know,\" Hinckley said. \"I […]",
-      "url": "https://variety.com/2026/film/news/john-hinckley-jr-message-jodie-foster-ronald-reagan-1236832616/",
+      "headline": "Jenna Ortega 'Would Go All Day' Without Food or Water as a Child Star to Make Sure She Wasn't 'In the Way of Anybody'",
+      "title": "Jenna Ortega 'Would Go All Day' Without Food or Water as a Child Star to Make Sure She Wasn't 'In the Way of Anybody'",
+      "snapshot": "Jenna Ortega recently told Esquire that, as a child actor, she would go entire days without asking for food or water to make sure she was not \"in the way of anybody.\" \"I really had it going for me as a child 'cause I can't think of one mistake I made,\" Ortega said. \"Is that […]",
+      "summary": "Jenna Ortega recently told Esquire that, as a child actor, she would go entire days without asking for food or water to make sure she was not \"in the way of anybody.\" \"I really had it going for me as a child 'cause I can't think of one mistake I made,\" Ortega said. \"Is that […]",
+      "url": "https://variety.com/2026/tv/news/jenna-ortega-all-day-without-food-water-child-star-1236832697/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-11 07:56:19 PM ET",
+      "published_at": "2026-08-11 10:24:38 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "John Hinckley Jr. Shares New Message to Jodie Foster, 45 Years After Trying to Assassinate Ronald Reagan to Impress Her: 'I Wish Her Well'"
+        "Jenna Ortega 'Would Go All Day' Without Food or Water as a Child Star to Make Sure She Wasn't 'In the Way of Anybody'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1551,8 +1550,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-1078122902178090922",
-      "key": "film-13-1078122902178090922",
+      "id": "film-13-9011361293425250946",
+      "key": "film-13-9011361293425250946",
       "category": "Film",
       "label": "Film",
       "headline": "Crunchyroll Acquires Makoto Shinkai's Next Feature Film",
@@ -1578,22 +1577,22 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-1071353582527888035",
-      "key": "film-25-1071353582527888035",
+      "id": "film-25-2926252206139418126",
+      "key": "film-25-2926252206139418126",
       "category": "Film",
       "label": "Film",
-      "headline": "Why Julie Andrews Won't Return for 'Princess Diaries 3'",
-      "title": "Why Julie Andrews Won't Return for 'Princess Diaries 3'",
-      "snapshot": "\"I'm not completely retired, but it's a different kind of work that I do these days,\" the actress tells The Hollywood Reporter.",
-      "summary": "\"I'm not completely retired, but it's a different kind of work that I do these days,\" the actress tells The Hollywood Reporter.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/why-julie-andrews-wont-return-princess-diaries-3-1236670387/",
+      "headline": "Jonas Brothers on Today's New Generation of Disney Stars: \"Don't Envy Anybody That's Doing This Now\"",
+      "title": "Jonas Brothers on Today's New Generation of Disney Stars: \"Don't Envy Anybody That's Doing This Now\"",
+      "snapshot": "Nick, Joe and Kevin Jonas return to Disney for 'Camp Rock 3,' along with a whole new cast of campers.",
+      "summary": "Nick, Joe and Kevin Jonas return to Disney for 'Camp Rock 3,' along with a whole new cast of campers.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/jonas-brothers-new-generation-disney-stars-camp-rock-3-1236671030/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-11 01:55:27 PM ET",
+      "published_at": "2026-08-11 03:10:08 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Why Julie Andrews Won't Return for 'Princess Diaries 3'"
+        "Jonas Brothers on Today's New Generation of Disney Stars: \"Don't Envy Anybody That's Doing This Now\""
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1605,8 +1604,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-4392372730229191377",
-      "key": "film-35-4392372730229191377",
+      "id": "film-35-1610547657607346198",
+      "key": "film-35-1610547657607346198",
       "category": "Film",
       "label": "Film",
       "headline": "Our favorite memories at the movies - The Verge",
@@ -1632,22 +1631,22 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-281505299612683990",
-      "key": "music-13-281505299612683990",
+      "id": "music-13-1795418964998401772",
+      "key": "music-13-1795418964998401772",
       "category": "Music",
       "label": "Music",
-      "headline": "Chinese Singer Liu Yuning Expands His Musical World With New Music & Cross-Cultural Collaborations",
-      "title": "Chinese Singer Liu Yuning Expands His Musical World With New Music & Cross-Cultural Collaborations",
-      "snapshot": "\"JUMP\" sees Liu Yuning teaming up with J Balvin on a track that blends rock with traditional Chinese instruments.",
-      "summary": "\"JUMP\" sees Liu Yuning teaming up with J Balvin on a track that blends rock with traditional Chinese instruments.",
-      "url": "https://www.billboard.com/music/music-news/liu-yuning-new-music-cross-cultural-collaborations-1236314585/",
+      "headline": "Olivia Rodrigo's Daisy Chain Fields Festival Has No Overlapping Sets: See the Full Schedule",
+      "title": "Olivia Rodrigo's Daisy Chain Fields Festival Has No Overlapping Sets: See the Full Schedule",
+      "snapshot": "The pop superstar will headline the all-women fest later this month, the schedule for which has been published.",
+      "summary": "The pop superstar will headline the all-women fest later this month, the schedule for which has been published.",
+      "url": "https://www.billboard.com/music/pop/olivia-rodrigo-daisy-chain-fields-no-overlapping-sets-1236314601/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-11 09:43:07 PM ET",
+      "published_at": "2026-08-11 10:33:46 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Chinese Singer Liu Yuning Expands His Musical World With New Music & Cross-Cultural Collaborations"
+        "Olivia Rodrigo's Daisy Chain Fields Festival Has No Overlapping Sets: See the Full Schedule"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1659,8 +1658,8 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-9142765135019041292",
-      "key": "gaming-3-9142765135019041292",
+      "id": "gaming-3-1062124672841813016",
+      "key": "gaming-3-1062124672841813016",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Bethesda Finally Confirms The Elder Scrolls IV: Oblivion Remastered Patch Is Coming",
@@ -1691,46 +1690,46 @@
       "key": "film",
       "name": "Film",
       "title": "Film Report",
-      "headline": "WGA Slams David Ellison’s Plan to Pull Paramount From California: ‘This Type of Behavior Is Precisely Why the Merger Should Be Blocked’",
+      "headline": "Oscar Nominee Barkhad Abdi, Jim Deddes Lead Teddy Cherim’s ‘Maalstroom’; First-Look Image Released (EXCLUSIVE)",
       "snapshot": "Film coverage is updating with 8 current RSS headline item(s).",
       "key_storylines": [
-        "WGA Slams David Ellison’s Plan to Pull Paramount From California: ‘This Type of Behavior Is Precisely Why the Merger Should Be Blocked’",
+        "Oscar Nominee Barkhad Abdi, Jim Deddes Lead Teddy Cherim’s ‘Maalstroom’; First-Look Image Released (EXCLUSIVE)",
         "Rosario Dawson Says She’s “A Reject Of Spider-Man” After ‘Brand New Day’ Cut ‘Daredevil’s Claire Temple Cameo",
-        "Crunchyroll, Sony Nab Makoto Shinkai’s Untitled Next Anime Film for Global Release",
+        "Makeup Oscar Record Holder Recalls Turning Jim Carrey Into the Grinch, Transforming Jacko for ‘Thriller’ and Playing King Kong",
         "Crunchyroll, Sony Pictures Entertainment to Release Makoto Shinkai's Next Movie - Crunchyroll",
-        "Jenna Ortega ‘Would Go All Day’ Without Food or Water as a Child Star to Make Sure She Wasn’t ‘In the Way of Anybody’"
+        "Caleb Landry Jones on the Five-Year Battle to Make ‘Down the Arm of God,’ Confronting Prejudices Against Homelessness and How Luc Besson Saved the Film"
       ],
       "watch_list": [
-        "WGA Slams David Ellison’s Plan to Pull Paramount From California: ‘This Type of Behavior Is Precisely Why the Merger Should Be Blocked’",
+        "Oscar Nominee Barkhad Abdi, Jim Deddes Lead Teddy Cherim’s ‘Maalstroom’; First-Look Image Released (EXCLUSIVE)",
         "Rosario Dawson Says She’s “A Reject Of Spider-Man” After ‘Brand New Day’ Cut ‘Daredevil’s Claire Temple Cameo",
-        "Crunchyroll, Sony Nab Makoto Shinkai’s Untitled Next Anime Film for Global Release",
+        "Makeup Oscar Record Holder Recalls Turning Jim Carrey Into the Grinch, Transforming Jacko for ‘Thriller’ and Playing King Kong",
         "Crunchyroll, Sony Pictures Entertainment to Release Makoto Shinkai's Next Movie - Crunchyroll",
-        "Jenna Ortega ‘Would Go All Day’ Without Food or Water as a Child Star to Make Sure She Wasn’t ‘In the Way of Anybody’",
+        "Caleb Landry Jones on the Five-Year Battle to Make ‘Down the Arm of God,’ Confronting Prejudices Against Homelessness and How Luc Besson Saved the Film",
         "Mel Gibson Shares ‘Lethal Weapon 5’ Update: “I Think That The Fifth Script Is Better Than All Of The Others”",
-        "Bill Jersey, Two-Time Oscar-Nominated Documentarian, Dies at 99",
+        "Crunchyroll, Sony Nab Makoto Shinkai’s Untitled Next Anime Film for Global Release",
         "The 35 best sci-fi movies of all time (August 2026) - Entertainment Weekly"
       ],
       "homepage_cards": [
         {
-          "id": "film-0-6528948746983928212",
-          "key": "film-0-6528948746983928212",
+          "id": "film-0-2145588472358931670",
+          "key": "film-0-2145588472358931670",
           "category": "Film",
           "label": "Film",
-          "headline": "WGA Slams David Ellison’s Plan to Pull Paramount From California: ‘This Type of Behavior Is Precisely Why the Merger Should Be Blocked’",
-          "title": "WGA Slams David Ellison’s Plan to Pull Paramount From California: ‘This Type of Behavior Is Precisely Why the Merger Should Be Blocked’",
-          "snapshot": "The Writers Guild of America has fired back at Paramount Skydance CEO David Ellison after he threatened to start pulling Paramount out of California on Oct. 1 if California AG Rob Bonta refused to come to the bargaining table and settle the antitrust suit to stop the studio’s acquisition of Warner Bros. “By threaten...",
-          "summary": "The Writers Guild of America has fired back at Paramount Skydance CEO David Ellison after he threatened to start pulling Paramount out of California on Oct. 1 if California AG Rob Bonta refused to come to the bargaining table and settle the antitrust suit to stop the studio’s acquisition of Warner Bros. “By threaten...",
-          "url": "https://variety.com/2026/film/news/wga-david-ellison-paramount-move-california-warner-bros-1236832685/",
+          "headline": "Oscar Nominee Barkhad Abdi, Jim Deddes Lead Teddy Cherim’s ‘Maalstroom’; First-Look Image Released (EXCLUSIVE)",
+          "title": "Oscar Nominee Barkhad Abdi, Jim Deddes Lead Teddy Cherim’s ‘Maalstroom’; First-Look Image Released (EXCLUSIVE)",
+          "snapshot": "Jim Deddes, Tenzing Woing and Somali-American actor Barkhad Abdi, known for his Oscar-nominated role in “Captain Phillips,” lead the cast of “Maalstroom,” which has just wrapped. Variety has been given the first-look image. The Dutch-Belgian co-production was written and directed by Teddy Cherim, and produced by Mar...",
+          "summary": "Jim Deddes, Tenzing Woing and Somali-American actor Barkhad Abdi, known for his Oscar-nominated role in “Captain Phillips,” lead the cast of “Maalstroom,” which has just wrapped. Variety has been given the first-look image. The Dutch-Belgian co-production was written and directed by Teddy Cherim, and produced by Mar...",
+          "url": "https://variety.com/2026/film/global/barkhad-abdi-jim-deddes-teddy-cherims-maalstroom-1236832364/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/feed/",
-          "published_at": "2026-08-11 10:50:57 PM ET",
+          "published_at": "2026-08-12 03:00:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "WGA Slams David Ellison’s Plan to Pull Paramount From California: ‘This Type of Behavior Is Precisely Why the Merger Should Be Blocked’"
+            "Oscar Nominee Barkhad Abdi, Jim Deddes Lead Teddy Cherim’s ‘Maalstroom’; First-Look Image Released (EXCLUSIVE)"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1740,8 +1739,8 @@
           ]
         },
         {
-          "id": "film-10-494054644991477457",
-          "key": "film-10-494054644991477457",
+          "id": "film-10-6021468505545866401",
+          "key": "film-10-6021468505545866401",
           "category": "Film",
           "label": "Film",
           "headline": "Rosario Dawson Says She’s “A Reject Of Spider-Man” After ‘Brand New Day’ Cut ‘Daredevil’s Claire Temple Cameo",
@@ -1768,25 +1767,25 @@
           ]
         },
         {
-          "id": "film-22-1683358017872198745",
-          "key": "film-22-1683358017872198745",
+          "id": "film-22-4681697332850917127",
+          "key": "film-22-4681697332850917127",
           "category": "Film",
           "label": "Film",
-          "headline": "Crunchyroll, Sony Nab Makoto Shinkai’s Untitled Next Anime Film for Global Release",
-          "title": "Crunchyroll, Sony Nab Makoto Shinkai’s Untitled Next Anime Film for Global Release",
-          "snapshot": "The deal covers every territory outside Asia, with the exception of India, for a director whose last three features grossed a combined $874 million worldwide.",
-          "summary": "The deal covers every territory outside Asia, with the exception of India, for a director whose last three features grossed a combined $874 million worldwide.",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/crunchyroll-sony-makoto-shinkai-next-film-global-release-1236671844/",
+          "headline": "Makeup Oscar Record Holder Recalls Turning Jim Carrey Into the Grinch, Transforming Jacko for ‘Thriller’ and Playing King Kong",
+          "title": "Makeup Oscar Record Holder Recalls Turning Jim Carrey Into the Grinch, Transforming Jacko for ‘Thriller’ and Playing King Kong",
+          "snapshot": "Rick Baker, who is being honored at the Locarno Film Festival, has created and seen a lot.",
+          "summary": "Rick Baker, who is being honored at the Locarno Film Festival, has created and seen a lot.",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/jim-carrey-grinch-michael-jackson-thriller-makeup-qa-1236654780/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-          "published_at": "2026-08-12 12:51:59 AM ET",
+          "published_at": "2026-08-12 02:00:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 78,
           "key_data": [
-            "Crunchyroll, Sony Nab Makoto Shinkai’s Untitled Next Anime Film for Global Release"
+            "Makeup Oscar Record Holder Recalls Turning Jim Carrey Into the Grinch, Transforming Jacko for ‘Thriller’ and Playing King Kong"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1796,8 +1795,8 @@
           ]
         },
         {
-          "id": "film-32-4165792089732626931",
-          "key": "film-32-4165792089732626931",
+          "id": "film-32-7417743113223032449",
+          "key": "film-32-7417743113223032449",
           "category": "Film",
           "label": "Film",
           "headline": "Crunchyroll, Sony Pictures Entertainment to Release Makoto Shinkai's Next Movie - Crunchyroll",
@@ -1824,25 +1823,25 @@
           ]
         },
         {
-          "id": "film-1-3161176800113730214",
-          "key": "film-1-3161176800113730214",
+          "id": "film-1-6420578163798064633",
+          "key": "film-1-6420578163798064633",
           "category": "Film",
           "label": "Film",
-          "headline": "Jenna Ortega ‘Would Go All Day’ Without Food or Water as a Child Star to Make Sure She Wasn’t ‘In the Way of Anybody’",
-          "title": "Jenna Ortega ‘Would Go All Day’ Without Food or Water as a Child Star to Make Sure She Wasn’t ‘In the Way of Anybody’",
-          "snapshot": "Jenna Ortega recently told Esquire that, as a child actor, she would go entire days without asking for food or water to make sure she was not “in the way of anybody.” “I really had it going for me as a child ‘cause I can’t think of one mistake I made,” Ortega said. “Is that […]",
-          "summary": "Jenna Ortega recently told Esquire that, as a child actor, she would go entire days without asking for food or water to make sure she was not “in the way of anybody.” “I really had it going for me as a child ‘cause I can’t think of one mistake I made,” Ortega said. “Is that […]",
-          "url": "https://variety.com/2026/tv/news/jenna-ortega-all-day-without-food-water-child-star-1236832697/",
+          "headline": "Caleb Landry Jones on the Five-Year Battle to Make ‘Down the Arm of God,’ Confronting Prejudices Against Homelessness and How Luc Besson Saved the Film",
+          "title": "Caleb Landry Jones on the Five-Year Battle to Make ‘Down the Arm of God,’ Confronting Prejudices Against Homelessness and How Luc Besson Saved the Film",
+          "snapshot": "Trying to find funding for “Down the Arm of God” proved to be a difficult five-year ordeal for lead star and co-writer Caleb Landry Jones — one that brought the “Three Billboards Outside Ebbing, Missouri” and “Get Out” actor to terms with the very real-world prejudices that his film grapples with. “Some people were...",
+          "summary": "Trying to find funding for “Down the Arm of God” proved to be a difficult five-year ordeal for lead star and co-writer Caleb Landry Jones — one that brought the “Three Billboards Outside Ebbing, Missouri” and “Get Out” actor to terms with the very real-world prejudices that his film grapples with. “Some people were...",
+          "url": "https://variety.com/2026/film/global/caleb-landry-jones-down-the-arm-of-god-luc-besson-1236827771/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/feed/",
-          "published_at": "2026-08-11 10:24:38 PM ET",
+          "published_at": "2026-08-12 02:31:59 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Jenna Ortega ‘Would Go All Day’ Without Food or Water as a Child Star to Make Sure She Wasn’t ‘In the Way of Anybody’"
+            "Caleb Landry Jones on the Five-Year Battle to Make ‘Down the Arm of God,’ Confronting Prejudices Against Homelessness and How Luc Besson Saved the Film"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1852,8 +1851,8 @@
           ]
         },
         {
-          "id": "film-11-1951404082110631718",
-          "key": "film-11-1951404082110631718",
+          "id": "film-11-1599384625124009752",
+          "key": "film-11-1599384625124009752",
           "category": "Film",
           "label": "Film",
           "headline": "Mel Gibson Shares ‘Lethal Weapon 5’ Update: “I Think That The Fifth Script Is Better Than All Of The Others”",
@@ -1880,25 +1879,25 @@
           ]
         },
         {
-          "id": "film-23-4528482842003662579",
-          "key": "film-23-4528482842003662579",
+          "id": "film-23-5851297048317847879",
+          "key": "film-23-5851297048317847879",
           "category": "Film",
           "label": "Film",
-          "headline": "Bill Jersey, Two-Time Oscar-Nominated Documentarian, Dies at 99",
-          "title": "Bill Jersey, Two-Time Oscar-Nominated Documentarian, Dies at 99",
-          "snapshot": "His résumé includes ‘A Time for Burning,’ now in the National Film Registry, ‘Super Chief: The Life and Legacy of Earl Warren’ and ‘The Rise and Fall of Jim Crow.’",
-          "summary": "His résumé includes ‘A Time for Burning,’ now in the National Film Registry, ‘Super Chief: The Life and Legacy of Earl Warren’ and ‘The Rise and Fall of Jim Crow.’",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/bill-jersey-dead-documentarian-time-for-burning-jim-crow-1236671735/",
+          "headline": "Crunchyroll, Sony Nab Makoto Shinkai’s Untitled Next Anime Film for Global Release",
+          "title": "Crunchyroll, Sony Nab Makoto Shinkai’s Untitled Next Anime Film for Global Release",
+          "snapshot": "The deal covers every territory outside Asia, with the exception of India, for a director whose last three features grossed a combined $874 million worldwide.",
+          "summary": "The deal covers every territory outside Asia, with the exception of India, for a director whose last three features grossed a combined $874 million worldwide.",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/crunchyroll-sony-makoto-shinkai-next-film-global-release-1236671844/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-          "published_at": "2026-08-11 08:48:28 PM ET",
+          "published_at": "2026-08-12 12:51:59 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 77,
           "key_data": [
-            "Bill Jersey, Two-Time Oscar-Nominated Documentarian, Dies at 99"
+            "Crunchyroll, Sony Nab Makoto Shinkai’s Untitled Next Anime Film for Global Release"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1908,8 +1907,8 @@
           ]
         },
         {
-          "id": "film-33-6863149805374202069",
-          "key": "film-33-6863149805374202069",
+          "id": "film-33-4625557875855066469",
+          "key": "film-33-4625557875855066469",
           "category": "Film",
           "label": "Film",
           "headline": "The 35 best sci-fi movies of all time (August 2026) - Entertainment Weekly",
@@ -1938,25 +1937,25 @@
       ],
       "items": [
         {
-          "id": "film-0-6528948746983928212",
-          "key": "film-0-6528948746983928212",
+          "id": "film-0-2145588472358931670",
+          "key": "film-0-2145588472358931670",
           "category": "Film",
           "label": "Film",
-          "headline": "WGA Slams David Ellison’s Plan to Pull Paramount From California: ‘This Type of Behavior Is Precisely Why the Merger Should Be Blocked’",
-          "title": "WGA Slams David Ellison’s Plan to Pull Paramount From California: ‘This Type of Behavior Is Precisely Why the Merger Should Be Blocked’",
-          "snapshot": "The Writers Guild of America has fired back at Paramount Skydance CEO David Ellison after he threatened to start pulling Paramount out of California on Oct. 1 if California AG Rob Bonta refused to come to the bargaining table and settle the antitrust suit to stop the studio’s acquisition of Warner Bros. “By threaten...",
-          "summary": "The Writers Guild of America has fired back at Paramount Skydance CEO David Ellison after he threatened to start pulling Paramount out of California on Oct. 1 if California AG Rob Bonta refused to come to the bargaining table and settle the antitrust suit to stop the studio’s acquisition of Warner Bros. “By threaten...",
-          "url": "https://variety.com/2026/film/news/wga-david-ellison-paramount-move-california-warner-bros-1236832685/",
+          "headline": "Oscar Nominee Barkhad Abdi, Jim Deddes Lead Teddy Cherim’s ‘Maalstroom’; First-Look Image Released (EXCLUSIVE)",
+          "title": "Oscar Nominee Barkhad Abdi, Jim Deddes Lead Teddy Cherim’s ‘Maalstroom’; First-Look Image Released (EXCLUSIVE)",
+          "snapshot": "Jim Deddes, Tenzing Woing and Somali-American actor Barkhad Abdi, known for his Oscar-nominated role in “Captain Phillips,” lead the cast of “Maalstroom,” which has just wrapped. Variety has been given the first-look image. The Dutch-Belgian co-production was written and directed by Teddy Cherim, and produced by Mar...",
+          "summary": "Jim Deddes, Tenzing Woing and Somali-American actor Barkhad Abdi, known for his Oscar-nominated role in “Captain Phillips,” lead the cast of “Maalstroom,” which has just wrapped. Variety has been given the first-look image. The Dutch-Belgian co-production was written and directed by Teddy Cherim, and produced by Mar...",
+          "url": "https://variety.com/2026/film/global/barkhad-abdi-jim-deddes-teddy-cherims-maalstroom-1236832364/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/feed/",
-          "published_at": "2026-08-11 10:50:57 PM ET",
+          "published_at": "2026-08-12 03:00:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "WGA Slams David Ellison’s Plan to Pull Paramount From California: ‘This Type of Behavior Is Precisely Why the Merger Should Be Blocked’"
+            "Oscar Nominee Barkhad Abdi, Jim Deddes Lead Teddy Cherim’s ‘Maalstroom’; First-Look Image Released (EXCLUSIVE)"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1966,8 +1965,8 @@
           ]
         },
         {
-          "id": "film-10-494054644991477457",
-          "key": "film-10-494054644991477457",
+          "id": "film-10-6021468505545866401",
+          "key": "film-10-6021468505545866401",
           "category": "Film",
           "label": "Film",
           "headline": "Rosario Dawson Says She’s “A Reject Of Spider-Man” After ‘Brand New Day’ Cut ‘Daredevil’s Claire Temple Cameo",
@@ -1994,25 +1993,25 @@
           ]
         },
         {
-          "id": "film-22-1683358017872198745",
-          "key": "film-22-1683358017872198745",
+          "id": "film-22-4681697332850917127",
+          "key": "film-22-4681697332850917127",
           "category": "Film",
           "label": "Film",
-          "headline": "Crunchyroll, Sony Nab Makoto Shinkai’s Untitled Next Anime Film for Global Release",
-          "title": "Crunchyroll, Sony Nab Makoto Shinkai’s Untitled Next Anime Film for Global Release",
-          "snapshot": "The deal covers every territory outside Asia, with the exception of India, for a director whose last three features grossed a combined $874 million worldwide.",
-          "summary": "The deal covers every territory outside Asia, with the exception of India, for a director whose last three features grossed a combined $874 million worldwide.",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/crunchyroll-sony-makoto-shinkai-next-film-global-release-1236671844/",
+          "headline": "Makeup Oscar Record Holder Recalls Turning Jim Carrey Into the Grinch, Transforming Jacko for ‘Thriller’ and Playing King Kong",
+          "title": "Makeup Oscar Record Holder Recalls Turning Jim Carrey Into the Grinch, Transforming Jacko for ‘Thriller’ and Playing King Kong",
+          "snapshot": "Rick Baker, who is being honored at the Locarno Film Festival, has created and seen a lot.",
+          "summary": "Rick Baker, who is being honored at the Locarno Film Festival, has created and seen a lot.",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/jim-carrey-grinch-michael-jackson-thriller-makeup-qa-1236654780/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-          "published_at": "2026-08-12 12:51:59 AM ET",
+          "published_at": "2026-08-12 02:00:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 78,
           "key_data": [
-            "Crunchyroll, Sony Nab Makoto Shinkai’s Untitled Next Anime Film for Global Release"
+            "Makeup Oscar Record Holder Recalls Turning Jim Carrey Into the Grinch, Transforming Jacko for ‘Thriller’ and Playing King Kong"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2022,8 +2021,8 @@
           ]
         },
         {
-          "id": "film-32-4165792089732626931",
-          "key": "film-32-4165792089732626931",
+          "id": "film-32-7417743113223032449",
+          "key": "film-32-7417743113223032449",
           "category": "Film",
           "label": "Film",
           "headline": "Crunchyroll, Sony Pictures Entertainment to Release Makoto Shinkai's Next Movie - Crunchyroll",
@@ -2050,25 +2049,25 @@
           ]
         },
         {
-          "id": "film-1-3161176800113730214",
-          "key": "film-1-3161176800113730214",
+          "id": "film-1-6420578163798064633",
+          "key": "film-1-6420578163798064633",
           "category": "Film",
           "label": "Film",
-          "headline": "Jenna Ortega ‘Would Go All Day’ Without Food or Water as a Child Star to Make Sure She Wasn’t ‘In the Way of Anybody’",
-          "title": "Jenna Ortega ‘Would Go All Day’ Without Food or Water as a Child Star to Make Sure She Wasn’t ‘In the Way of Anybody’",
-          "snapshot": "Jenna Ortega recently told Esquire that, as a child actor, she would go entire days without asking for food or water to make sure she was not “in the way of anybody.” “I really had it going for me as a child ‘cause I can’t think of one mistake I made,” Ortega said. “Is that […]",
-          "summary": "Jenna Ortega recently told Esquire that, as a child actor, she would go entire days without asking for food or water to make sure she was not “in the way of anybody.” “I really had it going for me as a child ‘cause I can’t think of one mistake I made,” Ortega said. “Is that […]",
-          "url": "https://variety.com/2026/tv/news/jenna-ortega-all-day-without-food-water-child-star-1236832697/",
+          "headline": "Caleb Landry Jones on the Five-Year Battle to Make ‘Down the Arm of God,’ Confronting Prejudices Against Homelessness and How Luc Besson Saved the Film",
+          "title": "Caleb Landry Jones on the Five-Year Battle to Make ‘Down the Arm of God,’ Confronting Prejudices Against Homelessness and How Luc Besson Saved the Film",
+          "snapshot": "Trying to find funding for “Down the Arm of God” proved to be a difficult five-year ordeal for lead star and co-writer Caleb Landry Jones — one that brought the “Three Billboards Outside Ebbing, Missouri” and “Get Out” actor to terms with the very real-world prejudices that his film grapples with. “Some people were...",
+          "summary": "Trying to find funding for “Down the Arm of God” proved to be a difficult five-year ordeal for lead star and co-writer Caleb Landry Jones — one that brought the “Three Billboards Outside Ebbing, Missouri” and “Get Out” actor to terms with the very real-world prejudices that his film grapples with. “Some people were...",
+          "url": "https://variety.com/2026/film/global/caleb-landry-jones-down-the-arm-of-god-luc-besson-1236827771/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/feed/",
-          "published_at": "2026-08-11 10:24:38 PM ET",
+          "published_at": "2026-08-12 02:31:59 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Jenna Ortega ‘Would Go All Day’ Without Food or Water as a Child Star to Make Sure She Wasn’t ‘In the Way of Anybody’"
+            "Caleb Landry Jones on the Five-Year Battle to Make ‘Down the Arm of God,’ Confronting Prejudices Against Homelessness and How Luc Besson Saved the Film"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2078,8 +2077,8 @@
           ]
         },
         {
-          "id": "film-11-1951404082110631718",
-          "key": "film-11-1951404082110631718",
+          "id": "film-11-1599384625124009752",
+          "key": "film-11-1599384625124009752",
           "category": "Film",
           "label": "Film",
           "headline": "Mel Gibson Shares ‘Lethal Weapon 5’ Update: “I Think That The Fifth Script Is Better Than All Of The Others”",
@@ -2106,25 +2105,25 @@
           ]
         },
         {
-          "id": "film-23-4528482842003662579",
-          "key": "film-23-4528482842003662579",
+          "id": "film-23-5851297048317847879",
+          "key": "film-23-5851297048317847879",
           "category": "Film",
           "label": "Film",
-          "headline": "Bill Jersey, Two-Time Oscar-Nominated Documentarian, Dies at 99",
-          "title": "Bill Jersey, Two-Time Oscar-Nominated Documentarian, Dies at 99",
-          "snapshot": "His résumé includes ‘A Time for Burning,’ now in the National Film Registry, ‘Super Chief: The Life and Legacy of Earl Warren’ and ‘The Rise and Fall of Jim Crow.’",
-          "summary": "His résumé includes ‘A Time for Burning,’ now in the National Film Registry, ‘Super Chief: The Life and Legacy of Earl Warren’ and ‘The Rise and Fall of Jim Crow.’",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/bill-jersey-dead-documentarian-time-for-burning-jim-crow-1236671735/",
+          "headline": "Crunchyroll, Sony Nab Makoto Shinkai’s Untitled Next Anime Film for Global Release",
+          "title": "Crunchyroll, Sony Nab Makoto Shinkai’s Untitled Next Anime Film for Global Release",
+          "snapshot": "The deal covers every territory outside Asia, with the exception of India, for a director whose last three features grossed a combined $874 million worldwide.",
+          "summary": "The deal covers every territory outside Asia, with the exception of India, for a director whose last three features grossed a combined $874 million worldwide.",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/crunchyroll-sony-makoto-shinkai-next-film-global-release-1236671844/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-          "published_at": "2026-08-11 08:48:28 PM ET",
+          "published_at": "2026-08-12 12:51:59 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 77,
           "key_data": [
-            "Bill Jersey, Two-Time Oscar-Nominated Documentarian, Dies at 99"
+            "Crunchyroll, Sony Nab Makoto Shinkai’s Untitled Next Anime Film for Global Release"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2134,8 +2133,8 @@
           ]
         },
         {
-          "id": "film-33-6863149805374202069",
-          "key": "film-33-6863149805374202069",
+          "id": "film-33-4625557875855066469",
+          "key": "film-33-4625557875855066469",
           "category": "Film",
           "label": "Film",
           "headline": "The 35 best sci-fi movies of all time (August 2026) - Entertainment Weekly",
@@ -2162,7 +2161,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-12 02:14:45 AM ET"
+      "updated_at": "2026-08-12 04:18:08 AM ET"
     },
     {
       "key": "tv",
@@ -2172,23 +2171,23 @@
       "snapshot": "TV coverage is updating with 6 current RSS headline item(s).",
       "key_storylines": [
         "Hansal Mehta, Siddharth Bodke on ‘Scam 2010’ as First Look Unveiled for SonyLIV Series: ‘A Story About Ambition, Influence and Arrogance’ (EXCLUSIVE)",
-        "Paul W. Downs Says He “Would Love” To Make A ‘Hacks’ Spinoff Around Kayla & Jimmy: “We Also Want To Leave The Show As It Is”",
+        "Magna Studios Signs ‘20,000 Days On Earth’ Makers Iain Forsyth & Jane Pollard",
         "Jason Sudeikis Makes Cameo at Mumford & Sons Concert to Perform ‘Ted Lasso’ Theme Song",
         "Nicholas Hoult to Play Gilderoy Lockhart in ‘Harry Potter’ HBO Series Season 2",
-        "Doc Talk Podcast: Directors Judd Apatow & Michael Bonfiglio On Their Emmy Contender ‘Mel Brooks: The 99 Year Old Man!’"
+        "Meet The Lady Greyhounds: Key Players & Staff For AFC Richmond’s Women’s Team In ‘Ted Lasso’ Season 4"
       ],
       "watch_list": [
         "Hansal Mehta, Siddharth Bodke on ‘Scam 2010’ as First Look Unveiled for SonyLIV Series: ‘A Story About Ambition, Influence and Arrogance’ (EXCLUSIVE)",
-        "Paul W. Downs Says He “Would Love” To Make A ‘Hacks’ Spinoff Around Kayla & Jimmy: “We Also Want To Leave The Show As It Is”",
+        "Magna Studios Signs ‘20,000 Days On Earth’ Makers Iain Forsyth & Jane Pollard",
         "Jason Sudeikis Makes Cameo at Mumford & Sons Concert to Perform ‘Ted Lasso’ Theme Song",
         "Nicholas Hoult to Play Gilderoy Lockhart in ‘Harry Potter’ HBO Series Season 2",
-        "Doc Talk Podcast: Directors Judd Apatow & Michael Bonfiglio On Their Emmy Contender ‘Mel Brooks: The 99 Year Old Man!’",
+        "Meet The Lady Greyhounds: Key Players & Staff For AFC Richmond’s Women’s Team In ‘Ted Lasso’ Season 4",
         "Nicholas Hoult Boards ‘Harry Potter’ Season 2 as Gilderoy Lockhart"
       ],
       "homepage_cards": [
         {
-          "id": "tv-0-6303265032249193165",
-          "key": "tv-0-6303265032249193165",
+          "id": "tv-0-5605218973817280792",
+          "key": "tv-0-5605218973817280792",
           "category": "TV",
           "label": "TV",
           "headline": "Hansal Mehta, Siddharth Bodke on ‘Scam 2010’ as First Look Unveiled for SonyLIV Series: ‘A Story About Ambition, Influence and Arrogance’ (EXCLUSIVE)",
@@ -2215,25 +2214,25 @@
           ]
         },
         {
-          "id": "tv-7-1542862363269946509",
-          "key": "tv-7-1542862363269946509",
+          "id": "tv-8-51617329157130903",
+          "key": "tv-8-51617329157130903",
           "category": "TV",
           "label": "TV",
-          "headline": "Paul W. Downs Says He “Would Love” To Make A ‘Hacks’ Spinoff Around Kayla & Jimmy: “We Also Want To Leave The Show As It Is”",
-          "title": "Paul W. Downs Says He “Would Love” To Make A ‘Hacks’ Spinoff Around Kayla & Jimmy: “We Also Want To Leave The Show As It Is”",
-          "snapshot": "Paul W. Downs was one of the co-creators of Hacks and has revealed that he “would love” to do a spinoff based on his character, Jimmy LaSaque Jr., and Meg Stalter’s Kayla Schaefer. While visiting Andy Cohen’s clubhouse on Watch What Happens Live, Downs was asked if there were any storylines he had to fight […]",
-          "summary": "Paul W. Downs was one of the co-creators of Hacks and has revealed that he “would love” to do a spinoff based on his character, Jimmy LaSaque Jr., and Meg Stalter’s Kayla Schaefer. While visiting Andy Cohen’s clubhouse on Watch What Happens Live, Downs was asked if there were any storylines he had to fight […]",
-          "url": "https://deadline.com/2026/08/paul-w-downs-hacks-spinoff-kayla-jimmy-1236929211/",
+          "headline": "Magna Studios Signs ‘20,000 Days On Earth’ Makers Iain Forsyth & Jane Pollard",
+          "title": "Magna Studios Signs ‘20,000 Days On Earth’ Makers Iain Forsyth & Jane Pollard",
+          "snapshot": "EXCLUSIVE: Magna Studios has signed 20,000 Days on Earth filmmakers and artists Iain Forsyth and Jane Pollard. The London-based talent rep and production house will handle commercial and brand representation, and we hear will be working with them on longer-form projects further down the line. Forysth and Pollard wer...",
+          "summary": "EXCLUSIVE: Magna Studios has signed 20,000 Days on Earth filmmakers and artists Iain Forsyth and Jane Pollard. The London-based talent rep and production house will handle commercial and brand representation, and we hear will be working with them on longer-form projects further down the line. Forysth and Pollard wer...",
+          "url": "https://deadline.com/2026/08/magna-studios-signs-iain-forsyth-jane-pollard-1237031033/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/tv/feed/",
-          "published_at": "2026-08-12 12:00:25 AM ET",
+          "published_at": "2026-08-12 04:00:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 93,
+          "priority_score": 92,
           "key_data": [
-            "Paul W. Downs Says He “Would Love” To Make A ‘Hacks’ Spinoff Around Kayla & Jimmy: “We Also Want To Leave The Show As It Is”"
+            "Magna Studios Signs ‘20,000 Days On Earth’ Makers Iain Forsyth & Jane Pollard"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2243,8 +2242,8 @@
           ]
         },
         {
-          "id": "tv-18-4184249780686488407",
-          "key": "tv-18-4184249780686488407",
+          "id": "tv-19-7954406478044118935",
+          "key": "tv-19-7954406478044118935",
           "category": "TV",
           "label": "TV",
           "headline": "Jason Sudeikis Makes Cameo at Mumford & Sons Concert to Perform ‘Ted Lasso’ Theme Song",
@@ -2259,7 +2258,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 82,
+          "priority_score": 81,
           "key_data": [
             "Jason Sudeikis Makes Cameo at Mumford & Sons Concert to Perform ‘Ted Lasso’ Theme Song"
           ],
@@ -2271,8 +2270,8 @@
           ]
         },
         {
-          "id": "tv-1-1904304033227963298",
-          "key": "tv-1-1904304033227963298",
+          "id": "tv-1-6307400039671568248",
+          "key": "tv-1-6307400039671568248",
           "category": "TV",
           "label": "TV",
           "headline": "Nicholas Hoult to Play Gilderoy Lockhart in ‘Harry Potter’ HBO Series Season 2",
@@ -2299,25 +2298,25 @@
           ]
         },
         {
-          "id": "tv-8-9150108059163668725",
-          "key": "tv-8-9150108059163668725",
+          "id": "tv-9-5301326138428383145",
+          "key": "tv-9-5301326138428383145",
           "category": "TV",
           "label": "TV",
-          "headline": "Doc Talk Podcast: Directors Judd Apatow & Michael Bonfiglio On Their Emmy Contender ‘Mel Brooks: The 99 Year Old Man!’",
-          "title": "Doc Talk Podcast: Directors Judd Apatow & Michael Bonfiglio On Their Emmy Contender ‘Mel Brooks: The 99 Year Old Man!’",
-          "snapshot": "For over 75 years, Mel Brooks has been making people laugh. Hard. He’s brought to the screen Mongo, Lili Von Shtüpp, the grandson of a certain mad scientist (aka Young Frankenstein), Frau Blücher (“A little Ovaltine, perhaps?), Louis XVI (“It’s good to be the king”), Max Bialystock, Leo Bloom, Barf, Dark Helmet, Pre...",
-          "summary": "For over 75 years, Mel Brooks has been making people laugh. Hard. He’s brought to the screen Mongo, Lili Von Shtüpp, the grandson of a certain mad scientist (aka Young Frankenstein), Frau Blücher (“A little Ovaltine, perhaps?), Louis XVI (“It’s good to be the king”), Max Bialystock, Leo Bloom, Barf, Dark Helmet, Pre...",
-          "url": "https://deadline.com/2026/08/mel-brooks-documentary-directors-interview-1237031414/",
+          "headline": "Meet The Lady Greyhounds: Key Players & Staff For AFC Richmond’s Women’s Team In ‘Ted Lasso’ Season 4",
+          "title": "Meet The Lady Greyhounds: Key Players & Staff For AFC Richmond’s Women’s Team In ‘Ted Lasso’ Season 4",
+          "snapshot": "Season 4 of Ted Lasso involves the central football and now soccer coach taking on a whole new challenge of elevating a Division 2 women’s football team across the pond. Just as with the men’s team Ted bonded with over three seasons of the Apple TV comedy series, the Lady Greyhounds have their own characters, […]",
+          "summary": "Season 4 of Ted Lasso involves the central football and now soccer coach taking on a whole new challenge of elevating a Division 2 women’s football team across the pond. Just as with the men’s team Ted bonded with over three seasons of the Apple TV comedy series, the Lady Greyhounds have their own characters, […]",
+          "url": "https://deadline.com/lists/ted-lasso-season-4-womens-team-players-new-cast-characters/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/tv/feed/",
-          "published_at": "2026-08-11 07:45:00 PM ET",
+          "published_at": "2026-08-12 03:01:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 92,
+          "priority_score": 91,
           "key_data": [
-            "Doc Talk Podcast: Directors Judd Apatow & Michael Bonfiglio On Their Emmy Contender ‘Mel Brooks: The 99 Year Old Man!’"
+            "Meet The Lady Greyhounds: Key Players & Staff For AFC Richmond’s Women’s Team In ‘Ted Lasso’ Season 4"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2327,8 +2326,8 @@
           ]
         },
         {
-          "id": "tv-19-2864985288596007587",
-          "key": "tv-19-2864985288596007587",
+          "id": "tv-20-7485051229925223308",
+          "key": "tv-20-7485051229925223308",
           "category": "TV",
           "label": "TV",
           "headline": "Nicholas Hoult Boards ‘Harry Potter’ Season 2 as Gilderoy Lockhart",
@@ -2343,7 +2342,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 81,
+          "priority_score": 80,
           "key_data": [
             "Nicholas Hoult Boards ‘Harry Potter’ Season 2 as Gilderoy Lockhart"
           ],
@@ -2357,8 +2356,8 @@
       ],
       "items": [
         {
-          "id": "tv-0-6303265032249193165",
-          "key": "tv-0-6303265032249193165",
+          "id": "tv-0-5605218973817280792",
+          "key": "tv-0-5605218973817280792",
           "category": "TV",
           "label": "TV",
           "headline": "Hansal Mehta, Siddharth Bodke on ‘Scam 2010’ as First Look Unveiled for SonyLIV Series: ‘A Story About Ambition, Influence and Arrogance’ (EXCLUSIVE)",
@@ -2385,25 +2384,25 @@
           ]
         },
         {
-          "id": "tv-7-1542862363269946509",
-          "key": "tv-7-1542862363269946509",
+          "id": "tv-8-51617329157130903",
+          "key": "tv-8-51617329157130903",
           "category": "TV",
           "label": "TV",
-          "headline": "Paul W. Downs Says He “Would Love” To Make A ‘Hacks’ Spinoff Around Kayla & Jimmy: “We Also Want To Leave The Show As It Is”",
-          "title": "Paul W. Downs Says He “Would Love” To Make A ‘Hacks’ Spinoff Around Kayla & Jimmy: “We Also Want To Leave The Show As It Is”",
-          "snapshot": "Paul W. Downs was one of the co-creators of Hacks and has revealed that he “would love” to do a spinoff based on his character, Jimmy LaSaque Jr., and Meg Stalter’s Kayla Schaefer. While visiting Andy Cohen’s clubhouse on Watch What Happens Live, Downs was asked if there were any storylines he had to fight […]",
-          "summary": "Paul W. Downs was one of the co-creators of Hacks and has revealed that he “would love” to do a spinoff based on his character, Jimmy LaSaque Jr., and Meg Stalter’s Kayla Schaefer. While visiting Andy Cohen’s clubhouse on Watch What Happens Live, Downs was asked if there were any storylines he had to fight […]",
-          "url": "https://deadline.com/2026/08/paul-w-downs-hacks-spinoff-kayla-jimmy-1236929211/",
+          "headline": "Magna Studios Signs ‘20,000 Days On Earth’ Makers Iain Forsyth & Jane Pollard",
+          "title": "Magna Studios Signs ‘20,000 Days On Earth’ Makers Iain Forsyth & Jane Pollard",
+          "snapshot": "EXCLUSIVE: Magna Studios has signed 20,000 Days on Earth filmmakers and artists Iain Forsyth and Jane Pollard. The London-based talent rep and production house will handle commercial and brand representation, and we hear will be working with them on longer-form projects further down the line. Forysth and Pollard wer...",
+          "summary": "EXCLUSIVE: Magna Studios has signed 20,000 Days on Earth filmmakers and artists Iain Forsyth and Jane Pollard. The London-based talent rep and production house will handle commercial and brand representation, and we hear will be working with them on longer-form projects further down the line. Forysth and Pollard wer...",
+          "url": "https://deadline.com/2026/08/magna-studios-signs-iain-forsyth-jane-pollard-1237031033/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/tv/feed/",
-          "published_at": "2026-08-12 12:00:25 AM ET",
+          "published_at": "2026-08-12 04:00:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 93,
+          "priority_score": 92,
           "key_data": [
-            "Paul W. Downs Says He “Would Love” To Make A ‘Hacks’ Spinoff Around Kayla & Jimmy: “We Also Want To Leave The Show As It Is”"
+            "Magna Studios Signs ‘20,000 Days On Earth’ Makers Iain Forsyth & Jane Pollard"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2413,8 +2412,8 @@
           ]
         },
         {
-          "id": "tv-18-4184249780686488407",
-          "key": "tv-18-4184249780686488407",
+          "id": "tv-19-7954406478044118935",
+          "key": "tv-19-7954406478044118935",
           "category": "TV",
           "label": "TV",
           "headline": "Jason Sudeikis Makes Cameo at Mumford & Sons Concert to Perform ‘Ted Lasso’ Theme Song",
@@ -2429,7 +2428,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 82,
+          "priority_score": 81,
           "key_data": [
             "Jason Sudeikis Makes Cameo at Mumford & Sons Concert to Perform ‘Ted Lasso’ Theme Song"
           ],
@@ -2441,8 +2440,8 @@
           ]
         },
         {
-          "id": "tv-1-1904304033227963298",
-          "key": "tv-1-1904304033227963298",
+          "id": "tv-1-6307400039671568248",
+          "key": "tv-1-6307400039671568248",
           "category": "TV",
           "label": "TV",
           "headline": "Nicholas Hoult to Play Gilderoy Lockhart in ‘Harry Potter’ HBO Series Season 2",
@@ -2469,25 +2468,25 @@
           ]
         },
         {
-          "id": "tv-8-9150108059163668725",
-          "key": "tv-8-9150108059163668725",
+          "id": "tv-9-5301326138428383145",
+          "key": "tv-9-5301326138428383145",
           "category": "TV",
           "label": "TV",
-          "headline": "Doc Talk Podcast: Directors Judd Apatow & Michael Bonfiglio On Their Emmy Contender ‘Mel Brooks: The 99 Year Old Man!’",
-          "title": "Doc Talk Podcast: Directors Judd Apatow & Michael Bonfiglio On Their Emmy Contender ‘Mel Brooks: The 99 Year Old Man!’",
-          "snapshot": "For over 75 years, Mel Brooks has been making people laugh. Hard. He’s brought to the screen Mongo, Lili Von Shtüpp, the grandson of a certain mad scientist (aka Young Frankenstein), Frau Blücher (“A little Ovaltine, perhaps?), Louis XVI (“It’s good to be the king”), Max Bialystock, Leo Bloom, Barf, Dark Helmet, Pre...",
-          "summary": "For over 75 years, Mel Brooks has been making people laugh. Hard. He’s brought to the screen Mongo, Lili Von Shtüpp, the grandson of a certain mad scientist (aka Young Frankenstein), Frau Blücher (“A little Ovaltine, perhaps?), Louis XVI (“It’s good to be the king”), Max Bialystock, Leo Bloom, Barf, Dark Helmet, Pre...",
-          "url": "https://deadline.com/2026/08/mel-brooks-documentary-directors-interview-1237031414/",
+          "headline": "Meet The Lady Greyhounds: Key Players & Staff For AFC Richmond’s Women’s Team In ‘Ted Lasso’ Season 4",
+          "title": "Meet The Lady Greyhounds: Key Players & Staff For AFC Richmond’s Women’s Team In ‘Ted Lasso’ Season 4",
+          "snapshot": "Season 4 of Ted Lasso involves the central football and now soccer coach taking on a whole new challenge of elevating a Division 2 women’s football team across the pond. Just as with the men’s team Ted bonded with over three seasons of the Apple TV comedy series, the Lady Greyhounds have their own characters, […]",
+          "summary": "Season 4 of Ted Lasso involves the central football and now soccer coach taking on a whole new challenge of elevating a Division 2 women’s football team across the pond. Just as with the men’s team Ted bonded with over three seasons of the Apple TV comedy series, the Lady Greyhounds have their own characters, […]",
+          "url": "https://deadline.com/lists/ted-lasso-season-4-womens-team-players-new-cast-characters/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/tv/feed/",
-          "published_at": "2026-08-11 07:45:00 PM ET",
+          "published_at": "2026-08-12 03:01:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 92,
+          "priority_score": 91,
           "key_data": [
-            "Doc Talk Podcast: Directors Judd Apatow & Michael Bonfiglio On Their Emmy Contender ‘Mel Brooks: The 99 Year Old Man!’"
+            "Meet The Lady Greyhounds: Key Players & Staff For AFC Richmond’s Women’s Team In ‘Ted Lasso’ Season 4"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2497,8 +2496,8 @@
           ]
         },
         {
-          "id": "tv-19-2864985288596007587",
-          "key": "tv-19-2864985288596007587",
+          "id": "tv-20-7485051229925223308",
+          "key": "tv-20-7485051229925223308",
           "category": "TV",
           "label": "TV",
           "headline": "Nicholas Hoult Boards ‘Harry Potter’ Season 2 as Gilderoy Lockhart",
@@ -2513,7 +2512,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 81,
+          "priority_score": 80,
           "key_data": [
             "Nicholas Hoult Boards ‘Harry Potter’ Season 2 as Gilderoy Lockhart"
           ],
@@ -2525,7 +2524,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-12 02:14:45 AM ET"
+      "updated_at": "2026-08-12 04:18:10 AM ET"
     },
     {
       "key": "streaming",
@@ -2541,8 +2540,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "streaming-0-2870503289880733399",
-          "key": "streaming-0-2870503289880733399",
+          "id": "streaming-0-7596065931366102650",
+          "key": "streaming-0-7596065931366102650",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'The Last House' to 'Obsession,' 10 movies to stream right now - USA Today",
@@ -2571,8 +2570,8 @@
       ],
       "items": [
         {
-          "id": "streaming-0-2870503289880733399",
-          "key": "streaming-0-2870503289880733399",
+          "id": "streaming-0-7596065931366102650",
+          "key": "streaming-0-7596065931366102650",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'The Last House' to 'Obsession,' 10 movies to stream right now - USA Today",
@@ -2599,7 +2598,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-12 02:14:46 AM ET"
+      "updated_at": "2026-08-12 04:18:12 AM ET"
     },
     {
       "key": "music",
@@ -2609,23 +2608,23 @@
       "snapshot": "Music coverage is updating with 6 current RSS headline item(s).",
       "key_storylines": [
         "Rod Stewart Cancels Upcoming Tour Dates Following Coronary Stent Procedure",
-        "Bird & Byron Fly Into Live Rounds on ‘AGT’ With ‘Haunting’ Original Song: Watch",
+        "Warner Chappell Music Signs ‘Freaked Out’ Hitmakers Fat Papi and Prodshushy",
         "Tencent Music’s Q2 Revenue Tops $1.3 Billion on Subscription Growth, Ximalaya Acquisition - Billboard",
         "Kennedy Center Ordered to Pay $250,000 to Jazz Musician It Unsuccessfully Sued for Backing Out of Concert After Trump Rebranding",
-        "Olivia Rodrigo’s Daisy Chain Fields Festival Has No Overlapping Sets: See the Full Schedule"
+        "Curtis ‘50 Cent’ Jackson Was Once Nicknamed Boo Boo"
       ],
       "watch_list": [
         "Rod Stewart Cancels Upcoming Tour Dates Following Coronary Stent Procedure",
-        "Bird & Byron Fly Into Live Rounds on ‘AGT’ With ‘Haunting’ Original Song: Watch",
+        "Warner Chappell Music Signs ‘Freaked Out’ Hitmakers Fat Papi and Prodshushy",
         "Tencent Music’s Q2 Revenue Tops $1.3 Billion on Subscription Growth, Ximalaya Acquisition - Billboard",
         "Kennedy Center Ordered to Pay $250,000 to Jazz Musician It Unsuccessfully Sued for Backing Out of Concert After Trump Rebranding",
-        "Olivia Rodrigo’s Daisy Chain Fields Festival Has No Overlapping Sets: See the Full Schedule",
-        "Billboard Gospel chart success for DJ Damage - jamaica-gleaner.com"
+        "Curtis ‘50 Cent’ Jackson Was Once Nicknamed Boo Boo",
+        "Billboard Gospel chart success for DJ Damage - Jamaica Gleaner"
       ],
       "homepage_cards": [
         {
-          "id": "music-0-5180348274767976144",
-          "key": "music-0-5180348274767976144",
+          "id": "music-0-2358084408444132071",
+          "key": "music-0-2358084408444132071",
           "category": "Music",
           "label": "Music",
           "headline": "Rod Stewart Cancels Upcoming Tour Dates Following Coronary Stent Procedure",
@@ -2652,25 +2651,25 @@
           ]
         },
         {
-          "id": "music-10-4851439256534281860",
-          "key": "music-10-4851439256534281860",
+          "id": "music-10-4668466156510072747",
+          "key": "music-10-4668466156510072747",
           "category": "Music",
           "label": "Music",
-          "headline": "Bird & Byron Fly Into Live Rounds on ‘AGT’ With ‘Haunting’ Original Song: Watch",
-          "title": "Bird & Byron Fly Into Live Rounds on ‘AGT’ With ‘Haunting’ Original Song: Watch",
-          "snapshot": "Facing elimination, the pair performed an original number.",
-          "summary": "Facing elimination, the pair performed an original number.",
-          "url": "https://www.billboard.com/music/music-news/bird-byron-live-rounds-agt-original-song-watch-1236314631/",
+          "headline": "Warner Chappell Music Signs ‘Freaked Out’ Hitmakers Fat Papi and Prodshushy",
+          "title": "Warner Chappell Music Signs ‘Freaked Out’ Hitmakers Fat Papi and Prodshushy",
+          "snapshot": "“Freaked Out” gave Fat Papi his first career entry on the Billboard Hot 100, debuting at No. 89 and lifting to No. 88 on the latest chart.",
+          "summary": "“Freaked Out” gave Fat Papi his first career entry on the Billboard Hot 100, debuting at No. 89 and lifting to No. 88 on the latest chart.",
+          "url": "https://www.billboard.com/pro/warner-chappell-signs-freaked-out-fat-papi-prodshushy/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-12 12:40:04 AM ET",
+          "published_at": "2026-08-12 03:14:02 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "Bird & Byron Fly Into Live Rounds on ‘AGT’ With ‘Haunting’ Original Song: Watch"
+            "Warner Chappell Music Signs ‘Freaked Out’ Hitmakers Fat Papi and Prodshushy"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2680,8 +2679,8 @@
           ]
         },
         {
-          "id": "music-20-1966837190695680421",
-          "key": "music-20-1966837190695680421",
+          "id": "music-20-1233074617085492760",
+          "key": "music-20-1233074617085492760",
           "category": "Music",
           "label": "Music",
           "headline": "Tencent Music’s Q2 Revenue Tops $1.3 Billion on Subscription Growth, Ximalaya Acquisition - Billboard",
@@ -2708,8 +2707,8 @@
           ]
         },
         {
-          "id": "music-1-2128648042779592038",
-          "key": "music-1-2128648042779592038",
+          "id": "music-1-8088794343507351352",
+          "key": "music-1-8088794343507351352",
           "category": "Music",
           "label": "Music",
           "headline": "Kennedy Center Ordered to Pay $250,000 to Jazz Musician It Unsuccessfully Sued for Backing Out of Concert After Trump Rebranding",
@@ -2736,25 +2735,25 @@
           ]
         },
         {
-          "id": "music-11-7905439987876047119",
-          "key": "music-11-7905439987876047119",
+          "id": "music-11-826088413689755212",
+          "key": "music-11-826088413689755212",
           "category": "Music",
           "label": "Music",
-          "headline": "Olivia Rodrigo’s Daisy Chain Fields Festival Has No Overlapping Sets: See the Full Schedule",
-          "title": "Olivia Rodrigo’s Daisy Chain Fields Festival Has No Overlapping Sets: See the Full Schedule",
-          "snapshot": "The pop superstar will headline the all-women fest later this month, the schedule for which has been published.",
-          "summary": "The pop superstar will headline the all-women fest later this month, the schedule for which has been published.",
-          "url": "https://www.billboard.com/music/pop/olivia-rodrigo-daisy-chain-fields-no-overlapping-sets-1236314601/",
+          "headline": "Curtis ‘50 Cent’ Jackson Was Once Nicknamed Boo Boo",
+          "title": "Curtis ‘50 Cent’ Jackson Was Once Nicknamed Boo Boo",
+          "snapshot": "The rap star revealed his unfortunate old nickname while going a few rounds with Jimmy Fallon on his new TV series, and philanthropic ventures.",
+          "summary": "The rap star revealed his unfortunate old nickname while going a few rounds with Jimmy Fallon on his new TV series, and philanthropic ventures.",
+          "url": "https://www.billboard.com/music/rb-hip-hop/curtis-50-cent-jackson-nicknamed-boo-boo-1236314642/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-11 10:33:46 PM ET",
+          "published_at": "2026-08-12 02:24:08 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "Olivia Rodrigo’s Daisy Chain Fields Festival Has No Overlapping Sets: See the Full Schedule"
+            "Curtis ‘50 Cent’ Jackson Was Once Nicknamed Boo Boo"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2764,14 +2763,14 @@
           ]
         },
         {
-          "id": "music-21-1510045088853900825",
-          "key": "music-21-1510045088853900825",
+          "id": "music-21-5367108385954129935",
+          "key": "music-21-5367108385954129935",
           "category": "Music",
           "label": "Music",
-          "headline": "Billboard Gospel chart success for DJ Damage - jamaica-gleaner.com",
-          "title": "Billboard Gospel chart success for DJ Damage - jamaica-gleaner.com",
-          "snapshot": "Billboard Gospel chart success for DJ Damage jamaica-gleaner.com",
-          "summary": "Billboard Gospel chart success for DJ Damage jamaica-gleaner.com",
+          "headline": "Billboard Gospel chart success for DJ Damage - Jamaica Gleaner",
+          "title": "Billboard Gospel chart success for DJ Damage - Jamaica Gleaner",
+          "snapshot": "Billboard Gospel chart success for DJ Damage Jamaica Gleaner",
+          "summary": "Billboard Gospel chart success for DJ Damage Jamaica Gleaner",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOTE5MTg3YnMyTWJzekNUTjhEQjZnY25SVHFWcVJfQXV1RGlxcE9oc0hkVWx3dzdpb3ZuaDd5Q01kYUdOUDZ4Q3JkOGdZNndZd2s3OERsWGNpcjlaX1o4TGphNDduQkR0b1gwR3M3eFozWHplLVJ1RHRDYnRBQVVqZWFkVFhudG9EY3dibmNpVHpUMGZnWGFpQ3ZJd25mLXc?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -2782,7 +2781,7 @@
           "story_type": "rss_headline",
           "priority_score": 79,
           "key_data": [
-            "Billboard Gospel chart success for DJ Damage - jamaica-gleaner.com"
+            "Billboard Gospel chart success for DJ Damage - Jamaica Gleaner"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2794,8 +2793,8 @@
       ],
       "items": [
         {
-          "id": "music-0-5180348274767976144",
-          "key": "music-0-5180348274767976144",
+          "id": "music-0-2358084408444132071",
+          "key": "music-0-2358084408444132071",
           "category": "Music",
           "label": "Music",
           "headline": "Rod Stewart Cancels Upcoming Tour Dates Following Coronary Stent Procedure",
@@ -2822,25 +2821,25 @@
           ]
         },
         {
-          "id": "music-10-4851439256534281860",
-          "key": "music-10-4851439256534281860",
+          "id": "music-10-4668466156510072747",
+          "key": "music-10-4668466156510072747",
           "category": "Music",
           "label": "Music",
-          "headline": "Bird & Byron Fly Into Live Rounds on ‘AGT’ With ‘Haunting’ Original Song: Watch",
-          "title": "Bird & Byron Fly Into Live Rounds on ‘AGT’ With ‘Haunting’ Original Song: Watch",
-          "snapshot": "Facing elimination, the pair performed an original number.",
-          "summary": "Facing elimination, the pair performed an original number.",
-          "url": "https://www.billboard.com/music/music-news/bird-byron-live-rounds-agt-original-song-watch-1236314631/",
+          "headline": "Warner Chappell Music Signs ‘Freaked Out’ Hitmakers Fat Papi and Prodshushy",
+          "title": "Warner Chappell Music Signs ‘Freaked Out’ Hitmakers Fat Papi and Prodshushy",
+          "snapshot": "“Freaked Out” gave Fat Papi his first career entry on the Billboard Hot 100, debuting at No. 89 and lifting to No. 88 on the latest chart.",
+          "summary": "“Freaked Out” gave Fat Papi his first career entry on the Billboard Hot 100, debuting at No. 89 and lifting to No. 88 on the latest chart.",
+          "url": "https://www.billboard.com/pro/warner-chappell-signs-freaked-out-fat-papi-prodshushy/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-12 12:40:04 AM ET",
+          "published_at": "2026-08-12 03:14:02 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "Bird & Byron Fly Into Live Rounds on ‘AGT’ With ‘Haunting’ Original Song: Watch"
+            "Warner Chappell Music Signs ‘Freaked Out’ Hitmakers Fat Papi and Prodshushy"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2850,8 +2849,8 @@
           ]
         },
         {
-          "id": "music-20-1966837190695680421",
-          "key": "music-20-1966837190695680421",
+          "id": "music-20-1233074617085492760",
+          "key": "music-20-1233074617085492760",
           "category": "Music",
           "label": "Music",
           "headline": "Tencent Music’s Q2 Revenue Tops $1.3 Billion on Subscription Growth, Ximalaya Acquisition - Billboard",
@@ -2878,8 +2877,8 @@
           ]
         },
         {
-          "id": "music-1-2128648042779592038",
-          "key": "music-1-2128648042779592038",
+          "id": "music-1-8088794343507351352",
+          "key": "music-1-8088794343507351352",
           "category": "Music",
           "label": "Music",
           "headline": "Kennedy Center Ordered to Pay $250,000 to Jazz Musician It Unsuccessfully Sued for Backing Out of Concert After Trump Rebranding",
@@ -2906,25 +2905,25 @@
           ]
         },
         {
-          "id": "music-11-7905439987876047119",
-          "key": "music-11-7905439987876047119",
+          "id": "music-11-826088413689755212",
+          "key": "music-11-826088413689755212",
           "category": "Music",
           "label": "Music",
-          "headline": "Olivia Rodrigo’s Daisy Chain Fields Festival Has No Overlapping Sets: See the Full Schedule",
-          "title": "Olivia Rodrigo’s Daisy Chain Fields Festival Has No Overlapping Sets: See the Full Schedule",
-          "snapshot": "The pop superstar will headline the all-women fest later this month, the schedule for which has been published.",
-          "summary": "The pop superstar will headline the all-women fest later this month, the schedule for which has been published.",
-          "url": "https://www.billboard.com/music/pop/olivia-rodrigo-daisy-chain-fields-no-overlapping-sets-1236314601/",
+          "headline": "Curtis ‘50 Cent’ Jackson Was Once Nicknamed Boo Boo",
+          "title": "Curtis ‘50 Cent’ Jackson Was Once Nicknamed Boo Boo",
+          "snapshot": "The rap star revealed his unfortunate old nickname while going a few rounds with Jimmy Fallon on his new TV series, and philanthropic ventures.",
+          "summary": "The rap star revealed his unfortunate old nickname while going a few rounds with Jimmy Fallon on his new TV series, and philanthropic ventures.",
+          "url": "https://www.billboard.com/music/rb-hip-hop/curtis-50-cent-jackson-nicknamed-boo-boo-1236314642/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-11 10:33:46 PM ET",
+          "published_at": "2026-08-12 02:24:08 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "Olivia Rodrigo’s Daisy Chain Fields Festival Has No Overlapping Sets: See the Full Schedule"
+            "Curtis ‘50 Cent’ Jackson Was Once Nicknamed Boo Boo"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2934,14 +2933,14 @@
           ]
         },
         {
-          "id": "music-21-1510045088853900825",
-          "key": "music-21-1510045088853900825",
+          "id": "music-21-5367108385954129935",
+          "key": "music-21-5367108385954129935",
           "category": "Music",
           "label": "Music",
-          "headline": "Billboard Gospel chart success for DJ Damage - jamaica-gleaner.com",
-          "title": "Billboard Gospel chart success for DJ Damage - jamaica-gleaner.com",
-          "snapshot": "Billboard Gospel chart success for DJ Damage jamaica-gleaner.com",
-          "summary": "Billboard Gospel chart success for DJ Damage jamaica-gleaner.com",
+          "headline": "Billboard Gospel chart success for DJ Damage - Jamaica Gleaner",
+          "title": "Billboard Gospel chart success for DJ Damage - Jamaica Gleaner",
+          "snapshot": "Billboard Gospel chart success for DJ Damage Jamaica Gleaner",
+          "summary": "Billboard Gospel chart success for DJ Damage Jamaica Gleaner",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOTE5MTg3YnMyTWJzekNUTjhEQjZnY25SVHFWcVJfQXV1RGlxcE9oc0hkVWx3dzdpb3ZuaDd5Q01kYUdOUDZ4Q3JkOGdZNndZd2s3OERsWGNpcjlaX1o4TGphNDduQkR0b1gwR3M3eFozWHplLVJ1RHRDYnRBQVVqZWFkVFhudG9EY3dibmNpVHpUMGZnWGFpQ3ZJd25mLXc?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -2952,7 +2951,7 @@
           "story_type": "rss_headline",
           "priority_score": 79,
           "key_data": [
-            "Billboard Gospel chart success for DJ Damage - jamaica-gleaner.com"
+            "Billboard Gospel chart success for DJ Damage - Jamaica Gleaner"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2962,26 +2961,28 @@
           ]
         }
       ],
-      "updated_at": "2026-08-12 02:14:47 AM ET"
+      "updated_at": "2026-08-12 04:18:12 AM ET"
     },
     {
       "key": "awards",
       "name": "Awards",
       "title": "Awards Report",
       "headline": "William H. Macy, Shawn Hatosy and Troy Kotsur Among Astra TV Awards Honorees; Lisa Ann Walter Set as Host",
-      "snapshot": "Awards coverage is updating with 2 current RSS headline item(s).",
+      "snapshot": "Awards coverage is updating with 3 current RSS headline item(s).",
       "key_storylines": [
         "William H. Macy, Shawn Hatosy and Troy Kotsur Among Astra TV Awards Honorees; Lisa Ann Walter Set as Host",
+        "Viola Davis | Biography, Movies, Plays, The Help, EGOT, & Facts - Encyclopedia Britannica",
         "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026"
       ],
       "watch_list": [
         "William H. Macy, Shawn Hatosy and Troy Kotsur Among Astra TV Awards Honorees; Lisa Ann Walter Set as Host",
+        "Viola Davis | Biography, Movies, Plays, The Help, EGOT, & Facts - Encyclopedia Britannica",
         "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026"
       ],
       "homepage_cards": [
         {
-          "id": "awards-0-9087265765361406677",
-          "key": "awards-0-9087265765361406677",
+          "id": "awards-0-8134160899166255607",
+          "key": "awards-0-8134160899166255607",
           "category": "Awards",
           "label": "Awards",
           "headline": "William H. Macy, Shawn Hatosy and Troy Kotsur Among Astra TV Awards Honorees; Lisa Ann Walter Set as Host",
@@ -3008,8 +3009,36 @@
           ]
         },
         {
-          "id": "awards-1-5540766415284603766",
-          "key": "awards-1-5540766415284603766",
+          "id": "awards-5-1253764344227971696",
+          "key": "awards-5-1253764344227971696",
+          "category": "Awards",
+          "label": "Awards",
+          "headline": "Viola Davis | Biography, Movies, Plays, The Help, EGOT, & Facts - Encyclopedia Britannica",
+          "title": "Viola Davis | Biography, Movies, Plays, The Help, EGOT, & Facts - Encyclopedia Britannica",
+          "snapshot": "Viola Davis | Biography, Movies, Plays, The Help, EGOT, & Facts Encyclopedia Britannica",
+          "summary": "Viola Davis | Biography, Movies, Plays, The Help, EGOT, & Facts Encyclopedia Britannica",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pMzhjWG5hMVdrMDdrTXFCRFRKTkQ0Mmw5LWc3M2VPeTdzQUFKMDYtQzZOWVl2TDFia21HUDBkdHowSjJvU2M5V1ZOMWMzUU5qNlFEXy1jemo1UGFO?oc=5",
+          "source": "Google News",
+          "source_name": "Google News",
+          "source_feed": "https://news.google.com/rss/search?q=entertainment+awards+oscars+emmys+grammys&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-07 01:00:00 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 95,
+          "key_data": [
+            "Viola Davis | Biography, Movies, Plays, The Help, EGOT, & Facts - Encyclopedia Britannica"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "awards-1-8685198783358688016",
+          "key": "awards-1-8685198783358688016",
           "category": "Awards",
           "label": "Awards",
           "headline": "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
@@ -3038,8 +3067,8 @@
       ],
       "items": [
         {
-          "id": "awards-0-9087265765361406677",
-          "key": "awards-0-9087265765361406677",
+          "id": "awards-0-8134160899166255607",
+          "key": "awards-0-8134160899166255607",
           "category": "Awards",
           "label": "Awards",
           "headline": "William H. Macy, Shawn Hatosy and Troy Kotsur Among Astra TV Awards Honorees; Lisa Ann Walter Set as Host",
@@ -3066,8 +3095,36 @@
           ]
         },
         {
-          "id": "awards-1-5540766415284603766",
-          "key": "awards-1-5540766415284603766",
+          "id": "awards-5-1253764344227971696",
+          "key": "awards-5-1253764344227971696",
+          "category": "Awards",
+          "label": "Awards",
+          "headline": "Viola Davis | Biography, Movies, Plays, The Help, EGOT, & Facts - Encyclopedia Britannica",
+          "title": "Viola Davis | Biography, Movies, Plays, The Help, EGOT, & Facts - Encyclopedia Britannica",
+          "snapshot": "Viola Davis | Biography, Movies, Plays, The Help, EGOT, & Facts Encyclopedia Britannica",
+          "summary": "Viola Davis | Biography, Movies, Plays, The Help, EGOT, & Facts Encyclopedia Britannica",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pMzhjWG5hMVdrMDdrTXFCRFRKTkQ0Mmw5LWc3M2VPeTdzQUFKMDYtQzZOWVl2TDFia21HUDBkdHowSjJvU2M5V1ZOMWMzUU5qNlFEXy1jemo1UGFO?oc=5",
+          "source": "Google News",
+          "source_name": "Google News",
+          "source_feed": "https://news.google.com/rss/search?q=entertainment+awards+oscars+emmys+grammys&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-07 01:00:00 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 95,
+          "key_data": [
+            "Viola Davis | Biography, Movies, Plays, The Help, EGOT, & Facts - Encyclopedia Britannica"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "awards-1-8685198783358688016",
+          "key": "awards-1-8685198783358688016",
           "category": "Awards",
           "label": "Awards",
           "headline": "Hilary Duff Performs at Madison Square Garden, Madonna and Kylie Minogue Duet at WorldPride in Amsterdam and More Red Carpet Photos: August 2026",
@@ -3094,7 +3151,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-12 02:14:47 AM ET"
+      "updated_at": "2026-08-12 04:18:14 AM ET"
     },
     {
       "key": "box_office",
@@ -3104,20 +3161,20 @@
       "snapshot": "Box Office coverage is updating with 4 current RSS headline item(s).",
       "key_storylines": [
         "Summer Box Office Hits $4 Billion for Second Time Since COVID, Thanks to ‘Odyssey,’ ‘Spider-Man’ and More Blockbusters",
-        "Summer Box Office Hits $4 Billion for Second Time Since COVID - Variety",
+        "Summer Box Office Hits $4 Billion for Second Time Since COVID - variety.com",
         "‘Spider-Man: Brand New Day,’ ‘The Odyssey’ Battle Atop U.K., Ireland Box Office",
         "China Box Office: ‘Spider-Man’ Holds No. 1 as ‘The Odyssey’ Storms Previews - The Hollywood Reporter"
       ],
       "watch_list": [
         "Summer Box Office Hits $4 Billion for Second Time Since COVID, Thanks to ‘Odyssey,’ ‘Spider-Man’ and More Blockbusters",
-        "Summer Box Office Hits $4 Billion for Second Time Since COVID - Variety",
+        "Summer Box Office Hits $4 Billion for Second Time Since COVID - variety.com",
         "‘Spider-Man: Brand New Day,’ ‘The Odyssey’ Battle Atop U.K., Ireland Box Office",
         "China Box Office: ‘Spider-Man’ Holds No. 1 as ‘The Odyssey’ Storms Previews - The Hollywood Reporter"
       ],
       "homepage_cards": [
         {
-          "id": "box_office-0-8733970438302798155",
-          "key": "box_office-0-8733970438302798155",
+          "id": "box_office-0-989085308204625682",
+          "key": "box_office-0-989085308204625682",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Summer Box Office Hits $4 Billion for Second Time Since COVID, Thanks to ‘Odyssey,’ ‘Spider-Man’ and More Blockbusters",
@@ -3144,14 +3201,14 @@
           ]
         },
         {
-          "id": "box_office-10-5025688214088420632",
-          "key": "box_office-10-5025688214088420632",
+          "id": "box_office-10-4237305511040487483",
+          "key": "box_office-10-4237305511040487483",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "Summer Box Office Hits $4 Billion for Second Time Since COVID - Variety",
-          "title": "Summer Box Office Hits $4 Billion for Second Time Since COVID - Variety",
-          "snapshot": "Summer Box Office Hits $4 Billion for Second Time Since COVID Variety",
-          "summary": "Summer Box Office Hits $4 Billion for Second Time Since COVID Variety",
+          "headline": "Summer Box Office Hits $4 Billion for Second Time Since COVID - variety.com",
+          "title": "Summer Box Office Hits $4 Billion for Second Time Since COVID - variety.com",
+          "snapshot": "Summer Box Office Hits $4 Billion for Second Time Since COVID variety.com",
+          "summary": "Summer Box Office Hits $4 Billion for Second Time Since COVID variety.com",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV3FqOGMtM3hsS21UQk95OWZraVdFcXhhSFRUMjI1UDJjUnhoVnZ4WVdkdzNCeXA5cjBoejhWYlVZbTFhVUpkWmoycE1WTTg4MHB5clBMT2dDR3MtLTkxakdta0s4OHRNRm5vQUFyMGJva29zRHc5dDZaVWlObG5DSHRqMG1pYkNOSEJqU2xtQzNzbkNTV2ptT1hlNHNaVlA3ZXpLOHNENnR6Sk5xcjJ2VWNwdU5nemhmc0E?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3162,7 +3219,7 @@
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "Summer Box Office Hits $4 Billion for Second Time Since COVID - Variety"
+            "Summer Box Office Hits $4 Billion for Second Time Since COVID - variety.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3172,8 +3229,8 @@
           ]
         },
         {
-          "id": "box_office-1-5568445569741713587",
-          "key": "box_office-1-5568445569741713587",
+          "id": "box_office-1-8981693880493535299",
+          "key": "box_office-1-8981693880493535299",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Spider-Man: Brand New Day,’ ‘The Odyssey’ Battle Atop U.K., Ireland Box Office",
@@ -3200,8 +3257,8 @@
           ]
         },
         {
-          "id": "box_office-11-1662636133646129283",
-          "key": "box_office-11-1662636133646129283",
+          "id": "box_office-11-7361411663248149318",
+          "key": "box_office-11-7361411663248149318",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "China Box Office: ‘Spider-Man’ Holds No. 1 as ‘The Odyssey’ Storms Previews - The Hollywood Reporter",
@@ -3230,8 +3287,8 @@
       ],
       "items": [
         {
-          "id": "box_office-0-8733970438302798155",
-          "key": "box_office-0-8733970438302798155",
+          "id": "box_office-0-989085308204625682",
+          "key": "box_office-0-989085308204625682",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Summer Box Office Hits $4 Billion for Second Time Since COVID, Thanks to ‘Odyssey,’ ‘Spider-Man’ and More Blockbusters",
@@ -3258,14 +3315,14 @@
           ]
         },
         {
-          "id": "box_office-10-5025688214088420632",
-          "key": "box_office-10-5025688214088420632",
+          "id": "box_office-10-4237305511040487483",
+          "key": "box_office-10-4237305511040487483",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "Summer Box Office Hits $4 Billion for Second Time Since COVID - Variety",
-          "title": "Summer Box Office Hits $4 Billion for Second Time Since COVID - Variety",
-          "snapshot": "Summer Box Office Hits $4 Billion for Second Time Since COVID Variety",
-          "summary": "Summer Box Office Hits $4 Billion for Second Time Since COVID Variety",
+          "headline": "Summer Box Office Hits $4 Billion for Second Time Since COVID - variety.com",
+          "title": "Summer Box Office Hits $4 Billion for Second Time Since COVID - variety.com",
+          "snapshot": "Summer Box Office Hits $4 Billion for Second Time Since COVID variety.com",
+          "summary": "Summer Box Office Hits $4 Billion for Second Time Since COVID variety.com",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV3FqOGMtM3hsS21UQk95OWZraVdFcXhhSFRUMjI1UDJjUnhoVnZ4WVdkdzNCeXA5cjBoejhWYlVZbTFhVUpkWmoycE1WTTg4MHB5clBMT2dDR3MtLTkxakdta0s4OHRNRm5vQUFyMGJva29zRHc5dDZaVWlObG5DSHRqMG1pYkNOSEJqU2xtQzNzbkNTV2ptT1hlNHNaVlA3ZXpLOHNENnR6Sk5xcjJ2VWNwdU5nemhmc0E?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3276,7 +3333,7 @@
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "Summer Box Office Hits $4 Billion for Second Time Since COVID - Variety"
+            "Summer Box Office Hits $4 Billion for Second Time Since COVID - variety.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3286,8 +3343,8 @@
           ]
         },
         {
-          "id": "box_office-1-5568445569741713587",
-          "key": "box_office-1-5568445569741713587",
+          "id": "box_office-1-8981693880493535299",
+          "key": "box_office-1-8981693880493535299",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Spider-Man: Brand New Day,’ ‘The Odyssey’ Battle Atop U.K., Ireland Box Office",
@@ -3314,8 +3371,8 @@
           ]
         },
         {
-          "id": "box_office-11-1662636133646129283",
-          "key": "box_office-11-1662636133646129283",
+          "id": "box_office-11-7361411663248149318",
+          "key": "box_office-11-7361411663248149318",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "China Box Office: ‘Spider-Man’ Holds No. 1 as ‘The Odyssey’ Storms Previews - The Hollywood Reporter",
@@ -3342,7 +3399,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-12 02:14:48 AM ET"
+      "updated_at": "2026-08-12 04:18:15 AM ET"
     },
     {
       "key": "celebrity",
@@ -3352,16 +3409,16 @@
       "snapshot": "Celebrity coverage is updating with 2 current RSS headline item(s).",
       "key_storylines": [
         "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
-        "Celebrity Deaths of 2026: Phantasm’s Reggie Bannister and More Stars We’ve Lost This Year - usmagazine.com"
+        "Celebrity Deaths of 2026: Phantasm’s Reggie Bannister and More Stars We’ve Lost This Year - Us Weekly"
       ],
       "watch_list": [
         "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
-        "Celebrity Deaths of 2026: Phantasm’s Reggie Bannister and More Stars We’ve Lost This Year - usmagazine.com"
+        "Celebrity Deaths of 2026: Phantasm’s Reggie Bannister and More Stars We’ve Lost This Year - Us Weekly"
       ],
       "homepage_cards": [
         {
-          "id": "celebrity-0-1956906086594857545",
-          "key": "celebrity-0-1956906086594857545",
+          "id": "celebrity-0-7273445331453682549",
+          "key": "celebrity-0-7273445331453682549",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3388,14 +3445,14 @@
           ]
         },
         {
-          "id": "celebrity-1-2983281568285380205",
-          "key": "celebrity-1-2983281568285380205",
+          "id": "celebrity-1-3583398517760862670",
+          "key": "celebrity-1-3583398517760862670",
           "category": "Celebrity",
           "label": "Celebrity",
-          "headline": "Celebrity Deaths of 2026: Phantasm’s Reggie Bannister and More Stars We’ve Lost This Year - usmagazine.com",
-          "title": "Celebrity Deaths of 2026: Phantasm’s Reggie Bannister and More Stars We’ve Lost This Year - usmagazine.com",
-          "snapshot": "Celebrity Deaths of 2026: Phantasm’s Reggie Bannister and More Stars We’ve Lost This Year usmagazine.com",
-          "summary": "Celebrity Deaths of 2026: Phantasm’s Reggie Bannister and More Stars We’ve Lost This Year usmagazine.com",
+          "headline": "Celebrity Deaths of 2026: Phantasm’s Reggie Bannister and More Stars We’ve Lost This Year - Us Weekly",
+          "title": "Celebrity Deaths of 2026: Phantasm’s Reggie Bannister and More Stars We’ve Lost This Year - Us Weekly",
+          "snapshot": "Celebrity Deaths of 2026: Phantasm’s Reggie Bannister and More Stars We’ve Lost This Year Us Weekly",
+          "summary": "Celebrity Deaths of 2026: Phantasm’s Reggie Bannister and More Stars We’ve Lost This Year Us Weekly",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZjlCdHlXVERmNXlKZ3FNbndsOEc3WHNPZURITWdjN05kZHZzaTFFN2tyTlRwQmgxWllQelFkRXg2MU5hSVNvYUNoT1J0aC1iRUE3YkVXZno0SE5OMjBBM1lWUlQ0SGRDUl9yZ0x4enJqQy1jbFI5azZpLW96T3BxbTJsdXZLZmE0ZnRrSmpkdWgzZjJuOUxMQlFSU3RINFFRSTA3ZHE2UC1iME5ZSkdONTExek9QMENPdG94RlJ3VFU?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3406,7 +3463,7 @@
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Celebrity Deaths of 2026: Phantasm’s Reggie Bannister and More Stars We’ve Lost This Year - usmagazine.com"
+            "Celebrity Deaths of 2026: Phantasm’s Reggie Bannister and More Stars We’ve Lost This Year - Us Weekly"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3418,8 +3475,8 @@
       ],
       "items": [
         {
-          "id": "celebrity-0-1956906086594857545",
-          "key": "celebrity-0-1956906086594857545",
+          "id": "celebrity-0-7273445331453682549",
+          "key": "celebrity-0-7273445331453682549",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3446,14 +3503,14 @@
           ]
         },
         {
-          "id": "celebrity-1-2983281568285380205",
-          "key": "celebrity-1-2983281568285380205",
+          "id": "celebrity-1-3583398517760862670",
+          "key": "celebrity-1-3583398517760862670",
           "category": "Celebrity",
           "label": "Celebrity",
-          "headline": "Celebrity Deaths of 2026: Phantasm’s Reggie Bannister and More Stars We’ve Lost This Year - usmagazine.com",
-          "title": "Celebrity Deaths of 2026: Phantasm’s Reggie Bannister and More Stars We’ve Lost This Year - usmagazine.com",
-          "snapshot": "Celebrity Deaths of 2026: Phantasm’s Reggie Bannister and More Stars We’ve Lost This Year usmagazine.com",
-          "summary": "Celebrity Deaths of 2026: Phantasm’s Reggie Bannister and More Stars We’ve Lost This Year usmagazine.com",
+          "headline": "Celebrity Deaths of 2026: Phantasm’s Reggie Bannister and More Stars We’ve Lost This Year - Us Weekly",
+          "title": "Celebrity Deaths of 2026: Phantasm’s Reggie Bannister and More Stars We’ve Lost This Year - Us Weekly",
+          "snapshot": "Celebrity Deaths of 2026: Phantasm’s Reggie Bannister and More Stars We’ve Lost This Year Us Weekly",
+          "summary": "Celebrity Deaths of 2026: Phantasm’s Reggie Bannister and More Stars We’ve Lost This Year Us Weekly",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZjlCdHlXVERmNXlKZ3FNbndsOEc3WHNPZURITWdjN05kZHZzaTFFN2tyTlRwQmgxWllQelFkRXg2MU5hSVNvYUNoT1J0aC1iRUE3YkVXZno0SE5OMjBBM1lWUlQ0SGRDUl9yZ0x4enJqQy1jbFI5azZpLW96T3BxbTJsdXZLZmE0ZnRrSmpkdWgzZjJuOUxMQlFSU3RINFFRSTA3ZHE2UC1iME5ZSkdONTExek9QMENPdG94RlJ3VFU?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3464,7 +3521,7 @@
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Celebrity Deaths of 2026: Phantasm’s Reggie Bannister and More Stars We’ve Lost This Year - usmagazine.com"
+            "Celebrity Deaths of 2026: Phantasm’s Reggie Bannister and More Stars We’ve Lost This Year - Us Weekly"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3474,7 +3531,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-12 02:14:49 AM ET"
+      "updated_at": "2026-08-12 04:18:16 AM ET"
     },
     {
       "key": "hollywood",
@@ -3500,8 +3557,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "hollywood-0-857861200282978121",
-          "key": "hollywood-0-857861200282978121",
+          "id": "hollywood-0-7913385772440962611",
+          "key": "hollywood-0-7913385772440962611",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘Assassin’s Creed’ Creator’s New Action-Adventure Game ‘1666: Amsterdam’ Sets Early Access Release (Gaming News Roundup)",
@@ -3528,8 +3585,8 @@
           ]
         },
         {
-          "id": "hollywood-1-4627954656323675063",
-          "key": "hollywood-1-4627954656323675063",
+          "id": "hollywood-1-78225662111771644",
+          "key": "hollywood-1-78225662111771644",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "California Democratic Gubernatorial Nominee Xavier Becerra Says He Prefers Settlement Of Paramount-WBD Antitrust Lawsuit: “Conference Room, Not Courtroom”",
@@ -3556,8 +3613,8 @@
           ]
         },
         {
-          "id": "hollywood-5-6552526804939820298",
-          "key": "hollywood-5-6552526804939820298",
+          "id": "hollywood-5-6667580960525107536",
+          "key": "hollywood-5-6667580960525107536",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Paramount Has Spent 100 Years in Hollywood. David Ellison Loved That. Until He Didn’t",
@@ -3584,8 +3641,8 @@
           ]
         },
         {
-          "id": "hollywood-11-1818851138312397945",
-          "key": "hollywood-11-1818851138312397945",
+          "id": "hollywood-10-2168508307425094443",
+          "key": "hollywood-10-2168508307425094443",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "News | Why Nicole Mihalka sees LA's entertainment industry overcoming its challenges - CoStar",
@@ -3600,7 +3657,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 89,
+          "priority_score": 90,
           "key_data": [
             "News | Why Nicole Mihalka sees LA's entertainment industry overcoming its challenges - CoStar"
           ],
@@ -3612,8 +3669,8 @@
           ]
         },
         {
-          "id": "hollywood-2-2017696802998565300",
-          "key": "hollywood-2-2017696802998565300",
+          "id": "hollywood-2-1835728300422239874",
+          "key": "hollywood-2-1835728300422239874",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Paramount’s Makan Delrahim Says “Everything Is On The Table” In Finding Merger Resolution, Says Leaving California Is A Consideration But Not “Blackmail”",
@@ -3640,8 +3697,8 @@
           ]
         },
         {
-          "id": "hollywood-6-7358395891324489952",
-          "key": "hollywood-6-7358395891324489952",
+          "id": "hollywood-6-4013472973333631766",
+          "key": "hollywood-6-4013472973333631766",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘The Brink of War’ Review: Jeff Daniels Makes an Unpersuasive Ronald Reagan in Talky Historical Drama About Nuclear Summit With Gorbachev",
@@ -3668,8 +3725,8 @@
           ]
         },
         {
-          "id": "hollywood-12-27924212935063816",
-          "key": "hollywood-12-27924212935063816",
+          "id": "hollywood-11-8426267829241472981",
+          "key": "hollywood-11-8426267829241472981",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
@@ -3684,7 +3741,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 88,
+          "priority_score": 89,
           "key_data": [
             "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University"
           ],
@@ -3698,8 +3755,8 @@
       ],
       "items": [
         {
-          "id": "hollywood-0-857861200282978121",
-          "key": "hollywood-0-857861200282978121",
+          "id": "hollywood-0-7913385772440962611",
+          "key": "hollywood-0-7913385772440962611",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘Assassin’s Creed’ Creator’s New Action-Adventure Game ‘1666: Amsterdam’ Sets Early Access Release (Gaming News Roundup)",
@@ -3726,8 +3783,8 @@
           ]
         },
         {
-          "id": "hollywood-1-4627954656323675063",
-          "key": "hollywood-1-4627954656323675063",
+          "id": "hollywood-1-78225662111771644",
+          "key": "hollywood-1-78225662111771644",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "California Democratic Gubernatorial Nominee Xavier Becerra Says He Prefers Settlement Of Paramount-WBD Antitrust Lawsuit: “Conference Room, Not Courtroom”",
@@ -3754,8 +3811,8 @@
           ]
         },
         {
-          "id": "hollywood-5-6552526804939820298",
-          "key": "hollywood-5-6552526804939820298",
+          "id": "hollywood-5-6667580960525107536",
+          "key": "hollywood-5-6667580960525107536",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Paramount Has Spent 100 Years in Hollywood. David Ellison Loved That. Until He Didn’t",
@@ -3782,8 +3839,8 @@
           ]
         },
         {
-          "id": "hollywood-11-1818851138312397945",
-          "key": "hollywood-11-1818851138312397945",
+          "id": "hollywood-10-2168508307425094443",
+          "key": "hollywood-10-2168508307425094443",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "News | Why Nicole Mihalka sees LA's entertainment industry overcoming its challenges - CoStar",
@@ -3798,7 +3855,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 89,
+          "priority_score": 90,
           "key_data": [
             "News | Why Nicole Mihalka sees LA's entertainment industry overcoming its challenges - CoStar"
           ],
@@ -3810,8 +3867,8 @@
           ]
         },
         {
-          "id": "hollywood-2-2017696802998565300",
-          "key": "hollywood-2-2017696802998565300",
+          "id": "hollywood-2-1835728300422239874",
+          "key": "hollywood-2-1835728300422239874",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Paramount’s Makan Delrahim Says “Everything Is On The Table” In Finding Merger Resolution, Says Leaving California Is A Consideration But Not “Blackmail”",
@@ -3838,8 +3895,8 @@
           ]
         },
         {
-          "id": "hollywood-6-7358395891324489952",
-          "key": "hollywood-6-7358395891324489952",
+          "id": "hollywood-6-4013472973333631766",
+          "key": "hollywood-6-4013472973333631766",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘The Brink of War’ Review: Jeff Daniels Makes an Unpersuasive Ronald Reagan in Talky Historical Drama About Nuclear Summit With Gorbachev",
@@ -3866,8 +3923,8 @@
           ]
         },
         {
-          "id": "hollywood-12-27924212935063816",
-          "key": "hollywood-12-27924212935063816",
+          "id": "hollywood-11-8426267829241472981",
+          "key": "hollywood-11-8426267829241472981",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University",
@@ -3882,7 +3939,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 88,
+          "priority_score": 89,
           "key_data": [
             "Variety names Joyce Choi ’19 among Hollywood’s rising entertainment leaders - Elon University"
           ],
@@ -3894,7 +3951,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-12 02:14:49 AM ET"
+      "updated_at": "2026-08-12 04:18:17 AM ET"
     },
     {
       "key": "gaming",
@@ -3914,8 +3971,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "gaming-0-4907186255022051903",
-          "key": "gaming-0-4907186255022051903",
+          "id": "gaming-0-2284513750961858306",
+          "key": "gaming-0-2284513750961858306",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Crimson Desert Dev Conducting 'Extensive Research' on Multiplayer Modes, Plots Potential Sequels",
@@ -3942,8 +3999,8 @@
           ]
         },
         {
-          "id": "gaming-20-5678182802343013925",
-          "key": "gaming-20-5678182802343013925",
+          "id": "gaming-20-6931773683502269316",
+          "key": "gaming-20-6931773683502269316",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem - The Washington Post",
@@ -3970,8 +4027,8 @@
           ]
         },
         {
-          "id": "gaming-1-1001443703849116239",
-          "key": "gaming-1-1001443703849116239",
+          "id": "gaming-1-8257036282767385267",
+          "key": "gaming-1-8257036282767385267",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "The Intel Gamer Days Sale Stacks Walmart's Best Gaming PC Deals With Two Free Upcoming PC Games",
@@ -4000,8 +4057,8 @@
       ],
       "items": [
         {
-          "id": "gaming-0-4907186255022051903",
-          "key": "gaming-0-4907186255022051903",
+          "id": "gaming-0-2284513750961858306",
+          "key": "gaming-0-2284513750961858306",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Crimson Desert Dev Conducting 'Extensive Research' on Multiplayer Modes, Plots Potential Sequels",
@@ -4028,8 +4085,8 @@
           ]
         },
         {
-          "id": "gaming-20-5678182802343013925",
-          "key": "gaming-20-5678182802343013925",
+          "id": "gaming-20-6931773683502269316",
+          "key": "gaming-20-6931773683502269316",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Column | The Weeknd is busy gaming — and he wants everyone to play this indie gem - The Washington Post",
@@ -4056,8 +4113,8 @@
           ]
         },
         {
-          "id": "gaming-1-1001443703849116239",
-          "key": "gaming-1-1001443703849116239",
+          "id": "gaming-1-8257036282767385267",
+          "key": "gaming-1-8257036282767385267",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "The Intel Gamer Days Sale Stacks Walmart's Best Gaming PC Deals With Two Free Upcoming PC Games",
@@ -4084,7 +4141,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-12 02:14:51 AM ET"
+      "updated_at": "2026-08-12 04:18:17 AM ET"
     },
     {
       "key": "media",
@@ -4108,8 +4165,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "media-0-3799610559867030531",
-          "key": "media-0-3799610559867030531",
+          "id": "media-0-3650322335385341727",
+          "key": "media-0-3650322335385341727",
           "category": "Media",
           "label": "Media",
           "headline": "California Attorney General Slams David Ellison’s Plan to Pull Paramount Out of the State as ‘Blackmail’ Attempt That ‘Won’t Work’",
@@ -4136,8 +4193,8 @@
           ]
         },
         {
-          "id": "media-10-2865123738907100877",
-          "key": "media-10-2865123738907100877",
+          "id": "media-10-4617928156461627313",
+          "key": "media-10-4617928156461627313",
           "category": "Media",
           "label": "Media",
           "headline": "Disney Names Joss Hastings Consumer Products Marketing Chief As Division Moves Under Studios",
@@ -4164,8 +4221,8 @@
           ]
         },
         {
-          "id": "media-16-1036024220153667320",
-          "key": "media-16-1036024220153667320",
+          "id": "media-16-5265658300017222752",
+          "key": "media-16-5265658300017222752",
           "category": "Media",
           "label": "Media",
           "headline": "Cynopsis 8/10/2026: The Media And Entertainment Industry Is Creating Jobs - Cynopsis",
@@ -4192,8 +4249,8 @@
           ]
         },
         {
-          "id": "media-1-6385543539635663277",
-          "key": "media-1-6385543539635663277",
+          "id": "media-1-550097963124011220",
+          "key": "media-1-550097963124011220",
           "category": "Media",
           "label": "Media",
           "headline": "Ari Emanuel’s Mari Acquires ATG Entertainment, Theater Owner Behind ‘Wicked’ and ‘Harry Potter and the Cursed Child’ Productions",
@@ -4220,8 +4277,8 @@
           ]
         },
         {
-          "id": "media-11-7642156752603871245",
-          "key": "media-11-7642156752603871245",
+          "id": "media-11-3157855375266585606",
+          "key": "media-11-3157855375266585606",
           "category": "Media",
           "label": "Media",
           "headline": "Kennedy Center Ordered To Pay Jazz Musician Chuck Redd More Than $250,000 In Legal Dispute Over His Opposition To Trump Renaming",
@@ -4250,8 +4307,8 @@
       ],
       "items": [
         {
-          "id": "media-0-3799610559867030531",
-          "key": "media-0-3799610559867030531",
+          "id": "media-0-3650322335385341727",
+          "key": "media-0-3650322335385341727",
           "category": "Media",
           "label": "Media",
           "headline": "California Attorney General Slams David Ellison’s Plan to Pull Paramount Out of the State as ‘Blackmail’ Attempt That ‘Won’t Work’",
@@ -4278,8 +4335,8 @@
           ]
         },
         {
-          "id": "media-10-2865123738907100877",
-          "key": "media-10-2865123738907100877",
+          "id": "media-10-4617928156461627313",
+          "key": "media-10-4617928156461627313",
           "category": "Media",
           "label": "Media",
           "headline": "Disney Names Joss Hastings Consumer Products Marketing Chief As Division Moves Under Studios",
@@ -4306,8 +4363,8 @@
           ]
         },
         {
-          "id": "media-16-1036024220153667320",
-          "key": "media-16-1036024220153667320",
+          "id": "media-16-5265658300017222752",
+          "key": "media-16-5265658300017222752",
           "category": "Media",
           "label": "Media",
           "headline": "Cynopsis 8/10/2026: The Media And Entertainment Industry Is Creating Jobs - Cynopsis",
@@ -4334,8 +4391,8 @@
           ]
         },
         {
-          "id": "media-1-6385543539635663277",
-          "key": "media-1-6385543539635663277",
+          "id": "media-1-550097963124011220",
+          "key": "media-1-550097963124011220",
           "category": "Media",
           "label": "Media",
           "headline": "Ari Emanuel’s Mari Acquires ATG Entertainment, Theater Owner Behind ‘Wicked’ and ‘Harry Potter and the Cursed Child’ Productions",
@@ -4362,8 +4419,8 @@
           ]
         },
         {
-          "id": "media-11-7642156752603871245",
-          "key": "media-11-7642156752603871245",
+          "id": "media-11-3157855375266585606",
+          "key": "media-11-3157855375266585606",
           "category": "Media",
           "label": "Media",
           "headline": "Kennedy Center Ordered To Pay Jazz Musician Chuck Redd More Than $250,000 In Legal Dispute Over His Opposition To Trump Renaming",
@@ -4390,7 +4447,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-12 02:14:51 AM ET"
+      "updated_at": "2026-08-12 04:18:19 AM ET"
     }
   ]
 }
