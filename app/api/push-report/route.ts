@@ -1,5 +1,6 @@
 import { put } from "@vercel/blob";
 import { NextRequest, NextResponse } from "next/server";
+import { type EditorialItem, toEditorialItem } from "../../lib/editorial-archive";
 
 export const dynamic = "force-dynamic";
 
@@ -30,6 +31,23 @@ export async function POST(request: NextRequest) {
       addRandomSuffix: false,
       contentType: "application/json",
     });
+
+    const editorialItems: EditorialItem[] = Array.isArray(parsed.homepage_cards)
+      ? (parsed.homepage_cards as Parameters<typeof toEditorialItem>[0][])
+          .map(toEditorialItem)
+          .filter((item): item is EditorialItem => item !== null)
+      : [];
+
+    await Promise.allSettled(
+      editorialItems.map((item) =>
+        put(`editorial/${item.slug}.json`, JSON.stringify(item), {
+          access: "public",
+          allowOverwrite: true,
+          addRandomSuffix: false,
+          contentType: "application/json",
+        }),
+      ),
+    );
 
     return NextResponse.json({
       ok: true,

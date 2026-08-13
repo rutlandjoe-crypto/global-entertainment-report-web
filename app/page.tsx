@@ -1,13 +1,19 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import type { ReactNode } from "react";
+import type { Metadata } from "next";
 import EditorialStandard from "@/components/EditorialStandard";
 import SocialIconLinks from "@/app/SocialIconLinks";
 import { loadReport } from "@/app/report-data";
 import { formatUpdatedAt } from "@/lib/formatUpdatedAt";
+import { SITE_URL, toEditorialItem } from "@/app/lib/editorial-archive";
 
 export const dynamic = "force-dynamic";
 export const revalidate = 0;
 export const fetchCache = "force-no-store";
+
+export const metadata: Metadata = {
+  alternates: { canonical: `${SITE_URL}/` },
+};
 
 type AnyObj = Record<string, unknown>;
 
@@ -630,6 +636,8 @@ function StoryCard({ story, index }: { story: AnyObj; index: number }) {
   const title = storyTitle(story, index);
   const url = storyUrl(story);
   const summary = storySummary(story);
+  const editorialItem = toEditorialItem(story);
+  const editorialUrl = editorialItem ? `/editorial/${editorialItem.slug}` : "";
 
   const keyData = asList(story.key_data || story.keyData || story.data || story.metrics);
   const why = asList(story.why_it_matters || story.whyItMatters || story.why);
@@ -643,7 +651,9 @@ function StoryCard({ story, index }: { story: AnyObj; index: number }) {
       </p>
 
       <h3 className="text-xl font-black leading-tight text-white">
-        {url !== "#" ? (
+        {editorialUrl ? (
+          <a href={editorialUrl} className="hover:text-fuchsia-300">{title}</a>
+        ) : url !== "#" ? (
           <a href={url} target="_blank" rel="noopener noreferrer" className="hover:text-fuchsia-300">
             {title}
           </a>
@@ -653,6 +663,15 @@ function StoryCard({ story, index }: { story: AnyObj; index: number }) {
       </h3>
 
       <p className="mt-3 text-sm leading-6 text-neutral-400">{summary}</p>
+
+      {editorialUrl && url !== "#" ? (
+        <p className="mt-3 text-xs font-bold text-fuchsia-300">
+          Original source:{" "}
+          <a href={url} target="_blank" rel="noopener noreferrer" className="underline">
+            {cleanText(story.source_name || story.source) || "View source"}
+          </a>
+        </p>
+      ) : null}
 
       <div className="mt-4 grid gap-3 md:grid-cols-2 xl:grid-cols-4">
         <div className="rounded-xl border border-neutral-800 bg-black p-3">
@@ -827,6 +846,9 @@ export default async function Page() {
               <span className="rounded-full border border-purple-700 bg-black px-4 py-2 text-neutral-300">
                 Updated: {updated}
               </span>
+              <a href="/archive" className="rounded-full border border-purple-700 bg-black px-4 py-2 text-fuchsia-300 hover:border-fuchsia-300">
+                Editorial Archive
+              </a>
             </div>
           </div>
 
