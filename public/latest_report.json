@@ -5,15 +5,15 @@
   "vertical": "Entertainment",
   "headline": "Andreas Dresen, Doris Dörrie Films to World Premiere at Zurich Film Festival",
   "snapshot": "Global Entertainment Report accepted 44 real RSS item(s) across 31 checked feed request(s).",
-  "generated_at": "2026-08-13 12:51:09 AM ET",
-  "updated_at": "2026-08-13 12:51:09 AM ET",
-  "published_at": "2026-08-13 12:51:09 AM ET",
+  "generated_at": "2026-08-13 02:16:55 AM ET",
+  "updated_at": "2026-08-13 02:16:55 AM ET",
+  "published_at": "2026-08-13 02:16:55 AM ET",
   "source_mode": "live RSS ingestion",
   "freshness": {
     "max_item_age_hours": 336,
     "accepted_real_items": 44,
     "checked_feeds": 31,
-    "feeds_without_accepted_items": 7
+    "feeds_without_accepted_items": 8
   },
   "feed_audit": [
     {
@@ -53,9 +53,9 @@
       "final_url": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 86,
+      "rejected_count": 87,
       "rejection_reasons": {
-        "stale-over-336h": 86
+        "stale-over-336h": 87
       }
     },
     {
@@ -166,9 +166,9 @@
       "final_url": "https://news.google.com/rss/search?q=music+entertainment+billboard&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 97,
+      "rejected_count": 96,
       "rejection_reasons": {
-        "stale-over-336h": 97
+        "stale-over-336h": 96
       }
     },
     {
@@ -199,8 +199,8 @@
       "url": "https://news.google.com/rss/search?q=entertainment+awards+oscars+emmys+grammys&hl=en-US&gl=US&ceid=US:en",
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=entertainment+awards+oscars+emmys+grammys&hl=en-US&gl=US&ceid=US:en",
-      "item_count": 73,
-      "accepted_count": 1,
+      "item_count": 72,
+      "accepted_count": 0,
       "rejected_count": 72,
       "rejection_reasons": {
         "stale-over-336h": 72
@@ -258,11 +258,11 @@
       "url": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
-      "item_count": 98,
+      "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 88,
+      "rejected_count": 90,
       "rejection_reasons": {
-        "stale-over-336h": 88
+        "stale-over-336h": 90
       }
     },
     {
@@ -271,10 +271,10 @@
       "status_code": "200",
       "final_url": "https://variety.com/feed/",
       "item_count": 10,
-      "accepted_count": 1,
-      "rejected_count": 9,
+      "accepted_count": 2,
+      "rejected_count": 8,
       "rejection_reasons": {
-        "duplicate-story": 9
+        "duplicate-story": 8
       }
     },
     {
@@ -308,9 +308,9 @@
       "final_url": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 91,
+      "rejected_count": 92,
       "rejection_reasons": {
-        "stale-over-336h": 91
+        "stale-over-336h": 92
       }
     },
     {
@@ -387,8 +387,8 @@
   ],
   "live_newsroom": [
     {
-      "id": "film-0-5766092932187347151",
-      "key": "film-0-5766092932187347151",
+      "id": "film-0-7073081180047397938",
+      "key": "film-0-7073081180047397938",
       "category": "Film",
       "label": "Film",
       "headline": "Andreas Dresen, Doris Dörrie Films to World Premiere at Zurich Film Festival",
@@ -414,8 +414,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-2106441787902067857",
-      "key": "film-10-2106441787902067857",
+      "id": "film-10-1581898489885319297",
+      "key": "film-10-1581898489885319297",
       "category": "Film",
       "label": "Film",
       "headline": "Zurich Film Festival: Peter Farrelly's 'I Play Rocky' & Channing Tatum Starrer 'Josephine' Among Gala Titles",
@@ -441,8 +441,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-1890835771373017100",
-      "key": "film-22-1890835771373017100",
+      "id": "film-22-712845141904755174",
+      "key": "film-22-712845141904755174",
       "category": "Film",
       "label": "Film",
       "headline": "Zurich Film Fest Galas Set for Award Contenders 'I Play Rocky,' 'Possible Love,' 'Josephine'",
@@ -468,8 +468,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-2846038291311930923",
-      "key": "film-32-2846038291311930923",
+      "id": "film-32-1500636085033662953",
+      "key": "film-32-1500636085033662953",
       "category": "Film",
       "label": "Film",
       "headline": "Sundance 2026 Movies Sold: Michal Marczak's Doc 'Closure' Lands at 1-2 Special - IndieWire",
@@ -495,8 +495,8 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-9156078929412344544",
-      "key": "music-10-9156078929412344544",
+      "id": "music-10-8401915434008370630",
+      "key": "music-10-8401915434008370630",
       "category": "Music",
       "label": "Music",
       "headline": "Ecca Vandal's Trans-Atlantic Tour Is 'A Beautiful Type of Chaos'",
@@ -522,8 +522,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-3613705497277142051",
-      "key": "gaming-0-3613705497277142051",
+      "id": "gaming-0-3671425398734313362",
+      "key": "gaming-0-3671425398734313362",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "McDonald's Announces Eight Hello Kitty x Godzilla Toys Coming to Happy Meals This August",
@@ -549,8 +549,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-3301713258157483718",
-      "key": "film-1-3301713258157483718",
+      "id": "film-1-724711586759081869",
+      "key": "film-1-724711586759081869",
       "category": "Film",
       "label": "Film",
       "headline": "Indian Freedom Fighter Bhagat Singh Series in Development at Collective Studios' Historyverse (EXCLUSIVE)",
@@ -576,8 +576,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-8215938774220694286",
-      "key": "film-11-8215938774220694286",
+      "id": "film-11-4297642477229267542",
+      "key": "film-11-4297642477229267542",
       "category": "Film",
       "label": "Film",
       "headline": "Jeremy Strong Emailed Mark Zuckerberg To Assure Him He Takes 'The Social Reckoning' Role \"Very Seriously\"",
@@ -603,8 +603,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-892069013786565115",
-      "key": "film-23-892069013786565115",
+      "id": "film-23-5874084564627015248",
+      "key": "film-23-5874084564627015248",
       "category": "Film",
       "label": "Film",
       "headline": "'The Matrix' Director Lilly Wachowski Says Hollywood Won't Finance New Film With Trans Cast",
@@ -630,8 +630,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-6195610202361639376",
-      "key": "film-33-6195610202361639376",
+      "id": "film-33-4294261645199865052",
+      "key": "film-33-4294261645199865052",
       "category": "Film",
       "label": "Film",
       "headline": "The 35 best sci-fi movies of all time (August 2026) - Entertainment Weekly",
@@ -657,8 +657,8 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-8512026291347134101",
-      "key": "music-11-8512026291347134101",
+      "id": "music-11-6867017752723395783",
+      "key": "music-11-6867017752723395783",
       "category": "Music",
       "label": "Music",
       "headline": "RÜFÜS DU SOL Plan to Lay Low For 'A Solid Amount of Time'",
@@ -684,8 +684,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-8602251855551443243",
-      "key": "gaming-1-8602251855551443243",
+      "id": "gaming-1-5660133081002041945",
+      "key": "gaming-1-5660133081002041945",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Old School Runescape Officially Recognizes Player Who Reached Level 99 Fishing Catching Only Shrimp and Anchovies",
@@ -713,8 +713,8 @@
   ],
   "editor_signals": [
     {
-      "id": "film-2-368117964225556798",
-      "key": "film-2-368117964225556798",
+      "id": "film-2-2762065165804300286",
+      "key": "film-2-2762065165804300286",
       "category": "Film",
       "label": "Film",
       "headline": "Hollywood's Top-Grossing Films of 2025 Show Limited Progress Toward Inclusion, Study Says: 'The Pace of Change Has Been Slow'",
@@ -740,8 +740,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-5617124228944176120",
-      "key": "film-12-5617124228944176120",
+      "id": "film-12-8582186255427331016",
+      "key": "film-12-8582186255427331016",
       "category": "Film",
       "label": "Film",
       "headline": "Former Disney CEO Bob Chapek Memoir 'Behind The Castle Walls' Gets Fall Release Date",
@@ -767,8 +767,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-5509401852369966000",
-      "key": "film-24-5509401852369966000",
+      "id": "film-24-8930301621699741542",
+      "key": "film-24-8930301621699741542",
       "category": "Film",
       "label": "Film",
       "headline": "'End of Oak Street' Box Office Aims to Take Bite Out of 'Spider-Man: Brand New Day'",
@@ -794,8 +794,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-3994798928647700965",
-      "key": "film-34-3994798928647700965",
+      "id": "film-34-3596467930603133960",
+      "key": "film-34-3596467930603133960",
       "category": "Film",
       "label": "Film",
       "headline": "Our favorite memories at the movies - The Verge",
@@ -821,8 +821,8 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-1912819955824173934",
-      "key": "music-12-1912819955824173934",
+      "id": "music-12-5688980067213398498",
+      "key": "music-12-5688980067213398498",
       "category": "Music",
       "label": "Music",
       "headline": "Inside KATSEYE on 'Tonight Show': Their Wild 'Animal' TV Debut, Thanking Fans for 'Support' During Sophia & Manon Hiatus (Exclusive Photos)",
@@ -848,8 +848,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-6364735681033225682",
-      "key": "gaming-2-6364735681033225682",
+      "id": "gaming-2-1086215001334426437",
+      "key": "gaming-2-1086215001334426437",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Dataminers Uncover Five Possible DLC Characters for Marvel Tokon: Fighting Souls",
@@ -875,8 +875,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-1227019161912189585",
-      "key": "film-3-1227019161912189585",
+      "id": "film-3-7529710176044157761",
+      "key": "film-3-7529710176044157761",
       "category": "Film",
       "label": "Film",
       "headline": "DGA and IATSE Push Rob Bonta to Allow Paramount-Warner Bros. Merger With Conditions",
@@ -902,8 +902,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-7029718591572644478",
-      "key": "film-13-7029718591572644478",
+      "id": "film-13-4262427470582239878",
+      "key": "film-13-4262427470582239878",
       "category": "Film",
       "label": "Film",
       "headline": "Walt Disney Studios Promotes Melissa Stone To SVP Publicity",
@@ -929,8 +929,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-4669428448271460312",
-      "key": "film-25-4669428448271460312",
+      "id": "film-25-2513530768392903655",
+      "key": "film-25-2513530768392903655",
       "category": "Film",
       "label": "Film",
       "headline": "A Movie Theater Didn't Get Sent 'Spider-Man' Posters, So an Employee Drew His Own",
@@ -956,8 +956,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-5594327007006611585",
-      "key": "film-35-5594327007006611585",
+      "id": "film-35-6063528797478475986",
+      "key": "film-35-6063528797478475986",
       "category": "Film",
       "label": "Film",
       "headline": "25 best whodunit movies in movie history, according to fans - klax-tv.com",
@@ -983,8 +983,8 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-7599701239948413798",
-      "key": "music-13-7599701239948413798",
+      "id": "music-13-913697418273494741",
+      "key": "music-13-913697418273494741",
       "category": "Music",
       "label": "Music",
       "headline": "The Neighbourhood's 'Sweater Weather' Cozies Its Way Into YouTube's Billion Views Club",
@@ -1010,8 +1010,8 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-4346522347419342736",
-      "key": "gaming-3-4346522347419342736",
+      "id": "gaming-3-5945688019610389316",
+      "key": "gaming-3-5945688019610389316",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Hogwarts Legacy 2 Is Officially in the Works, Confirms Warner Bros.",
@@ -1039,8 +1039,8 @@
   ],
   "homepage_cards": [
     {
-      "id": "film-0-5766092932187347151",
-      "key": "film-0-5766092932187347151",
+      "id": "film-0-7073081180047397938",
+      "key": "film-0-7073081180047397938",
       "category": "Film",
       "label": "Film",
       "headline": "Andreas Dresen, Doris Dörrie Films to World Premiere at Zurich Film Festival",
@@ -1066,8 +1066,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-2106441787902067857",
-      "key": "film-10-2106441787902067857",
+      "id": "film-10-1581898489885319297",
+      "key": "film-10-1581898489885319297",
       "category": "Film",
       "label": "Film",
       "headline": "Zurich Film Festival: Peter Farrelly's 'I Play Rocky' & Channing Tatum Starrer 'Josephine' Among Gala Titles",
@@ -1093,8 +1093,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-1890835771373017100",
-      "key": "film-22-1890835771373017100",
+      "id": "film-22-712845141904755174",
+      "key": "film-22-712845141904755174",
       "category": "Film",
       "label": "Film",
       "headline": "Zurich Film Fest Galas Set for Award Contenders 'I Play Rocky,' 'Possible Love,' 'Josephine'",
@@ -1120,8 +1120,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-2846038291311930923",
-      "key": "film-32-2846038291311930923",
+      "id": "film-32-1500636085033662953",
+      "key": "film-32-1500636085033662953",
       "category": "Film",
       "label": "Film",
       "headline": "Sundance 2026 Movies Sold: Michal Marczak's Doc 'Closure' Lands at 1-2 Special - IndieWire",
@@ -1147,8 +1147,8 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-9156078929412344544",
-      "key": "music-10-9156078929412344544",
+      "id": "music-10-8401915434008370630",
+      "key": "music-10-8401915434008370630",
       "category": "Music",
       "label": "Music",
       "headline": "Ecca Vandal's Trans-Atlantic Tour Is 'A Beautiful Type of Chaos'",
@@ -1174,8 +1174,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-3613705497277142051",
-      "key": "gaming-0-3613705497277142051",
+      "id": "gaming-0-3671425398734313362",
+      "key": "gaming-0-3671425398734313362",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "McDonald's Announces Eight Hello Kitty x Godzilla Toys Coming to Happy Meals This August",
@@ -1201,8 +1201,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-3301713258157483718",
-      "key": "film-1-3301713258157483718",
+      "id": "film-1-724711586759081869",
+      "key": "film-1-724711586759081869",
       "category": "Film",
       "label": "Film",
       "headline": "Indian Freedom Fighter Bhagat Singh Series in Development at Collective Studios' Historyverse (EXCLUSIVE)",
@@ -1228,8 +1228,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-8215938774220694286",
-      "key": "film-11-8215938774220694286",
+      "id": "film-11-4297642477229267542",
+      "key": "film-11-4297642477229267542",
       "category": "Film",
       "label": "Film",
       "headline": "Jeremy Strong Emailed Mark Zuckerberg To Assure Him He Takes 'The Social Reckoning' Role \"Very Seriously\"",
@@ -1255,8 +1255,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-892069013786565115",
-      "key": "film-23-892069013786565115",
+      "id": "film-23-5874084564627015248",
+      "key": "film-23-5874084564627015248",
       "category": "Film",
       "label": "Film",
       "headline": "'The Matrix' Director Lilly Wachowski Says Hollywood Won't Finance New Film With Trans Cast",
@@ -1282,8 +1282,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-6195610202361639376",
-      "key": "film-33-6195610202361639376",
+      "id": "film-33-4294261645199865052",
+      "key": "film-33-4294261645199865052",
       "category": "Film",
       "label": "Film",
       "headline": "The 35 best sci-fi movies of all time (August 2026) - Entertainment Weekly",
@@ -1309,8 +1309,8 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-8512026291347134101",
-      "key": "music-11-8512026291347134101",
+      "id": "music-11-6867017752723395783",
+      "key": "music-11-6867017752723395783",
       "category": "Music",
       "label": "Music",
       "headline": "RÜFÜS DU SOL Plan to Lay Low For 'A Solid Amount of Time'",
@@ -1336,8 +1336,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-8602251855551443243",
-      "key": "gaming-1-8602251855551443243",
+      "id": "gaming-1-5660133081002041945",
+      "key": "gaming-1-5660133081002041945",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Old School Runescape Officially Recognizes Player Who Reached Level 99 Fishing Catching Only Shrimp and Anchovies",
@@ -1363,8 +1363,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-2-368117964225556798",
-      "key": "film-2-368117964225556798",
+      "id": "film-2-2762065165804300286",
+      "key": "film-2-2762065165804300286",
       "category": "Film",
       "label": "Film",
       "headline": "Hollywood's Top-Grossing Films of 2025 Show Limited Progress Toward Inclusion, Study Says: 'The Pace of Change Has Been Slow'",
@@ -1390,8 +1390,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-5617124228944176120",
-      "key": "film-12-5617124228944176120",
+      "id": "film-12-8582186255427331016",
+      "key": "film-12-8582186255427331016",
       "category": "Film",
       "label": "Film",
       "headline": "Former Disney CEO Bob Chapek Memoir 'Behind The Castle Walls' Gets Fall Release Date",
@@ -1417,8 +1417,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-5509401852369966000",
-      "key": "film-24-5509401852369966000",
+      "id": "film-24-8930301621699741542",
+      "key": "film-24-8930301621699741542",
       "category": "Film",
       "label": "Film",
       "headline": "'End of Oak Street' Box Office Aims to Take Bite Out of 'Spider-Man: Brand New Day'",
@@ -1444,8 +1444,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-3994798928647700965",
-      "key": "film-34-3994798928647700965",
+      "id": "film-34-3596467930603133960",
+      "key": "film-34-3596467930603133960",
       "category": "Film",
       "label": "Film",
       "headline": "Our favorite memories at the movies - The Verge",
@@ -1471,8 +1471,8 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-1912819955824173934",
-      "key": "music-12-1912819955824173934",
+      "id": "music-12-5688980067213398498",
+      "key": "music-12-5688980067213398498",
       "category": "Music",
       "label": "Music",
       "headline": "Inside KATSEYE on 'Tonight Show': Their Wild 'Animal' TV Debut, Thanking Fans for 'Support' During Sophia & Manon Hiatus (Exclusive Photos)",
@@ -1498,8 +1498,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-6364735681033225682",
-      "key": "gaming-2-6364735681033225682",
+      "id": "gaming-2-1086215001334426437",
+      "key": "gaming-2-1086215001334426437",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Dataminers Uncover Five Possible DLC Characters for Marvel Tokon: Fighting Souls",
@@ -1525,8 +1525,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-1227019161912189585",
-      "key": "film-3-1227019161912189585",
+      "id": "film-3-7529710176044157761",
+      "key": "film-3-7529710176044157761",
       "category": "Film",
       "label": "Film",
       "headline": "DGA and IATSE Push Rob Bonta to Allow Paramount-Warner Bros. Merger With Conditions",
@@ -1552,8 +1552,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-7029718591572644478",
-      "key": "film-13-7029718591572644478",
+      "id": "film-13-4262427470582239878",
+      "key": "film-13-4262427470582239878",
       "category": "Film",
       "label": "Film",
       "headline": "Walt Disney Studios Promotes Melissa Stone To SVP Publicity",
@@ -1579,8 +1579,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-4669428448271460312",
-      "key": "film-25-4669428448271460312",
+      "id": "film-25-2513530768392903655",
+      "key": "film-25-2513530768392903655",
       "category": "Film",
       "label": "Film",
       "headline": "A Movie Theater Didn't Get Sent 'Spider-Man' Posters, So an Employee Drew His Own",
@@ -1606,8 +1606,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-5594327007006611585",
-      "key": "film-35-5594327007006611585",
+      "id": "film-35-6063528797478475986",
+      "key": "film-35-6063528797478475986",
       "category": "Film",
       "label": "Film",
       "headline": "25 best whodunit movies in movie history, according to fans - klax-tv.com",
@@ -1633,8 +1633,8 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-7599701239948413798",
-      "key": "music-13-7599701239948413798",
+      "id": "music-13-913697418273494741",
+      "key": "music-13-913697418273494741",
       "category": "Music",
       "label": "Music",
       "headline": "The Neighbourhood's 'Sweater Weather' Cozies Its Way Into YouTube's Billion Views Club",
@@ -1660,8 +1660,8 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-4346522347419342736",
-      "key": "gaming-3-4346522347419342736",
+      "id": "gaming-3-5945688019610389316",
+      "key": "gaming-3-5945688019610389316",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Hogwarts Legacy 2 Is Officially in the Works, Confirms Warner Bros.",
@@ -1713,8 +1713,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "film-0-5766092932187347151",
-          "key": "film-0-5766092932187347151",
+          "id": "film-0-7073081180047397938",
+          "key": "film-0-7073081180047397938",
           "category": "Film",
           "label": "Film",
           "headline": "Andreas Dresen, Doris Dörrie Films to World Premiere at Zurich Film Festival",
@@ -1741,8 +1741,8 @@
           ]
         },
         {
-          "id": "film-10-2106441787902067857",
-          "key": "film-10-2106441787902067857",
+          "id": "film-10-1581898489885319297",
+          "key": "film-10-1581898489885319297",
           "category": "Film",
           "label": "Film",
           "headline": "Zurich Film Festival: Peter Farrelly’s ‘I Play Rocky’ & Channing Tatum Starrer ‘Josephine’ Among Gala Titles",
@@ -1769,8 +1769,8 @@
           ]
         },
         {
-          "id": "film-22-1890835771373017100",
-          "key": "film-22-1890835771373017100",
+          "id": "film-22-712845141904755174",
+          "key": "film-22-712845141904755174",
           "category": "Film",
           "label": "Film",
           "headline": "Zurich Film Fest Galas Set for Award Contenders ‘I Play Rocky,’ ‘Possible Love,’ ‘Josephine’",
@@ -1797,8 +1797,8 @@
           ]
         },
         {
-          "id": "film-32-2846038291311930923",
-          "key": "film-32-2846038291311930923",
+          "id": "film-32-1500636085033662953",
+          "key": "film-32-1500636085033662953",
           "category": "Film",
           "label": "Film",
           "headline": "Sundance 2026 Movies Sold: Michal Marczak’s Doc ‘Closure’ Lands at 1-2 Special - IndieWire",
@@ -1825,8 +1825,8 @@
           ]
         },
         {
-          "id": "film-1-3301713258157483718",
-          "key": "film-1-3301713258157483718",
+          "id": "film-1-724711586759081869",
+          "key": "film-1-724711586759081869",
           "category": "Film",
           "label": "Film",
           "headline": "Indian Freedom Fighter Bhagat Singh Series in Development at Collective Studios’ Historyverse (EXCLUSIVE)",
@@ -1853,8 +1853,8 @@
           ]
         },
         {
-          "id": "film-11-8215938774220694286",
-          "key": "film-11-8215938774220694286",
+          "id": "film-11-4297642477229267542",
+          "key": "film-11-4297642477229267542",
           "category": "Film",
           "label": "Film",
           "headline": "Jeremy Strong Emailed Mark Zuckerberg To Assure Him He Takes ‘The Social Reckoning’ Role “Very Seriously”",
@@ -1881,8 +1881,8 @@
           ]
         },
         {
-          "id": "film-23-892069013786565115",
-          "key": "film-23-892069013786565115",
+          "id": "film-23-5874084564627015248",
+          "key": "film-23-5874084564627015248",
           "category": "Film",
           "label": "Film",
           "headline": "‘The Matrix’ Director Lilly Wachowski Says Hollywood Won’t Finance New Film With Trans Cast",
@@ -1909,8 +1909,8 @@
           ]
         },
         {
-          "id": "film-33-6195610202361639376",
-          "key": "film-33-6195610202361639376",
+          "id": "film-33-4294261645199865052",
+          "key": "film-33-4294261645199865052",
           "category": "Film",
           "label": "Film",
           "headline": "The 35 best sci-fi movies of all time (August 2026) - Entertainment Weekly",
@@ -1939,8 +1939,8 @@
       ],
       "items": [
         {
-          "id": "film-0-5766092932187347151",
-          "key": "film-0-5766092932187347151",
+          "id": "film-0-7073081180047397938",
+          "key": "film-0-7073081180047397938",
           "category": "Film",
           "label": "Film",
           "headline": "Andreas Dresen, Doris Dörrie Films to World Premiere at Zurich Film Festival",
@@ -1967,8 +1967,8 @@
           ]
         },
         {
-          "id": "film-10-2106441787902067857",
-          "key": "film-10-2106441787902067857",
+          "id": "film-10-1581898489885319297",
+          "key": "film-10-1581898489885319297",
           "category": "Film",
           "label": "Film",
           "headline": "Zurich Film Festival: Peter Farrelly’s ‘I Play Rocky’ & Channing Tatum Starrer ‘Josephine’ Among Gala Titles",
@@ -1995,8 +1995,8 @@
           ]
         },
         {
-          "id": "film-22-1890835771373017100",
-          "key": "film-22-1890835771373017100",
+          "id": "film-22-712845141904755174",
+          "key": "film-22-712845141904755174",
           "category": "Film",
           "label": "Film",
           "headline": "Zurich Film Fest Galas Set for Award Contenders ‘I Play Rocky,’ ‘Possible Love,’ ‘Josephine’",
@@ -2023,8 +2023,8 @@
           ]
         },
         {
-          "id": "film-32-2846038291311930923",
-          "key": "film-32-2846038291311930923",
+          "id": "film-32-1500636085033662953",
+          "key": "film-32-1500636085033662953",
           "category": "Film",
           "label": "Film",
           "headline": "Sundance 2026 Movies Sold: Michal Marczak’s Doc ‘Closure’ Lands at 1-2 Special - IndieWire",
@@ -2051,8 +2051,8 @@
           ]
         },
         {
-          "id": "film-1-3301713258157483718",
-          "key": "film-1-3301713258157483718",
+          "id": "film-1-724711586759081869",
+          "key": "film-1-724711586759081869",
           "category": "Film",
           "label": "Film",
           "headline": "Indian Freedom Fighter Bhagat Singh Series in Development at Collective Studios’ Historyverse (EXCLUSIVE)",
@@ -2079,8 +2079,8 @@
           ]
         },
         {
-          "id": "film-11-8215938774220694286",
-          "key": "film-11-8215938774220694286",
+          "id": "film-11-4297642477229267542",
+          "key": "film-11-4297642477229267542",
           "category": "Film",
           "label": "Film",
           "headline": "Jeremy Strong Emailed Mark Zuckerberg To Assure Him He Takes ‘The Social Reckoning’ Role “Very Seriously”",
@@ -2107,8 +2107,8 @@
           ]
         },
         {
-          "id": "film-23-892069013786565115",
-          "key": "film-23-892069013786565115",
+          "id": "film-23-5874084564627015248",
+          "key": "film-23-5874084564627015248",
           "category": "Film",
           "label": "Film",
           "headline": "‘The Matrix’ Director Lilly Wachowski Says Hollywood Won’t Finance New Film With Trans Cast",
@@ -2135,8 +2135,8 @@
           ]
         },
         {
-          "id": "film-33-6195610202361639376",
-          "key": "film-33-6195610202361639376",
+          "id": "film-33-4294261645199865052",
+          "key": "film-33-4294261645199865052",
           "category": "Film",
           "label": "Film",
           "headline": "The 35 best sci-fi movies of all time (August 2026) - Entertainment Weekly",
@@ -2163,7 +2163,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-13 12:51:11 AM ET"
+      "updated_at": "2026-08-13 02:16:56 AM ET"
     },
     {
       "key": "tv",
@@ -2188,8 +2188,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "tv-0-197822021386788127",
-          "key": "tv-0-197822021386788127",
+          "id": "tv-0-9133200342881715822",
+          "key": "tv-0-9133200342881715822",
           "category": "TV",
           "label": "TV",
           "headline": "‘Reacher’ Season 4 Cast Guide: Who’s Who in the Prime Video Action Series",
@@ -2216,8 +2216,8 @@
           ]
         },
         {
-          "id": "tv-9-5417226969666390981",
-          "key": "tv-9-5417226969666390981",
+          "id": "tv-9-660906311402161745",
+          "key": "tv-9-660906311402161745",
           "category": "TV",
           "label": "TV",
           "headline": "‘Heated Rivalry’s Dylan Walsh Pauses Cameo Account After Getting In “Trouble” For Spilling Season 2 Secrets",
@@ -2244,8 +2244,8 @@
           ]
         },
         {
-          "id": "tv-19-2249469526073291462",
-          "key": "tv-19-2249469526073291462",
+          "id": "tv-19-2710199566752016383",
+          "key": "tv-19-2710199566752016383",
           "category": "TV",
           "label": "TV",
           "headline": "Where to Watch 2026 FedEx St. Jude Championship Online",
@@ -2272,8 +2272,8 @@
           ]
         },
         {
-          "id": "tv-1-5254696709163092888",
-          "key": "tv-1-5254696709163092888",
+          "id": "tv-1-1727498957023832820",
+          "key": "tv-1-1727498957023832820",
           "category": "TV",
           "label": "TV",
           "headline": "As ‘The Comeback’ and ‘Hacks’ End, Valerie Cherish and Deborah Vance Are Emmy Competitors for the First and Last Time",
@@ -2300,8 +2300,8 @@
           ]
         },
         {
-          "id": "tv-10-517624587976065950",
-          "key": "tv-10-517624587976065950",
+          "id": "tv-10-1770964281280141962",
+          "key": "tv-10-1770964281280141962",
           "category": "TV",
           "label": "TV",
           "headline": "All The Songs In ‘Ted Lasso’ Season 4 So Far",
@@ -2328,8 +2328,8 @@
           ]
         },
         {
-          "id": "tv-20-410931237175256079",
-          "key": "tv-20-410931237175256079",
+          "id": "tv-20-5495515222392341003",
+          "key": "tv-20-5495515222392341003",
           "category": "TV",
           "label": "TV",
           "headline": "‘The Traitors: New Blood’ Season 1 Cast: Meet the 22 Civilian Contestants",
@@ -2358,8 +2358,8 @@
       ],
       "items": [
         {
-          "id": "tv-0-197822021386788127",
-          "key": "tv-0-197822021386788127",
+          "id": "tv-0-9133200342881715822",
+          "key": "tv-0-9133200342881715822",
           "category": "TV",
           "label": "TV",
           "headline": "‘Reacher’ Season 4 Cast Guide: Who’s Who in the Prime Video Action Series",
@@ -2386,8 +2386,8 @@
           ]
         },
         {
-          "id": "tv-9-5417226969666390981",
-          "key": "tv-9-5417226969666390981",
+          "id": "tv-9-660906311402161745",
+          "key": "tv-9-660906311402161745",
           "category": "TV",
           "label": "TV",
           "headline": "‘Heated Rivalry’s Dylan Walsh Pauses Cameo Account After Getting In “Trouble” For Spilling Season 2 Secrets",
@@ -2414,8 +2414,8 @@
           ]
         },
         {
-          "id": "tv-19-2249469526073291462",
-          "key": "tv-19-2249469526073291462",
+          "id": "tv-19-2710199566752016383",
+          "key": "tv-19-2710199566752016383",
           "category": "TV",
           "label": "TV",
           "headline": "Where to Watch 2026 FedEx St. Jude Championship Online",
@@ -2442,8 +2442,8 @@
           ]
         },
         {
-          "id": "tv-1-5254696709163092888",
-          "key": "tv-1-5254696709163092888",
+          "id": "tv-1-1727498957023832820",
+          "key": "tv-1-1727498957023832820",
           "category": "TV",
           "label": "TV",
           "headline": "As ‘The Comeback’ and ‘Hacks’ End, Valerie Cherish and Deborah Vance Are Emmy Competitors for the First and Last Time",
@@ -2470,8 +2470,8 @@
           ]
         },
         {
-          "id": "tv-10-517624587976065950",
-          "key": "tv-10-517624587976065950",
+          "id": "tv-10-1770964281280141962",
+          "key": "tv-10-1770964281280141962",
           "category": "TV",
           "label": "TV",
           "headline": "All The Songs In ‘Ted Lasso’ Season 4 So Far",
@@ -2498,8 +2498,8 @@
           ]
         },
         {
-          "id": "tv-20-410931237175256079",
-          "key": "tv-20-410931237175256079",
+          "id": "tv-20-5495515222392341003",
+          "key": "tv-20-5495515222392341003",
           "category": "TV",
           "label": "TV",
           "headline": "‘The Traitors: New Blood’ Season 1 Cast: Meet the 22 Civilian Contestants",
@@ -2526,7 +2526,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-13 12:51:12 AM ET"
+      "updated_at": "2026-08-13 02:16:57 AM ET"
     },
     {
       "key": "streaming",
@@ -2542,8 +2542,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "streaming-0-8811764984952722800",
-          "key": "streaming-0-8811764984952722800",
+          "id": "streaming-0-8063843339264723229",
+          "key": "streaming-0-8063843339264723229",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'The Last House' to 'Obsession,' 10 movies to stream right now - USA Today",
@@ -2572,8 +2572,8 @@
       ],
       "items": [
         {
-          "id": "streaming-0-8811764984952722800",
-          "key": "streaming-0-8811764984952722800",
+          "id": "streaming-0-8063843339264723229",
+          "key": "streaming-0-8063843339264723229",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'The Last House' to 'Obsession,' 10 movies to stream right now - USA Today",
@@ -2600,7 +2600,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-13 12:51:13 AM ET"
+      "updated_at": "2026-08-13 02:16:58 AM ET"
     },
     {
       "key": "music",
@@ -2611,22 +2611,22 @@
       "key_storylines": [
         "Ritchie Blackmore Performs With Deep Purple for First Time Since Acrimonious Split in Early ’90s, After Warning Fans: ‘I Have Not Played Rock Music in 25 Years’",
         "Ecca Vandal’s Trans-Atlantic Tour Is ‘A Beautiful Type of Chaos’",
-        "Sara Ito Talks Believing in Herself and Living as a Dancer in L.A.: Billboard Japan Women In Music Interview - Billboard",
+        "Sara Ito Talks Believing in Herself and Living as a Dancer in L.A.: Billboard Japan Women In Music Interview - billboard.com",
         "Hayley Williams’ Band Power Snatch Surprise-Releases ‘EP2’",
         "RÜFÜS DU SOL Plan to Lay Low For ‘A Solid Amount of Time’"
       ],
       "watch_list": [
         "Ritchie Blackmore Performs With Deep Purple for First Time Since Acrimonious Split in Early ’90s, After Warning Fans: ‘I Have Not Played Rock Music in 25 Years’",
         "Ecca Vandal’s Trans-Atlantic Tour Is ‘A Beautiful Type of Chaos’",
-        "Sara Ito Talks Believing in Herself and Living as a Dancer in L.A.: Billboard Japan Women In Music Interview - Billboard",
+        "Sara Ito Talks Believing in Herself and Living as a Dancer in L.A.: Billboard Japan Women In Music Interview - billboard.com",
         "Hayley Williams’ Band Power Snatch Surprise-Releases ‘EP2’",
         "RÜFÜS DU SOL Plan to Lay Low For ‘A Solid Amount of Time’",
-        "Tencent Music’s Q2 Revenue Tops $1.3 Billion on Subscription Growth, Ximalaya Acquisition - Billboard"
+        "Tencent Music’s Q2 Revenue Tops $1.3 Billion on Subscription Growth, Ximalaya Acquisition - billboard.com"
       ],
       "homepage_cards": [
         {
-          "id": "music-0-8265236596672666322",
-          "key": "music-0-8265236596672666322",
+          "id": "music-0-3420282863998640002",
+          "key": "music-0-3420282863998640002",
           "category": "Music",
           "label": "Music",
           "headline": "Ritchie Blackmore Performs With Deep Purple for First Time Since Acrimonious Split in Early ’90s, After Warning Fans: ‘I Have Not Played Rock Music in 25 Years’",
@@ -2653,8 +2653,8 @@
           ]
         },
         {
-          "id": "music-10-9156078929412344544",
-          "key": "music-10-9156078929412344544",
+          "id": "music-10-8401915434008370630",
+          "key": "music-10-8401915434008370630",
           "category": "Music",
           "label": "Music",
           "headline": "Ecca Vandal’s Trans-Atlantic Tour Is ‘A Beautiful Type of Chaos’",
@@ -2681,14 +2681,14 @@
           ]
         },
         {
-          "id": "music-20-1947969612207489237",
-          "key": "music-20-1947969612207489237",
+          "id": "music-20-2883086905090211375",
+          "key": "music-20-2883086905090211375",
           "category": "Music",
           "label": "Music",
-          "headline": "Sara Ito Talks Believing in Herself and Living as a Dancer in L.A.: Billboard Japan Women In Music Interview - Billboard",
-          "title": "Sara Ito Talks Believing in Herself and Living as a Dancer in L.A.: Billboard Japan Women In Music Interview - Billboard",
-          "snapshot": "Sara Ito Talks Believing in Herself and Living as a Dancer in L.A.: Billboard Japan Women In Music Interview Billboard",
-          "summary": "Sara Ito Talks Believing in Herself and Living as a Dancer in L.A.: Billboard Japan Women In Music Interview Billboard",
+          "headline": "Sara Ito Talks Believing in Herself and Living as a Dancer in L.A.: Billboard Japan Women In Music Interview - billboard.com",
+          "title": "Sara Ito Talks Believing in Herself and Living as a Dancer in L.A.: Billboard Japan Women In Music Interview - billboard.com",
+          "snapshot": "Sara Ito Talks Believing in Herself and Living as a Dancer in L.A.: Billboard Japan Women In Music Interview billboard.com",
+          "summary": "Sara Ito Talks Believing in Herself and Living as a Dancer in L.A.: Billboard Japan Women In Music Interview billboard.com",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRkpLNGU0aGdPMjB5SzRfRlFzY2lUbFB1VjhxYm1TUTJBZG1VbHNvcmdVdlhuaGlSLWwyV3BVZUt2WlRzcVdqRnhYLVAwQTA4UU9wYm9EeXB2X3pTdVdKV3E4aEk4Z09CMENxOG1ZUVYzbFpVS182cGFoRnFTWUoyQk9DbmtNanNBVS1xQ1N6M2R4NWNBTVZJUjdnN05FN2lqOGdyNEhScw?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -2699,7 +2699,7 @@
           "story_type": "rss_headline",
           "priority_score": 80,
           "key_data": [
-            "Sara Ito Talks Believing in Herself and Living as a Dancer in L.A.: Billboard Japan Women In Music Interview - Billboard"
+            "Sara Ito Talks Believing in Herself and Living as a Dancer in L.A.: Billboard Japan Women In Music Interview - billboard.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2709,8 +2709,8 @@
           ]
         },
         {
-          "id": "music-1-4936714791201320472",
-          "key": "music-1-4936714791201320472",
+          "id": "music-1-828513191432837036",
+          "key": "music-1-828513191432837036",
           "category": "Music",
           "label": "Music",
           "headline": "Hayley Williams’ Band Power Snatch Surprise-Releases ‘EP2’",
@@ -2737,8 +2737,8 @@
           ]
         },
         {
-          "id": "music-11-8512026291347134101",
-          "key": "music-11-8512026291347134101",
+          "id": "music-11-6867017752723395783",
+          "key": "music-11-6867017752723395783",
           "category": "Music",
           "label": "Music",
           "headline": "RÜFÜS DU SOL Plan to Lay Low For ‘A Solid Amount of Time’",
@@ -2765,14 +2765,14 @@
           ]
         },
         {
-          "id": "music-21-5415006708342926464",
-          "key": "music-21-5415006708342926464",
+          "id": "music-21-6795429430180079088",
+          "key": "music-21-6795429430180079088",
           "category": "Music",
           "label": "Music",
-          "headline": "Tencent Music’s Q2 Revenue Tops $1.3 Billion on Subscription Growth, Ximalaya Acquisition - Billboard",
-          "title": "Tencent Music’s Q2 Revenue Tops $1.3 Billion on Subscription Growth, Ximalaya Acquisition - Billboard",
-          "snapshot": "Tencent Music’s Q2 Revenue Tops $1.3 Billion on Subscription Growth, Ximalaya Acquisition Billboard",
-          "summary": "Tencent Music’s Q2 Revenue Tops $1.3 Billion on Subscription Growth, Ximalaya Acquisition Billboard",
+          "headline": "Tencent Music’s Q2 Revenue Tops $1.3 Billion on Subscription Growth, Ximalaya Acquisition - billboard.com",
+          "title": "Tencent Music’s Q2 Revenue Tops $1.3 Billion on Subscription Growth, Ximalaya Acquisition - billboard.com",
+          "snapshot": "Tencent Music’s Q2 Revenue Tops $1.3 Billion on Subscription Growth, Ximalaya Acquisition billboard.com",
+          "summary": "Tencent Music’s Q2 Revenue Tops $1.3 Billion on Subscription Growth, Ximalaya Acquisition billboard.com",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rTHBEb3FrZHpZVVFYejlpdXhjX2hCVDdhamZfWng1Sk9WTWd3UHVZSVhKZkRPMlFVaURyUFlQVFB1NTJkUmN0MVdBU2szRmhVVkIxcFRTNURVcmpEQzg4ZDV2NWNUUFZCSkdXVA?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -2783,7 +2783,7 @@
           "story_type": "rss_headline",
           "priority_score": 79,
           "key_data": [
-            "Tencent Music’s Q2 Revenue Tops $1.3 Billion on Subscription Growth, Ximalaya Acquisition - Billboard"
+            "Tencent Music’s Q2 Revenue Tops $1.3 Billion on Subscription Growth, Ximalaya Acquisition - billboard.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2795,8 +2795,8 @@
       ],
       "items": [
         {
-          "id": "music-0-8265236596672666322",
-          "key": "music-0-8265236596672666322",
+          "id": "music-0-3420282863998640002",
+          "key": "music-0-3420282863998640002",
           "category": "Music",
           "label": "Music",
           "headline": "Ritchie Blackmore Performs With Deep Purple for First Time Since Acrimonious Split in Early ’90s, After Warning Fans: ‘I Have Not Played Rock Music in 25 Years’",
@@ -2823,8 +2823,8 @@
           ]
         },
         {
-          "id": "music-10-9156078929412344544",
-          "key": "music-10-9156078929412344544",
+          "id": "music-10-8401915434008370630",
+          "key": "music-10-8401915434008370630",
           "category": "Music",
           "label": "Music",
           "headline": "Ecca Vandal’s Trans-Atlantic Tour Is ‘A Beautiful Type of Chaos’",
@@ -2851,14 +2851,14 @@
           ]
         },
         {
-          "id": "music-20-1947969612207489237",
-          "key": "music-20-1947969612207489237",
+          "id": "music-20-2883086905090211375",
+          "key": "music-20-2883086905090211375",
           "category": "Music",
           "label": "Music",
-          "headline": "Sara Ito Talks Believing in Herself and Living as a Dancer in L.A.: Billboard Japan Women In Music Interview - Billboard",
-          "title": "Sara Ito Talks Believing in Herself and Living as a Dancer in L.A.: Billboard Japan Women In Music Interview - Billboard",
-          "snapshot": "Sara Ito Talks Believing in Herself and Living as a Dancer in L.A.: Billboard Japan Women In Music Interview Billboard",
-          "summary": "Sara Ito Talks Believing in Herself and Living as a Dancer in L.A.: Billboard Japan Women In Music Interview Billboard",
+          "headline": "Sara Ito Talks Believing in Herself and Living as a Dancer in L.A.: Billboard Japan Women In Music Interview - billboard.com",
+          "title": "Sara Ito Talks Believing in Herself and Living as a Dancer in L.A.: Billboard Japan Women In Music Interview - billboard.com",
+          "snapshot": "Sara Ito Talks Believing in Herself and Living as a Dancer in L.A.: Billboard Japan Women In Music Interview billboard.com",
+          "summary": "Sara Ito Talks Believing in Herself and Living as a Dancer in L.A.: Billboard Japan Women In Music Interview billboard.com",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRkpLNGU0aGdPMjB5SzRfRlFzY2lUbFB1VjhxYm1TUTJBZG1VbHNvcmdVdlhuaGlSLWwyV3BVZUt2WlRzcVdqRnhYLVAwQTA4UU9wYm9EeXB2X3pTdVdKV3E4aEk4Z09CMENxOG1ZUVYzbFpVS182cGFoRnFTWUoyQk9DbmtNanNBVS1xQ1N6M2R4NWNBTVZJUjdnN05FN2lqOGdyNEhScw?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -2869,7 +2869,7 @@
           "story_type": "rss_headline",
           "priority_score": 80,
           "key_data": [
-            "Sara Ito Talks Believing in Herself and Living as a Dancer in L.A.: Billboard Japan Women In Music Interview - Billboard"
+            "Sara Ito Talks Believing in Herself and Living as a Dancer in L.A.: Billboard Japan Women In Music Interview - billboard.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2879,8 +2879,8 @@
           ]
         },
         {
-          "id": "music-1-4936714791201320472",
-          "key": "music-1-4936714791201320472",
+          "id": "music-1-828513191432837036",
+          "key": "music-1-828513191432837036",
           "category": "Music",
           "label": "Music",
           "headline": "Hayley Williams’ Band Power Snatch Surprise-Releases ‘EP2’",
@@ -2907,8 +2907,8 @@
           ]
         },
         {
-          "id": "music-11-8512026291347134101",
-          "key": "music-11-8512026291347134101",
+          "id": "music-11-6867017752723395783",
+          "key": "music-11-6867017752723395783",
           "category": "Music",
           "label": "Music",
           "headline": "RÜFÜS DU SOL Plan to Lay Low For ‘A Solid Amount of Time’",
@@ -2935,14 +2935,14 @@
           ]
         },
         {
-          "id": "music-21-5415006708342926464",
-          "key": "music-21-5415006708342926464",
+          "id": "music-21-6795429430180079088",
+          "key": "music-21-6795429430180079088",
           "category": "Music",
           "label": "Music",
-          "headline": "Tencent Music’s Q2 Revenue Tops $1.3 Billion on Subscription Growth, Ximalaya Acquisition - Billboard",
-          "title": "Tencent Music’s Q2 Revenue Tops $1.3 Billion on Subscription Growth, Ximalaya Acquisition - Billboard",
-          "snapshot": "Tencent Music’s Q2 Revenue Tops $1.3 Billion on Subscription Growth, Ximalaya Acquisition Billboard",
-          "summary": "Tencent Music’s Q2 Revenue Tops $1.3 Billion on Subscription Growth, Ximalaya Acquisition Billboard",
+          "headline": "Tencent Music’s Q2 Revenue Tops $1.3 Billion on Subscription Growth, Ximalaya Acquisition - billboard.com",
+          "title": "Tencent Music’s Q2 Revenue Tops $1.3 Billion on Subscription Growth, Ximalaya Acquisition - billboard.com",
+          "snapshot": "Tencent Music’s Q2 Revenue Tops $1.3 Billion on Subscription Growth, Ximalaya Acquisition billboard.com",
+          "summary": "Tencent Music’s Q2 Revenue Tops $1.3 Billion on Subscription Growth, Ximalaya Acquisition billboard.com",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rTHBEb3FrZHpZVVFYejlpdXhjX2hCVDdhamZfWng1Sk9WTWd3UHVZSVhKZkRPMlFVaURyUFlQVFB1NTJkUmN0MVdBU2szRmhVVkIxcFRTNURVcmpEQzg4ZDV2NWNUUFZCSkdXVA?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -2953,7 +2953,7 @@
           "story_type": "rss_headline",
           "priority_score": 79,
           "key_data": [
-            "Tencent Music’s Q2 Revenue Tops $1.3 Billion on Subscription Growth, Ximalaya Acquisition - Billboard"
+            "Tencent Music’s Q2 Revenue Tops $1.3 Billion on Subscription Growth, Ximalaya Acquisition - billboard.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2963,28 +2963,26 @@
           ]
         }
       ],
-      "updated_at": "2026-08-13 12:51:15 AM ET"
+      "updated_at": "2026-08-13 02:16:58 AM ET"
     },
     {
       "key": "awards",
       "name": "Awards",
       "title": "Awards Report",
       "headline": "Spies in the Woods: Keri Russell and Matthew Rhys on Their Emmy Nominations, Watching ‘Widow’s Bay’ and That ‘Diplomat’ Cliffhanger",
-      "snapshot": "Awards coverage is updating with 3 current RSS headline item(s).",
+      "snapshot": "Awards coverage is updating with 2 current RSS headline item(s).",
       "key_storylines": [
         "Spies in the Woods: Keri Russell and Matthew Rhys on Their Emmy Nominations, Watching ‘Widow’s Bay’ and That ‘Diplomat’ Cliffhanger",
-        "2027 Oscars Best Picture Predictions - Yahoo",
         "William H. Macy, Shawn Hatosy and Troy Kotsur Among Astra TV Awards Honorees; Lisa Ann Walter Set as Host"
       ],
       "watch_list": [
         "Spies in the Woods: Keri Russell and Matthew Rhys on Their Emmy Nominations, Watching ‘Widow’s Bay’ and That ‘Diplomat’ Cliffhanger",
-        "2027 Oscars Best Picture Predictions - Yahoo",
         "William H. Macy, Shawn Hatosy and Troy Kotsur Among Astra TV Awards Honorees; Lisa Ann Walter Set as Host"
       ],
       "homepage_cards": [
         {
-          "id": "awards-0-5171922546661879467",
-          "key": "awards-0-5171922546661879467",
+          "id": "awards-0-4690741434808911755",
+          "key": "awards-0-4690741434808911755",
           "category": "Awards",
           "label": "Awards",
           "headline": "Spies in the Woods: Keri Russell and Matthew Rhys on Their Emmy Nominations, Watching ‘Widow’s Bay’ and That ‘Diplomat’ Cliffhanger",
@@ -3011,36 +3009,8 @@
           ]
         },
         {
-          "id": "awards-6-5741693841935133687",
-          "key": "awards-6-5741693841935133687",
-          "category": "Awards",
-          "label": "Awards",
-          "headline": "2027 Oscars Best Picture Predictions - Yahoo",
-          "title": "2027 Oscars Best Picture Predictions - Yahoo",
-          "snapshot": "2027 Oscars Best Picture Predictions Yahoo",
-          "summary": "2027 Oscars Best Picture Predictions Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQng3M21mV0NHQjRnS0xQY0pESVpRenU5N004Y25PVHBpUnl6cXZ1QVVya19SaUV5ZHlfQU9HUEVnRV9VUjR6ZWpfOExWVHlFRE14VnJpNHNwQk9NbFRTVEUtRkdIVjV3T0dlTmRJWVlHUE5wTHVnMWVldWJEVXdST1dZcXhSaXpidVpkZXUxeXJTTkZvM1Y5RlNhekRERkx6Z2ZFVmFR?oc=5",
-          "source": "Google News",
-          "source_name": "Google News",
-          "source_feed": "https://news.google.com/rss/search?q=entertainment+awards+oscars+emmys+grammys&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-10 02:11:54 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 94,
-          "key_data": [
-            "2027 Oscars Best Picture Predictions - Yahoo"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "awards-1-3342297693778572513",
-          "key": "awards-1-3342297693778572513",
+          "id": "awards-1-8240107743969180386",
+          "key": "awards-1-8240107743969180386",
           "category": "Awards",
           "label": "Awards",
           "headline": "William H. Macy, Shawn Hatosy and Troy Kotsur Among Astra TV Awards Honorees; Lisa Ann Walter Set as Host",
@@ -3069,8 +3039,8 @@
       ],
       "items": [
         {
-          "id": "awards-0-5171922546661879467",
-          "key": "awards-0-5171922546661879467",
+          "id": "awards-0-4690741434808911755",
+          "key": "awards-0-4690741434808911755",
           "category": "Awards",
           "label": "Awards",
           "headline": "Spies in the Woods: Keri Russell and Matthew Rhys on Their Emmy Nominations, Watching ‘Widow’s Bay’ and That ‘Diplomat’ Cliffhanger",
@@ -3097,36 +3067,8 @@
           ]
         },
         {
-          "id": "awards-6-5741693841935133687",
-          "key": "awards-6-5741693841935133687",
-          "category": "Awards",
-          "label": "Awards",
-          "headline": "2027 Oscars Best Picture Predictions - Yahoo",
-          "title": "2027 Oscars Best Picture Predictions - Yahoo",
-          "snapshot": "2027 Oscars Best Picture Predictions Yahoo",
-          "summary": "2027 Oscars Best Picture Predictions Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQng3M21mV0NHQjRnS0xQY0pESVpRenU5N004Y25PVHBpUnl6cXZ1QVVya19SaUV5ZHlfQU9HUEVnRV9VUjR6ZWpfOExWVHlFRE14VnJpNHNwQk9NbFRTVEUtRkdIVjV3T0dlTmRJWVlHUE5wTHVnMWVldWJEVXdST1dZcXhSaXpidVpkZXUxeXJTTkZvM1Y5RlNhekRERkx6Z2ZFVmFR?oc=5",
-          "source": "Google News",
-          "source_name": "Google News",
-          "source_feed": "https://news.google.com/rss/search?q=entertainment+awards+oscars+emmys+grammys&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-10 02:11:54 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 94,
-          "key_data": [
-            "2027 Oscars Best Picture Predictions - Yahoo"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "awards-1-3342297693778572513",
-          "key": "awards-1-3342297693778572513",
+          "id": "awards-1-8240107743969180386",
+          "key": "awards-1-8240107743969180386",
           "category": "Awards",
           "label": "Awards",
           "headline": "William H. Macy, Shawn Hatosy and Troy Kotsur Among Astra TV Awards Honorees; Lisa Ann Walter Set as Host",
@@ -3153,7 +3095,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-13 12:51:15 AM ET"
+      "updated_at": "2026-08-13 02:16:59 AM ET"
     },
     {
       "key": "box_office",
@@ -3175,8 +3117,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "box_office-0-2719249705355630387",
-          "key": "box_office-0-2719249705355630387",
+          "id": "box_office-0-7167670760303993573",
+          "key": "box_office-0-7167670760303993573",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘End of Oak Street’ Targets $25 Million Debut, ‘Spider-Man: Brand New Day’ to Remain No. 1",
@@ -3203,8 +3145,8 @@
           ]
         },
         {
-          "id": "box_office-10-8246761275395214450",
-          "key": "box_office-10-8246761275395214450",
+          "id": "box_office-10-8111296868130536286",
+          "key": "box_office-10-8111296868130536286",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Summer Box Office Hits $4 Billion for Second Time Since COVID - Variety",
@@ -3231,8 +3173,8 @@
           ]
         },
         {
-          "id": "box_office-1-8925308989684201273",
-          "key": "box_office-1-8925308989684201273",
+          "id": "box_office-1-4119569929221831498",
+          "key": "box_office-1-4119569929221831498",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Summer Box Office Hits $4 Billion for Second Time Since COVID, Thanks to ‘Odyssey,’ ‘Spider-Man’ and More Blockbusters",
@@ -3259,8 +3201,8 @@
           ]
         },
         {
-          "id": "box_office-11-8307740370927350122",
-          "key": "box_office-11-8307740370927350122",
+          "id": "box_office-11-6301867845651093619",
+          "key": "box_office-11-6301867845651093619",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "China Box Office: ‘Spider-Man’ Holds No. 1 as ‘The Odyssey’ Storms Previews - The Hollywood Reporter",
@@ -3289,8 +3231,8 @@
       ],
       "items": [
         {
-          "id": "box_office-0-2719249705355630387",
-          "key": "box_office-0-2719249705355630387",
+          "id": "box_office-0-7167670760303993573",
+          "key": "box_office-0-7167670760303993573",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘End of Oak Street’ Targets $25 Million Debut, ‘Spider-Man: Brand New Day’ to Remain No. 1",
@@ -3317,8 +3259,8 @@
           ]
         },
         {
-          "id": "box_office-10-8246761275395214450",
-          "key": "box_office-10-8246761275395214450",
+          "id": "box_office-10-8111296868130536286",
+          "key": "box_office-10-8111296868130536286",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Summer Box Office Hits $4 Billion for Second Time Since COVID - Variety",
@@ -3345,8 +3287,8 @@
           ]
         },
         {
-          "id": "box_office-1-8925308989684201273",
-          "key": "box_office-1-8925308989684201273",
+          "id": "box_office-1-4119569929221831498",
+          "key": "box_office-1-4119569929221831498",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Summer Box Office Hits $4 Billion for Second Time Since COVID, Thanks to ‘Odyssey,’ ‘Spider-Man’ and More Blockbusters",
@@ -3373,8 +3315,8 @@
           ]
         },
         {
-          "id": "box_office-11-8307740370927350122",
-          "key": "box_office-11-8307740370927350122",
+          "id": "box_office-11-6301867845651093619",
+          "key": "box_office-11-6301867845651093619",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "China Box Office: ‘Spider-Man’ Holds No. 1 as ‘The Odyssey’ Storms Previews - The Hollywood Reporter",
@@ -3401,54 +3343,26 @@
           ]
         }
       ],
-      "updated_at": "2026-08-13 12:51:17 AM ET"
+      "updated_at": "2026-08-13 02:16:59 AM ET"
     },
     {
       "key": "celebrity",
       "name": "Celebrity",
       "title": "Celebrity Report",
-      "headline": "Gavin & Stacey star Melanie Walters completes Strictly line-up - BBC",
+      "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
       "snapshot": "Celebrity coverage is updating with 2 current RSS headline item(s).",
       "key_storylines": [
-        "Gavin & Stacey star Melanie Walters completes Strictly line-up - BBC",
-        "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly"
+        "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
+        "Gavin & Stacey star Melanie Walters completes Strictly line-up - BBC"
       ],
       "watch_list": [
-        "Gavin & Stacey star Melanie Walters completes Strictly line-up - BBC",
-        "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly"
+        "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
+        "Gavin & Stacey star Melanie Walters completes Strictly line-up - BBC"
       ],
       "homepage_cards": [
         {
-          "id": "celebrity-0-5264953011266768546",
-          "key": "celebrity-0-5264953011266768546",
-          "category": "Celebrity",
-          "label": "Celebrity",
-          "headline": "Gavin & Stacey star Melanie Walters completes Strictly line-up - BBC",
-          "title": "Gavin & Stacey star Melanie Walters completes Strictly line-up - BBC",
-          "snapshot": "Gavin & Stacey star Melanie Walters completes Strictly line-up BBC",
-          "summary": "Gavin & Stacey star Melanie Walters completes Strictly line-up BBC",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3SWVuUThGck9DQ0F0N0pta09vQTFjOXhUNktTRHFlbjdnbDVoekZmN2dvWWd5bl9xT0UxZldOc3BUU0JsQkREMnk1dW80LVRnb1JRUEd4Q1RYdw?oc=5",
-          "source": "Google News",
-          "source_name": "Google News",
-          "source_feed": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-12 05:28:48 AM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 100,
-          "key_data": [
-            "Gavin & Stacey star Melanie Walters completes Strictly line-up - BBC"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "celebrity-1-7540080597532681863",
-          "key": "celebrity-1-7540080597532681863",
+          "id": "celebrity-0-5301800245539442471",
+          "key": "celebrity-0-5301800245539442471",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3463,9 +3377,37 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 99,
+          "priority_score": 100,
           "key_data": [
             "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "celebrity-1-2736088830355249648",
+          "key": "celebrity-1-2736088830355249648",
+          "category": "Celebrity",
+          "label": "Celebrity",
+          "headline": "Gavin & Stacey star Melanie Walters completes Strictly line-up - BBC",
+          "title": "Gavin & Stacey star Melanie Walters completes Strictly line-up - BBC",
+          "snapshot": "Gavin & Stacey star Melanie Walters completes Strictly line-up BBC",
+          "summary": "Gavin & Stacey star Melanie Walters completes Strictly line-up BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3SWVuUThGck9DQ0F0N0pta09vQTFjOXhUNktTRHFlbjdnbDVoekZmN2dvWWd5bl9xT0UxZldOc3BUU0JsQkREMnk1dW80LVRnb1JRUEd4Q1RYdw?oc=5",
+          "source": "Google News",
+          "source_name": "Google News",
+          "source_feed": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-12 05:28:48 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 99,
+          "key_data": [
+            "Gavin & Stacey star Melanie Walters completes Strictly line-up - BBC"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3477,36 +3419,8 @@
       ],
       "items": [
         {
-          "id": "celebrity-0-5264953011266768546",
-          "key": "celebrity-0-5264953011266768546",
-          "category": "Celebrity",
-          "label": "Celebrity",
-          "headline": "Gavin & Stacey star Melanie Walters completes Strictly line-up - BBC",
-          "title": "Gavin & Stacey star Melanie Walters completes Strictly line-up - BBC",
-          "snapshot": "Gavin & Stacey star Melanie Walters completes Strictly line-up BBC",
-          "summary": "Gavin & Stacey star Melanie Walters completes Strictly line-up BBC",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3SWVuUThGck9DQ0F0N0pta09vQTFjOXhUNktTRHFlbjdnbDVoekZmN2dvWWd5bl9xT0UxZldOc3BUU0JsQkREMnk1dW80LVRnb1JRUEd4Q1RYdw?oc=5",
-          "source": "Google News",
-          "source_name": "Google News",
-          "source_feed": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-12 05:28:48 AM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 100,
-          "key_data": [
-            "Gavin & Stacey star Melanie Walters completes Strictly line-up - BBC"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "celebrity-1-7540080597532681863",
-          "key": "celebrity-1-7540080597532681863",
+          "id": "celebrity-0-5301800245539442471",
+          "key": "celebrity-0-5301800245539442471",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3521,7 +3435,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 99,
+          "priority_score": 100,
           "key_data": [
             "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly"
           ],
@@ -3531,53 +3445,82 @@
           "what_to_watch": [
             "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
           ]
+        },
+        {
+          "id": "celebrity-1-2736088830355249648",
+          "key": "celebrity-1-2736088830355249648",
+          "category": "Celebrity",
+          "label": "Celebrity",
+          "headline": "Gavin & Stacey star Melanie Walters completes Strictly line-up - BBC",
+          "title": "Gavin & Stacey star Melanie Walters completes Strictly line-up - BBC",
+          "snapshot": "Gavin & Stacey star Melanie Walters completes Strictly line-up BBC",
+          "summary": "Gavin & Stacey star Melanie Walters completes Strictly line-up BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3SWVuUThGck9DQ0F0N0pta09vQTFjOXhUNktTRHFlbjdnbDVoekZmN2dvWWd5bl9xT0UxZldOc3BUU0JsQkREMnk1dW80LVRnb1JRUEd4Q1RYdw?oc=5",
+          "source": "Google News",
+          "source_name": "Google News",
+          "source_feed": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-12 05:28:48 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 99,
+          "key_data": [
+            "Gavin & Stacey star Melanie Walters completes Strictly line-up - BBC"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
         }
       ],
-      "updated_at": "2026-08-13 12:51:17 AM ET"
+      "updated_at": "2026-08-13 02:17:00 AM ET"
     },
     {
       "key": "hollywood",
       "name": "Hollywood",
       "title": "Hollywood Report",
-      "headline": "Amazon Game Studios Divests MMOs ‘Lost Ark,’ ‘Throne and Liberty’ in Strategy Shift",
-      "snapshot": "Hollywood coverage is updating with 7 current RSS headline item(s).",
+      "headline": "‘Far From the Trees’ Director Meritxell Colell on Turning Exile and Endangered Languages Into a ‘Body of Memory’",
+      "snapshot": "Hollywood coverage is updating with 8 current RSS headline item(s).",
       "key_storylines": [
-        "Amazon Game Studios Divests MMOs ‘Lost Ark,’ ‘Throne and Liberty’ in Strategy Shift",
+        "‘Far From the Trees’ Director Meritxell Colell on Turning Exile and Endangered Languages Into a ‘Body of Memory’",
         "Bob Iger’s New Magic Kingdom: Fans & Media Wonder If He Can Bring That Disney Sparkle To The Lakers",
         "California Pressured By Two Hollywood Unions to Settle Paramount-Warner Bros. Lawsuit",
         "The Pillsbury Doughboy Is Coming for Hollywood - The Hollywood Reporter",
-        "DGA & IATSE Urge Fast Track On Paramount-WBD Merger Standoff For Fears That Prolonged Court Battle Will Hurt Jobs"
+        "Amazon Game Studios Divests MMOs ‘Lost Ark,’ ‘Throne and Liberty’ in Strategy Shift"
       ],
       "watch_list": [
-        "Amazon Game Studios Divests MMOs ‘Lost Ark,’ ‘Throne and Liberty’ in Strategy Shift",
+        "‘Far From the Trees’ Director Meritxell Colell on Turning Exile and Endangered Languages Into a ‘Body of Memory’",
         "Bob Iger’s New Magic Kingdom: Fans & Media Wonder If He Can Bring That Disney Sparkle To The Lakers",
         "California Pressured By Two Hollywood Unions to Settle Paramount-Warner Bros. Lawsuit",
         "The Pillsbury Doughboy Is Coming for Hollywood - The Hollywood Reporter",
+        "Amazon Game Studios Divests MMOs ‘Lost Ark,’ ‘Throne and Liberty’ in Strategy Shift",
         "DGA & IATSE Urge Fast Track On Paramount-WBD Merger Standoff For Fears That Prolonged Court Battle Will Hurt Jobs",
         "StubHub Is Spending Millions Trying to Stop a Bill That Would Cap Concert Ticket Resale Prices",
-        "The Hollywood Merger Won’t Kill Entertainment Jobs. Blocking It Might - National Review"
+        "The Hollywood Merger Won’t Kill Entertainment Jobs. Blocking It Might - nationalreview.com"
       ],
       "homepage_cards": [
         {
-          "id": "hollywood-0-2768969392185287091",
-          "key": "hollywood-0-2768969392185287091",
+          "id": "hollywood-0-1742720671231486053",
+          "key": "hollywood-0-1742720671231486053",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Amazon Game Studios Divests MMOs ‘Lost Ark,’ ‘Throne and Liberty’ in Strategy Shift",
-          "title": "Amazon Game Studios Divests MMOs ‘Lost Ark,’ ‘Throne and Liberty’ in Strategy Shift",
-          "snapshot": "Amazon Game Studios will return Western territory publishing responsibilities for “Throne and Liberty” and “Lost Ark” to game developers NC and Smilegate, respectively, amid the company’s pivot away from massively multiplayer online games (MMOs). “As part of our continued strategic evolution, we have made the decisi...",
-          "summary": "Amazon Game Studios will return Western territory publishing responsibilities for “Throne and Liberty” and “Lost Ark” to game developers NC and Smilegate, respectively, amid the company’s pivot away from massively multiplayer online games (MMOs). “As part of our continued strategic evolution, we have made the decisi...",
-          "url": "https://variety.com/2026/gaming/news/amazon-game-studios-divests-lost-ark-throne-and-liberty-1236833373/",
+          "headline": "‘Far From the Trees’ Director Meritxell Colell on Turning Exile and Endangered Languages Into a ‘Body of Memory’",
+          "title": "‘Far From the Trees’ Director Meritxell Colell on Turning Exile and Endangered Languages Into a ‘Body of Memory’",
+          "snapshot": "In “Far From the Trees,” (“Lejos de los árboles”) Meritxell Colell asks viewers to listen before they try to understand. Premiering in Locarno’s international competition, the Spain-Italy-Peru production from Allegra Films follows Adela, a 50-year-old Mexican sound artist who travels from the Peruvian jungle to the...",
+          "summary": "In “Far From the Trees,” (“Lejos de los árboles”) Meritxell Colell asks viewers to listen before they try to understand. Premiering in Locarno’s international competition, the Spain-Italy-Peru production from Allegra Films follows Adela, a 50-year-old Mexican sound artist who travels from the Peruvian jungle to the...",
+          "url": "https://variety.com/2026/global/global/far-from-the-trees-director-meritxell-colell-1236827380/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/feed/",
-          "published_at": "2026-08-12 05:58:36 PM ET",
+          "published_at": "2026-08-13 01:22:06 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Amazon Game Studios Divests MMOs ‘Lost Ark,’ ‘Throne and Liberty’ in Strategy Shift"
+            "‘Far From the Trees’ Director Meritxell Colell on Turning Exile and Endangered Languages Into a ‘Body of Memory’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3587,8 +3530,8 @@
           ]
         },
         {
-          "id": "hollywood-1-3323725805309016204",
-          "key": "hollywood-1-3323725805309016204",
+          "id": "hollywood-2-9203938392085726360",
+          "key": "hollywood-2-9203938392085726360",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Bob Iger’s New Magic Kingdom: Fans & Media Wonder If He Can Bring That Disney Sparkle To The Lakers",
@@ -3603,7 +3546,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 99,
+          "priority_score": 98,
           "key_data": [
             "Bob Iger’s New Magic Kingdom: Fans & Media Wonder If He Can Bring That Disney Sparkle To The Lakers"
           ],
@@ -3615,8 +3558,8 @@
           ]
         },
         {
-          "id": "hollywood-4-3175485558243882782",
-          "key": "hollywood-4-3175485558243882782",
+          "id": "hollywood-5-1738386336457214407",
+          "key": "hollywood-5-1738386336457214407",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "California Pressured By Two Hollywood Unions to Settle Paramount-Warner Bros. Lawsuit",
@@ -3631,7 +3574,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 96,
+          "priority_score": 95,
           "key_data": [
             "California Pressured By Two Hollywood Unions to Settle Paramount-Warner Bros. Lawsuit"
           ],
@@ -3643,8 +3586,8 @@
           ]
         },
         {
-          "id": "hollywood-7-262061190184057262",
-          "key": "hollywood-7-262061190184057262",
+          "id": "hollywood-8-4144760922303629038",
+          "key": "hollywood-8-4144760922303629038",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "The Pillsbury Doughboy Is Coming for Hollywood - The Hollywood Reporter",
@@ -3659,7 +3602,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 93,
+          "priority_score": 92,
           "key_data": [
             "The Pillsbury Doughboy Is Coming for Hollywood - The Hollywood Reporter"
           ],
@@ -3671,8 +3614,36 @@
           ]
         },
         {
-          "id": "hollywood-2-1867675043075972249",
-          "key": "hollywood-2-1867675043075972249",
+          "id": "hollywood-1-637240721810679871",
+          "key": "hollywood-1-637240721810679871",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "Amazon Game Studios Divests MMOs ‘Lost Ark,’ ‘Throne and Liberty’ in Strategy Shift",
+          "title": "Amazon Game Studios Divests MMOs ‘Lost Ark,’ ‘Throne and Liberty’ in Strategy Shift",
+          "snapshot": "Amazon Game Studios will return Western territory publishing responsibilities for “Throne and Liberty” and “Lost Ark” to game developers NC and Smilegate, respectively, amid the company’s pivot away from massively multiplayer online games (MMOs). “As part of our continued strategic evolution, we have made the decisi...",
+          "summary": "Amazon Game Studios will return Western territory publishing responsibilities for “Throne and Liberty” and “Lost Ark” to game developers NC and Smilegate, respectively, amid the company’s pivot away from massively multiplayer online games (MMOs). “As part of our continued strategic evolution, we have made the decisi...",
+          "url": "https://variety.com/2026/gaming/news/amazon-game-studios-divests-lost-ark-throne-and-liberty-1236833373/",
+          "source": "Variety",
+          "source_name": "Variety",
+          "source_feed": "https://variety.com/feed/",
+          "published_at": "2026-08-12 05:58:36 PM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 99,
+          "key_data": [
+            "Amazon Game Studios Divests MMOs ‘Lost Ark,’ ‘Throne and Liberty’ in Strategy Shift"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-3-5718968822382409215",
+          "key": "hollywood-3-5718968822382409215",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "DGA & IATSE Urge Fast Track On Paramount-WBD Merger Standoff For Fears That Prolonged Court Battle Will Hurt Jobs",
@@ -3687,7 +3658,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 98,
+          "priority_score": 97,
           "key_data": [
             "DGA & IATSE Urge Fast Track On Paramount-WBD Merger Standoff For Fears That Prolonged Court Battle Will Hurt Jobs"
           ],
@@ -3699,8 +3670,8 @@
           ]
         },
         {
-          "id": "hollywood-5-5021792766647279718",
-          "key": "hollywood-5-5021792766647279718",
+          "id": "hollywood-6-8329611089312966392",
+          "key": "hollywood-6-8329611089312966392",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "StubHub Is Spending Millions Trying to Stop a Bill That Would Cap Concert Ticket Resale Prices",
@@ -3715,7 +3686,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 95,
+          "priority_score": 94,
           "key_data": [
             "StubHub Is Spending Millions Trying to Stop a Bill That Would Cap Concert Ticket Resale Prices"
           ],
@@ -3727,14 +3698,14 @@
           ]
         },
         {
-          "id": "hollywood-8-8838306713724626873",
-          "key": "hollywood-8-8838306713724626873",
+          "id": "hollywood-9-1228912367898635369",
+          "key": "hollywood-9-1228912367898635369",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "The Hollywood Merger Won’t Kill Entertainment Jobs. Blocking It Might - National Review",
-          "title": "The Hollywood Merger Won’t Kill Entertainment Jobs. Blocking It Might - National Review",
-          "snapshot": "The Hollywood Merger Won’t Kill Entertainment Jobs. Blocking It Might National Review",
-          "summary": "The Hollywood Merger Won’t Kill Entertainment Jobs. Blocking It Might National Review",
+          "headline": "The Hollywood Merger Won’t Kill Entertainment Jobs. Blocking It Might - nationalreview.com",
+          "title": "The Hollywood Merger Won’t Kill Entertainment Jobs. Blocking It Might - nationalreview.com",
+          "snapshot": "The Hollywood Merger Won’t Kill Entertainment Jobs. Blocking It Might nationalreview.com",
+          "summary": "The Hollywood Merger Won’t Kill Entertainment Jobs. Blocking It Might nationalreview.com",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMGJTakpHRU9Lb1Nrb2pTempVOURzaG5HanZiSVJMdVlCRk9Kb3k4dlJMY29PQzBIRXBQblZPR0lHdW9TN1JIcE4waVlocGFqYUZwMmpIR3ZwZTRObEhHOWRpdTc3SnlHUUJ5MTVoY1lUTEZwUG45Zy1HdmpmZVprclBxblRiMkszU1d0a2tBbTZoMjFIZzJ1eE5OMlpwdE9HTnZiTVhTTy1VVTTSAbABQVVfeXFMTmthbUFEUHRUUXl6Q3hZUko4VGw1U2tPaDg3eXd3eEdvV3ZXT1pjNUVBak1qRDlTa2l4WHJLQlRHdDQ4YzdqR2hRU0pDSE5VcUdfeEdXODlTakJWWnFLdHFsb29uZlZhYVhCRzdqbDRudVl3NTdKdlBYOUFBTEhySy05MTI0ejhLVC1kZjNpVEhPa0hzYUFNcVhtWlgwclpvbzdHZ0dEbWVfMjhGVkJPLU8?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3743,9 +3714,9 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 92,
+          "priority_score": 91,
           "key_data": [
-            "The Hollywood Merger Won’t Kill Entertainment Jobs. Blocking It Might - National Review"
+            "The Hollywood Merger Won’t Kill Entertainment Jobs. Blocking It Might - nationalreview.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3757,25 +3728,25 @@
       ],
       "items": [
         {
-          "id": "hollywood-0-2768969392185287091",
-          "key": "hollywood-0-2768969392185287091",
+          "id": "hollywood-0-1742720671231486053",
+          "key": "hollywood-0-1742720671231486053",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Amazon Game Studios Divests MMOs ‘Lost Ark,’ ‘Throne and Liberty’ in Strategy Shift",
-          "title": "Amazon Game Studios Divests MMOs ‘Lost Ark,’ ‘Throne and Liberty’ in Strategy Shift",
-          "snapshot": "Amazon Game Studios will return Western territory publishing responsibilities for “Throne and Liberty” and “Lost Ark” to game developers NC and Smilegate, respectively, amid the company’s pivot away from massively multiplayer online games (MMOs). “As part of our continued strategic evolution, we have made the decisi...",
-          "summary": "Amazon Game Studios will return Western territory publishing responsibilities for “Throne and Liberty” and “Lost Ark” to game developers NC and Smilegate, respectively, amid the company’s pivot away from massively multiplayer online games (MMOs). “As part of our continued strategic evolution, we have made the decisi...",
-          "url": "https://variety.com/2026/gaming/news/amazon-game-studios-divests-lost-ark-throne-and-liberty-1236833373/",
+          "headline": "‘Far From the Trees’ Director Meritxell Colell on Turning Exile and Endangered Languages Into a ‘Body of Memory’",
+          "title": "‘Far From the Trees’ Director Meritxell Colell on Turning Exile and Endangered Languages Into a ‘Body of Memory’",
+          "snapshot": "In “Far From the Trees,” (“Lejos de los árboles”) Meritxell Colell asks viewers to listen before they try to understand. Premiering in Locarno’s international competition, the Spain-Italy-Peru production from Allegra Films follows Adela, a 50-year-old Mexican sound artist who travels from the Peruvian jungle to the...",
+          "summary": "In “Far From the Trees,” (“Lejos de los árboles”) Meritxell Colell asks viewers to listen before they try to understand. Premiering in Locarno’s international competition, the Spain-Italy-Peru production from Allegra Films follows Adela, a 50-year-old Mexican sound artist who travels from the Peruvian jungle to the...",
+          "url": "https://variety.com/2026/global/global/far-from-the-trees-director-meritxell-colell-1236827380/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/feed/",
-          "published_at": "2026-08-12 05:58:36 PM ET",
+          "published_at": "2026-08-13 01:22:06 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Amazon Game Studios Divests MMOs ‘Lost Ark,’ ‘Throne and Liberty’ in Strategy Shift"
+            "‘Far From the Trees’ Director Meritxell Colell on Turning Exile and Endangered Languages Into a ‘Body of Memory’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3785,8 +3756,8 @@
           ]
         },
         {
-          "id": "hollywood-1-3323725805309016204",
-          "key": "hollywood-1-3323725805309016204",
+          "id": "hollywood-2-9203938392085726360",
+          "key": "hollywood-2-9203938392085726360",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Bob Iger’s New Magic Kingdom: Fans & Media Wonder If He Can Bring That Disney Sparkle To The Lakers",
@@ -3801,7 +3772,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 99,
+          "priority_score": 98,
           "key_data": [
             "Bob Iger’s New Magic Kingdom: Fans & Media Wonder If He Can Bring That Disney Sparkle To The Lakers"
           ],
@@ -3813,8 +3784,8 @@
           ]
         },
         {
-          "id": "hollywood-4-3175485558243882782",
-          "key": "hollywood-4-3175485558243882782",
+          "id": "hollywood-5-1738386336457214407",
+          "key": "hollywood-5-1738386336457214407",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "California Pressured By Two Hollywood Unions to Settle Paramount-Warner Bros. Lawsuit",
@@ -3829,7 +3800,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 96,
+          "priority_score": 95,
           "key_data": [
             "California Pressured By Two Hollywood Unions to Settle Paramount-Warner Bros. Lawsuit"
           ],
@@ -3841,8 +3812,8 @@
           ]
         },
         {
-          "id": "hollywood-7-262061190184057262",
-          "key": "hollywood-7-262061190184057262",
+          "id": "hollywood-8-4144760922303629038",
+          "key": "hollywood-8-4144760922303629038",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "The Pillsbury Doughboy Is Coming for Hollywood - The Hollywood Reporter",
@@ -3857,7 +3828,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 93,
+          "priority_score": 92,
           "key_data": [
             "The Pillsbury Doughboy Is Coming for Hollywood - The Hollywood Reporter"
           ],
@@ -3869,8 +3840,36 @@
           ]
         },
         {
-          "id": "hollywood-2-1867675043075972249",
-          "key": "hollywood-2-1867675043075972249",
+          "id": "hollywood-1-637240721810679871",
+          "key": "hollywood-1-637240721810679871",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "Amazon Game Studios Divests MMOs ‘Lost Ark,’ ‘Throne and Liberty’ in Strategy Shift",
+          "title": "Amazon Game Studios Divests MMOs ‘Lost Ark,’ ‘Throne and Liberty’ in Strategy Shift",
+          "snapshot": "Amazon Game Studios will return Western territory publishing responsibilities for “Throne and Liberty” and “Lost Ark” to game developers NC and Smilegate, respectively, amid the company’s pivot away from massively multiplayer online games (MMOs). “As part of our continued strategic evolution, we have made the decisi...",
+          "summary": "Amazon Game Studios will return Western territory publishing responsibilities for “Throne and Liberty” and “Lost Ark” to game developers NC and Smilegate, respectively, amid the company’s pivot away from massively multiplayer online games (MMOs). “As part of our continued strategic evolution, we have made the decisi...",
+          "url": "https://variety.com/2026/gaming/news/amazon-game-studios-divests-lost-ark-throne-and-liberty-1236833373/",
+          "source": "Variety",
+          "source_name": "Variety",
+          "source_feed": "https://variety.com/feed/",
+          "published_at": "2026-08-12 05:58:36 PM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 99,
+          "key_data": [
+            "Amazon Game Studios Divests MMOs ‘Lost Ark,’ ‘Throne and Liberty’ in Strategy Shift"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-3-5718968822382409215",
+          "key": "hollywood-3-5718968822382409215",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "DGA & IATSE Urge Fast Track On Paramount-WBD Merger Standoff For Fears That Prolonged Court Battle Will Hurt Jobs",
@@ -3885,7 +3884,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 98,
+          "priority_score": 97,
           "key_data": [
             "DGA & IATSE Urge Fast Track On Paramount-WBD Merger Standoff For Fears That Prolonged Court Battle Will Hurt Jobs"
           ],
@@ -3897,8 +3896,8 @@
           ]
         },
         {
-          "id": "hollywood-5-5021792766647279718",
-          "key": "hollywood-5-5021792766647279718",
+          "id": "hollywood-6-8329611089312966392",
+          "key": "hollywood-6-8329611089312966392",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "StubHub Is Spending Millions Trying to Stop a Bill That Would Cap Concert Ticket Resale Prices",
@@ -3913,7 +3912,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 95,
+          "priority_score": 94,
           "key_data": [
             "StubHub Is Spending Millions Trying to Stop a Bill That Would Cap Concert Ticket Resale Prices"
           ],
@@ -3925,14 +3924,14 @@
           ]
         },
         {
-          "id": "hollywood-8-8838306713724626873",
-          "key": "hollywood-8-8838306713724626873",
+          "id": "hollywood-9-1228912367898635369",
+          "key": "hollywood-9-1228912367898635369",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "The Hollywood Merger Won’t Kill Entertainment Jobs. Blocking It Might - National Review",
-          "title": "The Hollywood Merger Won’t Kill Entertainment Jobs. Blocking It Might - National Review",
-          "snapshot": "The Hollywood Merger Won’t Kill Entertainment Jobs. Blocking It Might National Review",
-          "summary": "The Hollywood Merger Won’t Kill Entertainment Jobs. Blocking It Might National Review",
+          "headline": "The Hollywood Merger Won’t Kill Entertainment Jobs. Blocking It Might - nationalreview.com",
+          "title": "The Hollywood Merger Won’t Kill Entertainment Jobs. Blocking It Might - nationalreview.com",
+          "snapshot": "The Hollywood Merger Won’t Kill Entertainment Jobs. Blocking It Might nationalreview.com",
+          "summary": "The Hollywood Merger Won’t Kill Entertainment Jobs. Blocking It Might nationalreview.com",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMGJTakpHRU9Lb1Nrb2pTempVOURzaG5HanZiSVJMdVlCRk9Kb3k4dlJMY29PQzBIRXBQblZPR0lHdW9TN1JIcE4waVlocGFqYUZwMmpIR3ZwZTRObEhHOWRpdTc3SnlHUUJ5MTVoY1lUTEZwUG45Zy1HdmpmZVprclBxblRiMkszU1d0a2tBbTZoMjFIZzJ1eE5OMlpwdE9HTnZiTVhTTy1VVTTSAbABQVVfeXFMTmthbUFEUHRUUXl6Q3hZUko4VGw1U2tPaDg3eXd3eEdvV3ZXT1pjNUVBak1qRDlTa2l4WHJLQlRHdDQ4YzdqR2hRU0pDSE5VcUdfeEdXODlTakJWWnFLdHFsb29uZlZhYVhCRzdqbDRudVl3NTdKdlBYOUFBTEhySy05MTI0ejhLVC1kZjNpVEhPa0hzYUFNcVhtWlgwclpvbzdHZ0dEbWVfMjhGVkJPLU8?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3941,9 +3940,9 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 92,
+          "priority_score": 91,
           "key_data": [
-            "The Hollywood Merger Won’t Kill Entertainment Jobs. Blocking It Might - National Review"
+            "The Hollywood Merger Won’t Kill Entertainment Jobs. Blocking It Might - nationalreview.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3953,7 +3952,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-13 12:51:18 AM ET"
+      "updated_at": "2026-08-13 02:17:01 AM ET"
     },
     {
       "key": "gaming",
@@ -3971,8 +3970,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "gaming-0-3613705497277142051",
-          "key": "gaming-0-3613705497277142051",
+          "id": "gaming-0-3671425398734313362",
+          "key": "gaming-0-3671425398734313362",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "McDonald's Announces Eight Hello Kitty x Godzilla Toys Coming to Happy Meals This August",
@@ -3999,8 +3998,8 @@
           ]
         },
         {
-          "id": "gaming-1-8602251855551443243",
-          "key": "gaming-1-8602251855551443243",
+          "id": "gaming-1-5660133081002041945",
+          "key": "gaming-1-5660133081002041945",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Old School Runescape Officially Recognizes Player Who Reached Level 99 Fishing Catching Only Shrimp and Anchovies",
@@ -4029,8 +4028,8 @@
       ],
       "items": [
         {
-          "id": "gaming-0-3613705497277142051",
-          "key": "gaming-0-3613705497277142051",
+          "id": "gaming-0-3671425398734313362",
+          "key": "gaming-0-3671425398734313362",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "McDonald's Announces Eight Hello Kitty x Godzilla Toys Coming to Happy Meals This August",
@@ -4057,8 +4056,8 @@
           ]
         },
         {
-          "id": "gaming-1-8602251855551443243",
-          "key": "gaming-1-8602251855551443243",
+          "id": "gaming-1-5660133081002041945",
+          "key": "gaming-1-5660133081002041945",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Old School Runescape Officially Recognizes Player Who Reached Level 99 Fishing Catching Only Shrimp and Anchovies",
@@ -4085,7 +4084,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-13 12:51:19 AM ET"
+      "updated_at": "2026-08-13 02:17:02 AM ET"
     },
     {
       "key": "media",
@@ -4096,21 +4095,21 @@
       "key_storylines": [
         "Lakers Sell to Bob Iger, Josh Kushner for $12.5 Billion",
         "Top House Judiciary Democrat Seeks Transcribed Interview With David Ellison Over Paramount-WBD Merger; Company Discussed Editorial Board For CNN",
-        "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - newsonair.gov.in",
+        "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
         "California Attorney General Slams David Ellison’s Plan to Pull Paramount Out of the State as ‘Blackmail’ Attempt That ‘Won’t Work’",
         "Karoline Leavitt To Leave Role As Trump’s White House Press Secretary"
       ],
       "watch_list": [
         "Lakers Sell to Bob Iger, Josh Kushner for $12.5 Billion",
         "Top House Judiciary Democrat Seeks Transcribed Interview With David Ellison Over Paramount-WBD Merger; Company Discussed Editorial Board For CNN",
-        "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - newsonair.gov.in",
+        "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
         "California Attorney General Slams David Ellison’s Plan to Pull Paramount Out of the State as ‘Blackmail’ Attempt That ‘Won’t Work’",
         "Karoline Leavitt To Leave Role As Trump’s White House Press Secretary"
       ],
       "homepage_cards": [
         {
-          "id": "media-0-8739398673612666209",
-          "key": "media-0-8739398673612666209",
+          "id": "media-0-3870289731610282499",
+          "key": "media-0-3870289731610282499",
           "category": "Media",
           "label": "Media",
           "headline": "Lakers Sell to Bob Iger, Josh Kushner for $12.5 Billion",
@@ -4137,8 +4136,8 @@
           ]
         },
         {
-          "id": "media-9-6703255700141723207",
-          "key": "media-9-6703255700141723207",
+          "id": "media-9-2008272024550654017",
+          "key": "media-9-2008272024550654017",
           "category": "Media",
           "label": "Media",
           "headline": "Top House Judiciary Democrat Seeks Transcribed Interview With David Ellison Over Paramount-WBD Merger; Company Discussed Editorial Board For CNN",
@@ -4165,14 +4164,14 @@
           ]
         },
         {
-          "id": "media-16-82315096758517750",
-          "key": "media-16-82315096758517750",
+          "id": "media-16-3734049107791117480",
+          "key": "media-16-3734049107791117480",
           "category": "Media",
           "label": "Media",
-          "headline": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - newsonair.gov.in",
-          "title": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - newsonair.gov.in",
-          "snapshot": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar newsonair.gov.in",
-          "summary": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar newsonair.gov.in",
+          "headline": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
+          "title": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
+          "snapshot": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar News On AIR",
+          "summary": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar News On AIR",
           "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSWNQSE9iNkw3bldMbkp6MEM2T0YyeVlOX1diZU9JdjZVZFpwMXNTemp3dXFqaW9iX3VwdTJvT3BsQ1pXWnI4ZGs3VlMzZzRMeEF1VG83SGVZVHlrSnVYLU1WcWhlcmNzRlNUWFhXaFdyUzRUaVQzN2RCX3lOTFZ6b0xHUzgtQUJfTnhvQllmM3gxQWF4c05vd1I4NjdsaGFmcnlQR2lNdTUtYVlQVm9JLVBKVTdnMWZuaElFSWphZm1yUGZOZHBVZkxmeExENGk2eWtwTEt2S1VhcjNIMG1PcnBsYmdWcmc?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -4183,7 +4182,7 @@
           "story_type": "rss_headline",
           "priority_score": 84,
           "key_data": [
-            "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - newsonair.gov.in"
+            "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4193,8 +4192,8 @@
           ]
         },
         {
-          "id": "media-1-429560141995596621",
-          "key": "media-1-429560141995596621",
+          "id": "media-1-2822100717318935602",
+          "key": "media-1-2822100717318935602",
           "category": "Media",
           "label": "Media",
           "headline": "California Attorney General Slams David Ellison’s Plan to Pull Paramount Out of the State as ‘Blackmail’ Attempt That ‘Won’t Work’",
@@ -4221,8 +4220,8 @@
           ]
         },
         {
-          "id": "media-10-1973171025953425613",
-          "key": "media-10-1973171025953425613",
+          "id": "media-10-4269508114263712601",
+          "key": "media-10-4269508114263712601",
           "category": "Media",
           "label": "Media",
           "headline": "Karoline Leavitt To Leave Role As Trump’s White House Press Secretary",
@@ -4251,8 +4250,8 @@
       ],
       "items": [
         {
-          "id": "media-0-8739398673612666209",
-          "key": "media-0-8739398673612666209",
+          "id": "media-0-3870289731610282499",
+          "key": "media-0-3870289731610282499",
           "category": "Media",
           "label": "Media",
           "headline": "Lakers Sell to Bob Iger, Josh Kushner for $12.5 Billion",
@@ -4279,8 +4278,8 @@
           ]
         },
         {
-          "id": "media-9-6703255700141723207",
-          "key": "media-9-6703255700141723207",
+          "id": "media-9-2008272024550654017",
+          "key": "media-9-2008272024550654017",
           "category": "Media",
           "label": "Media",
           "headline": "Top House Judiciary Democrat Seeks Transcribed Interview With David Ellison Over Paramount-WBD Merger; Company Discussed Editorial Board For CNN",
@@ -4307,14 +4306,14 @@
           ]
         },
         {
-          "id": "media-16-82315096758517750",
-          "key": "media-16-82315096758517750",
+          "id": "media-16-3734049107791117480",
+          "key": "media-16-3734049107791117480",
           "category": "Media",
           "label": "Media",
-          "headline": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - newsonair.gov.in",
-          "title": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - newsonair.gov.in",
-          "snapshot": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar newsonair.gov.in",
-          "summary": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar newsonair.gov.in",
+          "headline": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
+          "title": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
+          "snapshot": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar News On AIR",
+          "summary": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar News On AIR",
           "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSWNQSE9iNkw3bldMbkp6MEM2T0YyeVlOX1diZU9JdjZVZFpwMXNTemp3dXFqaW9iX3VwdTJvT3BsQ1pXWnI4ZGs3VlMzZzRMeEF1VG83SGVZVHlrSnVYLU1WcWhlcmNzRlNUWFhXaFdyUzRUaVQzN2RCX3lOTFZ6b0xHUzgtQUJfTnhvQllmM3gxQWF4c05vd1I4NjdsaGFmcnlQR2lNdTUtYVlQVm9JLVBKVTdnMWZuaElFSWphZm1yUGZOZHBVZkxmeExENGk2eWtwTEt2S1VhcjNIMG1PcnBsYmdWcmc?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -4325,7 +4324,7 @@
           "story_type": "rss_headline",
           "priority_score": 84,
           "key_data": [
-            "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - newsonair.gov.in"
+            "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4335,8 +4334,8 @@
           ]
         },
         {
-          "id": "media-1-429560141995596621",
-          "key": "media-1-429560141995596621",
+          "id": "media-1-2822100717318935602",
+          "key": "media-1-2822100717318935602",
           "category": "Media",
           "label": "Media",
           "headline": "California Attorney General Slams David Ellison’s Plan to Pull Paramount Out of the State as ‘Blackmail’ Attempt That ‘Won’t Work’",
@@ -4363,8 +4362,8 @@
           ]
         },
         {
-          "id": "media-10-1973171025953425613",
-          "key": "media-10-1973171025953425613",
+          "id": "media-10-4269508114263712601",
+          "key": "media-10-4269508114263712601",
           "category": "Media",
           "label": "Media",
           "headline": "Karoline Leavitt To Leave Role As Trump’s White House Press Secretary",
@@ -4391,7 +4390,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-13 12:51:21 AM ET"
+      "updated_at": "2026-08-13 02:17:02 AM ET"
     }
   ]
 }
