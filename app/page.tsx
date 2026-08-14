@@ -908,7 +908,7 @@ export default async function Page() {
       <footer className="border-t border-purple-900 bg-neutral-950">
         <div className="mx-auto max-w-7xl px-5 py-6">
           <p className="text-sm font-medium text-neutral-300">
-            Â© {new Date().getFullYear()} {SITE.name}. {SITE.tagline}
+            © {new Date().getFullYear()} {SITE.name}. {SITE.tagline}
           </p>
           <p className="mt-2 max-w-4xl text-sm leading-6 text-neutral-500">
             {SITE.descriptor}
