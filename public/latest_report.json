@@ -5,9 +5,9 @@
   "vertical": "Entertainment",
   "headline": "'Frozen 3' First Details: Anna and Kristoff Get Married, Olaf Gets a Girlfriend and a New Villain Emerges",
   "snapshot": "Global Entertainment Report accepted 43 real RSS item(s) across 31 checked feed request(s).",
-  "generated_at": "2026-08-15 03:31:28 AM ET",
-  "updated_at": "2026-08-15 03:31:28 AM ET",
-  "published_at": "2026-08-15 03:31:28 AM ET",
+  "generated_at": "2026-08-15 04:29:09 AM ET",
+  "updated_at": "2026-08-15 04:29:09 AM ET",
+  "published_at": "2026-08-15 04:29:09 AM ET",
   "source_mode": "live RSS ingestion",
   "freshness": {
     "max_item_age_hours": 336,
@@ -131,11 +131,11 @@
       "url": "https://news.google.com/rss/search?q=streaming+netflix+hulu+disney+entertainment&hl=en-US&gl=US&ceid=US:en",
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=streaming+netflix+hulu+disney+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "item_count": 74,
+      "item_count": 73,
       "accepted_count": 2,
-      "rejected_count": 72,
+      "rejected_count": 71,
       "rejection_reasons": {
-        "stale-over-336h": 72
+        "stale-over-336h": 71
       }
     },
     {
@@ -377,15 +377,15 @@
     "Everything Announced At D23: New X-Men Cast, 'Avengers: Doomsday' Teaser, 'Coco 2,' 'Tangled' Live Action First Look & More",
     "'I Live in V.I.,' a Social Class Satire From Nigeria, Will Dive Into Urban Alienation and Gentrification",
     "The 30 best action-adventure movies, ranked - Entertainment Weekly",
-    "Slipknot Cuts Ties With Sid Wilson After Nearly 30 Years",
-    "Kingdom Hearts 4 Gets New Trailer, Late 2027 Release Window, and a Disney+ Anime Series",
+    "Courtney Love Says She 'Almost Died' in 2019",
+    "Disney Animation Studios Boss Jared Bush Isn't Ruling Out a Possible Kingdom Hearts Movie",
     "Marvel's 'X-Men' Reboot Sets May 2028 Release Date",
     "'Zootopia 3' In Works At Disney; Ke Huy Quan & Ginnifer Goodwin Reprising Roles - D23"
   ],
   "live_newsroom": [
     {
-      "id": "film-0-5545638227543940510",
-      "key": "film-0-5545638227543940510",
+      "id": "film-0-2511097366574344068",
+      "key": "film-0-2511097366574344068",
       "category": "Film",
       "label": "Film",
       "headline": "'Frozen 3' First Details: Anna and Kristoff Get Married, Olaf Gets a Girlfriend and a New Villain Emerges",
@@ -411,8 +411,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-9110957571294373856",
-      "key": "film-10-9110957571294373856",
+      "id": "film-10-886561430912807572",
+      "key": "film-10-886561430912807572",
       "category": "Film",
       "label": "Film",
       "headline": "Everything Announced At D23: New X-Men Cast, 'Avengers: Doomsday' Teaser, 'Coco 2,' 'Tangled' Live Action First Look & More",
@@ -438,8 +438,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-1247733076811195233",
-      "key": "film-22-1247733076811195233",
+      "id": "film-22-4212456410040099303",
+      "key": "film-22-4212456410040099303",
       "category": "Film",
       "label": "Film",
       "headline": "'I Live in V.I.,' a Social Class Satire From Nigeria, Will Dive Into Urban Alienation and Gentrification",
@@ -465,8 +465,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-31-7944894549092742223",
-      "key": "film-31-7944894549092742223",
+      "id": "film-31-7205141209998389382",
+      "key": "film-31-7205141209998389382",
       "category": "Film",
       "label": "Film",
       "headline": "The 30 best action-adventure movies, ranked - Entertainment Weekly",
@@ -492,22 +492,22 @@
       "priority_score": 69
     },
     {
-      "id": "music-10-1177773314944875046",
-      "key": "music-10-1177773314944875046",
+      "id": "music-10-5445637684883379135",
+      "key": "music-10-5445637684883379135",
       "category": "Music",
       "label": "Music",
-      "headline": "Slipknot Cuts Ties With Sid Wilson After Nearly 30 Years",
-      "title": "Slipknot Cuts Ties With Sid Wilson After Nearly 30 Years",
-      "snapshot": "Wilson joined in 1998, just before the Des Moines, Iowa-founded group's mainstream breakthrough.",
-      "summary": "Wilson joined in 1998, just before the Des Moines, Iowa-founded group's mainstream breakthrough.",
-      "url": "https://www.billboard.com/music/rock/slipknot-sid-wilson-exits-band-1236317000/",
+      "headline": "Courtney Love Says She 'Almost Died' in 2019",
+      "title": "Courtney Love Says She 'Almost Died' in 2019",
+      "snapshot": "In a video posted to Instagram, The Hole frontwoman said she was stepping back from social media for a few weeks.",
+      "summary": "In a video posted to Instagram, The Hole frontwoman said she was stepping back from social media for a few weeks.",
+      "url": "https://www.billboard.com/music/music-news/courtney-love-almost-died-2019-1236317025/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-14 08:37:11 PM ET",
+      "published_at": "2026-08-15 04:21:37 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Slipknot Cuts Ties With Sid Wilson After Nearly 30 Years"
+        "Courtney Love Says She 'Almost Died' in 2019"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -519,22 +519,22 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-6177992714109400556",
-      "key": "gaming-0-6177992714109400556",
+      "id": "gaming-0-2158634631896991554",
+      "key": "gaming-0-2158634631896991554",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Kingdom Hearts 4 Gets New Trailer, Late 2027 Release Window, and a Disney+ Anime Series",
-      "title": "Kingdom Hearts 4 Gets New Trailer, Late 2027 Release Window, and a Disney+ Anime Series",
-      "snapshot": "Big Kingdom Hearts news here at D23, with a new trailer for Kingdom Hearts 4, a late 2027 release window, and - surprise! - a Disney+ series.",
-      "summary": "Big Kingdom Hearts news here at D23, with a new trailer for Kingdom Hearts 4, a late 2027 release window, and - surprise! - a Disney+ series.",
-      "url": "https://www.ign.com/articles/kingdom-hearts-4-gets-new-trailer-late-2027-release-window-and-a-disney-series",
+      "headline": "Disney Animation Studios Boss Jared Bush Isn't Ruling Out a Possible Kingdom Hearts Movie",
+      "title": "Disney Animation Studios Boss Jared Bush Isn't Ruling Out a Possible Kingdom Hearts Movie",
+      "snapshot": "Jared Bush, chief creative officer of Walt Disney Animation Studios, spoke about the possibility of a Kingdom Hearts feature film, and he didn't rule out the idea.",
+      "summary": "Jared Bush, chief creative officer of Walt Disney Animation Studios, spoke about the possibility of a Kingdom Hearts feature film, and he didn't rule out the idea.",
+      "url": "https://www.ign.com/articles/disney-animation-studios-boss-jared-bush-isnt-ruling-out-a-possible-kingdom-hearts-movie",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-14 11:03:09 PM ET",
+      "published_at": "2026-08-15 03:51:43 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Kingdom Hearts 4 Gets New Trailer, Late 2027 Release Window, and a Disney+ Anime Series"
+        "Disney Animation Studios Boss Jared Bush Isn't Ruling Out a Possible Kingdom Hearts Movie"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -546,8 +546,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-3899421646804753924",
-      "key": "film-1-3899421646804753924",
+      "id": "film-1-8484127157702764002",
+      "key": "film-1-8484127157702764002",
       "category": "Film",
       "label": "Film",
       "headline": "Marvel's 'X-Men' Reboot Sets May 2028 Release Date",
@@ -573,8 +573,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-2951135664089837218",
-      "key": "film-11-2951135664089837218",
+      "id": "film-11-4788354153398554104",
+      "key": "film-11-4788354153398554104",
       "category": "Film",
       "label": "Film",
       "headline": "'Zootopia 3' In Works At Disney; Ke Huy Quan & Ginnifer Goodwin Reprising Roles - D23",
@@ -600,8 +600,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-1243840002548875315",
-      "key": "film-23-1243840002548875315",
+      "id": "film-23-6991168969117075371",
+      "key": "film-23-6991168969117075371",
       "category": "Film",
       "label": "Film",
       "headline": "'Frozen 3' \"Royal Wedding\" Between Anna and Kristoff Is Crashed by New Villain in First-Look",
@@ -627,8 +627,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-32-8510113647015001008",
-      "key": "film-32-8510113647015001008",
+      "id": "film-32-6978873048054827219",
+      "key": "film-32-6978873048054827219",
       "category": "Film",
       "label": "Film",
       "headline": "Disney's D23: All the movies, TV series and more announced so far - ABC News - Breaking News, Latest News and Videos",
@@ -654,22 +654,22 @@
       "priority_score": 68
     },
     {
-      "id": "music-11-6676884199692384705",
-      "key": "music-11-6676884199692384705",
+      "id": "music-11-3320288798010274345",
+      "key": "music-11-3320288798010274345",
       "category": "Music",
       "label": "Music",
-      "headline": "Here Are Events Marc Anthony, Feid, Karol G & More Latin Music Artists Are Joining in Support of Colombia and Venezuela Earthquake Relief",
-      "title": "Here Are Events Marc Anthony, Feid, Karol G & More Latin Music Artists Are Joining in Support of Colombia and Venezuela Earthquake Relief",
-      "snapshot": "Benefit concerts are set to take place during the weekend of Aug. 15-16.",
-      "summary": "Benefit concerts are set to take place during the weekend of Aug. 15-16.",
-      "url": "https://www.billboard.com/music/latin/colombia-venezuela-earthquake-benefit-concerts-latin-music-1236316953/",
+      "headline": "Slipknot Cuts Ties With Sid Wilson After Nearly 30 Years",
+      "title": "Slipknot Cuts Ties With Sid Wilson After Nearly 30 Years",
+      "snapshot": "Wilson joined in 1998, just before the Des Moines, Iowa-founded group's mainstream breakthrough.",
+      "summary": "Wilson joined in 1998, just before the Des Moines, Iowa-founded group's mainstream breakthrough.",
+      "url": "https://www.billboard.com/music/rock/slipknot-sid-wilson-exits-band-1236317000/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-14 07:09:39 PM ET",
+      "published_at": "2026-08-14 08:37:11 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Here Are Events Marc Anthony, Feid, Karol G & More Latin Music Artists Are Joining in Support of Colombia and Venezuela Earthquake Relief"
+        "Slipknot Cuts Ties With Sid Wilson After Nearly 30 Years"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -681,22 +681,22 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-7189430426192889526",
-      "key": "gaming-1-7189430426192889526",
+      "id": "gaming-1-366235426935392122",
+      "key": "gaming-1-366235426935392122",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "The Simpsons: Hit & Run 'Coming Back in Some Form,' Creator Matt Groening Says",
-      "title": "The Simpsons: Hit & Run 'Coming Back in Some Form,' Creator Matt Groening Says",
-      "snapshot": "The Simpsons: Hit & Run 'is coming back in some form,' according to series creator Matt Groening.",
-      "summary": "The Simpsons: Hit & Run 'is coming back in some form,' according to series creator Matt Groening.",
-      "url": "https://www.ign.com/articles/the-simpsons-hit-run-coming-back-in-some-form-creator-matt-groening-says",
+      "headline": "Kingdom Hearts 4 Gets New Trailer, Late 2027 Release Window, and a Disney+ Anime Series",
+      "title": "Kingdom Hearts 4 Gets New Trailer, Late 2027 Release Window, and a Disney+ Anime Series",
+      "snapshot": "Big Kingdom Hearts news here at D23, with a new trailer for Kingdom Hearts 4, a late 2027 release window, and - surprise! - a Disney+ series.",
+      "summary": "Big Kingdom Hearts news here at D23, with a new trailer for Kingdom Hearts 4, a late 2027 release window, and - surprise! - a Disney+ series.",
+      "url": "https://www.ign.com/articles/kingdom-hearts-4-gets-new-trailer-late-2027-release-window-and-a-disney-series",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-14 09:42:02 PM ET",
+      "published_at": "2026-08-14 11:03:09 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "The Simpsons: Hit & Run 'Coming Back in Some Form,' Creator Matt Groening Says"
+        "Kingdom Hearts 4 Gets New Trailer, Late 2027 Release Window, and a Disney+ Anime Series"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -710,8 +710,8 @@
   ],
   "editor_signals": [
     {
-      "id": "film-2-8937197101185636173",
-      "key": "film-2-8937197101185636173",
+      "id": "film-2-4680757179823477296",
+      "key": "film-2-4680757179823477296",
       "category": "Film",
       "label": "Film",
       "headline": "'Star Wars: Starfighter' Footage: Ryan Gosling Races Through the Galaxy With Young Sidekick",
@@ -737,8 +737,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-5481445912109607264",
-      "key": "film-12-5481445912109607264",
+      "id": "film-12-2896142176293006443",
+      "key": "film-12-2896142176293006443",
       "category": "Film",
       "label": "Film",
       "headline": "'Frozen 3' First Look Teases Wedding Bells & An Icy Villain From A Land \"More Wild And Dangerous\" Than Ever Before - D23",
@@ -764,8 +764,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-6208222071602476178",
-      "key": "film-24-6208222071602476178",
+      "id": "film-24-7510660398457598569",
+      "key": "film-24-7510660398457598569",
       "category": "Film",
       "label": "Film",
       "headline": "'Avengers: Doomsday' Footage Shows Off a \"Broken\" Doctor Doom",
@@ -791,8 +791,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-33-5204240542808455286",
-      "key": "film-33-5204240542808455286",
+      "id": "film-33-7087915720296194931",
+      "key": "film-33-7087915720296194931",
       "category": "Film",
       "label": "Film",
       "headline": "Live Updates From Disney's Mega Film and TV Panel at D23 2026 🔴 - Gizmodo",
@@ -818,22 +818,22 @@
       "priority_score": 67
     },
     {
-      "id": "music-12-1039789098991888592",
-      "key": "music-12-1039789098991888592",
+      "id": "music-12-7465519258447682615",
+      "key": "music-12-7465519258447682615",
       "category": "Music",
       "label": "Music",
-      "headline": "Billboard's Music Industry Events Calendar",
-      "title": "Billboard's Music Industry Events Calendar",
-      "snapshot": "A complete rundown of the most important events across the music business.",
-      "summary": "A complete rundown of the most important events across the music business.",
-      "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+      "headline": "Here Are Events Marc Anthony, Feid, Karol G & More Latin Music Artists Are Joining in Support of Colombia and Venezuela Earthquake Relief",
+      "title": "Here Are Events Marc Anthony, Feid, Karol G & More Latin Music Artists Are Joining in Support of Colombia and Venezuela Earthquake Relief",
+      "snapshot": "Benefit concerts are set to take place during the weekend of Aug. 15-16.",
+      "summary": "Benefit concerts are set to take place during the weekend of Aug. 15-16.",
+      "url": "https://www.billboard.com/music/latin/colombia-venezuela-earthquake-benefit-concerts-latin-music-1236316953/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-14 06:59:00 PM ET",
+      "published_at": "2026-08-14 07:09:39 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Billboard's Music Industry Events Calendar"
+        "Here Are Events Marc Anthony, Feid, Karol G & More Latin Music Artists Are Joining in Support of Colombia and Venezuela Earthquake Relief"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -845,22 +845,22 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-6575274853761227349",
-      "key": "gaming-2-6575274853761227349",
+      "id": "gaming-2-3604675827052312775",
+      "key": "gaming-2-3604675827052312775",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Upcoming Nintendo Switch 2 Games: Release Dates for 2026 and Beyond",
-      "title": "Upcoming Nintendo Switch 2 Games: Release Dates for 2026 and Beyond",
-      "snapshot": "Building up the Switch 2 library.",
-      "summary": "Building up the Switch 2 library.",
-      "url": "https://www.ign.com/articles/all-upcoming-nintendo-switch-2-games",
+      "headline": "The Simpsons: Hit & Run 'Coming Back in Some Form,' Creator Matt Groening Says",
+      "title": "The Simpsons: Hit & Run 'Coming Back in Some Form,' Creator Matt Groening Says",
+      "snapshot": "The Simpsons: Hit & Run 'is coming back in some form,' according to series creator Matt Groening.",
+      "summary": "The Simpsons: Hit & Run 'is coming back in some form,' according to series creator Matt Groening.",
+      "url": "https://www.ign.com/articles/the-simpsons-hit-run-coming-back-in-some-form-creator-matt-groening-says",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-14 05:12:00 PM ET",
+      "published_at": "2026-08-14 09:42:02 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Upcoming Nintendo Switch 2 Games: Release Dates for 2026 and Beyond"
+        "The Simpsons: Hit & Run 'Coming Back in Some Form,' Creator Matt Groening Says"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -872,8 +872,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-283958613696979255",
-      "key": "film-3-283958613696979255",
+      "id": "film-3-6974482029603339635",
+      "key": "film-3-6974482029603339635",
       "category": "Film",
       "label": "Film",
       "headline": "Disney's 'Hexed' Adds Walton Goggins and Jodie Foster to Cast",
@@ -899,8 +899,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-8760554556831149046",
-      "key": "film-13-8760554556831149046",
+      "id": "film-13-4104167187614092035",
+      "key": "film-13-4104167187614092035",
       "category": "Film",
       "label": "Film",
       "headline": "'Hexed': Disney Thanksgiving Animated Pic Adds Jodie Foster & Walton Goggins - D23",
@@ -926,8 +926,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-1922436875262085816",
-      "key": "film-25-1922436875262085816",
+      "id": "film-25-425310370709626847",
+      "key": "film-25-425310370709626847",
       "category": "Film",
       "label": "Film",
       "headline": "Kieran Culkin to Star in Animated Movie 'Clay' for Disney",
@@ -953,8 +953,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-34-668442869992708996",
-      "key": "film-34-668442869992708996",
+      "id": "film-34-6108355386249705263",
+      "key": "film-34-6108355386249705263",
       "category": "Film",
       "label": "Film",
       "headline": "Destination D23 2026: Movies news from Disney - Attractions Magazine",
@@ -980,22 +980,22 @@
       "priority_score": 66
     },
     {
-      "id": "music-13-5842026539963603441",
-      "key": "music-13-5842026539963603441",
+      "id": "music-13-2051275191491779455",
+      "key": "music-13-2051275191491779455",
       "category": "Music",
       "label": "Music",
-      "headline": "In Canada: BTS' J-Hope & RM Attend Drake's Toronto Concert; Neil Peart Doc Premiering at TIFF",
-      "title": "In Canada: BTS' J-Hope & RM Attend Drake's Toronto Concert; Neil Peart Doc Premiering at TIFF",
-      "snapshot": "Also up north this week: Music streaming growth slows in Quebec.",
-      "summary": "Also up north this week: Music streaming growth slows in Quebec.",
-      "url": "https://www.billboard.com/pro/bts-j-hope-rm-drake-show-neil-peart-doc-canada-news/",
+      "headline": "Billboard's Music Industry Events Calendar",
+      "title": "Billboard's Music Industry Events Calendar",
+      "snapshot": "A complete rundown of the most important events across the music business.",
+      "summary": "A complete rundown of the most important events across the music business.",
+      "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-14 06:26:37 PM ET",
+      "published_at": "2026-08-14 06:59:00 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "In Canada: BTS' J-Hope & RM Attend Drake's Toronto Concert; Neil Peart Doc Premiering at TIFF"
+        "Billboard's Music Industry Events Calendar"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1007,22 +1007,22 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-3338019582461210447",
-      "key": "gaming-3-3338019582461210447",
+      "id": "gaming-3-6647037519575958790",
+      "key": "gaming-3-6647037519575958790",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "LEGO Timmy and Tommy's Fun Day Out Is Easily the Best Animal Crossing Set So Far",
-      "title": "LEGO Timmy and Tommy's Fun Day Out Is Easily the Best Animal Crossing Set So Far",
-      "snapshot": "I've actually been waiting for a LEGO set that really captures the spirit of Animal Crossing, and I think that's exactly what Timmy and Tommy do.",
-      "summary": "I've actually been waiting for a LEGO set that really captures the spirit of Animal Crossing, and I think that's exactly what Timmy and Tommy do.",
-      "url": "https://www.ign.com/articles/we-build-lego-animal-crossing-timmy-and-tommys-fun-day-out-set-77059",
+      "headline": "Upcoming Nintendo Switch 2 Games: Release Dates for 2026 and Beyond",
+      "title": "Upcoming Nintendo Switch 2 Games: Release Dates for 2026 and Beyond",
+      "snapshot": "Building up the Switch 2 library.",
+      "summary": "Building up the Switch 2 library.",
+      "url": "https://www.ign.com/articles/all-upcoming-nintendo-switch-2-games",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-14 04:01:46 PM ET",
+      "published_at": "2026-08-14 05:12:00 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "LEGO Timmy and Tommy's Fun Day Out Is Easily the Best Animal Crossing Set So Far"
+        "Upcoming Nintendo Switch 2 Games: Release Dates for 2026 and Beyond"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1036,8 +1036,8 @@
   ],
   "homepage_cards": [
     {
-      "id": "film-0-5545638227543940510",
-      "key": "film-0-5545638227543940510",
+      "id": "film-0-2511097366574344068",
+      "key": "film-0-2511097366574344068",
       "category": "Film",
       "label": "Film",
       "headline": "'Frozen 3' First Details: Anna and Kristoff Get Married, Olaf Gets a Girlfriend and a New Villain Emerges",
@@ -1063,8 +1063,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-9110957571294373856",
-      "key": "film-10-9110957571294373856",
+      "id": "film-10-886561430912807572",
+      "key": "film-10-886561430912807572",
       "category": "Film",
       "label": "Film",
       "headline": "Everything Announced At D23: New X-Men Cast, 'Avengers: Doomsday' Teaser, 'Coco 2,' 'Tangled' Live Action First Look & More",
@@ -1090,8 +1090,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-1247733076811195233",
-      "key": "film-22-1247733076811195233",
+      "id": "film-22-4212456410040099303",
+      "key": "film-22-4212456410040099303",
       "category": "Film",
       "label": "Film",
       "headline": "'I Live in V.I.,' a Social Class Satire From Nigeria, Will Dive Into Urban Alienation and Gentrification",
@@ -1117,8 +1117,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-31-7944894549092742223",
-      "key": "film-31-7944894549092742223",
+      "id": "film-31-7205141209998389382",
+      "key": "film-31-7205141209998389382",
       "category": "Film",
       "label": "Film",
       "headline": "The 30 best action-adventure movies, ranked - Entertainment Weekly",
@@ -1144,22 +1144,22 @@
       "priority_score": 69
     },
     {
-      "id": "music-10-1177773314944875046",
-      "key": "music-10-1177773314944875046",
+      "id": "music-10-5445637684883379135",
+      "key": "music-10-5445637684883379135",
       "category": "Music",
       "label": "Music",
-      "headline": "Slipknot Cuts Ties With Sid Wilson After Nearly 30 Years",
-      "title": "Slipknot Cuts Ties With Sid Wilson After Nearly 30 Years",
-      "snapshot": "Wilson joined in 1998, just before the Des Moines, Iowa-founded group's mainstream breakthrough.",
-      "summary": "Wilson joined in 1998, just before the Des Moines, Iowa-founded group's mainstream breakthrough.",
-      "url": "https://www.billboard.com/music/rock/slipknot-sid-wilson-exits-band-1236317000/",
+      "headline": "Courtney Love Says She 'Almost Died' in 2019",
+      "title": "Courtney Love Says She 'Almost Died' in 2019",
+      "snapshot": "In a video posted to Instagram, The Hole frontwoman said she was stepping back from social media for a few weeks.",
+      "summary": "In a video posted to Instagram, The Hole frontwoman said she was stepping back from social media for a few weeks.",
+      "url": "https://www.billboard.com/music/music-news/courtney-love-almost-died-2019-1236317025/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-14 08:37:11 PM ET",
+      "published_at": "2026-08-15 04:21:37 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Slipknot Cuts Ties With Sid Wilson After Nearly 30 Years"
+        "Courtney Love Says She 'Almost Died' in 2019"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1171,22 +1171,22 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-6177992714109400556",
-      "key": "gaming-0-6177992714109400556",
+      "id": "gaming-0-2158634631896991554",
+      "key": "gaming-0-2158634631896991554",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Kingdom Hearts 4 Gets New Trailer, Late 2027 Release Window, and a Disney+ Anime Series",
-      "title": "Kingdom Hearts 4 Gets New Trailer, Late 2027 Release Window, and a Disney+ Anime Series",
-      "snapshot": "Big Kingdom Hearts news here at D23, with a new trailer for Kingdom Hearts 4, a late 2027 release window, and - surprise! - a Disney+ series.",
-      "summary": "Big Kingdom Hearts news here at D23, with a new trailer for Kingdom Hearts 4, a late 2027 release window, and - surprise! - a Disney+ series.",
-      "url": "https://www.ign.com/articles/kingdom-hearts-4-gets-new-trailer-late-2027-release-window-and-a-disney-series",
+      "headline": "Disney Animation Studios Boss Jared Bush Isn't Ruling Out a Possible Kingdom Hearts Movie",
+      "title": "Disney Animation Studios Boss Jared Bush Isn't Ruling Out a Possible Kingdom Hearts Movie",
+      "snapshot": "Jared Bush, chief creative officer of Walt Disney Animation Studios, spoke about the possibility of a Kingdom Hearts feature film, and he didn't rule out the idea.",
+      "summary": "Jared Bush, chief creative officer of Walt Disney Animation Studios, spoke about the possibility of a Kingdom Hearts feature film, and he didn't rule out the idea.",
+      "url": "https://www.ign.com/articles/disney-animation-studios-boss-jared-bush-isnt-ruling-out-a-possible-kingdom-hearts-movie",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-14 11:03:09 PM ET",
+      "published_at": "2026-08-15 03:51:43 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Kingdom Hearts 4 Gets New Trailer, Late 2027 Release Window, and a Disney+ Anime Series"
+        "Disney Animation Studios Boss Jared Bush Isn't Ruling Out a Possible Kingdom Hearts Movie"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1198,8 +1198,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-3899421646804753924",
-      "key": "film-1-3899421646804753924",
+      "id": "film-1-8484127157702764002",
+      "key": "film-1-8484127157702764002",
       "category": "Film",
       "label": "Film",
       "headline": "Marvel's 'X-Men' Reboot Sets May 2028 Release Date",
@@ -1225,8 +1225,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-2951135664089837218",
-      "key": "film-11-2951135664089837218",
+      "id": "film-11-4788354153398554104",
+      "key": "film-11-4788354153398554104",
       "category": "Film",
       "label": "Film",
       "headline": "'Zootopia 3' In Works At Disney; Ke Huy Quan & Ginnifer Goodwin Reprising Roles - D23",
@@ -1252,8 +1252,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-1243840002548875315",
-      "key": "film-23-1243840002548875315",
+      "id": "film-23-6991168969117075371",
+      "key": "film-23-6991168969117075371",
       "category": "Film",
       "label": "Film",
       "headline": "'Frozen 3' \"Royal Wedding\" Between Anna and Kristoff Is Crashed by New Villain in First-Look",
@@ -1279,8 +1279,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-32-8510113647015001008",
-      "key": "film-32-8510113647015001008",
+      "id": "film-32-6978873048054827219",
+      "key": "film-32-6978873048054827219",
       "category": "Film",
       "label": "Film",
       "headline": "Disney's D23: All the movies, TV series and more announced so far - ABC News - Breaking News, Latest News and Videos",
@@ -1306,22 +1306,22 @@
       "priority_score": 68
     },
     {
-      "id": "music-11-6676884199692384705",
-      "key": "music-11-6676884199692384705",
+      "id": "music-11-3320288798010274345",
+      "key": "music-11-3320288798010274345",
       "category": "Music",
       "label": "Music",
-      "headline": "Here Are Events Marc Anthony, Feid, Karol G & More Latin Music Artists Are Joining in Support of Colombia and Venezuela Earthquake Relief",
-      "title": "Here Are Events Marc Anthony, Feid, Karol G & More Latin Music Artists Are Joining in Support of Colombia and Venezuela Earthquake Relief",
-      "snapshot": "Benefit concerts are set to take place during the weekend of Aug. 15-16.",
-      "summary": "Benefit concerts are set to take place during the weekend of Aug. 15-16.",
-      "url": "https://www.billboard.com/music/latin/colombia-venezuela-earthquake-benefit-concerts-latin-music-1236316953/",
+      "headline": "Slipknot Cuts Ties With Sid Wilson After Nearly 30 Years",
+      "title": "Slipknot Cuts Ties With Sid Wilson After Nearly 30 Years",
+      "snapshot": "Wilson joined in 1998, just before the Des Moines, Iowa-founded group's mainstream breakthrough.",
+      "summary": "Wilson joined in 1998, just before the Des Moines, Iowa-founded group's mainstream breakthrough.",
+      "url": "https://www.billboard.com/music/rock/slipknot-sid-wilson-exits-band-1236317000/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-14 07:09:39 PM ET",
+      "published_at": "2026-08-14 08:37:11 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Here Are Events Marc Anthony, Feid, Karol G & More Latin Music Artists Are Joining in Support of Colombia and Venezuela Earthquake Relief"
+        "Slipknot Cuts Ties With Sid Wilson After Nearly 30 Years"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1333,22 +1333,22 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-7189430426192889526",
-      "key": "gaming-1-7189430426192889526",
+      "id": "gaming-1-366235426935392122",
+      "key": "gaming-1-366235426935392122",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "The Simpsons: Hit & Run 'Coming Back in Some Form,' Creator Matt Groening Says",
-      "title": "The Simpsons: Hit & Run 'Coming Back in Some Form,' Creator Matt Groening Says",
-      "snapshot": "The Simpsons: Hit & Run 'is coming back in some form,' according to series creator Matt Groening.",
-      "summary": "The Simpsons: Hit & Run 'is coming back in some form,' according to series creator Matt Groening.",
-      "url": "https://www.ign.com/articles/the-simpsons-hit-run-coming-back-in-some-form-creator-matt-groening-says",
+      "headline": "Kingdom Hearts 4 Gets New Trailer, Late 2027 Release Window, and a Disney+ Anime Series",
+      "title": "Kingdom Hearts 4 Gets New Trailer, Late 2027 Release Window, and a Disney+ Anime Series",
+      "snapshot": "Big Kingdom Hearts news here at D23, with a new trailer for Kingdom Hearts 4, a late 2027 release window, and - surprise! - a Disney+ series.",
+      "summary": "Big Kingdom Hearts news here at D23, with a new trailer for Kingdom Hearts 4, a late 2027 release window, and - surprise! - a Disney+ series.",
+      "url": "https://www.ign.com/articles/kingdom-hearts-4-gets-new-trailer-late-2027-release-window-and-a-disney-series",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-14 09:42:02 PM ET",
+      "published_at": "2026-08-14 11:03:09 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "The Simpsons: Hit & Run 'Coming Back in Some Form,' Creator Matt Groening Says"
+        "Kingdom Hearts 4 Gets New Trailer, Late 2027 Release Window, and a Disney+ Anime Series"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1360,8 +1360,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-2-8937197101185636173",
-      "key": "film-2-8937197101185636173",
+      "id": "film-2-4680757179823477296",
+      "key": "film-2-4680757179823477296",
       "category": "Film",
       "label": "Film",
       "headline": "'Star Wars: Starfighter' Footage: Ryan Gosling Races Through the Galaxy With Young Sidekick",
@@ -1387,8 +1387,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-5481445912109607264",
-      "key": "film-12-5481445912109607264",
+      "id": "film-12-2896142176293006443",
+      "key": "film-12-2896142176293006443",
       "category": "Film",
       "label": "Film",
       "headline": "'Frozen 3' First Look Teases Wedding Bells & An Icy Villain From A Land \"More Wild And Dangerous\" Than Ever Before - D23",
@@ -1414,8 +1414,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-6208222071602476178",
-      "key": "film-24-6208222071602476178",
+      "id": "film-24-7510660398457598569",
+      "key": "film-24-7510660398457598569",
       "category": "Film",
       "label": "Film",
       "headline": "'Avengers: Doomsday' Footage Shows Off a \"Broken\" Doctor Doom",
@@ -1441,8 +1441,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-33-5204240542808455286",
-      "key": "film-33-5204240542808455286",
+      "id": "film-33-7087915720296194931",
+      "key": "film-33-7087915720296194931",
       "category": "Film",
       "label": "Film",
       "headline": "Live Updates From Disney's Mega Film and TV Panel at D23 2026 🔴 - Gizmodo",
@@ -1468,22 +1468,22 @@
       "priority_score": 67
     },
     {
-      "id": "music-12-1039789098991888592",
-      "key": "music-12-1039789098991888592",
+      "id": "music-12-7465519258447682615",
+      "key": "music-12-7465519258447682615",
       "category": "Music",
       "label": "Music",
-      "headline": "Billboard's Music Industry Events Calendar",
-      "title": "Billboard's Music Industry Events Calendar",
-      "snapshot": "A complete rundown of the most important events across the music business.",
-      "summary": "A complete rundown of the most important events across the music business.",
-      "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+      "headline": "Here Are Events Marc Anthony, Feid, Karol G & More Latin Music Artists Are Joining in Support of Colombia and Venezuela Earthquake Relief",
+      "title": "Here Are Events Marc Anthony, Feid, Karol G & More Latin Music Artists Are Joining in Support of Colombia and Venezuela Earthquake Relief",
+      "snapshot": "Benefit concerts are set to take place during the weekend of Aug. 15-16.",
+      "summary": "Benefit concerts are set to take place during the weekend of Aug. 15-16.",
+      "url": "https://www.billboard.com/music/latin/colombia-venezuela-earthquake-benefit-concerts-latin-music-1236316953/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-14 06:59:00 PM ET",
+      "published_at": "2026-08-14 07:09:39 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Billboard's Music Industry Events Calendar"
+        "Here Are Events Marc Anthony, Feid, Karol G & More Latin Music Artists Are Joining in Support of Colombia and Venezuela Earthquake Relief"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1495,22 +1495,22 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-6575274853761227349",
-      "key": "gaming-2-6575274853761227349",
+      "id": "gaming-2-3604675827052312775",
+      "key": "gaming-2-3604675827052312775",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Upcoming Nintendo Switch 2 Games: Release Dates for 2026 and Beyond",
-      "title": "Upcoming Nintendo Switch 2 Games: Release Dates for 2026 and Beyond",
-      "snapshot": "Building up the Switch 2 library.",
-      "summary": "Building up the Switch 2 library.",
-      "url": "https://www.ign.com/articles/all-upcoming-nintendo-switch-2-games",
+      "headline": "The Simpsons: Hit & Run 'Coming Back in Some Form,' Creator Matt Groening Says",
+      "title": "The Simpsons: Hit & Run 'Coming Back in Some Form,' Creator Matt Groening Says",
+      "snapshot": "The Simpsons: Hit & Run 'is coming back in some form,' according to series creator Matt Groening.",
+      "summary": "The Simpsons: Hit & Run 'is coming back in some form,' according to series creator Matt Groening.",
+      "url": "https://www.ign.com/articles/the-simpsons-hit-run-coming-back-in-some-form-creator-matt-groening-says",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-14 05:12:00 PM ET",
+      "published_at": "2026-08-14 09:42:02 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Upcoming Nintendo Switch 2 Games: Release Dates for 2026 and Beyond"
+        "The Simpsons: Hit & Run 'Coming Back in Some Form,' Creator Matt Groening Says"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1522,8 +1522,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-283958613696979255",
-      "key": "film-3-283958613696979255",
+      "id": "film-3-6974482029603339635",
+      "key": "film-3-6974482029603339635",
       "category": "Film",
       "label": "Film",
       "headline": "Disney's 'Hexed' Adds Walton Goggins and Jodie Foster to Cast",
@@ -1549,8 +1549,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-8760554556831149046",
-      "key": "film-13-8760554556831149046",
+      "id": "film-13-4104167187614092035",
+      "key": "film-13-4104167187614092035",
       "category": "Film",
       "label": "Film",
       "headline": "'Hexed': Disney Thanksgiving Animated Pic Adds Jodie Foster & Walton Goggins - D23",
@@ -1576,8 +1576,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-1922436875262085816",
-      "key": "film-25-1922436875262085816",
+      "id": "film-25-425310370709626847",
+      "key": "film-25-425310370709626847",
       "category": "Film",
       "label": "Film",
       "headline": "Kieran Culkin to Star in Animated Movie 'Clay' for Disney",
@@ -1603,8 +1603,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-34-668442869992708996",
-      "key": "film-34-668442869992708996",
+      "id": "film-34-6108355386249705263",
+      "key": "film-34-6108355386249705263",
       "category": "Film",
       "label": "Film",
       "headline": "Destination D23 2026: Movies news from Disney - Attractions Magazine",
@@ -1630,22 +1630,22 @@
       "priority_score": 66
     },
     {
-      "id": "music-13-5842026539963603441",
-      "key": "music-13-5842026539963603441",
+      "id": "music-13-2051275191491779455",
+      "key": "music-13-2051275191491779455",
       "category": "Music",
       "label": "Music",
-      "headline": "In Canada: BTS' J-Hope & RM Attend Drake's Toronto Concert; Neil Peart Doc Premiering at TIFF",
-      "title": "In Canada: BTS' J-Hope & RM Attend Drake's Toronto Concert; Neil Peart Doc Premiering at TIFF",
-      "snapshot": "Also up north this week: Music streaming growth slows in Quebec.",
-      "summary": "Also up north this week: Music streaming growth slows in Quebec.",
-      "url": "https://www.billboard.com/pro/bts-j-hope-rm-drake-show-neil-peart-doc-canada-news/",
+      "headline": "Billboard's Music Industry Events Calendar",
+      "title": "Billboard's Music Industry Events Calendar",
+      "snapshot": "A complete rundown of the most important events across the music business.",
+      "summary": "A complete rundown of the most important events across the music business.",
+      "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-14 06:26:37 PM ET",
+      "published_at": "2026-08-14 06:59:00 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "In Canada: BTS' J-Hope & RM Attend Drake's Toronto Concert; Neil Peart Doc Premiering at TIFF"
+        "Billboard's Music Industry Events Calendar"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1657,22 +1657,22 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-3338019582461210447",
-      "key": "gaming-3-3338019582461210447",
+      "id": "gaming-3-6647037519575958790",
+      "key": "gaming-3-6647037519575958790",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "LEGO Timmy and Tommy's Fun Day Out Is Easily the Best Animal Crossing Set So Far",
-      "title": "LEGO Timmy and Tommy's Fun Day Out Is Easily the Best Animal Crossing Set So Far",
-      "snapshot": "I've actually been waiting for a LEGO set that really captures the spirit of Animal Crossing, and I think that's exactly what Timmy and Tommy do.",
-      "summary": "I've actually been waiting for a LEGO set that really captures the spirit of Animal Crossing, and I think that's exactly what Timmy and Tommy do.",
-      "url": "https://www.ign.com/articles/we-build-lego-animal-crossing-timmy-and-tommys-fun-day-out-set-77059",
+      "headline": "Upcoming Nintendo Switch 2 Games: Release Dates for 2026 and Beyond",
+      "title": "Upcoming Nintendo Switch 2 Games: Release Dates for 2026 and Beyond",
+      "snapshot": "Building up the Switch 2 library.",
+      "summary": "Building up the Switch 2 library.",
+      "url": "https://www.ign.com/articles/all-upcoming-nintendo-switch-2-games",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-14 04:01:46 PM ET",
+      "published_at": "2026-08-14 05:12:00 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "LEGO Timmy and Tommy's Fun Day Out Is Easily the Best Animal Crossing Set So Far"
+        "Upcoming Nintendo Switch 2 Games: Release Dates for 2026 and Beyond"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1710,8 +1710,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "film-0-5545638227543940510",
-          "key": "film-0-5545638227543940510",
+          "id": "film-0-2511097366574344068",
+          "key": "film-0-2511097366574344068",
           "category": "Film",
           "label": "Film",
           "headline": "‘Frozen 3’ First Details: Anna and Kristoff Get Married, Olaf Gets a Girlfriend and a New Villain Emerges",
@@ -1738,8 +1738,8 @@
           ]
         },
         {
-          "id": "film-10-9110957571294373856",
-          "key": "film-10-9110957571294373856",
+          "id": "film-10-886561430912807572",
+          "key": "film-10-886561430912807572",
           "category": "Film",
           "label": "Film",
           "headline": "Everything Announced At D23: New X-Men Cast, ‘Avengers: Doomsday’ Teaser, ‘Coco 2,’ ‘Tangled’ Live Action First Look & More",
@@ -1766,8 +1766,8 @@
           ]
         },
         {
-          "id": "film-22-1247733076811195233",
-          "key": "film-22-1247733076811195233",
+          "id": "film-22-4212456410040099303",
+          "key": "film-22-4212456410040099303",
           "category": "Film",
           "label": "Film",
           "headline": "‘I Live in V.I.,’ a Social Class Satire From Nigeria, Will Dive Into Urban Alienation and Gentrification",
@@ -1794,8 +1794,8 @@
           ]
         },
         {
-          "id": "film-31-7944894549092742223",
-          "key": "film-31-7944894549092742223",
+          "id": "film-31-7205141209998389382",
+          "key": "film-31-7205141209998389382",
           "category": "Film",
           "label": "Film",
           "headline": "The 30 best action-adventure movies, ranked - Entertainment Weekly",
@@ -1822,8 +1822,8 @@
           ]
         },
         {
-          "id": "film-1-3899421646804753924",
-          "key": "film-1-3899421646804753924",
+          "id": "film-1-8484127157702764002",
+          "key": "film-1-8484127157702764002",
           "category": "Film",
           "label": "Film",
           "headline": "Marvel’s ‘X-Men’ Reboot Sets May 2028 Release Date",
@@ -1850,8 +1850,8 @@
           ]
         },
         {
-          "id": "film-11-2951135664089837218",
-          "key": "film-11-2951135664089837218",
+          "id": "film-11-4788354153398554104",
+          "key": "film-11-4788354153398554104",
           "category": "Film",
           "label": "Film",
           "headline": "‘Zootopia 3’ In Works At Disney; Ke Huy Quan & Ginnifer Goodwin Reprising Roles – D23",
@@ -1878,8 +1878,8 @@
           ]
         },
         {
-          "id": "film-23-1243840002548875315",
-          "key": "film-23-1243840002548875315",
+          "id": "film-23-6991168969117075371",
+          "key": "film-23-6991168969117075371",
           "category": "Film",
           "label": "Film",
           "headline": "‘Frozen 3’ “Royal Wedding” Between Anna and Kristoff Is Crashed by New Villain in First-Look",
@@ -1906,8 +1906,8 @@
           ]
         },
         {
-          "id": "film-32-8510113647015001008",
-          "key": "film-32-8510113647015001008",
+          "id": "film-32-6978873048054827219",
+          "key": "film-32-6978873048054827219",
           "category": "Film",
           "label": "Film",
           "headline": "Disney's D23: All the movies, TV series and more announced so far - ABC News - Breaking News, Latest News and Videos",
@@ -1936,8 +1936,8 @@
       ],
       "items": [
         {
-          "id": "film-0-5545638227543940510",
-          "key": "film-0-5545638227543940510",
+          "id": "film-0-2511097366574344068",
+          "key": "film-0-2511097366574344068",
           "category": "Film",
           "label": "Film",
           "headline": "‘Frozen 3’ First Details: Anna and Kristoff Get Married, Olaf Gets a Girlfriend and a New Villain Emerges",
@@ -1964,8 +1964,8 @@
           ]
         },
         {
-          "id": "film-10-9110957571294373856",
-          "key": "film-10-9110957571294373856",
+          "id": "film-10-886561430912807572",
+          "key": "film-10-886561430912807572",
           "category": "Film",
           "label": "Film",
           "headline": "Everything Announced At D23: New X-Men Cast, ‘Avengers: Doomsday’ Teaser, ‘Coco 2,’ ‘Tangled’ Live Action First Look & More",
@@ -1992,8 +1992,8 @@
           ]
         },
         {
-          "id": "film-22-1247733076811195233",
-          "key": "film-22-1247733076811195233",
+          "id": "film-22-4212456410040099303",
+          "key": "film-22-4212456410040099303",
           "category": "Film",
           "label": "Film",
           "headline": "‘I Live in V.I.,’ a Social Class Satire From Nigeria, Will Dive Into Urban Alienation and Gentrification",
@@ -2020,8 +2020,8 @@
           ]
         },
         {
-          "id": "film-31-7944894549092742223",
-          "key": "film-31-7944894549092742223",
+          "id": "film-31-7205141209998389382",
+          "key": "film-31-7205141209998389382",
           "category": "Film",
           "label": "Film",
           "headline": "The 30 best action-adventure movies, ranked - Entertainment Weekly",
@@ -2048,8 +2048,8 @@
           ]
         },
         {
-          "id": "film-1-3899421646804753924",
-          "key": "film-1-3899421646804753924",
+          "id": "film-1-8484127157702764002",
+          "key": "film-1-8484127157702764002",
           "category": "Film",
           "label": "Film",
           "headline": "Marvel’s ‘X-Men’ Reboot Sets May 2028 Release Date",
@@ -2076,8 +2076,8 @@
           ]
         },
         {
-          "id": "film-11-2951135664089837218",
-          "key": "film-11-2951135664089837218",
+          "id": "film-11-4788354153398554104",
+          "key": "film-11-4788354153398554104",
           "category": "Film",
           "label": "Film",
           "headline": "‘Zootopia 3’ In Works At Disney; Ke Huy Quan & Ginnifer Goodwin Reprising Roles – D23",
@@ -2104,8 +2104,8 @@
           ]
         },
         {
-          "id": "film-23-1243840002548875315",
-          "key": "film-23-1243840002548875315",
+          "id": "film-23-6991168969117075371",
+          "key": "film-23-6991168969117075371",
           "category": "Film",
           "label": "Film",
           "headline": "‘Frozen 3’ “Royal Wedding” Between Anna and Kristoff Is Crashed by New Villain in First-Look",
@@ -2132,8 +2132,8 @@
           ]
         },
         {
-          "id": "film-32-8510113647015001008",
-          "key": "film-32-8510113647015001008",
+          "id": "film-32-6978873048054827219",
+          "key": "film-32-6978873048054827219",
           "category": "Film",
           "label": "Film",
           "headline": "Disney's D23: All the movies, TV series and more announced so far - ABC News - Breaking News, Latest News and Videos",
@@ -2160,50 +2160,50 @@
           ]
         }
       ],
-      "updated_at": "2026-08-15 03:31:30 AM ET"
+      "updated_at": "2026-08-15 04:29:11 AM ET"
     },
     {
       "key": "tv",
       "name": "TV",
       "title": "TV Report",
-      "headline": "‘Ahsoka’ Season 2 Trailer: Ahsoka and Anakin Reunite as Grand Admiral Thrawn Declares War on the Rebels",
+      "headline": "Zee Entertainment Wins Interim Relief to Proceed With $330 Million Capital Raise Despite Indian Regulator’s Market Ban",
       "snapshot": "TV coverage is updating with 6 current RSS headline item(s).",
       "key_storylines": [
-        "‘Ahsoka’ Season 2 Trailer: Ahsoka and Anakin Reunite as Grand Admiral Thrawn Declares War on the Rebels",
+        "Zee Entertainment Wins Interim Relief to Proceed With $330 Million Capital Raise Despite Indian Regulator’s Market Ban",
         "‘Percy Jackson And The Olympians’ Season 3 Preview Trailer Premieres At D23 As Star Walker Scobell Teases “Darker” Season – D23",
         "‘Ahsoka’ Season 2 Brings the Force — and More Anakin Skywalker — with First Trailer",
-        "‘VisionQuest’ Trailer: Paul Bettany and James Spader Return as Vision and Ultron in ‘WandaVision’ Trilogy Finale",
+        "‘Ahsoka’ Season 2 Trailer: Ahsoka and Anakin Reunite as Grand Admiral Thrawn Declares War on the Rebels",
         "Kieran Culkin To Lead Voice Cast Of New Disney Animated Movie ‘Clay’ – D23"
       ],
       "watch_list": [
-        "‘Ahsoka’ Season 2 Trailer: Ahsoka and Anakin Reunite as Grand Admiral Thrawn Declares War on the Rebels",
+        "Zee Entertainment Wins Interim Relief to Proceed With $330 Million Capital Raise Despite Indian Regulator’s Market Ban",
         "‘Percy Jackson And The Olympians’ Season 3 Preview Trailer Premieres At D23 As Star Walker Scobell Teases “Darker” Season – D23",
         "‘Ahsoka’ Season 2 Brings the Force — and More Anakin Skywalker — with First Trailer",
-        "‘VisionQuest’ Trailer: Paul Bettany and James Spader Return as Vision and Ultron in ‘WandaVision’ Trilogy Finale",
+        "‘Ahsoka’ Season 2 Trailer: Ahsoka and Anakin Reunite as Grand Admiral Thrawn Declares War on the Rebels",
         "Kieran Culkin To Lead Voice Cast Of New Disney Animated Movie ‘Clay’ – D23",
         "Adam Scott Says Daughter Had to Watch His ‘Office’ Audition Tape in Acting Class: “What Not to Do”"
       ],
       "homepage_cards": [
         {
-          "id": "tv-0-7243152189976250126",
-          "key": "tv-0-7243152189976250126",
+          "id": "tv-0-6069865156370943955",
+          "key": "tv-0-6069865156370943955",
           "category": "TV",
           "label": "TV",
-          "headline": "‘Ahsoka’ Season 2 Trailer: Ahsoka and Anakin Reunite as Grand Admiral Thrawn Declares War on the Rebels",
-          "title": "‘Ahsoka’ Season 2 Trailer: Ahsoka and Anakin Reunite as Grand Admiral Thrawn Declares War on the Rebels",
-          "snapshot": "Ahsoka Tano is returning to a galaxy far, far away as the Season 2 release date of her Disney+ series has finally been revealed. After Season 1 aired in 2023, the sophomore outing for “Ahsoka” will release on Jan. 20, 2027. Rosario Dawson returns as the Jedi after debuting the popular animated character in live-acti...",
-          "summary": "Ahsoka Tano is returning to a galaxy far, far away as the Season 2 release date of her Disney+ series has finally been revealed. After Season 1 aired in 2023, the sophomore outing for “Ahsoka” will release on Jan. 20, 2027. Rosario Dawson returns as the Jedi after debuting the popular animated character in live-acti...",
-          "url": "https://variety.com/2026/tv/news/ahsoka-season-2-trailer-release-date-star-wars-1236826698/",
+          "headline": "Zee Entertainment Wins Interim Relief to Proceed With $330 Million Capital Raise Despite Indian Regulator’s Market Ban",
+          "title": "Zee Entertainment Wins Interim Relief to Proceed With $330 Million Capital Raise Despite Indian Regulator’s Market Ban",
+          "snapshot": "India’s Securities Appellate Tribunal has granted media giant Zee Entertainment Enterprises Ltd. interim relief in its dispute with the country’s securities regulator, allowing the company to proceed with the promoter fund infusion at the center of last month’s shareholder vote despite an ongoing market ban — on the...",
+          "summary": "India’s Securities Appellate Tribunal has granted media giant Zee Entertainment Enterprises Ltd. interim relief in its dispute with the country’s securities regulator, allowing the company to proceed with the promoter fund infusion at the center of last month’s shareholder vote despite an ongoing market ban — on the...",
+          "url": "https://variety.com/2026/tv/news/zee-shareholders-approve-fund-raise-sebi-market-ban-1236826217/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/tv/feed/",
-          "published_at": "2026-08-15 12:25:07 AM ET",
+          "published_at": "2026-08-15 04:09:22 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "‘Ahsoka’ Season 2 Trailer: Ahsoka and Anakin Reunite as Grand Admiral Thrawn Declares War on the Rebels"
+            "Zee Entertainment Wins Interim Relief to Proceed With $330 Million Capital Raise Despite Indian Regulator’s Market Ban"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2213,8 +2213,8 @@
           ]
         },
         {
-          "id": "tv-10-147399620561383370",
-          "key": "tv-10-147399620561383370",
+          "id": "tv-10-7213690724563000322",
+          "key": "tv-10-7213690724563000322",
           "category": "TV",
           "label": "TV",
           "headline": "‘Percy Jackson And The Olympians’ Season 3 Preview Trailer Premieres At D23 As Star Walker Scobell Teases “Darker” Season – D23",
@@ -2241,8 +2241,8 @@
           ]
         },
         {
-          "id": "tv-21-5498298905627209185",
-          "key": "tv-21-5498298905627209185",
+          "id": "tv-21-7128552209325814316",
+          "key": "tv-21-7128552209325814316",
           "category": "TV",
           "label": "TV",
           "headline": "‘Ahsoka’ Season 2 Brings the Force — and More Anakin Skywalker — with First Trailer",
@@ -2269,25 +2269,25 @@
           ]
         },
         {
-          "id": "tv-1-5677900736890773896",
-          "key": "tv-1-5677900736890773896",
+          "id": "tv-1-1216508207541770453",
+          "key": "tv-1-1216508207541770453",
           "category": "TV",
           "label": "TV",
-          "headline": "‘VisionQuest’ Trailer: Paul Bettany and James Spader Return as Vision and Ultron in ‘WandaVision’ Trilogy Finale",
-          "title": "‘VisionQuest’ Trailer: Paul Bettany and James Spader Return as Vision and Ultron in ‘WandaVision’ Trilogy Finale",
-          "snapshot": "Paul Bettany is back as Marvel’s most popular android Vision in the upcoming Disney+ series, “VisionQuest.” The eight-episode series’ release date is set for Oct. 14. The trailer opens with Vision in his human form working at a pub and closing up shop for the night. “Before you started working here, I remember when...",
-          "summary": "Paul Bettany is back as Marvel’s most popular android Vision in the upcoming Disney+ series, “VisionQuest.” The eight-episode series’ release date is set for Oct. 14. The trailer opens with Vision in his human form working at a pub and closing up shop for the night. “Before you started working here, I remember when...",
-          "url": "https://variety.com/2026/tv/news/visionquest-trailer-vision-marvel-1236827773/",
+          "headline": "‘Ahsoka’ Season 2 Trailer: Ahsoka and Anakin Reunite as Grand Admiral Thrawn Declares War on the Rebels",
+          "title": "‘Ahsoka’ Season 2 Trailer: Ahsoka and Anakin Reunite as Grand Admiral Thrawn Declares War on the Rebels",
+          "snapshot": "Ahsoka Tano is returning to a galaxy far, far away as the Season 2 release date of her Disney+ series has finally been revealed. After Season 1 aired in 2023, the sophomore outing for “Ahsoka” will release on Jan. 20, 2027. Rosario Dawson returns as the Jedi after debuting the popular animated character in live-acti...",
+          "summary": "Ahsoka Tano is returning to a galaxy far, far away as the Season 2 release date of her Disney+ series has finally been revealed. After Season 1 aired in 2023, the sophomore outing for “Ahsoka” will release on Jan. 20, 2027. Rosario Dawson returns as the Jedi after debuting the popular animated character in live-acti...",
+          "url": "https://variety.com/2026/tv/news/ahsoka-season-2-trailer-release-date-star-wars-1236826698/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/tv/feed/",
-          "published_at": "2026-08-15 12:10:48 AM ET",
+          "published_at": "2026-08-15 12:25:07 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "‘VisionQuest’ Trailer: Paul Bettany and James Spader Return as Vision and Ultron in ‘WandaVision’ Trilogy Finale"
+            "‘Ahsoka’ Season 2 Trailer: Ahsoka and Anakin Reunite as Grand Admiral Thrawn Declares War on the Rebels"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2297,8 +2297,8 @@
           ]
         },
         {
-          "id": "tv-11-7977170432462601925",
-          "key": "tv-11-7977170432462601925",
+          "id": "tv-11-1653518110607981100",
+          "key": "tv-11-1653518110607981100",
           "category": "TV",
           "label": "TV",
           "headline": "Kieran Culkin To Lead Voice Cast Of New Disney Animated Movie ‘Clay’ – D23",
@@ -2325,8 +2325,8 @@
           ]
         },
         {
-          "id": "tv-22-6261668661155518640",
-          "key": "tv-22-6261668661155518640",
+          "id": "tv-22-6049011401733360829",
+          "key": "tv-22-6049011401733360829",
           "category": "TV",
           "label": "TV",
           "headline": "Adam Scott Says Daughter Had to Watch His ‘Office’ Audition Tape in Acting Class: “What Not to Do”",
@@ -2355,25 +2355,25 @@
       ],
       "items": [
         {
-          "id": "tv-0-7243152189976250126",
-          "key": "tv-0-7243152189976250126",
+          "id": "tv-0-6069865156370943955",
+          "key": "tv-0-6069865156370943955",
           "category": "TV",
           "label": "TV",
-          "headline": "‘Ahsoka’ Season 2 Trailer: Ahsoka and Anakin Reunite as Grand Admiral Thrawn Declares War on the Rebels",
-          "title": "‘Ahsoka’ Season 2 Trailer: Ahsoka and Anakin Reunite as Grand Admiral Thrawn Declares War on the Rebels",
-          "snapshot": "Ahsoka Tano is returning to a galaxy far, far away as the Season 2 release date of her Disney+ series has finally been revealed. After Season 1 aired in 2023, the sophomore outing for “Ahsoka” will release on Jan. 20, 2027. Rosario Dawson returns as the Jedi after debuting the popular animated character in live-acti...",
-          "summary": "Ahsoka Tano is returning to a galaxy far, far away as the Season 2 release date of her Disney+ series has finally been revealed. After Season 1 aired in 2023, the sophomore outing for “Ahsoka” will release on Jan. 20, 2027. Rosario Dawson returns as the Jedi after debuting the popular animated character in live-acti...",
-          "url": "https://variety.com/2026/tv/news/ahsoka-season-2-trailer-release-date-star-wars-1236826698/",
+          "headline": "Zee Entertainment Wins Interim Relief to Proceed With $330 Million Capital Raise Despite Indian Regulator’s Market Ban",
+          "title": "Zee Entertainment Wins Interim Relief to Proceed With $330 Million Capital Raise Despite Indian Regulator’s Market Ban",
+          "snapshot": "India’s Securities Appellate Tribunal has granted media giant Zee Entertainment Enterprises Ltd. interim relief in its dispute with the country’s securities regulator, allowing the company to proceed with the promoter fund infusion at the center of last month’s shareholder vote despite an ongoing market ban — on the...",
+          "summary": "India’s Securities Appellate Tribunal has granted media giant Zee Entertainment Enterprises Ltd. interim relief in its dispute with the country’s securities regulator, allowing the company to proceed with the promoter fund infusion at the center of last month’s shareholder vote despite an ongoing market ban — on the...",
+          "url": "https://variety.com/2026/tv/news/zee-shareholders-approve-fund-raise-sebi-market-ban-1236826217/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/tv/feed/",
-          "published_at": "2026-08-15 12:25:07 AM ET",
+          "published_at": "2026-08-15 04:09:22 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "‘Ahsoka’ Season 2 Trailer: Ahsoka and Anakin Reunite as Grand Admiral Thrawn Declares War on the Rebels"
+            "Zee Entertainment Wins Interim Relief to Proceed With $330 Million Capital Raise Despite Indian Regulator’s Market Ban"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2383,8 +2383,8 @@
           ]
         },
         {
-          "id": "tv-10-147399620561383370",
-          "key": "tv-10-147399620561383370",
+          "id": "tv-10-7213690724563000322",
+          "key": "tv-10-7213690724563000322",
           "category": "TV",
           "label": "TV",
           "headline": "‘Percy Jackson And The Olympians’ Season 3 Preview Trailer Premieres At D23 As Star Walker Scobell Teases “Darker” Season – D23",
@@ -2411,8 +2411,8 @@
           ]
         },
         {
-          "id": "tv-21-5498298905627209185",
-          "key": "tv-21-5498298905627209185",
+          "id": "tv-21-7128552209325814316",
+          "key": "tv-21-7128552209325814316",
           "category": "TV",
           "label": "TV",
           "headline": "‘Ahsoka’ Season 2 Brings the Force — and More Anakin Skywalker — with First Trailer",
@@ -2439,25 +2439,25 @@
           ]
         },
         {
-          "id": "tv-1-5677900736890773896",
-          "key": "tv-1-5677900736890773896",
+          "id": "tv-1-1216508207541770453",
+          "key": "tv-1-1216508207541770453",
           "category": "TV",
           "label": "TV",
-          "headline": "‘VisionQuest’ Trailer: Paul Bettany and James Spader Return as Vision and Ultron in ‘WandaVision’ Trilogy Finale",
-          "title": "‘VisionQuest’ Trailer: Paul Bettany and James Spader Return as Vision and Ultron in ‘WandaVision’ Trilogy Finale",
-          "snapshot": "Paul Bettany is back as Marvel’s most popular android Vision in the upcoming Disney+ series, “VisionQuest.” The eight-episode series’ release date is set for Oct. 14. The trailer opens with Vision in his human form working at a pub and closing up shop for the night. “Before you started working here, I remember when...",
-          "summary": "Paul Bettany is back as Marvel’s most popular android Vision in the upcoming Disney+ series, “VisionQuest.” The eight-episode series’ release date is set for Oct. 14. The trailer opens with Vision in his human form working at a pub and closing up shop for the night. “Before you started working here, I remember when...",
-          "url": "https://variety.com/2026/tv/news/visionquest-trailer-vision-marvel-1236827773/",
+          "headline": "‘Ahsoka’ Season 2 Trailer: Ahsoka and Anakin Reunite as Grand Admiral Thrawn Declares War on the Rebels",
+          "title": "‘Ahsoka’ Season 2 Trailer: Ahsoka and Anakin Reunite as Grand Admiral Thrawn Declares War on the Rebels",
+          "snapshot": "Ahsoka Tano is returning to a galaxy far, far away as the Season 2 release date of her Disney+ series has finally been revealed. After Season 1 aired in 2023, the sophomore outing for “Ahsoka” will release on Jan. 20, 2027. Rosario Dawson returns as the Jedi after debuting the popular animated character in live-acti...",
+          "summary": "Ahsoka Tano is returning to a galaxy far, far away as the Season 2 release date of her Disney+ series has finally been revealed. After Season 1 aired in 2023, the sophomore outing for “Ahsoka” will release on Jan. 20, 2027. Rosario Dawson returns as the Jedi after debuting the popular animated character in live-acti...",
+          "url": "https://variety.com/2026/tv/news/ahsoka-season-2-trailer-release-date-star-wars-1236826698/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/tv/feed/",
-          "published_at": "2026-08-15 12:10:48 AM ET",
+          "published_at": "2026-08-15 12:25:07 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "‘VisionQuest’ Trailer: Paul Bettany and James Spader Return as Vision and Ultron in ‘WandaVision’ Trilogy Finale"
+            "‘Ahsoka’ Season 2 Trailer: Ahsoka and Anakin Reunite as Grand Admiral Thrawn Declares War on the Rebels"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2467,8 +2467,8 @@
           ]
         },
         {
-          "id": "tv-11-7977170432462601925",
-          "key": "tv-11-7977170432462601925",
+          "id": "tv-11-1653518110607981100",
+          "key": "tv-11-1653518110607981100",
           "category": "TV",
           "label": "TV",
           "headline": "Kieran Culkin To Lead Voice Cast Of New Disney Animated Movie ‘Clay’ – D23",
@@ -2495,8 +2495,8 @@
           ]
         },
         {
-          "id": "tv-22-6261668661155518640",
-          "key": "tv-22-6261668661155518640",
+          "id": "tv-22-6049011401733360829",
+          "key": "tv-22-6049011401733360829",
           "category": "TV",
           "label": "TV",
           "headline": "Adam Scott Says Daughter Had to Watch His ‘Office’ Audition Tape in Acting Class: “What Not to Do”",
@@ -2523,7 +2523,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-15 03:31:33 AM ET"
+      "updated_at": "2026-08-15 04:29:11 AM ET"
     },
     {
       "key": "streaming",
@@ -2533,16 +2533,16 @@
       "snapshot": "Streaming coverage is updating with 2 current RSS headline item(s).",
       "key_storylines": [
         "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs - Business Insider",
-        "From 'The Last House' to 'Obsession,' 10 movies to stream right now - USA Today"
+        "From 'The Last House' to 'Obsession,' 10 movies to stream right now - usatoday.com"
       ],
       "watch_list": [
         "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs - Business Insider",
-        "From 'The Last House' to 'Obsession,' 10 movies to stream right now - USA Today"
+        "From 'The Last House' to 'Obsession,' 10 movies to stream right now - usatoday.com"
       ],
       "homepage_cards": [
         {
-          "id": "streaming-0-1204095611265531606",
-          "key": "streaming-0-1204095611265531606",
+          "id": "streaming-0-3405937677851886014",
+          "key": "streaming-0-3405937677851886014",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs - Business Insider",
@@ -2569,14 +2569,14 @@
           ]
         },
         {
-          "id": "streaming-1-8906607675694563405",
-          "key": "streaming-1-8906607675694563405",
+          "id": "streaming-1-4636814241053729501",
+          "key": "streaming-1-4636814241053729501",
           "category": "Streaming",
           "label": "Streaming",
-          "headline": "From 'The Last House' to 'Obsession,' 10 movies to stream right now - USA Today",
-          "title": "From 'The Last House' to 'Obsession,' 10 movies to stream right now - USA Today",
-          "snapshot": "From 'The Last House' to 'Obsession,' 10 movies to stream right now USA Today",
-          "summary": "From 'The Last House' to 'Obsession,' 10 movies to stream right now USA Today",
+          "headline": "From 'The Last House' to 'Obsession,' 10 movies to stream right now - usatoday.com",
+          "title": "From 'The Last House' to 'Obsession,' 10 movies to stream right now - usatoday.com",
+          "snapshot": "From 'The Last House' to 'Obsession,' 10 movies to stream right now usatoday.com",
+          "summary": "From 'The Last House' to 'Obsession,' 10 movies to stream right now usatoday.com",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWG1GWElJZW9IblJYb0tLbUo1NnBxMUh1cFR1dFJocF95cmZYMWRtcGtsaUhJRFd0WEE0UldVVUFvLVN3R2RRdmlraDlmaG9OYl9UeUliYkZLV1dHYTBZbDVLdkM5Nml2TUgxc19HcGVFYXoyV1gxSDlRaDVzYW0yRUN1TjRGeG5tN1hKLWhMZjdndU03Qm5FYUd1LXFlVFRCblFCemxSc2ViNUhhbEdQWWo3d1BTeUVpT0o1NmxQYVB4QjZHU3ZkWEpiUjFhUQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -2587,7 +2587,7 @@
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "From 'The Last House' to 'Obsession,' 10 movies to stream right now - USA Today"
+            "From 'The Last House' to 'Obsession,' 10 movies to stream right now - usatoday.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2599,8 +2599,8 @@
       ],
       "items": [
         {
-          "id": "streaming-0-1204095611265531606",
-          "key": "streaming-0-1204095611265531606",
+          "id": "streaming-0-3405937677851886014",
+          "key": "streaming-0-3405937677851886014",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs - Business Insider",
@@ -2627,14 +2627,14 @@
           ]
         },
         {
-          "id": "streaming-1-8906607675694563405",
-          "key": "streaming-1-8906607675694563405",
+          "id": "streaming-1-4636814241053729501",
+          "key": "streaming-1-4636814241053729501",
           "category": "Streaming",
           "label": "Streaming",
-          "headline": "From 'The Last House' to 'Obsession,' 10 movies to stream right now - USA Today",
-          "title": "From 'The Last House' to 'Obsession,' 10 movies to stream right now - USA Today",
-          "snapshot": "From 'The Last House' to 'Obsession,' 10 movies to stream right now USA Today",
-          "summary": "From 'The Last House' to 'Obsession,' 10 movies to stream right now USA Today",
+          "headline": "From 'The Last House' to 'Obsession,' 10 movies to stream right now - usatoday.com",
+          "title": "From 'The Last House' to 'Obsession,' 10 movies to stream right now - usatoday.com",
+          "snapshot": "From 'The Last House' to 'Obsession,' 10 movies to stream right now usatoday.com",
+          "summary": "From 'The Last House' to 'Obsession,' 10 movies to stream right now usatoday.com",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWG1GWElJZW9IblJYb0tLbUo1NnBxMUh1cFR1dFJocF95cmZYMWRtcGtsaUhJRFd0WEE0UldVVUFvLVN3R2RRdmlraDlmaG9OYl9UeUliYkZLV1dHYTBZbDVLdkM5Nml2TUgxc19HcGVFYXoyV1gxSDlRaDVzYW0yRUN1TjRGeG5tN1hKLWhMZjdndU03Qm5FYUd1LXFlVFRCblFCemxSc2ViNUhhbEdQWWo3d1BTeUVpT0o1NmxQYVB4QjZHU3ZkWEpiUjFhUQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -2645,7 +2645,7 @@
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "From 'The Last House' to 'Obsession,' 10 movies to stream right now - USA Today"
+            "From 'The Last House' to 'Obsession,' 10 movies to stream right now - usatoday.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2655,7 +2655,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-15 03:31:34 AM ET"
+      "updated_at": "2026-08-15 04:29:12 AM ET"
     },
     {
       "key": "music",
@@ -2665,23 +2665,23 @@
       "snapshot": "Music coverage is updating with 6 current RSS headline item(s).",
       "key_storylines": [
         "Music Industry Moves: Megan Thee Stallion Announces Partnership With Interscope Records",
-        "Slipknot Cuts Ties With Sid Wilson After Nearly 30 Years",
+        "Courtney Love Says She ‘Almost Died’ in 2019",
         "Sara Ito Talks Believing in Herself and Living as a Dancer in L.A.: Billboard Japan Women In Music Interview - Billboard",
         "‘The Radio Doesn’t Play Songs for Me Anymore’: Tailgaters at the Foo Fighters’ Stadium Tour Mourn the Dimming Light of Rock Music",
-        "Here Are Events Marc Anthony, Feid, Karol G & More Latin Music Artists Are Joining in Support of Colombia and Venezuela Earthquake Relief"
+        "Slipknot Cuts Ties With Sid Wilson After Nearly 30 Years"
       ],
       "watch_list": [
         "Music Industry Moves: Megan Thee Stallion Announces Partnership With Interscope Records",
-        "Slipknot Cuts Ties With Sid Wilson After Nearly 30 Years",
+        "Courtney Love Says She ‘Almost Died’ in 2019",
         "Sara Ito Talks Believing in Herself and Living as a Dancer in L.A.: Billboard Japan Women In Music Interview - Billboard",
         "‘The Radio Doesn’t Play Songs for Me Anymore’: Tailgaters at the Foo Fighters’ Stadium Tour Mourn the Dimming Light of Rock Music",
-        "Here Are Events Marc Anthony, Feid, Karol G & More Latin Music Artists Are Joining in Support of Colombia and Venezuela Earthquake Relief",
+        "Slipknot Cuts Ties With Sid Wilson After Nearly 30 Years",
         "Tencent Music’s Q2 Revenue Tops $1.3 Billion on Subscription Growth, Ximalaya Acquisition - Billboard"
       ],
       "homepage_cards": [
         {
-          "id": "music-0-6288684492616987371",
-          "key": "music-0-6288684492616987371",
+          "id": "music-0-3944644396478773476",
+          "key": "music-0-3944644396478773476",
           "category": "Music",
           "label": "Music",
           "headline": "Music Industry Moves: Megan Thee Stallion Announces Partnership With Interscope Records",
@@ -2708,25 +2708,25 @@
           ]
         },
         {
-          "id": "music-10-1177773314944875046",
-          "key": "music-10-1177773314944875046",
+          "id": "music-10-5445637684883379135",
+          "key": "music-10-5445637684883379135",
           "category": "Music",
           "label": "Music",
-          "headline": "Slipknot Cuts Ties With Sid Wilson After Nearly 30 Years",
-          "title": "Slipknot Cuts Ties With Sid Wilson After Nearly 30 Years",
-          "snapshot": "Wilson joined in 1998, just before the Des Moines, Iowa-founded group's mainstream breakthrough.",
-          "summary": "Wilson joined in 1998, just before the Des Moines, Iowa-founded group's mainstream breakthrough.",
-          "url": "https://www.billboard.com/music/rock/slipknot-sid-wilson-exits-band-1236317000/",
+          "headline": "Courtney Love Says She ‘Almost Died’ in 2019",
+          "title": "Courtney Love Says She ‘Almost Died’ in 2019",
+          "snapshot": "In a video posted to Instagram, The Hole frontwoman said she was stepping back from social media for a few weeks.",
+          "summary": "In a video posted to Instagram, The Hole frontwoman said she was stepping back from social media for a few weeks.",
+          "url": "https://www.billboard.com/music/music-news/courtney-love-almost-died-2019-1236317025/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-14 08:37:11 PM ET",
+          "published_at": "2026-08-15 04:21:37 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "Slipknot Cuts Ties With Sid Wilson After Nearly 30 Years"
+            "Courtney Love Says She ‘Almost Died’ in 2019"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2736,8 +2736,8 @@
           ]
         },
         {
-          "id": "music-20-160436620594634417",
-          "key": "music-20-160436620594634417",
+          "id": "music-20-6184991408207253049",
+          "key": "music-20-6184991408207253049",
           "category": "Music",
           "label": "Music",
           "headline": "Sara Ito Talks Believing in Herself and Living as a Dancer in L.A.: Billboard Japan Women In Music Interview - Billboard",
@@ -2764,8 +2764,8 @@
           ]
         },
         {
-          "id": "music-1-3710003639645477221",
-          "key": "music-1-3710003639645477221",
+          "id": "music-1-8933501392185701478",
+          "key": "music-1-8933501392185701478",
           "category": "Music",
           "label": "Music",
           "headline": "‘The Radio Doesn’t Play Songs for Me Anymore’: Tailgaters at the Foo Fighters’ Stadium Tour Mourn the Dimming Light of Rock Music",
@@ -2792,25 +2792,25 @@
           ]
         },
         {
-          "id": "music-11-6676884199692384705",
-          "key": "music-11-6676884199692384705",
+          "id": "music-11-3320288798010274345",
+          "key": "music-11-3320288798010274345",
           "category": "Music",
           "label": "Music",
-          "headline": "Here Are Events Marc Anthony, Feid, Karol G & More Latin Music Artists Are Joining in Support of Colombia and Venezuela Earthquake Relief",
-          "title": "Here Are Events Marc Anthony, Feid, Karol G & More Latin Music Artists Are Joining in Support of Colombia and Venezuela Earthquake Relief",
-          "snapshot": "Benefit concerts are set to take place during the weekend of Aug. 15-16.",
-          "summary": "Benefit concerts are set to take place during the weekend of Aug. 15-16.",
-          "url": "https://www.billboard.com/music/latin/colombia-venezuela-earthquake-benefit-concerts-latin-music-1236316953/",
+          "headline": "Slipknot Cuts Ties With Sid Wilson After Nearly 30 Years",
+          "title": "Slipknot Cuts Ties With Sid Wilson After Nearly 30 Years",
+          "snapshot": "Wilson joined in 1998, just before the Des Moines, Iowa-founded group's mainstream breakthrough.",
+          "summary": "Wilson joined in 1998, just before the Des Moines, Iowa-founded group's mainstream breakthrough.",
+          "url": "https://www.billboard.com/music/rock/slipknot-sid-wilson-exits-band-1236317000/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-14 07:09:39 PM ET",
+          "published_at": "2026-08-14 08:37:11 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "Here Are Events Marc Anthony, Feid, Karol G & More Latin Music Artists Are Joining in Support of Colombia and Venezuela Earthquake Relief"
+            "Slipknot Cuts Ties With Sid Wilson After Nearly 30 Years"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2820,8 +2820,8 @@
           ]
         },
         {
-          "id": "music-21-621962736727767122",
-          "key": "music-21-621962736727767122",
+          "id": "music-21-9048602143103580207",
+          "key": "music-21-9048602143103580207",
           "category": "Music",
           "label": "Music",
           "headline": "Tencent Music’s Q2 Revenue Tops $1.3 Billion on Subscription Growth, Ximalaya Acquisition - Billboard",
@@ -2850,8 +2850,8 @@
       ],
       "items": [
         {
-          "id": "music-0-6288684492616987371",
-          "key": "music-0-6288684492616987371",
+          "id": "music-0-3944644396478773476",
+          "key": "music-0-3944644396478773476",
           "category": "Music",
           "label": "Music",
           "headline": "Music Industry Moves: Megan Thee Stallion Announces Partnership With Interscope Records",
@@ -2878,25 +2878,25 @@
           ]
         },
         {
-          "id": "music-10-1177773314944875046",
-          "key": "music-10-1177773314944875046",
+          "id": "music-10-5445637684883379135",
+          "key": "music-10-5445637684883379135",
           "category": "Music",
           "label": "Music",
-          "headline": "Slipknot Cuts Ties With Sid Wilson After Nearly 30 Years",
-          "title": "Slipknot Cuts Ties With Sid Wilson After Nearly 30 Years",
-          "snapshot": "Wilson joined in 1998, just before the Des Moines, Iowa-founded group's mainstream breakthrough.",
-          "summary": "Wilson joined in 1998, just before the Des Moines, Iowa-founded group's mainstream breakthrough.",
-          "url": "https://www.billboard.com/music/rock/slipknot-sid-wilson-exits-band-1236317000/",
+          "headline": "Courtney Love Says She ‘Almost Died’ in 2019",
+          "title": "Courtney Love Says She ‘Almost Died’ in 2019",
+          "snapshot": "In a video posted to Instagram, The Hole frontwoman said she was stepping back from social media for a few weeks.",
+          "summary": "In a video posted to Instagram, The Hole frontwoman said she was stepping back from social media for a few weeks.",
+          "url": "https://www.billboard.com/music/music-news/courtney-love-almost-died-2019-1236317025/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-14 08:37:11 PM ET",
+          "published_at": "2026-08-15 04:21:37 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "Slipknot Cuts Ties With Sid Wilson After Nearly 30 Years"
+            "Courtney Love Says She ‘Almost Died’ in 2019"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2906,8 +2906,8 @@
           ]
         },
         {
-          "id": "music-20-160436620594634417",
-          "key": "music-20-160436620594634417",
+          "id": "music-20-6184991408207253049",
+          "key": "music-20-6184991408207253049",
           "category": "Music",
           "label": "Music",
           "headline": "Sara Ito Talks Believing in Herself and Living as a Dancer in L.A.: Billboard Japan Women In Music Interview - Billboard",
@@ -2934,8 +2934,8 @@
           ]
         },
         {
-          "id": "music-1-3710003639645477221",
-          "key": "music-1-3710003639645477221",
+          "id": "music-1-8933501392185701478",
+          "key": "music-1-8933501392185701478",
           "category": "Music",
           "label": "Music",
           "headline": "‘The Radio Doesn’t Play Songs for Me Anymore’: Tailgaters at the Foo Fighters’ Stadium Tour Mourn the Dimming Light of Rock Music",
@@ -2962,25 +2962,25 @@
           ]
         },
         {
-          "id": "music-11-6676884199692384705",
-          "key": "music-11-6676884199692384705",
+          "id": "music-11-3320288798010274345",
+          "key": "music-11-3320288798010274345",
           "category": "Music",
           "label": "Music",
-          "headline": "Here Are Events Marc Anthony, Feid, Karol G & More Latin Music Artists Are Joining in Support of Colombia and Venezuela Earthquake Relief",
-          "title": "Here Are Events Marc Anthony, Feid, Karol G & More Latin Music Artists Are Joining in Support of Colombia and Venezuela Earthquake Relief",
-          "snapshot": "Benefit concerts are set to take place during the weekend of Aug. 15-16.",
-          "summary": "Benefit concerts are set to take place during the weekend of Aug. 15-16.",
-          "url": "https://www.billboard.com/music/latin/colombia-venezuela-earthquake-benefit-concerts-latin-music-1236316953/",
+          "headline": "Slipknot Cuts Ties With Sid Wilson After Nearly 30 Years",
+          "title": "Slipknot Cuts Ties With Sid Wilson After Nearly 30 Years",
+          "snapshot": "Wilson joined in 1998, just before the Des Moines, Iowa-founded group's mainstream breakthrough.",
+          "summary": "Wilson joined in 1998, just before the Des Moines, Iowa-founded group's mainstream breakthrough.",
+          "url": "https://www.billboard.com/music/rock/slipknot-sid-wilson-exits-band-1236317000/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-14 07:09:39 PM ET",
+          "published_at": "2026-08-14 08:37:11 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "Here Are Events Marc Anthony, Feid, Karol G & More Latin Music Artists Are Joining in Support of Colombia and Venezuela Earthquake Relief"
+            "Slipknot Cuts Ties With Sid Wilson After Nearly 30 Years"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2990,8 +2990,8 @@
           ]
         },
         {
-          "id": "music-21-621962736727767122",
-          "key": "music-21-621962736727767122",
+          "id": "music-21-9048602143103580207",
+          "key": "music-21-9048602143103580207",
           "category": "Music",
           "label": "Music",
           "headline": "Tencent Music’s Q2 Revenue Tops $1.3 Billion on Subscription Growth, Ximalaya Acquisition - Billboard",
@@ -3018,7 +3018,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-15 03:31:38 AM ET"
+      "updated_at": "2026-08-15 04:29:13 AM ET"
     },
     {
       "key": "awards",
@@ -3028,20 +3028,20 @@
       "snapshot": "Awards coverage is updating with 4 current RSS headline item(s).",
       "key_storylines": [
         "‘Hacks’ Star Lauren Weedman on Appearing in Four Emmy-Nominated Comedies This Year and How Bell’s Palsy Changed Her Career",
-        "2026-27 Awards Season Calendar - Deadline",
+        "2026-27 Awards Season Calendar - deadline.com",
         "Charlie Hunnam on His Physical and Vocal Transformation to Play Ed Gein in ‘Monster’",
         "Viola Davis | Biography, Movies, Plays, The Help, EGOT, & Facts - Encyclopedia Britannica"
       ],
       "watch_list": [
         "‘Hacks’ Star Lauren Weedman on Appearing in Four Emmy-Nominated Comedies This Year and How Bell’s Palsy Changed Her Career",
-        "2026-27 Awards Season Calendar - Deadline",
+        "2026-27 Awards Season Calendar - deadline.com",
         "Charlie Hunnam on His Physical and Vocal Transformation to Play Ed Gein in ‘Monster’",
         "Viola Davis | Biography, Movies, Plays, The Help, EGOT, & Facts - Encyclopedia Britannica"
       ],
       "homepage_cards": [
         {
-          "id": "awards-0-6627586001331874448",
-          "key": "awards-0-6627586001331874448",
+          "id": "awards-0-5021638666964268191",
+          "key": "awards-0-5021638666964268191",
           "category": "Awards",
           "label": "Awards",
           "headline": "‘Hacks’ Star Lauren Weedman on Appearing in Four Emmy-Nominated Comedies This Year and How Bell’s Palsy Changed Her Career",
@@ -3068,14 +3068,14 @@
           ]
         },
         {
-          "id": "awards-8-3759299251199634731",
-          "key": "awards-8-3759299251199634731",
+          "id": "awards-8-3705503384894600971",
+          "key": "awards-8-3705503384894600971",
           "category": "Awards",
           "label": "Awards",
-          "headline": "2026-27 Awards Season Calendar - Deadline",
-          "title": "2026-27 Awards Season Calendar - Deadline",
-          "snapshot": "2026-27 Awards Season Calendar Deadline",
-          "summary": "2026-27 Awards Season Calendar Deadline",
+          "headline": "2026-27 Awards Season Calendar - deadline.com",
+          "title": "2026-27 Awards Season Calendar - deadline.com",
+          "snapshot": "2026-27 Awards Season Calendar deadline.com",
+          "summary": "2026-27 Awards Season Calendar deadline.com",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdGg4QjJyZUJKQ2FiQTJmTllYMEE0WlN6V19uVXlWVjROc0ZVMUd0RV84VExSb2U3U05kbzdWVVBJdC1PLTV4UC1VREMtMHVfZW05VGpQS09JX3JPWERkQVM4eWdic1BtVldkeGJIeURUTlFRMlp4MjU4T1BRRXlNdUR3TEJZcnRfbWxTdWQxNUZjbk5PR2ktc1NlUQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3086,7 +3086,7 @@
           "story_type": "rss_headline",
           "priority_score": 92,
           "key_data": [
-            "2026-27 Awards Season Calendar - Deadline"
+            "2026-27 Awards Season Calendar - deadline.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3096,8 +3096,8 @@
           ]
         },
         {
-          "id": "awards-1-5687365374934370960",
-          "key": "awards-1-5687365374934370960",
+          "id": "awards-1-3295866651436030540",
+          "key": "awards-1-3295866651436030540",
           "category": "Awards",
           "label": "Awards",
           "headline": "Charlie Hunnam on His Physical and Vocal Transformation to Play Ed Gein in ‘Monster’",
@@ -3124,8 +3124,8 @@
           ]
         },
         {
-          "id": "awards-9-8630837022352184511",
-          "key": "awards-9-8630837022352184511",
+          "id": "awards-9-8539220901329682588",
+          "key": "awards-9-8539220901329682588",
           "category": "Awards",
           "label": "Awards",
           "headline": "Viola Davis | Biography, Movies, Plays, The Help, EGOT, & Facts - Encyclopedia Britannica",
@@ -3154,8 +3154,8 @@
       ],
       "items": [
         {
-          "id": "awards-0-6627586001331874448",
-          "key": "awards-0-6627586001331874448",
+          "id": "awards-0-5021638666964268191",
+          "key": "awards-0-5021638666964268191",
           "category": "Awards",
           "label": "Awards",
           "headline": "‘Hacks’ Star Lauren Weedman on Appearing in Four Emmy-Nominated Comedies This Year and How Bell’s Palsy Changed Her Career",
@@ -3182,14 +3182,14 @@
           ]
         },
         {
-          "id": "awards-8-3759299251199634731",
-          "key": "awards-8-3759299251199634731",
+          "id": "awards-8-3705503384894600971",
+          "key": "awards-8-3705503384894600971",
           "category": "Awards",
           "label": "Awards",
-          "headline": "2026-27 Awards Season Calendar - Deadline",
-          "title": "2026-27 Awards Season Calendar - Deadline",
-          "snapshot": "2026-27 Awards Season Calendar Deadline",
-          "summary": "2026-27 Awards Season Calendar Deadline",
+          "headline": "2026-27 Awards Season Calendar - deadline.com",
+          "title": "2026-27 Awards Season Calendar - deadline.com",
+          "snapshot": "2026-27 Awards Season Calendar deadline.com",
+          "summary": "2026-27 Awards Season Calendar deadline.com",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdGg4QjJyZUJKQ2FiQTJmTllYMEE0WlN6V19uVXlWVjROc0ZVMUd0RV84VExSb2U3U05kbzdWVVBJdC1PLTV4UC1VREMtMHVfZW05VGpQS09JX3JPWERkQVM4eWdic1BtVldkeGJIeURUTlFRMlp4MjU4T1BRRXlNdUR3TEJZcnRfbWxTdWQxNUZjbk5PR2ktc1NlUQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3200,7 +3200,7 @@
           "story_type": "rss_headline",
           "priority_score": 92,
           "key_data": [
-            "2026-27 Awards Season Calendar - Deadline"
+            "2026-27 Awards Season Calendar - deadline.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3210,8 +3210,8 @@
           ]
         },
         {
-          "id": "awards-1-5687365374934370960",
-          "key": "awards-1-5687365374934370960",
+          "id": "awards-1-3295866651436030540",
+          "key": "awards-1-3295866651436030540",
           "category": "Awards",
           "label": "Awards",
           "headline": "Charlie Hunnam on His Physical and Vocal Transformation to Play Ed Gein in ‘Monster’",
@@ -3238,8 +3238,8 @@
           ]
         },
         {
-          "id": "awards-9-8630837022352184511",
-          "key": "awards-9-8630837022352184511",
+          "id": "awards-9-8539220901329682588",
+          "key": "awards-9-8539220901329682588",
           "category": "Awards",
           "label": "Awards",
           "headline": "Viola Davis | Biography, Movies, Plays, The Help, EGOT, & Facts - Encyclopedia Britannica",
@@ -3266,7 +3266,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-15 03:31:39 AM ET"
+      "updated_at": "2026-08-15 04:29:13 AM ET"
     },
     {
       "key": "box_office",
@@ -3276,20 +3276,20 @@
       "snapshot": "Box Office coverage is updating with 4 current RSS headline item(s).",
       "key_storylines": [
         "Box Office: ‘End of Oak Street’ Makes $2.5 Million in Previews",
-        "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - hollywoodreporter.com",
+        "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - The Hollywood Reporter",
         "Box Office: ‘End of Oak Street’ Targets $25 Million Debut, ‘Spider-Man: Brand New Day’ to Remain No. 1",
-        "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - hollywoodreporter.com"
+        "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - The Hollywood Reporter"
       ],
       "watch_list": [
         "Box Office: ‘End of Oak Street’ Makes $2.5 Million in Previews",
-        "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - hollywoodreporter.com",
+        "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - The Hollywood Reporter",
         "Box Office: ‘End of Oak Street’ Targets $25 Million Debut, ‘Spider-Man: Brand New Day’ to Remain No. 1",
-        "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - hollywoodreporter.com"
+        "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - The Hollywood Reporter"
       ],
       "homepage_cards": [
         {
-          "id": "box_office-0-1613486194268939842",
-          "key": "box_office-0-1613486194268939842",
+          "id": "box_office-0-4353710767765381463",
+          "key": "box_office-0-4353710767765381463",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘End of Oak Street’ Makes $2.5 Million in Previews",
@@ -3316,14 +3316,14 @@
           ]
         },
         {
-          "id": "box_office-10-8953555629984512549",
-          "key": "box_office-10-8953555629984512549",
+          "id": "box_office-10-2514396113925896783",
+          "key": "box_office-10-2514396113925896783",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - hollywoodreporter.com",
-          "title": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - hollywoodreporter.com",
-          "snapshot": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office hollywoodreporter.com",
-          "summary": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office hollywoodreporter.com",
+          "headline": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - The Hollywood Reporter",
+          "title": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - The Hollywood Reporter",
+          "snapshot": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office The Hollywood Reporter",
+          "summary": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office The Hollywood Reporter",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWng5T2VVRm9ONHpvdmRzWHE2ZVRpSVMtVnhSa0M3LWhxeFRtcjZ6YTFiY09sdWtVVXFSYk5LZ0QyU0tKeW9IdzB5RW9tMExMTEdKM1hzMXp6T2habmFsUUNPUWRxalY4NXl4OXJXb0pMTzBhOGpxYzFvQTBpcGNiRG9TekxSbjRSUFY1cnNaOTVhcWJKYWtFZExLcTI4QWZOdjJ4MTBYb0FvVFNJcWxhQ3dvMHJNSWgxREE?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3334,7 +3334,7 @@
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - hollywoodreporter.com"
+            "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - The Hollywood Reporter"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3344,8 +3344,8 @@
           ]
         },
         {
-          "id": "box_office-1-4956161907444765273",
-          "key": "box_office-1-4956161907444765273",
+          "id": "box_office-1-7726490614796349847",
+          "key": "box_office-1-7726490614796349847",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘End of Oak Street’ Targets $25 Million Debut, ‘Spider-Man: Brand New Day’ to Remain No. 1",
@@ -3372,14 +3372,14 @@
           ]
         },
         {
-          "id": "box_office-11-5131426352883172790",
-          "key": "box_office-11-5131426352883172790",
+          "id": "box_office-11-5164816577480103624",
+          "key": "box_office-11-5164816577480103624",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - hollywoodreporter.com",
-          "title": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - hollywoodreporter.com",
-          "snapshot": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews hollywoodreporter.com",
-          "summary": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews hollywoodreporter.com",
+          "headline": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - The Hollywood Reporter",
+          "title": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - The Hollywood Reporter",
+          "snapshot": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews The Hollywood Reporter",
+          "summary": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews The Hollywood Reporter",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeE45c1BVck5RNVlqWmtsYlFZNVBYSGRWMlY4WHhLQ0JaQXR3MUMwd21NUzFGZlJ6SDRuOXQ0bVJkVGlSZWVjd1U2Y2xMZjFwTDlxem1BR282TEJVZV9rZHZDckQtTy00ODFIWEY0TTZ3UDByWk45STc1RmtYakxTT25MYmR4Z0NhMTFFcTdTY2VMYnlybjVPd2M5QWlNMlV2ZmFBTVY1a1lOaVFwQkxNVm1UODc1eUs3SDl0Ui1xVFM?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3390,7 +3390,7 @@
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - hollywoodreporter.com"
+            "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - The Hollywood Reporter"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3402,8 +3402,8 @@
       ],
       "items": [
         {
-          "id": "box_office-0-1613486194268939842",
-          "key": "box_office-0-1613486194268939842",
+          "id": "box_office-0-4353710767765381463",
+          "key": "box_office-0-4353710767765381463",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘End of Oak Street’ Makes $2.5 Million in Previews",
@@ -3430,14 +3430,14 @@
           ]
         },
         {
-          "id": "box_office-10-8953555629984512549",
-          "key": "box_office-10-8953555629984512549",
+          "id": "box_office-10-2514396113925896783",
+          "key": "box_office-10-2514396113925896783",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - hollywoodreporter.com",
-          "title": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - hollywoodreporter.com",
-          "snapshot": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office hollywoodreporter.com",
-          "summary": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office hollywoodreporter.com",
+          "headline": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - The Hollywood Reporter",
+          "title": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - The Hollywood Reporter",
+          "snapshot": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office The Hollywood Reporter",
+          "summary": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office The Hollywood Reporter",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWng5T2VVRm9ONHpvdmRzWHE2ZVRpSVMtVnhSa0M3LWhxeFRtcjZ6YTFiY09sdWtVVXFSYk5LZ0QyU0tKeW9IdzB5RW9tMExMTEdKM1hzMXp6T2habmFsUUNPUWRxalY4NXl4OXJXb0pMTzBhOGpxYzFvQTBpcGNiRG9TekxSbjRSUFY1cnNaOTVhcWJKYWtFZExLcTI4QWZOdjJ4MTBYb0FvVFNJcWxhQ3dvMHJNSWgxREE?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3448,7 +3448,7 @@
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - hollywoodreporter.com"
+            "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - The Hollywood Reporter"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3458,8 +3458,8 @@
           ]
         },
         {
-          "id": "box_office-1-4956161907444765273",
-          "key": "box_office-1-4956161907444765273",
+          "id": "box_office-1-7726490614796349847",
+          "key": "box_office-1-7726490614796349847",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘End of Oak Street’ Targets $25 Million Debut, ‘Spider-Man: Brand New Day’ to Remain No. 1",
@@ -3486,14 +3486,14 @@
           ]
         },
         {
-          "id": "box_office-11-5131426352883172790",
-          "key": "box_office-11-5131426352883172790",
+          "id": "box_office-11-5164816577480103624",
+          "key": "box_office-11-5164816577480103624",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - hollywoodreporter.com",
-          "title": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - hollywoodreporter.com",
-          "snapshot": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews hollywoodreporter.com",
-          "summary": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews hollywoodreporter.com",
+          "headline": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - The Hollywood Reporter",
+          "title": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - The Hollywood Reporter",
+          "snapshot": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews The Hollywood Reporter",
+          "summary": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews The Hollywood Reporter",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeE45c1BVck5RNVlqWmtsYlFZNVBYSGRWMlY4WHhLQ0JaQXR3MUMwd21NUzFGZlJ6SDRuOXQ0bVJkVGlSZWVjd1U2Y2xMZjFwTDlxem1BR282TEJVZV9rZHZDckQtTy00ODFIWEY0TTZ3UDByWk45STc1RmtYakxTT25MYmR4Z0NhMTFFcTdTY2VMYnlybjVPd2M5QWlNMlV2ZmFBTVY1a1lOaVFwQkxNVm1UODc1eUs3SDl0Ui1xVFM?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3504,7 +3504,7 @@
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - hollywoodreporter.com"
+            "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - The Hollywood Reporter"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3514,7 +3514,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-15 03:31:40 AM ET"
+      "updated_at": "2026-08-15 04:29:14 AM ET"
     },
     {
       "key": "celebrity",
@@ -3524,16 +3524,16 @@
       "snapshot": "Celebrity coverage is updating with 2 current RSS headline item(s).",
       "key_storylines": [
         "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
-        "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - washingtontimes.com"
+        "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - Washington Times"
       ],
       "watch_list": [
         "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
-        "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - washingtontimes.com"
+        "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - Washington Times"
       ],
       "homepage_cards": [
         {
-          "id": "celebrity-0-5715383622282363435",
-          "key": "celebrity-0-5715383622282363435",
+          "id": "celebrity-0-238362872546916903",
+          "key": "celebrity-0-238362872546916903",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3560,14 +3560,14 @@
           ]
         },
         {
-          "id": "celebrity-1-7826350875739848438",
-          "key": "celebrity-1-7826350875739848438",
+          "id": "celebrity-1-5066650923596227591",
+          "key": "celebrity-1-5066650923596227591",
           "category": "Celebrity",
           "label": "Celebrity",
-          "headline": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - washingtontimes.com",
-          "title": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - washingtontimes.com",
-          "snapshot": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt washingtontimes.com",
-          "summary": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt washingtontimes.com",
+          "headline": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - Washington Times",
+          "title": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - Washington Times",
+          "snapshot": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt Washington Times",
+          "summary": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt Washington Times",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWFE4M0xiT1I3blV5QjZkNFlva1B5d2xBZXpvdm9UdllKMFZOZ3RpV0RpOWJNcHd0Z1lyZTJnX1laMVRTeEZ2SHNhUjV3azdZOVdjZC10Qm9CcjY4bmtJZTVjUEVBa2lfNXFuZHpkWDhKSWhCNUdKcGtLUVlaR1FKN0JOLVNqX0E1eFJGRGJNTGw4YnBNYzB5ZGNDcmQ1V1dnQ1FjTGQzMVVLaldrVUlVNG9JanJVNnZK?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3578,7 +3578,7 @@
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - washingtontimes.com"
+            "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - Washington Times"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3590,8 +3590,8 @@
       ],
       "items": [
         {
-          "id": "celebrity-0-5715383622282363435",
-          "key": "celebrity-0-5715383622282363435",
+          "id": "celebrity-0-238362872546916903",
+          "key": "celebrity-0-238362872546916903",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3618,14 +3618,14 @@
           ]
         },
         {
-          "id": "celebrity-1-7826350875739848438",
-          "key": "celebrity-1-7826350875739848438",
+          "id": "celebrity-1-5066650923596227591",
+          "key": "celebrity-1-5066650923596227591",
           "category": "Celebrity",
           "label": "Celebrity",
-          "headline": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - washingtontimes.com",
-          "title": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - washingtontimes.com",
-          "snapshot": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt washingtontimes.com",
-          "summary": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt washingtontimes.com",
+          "headline": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - Washington Times",
+          "title": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - Washington Times",
+          "snapshot": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt Washington Times",
+          "summary": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt Washington Times",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWFE4M0xiT1I3blV5QjZkNFlva1B5d2xBZXpvdm9UdllKMFZOZ3RpV0RpOWJNcHd0Z1lyZTJnX1laMVRTeEZ2SHNhUjV3azdZOVdjZC10Qm9CcjY4bmtJZTVjUEVBa2lfNXFuZHpkWDhKSWhCNUdKcGtLUVlaR1FKN0JOLVNqX0E1eFJGRGJNTGw4YnBNYzB5ZGNDcmQ1V1dnQ1FjTGQzMVVLaldrVUlVNG9JanJVNnZK?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3636,7 +3636,7 @@
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - washingtontimes.com"
+            "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - Washington Times"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3646,7 +3646,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-15 03:31:41 AM ET"
+      "updated_at": "2026-08-15 04:29:14 AM ET"
     },
     {
       "key": "hollywood",
@@ -3657,19 +3657,19 @@
       "key_storylines": [
         "‘Spider-Man: Brand New Day’ Has Super $65M Third Weekend; ‘The Odyssey’ Sailing Past Half Billion – Saturday AM Box Office Update",
         "Marvel Unveils Trippy First ‘VisionQuest’ Trailer",
-        "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch - hollywoodreporter.com",
+        "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch - The Hollywood Reporter",
         "Why Is the American Film Industry Located in Hollywood? - Encyclopedia Britannica"
       ],
       "watch_list": [
         "‘Spider-Man: Brand New Day’ Has Super $65M Third Weekend; ‘The Odyssey’ Sailing Past Half Billion – Saturday AM Box Office Update",
         "Marvel Unveils Trippy First ‘VisionQuest’ Trailer",
-        "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch - hollywoodreporter.com",
+        "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch - The Hollywood Reporter",
         "Why Is the American Film Industry Located in Hollywood? - Encyclopedia Britannica"
       ],
       "homepage_cards": [
         {
-          "id": "hollywood-0-258175636314538385",
-          "key": "hollywood-0-258175636314538385",
+          "id": "hollywood-0-8693954320039139725",
+          "key": "hollywood-0-8693954320039139725",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘Spider-Man: Brand New Day’ Has Super $65M Third Weekend; ‘The Odyssey’ Sailing Past Half Billion – Saturday AM Box Office Update",
@@ -3696,8 +3696,8 @@
           ]
         },
         {
-          "id": "hollywood-1-5062972636651198096",
-          "key": "hollywood-1-5062972636651198096",
+          "id": "hollywood-1-3670778641549654409",
+          "key": "hollywood-1-3670778641549654409",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Marvel Unveils Trippy First ‘VisionQuest’ Trailer",
@@ -3724,14 +3724,14 @@
           ]
         },
         {
-          "id": "hollywood-2-6632641128177878120",
-          "key": "hollywood-2-6632641128177878120",
+          "id": "hollywood-2-6738283808313292384",
+          "key": "hollywood-2-6738283808313292384",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch - hollywoodreporter.com",
-          "title": "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch - hollywoodreporter.com",
-          "snapshot": "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch hollywoodreporter.com",
-          "summary": "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch hollywoodreporter.com",
+          "headline": "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch - The Hollywood Reporter",
+          "title": "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch - The Hollywood Reporter",
+          "snapshot": "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch The Hollywood Reporter",
+          "summary": "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch The Hollywood Reporter",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSUUxS0p0V0pUQU1MTEVpZjFIUE9mMWV5SUdxLVlUdW9rVTd3UXdObUdFVGNZekpTc3NfMEhTbzZnemh5cDdjTU9idVd5LS14QkFhdDFLWmVRTEJ3dzFOazV5aXY0S3RiRlllSU5fREJTZFhROElNNUtRNmFfY2t5dlRmOEUwcTJpTE9vZ3N5TGhPakpmRFpOMGlVbmpIeV8zN2dWNVVSZkZmSUx1REVmSDZVZDk?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3742,7 +3742,7 @@
           "story_type": "rss_headline",
           "priority_score": 98,
           "key_data": [
-            "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch - hollywoodreporter.com"
+            "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch - The Hollywood Reporter"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3752,8 +3752,8 @@
           ]
         },
         {
-          "id": "hollywood-3-2906152672851747761",
-          "key": "hollywood-3-2906152672851747761",
+          "id": "hollywood-3-8585253263003445546",
+          "key": "hollywood-3-8585253263003445546",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Why Is the American Film Industry Located in Hollywood? - Encyclopedia Britannica",
@@ -3782,8 +3782,8 @@
       ],
       "items": [
         {
-          "id": "hollywood-0-258175636314538385",
-          "key": "hollywood-0-258175636314538385",
+          "id": "hollywood-0-8693954320039139725",
+          "key": "hollywood-0-8693954320039139725",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘Spider-Man: Brand New Day’ Has Super $65M Third Weekend; ‘The Odyssey’ Sailing Past Half Billion – Saturday AM Box Office Update",
@@ -3810,8 +3810,8 @@
           ]
         },
         {
-          "id": "hollywood-1-5062972636651198096",
-          "key": "hollywood-1-5062972636651198096",
+          "id": "hollywood-1-3670778641549654409",
+          "key": "hollywood-1-3670778641549654409",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Marvel Unveils Trippy First ‘VisionQuest’ Trailer",
@@ -3838,14 +3838,14 @@
           ]
         },
         {
-          "id": "hollywood-2-6632641128177878120",
-          "key": "hollywood-2-6632641128177878120",
+          "id": "hollywood-2-6738283808313292384",
+          "key": "hollywood-2-6738283808313292384",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch - hollywoodreporter.com",
-          "title": "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch - hollywoodreporter.com",
-          "snapshot": "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch hollywoodreporter.com",
-          "summary": "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch hollywoodreporter.com",
+          "headline": "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch - The Hollywood Reporter",
+          "title": "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch - The Hollywood Reporter",
+          "snapshot": "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch The Hollywood Reporter",
+          "summary": "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch The Hollywood Reporter",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSUUxS0p0V0pUQU1MTEVpZjFIUE9mMWV5SUdxLVlUdW9rVTd3UXdObUdFVGNZekpTc3NfMEhTbzZnemh5cDdjTU9idVd5LS14QkFhdDFLWmVRTEJ3dzFOazV5aXY0S3RiRlllSU5fREJTZFhROElNNUtRNmFfY2t5dlRmOEUwcTJpTE9vZ3N5TGhPakpmRFpOMGlVbmpIeV8zN2dWNVVSZkZmSUx1REVmSDZVZDk?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3856,7 +3856,7 @@
           "story_type": "rss_headline",
           "priority_score": 98,
           "key_data": [
-            "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch - hollywoodreporter.com"
+            "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch - The Hollywood Reporter"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3866,8 +3866,8 @@
           ]
         },
         {
-          "id": "hollywood-3-2906152672851747761",
-          "key": "hollywood-3-2906152672851747761",
+          "id": "hollywood-3-8585253263003445546",
+          "key": "hollywood-3-8585253263003445546",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Why Is the American Film Industry Located in Hollywood? - Encyclopedia Britannica",
@@ -3894,26 +3894,54 @@
           ]
         }
       ],
-      "updated_at": "2026-08-15 03:31:42 AM ET"
+      "updated_at": "2026-08-15 04:29:15 AM ET"
     },
     {
       "key": "gaming",
       "name": "Gaming",
       "title": "Gaming Report",
-      "headline": "Kingdom Hearts 4 Gets New Trailer, Late 2027 Release Window, and a Disney+ Anime Series",
+      "headline": "Disney Animation Studios Boss Jared Bush Isn't Ruling Out a Possible Kingdom Hearts Movie",
       "snapshot": "Gaming coverage is updating with 2 current RSS headline item(s).",
       "key_storylines": [
-        "Kingdom Hearts 4 Gets New Trailer, Late 2027 Release Window, and a Disney+ Anime Series",
-        "The Simpsons: Hit & Run 'Coming Back in Some Form,' Creator Matt Groening Says"
+        "Disney Animation Studios Boss Jared Bush Isn't Ruling Out a Possible Kingdom Hearts Movie",
+        "Kingdom Hearts 4 Gets New Trailer, Late 2027 Release Window, and a Disney+ Anime Series"
       ],
       "watch_list": [
-        "Kingdom Hearts 4 Gets New Trailer, Late 2027 Release Window, and a Disney+ Anime Series",
-        "The Simpsons: Hit & Run 'Coming Back in Some Form,' Creator Matt Groening Says"
+        "Disney Animation Studios Boss Jared Bush Isn't Ruling Out a Possible Kingdom Hearts Movie",
+        "Kingdom Hearts 4 Gets New Trailer, Late 2027 Release Window, and a Disney+ Anime Series"
       ],
       "homepage_cards": [
         {
-          "id": "gaming-0-6177992714109400556",
-          "key": "gaming-0-6177992714109400556",
+          "id": "gaming-0-2158634631896991554",
+          "key": "gaming-0-2158634631896991554",
+          "category": "Gaming",
+          "label": "Gaming",
+          "headline": "Disney Animation Studios Boss Jared Bush Isn't Ruling Out a Possible Kingdom Hearts Movie",
+          "title": "Disney Animation Studios Boss Jared Bush Isn't Ruling Out a Possible Kingdom Hearts Movie",
+          "snapshot": "Jared Bush, chief creative officer of Walt Disney Animation Studios, spoke about the possibility of a Kingdom Hearts feature film, and he didn’t rule out the idea.",
+          "summary": "Jared Bush, chief creative officer of Walt Disney Animation Studios, spoke about the possibility of a Kingdom Hearts feature film, and he didn’t rule out the idea.",
+          "url": "https://www.ign.com/articles/disney-animation-studios-boss-jared-bush-isnt-ruling-out-a-possible-kingdom-hearts-movie",
+          "source": "IGN",
+          "source_name": "IGN",
+          "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
+          "published_at": "2026-08-15 03:51:43 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 100,
+          "key_data": [
+            "Disney Animation Studios Boss Jared Bush Isn't Ruling Out a Possible Kingdom Hearts Movie"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "gaming-1-366235426935392122",
+          "key": "gaming-1-366235426935392122",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Kingdom Hearts 4 Gets New Trailer, Late 2027 Release Window, and a Disney+ Anime Series",
@@ -3928,37 +3956,9 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 100,
-          "key_data": [
-            "Kingdom Hearts 4 Gets New Trailer, Late 2027 Release Window, and a Disney+ Anime Series"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "gaming-1-7189430426192889526",
-          "key": "gaming-1-7189430426192889526",
-          "category": "Gaming",
-          "label": "Gaming",
-          "headline": "The Simpsons: Hit & Run 'Coming Back in Some Form,' Creator Matt Groening Says",
-          "title": "The Simpsons: Hit & Run 'Coming Back in Some Form,' Creator Matt Groening Says",
-          "snapshot": "The Simpsons: Hit & Run 'is coming back in some form,' according to series creator Matt Groening.",
-          "summary": "The Simpsons: Hit & Run 'is coming back in some form,' according to series creator Matt Groening.",
-          "url": "https://www.ign.com/articles/the-simpsons-hit-run-coming-back-in-some-form-creator-matt-groening-says",
-          "source": "IGN",
-          "source_name": "IGN",
-          "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-          "published_at": "2026-08-14 09:42:02 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "The Simpsons: Hit & Run 'Coming Back in Some Form,' Creator Matt Groening Says"
+            "Kingdom Hearts 4 Gets New Trailer, Late 2027 Release Window, and a Disney+ Anime Series"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3970,8 +3970,36 @@
       ],
       "items": [
         {
-          "id": "gaming-0-6177992714109400556",
-          "key": "gaming-0-6177992714109400556",
+          "id": "gaming-0-2158634631896991554",
+          "key": "gaming-0-2158634631896991554",
+          "category": "Gaming",
+          "label": "Gaming",
+          "headline": "Disney Animation Studios Boss Jared Bush Isn't Ruling Out a Possible Kingdom Hearts Movie",
+          "title": "Disney Animation Studios Boss Jared Bush Isn't Ruling Out a Possible Kingdom Hearts Movie",
+          "snapshot": "Jared Bush, chief creative officer of Walt Disney Animation Studios, spoke about the possibility of a Kingdom Hearts feature film, and he didn’t rule out the idea.",
+          "summary": "Jared Bush, chief creative officer of Walt Disney Animation Studios, spoke about the possibility of a Kingdom Hearts feature film, and he didn’t rule out the idea.",
+          "url": "https://www.ign.com/articles/disney-animation-studios-boss-jared-bush-isnt-ruling-out-a-possible-kingdom-hearts-movie",
+          "source": "IGN",
+          "source_name": "IGN",
+          "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
+          "published_at": "2026-08-15 03:51:43 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 100,
+          "key_data": [
+            "Disney Animation Studios Boss Jared Bush Isn't Ruling Out a Possible Kingdom Hearts Movie"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "gaming-1-366235426935392122",
+          "key": "gaming-1-366235426935392122",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Kingdom Hearts 4 Gets New Trailer, Late 2027 Release Window, and a Disney+ Anime Series",
@@ -3986,7 +4014,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 100,
+          "priority_score": 99,
           "key_data": [
             "Kingdom Hearts 4 Gets New Trailer, Late 2027 Release Window, and a Disney+ Anime Series"
           ],
@@ -3996,37 +4024,9 @@
           "what_to_watch": [
             "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
           ]
-        },
-        {
-          "id": "gaming-1-7189430426192889526",
-          "key": "gaming-1-7189430426192889526",
-          "category": "Gaming",
-          "label": "Gaming",
-          "headline": "The Simpsons: Hit & Run 'Coming Back in Some Form,' Creator Matt Groening Says",
-          "title": "The Simpsons: Hit & Run 'Coming Back in Some Form,' Creator Matt Groening Says",
-          "snapshot": "The Simpsons: Hit & Run 'is coming back in some form,' according to series creator Matt Groening.",
-          "summary": "The Simpsons: Hit & Run 'is coming back in some form,' according to series creator Matt Groening.",
-          "url": "https://www.ign.com/articles/the-simpsons-hit-run-coming-back-in-some-form-creator-matt-groening-says",
-          "source": "IGN",
-          "source_name": "IGN",
-          "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-          "published_at": "2026-08-14 09:42:02 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 99,
-          "key_data": [
-            "The Simpsons: Hit & Run 'Coming Back in Some Form,' Creator Matt Groening Says"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
         }
       ],
-      "updated_at": "2026-08-15 03:31:43 AM ET"
+      "updated_at": "2026-08-15 04:29:16 AM ET"
     },
     {
       "key": "media",
@@ -4037,21 +4037,21 @@
       "key_storylines": [
         "Warner Bros. Discovery CEO David Zaslav Beneficiary of $27.1 Million in Stock Sales as Paramount Merger Is Stuck on Hold",
         "David Ellison’s Friday ParaBros News Dump: CEO Complains About “Needless Costs” Of State AGs’ Antitrust Suit As Mexico Approves Merger",
-        "Forbes editor out; report says he took $6M from founder of firm that does business with magazine - audacy.com",
+        "Forbes editor out; report says he took $6M from founder of firm that does business with magazine - Audacy",
         "If Paramount Leaves California, It Might Cut Costs but Wouldn’t Save on State Taxes",
         "English Football Giants Liverpool Confirm Sale Of Stake To Jeff Bezos & Facebook Co-Founder Eduardo Saverin"
       ],
       "watch_list": [
         "Warner Bros. Discovery CEO David Zaslav Beneficiary of $27.1 Million in Stock Sales as Paramount Merger Is Stuck on Hold",
         "David Ellison’s Friday ParaBros News Dump: CEO Complains About “Needless Costs” Of State AGs’ Antitrust Suit As Mexico Approves Merger",
-        "Forbes editor out; report says he took $6M from founder of firm that does business with magazine - audacy.com",
+        "Forbes editor out; report says he took $6M from founder of firm that does business with magazine - Audacy",
         "If Paramount Leaves California, It Might Cut Costs but Wouldn’t Save on State Taxes",
         "English Football Giants Liverpool Confirm Sale Of Stake To Jeff Bezos & Facebook Co-Founder Eduardo Saverin"
       ],
       "homepage_cards": [
         {
-          "id": "media-0-4016509840564975600",
-          "key": "media-0-4016509840564975600",
+          "id": "media-0-2243309397861361926",
+          "key": "media-0-2243309397861361926",
           "category": "Media",
           "label": "Media",
           "headline": "Warner Bros. Discovery CEO David Zaslav Beneficiary of $27.1 Million in Stock Sales as Paramount Merger Is Stuck on Hold",
@@ -4078,8 +4078,8 @@
           ]
         },
         {
-          "id": "media-10-2186032297666521665",
-          "key": "media-10-2186032297666521665",
+          "id": "media-10-8310247742268483047",
+          "key": "media-10-8310247742268483047",
           "category": "Media",
           "label": "Media",
           "headline": "David Ellison’s Friday ParaBros News Dump: CEO Complains About “Needless Costs” Of State AGs’ Antitrust Suit As Mexico Approves Merger",
@@ -4106,14 +4106,14 @@
           ]
         },
         {
-          "id": "media-21-4931660752242000282",
-          "key": "media-21-4931660752242000282",
+          "id": "media-21-7744368293076533636",
+          "key": "media-21-7744368293076533636",
           "category": "Media",
           "label": "Media",
-          "headline": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine - audacy.com",
-          "title": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine - audacy.com",
-          "snapshot": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine audacy.com",
-          "summary": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine audacy.com",
+          "headline": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine - Audacy",
+          "title": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine - Audacy",
+          "snapshot": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine Audacy",
+          "summary": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine Audacy",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU3FvVGlWZFJibi1ybl95MFRJZW9mMzQxazJHYVhCbENhMXF3eWJodFh3Z0ZnVFFRZ3Q2TlJsZjFCS2JrME5pR19ROS1La0JTY25BemEwVkpTdlI2TW9mb29jMGRvWS0yTUdzc2VCR1dIZ1c2ZEdQQzVwNjlPQmZOWlhPRHZ3V3U0OUJjQWtDSkd3ZmZGcTY5dDFpMjVvYkFSY0NsRE1KWQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -4124,7 +4124,7 @@
           "story_type": "rss_headline",
           "priority_score": 79,
           "key_data": [
-            "Forbes editor out; report says he took $6M from founder of firm that does business with magazine - audacy.com"
+            "Forbes editor out; report says he took $6M from founder of firm that does business with magazine - Audacy"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4134,8 +4134,8 @@
           ]
         },
         {
-          "id": "media-1-1409855659111827266",
-          "key": "media-1-1409855659111827266",
+          "id": "media-1-4470353691013989754",
+          "key": "media-1-4470353691013989754",
           "category": "Media",
           "label": "Media",
           "headline": "If Paramount Leaves California, It Might Cut Costs but Wouldn’t Save on State Taxes",
@@ -4162,8 +4162,8 @@
           ]
         },
         {
-          "id": "media-11-5943964178709165326",
-          "key": "media-11-5943964178709165326",
+          "id": "media-11-1834481357680157423",
+          "key": "media-11-1834481357680157423",
           "category": "Media",
           "label": "Media",
           "headline": "English Football Giants Liverpool Confirm Sale Of Stake To Jeff Bezos & Facebook Co-Founder Eduardo Saverin",
@@ -4192,8 +4192,8 @@
       ],
       "items": [
         {
-          "id": "media-0-4016509840564975600",
-          "key": "media-0-4016509840564975600",
+          "id": "media-0-2243309397861361926",
+          "key": "media-0-2243309397861361926",
           "category": "Media",
           "label": "Media",
           "headline": "Warner Bros. Discovery CEO David Zaslav Beneficiary of $27.1 Million in Stock Sales as Paramount Merger Is Stuck on Hold",
@@ -4220,8 +4220,8 @@
           ]
         },
         {
-          "id": "media-10-2186032297666521665",
-          "key": "media-10-2186032297666521665",
+          "id": "media-10-8310247742268483047",
+          "key": "media-10-8310247742268483047",
           "category": "Media",
           "label": "Media",
           "headline": "David Ellison’s Friday ParaBros News Dump: CEO Complains About “Needless Costs” Of State AGs’ Antitrust Suit As Mexico Approves Merger",
@@ -4248,14 +4248,14 @@
           ]
         },
         {
-          "id": "media-21-4931660752242000282",
-          "key": "media-21-4931660752242000282",
+          "id": "media-21-7744368293076533636",
+          "key": "media-21-7744368293076533636",
           "category": "Media",
           "label": "Media",
-          "headline": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine - audacy.com",
-          "title": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine - audacy.com",
-          "snapshot": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine audacy.com",
-          "summary": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine audacy.com",
+          "headline": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine - Audacy",
+          "title": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine - Audacy",
+          "snapshot": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine Audacy",
+          "summary": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine Audacy",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU3FvVGlWZFJibi1ybl95MFRJZW9mMzQxazJHYVhCbENhMXF3eWJodFh3Z0ZnVFFRZ3Q2TlJsZjFCS2JrME5pR19ROS1La0JTY25BemEwVkpTdlI2TW9mb29jMGRvWS0yTUdzc2VCR1dIZ1c2ZEdQQzVwNjlPQmZOWlhPRHZ3V3U0OUJjQWtDSkd3ZmZGcTY5dDFpMjVvYkFSY0NsRE1KWQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -4266,7 +4266,7 @@
           "story_type": "rss_headline",
           "priority_score": 79,
           "key_data": [
-            "Forbes editor out; report says he took $6M from founder of firm that does business with magazine - audacy.com"
+            "Forbes editor out; report says he took $6M from founder of firm that does business with magazine - Audacy"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4276,8 +4276,8 @@
           ]
         },
         {
-          "id": "media-1-1409855659111827266",
-          "key": "media-1-1409855659111827266",
+          "id": "media-1-4470353691013989754",
+          "key": "media-1-4470353691013989754",
           "category": "Media",
           "label": "Media",
           "headline": "If Paramount Leaves California, It Might Cut Costs but Wouldn’t Save on State Taxes",
@@ -4304,8 +4304,8 @@
           ]
         },
         {
-          "id": "media-11-5943964178709165326",
-          "key": "media-11-5943964178709165326",
+          "id": "media-11-1834481357680157423",
+          "key": "media-11-1834481357680157423",
           "category": "Media",
           "label": "Media",
           "headline": "English Football Giants Liverpool Confirm Sale Of Stake To Jeff Bezos & Facebook Co-Founder Eduardo Saverin",
@@ -4332,7 +4332,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-15 03:31:45 AM ET"
+      "updated_at": "2026-08-15 04:29:17 AM ET"
     }
   ]
 }
