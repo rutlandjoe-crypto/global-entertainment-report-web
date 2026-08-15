@@ -3,11 +3,11 @@
   "site": "Global Entertainment Report",
   "site_name": "Global Entertainment Report",
   "vertical": "Entertainment",
-  "headline": "Box Office: 'The End of Oak Street' Chomps on $8.1 Million, But 'Spider-Man: Brand New Day' Is Still No. 1 With $19 Million",
+  "headline": "Locarno: Marco Cavazzin's 'Mutrion,' Set in the Venice Lagoon, Scoops Leopards of Tomorrow Director Award",
   "snapshot": "Global Entertainment Report accepted 46 real RSS item(s) across 31 checked feed request(s).",
-  "generated_at": "2026-08-15 12:24:51 PM ET",
-  "updated_at": "2026-08-15 12:24:51 PM ET",
-  "published_at": "2026-08-15 12:24:51 PM ET",
+  "generated_at": "2026-08-15 01:20:25 PM ET",
+  "updated_at": "2026-08-15 01:20:25 PM ET",
+  "published_at": "2026-08-15 01:20:25 PM ET",
   "source_mode": "live RSS ingestion",
   "freshness": {
     "max_item_age_hours": 336,
@@ -53,9 +53,9 @@
       "final_url": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 89,
+      "rejected_count": 88,
       "rejection_reasons": {
-        "stale-over-336h": 89
+        "stale-over-336h": 88
       }
     },
     {
@@ -224,8 +224,10 @@
       "final_url": "https://variety.com/v/film/box-office/feed/",
       "item_count": 10,
       "accepted_count": 2,
-      "rejected_count": 0,
-      "rejection_reasons": {}
+      "rejected_count": 1,
+      "rejection_reasons": {
+        "duplicate-story": 1
+      }
     },
     {
       "category": "box_office",
@@ -257,7 +259,7 @@
       "url": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
-      "item_count": 95,
+      "item_count": 96,
       "accepted_count": 2,
       "rejected_count": 83,
       "rejection_reasons": {
@@ -375,33 +377,33 @@
   "substack_url": "https://globalentertainmentreport.substack.com/",
   "x_handle": "@GlobalSportsRp",
   "key_storylines": [
-    "Box Office: 'The End of Oak Street' Chomps on $8.1 Million, But 'Spider-Man: Brand New Day' Is Still No. 1 With $19 Million",
+    "Locarno: Marco Cavazzin's 'Mutrion,' Set in the Venice Lagoon, Scoops Leopards of Tomorrow Director Award",
     "'Spider-Man: Brand New Day' Production Designer On Yelena's Bathhouse, Peter Parker's Sad Pad & The Challenge Of Building New York In The U.K.",
     "'Spider-Man: Brand New Day' Still Soaring to Top Its Third Weekend With $67M",
     "Disney's D23: All the movies, TV series and more announced so far - ABC News - Breaking News, Latest News and Videos",
-    "Romeo Santos Launches Fundación Los Santos to Support Children With Autism & More Uplifting Moments in Latin Music",
-    "I Hope GTA 6 Borrows a Lot From GTA 4",
-    "Florin Şerban's 'You Don't Belong Here' Wins Golden Leopard at Locarno, as Monica Bellucci and Kim Minhee Take Acting Awards",
+    "Bonnie Tyler Fans Line Welsh Village Streets as Her Coffin Is Brought Home",
+    "100% Marvel's Spider-Man Games with One Month of Free IGN Guides Checklists",
+    "Box Office: 'The End of Oak Street' Chomps on $8.1 Million, But 'Spider-Man: Brand New Day' Is Still No. 1 With $19 Million",
     "BFI CEO Ben Roberts Gives Keynote Address At Inaugural UK Film Conference: \"The Missing Piece, For Me, Is Having Film Firmly In The Classroom\" - Edinburgh Film Festival"
   ],
   "live_newsroom": [
     {
-      "id": "film-0-499577128110247483",
-      "key": "film-0-499577128110247483",
+      "id": "film-0-5232101258428240303",
+      "key": "film-0-5232101258428240303",
       "category": "Film",
       "label": "Film",
-      "headline": "Box Office: 'The End of Oak Street' Chomps on $8.1 Million, But 'Spider-Man: Brand New Day' Is Still No. 1 With $19 Million",
-      "title": "Box Office: 'The End of Oak Street' Chomps on $8.1 Million, But 'Spider-Man: Brand New Day' Is Still No. 1 With $19 Million",
-      "snapshot": "\"Spider-Man: Brand New Day\" led the box office again on Friday despite competition from Anne Hathaway and a horde of hungry dinosaurs. The Warner Bros. sci-fi thriller \"The End of Oak Street\" landed in second place on opening day with $8.1 million from 3,446 North American theaters. Rivals estimate the film will ear...",
-      "summary": "\"Spider-Man: Brand New Day\" led the box office again on Friday despite competition from Anne Hathaway and a horde of hungry dinosaurs. The Warner Bros. sci-fi thriller \"The End of Oak Street\" landed in second place on opening day with $8.1 million from 3,446 North American theaters. Rivals estimate the film will ear...",
-      "url": "https://variety.com/2026/film/box-office/box-office-end-of-oak-street-spider-man-brand-new-day-1236835436/",
+      "headline": "Locarno: Marco Cavazzin's 'Mutrion,' Set in the Venice Lagoon, Scoops Leopards of Tomorrow Director Award",
+      "title": "Locarno: Marco Cavazzin's 'Mutrion,' Set in the Venice Lagoon, Scoops Leopards of Tomorrow Director Award",
+      "snapshot": "\"Mutrion,\" a short film set in the Venice lagoon by 26-year-old Italian director Marco Cavazzin, has scooped the best director award at the Locarno Film Festival's Pardi di Domani (Leopards of Tomorrow) section. \"Mutrion,\" which is the only Italian entry in the section, stars Manfredi Marini, who previously starred...",
+      "summary": "\"Mutrion,\" a short film set in the Venice lagoon by 26-year-old Italian director Marco Cavazzin, has scooped the best director award at the Locarno Film Festival's Pardi di Domani (Leopards of Tomorrow) section. \"Mutrion,\" which is the only Italian entry in the section, stars Manfredi Marini, who previously starred...",
+      "url": "https://variety.com/2026/film/festivals/locarno-marco-cavazzin-mutrion-venice-leopards-of-tomorrow-1236834478/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-15 11:59:20 AM ET",
+      "published_at": "2026-08-15 12:24:57 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Box Office: 'The End of Oak Street' Chomps on $8.1 Million, But 'Spider-Man: Brand New Day' Is Still No. 1 With $19 Million"
+        "Locarno: Marco Cavazzin's 'Mutrion,' Set in the Venice Lagoon, Scoops Leopards of Tomorrow Director Award"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -413,8 +415,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-4233581952558838300",
-      "key": "film-10-4233581952558838300",
+      "id": "film-10-6442732907504773156",
+      "key": "film-10-6442732907504773156",
       "category": "Film",
       "label": "Film",
       "headline": "'Spider-Man: Brand New Day' Production Designer On Yelena's Bathhouse, Peter Parker's Sad Pad & The Challenge Of Building New York In The U.K.",
@@ -440,14 +442,14 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-2898080901439305862",
-      "key": "film-22-2898080901439305862",
+      "id": "film-22-7946971681906890782",
+      "key": "film-22-7946971681906890782",
       "category": "Film",
       "label": "Film",
       "headline": "'Spider-Man: Brand New Day' Still Soaring to Top Its Third Weekend With $67M",
       "title": "'Spider-Man: Brand New Day' Still Soaring to Top Its Third Weekend With $67M",
-      "snapshot": "Tom Holland's superhero juggernaut continues a torrid pace as the frame sees the debuts of 'The End of Oak Street' and 'PAW Patrol: The Dino Movie.'",
-      "summary": "Tom Holland's superhero juggernaut continues a torrid pace as the frame sees the debuts of 'The End of Oak Street' and 'PAW Patrol: The Dino Movie.'",
+      "snapshot": "Tom Holland's superhero juggernaut maintains a torrid pace as the frame sees the debuts of 'The End of Oak Street' and 'PAW Patrol: The Dino Movie.'",
+      "summary": "Tom Holland's superhero juggernaut maintains a torrid pace as the frame sees the debuts of 'The End of Oak Street' and 'PAW Patrol: The Dino Movie.'",
       "url": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-oak-street-paw-patrol-1236674347/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
@@ -467,8 +469,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-6477196822511384427",
-      "key": "film-32-6477196822511384427",
+      "id": "film-32-4692109276540269443",
+      "key": "film-32-4692109276540269443",
       "category": "Film",
       "label": "Film",
       "headline": "Disney's D23: All the movies, TV series and more announced so far - ABC News - Breaking News, Latest News and Videos",
@@ -494,22 +496,22 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-1381271300783863518",
-      "key": "music-10-1381271300783863518",
+      "id": "music-10-8649431688347653575",
+      "key": "music-10-8649431688347653575",
       "category": "Music",
       "label": "Music",
-      "headline": "Romeo Santos Launches Fundación Los Santos to Support Children With Autism & More Uplifting Moments in Latin Music",
-      "title": "Romeo Santos Launches Fundación Los Santos to Support Children With Autism & More Uplifting Moments in Latin Music",
-      "snapshot": "Plus, Eladio Carrión brings Saucegiving back to Puerto Rico, and Rosalía honors Caetano Veloso and Fito Páez in Rio.",
-      "summary": "Plus, Eladio Carrión brings Saucegiving back to Puerto Rico, and Rosalía honors Caetano Veloso and Fito Páez in Rio.",
-      "url": "https://www.billboard.com/music/latin/romeo-santos-autism-foundation-eladio-carrion-saucegiving-1236316797/",
+      "headline": "Bonnie Tyler Fans Line Welsh Village Streets as Her Coffin Is Brought Home",
+      "title": "Bonnie Tyler Fans Line Welsh Village Streets as Her Coffin Is Brought Home",
+      "snapshot": "The \"Total Eclipse of the Heart\" singer died in July at age 75.",
+      "summary": "The \"Total Eclipse of the Heart\" singer died in July at age 75.",
+      "url": "https://www.billboard.com/music/music-news/bonnie-tyler-fans-line-welsh-streets-coffin-brought-home-1236317091/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-15 10:00:00 AM ET",
+      "published_at": "2026-08-15 12:50:46 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Romeo Santos Launches Fundación Los Santos to Support Children With Autism & More Uplifting Moments in Latin Music"
+        "Bonnie Tyler Fans Line Welsh Village Streets as Her Coffin Is Brought Home"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -521,22 +523,22 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-3239065882078144379",
-      "key": "gaming-0-3239065882078144379",
+      "id": "gaming-0-3582512824851626249",
+      "key": "gaming-0-3582512824851626249",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "I Hope GTA 6 Borrows a Lot From GTA 4",
-      "title": "I Hope GTA 6 Borrows a Lot From GTA 4",
-      "snapshot": "I've been playing Grand Theft Auto 4 for the first time since 2008, and there's a lot in it that I hope Rockstar borrows for GTA 6.",
-      "summary": "I've been playing Grand Theft Auto 4 for the first time since 2008, and there's a lot in it that I hope Rockstar borrows for GTA 6.",
-      "url": "https://www.ign.com/articles/i-hope-gta-6-borrows-a-lot-from-gta-4",
+      "headline": "100% Marvel's Spider-Man Games with One Month of Free IGN Guides Checklists",
+      "title": "100% Marvel's Spider-Man Games with One Month of Free IGN Guides Checklists",
+      "snapshot": "Itching to replay your favorite Marvel's Spider-Man game after watching Spider-Man: Brand New Day in theaters? Now's the perfect time to leap back into the web-slinging action. From now until September 15, 2026 , you can use IGN's Guides checklists with unlimited access to checks across all our best Spider-Man guide...",
+      "summary": "Itching to replay your favorite Marvel's Spider-Man game after watching Spider-Man: Brand New Day in theaters? Now's the perfect time to leap back into the web-slinging action. From now until September 15, 2026 , you can use IGN's Guides checklists with unlimited access to checks across all our best Spider-Man guide...",
+      "url": "https://www.ign.com/articles/100-marvels-spider-man-games-with-one-month-of-free-ign-guides-checklists",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-15 08:00:00 AM ET",
+      "published_at": "2026-08-15 12:23:00 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "I Hope GTA 6 Borrows a Lot From GTA 4"
+        "100% Marvel's Spider-Man Games with One Month of Free IGN Guides Checklists"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -548,22 +550,22 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-1804170118362108161",
-      "key": "film-1-1804170118362108161",
+      "id": "film-1-3579211225393457877",
+      "key": "film-1-3579211225393457877",
       "category": "Film",
       "label": "Film",
-      "headline": "Florin Şerban's 'You Don't Belong Here' Wins Golden Leopard at Locarno, as Monica Bellucci and Kim Minhee Take Acting Awards",
-      "title": "Florin Şerban's 'You Don't Belong Here' Wins Golden Leopard at Locarno, as Monica Bellucci and Kim Minhee Take Acting Awards",
-      "snapshot": "Romanian director Florin Şerban's \"You Don't Belong Here,\" a somber study of anti-Roma racism in the country, has taken the Golden Lion for best film in the International Competition at the Locarno Film Festival, along with a special mention for its young star Teodor Butănescu. The film emerged victorious in a lineu...",
-      "summary": "Romanian director Florin Şerban's \"You Don't Belong Here,\" a somber study of anti-Roma racism in the country, has taken the Golden Lion for best film in the International Competition at the Locarno Film Festival, along with a special mention for its young star Teodor Butănescu. The film emerged victorious in a lineu...",
-      "url": "https://variety.com/2026/film/news/locarno-award-winners-monica-bellucci-kim-minhee-1236835378/",
+      "headline": "Box Office: 'The End of Oak Street' Chomps on $8.1 Million, But 'Spider-Man: Brand New Day' Is Still No. 1 With $19 Million",
+      "title": "Box Office: 'The End of Oak Street' Chomps on $8.1 Million, But 'Spider-Man: Brand New Day' Is Still No. 1 With $19 Million",
+      "snapshot": "\"Spider-Man: Brand New Day\" led the box office again on Friday despite competition from Anne Hathaway and a horde of hungry dinosaurs. The Warner Bros. sci-fi thriller \"The End of Oak Street\" landed in second place on opening day with $8.1 million from 3,446 North American theaters. Rivals estimate the film will ear...",
+      "summary": "\"Spider-Man: Brand New Day\" led the box office again on Friday despite competition from Anne Hathaway and a horde of hungry dinosaurs. The Warner Bros. sci-fi thriller \"The End of Oak Street\" landed in second place on opening day with $8.1 million from 3,446 North American theaters. Rivals estimate the film will ear...",
+      "url": "https://variety.com/2026/film/box-office/box-office-end-of-oak-street-spider-man-brand-new-day-1236835436/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-15 09:45:10 AM ET",
+      "published_at": "2026-08-15 11:59:20 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Florin Şerban's 'You Don't Belong Here' Wins Golden Leopard at Locarno, as Monica Bellucci and Kim Minhee Take Acting Awards"
+        "Box Office: 'The End of Oak Street' Chomps on $8.1 Million, But 'Spider-Man: Brand New Day' Is Still No. 1 With $19 Million"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -575,8 +577,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-4160118901609161222",
-      "key": "film-11-4160118901609161222",
+      "id": "film-11-4482215370769285126",
+      "key": "film-11-4482215370769285126",
       "category": "Film",
       "label": "Film",
       "headline": "BFI CEO Ben Roberts Gives Keynote Address At Inaugural UK Film Conference: \"The Missing Piece, For Me, Is Having Film Firmly In The Classroom\" - Edinburgh Film Festival",
@@ -602,8 +604,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-5267969010527860125",
-      "key": "film-23-5267969010527860125",
+      "id": "film-23-7118678485935169634",
+      "key": "film-23-7118678485935169634",
       "category": "Film",
       "label": "Film",
       "headline": "Locarno Film Festival Awards Go to 'You Don't Belong Here,' Hong Sangsoo, Monica Bellucci",
@@ -629,8 +631,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-4112143333287682254",
-      "key": "film-33-4112143333287682254",
+      "id": "film-33-1436780525358485427",
+      "key": "film-33-1436780525358485427",
       "category": "Film",
       "label": "Film",
       "headline": "The 30 best action-adventure movies, ranked - Entertainment Weekly",
@@ -656,22 +658,22 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-4858219301561762989",
-      "key": "music-11-4858219301561762989",
+      "id": "music-11-64754933276052385",
+      "key": "music-11-64754933276052385",
       "category": "Music",
       "label": "Music",
-      "headline": "Courtney Love Says She 'Almost Died' in 2019",
-      "title": "Courtney Love Says She 'Almost Died' in 2019",
-      "snapshot": "In a video posted to Instagram, The Hole frontwoman said she was stepping back from social media for a few weeks.",
-      "summary": "In a video posted to Instagram, The Hole frontwoman said she was stepping back from social media for a few weeks.",
-      "url": "https://www.billboard.com/music/music-news/courtney-love-almost-died-2019-1236317025/",
+      "headline": "Here's How to Watch UFC 330: Makhachev vs. Machado Garry Live Online for Free",
+      "title": "Here's How to Watch UFC 330: Makhachev vs. Machado Garry Live Online for Free",
+      "snapshot": "Live from Philadelphia on Aug. 15, you can watch the entire MMA event online for free.",
+      "summary": "Live from Philadelphia on Aug. 15, you can watch the entire MMA event online for free.",
+      "url": "https://www.billboard.com/culture/product-recommendations/ufc-330-makhachev-machado-garry-watch-live-online-free-1236314045/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-15 04:21:37 AM ET",
+      "published_at": "2026-08-15 12:25:24 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Courtney Love Says She 'Almost Died' in 2019"
+        "Here's How to Watch UFC 330: Makhachev vs. Machado Garry Live Online for Free"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -683,22 +685,22 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-7225096793545252396",
-      "key": "gaming-1-7225096793545252396",
+      "id": "gaming-1-4382956855785908209",
+      "key": "gaming-1-4382956855785908209",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Disney Animation Studios Boss Jared Bush Isn't Ruling Out a Possible Kingdom Hearts Movie",
-      "title": "Disney Animation Studios Boss Jared Bush Isn't Ruling Out a Possible Kingdom Hearts Movie",
-      "snapshot": "Jared Bush, chief creative officer of Walt Disney Animation Studios, spoke about the possibility of a Kingdom Hearts feature film, and he didn't rule out the idea.",
-      "summary": "Jared Bush, chief creative officer of Walt Disney Animation Studios, spoke about the possibility of a Kingdom Hearts feature film, and he didn't rule out the idea.",
-      "url": "https://www.ign.com/articles/disney-animation-studios-boss-jared-bush-isnt-ruling-out-a-possible-kingdom-hearts-movie",
+      "headline": "I Hope GTA 6 Borrows a Lot From GTA 4",
+      "title": "I Hope GTA 6 Borrows a Lot From GTA 4",
+      "snapshot": "I've been playing Grand Theft Auto 4 for the first time since 2008, and there's a lot in it that I hope Rockstar borrows for GTA 6.",
+      "summary": "I've been playing Grand Theft Auto 4 for the first time since 2008, and there's a lot in it that I hope Rockstar borrows for GTA 6.",
+      "url": "https://www.ign.com/articles/i-hope-gta-6-borrows-a-lot-from-gta-4",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-15 03:51:43 AM ET",
+      "published_at": "2026-08-15 08:00:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Disney Animation Studios Boss Jared Bush Isn't Ruling Out a Possible Kingdom Hearts Movie"
+        "I Hope GTA 6 Borrows a Lot From GTA 4"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -712,22 +714,22 @@
   ],
   "editor_signals": [
     {
-      "id": "film-2-2848929452487394005",
-      "key": "film-2-2848929452487394005",
+      "id": "film-2-2613493089664675107",
+      "key": "film-2-2613493089664675107",
       "category": "Film",
       "label": "Film",
-      "headline": "Diego Luna, Nicolas Pereda and Rodrigo Plá Set for Competition at Mexico's Morelia Film Festival",
-      "title": "Diego Luna, Nicolas Pereda and Rodrigo Plá Set for Competition at Mexico's Morelia Film Festival",
-      "snapshot": "A-list festival acclaimed pics from some of Mexico's most celebrated talent, many of them female and first-timers, make up this year's line-up at the Morelia Film Festival (FICM). Running October 16-25, the 24th FICM edition features such luminaries as actor-producer Diego Luna (\"Andor\") in his fifth outing as a dir...",
-      "summary": "A-list festival acclaimed pics from some of Mexico's most celebrated talent, many of them female and first-timers, make up this year's line-up at the Morelia Film Festival (FICM). Running October 16-25, the 24th FICM edition features such luminaries as actor-producer Diego Luna (\"Andor\") in his fifth outing as a dir...",
-      "url": "https://variety.com/2026/film/global/diego-luna-nicolas-pereda-rodrigo-pla-morelia-film-festival-1236835320/",
+      "headline": "Florin Şerban's 'You Don't Belong Here' Wins Golden Leopard at Locarno, as Monica Bellucci and Kim Minhee Take Acting Awards",
+      "title": "Florin Şerban's 'You Don't Belong Here' Wins Golden Leopard at Locarno, as Monica Bellucci and Kim Minhee Take Acting Awards",
+      "snapshot": "Romanian director Florin Şerban's \"You Don't Belong Here,\" a somber study of anti-Roma racism in the country, has taken the Golden Lion for best film in the International Competition at the Locarno Film Festival, along with a special mention for its young star Teodor Butănescu. The film emerged victorious in a lineu...",
+      "summary": "Romanian director Florin Şerban's \"You Don't Belong Here,\" a somber study of anti-Roma racism in the country, has taken the Golden Lion for best film in the International Competition at the Locarno Film Festival, along with a special mention for its young star Teodor Butănescu. The film emerged victorious in a lineu...",
+      "url": "https://variety.com/2026/film/news/locarno-award-winners-monica-bellucci-kim-minhee-1236835378/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-15 09:37:49 AM ET",
+      "published_at": "2026-08-15 09:45:10 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Diego Luna, Nicolas Pereda and Rodrigo Plá Set for Competition at Mexico's Morelia Film Festival"
+        "Florin Şerban's 'You Don't Belong Here' Wins Golden Leopard at Locarno, as Monica Bellucci and Kim Minhee Take Acting Awards"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -739,8 +741,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-2498329066674542734",
-      "key": "film-12-2498329066674542734",
+      "id": "film-12-4937131391040710500",
+      "key": "film-12-4937131391040710500",
       "category": "Film",
       "label": "Film",
       "headline": "Everything Announced At D23: New X-Men Cast, 'Avengers: Doomsday' Teaser, 'Coco 2,' 'Tangled' Live Action First Look & More",
@@ -766,8 +768,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-600736290592277970",
-      "key": "film-24-600736290592277970",
+      "id": "film-24-6270054234977288515",
+      "key": "film-24-6270054234977288515",
       "category": "Film",
       "label": "Film",
       "headline": "BFI Boss Ben Roberts, Picturehouse's Clare Binns on Gen Z's Cinema Renaissance, AI Slop and British Indie Film: \"We're Not Great at Comedy\"",
@@ -793,8 +795,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-8595032779303843742",
-      "key": "film-34-8595032779303843742",
+      "id": "film-34-8547057044659864000",
+      "key": "film-34-8547057044659864000",
       "category": "Film",
       "label": "Film",
       "headline": "New movies: the most exciting films coming to theaters in August 2026 and beyond - TechRadar",
@@ -820,22 +822,22 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-1084900744562174039",
-      "key": "music-12-1084900744562174039",
+      "id": "music-12-4738433348726609334",
+      "key": "music-12-4738433348726609334",
       "category": "Music",
       "label": "Music",
-      "headline": "Slipknot Cuts Ties With Sid Wilson After Nearly 30 Years",
-      "title": "Slipknot Cuts Ties With Sid Wilson After Nearly 30 Years",
-      "snapshot": "Wilson joined in 1998, just before the Des Moines, Iowa-founded group's mainstream breakthrough.",
-      "summary": "Wilson joined in 1998, just before the Des Moines, Iowa-founded group's mainstream breakthrough.",
-      "url": "https://www.billboard.com/music/rock/slipknot-sid-wilson-exits-band-1236317000/",
+      "headline": "Romeo Santos Launches Fundación Los Santos to Support Children With Autism & More Uplifting Moments in Latin Music",
+      "title": "Romeo Santos Launches Fundación Los Santos to Support Children With Autism & More Uplifting Moments in Latin Music",
+      "snapshot": "Plus, Eladio Carrión brings Saucegiving back to Puerto Rico, and Rosalía honors Caetano Veloso and Fito Páez in Rio.",
+      "summary": "Plus, Eladio Carrión brings Saucegiving back to Puerto Rico, and Rosalía honors Caetano Veloso and Fito Páez in Rio.",
+      "url": "https://www.billboard.com/music/latin/romeo-santos-autism-foundation-eladio-carrion-saucegiving-1236316797/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-14 08:37:11 PM ET",
+      "published_at": "2026-08-15 10:00:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Slipknot Cuts Ties With Sid Wilson After Nearly 30 Years"
+        "Romeo Santos Launches Fundación Los Santos to Support Children With Autism & More Uplifting Moments in Latin Music"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -847,22 +849,22 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-3554563262797566370",
-      "key": "gaming-2-3554563262797566370",
+      "id": "gaming-2-1438609505976354547",
+      "key": "gaming-2-1438609505976354547",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Kingdom Hearts 4 Gets New Trailer, Late 2027 Release Window, and a Disney+ Anime Series",
-      "title": "Kingdom Hearts 4 Gets New Trailer, Late 2027 Release Window, and a Disney+ Anime Series",
-      "snapshot": "Big Kingdom Hearts news here at D23, with a new trailer for Kingdom Hearts 4, a late 2027 release window, and - surprise! - a Disney+ series.",
-      "summary": "Big Kingdom Hearts news here at D23, with a new trailer for Kingdom Hearts 4, a late 2027 release window, and - surprise! - a Disney+ series.",
-      "url": "https://www.ign.com/articles/kingdom-hearts-4-gets-new-trailer-late-2027-release-window-and-a-disney-series",
+      "headline": "Disney Animation Studios Boss Jared Bush Isn't Ruling Out a Possible Kingdom Hearts Movie",
+      "title": "Disney Animation Studios Boss Jared Bush Isn't Ruling Out a Possible Kingdom Hearts Movie",
+      "snapshot": "Jared Bush, chief creative officer of Walt Disney Animation Studios, spoke about the possibility of a Kingdom Hearts feature film, and he didn't rule out the idea.",
+      "summary": "Jared Bush, chief creative officer of Walt Disney Animation Studios, spoke about the possibility of a Kingdom Hearts feature film, and he didn't rule out the idea.",
+      "url": "https://www.ign.com/articles/disney-animation-studios-boss-jared-bush-isnt-ruling-out-a-possible-kingdom-hearts-movie",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-14 11:03:09 PM ET",
+      "published_at": "2026-08-15 03:51:43 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Kingdom Hearts 4 Gets New Trailer, Late 2027 Release Window, and a Disney+ Anime Series"
+        "Disney Animation Studios Boss Jared Bush Isn't Ruling Out a Possible Kingdom Hearts Movie"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -874,22 +876,22 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-4226815776160834674",
-      "key": "film-3-4226815776160834674",
+      "id": "film-3-192202886499574880",
+      "key": "film-3-192202886499574880",
       "category": "Film",
       "label": "Film",
-      "headline": "'Nowhere to Lay My Eyes' Review: Kim Minhee Once More Gives a Melancholy Masterclass in a Hong Sangsoo Miniature",
-      "title": "'Nowhere to Lay My Eyes' Review: Kim Minhee Once More Gives a Melancholy Masterclass in a Hong Sangsoo Miniature",
-      "snapshot": "The death-and-taxes certainty of Hong Sangsoo's filmography - comparable to Woody Allen's prime career run in its regularity, consistency and recurrence of ideas and actors across a gently varying tonal spectrum - has lately been infused with some mild unpredictability. Earlier this year, his Berlinale premiere \"The...",
-      "summary": "The death-and-taxes certainty of Hong Sangsoo's filmography - comparable to Woody Allen's prime career run in its regularity, consistency and recurrence of ideas and actors across a gently varying tonal spectrum - has lately been infused with some mild unpredictability. Earlier this year, his Berlinale premiere \"The...",
-      "url": "https://variety.com/2026/film/reviews/nowhere-to-lay-my-eyes-review-1236835338/",
+      "headline": "Diego Luna, Nicolas Pereda and Rodrigo Plá Set for Competition at Mexico's Morelia Film Festival",
+      "title": "Diego Luna, Nicolas Pereda and Rodrigo Plá Set for Competition at Mexico's Morelia Film Festival",
+      "snapshot": "A-list festival acclaimed pics from some of Mexico's most celebrated talent, many of them female and first-timers, make up this year's line-up at the Morelia Film Festival (FICM). Running October 16-25, the 24th FICM edition features such luminaries as actor-producer Diego Luna (\"Andor\") in his fifth outing as a dir...",
+      "summary": "A-list festival acclaimed pics from some of Mexico's most celebrated talent, many of them female and first-timers, make up this year's line-up at the Morelia Film Festival (FICM). Running October 16-25, the 24th FICM edition features such luminaries as actor-producer Diego Luna (\"Andor\") in his fifth outing as a dir...",
+      "url": "https://variety.com/2026/film/global/diego-luna-nicolas-pereda-rodrigo-pla-morelia-film-festival-1236835320/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-15 07:49:32 AM ET",
+      "published_at": "2026-08-15 09:37:49 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Nowhere to Lay My Eyes' Review: Kim Minhee Once More Gives a Melancholy Masterclass in a Hong Sangsoo Miniature"
+        "Diego Luna, Nicolas Pereda and Rodrigo Plá Set for Competition at Mexico's Morelia Film Festival"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -901,8 +903,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-7274991278625858490",
-      "key": "film-13-7274991278625858490",
+      "id": "film-13-2816588635831287212",
+      "key": "film-13-2816588635831287212",
       "category": "Film",
       "label": "Film",
       "headline": "'Zootopia 3' In Works At Disney; Ke Huy Quan & Ginnifer Goodwin Reprising Roles - D23",
@@ -928,8 +930,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-9148112888371154341",
-      "key": "film-25-9148112888371154341",
+      "id": "film-25-7399034341522730217",
+      "key": "film-25-7399034341522730217",
       "category": "Film",
       "label": "Film",
       "headline": "'I Live in V.I.,' a Social Class Satire From Nigeria, Will Dive Into Urban Alienation and Gentrification",
@@ -955,8 +957,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-5386581999805552558",
-      "key": "film-35-5386581999805552558",
+      "id": "film-35-2168319709856461792",
+      "key": "film-35-2168319709856461792",
       "category": "Film",
       "label": "Film",
       "headline": "Live Updates From Disney's Mega Film and TV Panel at D23 2026 🔴 - Gizmodo",
@@ -982,22 +984,22 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-3064770107704895914",
-      "key": "music-13-3064770107704895914",
+      "id": "music-13-4093505096270962238",
+      "key": "music-13-4093505096270962238",
       "category": "Music",
       "label": "Music",
-      "headline": "Here Are Events Marc Anthony, Feid, Karol G & More Latin Music Artists Are Joining in Support of Colombia and Venezuela Earthquake Relief",
-      "title": "Here Are Events Marc Anthony, Feid, Karol G & More Latin Music Artists Are Joining in Support of Colombia and Venezuela Earthquake Relief",
-      "snapshot": "Benefit concerts are set to take place during the weekend of Aug. 15-16.",
-      "summary": "Benefit concerts are set to take place during the weekend of Aug. 15-16.",
-      "url": "https://www.billboard.com/music/latin/colombia-venezuela-earthquake-benefit-concerts-latin-music-1236316953/",
+      "headline": "Courtney Love Says She 'Almost Died' in 2019",
+      "title": "Courtney Love Says She 'Almost Died' in 2019",
+      "snapshot": "In a video posted to Instagram, The Hole frontwoman said she was stepping back from social media for a few weeks.",
+      "summary": "In a video posted to Instagram, The Hole frontwoman said she was stepping back from social media for a few weeks.",
+      "url": "https://www.billboard.com/music/music-news/courtney-love-almost-died-2019-1236317025/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-14 07:09:39 PM ET",
+      "published_at": "2026-08-15 04:21:37 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Here Are Events Marc Anthony, Feid, Karol G & More Latin Music Artists Are Joining in Support of Colombia and Venezuela Earthquake Relief"
+        "Courtney Love Says She 'Almost Died' in 2019"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1009,22 +1011,22 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-3799319185425565778",
-      "key": "gaming-3-3799319185425565778",
+      "id": "gaming-3-7781382991713504831",
+      "key": "gaming-3-7781382991713504831",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "The Simpsons: Hit & Run 'Coming Back in Some Form,' Creator Matt Groening Says",
-      "title": "The Simpsons: Hit & Run 'Coming Back in Some Form,' Creator Matt Groening Says",
-      "snapshot": "The Simpsons: Hit & Run 'is coming back in some form,' according to series creator Matt Groening.",
-      "summary": "The Simpsons: Hit & Run 'is coming back in some form,' according to series creator Matt Groening.",
-      "url": "https://www.ign.com/articles/the-simpsons-hit-run-coming-back-in-some-form-creator-matt-groening-says",
+      "headline": "Kingdom Hearts 4 Gets New Trailer, Late 2027 Release Window, and a Disney+ Anime Series",
+      "title": "Kingdom Hearts 4 Gets New Trailer, Late 2027 Release Window, and a Disney+ Anime Series",
+      "snapshot": "Big Kingdom Hearts news here at D23, with a new trailer for Kingdom Hearts 4, a late 2027 release window, and - surprise! - a Disney+ series.",
+      "summary": "Big Kingdom Hearts news here at D23, with a new trailer for Kingdom Hearts 4, a late 2027 release window, and - surprise! - a Disney+ series.",
+      "url": "https://www.ign.com/articles/kingdom-hearts-4-gets-new-trailer-late-2027-release-window-and-a-disney-series",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-14 09:42:02 PM ET",
+      "published_at": "2026-08-14 11:03:09 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "The Simpsons: Hit & Run 'Coming Back in Some Form,' Creator Matt Groening Says"
+        "Kingdom Hearts 4 Gets New Trailer, Late 2027 Release Window, and a Disney+ Anime Series"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1038,22 +1040,22 @@
   ],
   "homepage_cards": [
     {
-      "id": "film-0-499577128110247483",
-      "key": "film-0-499577128110247483",
+      "id": "film-0-5232101258428240303",
+      "key": "film-0-5232101258428240303",
       "category": "Film",
       "label": "Film",
-      "headline": "Box Office: 'The End of Oak Street' Chomps on $8.1 Million, But 'Spider-Man: Brand New Day' Is Still No. 1 With $19 Million",
-      "title": "Box Office: 'The End of Oak Street' Chomps on $8.1 Million, But 'Spider-Man: Brand New Day' Is Still No. 1 With $19 Million",
-      "snapshot": "\"Spider-Man: Brand New Day\" led the box office again on Friday despite competition from Anne Hathaway and a horde of hungry dinosaurs. The Warner Bros. sci-fi thriller \"The End of Oak Street\" landed in second place on opening day with $8.1 million from 3,446 North American theaters. Rivals estimate the film will ear...",
-      "summary": "\"Spider-Man: Brand New Day\" led the box office again on Friday despite competition from Anne Hathaway and a horde of hungry dinosaurs. The Warner Bros. sci-fi thriller \"The End of Oak Street\" landed in second place on opening day with $8.1 million from 3,446 North American theaters. Rivals estimate the film will ear...",
-      "url": "https://variety.com/2026/film/box-office/box-office-end-of-oak-street-spider-man-brand-new-day-1236835436/",
+      "headline": "Locarno: Marco Cavazzin's 'Mutrion,' Set in the Venice Lagoon, Scoops Leopards of Tomorrow Director Award",
+      "title": "Locarno: Marco Cavazzin's 'Mutrion,' Set in the Venice Lagoon, Scoops Leopards of Tomorrow Director Award",
+      "snapshot": "\"Mutrion,\" a short film set in the Venice lagoon by 26-year-old Italian director Marco Cavazzin, has scooped the best director award at the Locarno Film Festival's Pardi di Domani (Leopards of Tomorrow) section. \"Mutrion,\" which is the only Italian entry in the section, stars Manfredi Marini, who previously starred...",
+      "summary": "\"Mutrion,\" a short film set in the Venice lagoon by 26-year-old Italian director Marco Cavazzin, has scooped the best director award at the Locarno Film Festival's Pardi di Domani (Leopards of Tomorrow) section. \"Mutrion,\" which is the only Italian entry in the section, stars Manfredi Marini, who previously starred...",
+      "url": "https://variety.com/2026/film/festivals/locarno-marco-cavazzin-mutrion-venice-leopards-of-tomorrow-1236834478/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-15 11:59:20 AM ET",
+      "published_at": "2026-08-15 12:24:57 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Box Office: 'The End of Oak Street' Chomps on $8.1 Million, But 'Spider-Man: Brand New Day' Is Still No. 1 With $19 Million"
+        "Locarno: Marco Cavazzin's 'Mutrion,' Set in the Venice Lagoon, Scoops Leopards of Tomorrow Director Award"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1065,8 +1067,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-4233581952558838300",
-      "key": "film-10-4233581952558838300",
+      "id": "film-10-6442732907504773156",
+      "key": "film-10-6442732907504773156",
       "category": "Film",
       "label": "Film",
       "headline": "'Spider-Man: Brand New Day' Production Designer On Yelena's Bathhouse, Peter Parker's Sad Pad & The Challenge Of Building New York In The U.K.",
@@ -1092,14 +1094,14 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-2898080901439305862",
-      "key": "film-22-2898080901439305862",
+      "id": "film-22-7946971681906890782",
+      "key": "film-22-7946971681906890782",
       "category": "Film",
       "label": "Film",
       "headline": "'Spider-Man: Brand New Day' Still Soaring to Top Its Third Weekend With $67M",
       "title": "'Spider-Man: Brand New Day' Still Soaring to Top Its Third Weekend With $67M",
-      "snapshot": "Tom Holland's superhero juggernaut continues a torrid pace as the frame sees the debuts of 'The End of Oak Street' and 'PAW Patrol: The Dino Movie.'",
-      "summary": "Tom Holland's superhero juggernaut continues a torrid pace as the frame sees the debuts of 'The End of Oak Street' and 'PAW Patrol: The Dino Movie.'",
+      "snapshot": "Tom Holland's superhero juggernaut maintains a torrid pace as the frame sees the debuts of 'The End of Oak Street' and 'PAW Patrol: The Dino Movie.'",
+      "summary": "Tom Holland's superhero juggernaut maintains a torrid pace as the frame sees the debuts of 'The End of Oak Street' and 'PAW Patrol: The Dino Movie.'",
       "url": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-oak-street-paw-patrol-1236674347/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
@@ -1119,8 +1121,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-6477196822511384427",
-      "key": "film-32-6477196822511384427",
+      "id": "film-32-4692109276540269443",
+      "key": "film-32-4692109276540269443",
       "category": "Film",
       "label": "Film",
       "headline": "Disney's D23: All the movies, TV series and more announced so far - ABC News - Breaking News, Latest News and Videos",
@@ -1146,22 +1148,22 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-1381271300783863518",
-      "key": "music-10-1381271300783863518",
+      "id": "music-10-8649431688347653575",
+      "key": "music-10-8649431688347653575",
       "category": "Music",
       "label": "Music",
-      "headline": "Romeo Santos Launches Fundación Los Santos to Support Children With Autism & More Uplifting Moments in Latin Music",
-      "title": "Romeo Santos Launches Fundación Los Santos to Support Children With Autism & More Uplifting Moments in Latin Music",
-      "snapshot": "Plus, Eladio Carrión brings Saucegiving back to Puerto Rico, and Rosalía honors Caetano Veloso and Fito Páez in Rio.",
-      "summary": "Plus, Eladio Carrión brings Saucegiving back to Puerto Rico, and Rosalía honors Caetano Veloso and Fito Páez in Rio.",
-      "url": "https://www.billboard.com/music/latin/romeo-santos-autism-foundation-eladio-carrion-saucegiving-1236316797/",
+      "headline": "Bonnie Tyler Fans Line Welsh Village Streets as Her Coffin Is Brought Home",
+      "title": "Bonnie Tyler Fans Line Welsh Village Streets as Her Coffin Is Brought Home",
+      "snapshot": "The \"Total Eclipse of the Heart\" singer died in July at age 75.",
+      "summary": "The \"Total Eclipse of the Heart\" singer died in July at age 75.",
+      "url": "https://www.billboard.com/music/music-news/bonnie-tyler-fans-line-welsh-streets-coffin-brought-home-1236317091/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-15 10:00:00 AM ET",
+      "published_at": "2026-08-15 12:50:46 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Romeo Santos Launches Fundación Los Santos to Support Children With Autism & More Uplifting Moments in Latin Music"
+        "Bonnie Tyler Fans Line Welsh Village Streets as Her Coffin Is Brought Home"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1173,22 +1175,22 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-3239065882078144379",
-      "key": "gaming-0-3239065882078144379",
+      "id": "gaming-0-3582512824851626249",
+      "key": "gaming-0-3582512824851626249",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "I Hope GTA 6 Borrows a Lot From GTA 4",
-      "title": "I Hope GTA 6 Borrows a Lot From GTA 4",
-      "snapshot": "I've been playing Grand Theft Auto 4 for the first time since 2008, and there's a lot in it that I hope Rockstar borrows for GTA 6.",
-      "summary": "I've been playing Grand Theft Auto 4 for the first time since 2008, and there's a lot in it that I hope Rockstar borrows for GTA 6.",
-      "url": "https://www.ign.com/articles/i-hope-gta-6-borrows-a-lot-from-gta-4",
+      "headline": "100% Marvel's Spider-Man Games with One Month of Free IGN Guides Checklists",
+      "title": "100% Marvel's Spider-Man Games with One Month of Free IGN Guides Checklists",
+      "snapshot": "Itching to replay your favorite Marvel's Spider-Man game after watching Spider-Man: Brand New Day in theaters? Now's the perfect time to leap back into the web-slinging action. From now until September 15, 2026 , you can use IGN's Guides checklists with unlimited access to checks across all our best Spider-Man guide...",
+      "summary": "Itching to replay your favorite Marvel's Spider-Man game after watching Spider-Man: Brand New Day in theaters? Now's the perfect time to leap back into the web-slinging action. From now until September 15, 2026 , you can use IGN's Guides checklists with unlimited access to checks across all our best Spider-Man guide...",
+      "url": "https://www.ign.com/articles/100-marvels-spider-man-games-with-one-month-of-free-ign-guides-checklists",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-15 08:00:00 AM ET",
+      "published_at": "2026-08-15 12:23:00 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "I Hope GTA 6 Borrows a Lot From GTA 4"
+        "100% Marvel's Spider-Man Games with One Month of Free IGN Guides Checklists"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1200,22 +1202,22 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-1804170118362108161",
-      "key": "film-1-1804170118362108161",
+      "id": "film-1-3579211225393457877",
+      "key": "film-1-3579211225393457877",
       "category": "Film",
       "label": "Film",
-      "headline": "Florin Şerban's 'You Don't Belong Here' Wins Golden Leopard at Locarno, as Monica Bellucci and Kim Minhee Take Acting Awards",
-      "title": "Florin Şerban's 'You Don't Belong Here' Wins Golden Leopard at Locarno, as Monica Bellucci and Kim Minhee Take Acting Awards",
-      "snapshot": "Romanian director Florin Şerban's \"You Don't Belong Here,\" a somber study of anti-Roma racism in the country, has taken the Golden Lion for best film in the International Competition at the Locarno Film Festival, along with a special mention for its young star Teodor Butănescu. The film emerged victorious in a lineu...",
-      "summary": "Romanian director Florin Şerban's \"You Don't Belong Here,\" a somber study of anti-Roma racism in the country, has taken the Golden Lion for best film in the International Competition at the Locarno Film Festival, along with a special mention for its young star Teodor Butănescu. The film emerged victorious in a lineu...",
-      "url": "https://variety.com/2026/film/news/locarno-award-winners-monica-bellucci-kim-minhee-1236835378/",
+      "headline": "Box Office: 'The End of Oak Street' Chomps on $8.1 Million, But 'Spider-Man: Brand New Day' Is Still No. 1 With $19 Million",
+      "title": "Box Office: 'The End of Oak Street' Chomps on $8.1 Million, But 'Spider-Man: Brand New Day' Is Still No. 1 With $19 Million",
+      "snapshot": "\"Spider-Man: Brand New Day\" led the box office again on Friday despite competition from Anne Hathaway and a horde of hungry dinosaurs. The Warner Bros. sci-fi thriller \"The End of Oak Street\" landed in second place on opening day with $8.1 million from 3,446 North American theaters. Rivals estimate the film will ear...",
+      "summary": "\"Spider-Man: Brand New Day\" led the box office again on Friday despite competition from Anne Hathaway and a horde of hungry dinosaurs. The Warner Bros. sci-fi thriller \"The End of Oak Street\" landed in second place on opening day with $8.1 million from 3,446 North American theaters. Rivals estimate the film will ear...",
+      "url": "https://variety.com/2026/film/box-office/box-office-end-of-oak-street-spider-man-brand-new-day-1236835436/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-15 09:45:10 AM ET",
+      "published_at": "2026-08-15 11:59:20 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Florin Şerban's 'You Don't Belong Here' Wins Golden Leopard at Locarno, as Monica Bellucci and Kim Minhee Take Acting Awards"
+        "Box Office: 'The End of Oak Street' Chomps on $8.1 Million, But 'Spider-Man: Brand New Day' Is Still No. 1 With $19 Million"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1227,8 +1229,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-4160118901609161222",
-      "key": "film-11-4160118901609161222",
+      "id": "film-11-4482215370769285126",
+      "key": "film-11-4482215370769285126",
       "category": "Film",
       "label": "Film",
       "headline": "BFI CEO Ben Roberts Gives Keynote Address At Inaugural UK Film Conference: \"The Missing Piece, For Me, Is Having Film Firmly In The Classroom\" - Edinburgh Film Festival",
@@ -1254,8 +1256,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-5267969010527860125",
-      "key": "film-23-5267969010527860125",
+      "id": "film-23-7118678485935169634",
+      "key": "film-23-7118678485935169634",
       "category": "Film",
       "label": "Film",
       "headline": "Locarno Film Festival Awards Go to 'You Don't Belong Here,' Hong Sangsoo, Monica Bellucci",
@@ -1281,8 +1283,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-4112143333287682254",
-      "key": "film-33-4112143333287682254",
+      "id": "film-33-1436780525358485427",
+      "key": "film-33-1436780525358485427",
       "category": "Film",
       "label": "Film",
       "headline": "The 30 best action-adventure movies, ranked - Entertainment Weekly",
@@ -1308,22 +1310,22 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-4858219301561762989",
-      "key": "music-11-4858219301561762989",
+      "id": "music-11-64754933276052385",
+      "key": "music-11-64754933276052385",
       "category": "Music",
       "label": "Music",
-      "headline": "Courtney Love Says She 'Almost Died' in 2019",
-      "title": "Courtney Love Says She 'Almost Died' in 2019",
-      "snapshot": "In a video posted to Instagram, The Hole frontwoman said she was stepping back from social media for a few weeks.",
-      "summary": "In a video posted to Instagram, The Hole frontwoman said she was stepping back from social media for a few weeks.",
-      "url": "https://www.billboard.com/music/music-news/courtney-love-almost-died-2019-1236317025/",
+      "headline": "Here's How to Watch UFC 330: Makhachev vs. Machado Garry Live Online for Free",
+      "title": "Here's How to Watch UFC 330: Makhachev vs. Machado Garry Live Online for Free",
+      "snapshot": "Live from Philadelphia on Aug. 15, you can watch the entire MMA event online for free.",
+      "summary": "Live from Philadelphia on Aug. 15, you can watch the entire MMA event online for free.",
+      "url": "https://www.billboard.com/culture/product-recommendations/ufc-330-makhachev-machado-garry-watch-live-online-free-1236314045/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-15 04:21:37 AM ET",
+      "published_at": "2026-08-15 12:25:24 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Courtney Love Says She 'Almost Died' in 2019"
+        "Here's How to Watch UFC 330: Makhachev vs. Machado Garry Live Online for Free"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1335,22 +1337,22 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-7225096793545252396",
-      "key": "gaming-1-7225096793545252396",
+      "id": "gaming-1-4382956855785908209",
+      "key": "gaming-1-4382956855785908209",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Disney Animation Studios Boss Jared Bush Isn't Ruling Out a Possible Kingdom Hearts Movie",
-      "title": "Disney Animation Studios Boss Jared Bush Isn't Ruling Out a Possible Kingdom Hearts Movie",
-      "snapshot": "Jared Bush, chief creative officer of Walt Disney Animation Studios, spoke about the possibility of a Kingdom Hearts feature film, and he didn't rule out the idea.",
-      "summary": "Jared Bush, chief creative officer of Walt Disney Animation Studios, spoke about the possibility of a Kingdom Hearts feature film, and he didn't rule out the idea.",
-      "url": "https://www.ign.com/articles/disney-animation-studios-boss-jared-bush-isnt-ruling-out-a-possible-kingdom-hearts-movie",
+      "headline": "I Hope GTA 6 Borrows a Lot From GTA 4",
+      "title": "I Hope GTA 6 Borrows a Lot From GTA 4",
+      "snapshot": "I've been playing Grand Theft Auto 4 for the first time since 2008, and there's a lot in it that I hope Rockstar borrows for GTA 6.",
+      "summary": "I've been playing Grand Theft Auto 4 for the first time since 2008, and there's a lot in it that I hope Rockstar borrows for GTA 6.",
+      "url": "https://www.ign.com/articles/i-hope-gta-6-borrows-a-lot-from-gta-4",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-15 03:51:43 AM ET",
+      "published_at": "2026-08-15 08:00:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Disney Animation Studios Boss Jared Bush Isn't Ruling Out a Possible Kingdom Hearts Movie"
+        "I Hope GTA 6 Borrows a Lot From GTA 4"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1362,22 +1364,22 @@
       "priority_score": 99
     },
     {
-      "id": "film-2-2848929452487394005",
-      "key": "film-2-2848929452487394005",
+      "id": "film-2-2613493089664675107",
+      "key": "film-2-2613493089664675107",
       "category": "Film",
       "label": "Film",
-      "headline": "Diego Luna, Nicolas Pereda and Rodrigo Plá Set for Competition at Mexico's Morelia Film Festival",
-      "title": "Diego Luna, Nicolas Pereda and Rodrigo Plá Set for Competition at Mexico's Morelia Film Festival",
-      "snapshot": "A-list festival acclaimed pics from some of Mexico's most celebrated talent, many of them female and first-timers, make up this year's line-up at the Morelia Film Festival (FICM). Running October 16-25, the 24th FICM edition features such luminaries as actor-producer Diego Luna (\"Andor\") in his fifth outing as a dir...",
-      "summary": "A-list festival acclaimed pics from some of Mexico's most celebrated talent, many of them female and first-timers, make up this year's line-up at the Morelia Film Festival (FICM). Running October 16-25, the 24th FICM edition features such luminaries as actor-producer Diego Luna (\"Andor\") in his fifth outing as a dir...",
-      "url": "https://variety.com/2026/film/global/diego-luna-nicolas-pereda-rodrigo-pla-morelia-film-festival-1236835320/",
+      "headline": "Florin Şerban's 'You Don't Belong Here' Wins Golden Leopard at Locarno, as Monica Bellucci and Kim Minhee Take Acting Awards",
+      "title": "Florin Şerban's 'You Don't Belong Here' Wins Golden Leopard at Locarno, as Monica Bellucci and Kim Minhee Take Acting Awards",
+      "snapshot": "Romanian director Florin Şerban's \"You Don't Belong Here,\" a somber study of anti-Roma racism in the country, has taken the Golden Lion for best film in the International Competition at the Locarno Film Festival, along with a special mention for its young star Teodor Butănescu. The film emerged victorious in a lineu...",
+      "summary": "Romanian director Florin Şerban's \"You Don't Belong Here,\" a somber study of anti-Roma racism in the country, has taken the Golden Lion for best film in the International Competition at the Locarno Film Festival, along with a special mention for its young star Teodor Butănescu. The film emerged victorious in a lineu...",
+      "url": "https://variety.com/2026/film/news/locarno-award-winners-monica-bellucci-kim-minhee-1236835378/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-15 09:37:49 AM ET",
+      "published_at": "2026-08-15 09:45:10 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Diego Luna, Nicolas Pereda and Rodrigo Plá Set for Competition at Mexico's Morelia Film Festival"
+        "Florin Şerban's 'You Don't Belong Here' Wins Golden Leopard at Locarno, as Monica Bellucci and Kim Minhee Take Acting Awards"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1389,8 +1391,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-2498329066674542734",
-      "key": "film-12-2498329066674542734",
+      "id": "film-12-4937131391040710500",
+      "key": "film-12-4937131391040710500",
       "category": "Film",
       "label": "Film",
       "headline": "Everything Announced At D23: New X-Men Cast, 'Avengers: Doomsday' Teaser, 'Coco 2,' 'Tangled' Live Action First Look & More",
@@ -1416,8 +1418,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-600736290592277970",
-      "key": "film-24-600736290592277970",
+      "id": "film-24-6270054234977288515",
+      "key": "film-24-6270054234977288515",
       "category": "Film",
       "label": "Film",
       "headline": "BFI Boss Ben Roberts, Picturehouse's Clare Binns on Gen Z's Cinema Renaissance, AI Slop and British Indie Film: \"We're Not Great at Comedy\"",
@@ -1443,8 +1445,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-8595032779303843742",
-      "key": "film-34-8595032779303843742",
+      "id": "film-34-8547057044659864000",
+      "key": "film-34-8547057044659864000",
       "category": "Film",
       "label": "Film",
       "headline": "New movies: the most exciting films coming to theaters in August 2026 and beyond - TechRadar",
@@ -1470,22 +1472,22 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-1084900744562174039",
-      "key": "music-12-1084900744562174039",
+      "id": "music-12-4738433348726609334",
+      "key": "music-12-4738433348726609334",
       "category": "Music",
       "label": "Music",
-      "headline": "Slipknot Cuts Ties With Sid Wilson After Nearly 30 Years",
-      "title": "Slipknot Cuts Ties With Sid Wilson After Nearly 30 Years",
-      "snapshot": "Wilson joined in 1998, just before the Des Moines, Iowa-founded group's mainstream breakthrough.",
-      "summary": "Wilson joined in 1998, just before the Des Moines, Iowa-founded group's mainstream breakthrough.",
-      "url": "https://www.billboard.com/music/rock/slipknot-sid-wilson-exits-band-1236317000/",
+      "headline": "Romeo Santos Launches Fundación Los Santos to Support Children With Autism & More Uplifting Moments in Latin Music",
+      "title": "Romeo Santos Launches Fundación Los Santos to Support Children With Autism & More Uplifting Moments in Latin Music",
+      "snapshot": "Plus, Eladio Carrión brings Saucegiving back to Puerto Rico, and Rosalía honors Caetano Veloso and Fito Páez in Rio.",
+      "summary": "Plus, Eladio Carrión brings Saucegiving back to Puerto Rico, and Rosalía honors Caetano Veloso and Fito Páez in Rio.",
+      "url": "https://www.billboard.com/music/latin/romeo-santos-autism-foundation-eladio-carrion-saucegiving-1236316797/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-14 08:37:11 PM ET",
+      "published_at": "2026-08-15 10:00:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Slipknot Cuts Ties With Sid Wilson After Nearly 30 Years"
+        "Romeo Santos Launches Fundación Los Santos to Support Children With Autism & More Uplifting Moments in Latin Music"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1497,22 +1499,22 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-3554563262797566370",
-      "key": "gaming-2-3554563262797566370",
+      "id": "gaming-2-1438609505976354547",
+      "key": "gaming-2-1438609505976354547",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Kingdom Hearts 4 Gets New Trailer, Late 2027 Release Window, and a Disney+ Anime Series",
-      "title": "Kingdom Hearts 4 Gets New Trailer, Late 2027 Release Window, and a Disney+ Anime Series",
-      "snapshot": "Big Kingdom Hearts news here at D23, with a new trailer for Kingdom Hearts 4, a late 2027 release window, and - surprise! - a Disney+ series.",
-      "summary": "Big Kingdom Hearts news here at D23, with a new trailer for Kingdom Hearts 4, a late 2027 release window, and - surprise! - a Disney+ series.",
-      "url": "https://www.ign.com/articles/kingdom-hearts-4-gets-new-trailer-late-2027-release-window-and-a-disney-series",
+      "headline": "Disney Animation Studios Boss Jared Bush Isn't Ruling Out a Possible Kingdom Hearts Movie",
+      "title": "Disney Animation Studios Boss Jared Bush Isn't Ruling Out a Possible Kingdom Hearts Movie",
+      "snapshot": "Jared Bush, chief creative officer of Walt Disney Animation Studios, spoke about the possibility of a Kingdom Hearts feature film, and he didn't rule out the idea.",
+      "summary": "Jared Bush, chief creative officer of Walt Disney Animation Studios, spoke about the possibility of a Kingdom Hearts feature film, and he didn't rule out the idea.",
+      "url": "https://www.ign.com/articles/disney-animation-studios-boss-jared-bush-isnt-ruling-out-a-possible-kingdom-hearts-movie",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-14 11:03:09 PM ET",
+      "published_at": "2026-08-15 03:51:43 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Kingdom Hearts 4 Gets New Trailer, Late 2027 Release Window, and a Disney+ Anime Series"
+        "Disney Animation Studios Boss Jared Bush Isn't Ruling Out a Possible Kingdom Hearts Movie"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1524,22 +1526,22 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-4226815776160834674",
-      "key": "film-3-4226815776160834674",
+      "id": "film-3-192202886499574880",
+      "key": "film-3-192202886499574880",
       "category": "Film",
       "label": "Film",
-      "headline": "'Nowhere to Lay My Eyes' Review: Kim Minhee Once More Gives a Melancholy Masterclass in a Hong Sangsoo Miniature",
-      "title": "'Nowhere to Lay My Eyes' Review: Kim Minhee Once More Gives a Melancholy Masterclass in a Hong Sangsoo Miniature",
-      "snapshot": "The death-and-taxes certainty of Hong Sangsoo's filmography - comparable to Woody Allen's prime career run in its regularity, consistency and recurrence of ideas and actors across a gently varying tonal spectrum - has lately been infused with some mild unpredictability. Earlier this year, his Berlinale premiere \"The...",
-      "summary": "The death-and-taxes certainty of Hong Sangsoo's filmography - comparable to Woody Allen's prime career run in its regularity, consistency and recurrence of ideas and actors across a gently varying tonal spectrum - has lately been infused with some mild unpredictability. Earlier this year, his Berlinale premiere \"The...",
-      "url": "https://variety.com/2026/film/reviews/nowhere-to-lay-my-eyes-review-1236835338/",
+      "headline": "Diego Luna, Nicolas Pereda and Rodrigo Plá Set for Competition at Mexico's Morelia Film Festival",
+      "title": "Diego Luna, Nicolas Pereda and Rodrigo Plá Set for Competition at Mexico's Morelia Film Festival",
+      "snapshot": "A-list festival acclaimed pics from some of Mexico's most celebrated talent, many of them female and first-timers, make up this year's line-up at the Morelia Film Festival (FICM). Running October 16-25, the 24th FICM edition features such luminaries as actor-producer Diego Luna (\"Andor\") in his fifth outing as a dir...",
+      "summary": "A-list festival acclaimed pics from some of Mexico's most celebrated talent, many of them female and first-timers, make up this year's line-up at the Morelia Film Festival (FICM). Running October 16-25, the 24th FICM edition features such luminaries as actor-producer Diego Luna (\"Andor\") in his fifth outing as a dir...",
+      "url": "https://variety.com/2026/film/global/diego-luna-nicolas-pereda-rodrigo-pla-morelia-film-festival-1236835320/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-15 07:49:32 AM ET",
+      "published_at": "2026-08-15 09:37:49 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Nowhere to Lay My Eyes' Review: Kim Minhee Once More Gives a Melancholy Masterclass in a Hong Sangsoo Miniature"
+        "Diego Luna, Nicolas Pereda and Rodrigo Plá Set for Competition at Mexico's Morelia Film Festival"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1551,8 +1553,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-7274991278625858490",
-      "key": "film-13-7274991278625858490",
+      "id": "film-13-2816588635831287212",
+      "key": "film-13-2816588635831287212",
       "category": "Film",
       "label": "Film",
       "headline": "'Zootopia 3' In Works At Disney; Ke Huy Quan & Ginnifer Goodwin Reprising Roles - D23",
@@ -1578,8 +1580,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-9148112888371154341",
-      "key": "film-25-9148112888371154341",
+      "id": "film-25-7399034341522730217",
+      "key": "film-25-7399034341522730217",
       "category": "Film",
       "label": "Film",
       "headline": "'I Live in V.I.,' a Social Class Satire From Nigeria, Will Dive Into Urban Alienation and Gentrification",
@@ -1605,8 +1607,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-5386581999805552558",
-      "key": "film-35-5386581999805552558",
+      "id": "film-35-2168319709856461792",
+      "key": "film-35-2168319709856461792",
       "category": "Film",
       "label": "Film",
       "headline": "Live Updates From Disney's Mega Film and TV Panel at D23 2026 🔴 - Gizmodo",
@@ -1632,22 +1634,22 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-3064770107704895914",
-      "key": "music-13-3064770107704895914",
+      "id": "music-13-4093505096270962238",
+      "key": "music-13-4093505096270962238",
       "category": "Music",
       "label": "Music",
-      "headline": "Here Are Events Marc Anthony, Feid, Karol G & More Latin Music Artists Are Joining in Support of Colombia and Venezuela Earthquake Relief",
-      "title": "Here Are Events Marc Anthony, Feid, Karol G & More Latin Music Artists Are Joining in Support of Colombia and Venezuela Earthquake Relief",
-      "snapshot": "Benefit concerts are set to take place during the weekend of Aug. 15-16.",
-      "summary": "Benefit concerts are set to take place during the weekend of Aug. 15-16.",
-      "url": "https://www.billboard.com/music/latin/colombia-venezuela-earthquake-benefit-concerts-latin-music-1236316953/",
+      "headline": "Courtney Love Says She 'Almost Died' in 2019",
+      "title": "Courtney Love Says She 'Almost Died' in 2019",
+      "snapshot": "In a video posted to Instagram, The Hole frontwoman said she was stepping back from social media for a few weeks.",
+      "summary": "In a video posted to Instagram, The Hole frontwoman said she was stepping back from social media for a few weeks.",
+      "url": "https://www.billboard.com/music/music-news/courtney-love-almost-died-2019-1236317025/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-14 07:09:39 PM ET",
+      "published_at": "2026-08-15 04:21:37 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Here Are Events Marc Anthony, Feid, Karol G & More Latin Music Artists Are Joining in Support of Colombia and Venezuela Earthquake Relief"
+        "Courtney Love Says She 'Almost Died' in 2019"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1659,22 +1661,22 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-3799319185425565778",
-      "key": "gaming-3-3799319185425565778",
+      "id": "gaming-3-7781382991713504831",
+      "key": "gaming-3-7781382991713504831",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "The Simpsons: Hit & Run 'Coming Back in Some Form,' Creator Matt Groening Says",
-      "title": "The Simpsons: Hit & Run 'Coming Back in Some Form,' Creator Matt Groening Says",
-      "snapshot": "The Simpsons: Hit & Run 'is coming back in some form,' according to series creator Matt Groening.",
-      "summary": "The Simpsons: Hit & Run 'is coming back in some form,' according to series creator Matt Groening.",
-      "url": "https://www.ign.com/articles/the-simpsons-hit-run-coming-back-in-some-form-creator-matt-groening-says",
+      "headline": "Kingdom Hearts 4 Gets New Trailer, Late 2027 Release Window, and a Disney+ Anime Series",
+      "title": "Kingdom Hearts 4 Gets New Trailer, Late 2027 Release Window, and a Disney+ Anime Series",
+      "snapshot": "Big Kingdom Hearts news here at D23, with a new trailer for Kingdom Hearts 4, a late 2027 release window, and - surprise! - a Disney+ series.",
+      "summary": "Big Kingdom Hearts news here at D23, with a new trailer for Kingdom Hearts 4, a late 2027 release window, and - surprise! - a Disney+ series.",
+      "url": "https://www.ign.com/articles/kingdom-hearts-4-gets-new-trailer-late-2027-release-window-and-a-disney-series",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-08-14 09:42:02 PM ET",
+      "published_at": "2026-08-14 11:03:09 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "The Simpsons: Hit & Run 'Coming Back in Some Form,' Creator Matt Groening Says"
+        "Kingdom Hearts 4 Gets New Trailer, Late 2027 Release Window, and a Disney+ Anime Series"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1691,46 +1693,46 @@
       "key": "film",
       "name": "Film",
       "title": "Film Report",
-      "headline": "Box Office: ‘The End of Oak Street’ Chomps on $8.1 Million, But ‘Spider-Man: Brand New Day’ Is Still No. 1 With $19 Million",
+      "headline": "Locarno: Marco Cavazzin’s ‘Mutrion,’ Set in the Venice Lagoon, Scoops Leopards of Tomorrow Director Award",
       "snapshot": "Film coverage is updating with 8 current RSS headline item(s).",
       "key_storylines": [
-        "Box Office: ‘The End of Oak Street’ Chomps on $8.1 Million, But ‘Spider-Man: Brand New Day’ Is Still No. 1 With $19 Million",
+        "Locarno: Marco Cavazzin’s ‘Mutrion,’ Set in the Venice Lagoon, Scoops Leopards of Tomorrow Director Award",
         "‘Spider-Man: Brand New Day’ Production Designer On Yelena’s Bathhouse, Peter Parker’s Sad Pad & The Challenge Of Building New York In The U.K.",
         "‘Spider-Man: Brand New Day’ Still Soaring to Top Its Third Weekend With $67M",
         "Disney's D23: All the movies, TV series and more announced so far - ABC News - Breaking News, Latest News and Videos",
-        "Florin Şerban’s ‘You Don’t Belong Here’ Wins Golden Leopard at Locarno, as Monica Bellucci and Kim Minhee Take Acting Awards"
+        "Box Office: ‘The End of Oak Street’ Chomps on $8.1 Million, But ‘Spider-Man: Brand New Day’ Is Still No. 1 With $19 Million"
       ],
       "watch_list": [
-        "Box Office: ‘The End of Oak Street’ Chomps on $8.1 Million, But ‘Spider-Man: Brand New Day’ Is Still No. 1 With $19 Million",
+        "Locarno: Marco Cavazzin’s ‘Mutrion,’ Set in the Venice Lagoon, Scoops Leopards of Tomorrow Director Award",
         "‘Spider-Man: Brand New Day’ Production Designer On Yelena’s Bathhouse, Peter Parker’s Sad Pad & The Challenge Of Building New York In The U.K.",
         "‘Spider-Man: Brand New Day’ Still Soaring to Top Its Third Weekend With $67M",
         "Disney's D23: All the movies, TV series and more announced so far - ABC News - Breaking News, Latest News and Videos",
-        "Florin Şerban’s ‘You Don’t Belong Here’ Wins Golden Leopard at Locarno, as Monica Bellucci and Kim Minhee Take Acting Awards",
+        "Box Office: ‘The End of Oak Street’ Chomps on $8.1 Million, But ‘Spider-Man: Brand New Day’ Is Still No. 1 With $19 Million",
         "BFI CEO Ben Roberts Gives Keynote Address At Inaugural UK Film Conference: “The Missing Piece, For Me, Is Having Film Firmly In The Classroom” – Edinburgh Film Festival",
         "Locarno Film Festival Awards Go to ‘You Don’t Belong Here,’ Hong Sangsoo, Monica Bellucci",
         "The 30 best action-adventure movies, ranked - Entertainment Weekly"
       ],
       "homepage_cards": [
         {
-          "id": "film-0-499577128110247483",
-          "key": "film-0-499577128110247483",
+          "id": "film-0-5232101258428240303",
+          "key": "film-0-5232101258428240303",
           "category": "Film",
           "label": "Film",
-          "headline": "Box Office: ‘The End of Oak Street’ Chomps on $8.1 Million, But ‘Spider-Man: Brand New Day’ Is Still No. 1 With $19 Million",
-          "title": "Box Office: ‘The End of Oak Street’ Chomps on $8.1 Million, But ‘Spider-Man: Brand New Day’ Is Still No. 1 With $19 Million",
-          "snapshot": "“Spider-Man: Brand New Day” led the box office again on Friday despite competition from Anne Hathaway and a horde of hungry dinosaurs. The Warner Bros. sci-fi thriller “The End of Oak Street” landed in second place on opening day with $8.1 million from 3,446 North American theaters. Rivals estimate the film will ear...",
-          "summary": "“Spider-Man: Brand New Day” led the box office again on Friday despite competition from Anne Hathaway and a horde of hungry dinosaurs. The Warner Bros. sci-fi thriller “The End of Oak Street” landed in second place on opening day with $8.1 million from 3,446 North American theaters. Rivals estimate the film will ear...",
-          "url": "https://variety.com/2026/film/box-office/box-office-end-of-oak-street-spider-man-brand-new-day-1236835436/",
+          "headline": "Locarno: Marco Cavazzin’s ‘Mutrion,’ Set in the Venice Lagoon, Scoops Leopards of Tomorrow Director Award",
+          "title": "Locarno: Marco Cavazzin’s ‘Mutrion,’ Set in the Venice Lagoon, Scoops Leopards of Tomorrow Director Award",
+          "snapshot": "“Mutrion,” a short film set in the Venice lagoon by 26-year-old Italian director Marco Cavazzin, has scooped the best director award at the Locarno Film Festival’s Pardi di Domani (Leopards of Tomorrow) section. “Mutrion,” which is the only Italian entry in the section, stars Manfredi Marini, who previously starred...",
+          "summary": "“Mutrion,” a short film set in the Venice lagoon by 26-year-old Italian director Marco Cavazzin, has scooped the best director award at the Locarno Film Festival’s Pardi di Domani (Leopards of Tomorrow) section. “Mutrion,” which is the only Italian entry in the section, stars Manfredi Marini, who previously starred...",
+          "url": "https://variety.com/2026/film/festivals/locarno-marco-cavazzin-mutrion-venice-leopards-of-tomorrow-1236834478/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/feed/",
-          "published_at": "2026-08-15 11:59:20 AM ET",
+          "published_at": "2026-08-15 12:24:57 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Box Office: ‘The End of Oak Street’ Chomps on $8.1 Million, But ‘Spider-Man: Brand New Day’ Is Still No. 1 With $19 Million"
+            "Locarno: Marco Cavazzin’s ‘Mutrion,’ Set in the Venice Lagoon, Scoops Leopards of Tomorrow Director Award"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1740,8 +1742,8 @@
           ]
         },
         {
-          "id": "film-10-4233581952558838300",
-          "key": "film-10-4233581952558838300",
+          "id": "film-10-6442732907504773156",
+          "key": "film-10-6442732907504773156",
           "category": "Film",
           "label": "Film",
           "headline": "‘Spider-Man: Brand New Day’ Production Designer On Yelena’s Bathhouse, Peter Parker’s Sad Pad & The Challenge Of Building New York In The U.K.",
@@ -1768,14 +1770,14 @@
           ]
         },
         {
-          "id": "film-22-2898080901439305862",
-          "key": "film-22-2898080901439305862",
+          "id": "film-22-7946971681906890782",
+          "key": "film-22-7946971681906890782",
           "category": "Film",
           "label": "Film",
           "headline": "‘Spider-Man: Brand New Day’ Still Soaring to Top Its Third Weekend With $67M",
           "title": "‘Spider-Man: Brand New Day’ Still Soaring to Top Its Third Weekend With $67M",
-          "snapshot": "Tom Holland's superhero juggernaut continues a torrid pace as the frame sees the debuts of 'The End of Oak Street' and 'PAW Patrol: The Dino Movie.'",
-          "summary": "Tom Holland's superhero juggernaut continues a torrid pace as the frame sees the debuts of 'The End of Oak Street' and 'PAW Patrol: The Dino Movie.'",
+          "snapshot": "Tom Holland's superhero juggernaut maintains a torrid pace as the frame sees the debuts of 'The End of Oak Street' and 'PAW Patrol: The Dino Movie.'",
+          "summary": "Tom Holland's superhero juggernaut maintains a torrid pace as the frame sees the debuts of 'The End of Oak Street' and 'PAW Patrol: The Dino Movie.'",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-oak-street-paw-patrol-1236674347/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
@@ -1796,8 +1798,8 @@
           ]
         },
         {
-          "id": "film-32-6477196822511384427",
-          "key": "film-32-6477196822511384427",
+          "id": "film-32-4692109276540269443",
+          "key": "film-32-4692109276540269443",
           "category": "Film",
           "label": "Film",
           "headline": "Disney's D23: All the movies, TV series and more announced so far - ABC News - Breaking News, Latest News and Videos",
@@ -1824,25 +1826,25 @@
           ]
         },
         {
-          "id": "film-1-1804170118362108161",
-          "key": "film-1-1804170118362108161",
+          "id": "film-1-3579211225393457877",
+          "key": "film-1-3579211225393457877",
           "category": "Film",
           "label": "Film",
-          "headline": "Florin Şerban’s ‘You Don’t Belong Here’ Wins Golden Leopard at Locarno, as Monica Bellucci and Kim Minhee Take Acting Awards",
-          "title": "Florin Şerban’s ‘You Don’t Belong Here’ Wins Golden Leopard at Locarno, as Monica Bellucci and Kim Minhee Take Acting Awards",
-          "snapshot": "Romanian director Florin Şerban’s “You Don’t Belong Here,” a somber study of anti-Roma racism in the country, has taken the Golden Lion for best film in the International Competition at the Locarno Film Festival, along with a special mention for its young star Teodor Butănescu. The film emerged victorious in a lineu...",
-          "summary": "Romanian director Florin Şerban’s “You Don’t Belong Here,” a somber study of anti-Roma racism in the country, has taken the Golden Lion for best film in the International Competition at the Locarno Film Festival, along with a special mention for its young star Teodor Butănescu. The film emerged victorious in a lineu...",
-          "url": "https://variety.com/2026/film/news/locarno-award-winners-monica-bellucci-kim-minhee-1236835378/",
+          "headline": "Box Office: ‘The End of Oak Street’ Chomps on $8.1 Million, But ‘Spider-Man: Brand New Day’ Is Still No. 1 With $19 Million",
+          "title": "Box Office: ‘The End of Oak Street’ Chomps on $8.1 Million, But ‘Spider-Man: Brand New Day’ Is Still No. 1 With $19 Million",
+          "snapshot": "“Spider-Man: Brand New Day” led the box office again on Friday despite competition from Anne Hathaway and a horde of hungry dinosaurs. The Warner Bros. sci-fi thriller “The End of Oak Street” landed in second place on opening day with $8.1 million from 3,446 North American theaters. Rivals estimate the film will ear...",
+          "summary": "“Spider-Man: Brand New Day” led the box office again on Friday despite competition from Anne Hathaway and a horde of hungry dinosaurs. The Warner Bros. sci-fi thriller “The End of Oak Street” landed in second place on opening day with $8.1 million from 3,446 North American theaters. Rivals estimate the film will ear...",
+          "url": "https://variety.com/2026/film/box-office/box-office-end-of-oak-street-spider-man-brand-new-day-1236835436/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/feed/",
-          "published_at": "2026-08-15 09:45:10 AM ET",
+          "published_at": "2026-08-15 11:59:20 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Florin Şerban’s ‘You Don’t Belong Here’ Wins Golden Leopard at Locarno, as Monica Bellucci and Kim Minhee Take Acting Awards"
+            "Box Office: ‘The End of Oak Street’ Chomps on $8.1 Million, But ‘Spider-Man: Brand New Day’ Is Still No. 1 With $19 Million"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1852,8 +1854,8 @@
           ]
         },
         {
-          "id": "film-11-4160118901609161222",
-          "key": "film-11-4160118901609161222",
+          "id": "film-11-4482215370769285126",
+          "key": "film-11-4482215370769285126",
           "category": "Film",
           "label": "Film",
           "headline": "BFI CEO Ben Roberts Gives Keynote Address At Inaugural UK Film Conference: “The Missing Piece, For Me, Is Having Film Firmly In The Classroom” – Edinburgh Film Festival",
@@ -1880,8 +1882,8 @@
           ]
         },
         {
-          "id": "film-23-5267969010527860125",
-          "key": "film-23-5267969010527860125",
+          "id": "film-23-7118678485935169634",
+          "key": "film-23-7118678485935169634",
           "category": "Film",
           "label": "Film",
           "headline": "Locarno Film Festival Awards Go to ‘You Don’t Belong Here,’ Hong Sangsoo, Monica Bellucci",
@@ -1908,8 +1910,8 @@
           ]
         },
         {
-          "id": "film-33-4112143333287682254",
-          "key": "film-33-4112143333287682254",
+          "id": "film-33-1436780525358485427",
+          "key": "film-33-1436780525358485427",
           "category": "Film",
           "label": "Film",
           "headline": "The 30 best action-adventure movies, ranked - Entertainment Weekly",
@@ -1938,25 +1940,25 @@
       ],
       "items": [
         {
-          "id": "film-0-499577128110247483",
-          "key": "film-0-499577128110247483",
+          "id": "film-0-5232101258428240303",
+          "key": "film-0-5232101258428240303",
           "category": "Film",
           "label": "Film",
-          "headline": "Box Office: ‘The End of Oak Street’ Chomps on $8.1 Million, But ‘Spider-Man: Brand New Day’ Is Still No. 1 With $19 Million",
-          "title": "Box Office: ‘The End of Oak Street’ Chomps on $8.1 Million, But ‘Spider-Man: Brand New Day’ Is Still No. 1 With $19 Million",
-          "snapshot": "“Spider-Man: Brand New Day” led the box office again on Friday despite competition from Anne Hathaway and a horde of hungry dinosaurs. The Warner Bros. sci-fi thriller “The End of Oak Street” landed in second place on opening day with $8.1 million from 3,446 North American theaters. Rivals estimate the film will ear...",
-          "summary": "“Spider-Man: Brand New Day” led the box office again on Friday despite competition from Anne Hathaway and a horde of hungry dinosaurs. The Warner Bros. sci-fi thriller “The End of Oak Street” landed in second place on opening day with $8.1 million from 3,446 North American theaters. Rivals estimate the film will ear...",
-          "url": "https://variety.com/2026/film/box-office/box-office-end-of-oak-street-spider-man-brand-new-day-1236835436/",
+          "headline": "Locarno: Marco Cavazzin’s ‘Mutrion,’ Set in the Venice Lagoon, Scoops Leopards of Tomorrow Director Award",
+          "title": "Locarno: Marco Cavazzin’s ‘Mutrion,’ Set in the Venice Lagoon, Scoops Leopards of Tomorrow Director Award",
+          "snapshot": "“Mutrion,” a short film set in the Venice lagoon by 26-year-old Italian director Marco Cavazzin, has scooped the best director award at the Locarno Film Festival’s Pardi di Domani (Leopards of Tomorrow) section. “Mutrion,” which is the only Italian entry in the section, stars Manfredi Marini, who previously starred...",
+          "summary": "“Mutrion,” a short film set in the Venice lagoon by 26-year-old Italian director Marco Cavazzin, has scooped the best director award at the Locarno Film Festival’s Pardi di Domani (Leopards of Tomorrow) section. “Mutrion,” which is the only Italian entry in the section, stars Manfredi Marini, who previously starred...",
+          "url": "https://variety.com/2026/film/festivals/locarno-marco-cavazzin-mutrion-venice-leopards-of-tomorrow-1236834478/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/feed/",
-          "published_at": "2026-08-15 11:59:20 AM ET",
+          "published_at": "2026-08-15 12:24:57 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Box Office: ‘The End of Oak Street’ Chomps on $8.1 Million, But ‘Spider-Man: Brand New Day’ Is Still No. 1 With $19 Million"
+            "Locarno: Marco Cavazzin’s ‘Mutrion,’ Set in the Venice Lagoon, Scoops Leopards of Tomorrow Director Award"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1966,8 +1968,8 @@
           ]
         },
         {
-          "id": "film-10-4233581952558838300",
-          "key": "film-10-4233581952558838300",
+          "id": "film-10-6442732907504773156",
+          "key": "film-10-6442732907504773156",
           "category": "Film",
           "label": "Film",
           "headline": "‘Spider-Man: Brand New Day’ Production Designer On Yelena’s Bathhouse, Peter Parker’s Sad Pad & The Challenge Of Building New York In The U.K.",
@@ -1994,14 +1996,14 @@
           ]
         },
         {
-          "id": "film-22-2898080901439305862",
-          "key": "film-22-2898080901439305862",
+          "id": "film-22-7946971681906890782",
+          "key": "film-22-7946971681906890782",
           "category": "Film",
           "label": "Film",
           "headline": "‘Spider-Man: Brand New Day’ Still Soaring to Top Its Third Weekend With $67M",
           "title": "‘Spider-Man: Brand New Day’ Still Soaring to Top Its Third Weekend With $67M",
-          "snapshot": "Tom Holland's superhero juggernaut continues a torrid pace as the frame sees the debuts of 'The End of Oak Street' and 'PAW Patrol: The Dino Movie.'",
-          "summary": "Tom Holland's superhero juggernaut continues a torrid pace as the frame sees the debuts of 'The End of Oak Street' and 'PAW Patrol: The Dino Movie.'",
+          "snapshot": "Tom Holland's superhero juggernaut maintains a torrid pace as the frame sees the debuts of 'The End of Oak Street' and 'PAW Patrol: The Dino Movie.'",
+          "summary": "Tom Holland's superhero juggernaut maintains a torrid pace as the frame sees the debuts of 'The End of Oak Street' and 'PAW Patrol: The Dino Movie.'",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-oak-street-paw-patrol-1236674347/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
@@ -2022,8 +2024,8 @@
           ]
         },
         {
-          "id": "film-32-6477196822511384427",
-          "key": "film-32-6477196822511384427",
+          "id": "film-32-4692109276540269443",
+          "key": "film-32-4692109276540269443",
           "category": "Film",
           "label": "Film",
           "headline": "Disney's D23: All the movies, TV series and more announced so far - ABC News - Breaking News, Latest News and Videos",
@@ -2050,25 +2052,25 @@
           ]
         },
         {
-          "id": "film-1-1804170118362108161",
-          "key": "film-1-1804170118362108161",
+          "id": "film-1-3579211225393457877",
+          "key": "film-1-3579211225393457877",
           "category": "Film",
           "label": "Film",
-          "headline": "Florin Şerban’s ‘You Don’t Belong Here’ Wins Golden Leopard at Locarno, as Monica Bellucci and Kim Minhee Take Acting Awards",
-          "title": "Florin Şerban’s ‘You Don’t Belong Here’ Wins Golden Leopard at Locarno, as Monica Bellucci and Kim Minhee Take Acting Awards",
-          "snapshot": "Romanian director Florin Şerban’s “You Don’t Belong Here,” a somber study of anti-Roma racism in the country, has taken the Golden Lion for best film in the International Competition at the Locarno Film Festival, along with a special mention for its young star Teodor Butănescu. The film emerged victorious in a lineu...",
-          "summary": "Romanian director Florin Şerban’s “You Don’t Belong Here,” a somber study of anti-Roma racism in the country, has taken the Golden Lion for best film in the International Competition at the Locarno Film Festival, along with a special mention for its young star Teodor Butănescu. The film emerged victorious in a lineu...",
-          "url": "https://variety.com/2026/film/news/locarno-award-winners-monica-bellucci-kim-minhee-1236835378/",
+          "headline": "Box Office: ‘The End of Oak Street’ Chomps on $8.1 Million, But ‘Spider-Man: Brand New Day’ Is Still No. 1 With $19 Million",
+          "title": "Box Office: ‘The End of Oak Street’ Chomps on $8.1 Million, But ‘Spider-Man: Brand New Day’ Is Still No. 1 With $19 Million",
+          "snapshot": "“Spider-Man: Brand New Day” led the box office again on Friday despite competition from Anne Hathaway and a horde of hungry dinosaurs. The Warner Bros. sci-fi thriller “The End of Oak Street” landed in second place on opening day with $8.1 million from 3,446 North American theaters. Rivals estimate the film will ear...",
+          "summary": "“Spider-Man: Brand New Day” led the box office again on Friday despite competition from Anne Hathaway and a horde of hungry dinosaurs. The Warner Bros. sci-fi thriller “The End of Oak Street” landed in second place on opening day with $8.1 million from 3,446 North American theaters. Rivals estimate the film will ear...",
+          "url": "https://variety.com/2026/film/box-office/box-office-end-of-oak-street-spider-man-brand-new-day-1236835436/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/feed/",
-          "published_at": "2026-08-15 09:45:10 AM ET",
+          "published_at": "2026-08-15 11:59:20 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Florin Şerban’s ‘You Don’t Belong Here’ Wins Golden Leopard at Locarno, as Monica Bellucci and Kim Minhee Take Acting Awards"
+            "Box Office: ‘The End of Oak Street’ Chomps on $8.1 Million, But ‘Spider-Man: Brand New Day’ Is Still No. 1 With $19 Million"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2078,8 +2080,8 @@
           ]
         },
         {
-          "id": "film-11-4160118901609161222",
-          "key": "film-11-4160118901609161222",
+          "id": "film-11-4482215370769285126",
+          "key": "film-11-4482215370769285126",
           "category": "Film",
           "label": "Film",
           "headline": "BFI CEO Ben Roberts Gives Keynote Address At Inaugural UK Film Conference: “The Missing Piece, For Me, Is Having Film Firmly In The Classroom” – Edinburgh Film Festival",
@@ -2106,8 +2108,8 @@
           ]
         },
         {
-          "id": "film-23-5267969010527860125",
-          "key": "film-23-5267969010527860125",
+          "id": "film-23-7118678485935169634",
+          "key": "film-23-7118678485935169634",
           "category": "Film",
           "label": "Film",
           "headline": "Locarno Film Festival Awards Go to ‘You Don’t Belong Here,’ Hong Sangsoo, Monica Bellucci",
@@ -2134,8 +2136,8 @@
           ]
         },
         {
-          "id": "film-33-4112143333287682254",
-          "key": "film-33-4112143333287682254",
+          "id": "film-33-1436780525358485427",
+          "key": "film-33-1436780525358485427",
           "category": "Film",
           "label": "Film",
           "headline": "The 30 best action-adventure movies, ranked - Entertainment Weekly",
@@ -2162,7 +2164,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-15 12:24:52 PM ET"
+      "updated_at": "2026-08-15 01:20:26 PM ET"
     },
     {
       "key": "tv",
@@ -2188,8 +2190,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "tv-0-60088992728999380",
-          "key": "tv-0-60088992728999380",
+          "id": "tv-0-4957436201451513041",
+          "key": "tv-0-4957436201451513041",
           "category": "TV",
           "label": "TV",
           "headline": "Nate Bargatze Sets Guinness World Record for Most Tickets Sold for a Stand-Up Comedy Tour (EXCLUSIVE)",
@@ -2216,8 +2218,8 @@
           ]
         },
         {
-          "id": "tv-9-2172604460403936771",
-          "key": "tv-9-2172604460403936771",
+          "id": "tv-9-4433365105197324371",
+          "key": "tv-9-4433365105197324371",
           "category": "TV",
           "label": "TV",
           "headline": "Bill Maher Has A Word For Luigi Mangione “Groupies”",
@@ -2244,8 +2246,8 @@
           ]
         },
         {
-          "id": "tv-20-4110963485007506435",
-          "key": "tv-20-4110963485007506435",
+          "id": "tv-20-7344997453490781475",
+          "key": "tv-20-7344997453490781475",
           "category": "TV",
           "label": "TV",
           "headline": "LeBron James Launches YouTube Golf Channel — Watch the First Episode’s Trailer (Exclusive)",
@@ -2272,8 +2274,8 @@
           ]
         },
         {
-          "id": "tv-30-6033645403745036880",
-          "key": "tv-30-6033645403745036880",
+          "id": "tv-30-3828336840651139461",
+          "key": "tv-30-3828336840651139461",
           "category": "TV",
           "label": "TV",
           "headline": "AI Just Got Its First 24/7 TV Channel - PYMNTS.com",
@@ -2300,8 +2302,8 @@
           ]
         },
         {
-          "id": "tv-1-7319190867796071417",
-          "key": "tv-1-7319190867796071417",
+          "id": "tv-1-4779787174901568523",
+          "key": "tv-1-4779787174901568523",
           "category": "TV",
           "label": "TV",
           "headline": "Darren Walker Opens His Home to Friends and Anonymous Content Emmy Nominees in Celebration of ‘Joy, Reflection, Delight and Awe’",
@@ -2328,8 +2330,8 @@
           ]
         },
         {
-          "id": "tv-10-2079323850247415964",
-          "key": "tv-10-2079323850247415964",
+          "id": "tv-10-3940746336404540146",
+          "key": "tv-10-3940746336404540146",
           "category": "TV",
           "label": "TV",
           "headline": "BBC Seeks To Subpoena Ivanka Trump, Jared Kushner & Don Jr. In Defamation Lawsuit",
@@ -2356,8 +2358,8 @@
           ]
         },
         {
-          "id": "tv-21-796992545261009097",
-          "key": "tv-21-796992545261009097",
+          "id": "tv-21-2822189414466207354",
+          "key": "tv-21-2822189414466207354",
           "category": "TV",
           "label": "TV",
           "headline": "‘Heated Rivalry,’ ‘Hacks’ Top GALECA Dorian TV Awards Winners List",
@@ -2386,8 +2388,8 @@
       ],
       "items": [
         {
-          "id": "tv-0-60088992728999380",
-          "key": "tv-0-60088992728999380",
+          "id": "tv-0-4957436201451513041",
+          "key": "tv-0-4957436201451513041",
           "category": "TV",
           "label": "TV",
           "headline": "Nate Bargatze Sets Guinness World Record for Most Tickets Sold for a Stand-Up Comedy Tour (EXCLUSIVE)",
@@ -2414,8 +2416,8 @@
           ]
         },
         {
-          "id": "tv-9-2172604460403936771",
-          "key": "tv-9-2172604460403936771",
+          "id": "tv-9-4433365105197324371",
+          "key": "tv-9-4433365105197324371",
           "category": "TV",
           "label": "TV",
           "headline": "Bill Maher Has A Word For Luigi Mangione “Groupies”",
@@ -2442,8 +2444,8 @@
           ]
         },
         {
-          "id": "tv-20-4110963485007506435",
-          "key": "tv-20-4110963485007506435",
+          "id": "tv-20-7344997453490781475",
+          "key": "tv-20-7344997453490781475",
           "category": "TV",
           "label": "TV",
           "headline": "LeBron James Launches YouTube Golf Channel — Watch the First Episode’s Trailer (Exclusive)",
@@ -2470,8 +2472,8 @@
           ]
         },
         {
-          "id": "tv-30-6033645403745036880",
-          "key": "tv-30-6033645403745036880",
+          "id": "tv-30-3828336840651139461",
+          "key": "tv-30-3828336840651139461",
           "category": "TV",
           "label": "TV",
           "headline": "AI Just Got Its First 24/7 TV Channel - PYMNTS.com",
@@ -2498,8 +2500,8 @@
           ]
         },
         {
-          "id": "tv-1-7319190867796071417",
-          "key": "tv-1-7319190867796071417",
+          "id": "tv-1-4779787174901568523",
+          "key": "tv-1-4779787174901568523",
           "category": "TV",
           "label": "TV",
           "headline": "Darren Walker Opens His Home to Friends and Anonymous Content Emmy Nominees in Celebration of ‘Joy, Reflection, Delight and Awe’",
@@ -2526,8 +2528,8 @@
           ]
         },
         {
-          "id": "tv-10-2079323850247415964",
-          "key": "tv-10-2079323850247415964",
+          "id": "tv-10-3940746336404540146",
+          "key": "tv-10-3940746336404540146",
           "category": "TV",
           "label": "TV",
           "headline": "BBC Seeks To Subpoena Ivanka Trump, Jared Kushner & Don Jr. In Defamation Lawsuit",
@@ -2554,8 +2556,8 @@
           ]
         },
         {
-          "id": "tv-21-796992545261009097",
-          "key": "tv-21-796992545261009097",
+          "id": "tv-21-2822189414466207354",
+          "key": "tv-21-2822189414466207354",
           "category": "TV",
           "label": "TV",
           "headline": "‘Heated Rivalry,’ ‘Hacks’ Top GALECA Dorian TV Awards Winners List",
@@ -2582,32 +2584,32 @@
           ]
         }
       ],
-      "updated_at": "2026-08-15 12:24:53 PM ET"
+      "updated_at": "2026-08-15 01:20:27 PM ET"
     },
     {
       "key": "streaming",
       "name": "Streaming",
       "title": "Streaming Report",
-      "headline": "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs - businessinsider.com",
+      "headline": "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs - Business Insider",
       "snapshot": "Streaming coverage is updating with 2 current RSS headline item(s).",
       "key_storylines": [
-        "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs - businessinsider.com",
+        "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs - Business Insider",
         "From 'The Last House' to 'Obsession,' 10 movies to stream right now - USA Today"
       ],
       "watch_list": [
-        "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs - businessinsider.com",
+        "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs - Business Insider",
         "From 'The Last House' to 'Obsession,' 10 movies to stream right now - USA Today"
       ],
       "homepage_cards": [
         {
-          "id": "streaming-0-1392183726138794424",
-          "key": "streaming-0-1392183726138794424",
+          "id": "streaming-0-3227172114116243054",
+          "key": "streaming-0-3227172114116243054",
           "category": "Streaming",
           "label": "Streaming",
-          "headline": "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs - businessinsider.com",
-          "title": "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs - businessinsider.com",
-          "snapshot": "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs businessinsider.com",
-          "summary": "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs businessinsider.com",
+          "headline": "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs - Business Insider",
+          "title": "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs - Business Insider",
+          "snapshot": "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs Business Insider",
+          "summary": "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs Business Insider",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB5Ni1BYmtzb1N4NmdCZDlyd2NTblpWQ18tV3puOHlMRm51MktNTjVMaEhGcVZWc0RBVzNFNTg4VkhFN2taSWRqdE9kMHpZVXRpY2UxanNLNTlVQUFIY2FQT19abU5mV281S2dfU0xVZ2ZtQjJVRGVfbU1meTE?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -2618,7 +2620,7 @@
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs - businessinsider.com"
+            "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs - Business Insider"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2628,8 +2630,8 @@
           ]
         },
         {
-          "id": "streaming-1-3986728362568124059",
-          "key": "streaming-1-3986728362568124059",
+          "id": "streaming-1-433706311907345424",
+          "key": "streaming-1-433706311907345424",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'The Last House' to 'Obsession,' 10 movies to stream right now - USA Today",
@@ -2658,14 +2660,14 @@
       ],
       "items": [
         {
-          "id": "streaming-0-1392183726138794424",
-          "key": "streaming-0-1392183726138794424",
+          "id": "streaming-0-3227172114116243054",
+          "key": "streaming-0-3227172114116243054",
           "category": "Streaming",
           "label": "Streaming",
-          "headline": "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs - businessinsider.com",
-          "title": "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs - businessinsider.com",
-          "snapshot": "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs businessinsider.com",
-          "summary": "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs businessinsider.com",
+          "headline": "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs - Business Insider",
+          "title": "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs - Business Insider",
+          "snapshot": "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs Business Insider",
+          "summary": "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs Business Insider",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB5Ni1BYmtzb1N4NmdCZDlyd2NTblpWQ18tV3puOHlMRm51MktNTjVMaEhGcVZWc0RBVzNFNTg4VkhFN2taSWRqdE9kMHpZVXRpY2UxanNLNTlVQUFIY2FQT19abU5mV281S2dfU0xVZ2ZtQjJVRGVfbU1meTE?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -2676,7 +2678,7 @@
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs - businessinsider.com"
+            "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs - Business Insider"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2686,8 +2688,8 @@
           ]
         },
         {
-          "id": "streaming-1-3986728362568124059",
-          "key": "streaming-1-3986728362568124059",
+          "id": "streaming-1-433706311907345424",
+          "key": "streaming-1-433706311907345424",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'The Last House' to 'Obsession,' 10 movies to stream right now - USA Today",
@@ -2714,7 +2716,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-15 12:24:53 PM ET"
+      "updated_at": "2026-08-15 01:20:27 PM ET"
     },
     {
       "key": "music",
@@ -2724,23 +2726,23 @@
       "snapshot": "Music coverage is updating with 6 current RSS headline item(s).",
       "key_storylines": [
         "Music Industry Moves: Megan Thee Stallion Announces Partnership With Interscope Records",
-        "Romeo Santos Launches Fundación Los Santos to Support Children With Autism & More Uplifting Moments in Latin Music",
+        "Bonnie Tyler Fans Line Welsh Village Streets as Her Coffin Is Brought Home",
         "Sara Ito Talks Believing in Herself and Living as a Dancer in L.A.: Billboard Japan Women In Music Interview - Billboard",
         "‘The Radio Doesn’t Play Songs for Me Anymore’: Tailgaters at the Foo Fighters’ Stadium Tour Mourn the Dimming Light of Rock Music",
-        "Courtney Love Says She ‘Almost Died’ in 2019"
+        "Here’s How to Watch UFC 330: Makhachev vs. Machado Garry Live Online for Free"
       ],
       "watch_list": [
         "Music Industry Moves: Megan Thee Stallion Announces Partnership With Interscope Records",
-        "Romeo Santos Launches Fundación Los Santos to Support Children With Autism & More Uplifting Moments in Latin Music",
+        "Bonnie Tyler Fans Line Welsh Village Streets as Her Coffin Is Brought Home",
         "Sara Ito Talks Believing in Herself and Living as a Dancer in L.A.: Billboard Japan Women In Music Interview - Billboard",
         "‘The Radio Doesn’t Play Songs for Me Anymore’: Tailgaters at the Foo Fighters’ Stadium Tour Mourn the Dimming Light of Rock Music",
-        "Courtney Love Says She ‘Almost Died’ in 2019",
+        "Here’s How to Watch UFC 330: Makhachev vs. Machado Garry Live Online for Free",
         "Tencent Music’s Q2 Revenue Tops $1.3 Billion on Subscription Growth, Ximalaya Acquisition - Billboard"
       ],
       "homepage_cards": [
         {
-          "id": "music-0-5111397380365847123",
-          "key": "music-0-5111397380365847123",
+          "id": "music-0-4936952644930315503",
+          "key": "music-0-4936952644930315503",
           "category": "Music",
           "label": "Music",
           "headline": "Music Industry Moves: Megan Thee Stallion Announces Partnership With Interscope Records",
@@ -2767,25 +2769,25 @@
           ]
         },
         {
-          "id": "music-10-1381271300783863518",
-          "key": "music-10-1381271300783863518",
+          "id": "music-10-8649431688347653575",
+          "key": "music-10-8649431688347653575",
           "category": "Music",
           "label": "Music",
-          "headline": "Romeo Santos Launches Fundación Los Santos to Support Children With Autism & More Uplifting Moments in Latin Music",
-          "title": "Romeo Santos Launches Fundación Los Santos to Support Children With Autism & More Uplifting Moments in Latin Music",
-          "snapshot": "Plus, Eladio Carrión brings Saucegiving back to Puerto Rico, and Rosalía honors Caetano Veloso and Fito Páez in Rio.",
-          "summary": "Plus, Eladio Carrión brings Saucegiving back to Puerto Rico, and Rosalía honors Caetano Veloso and Fito Páez in Rio.",
-          "url": "https://www.billboard.com/music/latin/romeo-santos-autism-foundation-eladio-carrion-saucegiving-1236316797/",
+          "headline": "Bonnie Tyler Fans Line Welsh Village Streets as Her Coffin Is Brought Home",
+          "title": "Bonnie Tyler Fans Line Welsh Village Streets as Her Coffin Is Brought Home",
+          "snapshot": "The “Total Eclipse of the Heart” singer died in July at age 75.",
+          "summary": "The “Total Eclipse of the Heart” singer died in July at age 75.",
+          "url": "https://www.billboard.com/music/music-news/bonnie-tyler-fans-line-welsh-streets-coffin-brought-home-1236317091/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-15 10:00:00 AM ET",
+          "published_at": "2026-08-15 12:50:46 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "Romeo Santos Launches Fundación Los Santos to Support Children With Autism & More Uplifting Moments in Latin Music"
+            "Bonnie Tyler Fans Line Welsh Village Streets as Her Coffin Is Brought Home"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2795,8 +2797,8 @@
           ]
         },
         {
-          "id": "music-20-37387610271131038",
-          "key": "music-20-37387610271131038",
+          "id": "music-20-5801495740031667524",
+          "key": "music-20-5801495740031667524",
           "category": "Music",
           "label": "Music",
           "headline": "Sara Ito Talks Believing in Herself and Living as a Dancer in L.A.: Billboard Japan Women In Music Interview - Billboard",
@@ -2823,8 +2825,8 @@
           ]
         },
         {
-          "id": "music-1-136063522341867243",
-          "key": "music-1-136063522341867243",
+          "id": "music-1-3690220673944316697",
+          "key": "music-1-3690220673944316697",
           "category": "Music",
           "label": "Music",
           "headline": "‘The Radio Doesn’t Play Songs for Me Anymore’: Tailgaters at the Foo Fighters’ Stadium Tour Mourn the Dimming Light of Rock Music",
@@ -2851,25 +2853,25 @@
           ]
         },
         {
-          "id": "music-11-4858219301561762989",
-          "key": "music-11-4858219301561762989",
+          "id": "music-11-64754933276052385",
+          "key": "music-11-64754933276052385",
           "category": "Music",
           "label": "Music",
-          "headline": "Courtney Love Says She ‘Almost Died’ in 2019",
-          "title": "Courtney Love Says She ‘Almost Died’ in 2019",
-          "snapshot": "In a video posted to Instagram, The Hole frontwoman said she was stepping back from social media for a few weeks.",
-          "summary": "In a video posted to Instagram, The Hole frontwoman said she was stepping back from social media for a few weeks.",
-          "url": "https://www.billboard.com/music/music-news/courtney-love-almost-died-2019-1236317025/",
+          "headline": "Here’s How to Watch UFC 330: Makhachev vs. Machado Garry Live Online for Free",
+          "title": "Here’s How to Watch UFC 330: Makhachev vs. Machado Garry Live Online for Free",
+          "snapshot": "Live from Philadelphia on Aug. 15, you can watch the entire MMA event online for free.",
+          "summary": "Live from Philadelphia on Aug. 15, you can watch the entire MMA event online for free.",
+          "url": "https://www.billboard.com/culture/product-recommendations/ufc-330-makhachev-machado-garry-watch-live-online-free-1236314045/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-15 04:21:37 AM ET",
+          "published_at": "2026-08-15 12:25:24 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "Courtney Love Says She ‘Almost Died’ in 2019"
+            "Here’s How to Watch UFC 330: Makhachev vs. Machado Garry Live Online for Free"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2879,8 +2881,8 @@
           ]
         },
         {
-          "id": "music-21-4095995706454396736",
-          "key": "music-21-4095995706454396736",
+          "id": "music-21-4120991383218707129",
+          "key": "music-21-4120991383218707129",
           "category": "Music",
           "label": "Music",
           "headline": "Tencent Music’s Q2 Revenue Tops $1.3 Billion on Subscription Growth, Ximalaya Acquisition - Billboard",
@@ -2909,8 +2911,8 @@
       ],
       "items": [
         {
-          "id": "music-0-5111397380365847123",
-          "key": "music-0-5111397380365847123",
+          "id": "music-0-4936952644930315503",
+          "key": "music-0-4936952644930315503",
           "category": "Music",
           "label": "Music",
           "headline": "Music Industry Moves: Megan Thee Stallion Announces Partnership With Interscope Records",
@@ -2937,25 +2939,25 @@
           ]
         },
         {
-          "id": "music-10-1381271300783863518",
-          "key": "music-10-1381271300783863518",
+          "id": "music-10-8649431688347653575",
+          "key": "music-10-8649431688347653575",
           "category": "Music",
           "label": "Music",
-          "headline": "Romeo Santos Launches Fundación Los Santos to Support Children With Autism & More Uplifting Moments in Latin Music",
-          "title": "Romeo Santos Launches Fundación Los Santos to Support Children With Autism & More Uplifting Moments in Latin Music",
-          "snapshot": "Plus, Eladio Carrión brings Saucegiving back to Puerto Rico, and Rosalía honors Caetano Veloso and Fito Páez in Rio.",
-          "summary": "Plus, Eladio Carrión brings Saucegiving back to Puerto Rico, and Rosalía honors Caetano Veloso and Fito Páez in Rio.",
-          "url": "https://www.billboard.com/music/latin/romeo-santos-autism-foundation-eladio-carrion-saucegiving-1236316797/",
+          "headline": "Bonnie Tyler Fans Line Welsh Village Streets as Her Coffin Is Brought Home",
+          "title": "Bonnie Tyler Fans Line Welsh Village Streets as Her Coffin Is Brought Home",
+          "snapshot": "The “Total Eclipse of the Heart” singer died in July at age 75.",
+          "summary": "The “Total Eclipse of the Heart” singer died in July at age 75.",
+          "url": "https://www.billboard.com/music/music-news/bonnie-tyler-fans-line-welsh-streets-coffin-brought-home-1236317091/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-15 10:00:00 AM ET",
+          "published_at": "2026-08-15 12:50:46 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "Romeo Santos Launches Fundación Los Santos to Support Children With Autism & More Uplifting Moments in Latin Music"
+            "Bonnie Tyler Fans Line Welsh Village Streets as Her Coffin Is Brought Home"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2965,8 +2967,8 @@
           ]
         },
         {
-          "id": "music-20-37387610271131038",
-          "key": "music-20-37387610271131038",
+          "id": "music-20-5801495740031667524",
+          "key": "music-20-5801495740031667524",
           "category": "Music",
           "label": "Music",
           "headline": "Sara Ito Talks Believing in Herself and Living as a Dancer in L.A.: Billboard Japan Women In Music Interview - Billboard",
@@ -2993,8 +2995,8 @@
           ]
         },
         {
-          "id": "music-1-136063522341867243",
-          "key": "music-1-136063522341867243",
+          "id": "music-1-3690220673944316697",
+          "key": "music-1-3690220673944316697",
           "category": "Music",
           "label": "Music",
           "headline": "‘The Radio Doesn’t Play Songs for Me Anymore’: Tailgaters at the Foo Fighters’ Stadium Tour Mourn the Dimming Light of Rock Music",
@@ -3021,25 +3023,25 @@
           ]
         },
         {
-          "id": "music-11-4858219301561762989",
-          "key": "music-11-4858219301561762989",
+          "id": "music-11-64754933276052385",
+          "key": "music-11-64754933276052385",
           "category": "Music",
           "label": "Music",
-          "headline": "Courtney Love Says She ‘Almost Died’ in 2019",
-          "title": "Courtney Love Says She ‘Almost Died’ in 2019",
-          "snapshot": "In a video posted to Instagram, The Hole frontwoman said she was stepping back from social media for a few weeks.",
-          "summary": "In a video posted to Instagram, The Hole frontwoman said she was stepping back from social media for a few weeks.",
-          "url": "https://www.billboard.com/music/music-news/courtney-love-almost-died-2019-1236317025/",
+          "headline": "Here’s How to Watch UFC 330: Makhachev vs. Machado Garry Live Online for Free",
+          "title": "Here’s How to Watch UFC 330: Makhachev vs. Machado Garry Live Online for Free",
+          "snapshot": "Live from Philadelphia on Aug. 15, you can watch the entire MMA event online for free.",
+          "summary": "Live from Philadelphia on Aug. 15, you can watch the entire MMA event online for free.",
+          "url": "https://www.billboard.com/culture/product-recommendations/ufc-330-makhachev-machado-garry-watch-live-online-free-1236314045/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-15 04:21:37 AM ET",
+          "published_at": "2026-08-15 12:25:24 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "Courtney Love Says She ‘Almost Died’ in 2019"
+            "Here’s How to Watch UFC 330: Makhachev vs. Machado Garry Live Online for Free"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3049,8 +3051,8 @@
           ]
         },
         {
-          "id": "music-21-4095995706454396736",
-          "key": "music-21-4095995706454396736",
+          "id": "music-21-4120991383218707129",
+          "key": "music-21-4120991383218707129",
           "category": "Music",
           "label": "Music",
           "headline": "Tencent Music’s Q2 Revenue Tops $1.3 Billion on Subscription Growth, Ximalaya Acquisition - Billboard",
@@ -3077,7 +3079,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-15 12:24:54 PM ET"
+      "updated_at": "2026-08-15 01:20:28 PM ET"
     },
     {
       "key": "awards",
@@ -3099,8 +3101,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "awards-0-5633487365709291039",
-          "key": "awards-0-5633487365709291039",
+          "id": "awards-0-6088895276337402560",
+          "key": "awards-0-6088895276337402560",
           "category": "Awards",
           "label": "Awards",
           "headline": "‘Hacks’ Star Lauren Weedman on Appearing in Four Emmy-Nominated Comedies This Year and How Bell’s Palsy Changed Her Career",
@@ -3127,8 +3129,8 @@
           ]
         },
         {
-          "id": "awards-8-7396753406610198255",
-          "key": "awards-8-7396753406610198255",
+          "id": "awards-8-5800151629118128617",
+          "key": "awards-8-5800151629118128617",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar - Deadline",
@@ -3155,8 +3157,8 @@
           ]
         },
         {
-          "id": "awards-1-2583660442568833984",
-          "key": "awards-1-2583660442568833984",
+          "id": "awards-1-6907735483540631468",
+          "key": "awards-1-6907735483540631468",
           "category": "Awards",
           "label": "Awards",
           "headline": "Charlie Hunnam on His Physical and Vocal Transformation to Play Ed Gein in ‘Monster’",
@@ -3183,8 +3185,8 @@
           ]
         },
         {
-          "id": "awards-9-4864528104024683224",
-          "key": "awards-9-4864528104024683224",
+          "id": "awards-9-4429585418900571791",
+          "key": "awards-9-4429585418900571791",
           "category": "Awards",
           "label": "Awards",
           "headline": "2027 Oscars Best Picture Predictions - Yahoo",
@@ -3213,8 +3215,8 @@
       ],
       "items": [
         {
-          "id": "awards-0-5633487365709291039",
-          "key": "awards-0-5633487365709291039",
+          "id": "awards-0-6088895276337402560",
+          "key": "awards-0-6088895276337402560",
           "category": "Awards",
           "label": "Awards",
           "headline": "‘Hacks’ Star Lauren Weedman on Appearing in Four Emmy-Nominated Comedies This Year and How Bell’s Palsy Changed Her Career",
@@ -3241,8 +3243,8 @@
           ]
         },
         {
-          "id": "awards-8-7396753406610198255",
-          "key": "awards-8-7396753406610198255",
+          "id": "awards-8-5800151629118128617",
+          "key": "awards-8-5800151629118128617",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar - Deadline",
@@ -3269,8 +3271,8 @@
           ]
         },
         {
-          "id": "awards-1-2583660442568833984",
-          "key": "awards-1-2583660442568833984",
+          "id": "awards-1-6907735483540631468",
+          "key": "awards-1-6907735483540631468",
           "category": "Awards",
           "label": "Awards",
           "headline": "Charlie Hunnam on His Physical and Vocal Transformation to Play Ed Gein in ‘Monster’",
@@ -3297,8 +3299,8 @@
           ]
         },
         {
-          "id": "awards-9-4864528104024683224",
-          "key": "awards-9-4864528104024683224",
+          "id": "awards-9-4429585418900571791",
+          "key": "awards-9-4429585418900571791",
           "category": "Awards",
           "label": "Awards",
           "headline": "2027 Oscars Best Picture Predictions - Yahoo",
@@ -3325,7 +3327,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-15 12:24:55 PM ET"
+      "updated_at": "2026-08-15 01:20:28 PM ET"
     },
     {
       "key": "box_office",
@@ -3347,8 +3349,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "box_office-0-5099797418584986533",
-          "key": "box_office-0-5099797418584986533",
+          "id": "box_office-0-4071880590924353413",
+          "key": "box_office-0-4071880590924353413",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘End of Oak Street’ Makes $2.5 Million in Previews",
@@ -3375,8 +3377,8 @@
           ]
         },
         {
-          "id": "box_office-10-7608197118910356061",
-          "key": "box_office-10-7608197118910356061",
+          "id": "box_office-9-9214316408325455936",
+          "key": "box_office-9-9214316408325455936",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - The Hollywood Reporter",
@@ -3391,7 +3393,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 90,
+          "priority_score": 91,
           "key_data": [
             "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - The Hollywood Reporter"
           ],
@@ -3403,8 +3405,8 @@
           ]
         },
         {
-          "id": "box_office-1-8444058182941882225",
-          "key": "box_office-1-8444058182941882225",
+          "id": "box_office-1-3291752415230521495",
+          "key": "box_office-1-3291752415230521495",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘End of Oak Street’ Targets $25 Million Debut, ‘Spider-Man: Brand New Day’ to Remain No. 1",
@@ -3431,8 +3433,8 @@
           ]
         },
         {
-          "id": "box_office-11-4916350352812042367",
-          "key": "box_office-11-4916350352812042367",
+          "id": "box_office-10-7203947332861877605",
+          "key": "box_office-10-7203947332861877605",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - The Hollywood Reporter",
@@ -3447,7 +3449,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 89,
+          "priority_score": 90,
           "key_data": [
             "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - The Hollywood Reporter"
           ],
@@ -3461,8 +3463,8 @@
       ],
       "items": [
         {
-          "id": "box_office-0-5099797418584986533",
-          "key": "box_office-0-5099797418584986533",
+          "id": "box_office-0-4071880590924353413",
+          "key": "box_office-0-4071880590924353413",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘End of Oak Street’ Makes $2.5 Million in Previews",
@@ -3489,8 +3491,8 @@
           ]
         },
         {
-          "id": "box_office-10-7608197118910356061",
-          "key": "box_office-10-7608197118910356061",
+          "id": "box_office-9-9214316408325455936",
+          "key": "box_office-9-9214316408325455936",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - The Hollywood Reporter",
@@ -3505,7 +3507,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 90,
+          "priority_score": 91,
           "key_data": [
             "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - The Hollywood Reporter"
           ],
@@ -3517,8 +3519,8 @@
           ]
         },
         {
-          "id": "box_office-1-8444058182941882225",
-          "key": "box_office-1-8444058182941882225",
+          "id": "box_office-1-3291752415230521495",
+          "key": "box_office-1-3291752415230521495",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘End of Oak Street’ Targets $25 Million Debut, ‘Spider-Man: Brand New Day’ to Remain No. 1",
@@ -3545,8 +3547,8 @@
           ]
         },
         {
-          "id": "box_office-11-4916350352812042367",
-          "key": "box_office-11-4916350352812042367",
+          "id": "box_office-10-7203947332861877605",
+          "key": "box_office-10-7203947332861877605",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - The Hollywood Reporter",
@@ -3561,7 +3563,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 89,
+          "priority_score": 90,
           "key_data": [
             "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - The Hollywood Reporter"
           ],
@@ -3573,7 +3575,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-15 12:24:56 PM ET"
+      "updated_at": "2026-08-15 01:20:29 PM ET"
     },
     {
       "key": "celebrity",
@@ -3583,16 +3585,16 @@
       "snapshot": "Celebrity coverage is updating with 2 current RSS headline item(s).",
       "key_storylines": [
         "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
-        "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - washingtontimes.com"
+        "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - Washington Times"
       ],
       "watch_list": [
         "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
-        "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - washingtontimes.com"
+        "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - Washington Times"
       ],
       "homepage_cards": [
         {
-          "id": "celebrity-0-6914303855908487191",
-          "key": "celebrity-0-6914303855908487191",
+          "id": "celebrity-0-3981243286832551267",
+          "key": "celebrity-0-3981243286832551267",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3619,14 +3621,14 @@
           ]
         },
         {
-          "id": "celebrity-1-7698302145121881138",
-          "key": "celebrity-1-7698302145121881138",
+          "id": "celebrity-1-5917826277568981973",
+          "key": "celebrity-1-5917826277568981973",
           "category": "Celebrity",
           "label": "Celebrity",
-          "headline": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - washingtontimes.com",
-          "title": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - washingtontimes.com",
-          "snapshot": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt washingtontimes.com",
-          "summary": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt washingtontimes.com",
+          "headline": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - Washington Times",
+          "title": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - Washington Times",
+          "snapshot": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt Washington Times",
+          "summary": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt Washington Times",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWFE4M0xiT1I3blV5QjZkNFlva1B5d2xBZXpvdm9UdllKMFZOZ3RpV0RpOWJNcHd0Z1lyZTJnX1laMVRTeEZ2SHNhUjV3azdZOVdjZC10Qm9CcjY4bmtJZTVjUEVBa2lfNXFuZHpkWDhKSWhCNUdKcGtLUVlaR1FKN0JOLVNqX0E1eFJGRGJNTGw4YnBNYzB5ZGNDcmQ1V1dnQ1FjTGQzMVVLaldrVUlVNG9JanJVNnZK?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3637,7 +3639,7 @@
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - washingtontimes.com"
+            "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - Washington Times"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3649,8 +3651,8 @@
       ],
       "items": [
         {
-          "id": "celebrity-0-6914303855908487191",
-          "key": "celebrity-0-6914303855908487191",
+          "id": "celebrity-0-3981243286832551267",
+          "key": "celebrity-0-3981243286832551267",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3677,14 +3679,14 @@
           ]
         },
         {
-          "id": "celebrity-1-7698302145121881138",
-          "key": "celebrity-1-7698302145121881138",
+          "id": "celebrity-1-5917826277568981973",
+          "key": "celebrity-1-5917826277568981973",
           "category": "Celebrity",
           "label": "Celebrity",
-          "headline": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - washingtontimes.com",
-          "title": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - washingtontimes.com",
-          "snapshot": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt washingtontimes.com",
-          "summary": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt washingtontimes.com",
+          "headline": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - Washington Times",
+          "title": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - Washington Times",
+          "snapshot": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt Washington Times",
+          "summary": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt Washington Times",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWFE4M0xiT1I3blV5QjZkNFlva1B5d2xBZXpvdm9UdllKMFZOZ3RpV0RpOWJNcHd0Z1lyZTJnX1laMVRTeEZ2SHNhUjV3azdZOVdjZC10Qm9CcjY4bmtJZTVjUEVBa2lfNXFuZHpkWDhKSWhCNUdKcGtLUVlaR1FKN0JOLVNqX0E1eFJGRGJNTGw4YnBNYzB5ZGNDcmQ1V1dnQ1FjTGQzMVVLaldrVUlVNG9JanJVNnZK?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3695,7 +3697,7 @@
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - washingtontimes.com"
+            "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - Washington Times"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3705,7 +3707,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-15 12:24:57 PM ET"
+      "updated_at": "2026-08-15 01:20:30 PM ET"
     },
     {
       "key": "hollywood",
@@ -3730,8 +3732,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "hollywood-0-4946851665240500836",
-          "key": "hollywood-0-4946851665240500836",
+          "id": "hollywood-0-3434002587155912650",
+          "key": "hollywood-0-3434002587155912650",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘Spider-Man: Brand New Day’ Super $67M Third Weekend; ‘Odyssey’ Sailing Past Half Billion, Dinos Fight For Third – Box Office Update",
@@ -3758,8 +3760,8 @@
           ]
         },
         {
-          "id": "hollywood-4-1485096628635303099",
-          "key": "hollywood-4-1485096628635303099",
+          "id": "hollywood-4-5685330607153742435",
+          "key": "hollywood-4-5685330607153742435",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘Mission’ Stars George MacKay and Rosy McEwen on Capitalism, Creative Freedom and the Eternal Allure of British Independent Film",
@@ -3786,8 +3788,8 @@
           ]
         },
         {
-          "id": "hollywood-6-2248050949858743724",
-          "key": "hollywood-6-2248050949858743724",
+          "id": "hollywood-6-1256689962330023300",
+          "key": "hollywood-6-1256689962330023300",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch - The Hollywood Reporter",
@@ -3814,8 +3816,8 @@
           ]
         },
         {
-          "id": "hollywood-1-7322733136132444329",
-          "key": "hollywood-1-7322733136132444329",
+          "id": "hollywood-1-6435858149176325905",
+          "key": "hollywood-1-6435858149176325905",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Frankie Valli Denies The Rumors: “I Am Not Retired”",
@@ -3842,8 +3844,8 @@
           ]
         },
         {
-          "id": "hollywood-5-2074547506056593491",
-          "key": "hollywood-5-2074547506056593491",
+          "id": "hollywood-5-6995455300536860005",
+          "key": "hollywood-5-6995455300536860005",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "“I’ve Disobeyed the Film God Laws”: Lindsey Ryan on Shooting Her Debut Feature at Sea, With Kids, a Boat and a Hamster",
@@ -3870,8 +3872,8 @@
           ]
         },
         {
-          "id": "hollywood-7-3218915027873111281",
-          "key": "hollywood-7-3218915027873111281",
+          "id": "hollywood-7-4087373687189138543",
+          "key": "hollywood-7-4087373687189138543",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Why Is the American Film Industry Located in Hollywood? - Encyclopedia Britannica",
@@ -3900,8 +3902,8 @@
       ],
       "items": [
         {
-          "id": "hollywood-0-4946851665240500836",
-          "key": "hollywood-0-4946851665240500836",
+          "id": "hollywood-0-3434002587155912650",
+          "key": "hollywood-0-3434002587155912650",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘Spider-Man: Brand New Day’ Super $67M Third Weekend; ‘Odyssey’ Sailing Past Half Billion, Dinos Fight For Third – Box Office Update",
@@ -3928,8 +3930,8 @@
           ]
         },
         {
-          "id": "hollywood-4-1485096628635303099",
-          "key": "hollywood-4-1485096628635303099",
+          "id": "hollywood-4-5685330607153742435",
+          "key": "hollywood-4-5685330607153742435",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘Mission’ Stars George MacKay and Rosy McEwen on Capitalism, Creative Freedom and the Eternal Allure of British Independent Film",
@@ -3956,8 +3958,8 @@
           ]
         },
         {
-          "id": "hollywood-6-2248050949858743724",
-          "key": "hollywood-6-2248050949858743724",
+          "id": "hollywood-6-1256689962330023300",
+          "key": "hollywood-6-1256689962330023300",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch - The Hollywood Reporter",
@@ -3984,8 +3986,8 @@
           ]
         },
         {
-          "id": "hollywood-1-7322733136132444329",
-          "key": "hollywood-1-7322733136132444329",
+          "id": "hollywood-1-6435858149176325905",
+          "key": "hollywood-1-6435858149176325905",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Frankie Valli Denies The Rumors: “I Am Not Retired”",
@@ -4012,8 +4014,8 @@
           ]
         },
         {
-          "id": "hollywood-5-2074547506056593491",
-          "key": "hollywood-5-2074547506056593491",
+          "id": "hollywood-5-6995455300536860005",
+          "key": "hollywood-5-6995455300536860005",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "“I’ve Disobeyed the Film God Laws”: Lindsey Ryan on Shooting Her Debut Feature at Sea, With Kids, a Boat and a Hamster",
@@ -4040,8 +4042,8 @@
           ]
         },
         {
-          "id": "hollywood-7-3218915027873111281",
-          "key": "hollywood-7-3218915027873111281",
+          "id": "hollywood-7-4087373687189138543",
+          "key": "hollywood-7-4087373687189138543",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Why Is the American Film Industry Located in Hollywood? - Encyclopedia Britannica",
@@ -4068,26 +4070,54 @@
           ]
         }
       ],
-      "updated_at": "2026-08-15 12:24:57 PM ET"
+      "updated_at": "2026-08-15 01:20:30 PM ET"
     },
     {
       "key": "gaming",
       "name": "Gaming",
       "title": "Gaming Report",
-      "headline": "I Hope GTA 6 Borrows a Lot From GTA 4",
+      "headline": "100% Marvel's Spider-Man Games with One Month of Free IGN Guides Checklists",
       "snapshot": "Gaming coverage is updating with 2 current RSS headline item(s).",
       "key_storylines": [
-        "I Hope GTA 6 Borrows a Lot From GTA 4",
-        "Disney Animation Studios Boss Jared Bush Isn't Ruling Out a Possible Kingdom Hearts Movie"
+        "100% Marvel's Spider-Man Games with One Month of Free IGN Guides Checklists",
+        "I Hope GTA 6 Borrows a Lot From GTA 4"
       ],
       "watch_list": [
-        "I Hope GTA 6 Borrows a Lot From GTA 4",
-        "Disney Animation Studios Boss Jared Bush Isn't Ruling Out a Possible Kingdom Hearts Movie"
+        "100% Marvel's Spider-Man Games with One Month of Free IGN Guides Checklists",
+        "I Hope GTA 6 Borrows a Lot From GTA 4"
       ],
       "homepage_cards": [
         {
-          "id": "gaming-0-3239065882078144379",
-          "key": "gaming-0-3239065882078144379",
+          "id": "gaming-0-3582512824851626249",
+          "key": "gaming-0-3582512824851626249",
+          "category": "Gaming",
+          "label": "Gaming",
+          "headline": "100% Marvel's Spider-Man Games with One Month of Free IGN Guides Checklists",
+          "title": "100% Marvel's Spider-Man Games with One Month of Free IGN Guides Checklists",
+          "snapshot": "Itching to replay your favorite Marvel’s Spider-Man game after watching Spider-Man: Brand New Day in theaters? Now’s the perfect time to leap back into the web-slinging action. From now until September 15, 2026 , you can use IGN’s Guides checklists with unlimited access to checks across all our best Spider-Man guide...",
+          "summary": "Itching to replay your favorite Marvel’s Spider-Man game after watching Spider-Man: Brand New Day in theaters? Now’s the perfect time to leap back into the web-slinging action. From now until September 15, 2026 , you can use IGN’s Guides checklists with unlimited access to checks across all our best Spider-Man guide...",
+          "url": "https://www.ign.com/articles/100-marvels-spider-man-games-with-one-month-of-free-ign-guides-checklists",
+          "source": "IGN",
+          "source_name": "IGN",
+          "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
+          "published_at": "2026-08-15 12:23:00 PM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 100,
+          "key_data": [
+            "100% Marvel's Spider-Man Games with One Month of Free IGN Guides Checklists"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "gaming-1-4382956855785908209",
+          "key": "gaming-1-4382956855785908209",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "I Hope GTA 6 Borrows a Lot From GTA 4",
@@ -4102,37 +4132,9 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 100,
-          "key_data": [
-            "I Hope GTA 6 Borrows a Lot From GTA 4"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "gaming-1-7225096793545252396",
-          "key": "gaming-1-7225096793545252396",
-          "category": "Gaming",
-          "label": "Gaming",
-          "headline": "Disney Animation Studios Boss Jared Bush Isn't Ruling Out a Possible Kingdom Hearts Movie",
-          "title": "Disney Animation Studios Boss Jared Bush Isn't Ruling Out a Possible Kingdom Hearts Movie",
-          "snapshot": "Jared Bush, chief creative officer of Walt Disney Animation Studios, spoke about the possibility of a Kingdom Hearts feature film, and he didn’t rule out the idea.",
-          "summary": "Jared Bush, chief creative officer of Walt Disney Animation Studios, spoke about the possibility of a Kingdom Hearts feature film, and he didn’t rule out the idea.",
-          "url": "https://www.ign.com/articles/disney-animation-studios-boss-jared-bush-isnt-ruling-out-a-possible-kingdom-hearts-movie",
-          "source": "IGN",
-          "source_name": "IGN",
-          "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-          "published_at": "2026-08-15 03:51:43 AM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Disney Animation Studios Boss Jared Bush Isn't Ruling Out a Possible Kingdom Hearts Movie"
+            "I Hope GTA 6 Borrows a Lot From GTA 4"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4144,8 +4146,36 @@
       ],
       "items": [
         {
-          "id": "gaming-0-3239065882078144379",
-          "key": "gaming-0-3239065882078144379",
+          "id": "gaming-0-3582512824851626249",
+          "key": "gaming-0-3582512824851626249",
+          "category": "Gaming",
+          "label": "Gaming",
+          "headline": "100% Marvel's Spider-Man Games with One Month of Free IGN Guides Checklists",
+          "title": "100% Marvel's Spider-Man Games with One Month of Free IGN Guides Checklists",
+          "snapshot": "Itching to replay your favorite Marvel’s Spider-Man game after watching Spider-Man: Brand New Day in theaters? Now’s the perfect time to leap back into the web-slinging action. From now until September 15, 2026 , you can use IGN’s Guides checklists with unlimited access to checks across all our best Spider-Man guide...",
+          "summary": "Itching to replay your favorite Marvel’s Spider-Man game after watching Spider-Man: Brand New Day in theaters? Now’s the perfect time to leap back into the web-slinging action. From now until September 15, 2026 , you can use IGN’s Guides checklists with unlimited access to checks across all our best Spider-Man guide...",
+          "url": "https://www.ign.com/articles/100-marvels-spider-man-games-with-one-month-of-free-ign-guides-checklists",
+          "source": "IGN",
+          "source_name": "IGN",
+          "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
+          "published_at": "2026-08-15 12:23:00 PM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 100,
+          "key_data": [
+            "100% Marvel's Spider-Man Games with One Month of Free IGN Guides Checklists"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "gaming-1-4382956855785908209",
+          "key": "gaming-1-4382956855785908209",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "I Hope GTA 6 Borrows a Lot From GTA 4",
@@ -4160,7 +4190,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 100,
+          "priority_score": 99,
           "key_data": [
             "I Hope GTA 6 Borrows a Lot From GTA 4"
           ],
@@ -4170,37 +4200,9 @@
           "what_to_watch": [
             "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
           ]
-        },
-        {
-          "id": "gaming-1-7225096793545252396",
-          "key": "gaming-1-7225096793545252396",
-          "category": "Gaming",
-          "label": "Gaming",
-          "headline": "Disney Animation Studios Boss Jared Bush Isn't Ruling Out a Possible Kingdom Hearts Movie",
-          "title": "Disney Animation Studios Boss Jared Bush Isn't Ruling Out a Possible Kingdom Hearts Movie",
-          "snapshot": "Jared Bush, chief creative officer of Walt Disney Animation Studios, spoke about the possibility of a Kingdom Hearts feature film, and he didn’t rule out the idea.",
-          "summary": "Jared Bush, chief creative officer of Walt Disney Animation Studios, spoke about the possibility of a Kingdom Hearts feature film, and he didn’t rule out the idea.",
-          "url": "https://www.ign.com/articles/disney-animation-studios-boss-jared-bush-isnt-ruling-out-a-possible-kingdom-hearts-movie",
-          "source": "IGN",
-          "source_name": "IGN",
-          "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-          "published_at": "2026-08-15 03:51:43 AM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 99,
-          "key_data": [
-            "Disney Animation Studios Boss Jared Bush Isn't Ruling Out a Possible Kingdom Hearts Movie"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
         }
       ],
-      "updated_at": "2026-08-15 12:24:58 PM ET"
+      "updated_at": "2026-08-15 01:20:31 PM ET"
     },
     {
       "key": "media",
@@ -4224,8 +4226,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "media-0-5354902674222976990",
-          "key": "media-0-5354902674222976990",
+          "id": "media-0-5324353624743567297",
+          "key": "media-0-5324353624743567297",
           "category": "Media",
           "label": "Media",
           "headline": "Warner Bros. Discovery CEO David Zaslav Beneficiary of $27.1 Million in Stock Sales as Paramount Merger Is Stuck on Hold",
@@ -4252,8 +4254,8 @@
           ]
         },
         {
-          "id": "media-9-8703316862838779707",
-          "key": "media-9-8703316862838779707",
+          "id": "media-9-3490822215449636166",
+          "key": "media-9-3490822215449636166",
           "category": "Media",
           "label": "Media",
           "headline": "David Ellison’s Friday ParaBros News Dump: CEO Complains About “Needless Costs” Of State AGs’ Antitrust Suit As Mexico Approves Merger",
@@ -4280,8 +4282,8 @@
           ]
         },
         {
-          "id": "media-20-7211264261118872189",
-          "key": "media-20-7211264261118872189",
+          "id": "media-20-8351091215628491769",
+          "key": "media-20-8351091215628491769",
           "category": "Media",
           "label": "Media",
           "headline": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine - Audacy",
@@ -4308,8 +4310,8 @@
           ]
         },
         {
-          "id": "media-1-1376760729373436645",
-          "key": "media-1-1376760729373436645",
+          "id": "media-1-6055715676793532230",
+          "key": "media-1-6055715676793532230",
           "category": "Media",
           "label": "Media",
           "headline": "If Paramount Leaves California, It Might Cut Costs but Wouldn’t Save on State Taxes",
@@ -4336,8 +4338,8 @@
           ]
         },
         {
-          "id": "media-10-5850809621556405056",
-          "key": "media-10-5850809621556405056",
+          "id": "media-10-1698218452394823759",
+          "key": "media-10-1698218452394823759",
           "category": "Media",
           "label": "Media",
           "headline": "English Football Giants Liverpool Confirm Sale Of Stake To Jeff Bezos & Facebook Co-Founder Eduardo Saverin",
@@ -4366,8 +4368,8 @@
       ],
       "items": [
         {
-          "id": "media-0-5354902674222976990",
-          "key": "media-0-5354902674222976990",
+          "id": "media-0-5324353624743567297",
+          "key": "media-0-5324353624743567297",
           "category": "Media",
           "label": "Media",
           "headline": "Warner Bros. Discovery CEO David Zaslav Beneficiary of $27.1 Million in Stock Sales as Paramount Merger Is Stuck on Hold",
@@ -4394,8 +4396,8 @@
           ]
         },
         {
-          "id": "media-9-8703316862838779707",
-          "key": "media-9-8703316862838779707",
+          "id": "media-9-3490822215449636166",
+          "key": "media-9-3490822215449636166",
           "category": "Media",
           "label": "Media",
           "headline": "David Ellison’s Friday ParaBros News Dump: CEO Complains About “Needless Costs” Of State AGs’ Antitrust Suit As Mexico Approves Merger",
@@ -4422,8 +4424,8 @@
           ]
         },
         {
-          "id": "media-20-7211264261118872189",
-          "key": "media-20-7211264261118872189",
+          "id": "media-20-8351091215628491769",
+          "key": "media-20-8351091215628491769",
           "category": "Media",
           "label": "Media",
           "headline": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine - Audacy",
@@ -4450,8 +4452,8 @@
           ]
         },
         {
-          "id": "media-1-1376760729373436645",
-          "key": "media-1-1376760729373436645",
+          "id": "media-1-6055715676793532230",
+          "key": "media-1-6055715676793532230",
           "category": "Media",
           "label": "Media",
           "headline": "If Paramount Leaves California, It Might Cut Costs but Wouldn’t Save on State Taxes",
@@ -4478,8 +4480,8 @@
           ]
         },
         {
-          "id": "media-10-5850809621556405056",
-          "key": "media-10-5850809621556405056",
+          "id": "media-10-1698218452394823759",
+          "key": "media-10-1698218452394823759",
           "category": "Media",
           "label": "Media",
           "headline": "English Football Giants Liverpool Confirm Sale Of Stake To Jeff Bezos & Facebook Co-Founder Eduardo Saverin",
@@ -4506,7 +4508,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-15 12:24:59 PM ET"
+      "updated_at": "2026-08-15 01:20:32 PM ET"
     }
   ]
 }
