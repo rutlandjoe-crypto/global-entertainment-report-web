@@ -4,16 +4,16 @@
   "site_name": "Global Entertainment Report",
   "vertical": "Entertainment",
   "headline": "'Frozen 3' First Details: Anna and Kristoff Get Married, Olaf Gets a Girlfriend and a New Villain Emerges",
-  "snapshot": "Global Entertainment Report accepted 42 real RSS item(s) across 31 checked feed request(s).",
-  "generated_at": "2026-08-15 02:38:41 AM ET",
-  "updated_at": "2026-08-15 02:38:41 AM ET",
-  "published_at": "2026-08-15 02:38:41 AM ET",
+  "snapshot": "Global Entertainment Report accepted 43 real RSS item(s) across 31 checked feed request(s).",
+  "generated_at": "2026-08-15 03:31:28 AM ET",
+  "updated_at": "2026-08-15 03:31:28 AM ET",
+  "published_at": "2026-08-15 03:31:28 AM ET",
   "source_mode": "live RSS ingestion",
   "freshness": {
     "max_item_age_hours": 336,
-    "accepted_real_items": 42,
+    "accepted_real_items": 43,
     "checked_feeds": 31,
-    "feeds_without_accepted_items": 9
+    "feeds_without_accepted_items": 8
   },
   "feed_audit": [
     {
@@ -55,9 +55,9 @@
       "final_url": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 89,
+      "rejected_count": 90,
       "rejection_reasons": {
-        "stale-over-336h": 89
+        "stale-over-336h": 90
       }
     },
     {
@@ -234,9 +234,9 @@
       "final_url": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 51,
+      "rejected_count": 48,
       "rejection_reasons": {
-        "stale-over-336h": 50,
+        "stale-over-336h": 47,
         "duplicate-story": 1
       }
     },
@@ -257,11 +257,11 @@
       "url": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
-      "item_count": 100,
+      "item_count": 99,
       "accepted_count": 2,
-      "rejected_count": 88,
+      "rejected_count": 87,
       "rejection_reasons": {
-        "stale-over-336h": 88
+        "stale-over-336h": 87
       }
     },
     {
@@ -282,10 +282,10 @@
       "status_code": "200",
       "final_url": "https://deadline.com/feed/",
       "item_count": 12,
-      "accepted_count": 0,
-      "rejected_count": 12,
+      "accepted_count": 1,
+      "rejected_count": 11,
       "rejection_reasons": {
-        "duplicate-story": 12
+        "duplicate-story": 11
       }
     },
     {
@@ -375,7 +375,7 @@
   "key_storylines": [
     "'Frozen 3' First Details: Anna and Kristoff Get Married, Olaf Gets a Girlfriend and a New Villain Emerges",
     "Everything Announced At D23: New X-Men Cast, 'Avengers: Doomsday' Teaser, 'Coco 2,' 'Tangled' Live Action First Look & More",
-    "'Frozen 3' \"Royal Wedding\" Between Anna and Kristoff Is Crashed by New Villain in First-Look",
+    "'I Live in V.I.,' a Social Class Satire From Nigeria, Will Dive Into Urban Alienation and Gentrification",
     "The 30 best action-adventure movies, ranked - Entertainment Weekly",
     "Slipknot Cuts Ties With Sid Wilson After Nearly 30 Years",
     "Kingdom Hearts 4 Gets New Trailer, Late 2027 Release Window, and a Disney+ Anime Series",
@@ -384,8 +384,8 @@
   ],
   "live_newsroom": [
     {
-      "id": "film-0-9065114477121251169",
-      "key": "film-0-9065114477121251169",
+      "id": "film-0-5545638227543940510",
+      "key": "film-0-5545638227543940510",
       "category": "Film",
       "label": "Film",
       "headline": "'Frozen 3' First Details: Anna and Kristoff Get Married, Olaf Gets a Girlfriend and a New Villain Emerges",
@@ -411,8 +411,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-6583469414917374712",
-      "key": "film-10-6583469414917374712",
+      "id": "film-10-9110957571294373856",
+      "key": "film-10-9110957571294373856",
       "category": "Film",
       "label": "Film",
       "headline": "Everything Announced At D23: New X-Men Cast, 'Avengers: Doomsday' Teaser, 'Coco 2,' 'Tangled' Live Action First Look & More",
@@ -438,22 +438,22 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-5013748661076887983",
-      "key": "film-22-5013748661076887983",
+      "id": "film-22-1247733076811195233",
+      "key": "film-22-1247733076811195233",
       "category": "Film",
       "label": "Film",
-      "headline": "'Frozen 3' \"Royal Wedding\" Between Anna and Kristoff Is Crashed by New Villain in First-Look",
-      "title": "'Frozen 3' \"Royal Wedding\" Between Anna and Kristoff Is Crashed by New Villain in First-Look",
-      "snapshot": "Idina Menzel, Kristen Bell, Josh Gad and Jonathan Groff are back for a new entry in the hit franchise, releasing Thanksgiving 2027.",
-      "summary": "Idina Menzel, Kristen Bell, Josh Gad and Jonathan Groff are back for a new entry in the hit franchise, releasing Thanksgiving 2027.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/frozen-3-royal-wedding-between-anna-and-kristoff-1236671593/",
+      "headline": "'I Live in V.I.,' a Social Class Satire From Nigeria, Will Dive Into Urban Alienation and Gentrification",
+      "title": "'I Live in V.I.,' a Social Class Satire From Nigeria, Will Dive Into Urban Alienation and Gentrification",
+      "snapshot": "Director Ugochukwu Azuya's project, inspired by his experience living in Lagos and its \"materialistically driven, very classist society,\" was one of the films in development showcased at Locarno Open Doors.",
+      "summary": "Director Ugochukwu Azuya's project, inspired by his experience living in Lagos and its \"materialistically driven, very classist society,\" was one of the films in development showcased at Locarno Open Doors.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/i-live-in-v-i-social-satire-film-nigeria-locarno-open-doors-1236673552/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-15 12:58:56 AM ET",
+      "published_at": "2026-08-15 03:20:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Frozen 3' \"Royal Wedding\" Between Anna and Kristoff Is Crashed by New Villain in First-Look"
+        "'I Live in V.I.,' a Social Class Satire From Nigeria, Will Dive Into Urban Alienation and Gentrification"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -465,8 +465,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-31-8567773039775719361",
-      "key": "film-31-8567773039775719361",
+      "id": "film-31-7944894549092742223",
+      "key": "film-31-7944894549092742223",
       "category": "Film",
       "label": "Film",
       "headline": "The 30 best action-adventure movies, ranked - Entertainment Weekly",
@@ -492,8 +492,8 @@
       "priority_score": 69
     },
     {
-      "id": "music-10-5269050621992417976",
-      "key": "music-10-5269050621992417976",
+      "id": "music-10-1177773314944875046",
+      "key": "music-10-1177773314944875046",
       "category": "Music",
       "label": "Music",
       "headline": "Slipknot Cuts Ties With Sid Wilson After Nearly 30 Years",
@@ -519,8 +519,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-9096024191858132504",
-      "key": "gaming-0-9096024191858132504",
+      "id": "gaming-0-6177992714109400556",
+      "key": "gaming-0-6177992714109400556",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Kingdom Hearts 4 Gets New Trailer, Late 2027 Release Window, and a Disney+ Anime Series",
@@ -546,8 +546,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-3343665599178470062",
-      "key": "film-1-3343665599178470062",
+      "id": "film-1-3899421646804753924",
+      "key": "film-1-3899421646804753924",
       "category": "Film",
       "label": "Film",
       "headline": "Marvel's 'X-Men' Reboot Sets May 2028 Release Date",
@@ -573,8 +573,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-6811785488263369828",
-      "key": "film-11-6811785488263369828",
+      "id": "film-11-2951135664089837218",
+      "key": "film-11-2951135664089837218",
       "category": "Film",
       "label": "Film",
       "headline": "'Zootopia 3' In Works At Disney; Ke Huy Quan & Ginnifer Goodwin Reprising Roles - D23",
@@ -600,22 +600,22 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-7542041671191198866",
-      "key": "film-23-7542041671191198866",
+      "id": "film-23-1243840002548875315",
+      "key": "film-23-1243840002548875315",
       "category": "Film",
       "label": "Film",
-      "headline": "'Avengers: Doomsday' Footage Shows Off a \"Broken\" Doctor Doom",
-      "title": "'Avengers: Doomsday' Footage Shows Off a \"Broken\" Doctor Doom",
-      "snapshot": "The feature stars Robert Downey Jr. as the villain who faces off against an entire cinematic uinverse.",
-      "summary": "The feature stars Robert Downey Jr. as the villain who faces off against an entire cinematic uinverse.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/avengers-doomsday-trailer-doctor-doom-1236673352/",
+      "headline": "'Frozen 3' \"Royal Wedding\" Between Anna and Kristoff Is Crashed by New Villain in First-Look",
+      "title": "'Frozen 3' \"Royal Wedding\" Between Anna and Kristoff Is Crashed by New Villain in First-Look",
+      "snapshot": "Idina Menzel, Kristen Bell, Josh Gad and Jonathan Groff are back for a new entry in the hit franchise, releasing Thanksgiving 2027.",
+      "summary": "Idina Menzel, Kristen Bell, Josh Gad and Jonathan Groff are back for a new entry in the hit franchise, releasing Thanksgiving 2027.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/frozen-3-royal-wedding-between-anna-and-kristoff-1236671593/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-15 12:48:45 AM ET",
+      "published_at": "2026-08-15 12:58:56 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Avengers: Doomsday' Footage Shows Off a \"Broken\" Doctor Doom"
+        "'Frozen 3' \"Royal Wedding\" Between Anna and Kristoff Is Crashed by New Villain in First-Look"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -627,22 +627,22 @@
       "priority_score": 77
     },
     {
-      "id": "film-32-7885235503322114507",
-      "key": "film-32-7885235503322114507",
+      "id": "film-32-8510113647015001008",
+      "key": "film-32-8510113647015001008",
       "category": "Film",
       "label": "Film",
-      "headline": "Live Updates From Disney's Mega Film and TV Panel at D23 2026 🔴 - Gizmodo",
-      "title": "Live Updates From Disney's Mega Film and TV Panel at D23 2026 🔴 - Gizmodo",
-      "snapshot": "Live Updates From Disney's Mega Film and TV Panel at D23 2026 🔴 Gizmodo",
-      "summary": "Live Updates From Disney's Mega Film and TV Panel at D23 2026 🔴 Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORXRNYkFaRnBpdnRJS1ZkbDQ3M3h3am02WXJDNWRxbDFmWWdlYUxqV1htc2o3MkJhLUUza1l5blZxNWZrTDhodW0zUl8wWURhMmVHa0NFdGoxY1N5S1NubGFHVmJNVGtfcGFsMXE0dndzSUNZNExrVkZlZC03NC1sNVZTOFpqZmJobWJ6czRR?oc=5",
+      "headline": "Disney's D23: All the movies, TV series and more announced so far - ABC News - Breaking News, Latest News and Videos",
+      "title": "Disney's D23: All the movies, TV series and more announced so far - ABC News - Breaking News, Latest News and Videos",
+      "snapshot": "Disney's D23: All the movies, TV series and more announced so far ABC News - Breaking News, Latest News and Videos",
+      "summary": "Disney's D23: All the movies, TV series and more announced so far ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX2tGemhTaVY5cDVWRWExVFpzVlRmSUNjc09feVRmSkNpRlVkNVZDYk50S09FYkJrMGFYc0dOVVhjRlBFRGlhQkNJemlIdkNLUTBFM0ZwY25qQm95bWFiLXRyY3o4Q3VYNktnNGZ3cTBBLWFQbHM4Ni0wXzlrOGdIZkNUTUNpN1pBMS1Vb0xFLTcyN002NkUxRmltOEJZaGRoN0xz0gGoAUFVX3lxTE5hNkZsZ3B6b0c3MHQtWXBqRWE4Y0g3OU5ReVpLTFBucWk4aDkxTm4wTXhycUhFbDFUVWVzcTdyUTl0djFUVl9wM1ktejNHUG5sS2l0NnBaT0pJN0JMU1RGN095VzZ4c2dQUVczUGJQdUlzbzliSERtM1Zqa01nU1JYM1pLbEZtREY2cEJpV3VvUWgtS2Njd25SM3RUYktVRGs4MVJiRGhJWg?oc=5",
       "source": "Google News",
       "source_name": "Google News",
       "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "published_at": "2026-08-14 09:01:20 PM ET",
+      "published_at": "2026-08-15 01:45:08 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Live Updates From Disney's Mega Film and TV Panel at D23 2026 🔴 - Gizmodo"
+        "Disney's D23: All the movies, TV series and more announced so far - ABC News - Breaking News, Latest News and Videos"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -654,8 +654,8 @@
       "priority_score": 68
     },
     {
-      "id": "music-11-2291626713709533102",
-      "key": "music-11-2291626713709533102",
+      "id": "music-11-6676884199692384705",
+      "key": "music-11-6676884199692384705",
       "category": "Music",
       "label": "Music",
       "headline": "Here Are Events Marc Anthony, Feid, Karol G & More Latin Music Artists Are Joining in Support of Colombia and Venezuela Earthquake Relief",
@@ -681,8 +681,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-5052411992037368807",
-      "key": "gaming-1-5052411992037368807",
+      "id": "gaming-1-7189430426192889526",
+      "key": "gaming-1-7189430426192889526",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The Simpsons: Hit & Run 'Coming Back in Some Form,' Creator Matt Groening Says",
@@ -710,8 +710,8 @@
   ],
   "editor_signals": [
     {
-      "id": "film-2-2716460234352001552",
-      "key": "film-2-2716460234352001552",
+      "id": "film-2-8937197101185636173",
+      "key": "film-2-8937197101185636173",
       "category": "Film",
       "label": "Film",
       "headline": "'Star Wars: Starfighter' Footage: Ryan Gosling Races Through the Galaxy With Young Sidekick",
@@ -737,8 +737,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-7581405269728309844",
-      "key": "film-12-7581405269728309844",
+      "id": "film-12-5481445912109607264",
+      "key": "film-12-5481445912109607264",
       "category": "Film",
       "label": "Film",
       "headline": "'Frozen 3' First Look Teases Wedding Bells & An Icy Villain From A Land \"More Wild And Dangerous\" Than Ever Before - D23",
@@ -764,22 +764,22 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-8626941618534902294",
-      "key": "film-24-8626941618534902294",
+      "id": "film-24-6208222071602476178",
+      "key": "film-24-6208222071602476178",
       "category": "Film",
       "label": "Film",
-      "headline": "Kieran Culkin to Star in Animated Movie 'Clay' for Disney",
-      "title": "Kieran Culkin to Star in Animated Movie 'Clay' for Disney",
-      "snapshot": "The news was revealed at D23 on Friday, with a release date set for November 2028.",
-      "summary": "The news was revealed at D23 on Friday, with a release date set for November 2028.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/kieran-culkin-to-star-in-animated-movie-clay-1236673989/",
+      "headline": "'Avengers: Doomsday' Footage Shows Off a \"Broken\" Doctor Doom",
+      "title": "'Avengers: Doomsday' Footage Shows Off a \"Broken\" Doctor Doom",
+      "snapshot": "The feature stars Robert Downey Jr. as the villain who faces off against an entire cinematic uinverse.",
+      "summary": "The feature stars Robert Downey Jr. as the villain who faces off against an entire cinematic uinverse.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/avengers-doomsday-trailer-doctor-doom-1236673352/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-15 12:41:28 AM ET",
+      "published_at": "2026-08-15 12:48:45 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Kieran Culkin to Star in Animated Movie 'Clay' for Disney"
+        "'Avengers: Doomsday' Footage Shows Off a \"Broken\" Doctor Doom"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -791,22 +791,22 @@
       "priority_score": 76
     },
     {
-      "id": "film-33-135651696844672162",
-      "key": "film-33-135651696844672162",
+      "id": "film-33-5204240542808455286",
+      "key": "film-33-5204240542808455286",
       "category": "Film",
       "label": "Film",
-      "headline": "Destination D23 2026: Movies news from Disney - Attractions Magazine",
-      "title": "Destination D23 2026: Movies news from Disney - Attractions Magazine",
-      "snapshot": "Destination D23 2026: Movies news from Disney Attractions Magazine",
-      "summary": "Destination D23 2026: Movies news from Disney Attractions Magazine",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcWVadHJqZmVtZ3pnVHhyS0FVRHJRRzdEbFV6SGMycXhWUkdoT2RhVFpxaGt5cC01YUxXbVJSU1NfYi03dkppaUZ4b3dtNjAwMmNWYmZUQW5xN3VsaWhzcFFDZzZYZXMyTjlLRlJEQ0N5eG9SS1Z3Y2liZTByYjJYSWZtYw?oc=5",
+      "headline": "Live Updates From Disney's Mega Film and TV Panel at D23 2026 🔴 - Gizmodo",
+      "title": "Live Updates From Disney's Mega Film and TV Panel at D23 2026 🔴 - Gizmodo",
+      "snapshot": "Live Updates From Disney's Mega Film and TV Panel at D23 2026 🔴 Gizmodo",
+      "summary": "Live Updates From Disney's Mega Film and TV Panel at D23 2026 🔴 Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORXRNYkFaRnBpdnRJS1ZkbDQ3M3h3am02WXJDNWRxbDFmWWdlYUxqV1htc2o3MkJhLUUza1l5blZxNWZrTDhodW0zUl8wWURhMmVHa0NFdGoxY1N5S1NubGFHVmJNVGtfcGFsMXE0dndzSUNZNExrVkZlZC03NC1sNVZTOFpqZmJobWJ6czRR?oc=5",
       "source": "Google News",
       "source_name": "Google News",
       "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "published_at": "2026-08-14 10:38:38 PM ET",
+      "published_at": "2026-08-15 12:30:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Destination D23 2026: Movies news from Disney - Attractions Magazine"
+        "Live Updates From Disney's Mega Film and TV Panel at D23 2026 🔴 - Gizmodo"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -818,8 +818,8 @@
       "priority_score": 67
     },
     {
-      "id": "music-12-1265615091637054260",
-      "key": "music-12-1265615091637054260",
+      "id": "music-12-1039789098991888592",
+      "key": "music-12-1039789098991888592",
       "category": "Music",
       "label": "Music",
       "headline": "Billboard's Music Industry Events Calendar",
@@ -845,8 +845,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-1611620608849885519",
-      "key": "gaming-2-1611620608849885519",
+      "id": "gaming-2-6575274853761227349",
+      "key": "gaming-2-6575274853761227349",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Upcoming Nintendo Switch 2 Games: Release Dates for 2026 and Beyond",
@@ -872,8 +872,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-1008429847711484395",
-      "key": "film-3-1008429847711484395",
+      "id": "film-3-283958613696979255",
+      "key": "film-3-283958613696979255",
       "category": "Film",
       "label": "Film",
       "headline": "Disney's 'Hexed' Adds Walton Goggins and Jodie Foster to Cast",
@@ -899,8 +899,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-2770585959345909048",
-      "key": "film-13-2770585959345909048",
+      "id": "film-13-8760554556831149046",
+      "key": "film-13-8760554556831149046",
       "category": "Film",
       "label": "Film",
       "headline": "'Hexed': Disney Thanksgiving Animated Pic Adds Jodie Foster & Walton Goggins - D23",
@@ -926,22 +926,22 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-7382636348862151443",
-      "key": "film-25-7382636348862151443",
+      "id": "film-25-1922436875262085816",
+      "key": "film-25-1922436875262085816",
       "category": "Film",
       "label": "Film",
-      "headline": "Ryan Gosling Shows Off First Footage From 'Star Wars: Starfighter,' About \"A Guy From the Wrong Side of the Galaxy\"",
-      "title": "Ryan Gosling Shows Off First Footage From 'Star Wars: Starfighter,' About \"A Guy From the Wrong Side of the Galaxy\"",
-      "snapshot": "The Shawn Levy-directed project is set to fly into theaters May 28, 2027.",
-      "summary": "The Shawn Levy-directed project is set to fly into theaters May 28, 2027.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/ryan-gosling-first-footage-star-wars-starfighter-d23-1236671420/",
+      "headline": "Kieran Culkin to Star in Animated Movie 'Clay' for Disney",
+      "title": "Kieran Culkin to Star in Animated Movie 'Clay' for Disney",
+      "snapshot": "The news was revealed at D23 on Friday, with a release date set for November 2028.",
+      "summary": "The news was revealed at D23 on Friday, with a release date set for November 2028.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/kieran-culkin-to-star-in-animated-movie-clay-1236673989/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-15 12:32:25 AM ET",
+      "published_at": "2026-08-15 12:41:28 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Ryan Gosling Shows Off First Footage From 'Star Wars: Starfighter,' About \"A Guy From the Wrong Side of the Galaxy\""
+        "Kieran Culkin to Star in Animated Movie 'Clay' for Disney"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -953,22 +953,22 @@
       "priority_score": 75
     },
     {
-      "id": "film-34-108409255097825203",
-      "key": "film-34-108409255097825203",
+      "id": "film-34-668442869992708996",
+      "key": "film-34-668442869992708996",
       "category": "Film",
       "label": "Film",
-      "headline": "Sundance 2026 Movies Sold: Michal Marczak's Doc 'Closure' Lands at 1-2 Special - IndieWire",
-      "title": "Sundance 2026 Movies Sold: Michal Marczak's Doc 'Closure' Lands at 1-2 Special - IndieWire",
-      "snapshot": "Sundance 2026 Movies Sold: Michal Marczak's Doc 'Closure' Lands at 1-2 Special IndieWire",
-      "summary": "Sundance 2026 Movies Sold: Michal Marczak's Doc 'Closure' Lands at 1-2 Special IndieWire",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa2lwS3g2dWQySkhQVE9Zb09QeDJ3OVRLYXpHc0M0bzJPMXY4S0FaQXBhME1teHBnQnkzaXNfaUZJMGxNaE1KTFVXNkQwTmRLTF9vTWZOODVtY21yYUJFc1pqUnJib2FOc0IwWlFPWmt3X3hyZUw0MnlLVmkydkFJNE9pRlJtSjRpeUVSZlhB?oc=5",
+      "headline": "Destination D23 2026: Movies news from Disney - Attractions Magazine",
+      "title": "Destination D23 2026: Movies news from Disney - Attractions Magazine",
+      "snapshot": "Destination D23 2026: Movies news from Disney Attractions Magazine",
+      "summary": "Destination D23 2026: Movies news from Disney Attractions Magazine",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcWVadHJqZmVtZ3pnVHhyS0FVRHJRRzdEbFV6SGMycXhWUkdoT2RhVFpxaGt5cC01YUxXbVJSU1NfYi03dkppaUZ4b3dtNjAwMmNWYmZUQW5xN3VsaWhzcFFDZzZYZXMyTjlLRlJEQ0N5eG9SS1Z3Y2liZTByYjJYSWZtYw?oc=5",
       "source": "Google News",
       "source_name": "Google News",
       "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "published_at": "2026-08-12 02:04:46 PM ET",
+      "published_at": "2026-08-14 10:38:38 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Sundance 2026 Movies Sold: Michal Marczak's Doc 'Closure' Lands at 1-2 Special - IndieWire"
+        "Destination D23 2026: Movies news from Disney - Attractions Magazine"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -980,8 +980,8 @@
       "priority_score": 66
     },
     {
-      "id": "music-13-4165453502229093212",
-      "key": "music-13-4165453502229093212",
+      "id": "music-13-5842026539963603441",
+      "key": "music-13-5842026539963603441",
       "category": "Music",
       "label": "Music",
       "headline": "In Canada: BTS' J-Hope & RM Attend Drake's Toronto Concert; Neil Peart Doc Premiering at TIFF",
@@ -1007,8 +1007,8 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-8397074589252190250",
-      "key": "gaming-3-8397074589252190250",
+      "id": "gaming-3-3338019582461210447",
+      "key": "gaming-3-3338019582461210447",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "LEGO Timmy and Tommy's Fun Day Out Is Easily the Best Animal Crossing Set So Far",
@@ -1036,8 +1036,8 @@
   ],
   "homepage_cards": [
     {
-      "id": "film-0-9065114477121251169",
-      "key": "film-0-9065114477121251169",
+      "id": "film-0-5545638227543940510",
+      "key": "film-0-5545638227543940510",
       "category": "Film",
       "label": "Film",
       "headline": "'Frozen 3' First Details: Anna and Kristoff Get Married, Olaf Gets a Girlfriend and a New Villain Emerges",
@@ -1063,8 +1063,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-6583469414917374712",
-      "key": "film-10-6583469414917374712",
+      "id": "film-10-9110957571294373856",
+      "key": "film-10-9110957571294373856",
       "category": "Film",
       "label": "Film",
       "headline": "Everything Announced At D23: New X-Men Cast, 'Avengers: Doomsday' Teaser, 'Coco 2,' 'Tangled' Live Action First Look & More",
@@ -1090,22 +1090,22 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-5013748661076887983",
-      "key": "film-22-5013748661076887983",
+      "id": "film-22-1247733076811195233",
+      "key": "film-22-1247733076811195233",
       "category": "Film",
       "label": "Film",
-      "headline": "'Frozen 3' \"Royal Wedding\" Between Anna and Kristoff Is Crashed by New Villain in First-Look",
-      "title": "'Frozen 3' \"Royal Wedding\" Between Anna and Kristoff Is Crashed by New Villain in First-Look",
-      "snapshot": "Idina Menzel, Kristen Bell, Josh Gad and Jonathan Groff are back for a new entry in the hit franchise, releasing Thanksgiving 2027.",
-      "summary": "Idina Menzel, Kristen Bell, Josh Gad and Jonathan Groff are back for a new entry in the hit franchise, releasing Thanksgiving 2027.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/frozen-3-royal-wedding-between-anna-and-kristoff-1236671593/",
+      "headline": "'I Live in V.I.,' a Social Class Satire From Nigeria, Will Dive Into Urban Alienation and Gentrification",
+      "title": "'I Live in V.I.,' a Social Class Satire From Nigeria, Will Dive Into Urban Alienation and Gentrification",
+      "snapshot": "Director Ugochukwu Azuya's project, inspired by his experience living in Lagos and its \"materialistically driven, very classist society,\" was one of the films in development showcased at Locarno Open Doors.",
+      "summary": "Director Ugochukwu Azuya's project, inspired by his experience living in Lagos and its \"materialistically driven, very classist society,\" was one of the films in development showcased at Locarno Open Doors.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/i-live-in-v-i-social-satire-film-nigeria-locarno-open-doors-1236673552/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-15 12:58:56 AM ET",
+      "published_at": "2026-08-15 03:20:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Frozen 3' \"Royal Wedding\" Between Anna and Kristoff Is Crashed by New Villain in First-Look"
+        "'I Live in V.I.,' a Social Class Satire From Nigeria, Will Dive Into Urban Alienation and Gentrification"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1117,8 +1117,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-31-8567773039775719361",
-      "key": "film-31-8567773039775719361",
+      "id": "film-31-7944894549092742223",
+      "key": "film-31-7944894549092742223",
       "category": "Film",
       "label": "Film",
       "headline": "The 30 best action-adventure movies, ranked - Entertainment Weekly",
@@ -1144,8 +1144,8 @@
       "priority_score": 69
     },
     {
-      "id": "music-10-5269050621992417976",
-      "key": "music-10-5269050621992417976",
+      "id": "music-10-1177773314944875046",
+      "key": "music-10-1177773314944875046",
       "category": "Music",
       "label": "Music",
       "headline": "Slipknot Cuts Ties With Sid Wilson After Nearly 30 Years",
@@ -1171,8 +1171,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-9096024191858132504",
-      "key": "gaming-0-9096024191858132504",
+      "id": "gaming-0-6177992714109400556",
+      "key": "gaming-0-6177992714109400556",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Kingdom Hearts 4 Gets New Trailer, Late 2027 Release Window, and a Disney+ Anime Series",
@@ -1198,8 +1198,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-3343665599178470062",
-      "key": "film-1-3343665599178470062",
+      "id": "film-1-3899421646804753924",
+      "key": "film-1-3899421646804753924",
       "category": "Film",
       "label": "Film",
       "headline": "Marvel's 'X-Men' Reboot Sets May 2028 Release Date",
@@ -1225,8 +1225,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-6811785488263369828",
-      "key": "film-11-6811785488263369828",
+      "id": "film-11-2951135664089837218",
+      "key": "film-11-2951135664089837218",
       "category": "Film",
       "label": "Film",
       "headline": "'Zootopia 3' In Works At Disney; Ke Huy Quan & Ginnifer Goodwin Reprising Roles - D23",
@@ -1252,22 +1252,22 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-7542041671191198866",
-      "key": "film-23-7542041671191198866",
+      "id": "film-23-1243840002548875315",
+      "key": "film-23-1243840002548875315",
       "category": "Film",
       "label": "Film",
-      "headline": "'Avengers: Doomsday' Footage Shows Off a \"Broken\" Doctor Doom",
-      "title": "'Avengers: Doomsday' Footage Shows Off a \"Broken\" Doctor Doom",
-      "snapshot": "The feature stars Robert Downey Jr. as the villain who faces off against an entire cinematic uinverse.",
-      "summary": "The feature stars Robert Downey Jr. as the villain who faces off against an entire cinematic uinverse.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/avengers-doomsday-trailer-doctor-doom-1236673352/",
+      "headline": "'Frozen 3' \"Royal Wedding\" Between Anna and Kristoff Is Crashed by New Villain in First-Look",
+      "title": "'Frozen 3' \"Royal Wedding\" Between Anna and Kristoff Is Crashed by New Villain in First-Look",
+      "snapshot": "Idina Menzel, Kristen Bell, Josh Gad and Jonathan Groff are back for a new entry in the hit franchise, releasing Thanksgiving 2027.",
+      "summary": "Idina Menzel, Kristen Bell, Josh Gad and Jonathan Groff are back for a new entry in the hit franchise, releasing Thanksgiving 2027.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/frozen-3-royal-wedding-between-anna-and-kristoff-1236671593/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-15 12:48:45 AM ET",
+      "published_at": "2026-08-15 12:58:56 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Avengers: Doomsday' Footage Shows Off a \"Broken\" Doctor Doom"
+        "'Frozen 3' \"Royal Wedding\" Between Anna and Kristoff Is Crashed by New Villain in First-Look"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1279,22 +1279,22 @@
       "priority_score": 77
     },
     {
-      "id": "film-32-7885235503322114507",
-      "key": "film-32-7885235503322114507",
+      "id": "film-32-8510113647015001008",
+      "key": "film-32-8510113647015001008",
       "category": "Film",
       "label": "Film",
-      "headline": "Live Updates From Disney's Mega Film and TV Panel at D23 2026 🔴 - Gizmodo",
-      "title": "Live Updates From Disney's Mega Film and TV Panel at D23 2026 🔴 - Gizmodo",
-      "snapshot": "Live Updates From Disney's Mega Film and TV Panel at D23 2026 🔴 Gizmodo",
-      "summary": "Live Updates From Disney's Mega Film and TV Panel at D23 2026 🔴 Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORXRNYkFaRnBpdnRJS1ZkbDQ3M3h3am02WXJDNWRxbDFmWWdlYUxqV1htc2o3MkJhLUUza1l5blZxNWZrTDhodW0zUl8wWURhMmVHa0NFdGoxY1N5S1NubGFHVmJNVGtfcGFsMXE0dndzSUNZNExrVkZlZC03NC1sNVZTOFpqZmJobWJ6czRR?oc=5",
+      "headline": "Disney's D23: All the movies, TV series and more announced so far - ABC News - Breaking News, Latest News and Videos",
+      "title": "Disney's D23: All the movies, TV series and more announced so far - ABC News - Breaking News, Latest News and Videos",
+      "snapshot": "Disney's D23: All the movies, TV series and more announced so far ABC News - Breaking News, Latest News and Videos",
+      "summary": "Disney's D23: All the movies, TV series and more announced so far ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX2tGemhTaVY5cDVWRWExVFpzVlRmSUNjc09feVRmSkNpRlVkNVZDYk50S09FYkJrMGFYc0dOVVhjRlBFRGlhQkNJemlIdkNLUTBFM0ZwY25qQm95bWFiLXRyY3o4Q3VYNktnNGZ3cTBBLWFQbHM4Ni0wXzlrOGdIZkNUTUNpN1pBMS1Vb0xFLTcyN002NkUxRmltOEJZaGRoN0xz0gGoAUFVX3lxTE5hNkZsZ3B6b0c3MHQtWXBqRWE4Y0g3OU5ReVpLTFBucWk4aDkxTm4wTXhycUhFbDFUVWVzcTdyUTl0djFUVl9wM1ktejNHUG5sS2l0NnBaT0pJN0JMU1RGN095VzZ4c2dQUVczUGJQdUlzbzliSERtM1Zqa01nU1JYM1pLbEZtREY2cEJpV3VvUWgtS2Njd25SM3RUYktVRGs4MVJiRGhJWg?oc=5",
       "source": "Google News",
       "source_name": "Google News",
       "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "published_at": "2026-08-14 09:01:20 PM ET",
+      "published_at": "2026-08-15 01:45:08 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Live Updates From Disney's Mega Film and TV Panel at D23 2026 🔴 - Gizmodo"
+        "Disney's D23: All the movies, TV series and more announced so far - ABC News - Breaking News, Latest News and Videos"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1306,8 +1306,8 @@
       "priority_score": 68
     },
     {
-      "id": "music-11-2291626713709533102",
-      "key": "music-11-2291626713709533102",
+      "id": "music-11-6676884199692384705",
+      "key": "music-11-6676884199692384705",
       "category": "Music",
       "label": "Music",
       "headline": "Here Are Events Marc Anthony, Feid, Karol G & More Latin Music Artists Are Joining in Support of Colombia and Venezuela Earthquake Relief",
@@ -1333,8 +1333,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-5052411992037368807",
-      "key": "gaming-1-5052411992037368807",
+      "id": "gaming-1-7189430426192889526",
+      "key": "gaming-1-7189430426192889526",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The Simpsons: Hit & Run 'Coming Back in Some Form,' Creator Matt Groening Says",
@@ -1360,8 +1360,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-2-2716460234352001552",
-      "key": "film-2-2716460234352001552",
+      "id": "film-2-8937197101185636173",
+      "key": "film-2-8937197101185636173",
       "category": "Film",
       "label": "Film",
       "headline": "'Star Wars: Starfighter' Footage: Ryan Gosling Races Through the Galaxy With Young Sidekick",
@@ -1387,8 +1387,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-7581405269728309844",
-      "key": "film-12-7581405269728309844",
+      "id": "film-12-5481445912109607264",
+      "key": "film-12-5481445912109607264",
       "category": "Film",
       "label": "Film",
       "headline": "'Frozen 3' First Look Teases Wedding Bells & An Icy Villain From A Land \"More Wild And Dangerous\" Than Ever Before - D23",
@@ -1414,22 +1414,22 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-8626941618534902294",
-      "key": "film-24-8626941618534902294",
+      "id": "film-24-6208222071602476178",
+      "key": "film-24-6208222071602476178",
       "category": "Film",
       "label": "Film",
-      "headline": "Kieran Culkin to Star in Animated Movie 'Clay' for Disney",
-      "title": "Kieran Culkin to Star in Animated Movie 'Clay' for Disney",
-      "snapshot": "The news was revealed at D23 on Friday, with a release date set for November 2028.",
-      "summary": "The news was revealed at D23 on Friday, with a release date set for November 2028.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/kieran-culkin-to-star-in-animated-movie-clay-1236673989/",
+      "headline": "'Avengers: Doomsday' Footage Shows Off a \"Broken\" Doctor Doom",
+      "title": "'Avengers: Doomsday' Footage Shows Off a \"Broken\" Doctor Doom",
+      "snapshot": "The feature stars Robert Downey Jr. as the villain who faces off against an entire cinematic uinverse.",
+      "summary": "The feature stars Robert Downey Jr. as the villain who faces off against an entire cinematic uinverse.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/avengers-doomsday-trailer-doctor-doom-1236673352/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-15 12:41:28 AM ET",
+      "published_at": "2026-08-15 12:48:45 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Kieran Culkin to Star in Animated Movie 'Clay' for Disney"
+        "'Avengers: Doomsday' Footage Shows Off a \"Broken\" Doctor Doom"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1441,22 +1441,22 @@
       "priority_score": 76
     },
     {
-      "id": "film-33-135651696844672162",
-      "key": "film-33-135651696844672162",
+      "id": "film-33-5204240542808455286",
+      "key": "film-33-5204240542808455286",
       "category": "Film",
       "label": "Film",
-      "headline": "Destination D23 2026: Movies news from Disney - Attractions Magazine",
-      "title": "Destination D23 2026: Movies news from Disney - Attractions Magazine",
-      "snapshot": "Destination D23 2026: Movies news from Disney Attractions Magazine",
-      "summary": "Destination D23 2026: Movies news from Disney Attractions Magazine",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcWVadHJqZmVtZ3pnVHhyS0FVRHJRRzdEbFV6SGMycXhWUkdoT2RhVFpxaGt5cC01YUxXbVJSU1NfYi03dkppaUZ4b3dtNjAwMmNWYmZUQW5xN3VsaWhzcFFDZzZYZXMyTjlLRlJEQ0N5eG9SS1Z3Y2liZTByYjJYSWZtYw?oc=5",
+      "headline": "Live Updates From Disney's Mega Film and TV Panel at D23 2026 🔴 - Gizmodo",
+      "title": "Live Updates From Disney's Mega Film and TV Panel at D23 2026 🔴 - Gizmodo",
+      "snapshot": "Live Updates From Disney's Mega Film and TV Panel at D23 2026 🔴 Gizmodo",
+      "summary": "Live Updates From Disney's Mega Film and TV Panel at D23 2026 🔴 Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORXRNYkFaRnBpdnRJS1ZkbDQ3M3h3am02WXJDNWRxbDFmWWdlYUxqV1htc2o3MkJhLUUza1l5blZxNWZrTDhodW0zUl8wWURhMmVHa0NFdGoxY1N5S1NubGFHVmJNVGtfcGFsMXE0dndzSUNZNExrVkZlZC03NC1sNVZTOFpqZmJobWJ6czRR?oc=5",
       "source": "Google News",
       "source_name": "Google News",
       "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "published_at": "2026-08-14 10:38:38 PM ET",
+      "published_at": "2026-08-15 12:30:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Destination D23 2026: Movies news from Disney - Attractions Magazine"
+        "Live Updates From Disney's Mega Film and TV Panel at D23 2026 🔴 - Gizmodo"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1468,8 +1468,8 @@
       "priority_score": 67
     },
     {
-      "id": "music-12-1265615091637054260",
-      "key": "music-12-1265615091637054260",
+      "id": "music-12-1039789098991888592",
+      "key": "music-12-1039789098991888592",
       "category": "Music",
       "label": "Music",
       "headline": "Billboard's Music Industry Events Calendar",
@@ -1495,8 +1495,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-1611620608849885519",
-      "key": "gaming-2-1611620608849885519",
+      "id": "gaming-2-6575274853761227349",
+      "key": "gaming-2-6575274853761227349",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Upcoming Nintendo Switch 2 Games: Release Dates for 2026 and Beyond",
@@ -1522,8 +1522,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-1008429847711484395",
-      "key": "film-3-1008429847711484395",
+      "id": "film-3-283958613696979255",
+      "key": "film-3-283958613696979255",
       "category": "Film",
       "label": "Film",
       "headline": "Disney's 'Hexed' Adds Walton Goggins and Jodie Foster to Cast",
@@ -1549,8 +1549,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-2770585959345909048",
-      "key": "film-13-2770585959345909048",
+      "id": "film-13-8760554556831149046",
+      "key": "film-13-8760554556831149046",
       "category": "Film",
       "label": "Film",
       "headline": "'Hexed': Disney Thanksgiving Animated Pic Adds Jodie Foster & Walton Goggins - D23",
@@ -1576,22 +1576,22 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-7382636348862151443",
-      "key": "film-25-7382636348862151443",
+      "id": "film-25-1922436875262085816",
+      "key": "film-25-1922436875262085816",
       "category": "Film",
       "label": "Film",
-      "headline": "Ryan Gosling Shows Off First Footage From 'Star Wars: Starfighter,' About \"A Guy From the Wrong Side of the Galaxy\"",
-      "title": "Ryan Gosling Shows Off First Footage From 'Star Wars: Starfighter,' About \"A Guy From the Wrong Side of the Galaxy\"",
-      "snapshot": "The Shawn Levy-directed project is set to fly into theaters May 28, 2027.",
-      "summary": "The Shawn Levy-directed project is set to fly into theaters May 28, 2027.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/ryan-gosling-first-footage-star-wars-starfighter-d23-1236671420/",
+      "headline": "Kieran Culkin to Star in Animated Movie 'Clay' for Disney",
+      "title": "Kieran Culkin to Star in Animated Movie 'Clay' for Disney",
+      "snapshot": "The news was revealed at D23 on Friday, with a release date set for November 2028.",
+      "summary": "The news was revealed at D23 on Friday, with a release date set for November 2028.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/kieran-culkin-to-star-in-animated-movie-clay-1236673989/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-08-15 12:32:25 AM ET",
+      "published_at": "2026-08-15 12:41:28 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Ryan Gosling Shows Off First Footage From 'Star Wars: Starfighter,' About \"A Guy From the Wrong Side of the Galaxy\""
+        "Kieran Culkin to Star in Animated Movie 'Clay' for Disney"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1603,22 +1603,22 @@
       "priority_score": 75
     },
     {
-      "id": "film-34-108409255097825203",
-      "key": "film-34-108409255097825203",
+      "id": "film-34-668442869992708996",
+      "key": "film-34-668442869992708996",
       "category": "Film",
       "label": "Film",
-      "headline": "Sundance 2026 Movies Sold: Michal Marczak's Doc 'Closure' Lands at 1-2 Special - IndieWire",
-      "title": "Sundance 2026 Movies Sold: Michal Marczak's Doc 'Closure' Lands at 1-2 Special - IndieWire",
-      "snapshot": "Sundance 2026 Movies Sold: Michal Marczak's Doc 'Closure' Lands at 1-2 Special IndieWire",
-      "summary": "Sundance 2026 Movies Sold: Michal Marczak's Doc 'Closure' Lands at 1-2 Special IndieWire",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa2lwS3g2dWQySkhQVE9Zb09QeDJ3OVRLYXpHc0M0bzJPMXY4S0FaQXBhME1teHBnQnkzaXNfaUZJMGxNaE1KTFVXNkQwTmRLTF9vTWZOODVtY21yYUJFc1pqUnJib2FOc0IwWlFPWmt3X3hyZUw0MnlLVmkydkFJNE9pRlJtSjRpeUVSZlhB?oc=5",
+      "headline": "Destination D23 2026: Movies news from Disney - Attractions Magazine",
+      "title": "Destination D23 2026: Movies news from Disney - Attractions Magazine",
+      "snapshot": "Destination D23 2026: Movies news from Disney Attractions Magazine",
+      "summary": "Destination D23 2026: Movies news from Disney Attractions Magazine",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcWVadHJqZmVtZ3pnVHhyS0FVRHJRRzdEbFV6SGMycXhWUkdoT2RhVFpxaGt5cC01YUxXbVJSU1NfYi03dkppaUZ4b3dtNjAwMmNWYmZUQW5xN3VsaWhzcFFDZzZYZXMyTjlLRlJEQ0N5eG9SS1Z3Y2liZTByYjJYSWZtYw?oc=5",
       "source": "Google News",
       "source_name": "Google News",
       "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "published_at": "2026-08-12 02:04:46 PM ET",
+      "published_at": "2026-08-14 10:38:38 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Sundance 2026 Movies Sold: Michal Marczak's Doc 'Closure' Lands at 1-2 Special - IndieWire"
+        "Destination D23 2026: Movies news from Disney - Attractions Magazine"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1630,8 +1630,8 @@
       "priority_score": 66
     },
     {
-      "id": "music-13-4165453502229093212",
-      "key": "music-13-4165453502229093212",
+      "id": "music-13-5842026539963603441",
+      "key": "music-13-5842026539963603441",
       "category": "Music",
       "label": "Music",
       "headline": "In Canada: BTS' J-Hope & RM Attend Drake's Toronto Concert; Neil Peart Doc Premiering at TIFF",
@@ -1657,8 +1657,8 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-8397074589252190250",
-      "key": "gaming-3-8397074589252190250",
+      "id": "gaming-3-3338019582461210447",
+      "key": "gaming-3-3338019582461210447",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "LEGO Timmy and Tommy's Fun Day Out Is Easily the Best Animal Crossing Set So Far",
@@ -1694,24 +1694,24 @@
       "key_storylines": [
         "‘Frozen 3’ First Details: Anna and Kristoff Get Married, Olaf Gets a Girlfriend and a New Villain Emerges",
         "Everything Announced At D23: New X-Men Cast, ‘Avengers: Doomsday’ Teaser, ‘Coco 2,’ ‘Tangled’ Live Action First Look & More",
-        "‘Frozen 3’ “Royal Wedding” Between Anna and Kristoff Is Crashed by New Villain in First-Look",
+        "‘I Live in V.I.,’ a Social Class Satire From Nigeria, Will Dive Into Urban Alienation and Gentrification",
         "The 30 best action-adventure movies, ranked - Entertainment Weekly",
         "Marvel’s ‘X-Men’ Reboot Sets May 2028 Release Date"
       ],
       "watch_list": [
         "‘Frozen 3’ First Details: Anna and Kristoff Get Married, Olaf Gets a Girlfriend and a New Villain Emerges",
         "Everything Announced At D23: New X-Men Cast, ‘Avengers: Doomsday’ Teaser, ‘Coco 2,’ ‘Tangled’ Live Action First Look & More",
-        "‘Frozen 3’ “Royal Wedding” Between Anna and Kristoff Is Crashed by New Villain in First-Look",
+        "‘I Live in V.I.,’ a Social Class Satire From Nigeria, Will Dive Into Urban Alienation and Gentrification",
         "The 30 best action-adventure movies, ranked - Entertainment Weekly",
         "Marvel’s ‘X-Men’ Reboot Sets May 2028 Release Date",
         "‘Zootopia 3’ In Works At Disney; Ke Huy Quan & Ginnifer Goodwin Reprising Roles – D23",
-        "‘Avengers: Doomsday’ Footage Shows Off a “Broken” Doctor Doom",
-        "Live Updates From Disney’s Mega Film and TV Panel at D23 2026 🔴 - Gizmodo"
+        "‘Frozen 3’ “Royal Wedding” Between Anna and Kristoff Is Crashed by New Villain in First-Look",
+        "Disney's D23: All the movies, TV series and more announced so far - ABC News - Breaking News, Latest News and Videos"
       ],
       "homepage_cards": [
         {
-          "id": "film-0-9065114477121251169",
-          "key": "film-0-9065114477121251169",
+          "id": "film-0-5545638227543940510",
+          "key": "film-0-5545638227543940510",
           "category": "Film",
           "label": "Film",
           "headline": "‘Frozen 3’ First Details: Anna and Kristoff Get Married, Olaf Gets a Girlfriend and a New Villain Emerges",
@@ -1738,8 +1738,8 @@
           ]
         },
         {
-          "id": "film-10-6583469414917374712",
-          "key": "film-10-6583469414917374712",
+          "id": "film-10-9110957571294373856",
+          "key": "film-10-9110957571294373856",
           "category": "Film",
           "label": "Film",
           "headline": "Everything Announced At D23: New X-Men Cast, ‘Avengers: Doomsday’ Teaser, ‘Coco 2,’ ‘Tangled’ Live Action First Look & More",
@@ -1766,25 +1766,25 @@
           ]
         },
         {
-          "id": "film-22-5013748661076887983",
-          "key": "film-22-5013748661076887983",
+          "id": "film-22-1247733076811195233",
+          "key": "film-22-1247733076811195233",
           "category": "Film",
           "label": "Film",
-          "headline": "‘Frozen 3’ “Royal Wedding” Between Anna and Kristoff Is Crashed by New Villain in First-Look",
-          "title": "‘Frozen 3’ “Royal Wedding” Between Anna and Kristoff Is Crashed by New Villain in First-Look",
-          "snapshot": "Idina Menzel, Kristen Bell, Josh Gad and Jonathan Groff are back for a new entry in the hit franchise, releasing Thanksgiving 2027.",
-          "summary": "Idina Menzel, Kristen Bell, Josh Gad and Jonathan Groff are back for a new entry in the hit franchise, releasing Thanksgiving 2027.",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/frozen-3-royal-wedding-between-anna-and-kristoff-1236671593/",
+          "headline": "‘I Live in V.I.,’ a Social Class Satire From Nigeria, Will Dive Into Urban Alienation and Gentrification",
+          "title": "‘I Live in V.I.,’ a Social Class Satire From Nigeria, Will Dive Into Urban Alienation and Gentrification",
+          "snapshot": "Director Ugochukwu Azuya's project, inspired by his experience living in Lagos and its \"materialistically driven, very classist society,\" was one of the films in development showcased at Locarno Open Doors.",
+          "summary": "Director Ugochukwu Azuya's project, inspired by his experience living in Lagos and its \"materialistically driven, very classist society,\" was one of the films in development showcased at Locarno Open Doors.",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/i-live-in-v-i-social-satire-film-nigeria-locarno-open-doors-1236673552/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-          "published_at": "2026-08-15 12:58:56 AM ET",
+          "published_at": "2026-08-15 03:20:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 78,
           "key_data": [
-            "‘Frozen 3’ “Royal Wedding” Between Anna and Kristoff Is Crashed by New Villain in First-Look"
+            "‘I Live in V.I.,’ a Social Class Satire From Nigeria, Will Dive Into Urban Alienation and Gentrification"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1794,8 +1794,8 @@
           ]
         },
         {
-          "id": "film-31-8567773039775719361",
-          "key": "film-31-8567773039775719361",
+          "id": "film-31-7944894549092742223",
+          "key": "film-31-7944894549092742223",
           "category": "Film",
           "label": "Film",
           "headline": "The 30 best action-adventure movies, ranked - Entertainment Weekly",
@@ -1822,8 +1822,8 @@
           ]
         },
         {
-          "id": "film-1-3343665599178470062",
-          "key": "film-1-3343665599178470062",
+          "id": "film-1-3899421646804753924",
+          "key": "film-1-3899421646804753924",
           "category": "Film",
           "label": "Film",
           "headline": "Marvel’s ‘X-Men’ Reboot Sets May 2028 Release Date",
@@ -1850,8 +1850,8 @@
           ]
         },
         {
-          "id": "film-11-6811785488263369828",
-          "key": "film-11-6811785488263369828",
+          "id": "film-11-2951135664089837218",
+          "key": "film-11-2951135664089837218",
           "category": "Film",
           "label": "Film",
           "headline": "‘Zootopia 3’ In Works At Disney; Ke Huy Quan & Ginnifer Goodwin Reprising Roles – D23",
@@ -1878,25 +1878,25 @@
           ]
         },
         {
-          "id": "film-23-7542041671191198866",
-          "key": "film-23-7542041671191198866",
+          "id": "film-23-1243840002548875315",
+          "key": "film-23-1243840002548875315",
           "category": "Film",
           "label": "Film",
-          "headline": "‘Avengers: Doomsday’ Footage Shows Off a “Broken” Doctor Doom",
-          "title": "‘Avengers: Doomsday’ Footage Shows Off a “Broken” Doctor Doom",
-          "snapshot": "The feature stars Robert Downey Jr. as the villain who faces off against an entire cinematic uinverse.",
-          "summary": "The feature stars Robert Downey Jr. as the villain who faces off against an entire cinematic uinverse.",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/avengers-doomsday-trailer-doctor-doom-1236673352/",
+          "headline": "‘Frozen 3’ “Royal Wedding” Between Anna and Kristoff Is Crashed by New Villain in First-Look",
+          "title": "‘Frozen 3’ “Royal Wedding” Between Anna and Kristoff Is Crashed by New Villain in First-Look",
+          "snapshot": "Idina Menzel, Kristen Bell, Josh Gad and Jonathan Groff are back for a new entry in the hit franchise, releasing Thanksgiving 2027.",
+          "summary": "Idina Menzel, Kristen Bell, Josh Gad and Jonathan Groff are back for a new entry in the hit franchise, releasing Thanksgiving 2027.",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/frozen-3-royal-wedding-between-anna-and-kristoff-1236671593/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-          "published_at": "2026-08-15 12:48:45 AM ET",
+          "published_at": "2026-08-15 12:58:56 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 77,
           "key_data": [
-            "‘Avengers: Doomsday’ Footage Shows Off a “Broken” Doctor Doom"
+            "‘Frozen 3’ “Royal Wedding” Between Anna and Kristoff Is Crashed by New Villain in First-Look"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1906,25 +1906,25 @@
           ]
         },
         {
-          "id": "film-32-7885235503322114507",
-          "key": "film-32-7885235503322114507",
+          "id": "film-32-8510113647015001008",
+          "key": "film-32-8510113647015001008",
           "category": "Film",
           "label": "Film",
-          "headline": "Live Updates From Disney’s Mega Film and TV Panel at D23 2026 🔴 - Gizmodo",
-          "title": "Live Updates From Disney’s Mega Film and TV Panel at D23 2026 🔴 - Gizmodo",
-          "snapshot": "Live Updates From Disney’s Mega Film and TV Panel at D23 2026 🔴 Gizmodo",
-          "summary": "Live Updates From Disney’s Mega Film and TV Panel at D23 2026 🔴 Gizmodo",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORXRNYkFaRnBpdnRJS1ZkbDQ3M3h3am02WXJDNWRxbDFmWWdlYUxqV1htc2o3MkJhLUUza1l5blZxNWZrTDhodW0zUl8wWURhMmVHa0NFdGoxY1N5S1NubGFHVmJNVGtfcGFsMXE0dndzSUNZNExrVkZlZC03NC1sNVZTOFpqZmJobWJ6czRR?oc=5",
+          "headline": "Disney's D23: All the movies, TV series and more announced so far - ABC News - Breaking News, Latest News and Videos",
+          "title": "Disney's D23: All the movies, TV series and more announced so far - ABC News - Breaking News, Latest News and Videos",
+          "snapshot": "Disney's D23: All the movies, TV series and more announced so far ABC News - Breaking News, Latest News and Videos",
+          "summary": "Disney's D23: All the movies, TV series and more announced so far ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX2tGemhTaVY5cDVWRWExVFpzVlRmSUNjc09feVRmSkNpRlVkNVZDYk50S09FYkJrMGFYc0dOVVhjRlBFRGlhQkNJemlIdkNLUTBFM0ZwY25qQm95bWFiLXRyY3o4Q3VYNktnNGZ3cTBBLWFQbHM4Ni0wXzlrOGdIZkNUTUNpN1pBMS1Vb0xFLTcyN002NkUxRmltOEJZaGRoN0xz0gGoAUFVX3lxTE5hNkZsZ3B6b0c3MHQtWXBqRWE4Y0g3OU5ReVpLTFBucWk4aDkxTm4wTXhycUhFbDFUVWVzcTdyUTl0djFUVl9wM1ktejNHUG5sS2l0NnBaT0pJN0JMU1RGN095VzZ4c2dQUVczUGJQdUlzbzliSERtM1Zqa01nU1JYM1pLbEZtREY2cEJpV3VvUWgtS2Njd25SM3RUYktVRGs4MVJiRGhJWg?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-14 09:01:20 PM ET",
+          "published_at": "2026-08-15 01:45:08 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 68,
           "key_data": [
-            "Live Updates From Disney’s Mega Film and TV Panel at D23 2026 🔴 - Gizmodo"
+            "Disney's D23: All the movies, TV series and more announced so far - ABC News - Breaking News, Latest News and Videos"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1936,8 +1936,8 @@
       ],
       "items": [
         {
-          "id": "film-0-9065114477121251169",
-          "key": "film-0-9065114477121251169",
+          "id": "film-0-5545638227543940510",
+          "key": "film-0-5545638227543940510",
           "category": "Film",
           "label": "Film",
           "headline": "‘Frozen 3’ First Details: Anna and Kristoff Get Married, Olaf Gets a Girlfriend and a New Villain Emerges",
@@ -1964,8 +1964,8 @@
           ]
         },
         {
-          "id": "film-10-6583469414917374712",
-          "key": "film-10-6583469414917374712",
+          "id": "film-10-9110957571294373856",
+          "key": "film-10-9110957571294373856",
           "category": "Film",
           "label": "Film",
           "headline": "Everything Announced At D23: New X-Men Cast, ‘Avengers: Doomsday’ Teaser, ‘Coco 2,’ ‘Tangled’ Live Action First Look & More",
@@ -1992,25 +1992,25 @@
           ]
         },
         {
-          "id": "film-22-5013748661076887983",
-          "key": "film-22-5013748661076887983",
+          "id": "film-22-1247733076811195233",
+          "key": "film-22-1247733076811195233",
           "category": "Film",
           "label": "Film",
-          "headline": "‘Frozen 3’ “Royal Wedding” Between Anna and Kristoff Is Crashed by New Villain in First-Look",
-          "title": "‘Frozen 3’ “Royal Wedding” Between Anna and Kristoff Is Crashed by New Villain in First-Look",
-          "snapshot": "Idina Menzel, Kristen Bell, Josh Gad and Jonathan Groff are back for a new entry in the hit franchise, releasing Thanksgiving 2027.",
-          "summary": "Idina Menzel, Kristen Bell, Josh Gad and Jonathan Groff are back for a new entry in the hit franchise, releasing Thanksgiving 2027.",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/frozen-3-royal-wedding-between-anna-and-kristoff-1236671593/",
+          "headline": "‘I Live in V.I.,’ a Social Class Satire From Nigeria, Will Dive Into Urban Alienation and Gentrification",
+          "title": "‘I Live in V.I.,’ a Social Class Satire From Nigeria, Will Dive Into Urban Alienation and Gentrification",
+          "snapshot": "Director Ugochukwu Azuya's project, inspired by his experience living in Lagos and its \"materialistically driven, very classist society,\" was one of the films in development showcased at Locarno Open Doors.",
+          "summary": "Director Ugochukwu Azuya's project, inspired by his experience living in Lagos and its \"materialistically driven, very classist society,\" was one of the films in development showcased at Locarno Open Doors.",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/i-live-in-v-i-social-satire-film-nigeria-locarno-open-doors-1236673552/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-          "published_at": "2026-08-15 12:58:56 AM ET",
+          "published_at": "2026-08-15 03:20:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 78,
           "key_data": [
-            "‘Frozen 3’ “Royal Wedding” Between Anna and Kristoff Is Crashed by New Villain in First-Look"
+            "‘I Live in V.I.,’ a Social Class Satire From Nigeria, Will Dive Into Urban Alienation and Gentrification"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2020,8 +2020,8 @@
           ]
         },
         {
-          "id": "film-31-8567773039775719361",
-          "key": "film-31-8567773039775719361",
+          "id": "film-31-7944894549092742223",
+          "key": "film-31-7944894549092742223",
           "category": "Film",
           "label": "Film",
           "headline": "The 30 best action-adventure movies, ranked - Entertainment Weekly",
@@ -2048,8 +2048,8 @@
           ]
         },
         {
-          "id": "film-1-3343665599178470062",
-          "key": "film-1-3343665599178470062",
+          "id": "film-1-3899421646804753924",
+          "key": "film-1-3899421646804753924",
           "category": "Film",
           "label": "Film",
           "headline": "Marvel’s ‘X-Men’ Reboot Sets May 2028 Release Date",
@@ -2076,8 +2076,8 @@
           ]
         },
         {
-          "id": "film-11-6811785488263369828",
-          "key": "film-11-6811785488263369828",
+          "id": "film-11-2951135664089837218",
+          "key": "film-11-2951135664089837218",
           "category": "Film",
           "label": "Film",
           "headline": "‘Zootopia 3’ In Works At Disney; Ke Huy Quan & Ginnifer Goodwin Reprising Roles – D23",
@@ -2104,25 +2104,25 @@
           ]
         },
         {
-          "id": "film-23-7542041671191198866",
-          "key": "film-23-7542041671191198866",
+          "id": "film-23-1243840002548875315",
+          "key": "film-23-1243840002548875315",
           "category": "Film",
           "label": "Film",
-          "headline": "‘Avengers: Doomsday’ Footage Shows Off a “Broken” Doctor Doom",
-          "title": "‘Avengers: Doomsday’ Footage Shows Off a “Broken” Doctor Doom",
-          "snapshot": "The feature stars Robert Downey Jr. as the villain who faces off against an entire cinematic uinverse.",
-          "summary": "The feature stars Robert Downey Jr. as the villain who faces off against an entire cinematic uinverse.",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/avengers-doomsday-trailer-doctor-doom-1236673352/",
+          "headline": "‘Frozen 3’ “Royal Wedding” Between Anna and Kristoff Is Crashed by New Villain in First-Look",
+          "title": "‘Frozen 3’ “Royal Wedding” Between Anna and Kristoff Is Crashed by New Villain in First-Look",
+          "snapshot": "Idina Menzel, Kristen Bell, Josh Gad and Jonathan Groff are back for a new entry in the hit franchise, releasing Thanksgiving 2027.",
+          "summary": "Idina Menzel, Kristen Bell, Josh Gad and Jonathan Groff are back for a new entry in the hit franchise, releasing Thanksgiving 2027.",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/frozen-3-royal-wedding-between-anna-and-kristoff-1236671593/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-          "published_at": "2026-08-15 12:48:45 AM ET",
+          "published_at": "2026-08-15 12:58:56 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 77,
           "key_data": [
-            "‘Avengers: Doomsday’ Footage Shows Off a “Broken” Doctor Doom"
+            "‘Frozen 3’ “Royal Wedding” Between Anna and Kristoff Is Crashed by New Villain in First-Look"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2132,25 +2132,25 @@
           ]
         },
         {
-          "id": "film-32-7885235503322114507",
-          "key": "film-32-7885235503322114507",
+          "id": "film-32-8510113647015001008",
+          "key": "film-32-8510113647015001008",
           "category": "Film",
           "label": "Film",
-          "headline": "Live Updates From Disney’s Mega Film and TV Panel at D23 2026 🔴 - Gizmodo",
-          "title": "Live Updates From Disney’s Mega Film and TV Panel at D23 2026 🔴 - Gizmodo",
-          "snapshot": "Live Updates From Disney’s Mega Film and TV Panel at D23 2026 🔴 Gizmodo",
-          "summary": "Live Updates From Disney’s Mega Film and TV Panel at D23 2026 🔴 Gizmodo",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORXRNYkFaRnBpdnRJS1ZkbDQ3M3h3am02WXJDNWRxbDFmWWdlYUxqV1htc2o3MkJhLUUza1l5blZxNWZrTDhodW0zUl8wWURhMmVHa0NFdGoxY1N5S1NubGFHVmJNVGtfcGFsMXE0dndzSUNZNExrVkZlZC03NC1sNVZTOFpqZmJobWJ6czRR?oc=5",
+          "headline": "Disney's D23: All the movies, TV series and more announced so far - ABC News - Breaking News, Latest News and Videos",
+          "title": "Disney's D23: All the movies, TV series and more announced so far - ABC News - Breaking News, Latest News and Videos",
+          "snapshot": "Disney's D23: All the movies, TV series and more announced so far ABC News - Breaking News, Latest News and Videos",
+          "summary": "Disney's D23: All the movies, TV series and more announced so far ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX2tGemhTaVY5cDVWRWExVFpzVlRmSUNjc09feVRmSkNpRlVkNVZDYk50S09FYkJrMGFYc0dOVVhjRlBFRGlhQkNJemlIdkNLUTBFM0ZwY25qQm95bWFiLXRyY3o4Q3VYNktnNGZ3cTBBLWFQbHM4Ni0wXzlrOGdIZkNUTUNpN1pBMS1Vb0xFLTcyN002NkUxRmltOEJZaGRoN0xz0gGoAUFVX3lxTE5hNkZsZ3B6b0c3MHQtWXBqRWE4Y0g3OU5ReVpLTFBucWk4aDkxTm4wTXhycUhFbDFUVWVzcTdyUTl0djFUVl9wM1ktejNHUG5sS2l0NnBaT0pJN0JMU1RGN095VzZ4c2dQUVczUGJQdUlzbzliSERtM1Zqa01nU1JYM1pLbEZtREY2cEJpV3VvUWgtS2Njd25SM3RUYktVRGs4MVJiRGhJWg?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-14 09:01:20 PM ET",
+          "published_at": "2026-08-15 01:45:08 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 68,
           "key_data": [
-            "Live Updates From Disney’s Mega Film and TV Panel at D23 2026 🔴 - Gizmodo"
+            "Disney's D23: All the movies, TV series and more announced so far - ABC News - Breaking News, Latest News and Videos"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2160,7 +2160,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-15 02:38:43 AM ET"
+      "updated_at": "2026-08-15 03:31:30 AM ET"
     },
     {
       "key": "tv",
@@ -2185,8 +2185,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "tv-0-5928520304539639674",
-          "key": "tv-0-5928520304539639674",
+          "id": "tv-0-7243152189976250126",
+          "key": "tv-0-7243152189976250126",
           "category": "TV",
           "label": "TV",
           "headline": "‘Ahsoka’ Season 2 Trailer: Ahsoka and Anakin Reunite as Grand Admiral Thrawn Declares War on the Rebels",
@@ -2213,8 +2213,8 @@
           ]
         },
         {
-          "id": "tv-10-1439189858397574542",
-          "key": "tv-10-1439189858397574542",
+          "id": "tv-10-147399620561383370",
+          "key": "tv-10-147399620561383370",
           "category": "TV",
           "label": "TV",
           "headline": "‘Percy Jackson And The Olympians’ Season 3 Preview Trailer Premieres At D23 As Star Walker Scobell Teases “Darker” Season – D23",
@@ -2241,8 +2241,8 @@
           ]
         },
         {
-          "id": "tv-21-3202259875766986766",
-          "key": "tv-21-3202259875766986766",
+          "id": "tv-21-5498298905627209185",
+          "key": "tv-21-5498298905627209185",
           "category": "TV",
           "label": "TV",
           "headline": "‘Ahsoka’ Season 2 Brings the Force — and More Anakin Skywalker — with First Trailer",
@@ -2269,8 +2269,8 @@
           ]
         },
         {
-          "id": "tv-1-746324723871575909",
-          "key": "tv-1-746324723871575909",
+          "id": "tv-1-5677900736890773896",
+          "key": "tv-1-5677900736890773896",
           "category": "TV",
           "label": "TV",
           "headline": "‘VisionQuest’ Trailer: Paul Bettany and James Spader Return as Vision and Ultron in ‘WandaVision’ Trilogy Finale",
@@ -2297,8 +2297,8 @@
           ]
         },
         {
-          "id": "tv-11-475166076441387131",
-          "key": "tv-11-475166076441387131",
+          "id": "tv-11-7977170432462601925",
+          "key": "tv-11-7977170432462601925",
           "category": "TV",
           "label": "TV",
           "headline": "Kieran Culkin To Lead Voice Cast Of New Disney Animated Movie ‘Clay’ – D23",
@@ -2325,8 +2325,8 @@
           ]
         },
         {
-          "id": "tv-22-3861367025557739389",
-          "key": "tv-22-3861367025557739389",
+          "id": "tv-22-6261668661155518640",
+          "key": "tv-22-6261668661155518640",
           "category": "TV",
           "label": "TV",
           "headline": "Adam Scott Says Daughter Had to Watch His ‘Office’ Audition Tape in Acting Class: “What Not to Do”",
@@ -2355,8 +2355,8 @@
       ],
       "items": [
         {
-          "id": "tv-0-5928520304539639674",
-          "key": "tv-0-5928520304539639674",
+          "id": "tv-0-7243152189976250126",
+          "key": "tv-0-7243152189976250126",
           "category": "TV",
           "label": "TV",
           "headline": "‘Ahsoka’ Season 2 Trailer: Ahsoka and Anakin Reunite as Grand Admiral Thrawn Declares War on the Rebels",
@@ -2383,8 +2383,8 @@
           ]
         },
         {
-          "id": "tv-10-1439189858397574542",
-          "key": "tv-10-1439189858397574542",
+          "id": "tv-10-147399620561383370",
+          "key": "tv-10-147399620561383370",
           "category": "TV",
           "label": "TV",
           "headline": "‘Percy Jackson And The Olympians’ Season 3 Preview Trailer Premieres At D23 As Star Walker Scobell Teases “Darker” Season – D23",
@@ -2411,8 +2411,8 @@
           ]
         },
         {
-          "id": "tv-21-3202259875766986766",
-          "key": "tv-21-3202259875766986766",
+          "id": "tv-21-5498298905627209185",
+          "key": "tv-21-5498298905627209185",
           "category": "TV",
           "label": "TV",
           "headline": "‘Ahsoka’ Season 2 Brings the Force — and More Anakin Skywalker — with First Trailer",
@@ -2439,8 +2439,8 @@
           ]
         },
         {
-          "id": "tv-1-746324723871575909",
-          "key": "tv-1-746324723871575909",
+          "id": "tv-1-5677900736890773896",
+          "key": "tv-1-5677900736890773896",
           "category": "TV",
           "label": "TV",
           "headline": "‘VisionQuest’ Trailer: Paul Bettany and James Spader Return as Vision and Ultron in ‘WandaVision’ Trilogy Finale",
@@ -2467,8 +2467,8 @@
           ]
         },
         {
-          "id": "tv-11-475166076441387131",
-          "key": "tv-11-475166076441387131",
+          "id": "tv-11-7977170432462601925",
+          "key": "tv-11-7977170432462601925",
           "category": "TV",
           "label": "TV",
           "headline": "Kieran Culkin To Lead Voice Cast Of New Disney Animated Movie ‘Clay’ – D23",
@@ -2495,8 +2495,8 @@
           ]
         },
         {
-          "id": "tv-22-3861367025557739389",
-          "key": "tv-22-3861367025557739389",
+          "id": "tv-22-6261668661155518640",
+          "key": "tv-22-6261668661155518640",
           "category": "TV",
           "label": "TV",
           "headline": "Adam Scott Says Daughter Had to Watch His ‘Office’ Audition Tape in Acting Class: “What Not to Do”",
@@ -2523,7 +2523,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-15 02:38:44 AM ET"
+      "updated_at": "2026-08-15 03:31:33 AM ET"
     },
     {
       "key": "streaming",
@@ -2541,8 +2541,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "streaming-0-6831575675664903989",
-          "key": "streaming-0-6831575675664903989",
+          "id": "streaming-0-1204095611265531606",
+          "key": "streaming-0-1204095611265531606",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs - Business Insider",
@@ -2569,8 +2569,8 @@
           ]
         },
         {
-          "id": "streaming-1-149912998883437061",
-          "key": "streaming-1-149912998883437061",
+          "id": "streaming-1-8906607675694563405",
+          "key": "streaming-1-8906607675694563405",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'The Last House' to 'Obsession,' 10 movies to stream right now - USA Today",
@@ -2599,8 +2599,8 @@
       ],
       "items": [
         {
-          "id": "streaming-0-6831575675664903989",
-          "key": "streaming-0-6831575675664903989",
+          "id": "streaming-0-1204095611265531606",
+          "key": "streaming-0-1204095611265531606",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs - Business Insider",
@@ -2627,8 +2627,8 @@
           ]
         },
         {
-          "id": "streaming-1-149912998883437061",
-          "key": "streaming-1-149912998883437061",
+          "id": "streaming-1-8906607675694563405",
+          "key": "streaming-1-8906607675694563405",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'The Last House' to 'Obsession,' 10 movies to stream right now - USA Today",
@@ -2655,7 +2655,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-15 02:38:45 AM ET"
+      "updated_at": "2026-08-15 03:31:34 AM ET"
     },
     {
       "key": "music",
@@ -2680,8 +2680,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "music-0-5074382177150179751",
-          "key": "music-0-5074382177150179751",
+          "id": "music-0-6288684492616987371",
+          "key": "music-0-6288684492616987371",
           "category": "Music",
           "label": "Music",
           "headline": "Music Industry Moves: Megan Thee Stallion Announces Partnership With Interscope Records",
@@ -2708,8 +2708,8 @@
           ]
         },
         {
-          "id": "music-10-5269050621992417976",
-          "key": "music-10-5269050621992417976",
+          "id": "music-10-1177773314944875046",
+          "key": "music-10-1177773314944875046",
           "category": "Music",
           "label": "Music",
           "headline": "Slipknot Cuts Ties With Sid Wilson After Nearly 30 Years",
@@ -2736,8 +2736,8 @@
           ]
         },
         {
-          "id": "music-20-2303502694112611083",
-          "key": "music-20-2303502694112611083",
+          "id": "music-20-160436620594634417",
+          "key": "music-20-160436620594634417",
           "category": "Music",
           "label": "Music",
           "headline": "Sara Ito Talks Believing in Herself and Living as a Dancer in L.A.: Billboard Japan Women In Music Interview - Billboard",
@@ -2764,8 +2764,8 @@
           ]
         },
         {
-          "id": "music-1-4794894154522704028",
-          "key": "music-1-4794894154522704028",
+          "id": "music-1-3710003639645477221",
+          "key": "music-1-3710003639645477221",
           "category": "Music",
           "label": "Music",
           "headline": "‘The Radio Doesn’t Play Songs for Me Anymore’: Tailgaters at the Foo Fighters’ Stadium Tour Mourn the Dimming Light of Rock Music",
@@ -2792,8 +2792,8 @@
           ]
         },
         {
-          "id": "music-11-2291626713709533102",
-          "key": "music-11-2291626713709533102",
+          "id": "music-11-6676884199692384705",
+          "key": "music-11-6676884199692384705",
           "category": "Music",
           "label": "Music",
           "headline": "Here Are Events Marc Anthony, Feid, Karol G & More Latin Music Artists Are Joining in Support of Colombia and Venezuela Earthquake Relief",
@@ -2820,8 +2820,8 @@
           ]
         },
         {
-          "id": "music-21-5165218520429025412",
-          "key": "music-21-5165218520429025412",
+          "id": "music-21-621962736727767122",
+          "key": "music-21-621962736727767122",
           "category": "Music",
           "label": "Music",
           "headline": "Tencent Music’s Q2 Revenue Tops $1.3 Billion on Subscription Growth, Ximalaya Acquisition - Billboard",
@@ -2850,8 +2850,8 @@
       ],
       "items": [
         {
-          "id": "music-0-5074382177150179751",
-          "key": "music-0-5074382177150179751",
+          "id": "music-0-6288684492616987371",
+          "key": "music-0-6288684492616987371",
           "category": "Music",
           "label": "Music",
           "headline": "Music Industry Moves: Megan Thee Stallion Announces Partnership With Interscope Records",
@@ -2878,8 +2878,8 @@
           ]
         },
         {
-          "id": "music-10-5269050621992417976",
-          "key": "music-10-5269050621992417976",
+          "id": "music-10-1177773314944875046",
+          "key": "music-10-1177773314944875046",
           "category": "Music",
           "label": "Music",
           "headline": "Slipknot Cuts Ties With Sid Wilson After Nearly 30 Years",
@@ -2906,8 +2906,8 @@
           ]
         },
         {
-          "id": "music-20-2303502694112611083",
-          "key": "music-20-2303502694112611083",
+          "id": "music-20-160436620594634417",
+          "key": "music-20-160436620594634417",
           "category": "Music",
           "label": "Music",
           "headline": "Sara Ito Talks Believing in Herself and Living as a Dancer in L.A.: Billboard Japan Women In Music Interview - Billboard",
@@ -2934,8 +2934,8 @@
           ]
         },
         {
-          "id": "music-1-4794894154522704028",
-          "key": "music-1-4794894154522704028",
+          "id": "music-1-3710003639645477221",
+          "key": "music-1-3710003639645477221",
           "category": "Music",
           "label": "Music",
           "headline": "‘The Radio Doesn’t Play Songs for Me Anymore’: Tailgaters at the Foo Fighters’ Stadium Tour Mourn the Dimming Light of Rock Music",
@@ -2962,8 +2962,8 @@
           ]
         },
         {
-          "id": "music-11-2291626713709533102",
-          "key": "music-11-2291626713709533102",
+          "id": "music-11-6676884199692384705",
+          "key": "music-11-6676884199692384705",
           "category": "Music",
           "label": "Music",
           "headline": "Here Are Events Marc Anthony, Feid, Karol G & More Latin Music Artists Are Joining in Support of Colombia and Venezuela Earthquake Relief",
@@ -2990,8 +2990,8 @@
           ]
         },
         {
-          "id": "music-21-5165218520429025412",
-          "key": "music-21-5165218520429025412",
+          "id": "music-21-621962736727767122",
+          "key": "music-21-621962736727767122",
           "category": "Music",
           "label": "Music",
           "headline": "Tencent Music’s Q2 Revenue Tops $1.3 Billion on Subscription Growth, Ximalaya Acquisition - Billboard",
@@ -3018,7 +3018,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-15 02:38:46 AM ET"
+      "updated_at": "2026-08-15 03:31:38 AM ET"
     },
     {
       "key": "awards",
@@ -3040,8 +3040,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "awards-0-8498482505916334643",
-          "key": "awards-0-8498482505916334643",
+          "id": "awards-0-6627586001331874448",
+          "key": "awards-0-6627586001331874448",
           "category": "Awards",
           "label": "Awards",
           "headline": "‘Hacks’ Star Lauren Weedman on Appearing in Four Emmy-Nominated Comedies This Year and How Bell’s Palsy Changed Her Career",
@@ -3068,8 +3068,8 @@
           ]
         },
         {
-          "id": "awards-8-3416891373559174035",
-          "key": "awards-8-3416891373559174035",
+          "id": "awards-8-3759299251199634731",
+          "key": "awards-8-3759299251199634731",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar - Deadline",
@@ -3096,8 +3096,8 @@
           ]
         },
         {
-          "id": "awards-1-8517751908242010552",
-          "key": "awards-1-8517751908242010552",
+          "id": "awards-1-5687365374934370960",
+          "key": "awards-1-5687365374934370960",
           "category": "Awards",
           "label": "Awards",
           "headline": "Charlie Hunnam on His Physical and Vocal Transformation to Play Ed Gein in ‘Monster’",
@@ -3124,8 +3124,8 @@
           ]
         },
         {
-          "id": "awards-9-4257193407921463512",
-          "key": "awards-9-4257193407921463512",
+          "id": "awards-9-8630837022352184511",
+          "key": "awards-9-8630837022352184511",
           "category": "Awards",
           "label": "Awards",
           "headline": "Viola Davis | Biography, Movies, Plays, The Help, EGOT, & Facts - Encyclopedia Britannica",
@@ -3154,8 +3154,8 @@
       ],
       "items": [
         {
-          "id": "awards-0-8498482505916334643",
-          "key": "awards-0-8498482505916334643",
+          "id": "awards-0-6627586001331874448",
+          "key": "awards-0-6627586001331874448",
           "category": "Awards",
           "label": "Awards",
           "headline": "‘Hacks’ Star Lauren Weedman on Appearing in Four Emmy-Nominated Comedies This Year and How Bell’s Palsy Changed Her Career",
@@ -3182,8 +3182,8 @@
           ]
         },
         {
-          "id": "awards-8-3416891373559174035",
-          "key": "awards-8-3416891373559174035",
+          "id": "awards-8-3759299251199634731",
+          "key": "awards-8-3759299251199634731",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar - Deadline",
@@ -3210,8 +3210,8 @@
           ]
         },
         {
-          "id": "awards-1-8517751908242010552",
-          "key": "awards-1-8517751908242010552",
+          "id": "awards-1-5687365374934370960",
+          "key": "awards-1-5687365374934370960",
           "category": "Awards",
           "label": "Awards",
           "headline": "Charlie Hunnam on His Physical and Vocal Transformation to Play Ed Gein in ‘Monster’",
@@ -3238,8 +3238,8 @@
           ]
         },
         {
-          "id": "awards-9-4257193407921463512",
-          "key": "awards-9-4257193407921463512",
+          "id": "awards-9-8630837022352184511",
+          "key": "awards-9-8630837022352184511",
           "category": "Awards",
           "label": "Awards",
           "headline": "Viola Davis | Biography, Movies, Plays, The Help, EGOT, & Facts - Encyclopedia Britannica",
@@ -3266,7 +3266,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-15 02:38:47 AM ET"
+      "updated_at": "2026-08-15 03:31:39 AM ET"
     },
     {
       "key": "box_office",
@@ -3276,20 +3276,20 @@
       "snapshot": "Box Office coverage is updating with 4 current RSS headline item(s).",
       "key_storylines": [
         "Box Office: ‘End of Oak Street’ Makes $2.5 Million in Previews",
-        "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - The Hollywood Reporter",
+        "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - hollywoodreporter.com",
         "Box Office: ‘End of Oak Street’ Targets $25 Million Debut, ‘Spider-Man: Brand New Day’ to Remain No. 1",
-        "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - The Hollywood Reporter"
+        "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - hollywoodreporter.com"
       ],
       "watch_list": [
         "Box Office: ‘End of Oak Street’ Makes $2.5 Million in Previews",
-        "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - The Hollywood Reporter",
+        "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - hollywoodreporter.com",
         "Box Office: ‘End of Oak Street’ Targets $25 Million Debut, ‘Spider-Man: Brand New Day’ to Remain No. 1",
-        "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - The Hollywood Reporter"
+        "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - hollywoodreporter.com"
       ],
       "homepage_cards": [
         {
-          "id": "box_office-0-2564244731475237902",
-          "key": "box_office-0-2564244731475237902",
+          "id": "box_office-0-1613486194268939842",
+          "key": "box_office-0-1613486194268939842",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘End of Oak Street’ Makes $2.5 Million in Previews",
@@ -3316,14 +3316,14 @@
           ]
         },
         {
-          "id": "box_office-10-987831263338589363",
-          "key": "box_office-10-987831263338589363",
+          "id": "box_office-10-8953555629984512549",
+          "key": "box_office-10-8953555629984512549",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - The Hollywood Reporter",
-          "title": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - The Hollywood Reporter",
-          "snapshot": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office The Hollywood Reporter",
-          "summary": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office The Hollywood Reporter",
+          "headline": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - hollywoodreporter.com",
+          "title": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - hollywoodreporter.com",
+          "snapshot": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office hollywoodreporter.com",
+          "summary": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office hollywoodreporter.com",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWng5T2VVRm9ONHpvdmRzWHE2ZVRpSVMtVnhSa0M3LWhxeFRtcjZ6YTFiY09sdWtVVXFSYk5LZ0QyU0tKeW9IdzB5RW9tMExMTEdKM1hzMXp6T2habmFsUUNPUWRxalY4NXl4OXJXb0pMTzBhOGpxYzFvQTBpcGNiRG9TekxSbjRSUFY1cnNaOTVhcWJKYWtFZExLcTI4QWZOdjJ4MTBYb0FvVFNJcWxhQ3dvMHJNSWgxREE?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3334,7 +3334,7 @@
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - The Hollywood Reporter"
+            "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - hollywoodreporter.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3344,8 +3344,8 @@
           ]
         },
         {
-          "id": "box_office-1-9162365982292179218",
-          "key": "box_office-1-9162365982292179218",
+          "id": "box_office-1-4956161907444765273",
+          "key": "box_office-1-4956161907444765273",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘End of Oak Street’ Targets $25 Million Debut, ‘Spider-Man: Brand New Day’ to Remain No. 1",
@@ -3372,14 +3372,14 @@
           ]
         },
         {
-          "id": "box_office-11-2283717361763584508",
-          "key": "box_office-11-2283717361763584508",
+          "id": "box_office-11-5131426352883172790",
+          "key": "box_office-11-5131426352883172790",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - The Hollywood Reporter",
-          "title": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - The Hollywood Reporter",
-          "snapshot": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews The Hollywood Reporter",
-          "summary": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews The Hollywood Reporter",
+          "headline": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - hollywoodreporter.com",
+          "title": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - hollywoodreporter.com",
+          "snapshot": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews hollywoodreporter.com",
+          "summary": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews hollywoodreporter.com",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeE45c1BVck5RNVlqWmtsYlFZNVBYSGRWMlY4WHhLQ0JaQXR3MUMwd21NUzFGZlJ6SDRuOXQ0bVJkVGlSZWVjd1U2Y2xMZjFwTDlxem1BR282TEJVZV9rZHZDckQtTy00ODFIWEY0TTZ3UDByWk45STc1RmtYakxTT25MYmR4Z0NhMTFFcTdTY2VMYnlybjVPd2M5QWlNMlV2ZmFBTVY1a1lOaVFwQkxNVm1UODc1eUs3SDl0Ui1xVFM?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3390,7 +3390,7 @@
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - The Hollywood Reporter"
+            "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - hollywoodreporter.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3402,8 +3402,8 @@
       ],
       "items": [
         {
-          "id": "box_office-0-2564244731475237902",
-          "key": "box_office-0-2564244731475237902",
+          "id": "box_office-0-1613486194268939842",
+          "key": "box_office-0-1613486194268939842",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘End of Oak Street’ Makes $2.5 Million in Previews",
@@ -3430,14 +3430,14 @@
           ]
         },
         {
-          "id": "box_office-10-987831263338589363",
-          "key": "box_office-10-987831263338589363",
+          "id": "box_office-10-8953555629984512549",
+          "key": "box_office-10-8953555629984512549",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - The Hollywood Reporter",
-          "title": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - The Hollywood Reporter",
-          "snapshot": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office The Hollywood Reporter",
-          "summary": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office The Hollywood Reporter",
+          "headline": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - hollywoodreporter.com",
+          "title": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - hollywoodreporter.com",
+          "snapshot": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office hollywoodreporter.com",
+          "summary": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office hollywoodreporter.com",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWng5T2VVRm9ONHpvdmRzWHE2ZVRpSVMtVnhSa0M3LWhxeFRtcjZ6YTFiY09sdWtVVXFSYk5LZ0QyU0tKeW9IdzB5RW9tMExMTEdKM1hzMXp6T2habmFsUUNPUWRxalY4NXl4OXJXb0pMTzBhOGpxYzFvQTBpcGNiRG9TekxSbjRSUFY1cnNaOTVhcWJKYWtFZExLcTI4QWZOdjJ4MTBYb0FvVFNJcWxhQ3dvMHJNSWgxREE?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3448,7 +3448,7 @@
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - The Hollywood Reporter"
+            "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - hollywoodreporter.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3458,8 +3458,8 @@
           ]
         },
         {
-          "id": "box_office-1-9162365982292179218",
-          "key": "box_office-1-9162365982292179218",
+          "id": "box_office-1-4956161907444765273",
+          "key": "box_office-1-4956161907444765273",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘End of Oak Street’ Targets $25 Million Debut, ‘Spider-Man: Brand New Day’ to Remain No. 1",
@@ -3486,14 +3486,14 @@
           ]
         },
         {
-          "id": "box_office-11-2283717361763584508",
-          "key": "box_office-11-2283717361763584508",
+          "id": "box_office-11-5131426352883172790",
+          "key": "box_office-11-5131426352883172790",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - The Hollywood Reporter",
-          "title": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - The Hollywood Reporter",
-          "snapshot": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews The Hollywood Reporter",
-          "summary": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews The Hollywood Reporter",
+          "headline": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - hollywoodreporter.com",
+          "title": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - hollywoodreporter.com",
+          "snapshot": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews hollywoodreporter.com",
+          "summary": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews hollywoodreporter.com",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeE45c1BVck5RNVlqWmtsYlFZNVBYSGRWMlY4WHhLQ0JaQXR3MUMwd21NUzFGZlJ6SDRuOXQ0bVJkVGlSZWVjd1U2Y2xMZjFwTDlxem1BR282TEJVZV9rZHZDckQtTy00ODFIWEY0TTZ3UDByWk45STc1RmtYakxTT25MYmR4Z0NhMTFFcTdTY2VMYnlybjVPd2M5QWlNMlV2ZmFBTVY1a1lOaVFwQkxNVm1UODc1eUs3SDl0Ui1xVFM?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3504,7 +3504,7 @@
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - The Hollywood Reporter"
+            "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - hollywoodreporter.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3514,7 +3514,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-15 02:38:48 AM ET"
+      "updated_at": "2026-08-15 03:31:40 AM ET"
     },
     {
       "key": "celebrity",
@@ -3524,16 +3524,16 @@
       "snapshot": "Celebrity coverage is updating with 2 current RSS headline item(s).",
       "key_storylines": [
         "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
-        "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - Washington Times"
+        "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - washingtontimes.com"
       ],
       "watch_list": [
         "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
-        "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - Washington Times"
+        "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - washingtontimes.com"
       ],
       "homepage_cards": [
         {
-          "id": "celebrity-0-7889144140605122419",
-          "key": "celebrity-0-7889144140605122419",
+          "id": "celebrity-0-5715383622282363435",
+          "key": "celebrity-0-5715383622282363435",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3560,14 +3560,14 @@
           ]
         },
         {
-          "id": "celebrity-1-5702127342646483733",
-          "key": "celebrity-1-5702127342646483733",
+          "id": "celebrity-1-7826350875739848438",
+          "key": "celebrity-1-7826350875739848438",
           "category": "Celebrity",
           "label": "Celebrity",
-          "headline": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - Washington Times",
-          "title": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - Washington Times",
-          "snapshot": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt Washington Times",
-          "summary": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt Washington Times",
+          "headline": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - washingtontimes.com",
+          "title": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - washingtontimes.com",
+          "snapshot": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt washingtontimes.com",
+          "summary": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt washingtontimes.com",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWFE4M0xiT1I3blV5QjZkNFlva1B5d2xBZXpvdm9UdllKMFZOZ3RpV0RpOWJNcHd0Z1lyZTJnX1laMVRTeEZ2SHNhUjV3azdZOVdjZC10Qm9CcjY4bmtJZTVjUEVBa2lfNXFuZHpkWDhKSWhCNUdKcGtLUVlaR1FKN0JOLVNqX0E1eFJGRGJNTGw4YnBNYzB5ZGNDcmQ1V1dnQ1FjTGQzMVVLaldrVUlVNG9JanJVNnZK?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3578,7 +3578,7 @@
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - Washington Times"
+            "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - washingtontimes.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3590,8 +3590,8 @@
       ],
       "items": [
         {
-          "id": "celebrity-0-7889144140605122419",
-          "key": "celebrity-0-7889144140605122419",
+          "id": "celebrity-0-5715383622282363435",
+          "key": "celebrity-0-5715383622282363435",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3618,14 +3618,14 @@
           ]
         },
         {
-          "id": "celebrity-1-5702127342646483733",
-          "key": "celebrity-1-5702127342646483733",
+          "id": "celebrity-1-7826350875739848438",
+          "key": "celebrity-1-7826350875739848438",
           "category": "Celebrity",
           "label": "Celebrity",
-          "headline": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - Washington Times",
-          "title": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - Washington Times",
-          "snapshot": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt Washington Times",
-          "summary": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt Washington Times",
+          "headline": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - washingtontimes.com",
+          "title": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - washingtontimes.com",
+          "snapshot": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt washingtontimes.com",
+          "summary": "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt washingtontimes.com",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWFE4M0xiT1I3blV5QjZkNFlva1B5d2xBZXpvdm9UdllKMFZOZ3RpV0RpOWJNcHd0Z1lyZTJnX1laMVRTeEZ2SHNhUjV3azdZOVdjZC10Qm9CcjY4bmtJZTVjUEVBa2lfNXFuZHpkWDhKSWhCNUdKcGtLUVlaR1FKN0JOLVNqX0E1eFJGRGJNTGw4YnBNYzB5ZGNDcmQ1V1dnQ1FjTGQzMVVLaldrVUlVNG9JanJVNnZK?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3636,7 +3636,7 @@
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - Washington Times"
+            "Celebrity gossip blogger Perez Hilton hospitalized after apparent suicide attempt - washingtontimes.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3646,28 +3646,58 @@
           ]
         }
       ],
-      "updated_at": "2026-08-15 02:38:48 AM ET"
+      "updated_at": "2026-08-15 03:31:41 AM ET"
     },
     {
       "key": "hollywood",
       "name": "Hollywood",
       "title": "Hollywood Report",
-      "headline": "Marvel Unveils Trippy First ‘VisionQuest’ Trailer",
-      "snapshot": "Hollywood coverage is updating with 3 current RSS headline item(s).",
+      "headline": "‘Spider-Man: Brand New Day’ Has Super $65M Third Weekend; ‘The Odyssey’ Sailing Past Half Billion – Saturday AM Box Office Update",
+      "snapshot": "Hollywood coverage is updating with 4 current RSS headline item(s).",
       "key_storylines": [
+        "‘Spider-Man: Brand New Day’ Has Super $65M Third Weekend; ‘The Odyssey’ Sailing Past Half Billion – Saturday AM Box Office Update",
         "Marvel Unveils Trippy First ‘VisionQuest’ Trailer",
-        "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch - The Hollywood Reporter",
+        "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch - hollywoodreporter.com",
         "Why Is the American Film Industry Located in Hollywood? - Encyclopedia Britannica"
       ],
       "watch_list": [
+        "‘Spider-Man: Brand New Day’ Has Super $65M Third Weekend; ‘The Odyssey’ Sailing Past Half Billion – Saturday AM Box Office Update",
         "Marvel Unveils Trippy First ‘VisionQuest’ Trailer",
-        "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch - The Hollywood Reporter",
+        "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch - hollywoodreporter.com",
         "Why Is the American Film Industry Located in Hollywood? - Encyclopedia Britannica"
       ],
       "homepage_cards": [
         {
-          "id": "hollywood-0-2096966331437874160",
-          "key": "hollywood-0-2096966331437874160",
+          "id": "hollywood-0-258175636314538385",
+          "key": "hollywood-0-258175636314538385",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "‘Spider-Man: Brand New Day’ Has Super $65M Third Weekend; ‘The Odyssey’ Sailing Past Half Billion – Saturday AM Box Office Update",
+          "title": "‘Spider-Man: Brand New Day’ Has Super $65M Third Weekend; ‘The Odyssey’ Sailing Past Half Billion – Saturday AM Box Office Update",
+          "snapshot": "SATURDAY VERY EARLY AM: Spider-Man: Brand New Day has banked a near $19M Friday for what’s shaping up to be a third weekend around $65M, -55%, which takes its running cume to $780.8M. The Destin Daniel Cretton directed movie is booked at 4,539 theaters. Among the best third weekends ever at the domestic B.O, Brand […]",
+          "summary": "SATURDAY VERY EARLY AM: Spider-Man: Brand New Day has banked a near $19M Friday for what’s shaping up to be a third weekend around $65M, -55%, which takes its running cume to $780.8M. The Destin Daniel Cretton directed movie is booked at 4,539 theaters. Among the best third weekends ever at the domestic B.O, Brand […]",
+          "url": "https://deadline.com/2026/08/box-office-spider-man-the-end-of-oak-street-1237033458/",
+          "source": "Deadline",
+          "source_name": "Deadline",
+          "source_feed": "https://deadline.com/feed/",
+          "published_at": "2026-08-15 03:30:00 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 100,
+          "key_data": [
+            "‘Spider-Man: Brand New Day’ Has Super $65M Third Weekend; ‘The Odyssey’ Sailing Past Half Billion – Saturday AM Box Office Update"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-1-5062972636651198096",
+          "key": "hollywood-1-5062972636651198096",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Marvel Unveils Trippy First ‘VisionQuest’ Trailer",
@@ -3682,7 +3712,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 100,
+          "priority_score": 99,
           "key_data": [
             "Marvel Unveils Trippy First ‘VisionQuest’ Trailer"
           ],
@@ -3694,14 +3724,14 @@
           ]
         },
         {
-          "id": "hollywood-1-7131158511922391913",
-          "key": "hollywood-1-7131158511922391913",
+          "id": "hollywood-2-6632641128177878120",
+          "key": "hollywood-2-6632641128177878120",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch - The Hollywood Reporter",
-          "title": "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch - The Hollywood Reporter",
-          "snapshot": "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch The Hollywood Reporter",
-          "summary": "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch The Hollywood Reporter",
+          "headline": "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch - hollywoodreporter.com",
+          "title": "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch - hollywoodreporter.com",
+          "snapshot": "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch hollywoodreporter.com",
+          "summary": "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch hollywoodreporter.com",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSUUxS0p0V0pUQU1MTEVpZjFIUE9mMWV5SUdxLVlUdW9rVTd3UXdObUdFVGNZekpTc3NfMEhTbzZnemh5cDdjTU9idVd5LS14QkFhdDFLWmVRTEJ3dzFOazV5aXY0S3RiRlllSU5fREJTZFhROElNNUtRNmFfY2t5dlRmOEUwcTJpTE9vZ3N5TGhPakpmRFpOMGlVbmpIeV8zN2dWNVVSZkZmSUx1REVmSDZVZDk?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3710,9 +3740,9 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 99,
+          "priority_score": 98,
           "key_data": [
-            "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch - The Hollywood Reporter"
+            "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch - hollywoodreporter.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3722,8 +3752,8 @@
           ]
         },
         {
-          "id": "hollywood-2-4978270008930452419",
-          "key": "hollywood-2-4978270008930452419",
+          "id": "hollywood-3-2906152672851747761",
+          "key": "hollywood-3-2906152672851747761",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Why Is the American Film Industry Located in Hollywood? - Encyclopedia Britannica",
@@ -3738,7 +3768,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 98,
+          "priority_score": 97,
           "key_data": [
             "Why Is the American Film Industry Located in Hollywood? - Encyclopedia Britannica"
           ],
@@ -3752,8 +3782,36 @@
       ],
       "items": [
         {
-          "id": "hollywood-0-2096966331437874160",
-          "key": "hollywood-0-2096966331437874160",
+          "id": "hollywood-0-258175636314538385",
+          "key": "hollywood-0-258175636314538385",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "‘Spider-Man: Brand New Day’ Has Super $65M Third Weekend; ‘The Odyssey’ Sailing Past Half Billion – Saturday AM Box Office Update",
+          "title": "‘Spider-Man: Brand New Day’ Has Super $65M Third Weekend; ‘The Odyssey’ Sailing Past Half Billion – Saturday AM Box Office Update",
+          "snapshot": "SATURDAY VERY EARLY AM: Spider-Man: Brand New Day has banked a near $19M Friday for what’s shaping up to be a third weekend around $65M, -55%, which takes its running cume to $780.8M. The Destin Daniel Cretton directed movie is booked at 4,539 theaters. Among the best third weekends ever at the domestic B.O, Brand […]",
+          "summary": "SATURDAY VERY EARLY AM: Spider-Man: Brand New Day has banked a near $19M Friday for what’s shaping up to be a third weekend around $65M, -55%, which takes its running cume to $780.8M. The Destin Daniel Cretton directed movie is booked at 4,539 theaters. Among the best third weekends ever at the domestic B.O, Brand […]",
+          "url": "https://deadline.com/2026/08/box-office-spider-man-the-end-of-oak-street-1237033458/",
+          "source": "Deadline",
+          "source_name": "Deadline",
+          "source_feed": "https://deadline.com/feed/",
+          "published_at": "2026-08-15 03:30:00 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 100,
+          "key_data": [
+            "‘Spider-Man: Brand New Day’ Has Super $65M Third Weekend; ‘The Odyssey’ Sailing Past Half Billion – Saturday AM Box Office Update"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-1-5062972636651198096",
+          "key": "hollywood-1-5062972636651198096",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Marvel Unveils Trippy First ‘VisionQuest’ Trailer",
@@ -3768,7 +3826,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 100,
+          "priority_score": 99,
           "key_data": [
             "Marvel Unveils Trippy First ‘VisionQuest’ Trailer"
           ],
@@ -3780,14 +3838,14 @@
           ]
         },
         {
-          "id": "hollywood-1-7131158511922391913",
-          "key": "hollywood-1-7131158511922391913",
+          "id": "hollywood-2-6632641128177878120",
+          "key": "hollywood-2-6632641128177878120",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch - The Hollywood Reporter",
-          "title": "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch - The Hollywood Reporter",
-          "snapshot": "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch The Hollywood Reporter",
-          "summary": "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch The Hollywood Reporter",
+          "headline": "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch - hollywoodreporter.com",
+          "title": "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch - hollywoodreporter.com",
+          "snapshot": "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch hollywoodreporter.com",
+          "summary": "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch hollywoodreporter.com",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSUUxS0p0V0pUQU1MTEVpZjFIUE9mMWV5SUdxLVlUdW9rVTd3UXdObUdFVGNZekpTc3NfMEhTbzZnemh5cDdjTU9idVd5LS14QkFhdDFLWmVRTEJ3dzFOazV5aXY0S3RiRlllSU5fREJTZFhROElNNUtRNmFfY2t5dlRmOEUwcTJpTE9vZ3N5TGhPakpmRFpOMGlVbmpIeV8zN2dWNVVSZkZmSUx1REVmSDZVZDk?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3796,9 +3854,9 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 99,
+          "priority_score": 98,
           "key_data": [
-            "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch - The Hollywood Reporter"
+            "California Pledged $750 Million a Year to Hollywood. But a New Law Has a Big Catch - hollywoodreporter.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3808,8 +3866,8 @@
           ]
         },
         {
-          "id": "hollywood-2-4978270008930452419",
-          "key": "hollywood-2-4978270008930452419",
+          "id": "hollywood-3-2906152672851747761",
+          "key": "hollywood-3-2906152672851747761",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Why Is the American Film Industry Located in Hollywood? - Encyclopedia Britannica",
@@ -3824,7 +3882,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 98,
+          "priority_score": 97,
           "key_data": [
             "Why Is the American Film Industry Located in Hollywood? - Encyclopedia Britannica"
           ],
@@ -3836,7 +3894,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-15 02:38:50 AM ET"
+      "updated_at": "2026-08-15 03:31:42 AM ET"
     },
     {
       "key": "gaming",
@@ -3854,8 +3912,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "gaming-0-9096024191858132504",
-          "key": "gaming-0-9096024191858132504",
+          "id": "gaming-0-6177992714109400556",
+          "key": "gaming-0-6177992714109400556",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Kingdom Hearts 4 Gets New Trailer, Late 2027 Release Window, and a Disney+ Anime Series",
@@ -3882,8 +3940,8 @@
           ]
         },
         {
-          "id": "gaming-1-5052411992037368807",
-          "key": "gaming-1-5052411992037368807",
+          "id": "gaming-1-7189430426192889526",
+          "key": "gaming-1-7189430426192889526",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "The Simpsons: Hit & Run 'Coming Back in Some Form,' Creator Matt Groening Says",
@@ -3912,8 +3970,8 @@
       ],
       "items": [
         {
-          "id": "gaming-0-9096024191858132504",
-          "key": "gaming-0-9096024191858132504",
+          "id": "gaming-0-6177992714109400556",
+          "key": "gaming-0-6177992714109400556",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Kingdom Hearts 4 Gets New Trailer, Late 2027 Release Window, and a Disney+ Anime Series",
@@ -3940,8 +3998,8 @@
           ]
         },
         {
-          "id": "gaming-1-5052411992037368807",
-          "key": "gaming-1-5052411992037368807",
+          "id": "gaming-1-7189430426192889526",
+          "key": "gaming-1-7189430426192889526",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "The Simpsons: Hit & Run 'Coming Back in Some Form,' Creator Matt Groening Says",
@@ -3968,7 +4026,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-15 02:38:50 AM ET"
+      "updated_at": "2026-08-15 03:31:43 AM ET"
     },
     {
       "key": "media",
@@ -3979,21 +4037,21 @@
       "key_storylines": [
         "Warner Bros. Discovery CEO David Zaslav Beneficiary of $27.1 Million in Stock Sales as Paramount Merger Is Stuck on Hold",
         "David Ellison’s Friday ParaBros News Dump: CEO Complains About “Needless Costs” Of State AGs’ Antitrust Suit As Mexico Approves Merger",
-        "Forbes editor out; report says he took $6M from founder of firm that does business with magazine - Audacy",
+        "Forbes editor out; report says he took $6M from founder of firm that does business with magazine - audacy.com",
         "If Paramount Leaves California, It Might Cut Costs but Wouldn’t Save on State Taxes",
         "English Football Giants Liverpool Confirm Sale Of Stake To Jeff Bezos & Facebook Co-Founder Eduardo Saverin"
       ],
       "watch_list": [
         "Warner Bros. Discovery CEO David Zaslav Beneficiary of $27.1 Million in Stock Sales as Paramount Merger Is Stuck on Hold",
         "David Ellison’s Friday ParaBros News Dump: CEO Complains About “Needless Costs” Of State AGs’ Antitrust Suit As Mexico Approves Merger",
-        "Forbes editor out; report says he took $6M from founder of firm that does business with magazine - Audacy",
+        "Forbes editor out; report says he took $6M from founder of firm that does business with magazine - audacy.com",
         "If Paramount Leaves California, It Might Cut Costs but Wouldn’t Save on State Taxes",
         "English Football Giants Liverpool Confirm Sale Of Stake To Jeff Bezos & Facebook Co-Founder Eduardo Saverin"
       ],
       "homepage_cards": [
         {
-          "id": "media-0-2589022075686504094",
-          "key": "media-0-2589022075686504094",
+          "id": "media-0-4016509840564975600",
+          "key": "media-0-4016509840564975600",
           "category": "Media",
           "label": "Media",
           "headline": "Warner Bros. Discovery CEO David Zaslav Beneficiary of $27.1 Million in Stock Sales as Paramount Merger Is Stuck on Hold",
@@ -4020,8 +4078,8 @@
           ]
         },
         {
-          "id": "media-10-7820493644844321722",
-          "key": "media-10-7820493644844321722",
+          "id": "media-10-2186032297666521665",
+          "key": "media-10-2186032297666521665",
           "category": "Media",
           "label": "Media",
           "headline": "David Ellison’s Friday ParaBros News Dump: CEO Complains About “Needless Costs” Of State AGs’ Antitrust Suit As Mexico Approves Merger",
@@ -4048,14 +4106,14 @@
           ]
         },
         {
-          "id": "media-21-4895407620050111332",
-          "key": "media-21-4895407620050111332",
+          "id": "media-21-4931660752242000282",
+          "key": "media-21-4931660752242000282",
           "category": "Media",
           "label": "Media",
-          "headline": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine - Audacy",
-          "title": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine - Audacy",
-          "snapshot": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine Audacy",
-          "summary": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine Audacy",
+          "headline": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine - audacy.com",
+          "title": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine - audacy.com",
+          "snapshot": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine audacy.com",
+          "summary": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine audacy.com",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU3FvVGlWZFJibi1ybl95MFRJZW9mMzQxazJHYVhCbENhMXF3eWJodFh3Z0ZnVFFRZ3Q2TlJsZjFCS2JrME5pR19ROS1La0JTY25BemEwVkpTdlI2TW9mb29jMGRvWS0yTUdzc2VCR1dIZ1c2ZEdQQzVwNjlPQmZOWlhPRHZ3V3U0OUJjQWtDSkd3ZmZGcTY5dDFpMjVvYkFSY0NsRE1KWQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -4066,7 +4124,7 @@
           "story_type": "rss_headline",
           "priority_score": 79,
           "key_data": [
-            "Forbes editor out; report says he took $6M from founder of firm that does business with magazine - Audacy"
+            "Forbes editor out; report says he took $6M from founder of firm that does business with magazine - audacy.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4076,8 +4134,8 @@
           ]
         },
         {
-          "id": "media-1-1615292725050650258",
-          "key": "media-1-1615292725050650258",
+          "id": "media-1-1409855659111827266",
+          "key": "media-1-1409855659111827266",
           "category": "Media",
           "label": "Media",
           "headline": "If Paramount Leaves California, It Might Cut Costs but Wouldn’t Save on State Taxes",
@@ -4104,8 +4162,8 @@
           ]
         },
         {
-          "id": "media-11-3146688282314685392",
-          "key": "media-11-3146688282314685392",
+          "id": "media-11-5943964178709165326",
+          "key": "media-11-5943964178709165326",
           "category": "Media",
           "label": "Media",
           "headline": "English Football Giants Liverpool Confirm Sale Of Stake To Jeff Bezos & Facebook Co-Founder Eduardo Saverin",
@@ -4134,8 +4192,8 @@
       ],
       "items": [
         {
-          "id": "media-0-2589022075686504094",
-          "key": "media-0-2589022075686504094",
+          "id": "media-0-4016509840564975600",
+          "key": "media-0-4016509840564975600",
           "category": "Media",
           "label": "Media",
           "headline": "Warner Bros. Discovery CEO David Zaslav Beneficiary of $27.1 Million in Stock Sales as Paramount Merger Is Stuck on Hold",
@@ -4162,8 +4220,8 @@
           ]
         },
         {
-          "id": "media-10-7820493644844321722",
-          "key": "media-10-7820493644844321722",
+          "id": "media-10-2186032297666521665",
+          "key": "media-10-2186032297666521665",
           "category": "Media",
           "label": "Media",
           "headline": "David Ellison’s Friday ParaBros News Dump: CEO Complains About “Needless Costs” Of State AGs’ Antitrust Suit As Mexico Approves Merger",
@@ -4190,14 +4248,14 @@
           ]
         },
         {
-          "id": "media-21-4895407620050111332",
-          "key": "media-21-4895407620050111332",
+          "id": "media-21-4931660752242000282",
+          "key": "media-21-4931660752242000282",
           "category": "Media",
           "label": "Media",
-          "headline": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine - Audacy",
-          "title": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine - Audacy",
-          "snapshot": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine Audacy",
-          "summary": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine Audacy",
+          "headline": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine - audacy.com",
+          "title": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine - audacy.com",
+          "snapshot": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine audacy.com",
+          "summary": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine audacy.com",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU3FvVGlWZFJibi1ybl95MFRJZW9mMzQxazJHYVhCbENhMXF3eWJodFh3Z0ZnVFFRZ3Q2TlJsZjFCS2JrME5pR19ROS1La0JTY25BemEwVkpTdlI2TW9mb29jMGRvWS0yTUdzc2VCR1dIZ1c2ZEdQQzVwNjlPQmZOWlhPRHZ3V3U0OUJjQWtDSkd3ZmZGcTY5dDFpMjVvYkFSY0NsRE1KWQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -4208,7 +4266,7 @@
           "story_type": "rss_headline",
           "priority_score": 79,
           "key_data": [
-            "Forbes editor out; report says he took $6M from founder of firm that does business with magazine - Audacy"
+            "Forbes editor out; report says he took $6M from founder of firm that does business with magazine - audacy.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4218,8 +4276,8 @@
           ]
         },
         {
-          "id": "media-1-1615292725050650258",
-          "key": "media-1-1615292725050650258",
+          "id": "media-1-1409855659111827266",
+          "key": "media-1-1409855659111827266",
           "category": "Media",
           "label": "Media",
           "headline": "If Paramount Leaves California, It Might Cut Costs but Wouldn’t Save on State Taxes",
@@ -4246,8 +4304,8 @@
           ]
         },
         {
-          "id": "media-11-3146688282314685392",
-          "key": "media-11-3146688282314685392",
+          "id": "media-11-5943964178709165326",
+          "key": "media-11-5943964178709165326",
           "category": "Media",
           "label": "Media",
           "headline": "English Football Giants Liverpool Confirm Sale Of Stake To Jeff Bezos & Facebook Co-Founder Eduardo Saverin",
@@ -4274,7 +4332,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-15 02:38:52 AM ET"
+      "updated_at": "2026-08-15 03:31:45 AM ET"
     }
   ]
 }
