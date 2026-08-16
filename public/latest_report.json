@@ -3,17 +3,17 @@
   "site": "Global Entertainment Report",
   "site_name": "Global Entertainment Report",
   "vertical": "Entertainment",
-  "headline": "'Mission' Review: An All-In George MacKay Performance Anchors a Fevered Mental Illness Portrait",
-  "snapshot": "Global Entertainment Report accepted 47 real RSS item(s) across 31 checked feed request(s).",
-  "generated_at": "2026-08-16 10:23:24 AM ET",
-  "updated_at": "2026-08-16 10:23:24 AM ET",
-  "published_at": "2026-08-16 10:23:24 AM ET",
+  "headline": "'Spider-Man: Brand New Day' Hits $2 Billion Worldwide in Three Weeks",
+  "snapshot": "Global Entertainment Report accepted 46 real RSS item(s) across 31 checked feed request(s).",
+  "generated_at": "2026-08-16 11:22:03 AM ET",
+  "updated_at": "2026-08-16 11:22:03 AM ET",
+  "published_at": "2026-08-16 11:22:03 AM ET",
   "source_mode": "live RSS ingestion",
   "freshness": {
     "max_item_age_hours": 336,
-    "accepted_real_items": 47,
+    "accepted_real_items": 46,
     "checked_feeds": 31,
-    "feeds_without_accepted_items": 6
+    "feeds_without_accepted_items": 7
   },
   "feed_audit": [
     {
@@ -193,11 +193,11 @@
       "url": "https://news.google.com/rss/search?q=entertainment+awards+oscars+emmys+grammys&hl=en-US&gl=US&ceid=US:en",
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=entertainment+awards+oscars+emmys+grammys&hl=en-US&gl=US&ceid=US:en",
-      "item_count": 72,
+      "item_count": 71,
       "accepted_count": 2,
-      "rejected_count": 70,
+      "rejected_count": 69,
       "rejection_reasons": {
-        "stale-over-336h": 70
+        "stale-over-336h": 69
       }
     },
     {
@@ -219,10 +219,8 @@
       "final_url": "https://variety.com/v/film/box-office/feed/",
       "item_count": 10,
       "accepted_count": 2,
-      "rejected_count": 1,
-      "rejection_reasons": {
-        "duplicate-story": 1
-      }
+      "rejected_count": 0,
+      "rejection_reasons": {}
     },
     {
       "category": "box_office",
@@ -231,10 +229,10 @@
       "final_url": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 51,
+      "rejected_count": 54,
       "rejection_reasons": {
-        "stale-over-336h": 50,
-        "duplicate-story": 1
+        "duplicate-story": 4,
+        "stale-over-336h": 50
       }
     },
     {
@@ -267,10 +265,10 @@
       "status_code": "200",
       "final_url": "https://variety.com/feed/",
       "item_count": 10,
-      "accepted_count": 1,
-      "rejected_count": 9,
+      "accepted_count": 0,
+      "rejected_count": 10,
       "rejection_reasons": {
-        "duplicate-story": 9
+        "duplicate-story": 10
       }
     },
     {
@@ -280,9 +278,9 @@
       "final_url": "https://deadline.com/feed/",
       "item_count": 12,
       "accepted_count": 2,
-      "rejected_count": 10,
+      "rejected_count": 9,
       "rejection_reasons": {
-        "duplicate-story": 10
+        "duplicate-story": 9
       }
     },
     {
@@ -292,9 +290,9 @@
       "final_url": "https://www.hollywoodreporter.com/feed/",
       "item_count": 10,
       "accepted_count": 2,
-      "rejected_count": 5,
+      "rejected_count": 4,
       "rejection_reasons": {
-        "duplicate-story": 5
+        "duplicate-story": 4
       }
     },
     {
@@ -372,33 +370,33 @@
   "substack_url": "https://globalentertainmentreport.substack.com/",
   "x_handle": "@GlobalSportsRp",
   "key_storylines": [
-    "'Mission' Review: An All-In George MacKay Performance Anchors a Fevered Mental Illness Portrait",
+    "'Spider-Man: Brand New Day' Hits $2 Billion Worldwide in Three Weeks",
     "Mira Sorvino Calls 'Romy & Michele 2' Co-Star Lisa Kudrow A \"Great Acting Partner\" & Reveals Why Film Has Withstood The Test Of Time",
     "'Too Much Music' Is a Doc Project About Ghanaian Keyboardist Kiki Gyan - and About Who Controls Artists' Narratives",
-    "This Adam Driver Film Has Been Named One of the 'Most Boring Movies This Century' - Men's Journal",
+    "This Adam Driver Film Has Been Named One of the 'Most Boring Movies This Century' - mensjournal.com",
     "Earth, Wind & Fire Drummer John Paris in Induced Coma Following Medical Emergency",
     "'I Want to Set the Record Straight: That Is Not Happening' - Kingdom Hearts 4 Devs Say KH4 '100%' Will Not Be Delayed Past Late 2027 Launch | D23 2026",
-    "Locarno Winner 'Forgotten Spaceman' Adds Khan & Kumar Media, Prism Entertainment as Executive Producers Ahead of Toronto Bow (EXCLUSIVE)",
+    "'Mission' Review: An All-In George MacKay Performance Anchors a Fevered Mental Illness Portrait",
     "'Borges And Me' Review: Marc Turtletaub's Hallucinatory '70s Road Trip Is Smart, Literary And Playful - Edinburgh Film Festival"
   ],
   "live_newsroom": [
     {
-      "id": "film-0-3480915470478525106",
-      "key": "film-0-3480915470478525106",
+      "id": "film-0-8653569766931896861",
+      "key": "film-0-8653569766931896861",
       "category": "Film",
       "label": "Film",
-      "headline": "'Mission' Review: An All-In George MacKay Performance Anchors a Fevered Mental Illness Portrait",
-      "title": "'Mission' Review: An All-In George MacKay Performance Anchors a Fevered Mental Illness Portrait",
-      "snapshot": "Back in 2013, actor George MacKay and director Paul Wright paired up for \"For Those in Peril,\" an atmospheric study of youthful alienation, trauma and psychological collapse in small-town Scotland that sealed both men's place on the U.K. industry \"ones to watch\" list. Since then, MacKay's career has gone from streng...",
-      "summary": "Back in 2013, actor George MacKay and director Paul Wright paired up for \"For Those in Peril,\" an atmospheric study of youthful alienation, trauma and psychological collapse in small-town Scotland that sealed both men's place on the U.K. industry \"ones to watch\" list. Since then, MacKay's career has gone from streng...",
-      "url": "https://variety.com/2026/film/reviews/mission-review-george-mackay-1236835601/",
+      "headline": "'Spider-Man: Brand New Day' Hits $2 Billion Worldwide in Three Weeks",
+      "title": "'Spider-Man: Brand New Day' Hits $2 Billion Worldwide in Three Weeks",
+      "snapshot": "New day, new box office milestone for Sony's latest Spidey adventure. \"Spider-Man: Brand New Day\" has surpassed $2 billion in global ticket sales, eclipsing the rare benchmark after just three weekends of release. The comic book adventure, starring Tom Holland as Marvel's neighborhood web-slinger, has grossed $785 m...",
+      "summary": "New day, new box office milestone for Sony's latest Spidey adventure. \"Spider-Man: Brand New Day\" has surpassed $2 billion in global ticket sales, eclipsing the rare benchmark after just three weekends of release. The comic book adventure, starring Tom Holland as Marvel's neighborhood web-slinger, has grossed $785 m...",
+      "url": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-2-billion-worldwide-box-office-second-fastest-milestone-1236834058/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-16 10:14:50 AM ET",
+      "published_at": "2026-08-16 11:15:31 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Mission' Review: An All-In George MacKay Performance Anchors a Fevered Mental Illness Portrait"
+        "'Spider-Man: Brand New Day' Hits $2 Billion Worldwide in Three Weeks"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -410,8 +408,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-195837935896433113",
-      "key": "film-10-195837935896433113",
+      "id": "film-10-4959629633074421664",
+      "key": "film-10-4959629633074421664",
       "category": "Film",
       "label": "Film",
       "headline": "Mira Sorvino Calls 'Romy & Michele 2' Co-Star Lisa Kudrow A \"Great Acting Partner\" & Reveals Why Film Has Withstood The Test Of Time",
@@ -437,8 +435,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-4115075810223366149",
-      "key": "film-22-4115075810223366149",
+      "id": "film-22-2375780530892032690",
+      "key": "film-22-2375780530892032690",
       "category": "Film",
       "label": "Film",
       "headline": "'Too Much Music' Is a Doc Project About Ghanaian Keyboardist Kiki Gyan - and About Who Controls Artists' Narratives",
@@ -464,14 +462,14 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-5339018707279839515",
-      "key": "film-32-5339018707279839515",
+      "id": "film-32-7530222588498019022",
+      "key": "film-32-7530222588498019022",
       "category": "Film",
       "label": "Film",
-      "headline": "This Adam Driver Film Has Been Named One of the 'Most Boring Movies This Century' - Men's Journal",
-      "title": "This Adam Driver Film Has Been Named One of the 'Most Boring Movies This Century' - Men's Journal",
-      "snapshot": "This Adam Driver Film Has Been Named One of the 'Most Boring Movies This Century' Men's Journal",
-      "summary": "This Adam Driver Film Has Been Named One of the 'Most Boring Movies This Century' Men's Journal",
+      "headline": "This Adam Driver Film Has Been Named One of the 'Most Boring Movies This Century' - mensjournal.com",
+      "title": "This Adam Driver Film Has Been Named One of the 'Most Boring Movies This Century' - mensjournal.com",
+      "snapshot": "This Adam Driver Film Has Been Named One of the 'Most Boring Movies This Century' mensjournal.com",
+      "summary": "This Adam Driver Film Has Been Named One of the 'Most Boring Movies This Century' mensjournal.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQem9IVko5ZnllOGFrTWc2M2R3Z2VXVVV2OVV0ZW5kQm1xUW8zem5FbXdwMjUzLWd1OWVTeE5fMTFoX2NKUnFvY2RPdmxUNDF1SjU0eXg5WXdEN1hBWmtxWU01OExHaHpTVzRJZnNNckppbW1JUmFPaHNZUUN0SDZTdk1SM1RMdlBHZ3JrQ2I5NjFLb1Z5SFpwc3pFcmFFY0t4VHdaOG5sRGp0bm1WdUdUbElEMmMzVmFjSGRZN0hR?oc=5",
       "source": "Google News",
       "source_name": "Google News",
@@ -479,7 +477,7 @@
       "published_at": "2026-08-15 06:39:43 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "This Adam Driver Film Has Been Named One of the 'Most Boring Movies This Century' - Men's Journal"
+        "This Adam Driver Film Has Been Named One of the 'Most Boring Movies This Century' - mensjournal.com"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -491,8 +489,8 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-3800957301635117882",
-      "key": "music-10-3800957301635117882",
+      "id": "music-10-6599880548090032169",
+      "key": "music-10-6599880548090032169",
       "category": "Music",
       "label": "Music",
       "headline": "Earth, Wind & Fire Drummer John Paris in Induced Coma Following Medical Emergency",
@@ -518,8 +516,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-3638874644602514425",
-      "key": "gaming-0-3638874644602514425",
+      "id": "gaming-0-6210539952614548233",
+      "key": "gaming-0-6210539952614548233",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "'I Want to Set the Record Straight: That Is Not Happening' - Kingdom Hearts 4 Devs Say KH4 '100%' Will Not Be Delayed Past Late 2027 Launch | D23 2026",
@@ -545,22 +543,22 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-3774953346291520467",
-      "key": "film-1-3774953346291520467",
+      "id": "film-1-895777269110843583",
+      "key": "film-1-895777269110843583",
       "category": "Film",
       "label": "Film",
-      "headline": "Locarno Winner 'Forgotten Spaceman' Adds Khan & Kumar Media, Prism Entertainment as Executive Producers Ahead of Toronto Bow (EXCLUSIVE)",
-      "title": "Locarno Winner 'Forgotten Spaceman' Adds Khan & Kumar Media, Prism Entertainment as Executive Producers Ahead of Toronto Bow (EXCLUSIVE)",
-      "snapshot": "\"Forgotten Spaceman,\" the documentary short by BAFTA-nominated filmmaker Elham Ehsas that won the Leopard of Tomorrow (International Competition) award at Locarno's Junior Jury Awards, has added Khan & Kumar Media and Prism Entertainment as executive producers ahead of its Toronto Film Festival premiere next month....",
-      "summary": "\"Forgotten Spaceman,\" the documentary short by BAFTA-nominated filmmaker Elham Ehsas that won the Leopard of Tomorrow (International Competition) award at Locarno's Junior Jury Awards, has added Khan & Kumar Media and Prism Entertainment as executive producers ahead of its Toronto Film Festival premiere next month....",
-      "url": "https://variety.com/2026/film/festivals/forgotten-spaceman-locarno-leopard-tomorrow-khan-kumar-prism-eps-1236835604/",
+      "headline": "'Mission' Review: An All-In George MacKay Performance Anchors a Fevered Mental Illness Portrait",
+      "title": "'Mission' Review: An All-In George MacKay Performance Anchors a Fevered Mental Illness Portrait",
+      "snapshot": "Back in 2013, actor George MacKay and director Paul Wright paired up for \"For Those in Peril,\" an atmospheric study of youthful alienation, trauma and psychological collapse in small-town Scotland that sealed both men's place on the U.K. industry \"ones to watch\" list. Since then, MacKay's career has gone from streng...",
+      "summary": "Back in 2013, actor George MacKay and director Paul Wright paired up for \"For Those in Peril,\" an atmospheric study of youthful alienation, trauma and psychological collapse in small-town Scotland that sealed both men's place on the U.K. industry \"ones to watch\" list. Since then, MacKay's career has gone from streng...",
+      "url": "https://variety.com/2026/film/reviews/mission-review-george-mackay-1236835601/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-16 07:05:14 AM ET",
+      "published_at": "2026-08-16 10:14:50 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Locarno Winner 'Forgotten Spaceman' Adds Khan & Kumar Media, Prism Entertainment as Executive Producers Ahead of Toronto Bow (EXCLUSIVE)"
+        "'Mission' Review: An All-In George MacKay Performance Anchors a Fevered Mental Illness Portrait"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -572,8 +570,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-1298032424629435088",
-      "key": "film-11-1298032424629435088",
+      "id": "film-11-741788923677326747",
+      "key": "film-11-741788923677326747",
       "category": "Film",
       "label": "Film",
       "headline": "'Borges And Me' Review: Marc Turtletaub's Hallucinatory '70s Road Trip Is Smart, Literary And Playful - Edinburgh Film Festival",
@@ -599,8 +597,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-1800156751641526126",
-      "key": "film-23-1800156751641526126",
+      "id": "film-23-8781541337967572889",
+      "key": "film-23-8781541337967572889",
       "category": "Film",
       "label": "Film",
       "headline": "Hollywood Flashback: When Dudley Moore Intoxicated Audiences in 'Arthur'",
@@ -626,14 +624,14 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-2600115138371762678",
-      "key": "film-33-2600115138371762678",
+      "id": "film-33-2152836485829119615",
+      "key": "film-33-2152836485829119615",
       "category": "Film",
       "label": "Film",
-      "headline": "Disney's D23: Everything announced, from rides to movies and more - ABC News - Breaking News, Latest News and Videos",
-      "title": "Disney's D23: Everything announced, from rides to movies and more - ABC News - Breaking News, Latest News and Videos",
-      "snapshot": "Disney's D23: Everything announced, from rides to movies and more ABC News - Breaking News, Latest News and Videos",
-      "summary": "Disney's D23: Everything announced, from rides to movies and more ABC News - Breaking News, Latest News and Videos",
+      "headline": "Disney's D23: Everything announced, from rides to movies and more - abcnews.com",
+      "title": "Disney's D23: Everything announced, from rides to movies and more - abcnews.com",
+      "snapshot": "Disney's D23: Everything announced, from rides to movies and more abcnews.com",
+      "summary": "Disney's D23: Everything announced, from rides to movies and more abcnews.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX2tGemhTaVY5cDVWRWExVFpzVlRmSUNjc09feVRmSkNpRlVkNVZDYk50S09FYkJrMGFYc0dOVVhjRlBFRGlhQkNJemlIdkNLUTBFM0ZwY25qQm95bWFiLXRyY3o4Q3VYNktnNGZ3cTBBLWFQbHM4Ni0wXzlrOGdIZkNUTUNpN1pBMS1Vb0xFLTcyN002NkUxRmltOEJZaGRoN0xz0gGoAUFVX3lxTE5hNkZsZ3B6b0c3MHQtWXBqRWE4Y0g3OU5ReVpLTFBucWk4aDkxTm4wTXhycUhFbDFUVWVzcTdyUTl0djFUVl9wM1ktejNHUG5sS2l0NnBaT0pJN0JMU1RGN095VzZ4c2dQUVczUGJQdUlzbzliSERtM1Zqa01nU1JYM1pLbEZtREY2cEJpV3VvUWgtS2Njd25SM3RUYktVRGs4MVJiRGhJWg?oc=5",
       "source": "Google News",
       "source_name": "Google News",
@@ -641,7 +639,7 @@
       "published_at": "2026-08-15 02:57:05 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Disney's D23: Everything announced, from rides to movies and more - ABC News - Breaking News, Latest News and Videos"
+        "Disney's D23: Everything announced, from rides to movies and more - abcnews.com"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -653,8 +651,8 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-980318607396863371",
-      "key": "music-11-980318607396863371",
+      "id": "music-11-919096680308907648",
+      "key": "music-11-919096680308907648",
       "category": "Music",
       "label": "Music",
       "headline": "Ariana Grande Reclaims the London Stage After 7 Years: 5 Best Moments",
@@ -680,8 +678,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-5839071144699427610",
-      "key": "gaming-1-5839071144699427610",
+      "id": "gaming-1-243243623881268206",
+      "key": "gaming-1-243243623881268206",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Kingdom Hearts 4 Gets Extended Gameplay Trailer Featuring Playable Mickey, Donald, and Goofy | D23 2026",
@@ -709,22 +707,22 @@
   ],
   "editor_signals": [
     {
-      "id": "film-2-3479226123184824781",
-      "key": "film-2-3479226123184824781",
+      "id": "film-2-8990985971189616284",
+      "key": "film-2-8990985971189616284",
       "category": "Film",
       "label": "Film",
-      "headline": "'Shame and Money' Director on Sundance-Winning Drama About a Kosovo Family in Free Fall: 'It's a Look Into the Past and a Warning to the Future'",
-      "title": "'Shame and Money' Director on Sundance-Winning Drama About a Kosovo Family in Free Fall: 'It's a Look Into the Past and a Warning to the Future'",
-      "snapshot": "Sundance Grand Jury Prize winner Visar Morina returns to the Sarajevo Film Festival - the scene of a previous triumph - with the biting social drama \"Shame and Money,\" which won the top prize in Park City earlier this year and is playing in the festival's main competition. The director's third feature wowed audience...",
-      "summary": "Sundance Grand Jury Prize winner Visar Morina returns to the Sarajevo Film Festival - the scene of a previous triumph - with the biting social drama \"Shame and Money,\" which won the top prize in Park City earlier this year and is playing in the festival's main competition. The director's third feature wowed audience...",
-      "url": "https://variety.com/2026/film/global/shame-and-money-sundance-social-drama-kosovo-1236834517/",
+      "headline": "Locarno Winner 'Forgotten Spaceman' Adds Khan & Kumar Media, Prism Entertainment as Executive Producers Ahead of Toronto Bow (EXCLUSIVE)",
+      "title": "Locarno Winner 'Forgotten Spaceman' Adds Khan & Kumar Media, Prism Entertainment as Executive Producers Ahead of Toronto Bow (EXCLUSIVE)",
+      "snapshot": "\"Forgotten Spaceman,\" the documentary short by BAFTA-nominated filmmaker Elham Ehsas that won the Leopard of Tomorrow (International Competition) award at Locarno's Junior Jury Awards, has added Khan & Kumar Media and Prism Entertainment as executive producers ahead of its Toronto Film Festival premiere next month....",
+      "summary": "\"Forgotten Spaceman,\" the documentary short by BAFTA-nominated filmmaker Elham Ehsas that won the Leopard of Tomorrow (International Competition) award at Locarno's Junior Jury Awards, has added Khan & Kumar Media and Prism Entertainment as executive producers ahead of its Toronto Film Festival premiere next month....",
+      "url": "https://variety.com/2026/film/festivals/forgotten-spaceman-locarno-leopard-tomorrow-khan-kumar-prism-eps-1236835604/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-16 04:33:36 AM ET",
+      "published_at": "2026-08-16 07:05:14 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Shame and Money' Director on Sundance-Winning Drama About a Kosovo Family in Free Fall: 'It's a Look Into the Past and a Warning to the Future'"
+        "Locarno Winner 'Forgotten Spaceman' Adds Khan & Kumar Media, Prism Entertainment as Executive Producers Ahead of Toronto Bow (EXCLUSIVE)"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -736,8 +734,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-130995585606133489",
-      "key": "film-12-130995585606133489",
+      "id": "film-12-7643626010798949331",
+      "key": "film-12-7643626010798949331",
       "category": "Film",
       "label": "Film",
       "headline": "'Outlander's Caitríona Balfe Joins Live-Action 'Tangled' As Queen Arianna",
@@ -763,8 +761,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-2418840450350387819",
-      "key": "film-24-2418840450350387819",
+      "id": "film-24-1752430184647514177",
+      "key": "film-24-1752430184647514177",
       "category": "Film",
       "label": "Film",
       "headline": "'Spider-Man: Brand New Day' Still Soaring to Top Its Third Weekend With $67M",
@@ -790,8 +788,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-2539652501434891531",
-      "key": "film-34-2539652501434891531",
+      "id": "film-34-4296461340734711570",
+      "key": "film-34-4296461340734711570",
       "category": "Film",
       "label": "Film",
       "headline": "The 30 best action-adventure movies, ranked - Entertainment Weekly",
@@ -817,8 +815,8 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-8314435145329534738",
-      "key": "music-12-8314435145329534738",
+      "id": "music-12-2099047687360213401",
+      "key": "music-12-2099047687360213401",
       "category": "Music",
       "label": "Music",
       "headline": "Lisa Knowles-Smith, Darrel Walls & More Win Big at 2026 Stellar Gospel Music Awards: Full Winners List",
@@ -844,8 +842,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-3184764578986344264",
-      "key": "gaming-2-3184764578986344264",
+      "id": "gaming-2-6731641801140307274",
+      "key": "gaming-2-6731641801140307274",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "D23 Deep Dive Into Kingdom Hearts Panel: Everything Announced",
@@ -871,22 +869,22 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-5230108694223675084",
-      "key": "film-3-5230108694223675084",
+      "id": "film-3-6002329578966448554",
+      "key": "film-3-6002329578966448554",
       "category": "Film",
       "label": "Film",
-      "headline": "Ranveer Singh, Kalyani Priyadarshan's 'Pralay,' Produced by Ananya Birla and Hansal Mehta, Directed by Jai Mehta, Starts Filming",
-      "title": "Ranveer Singh, Kalyani Priyadarshan's 'Pralay,' Produced by Ananya Birla and Hansal Mehta, Directed by Jai Mehta, Starts Filming",
-      "snapshot": "Ranveer Singh's \"Pralay,\" an end-of-the-world action thriller, has begun filming in Mumbai. The film is produced by Ananya Birla's Birla Studios, Hansal Mehta and Sahil Saigal's True Story Films and Singh's Maa Kasam Films. Singh, who headlines the project, also serves as a producer on the film, which is directed by...",
-      "summary": "Ranveer Singh's \"Pralay,\" an end-of-the-world action thriller, has begun filming in Mumbai. The film is produced by Ananya Birla's Birla Studios, Hansal Mehta and Sahil Saigal's True Story Films and Singh's Maa Kasam Films. Singh, who headlines the project, also serves as a producer on the film, which is directed by...",
-      "url": "https://variety.com/2026/film/news/ranveer-singh-kalyani-priyadarshan-pralay-mumbai-filming-1236835508/",
+      "headline": "'Shame and Money' Director on Sundance-Winning Drama About a Kosovo Family in Free Fall: 'It's a Look Into the Past and a Warning to the Future'",
+      "title": "'Shame and Money' Director on Sundance-Winning Drama About a Kosovo Family in Free Fall: 'It's a Look Into the Past and a Warning to the Future'",
+      "snapshot": "Sundance Grand Jury Prize winner Visar Morina returns to the Sarajevo Film Festival - the scene of a previous triumph - with the biting social drama \"Shame and Money,\" which won the top prize in Park City earlier this year and is playing in the festival's main competition. The director's third feature wowed audience...",
+      "summary": "Sundance Grand Jury Prize winner Visar Morina returns to the Sarajevo Film Festival - the scene of a previous triumph - with the biting social drama \"Shame and Money,\" which won the top prize in Park City earlier this year and is playing in the festival's main competition. The director's third feature wowed audience...",
+      "url": "https://variety.com/2026/film/global/shame-and-money-sundance-social-drama-kosovo-1236834517/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-16 01:41:00 AM ET",
+      "published_at": "2026-08-16 04:33:36 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Ranveer Singh, Kalyani Priyadarshan's 'Pralay,' Produced by Ananya Birla and Hansal Mehta, Directed by Jai Mehta, Starts Filming"
+        "'Shame and Money' Director on Sundance-Winning Drama About a Kosovo Family in Free Fall: 'It's a Look Into the Past and a Warning to the Future'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -898,8 +896,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-3840267078396877766",
-      "key": "film-13-3840267078396877766",
+      "id": "film-13-1781449161032061563",
+      "key": "film-13-1781449161032061563",
       "category": "Film",
       "label": "Film",
       "headline": "Mason Thames Reveals He & McKenna Grace Filmed 'Nimrods' Before 'Regretting You', Talks Possibility Of Doing \"Another Job Together\"",
@@ -925,8 +923,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-2892617743363123317",
-      "key": "film-25-2892617743363123317",
+      "id": "film-25-8494487898730254843",
+      "key": "film-25-8494487898730254843",
       "category": "Film",
       "label": "Film",
       "headline": "Locarno Film Festival Awards Go to 'You Don't Belong Here,' Hong Sangsoo, Monica Bellucci",
@@ -952,8 +950,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-6893697664542096554",
-      "key": "film-35-6893697664542096554",
+      "id": "film-35-8740971737193871380",
+      "key": "film-35-8740971737193871380",
       "category": "Film",
       "label": "Film",
       "headline": "New movies: the most exciting films coming to theaters in August 2026 and beyond - TechRadar",
@@ -979,8 +977,8 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-6943457789675767769",
-      "key": "music-13-6943457789675767769",
+      "id": "music-13-3329269971232832193",
+      "key": "music-13-3329269971232832193",
       "category": "Music",
       "label": "Music",
       "headline": "The Best Moments From KCON LA 2026 (So Far)",
@@ -1006,8 +1004,8 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-8423422757422956382",
-      "key": "gaming-3-8423422757422956382",
+      "id": "gaming-3-1655174004755060126",
+      "key": "gaming-3-1655174004755060126",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The Best Deals Today: Project Hail Mary 4K Blu-ray, Resident Evil Requiem, AirPods Pro 3, and More",
@@ -1035,22 +1033,22 @@
   ],
   "homepage_cards": [
     {
-      "id": "film-0-3480915470478525106",
-      "key": "film-0-3480915470478525106",
+      "id": "film-0-8653569766931896861",
+      "key": "film-0-8653569766931896861",
       "category": "Film",
       "label": "Film",
-      "headline": "'Mission' Review: An All-In George MacKay Performance Anchors a Fevered Mental Illness Portrait",
-      "title": "'Mission' Review: An All-In George MacKay Performance Anchors a Fevered Mental Illness Portrait",
-      "snapshot": "Back in 2013, actor George MacKay and director Paul Wright paired up for \"For Those in Peril,\" an atmospheric study of youthful alienation, trauma and psychological collapse in small-town Scotland that sealed both men's place on the U.K. industry \"ones to watch\" list. Since then, MacKay's career has gone from streng...",
-      "summary": "Back in 2013, actor George MacKay and director Paul Wright paired up for \"For Those in Peril,\" an atmospheric study of youthful alienation, trauma and psychological collapse in small-town Scotland that sealed both men's place on the U.K. industry \"ones to watch\" list. Since then, MacKay's career has gone from streng...",
-      "url": "https://variety.com/2026/film/reviews/mission-review-george-mackay-1236835601/",
+      "headline": "'Spider-Man: Brand New Day' Hits $2 Billion Worldwide in Three Weeks",
+      "title": "'Spider-Man: Brand New Day' Hits $2 Billion Worldwide in Three Weeks",
+      "snapshot": "New day, new box office milestone for Sony's latest Spidey adventure. \"Spider-Man: Brand New Day\" has surpassed $2 billion in global ticket sales, eclipsing the rare benchmark after just three weekends of release. The comic book adventure, starring Tom Holland as Marvel's neighborhood web-slinger, has grossed $785 m...",
+      "summary": "New day, new box office milestone for Sony's latest Spidey adventure. \"Spider-Man: Brand New Day\" has surpassed $2 billion in global ticket sales, eclipsing the rare benchmark after just three weekends of release. The comic book adventure, starring Tom Holland as Marvel's neighborhood web-slinger, has grossed $785 m...",
+      "url": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-2-billion-worldwide-box-office-second-fastest-milestone-1236834058/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-16 10:14:50 AM ET",
+      "published_at": "2026-08-16 11:15:31 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Mission' Review: An All-In George MacKay Performance Anchors a Fevered Mental Illness Portrait"
+        "'Spider-Man: Brand New Day' Hits $2 Billion Worldwide in Three Weeks"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1062,8 +1060,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-195837935896433113",
-      "key": "film-10-195837935896433113",
+      "id": "film-10-4959629633074421664",
+      "key": "film-10-4959629633074421664",
       "category": "Film",
       "label": "Film",
       "headline": "Mira Sorvino Calls 'Romy & Michele 2' Co-Star Lisa Kudrow A \"Great Acting Partner\" & Reveals Why Film Has Withstood The Test Of Time",
@@ -1089,8 +1087,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-4115075810223366149",
-      "key": "film-22-4115075810223366149",
+      "id": "film-22-2375780530892032690",
+      "key": "film-22-2375780530892032690",
       "category": "Film",
       "label": "Film",
       "headline": "'Too Much Music' Is a Doc Project About Ghanaian Keyboardist Kiki Gyan - and About Who Controls Artists' Narratives",
@@ -1116,14 +1114,14 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-5339018707279839515",
-      "key": "film-32-5339018707279839515",
+      "id": "film-32-7530222588498019022",
+      "key": "film-32-7530222588498019022",
       "category": "Film",
       "label": "Film",
-      "headline": "This Adam Driver Film Has Been Named One of the 'Most Boring Movies This Century' - Men's Journal",
-      "title": "This Adam Driver Film Has Been Named One of the 'Most Boring Movies This Century' - Men's Journal",
-      "snapshot": "This Adam Driver Film Has Been Named One of the 'Most Boring Movies This Century' Men's Journal",
-      "summary": "This Adam Driver Film Has Been Named One of the 'Most Boring Movies This Century' Men's Journal",
+      "headline": "This Adam Driver Film Has Been Named One of the 'Most Boring Movies This Century' - mensjournal.com",
+      "title": "This Adam Driver Film Has Been Named One of the 'Most Boring Movies This Century' - mensjournal.com",
+      "snapshot": "This Adam Driver Film Has Been Named One of the 'Most Boring Movies This Century' mensjournal.com",
+      "summary": "This Adam Driver Film Has Been Named One of the 'Most Boring Movies This Century' mensjournal.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQem9IVko5ZnllOGFrTWc2M2R3Z2VXVVV2OVV0ZW5kQm1xUW8zem5FbXdwMjUzLWd1OWVTeE5fMTFoX2NKUnFvY2RPdmxUNDF1SjU0eXg5WXdEN1hBWmtxWU01OExHaHpTVzRJZnNNckppbW1JUmFPaHNZUUN0SDZTdk1SM1RMdlBHZ3JrQ2I5NjFLb1Z5SFpwc3pFcmFFY0t4VHdaOG5sRGp0bm1WdUdUbElEMmMzVmFjSGRZN0hR?oc=5",
       "source": "Google News",
       "source_name": "Google News",
@@ -1131,7 +1129,7 @@
       "published_at": "2026-08-15 06:39:43 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "This Adam Driver Film Has Been Named One of the 'Most Boring Movies This Century' - Men's Journal"
+        "This Adam Driver Film Has Been Named One of the 'Most Boring Movies This Century' - mensjournal.com"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1143,8 +1141,8 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-3800957301635117882",
-      "key": "music-10-3800957301635117882",
+      "id": "music-10-6599880548090032169",
+      "key": "music-10-6599880548090032169",
       "category": "Music",
       "label": "Music",
       "headline": "Earth, Wind & Fire Drummer John Paris in Induced Coma Following Medical Emergency",
@@ -1170,8 +1168,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-3638874644602514425",
-      "key": "gaming-0-3638874644602514425",
+      "id": "gaming-0-6210539952614548233",
+      "key": "gaming-0-6210539952614548233",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "'I Want to Set the Record Straight: That Is Not Happening' - Kingdom Hearts 4 Devs Say KH4 '100%' Will Not Be Delayed Past Late 2027 Launch | D23 2026",
@@ -1197,22 +1195,22 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-3774953346291520467",
-      "key": "film-1-3774953346291520467",
+      "id": "film-1-895777269110843583",
+      "key": "film-1-895777269110843583",
       "category": "Film",
       "label": "Film",
-      "headline": "Locarno Winner 'Forgotten Spaceman' Adds Khan & Kumar Media, Prism Entertainment as Executive Producers Ahead of Toronto Bow (EXCLUSIVE)",
-      "title": "Locarno Winner 'Forgotten Spaceman' Adds Khan & Kumar Media, Prism Entertainment as Executive Producers Ahead of Toronto Bow (EXCLUSIVE)",
-      "snapshot": "\"Forgotten Spaceman,\" the documentary short by BAFTA-nominated filmmaker Elham Ehsas that won the Leopard of Tomorrow (International Competition) award at Locarno's Junior Jury Awards, has added Khan & Kumar Media and Prism Entertainment as executive producers ahead of its Toronto Film Festival premiere next month....",
-      "summary": "\"Forgotten Spaceman,\" the documentary short by BAFTA-nominated filmmaker Elham Ehsas that won the Leopard of Tomorrow (International Competition) award at Locarno's Junior Jury Awards, has added Khan & Kumar Media and Prism Entertainment as executive producers ahead of its Toronto Film Festival premiere next month....",
-      "url": "https://variety.com/2026/film/festivals/forgotten-spaceman-locarno-leopard-tomorrow-khan-kumar-prism-eps-1236835604/",
+      "headline": "'Mission' Review: An All-In George MacKay Performance Anchors a Fevered Mental Illness Portrait",
+      "title": "'Mission' Review: An All-In George MacKay Performance Anchors a Fevered Mental Illness Portrait",
+      "snapshot": "Back in 2013, actor George MacKay and director Paul Wright paired up for \"For Those in Peril,\" an atmospheric study of youthful alienation, trauma and psychological collapse in small-town Scotland that sealed both men's place on the U.K. industry \"ones to watch\" list. Since then, MacKay's career has gone from streng...",
+      "summary": "Back in 2013, actor George MacKay and director Paul Wright paired up for \"For Those in Peril,\" an atmospheric study of youthful alienation, trauma and psychological collapse in small-town Scotland that sealed both men's place on the U.K. industry \"ones to watch\" list. Since then, MacKay's career has gone from streng...",
+      "url": "https://variety.com/2026/film/reviews/mission-review-george-mackay-1236835601/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-16 07:05:14 AM ET",
+      "published_at": "2026-08-16 10:14:50 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Locarno Winner 'Forgotten Spaceman' Adds Khan & Kumar Media, Prism Entertainment as Executive Producers Ahead of Toronto Bow (EXCLUSIVE)"
+        "'Mission' Review: An All-In George MacKay Performance Anchors a Fevered Mental Illness Portrait"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1224,8 +1222,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-1298032424629435088",
-      "key": "film-11-1298032424629435088",
+      "id": "film-11-741788923677326747",
+      "key": "film-11-741788923677326747",
       "category": "Film",
       "label": "Film",
       "headline": "'Borges And Me' Review: Marc Turtletaub's Hallucinatory '70s Road Trip Is Smart, Literary And Playful - Edinburgh Film Festival",
@@ -1251,8 +1249,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-1800156751641526126",
-      "key": "film-23-1800156751641526126",
+      "id": "film-23-8781541337967572889",
+      "key": "film-23-8781541337967572889",
       "category": "Film",
       "label": "Film",
       "headline": "Hollywood Flashback: When Dudley Moore Intoxicated Audiences in 'Arthur'",
@@ -1278,14 +1276,14 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-2600115138371762678",
-      "key": "film-33-2600115138371762678",
+      "id": "film-33-2152836485829119615",
+      "key": "film-33-2152836485829119615",
       "category": "Film",
       "label": "Film",
-      "headline": "Disney's D23: Everything announced, from rides to movies and more - ABC News - Breaking News, Latest News and Videos",
-      "title": "Disney's D23: Everything announced, from rides to movies and more - ABC News - Breaking News, Latest News and Videos",
-      "snapshot": "Disney's D23: Everything announced, from rides to movies and more ABC News - Breaking News, Latest News and Videos",
-      "summary": "Disney's D23: Everything announced, from rides to movies and more ABC News - Breaking News, Latest News and Videos",
+      "headline": "Disney's D23: Everything announced, from rides to movies and more - abcnews.com",
+      "title": "Disney's D23: Everything announced, from rides to movies and more - abcnews.com",
+      "snapshot": "Disney's D23: Everything announced, from rides to movies and more abcnews.com",
+      "summary": "Disney's D23: Everything announced, from rides to movies and more abcnews.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX2tGemhTaVY5cDVWRWExVFpzVlRmSUNjc09feVRmSkNpRlVkNVZDYk50S09FYkJrMGFYc0dOVVhjRlBFRGlhQkNJemlIdkNLUTBFM0ZwY25qQm95bWFiLXRyY3o4Q3VYNktnNGZ3cTBBLWFQbHM4Ni0wXzlrOGdIZkNUTUNpN1pBMS1Vb0xFLTcyN002NkUxRmltOEJZaGRoN0xz0gGoAUFVX3lxTE5hNkZsZ3B6b0c3MHQtWXBqRWE4Y0g3OU5ReVpLTFBucWk4aDkxTm4wTXhycUhFbDFUVWVzcTdyUTl0djFUVl9wM1ktejNHUG5sS2l0NnBaT0pJN0JMU1RGN095VzZ4c2dQUVczUGJQdUlzbzliSERtM1Zqa01nU1JYM1pLbEZtREY2cEJpV3VvUWgtS2Njd25SM3RUYktVRGs4MVJiRGhJWg?oc=5",
       "source": "Google News",
       "source_name": "Google News",
@@ -1293,7 +1291,7 @@
       "published_at": "2026-08-15 02:57:05 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Disney's D23: Everything announced, from rides to movies and more - ABC News - Breaking News, Latest News and Videos"
+        "Disney's D23: Everything announced, from rides to movies and more - abcnews.com"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1305,8 +1303,8 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-980318607396863371",
-      "key": "music-11-980318607396863371",
+      "id": "music-11-919096680308907648",
+      "key": "music-11-919096680308907648",
       "category": "Music",
       "label": "Music",
       "headline": "Ariana Grande Reclaims the London Stage After 7 Years: 5 Best Moments",
@@ -1332,8 +1330,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-5839071144699427610",
-      "key": "gaming-1-5839071144699427610",
+      "id": "gaming-1-243243623881268206",
+      "key": "gaming-1-243243623881268206",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Kingdom Hearts 4 Gets Extended Gameplay Trailer Featuring Playable Mickey, Donald, and Goofy | D23 2026",
@@ -1359,22 +1357,22 @@
       "priority_score": 99
     },
     {
-      "id": "film-2-3479226123184824781",
-      "key": "film-2-3479226123184824781",
+      "id": "film-2-8990985971189616284",
+      "key": "film-2-8990985971189616284",
       "category": "Film",
       "label": "Film",
-      "headline": "'Shame and Money' Director on Sundance-Winning Drama About a Kosovo Family in Free Fall: 'It's a Look Into the Past and a Warning to the Future'",
-      "title": "'Shame and Money' Director on Sundance-Winning Drama About a Kosovo Family in Free Fall: 'It's a Look Into the Past and a Warning to the Future'",
-      "snapshot": "Sundance Grand Jury Prize winner Visar Morina returns to the Sarajevo Film Festival - the scene of a previous triumph - with the biting social drama \"Shame and Money,\" which won the top prize in Park City earlier this year and is playing in the festival's main competition. The director's third feature wowed audience...",
-      "summary": "Sundance Grand Jury Prize winner Visar Morina returns to the Sarajevo Film Festival - the scene of a previous triumph - with the biting social drama \"Shame and Money,\" which won the top prize in Park City earlier this year and is playing in the festival's main competition. The director's third feature wowed audience...",
-      "url": "https://variety.com/2026/film/global/shame-and-money-sundance-social-drama-kosovo-1236834517/",
+      "headline": "Locarno Winner 'Forgotten Spaceman' Adds Khan & Kumar Media, Prism Entertainment as Executive Producers Ahead of Toronto Bow (EXCLUSIVE)",
+      "title": "Locarno Winner 'Forgotten Spaceman' Adds Khan & Kumar Media, Prism Entertainment as Executive Producers Ahead of Toronto Bow (EXCLUSIVE)",
+      "snapshot": "\"Forgotten Spaceman,\" the documentary short by BAFTA-nominated filmmaker Elham Ehsas that won the Leopard of Tomorrow (International Competition) award at Locarno's Junior Jury Awards, has added Khan & Kumar Media and Prism Entertainment as executive producers ahead of its Toronto Film Festival premiere next month....",
+      "summary": "\"Forgotten Spaceman,\" the documentary short by BAFTA-nominated filmmaker Elham Ehsas that won the Leopard of Tomorrow (International Competition) award at Locarno's Junior Jury Awards, has added Khan & Kumar Media and Prism Entertainment as executive producers ahead of its Toronto Film Festival premiere next month....",
+      "url": "https://variety.com/2026/film/festivals/forgotten-spaceman-locarno-leopard-tomorrow-khan-kumar-prism-eps-1236835604/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-16 04:33:36 AM ET",
+      "published_at": "2026-08-16 07:05:14 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Shame and Money' Director on Sundance-Winning Drama About a Kosovo Family in Free Fall: 'It's a Look Into the Past and a Warning to the Future'"
+        "Locarno Winner 'Forgotten Spaceman' Adds Khan & Kumar Media, Prism Entertainment as Executive Producers Ahead of Toronto Bow (EXCLUSIVE)"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1386,8 +1384,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-130995585606133489",
-      "key": "film-12-130995585606133489",
+      "id": "film-12-7643626010798949331",
+      "key": "film-12-7643626010798949331",
       "category": "Film",
       "label": "Film",
       "headline": "'Outlander's Caitríona Balfe Joins Live-Action 'Tangled' As Queen Arianna",
@@ -1413,8 +1411,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-2418840450350387819",
-      "key": "film-24-2418840450350387819",
+      "id": "film-24-1752430184647514177",
+      "key": "film-24-1752430184647514177",
       "category": "Film",
       "label": "Film",
       "headline": "'Spider-Man: Brand New Day' Still Soaring to Top Its Third Weekend With $67M",
@@ -1440,8 +1438,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-2539652501434891531",
-      "key": "film-34-2539652501434891531",
+      "id": "film-34-4296461340734711570",
+      "key": "film-34-4296461340734711570",
       "category": "Film",
       "label": "Film",
       "headline": "The 30 best action-adventure movies, ranked - Entertainment Weekly",
@@ -1467,8 +1465,8 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-8314435145329534738",
-      "key": "music-12-8314435145329534738",
+      "id": "music-12-2099047687360213401",
+      "key": "music-12-2099047687360213401",
       "category": "Music",
       "label": "Music",
       "headline": "Lisa Knowles-Smith, Darrel Walls & More Win Big at 2026 Stellar Gospel Music Awards: Full Winners List",
@@ -1494,8 +1492,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-3184764578986344264",
-      "key": "gaming-2-3184764578986344264",
+      "id": "gaming-2-6731641801140307274",
+      "key": "gaming-2-6731641801140307274",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "D23 Deep Dive Into Kingdom Hearts Panel: Everything Announced",
@@ -1521,22 +1519,22 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-5230108694223675084",
-      "key": "film-3-5230108694223675084",
+      "id": "film-3-6002329578966448554",
+      "key": "film-3-6002329578966448554",
       "category": "Film",
       "label": "Film",
-      "headline": "Ranveer Singh, Kalyani Priyadarshan's 'Pralay,' Produced by Ananya Birla and Hansal Mehta, Directed by Jai Mehta, Starts Filming",
-      "title": "Ranveer Singh, Kalyani Priyadarshan's 'Pralay,' Produced by Ananya Birla and Hansal Mehta, Directed by Jai Mehta, Starts Filming",
-      "snapshot": "Ranveer Singh's \"Pralay,\" an end-of-the-world action thriller, has begun filming in Mumbai. The film is produced by Ananya Birla's Birla Studios, Hansal Mehta and Sahil Saigal's True Story Films and Singh's Maa Kasam Films. Singh, who headlines the project, also serves as a producer on the film, which is directed by...",
-      "summary": "Ranveer Singh's \"Pralay,\" an end-of-the-world action thriller, has begun filming in Mumbai. The film is produced by Ananya Birla's Birla Studios, Hansal Mehta and Sahil Saigal's True Story Films and Singh's Maa Kasam Films. Singh, who headlines the project, also serves as a producer on the film, which is directed by...",
-      "url": "https://variety.com/2026/film/news/ranveer-singh-kalyani-priyadarshan-pralay-mumbai-filming-1236835508/",
+      "headline": "'Shame and Money' Director on Sundance-Winning Drama About a Kosovo Family in Free Fall: 'It's a Look Into the Past and a Warning to the Future'",
+      "title": "'Shame and Money' Director on Sundance-Winning Drama About a Kosovo Family in Free Fall: 'It's a Look Into the Past and a Warning to the Future'",
+      "snapshot": "Sundance Grand Jury Prize winner Visar Morina returns to the Sarajevo Film Festival - the scene of a previous triumph - with the biting social drama \"Shame and Money,\" which won the top prize in Park City earlier this year and is playing in the festival's main competition. The director's third feature wowed audience...",
+      "summary": "Sundance Grand Jury Prize winner Visar Morina returns to the Sarajevo Film Festival - the scene of a previous triumph - with the biting social drama \"Shame and Money,\" which won the top prize in Park City earlier this year and is playing in the festival's main competition. The director's third feature wowed audience...",
+      "url": "https://variety.com/2026/film/global/shame-and-money-sundance-social-drama-kosovo-1236834517/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-16 01:41:00 AM ET",
+      "published_at": "2026-08-16 04:33:36 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Ranveer Singh, Kalyani Priyadarshan's 'Pralay,' Produced by Ananya Birla and Hansal Mehta, Directed by Jai Mehta, Starts Filming"
+        "'Shame and Money' Director on Sundance-Winning Drama About a Kosovo Family in Free Fall: 'It's a Look Into the Past and a Warning to the Future'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1548,8 +1546,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-3840267078396877766",
-      "key": "film-13-3840267078396877766",
+      "id": "film-13-1781449161032061563",
+      "key": "film-13-1781449161032061563",
       "category": "Film",
       "label": "Film",
       "headline": "Mason Thames Reveals He & McKenna Grace Filmed 'Nimrods' Before 'Regretting You', Talks Possibility Of Doing \"Another Job Together\"",
@@ -1575,8 +1573,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-2892617743363123317",
-      "key": "film-25-2892617743363123317",
+      "id": "film-25-8494487898730254843",
+      "key": "film-25-8494487898730254843",
       "category": "Film",
       "label": "Film",
       "headline": "Locarno Film Festival Awards Go to 'You Don't Belong Here,' Hong Sangsoo, Monica Bellucci",
@@ -1602,8 +1600,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-6893697664542096554",
-      "key": "film-35-6893697664542096554",
+      "id": "film-35-8740971737193871380",
+      "key": "film-35-8740971737193871380",
       "category": "Film",
       "label": "Film",
       "headline": "New movies: the most exciting films coming to theaters in August 2026 and beyond - TechRadar",
@@ -1629,8 +1627,8 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-6943457789675767769",
-      "key": "music-13-6943457789675767769",
+      "id": "music-13-3329269971232832193",
+      "key": "music-13-3329269971232832193",
       "category": "Music",
       "label": "Music",
       "headline": "The Best Moments From KCON LA 2026 (So Far)",
@@ -1656,8 +1654,8 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-8423422757422956382",
-      "key": "gaming-3-8423422757422956382",
+      "id": "gaming-3-1655174004755060126",
+      "key": "gaming-3-1655174004755060126",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The Best Deals Today: Project Hail Mary 4K Blu-ray, Resident Evil Requiem, AirPods Pro 3, and More",
@@ -1688,46 +1686,46 @@
       "key": "film",
       "name": "Film",
       "title": "Film Report",
-      "headline": "‘Mission’ Review: An All-In George MacKay Performance Anchors a Fevered Mental Illness Portrait",
+      "headline": "‘Spider-Man: Brand New Day’ Hits $2 Billion Worldwide in Three Weeks",
       "snapshot": "Film coverage is updating with 8 current RSS headline item(s).",
       "key_storylines": [
-        "‘Mission’ Review: An All-In George MacKay Performance Anchors a Fevered Mental Illness Portrait",
+        "‘Spider-Man: Brand New Day’ Hits $2 Billion Worldwide in Three Weeks",
         "Mira Sorvino Calls ‘Romy & Michele 2’ Co-Star Lisa Kudrow A “Great Acting Partner” & Reveals Why Film Has Withstood The Test Of Time",
         "‘Too Much Music’ Is a Doc Project About Ghanaian Keyboardist Kiki Gyan – and About Who Controls Artists’ Narratives",
-        "This Adam Driver Film Has Been Named One of the ‘Most Boring Movies This Century’ - Men's Journal",
-        "Locarno Winner ‘Forgotten Spaceman’ Adds Khan & Kumar Media, Prism Entertainment as Executive Producers Ahead of Toronto Bow (EXCLUSIVE)"
+        "This Adam Driver Film Has Been Named One of the ‘Most Boring Movies This Century’ - mensjournal.com",
+        "‘Mission’ Review: An All-In George MacKay Performance Anchors a Fevered Mental Illness Portrait"
       ],
       "watch_list": [
-        "‘Mission’ Review: An All-In George MacKay Performance Anchors a Fevered Mental Illness Portrait",
+        "‘Spider-Man: Brand New Day’ Hits $2 Billion Worldwide in Three Weeks",
         "Mira Sorvino Calls ‘Romy & Michele 2’ Co-Star Lisa Kudrow A “Great Acting Partner” & Reveals Why Film Has Withstood The Test Of Time",
         "‘Too Much Music’ Is a Doc Project About Ghanaian Keyboardist Kiki Gyan – and About Who Controls Artists’ Narratives",
-        "This Adam Driver Film Has Been Named One of the ‘Most Boring Movies This Century’ - Men's Journal",
-        "Locarno Winner ‘Forgotten Spaceman’ Adds Khan & Kumar Media, Prism Entertainment as Executive Producers Ahead of Toronto Bow (EXCLUSIVE)",
+        "This Adam Driver Film Has Been Named One of the ‘Most Boring Movies This Century’ - mensjournal.com",
+        "‘Mission’ Review: An All-In George MacKay Performance Anchors a Fevered Mental Illness Portrait",
         "‘Borges And Me’ Review: Marc Turtletaub’s Hallucinatory ’70s Road Trip Is Smart, Literary And Playful – Edinburgh Film Festival",
         "Hollywood Flashback: When Dudley Moore Intoxicated Audiences in ‘Arthur’",
-        "Disney's D23: Everything announced, from rides to movies and more - ABC News - Breaking News, Latest News and Videos"
+        "Disney's D23: Everything announced, from rides to movies and more - abcnews.com"
       ],
       "homepage_cards": [
         {
-          "id": "film-0-3480915470478525106",
-          "key": "film-0-3480915470478525106",
+          "id": "film-0-8653569766931896861",
+          "key": "film-0-8653569766931896861",
           "category": "Film",
           "label": "Film",
-          "headline": "‘Mission’ Review: An All-In George MacKay Performance Anchors a Fevered Mental Illness Portrait",
-          "title": "‘Mission’ Review: An All-In George MacKay Performance Anchors a Fevered Mental Illness Portrait",
-          "snapshot": "Back in 2013, actor George MacKay and director Paul Wright paired up for “For Those in Peril,” an atmospheric study of youthful alienation, trauma and psychological collapse in small-town Scotland that sealed both men’s place on the U.K. industry “ones to watch” list. Since then, MacKay’s career has gone from streng...",
-          "summary": "Back in 2013, actor George MacKay and director Paul Wright paired up for “For Those in Peril,” an atmospheric study of youthful alienation, trauma and psychological collapse in small-town Scotland that sealed both men’s place on the U.K. industry “ones to watch” list. Since then, MacKay’s career has gone from streng...",
-          "url": "https://variety.com/2026/film/reviews/mission-review-george-mackay-1236835601/",
+          "headline": "‘Spider-Man: Brand New Day’ Hits $2 Billion Worldwide in Three Weeks",
+          "title": "‘Spider-Man: Brand New Day’ Hits $2 Billion Worldwide in Three Weeks",
+          "snapshot": "New day, new box office milestone for Sony’s latest Spidey adventure. “Spider-Man: Brand New Day” has surpassed $2 billion in global ticket sales, eclipsing the rare benchmark after just three weekends of release. The comic book adventure, starring Tom Holland as Marvel’s neighborhood web-slinger, has grossed $785 m...",
+          "summary": "New day, new box office milestone for Sony’s latest Spidey adventure. “Spider-Man: Brand New Day” has surpassed $2 billion in global ticket sales, eclipsing the rare benchmark after just three weekends of release. The comic book adventure, starring Tom Holland as Marvel’s neighborhood web-slinger, has grossed $785 m...",
+          "url": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-2-billion-worldwide-box-office-second-fastest-milestone-1236834058/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/feed/",
-          "published_at": "2026-08-16 10:14:50 AM ET",
+          "published_at": "2026-08-16 11:15:31 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "‘Mission’ Review: An All-In George MacKay Performance Anchors a Fevered Mental Illness Portrait"
+            "‘Spider-Man: Brand New Day’ Hits $2 Billion Worldwide in Three Weeks"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1737,8 +1735,8 @@
           ]
         },
         {
-          "id": "film-10-195837935896433113",
-          "key": "film-10-195837935896433113",
+          "id": "film-10-4959629633074421664",
+          "key": "film-10-4959629633074421664",
           "category": "Film",
           "label": "Film",
           "headline": "Mira Sorvino Calls ‘Romy & Michele 2’ Co-Star Lisa Kudrow A “Great Acting Partner” & Reveals Why Film Has Withstood The Test Of Time",
@@ -1765,8 +1763,8 @@
           ]
         },
         {
-          "id": "film-22-4115075810223366149",
-          "key": "film-22-4115075810223366149",
+          "id": "film-22-2375780530892032690",
+          "key": "film-22-2375780530892032690",
           "category": "Film",
           "label": "Film",
           "headline": "‘Too Much Music’ Is a Doc Project About Ghanaian Keyboardist Kiki Gyan – and About Who Controls Artists’ Narratives",
@@ -1793,14 +1791,14 @@
           ]
         },
         {
-          "id": "film-32-5339018707279839515",
-          "key": "film-32-5339018707279839515",
+          "id": "film-32-7530222588498019022",
+          "key": "film-32-7530222588498019022",
           "category": "Film",
           "label": "Film",
-          "headline": "This Adam Driver Film Has Been Named One of the ‘Most Boring Movies This Century’ - Men's Journal",
-          "title": "This Adam Driver Film Has Been Named One of the ‘Most Boring Movies This Century’ - Men's Journal",
-          "snapshot": "This Adam Driver Film Has Been Named One of the ‘Most Boring Movies This Century’ Men's Journal",
-          "summary": "This Adam Driver Film Has Been Named One of the ‘Most Boring Movies This Century’ Men's Journal",
+          "headline": "This Adam Driver Film Has Been Named One of the ‘Most Boring Movies This Century’ - mensjournal.com",
+          "title": "This Adam Driver Film Has Been Named One of the ‘Most Boring Movies This Century’ - mensjournal.com",
+          "snapshot": "This Adam Driver Film Has Been Named One of the ‘Most Boring Movies This Century’ mensjournal.com",
+          "summary": "This Adam Driver Film Has Been Named One of the ‘Most Boring Movies This Century’ mensjournal.com",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQem9IVko5ZnllOGFrTWc2M2R3Z2VXVVV2OVV0ZW5kQm1xUW8zem5FbXdwMjUzLWd1OWVTeE5fMTFoX2NKUnFvY2RPdmxUNDF1SjU0eXg5WXdEN1hBWmtxWU01OExHaHpTVzRJZnNNckppbW1JUmFPaHNZUUN0SDZTdk1SM1RMdlBHZ3JrQ2I5NjFLb1Z5SFpwc3pFcmFFY0t4VHdaOG5sRGp0bm1WdUdUbElEMmMzVmFjSGRZN0hR?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -1811,7 +1809,7 @@
           "story_type": "rss_headline",
           "priority_score": 68,
           "key_data": [
-            "This Adam Driver Film Has Been Named One of the ‘Most Boring Movies This Century’ - Men's Journal"
+            "This Adam Driver Film Has Been Named One of the ‘Most Boring Movies This Century’ - mensjournal.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1821,25 +1819,25 @@
           ]
         },
         {
-          "id": "film-1-3774953346291520467",
-          "key": "film-1-3774953346291520467",
+          "id": "film-1-895777269110843583",
+          "key": "film-1-895777269110843583",
           "category": "Film",
           "label": "Film",
-          "headline": "Locarno Winner ‘Forgotten Spaceman’ Adds Khan & Kumar Media, Prism Entertainment as Executive Producers Ahead of Toronto Bow (EXCLUSIVE)",
-          "title": "Locarno Winner ‘Forgotten Spaceman’ Adds Khan & Kumar Media, Prism Entertainment as Executive Producers Ahead of Toronto Bow (EXCLUSIVE)",
-          "snapshot": "“Forgotten Spaceman,” the documentary short by BAFTA-nominated filmmaker Elham Ehsas that won the Leopard of Tomorrow (International Competition) award at Locarno’s Junior Jury Awards, has added Khan & Kumar Media and Prism Entertainment as executive producers ahead of its Toronto Film Festival premiere next month....",
-          "summary": "“Forgotten Spaceman,” the documentary short by BAFTA-nominated filmmaker Elham Ehsas that won the Leopard of Tomorrow (International Competition) award at Locarno’s Junior Jury Awards, has added Khan & Kumar Media and Prism Entertainment as executive producers ahead of its Toronto Film Festival premiere next month....",
-          "url": "https://variety.com/2026/film/festivals/forgotten-spaceman-locarno-leopard-tomorrow-khan-kumar-prism-eps-1236835604/",
+          "headline": "‘Mission’ Review: An All-In George MacKay Performance Anchors a Fevered Mental Illness Portrait",
+          "title": "‘Mission’ Review: An All-In George MacKay Performance Anchors a Fevered Mental Illness Portrait",
+          "snapshot": "Back in 2013, actor George MacKay and director Paul Wright paired up for “For Those in Peril,” an atmospheric study of youthful alienation, trauma and psychological collapse in small-town Scotland that sealed both men’s place on the U.K. industry “ones to watch” list. Since then, MacKay’s career has gone from streng...",
+          "summary": "Back in 2013, actor George MacKay and director Paul Wright paired up for “For Those in Peril,” an atmospheric study of youthful alienation, trauma and psychological collapse in small-town Scotland that sealed both men’s place on the U.K. industry “ones to watch” list. Since then, MacKay’s career has gone from streng...",
+          "url": "https://variety.com/2026/film/reviews/mission-review-george-mackay-1236835601/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/feed/",
-          "published_at": "2026-08-16 07:05:14 AM ET",
+          "published_at": "2026-08-16 10:14:50 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Locarno Winner ‘Forgotten Spaceman’ Adds Khan & Kumar Media, Prism Entertainment as Executive Producers Ahead of Toronto Bow (EXCLUSIVE)"
+            "‘Mission’ Review: An All-In George MacKay Performance Anchors a Fevered Mental Illness Portrait"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1849,8 +1847,8 @@
           ]
         },
         {
-          "id": "film-11-1298032424629435088",
-          "key": "film-11-1298032424629435088",
+          "id": "film-11-741788923677326747",
+          "key": "film-11-741788923677326747",
           "category": "Film",
           "label": "Film",
           "headline": "‘Borges And Me’ Review: Marc Turtletaub’s Hallucinatory ’70s Road Trip Is Smart, Literary And Playful – Edinburgh Film Festival",
@@ -1877,8 +1875,8 @@
           ]
         },
         {
-          "id": "film-23-1800156751641526126",
-          "key": "film-23-1800156751641526126",
+          "id": "film-23-8781541337967572889",
+          "key": "film-23-8781541337967572889",
           "category": "Film",
           "label": "Film",
           "headline": "Hollywood Flashback: When Dudley Moore Intoxicated Audiences in ‘Arthur’",
@@ -1905,14 +1903,14 @@
           ]
         },
         {
-          "id": "film-33-2600115138371762678",
-          "key": "film-33-2600115138371762678",
+          "id": "film-33-2152836485829119615",
+          "key": "film-33-2152836485829119615",
           "category": "Film",
           "label": "Film",
-          "headline": "Disney's D23: Everything announced, from rides to movies and more - ABC News - Breaking News, Latest News and Videos",
-          "title": "Disney's D23: Everything announced, from rides to movies and more - ABC News - Breaking News, Latest News and Videos",
-          "snapshot": "Disney's D23: Everything announced, from rides to movies and more ABC News - Breaking News, Latest News and Videos",
-          "summary": "Disney's D23: Everything announced, from rides to movies and more ABC News - Breaking News, Latest News and Videos",
+          "headline": "Disney's D23: Everything announced, from rides to movies and more - abcnews.com",
+          "title": "Disney's D23: Everything announced, from rides to movies and more - abcnews.com",
+          "snapshot": "Disney's D23: Everything announced, from rides to movies and more abcnews.com",
+          "summary": "Disney's D23: Everything announced, from rides to movies and more abcnews.com",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX2tGemhTaVY5cDVWRWExVFpzVlRmSUNjc09feVRmSkNpRlVkNVZDYk50S09FYkJrMGFYc0dOVVhjRlBFRGlhQkNJemlIdkNLUTBFM0ZwY25qQm95bWFiLXRyY3o4Q3VYNktnNGZ3cTBBLWFQbHM4Ni0wXzlrOGdIZkNUTUNpN1pBMS1Vb0xFLTcyN002NkUxRmltOEJZaGRoN0xz0gGoAUFVX3lxTE5hNkZsZ3B6b0c3MHQtWXBqRWE4Y0g3OU5ReVpLTFBucWk4aDkxTm4wTXhycUhFbDFUVWVzcTdyUTl0djFUVl9wM1ktejNHUG5sS2l0NnBaT0pJN0JMU1RGN095VzZ4c2dQUVczUGJQdUlzbzliSERtM1Zqa01nU1JYM1pLbEZtREY2cEJpV3VvUWgtS2Njd25SM3RUYktVRGs4MVJiRGhJWg?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -1923,7 +1921,7 @@
           "story_type": "rss_headline",
           "priority_score": 67,
           "key_data": [
-            "Disney's D23: Everything announced, from rides to movies and more - ABC News - Breaking News, Latest News and Videos"
+            "Disney's D23: Everything announced, from rides to movies and more - abcnews.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1935,25 +1933,25 @@
       ],
       "items": [
         {
-          "id": "film-0-3480915470478525106",
-          "key": "film-0-3480915470478525106",
+          "id": "film-0-8653569766931896861",
+          "key": "film-0-8653569766931896861",
           "category": "Film",
           "label": "Film",
-          "headline": "‘Mission’ Review: An All-In George MacKay Performance Anchors a Fevered Mental Illness Portrait",
-          "title": "‘Mission’ Review: An All-In George MacKay Performance Anchors a Fevered Mental Illness Portrait",
-          "snapshot": "Back in 2013, actor George MacKay and director Paul Wright paired up for “For Those in Peril,” an atmospheric study of youthful alienation, trauma and psychological collapse in small-town Scotland that sealed both men’s place on the U.K. industry “ones to watch” list. Since then, MacKay’s career has gone from streng...",
-          "summary": "Back in 2013, actor George MacKay and director Paul Wright paired up for “For Those in Peril,” an atmospheric study of youthful alienation, trauma and psychological collapse in small-town Scotland that sealed both men’s place on the U.K. industry “ones to watch” list. Since then, MacKay’s career has gone from streng...",
-          "url": "https://variety.com/2026/film/reviews/mission-review-george-mackay-1236835601/",
+          "headline": "‘Spider-Man: Brand New Day’ Hits $2 Billion Worldwide in Three Weeks",
+          "title": "‘Spider-Man: Brand New Day’ Hits $2 Billion Worldwide in Three Weeks",
+          "snapshot": "New day, new box office milestone for Sony’s latest Spidey adventure. “Spider-Man: Brand New Day” has surpassed $2 billion in global ticket sales, eclipsing the rare benchmark after just three weekends of release. The comic book adventure, starring Tom Holland as Marvel’s neighborhood web-slinger, has grossed $785 m...",
+          "summary": "New day, new box office milestone for Sony’s latest Spidey adventure. “Spider-Man: Brand New Day” has surpassed $2 billion in global ticket sales, eclipsing the rare benchmark after just three weekends of release. The comic book adventure, starring Tom Holland as Marvel’s neighborhood web-slinger, has grossed $785 m...",
+          "url": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-2-billion-worldwide-box-office-second-fastest-milestone-1236834058/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/feed/",
-          "published_at": "2026-08-16 10:14:50 AM ET",
+          "published_at": "2026-08-16 11:15:31 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "‘Mission’ Review: An All-In George MacKay Performance Anchors a Fevered Mental Illness Portrait"
+            "‘Spider-Man: Brand New Day’ Hits $2 Billion Worldwide in Three Weeks"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1963,8 +1961,8 @@
           ]
         },
         {
-          "id": "film-10-195837935896433113",
-          "key": "film-10-195837935896433113",
+          "id": "film-10-4959629633074421664",
+          "key": "film-10-4959629633074421664",
           "category": "Film",
           "label": "Film",
           "headline": "Mira Sorvino Calls ‘Romy & Michele 2’ Co-Star Lisa Kudrow A “Great Acting Partner” & Reveals Why Film Has Withstood The Test Of Time",
@@ -1991,8 +1989,8 @@
           ]
         },
         {
-          "id": "film-22-4115075810223366149",
-          "key": "film-22-4115075810223366149",
+          "id": "film-22-2375780530892032690",
+          "key": "film-22-2375780530892032690",
           "category": "Film",
           "label": "Film",
           "headline": "‘Too Much Music’ Is a Doc Project About Ghanaian Keyboardist Kiki Gyan – and About Who Controls Artists’ Narratives",
@@ -2019,14 +2017,14 @@
           ]
         },
         {
-          "id": "film-32-5339018707279839515",
-          "key": "film-32-5339018707279839515",
+          "id": "film-32-7530222588498019022",
+          "key": "film-32-7530222588498019022",
           "category": "Film",
           "label": "Film",
-          "headline": "This Adam Driver Film Has Been Named One of the ‘Most Boring Movies This Century’ - Men's Journal",
-          "title": "This Adam Driver Film Has Been Named One of the ‘Most Boring Movies This Century’ - Men's Journal",
-          "snapshot": "This Adam Driver Film Has Been Named One of the ‘Most Boring Movies This Century’ Men's Journal",
-          "summary": "This Adam Driver Film Has Been Named One of the ‘Most Boring Movies This Century’ Men's Journal",
+          "headline": "This Adam Driver Film Has Been Named One of the ‘Most Boring Movies This Century’ - mensjournal.com",
+          "title": "This Adam Driver Film Has Been Named One of the ‘Most Boring Movies This Century’ - mensjournal.com",
+          "snapshot": "This Adam Driver Film Has Been Named One of the ‘Most Boring Movies This Century’ mensjournal.com",
+          "summary": "This Adam Driver Film Has Been Named One of the ‘Most Boring Movies This Century’ mensjournal.com",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQem9IVko5ZnllOGFrTWc2M2R3Z2VXVVV2OVV0ZW5kQm1xUW8zem5FbXdwMjUzLWd1OWVTeE5fMTFoX2NKUnFvY2RPdmxUNDF1SjU0eXg5WXdEN1hBWmtxWU01OExHaHpTVzRJZnNNckppbW1JUmFPaHNZUUN0SDZTdk1SM1RMdlBHZ3JrQ2I5NjFLb1Z5SFpwc3pFcmFFY0t4VHdaOG5sRGp0bm1WdUdUbElEMmMzVmFjSGRZN0hR?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -2037,7 +2035,7 @@
           "story_type": "rss_headline",
           "priority_score": 68,
           "key_data": [
-            "This Adam Driver Film Has Been Named One of the ‘Most Boring Movies This Century’ - Men's Journal"
+            "This Adam Driver Film Has Been Named One of the ‘Most Boring Movies This Century’ - mensjournal.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2047,25 +2045,25 @@
           ]
         },
         {
-          "id": "film-1-3774953346291520467",
-          "key": "film-1-3774953346291520467",
+          "id": "film-1-895777269110843583",
+          "key": "film-1-895777269110843583",
           "category": "Film",
           "label": "Film",
-          "headline": "Locarno Winner ‘Forgotten Spaceman’ Adds Khan & Kumar Media, Prism Entertainment as Executive Producers Ahead of Toronto Bow (EXCLUSIVE)",
-          "title": "Locarno Winner ‘Forgotten Spaceman’ Adds Khan & Kumar Media, Prism Entertainment as Executive Producers Ahead of Toronto Bow (EXCLUSIVE)",
-          "snapshot": "“Forgotten Spaceman,” the documentary short by BAFTA-nominated filmmaker Elham Ehsas that won the Leopard of Tomorrow (International Competition) award at Locarno’s Junior Jury Awards, has added Khan & Kumar Media and Prism Entertainment as executive producers ahead of its Toronto Film Festival premiere next month....",
-          "summary": "“Forgotten Spaceman,” the documentary short by BAFTA-nominated filmmaker Elham Ehsas that won the Leopard of Tomorrow (International Competition) award at Locarno’s Junior Jury Awards, has added Khan & Kumar Media and Prism Entertainment as executive producers ahead of its Toronto Film Festival premiere next month....",
-          "url": "https://variety.com/2026/film/festivals/forgotten-spaceman-locarno-leopard-tomorrow-khan-kumar-prism-eps-1236835604/",
+          "headline": "‘Mission’ Review: An All-In George MacKay Performance Anchors a Fevered Mental Illness Portrait",
+          "title": "‘Mission’ Review: An All-In George MacKay Performance Anchors a Fevered Mental Illness Portrait",
+          "snapshot": "Back in 2013, actor George MacKay and director Paul Wright paired up for “For Those in Peril,” an atmospheric study of youthful alienation, trauma and psychological collapse in small-town Scotland that sealed both men’s place on the U.K. industry “ones to watch” list. Since then, MacKay’s career has gone from streng...",
+          "summary": "Back in 2013, actor George MacKay and director Paul Wright paired up for “For Those in Peril,” an atmospheric study of youthful alienation, trauma and psychological collapse in small-town Scotland that sealed both men’s place on the U.K. industry “ones to watch” list. Since then, MacKay’s career has gone from streng...",
+          "url": "https://variety.com/2026/film/reviews/mission-review-george-mackay-1236835601/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/feed/",
-          "published_at": "2026-08-16 07:05:14 AM ET",
+          "published_at": "2026-08-16 10:14:50 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Locarno Winner ‘Forgotten Spaceman’ Adds Khan & Kumar Media, Prism Entertainment as Executive Producers Ahead of Toronto Bow (EXCLUSIVE)"
+            "‘Mission’ Review: An All-In George MacKay Performance Anchors a Fevered Mental Illness Portrait"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2075,8 +2073,8 @@
           ]
         },
         {
-          "id": "film-11-1298032424629435088",
-          "key": "film-11-1298032424629435088",
+          "id": "film-11-741788923677326747",
+          "key": "film-11-741788923677326747",
           "category": "Film",
           "label": "Film",
           "headline": "‘Borges And Me’ Review: Marc Turtletaub’s Hallucinatory ’70s Road Trip Is Smart, Literary And Playful – Edinburgh Film Festival",
@@ -2103,8 +2101,8 @@
           ]
         },
         {
-          "id": "film-23-1800156751641526126",
-          "key": "film-23-1800156751641526126",
+          "id": "film-23-8781541337967572889",
+          "key": "film-23-8781541337967572889",
           "category": "Film",
           "label": "Film",
           "headline": "Hollywood Flashback: When Dudley Moore Intoxicated Audiences in ‘Arthur’",
@@ -2131,14 +2129,14 @@
           ]
         },
         {
-          "id": "film-33-2600115138371762678",
-          "key": "film-33-2600115138371762678",
+          "id": "film-33-2152836485829119615",
+          "key": "film-33-2152836485829119615",
           "category": "Film",
           "label": "Film",
-          "headline": "Disney's D23: Everything announced, from rides to movies and more - ABC News - Breaking News, Latest News and Videos",
-          "title": "Disney's D23: Everything announced, from rides to movies and more - ABC News - Breaking News, Latest News and Videos",
-          "snapshot": "Disney's D23: Everything announced, from rides to movies and more ABC News - Breaking News, Latest News and Videos",
-          "summary": "Disney's D23: Everything announced, from rides to movies and more ABC News - Breaking News, Latest News and Videos",
+          "headline": "Disney's D23: Everything announced, from rides to movies and more - abcnews.com",
+          "title": "Disney's D23: Everything announced, from rides to movies and more - abcnews.com",
+          "snapshot": "Disney's D23: Everything announced, from rides to movies and more abcnews.com",
+          "summary": "Disney's D23: Everything announced, from rides to movies and more abcnews.com",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX2tGemhTaVY5cDVWRWExVFpzVlRmSUNjc09feVRmSkNpRlVkNVZDYk50S09FYkJrMGFYc0dOVVhjRlBFRGlhQkNJemlIdkNLUTBFM0ZwY25qQm95bWFiLXRyY3o4Q3VYNktnNGZ3cTBBLWFQbHM4Ni0wXzlrOGdIZkNUTUNpN1pBMS1Vb0xFLTcyN002NkUxRmltOEJZaGRoN0xz0gGoAUFVX3lxTE5hNkZsZ3B6b0c3MHQtWXBqRWE4Y0g3OU5ReVpLTFBucWk4aDkxTm4wTXhycUhFbDFUVWVzcTdyUTl0djFUVl9wM1ktejNHUG5sS2l0NnBaT0pJN0JMU1RGN095VzZ4c2dQUVczUGJQdUlzbzliSERtM1Zqa01nU1JYM1pLbEZtREY2cEJpV3VvUWgtS2Njd25SM3RUYktVRGs4MVJiRGhJWg?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -2149,7 +2147,7 @@
           "story_type": "rss_headline",
           "priority_score": 67,
           "key_data": [
-            "Disney's D23: Everything announced, from rides to movies and more - ABC News - Breaking News, Latest News and Videos"
+            "Disney's D23: Everything announced, from rides to movies and more - abcnews.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2159,7 +2157,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-16 10:23:25 AM ET"
+      "updated_at": "2026-08-16 11:22:04 AM ET"
     },
     {
       "key": "tv",
@@ -2185,8 +2183,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "tv-0-3857845419358400416",
-          "key": "tv-0-3857845419358400416",
+          "id": "tv-0-3710890262959786719",
+          "key": "tv-0-3710890262959786719",
           "category": "TV",
           "label": "TV",
           "headline": "‘The Pitt,’ ‘Hacks’ and ‘Beef’ Among Astra TV Awards Winners",
@@ -2213,8 +2211,8 @@
           ]
         },
         {
-          "id": "tv-10-1254635346880885742",
-          "key": "tv-10-1254635346880885742",
+          "id": "tv-10-260997605993168990",
+          "key": "tv-10-260997605993168990",
           "category": "TV",
           "label": "TV",
           "headline": "Astra TV Awards 2026 Winners Include ‘Hacks’, ‘The Pitt’ & ‘Shrinking’ — Full List",
@@ -2241,8 +2239,8 @@
           ]
         },
         {
-          "id": "tv-22-1316196336036489343",
-          "key": "tv-22-1316196336036489343",
+          "id": "tv-22-4959203726985275021",
+          "key": "tv-22-4959203726985275021",
           "category": "TV",
           "label": "TV",
           "headline": "Netflix Fires Back Against Tyra Banks’ ‘America’s Next Top Model’ Docuseries Defamation Lawsuit",
@@ -2269,8 +2267,8 @@
           ]
         },
         {
-          "id": "tv-32-4448643681940790189",
-          "key": "tv-32-4448643681940790189",
+          "id": "tv-32-6630297764628153412",
+          "key": "tv-32-6630297764628153412",
           "category": "TV",
           "label": "TV",
           "headline": "AI Just Got Its First 24/7 TV Channel - PYMNTS.com",
@@ -2297,8 +2295,8 @@
           ]
         },
         {
-          "id": "tv-1-1706191317604820109",
-          "key": "tv-1-1706191317604820109",
+          "id": "tv-1-894860808748668365",
+          "key": "tv-1-894860808748668365",
           "category": "TV",
           "label": "TV",
           "headline": "‘RuPaul’s Drag Race,’ ‘All Stars’ and ‘Untucked’ Renewed for New Seasons at MTV and Paramount+",
@@ -2325,8 +2323,8 @@
           ]
         },
         {
-          "id": "tv-11-7686959812210377756",
-          "key": "tv-11-7686959812210377756",
+          "id": "tv-11-8413943900632144719",
+          "key": "tv-11-8413943900632144719",
           "category": "TV",
           "label": "TV",
           "headline": "‘RuPaul’s Drag Race’ Renewed For Season 19 At MTV & Paramount+ Picks Up ‘RuPaul’s Drag Race All-Stars’ For Season 12",
@@ -2353,8 +2351,8 @@
           ]
         },
         {
-          "id": "tv-23-6255027138363608220",
-          "key": "tv-23-6255027138363608220",
+          "id": "tv-23-2481895919080943915",
+          "key": "tv-23-2481895919080943915",
           "category": "TV",
           "label": "TV",
           "headline": "‘RuPaul’s Drag Race’ Renewed for Season 19 at MTV",
@@ -2383,8 +2381,8 @@
       ],
       "items": [
         {
-          "id": "tv-0-3857845419358400416",
-          "key": "tv-0-3857845419358400416",
+          "id": "tv-0-3710890262959786719",
+          "key": "tv-0-3710890262959786719",
           "category": "TV",
           "label": "TV",
           "headline": "‘The Pitt,’ ‘Hacks’ and ‘Beef’ Among Astra TV Awards Winners",
@@ -2411,8 +2409,8 @@
           ]
         },
         {
-          "id": "tv-10-1254635346880885742",
-          "key": "tv-10-1254635346880885742",
+          "id": "tv-10-260997605993168990",
+          "key": "tv-10-260997605993168990",
           "category": "TV",
           "label": "TV",
           "headline": "Astra TV Awards 2026 Winners Include ‘Hacks’, ‘The Pitt’ & ‘Shrinking’ — Full List",
@@ -2439,8 +2437,8 @@
           ]
         },
         {
-          "id": "tv-22-1316196336036489343",
-          "key": "tv-22-1316196336036489343",
+          "id": "tv-22-4959203726985275021",
+          "key": "tv-22-4959203726985275021",
           "category": "TV",
           "label": "TV",
           "headline": "Netflix Fires Back Against Tyra Banks’ ‘America’s Next Top Model’ Docuseries Defamation Lawsuit",
@@ -2467,8 +2465,8 @@
           ]
         },
         {
-          "id": "tv-32-4448643681940790189",
-          "key": "tv-32-4448643681940790189",
+          "id": "tv-32-6630297764628153412",
+          "key": "tv-32-6630297764628153412",
           "category": "TV",
           "label": "TV",
           "headline": "AI Just Got Its First 24/7 TV Channel - PYMNTS.com",
@@ -2495,8 +2493,8 @@
           ]
         },
         {
-          "id": "tv-1-1706191317604820109",
-          "key": "tv-1-1706191317604820109",
+          "id": "tv-1-894860808748668365",
+          "key": "tv-1-894860808748668365",
           "category": "TV",
           "label": "TV",
           "headline": "‘RuPaul’s Drag Race,’ ‘All Stars’ and ‘Untucked’ Renewed for New Seasons at MTV and Paramount+",
@@ -2523,8 +2521,8 @@
           ]
         },
         {
-          "id": "tv-11-7686959812210377756",
-          "key": "tv-11-7686959812210377756",
+          "id": "tv-11-8413943900632144719",
+          "key": "tv-11-8413943900632144719",
           "category": "TV",
           "label": "TV",
           "headline": "‘RuPaul’s Drag Race’ Renewed For Season 19 At MTV & Paramount+ Picks Up ‘RuPaul’s Drag Race All-Stars’ For Season 12",
@@ -2551,8 +2549,8 @@
           ]
         },
         {
-          "id": "tv-23-6255027138363608220",
-          "key": "tv-23-6255027138363608220",
+          "id": "tv-23-2481895919080943915",
+          "key": "tv-23-2481895919080943915",
           "category": "TV",
           "label": "TV",
           "headline": "‘RuPaul’s Drag Race’ Renewed for Season 19 at MTV",
@@ -2579,7 +2577,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-16 10:23:27 AM ET"
+      "updated_at": "2026-08-16 11:22:05 AM ET"
     },
     {
       "key": "streaming",
@@ -2597,8 +2595,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "streaming-0-53584375741737319",
-          "key": "streaming-0-53584375741737319",
+          "id": "streaming-0-4444913124089636760",
+          "key": "streaming-0-4444913124089636760",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "5 best new movies to stream this weekend on Netflix, Disney+, Hulu, and more (August 15-16) - Tom's Guide",
@@ -2625,8 +2623,8 @@
           ]
         },
         {
-          "id": "streaming-1-1389501268499415935",
-          "key": "streaming-1-1389501268499415935",
+          "id": "streaming-1-98356173148548896",
+          "key": "streaming-1-98356173148548896",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs - Business Insider",
@@ -2655,8 +2653,8 @@
       ],
       "items": [
         {
-          "id": "streaming-0-53584375741737319",
-          "key": "streaming-0-53584375741737319",
+          "id": "streaming-0-4444913124089636760",
+          "key": "streaming-0-4444913124089636760",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "5 best new movies to stream this weekend on Netflix, Disney+, Hulu, and more (August 15-16) - Tom's Guide",
@@ -2683,8 +2681,8 @@
           ]
         },
         {
-          "id": "streaming-1-1389501268499415935",
-          "key": "streaming-1-1389501268499415935",
+          "id": "streaming-1-98356173148548896",
+          "key": "streaming-1-98356173148548896",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs - Business Insider",
@@ -2711,7 +2709,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-16 10:23:27 AM ET"
+      "updated_at": "2026-08-16 11:22:05 AM ET"
     },
     {
       "key": "music",
@@ -2736,8 +2734,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "music-0-9195118750616322214",
-          "key": "music-0-9195118750616322214",
+          "id": "music-0-6452205891976640500",
+          "key": "music-0-6452205891976640500",
           "category": "Music",
           "label": "Music",
           "headline": "Slipknot Confirms Sid Wilson’s Sudden Exit: ‘We Wish Him the Best’",
@@ -2764,8 +2762,8 @@
           ]
         },
         {
-          "id": "music-10-3800957301635117882",
-          "key": "music-10-3800957301635117882",
+          "id": "music-10-6599880548090032169",
+          "key": "music-10-6599880548090032169",
           "category": "Music",
           "label": "Music",
           "headline": "Earth, Wind & Fire Drummer John Paris in Induced Coma Following Medical Emergency",
@@ -2792,8 +2790,8 @@
           ]
         },
         {
-          "id": "music-20-486512450207111173",
-          "key": "music-20-486512450207111173",
+          "id": "music-20-4374861240905314879",
+          "key": "music-20-4374861240905314879",
           "category": "Music",
           "label": "Music",
           "headline": "The Deals: Influence Media Invests in MENA-Focused Catalog Buyer; Live Nation Makes Moves in Prague - billboard.com",
@@ -2820,8 +2818,8 @@
           ]
         },
         {
-          "id": "music-1-8970378083891783055",
-          "key": "music-1-8970378083891783055",
+          "id": "music-1-6658621258387793699",
+          "key": "music-1-6658621258387793699",
           "category": "Music",
           "label": "Music",
           "headline": "Dave Marsh, Bruce Springsteen Biographer and Rock Critic, Dies at 76",
@@ -2848,8 +2846,8 @@
           ]
         },
         {
-          "id": "music-11-980318607396863371",
-          "key": "music-11-980318607396863371",
+          "id": "music-11-919096680308907648",
+          "key": "music-11-919096680308907648",
           "category": "Music",
           "label": "Music",
           "headline": "Ariana Grande Reclaims the London Stage After 7 Years: 5 Best Moments",
@@ -2876,8 +2874,8 @@
           ]
         },
         {
-          "id": "music-21-2882874217630552483",
-          "key": "music-21-2882874217630552483",
+          "id": "music-21-5810583247366020949",
+          "key": "music-21-5810583247366020949",
           "category": "Music",
           "label": "Music",
           "headline": "Tencent Music’s Q2 Revenue Tops $1.3 Billion on Subscription Growth, Ximalaya Acquisition - billboard.com",
@@ -2906,8 +2904,8 @@
       ],
       "items": [
         {
-          "id": "music-0-9195118750616322214",
-          "key": "music-0-9195118750616322214",
+          "id": "music-0-6452205891976640500",
+          "key": "music-0-6452205891976640500",
           "category": "Music",
           "label": "Music",
           "headline": "Slipknot Confirms Sid Wilson’s Sudden Exit: ‘We Wish Him the Best’",
@@ -2934,8 +2932,8 @@
           ]
         },
         {
-          "id": "music-10-3800957301635117882",
-          "key": "music-10-3800957301635117882",
+          "id": "music-10-6599880548090032169",
+          "key": "music-10-6599880548090032169",
           "category": "Music",
           "label": "Music",
           "headline": "Earth, Wind & Fire Drummer John Paris in Induced Coma Following Medical Emergency",
@@ -2962,8 +2960,8 @@
           ]
         },
         {
-          "id": "music-20-486512450207111173",
-          "key": "music-20-486512450207111173",
+          "id": "music-20-4374861240905314879",
+          "key": "music-20-4374861240905314879",
           "category": "Music",
           "label": "Music",
           "headline": "The Deals: Influence Media Invests in MENA-Focused Catalog Buyer; Live Nation Makes Moves in Prague - billboard.com",
@@ -2990,8 +2988,8 @@
           ]
         },
         {
-          "id": "music-1-8970378083891783055",
-          "key": "music-1-8970378083891783055",
+          "id": "music-1-6658621258387793699",
+          "key": "music-1-6658621258387793699",
           "category": "Music",
           "label": "Music",
           "headline": "Dave Marsh, Bruce Springsteen Biographer and Rock Critic, Dies at 76",
@@ -3018,8 +3016,8 @@
           ]
         },
         {
-          "id": "music-11-980318607396863371",
-          "key": "music-11-980318607396863371",
+          "id": "music-11-919096680308907648",
+          "key": "music-11-919096680308907648",
           "category": "Music",
           "label": "Music",
           "headline": "Ariana Grande Reclaims the London Stage After 7 Years: 5 Best Moments",
@@ -3046,8 +3044,8 @@
           ]
         },
         {
-          "id": "music-21-2882874217630552483",
-          "key": "music-21-2882874217630552483",
+          "id": "music-21-5810583247366020949",
+          "key": "music-21-5810583247366020949",
           "category": "Music",
           "label": "Music",
           "headline": "Tencent Music’s Q2 Revenue Tops $1.3 Billion on Subscription Growth, Ximalaya Acquisition - billboard.com",
@@ -3074,7 +3072,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-16 10:23:28 AM ET"
+      "updated_at": "2026-08-16 11:22:06 AM ET"
     },
     {
       "key": "awards",
@@ -3096,8 +3094,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "awards-0-2623623830080168788",
-          "key": "awards-0-2623623830080168788",
+          "id": "awards-0-6262587922011845935",
+          "key": "awards-0-6262587922011845935",
           "category": "Awards",
           "label": "Awards",
           "headline": "‘Hacks’ Star Lauren Weedman on Appearing in Four Emmy-Nominated Comedies This Year and How Bell’s Palsy Changed Her Career",
@@ -3124,8 +3122,8 @@
           ]
         },
         {
-          "id": "awards-8-6603224265752738861",
-          "key": "awards-8-6603224265752738861",
+          "id": "awards-8-4482178679550402912",
+          "key": "awards-8-4482178679550402912",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar - Deadline",
@@ -3152,8 +3150,8 @@
           ]
         },
         {
-          "id": "awards-1-2824164759223166263",
-          "key": "awards-1-2824164759223166263",
+          "id": "awards-1-6093748700566257486",
+          "key": "awards-1-6093748700566257486",
           "category": "Awards",
           "label": "Awards",
           "headline": "Charlie Hunnam on His Physical and Vocal Transformation to Play Ed Gein in ‘Monster’",
@@ -3180,8 +3178,8 @@
           ]
         },
         {
-          "id": "awards-9-6646497803724306179",
-          "key": "awards-9-6646497803724306179",
+          "id": "awards-9-6614682182602221112",
+          "key": "awards-9-6614682182602221112",
           "category": "Awards",
           "label": "Awards",
           "headline": "Viola Davis | Biography, Movies, Plays, The Help, EGOT, & Facts - Encyclopedia Britannica",
@@ -3210,8 +3208,8 @@
       ],
       "items": [
         {
-          "id": "awards-0-2623623830080168788",
-          "key": "awards-0-2623623830080168788",
+          "id": "awards-0-6262587922011845935",
+          "key": "awards-0-6262587922011845935",
           "category": "Awards",
           "label": "Awards",
           "headline": "‘Hacks’ Star Lauren Weedman on Appearing in Four Emmy-Nominated Comedies This Year and How Bell’s Palsy Changed Her Career",
@@ -3238,8 +3236,8 @@
           ]
         },
         {
-          "id": "awards-8-6603224265752738861",
-          "key": "awards-8-6603224265752738861",
+          "id": "awards-8-4482178679550402912",
+          "key": "awards-8-4482178679550402912",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar - Deadline",
@@ -3266,8 +3264,8 @@
           ]
         },
         {
-          "id": "awards-1-2824164759223166263",
-          "key": "awards-1-2824164759223166263",
+          "id": "awards-1-6093748700566257486",
+          "key": "awards-1-6093748700566257486",
           "category": "Awards",
           "label": "Awards",
           "headline": "Charlie Hunnam on His Physical and Vocal Transformation to Play Ed Gein in ‘Monster’",
@@ -3294,8 +3292,8 @@
           ]
         },
         {
-          "id": "awards-9-6646497803724306179",
-          "key": "awards-9-6646497803724306179",
+          "id": "awards-9-6614682182602221112",
+          "key": "awards-9-6614682182602221112",
           "category": "Awards",
           "label": "Awards",
           "headline": "Viola Davis | Biography, Movies, Plays, The Help, EGOT, & Facts - Encyclopedia Britannica",
@@ -3322,30 +3320,86 @@
           ]
         }
       ],
-      "updated_at": "2026-08-16 10:23:28 AM ET"
+      "updated_at": "2026-08-16 11:22:07 AM ET"
     },
     {
       "key": "box_office",
       "name": "Box Office",
       "title": "Box Office Report",
-      "headline": "Box Office: ‘End of Oak Street’ Makes $2.5 Million in Previews",
+      "headline": "Box Office: ‘The End of Oak Street’ Chomps on $8.1 Million, But ‘Spider-Man: Brand New Day’ Is Still No. 1 With $19 Million",
       "snapshot": "Box Office coverage is updating with 4 current RSS headline item(s).",
       "key_storylines": [
+        "Box Office: ‘The End of Oak Street’ Chomps on $8.1 Million, But ‘Spider-Man: Brand New Day’ Is Still No. 1 With $19 Million",
+        "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - The Hollywood Reporter",
         "Box Office: ‘End of Oak Street’ Makes $2.5 Million in Previews",
-        "‘Spider-Man: Brand New Day’ Still Soaring to Top Its Third Weekend With $67M - hollywoodreporter.com",
-        "Box Office: ‘End of Oak Street’ Targets $25 Million Debut, ‘Spider-Man: Brand New Day’ to Remain No. 1",
-        "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - hollywoodreporter.com"
+        "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - The Hollywood Reporter"
       ],
       "watch_list": [
+        "Box Office: ‘The End of Oak Street’ Chomps on $8.1 Million, But ‘Spider-Man: Brand New Day’ Is Still No. 1 With $19 Million",
+        "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - The Hollywood Reporter",
         "Box Office: ‘End of Oak Street’ Makes $2.5 Million in Previews",
-        "‘Spider-Man: Brand New Day’ Still Soaring to Top Its Third Weekend With $67M - hollywoodreporter.com",
-        "Box Office: ‘End of Oak Street’ Targets $25 Million Debut, ‘Spider-Man: Brand New Day’ to Remain No. 1",
-        "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - hollywoodreporter.com"
+        "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - The Hollywood Reporter"
       ],
       "homepage_cards": [
         {
-          "id": "box_office-0-6010737327422176878",
-          "key": "box_office-0-6010737327422176878",
+          "id": "box_office-0-9177312706682934922",
+          "key": "box_office-0-9177312706682934922",
+          "category": "Box Office",
+          "label": "Box Office",
+          "headline": "Box Office: ‘The End of Oak Street’ Chomps on $8.1 Million, But ‘Spider-Man: Brand New Day’ Is Still No. 1 With $19 Million",
+          "title": "Box Office: ‘The End of Oak Street’ Chomps on $8.1 Million, But ‘Spider-Man: Brand New Day’ Is Still No. 1 With $19 Million",
+          "snapshot": "“Spider-Man: Brand New Day” led the box office again on Friday despite competition from Anne Hathaway and a horde of hungry dinosaurs. The Warner Bros. sci-fi thriller “The End of Oak Street” landed in second place on opening day with $8.1 million from 3,446 North American theaters. Rivals estimate the film will ear...",
+          "summary": "“Spider-Man: Brand New Day” led the box office again on Friday despite competition from Anne Hathaway and a horde of hungry dinosaurs. The Warner Bros. sci-fi thriller “The End of Oak Street” landed in second place on opening day with $8.1 million from 3,446 North American theaters. Rivals estimate the film will ear...",
+          "url": "https://variety.com/2026/film/box-office/box-office-end-of-oak-street-spider-man-brand-new-day-1236835436/",
+          "source": "Variety",
+          "source_name": "Variety",
+          "source_feed": "https://variety.com/v/film/box-office/feed/",
+          "published_at": "2026-08-15 11:59:20 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 100,
+          "key_data": [
+            "Box Office: ‘The End of Oak Street’ Chomps on $8.1 Million, But ‘Spider-Man: Brand New Day’ Is Still No. 1 With $19 Million"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "box_office-10-1932734078132420872",
+          "key": "box_office-10-1932734078132420872",
+          "category": "Box Office",
+          "label": "Box Office",
+          "headline": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - The Hollywood Reporter",
+          "title": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - The Hollywood Reporter",
+          "snapshot": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews The Hollywood Reporter",
+          "summary": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeE45c1BVck5RNVlqWmtsYlFZNVBYSGRWMlY4WHhLQ0JaQXR3MUMwd21NUzFGZlJ6SDRuOXQ0bVJkVGlSZWVjd1U2Y2xMZjFwTDlxem1BR282TEJVZV9rZHZDckQtTy00ODFIWEY0TTZ3UDByWk45STc1RmtYakxTT25MYmR4Z0NhMTFFcTdTY2VMYnlybjVPd2M5QWlNMlV2ZmFBTVY1a1lOaVFwQkxNVm1UODc1eUs3SDl0Ui1xVFM?oc=5",
+          "source": "Google News",
+          "source_name": "Google News",
+          "source_feed": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-14 11:52:12 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 90,
+          "key_data": [
+            "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - The Hollywood Reporter"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "box_office-1-7253622418072795444",
+          "key": "box_office-1-7253622418072795444",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘End of Oak Street’ Makes $2.5 Million in Previews",
@@ -3360,7 +3414,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 100,
+          "priority_score": 99,
           "key_data": [
             "Box Office: ‘End of Oak Street’ Makes $2.5 Million in Previews"
           ],
@@ -3372,81 +3426,25 @@
           ]
         },
         {
-          "id": "box_office-9-8062496037034819447",
-          "key": "box_office-9-8062496037034819447",
+          "id": "box_office-11-2537373079721191553",
+          "key": "box_office-11-2537373079721191553",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "‘Spider-Man: Brand New Day’ Still Soaring to Top Its Third Weekend With $67M - hollywoodreporter.com",
-          "title": "‘Spider-Man: Brand New Day’ Still Soaring to Top Its Third Weekend With $67M - hollywoodreporter.com",
-          "snapshot": "‘Spider-Man: Brand New Day’ Still Soaring to Top Its Third Weekend With $67M hollywoodreporter.com",
-          "summary": "‘Spider-Man: Brand New Day’ Still Soaring to Top Its Third Weekend With $67M hollywoodreporter.com",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa3B4T0hMQU5sUlkxMTJ5T3VmY0YzTUhLeGh4TjNzai01OVQteFFLbGJhV2ljNS1kSy1VZVZIWkIzbTZ3U3pfQXNVTTcySjFJTlo5c3h5VGs1UHZyZkxwWVRKMlJaNU9VbzE0aXlSXzFoeXBPWXV6MFJGcXBWZVhGRFplMzZzVjcxcDNNTG1OalhHNUNhVlBfaFd5bGdKcWFENEN5UXpsaHkwWDlCdlFoOXgxWV9OQ3c3V0Jpc1Fn?oc=5",
+          "headline": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - The Hollywood Reporter",
+          "title": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - The Hollywood Reporter",
+          "snapshot": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office The Hollywood Reporter",
+          "summary": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWng5T2VVRm9ONHpvdmRzWHE2ZVRpSVMtVnhSa0M3LWhxeFRtcjZ6YTFiY09sdWtVVXFSYk5LZ0QyU0tKeW9IdzB5RW9tMExMTEdKM1hzMXp6T2habmFsUUNPUWRxalY4NXl4OXJXb0pMTzBhOGpxYzFvQTBpcGNiRG9TekxSbjRSUFY1cnNaOTVhcWJKYWtFZExLcTI4QWZOdjJ4MTBYb0FvVFNJcWxhQ3dvMHJNSWgxREE?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-15 02:36:17 PM ET",
+          "published_at": "2026-08-13 02:33:31 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 91,
+          "priority_score": 89,
           "key_data": [
-            "‘Spider-Man: Brand New Day’ Still Soaring to Top Its Third Weekend With $67M - hollywoodreporter.com"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "box_office-1-8699398054897298736",
-          "key": "box_office-1-8699398054897298736",
-          "category": "Box Office",
-          "label": "Box Office",
-          "headline": "Box Office: ‘End of Oak Street’ Targets $25 Million Debut, ‘Spider-Man: Brand New Day’ to Remain No. 1",
-          "title": "Box Office: ‘End of Oak Street’ Targets $25 Million Debut, ‘Spider-Man: Brand New Day’ to Remain No. 1",
-          "snapshot": "Anne Hathaway, Ewan McGregor and a pack of rogue dinosaurs won’t be able to catch the web-slinging Spider-Man at the top of box office charts. Sony and Marvel’s comic book juggernaut “Spider-Man: Brand New Day” is poised to dominate in North America during its third weekend of release. That’s despite five new nation...",
-          "summary": "Anne Hathaway, Ewan McGregor and a pack of rogue dinosaurs won’t be able to catch the web-slinging Spider-Man at the top of box office charts. Sony and Marvel’s comic book juggernaut “Spider-Man: Brand New Day” is poised to dominate in North America during its third weekend of release. That’s despite five new nation...",
-          "url": "https://variety.com/2026/film/box-office/end-of-oak-street-box-office-projections-spiderman-continues-domination-1236832153/",
-          "source": "Variety",
-          "source_name": "Variety",
-          "source_feed": "https://variety.com/v/film/box-office/feed/",
-          "published_at": "2026-08-12 11:43:35 AM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 99,
-          "key_data": [
-            "Box Office: ‘End of Oak Street’ Targets $25 Million Debut, ‘Spider-Man: Brand New Day’ to Remain No. 1"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "box_office-10-4113288293578776047",
-          "key": "box_office-10-4113288293578776047",
-          "category": "Box Office",
-          "label": "Box Office",
-          "headline": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - hollywoodreporter.com",
-          "title": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - hollywoodreporter.com",
-          "snapshot": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews hollywoodreporter.com",
-          "summary": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews hollywoodreporter.com",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeE45c1BVck5RNVlqWmtsYlFZNVBYSGRWMlY4WHhLQ0JaQXR3MUMwd21NUzFGZlJ6SDRuOXQ0bVJkVGlSZWVjd1U2Y2xMZjFwTDlxem1BR282TEJVZV9rZHZDckQtTy00ODFIWEY0TTZ3UDByWk45STc1RmtYakxTT25MYmR4Z0NhMTFFcTdTY2VMYnlybjVPd2M5QWlNMlV2ZmFBTVY1a1lOaVFwQkxNVm1UODc1eUs3SDl0Ui1xVFM?oc=5",
-          "source": "Google News",
-          "source_name": "Google News",
-          "source_feed": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-14 11:52:12 AM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 90,
-          "key_data": [
-            "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - hollywoodreporter.com"
+            "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - The Hollywood Reporter"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3458,8 +3456,64 @@
       ],
       "items": [
         {
-          "id": "box_office-0-6010737327422176878",
-          "key": "box_office-0-6010737327422176878",
+          "id": "box_office-0-9177312706682934922",
+          "key": "box_office-0-9177312706682934922",
+          "category": "Box Office",
+          "label": "Box Office",
+          "headline": "Box Office: ‘The End of Oak Street’ Chomps on $8.1 Million, But ‘Spider-Man: Brand New Day’ Is Still No. 1 With $19 Million",
+          "title": "Box Office: ‘The End of Oak Street’ Chomps on $8.1 Million, But ‘Spider-Man: Brand New Day’ Is Still No. 1 With $19 Million",
+          "snapshot": "“Spider-Man: Brand New Day” led the box office again on Friday despite competition from Anne Hathaway and a horde of hungry dinosaurs. The Warner Bros. sci-fi thriller “The End of Oak Street” landed in second place on opening day with $8.1 million from 3,446 North American theaters. Rivals estimate the film will ear...",
+          "summary": "“Spider-Man: Brand New Day” led the box office again on Friday despite competition from Anne Hathaway and a horde of hungry dinosaurs. The Warner Bros. sci-fi thriller “The End of Oak Street” landed in second place on opening day with $8.1 million from 3,446 North American theaters. Rivals estimate the film will ear...",
+          "url": "https://variety.com/2026/film/box-office/box-office-end-of-oak-street-spider-man-brand-new-day-1236835436/",
+          "source": "Variety",
+          "source_name": "Variety",
+          "source_feed": "https://variety.com/v/film/box-office/feed/",
+          "published_at": "2026-08-15 11:59:20 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 100,
+          "key_data": [
+            "Box Office: ‘The End of Oak Street’ Chomps on $8.1 Million, But ‘Spider-Man: Brand New Day’ Is Still No. 1 With $19 Million"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "box_office-10-1932734078132420872",
+          "key": "box_office-10-1932734078132420872",
+          "category": "Box Office",
+          "label": "Box Office",
+          "headline": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - The Hollywood Reporter",
+          "title": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - The Hollywood Reporter",
+          "snapshot": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews The Hollywood Reporter",
+          "summary": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeE45c1BVck5RNVlqWmtsYlFZNVBYSGRWMlY4WHhLQ0JaQXR3MUMwd21NUzFGZlJ6SDRuOXQ0bVJkVGlSZWVjd1U2Y2xMZjFwTDlxem1BR282TEJVZV9rZHZDckQtTy00ODFIWEY0TTZ3UDByWk45STc1RmtYakxTT25MYmR4Z0NhMTFFcTdTY2VMYnlybjVPd2M5QWlNMlV2ZmFBTVY1a1lOaVFwQkxNVm1UODc1eUs3SDl0Ui1xVFM?oc=5",
+          "source": "Google News",
+          "source_name": "Google News",
+          "source_feed": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-14 11:52:12 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 90,
+          "key_data": [
+            "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - The Hollywood Reporter"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "box_office-1-7253622418072795444",
+          "key": "box_office-1-7253622418072795444",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘End of Oak Street’ Makes $2.5 Million in Previews",
@@ -3474,7 +3528,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 100,
+          "priority_score": 99,
           "key_data": [
             "Box Office: ‘End of Oak Street’ Makes $2.5 Million in Previews"
           ],
@@ -3486,81 +3540,25 @@
           ]
         },
         {
-          "id": "box_office-9-8062496037034819447",
-          "key": "box_office-9-8062496037034819447",
+          "id": "box_office-11-2537373079721191553",
+          "key": "box_office-11-2537373079721191553",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "‘Spider-Man: Brand New Day’ Still Soaring to Top Its Third Weekend With $67M - hollywoodreporter.com",
-          "title": "‘Spider-Man: Brand New Day’ Still Soaring to Top Its Third Weekend With $67M - hollywoodreporter.com",
-          "snapshot": "‘Spider-Man: Brand New Day’ Still Soaring to Top Its Third Weekend With $67M hollywoodreporter.com",
-          "summary": "‘Spider-Man: Brand New Day’ Still Soaring to Top Its Third Weekend With $67M hollywoodreporter.com",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa3B4T0hMQU5sUlkxMTJ5T3VmY0YzTUhLeGh4TjNzai01OVQteFFLbGJhV2ljNS1kSy1VZVZIWkIzbTZ3U3pfQXNVTTcySjFJTlo5c3h5VGs1UHZyZkxwWVRKMlJaNU9VbzE0aXlSXzFoeXBPWXV6MFJGcXBWZVhGRFplMzZzVjcxcDNNTG1OalhHNUNhVlBfaFd5bGdKcWFENEN5UXpsaHkwWDlCdlFoOXgxWV9OQ3c3V0Jpc1Fn?oc=5",
+          "headline": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - The Hollywood Reporter",
+          "title": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - The Hollywood Reporter",
+          "snapshot": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office The Hollywood Reporter",
+          "summary": "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWng5T2VVRm9ONHpvdmRzWHE2ZVRpSVMtVnhSa0M3LWhxeFRtcjZ6YTFiY09sdWtVVXFSYk5LZ0QyU0tKeW9IdzB5RW9tMExMTEdKM1hzMXp6T2habmFsUUNPUWRxalY4NXl4OXJXb0pMTzBhOGpxYzFvQTBpcGNiRG9TekxSbjRSUFY1cnNaOTVhcWJKYWtFZExLcTI4QWZOdjJ4MTBYb0FvVFNJcWxhQ3dvMHJNSWgxREE?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-15 02:36:17 PM ET",
+          "published_at": "2026-08-13 02:33:31 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 91,
+          "priority_score": 89,
           "key_data": [
-            "‘Spider-Man: Brand New Day’ Still Soaring to Top Its Third Weekend With $67M - hollywoodreporter.com"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "box_office-1-8699398054897298736",
-          "key": "box_office-1-8699398054897298736",
-          "category": "Box Office",
-          "label": "Box Office",
-          "headline": "Box Office: ‘End of Oak Street’ Targets $25 Million Debut, ‘Spider-Man: Brand New Day’ to Remain No. 1",
-          "title": "Box Office: ‘End of Oak Street’ Targets $25 Million Debut, ‘Spider-Man: Brand New Day’ to Remain No. 1",
-          "snapshot": "Anne Hathaway, Ewan McGregor and a pack of rogue dinosaurs won’t be able to catch the web-slinging Spider-Man at the top of box office charts. Sony and Marvel’s comic book juggernaut “Spider-Man: Brand New Day” is poised to dominate in North America during its third weekend of release. That’s despite five new nation...",
-          "summary": "Anne Hathaway, Ewan McGregor and a pack of rogue dinosaurs won’t be able to catch the web-slinging Spider-Man at the top of box office charts. Sony and Marvel’s comic book juggernaut “Spider-Man: Brand New Day” is poised to dominate in North America during its third weekend of release. That’s despite five new nation...",
-          "url": "https://variety.com/2026/film/box-office/end-of-oak-street-box-office-projections-spiderman-continues-domination-1236832153/",
-          "source": "Variety",
-          "source_name": "Variety",
-          "source_feed": "https://variety.com/v/film/box-office/feed/",
-          "published_at": "2026-08-12 11:43:35 AM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 99,
-          "key_data": [
-            "Box Office: ‘End of Oak Street’ Targets $25 Million Debut, ‘Spider-Man: Brand New Day’ to Remain No. 1"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "box_office-10-4113288293578776047",
-          "key": "box_office-10-4113288293578776047",
-          "category": "Box Office",
-          "label": "Box Office",
-          "headline": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - hollywoodreporter.com",
-          "title": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - hollywoodreporter.com",
-          "snapshot": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews hollywoodreporter.com",
-          "summary": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews hollywoodreporter.com",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeE45c1BVck5RNVlqWmtsYlFZNVBYSGRWMlY4WHhLQ0JaQXR3MUMwd21NUzFGZlJ6SDRuOXQ0bVJkVGlSZWVjd1U2Y2xMZjFwTDlxem1BR282TEJVZV9rZHZDckQtTy00ODFIWEY0TTZ3UDByWk45STc1RmtYakxTT25MYmR4Z0NhMTFFcTdTY2VMYnlybjVPd2M5QWlNMlV2ZmFBTVY1a1lOaVFwQkxNVm1UODc1eUs3SDl0Ui1xVFM?oc=5",
-          "source": "Google News",
-          "source_name": "Google News",
-          "source_feed": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-14 11:52:12 AM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 90,
-          "key_data": [
-            "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - hollywoodreporter.com"
+            "‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office - The Hollywood Reporter"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3570,7 +3568,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-16 10:23:29 AM ET"
+      "updated_at": "2026-08-16 11:22:07 AM ET"
     },
     {
       "key": "celebrity",
@@ -3588,8 +3586,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "celebrity-0-3934376277795569712",
-          "key": "celebrity-0-3934376277795569712",
+          "id": "celebrity-0-5391900368942224466",
+          "key": "celebrity-0-5391900368942224466",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3616,8 +3614,8 @@
           ]
         },
         {
-          "id": "celebrity-1-2113909323184542270",
-          "key": "celebrity-1-2113909323184542270",
+          "id": "celebrity-1-3685352724942388454",
+          "key": "celebrity-1-3685352724942388454",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Gavin & Stacey star Melanie Walters completes Strictly line-up - BBC",
@@ -3646,8 +3644,8 @@
       ],
       "items": [
         {
-          "id": "celebrity-0-3934376277795569712",
-          "key": "celebrity-0-3934376277795569712",
+          "id": "celebrity-0-5391900368942224466",
+          "key": "celebrity-0-5391900368942224466",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3674,8 +3672,8 @@
           ]
         },
         {
-          "id": "celebrity-1-2113909323184542270",
-          "key": "celebrity-1-2113909323184542270",
+          "id": "celebrity-1-3685352724942388454",
+          "key": "celebrity-1-3685352724942388454",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Gavin & Stacey star Melanie Walters completes Strictly line-up - BBC",
@@ -3702,51 +3700,50 @@
           ]
         }
       ],
-      "updated_at": "2026-08-16 10:23:30 AM ET"
+      "updated_at": "2026-08-16 11:22:08 AM ET"
     },
     {
       "key": "hollywood",
       "name": "Hollywood",
       "title": "Hollywood Report",
-      "headline": "Here’s How to Watch Claressa Shields vs. Kaye Scott Boxing Live Online",
-      "snapshot": "Hollywood coverage is updating with 7 current RSS headline item(s).",
+      "headline": "‘Spider-Man: Brand New Day’ Becomes Second-Fastest To Cross $2B At Global Box Office",
+      "snapshot": "Hollywood coverage is updating with 6 current RSS headline item(s).",
       "key_storylines": [
-        "Here’s How to Watch Claressa Shields vs. Kaye Scott Boxing Live Online",
+        "‘Spider-Man: Brand New Day’ Becomes Second-Fastest To Cross $2B At Global Box Office",
+        "“It Was a Bumpy Ride!”: Jack Rowan and Director Kieron J. Walsh on the Many Lives of Head-Bopping, Troubles-Set ‘Skintown’",
+        "Contributor: The greatest risk to Hollywood isn't the film industry's historic merger — it's the delay - Yahoo Finance",
         "Disney Unveils Avengers Infinity Defense Lead By Ms. Marvel, Return Of Avengers Cast, Harrison Ford Models New Indiana Jones Attraction, Villains Land & More At D23",
-        "Disney’s Experiences Chief Talks Figment, the Tomorrowland Refresh and All That D23 News",
-        "Contributor: The greatest risk to Hollywood isn't the film industry's historic merger — it’s the delay - Los Angeles Times",
-        "Disney D23 Takeaway: With ‘X-Men’, ‘Tangled’, ‘Incredibles 3’ & More, Movie Studio Poised To Slay In 2028"
+        "Disney’s Experiences Chief Talks Figment, the Tomorrowland Refresh and All That D23 News"
       ],
       "watch_list": [
-        "Here’s How to Watch Claressa Shields vs. Kaye Scott Boxing Live Online",
+        "‘Spider-Man: Brand New Day’ Becomes Second-Fastest To Cross $2B At Global Box Office",
+        "“It Was a Bumpy Ride!”: Jack Rowan and Director Kieron J. Walsh on the Many Lives of Head-Bopping, Troubles-Set ‘Skintown’",
+        "Contributor: The greatest risk to Hollywood isn't the film industry's historic merger — it's the delay - Yahoo Finance",
         "Disney Unveils Avengers Infinity Defense Lead By Ms. Marvel, Return Of Avengers Cast, Harrison Ford Models New Indiana Jones Attraction, Villains Land & More At D23",
         "Disney’s Experiences Chief Talks Figment, the Tomorrowland Refresh and All That D23 News",
-        "Contributor: The greatest risk to Hollywood isn't the film industry's historic merger — it’s the delay - Los Angeles Times",
-        "Disney D23 Takeaway: With ‘X-Men’, ‘Tangled’, ‘Incredibles 3’ & More, Movie Studio Poised To Slay In 2028",
-        "Disney and Epic Games Launch Game That Connects Star Wars Theme Park Ride to New Fortnite Adventure",
         "From Snooki to Spielberg: How New Jersey Reinvented Itself Into Hollywood’s Hottest Production Hub - Variety"
       ],
       "homepage_cards": [
         {
-          "id": "hollywood-0-7633529071877532013",
-          "key": "hollywood-0-7633529071877532013",
+          "id": "hollywood-0-6215118963802023985",
+          "key": "hollywood-0-6215118963802023985",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Here’s How to Watch Claressa Shields vs. Kaye Scott Boxing Live Online",
-          "title": "Here’s How to Watch Claressa Shields vs. Kaye Scott Boxing Live Online",
-          "snapshot": "After defending her undisputed women’s heavyweight title against Franchon Crews-Dezurn back in February, American boxer Claressa Shields drops in weight class to middleweight to challenge WBA and WBC champion Australian Kaye Scott. The bout is scheduled for 10 rounds. On Saturday, Aug. 15, Shields (18-0-0) vs. Scott...",
-          "summary": "After defending her undisputed women’s heavyweight title against Franchon Crews-Dezurn back in February, American boxer Claressa Shields drops in weight class to middleweight to challenge WBA and WBC champion Australian Kaye Scott. The bout is scheduled for 10 rounds. On Saturday, Aug. 15, Shields (18-0-0) vs. Scott...",
-          "url": "https://variety.com/2026/shopping/news/how-to-watch-claressa-shields-vs-kaye-scott-boxing-live-online-1236833217/",
-          "source": "Variety",
-          "source_name": "Variety",
-          "source_feed": "https://variety.com/feed/",
-          "published_at": "2026-08-15 05:00:00 PM ET",
+          "headline": "‘Spider-Man: Brand New Day’ Becomes Second-Fastest To Cross $2B At Global Box Office",
+          "title": "‘Spider-Man: Brand New Day’ Becomes Second-Fastest To Cross $2B At Global Box Office",
+          "snapshot": "Holy cow! Or whatever kind of Holy is yelled out in a comic book, but Sony/Marvel Studio’s Spider-Man: Brand New Day crossed the $2 billion global mark, becoming the second fastest movie to do so and the eighth movie to ever cross that benchmark. Brand New Day pulls off this feat in 17 days while […]",
+          "summary": "Holy cow! Or whatever kind of Holy is yelled out in a comic book, but Sony/Marvel Studio’s Spider-Man: Brand New Day crossed the $2 billion global mark, becoming the second fastest movie to do so and the eighth movie to ever cross that benchmark. Brand New Day pulls off this feat in 17 days while […]",
+          "url": "https://deadline.com/2026/08/box-office-global-spider-man-brand-new-day-2-1237042050/",
+          "source": "Deadline",
+          "source_name": "Deadline",
+          "source_feed": "https://deadline.com/feed/",
+          "published_at": "2026-08-16 11:15:51 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Here’s How to Watch Claressa Shields vs. Kaye Scott Boxing Live Online"
+            "‘Spider-Man: Brand New Day’ Becomes Second-Fastest To Cross $2B At Global Box Office"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3756,8 +3753,64 @@
           ]
         },
         {
-          "id": "hollywood-1-8558765806840254372",
-          "key": "hollywood-1-8558765806840254372",
+          "id": "hollywood-3-3977899694818429533",
+          "key": "hollywood-3-3977899694818429533",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "“It Was a Bumpy Ride!”: Jack Rowan and Director Kieron J. Walsh on the Many Lives of Head-Bopping, Troubles-Set ‘Skintown’",
+          "title": "“It Was a Bumpy Ride!”: Jack Rowan and Director Kieron J. Walsh on the Many Lives of Head-Bopping, Troubles-Set ‘Skintown’",
+          "snapshot": "The English actor and Irish filmmaker arrive at Edinburgh Film Festival with one of the most raucous indies of the year, backdropped by '90s rave culture and war-weary Northern Ireland: \"It's not really been recorded — what it was like for young people to grow up there.\"",
+          "summary": "The English actor and Irish filmmaker arrive at Edinburgh Film Festival with one of the most raucous indies of the year, backdropped by '90s rave culture and war-weary Northern Ireland: \"It's not really been recorded — what it was like for young people to grow up there.\"",
+          "url": "https://www.hollywoodreporter.com/movies/movie-features/jack-rowan-kieron-j-walsh-interview-skintown-film-edinburgh-1236670964/",
+          "source": "The Hollywood Reporter",
+          "source_name": "The Hollywood Reporter",
+          "source_feed": "https://www.hollywoodreporter.com/feed/",
+          "published_at": "2026-08-16 11:15:00 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 97,
+          "key_data": [
+            "“It Was a Bumpy Ride!”: Jack Rowan and Director Kieron J. Walsh on the Many Lives of Head-Bopping, Troubles-Set ‘Skintown’"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-9-914450207246219329",
+          "key": "hollywood-9-914450207246219329",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "Contributor: The greatest risk to Hollywood isn't the film industry's historic merger — it's the delay - Yahoo Finance",
+          "title": "Contributor: The greatest risk to Hollywood isn't the film industry's historic merger — it's the delay - Yahoo Finance",
+          "snapshot": "Contributor: The greatest risk to Hollywood isn't the film industry's historic merger — it's the delay Yahoo Finance",
+          "summary": "Contributor: The greatest risk to Hollywood isn't the film industry's historic merger — it's the delay Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaDRiS05RSW1lQ21GR3NFNGt2Ti15RF9YNlhJelZ0MGpKMGg0ZEVTNGc4eGJteFUtWEhVSHczbm9YQmdkOE5hX3FhdDQxS3U4am9naDlHQUVXWEhZQXZlSU9MMUFLRHJJYU9vQ2d0a3daWFJDUllqN2JYWE9qN01VZE5JX0xPcllzV3hPcUdYNFdYNUduX01ZMTRNZldwZ0Y0T0lXVUpqMVpvc1p6?oc=5",
+          "source": "Google News",
+          "source_name": "Google News",
+          "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-16 06:00:00 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 91,
+          "key_data": [
+            "Contributor: The greatest risk to Hollywood isn't the film industry's historic merger — it's the delay - Yahoo Finance"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-1-8287828366673093504",
+          "key": "hollywood-1-8287828366673093504",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Disney Unveils Avengers Infinity Defense Lead By Ms. Marvel, Return Of Avengers Cast, Harrison Ford Models New Indiana Jones Attraction, Villains Land & More At D23",
@@ -3784,8 +3837,8 @@
           ]
         },
         {
-          "id": "hollywood-3-6839580491846581778",
-          "key": "hollywood-3-6839580491846581778",
+          "id": "hollywood-4-6585185173616576036",
+          "key": "hollywood-4-6585185173616576036",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Disney’s Experiences Chief Talks Figment, the Tomorrowland Refresh and All That D23 News",
@@ -3800,7 +3853,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 97,
+          "priority_score": 96,
           "key_data": [
             "Disney’s Experiences Chief Talks Figment, the Tomorrowland Refresh and All That D23 News"
           ],
@@ -3812,92 +3865,8 @@
           ]
         },
         {
-          "id": "hollywood-8-3701061147506595673",
-          "key": "hollywood-8-3701061147506595673",
-          "category": "Hollywood",
-          "label": "Hollywood",
-          "headline": "Contributor: The greatest risk to Hollywood isn't the film industry's historic merger — it’s the delay - Los Angeles Times",
-          "title": "Contributor: The greatest risk to Hollywood isn't the film industry's historic merger — it’s the delay - Los Angeles Times",
-          "snapshot": "Contributor: The greatest risk to Hollywood isn't the film industry's historic merger — it’s the delay Los Angeles Times",
-          "summary": "Contributor: The greatest risk to Hollywood isn't the film industry's historic merger — it’s the delay Los Angeles Times",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbUdjU04wZHdvNHJxOHFlNDBtYXBsRG9yRFJvbThVLXQ0UTFSSVJXMDRQdzV4RTBBalZWam10eFIyOEVrR1ZELVgxSlg4WXM3QjNZWnZMcE9FOVh0VjJYMm5sUVNIc2E3QWllVDBDLTFhYUhZNWJBc1ZuMFU3Y1REekdSckVLN0dJeHpRSmk1ZzN5MW8?oc=5",
-          "source": "Google News",
-          "source_name": "Google News",
-          "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-16 06:00:00 AM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 92,
-          "key_data": [
-            "Contributor: The greatest risk to Hollywood isn't the film industry's historic merger — it’s the delay - Los Angeles Times"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "hollywood-2-3567819423979084861",
-          "key": "hollywood-2-3567819423979084861",
-          "category": "Hollywood",
-          "label": "Hollywood",
-          "headline": "Disney D23 Takeaway: With ‘X-Men’, ‘Tangled’, ‘Incredibles 3’ & More, Movie Studio Poised To Slay In 2028",
-          "title": "Disney D23 Takeaway: With ‘X-Men’, ‘Tangled’, ‘Incredibles 3’ & More, Movie Studio Poised To Slay In 2028",
-          "snapshot": "The morning after an intoxicating D23 Friday night, which included a dancing spirit squad, Adam Driver and Inde Navarrette X-Men surprises, Josh Gad crooning, Ryan Gosling, Anne Hathaway and confetti raining, it became really clear — Disney is going to have a killer 2028 at the box office. And they haven’t even fill...",
-          "summary": "The morning after an intoxicating D23 Friday night, which included a dancing spirit squad, Adam Driver and Inde Navarrette X-Men surprises, Josh Gad crooning, Ryan Gosling, Anne Hathaway and confetti raining, it became really clear — Disney is going to have a killer 2028 at the box office. And they haven’t even fill...",
-          "url": "https://deadline.com/2026/08/disney-2028-box-office-x-men-tangled-ghost-rider-d23-1237041743/",
-          "source": "Deadline",
-          "source_name": "Deadline",
-          "source_feed": "https://deadline.com/feed/",
-          "published_at": "2026-08-15 09:18:59 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 98,
-          "key_data": [
-            "Disney D23 Takeaway: With ‘X-Men’, ‘Tangled’, ‘Incredibles 3’ & More, Movie Studio Poised To Slay In 2028"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "hollywood-4-3743682637849376649",
-          "key": "hollywood-4-3743682637849376649",
-          "category": "Hollywood",
-          "label": "Hollywood",
-          "headline": "Disney and Epic Games Launch Game That Connects Star Wars Theme Park Ride to New Fortnite Adventure",
-          "title": "Disney and Epic Games Launch Game That Connects Star Wars Theme Park Ride to New Fortnite Adventure",
-          "snapshot": "Visitors to the 'Millennium Falcon: Smuggler's Run' attraction in Orlando or Anaheim can accept a mission that will earn rewards in the 'Fortnite' extension of the ride.",
-          "summary": "Visitors to the 'Millennium Falcon: Smuggler's Run' attraction in Orlando or Anaheim can accept a mission that will earn rewards in the 'Fortnite' extension of the ride.",
-          "url": "https://www.hollywoodreporter.com/business/digital/disney-epic-games-star-wars-theme-park-ride-fortnite-1236674132/",
-          "source": "The Hollywood Reporter",
-          "source_name": "The Hollywood Reporter",
-          "source_feed": "https://www.hollywoodreporter.com/feed/",
-          "published_at": "2026-08-15 07:30:00 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 96,
-          "key_data": [
-            "Disney and Epic Games Launch Game That Connects Star Wars Theme Park Ride to New Fortnite Adventure"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "hollywood-9-5452287652924696327",
-          "key": "hollywood-9-5452287652924696327",
+          "id": "hollywood-10-6621374598515920632",
+          "key": "hollywood-10-6621374598515920632",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "From Snooki to Spielberg: How New Jersey Reinvented Itself Into Hollywood’s Hottest Production Hub - Variety",
@@ -3912,7 +3881,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 91,
+          "priority_score": 90,
           "key_data": [
             "From Snooki to Spielberg: How New Jersey Reinvented Itself Into Hollywood’s Hottest Production Hub - Variety"
           ],
@@ -3926,25 +3895,25 @@
       ],
       "items": [
         {
-          "id": "hollywood-0-7633529071877532013",
-          "key": "hollywood-0-7633529071877532013",
+          "id": "hollywood-0-6215118963802023985",
+          "key": "hollywood-0-6215118963802023985",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Here’s How to Watch Claressa Shields vs. Kaye Scott Boxing Live Online",
-          "title": "Here’s How to Watch Claressa Shields vs. Kaye Scott Boxing Live Online",
-          "snapshot": "After defending her undisputed women’s heavyweight title against Franchon Crews-Dezurn back in February, American boxer Claressa Shields drops in weight class to middleweight to challenge WBA and WBC champion Australian Kaye Scott. The bout is scheduled for 10 rounds. On Saturday, Aug. 15, Shields (18-0-0) vs. Scott...",
-          "summary": "After defending her undisputed women’s heavyweight title against Franchon Crews-Dezurn back in February, American boxer Claressa Shields drops in weight class to middleweight to challenge WBA and WBC champion Australian Kaye Scott. The bout is scheduled for 10 rounds. On Saturday, Aug. 15, Shields (18-0-0) vs. Scott...",
-          "url": "https://variety.com/2026/shopping/news/how-to-watch-claressa-shields-vs-kaye-scott-boxing-live-online-1236833217/",
-          "source": "Variety",
-          "source_name": "Variety",
-          "source_feed": "https://variety.com/feed/",
-          "published_at": "2026-08-15 05:00:00 PM ET",
+          "headline": "‘Spider-Man: Brand New Day’ Becomes Second-Fastest To Cross $2B At Global Box Office",
+          "title": "‘Spider-Man: Brand New Day’ Becomes Second-Fastest To Cross $2B At Global Box Office",
+          "snapshot": "Holy cow! Or whatever kind of Holy is yelled out in a comic book, but Sony/Marvel Studio’s Spider-Man: Brand New Day crossed the $2 billion global mark, becoming the second fastest movie to do so and the eighth movie to ever cross that benchmark. Brand New Day pulls off this feat in 17 days while […]",
+          "summary": "Holy cow! Or whatever kind of Holy is yelled out in a comic book, but Sony/Marvel Studio’s Spider-Man: Brand New Day crossed the $2 billion global mark, becoming the second fastest movie to do so and the eighth movie to ever cross that benchmark. Brand New Day pulls off this feat in 17 days while […]",
+          "url": "https://deadline.com/2026/08/box-office-global-spider-man-brand-new-day-2-1237042050/",
+          "source": "Deadline",
+          "source_name": "Deadline",
+          "source_feed": "https://deadline.com/feed/",
+          "published_at": "2026-08-16 11:15:51 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Here’s How to Watch Claressa Shields vs. Kaye Scott Boxing Live Online"
+            "‘Spider-Man: Brand New Day’ Becomes Second-Fastest To Cross $2B At Global Box Office"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3954,8 +3923,64 @@
           ]
         },
         {
-          "id": "hollywood-1-8558765806840254372",
-          "key": "hollywood-1-8558765806840254372",
+          "id": "hollywood-3-3977899694818429533",
+          "key": "hollywood-3-3977899694818429533",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "“It Was a Bumpy Ride!”: Jack Rowan and Director Kieron J. Walsh on the Many Lives of Head-Bopping, Troubles-Set ‘Skintown’",
+          "title": "“It Was a Bumpy Ride!”: Jack Rowan and Director Kieron J. Walsh on the Many Lives of Head-Bopping, Troubles-Set ‘Skintown’",
+          "snapshot": "The English actor and Irish filmmaker arrive at Edinburgh Film Festival with one of the most raucous indies of the year, backdropped by '90s rave culture and war-weary Northern Ireland: \"It's not really been recorded — what it was like for young people to grow up there.\"",
+          "summary": "The English actor and Irish filmmaker arrive at Edinburgh Film Festival with one of the most raucous indies of the year, backdropped by '90s rave culture and war-weary Northern Ireland: \"It's not really been recorded — what it was like for young people to grow up there.\"",
+          "url": "https://www.hollywoodreporter.com/movies/movie-features/jack-rowan-kieron-j-walsh-interview-skintown-film-edinburgh-1236670964/",
+          "source": "The Hollywood Reporter",
+          "source_name": "The Hollywood Reporter",
+          "source_feed": "https://www.hollywoodreporter.com/feed/",
+          "published_at": "2026-08-16 11:15:00 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 97,
+          "key_data": [
+            "“It Was a Bumpy Ride!”: Jack Rowan and Director Kieron J. Walsh on the Many Lives of Head-Bopping, Troubles-Set ‘Skintown’"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-9-914450207246219329",
+          "key": "hollywood-9-914450207246219329",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "Contributor: The greatest risk to Hollywood isn't the film industry's historic merger — it's the delay - Yahoo Finance",
+          "title": "Contributor: The greatest risk to Hollywood isn't the film industry's historic merger — it's the delay - Yahoo Finance",
+          "snapshot": "Contributor: The greatest risk to Hollywood isn't the film industry's historic merger — it's the delay Yahoo Finance",
+          "summary": "Contributor: The greatest risk to Hollywood isn't the film industry's historic merger — it's the delay Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaDRiS05RSW1lQ21GR3NFNGt2Ti15RF9YNlhJelZ0MGpKMGg0ZEVTNGc4eGJteFUtWEhVSHczbm9YQmdkOE5hX3FhdDQxS3U4am9naDlHQUVXWEhZQXZlSU9MMUFLRHJJYU9vQ2d0a3daWFJDUllqN2JYWE9qN01VZE5JX0xPcllzV3hPcUdYNFdYNUduX01ZMTRNZldwZ0Y0T0lXVUpqMVpvc1p6?oc=5",
+          "source": "Google News",
+          "source_name": "Google News",
+          "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-16 06:00:00 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 91,
+          "key_data": [
+            "Contributor: The greatest risk to Hollywood isn't the film industry's historic merger — it's the delay - Yahoo Finance"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-1-8287828366673093504",
+          "key": "hollywood-1-8287828366673093504",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Disney Unveils Avengers Infinity Defense Lead By Ms. Marvel, Return Of Avengers Cast, Harrison Ford Models New Indiana Jones Attraction, Villains Land & More At D23",
@@ -3982,8 +4007,8 @@
           ]
         },
         {
-          "id": "hollywood-3-6839580491846581778",
-          "key": "hollywood-3-6839580491846581778",
+          "id": "hollywood-4-6585185173616576036",
+          "key": "hollywood-4-6585185173616576036",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Disney’s Experiences Chief Talks Figment, the Tomorrowland Refresh and All That D23 News",
@@ -3998,7 +4023,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 97,
+          "priority_score": 96,
           "key_data": [
             "Disney’s Experiences Chief Talks Figment, the Tomorrowland Refresh and All That D23 News"
           ],
@@ -4010,92 +4035,8 @@
           ]
         },
         {
-          "id": "hollywood-8-3701061147506595673",
-          "key": "hollywood-8-3701061147506595673",
-          "category": "Hollywood",
-          "label": "Hollywood",
-          "headline": "Contributor: The greatest risk to Hollywood isn't the film industry's historic merger — it’s the delay - Los Angeles Times",
-          "title": "Contributor: The greatest risk to Hollywood isn't the film industry's historic merger — it’s the delay - Los Angeles Times",
-          "snapshot": "Contributor: The greatest risk to Hollywood isn't the film industry's historic merger — it’s the delay Los Angeles Times",
-          "summary": "Contributor: The greatest risk to Hollywood isn't the film industry's historic merger — it’s the delay Los Angeles Times",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbUdjU04wZHdvNHJxOHFlNDBtYXBsRG9yRFJvbThVLXQ0UTFSSVJXMDRQdzV4RTBBalZWam10eFIyOEVrR1ZELVgxSlg4WXM3QjNZWnZMcE9FOVh0VjJYMm5sUVNIc2E3QWllVDBDLTFhYUhZNWJBc1ZuMFU3Y1REekdSckVLN0dJeHpRSmk1ZzN5MW8?oc=5",
-          "source": "Google News",
-          "source_name": "Google News",
-          "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-16 06:00:00 AM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 92,
-          "key_data": [
-            "Contributor: The greatest risk to Hollywood isn't the film industry's historic merger — it’s the delay - Los Angeles Times"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "hollywood-2-3567819423979084861",
-          "key": "hollywood-2-3567819423979084861",
-          "category": "Hollywood",
-          "label": "Hollywood",
-          "headline": "Disney D23 Takeaway: With ‘X-Men’, ‘Tangled’, ‘Incredibles 3’ & More, Movie Studio Poised To Slay In 2028",
-          "title": "Disney D23 Takeaway: With ‘X-Men’, ‘Tangled’, ‘Incredibles 3’ & More, Movie Studio Poised To Slay In 2028",
-          "snapshot": "The morning after an intoxicating D23 Friday night, which included a dancing spirit squad, Adam Driver and Inde Navarrette X-Men surprises, Josh Gad crooning, Ryan Gosling, Anne Hathaway and confetti raining, it became really clear — Disney is going to have a killer 2028 at the box office. And they haven’t even fill...",
-          "summary": "The morning after an intoxicating D23 Friday night, which included a dancing spirit squad, Adam Driver and Inde Navarrette X-Men surprises, Josh Gad crooning, Ryan Gosling, Anne Hathaway and confetti raining, it became really clear — Disney is going to have a killer 2028 at the box office. And they haven’t even fill...",
-          "url": "https://deadline.com/2026/08/disney-2028-box-office-x-men-tangled-ghost-rider-d23-1237041743/",
-          "source": "Deadline",
-          "source_name": "Deadline",
-          "source_feed": "https://deadline.com/feed/",
-          "published_at": "2026-08-15 09:18:59 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 98,
-          "key_data": [
-            "Disney D23 Takeaway: With ‘X-Men’, ‘Tangled’, ‘Incredibles 3’ & More, Movie Studio Poised To Slay In 2028"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "hollywood-4-3743682637849376649",
-          "key": "hollywood-4-3743682637849376649",
-          "category": "Hollywood",
-          "label": "Hollywood",
-          "headline": "Disney and Epic Games Launch Game That Connects Star Wars Theme Park Ride to New Fortnite Adventure",
-          "title": "Disney and Epic Games Launch Game That Connects Star Wars Theme Park Ride to New Fortnite Adventure",
-          "snapshot": "Visitors to the 'Millennium Falcon: Smuggler's Run' attraction in Orlando or Anaheim can accept a mission that will earn rewards in the 'Fortnite' extension of the ride.",
-          "summary": "Visitors to the 'Millennium Falcon: Smuggler's Run' attraction in Orlando or Anaheim can accept a mission that will earn rewards in the 'Fortnite' extension of the ride.",
-          "url": "https://www.hollywoodreporter.com/business/digital/disney-epic-games-star-wars-theme-park-ride-fortnite-1236674132/",
-          "source": "The Hollywood Reporter",
-          "source_name": "The Hollywood Reporter",
-          "source_feed": "https://www.hollywoodreporter.com/feed/",
-          "published_at": "2026-08-15 07:30:00 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 96,
-          "key_data": [
-            "Disney and Epic Games Launch Game That Connects Star Wars Theme Park Ride to New Fortnite Adventure"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "hollywood-9-5452287652924696327",
-          "key": "hollywood-9-5452287652924696327",
+          "id": "hollywood-10-6621374598515920632",
+          "key": "hollywood-10-6621374598515920632",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "From Snooki to Spielberg: How New Jersey Reinvented Itself Into Hollywood’s Hottest Production Hub - Variety",
@@ -4110,7 +4051,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 91,
+          "priority_score": 90,
           "key_data": [
             "From Snooki to Spielberg: How New Jersey Reinvented Itself Into Hollywood’s Hottest Production Hub - Variety"
           ],
@@ -4122,7 +4063,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-16 10:23:30 AM ET"
+      "updated_at": "2026-08-16 11:22:09 AM ET"
     },
     {
       "key": "gaming",
@@ -4140,8 +4081,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "gaming-0-3638874644602514425",
-          "key": "gaming-0-3638874644602514425",
+          "id": "gaming-0-6210539952614548233",
+          "key": "gaming-0-6210539952614548233",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "'I Want to Set the Record Straight: That Is Not Happening' — Kingdom Hearts 4 Devs Say KH4 '100%' Will Not Be Delayed Past Late 2027 Launch | D23 2026",
@@ -4168,8 +4109,8 @@
           ]
         },
         {
-          "id": "gaming-1-5839071144699427610",
-          "key": "gaming-1-5839071144699427610",
+          "id": "gaming-1-243243623881268206",
+          "key": "gaming-1-243243623881268206",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Kingdom Hearts 4 Gets Extended Gameplay Trailer Featuring Playable Mickey, Donald, and Goofy | D23 2026",
@@ -4198,8 +4139,8 @@
       ],
       "items": [
         {
-          "id": "gaming-0-3638874644602514425",
-          "key": "gaming-0-3638874644602514425",
+          "id": "gaming-0-6210539952614548233",
+          "key": "gaming-0-6210539952614548233",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "'I Want to Set the Record Straight: That Is Not Happening' — Kingdom Hearts 4 Devs Say KH4 '100%' Will Not Be Delayed Past Late 2027 Launch | D23 2026",
@@ -4226,8 +4167,8 @@
           ]
         },
         {
-          "id": "gaming-1-5839071144699427610",
-          "key": "gaming-1-5839071144699427610",
+          "id": "gaming-1-243243623881268206",
+          "key": "gaming-1-243243623881268206",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Kingdom Hearts 4 Gets Extended Gameplay Trailer Featuring Playable Mickey, Donald, and Goofy | D23 2026",
@@ -4254,7 +4195,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-16 10:23:31 AM ET"
+      "updated_at": "2026-08-16 11:22:10 AM ET"
     },
     {
       "key": "media",
@@ -4278,8 +4219,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "media-0-6784151754781446689",
-          "key": "media-0-6784151754781446689",
+          "id": "media-0-5857899232494348781",
+          "key": "media-0-5857899232494348781",
           "category": "Media",
           "label": "Media",
           "headline": "Warner Bros. Discovery CEO David Zaslav Beneficiary of $27.1 Million in Stock Sales as Paramount Merger Is Stuck on Hold",
@@ -4306,8 +4247,8 @@
           ]
         },
         {
-          "id": "media-8-1154730017984938823",
-          "key": "media-8-1154730017984938823",
+          "id": "media-8-1589957193519422556",
+          "key": "media-8-1589957193519422556",
           "category": "Media",
           "label": "Media",
           "headline": "Netflix Offers Tyra Banks A Reality Check On Her ‘America’s Next Top Model’ Docuseries Defamation Suit",
@@ -4334,15 +4275,15 @@
           ]
         },
         {
-          "id": "media-19-4543269079432122347",
-          "key": "media-19-4543269079432122347",
+          "id": "media-19-6099243629241134017",
+          "key": "media-19-6099243629241134017",
           "category": "Media",
           "label": "Media",
           "headline": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine - Audacy",
           "title": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine - Audacy",
           "snapshot": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine Audacy",
           "summary": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine Audacy",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU3FvVGlWZFJibi1ybl95MFRJZW9mMzQxazJHYVhCbENhMXF3eWJodFh3Z0ZnVFFRZ3Q2TlJsZjFCS2JrME5pR19ROS1La0JTY25BemEwVkpTdlI2TW9mb29jMGRvWS0yTUdzc2VCR1dIZ1c2ZEdQQzVwNjlPQmZOWlhPRHZ3V3U0OUJjQWtDSkd3ZmZGcTY5dDFpMjVvYkFSY0NsRE1KWQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSDgyVVZyWlRCTV9ZVVVaZHMzWXJwdEZ4VVl6VGNqYWJfcjVyUmxydTVFb0Q1cUY1cUUxRy1NSjloNVNHeGNmQjktaEF4OUNqWVhuOThVTlRtamRpVnZhYlNPRkl2UEJLampaa1JleG56SHpSWlZGMHpENjVvN09ubGtoUUh5TVBva1lnT1NnbER5dDF6ZVQzWklKX3kzTE5SRU1WS2ZGMzBjQQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=media+entertainment+industry+news&hl=en-US&gl=US&ceid=US:en",
@@ -4362,8 +4303,8 @@
           ]
         },
         {
-          "id": "media-1-6832720324143091511",
-          "key": "media-1-6832720324143091511",
+          "id": "media-1-4800089880104362039",
+          "key": "media-1-4800089880104362039",
           "category": "Media",
           "label": "Media",
           "headline": "If Paramount Leaves California, It Might Cut Costs but Wouldn’t Save on State Taxes",
@@ -4390,8 +4331,8 @@
           ]
         },
         {
-          "id": "media-9-4292755259770408477",
-          "key": "media-9-4292755259770408477",
+          "id": "media-9-7148446599507316178",
+          "key": "media-9-7148446599507316178",
           "category": "Media",
           "label": "Media",
           "headline": "David Ellison’s Friday ParaBros News Dump: CEO Complains About “Needless Costs” Of State AGs’ Antitrust Suit As Mexico Approves Merger",
@@ -4420,8 +4361,8 @@
       ],
       "items": [
         {
-          "id": "media-0-6784151754781446689",
-          "key": "media-0-6784151754781446689",
+          "id": "media-0-5857899232494348781",
+          "key": "media-0-5857899232494348781",
           "category": "Media",
           "label": "Media",
           "headline": "Warner Bros. Discovery CEO David Zaslav Beneficiary of $27.1 Million in Stock Sales as Paramount Merger Is Stuck on Hold",
@@ -4448,8 +4389,8 @@
           ]
         },
         {
-          "id": "media-8-1154730017984938823",
-          "key": "media-8-1154730017984938823",
+          "id": "media-8-1589957193519422556",
+          "key": "media-8-1589957193519422556",
           "category": "Media",
           "label": "Media",
           "headline": "Netflix Offers Tyra Banks A Reality Check On Her ‘America’s Next Top Model’ Docuseries Defamation Suit",
@@ -4476,15 +4417,15 @@
           ]
         },
         {
-          "id": "media-19-4543269079432122347",
-          "key": "media-19-4543269079432122347",
+          "id": "media-19-6099243629241134017",
+          "key": "media-19-6099243629241134017",
           "category": "Media",
           "label": "Media",
           "headline": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine - Audacy",
           "title": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine - Audacy",
           "snapshot": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine Audacy",
           "summary": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine Audacy",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU3FvVGlWZFJibi1ybl95MFRJZW9mMzQxazJHYVhCbENhMXF3eWJodFh3Z0ZnVFFRZ3Q2TlJsZjFCS2JrME5pR19ROS1La0JTY25BemEwVkpTdlI2TW9mb29jMGRvWS0yTUdzc2VCR1dIZ1c2ZEdQQzVwNjlPQmZOWlhPRHZ3V3U0OUJjQWtDSkd3ZmZGcTY5dDFpMjVvYkFSY0NsRE1KWQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSDgyVVZyWlRCTV9ZVVVaZHMzWXJwdEZ4VVl6VGNqYWJfcjVyUmxydTVFb0Q1cUY1cUUxRy1NSjloNVNHeGNmQjktaEF4OUNqWVhuOThVTlRtamRpVnZhYlNPRkl2UEJLampaa1JleG56SHpSWlZGMHpENjVvN09ubGtoUUh5TVBva1lnT1NnbER5dDF6ZVQzWklKX3kzTE5SRU1WS2ZGMzBjQQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=media+entertainment+industry+news&hl=en-US&gl=US&ceid=US:en",
@@ -4504,8 +4445,8 @@
           ]
         },
         {
-          "id": "media-1-6832720324143091511",
-          "key": "media-1-6832720324143091511",
+          "id": "media-1-4800089880104362039",
+          "key": "media-1-4800089880104362039",
           "category": "Media",
           "label": "Media",
           "headline": "If Paramount Leaves California, It Might Cut Costs but Wouldn’t Save on State Taxes",
@@ -4532,8 +4473,8 @@
           ]
         },
         {
-          "id": "media-9-4292755259770408477",
-          "key": "media-9-4292755259770408477",
+          "id": "media-9-7148446599507316178",
+          "key": "media-9-7148446599507316178",
           "category": "Media",
           "label": "Media",
           "headline": "David Ellison’s Friday ParaBros News Dump: CEO Complains About “Needless Costs” Of State AGs’ Antitrust Suit As Mexico Approves Merger",
@@ -4560,7 +4501,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-16 10:23:32 AM ET"
+      "updated_at": "2026-08-16 11:22:11 AM ET"
     }
   ]
 }
