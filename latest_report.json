@@ -5,9 +5,9 @@
   "vertical": "Entertainment",
   "headline": "Hayden Panettiere, 'Heroes' and 'Scream' Star, Dies at 36",
   "snapshot": "Global Entertainment Report accepted 46 real RSS item(s) across 31 checked feed request(s).",
-  "generated_at": "2026-08-17 12:42:12 AM ET",
-  "updated_at": "2026-08-17 12:42:12 AM ET",
-  "published_at": "2026-08-17 12:42:12 AM ET",
+  "generated_at": "2026-08-17 01:35:30 AM ET",
+  "updated_at": "2026-08-17 01:35:30 AM ET",
+  "published_at": "2026-08-17 01:35:30 AM ET",
   "source_mode": "live RSS ingestion",
   "freshness": {
     "max_item_age_hours": 336,
@@ -235,10 +235,10 @@
       "final_url": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 51,
+      "rejected_count": 55,
       "rejection_reasons": {
-        "stale-over-336h": 50,
-        "duplicate-story": 1
+        "duplicate-story": 3,
+        "stale-over-336h": 52
       }
     },
     {
@@ -258,11 +258,11 @@
       "url": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
-      "item_count": 90,
+      "item_count": 88,
       "accepted_count": 2,
-      "rejected_count": 76,
+      "rejected_count": 74,
       "rejection_reasons": {
-        "stale-over-336h": 76
+        "stale-over-336h": 74
       }
     },
     {
@@ -387,8 +387,8 @@
   ],
   "live_newsroom": [
     {
-      "id": "film-0-1514664786254910881",
-      "key": "film-0-1514664786254910881",
+      "id": "film-0-5275481041277020714",
+      "key": "film-0-5275481041277020714",
       "category": "Film",
       "label": "Film",
       "headline": "Hayden Panettiere, 'Heroes' and 'Scream' Star, Dies at 36",
@@ -414,8 +414,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-87395094157557142",
-      "key": "film-10-87395094157557142",
+      "id": "film-10-542770052354696197",
+      "key": "film-10-542770052354696197",
       "category": "Film",
       "label": "Film",
       "headline": "'Teenage Sex And Death At Camp Miasma's Bloody Good Expansion As Indies Flex - Specialty Box Office",
@@ -441,8 +441,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-7507153177224680110",
-      "key": "film-22-7507153177224680110",
+      "id": "film-22-957222204079976968",
+      "key": "film-22-957222204079976968",
       "category": "Film",
       "label": "Film",
       "headline": "Paul Mescal, Joseph Quinn, Barry Keoghan and Harris Dickinson Seen Recreating 'Abbey Road' Album Cover",
@@ -468,8 +468,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-8891738138886040902",
-      "key": "film-32-8891738138886040902",
+      "id": "film-32-6517383792474467101",
+      "key": "film-32-6517383792474467101",
       "category": "Film",
       "label": "Film",
       "headline": "This Adam Driver Film Has Been Named One of the 'Most Boring Movies This Century' - Men's Journal",
@@ -495,8 +495,8 @@
       "priority_score": 68
     },
     {
-      "id": "music-9-7594823398099230029",
-      "key": "music-9-7594823398099230029",
+      "id": "music-9-7802325675216957440",
+      "key": "music-9-7802325675216957440",
       "category": "Music",
       "label": "Music",
       "headline": "Portugal. The Man Announces 2026 Australian East Coast Tour Dates",
@@ -522,8 +522,8 @@
       "priority_score": 91
     },
     {
-      "id": "gaming-0-817906647490011776",
-      "key": "gaming-0-817906647490011776",
+      "id": "gaming-0-4083703399671092569",
+      "key": "gaming-0-4083703399671092569",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The Best Deals Today: Final Fantasy VII Rebirth for Switch 2, Nioh 3, Project Hail Mary, and More",
@@ -549,8 +549,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-1778455793476552703",
-      "key": "film-1-1778455793476552703",
+      "id": "film-1-2622483063200872436",
+      "key": "film-1-2622483063200872436",
       "category": "Film",
       "label": "Film",
       "headline": "'The End of Tom Six' Review: The Director of the 'Human Centipede' Films Has Multiple Sclerosis and Is Sharing the Horror. This Confessional Doc Is His Witty Self-Defense",
@@ -576,8 +576,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-7646465244378111501",
-      "key": "film-11-7646465244378111501",
+      "id": "film-11-6743538665952953326",
+      "key": "film-11-6743538665952953326",
       "category": "Film",
       "label": "Film",
       "headline": "Dwayne Johnson Describes 'Lizard Music' As \"'Willy Wonka' From The Mind Of Benny Safdie,\" Details 5-Hour Makeup Process To Play 70-Year-Old - D23",
@@ -603,8 +603,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-2445671905119902856",
-      "key": "film-23-2445671905119902856",
+      "id": "film-23-303511075432998714",
+      "key": "film-23-303511075432998714",
       "category": "Film",
       "label": "Film",
       "headline": "In 'A Vineyard for A Lobster,' Snowfall in a Ugandan Village Becomes a Political and Colonial Allegory",
@@ -630,8 +630,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-3853953153739628659",
-      "key": "film-33-3853953153739628659",
+      "id": "film-33-8249677550847407605",
+      "key": "film-33-8249677550847407605",
       "category": "Film",
       "label": "Film",
       "headline": "The 30 best action-adventure movies, ranked - Entertainment Weekly",
@@ -657,8 +657,8 @@
       "priority_score": 67
     },
     {
-      "id": "music-10-8835992882287600515",
-      "key": "music-10-8835992882287600515",
+      "id": "music-10-7149226016706245684",
+      "key": "music-10-7149226016706245684",
       "category": "Music",
       "label": "Music",
       "headline": "Hayden Panettiere, 'Nashville' and 'Heroes' Star, Dies at 36",
@@ -684,8 +684,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-1-724905264718165913",
-      "key": "gaming-1-724905264718165913",
+      "id": "gaming-1-6486444893459470381",
+      "key": "gaming-1-6486444893459470381",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Simu Liu Says Sleeping Dogs Movie Has 'a REAL Path Forward' Amid Dealmaking With Square Enix",
@@ -713,8 +713,8 @@
   ],
   "editor_signals": [
     {
-      "id": "film-2-6432235368857662243",
-      "key": "film-2-6432235368857662243",
+      "id": "film-2-699657374198097240",
+      "key": "film-2-699657374198097240",
       "category": "Film",
       "label": "Film",
       "headline": "Noah Wyle Hopes David Ellison's Threat to Move Paramount Out of California is 'Saber Rattling': 'You're Going to Take Hollywood Out of Hollywood'",
@@ -740,8 +740,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-3663621169302450009",
-      "key": "film-12-3663621169302450009",
+      "id": "film-12-8660944379039251077",
+      "key": "film-12-8660944379039251077",
       "category": "Film",
       "label": "Film",
       "headline": "'Hercules' Voice Actress Susan Egan Nominates Zendaya & Tom Holland For Live-Action Remake: \"The World Needs It\" - D23",
@@ -767,8 +767,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-4501664523674757803",
-      "key": "film-24-4501664523674757803",
+      "id": "film-24-2051718152412967011",
+      "key": "film-24-2051718152412967011",
       "category": "Film",
       "label": "Film",
       "headline": "'Spider-Man: Brand New Day' Hits $2B Globally to Top 'No Way Home' as Sony's Biggest Release",
@@ -794,14 +794,14 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-5728668866241059845",
-      "key": "film-34-5728668866241059845",
+      "id": "film-34-9078301300640978138",
+      "key": "film-34-9078301300640978138",
       "category": "Film",
       "label": "Film",
-      "headline": "New movies: the most exciting films coming to theaters in August 2026 and beyond - TechRadar",
-      "title": "New movies: the most exciting films coming to theaters in August 2026 and beyond - TechRadar",
-      "snapshot": "New movies: the most exciting films coming to theaters in August 2026 and beyond TechRadar",
-      "summary": "New movies: the most exciting films coming to theaters in August 2026 and beyond TechRadar",
+      "headline": "New movies: the most exciting films coming to theaters in August 2026 and beyond - techradar.com",
+      "title": "New movies: the most exciting films coming to theaters in August 2026 and beyond - techradar.com",
+      "snapshot": "New movies: the most exciting films coming to theaters in August 2026 and beyond techradar.com",
+      "summary": "New movies: the most exciting films coming to theaters in August 2026 and beyond techradar.com",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9zYmZSLWRNVVB4dUQ3cVBUOVNDN2l3aFExNlRiRTc4U3ZqUWpLZFlDS3poY2JaMHNZUzJySnRXR095ek83Uzl1ellydlZseEhaY0hiM0ZSczJmbzAxYzZ1eUlpTW5keWhzZ3hNNGZPdGN5cEJOZ3VVM0FsSQ?oc=5",
       "source": "Google News",
       "source_name": "Google News",
@@ -809,7 +809,7 @@
       "published_at": "2026-08-14 08:50:15 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "New movies: the most exciting films coming to theaters in August 2026 and beyond - TechRadar"
+        "New movies: the most exciting films coming to theaters in August 2026 and beyond - techradar.com"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -821,8 +821,8 @@
       "priority_score": 66
     },
     {
-      "id": "music-11-4670301163568346598",
-      "key": "music-11-4670301163568346598",
+      "id": "music-11-7881384153780852292",
+      "key": "music-11-7881384153780852292",
       "category": "Music",
       "label": "Music",
       "headline": "Fans Choose Ayra Starr's 'Starrgirl' as This Week's Favorite New Music",
@@ -848,8 +848,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-2-8702460465864857105",
-      "key": "gaming-2-8702460465864857105",
+      "id": "gaming-2-994619686922654421",
+      "key": "gaming-2-994619686922654421",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "'I Want to Set the Record Straight: That Is Not Happening' - Kingdom Hearts 4 Devs Say KH4 '100%' Will Not Be Delayed Past Late 2027 Launch | D23 2026",
@@ -875,8 +875,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-4113857014269381522",
-      "key": "film-3-4113857014269381522",
+      "id": "film-3-73944843153270849",
+      "key": "film-3-73944843153270849",
       "category": "Film",
       "label": "Film",
       "headline": "Dwayne Johnson Leads Crowd in 'Happy Birthday' Song for Daughter Simone After Receiving Disney Legends Award at D23",
@@ -902,8 +902,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-4331721405054859839",
-      "key": "film-13-4331721405054859839",
+      "id": "film-13-3946745405704704156",
+      "key": "film-13-3946745405704704156",
       "category": "Film",
       "label": "Film",
       "headline": "Johnny Depp In Talks For 'Pirates 6', Says Jerry Bruckheimer At D23; 'Top Gun' Producer Wants To Keep Paramount In Hollywood",
@@ -929,8 +929,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-4801414515112633758",
-      "key": "film-25-4801414515112633758",
+      "id": "film-25-7621524633712595324",
+      "key": "film-25-7621524633712595324",
       "category": "Film",
       "label": "Film",
       "headline": "'Too Much Music' Is a Doc Project About Ghanaian Keyboardist Kiki Gyan - and About Who Controls Artists' Narratives",
@@ -956,8 +956,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-6604464947492570640",
-      "key": "film-35-6604464947492570640",
+      "id": "film-35-8860701112308765206",
+      "key": "film-35-8860701112308765206",
       "category": "Film",
       "label": "Film",
       "headline": "Disney's D23: Everything announced, from rides to movies and more - abcnews.com",
@@ -983,8 +983,8 @@
       "priority_score": 65
     },
     {
-      "id": "music-12-1138710001949147952",
-      "key": "music-12-1138710001949147952",
+      "id": "music-12-7549881998890139849",
+      "key": "music-12-7549881998890139849",
       "category": "Music",
       "label": "Music",
       "headline": "The Best Moments From KCON LA 2026 (So Far)",
@@ -1010,8 +1010,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-3-6567521468276174685",
-      "key": "gaming-3-6567521468276174685",
+      "id": "gaming-3-5626349378205354425",
+      "key": "gaming-3-5626349378205354425",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Kingdom Hearts 4 Gets Extended Gameplay Trailer Featuring Playable Mickey, Donald, and Goofy | D23 2026",
@@ -1039,8 +1039,8 @@
   ],
   "homepage_cards": [
     {
-      "id": "film-0-1514664786254910881",
-      "key": "film-0-1514664786254910881",
+      "id": "film-0-5275481041277020714",
+      "key": "film-0-5275481041277020714",
       "category": "Film",
       "label": "Film",
       "headline": "Hayden Panettiere, 'Heroes' and 'Scream' Star, Dies at 36",
@@ -1066,8 +1066,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-87395094157557142",
-      "key": "film-10-87395094157557142",
+      "id": "film-10-542770052354696197",
+      "key": "film-10-542770052354696197",
       "category": "Film",
       "label": "Film",
       "headline": "'Teenage Sex And Death At Camp Miasma's Bloody Good Expansion As Indies Flex - Specialty Box Office",
@@ -1093,8 +1093,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-7507153177224680110",
-      "key": "film-22-7507153177224680110",
+      "id": "film-22-957222204079976968",
+      "key": "film-22-957222204079976968",
       "category": "Film",
       "label": "Film",
       "headline": "Paul Mescal, Joseph Quinn, Barry Keoghan and Harris Dickinson Seen Recreating 'Abbey Road' Album Cover",
@@ -1120,8 +1120,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-8891738138886040902",
-      "key": "film-32-8891738138886040902",
+      "id": "film-32-6517383792474467101",
+      "key": "film-32-6517383792474467101",
       "category": "Film",
       "label": "Film",
       "headline": "This Adam Driver Film Has Been Named One of the 'Most Boring Movies This Century' - Men's Journal",
@@ -1147,8 +1147,8 @@
       "priority_score": 68
     },
     {
-      "id": "music-9-7594823398099230029",
-      "key": "music-9-7594823398099230029",
+      "id": "music-9-7802325675216957440",
+      "key": "music-9-7802325675216957440",
       "category": "Music",
       "label": "Music",
       "headline": "Portugal. The Man Announces 2026 Australian East Coast Tour Dates",
@@ -1174,8 +1174,8 @@
       "priority_score": 91
     },
     {
-      "id": "gaming-0-817906647490011776",
-      "key": "gaming-0-817906647490011776",
+      "id": "gaming-0-4083703399671092569",
+      "key": "gaming-0-4083703399671092569",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The Best Deals Today: Final Fantasy VII Rebirth for Switch 2, Nioh 3, Project Hail Mary, and More",
@@ -1201,8 +1201,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-1778455793476552703",
-      "key": "film-1-1778455793476552703",
+      "id": "film-1-2622483063200872436",
+      "key": "film-1-2622483063200872436",
       "category": "Film",
       "label": "Film",
       "headline": "'The End of Tom Six' Review: The Director of the 'Human Centipede' Films Has Multiple Sclerosis and Is Sharing the Horror. This Confessional Doc Is His Witty Self-Defense",
@@ -1228,8 +1228,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-7646465244378111501",
-      "key": "film-11-7646465244378111501",
+      "id": "film-11-6743538665952953326",
+      "key": "film-11-6743538665952953326",
       "category": "Film",
       "label": "Film",
       "headline": "Dwayne Johnson Describes 'Lizard Music' As \"'Willy Wonka' From The Mind Of Benny Safdie,\" Details 5-Hour Makeup Process To Play 70-Year-Old - D23",
@@ -1255,8 +1255,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-2445671905119902856",
-      "key": "film-23-2445671905119902856",
+      "id": "film-23-303511075432998714",
+      "key": "film-23-303511075432998714",
       "category": "Film",
       "label": "Film",
       "headline": "In 'A Vineyard for A Lobster,' Snowfall in a Ugandan Village Becomes a Political and Colonial Allegory",
@@ -1282,8 +1282,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-3853953153739628659",
-      "key": "film-33-3853953153739628659",
+      "id": "film-33-8249677550847407605",
+      "key": "film-33-8249677550847407605",
       "category": "Film",
       "label": "Film",
       "headline": "The 30 best action-adventure movies, ranked - Entertainment Weekly",
@@ -1309,8 +1309,8 @@
       "priority_score": 67
     },
     {
-      "id": "music-10-8835992882287600515",
-      "key": "music-10-8835992882287600515",
+      "id": "music-10-7149226016706245684",
+      "key": "music-10-7149226016706245684",
       "category": "Music",
       "label": "Music",
       "headline": "Hayden Panettiere, 'Nashville' and 'Heroes' Star, Dies at 36",
@@ -1336,8 +1336,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-1-724905264718165913",
-      "key": "gaming-1-724905264718165913",
+      "id": "gaming-1-6486444893459470381",
+      "key": "gaming-1-6486444893459470381",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Simu Liu Says Sleeping Dogs Movie Has 'a REAL Path Forward' Amid Dealmaking With Square Enix",
@@ -1363,8 +1363,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-2-6432235368857662243",
-      "key": "film-2-6432235368857662243",
+      "id": "film-2-699657374198097240",
+      "key": "film-2-699657374198097240",
       "category": "Film",
       "label": "Film",
       "headline": "Noah Wyle Hopes David Ellison's Threat to Move Paramount Out of California is 'Saber Rattling': 'You're Going to Take Hollywood Out of Hollywood'",
@@ -1390,8 +1390,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-3663621169302450009",
-      "key": "film-12-3663621169302450009",
+      "id": "film-12-8660944379039251077",
+      "key": "film-12-8660944379039251077",
       "category": "Film",
       "label": "Film",
       "headline": "'Hercules' Voice Actress Susan Egan Nominates Zendaya & Tom Holland For Live-Action Remake: \"The World Needs It\" - D23",
@@ -1417,8 +1417,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-4501664523674757803",
-      "key": "film-24-4501664523674757803",
+      "id": "film-24-2051718152412967011",
+      "key": "film-24-2051718152412967011",
       "category": "Film",
       "label": "Film",
       "headline": "'Spider-Man: Brand New Day' Hits $2B Globally to Top 'No Way Home' as Sony's Biggest Release",
@@ -1444,14 +1444,14 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-5728668866241059845",
-      "key": "film-34-5728668866241059845",
+      "id": "film-34-9078301300640978138",
+      "key": "film-34-9078301300640978138",
       "category": "Film",
       "label": "Film",
-      "headline": "New movies: the most exciting films coming to theaters in August 2026 and beyond - TechRadar",
-      "title": "New movies: the most exciting films coming to theaters in August 2026 and beyond - TechRadar",
-      "snapshot": "New movies: the most exciting films coming to theaters in August 2026 and beyond TechRadar",
-      "summary": "New movies: the most exciting films coming to theaters in August 2026 and beyond TechRadar",
+      "headline": "New movies: the most exciting films coming to theaters in August 2026 and beyond - techradar.com",
+      "title": "New movies: the most exciting films coming to theaters in August 2026 and beyond - techradar.com",
+      "snapshot": "New movies: the most exciting films coming to theaters in August 2026 and beyond techradar.com",
+      "summary": "New movies: the most exciting films coming to theaters in August 2026 and beyond techradar.com",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9zYmZSLWRNVVB4dUQ3cVBUOVNDN2l3aFExNlRiRTc4U3ZqUWpLZFlDS3poY2JaMHNZUzJySnRXR095ek83Uzl1ellydlZseEhaY0hiM0ZSczJmbzAxYzZ1eUlpTW5keWhzZ3hNNGZPdGN5cEJOZ3VVM0FsSQ?oc=5",
       "source": "Google News",
       "source_name": "Google News",
@@ -1459,7 +1459,7 @@
       "published_at": "2026-08-14 08:50:15 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "New movies: the most exciting films coming to theaters in August 2026 and beyond - TechRadar"
+        "New movies: the most exciting films coming to theaters in August 2026 and beyond - techradar.com"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1471,8 +1471,8 @@
       "priority_score": 66
     },
     {
-      "id": "music-11-4670301163568346598",
-      "key": "music-11-4670301163568346598",
+      "id": "music-11-7881384153780852292",
+      "key": "music-11-7881384153780852292",
       "category": "Music",
       "label": "Music",
       "headline": "Fans Choose Ayra Starr's 'Starrgirl' as This Week's Favorite New Music",
@@ -1498,8 +1498,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-2-8702460465864857105",
-      "key": "gaming-2-8702460465864857105",
+      "id": "gaming-2-994619686922654421",
+      "key": "gaming-2-994619686922654421",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "'I Want to Set the Record Straight: That Is Not Happening' - Kingdom Hearts 4 Devs Say KH4 '100%' Will Not Be Delayed Past Late 2027 Launch | D23 2026",
@@ -1525,8 +1525,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-4113857014269381522",
-      "key": "film-3-4113857014269381522",
+      "id": "film-3-73944843153270849",
+      "key": "film-3-73944843153270849",
       "category": "Film",
       "label": "Film",
       "headline": "Dwayne Johnson Leads Crowd in 'Happy Birthday' Song for Daughter Simone After Receiving Disney Legends Award at D23",
@@ -1552,8 +1552,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-4331721405054859839",
-      "key": "film-13-4331721405054859839",
+      "id": "film-13-3946745405704704156",
+      "key": "film-13-3946745405704704156",
       "category": "Film",
       "label": "Film",
       "headline": "Johnny Depp In Talks For 'Pirates 6', Says Jerry Bruckheimer At D23; 'Top Gun' Producer Wants To Keep Paramount In Hollywood",
@@ -1579,8 +1579,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-4801414515112633758",
-      "key": "film-25-4801414515112633758",
+      "id": "film-25-7621524633712595324",
+      "key": "film-25-7621524633712595324",
       "category": "Film",
       "label": "Film",
       "headline": "'Too Much Music' Is a Doc Project About Ghanaian Keyboardist Kiki Gyan - and About Who Controls Artists' Narratives",
@@ -1606,8 +1606,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-6604464947492570640",
-      "key": "film-35-6604464947492570640",
+      "id": "film-35-8860701112308765206",
+      "key": "film-35-8860701112308765206",
       "category": "Film",
       "label": "Film",
       "headline": "Disney's D23: Everything announced, from rides to movies and more - abcnews.com",
@@ -1633,8 +1633,8 @@
       "priority_score": 65
     },
     {
-      "id": "music-12-1138710001949147952",
-      "key": "music-12-1138710001949147952",
+      "id": "music-12-7549881998890139849",
+      "key": "music-12-7549881998890139849",
       "category": "Music",
       "label": "Music",
       "headline": "The Best Moments From KCON LA 2026 (So Far)",
@@ -1660,8 +1660,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-3-6567521468276174685",
-      "key": "gaming-3-6567521468276174685",
+      "id": "gaming-3-5626349378205354425",
+      "key": "gaming-3-5626349378205354425",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Kingdom Hearts 4 Gets Extended Gameplay Trailer Featuring Playable Mickey, Donald, and Goofy | D23 2026",
@@ -1713,8 +1713,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "film-0-1514664786254910881",
-          "key": "film-0-1514664786254910881",
+          "id": "film-0-5275481041277020714",
+          "key": "film-0-5275481041277020714",
           "category": "Film",
           "label": "Film",
           "headline": "Hayden Panettiere, ‘Heroes’ and ‘Scream’ Star, Dies at 36",
@@ -1741,8 +1741,8 @@
           ]
         },
         {
-          "id": "film-10-87395094157557142",
-          "key": "film-10-87395094157557142",
+          "id": "film-10-542770052354696197",
+          "key": "film-10-542770052354696197",
           "category": "Film",
           "label": "Film",
           "headline": "‘Teenage Sex And Death At Camp Miasma’s Bloody Good Expansion As Indies Flex – Specialty Box Office",
@@ -1769,8 +1769,8 @@
           ]
         },
         {
-          "id": "film-22-7507153177224680110",
-          "key": "film-22-7507153177224680110",
+          "id": "film-22-957222204079976968",
+          "key": "film-22-957222204079976968",
           "category": "Film",
           "label": "Film",
           "headline": "Paul Mescal, Joseph Quinn, Barry Keoghan and Harris Dickinson Seen Recreating ‘Abbey Road’ Album Cover",
@@ -1797,8 +1797,8 @@
           ]
         },
         {
-          "id": "film-32-8891738138886040902",
-          "key": "film-32-8891738138886040902",
+          "id": "film-32-6517383792474467101",
+          "key": "film-32-6517383792474467101",
           "category": "Film",
           "label": "Film",
           "headline": "This Adam Driver Film Has Been Named One of the ‘Most Boring Movies This Century’ - Men's Journal",
@@ -1825,8 +1825,8 @@
           ]
         },
         {
-          "id": "film-1-1778455793476552703",
-          "key": "film-1-1778455793476552703",
+          "id": "film-1-2622483063200872436",
+          "key": "film-1-2622483063200872436",
           "category": "Film",
           "label": "Film",
           "headline": "‘The End of Tom Six’ Review: The Director of the ‘Human Centipede’ Films Has Multiple Sclerosis and Is Sharing the Horror. This Confessional Doc Is His Witty Self-Defense",
@@ -1853,8 +1853,8 @@
           ]
         },
         {
-          "id": "film-11-7646465244378111501",
-          "key": "film-11-7646465244378111501",
+          "id": "film-11-6743538665952953326",
+          "key": "film-11-6743538665952953326",
           "category": "Film",
           "label": "Film",
           "headline": "Dwayne Johnson Describes ‘Lizard Music’ As “‘Willy Wonka’ From The Mind Of Benny Safdie,” Details 5-Hour Makeup Process To Play 70-Year-Old — D23",
@@ -1881,8 +1881,8 @@
           ]
         },
         {
-          "id": "film-23-2445671905119902856",
-          "key": "film-23-2445671905119902856",
+          "id": "film-23-303511075432998714",
+          "key": "film-23-303511075432998714",
           "category": "Film",
           "label": "Film",
           "headline": "In ‘A Vineyard for A Lobster,’ Snowfall in a Ugandan Village Becomes a Political and Colonial Allegory",
@@ -1909,8 +1909,8 @@
           ]
         },
         {
-          "id": "film-33-3853953153739628659",
-          "key": "film-33-3853953153739628659",
+          "id": "film-33-8249677550847407605",
+          "key": "film-33-8249677550847407605",
           "category": "Film",
           "label": "Film",
           "headline": "The 30 best action-adventure movies, ranked - Entertainment Weekly",
@@ -1939,8 +1939,8 @@
       ],
       "items": [
         {
-          "id": "film-0-1514664786254910881",
-          "key": "film-0-1514664786254910881",
+          "id": "film-0-5275481041277020714",
+          "key": "film-0-5275481041277020714",
           "category": "Film",
           "label": "Film",
           "headline": "Hayden Panettiere, ‘Heroes’ and ‘Scream’ Star, Dies at 36",
@@ -1967,8 +1967,8 @@
           ]
         },
         {
-          "id": "film-10-87395094157557142",
-          "key": "film-10-87395094157557142",
+          "id": "film-10-542770052354696197",
+          "key": "film-10-542770052354696197",
           "category": "Film",
           "label": "Film",
           "headline": "‘Teenage Sex And Death At Camp Miasma’s Bloody Good Expansion As Indies Flex – Specialty Box Office",
@@ -1995,8 +1995,8 @@
           ]
         },
         {
-          "id": "film-22-7507153177224680110",
-          "key": "film-22-7507153177224680110",
+          "id": "film-22-957222204079976968",
+          "key": "film-22-957222204079976968",
           "category": "Film",
           "label": "Film",
           "headline": "Paul Mescal, Joseph Quinn, Barry Keoghan and Harris Dickinson Seen Recreating ‘Abbey Road’ Album Cover",
@@ -2023,8 +2023,8 @@
           ]
         },
         {
-          "id": "film-32-8891738138886040902",
-          "key": "film-32-8891738138886040902",
+          "id": "film-32-6517383792474467101",
+          "key": "film-32-6517383792474467101",
           "category": "Film",
           "label": "Film",
           "headline": "This Adam Driver Film Has Been Named One of the ‘Most Boring Movies This Century’ - Men's Journal",
@@ -2051,8 +2051,8 @@
           ]
         },
         {
-          "id": "film-1-1778455793476552703",
-          "key": "film-1-1778455793476552703",
+          "id": "film-1-2622483063200872436",
+          "key": "film-1-2622483063200872436",
           "category": "Film",
           "label": "Film",
           "headline": "‘The End of Tom Six’ Review: The Director of the ‘Human Centipede’ Films Has Multiple Sclerosis and Is Sharing the Horror. This Confessional Doc Is His Witty Self-Defense",
@@ -2079,8 +2079,8 @@
           ]
         },
         {
-          "id": "film-11-7646465244378111501",
-          "key": "film-11-7646465244378111501",
+          "id": "film-11-6743538665952953326",
+          "key": "film-11-6743538665952953326",
           "category": "Film",
           "label": "Film",
           "headline": "Dwayne Johnson Describes ‘Lizard Music’ As “‘Willy Wonka’ From The Mind Of Benny Safdie,” Details 5-Hour Makeup Process To Play 70-Year-Old — D23",
@@ -2107,8 +2107,8 @@
           ]
         },
         {
-          "id": "film-23-2445671905119902856",
-          "key": "film-23-2445671905119902856",
+          "id": "film-23-303511075432998714",
+          "key": "film-23-303511075432998714",
           "category": "Film",
           "label": "Film",
           "headline": "In ‘A Vineyard for A Lobster,’ Snowfall in a Ugandan Village Becomes a Political and Colonial Allegory",
@@ -2135,8 +2135,8 @@
           ]
         },
         {
-          "id": "film-33-3853953153739628659",
-          "key": "film-33-3853953153739628659",
+          "id": "film-33-8249677550847407605",
+          "key": "film-33-8249677550847407605",
           "category": "Film",
           "label": "Film",
           "headline": "The 30 best action-adventure movies, ranked - Entertainment Weekly",
@@ -2163,7 +2163,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-17 12:42:14 AM ET"
+      "updated_at": "2026-08-17 01:35:31 AM ET"
     },
     {
       "key": "tv",
@@ -2189,8 +2189,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "tv-0-6175374836001171783",
-          "key": "tv-0-6175374836001171783",
+          "id": "tv-0-2733271553801681443",
+          "key": "tv-0-2733271553801681443",
           "category": "TV",
           "label": "TV",
           "headline": "John Oliver Brutally Mocks Trump for Sacrificing Staff in Airplane-Swap Incident",
@@ -2217,8 +2217,8 @@
           ]
         },
         {
-          "id": "tv-8-5667795702918530058",
-          "key": "tv-8-5667795702918530058",
+          "id": "tv-8-2097761858405570926",
+          "key": "tv-8-2097761858405570926",
           "category": "TV",
           "label": "TV",
           "headline": "Hayden Panettiere Dies: “Heroes,’ ‘Nashville’ & ‘Scream’ Star Was 36",
@@ -2245,8 +2245,8 @@
           ]
         },
         {
-          "id": "tv-20-8296241919173433653",
-          "key": "tv-20-8296241919173433653",
+          "id": "tv-20-1881775546582174831",
+          "key": "tv-20-1881775546582174831",
           "category": "TV",
           "label": "TV",
           "headline": "Hayden Panettiere, Actress on ‘Heroes’ and ‘Nashville,’ Dies at 36",
@@ -2273,8 +2273,8 @@
           ]
         },
         {
-          "id": "tv-30-2441575591161136769",
-          "key": "tv-30-2441575591161136769",
+          "id": "tv-30-1788431449272669676",
+          "key": "tv-30-1788431449272669676",
           "category": "TV",
           "label": "TV",
           "headline": "AI Just Got Its First 24/7 TV Channel - PYMNTS.com",
@@ -2301,8 +2301,8 @@
           ]
         },
         {
-          "id": "tv-1-3119694779836327269",
-          "key": "tv-1-3119694779836327269",
+          "id": "tv-1-7509215766109349225",
+          "key": "tv-1-7509215766109349225",
           "category": "TV",
           "label": "TV",
           "headline": "‘Lanterns’ Premiere Shocker: Stars Kyle Chandler, Aaron Pierre and Show Creators Break Down That Time Jump and Cliffhanger",
@@ -2329,8 +2329,8 @@
           ]
         },
         {
-          "id": "tv-9-3294610645510735350",
-          "key": "tv-9-3294610645510735350",
+          "id": "tv-9-2517594025258533282",
+          "key": "tv-9-2517594025258533282",
           "category": "TV",
           "label": "TV",
           "headline": "‘Lanterns’ Star Kyle Chandler Weighs In On Premiere Twist That Sets In Motion “The Whole Mystery” Of HBO Series",
@@ -2357,8 +2357,8 @@
           ]
         },
         {
-          "id": "tv-21-3719195532868273173",
-          "key": "tv-21-3719195532868273173",
+          "id": "tv-21-6701467478640059468",
+          "key": "tv-21-6701467478640059468",
           "category": "TV",
           "label": "TV",
           "headline": "Netflix Fires Back Against Tyra Banks’ ‘America’s Next Top Model’ Docuseries Defamation Lawsuit",
@@ -2387,8 +2387,8 @@
       ],
       "items": [
         {
-          "id": "tv-0-6175374836001171783",
-          "key": "tv-0-6175374836001171783",
+          "id": "tv-0-2733271553801681443",
+          "key": "tv-0-2733271553801681443",
           "category": "TV",
           "label": "TV",
           "headline": "John Oliver Brutally Mocks Trump for Sacrificing Staff in Airplane-Swap Incident",
@@ -2415,8 +2415,8 @@
           ]
         },
         {
-          "id": "tv-8-5667795702918530058",
-          "key": "tv-8-5667795702918530058",
+          "id": "tv-8-2097761858405570926",
+          "key": "tv-8-2097761858405570926",
           "category": "TV",
           "label": "TV",
           "headline": "Hayden Panettiere Dies: “Heroes,’ ‘Nashville’ & ‘Scream’ Star Was 36",
@@ -2443,8 +2443,8 @@
           ]
         },
         {
-          "id": "tv-20-8296241919173433653",
-          "key": "tv-20-8296241919173433653",
+          "id": "tv-20-1881775546582174831",
+          "key": "tv-20-1881775546582174831",
           "category": "TV",
           "label": "TV",
           "headline": "Hayden Panettiere, Actress on ‘Heroes’ and ‘Nashville,’ Dies at 36",
@@ -2471,8 +2471,8 @@
           ]
         },
         {
-          "id": "tv-30-2441575591161136769",
-          "key": "tv-30-2441575591161136769",
+          "id": "tv-30-1788431449272669676",
+          "key": "tv-30-1788431449272669676",
           "category": "TV",
           "label": "TV",
           "headline": "AI Just Got Its First 24/7 TV Channel - PYMNTS.com",
@@ -2499,8 +2499,8 @@
           ]
         },
         {
-          "id": "tv-1-3119694779836327269",
-          "key": "tv-1-3119694779836327269",
+          "id": "tv-1-7509215766109349225",
+          "key": "tv-1-7509215766109349225",
           "category": "TV",
           "label": "TV",
           "headline": "‘Lanterns’ Premiere Shocker: Stars Kyle Chandler, Aaron Pierre and Show Creators Break Down That Time Jump and Cliffhanger",
@@ -2527,8 +2527,8 @@
           ]
         },
         {
-          "id": "tv-9-3294610645510735350",
-          "key": "tv-9-3294610645510735350",
+          "id": "tv-9-2517594025258533282",
+          "key": "tv-9-2517594025258533282",
           "category": "TV",
           "label": "TV",
           "headline": "‘Lanterns’ Star Kyle Chandler Weighs In On Premiere Twist That Sets In Motion “The Whole Mystery” Of HBO Series",
@@ -2555,8 +2555,8 @@
           ]
         },
         {
-          "id": "tv-21-3719195532868273173",
-          "key": "tv-21-3719195532868273173",
+          "id": "tv-21-6701467478640059468",
+          "key": "tv-21-6701467478640059468",
           "category": "TV",
           "label": "TV",
           "headline": "Netflix Fires Back Against Tyra Banks’ ‘America’s Next Top Model’ Docuseries Defamation Lawsuit",
@@ -2583,7 +2583,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-17 12:42:15 AM ET"
+      "updated_at": "2026-08-17 01:35:32 AM ET"
     },
     {
       "key": "streaming",
@@ -2593,16 +2593,16 @@
       "snapshot": "Streaming coverage is updating with 2 current RSS headline item(s).",
       "key_storylines": [
         "5 best new movies to stream this weekend on Netflix, Disney+, Hulu, and more (August 15-16) - Tom's Guide",
-        "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs - Business Insider"
+        "From 'The Last House' to 'Obsession,' 10 movies to stream right now - usatoday.com"
       ],
       "watch_list": [
         "5 best new movies to stream this weekend on Netflix, Disney+, Hulu, and more (August 15-16) - Tom's Guide",
-        "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs - Business Insider"
+        "From 'The Last House' to 'Obsession,' 10 movies to stream right now - usatoday.com"
       ],
       "homepage_cards": [
         {
-          "id": "streaming-0-1268325273053873759",
-          "key": "streaming-0-1268325273053873759",
+          "id": "streaming-0-5130337262693274963",
+          "key": "streaming-0-5130337262693274963",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "5 best new movies to stream this weekend on Netflix, Disney+, Hulu, and more (August 15-16) - Tom's Guide",
@@ -2629,25 +2629,25 @@
           ]
         },
         {
-          "id": "streaming-1-938370721467738891",
-          "key": "streaming-1-938370721467738891",
+          "id": "streaming-1-27315853633660736",
+          "key": "streaming-1-27315853633660736",
           "category": "Streaming",
           "label": "Streaming",
-          "headline": "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs - Business Insider",
-          "title": "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs - Business Insider",
-          "snapshot": "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs Business Insider",
-          "summary": "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs Business Insider",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB5Ni1BYmtzb1N4NmdCZDlyd2NTblpWQ18tV3puOHlMRm51MktNTjVMaEhGcVZWc0RBVzNFNTg4VkhFN2taSWRqdE9kMHpZVXRpY2UxanNLNTlVQUFIY2FQT19abU5mV281S2dfU0xVZ2ZtQjJVRGVfbU1meTE?oc=5",
+          "headline": "From 'The Last House' to 'Obsession,' 10 movies to stream right now - usatoday.com",
+          "title": "From 'The Last House' to 'Obsession,' 10 movies to stream right now - usatoday.com",
+          "snapshot": "From 'The Last House' to 'Obsession,' 10 movies to stream right now usatoday.com",
+          "summary": "From 'The Last House' to 'Obsession,' 10 movies to stream right now usatoday.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWG1GWElJZW9IblJYb0tLbUo1NnBxMUh1cFR1dFJocF95cmZYMWRtcGtsaUhJRFd0WEE0UldVVUFvLVN3R2RRdmlraDlmaG9OYl9UeUliYkZLV1dHYTBZbDVLdkM5Nml2TUgxc19HcGVFYXoyV1gxSDlRaDVzYW0yRUN1TjRGeG5tN1hKLWhMZjdndU03Qm5FYUd1LXFlVFRCblFCemxSc2ViNUhhbEdQWWo3d1BTeUVpT0o1NmxQYVB4QjZHU3ZkWEpiUjFhUQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=streaming+netflix+hulu+disney+entertainment&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-12 01:49:00 PM ET",
+          "published_at": "2026-08-07 03:00:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs - Business Insider"
+            "From 'The Last House' to 'Obsession,' 10 movies to stream right now - usatoday.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2659,8 +2659,8 @@
       ],
       "items": [
         {
-          "id": "streaming-0-1268325273053873759",
-          "key": "streaming-0-1268325273053873759",
+          "id": "streaming-0-5130337262693274963",
+          "key": "streaming-0-5130337262693274963",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "5 best new movies to stream this weekend on Netflix, Disney+, Hulu, and more (August 15-16) - Tom's Guide",
@@ -2687,25 +2687,25 @@
           ]
         },
         {
-          "id": "streaming-1-938370721467738891",
-          "key": "streaming-1-938370721467738891",
+          "id": "streaming-1-27315853633660736",
+          "key": "streaming-1-27315853633660736",
           "category": "Streaming",
           "label": "Streaming",
-          "headline": "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs - Business Insider",
-          "title": "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs - Business Insider",
-          "snapshot": "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs Business Insider",
-          "summary": "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs Business Insider",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB5Ni1BYmtzb1N4NmdCZDlyd2NTblpWQ18tV3puOHlMRm51MktNTjVMaEhGcVZWc0RBVzNFNTg4VkhFN2taSWRqdE9kMHpZVXRpY2UxanNLNTlVQUFIY2FQT19abU5mV281S2dfU0xVZ2ZtQjJVRGVfbU1meTE?oc=5",
+          "headline": "From 'The Last House' to 'Obsession,' 10 movies to stream right now - usatoday.com",
+          "title": "From 'The Last House' to 'Obsession,' 10 movies to stream right now - usatoday.com",
+          "snapshot": "From 'The Last House' to 'Obsession,' 10 movies to stream right now usatoday.com",
+          "summary": "From 'The Last House' to 'Obsession,' 10 movies to stream right now usatoday.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWG1GWElJZW9IblJYb0tLbUo1NnBxMUh1cFR1dFJocF95cmZYMWRtcGtsaUhJRFd0WEE0UldVVUFvLVN3R2RRdmlraDlmaG9OYl9UeUliYkZLV1dHYTBZbDVLdkM5Nml2TUgxc19HcGVFYXoyV1gxSDlRaDVzYW0yRUN1TjRGeG5tN1hKLWhMZjdndU03Qm5FYUd1LXFlVFRCblFCemxSc2ViNUhhbEdQWWo3d1BTeUVpT0o1NmxQYVB4QjZHU3ZkWEpiUjFhUQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=streaming+netflix+hulu+disney+entertainment&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-12 01:49:00 PM ET",
+          "published_at": "2026-08-07 03:00:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs - Business Insider"
+            "From 'The Last House' to 'Obsession,' 10 movies to stream right now - usatoday.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2715,7 +2715,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-17 12:42:16 AM ET"
+      "updated_at": "2026-08-17 01:35:34 AM ET"
     },
     {
       "key": "music",
@@ -2727,21 +2727,21 @@
         "Noah Kahan Turns His ‘Miserable’ Material Into Manic Elation at Triumphant Rose Bowl Stadium Show: Concert Review",
         "Portugal. The Man Announces 2026 Australian East Coast Tour Dates",
         "The Deals: Influence Media Invests in MENA-Focused Catalog Buyer; Live Nation Makes Moves in Prague - Billboard",
-        "Ariana Grande Brings Out ‘Wicked’ Co-Star Cynthia Erivo for ‘Happy Days’ and ‘For Good’ at Eternal Sunshine London Show",
+        "Ariana Grande Brings Out ‘Wicked’ Co-Star Cynthia Erivo for ‘For Good’ and ‘Get Happy/Happy Days Are Here Again’ at London Concert",
         "Hayden Panettiere, ‘Nashville’ and ‘Heroes’ Star, Dies at 36"
       ],
       "watch_list": [
         "Noah Kahan Turns His ‘Miserable’ Material Into Manic Elation at Triumphant Rose Bowl Stadium Show: Concert Review",
         "Portugal. The Man Announces 2026 Australian East Coast Tour Dates",
         "The Deals: Influence Media Invests in MENA-Focused Catalog Buyer; Live Nation Makes Moves in Prague - Billboard",
-        "Ariana Grande Brings Out ‘Wicked’ Co-Star Cynthia Erivo for ‘Happy Days’ and ‘For Good’ at Eternal Sunshine London Show",
+        "Ariana Grande Brings Out ‘Wicked’ Co-Star Cynthia Erivo for ‘For Good’ and ‘Get Happy/Happy Days Are Here Again’ at London Concert",
         "Hayden Panettiere, ‘Nashville’ and ‘Heroes’ Star, Dies at 36",
         "Billboard - Music Business Worldwide"
       ],
       "homepage_cards": [
         {
-          "id": "music-0-9140732893153484559",
-          "key": "music-0-9140732893153484559",
+          "id": "music-0-2100155378642247451",
+          "key": "music-0-2100155378642247451",
           "category": "Music",
           "label": "Music",
           "headline": "Noah Kahan Turns His ‘Miserable’ Material Into Manic Elation at Triumphant Rose Bowl Stadium Show: Concert Review",
@@ -2768,8 +2768,8 @@
           ]
         },
         {
-          "id": "music-9-7594823398099230029",
-          "key": "music-9-7594823398099230029",
+          "id": "music-9-7802325675216957440",
+          "key": "music-9-7802325675216957440",
           "category": "Music",
           "label": "Music",
           "headline": "Portugal. The Man Announces 2026 Australian East Coast Tour Dates",
@@ -2796,8 +2796,8 @@
           ]
         },
         {
-          "id": "music-19-8693106745490074134",
-          "key": "music-19-8693106745490074134",
+          "id": "music-19-1655687314445084515",
+          "key": "music-19-1655687314445084515",
           "category": "Music",
           "label": "Music",
           "headline": "The Deals: Influence Media Invests in MENA-Focused Catalog Buyer; Live Nation Makes Moves in Prague - Billboard",
@@ -2824,14 +2824,14 @@
           ]
         },
         {
-          "id": "music-1-3091876668112297278",
-          "key": "music-1-3091876668112297278",
+          "id": "music-1-5350278433655739746",
+          "key": "music-1-5350278433655739746",
           "category": "Music",
           "label": "Music",
-          "headline": "Ariana Grande Brings Out ‘Wicked’ Co-Star Cynthia Erivo for ‘Happy Days’ and ‘For Good’ at Eternal Sunshine London Show",
-          "title": "Ariana Grande Brings Out ‘Wicked’ Co-Star Cynthia Erivo for ‘Happy Days’ and ‘For Good’ at Eternal Sunshine London Show",
-          "snapshot": "Ariana Grande brought out Cynthia Erivo to perform at her Aug. 16 Eternal Sunshine stop at London’s O2. The “Wicked” stars sang “For Good” and “Happy Days” on the second night in the U.K. for Grande’s tour. Grande is currently on her Eternal Sunshine Tour, which shares a title with her seventh studio album. The […]",
-          "summary": "Ariana Grande brought out Cynthia Erivo to perform at her Aug. 16 Eternal Sunshine stop at London’s O2. The “Wicked” stars sang “For Good” and “Happy Days” on the second night in the U.K. for Grande’s tour. Grande is currently on her Eternal Sunshine Tour, which shares a title with her seventh studio album. The […]",
+          "headline": "Ariana Grande Brings Out ‘Wicked’ Co-Star Cynthia Erivo for ‘For Good’ and ‘Get Happy/Happy Days Are Here Again’ at London Concert",
+          "title": "Ariana Grande Brings Out ‘Wicked’ Co-Star Cynthia Erivo for ‘For Good’ and ‘Get Happy/Happy Days Are Here Again’ at London Concert",
+          "snapshot": "Ariana Grande brought out Cynthia Erivo to perform at her Aug. 16 Eternal Sunshine tour stop at London’s O2. The “Wicked” stars sang “For Good” and “Get Happy/Happy Days Are Here Again” on the second night in the U.K. for Grande’s tour. The medley of the two “Happy” Great American Songbook standards was first done […]",
+          "summary": "Ariana Grande brought out Cynthia Erivo to perform at her Aug. 16 Eternal Sunshine tour stop at London’s O2. The “Wicked” stars sang “For Good” and “Get Happy/Happy Days Are Here Again” on the second night in the U.K. for Grande’s tour. The medley of the two “Happy” Great American Songbook standards was first done […]",
           "url": "https://variety.com/2026/music/news/ariana-grande-cynthia-erivo-eternal-sunshine-london-wicked-1236835738/",
           "source": "Variety",
           "source_name": "Variety",
@@ -2842,7 +2842,7 @@
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Ariana Grande Brings Out ‘Wicked’ Co-Star Cynthia Erivo for ‘Happy Days’ and ‘For Good’ at Eternal Sunshine London Show"
+            "Ariana Grande Brings Out ‘Wicked’ Co-Star Cynthia Erivo for ‘For Good’ and ‘Get Happy/Happy Days Are Here Again’ at London Concert"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2852,8 +2852,8 @@
           ]
         },
         {
-          "id": "music-10-8835992882287600515",
-          "key": "music-10-8835992882287600515",
+          "id": "music-10-7149226016706245684",
+          "key": "music-10-7149226016706245684",
           "category": "Music",
           "label": "Music",
           "headline": "Hayden Panettiere, ‘Nashville’ and ‘Heroes’ Star, Dies at 36",
@@ -2880,8 +2880,8 @@
           ]
         },
         {
-          "id": "music-20-4421335111854964376",
-          "key": "music-20-4421335111854964376",
+          "id": "music-20-8714889545267069401",
+          "key": "music-20-8714889545267069401",
           "category": "Music",
           "label": "Music",
           "headline": "Billboard - Music Business Worldwide",
@@ -2910,8 +2910,8 @@
       ],
       "items": [
         {
-          "id": "music-0-9140732893153484559",
-          "key": "music-0-9140732893153484559",
+          "id": "music-0-2100155378642247451",
+          "key": "music-0-2100155378642247451",
           "category": "Music",
           "label": "Music",
           "headline": "Noah Kahan Turns His ‘Miserable’ Material Into Manic Elation at Triumphant Rose Bowl Stadium Show: Concert Review",
@@ -2938,8 +2938,8 @@
           ]
         },
         {
-          "id": "music-9-7594823398099230029",
-          "key": "music-9-7594823398099230029",
+          "id": "music-9-7802325675216957440",
+          "key": "music-9-7802325675216957440",
           "category": "Music",
           "label": "Music",
           "headline": "Portugal. The Man Announces 2026 Australian East Coast Tour Dates",
@@ -2966,8 +2966,8 @@
           ]
         },
         {
-          "id": "music-19-8693106745490074134",
-          "key": "music-19-8693106745490074134",
+          "id": "music-19-1655687314445084515",
+          "key": "music-19-1655687314445084515",
           "category": "Music",
           "label": "Music",
           "headline": "The Deals: Influence Media Invests in MENA-Focused Catalog Buyer; Live Nation Makes Moves in Prague - Billboard",
@@ -2994,14 +2994,14 @@
           ]
         },
         {
-          "id": "music-1-3091876668112297278",
-          "key": "music-1-3091876668112297278",
+          "id": "music-1-5350278433655739746",
+          "key": "music-1-5350278433655739746",
           "category": "Music",
           "label": "Music",
-          "headline": "Ariana Grande Brings Out ‘Wicked’ Co-Star Cynthia Erivo for ‘Happy Days’ and ‘For Good’ at Eternal Sunshine London Show",
-          "title": "Ariana Grande Brings Out ‘Wicked’ Co-Star Cynthia Erivo for ‘Happy Days’ and ‘For Good’ at Eternal Sunshine London Show",
-          "snapshot": "Ariana Grande brought out Cynthia Erivo to perform at her Aug. 16 Eternal Sunshine stop at London’s O2. The “Wicked” stars sang “For Good” and “Happy Days” on the second night in the U.K. for Grande’s tour. Grande is currently on her Eternal Sunshine Tour, which shares a title with her seventh studio album. The […]",
-          "summary": "Ariana Grande brought out Cynthia Erivo to perform at her Aug. 16 Eternal Sunshine stop at London’s O2. The “Wicked” stars sang “For Good” and “Happy Days” on the second night in the U.K. for Grande’s tour. Grande is currently on her Eternal Sunshine Tour, which shares a title with her seventh studio album. The […]",
+          "headline": "Ariana Grande Brings Out ‘Wicked’ Co-Star Cynthia Erivo for ‘For Good’ and ‘Get Happy/Happy Days Are Here Again’ at London Concert",
+          "title": "Ariana Grande Brings Out ‘Wicked’ Co-Star Cynthia Erivo for ‘For Good’ and ‘Get Happy/Happy Days Are Here Again’ at London Concert",
+          "snapshot": "Ariana Grande brought out Cynthia Erivo to perform at her Aug. 16 Eternal Sunshine tour stop at London’s O2. The “Wicked” stars sang “For Good” and “Get Happy/Happy Days Are Here Again” on the second night in the U.K. for Grande’s tour. The medley of the two “Happy” Great American Songbook standards was first done […]",
+          "summary": "Ariana Grande brought out Cynthia Erivo to perform at her Aug. 16 Eternal Sunshine tour stop at London’s O2. The “Wicked” stars sang “For Good” and “Get Happy/Happy Days Are Here Again” on the second night in the U.K. for Grande’s tour. The medley of the two “Happy” Great American Songbook standards was first done […]",
           "url": "https://variety.com/2026/music/news/ariana-grande-cynthia-erivo-eternal-sunshine-london-wicked-1236835738/",
           "source": "Variety",
           "source_name": "Variety",
@@ -3012,7 +3012,7 @@
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Ariana Grande Brings Out ‘Wicked’ Co-Star Cynthia Erivo for ‘Happy Days’ and ‘For Good’ at Eternal Sunshine London Show"
+            "Ariana Grande Brings Out ‘Wicked’ Co-Star Cynthia Erivo for ‘For Good’ and ‘Get Happy/Happy Days Are Here Again’ at London Concert"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3022,8 +3022,8 @@
           ]
         },
         {
-          "id": "music-10-8835992882287600515",
-          "key": "music-10-8835992882287600515",
+          "id": "music-10-7149226016706245684",
+          "key": "music-10-7149226016706245684",
           "category": "Music",
           "label": "Music",
           "headline": "Hayden Panettiere, ‘Nashville’ and ‘Heroes’ Star, Dies at 36",
@@ -3050,8 +3050,8 @@
           ]
         },
         {
-          "id": "music-20-4421335111854964376",
-          "key": "music-20-4421335111854964376",
+          "id": "music-20-8714889545267069401",
+          "key": "music-20-8714889545267069401",
           "category": "Music",
           "label": "Music",
           "headline": "Billboard - Music Business Worldwide",
@@ -3078,7 +3078,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-17 12:42:16 AM ET"
+      "updated_at": "2026-08-17 01:35:34 AM ET"
     },
     {
       "key": "awards",
@@ -3100,8 +3100,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "awards-0-6927722760438657797",
-          "key": "awards-0-6927722760438657797",
+          "id": "awards-0-3286650354845942230",
+          "key": "awards-0-3286650354845942230",
           "category": "Awards",
           "label": "Awards",
           "headline": "Darren Walker Opens His Home to Friends and Anonymous Content Emmy Nominees in Celebration of ‘Joy, Reflection, Delight and Awe’",
@@ -3128,8 +3128,8 @@
           ]
         },
         {
-          "id": "awards-9-7391058542934194818",
-          "key": "awards-9-7391058542934194818",
+          "id": "awards-9-3920264964751660543",
+          "key": "awards-9-3920264964751660543",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar - Deadline",
@@ -3156,8 +3156,8 @@
           ]
         },
         {
-          "id": "awards-1-1820887157283013186",
-          "key": "awards-1-1820887157283013186",
+          "id": "awards-1-1799346087604970604",
+          "key": "awards-1-1799346087604970604",
           "category": "Awards",
           "label": "Awards",
           "headline": "‘Hacks’ Star Lauren Weedman on Appearing in Four Emmy-Nominated Comedies This Year and How Bell’s Palsy Changed Her Career",
@@ -3184,8 +3184,8 @@
           ]
         },
         {
-          "id": "awards-10-7778968998176256701",
-          "key": "awards-10-7778968998176256701",
+          "id": "awards-10-68285721347682248",
+          "key": "awards-10-68285721347682248",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo",
@@ -3214,8 +3214,8 @@
       ],
       "items": [
         {
-          "id": "awards-0-6927722760438657797",
-          "key": "awards-0-6927722760438657797",
+          "id": "awards-0-3286650354845942230",
+          "key": "awards-0-3286650354845942230",
           "category": "Awards",
           "label": "Awards",
           "headline": "Darren Walker Opens His Home to Friends and Anonymous Content Emmy Nominees in Celebration of ‘Joy, Reflection, Delight and Awe’",
@@ -3242,8 +3242,8 @@
           ]
         },
         {
-          "id": "awards-9-7391058542934194818",
-          "key": "awards-9-7391058542934194818",
+          "id": "awards-9-3920264964751660543",
+          "key": "awards-9-3920264964751660543",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar - Deadline",
@@ -3270,8 +3270,8 @@
           ]
         },
         {
-          "id": "awards-1-1820887157283013186",
-          "key": "awards-1-1820887157283013186",
+          "id": "awards-1-1799346087604970604",
+          "key": "awards-1-1799346087604970604",
           "category": "Awards",
           "label": "Awards",
           "headline": "‘Hacks’ Star Lauren Weedman on Appearing in Four Emmy-Nominated Comedies This Year and How Bell’s Palsy Changed Her Career",
@@ -3298,8 +3298,8 @@
           ]
         },
         {
-          "id": "awards-10-7778968998176256701",
-          "key": "awards-10-7778968998176256701",
+          "id": "awards-10-68285721347682248",
+          "key": "awards-10-68285721347682248",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo",
@@ -3326,7 +3326,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-17 12:42:17 AM ET"
+      "updated_at": "2026-08-17 01:35:35 AM ET"
     },
     {
       "key": "box_office",
@@ -3336,20 +3336,20 @@
       "snapshot": "Box Office coverage is updating with 4 current RSS headline item(s).",
       "key_storylines": [
         "Box Office: ‘The End of Oak Street’ Chomps on $8.1 Million, But ‘Spider-Man: Brand New Day’ Is Still No. 1 With $19 Million",
-        "‘Spider-Man: Brand New Day’ Hits $2B Globally to Top ‘No Way Home’ as Sony’s Biggest Release - hollywoodreporter.com",
+        "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - The Hollywood Reporter",
         "Box Office: ‘End of Oak Street’ Makes $2.5 Million in Previews",
-        "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - hollywoodreporter.com"
+        "China Box Office: ‘Spider-Man’ Holds No. 1 as ‘The Odyssey’ Storms Previews - The Hollywood Reporter"
       ],
       "watch_list": [
         "Box Office: ‘The End of Oak Street’ Chomps on $8.1 Million, But ‘Spider-Man: Brand New Day’ Is Still No. 1 With $19 Million",
-        "‘Spider-Man: Brand New Day’ Hits $2B Globally to Top ‘No Way Home’ as Sony’s Biggest Release - hollywoodreporter.com",
+        "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - The Hollywood Reporter",
         "Box Office: ‘End of Oak Street’ Makes $2.5 Million in Previews",
-        "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - hollywoodreporter.com"
+        "China Box Office: ‘Spider-Man’ Holds No. 1 as ‘The Odyssey’ Storms Previews - The Hollywood Reporter"
       ],
       "homepage_cards": [
         {
-          "id": "box_office-0-5759562108578895139",
-          "key": "box_office-0-5759562108578895139",
+          "id": "box_office-0-8350705754118468314",
+          "key": "box_office-0-8350705754118468314",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘The End of Oak Street’ Chomps on $8.1 Million, But ‘Spider-Man: Brand New Day’ Is Still No. 1 With $19 Million",
@@ -3376,25 +3376,25 @@
           ]
         },
         {
-          "id": "box_office-8-7227289305001773584",
-          "key": "box_office-8-7227289305001773584",
+          "id": "box_office-8-7989073912431986998",
+          "key": "box_office-8-7989073912431986998",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "‘Spider-Man: Brand New Day’ Hits $2B Globally to Top ‘No Way Home’ as Sony’s Biggest Release - hollywoodreporter.com",
-          "title": "‘Spider-Man: Brand New Day’ Hits $2B Globally to Top ‘No Way Home’ as Sony’s Biggest Release - hollywoodreporter.com",
-          "snapshot": "‘Spider-Man: Brand New Day’ Hits $2B Globally to Top ‘No Way Home’ as Sony’s Biggest Release hollywoodreporter.com",
-          "summary": "‘Spider-Man: Brand New Day’ Hits $2B Globally to Top ‘No Way Home’ as Sony’s Biggest Release hollywoodreporter.com",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa3B4T0hMQU5sUlkxMTJ5T3VmY0YzTUhLeGh4TjNzai01OVQteFFLbGJhV2ljNS1kSy1VZVZIWkIzbTZ3U3pfQXNVTTcySjFJTlo5c3h5VGs1UHZyZkxwWVRKMlJaNU9VbzE0aXlSXzFoeXBPWXV6MFJGcXBWZVhGRFplMzZzVjcxcDNNTG1OalhHNUNhVlBfaFd5bGdKcWFENEN5UXpsaHkwWDlCdlFoOXgxWV9OQ3c3V0Jpc1Fn?oc=5",
+          "headline": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - The Hollywood Reporter",
+          "title": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - The Hollywood Reporter",
+          "snapshot": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews The Hollywood Reporter",
+          "summary": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeE45c1BVck5RNVlqWmtsYlFZNVBYSGRWMlY4WHhLQ0JaQXR3MUMwd21NUzFGZlJ6SDRuOXQ0bVJkVGlSZWVjd1U2Y2xMZjFwTDlxem1BR282TEJVZV9rZHZDckQtTy00ODFIWEY0TTZ3UDByWk45STc1RmtYakxTT25MYmR4Z0NhMTFFcTdTY2VMYnlybjVPd2M5QWlNMlV2ZmFBTVY1a1lOaVFwQkxNVm1UODc1eUs3SDl0Ui1xVFM?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-15 12:03:11 PM ET",
+          "published_at": "2026-08-14 11:52:12 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 92,
           "key_data": [
-            "‘Spider-Man: Brand New Day’ Hits $2B Globally to Top ‘No Way Home’ as Sony’s Biggest Release - hollywoodreporter.com"
+            "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - The Hollywood Reporter"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3404,8 +3404,8 @@
           ]
         },
         {
-          "id": "box_office-1-8390904349771732938",
-          "key": "box_office-1-8390904349771732938",
+          "id": "box_office-1-4133589753451570972",
+          "key": "box_office-1-4133589753451570972",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘End of Oak Street’ Makes $2.5 Million in Previews",
@@ -3432,25 +3432,25 @@
           ]
         },
         {
-          "id": "box_office-9-7379275384939308601",
-          "key": "box_office-9-7379275384939308601",
+          "id": "box_office-9-7474531708617285267",
+          "key": "box_office-9-7474531708617285267",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - hollywoodreporter.com",
-          "title": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - hollywoodreporter.com",
-          "snapshot": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews hollywoodreporter.com",
-          "summary": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews hollywoodreporter.com",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeE45c1BVck5RNVlqWmtsYlFZNVBYSGRWMlY4WHhLQ0JaQXR3MUMwd21NUzFGZlJ6SDRuOXQ0bVJkVGlSZWVjd1U2Y2xMZjFwTDlxem1BR282TEJVZV9rZHZDckQtTy00ODFIWEY0TTZ3UDByWk45STc1RmtYakxTT25MYmR4Z0NhMTFFcTdTY2VMYnlybjVPd2M5QWlNMlV2ZmFBTVY1a1lOaVFwQkxNVm1UODc1eUs3SDl0Ui1xVFM?oc=5",
+          "headline": "China Box Office: ‘Spider-Man’ Holds No. 1 as ‘The Odyssey’ Storms Previews - The Hollywood Reporter",
+          "title": "China Box Office: ‘Spider-Man’ Holds No. 1 as ‘The Odyssey’ Storms Previews - The Hollywood Reporter",
+          "snapshot": "China Box Office: ‘Spider-Man’ Holds No. 1 as ‘The Odyssey’ Storms Previews The Hollywood Reporter",
+          "summary": "China Box Office: ‘Spider-Man’ Holds No. 1 as ‘The Odyssey’ Storms Previews The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOckpZdm5zSlRBRkc4bEhlQUM5UEVYTlBtMEhTZnlQbEtRdVVkUWZ1Z2VfUjJEVDJ0NUxxZXJSaE5ST3g5S0JuVnl1UmJyQmlrZmp2TmtXSFVpaHkwdE1LeXhLaTY1blV2QjBkYklCelVVSkU5VGVMVTBCdW85SEEwNzBPbHZEUkNRanpOTlF0QnlxY19MbXlrdGd3cXAtcUZiUEhEaXZXQ3o4bzc1TURaQ1BXOGE4YVhpSFZFVm1R?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-14 11:52:12 AM ET",
+          "published_at": "2026-08-10 02:24:32 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 91,
           "key_data": [
-            "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - hollywoodreporter.com"
+            "China Box Office: ‘Spider-Man’ Holds No. 1 as ‘The Odyssey’ Storms Previews - The Hollywood Reporter"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3462,8 +3462,8 @@
       ],
       "items": [
         {
-          "id": "box_office-0-5759562108578895139",
-          "key": "box_office-0-5759562108578895139",
+          "id": "box_office-0-8350705754118468314",
+          "key": "box_office-0-8350705754118468314",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘The End of Oak Street’ Chomps on $8.1 Million, But ‘Spider-Man: Brand New Day’ Is Still No. 1 With $19 Million",
@@ -3490,25 +3490,25 @@
           ]
         },
         {
-          "id": "box_office-8-7227289305001773584",
-          "key": "box_office-8-7227289305001773584",
+          "id": "box_office-8-7989073912431986998",
+          "key": "box_office-8-7989073912431986998",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "‘Spider-Man: Brand New Day’ Hits $2B Globally to Top ‘No Way Home’ as Sony’s Biggest Release - hollywoodreporter.com",
-          "title": "‘Spider-Man: Brand New Day’ Hits $2B Globally to Top ‘No Way Home’ as Sony’s Biggest Release - hollywoodreporter.com",
-          "snapshot": "‘Spider-Man: Brand New Day’ Hits $2B Globally to Top ‘No Way Home’ as Sony’s Biggest Release hollywoodreporter.com",
-          "summary": "‘Spider-Man: Brand New Day’ Hits $2B Globally to Top ‘No Way Home’ as Sony’s Biggest Release hollywoodreporter.com",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa3B4T0hMQU5sUlkxMTJ5T3VmY0YzTUhLeGh4TjNzai01OVQteFFLbGJhV2ljNS1kSy1VZVZIWkIzbTZ3U3pfQXNVTTcySjFJTlo5c3h5VGs1UHZyZkxwWVRKMlJaNU9VbzE0aXlSXzFoeXBPWXV6MFJGcXBWZVhGRFplMzZzVjcxcDNNTG1OalhHNUNhVlBfaFd5bGdKcWFENEN5UXpsaHkwWDlCdlFoOXgxWV9OQ3c3V0Jpc1Fn?oc=5",
+          "headline": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - The Hollywood Reporter",
+          "title": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - The Hollywood Reporter",
+          "snapshot": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews The Hollywood Reporter",
+          "summary": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeE45c1BVck5RNVlqWmtsYlFZNVBYSGRWMlY4WHhLQ0JaQXR3MUMwd21NUzFGZlJ6SDRuOXQ0bVJkVGlSZWVjd1U2Y2xMZjFwTDlxem1BR282TEJVZV9rZHZDckQtTy00ODFIWEY0TTZ3UDByWk45STc1RmtYakxTT25MYmR4Z0NhMTFFcTdTY2VMYnlybjVPd2M5QWlNMlV2ZmFBTVY1a1lOaVFwQkxNVm1UODc1eUs3SDl0Ui1xVFM?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-15 12:03:11 PM ET",
+          "published_at": "2026-08-14 11:52:12 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 92,
           "key_data": [
-            "‘Spider-Man: Brand New Day’ Hits $2B Globally to Top ‘No Way Home’ as Sony’s Biggest Release - hollywoodreporter.com"
+            "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - The Hollywood Reporter"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3518,8 +3518,8 @@
           ]
         },
         {
-          "id": "box_office-1-8390904349771732938",
-          "key": "box_office-1-8390904349771732938",
+          "id": "box_office-1-4133589753451570972",
+          "key": "box_office-1-4133589753451570972",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘End of Oak Street’ Makes $2.5 Million in Previews",
@@ -3546,25 +3546,25 @@
           ]
         },
         {
-          "id": "box_office-9-7379275384939308601",
-          "key": "box_office-9-7379275384939308601",
+          "id": "box_office-9-7474531708617285267",
+          "key": "box_office-9-7474531708617285267",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - hollywoodreporter.com",
-          "title": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - hollywoodreporter.com",
-          "snapshot": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews hollywoodreporter.com",
-          "summary": "‘End of Oak Street’ Chomps $2.5M in Box Office Previews hollywoodreporter.com",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeE45c1BVck5RNVlqWmtsYlFZNVBYSGRWMlY4WHhLQ0JaQXR3MUMwd21NUzFGZlJ6SDRuOXQ0bVJkVGlSZWVjd1U2Y2xMZjFwTDlxem1BR282TEJVZV9rZHZDckQtTy00ODFIWEY0TTZ3UDByWk45STc1RmtYakxTT25MYmR4Z0NhMTFFcTdTY2VMYnlybjVPd2M5QWlNMlV2ZmFBTVY1a1lOaVFwQkxNVm1UODc1eUs3SDl0Ui1xVFM?oc=5",
+          "headline": "China Box Office: ‘Spider-Man’ Holds No. 1 as ‘The Odyssey’ Storms Previews - The Hollywood Reporter",
+          "title": "China Box Office: ‘Spider-Man’ Holds No. 1 as ‘The Odyssey’ Storms Previews - The Hollywood Reporter",
+          "snapshot": "China Box Office: ‘Spider-Man’ Holds No. 1 as ‘The Odyssey’ Storms Previews The Hollywood Reporter",
+          "summary": "China Box Office: ‘Spider-Man’ Holds No. 1 as ‘The Odyssey’ Storms Previews The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOckpZdm5zSlRBRkc4bEhlQUM5UEVYTlBtMEhTZnlQbEtRdVVkUWZ1Z2VfUjJEVDJ0NUxxZXJSaE5ST3g5S0JuVnl1UmJyQmlrZmp2TmtXSFVpaHkwdE1LeXhLaTY1blV2QjBkYklCelVVSkU5VGVMVTBCdW85SEEwNzBPbHZEUkNRanpOTlF0QnlxY19MbXlrdGd3cXAtcUZiUEhEaXZXQ3o4bzc1TURaQ1BXOGE4YVhpSFZFVm1R?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-14 11:52:12 AM ET",
+          "published_at": "2026-08-10 02:24:32 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 91,
           "key_data": [
-            "‘End of Oak Street’ Chomps $2.5M in Box Office Previews - hollywoodreporter.com"
+            "China Box Office: ‘Spider-Man’ Holds No. 1 as ‘The Odyssey’ Storms Previews - The Hollywood Reporter"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3574,7 +3574,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-17 12:42:17 AM ET"
+      "updated_at": "2026-08-17 01:35:35 AM ET"
     },
     {
       "key": "celebrity",
@@ -3592,8 +3592,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "celebrity-0-2043461124924783085",
-          "key": "celebrity-0-2043461124924783085",
+          "id": "celebrity-0-5764969125703314558",
+          "key": "celebrity-0-5764969125703314558",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity Deaths of 2026: New York Yankees Icon Tommy John and More Stars We’ve Lost This Year - Us Weekly",
@@ -3604,7 +3604,7 @@
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-16 11:37:42 PM ET",
+          "published_at": "2026-08-16 10:07:42 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
@@ -3620,8 +3620,8 @@
           ]
         },
         {
-          "id": "celebrity-1-142627812784626812",
-          "key": "celebrity-1-142627812784626812",
+          "id": "celebrity-1-2347411239487658623",
+          "key": "celebrity-1-2347411239487658623",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3650,8 +3650,8 @@
       ],
       "items": [
         {
-          "id": "celebrity-0-2043461124924783085",
-          "key": "celebrity-0-2043461124924783085",
+          "id": "celebrity-0-5764969125703314558",
+          "key": "celebrity-0-5764969125703314558",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity Deaths of 2026: New York Yankees Icon Tommy John and More Stars We’ve Lost This Year - Us Weekly",
@@ -3662,7 +3662,7 @@
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-16 11:37:42 PM ET",
+          "published_at": "2026-08-16 10:07:42 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
@@ -3678,8 +3678,8 @@
           ]
         },
         {
-          "id": "celebrity-1-142627812784626812",
-          "key": "celebrity-1-142627812784626812",
+          "id": "celebrity-1-2347411239487658623",
+          "key": "celebrity-1-2347411239487658623",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3706,7 +3706,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-17 12:42:18 AM ET"
+      "updated_at": "2026-08-17 01:35:36 AM ET"
     },
     {
       "key": "hollywood",
@@ -3717,22 +3717,22 @@
       "key_storylines": [
         "Harrison Ford, Robert Downey Jr. & Ellen Pompeo Pay Tribute To Bob Iger As He Becomes A Disney Legend",
         "Bob Iger Takes Victory Lap As He’s Named a Disney Legend, Applauds New CEO Josh D’Amaro: “You’re Wearing That Title Really Well”",
-        "The Massive Moviemaking Exodus from Hollywood - Politico",
+        "The Massive Moviemaking Exodus from Hollywood - politico.com",
         "Call Her Moving: Alex Cooper In Talks With CAA After UTA Exit Under Cloud",
         "Alex Cooper Departing Talent Agency UTA"
       ],
       "watch_list": [
         "Harrison Ford, Robert Downey Jr. & Ellen Pompeo Pay Tribute To Bob Iger As He Becomes A Disney Legend",
         "Bob Iger Takes Victory Lap As He’s Named a Disney Legend, Applauds New CEO Josh D’Amaro: “You’re Wearing That Title Really Well”",
-        "The Massive Moviemaking Exodus from Hollywood - Politico",
+        "The Massive Moviemaking Exodus from Hollywood - politico.com",
         "Call Her Moving: Alex Cooper In Talks With CAA After UTA Exit Under Cloud",
         "Alex Cooper Departing Talent Agency UTA",
         "Contributor: The greatest risk to Hollywood isn't the film industry's historic merger — it's the delay - Yahoo Finance"
       ],
       "homepage_cards": [
         {
-          "id": "hollywood-0-2966630021854002109",
-          "key": "hollywood-0-2966630021854002109",
+          "id": "hollywood-0-8021569939384501165",
+          "key": "hollywood-0-8021569939384501165",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Harrison Ford, Robert Downey Jr. & Ellen Pompeo Pay Tribute To Bob Iger As He Becomes A Disney Legend",
@@ -3759,8 +3759,8 @@
           ]
         },
         {
-          "id": "hollywood-3-4208063107821430483",
-          "key": "hollywood-3-4208063107821430483",
+          "id": "hollywood-3-8121893821178066133",
+          "key": "hollywood-3-8121893821178066133",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Bob Iger Takes Victory Lap As He’s Named a Disney Legend, Applauds New CEO Josh D’Amaro: “You’re Wearing That Title Really Well”",
@@ -3787,14 +3787,14 @@
           ]
         },
         {
-          "id": "hollywood-10-2010365635370129361",
-          "key": "hollywood-10-2010365635370129361",
+          "id": "hollywood-10-2012209827751124678",
+          "key": "hollywood-10-2012209827751124678",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "The Massive Moviemaking Exodus from Hollywood - Politico",
-          "title": "The Massive Moviemaking Exodus from Hollywood - Politico",
-          "snapshot": "The Massive Moviemaking Exodus from Hollywood Politico",
-          "summary": "The Massive Moviemaking Exodus from Hollywood Politico",
+          "headline": "The Massive Moviemaking Exodus from Hollywood - politico.com",
+          "title": "The Massive Moviemaking Exodus from Hollywood - politico.com",
+          "snapshot": "The Massive Moviemaking Exodus from Hollywood politico.com",
+          "summary": "The Massive Moviemaking Exodus from Hollywood politico.com",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOVQxVUxodDg5a0hQbEFPNUExZ1h6cldqdWJ6VXByeGx3MmRYYnN2Vmhsa0cxT0VPcTJhUU9OZFRNdFFqdEs0bEdBU2VjcFlBa1lROWd5TzhkemdWeG5PUkhkcW80YTV2em5jN1B2V3U3NGR0dnlsZS1JQllfQkdrRTU4RVgxbGNpbk44bklZd2V5dTJIaFFycEhielZCRWFTWTVyRGpwYWE?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3805,7 +3805,7 @@
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "The Massive Moviemaking Exodus from Hollywood - Politico"
+            "The Massive Moviemaking Exodus from Hollywood - politico.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3815,8 +3815,8 @@
           ]
         },
         {
-          "id": "hollywood-1-2857594948560302215",
-          "key": "hollywood-1-2857594948560302215",
+          "id": "hollywood-1-8294453140844074537",
+          "key": "hollywood-1-8294453140844074537",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Call Her Moving: Alex Cooper In Talks With CAA After UTA Exit Under Cloud",
@@ -3843,8 +3843,8 @@
           ]
         },
         {
-          "id": "hollywood-4-7691196798668681015",
-          "key": "hollywood-4-7691196798668681015",
+          "id": "hollywood-4-7842575272205770677",
+          "key": "hollywood-4-7842575272205770677",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Alex Cooper Departing Talent Agency UTA",
@@ -3871,8 +3871,8 @@
           ]
         },
         {
-          "id": "hollywood-11-6218106748436410339",
-          "key": "hollywood-11-6218106748436410339",
+          "id": "hollywood-11-9072565103909400936",
+          "key": "hollywood-11-9072565103909400936",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Contributor: The greatest risk to Hollywood isn't the film industry's historic merger — it's the delay - Yahoo Finance",
@@ -3901,8 +3901,8 @@
       ],
       "items": [
         {
-          "id": "hollywood-0-2966630021854002109",
-          "key": "hollywood-0-2966630021854002109",
+          "id": "hollywood-0-8021569939384501165",
+          "key": "hollywood-0-8021569939384501165",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Harrison Ford, Robert Downey Jr. & Ellen Pompeo Pay Tribute To Bob Iger As He Becomes A Disney Legend",
@@ -3929,8 +3929,8 @@
           ]
         },
         {
-          "id": "hollywood-3-4208063107821430483",
-          "key": "hollywood-3-4208063107821430483",
+          "id": "hollywood-3-8121893821178066133",
+          "key": "hollywood-3-8121893821178066133",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Bob Iger Takes Victory Lap As He’s Named a Disney Legend, Applauds New CEO Josh D’Amaro: “You’re Wearing That Title Really Well”",
@@ -3957,14 +3957,14 @@
           ]
         },
         {
-          "id": "hollywood-10-2010365635370129361",
-          "key": "hollywood-10-2010365635370129361",
+          "id": "hollywood-10-2012209827751124678",
+          "key": "hollywood-10-2012209827751124678",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "The Massive Moviemaking Exodus from Hollywood - Politico",
-          "title": "The Massive Moviemaking Exodus from Hollywood - Politico",
-          "snapshot": "The Massive Moviemaking Exodus from Hollywood Politico",
-          "summary": "The Massive Moviemaking Exodus from Hollywood Politico",
+          "headline": "The Massive Moviemaking Exodus from Hollywood - politico.com",
+          "title": "The Massive Moviemaking Exodus from Hollywood - politico.com",
+          "snapshot": "The Massive Moviemaking Exodus from Hollywood politico.com",
+          "summary": "The Massive Moviemaking Exodus from Hollywood politico.com",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOVQxVUxodDg5a0hQbEFPNUExZ1h6cldqdWJ6VXByeGx3MmRYYnN2Vmhsa0cxT0VPcTJhUU9OZFRNdFFqdEs0bEdBU2VjcFlBa1lROWd5TzhkemdWeG5PUkhkcW80YTV2em5jN1B2V3U3NGR0dnlsZS1JQllfQkdrRTU4RVgxbGNpbk44bklZd2V5dTJIaFFycEhielZCRWFTWTVyRGpwYWE?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3975,7 +3975,7 @@
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "The Massive Moviemaking Exodus from Hollywood - Politico"
+            "The Massive Moviemaking Exodus from Hollywood - politico.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3985,8 +3985,8 @@
           ]
         },
         {
-          "id": "hollywood-1-2857594948560302215",
-          "key": "hollywood-1-2857594948560302215",
+          "id": "hollywood-1-8294453140844074537",
+          "key": "hollywood-1-8294453140844074537",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Call Her Moving: Alex Cooper In Talks With CAA After UTA Exit Under Cloud",
@@ -4013,8 +4013,8 @@
           ]
         },
         {
-          "id": "hollywood-4-7691196798668681015",
-          "key": "hollywood-4-7691196798668681015",
+          "id": "hollywood-4-7842575272205770677",
+          "key": "hollywood-4-7842575272205770677",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Alex Cooper Departing Talent Agency UTA",
@@ -4041,8 +4041,8 @@
           ]
         },
         {
-          "id": "hollywood-11-6218106748436410339",
-          "key": "hollywood-11-6218106748436410339",
+          "id": "hollywood-11-9072565103909400936",
+          "key": "hollywood-11-9072565103909400936",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Contributor: The greatest risk to Hollywood isn't the film industry's historic merger — it's the delay - Yahoo Finance",
@@ -4069,7 +4069,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-17 12:42:18 AM ET"
+      "updated_at": "2026-08-17 01:35:37 AM ET"
     },
     {
       "key": "gaming",
@@ -4087,8 +4087,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "gaming-0-817906647490011776",
-          "key": "gaming-0-817906647490011776",
+          "id": "gaming-0-4083703399671092569",
+          "key": "gaming-0-4083703399671092569",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "The Best Deals Today: Final Fantasy VII Rebirth for Switch 2, Nioh 3, Project Hail Mary, and More",
@@ -4115,8 +4115,8 @@
           ]
         },
         {
-          "id": "gaming-1-724905264718165913",
-          "key": "gaming-1-724905264718165913",
+          "id": "gaming-1-6486444893459470381",
+          "key": "gaming-1-6486444893459470381",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Simu Liu Says Sleeping Dogs Movie Has 'a REAL Path Forward' Amid Dealmaking With Square Enix",
@@ -4145,8 +4145,8 @@
       ],
       "items": [
         {
-          "id": "gaming-0-817906647490011776",
-          "key": "gaming-0-817906647490011776",
+          "id": "gaming-0-4083703399671092569",
+          "key": "gaming-0-4083703399671092569",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "The Best Deals Today: Final Fantasy VII Rebirth for Switch 2, Nioh 3, Project Hail Mary, and More",
@@ -4173,8 +4173,8 @@
           ]
         },
         {
-          "id": "gaming-1-724905264718165913",
-          "key": "gaming-1-724905264718165913",
+          "id": "gaming-1-6486444893459470381",
+          "key": "gaming-1-6486444893459470381",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Simu Liu Says Sleeping Dogs Movie Has 'a REAL Path Forward' Amid Dealmaking With Square Enix",
@@ -4201,7 +4201,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-17 12:42:19 AM ET"
+      "updated_at": "2026-08-17 01:35:37 AM ET"
     },
     {
       "key": "media",
@@ -4225,8 +4225,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "media-0-3824618481351560664",
-          "key": "media-0-3824618481351560664",
+          "id": "media-0-997472602559522022",
+          "key": "media-0-997472602559522022",
           "category": "Media",
           "label": "Media",
           "headline": "Disney Leaders Talk Streaming Strategy and Growth Drivers: Sports, Local Language, Vertical Media and Emerging Formats",
@@ -4253,8 +4253,8 @@
           ]
         },
         {
-          "id": "media-9-2206664828565619244",
-          "key": "media-9-2206664828565619244",
+          "id": "media-9-4878741521117339405",
+          "key": "media-9-4878741521117339405",
           "category": "Media",
           "label": "Media",
           "headline": "Disney’s Josh D’Amaro On The Biggest Opportunities As CEO & Why Other Media Companies “Are Trying To Look Like Disney”",
@@ -4281,8 +4281,8 @@
           ]
         },
         {
-          "id": "media-18-3654002192764611142",
-          "key": "media-18-3654002192764611142",
+          "id": "media-18-1554269458109439848",
+          "key": "media-18-1554269458109439848",
           "category": "Media",
           "label": "Media",
           "headline": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
@@ -4309,8 +4309,8 @@
           ]
         },
         {
-          "id": "media-1-4406295393112858906",
-          "key": "media-1-4406295393112858906",
+          "id": "media-1-4292171507805960142",
+          "key": "media-1-4292171507805960142",
           "category": "Media",
           "label": "Media",
           "headline": "Warner Bros. Discovery CEO David Zaslav Beneficiary of $27.1 Million in Stock Sales as Paramount Merger Is Stuck on Hold",
@@ -4337,8 +4337,8 @@
           ]
         },
         {
-          "id": "media-10-8137065383077872719",
-          "key": "media-10-8137065383077872719",
+          "id": "media-10-5593716924403041497",
+          "key": "media-10-5593716924403041497",
           "category": "Media",
           "label": "Media",
           "headline": "Disney Unveils Avengers Infinity Defense Lead By Ms. Marvel, Return Of Avengers Cast, Harrison Ford Models New Indiana Jones Attraction, Villains Land & More At D23",
@@ -4367,8 +4367,8 @@
       ],
       "items": [
         {
-          "id": "media-0-3824618481351560664",
-          "key": "media-0-3824618481351560664",
+          "id": "media-0-997472602559522022",
+          "key": "media-0-997472602559522022",
           "category": "Media",
           "label": "Media",
           "headline": "Disney Leaders Talk Streaming Strategy and Growth Drivers: Sports, Local Language, Vertical Media and Emerging Formats",
@@ -4395,8 +4395,8 @@
           ]
         },
         {
-          "id": "media-9-2206664828565619244",
-          "key": "media-9-2206664828565619244",
+          "id": "media-9-4878741521117339405",
+          "key": "media-9-4878741521117339405",
           "category": "Media",
           "label": "Media",
           "headline": "Disney’s Josh D’Amaro On The Biggest Opportunities As CEO & Why Other Media Companies “Are Trying To Look Like Disney”",
@@ -4423,8 +4423,8 @@
           ]
         },
         {
-          "id": "media-18-3654002192764611142",
-          "key": "media-18-3654002192764611142",
+          "id": "media-18-1554269458109439848",
+          "key": "media-18-1554269458109439848",
           "category": "Media",
           "label": "Media",
           "headline": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
@@ -4451,8 +4451,8 @@
           ]
         },
         {
-          "id": "media-1-4406295393112858906",
-          "key": "media-1-4406295393112858906",
+          "id": "media-1-4292171507805960142",
+          "key": "media-1-4292171507805960142",
           "category": "Media",
           "label": "Media",
           "headline": "Warner Bros. Discovery CEO David Zaslav Beneficiary of $27.1 Million in Stock Sales as Paramount Merger Is Stuck on Hold",
@@ -4479,8 +4479,8 @@
           ]
         },
         {
-          "id": "media-10-8137065383077872719",
-          "key": "media-10-8137065383077872719",
+          "id": "media-10-5593716924403041497",
+          "key": "media-10-5593716924403041497",
           "category": "Media",
           "label": "Media",
           "headline": "Disney Unveils Avengers Infinity Defense Lead By Ms. Marvel, Return Of Avengers Cast, Harrison Ford Models New Indiana Jones Attraction, Villains Land & More At D23",
@@ -4507,7 +4507,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-17 12:42:20 AM ET"
+      "updated_at": "2026-08-17 01:35:38 AM ET"
     }
   ]
 }
