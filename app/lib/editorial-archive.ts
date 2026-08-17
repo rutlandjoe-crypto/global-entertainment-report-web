@@ -1,5 +1,6 @@
 import { list } from "@vercel/blob";
 import report from "../../public/latest_report.json";
+import archivedReportItems from "../../public/entertainment-editorial-archive.json";
 
 export const SITE_URL = "https://www.globalentertainmentreport.com";
 
@@ -121,6 +122,12 @@ export const seededEditorialItems: EditorialItem[] = (
   .map(toEditorialItem)
   .filter((item): item is EditorialItem => item !== null);
 
+export const archivedEditorialItems: EditorialItem[] = (
+  archivedReportItems as ReportItem[]
+)
+  .map(toEditorialItem)
+  .filter((item): item is EditorialItem => item !== null);
+
 async function getStoredEditorialItems(): Promise<EditorialItem[]> {
   try {
     const { blobs } = await list({ prefix: "editorial/", limit: 1000 });
@@ -139,7 +146,9 @@ async function getStoredEditorialItems(): Promise<EditorialItem[]> {
 export async function getEditorialItems(): Promise<EditorialItem[]> {
   const stored = await getStoredEditorialItems();
   const unique = new Map<string, EditorialItem>();
-  [...seededEditorialItems, ...stored].forEach((item) => unique.set(item.slug, item));
+  [...archivedEditorialItems, ...seededEditorialItems, ...stored].forEach((item) =>
+    unique.set(item.slug, item),
+  );
   return [...unique.values()].sort((a, b) => {
     const aTime = parsePublishedDate(a.published)?.getTime() ?? 0;
     const bTime = parsePublishedDate(b.published)?.getTime() ?? 0;

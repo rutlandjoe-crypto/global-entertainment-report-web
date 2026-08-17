@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Global Entertainment Report",
-  description: "Automated sports journalism support for the modern newsroom.",
+  description: "Entertainment news and reporting support for the modern newsroom.",
 };
 
 export default function RootLayout({

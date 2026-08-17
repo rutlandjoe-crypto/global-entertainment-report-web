@@ -82,6 +82,9 @@ jobs:
           ls -lh public/latest_report.json
           head -40 public/latest_report.json
 
+      - name: Preserve current Entertainment stories
+        run: node scripts/archive-entertainment-editorial.mjs
+
       - name: Publish latest report to production blob
         run: |
           if [ -z "${GSR_PUSH_TOKEN:-}" ]; then
@@ -94,11 +97,11 @@ jobs:
             --header "Authorization: Bearer ${GSR_PUSH_TOKEN}" \
             --header "Content-Type: application/json" \
             --data-binary @public/latest_report.json \
-            "https://globalentertainmentreport.com/api/push-report"
+            "https://www.globalentertainmentreport.com/api/push-report"
 
       - name: Stage website files
         run: |
-          git add public/latest_report.json public/latest_report.txt latest_report.json latest_report.txt entertainment_report.txt || true
+          git add public/latest_report.json public/latest_report.txt public/entertainment-editorial-archive.json latest_report.json latest_report.txt entertainment_report.txt || true
 
       - name: Guard Entertainment report quality before commit
         run: python scripts/check_entertainment_agent.py
