@@ -1,3 +1,4 @@
+import Image from "next/image";
 import type { ReactNode } from "react";
 import EditorialStandard from "@/components/EditorialStandard";
 import { loadReport } from "@/app/report-data";
@@ -421,9 +422,19 @@ export default async function Page() {
       <header className="border-b border-purple-900 bg-gradient-to-br from-black via-neutral-950 to-purple-950">
         <div className="mx-auto grid max-w-7xl gap-6 px-5 py-8 lg:grid-cols-[1.2fr_0.8fr]">
           <div>
-            <p className="text-sm font-black uppercase tracking-wide text-fuchsia-300">
-              {SITE.name}
-            </p>
+            <div className="flex items-center gap-4">
+              <Image
+                src="/gsr-logo-entertainment.png"
+                alt={`${SITE.name} circular GSR logo`}
+                width={96}
+                height={96}
+                priority
+                className="h-20 w-20 shrink-0 rounded-full object-contain md:h-24 md:w-24"
+              />
+              <p className="text-sm font-black uppercase tracking-wide text-fuchsia-300">
+                {SITE.name}
+              </p>
+            </div>
 
             <h1 className="mt-3 text-4xl font-black leading-tight md:text-5xl">
               {headline}
