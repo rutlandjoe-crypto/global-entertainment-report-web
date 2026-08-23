@@ -4,14 +4,14 @@
   "site_name": "Global Entertainment Report",
   "vertical": "Entertainment",
   "headline": "Venice-Bound 'Meteorite,' Debut Feature From Colombia's Sebastián Múnera, Acquired by MoreThan Films (EXCLUSIVE)",
-  "snapshot": "Global Entertainment Report accepted 50 real RSS item(s) across 31 checked feed request(s).",
-  "generated_at": "2026-08-23 05:27:56 AM ET",
-  "updated_at": "2026-08-23 05:27:56 AM ET",
-  "published_at": "2026-08-23 05:27:56 AM ET",
+  "snapshot": "Global Entertainment Report accepted 49 real RSS item(s) across 31 checked feed request(s).",
+  "generated_at": "2026-08-23 06:24:50 AM ET",
+  "updated_at": "2026-08-23 06:24:50 AM ET",
+  "published_at": "2026-08-23 06:24:50 AM ET",
   "source_mode": "live RSS ingestion",
   "freshness": {
     "max_item_age_hours": 336,
-    "accepted_real_items": 50,
+    "accepted_real_items": 49,
     "checked_feeds": 31,
     "feeds_without_accepted_items": 6
   },
@@ -53,9 +53,9 @@
       "final_url": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 88,
+      "rejected_count": 89,
       "rejection_reasons": {
-        "stale-over-336h": 88
+        "stale-over-336h": 89
       }
     },
     {
@@ -197,11 +197,11 @@
       "url": "https://news.google.com/rss/search?q=entertainment+awards+oscars+emmys+grammys&hl=en-US&gl=US&ceid=US:en",
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=entertainment+awards+oscars+emmys+grammys&hl=en-US&gl=US&ceid=US:en",
-      "item_count": 74,
+      "item_count": 72,
       "accepted_count": 2,
-      "rejected_count": 69,
+      "rejected_count": 67,
       "rejection_reasons": {
-        "stale-over-336h": 69
+        "stale-over-336h": 67
       }
     },
     {
@@ -235,10 +235,10 @@
       "final_url": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 66,
+      "rejected_count": 65,
       "rejection_reasons": {
         "duplicate-story": 2,
-        "stale-over-336h": 64
+        "stale-over-336h": 63
       }
     },
     {
@@ -258,11 +258,11 @@
       "url": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
-      "item_count": 94,
+      "item_count": 98,
       "accepted_count": 2,
-      "rejected_count": 88,
+      "rejected_count": 91,
       "rejection_reasons": {
-        "stale-over-336h": 88
+        "stale-over-336h": 91
       }
     },
     {
@@ -283,10 +283,10 @@
       "status_code": "200",
       "final_url": "https://deadline.com/feed/",
       "item_count": 12,
-      "accepted_count": 2,
-      "rejected_count": 10,
+      "accepted_count": 1,
+      "rejected_count": 11,
       "rejection_reasons": {
-        "duplicate-story": 10
+        "duplicate-story": 11
       }
     },
     {
@@ -385,8 +385,8 @@
   ],
   "live_newsroom": [
     {
-      "id": "film-0-7598127675426289325",
-      "key": "film-0-7598127675426289325",
+      "id": "film-0-3893673947972225542",
+      "key": "film-0-3893673947972225542",
       "category": "Film",
       "label": "Film",
       "headline": "Venice-Bound 'Meteorite,' Debut Feature From Colombia's Sebastián Múnera, Acquired by MoreThan Films (EXCLUSIVE)",
@@ -412,8 +412,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-2162718048224490440",
-      "key": "film-10-2162718048224490440",
+      "id": "film-10-5061445538507876155",
+      "key": "film-10-5061445538507876155",
       "category": "Film",
       "label": "Film",
       "headline": "LMGI Awards Winners: 'One Battle After Another,' 'Marty Supreme,' 'Pluribus' Among Location Managers Guild's Honorees",
@@ -439,8 +439,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-5491279438764121802",
-      "key": "film-22-5491279438764121802",
+      "id": "film-22-9173936717145201159",
+      "key": "film-22-9173936717145201159",
       "category": "Film",
       "label": "Film",
       "headline": "'National Treasure 3' Is \"Finally Real\" and \"We Have a Script,\" Director Says",
@@ -466,8 +466,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-1480227321739405741",
-      "key": "film-32-1480227321739405741",
+      "id": "film-32-3650294623899790258",
+      "key": "film-32-3650294623899790258",
       "category": "Film",
       "label": "Film",
       "headline": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
@@ -493,8 +493,8 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-7061467409600905431",
-      "key": "music-10-7061467409600905431",
+      "id": "music-10-2720236908708613275",
+      "key": "music-10-2720236908708613275",
       "category": "Music",
       "label": "Music",
       "headline": "Dolly Parton Says She's Exploring 'Avatar Performances'",
@@ -520,8 +520,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-6098271708880164024",
-      "key": "gaming-0-6098271708880164024",
+      "id": "gaming-0-7570313931750169069",
+      "key": "gaming-0-7570313931750169069",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "GTA 6 Leaker Releases More Gameplay Videos Despite Rockstar Owner Take-Two's Microsoft and Discord Subpoenas",
@@ -547,8 +547,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-3309433007628867423",
-      "key": "film-1-3309433007628867423",
+      "id": "film-1-3501164046379142216",
+      "key": "film-1-3501164046379142216",
       "category": "Film",
       "label": "Film",
       "headline": "Upendra Joins Cast as Teja Sajja, Shanaya Kapoor, Suparn S. Varma's Sequel Titled 'Zombie Reddy Nxt Lvl' (EXCLUSIVE)",
@@ -574,8 +574,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-7249384269865047593",
-      "key": "film-11-7249384269865047593",
+      "id": "film-11-584107164011437775",
+      "key": "film-11-584107164011437775",
       "category": "Film",
       "label": "Film",
       "headline": "Kid Cudi Preparing To Film \"F*ckin Gnarly\" Followup To Directorial Debut 'Doe', Both Set For 2027",
@@ -601,8 +601,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-6375686153229348709",
-      "key": "film-23-6375686153229348709",
+      "id": "film-23-5234500992043881651",
+      "key": "film-23-5234500992043881651",
       "category": "Film",
       "label": "Film",
       "headline": "'Spider-Man: Brand New Day' Swinging to Fourth Box Office Victory as It Tops 'Insidious' Sequel",
@@ -628,8 +628,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-3815999369894146633",
-      "key": "film-33-3815999369894146633",
+      "id": "film-33-3900808162257861118",
+      "key": "film-33-3900808162257861118",
       "category": "Film",
       "label": "Film",
       "headline": "The Best Action Movie From Every Year in the 1990s - Mental Floss",
@@ -655,8 +655,8 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-2768480131471999552",
-      "key": "music-11-2768480131471999552",
+      "id": "music-11-3706699231718648368",
+      "key": "music-11-3706699231718648368",
       "category": "Music",
       "label": "Music",
       "headline": "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium",
@@ -682,8 +682,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-5506402246673791893",
-      "key": "gaming-1-5506402246673791893",
+      "id": "gaming-1-3517155504185060389",
+      "key": "gaming-1-3517155504185060389",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The Best Deals Today: Nintendo Switch 2, LEGO Tropical Aquarium, Final Fantasy VII Rebirth, and More",
@@ -711,8 +711,8 @@
   ],
   "editor_signals": [
     {
-      "id": "film-2-5293067325227842841",
-      "key": "film-2-5293067325227842841",
+      "id": "film-2-1860077574141357022",
+      "key": "film-2-1860077574141357022",
       "category": "Film",
       "label": "Film",
       "headline": "'One Battle After Another' and 'Marty Supreme' Take Top Honors at Location Managers Guild International Awards",
@@ -738,8 +738,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-3516295784754312488",
-      "key": "film-12-3516295784754312488",
+      "id": "film-12-2291420451861743680",
+      "key": "film-12-2291420451861743680",
       "category": "Film",
       "label": "Film",
       "headline": "Josh Brolin Says 'Sicario 3' \"Is Happening\"",
@@ -765,8 +765,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-8126916759990486320",
-      "key": "film-24-8126916759990486320",
+      "id": "film-24-3123518744275245662",
+      "key": "film-24-3123518744275245662",
       "category": "Film",
       "label": "Film",
       "headline": "Michael Wright, Star of 'The Five Heartbeats' and 'Sugar Hill,' Dies at 70",
@@ -792,8 +792,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-8788623582379302748",
-      "key": "film-34-8788623582379302748",
+      "id": "film-34-189488299415032674",
+      "key": "film-34-189488299415032674",
       "category": "Film",
       "label": "Film",
       "headline": "Every Steven Spielberg movie, ranked from worst to best - Entertainment Weekly",
@@ -819,8 +819,8 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-5080250226528052532",
-      "key": "music-12-5080250226528052532",
+      "id": "music-12-3296411962759643449",
+      "key": "music-12-3296411962759643449",
       "category": "Music",
       "label": "Music",
       "headline": "Dale Morris, Nashville Manager Who Guided Careers of Alabama & Kenny Chesney, Dies at 89",
@@ -846,8 +846,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-2393740678319922525",
-      "key": "gaming-2-2393740678319922525",
+      "id": "gaming-2-8423146177646078051",
+      "key": "gaming-2-8423146177646078051",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Metal Gear Solid 4: The Flawed Masterpiece Kojima Didn't Want to Make",
@@ -873,8 +873,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-1715132913311846698",
-      "key": "film-3-1715132913311846698",
+      "id": "film-3-4921375549537724862",
+      "key": "film-3-4921375549537724862",
       "category": "Film",
       "label": "Film",
       "headline": "'Sentimental Value' Sweeps Amanda Awards",
@@ -900,8 +900,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-1382128464942601887",
-      "key": "film-13-1382128464942601887",
+      "id": "film-13-711658047949661689",
+      "key": "film-13-711658047949661689",
       "category": "Film",
       "label": "Film",
       "headline": "HollyShorts Festival Set To Propel Documentary Jury Award Winner Into Oscar Race",
@@ -927,8 +927,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-3847005961864379351",
-      "key": "film-25-3847005961864379351",
+      "id": "film-25-5364825461382044510",
+      "key": "film-25-5364825461382044510",
       "category": "Film",
       "label": "Film",
       "headline": "Sandra Wollner's 'Everytime' Wins Best Film in Sarajevo, Ana Urushadze Crowned Best Director",
@@ -954,8 +954,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-4825101569287831880",
-      "key": "film-35-4825101569287831880",
+      "id": "film-35-1174213004313428846",
+      "key": "film-35-1174213004313428846",
       "category": "Film",
       "label": "Film",
       "headline": "'So bad it's good': rough animated film becomes surprise Chinese hit - Yahoo",
@@ -981,8 +981,8 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-7435315477329064785",
-      "key": "music-13-7435315477329064785",
+      "id": "music-13-6762757116610551922",
+      "key": "music-13-6762757116610551922",
       "category": "Music",
       "label": "Music",
       "headline": "Olivia Rodrigo Drops 'Handmaid's Tale'-Inspired 'Serena Joy' as CD Single at Indie Record Store",
@@ -1008,8 +1008,8 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-4577412533699512447",
-      "key": "gaming-3-4577412533699512447",
+      "id": "gaming-3-5602998677879990383",
+      "key": "gaming-3-5602998677879990383",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Ultra Graphics Settings Are a Scam: Why High Is Good Enough, if Not Better, for Most Players",
@@ -1037,8 +1037,8 @@
   ],
   "homepage_cards": [
     {
-      "id": "film-0-7598127675426289325",
-      "key": "film-0-7598127675426289325",
+      "id": "film-0-3893673947972225542",
+      "key": "film-0-3893673947972225542",
       "category": "Film",
       "label": "Film",
       "headline": "Venice-Bound 'Meteorite,' Debut Feature From Colombia's Sebastián Múnera, Acquired by MoreThan Films (EXCLUSIVE)",
@@ -1064,8 +1064,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-2162718048224490440",
-      "key": "film-10-2162718048224490440",
+      "id": "film-10-5061445538507876155",
+      "key": "film-10-5061445538507876155",
       "category": "Film",
       "label": "Film",
       "headline": "LMGI Awards Winners: 'One Battle After Another,' 'Marty Supreme,' 'Pluribus' Among Location Managers Guild's Honorees",
@@ -1091,8 +1091,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-5491279438764121802",
-      "key": "film-22-5491279438764121802",
+      "id": "film-22-9173936717145201159",
+      "key": "film-22-9173936717145201159",
       "category": "Film",
       "label": "Film",
       "headline": "'National Treasure 3' Is \"Finally Real\" and \"We Have a Script,\" Director Says",
@@ -1118,8 +1118,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-1480227321739405741",
-      "key": "film-32-1480227321739405741",
+      "id": "film-32-3650294623899790258",
+      "key": "film-32-3650294623899790258",
       "category": "Film",
       "label": "Film",
       "headline": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
@@ -1145,8 +1145,8 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-7061467409600905431",
-      "key": "music-10-7061467409600905431",
+      "id": "music-10-2720236908708613275",
+      "key": "music-10-2720236908708613275",
       "category": "Music",
       "label": "Music",
       "headline": "Dolly Parton Says She's Exploring 'Avatar Performances'",
@@ -1172,8 +1172,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-6098271708880164024",
-      "key": "gaming-0-6098271708880164024",
+      "id": "gaming-0-7570313931750169069",
+      "key": "gaming-0-7570313931750169069",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "GTA 6 Leaker Releases More Gameplay Videos Despite Rockstar Owner Take-Two's Microsoft and Discord Subpoenas",
@@ -1199,8 +1199,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-3309433007628867423",
-      "key": "film-1-3309433007628867423",
+      "id": "film-1-3501164046379142216",
+      "key": "film-1-3501164046379142216",
       "category": "Film",
       "label": "Film",
       "headline": "Upendra Joins Cast as Teja Sajja, Shanaya Kapoor, Suparn S. Varma's Sequel Titled 'Zombie Reddy Nxt Lvl' (EXCLUSIVE)",
@@ -1226,8 +1226,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-7249384269865047593",
-      "key": "film-11-7249384269865047593",
+      "id": "film-11-584107164011437775",
+      "key": "film-11-584107164011437775",
       "category": "Film",
       "label": "Film",
       "headline": "Kid Cudi Preparing To Film \"F*ckin Gnarly\" Followup To Directorial Debut 'Doe', Both Set For 2027",
@@ -1253,8 +1253,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-6375686153229348709",
-      "key": "film-23-6375686153229348709",
+      "id": "film-23-5234500992043881651",
+      "key": "film-23-5234500992043881651",
       "category": "Film",
       "label": "Film",
       "headline": "'Spider-Man: Brand New Day' Swinging to Fourth Box Office Victory as It Tops 'Insidious' Sequel",
@@ -1280,8 +1280,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-3815999369894146633",
-      "key": "film-33-3815999369894146633",
+      "id": "film-33-3900808162257861118",
+      "key": "film-33-3900808162257861118",
       "category": "Film",
       "label": "Film",
       "headline": "The Best Action Movie From Every Year in the 1990s - Mental Floss",
@@ -1307,8 +1307,8 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-2768480131471999552",
-      "key": "music-11-2768480131471999552",
+      "id": "music-11-3706699231718648368",
+      "key": "music-11-3706699231718648368",
       "category": "Music",
       "label": "Music",
       "headline": "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium",
@@ -1334,8 +1334,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-5506402246673791893",
-      "key": "gaming-1-5506402246673791893",
+      "id": "gaming-1-3517155504185060389",
+      "key": "gaming-1-3517155504185060389",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The Best Deals Today: Nintendo Switch 2, LEGO Tropical Aquarium, Final Fantasy VII Rebirth, and More",
@@ -1361,8 +1361,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-2-5293067325227842841",
-      "key": "film-2-5293067325227842841",
+      "id": "film-2-1860077574141357022",
+      "key": "film-2-1860077574141357022",
       "category": "Film",
       "label": "Film",
       "headline": "'One Battle After Another' and 'Marty Supreme' Take Top Honors at Location Managers Guild International Awards",
@@ -1388,8 +1388,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-3516295784754312488",
-      "key": "film-12-3516295784754312488",
+      "id": "film-12-2291420451861743680",
+      "key": "film-12-2291420451861743680",
       "category": "Film",
       "label": "Film",
       "headline": "Josh Brolin Says 'Sicario 3' \"Is Happening\"",
@@ -1415,8 +1415,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-8126916759990486320",
-      "key": "film-24-8126916759990486320",
+      "id": "film-24-3123518744275245662",
+      "key": "film-24-3123518744275245662",
       "category": "Film",
       "label": "Film",
       "headline": "Michael Wright, Star of 'The Five Heartbeats' and 'Sugar Hill,' Dies at 70",
@@ -1442,8 +1442,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-8788623582379302748",
-      "key": "film-34-8788623582379302748",
+      "id": "film-34-189488299415032674",
+      "key": "film-34-189488299415032674",
       "category": "Film",
       "label": "Film",
       "headline": "Every Steven Spielberg movie, ranked from worst to best - Entertainment Weekly",
@@ -1469,8 +1469,8 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-5080250226528052532",
-      "key": "music-12-5080250226528052532",
+      "id": "music-12-3296411962759643449",
+      "key": "music-12-3296411962759643449",
       "category": "Music",
       "label": "Music",
       "headline": "Dale Morris, Nashville Manager Who Guided Careers of Alabama & Kenny Chesney, Dies at 89",
@@ -1496,8 +1496,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-2393740678319922525",
-      "key": "gaming-2-2393740678319922525",
+      "id": "gaming-2-8423146177646078051",
+      "key": "gaming-2-8423146177646078051",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Metal Gear Solid 4: The Flawed Masterpiece Kojima Didn't Want to Make",
@@ -1523,8 +1523,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-1715132913311846698",
-      "key": "film-3-1715132913311846698",
+      "id": "film-3-4921375549537724862",
+      "key": "film-3-4921375549537724862",
       "category": "Film",
       "label": "Film",
       "headline": "'Sentimental Value' Sweeps Amanda Awards",
@@ -1550,8 +1550,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-1382128464942601887",
-      "key": "film-13-1382128464942601887",
+      "id": "film-13-711658047949661689",
+      "key": "film-13-711658047949661689",
       "category": "Film",
       "label": "Film",
       "headline": "HollyShorts Festival Set To Propel Documentary Jury Award Winner Into Oscar Race",
@@ -1577,8 +1577,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-3847005961864379351",
-      "key": "film-25-3847005961864379351",
+      "id": "film-25-5364825461382044510",
+      "key": "film-25-5364825461382044510",
       "category": "Film",
       "label": "Film",
       "headline": "Sandra Wollner's 'Everytime' Wins Best Film in Sarajevo, Ana Urushadze Crowned Best Director",
@@ -1604,8 +1604,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-4825101569287831880",
-      "key": "film-35-4825101569287831880",
+      "id": "film-35-1174213004313428846",
+      "key": "film-35-1174213004313428846",
       "category": "Film",
       "label": "Film",
       "headline": "'So bad it's good': rough animated film becomes surprise Chinese hit - Yahoo",
@@ -1631,8 +1631,8 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-7435315477329064785",
-      "key": "music-13-7435315477329064785",
+      "id": "music-13-6762757116610551922",
+      "key": "music-13-6762757116610551922",
       "category": "Music",
       "label": "Music",
       "headline": "Olivia Rodrigo Drops 'Handmaid's Tale'-Inspired 'Serena Joy' as CD Single at Indie Record Store",
@@ -1658,8 +1658,8 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-4577412533699512447",
-      "key": "gaming-3-4577412533699512447",
+      "id": "gaming-3-5602998677879990383",
+      "key": "gaming-3-5602998677879990383",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Ultra Graphics Settings Are a Scam: Why High Is Good Enough, if Not Better, for Most Players",
@@ -1711,8 +1711,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "film-0-7598127675426289325",
-          "key": "film-0-7598127675426289325",
+          "id": "film-0-3893673947972225542",
+          "key": "film-0-3893673947972225542",
           "category": "Film",
           "label": "Film",
           "headline": "Venice-Bound ‘Meteorite,’ Debut Feature From Colombia’s Sebastián Múnera, Acquired by MoreThan Films (EXCLUSIVE)",
@@ -1739,8 +1739,8 @@
           ]
         },
         {
-          "id": "film-10-2162718048224490440",
-          "key": "film-10-2162718048224490440",
+          "id": "film-10-5061445538507876155",
+          "key": "film-10-5061445538507876155",
           "category": "Film",
           "label": "Film",
           "headline": "LMGI Awards Winners: ‘One Battle After Another,’ ‘Marty Supreme,’ ‘Pluribus’ Among Location Managers Guild’s Honorees",
@@ -1767,8 +1767,8 @@
           ]
         },
         {
-          "id": "film-22-5491279438764121802",
-          "key": "film-22-5491279438764121802",
+          "id": "film-22-9173936717145201159",
+          "key": "film-22-9173936717145201159",
           "category": "Film",
           "label": "Film",
           "headline": "‘National Treasure 3’ Is “Finally Real” and “We Have a Script,” Director Says",
@@ -1795,8 +1795,8 @@
           ]
         },
         {
-          "id": "film-32-1480227321739405741",
-          "key": "film-32-1480227321739405741",
+          "id": "film-32-3650294623899790258",
+          "key": "film-32-3650294623899790258",
           "category": "Film",
           "label": "Film",
           "headline": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
@@ -1823,8 +1823,8 @@
           ]
         },
         {
-          "id": "film-1-3309433007628867423",
-          "key": "film-1-3309433007628867423",
+          "id": "film-1-3501164046379142216",
+          "key": "film-1-3501164046379142216",
           "category": "Film",
           "label": "Film",
           "headline": "Upendra Joins Cast as Teja Sajja, Shanaya Kapoor, Suparn S. Varma’s Sequel Titled ‘Zombie Reddy Nxt Lvl’ (EXCLUSIVE)",
@@ -1851,8 +1851,8 @@
           ]
         },
         {
-          "id": "film-11-7249384269865047593",
-          "key": "film-11-7249384269865047593",
+          "id": "film-11-584107164011437775",
+          "key": "film-11-584107164011437775",
           "category": "Film",
           "label": "Film",
           "headline": "Kid Cudi Preparing To Film “F*ckin Gnarly” Followup To Directorial Debut ‘Doe’, Both Set For 2027",
@@ -1879,8 +1879,8 @@
           ]
         },
         {
-          "id": "film-23-6375686153229348709",
-          "key": "film-23-6375686153229348709",
+          "id": "film-23-5234500992043881651",
+          "key": "film-23-5234500992043881651",
           "category": "Film",
           "label": "Film",
           "headline": "‘Spider-Man: Brand New Day’ Swinging to Fourth Box Office Victory as It Tops ‘Insidious’ Sequel",
@@ -1907,8 +1907,8 @@
           ]
         },
         {
-          "id": "film-33-3815999369894146633",
-          "key": "film-33-3815999369894146633",
+          "id": "film-33-3900808162257861118",
+          "key": "film-33-3900808162257861118",
           "category": "Film",
           "label": "Film",
           "headline": "The Best Action Movie From Every Year in the 1990s - Mental Floss",
@@ -1937,8 +1937,8 @@
       ],
       "items": [
         {
-          "id": "film-0-7598127675426289325",
-          "key": "film-0-7598127675426289325",
+          "id": "film-0-3893673947972225542",
+          "key": "film-0-3893673947972225542",
           "category": "Film",
           "label": "Film",
           "headline": "Venice-Bound ‘Meteorite,’ Debut Feature From Colombia’s Sebastián Múnera, Acquired by MoreThan Films (EXCLUSIVE)",
@@ -1965,8 +1965,8 @@
           ]
         },
         {
-          "id": "film-10-2162718048224490440",
-          "key": "film-10-2162718048224490440",
+          "id": "film-10-5061445538507876155",
+          "key": "film-10-5061445538507876155",
           "category": "Film",
           "label": "Film",
           "headline": "LMGI Awards Winners: ‘One Battle After Another,’ ‘Marty Supreme,’ ‘Pluribus’ Among Location Managers Guild’s Honorees",
@@ -1993,8 +1993,8 @@
           ]
         },
         {
-          "id": "film-22-5491279438764121802",
-          "key": "film-22-5491279438764121802",
+          "id": "film-22-9173936717145201159",
+          "key": "film-22-9173936717145201159",
           "category": "Film",
           "label": "Film",
           "headline": "‘National Treasure 3’ Is “Finally Real” and “We Have a Script,” Director Says",
@@ -2021,8 +2021,8 @@
           ]
         },
         {
-          "id": "film-32-1480227321739405741",
-          "key": "film-32-1480227321739405741",
+          "id": "film-32-3650294623899790258",
+          "key": "film-32-3650294623899790258",
           "category": "Film",
           "label": "Film",
           "headline": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
@@ -2049,8 +2049,8 @@
           ]
         },
         {
-          "id": "film-1-3309433007628867423",
-          "key": "film-1-3309433007628867423",
+          "id": "film-1-3501164046379142216",
+          "key": "film-1-3501164046379142216",
           "category": "Film",
           "label": "Film",
           "headline": "Upendra Joins Cast as Teja Sajja, Shanaya Kapoor, Suparn S. Varma’s Sequel Titled ‘Zombie Reddy Nxt Lvl’ (EXCLUSIVE)",
@@ -2077,8 +2077,8 @@
           ]
         },
         {
-          "id": "film-11-7249384269865047593",
-          "key": "film-11-7249384269865047593",
+          "id": "film-11-584107164011437775",
+          "key": "film-11-584107164011437775",
           "category": "Film",
           "label": "Film",
           "headline": "Kid Cudi Preparing To Film “F*ckin Gnarly” Followup To Directorial Debut ‘Doe’, Both Set For 2027",
@@ -2105,8 +2105,8 @@
           ]
         },
         {
-          "id": "film-23-6375686153229348709",
-          "key": "film-23-6375686153229348709",
+          "id": "film-23-5234500992043881651",
+          "key": "film-23-5234500992043881651",
           "category": "Film",
           "label": "Film",
           "headline": "‘Spider-Man: Brand New Day’ Swinging to Fourth Box Office Victory as It Tops ‘Insidious’ Sequel",
@@ -2133,8 +2133,8 @@
           ]
         },
         {
-          "id": "film-33-3815999369894146633",
-          "key": "film-33-3815999369894146633",
+          "id": "film-33-3900808162257861118",
+          "key": "film-33-3900808162257861118",
           "category": "Film",
           "label": "Film",
           "headline": "The Best Action Movie From Every Year in the 1990s - Mental Floss",
@@ -2161,52 +2161,52 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 05:27:57 AM ET"
+      "updated_at": "2026-08-23 06:24:51 AM ET"
     },
     {
       "key": "tv",
       "name": "TV",
       "title": "TV Report",
-      "headline": "Taylor Sheridan Accused of Stealing ‘Yellowstone’ From 2016 Pitch in Copyright Lawsuit",
+      "headline": "‘One Piece’ Season 3 Casts Its Koza, Toto, Pell and Chaka",
       "snapshot": "TV coverage is updating with 8 current RSS headline item(s).",
       "key_storylines": [
-        "Taylor Sheridan Accused of Stealing ‘Yellowstone’ From 2016 Pitch in Copyright Lawsuit",
-        "Karoline Leavitt Announces Post-White House Job",
+        "‘One Piece’ Season 3 Casts Its Koza, Toto, Pell and Chaka",
+        "‘One Piece: The Battle Of Alabasta’ Adds Four To Season 3 Cast",
         "Bunny Levine, Librarian Turned Actress in ‘Gilmore Girls,’ Thelma’ and ‘You Don’t Mess With the Zohan,’ Dies at 97",
         "‘The Office’ star Jenna Fischer exposes the grueling reality that forced her off TV - Fox News",
-        "How ‘Abbott Elementary’ Pulled Off Its Big Phillies Game Episode"
+        "Taylor Sheridan Accused of Stealing ‘Yellowstone’ From 2016 Pitch in Copyright Lawsuit"
       ],
       "watch_list": [
-        "Taylor Sheridan Accused of Stealing ‘Yellowstone’ From 2016 Pitch in Copyright Lawsuit",
-        "Karoline Leavitt Announces Post-White House Job",
+        "‘One Piece’ Season 3 Casts Its Koza, Toto, Pell and Chaka",
+        "‘One Piece: The Battle Of Alabasta’ Adds Four To Season 3 Cast",
         "Bunny Levine, Librarian Turned Actress in ‘Gilmore Girls,’ Thelma’ and ‘You Don’t Mess With the Zohan,’ Dies at 97",
         "‘The Office’ star Jenna Fischer exposes the grueling reality that forced her off TV - Fox News",
-        "How ‘Abbott Elementary’ Pulled Off Its Big Phillies Game Episode",
-        "Bunny Levine Dies: Librarian Turned Actress Who Appeared In Everything From ‘Gilmore Girls’ To Adam Sandler Movies Was 97",
+        "Taylor Sheridan Accused of Stealing ‘Yellowstone’ From 2016 Pitch in Copyright Lawsuit",
+        "Karoline Leavitt Announces Post-White House Job",
         "Meghan Markle Reportedly Dropped From Consideration to Join Guy Ritchie’s ‘The Gentlemen’",
         "AI Just Got Its First 24/7 TV Channel - PYMNTS.com"
       ],
       "homepage_cards": [
         {
-          "id": "tv-0-6818937318609857280",
-          "key": "tv-0-6818937318609857280",
+          "id": "tv-0-8878704952384113207",
+          "key": "tv-0-8878704952384113207",
           "category": "TV",
           "label": "TV",
-          "headline": "Taylor Sheridan Accused of Stealing ‘Yellowstone’ From 2016 Pitch in Copyright Lawsuit",
-          "title": "Taylor Sheridan Accused of Stealing ‘Yellowstone’ From 2016 Pitch in Copyright Lawsuit",
-          "snapshot": "Writer Lauren J. Salkin has accused Taylor Sheridan of stealing his marquee series “Yellowstone” from her 2016 pitch in a lawsuit filed on Friday. 101 Studios, Paramount and Elevate Entertainment are also listed as defendants. Reps for Sheridan, 101 Studios, Paramount and Elevate Entertainment did not immediately re...",
-          "summary": "Writer Lauren J. Salkin has accused Taylor Sheridan of stealing his marquee series “Yellowstone” from her 2016 pitch in a lawsuit filed on Friday. 101 Studios, Paramount and Elevate Entertainment are also listed as defendants. Reps for Sheridan, 101 Studios, Paramount and Elevate Entertainment did not immediately re...",
-          "url": "https://variety.com/2026/tv/news/taylor-sheridan-accused-stealing-yellowstone-lawsuit-1236840854/",
+          "headline": "‘One Piece’ Season 3 Casts Its Koza, Toto, Pell and Chaka",
+          "title": "‘One Piece’ Season 3 Casts Its Koza, Toto, Pell and Chaka",
+          "snapshot": "Netflix has added four to the cast of “One Piece” Season 3, casting the roles of Koza, Toto, Pell and Chaka. Emilio Sakraya (“Rheingold”) will play Koza, Omid Abtahi (The Mandalorian”) will play Toto, Jamie Ward (“The Gentlemen”) will play Pell and Nabeel Khan (“Mandela: Long Walk to Freedom”) plays Chaka. Returning...",
+          "summary": "Netflix has added four to the cast of “One Piece” Season 3, casting the roles of Koza, Toto, Pell and Chaka. Emilio Sakraya (“Rheingold”) will play Koza, Omid Abtahi (The Mandalorian”) will play Toto, Jamie Ward (“The Gentlemen”) will play Pell and Nabeel Khan (“Mandela: Long Walk to Freedom”) plays Chaka. Returning...",
+          "url": "https://variety.com/2026/tv/news/one-piece-season-3-cast-koza-toto-pell-chaka-1236840397/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/tv/feed/",
-          "published_at": "2026-08-22 03:56:21 PM ET",
+          "published_at": "2026-08-23 06:00:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Taylor Sheridan Accused of Stealing ‘Yellowstone’ From 2016 Pitch in Copyright Lawsuit"
+            "‘One Piece’ Season 3 Casts Its Koza, Toto, Pell and Chaka"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2216,25 +2216,25 @@
           ]
         },
         {
-          "id": "tv-8-7732394957368826626",
-          "key": "tv-8-7732394957368826626",
+          "id": "tv-8-7371511274122978167",
+          "key": "tv-8-7371511274122978167",
           "category": "TV",
           "label": "TV",
-          "headline": "Karoline Leavitt Announces Post-White House Job",
-          "title": "Karoline Leavitt Announces Post-White House Job",
-          "snapshot": "“Karoline will now be one of my top outside advisors, and an influential voice within the Republican Party,” President Donald Trump said in a statement earlier this week announcing the departure of White House Press Secretary Karoline Leavitt. Turns out, he was right. Leavitt told reporters on Friday that she is ret...",
-          "summary": "“Karoline will now be one of my top outside advisors, and an influential voice within the Republican Party,” President Donald Trump said in a statement earlier this week announcing the departure of White House Press Secretary Karoline Leavitt. Turns out, he was right. Leavitt told reporters on Friday that she is ret...",
-          "url": "https://deadline.com/2026/08/karoline-leavitt-post-white-house-job-1237048199/",
+          "headline": "‘One Piece: The Battle Of Alabasta’ Adds Four To Season 3 Cast",
+          "title": "‘One Piece: The Battle Of Alabasta’ Adds Four To Season 3 Cast",
+          "snapshot": "Emilio Sakraya (Rheingold, Those About to Die, Fortitude), Omid Abtahi (The Mandalorian, American Gods), Jamie Ward (The Gentlemen, His Dark Materials) and Nabeel Khan (Mandela: Long Walk to Freedom, Strike Back) have been tapped for recurring roles in One Piece: The Battle of Alibasta, the third season of the Netfl...",
+          "summary": "Emilio Sakraya (Rheingold, Those About to Die, Fortitude), Omid Abtahi (The Mandalorian, American Gods), Jamie Ward (The Gentlemen, His Dark Materials) and Nabeel Khan (Mandela: Long Walk to Freedom, Strike Back) have been tapped for recurring roles in One Piece: The Battle of Alibasta, the third season of the Netfl...",
+          "url": "https://deadline.com/2026/08/one-piece-the-battle-of-alabasta-season-3-four-cast-1237047796/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/tv/feed/",
-          "published_at": "2026-08-23 12:06:16 AM ET",
+          "published_at": "2026-08-23 06:00:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 92,
           "key_data": [
-            "Karoline Leavitt Announces Post-White House Job"
+            "‘One Piece: The Battle Of Alabasta’ Adds Four To Season 3 Cast"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2244,8 +2244,8 @@
           ]
         },
         {
-          "id": "tv-16-7211367158879265138",
-          "key": "tv-16-7211367158879265138",
+          "id": "tv-16-6632982799972977330",
+          "key": "tv-16-6632982799972977330",
           "category": "TV",
           "label": "TV",
           "headline": "Bunny Levine, Librarian Turned Actress in ‘Gilmore Girls,’ Thelma’ and ‘You Don’t Mess With the Zohan,’ Dies at 97",
@@ -2272,8 +2272,8 @@
           ]
         },
         {
-          "id": "tv-26-3882499887992935138",
-          "key": "tv-26-3882499887992935138",
+          "id": "tv-26-2854409228782588668",
+          "key": "tv-26-2854409228782588668",
           "category": "TV",
           "label": "TV",
           "headline": "‘The Office’ star Jenna Fischer exposes the grueling reality that forced her off TV - Fox News",
@@ -2300,25 +2300,25 @@
           ]
         },
         {
-          "id": "tv-1-8989480340672819545",
-          "key": "tv-1-8989480340672819545",
+          "id": "tv-1-7055187901354842876",
+          "key": "tv-1-7055187901354842876",
           "category": "TV",
           "label": "TV",
-          "headline": "How ‘Abbott Elementary’ Pulled Off Its Big Phillies Game Episode",
-          "title": "How ‘Abbott Elementary’ Pulled Off Its Big Phillies Game Episode",
-          "snapshot": "They say that every trip to watch a ballgame is a different experience: a chance to see stolen bases and home runs; antics from the bleachers that end up on kiss cams and dance cams; fly balls soaring into the stands; or your daily caloric intake from hot dogs and popcorn. This unpredictability can be […]",
-          "summary": "They say that every trip to watch a ballgame is a different experience: a chance to see stolen bases and home runs; antics from the bleachers that end up on kiss cams and dance cams; fly balls soaring into the stands; or your daily caloric intake from hot dogs and popcorn. This unpredictability can be […]",
-          "url": "https://variety.com/2026/artisans/focus/abbott-elementary-phillies-game-episode-1236840283/",
+          "headline": "Taylor Sheridan Accused of Stealing ‘Yellowstone’ From 2016 Pitch in Copyright Lawsuit",
+          "title": "Taylor Sheridan Accused of Stealing ‘Yellowstone’ From 2016 Pitch in Copyright Lawsuit",
+          "snapshot": "Writer Lauren J. Salkin has accused Taylor Sheridan of stealing his marquee series “Yellowstone” from her 2016 pitch in a lawsuit filed on Friday. 101 Studios, Paramount and Elevate Entertainment are also listed as defendants. Reps for Sheridan, 101 Studios, Paramount and Elevate Entertainment did not immediately re...",
+          "summary": "Writer Lauren J. Salkin has accused Taylor Sheridan of stealing his marquee series “Yellowstone” from her 2016 pitch in a lawsuit filed on Friday. 101 Studios, Paramount and Elevate Entertainment are also listed as defendants. Reps for Sheridan, 101 Studios, Paramount and Elevate Entertainment did not immediately re...",
+          "url": "https://variety.com/2026/tv/news/taylor-sheridan-accused-stealing-yellowstone-lawsuit-1236840854/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/tv/feed/",
-          "published_at": "2026-08-22 01:05:00 PM ET",
+          "published_at": "2026-08-22 03:56:21 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "How ‘Abbott Elementary’ Pulled Off Its Big Phillies Game Episode"
+            "Taylor Sheridan Accused of Stealing ‘Yellowstone’ From 2016 Pitch in Copyright Lawsuit"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2328,25 +2328,25 @@
           ]
         },
         {
-          "id": "tv-9-7467381825106439892",
-          "key": "tv-9-7467381825106439892",
+          "id": "tv-9-1478309583197781039",
+          "key": "tv-9-1478309583197781039",
           "category": "TV",
           "label": "TV",
-          "headline": "Bunny Levine Dies: Librarian Turned Actress Who Appeared In Everything From ‘Gilmore Girls’ To Adam Sandler Movies Was 97",
-          "title": "Bunny Levine Dies: Librarian Turned Actress Who Appeared In Everything From ‘Gilmore Girls’ To Adam Sandler Movies Was 97",
-          "snapshot": "Bunny Levine, a librarian who took early retirement and then began acting on such shows as Gilmore Girls and Shameless as well as two Adam Sandler films, has died, according to multiple reports. She was 97. Levine graduated from college in 1951 and became a school librarian in New Jersey, where she worked before dec...",
-          "summary": "Bunny Levine, a librarian who took early retirement and then began acting on such shows as Gilmore Girls and Shameless as well as two Adam Sandler films, has died, according to multiple reports. She was 97. Levine graduated from college in 1951 and became a school librarian in New Jersey, where she worked before dec...",
-          "url": "https://deadline.com/2026/08/bunny-levine-dead-actress-librarian-1237048184/",
+          "headline": "Karoline Leavitt Announces Post-White House Job",
+          "title": "Karoline Leavitt Announces Post-White House Job",
+          "snapshot": "“Karoline will now be one of my top outside advisors, and an influential voice within the Republican Party,” President Donald Trump said in a statement earlier this week announcing the departure of White House Press Secretary Karoline Leavitt. Turns out, he was right. Leavitt told reporters on Friday that she is ret...",
+          "summary": "“Karoline will now be one of my top outside advisors, and an influential voice within the Republican Party,” President Donald Trump said in a statement earlier this week announcing the departure of White House Press Secretary Karoline Leavitt. Turns out, he was right. Leavitt told reporters on Friday that she is ret...",
+          "url": "https://deadline.com/2026/08/karoline-leavitt-post-white-house-job-1237048199/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/tv/feed/",
-          "published_at": "2026-08-22 09:47:17 PM ET",
+          "published_at": "2026-08-23 12:06:16 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 91,
           "key_data": [
-            "Bunny Levine Dies: Librarian Turned Actress Who Appeared In Everything From ‘Gilmore Girls’ To Adam Sandler Movies Was 97"
+            "Karoline Leavitt Announces Post-White House Job"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2356,8 +2356,8 @@
           ]
         },
         {
-          "id": "tv-17-5695504784036892405",
-          "key": "tv-17-5695504784036892405",
+          "id": "tv-17-6573081475224996111",
+          "key": "tv-17-6573081475224996111",
           "category": "TV",
           "label": "TV",
           "headline": "Meghan Markle Reportedly Dropped From Consideration to Join Guy Ritchie’s ‘The Gentlemen’",
@@ -2384,8 +2384,8 @@
           ]
         },
         {
-          "id": "tv-27-5440999438989230562",
-          "key": "tv-27-5440999438989230562",
+          "id": "tv-27-1902260710086523768",
+          "key": "tv-27-1902260710086523768",
           "category": "TV",
           "label": "TV",
           "headline": "AI Just Got Its First 24/7 TV Channel - PYMNTS.com",
@@ -2414,25 +2414,25 @@
       ],
       "items": [
         {
-          "id": "tv-0-6818937318609857280",
-          "key": "tv-0-6818937318609857280",
+          "id": "tv-0-8878704952384113207",
+          "key": "tv-0-8878704952384113207",
           "category": "TV",
           "label": "TV",
-          "headline": "Taylor Sheridan Accused of Stealing ‘Yellowstone’ From 2016 Pitch in Copyright Lawsuit",
-          "title": "Taylor Sheridan Accused of Stealing ‘Yellowstone’ From 2016 Pitch in Copyright Lawsuit",
-          "snapshot": "Writer Lauren J. Salkin has accused Taylor Sheridan of stealing his marquee series “Yellowstone” from her 2016 pitch in a lawsuit filed on Friday. 101 Studios, Paramount and Elevate Entertainment are also listed as defendants. Reps for Sheridan, 101 Studios, Paramount and Elevate Entertainment did not immediately re...",
-          "summary": "Writer Lauren J. Salkin has accused Taylor Sheridan of stealing his marquee series “Yellowstone” from her 2016 pitch in a lawsuit filed on Friday. 101 Studios, Paramount and Elevate Entertainment are also listed as defendants. Reps for Sheridan, 101 Studios, Paramount and Elevate Entertainment did not immediately re...",
-          "url": "https://variety.com/2026/tv/news/taylor-sheridan-accused-stealing-yellowstone-lawsuit-1236840854/",
+          "headline": "‘One Piece’ Season 3 Casts Its Koza, Toto, Pell and Chaka",
+          "title": "‘One Piece’ Season 3 Casts Its Koza, Toto, Pell and Chaka",
+          "snapshot": "Netflix has added four to the cast of “One Piece” Season 3, casting the roles of Koza, Toto, Pell and Chaka. Emilio Sakraya (“Rheingold”) will play Koza, Omid Abtahi (The Mandalorian”) will play Toto, Jamie Ward (“The Gentlemen”) will play Pell and Nabeel Khan (“Mandela: Long Walk to Freedom”) plays Chaka. Returning...",
+          "summary": "Netflix has added four to the cast of “One Piece” Season 3, casting the roles of Koza, Toto, Pell and Chaka. Emilio Sakraya (“Rheingold”) will play Koza, Omid Abtahi (The Mandalorian”) will play Toto, Jamie Ward (“The Gentlemen”) will play Pell and Nabeel Khan (“Mandela: Long Walk to Freedom”) plays Chaka. Returning...",
+          "url": "https://variety.com/2026/tv/news/one-piece-season-3-cast-koza-toto-pell-chaka-1236840397/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/tv/feed/",
-          "published_at": "2026-08-22 03:56:21 PM ET",
+          "published_at": "2026-08-23 06:00:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Taylor Sheridan Accused of Stealing ‘Yellowstone’ From 2016 Pitch in Copyright Lawsuit"
+            "‘One Piece’ Season 3 Casts Its Koza, Toto, Pell and Chaka"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2442,25 +2442,25 @@
           ]
         },
         {
-          "id": "tv-8-7732394957368826626",
-          "key": "tv-8-7732394957368826626",
+          "id": "tv-8-7371511274122978167",
+          "key": "tv-8-7371511274122978167",
           "category": "TV",
           "label": "TV",
-          "headline": "Karoline Leavitt Announces Post-White House Job",
-          "title": "Karoline Leavitt Announces Post-White House Job",
-          "snapshot": "“Karoline will now be one of my top outside advisors, and an influential voice within the Republican Party,” President Donald Trump said in a statement earlier this week announcing the departure of White House Press Secretary Karoline Leavitt. Turns out, he was right. Leavitt told reporters on Friday that she is ret...",
-          "summary": "“Karoline will now be one of my top outside advisors, and an influential voice within the Republican Party,” President Donald Trump said in a statement earlier this week announcing the departure of White House Press Secretary Karoline Leavitt. Turns out, he was right. Leavitt told reporters on Friday that she is ret...",
-          "url": "https://deadline.com/2026/08/karoline-leavitt-post-white-house-job-1237048199/",
+          "headline": "‘One Piece: The Battle Of Alabasta’ Adds Four To Season 3 Cast",
+          "title": "‘One Piece: The Battle Of Alabasta’ Adds Four To Season 3 Cast",
+          "snapshot": "Emilio Sakraya (Rheingold, Those About to Die, Fortitude), Omid Abtahi (The Mandalorian, American Gods), Jamie Ward (The Gentlemen, His Dark Materials) and Nabeel Khan (Mandela: Long Walk to Freedom, Strike Back) have been tapped for recurring roles in One Piece: The Battle of Alibasta, the third season of the Netfl...",
+          "summary": "Emilio Sakraya (Rheingold, Those About to Die, Fortitude), Omid Abtahi (The Mandalorian, American Gods), Jamie Ward (The Gentlemen, His Dark Materials) and Nabeel Khan (Mandela: Long Walk to Freedom, Strike Back) have been tapped for recurring roles in One Piece: The Battle of Alibasta, the third season of the Netfl...",
+          "url": "https://deadline.com/2026/08/one-piece-the-battle-of-alabasta-season-3-four-cast-1237047796/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/tv/feed/",
-          "published_at": "2026-08-23 12:06:16 AM ET",
+          "published_at": "2026-08-23 06:00:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 92,
           "key_data": [
-            "Karoline Leavitt Announces Post-White House Job"
+            "‘One Piece: The Battle Of Alabasta’ Adds Four To Season 3 Cast"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2470,8 +2470,8 @@
           ]
         },
         {
-          "id": "tv-16-7211367158879265138",
-          "key": "tv-16-7211367158879265138",
+          "id": "tv-16-6632982799972977330",
+          "key": "tv-16-6632982799972977330",
           "category": "TV",
           "label": "TV",
           "headline": "Bunny Levine, Librarian Turned Actress in ‘Gilmore Girls,’ Thelma’ and ‘You Don’t Mess With the Zohan,’ Dies at 97",
@@ -2498,8 +2498,8 @@
           ]
         },
         {
-          "id": "tv-26-3882499887992935138",
-          "key": "tv-26-3882499887992935138",
+          "id": "tv-26-2854409228782588668",
+          "key": "tv-26-2854409228782588668",
           "category": "TV",
           "label": "TV",
           "headline": "‘The Office’ star Jenna Fischer exposes the grueling reality that forced her off TV - Fox News",
@@ -2526,25 +2526,25 @@
           ]
         },
         {
-          "id": "tv-1-8989480340672819545",
-          "key": "tv-1-8989480340672819545",
+          "id": "tv-1-7055187901354842876",
+          "key": "tv-1-7055187901354842876",
           "category": "TV",
           "label": "TV",
-          "headline": "How ‘Abbott Elementary’ Pulled Off Its Big Phillies Game Episode",
-          "title": "How ‘Abbott Elementary’ Pulled Off Its Big Phillies Game Episode",
-          "snapshot": "They say that every trip to watch a ballgame is a different experience: a chance to see stolen bases and home runs; antics from the bleachers that end up on kiss cams and dance cams; fly balls soaring into the stands; or your daily caloric intake from hot dogs and popcorn. This unpredictability can be […]",
-          "summary": "They say that every trip to watch a ballgame is a different experience: a chance to see stolen bases and home runs; antics from the bleachers that end up on kiss cams and dance cams; fly balls soaring into the stands; or your daily caloric intake from hot dogs and popcorn. This unpredictability can be […]",
-          "url": "https://variety.com/2026/artisans/focus/abbott-elementary-phillies-game-episode-1236840283/",
+          "headline": "Taylor Sheridan Accused of Stealing ‘Yellowstone’ From 2016 Pitch in Copyright Lawsuit",
+          "title": "Taylor Sheridan Accused of Stealing ‘Yellowstone’ From 2016 Pitch in Copyright Lawsuit",
+          "snapshot": "Writer Lauren J. Salkin has accused Taylor Sheridan of stealing his marquee series “Yellowstone” from her 2016 pitch in a lawsuit filed on Friday. 101 Studios, Paramount and Elevate Entertainment are also listed as defendants. Reps for Sheridan, 101 Studios, Paramount and Elevate Entertainment did not immediately re...",
+          "summary": "Writer Lauren J. Salkin has accused Taylor Sheridan of stealing his marquee series “Yellowstone” from her 2016 pitch in a lawsuit filed on Friday. 101 Studios, Paramount and Elevate Entertainment are also listed as defendants. Reps for Sheridan, 101 Studios, Paramount and Elevate Entertainment did not immediately re...",
+          "url": "https://variety.com/2026/tv/news/taylor-sheridan-accused-stealing-yellowstone-lawsuit-1236840854/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/tv/feed/",
-          "published_at": "2026-08-22 01:05:00 PM ET",
+          "published_at": "2026-08-22 03:56:21 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "How ‘Abbott Elementary’ Pulled Off Its Big Phillies Game Episode"
+            "Taylor Sheridan Accused of Stealing ‘Yellowstone’ From 2016 Pitch in Copyright Lawsuit"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2554,25 +2554,25 @@
           ]
         },
         {
-          "id": "tv-9-7467381825106439892",
-          "key": "tv-9-7467381825106439892",
+          "id": "tv-9-1478309583197781039",
+          "key": "tv-9-1478309583197781039",
           "category": "TV",
           "label": "TV",
-          "headline": "Bunny Levine Dies: Librarian Turned Actress Who Appeared In Everything From ‘Gilmore Girls’ To Adam Sandler Movies Was 97",
-          "title": "Bunny Levine Dies: Librarian Turned Actress Who Appeared In Everything From ‘Gilmore Girls’ To Adam Sandler Movies Was 97",
-          "snapshot": "Bunny Levine, a librarian who took early retirement and then began acting on such shows as Gilmore Girls and Shameless as well as two Adam Sandler films, has died, according to multiple reports. She was 97. Levine graduated from college in 1951 and became a school librarian in New Jersey, where she worked before dec...",
-          "summary": "Bunny Levine, a librarian who took early retirement and then began acting on such shows as Gilmore Girls and Shameless as well as two Adam Sandler films, has died, according to multiple reports. She was 97. Levine graduated from college in 1951 and became a school librarian in New Jersey, where she worked before dec...",
-          "url": "https://deadline.com/2026/08/bunny-levine-dead-actress-librarian-1237048184/",
+          "headline": "Karoline Leavitt Announces Post-White House Job",
+          "title": "Karoline Leavitt Announces Post-White House Job",
+          "snapshot": "“Karoline will now be one of my top outside advisors, and an influential voice within the Republican Party,” President Donald Trump said in a statement earlier this week announcing the departure of White House Press Secretary Karoline Leavitt. Turns out, he was right. Leavitt told reporters on Friday that she is ret...",
+          "summary": "“Karoline will now be one of my top outside advisors, and an influential voice within the Republican Party,” President Donald Trump said in a statement earlier this week announcing the departure of White House Press Secretary Karoline Leavitt. Turns out, he was right. Leavitt told reporters on Friday that she is ret...",
+          "url": "https://deadline.com/2026/08/karoline-leavitt-post-white-house-job-1237048199/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/tv/feed/",
-          "published_at": "2026-08-22 09:47:17 PM ET",
+          "published_at": "2026-08-23 12:06:16 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 91,
           "key_data": [
-            "Bunny Levine Dies: Librarian Turned Actress Who Appeared In Everything From ‘Gilmore Girls’ To Adam Sandler Movies Was 97"
+            "Karoline Leavitt Announces Post-White House Job"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2582,8 +2582,8 @@
           ]
         },
         {
-          "id": "tv-17-5695504784036892405",
-          "key": "tv-17-5695504784036892405",
+          "id": "tv-17-6573081475224996111",
+          "key": "tv-17-6573081475224996111",
           "category": "TV",
           "label": "TV",
           "headline": "Meghan Markle Reportedly Dropped From Consideration to Join Guy Ritchie’s ‘The Gentlemen’",
@@ -2610,8 +2610,8 @@
           ]
         },
         {
-          "id": "tv-27-5440999438989230562",
-          "key": "tv-27-5440999438989230562",
+          "id": "tv-27-1902260710086523768",
+          "key": "tv-27-1902260710086523768",
           "category": "TV",
           "label": "TV",
           "headline": "AI Just Got Its First 24/7 TV Channel - PYMNTS.com",
@@ -2638,7 +2638,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 05:27:58 AM ET"
+      "updated_at": "2026-08-23 06:24:51 AM ET"
     },
     {
       "key": "streaming",
@@ -2656,8 +2656,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "streaming-0-8923945362464314698",
-          "key": "streaming-0-8923945362464314698",
+          "id": "streaming-0-3825658991226002361",
+          "key": "streaming-0-3825658991226002361",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'Mother Mary' to 'Passenger,' 10 movies to stream right now - USA Today",
@@ -2684,8 +2684,8 @@
           ]
         },
         {
-          "id": "streaming-1-6703745239685179225",
-          "key": "streaming-1-6703745239685179225",
+          "id": "streaming-1-2272513996451349169",
+          "key": "streaming-1-2272513996451349169",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "5 best new movies to stream this weekend on Netflix, Disney+, Hulu, and more (August 15-16) - Tom's Guide",
@@ -2714,8 +2714,8 @@
       ],
       "items": [
         {
-          "id": "streaming-0-8923945362464314698",
-          "key": "streaming-0-8923945362464314698",
+          "id": "streaming-0-3825658991226002361",
+          "key": "streaming-0-3825658991226002361",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'Mother Mary' to 'Passenger,' 10 movies to stream right now - USA Today",
@@ -2742,8 +2742,8 @@
           ]
         },
         {
-          "id": "streaming-1-6703745239685179225",
-          "key": "streaming-1-6703745239685179225",
+          "id": "streaming-1-2272513996451349169",
+          "key": "streaming-1-2272513996451349169",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "5 best new movies to stream this weekend on Netflix, Disney+, Hulu, and more (August 15-16) - Tom's Guide",
@@ -2770,7 +2770,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 05:27:58 AM ET"
+      "updated_at": "2026-08-23 06:24:52 AM ET"
     },
     {
       "key": "music",
@@ -2795,8 +2795,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "music-0-5614585345615014722",
-          "key": "music-0-5614585345615014722",
+          "id": "music-0-180458679750315557",
+          "key": "music-0-180458679750315557",
           "category": "Music",
           "label": "Music",
           "headline": "Dale Morris, Titan of Nashville Management Who Forged Superstar Careers for Kenny Chesney and Alabama, Dies at 89",
@@ -2823,8 +2823,8 @@
           ]
         },
         {
-          "id": "music-10-7061467409600905431",
-          "key": "music-10-7061467409600905431",
+          "id": "music-10-2720236908708613275",
+          "key": "music-10-2720236908708613275",
           "category": "Music",
           "label": "Music",
           "headline": "Dolly Parton Says She’s Exploring ‘Avatar Performances’",
@@ -2851,8 +2851,8 @@
           ]
         },
         {
-          "id": "music-20-8274997530397645894",
-          "key": "music-20-8274997530397645894",
+          "id": "music-20-6692695256302567978",
+          "key": "music-20-6692695256302567978",
           "category": "Music",
           "label": "Music",
           "headline": "Los Lobos Settles Sony Music Lawsuit Over ‘Desperado’ Movie Soundtrack Royalties - Billboard",
@@ -2879,8 +2879,8 @@
           ]
         },
         {
-          "id": "music-1-4248727837110720277",
-          "key": "music-1-4248727837110720277",
+          "id": "music-1-6478945001518900596",
+          "key": "music-1-6478945001518900596",
           "category": "Music",
           "label": "Music",
           "headline": "Olivia Rodrigo Releases ‘Handmaid’s Tale’-Inspired Song, ‘Serena Joy,’ in a Tiny Run of CDs, With Digital Drop to Follow",
@@ -2907,8 +2907,8 @@
           ]
         },
         {
-          "id": "music-11-2768480131471999552",
-          "key": "music-11-2768480131471999552",
+          "id": "music-11-3706699231718648368",
+          "key": "music-11-3706699231718648368",
           "category": "Music",
           "label": "Music",
           "headline": "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium",
@@ -2935,8 +2935,8 @@
           ]
         },
         {
-          "id": "music-21-5691655906462846820",
-          "key": "music-21-5691655906462846820",
+          "id": "music-21-801477357889241427",
+          "key": "music-21-801477357889241427",
           "category": "Music",
           "label": "Music",
           "headline": "R&B/Hip-Hop Power Players: Billboard’s 2026 List Revealed - Billboard",
@@ -2965,8 +2965,8 @@
       ],
       "items": [
         {
-          "id": "music-0-5614585345615014722",
-          "key": "music-0-5614585345615014722",
+          "id": "music-0-180458679750315557",
+          "key": "music-0-180458679750315557",
           "category": "Music",
           "label": "Music",
           "headline": "Dale Morris, Titan of Nashville Management Who Forged Superstar Careers for Kenny Chesney and Alabama, Dies at 89",
@@ -2993,8 +2993,8 @@
           ]
         },
         {
-          "id": "music-10-7061467409600905431",
-          "key": "music-10-7061467409600905431",
+          "id": "music-10-2720236908708613275",
+          "key": "music-10-2720236908708613275",
           "category": "Music",
           "label": "Music",
           "headline": "Dolly Parton Says She’s Exploring ‘Avatar Performances’",
@@ -3021,8 +3021,8 @@
           ]
         },
         {
-          "id": "music-20-8274997530397645894",
-          "key": "music-20-8274997530397645894",
+          "id": "music-20-6692695256302567978",
+          "key": "music-20-6692695256302567978",
           "category": "Music",
           "label": "Music",
           "headline": "Los Lobos Settles Sony Music Lawsuit Over ‘Desperado’ Movie Soundtrack Royalties - Billboard",
@@ -3049,8 +3049,8 @@
           ]
         },
         {
-          "id": "music-1-4248727837110720277",
-          "key": "music-1-4248727837110720277",
+          "id": "music-1-6478945001518900596",
+          "key": "music-1-6478945001518900596",
           "category": "Music",
           "label": "Music",
           "headline": "Olivia Rodrigo Releases ‘Handmaid’s Tale’-Inspired Song, ‘Serena Joy,’ in a Tiny Run of CDs, With Digital Drop to Follow",
@@ -3077,8 +3077,8 @@
           ]
         },
         {
-          "id": "music-11-2768480131471999552",
-          "key": "music-11-2768480131471999552",
+          "id": "music-11-3706699231718648368",
+          "key": "music-11-3706699231718648368",
           "category": "Music",
           "label": "Music",
           "headline": "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium",
@@ -3105,8 +3105,8 @@
           ]
         },
         {
-          "id": "music-21-5691655906462846820",
-          "key": "music-21-5691655906462846820",
+          "id": "music-21-801477357889241427",
+          "key": "music-21-801477357889241427",
           "category": "Music",
           "label": "Music",
           "headline": "R&B/Hip-Hop Power Players: Billboard’s 2026 List Revealed - Billboard",
@@ -3133,7 +3133,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 05:27:59 AM ET"
+      "updated_at": "2026-08-23 06:24:53 AM ET"
     },
     {
       "key": "awards",
@@ -3155,8 +3155,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "awards-0-8400901536385306177",
-          "key": "awards-0-8400901536385306177",
+          "id": "awards-0-3077383046518311181",
+          "key": "awards-0-3077383046518311181",
           "category": "Awards",
           "label": "Awards",
           "headline": "‘Slow Horses’ Actor Jack Lowden Unpacks River Cartwright and Why Pride Gets in His Way",
@@ -3183,8 +3183,8 @@
           ]
         },
         {
-          "id": "awards-8-5645219399953977669",
-          "key": "awards-8-5645219399953977669",
+          "id": "awards-8-4862014736826526439",
+          "key": "awards-8-4862014736826526439",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar - Deadline",
@@ -3211,8 +3211,8 @@
           ]
         },
         {
-          "id": "awards-1-7586353568876315499",
-          "key": "awards-1-7586353568876315499",
+          "id": "awards-1-5766744099402407657",
+          "key": "awards-1-5766744099402407657",
           "category": "Awards",
           "label": "Awards",
           "headline": "Emmys: A Breakdown of the Music Nominees From Lady Gaga’s ‘Dead Dance’ to Hans Zimmer’s Race for His First Win",
@@ -3239,8 +3239,8 @@
           ]
         },
         {
-          "id": "awards-9-3488131314329003557",
-          "key": "awards-9-3488131314329003557",
+          "id": "awards-9-3551087148793158276",
+          "key": "awards-9-3551087148793158276",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026 Emmys Supporting Actor Comedy Predictions and Rankings - Yahoo",
@@ -3269,8 +3269,8 @@
       ],
       "items": [
         {
-          "id": "awards-0-8400901536385306177",
-          "key": "awards-0-8400901536385306177",
+          "id": "awards-0-3077383046518311181",
+          "key": "awards-0-3077383046518311181",
           "category": "Awards",
           "label": "Awards",
           "headline": "‘Slow Horses’ Actor Jack Lowden Unpacks River Cartwright and Why Pride Gets in His Way",
@@ -3297,8 +3297,8 @@
           ]
         },
         {
-          "id": "awards-8-5645219399953977669",
-          "key": "awards-8-5645219399953977669",
+          "id": "awards-8-4862014736826526439",
+          "key": "awards-8-4862014736826526439",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar - Deadline",
@@ -3325,8 +3325,8 @@
           ]
         },
         {
-          "id": "awards-1-7586353568876315499",
-          "key": "awards-1-7586353568876315499",
+          "id": "awards-1-5766744099402407657",
+          "key": "awards-1-5766744099402407657",
           "category": "Awards",
           "label": "Awards",
           "headline": "Emmys: A Breakdown of the Music Nominees From Lady Gaga’s ‘Dead Dance’ to Hans Zimmer’s Race for His First Win",
@@ -3353,8 +3353,8 @@
           ]
         },
         {
-          "id": "awards-9-3488131314329003557",
-          "key": "awards-9-3488131314329003557",
+          "id": "awards-9-3551087148793158276",
+          "key": "awards-9-3551087148793158276",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026 Emmys Supporting Actor Comedy Predictions and Rankings - Yahoo",
@@ -3381,7 +3381,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 05:27:59 AM ET"
+      "updated_at": "2026-08-23 06:24:53 AM ET"
     },
     {
       "key": "box_office",
@@ -3403,8 +3403,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "box_office-0-1221498067869546002",
-          "key": "box_office-0-1221498067869546002",
+          "id": "box_office-0-4314056166722128190",
+          "key": "box_office-0-4314056166722128190",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ Beats ‘Deadpool & Wolverine’ as Biggest R-Rated Movie of All Time With $1.35 Billion",
@@ -3431,8 +3431,8 @@
           ]
         },
         {
-          "id": "box_office-9-7031506461361522021",
-          "key": "box_office-9-7031506461361522021",
+          "id": "box_office-9-1216905197200622139",
+          "key": "box_office-9-1216905197200622139",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "13 Movies That Made 100 Times Their Budget at the Box Office - MovieMaker Magazine",
@@ -3459,8 +3459,8 @@
           ]
         },
         {
-          "id": "box_office-1-4459449711803872887",
-          "key": "box_office-1-4459449711803872887",
+          "id": "box_office-1-7655904477080211089",
+          "key": "box_office-1-7655904477080211089",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘It Finally Feels Like We’re Back in 2019’: Movie Theater Owners Rejoice Over $4 Billion Summer. Can the Fall Keep the Momentum?",
@@ -3487,8 +3487,8 @@
           ]
         },
         {
-          "id": "box_office-10-4524226053316841946",
-          "key": "box_office-10-4524226053316841946",
+          "id": "box_office-10-1530612255672142299",
+          "key": "box_office-10-1530612255672142299",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Only 64 movies have ever hit $1 billion at the box office — here they all are - Business Insider",
@@ -3517,8 +3517,8 @@
       ],
       "items": [
         {
-          "id": "box_office-0-1221498067869546002",
-          "key": "box_office-0-1221498067869546002",
+          "id": "box_office-0-4314056166722128190",
+          "key": "box_office-0-4314056166722128190",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ Beats ‘Deadpool & Wolverine’ as Biggest R-Rated Movie of All Time With $1.35 Billion",
@@ -3545,8 +3545,8 @@
           ]
         },
         {
-          "id": "box_office-9-7031506461361522021",
-          "key": "box_office-9-7031506461361522021",
+          "id": "box_office-9-1216905197200622139",
+          "key": "box_office-9-1216905197200622139",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "13 Movies That Made 100 Times Their Budget at the Box Office - MovieMaker Magazine",
@@ -3573,8 +3573,8 @@
           ]
         },
         {
-          "id": "box_office-1-4459449711803872887",
-          "key": "box_office-1-4459449711803872887",
+          "id": "box_office-1-7655904477080211089",
+          "key": "box_office-1-7655904477080211089",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘It Finally Feels Like We’re Back in 2019’: Movie Theater Owners Rejoice Over $4 Billion Summer. Can the Fall Keep the Momentum?",
@@ -3601,8 +3601,8 @@
           ]
         },
         {
-          "id": "box_office-10-4524226053316841946",
-          "key": "box_office-10-4524226053316841946",
+          "id": "box_office-10-1530612255672142299",
+          "key": "box_office-10-1530612255672142299",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Only 64 movies have ever hit $1 billion at the box office — here they all are - Business Insider",
@@ -3629,7 +3629,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 05:28:00 AM ET"
+      "updated_at": "2026-08-23 06:24:54 AM ET"
     },
     {
       "key": "celebrity",
@@ -3647,8 +3647,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "celebrity-0-534522410582060207",
-          "key": "celebrity-0-534522410582060207",
+          "id": "celebrity-0-2129581645925469989",
+          "key": "celebrity-0-2129581645925469989",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3675,8 +3675,8 @@
           ]
         },
         {
-          "id": "celebrity-1-7668876441334275155",
-          "key": "celebrity-1-7668876441334275155",
+          "id": "celebrity-1-5660234006276439224",
+          "key": "celebrity-1-5660234006276439224",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "PHOTOS: 2026 celebrity deaths - WTOP",
@@ -3705,8 +3705,8 @@
       ],
       "items": [
         {
-          "id": "celebrity-0-534522410582060207",
-          "key": "celebrity-0-534522410582060207",
+          "id": "celebrity-0-2129581645925469989",
+          "key": "celebrity-0-2129581645925469989",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3733,8 +3733,8 @@
           ]
         },
         {
-          "id": "celebrity-1-7668876441334275155",
-          "key": "celebrity-1-7668876441334275155",
+          "id": "celebrity-1-5660234006276439224",
+          "key": "celebrity-1-5660234006276439224",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "PHOTOS: 2026 celebrity deaths - WTOP",
@@ -3761,14 +3761,14 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 05:28:00 AM ET"
+      "updated_at": "2026-08-23 06:24:54 AM ET"
     },
     {
       "key": "hollywood",
       "name": "Hollywood",
       "title": "Hollywood Report",
       "headline": "HBO Max Is Free Right Now For 7 Days With This Prime Video Promo",
-      "snapshot": "Hollywood coverage is updating with 8 current RSS headline item(s).",
+      "snapshot": "Hollywood coverage is updating with 7 current RSS headline item(s).",
       "key_storylines": [
         "HBO Max Is Free Right Now For 7 Days With This Prime Video Promo",
         "Simon Wiesenthal Center CEO Calls Out Mark Ruffalo For “Antisemitism” & “Demonization”",
@@ -3782,14 +3782,13 @@
         "Taylor Sheridan Accused of Stealing ‘Yellowstone’ Idea From TV Writer’s Pitch",
         "How L.A. stopped being Hollywood’s leading star - Los Angeles Times",
         "Rolly Romero vs. Teofimo Lopez Livestream: Where to Watch the Welterweight Pay-Per-View Match Online",
-        "Sony Double Feature At The B.O.: ‘Spider-Man: Brand New Day’ $36M+, ‘Insidious 6’ $23M+ Opening – Saturday AM Update",
         "‘Spa Weekend’ Review: Leslie Mann and Isla Fisher Go Underserved in a Lukewarm Bath of a Comedy",
         "The Massive Moviemaking Exodus from Hollywood - Politico"
       ],
       "homepage_cards": [
         {
-          "id": "hollywood-0-2018957532345141173",
-          "key": "hollywood-0-2018957532345141173",
+          "id": "hollywood-0-1828333862218001152",
+          "key": "hollywood-0-1828333862218001152",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "HBO Max Is Free Right Now For 7 Days With This Prime Video Promo",
@@ -3816,8 +3815,8 @@
           ]
         },
         {
-          "id": "hollywood-2-3289610521635163251",
-          "key": "hollywood-2-3289610521635163251",
+          "id": "hollywood-2-2875468832056209915",
+          "key": "hollywood-2-2875468832056209915",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Simon Wiesenthal Center CEO Calls Out Mark Ruffalo For “Antisemitism” & “Demonization”",
@@ -3844,8 +3843,8 @@
           ]
         },
         {
-          "id": "hollywood-4-2747386690337920198",
-          "key": "hollywood-4-2747386690337920198",
+          "id": "hollywood-3-9163834533585762049",
+          "key": "hollywood-3-9163834533585762049",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Taylor Sheridan Accused of Stealing ‘Yellowstone’ Idea From TV Writer’s Pitch",
@@ -3860,7 +3859,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 96,
+          "priority_score": 97,
           "key_data": [
             "Taylor Sheridan Accused of Stealing ‘Yellowstone’ Idea From TV Writer’s Pitch"
           ],
@@ -3872,8 +3871,8 @@
           ]
         },
         {
-          "id": "hollywood-9-2267065006950202296",
-          "key": "hollywood-9-2267065006950202296",
+          "id": "hollywood-8-7918554908497481022",
+          "key": "hollywood-8-7918554908497481022",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "How L.A. stopped being Hollywood’s leading star - Los Angeles Times",
@@ -3888,7 +3887,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 91,
+          "priority_score": 92,
           "key_data": [
             "How L.A. stopped being Hollywood’s leading star - Los Angeles Times"
           ],
@@ -3900,8 +3899,8 @@
           ]
         },
         {
-          "id": "hollywood-1-6928463967536172240",
-          "key": "hollywood-1-6928463967536172240",
+          "id": "hollywood-1-1958241870151997212",
+          "key": "hollywood-1-1958241870151997212",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Rolly Romero vs. Teofimo Lopez Livestream: Where to Watch the Welterweight Pay-Per-View Match Online",
@@ -3928,36 +3927,8 @@
           ]
         },
         {
-          "id": "hollywood-3-436266234995492509",
-          "key": "hollywood-3-436266234995492509",
-          "category": "Hollywood",
-          "label": "Hollywood",
-          "headline": "Sony Double Feature At The B.O.: ‘Spider-Man: Brand New Day’ $36M+, ‘Insidious 6’ $23M+ Opening – Saturday AM Update",
-          "title": "Sony Double Feature At The B.O.: ‘Spider-Man: Brand New Day’ $36M+, ‘Insidious 6’ $23M+ Opening – Saturday AM Update",
-          "snapshot": "SATURDAY AM WRITETHRU after Friday afternoon update: Refresh for more and chart…This weekend belongs to Sony, or at least the top two spots at the box office do, with Marvel Studios’ Spider-Man: Brand New Day‘s fourth frame of $36.5 million at 4,006 sites and Blumhouse/Atomic Monster/Stage 6’s Insidious: Out of the...",
-          "summary": "SATURDAY AM WRITETHRU after Friday afternoon update: Refresh for more and chart…This weekend belongs to Sony, or at least the top two spots at the box office do, with Marvel Studios’ Spider-Man: Brand New Day‘s fourth frame of $36.5 million at 4,006 sites and Blumhouse/Atomic Monster/Stage 6’s Insidious: Out of the...",
-          "url": "https://deadline.com/2026/08/box-office-insidious-out-of-the-further-brand-new-day-1237047405/",
-          "source": "Deadline",
-          "source_name": "Deadline",
-          "source_feed": "https://deadline.com/feed/",
-          "published_at": "2026-08-22 11:14:00 AM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 97,
-          "key_data": [
-            "Sony Double Feature At The B.O.: ‘Spider-Man: Brand New Day’ $36M+, ‘Insidious 6’ $23M+ Opening – Saturday AM Update"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "hollywood-5-1135189052292221920",
-          "key": "hollywood-5-1135189052292221920",
+          "id": "hollywood-4-1491827287459051885",
+          "key": "hollywood-4-1491827287459051885",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘Spa Weekend’ Review: Leslie Mann and Isla Fisher Go Underserved in a Lukewarm Bath of a Comedy",
@@ -3972,7 +3943,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 95,
+          "priority_score": 96,
           "key_data": [
             "‘Spa Weekend’ Review: Leslie Mann and Isla Fisher Go Underserved in a Lukewarm Bath of a Comedy"
           ],
@@ -3984,8 +3955,8 @@
           ]
         },
         {
-          "id": "hollywood-10-2361306224224489041",
-          "key": "hollywood-10-2361306224224489041",
+          "id": "hollywood-9-5912412386537631410",
+          "key": "hollywood-9-5912412386537631410",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "The Massive Moviemaking Exodus from Hollywood - Politico",
@@ -4000,7 +3971,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 90,
+          "priority_score": 91,
           "key_data": [
             "The Massive Moviemaking Exodus from Hollywood - Politico"
           ],
@@ -4014,8 +3985,8 @@
       ],
       "items": [
         {
-          "id": "hollywood-0-2018957532345141173",
-          "key": "hollywood-0-2018957532345141173",
+          "id": "hollywood-0-1828333862218001152",
+          "key": "hollywood-0-1828333862218001152",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "HBO Max Is Free Right Now For 7 Days With This Prime Video Promo",
@@ -4042,8 +4013,8 @@
           ]
         },
         {
-          "id": "hollywood-2-3289610521635163251",
-          "key": "hollywood-2-3289610521635163251",
+          "id": "hollywood-2-2875468832056209915",
+          "key": "hollywood-2-2875468832056209915",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Simon Wiesenthal Center CEO Calls Out Mark Ruffalo For “Antisemitism” & “Demonization”",
@@ -4070,8 +4041,8 @@
           ]
         },
         {
-          "id": "hollywood-4-2747386690337920198",
-          "key": "hollywood-4-2747386690337920198",
+          "id": "hollywood-3-9163834533585762049",
+          "key": "hollywood-3-9163834533585762049",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Taylor Sheridan Accused of Stealing ‘Yellowstone’ Idea From TV Writer’s Pitch",
@@ -4086,7 +4057,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 96,
+          "priority_score": 97,
           "key_data": [
             "Taylor Sheridan Accused of Stealing ‘Yellowstone’ Idea From TV Writer’s Pitch"
           ],
@@ -4098,8 +4069,8 @@
           ]
         },
         {
-          "id": "hollywood-9-2267065006950202296",
-          "key": "hollywood-9-2267065006950202296",
+          "id": "hollywood-8-7918554908497481022",
+          "key": "hollywood-8-7918554908497481022",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "How L.A. stopped being Hollywood’s leading star - Los Angeles Times",
@@ -4114,7 +4085,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 91,
+          "priority_score": 92,
           "key_data": [
             "How L.A. stopped being Hollywood’s leading star - Los Angeles Times"
           ],
@@ -4126,8 +4097,8 @@
           ]
         },
         {
-          "id": "hollywood-1-6928463967536172240",
-          "key": "hollywood-1-6928463967536172240",
+          "id": "hollywood-1-1958241870151997212",
+          "key": "hollywood-1-1958241870151997212",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Rolly Romero vs. Teofimo Lopez Livestream: Where to Watch the Welterweight Pay-Per-View Match Online",
@@ -4154,36 +4125,8 @@
           ]
         },
         {
-          "id": "hollywood-3-436266234995492509",
-          "key": "hollywood-3-436266234995492509",
-          "category": "Hollywood",
-          "label": "Hollywood",
-          "headline": "Sony Double Feature At The B.O.: ‘Spider-Man: Brand New Day’ $36M+, ‘Insidious 6’ $23M+ Opening – Saturday AM Update",
-          "title": "Sony Double Feature At The B.O.: ‘Spider-Man: Brand New Day’ $36M+, ‘Insidious 6’ $23M+ Opening – Saturday AM Update",
-          "snapshot": "SATURDAY AM WRITETHRU after Friday afternoon update: Refresh for more and chart…This weekend belongs to Sony, or at least the top two spots at the box office do, with Marvel Studios’ Spider-Man: Brand New Day‘s fourth frame of $36.5 million at 4,006 sites and Blumhouse/Atomic Monster/Stage 6’s Insidious: Out of the...",
-          "summary": "SATURDAY AM WRITETHRU after Friday afternoon update: Refresh for more and chart…This weekend belongs to Sony, or at least the top two spots at the box office do, with Marvel Studios’ Spider-Man: Brand New Day‘s fourth frame of $36.5 million at 4,006 sites and Blumhouse/Atomic Monster/Stage 6’s Insidious: Out of the...",
-          "url": "https://deadline.com/2026/08/box-office-insidious-out-of-the-further-brand-new-day-1237047405/",
-          "source": "Deadline",
-          "source_name": "Deadline",
-          "source_feed": "https://deadline.com/feed/",
-          "published_at": "2026-08-22 11:14:00 AM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 97,
-          "key_data": [
-            "Sony Double Feature At The B.O.: ‘Spider-Man: Brand New Day’ $36M+, ‘Insidious 6’ $23M+ Opening – Saturday AM Update"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "hollywood-5-1135189052292221920",
-          "key": "hollywood-5-1135189052292221920",
+          "id": "hollywood-4-1491827287459051885",
+          "key": "hollywood-4-1491827287459051885",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘Spa Weekend’ Review: Leslie Mann and Isla Fisher Go Underserved in a Lukewarm Bath of a Comedy",
@@ -4198,7 +4141,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 95,
+          "priority_score": 96,
           "key_data": [
             "‘Spa Weekend’ Review: Leslie Mann and Isla Fisher Go Underserved in a Lukewarm Bath of a Comedy"
           ],
@@ -4210,8 +4153,8 @@
           ]
         },
         {
-          "id": "hollywood-10-2361306224224489041",
-          "key": "hollywood-10-2361306224224489041",
+          "id": "hollywood-9-5912412386537631410",
+          "key": "hollywood-9-5912412386537631410",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "The Massive Moviemaking Exodus from Hollywood - Politico",
@@ -4226,7 +4169,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 90,
+          "priority_score": 91,
           "key_data": [
             "The Massive Moviemaking Exodus from Hollywood - Politico"
           ],
@@ -4238,7 +4181,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 05:28:01 AM ET"
+      "updated_at": "2026-08-23 06:24:55 AM ET"
     },
     {
       "key": "gaming",
@@ -4256,8 +4199,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "gaming-0-6098271708880164024",
-          "key": "gaming-0-6098271708880164024",
+          "id": "gaming-0-7570313931750169069",
+          "key": "gaming-0-7570313931750169069",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "GTA 6 Leaker Releases More Gameplay Videos Despite Rockstar Owner Take-Two's Microsoft and Discord Subpoenas",
@@ -4284,8 +4227,8 @@
           ]
         },
         {
-          "id": "gaming-1-5506402246673791893",
-          "key": "gaming-1-5506402246673791893",
+          "id": "gaming-1-3517155504185060389",
+          "key": "gaming-1-3517155504185060389",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "The Best Deals Today: Nintendo Switch 2, LEGO Tropical Aquarium, Final Fantasy VII Rebirth, and More",
@@ -4314,8 +4257,8 @@
       ],
       "items": [
         {
-          "id": "gaming-0-6098271708880164024",
-          "key": "gaming-0-6098271708880164024",
+          "id": "gaming-0-7570313931750169069",
+          "key": "gaming-0-7570313931750169069",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "GTA 6 Leaker Releases More Gameplay Videos Despite Rockstar Owner Take-Two's Microsoft and Discord Subpoenas",
@@ -4342,8 +4285,8 @@
           ]
         },
         {
-          "id": "gaming-1-5506402246673791893",
-          "key": "gaming-1-5506402246673791893",
+          "id": "gaming-1-3517155504185060389",
+          "key": "gaming-1-3517155504185060389",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "The Best Deals Today: Nintendo Switch 2, LEGO Tropical Aquarium, Final Fantasy VII Rebirth, and More",
@@ -4370,7 +4313,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 05:28:02 AM ET"
+      "updated_at": "2026-08-23 06:24:56 AM ET"
     },
     {
       "key": "media",
@@ -4395,8 +4338,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "media-0-2872446850942128914",
-          "key": "media-0-2872446850942128914",
+          "id": "media-0-216864819740849028",
+          "key": "media-0-216864819740849028",
           "category": "Media",
           "label": "Media",
           "headline": "Secret Hollywood Group’s AI Plan Focuses on Defining How AI Is Used — While Keeping Humans in Control",
@@ -4423,8 +4366,8 @@
           ]
         },
         {
-          "id": "media-10-1949058553195809652",
-          "key": "media-10-1949058553195809652",
+          "id": "media-10-683199072805089592",
+          "key": "media-10-683199072805089592",
           "category": "Media",
           "label": "Media",
           "headline": "TikTok To Pay $400M In Justice Department Settlement Over Children’s Privacy",
@@ -4451,8 +4394,8 @@
           ]
         },
         {
-          "id": "media-19-5368037638139968339",
-          "key": "media-19-5368037638139968339",
+          "id": "media-19-5165086682912466913",
+          "key": "media-19-5165086682912466913",
           "category": "Media",
           "label": "Media",
           "headline": "SNK Entertainment dissolved after 10 years. Most of its businesses transferred to parent company SNK - AUTOMATON",
@@ -4479,8 +4422,8 @@
           ]
         },
         {
-          "id": "media-1-4313219493795106350",
-          "key": "media-1-4313219493795106350",
+          "id": "media-1-431585907712361245",
+          "key": "media-1-431585907712361245",
           "category": "Media",
           "label": "Media",
           "headline": "Vertical Media on Track to Generate $150 Billion in 2026 as the Booming Sector Fights Crowded Content Field and High Subscriber Acquisition Costs",
@@ -4507,8 +4450,8 @@
           ]
         },
         {
-          "id": "media-11-2234832665541487812",
-          "key": "media-11-2234832665541487812",
+          "id": "media-11-3144153232885096094",
+          "key": "media-11-3144153232885096094",
           "category": "Media",
           "label": "Media",
           "headline": "Paramount Accuses Mark Ruffalo Of Being “Antisemitic” After He Slams Ellisons’ Ties To Oracle, Calling Them “Really Profoundly Scary People”",
@@ -4535,8 +4478,8 @@
           ]
         },
         {
-          "id": "media-20-6521866882745414987",
-          "key": "media-20-6521866882745414987",
+          "id": "media-20-1538039077571529389",
+          "key": "media-20-1538039077571529389",
           "category": "Media",
           "label": "Media",
           "headline": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
@@ -4565,8 +4508,8 @@
       ],
       "items": [
         {
-          "id": "media-0-2872446850942128914",
-          "key": "media-0-2872446850942128914",
+          "id": "media-0-216864819740849028",
+          "key": "media-0-216864819740849028",
           "category": "Media",
           "label": "Media",
           "headline": "Secret Hollywood Group’s AI Plan Focuses on Defining How AI Is Used — While Keeping Humans in Control",
@@ -4593,8 +4536,8 @@
           ]
         },
         {
-          "id": "media-10-1949058553195809652",
-          "key": "media-10-1949058553195809652",
+          "id": "media-10-683199072805089592",
+          "key": "media-10-683199072805089592",
           "category": "Media",
           "label": "Media",
           "headline": "TikTok To Pay $400M In Justice Department Settlement Over Children’s Privacy",
@@ -4621,8 +4564,8 @@
           ]
         },
         {
-          "id": "media-19-5368037638139968339",
-          "key": "media-19-5368037638139968339",
+          "id": "media-19-5165086682912466913",
+          "key": "media-19-5165086682912466913",
           "category": "Media",
           "label": "Media",
           "headline": "SNK Entertainment dissolved after 10 years. Most of its businesses transferred to parent company SNK - AUTOMATON",
@@ -4649,8 +4592,8 @@
           ]
         },
         {
-          "id": "media-1-4313219493795106350",
-          "key": "media-1-4313219493795106350",
+          "id": "media-1-431585907712361245",
+          "key": "media-1-431585907712361245",
           "category": "Media",
           "label": "Media",
           "headline": "Vertical Media on Track to Generate $150 Billion in 2026 as the Booming Sector Fights Crowded Content Field and High Subscriber Acquisition Costs",
@@ -4677,8 +4620,8 @@
           ]
         },
         {
-          "id": "media-11-2234832665541487812",
-          "key": "media-11-2234832665541487812",
+          "id": "media-11-3144153232885096094",
+          "key": "media-11-3144153232885096094",
           "category": "Media",
           "label": "Media",
           "headline": "Paramount Accuses Mark Ruffalo Of Being “Antisemitic” After He Slams Ellisons’ Ties To Oracle, Calling Them “Really Profoundly Scary People”",
@@ -4705,8 +4648,8 @@
           ]
         },
         {
-          "id": "media-20-6521866882745414987",
-          "key": "media-20-6521866882745414987",
+          "id": "media-20-1538039077571529389",
+          "key": "media-20-1538039077571529389",
           "category": "Media",
           "label": "Media",
           "headline": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
@@ -4733,7 +4676,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 05:28:02 AM ET"
+      "updated_at": "2026-08-23 06:24:56 AM ET"
     }
   ]
 }
