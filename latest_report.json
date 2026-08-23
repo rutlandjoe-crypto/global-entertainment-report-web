@@ -5,9 +5,9 @@
   "vertical": "Entertainment",
   "headline": "Ridley Scott Says 'I'm Not a Filmmaker, I'm an Influencer'",
   "snapshot": "Global Entertainment Report accepted 48 real RSS item(s) across 31 checked feed request(s).",
-  "generated_at": "2026-08-23 02:30:50 PM ET",
-  "updated_at": "2026-08-23 02:30:50 PM ET",
-  "published_at": "2026-08-23 02:30:50 PM ET",
+  "generated_at": "2026-08-23 03:21:58 PM ET",
+  "updated_at": "2026-08-23 03:21:58 PM ET",
+  "published_at": "2026-08-23 03:21:58 PM ET",
   "source_mode": "live RSS ingestion",
   "freshness": {
     "max_item_age_hours": 336,
@@ -77,9 +77,9 @@
       "final_url": "https://deadline.com/v/tv/feed/",
       "item_count": 12,
       "accepted_count": 2,
-      "rejected_count": 4,
+      "rejected_count": 3,
       "rejection_reasons": {
-        "duplicate-story": 4
+        "duplicate-story": 3
       }
     },
     {
@@ -223,8 +223,10 @@
       "final_url": "https://variety.com/v/film/box-office/feed/",
       "item_count": 10,
       "accepted_count": 2,
-      "rejected_count": 0,
-      "rejection_reasons": {}
+      "rejected_count": 1,
+      "rejection_reasons": {
+        "duplicate-story": 1
+      }
     },
     {
       "category": "box_office",
@@ -233,10 +235,10 @@
       "final_url": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 68,
+      "rejected_count": 66,
       "rejection_reasons": {
         "duplicate-story": 1,
-        "stale-over-336h": 67
+        "stale-over-336h": 65
       }
     },
     {
@@ -282,9 +284,9 @@
       "final_url": "https://deadline.com/feed/",
       "item_count": 12,
       "accepted_count": 2,
-      "rejected_count": 8,
+      "rejected_count": 7,
       "rejection_reasons": {
-        "duplicate-story": 8
+        "duplicate-story": 7
       }
     },
     {
@@ -373,18 +375,18 @@
   "x_handle": "@GlobalSportsRp",
   "key_storylines": [
     "Ridley Scott Says 'I'm Not a Filmmaker, I'm an Influencer'",
-    "Melissa Gilbert Calls On Unions To Protect Child Actors After Hayden Panettiere's Death: \"Something Has Got To Be Done\"",
+    "2026 Domestic Box Office Soars Past $7 Billion, +20% Over 2025",
     "'Spider-Man: Brand New Day' Hits No. 6 All-Time Globally as It Swings to Fourth Box Office Victory",
     "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
-    "Rosalía's 'La Perla' 'Wouldn't Exist' Without Paquita la del Barrio's 'Rata de dos Patas'",
+    "Drake's Appearance at Ella Langley's Show Has Fans Wondering About a Collab",
     "Marvel's Wolverine Limited-Edition PS5 Controller Is Still Available for Preorder (But It May Sell Out)",
     "Grace Passô's 'Our Secret' Nabs the Best Film Kikito at the 54th Gramado Film Festival",
-    "LMGI Awards Winners: 'One Battle After Another,' 'Marty Supreme,' 'Pluribus' Among Location Managers Guild's Honorees"
+    "Melissa Gilbert Calls On Unions To Protect Child Actors After Hayden Panettiere's Death: \"Something Has Got To Be Done\""
   ],
   "live_newsroom": [
     {
-      "id": "film-0-8258390754253414089",
-      "key": "film-0-8258390754253414089",
+      "id": "film-0-4006753658246061112",
+      "key": "film-0-4006753658246061112",
       "category": "Film",
       "label": "Film",
       "headline": "Ridley Scott Says 'I'm Not a Filmmaker, I'm an Influencer'",
@@ -410,22 +412,22 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-5819178747358265099",
-      "key": "film-10-5819178747358265099",
+      "id": "film-10-5116389921468433037",
+      "key": "film-10-5116389921468433037",
       "category": "Film",
       "label": "Film",
-      "headline": "Melissa Gilbert Calls On Unions To Protect Child Actors After Hayden Panettiere's Death: \"Something Has Got To Be Done\"",
-      "title": "Melissa Gilbert Calls On Unions To Protect Child Actors After Hayden Panettiere's Death: \"Something Has Got To Be Done\"",
-      "snapshot": "Following the death of Hayden Panettiere, Melissa Gilbert is the latest to call for better protections for child actors. On Saturday, the Little House on the Prairie alum admitted she \"did not know Hayden personally,\" but explained that her death feels \"so personal to me\" as a former child actor, demanding unions \"e...",
-      "summary": "Following the death of Hayden Panettiere, Melissa Gilbert is the latest to call for better protections for child actors. On Saturday, the Little House on the Prairie alum admitted she \"did not know Hayden personally,\" but explained that her death feels \"so personal to me\" as a former child actor, demanding unions \"e...",
-      "url": "https://deadline.com/2026/08/melissa-gilbert-protect-child-actors-hayden-panettiere-death-1237048294/",
+      "headline": "2026 Domestic Box Office Soars Past $7 Billion, +20% Over 2025",
+      "title": "2026 Domestic Box Office Soars Past $7 Billion, +20% Over 2025",
+      "snapshot": "This summer, and this year, further shows the importance of protecting the theatrical window as the domestic annual box office has crossed the $7 billion mark according to Rentrak. Those are the best numbers we've seen post Covid, +20% above the same period a year ago (Jan. 1-Aug. 23 which was at $5.86B with the […]",
+      "summary": "This summer, and this year, further shows the importance of protecting the theatrical window as the domestic annual box office has crossed the $7 billion mark according to Rentrak. Those are the best numbers we've seen post Covid, +20% above the same period a year ago (Jan. 1-Aug. 23 which was at $5.86B with the […]",
+      "url": "https://deadline.com/2026/08/box-office-domestic-7-billion-1237048328/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-08-23 12:25:34 PM ET",
+      "published_at": "2026-08-23 03:04:04 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Melissa Gilbert Calls On Unions To Protect Child Actors After Hayden Panettiere's Death: \"Something Has Got To Be Done\""
+        "2026 Domestic Box Office Soars Past $7 Billion, +20% Over 2025"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -437,8 +439,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-4917862338661668524",
-      "key": "film-22-4917862338661668524",
+      "id": "film-22-1312516487267277954",
+      "key": "film-22-1312516487267277954",
       "category": "Film",
       "label": "Film",
       "headline": "'Spider-Man: Brand New Day' Hits No. 6 All-Time Globally as It Swings to Fourth Box Office Victory",
@@ -464,8 +466,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-3521067515403200433",
-      "key": "film-32-3521067515403200433",
+      "id": "film-32-99144604536887647",
+      "key": "film-32-99144604536887647",
       "category": "Film",
       "label": "Film",
       "headline": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
@@ -491,22 +493,22 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-4691452453410623286",
-      "key": "music-10-4691452453410623286",
+      "id": "music-10-2540172980657665788",
+      "key": "music-10-2540172980657665788",
       "category": "Music",
       "label": "Music",
-      "headline": "Rosalía's 'La Perla' 'Wouldn't Exist' Without Paquita la del Barrio's 'Rata de dos Patas'",
-      "title": "Rosalía's 'La Perla' 'Wouldn't Exist' Without Paquita la del Barrio's 'Rata de dos Patas'",
-      "snapshot": "Read Rosalía's explanation from her first of five nights at Mexico City's Palacio de los Deportes, where she welcomed Kenia Os into her \"confessional.\"",
-      "summary": "Read Rosalía's explanation from her first of five nights at Mexico City's Palacio de los Deportes, where she welcomed Kenia Os into her \"confessional.\"",
-      "url": "https://www.billboard.com/music/latin/rosalia-la-perla-paquita-la-del-barrio-rata-de-dos-patas-1236322559/",
+      "headline": "Drake's Appearance at Ella Langley's Show Has Fans Wondering About a Collab",
+      "title": "Drake's Appearance at Ella Langley's Show Has Fans Wondering About a Collab",
+      "snapshot": "Drizzy recently praised the country star on social media.",
+      "summary": "Drizzy recently praised the country star on social media.",
+      "url": "https://www.billboard.com/music/music-news/drake-ella-langley-concert-collab-rumors-choosin-texas-1236322570/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-23 01:06:04 PM ET",
+      "published_at": "2026-08-23 03:14:25 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Rosalía's 'La Perla' 'Wouldn't Exist' Without Paquita la del Barrio's 'Rata de dos Patas'"
+        "Drake's Appearance at Ella Langley's Show Has Fans Wondering About a Collab"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -518,8 +520,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-6655383954030652828",
-      "key": "gaming-0-6655383954030652828",
+      "id": "gaming-0-7861793316464245309",
+      "key": "gaming-0-7861793316464245309",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Marvel's Wolverine Limited-Edition PS5 Controller Is Still Available for Preorder (But It May Sell Out)",
@@ -545,8 +547,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-7101560845843578081",
-      "key": "film-1-7101560845843578081",
+      "id": "film-1-4116100710027104680",
+      "key": "film-1-4116100710027104680",
       "category": "Film",
       "label": "Film",
       "headline": "Grace Passô's 'Our Secret' Nabs the Best Film Kikito at the 54th Gramado Film Festival",
@@ -572,22 +574,22 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-8462010941939397144",
-      "key": "film-11-8462010941939397144",
+      "id": "film-11-397987161314792225",
+      "key": "film-11-397987161314792225",
       "category": "Film",
       "label": "Film",
-      "headline": "LMGI Awards Winners: 'One Battle After Another,' 'Marty Supreme,' 'Pluribus' Among Location Managers Guild's Honorees",
-      "title": "LMGI Awards Winners: 'One Battle After Another,' 'Marty Supreme,' 'Pluribus' Among Location Managers Guild's Honorees",
-      "snapshot": "The location pros behind Best Picture Oscar winner One Battle After Another and nominee Marty Supreme won the film prizes at the 2026 LMGI Awards, with the Pluribus, Fallout and Black Rabbit teams taking TV honors. Location Managers Guild International held its 13th annual ceremony Saturday night, which was hosted b...",
-      "summary": "The location pros behind Best Picture Oscar winner One Battle After Another and nominee Marty Supreme won the film prizes at the 2026 LMGI Awards, with the Pluribus, Fallout and Black Rabbit teams taking TV honors. Location Managers Guild International held its 13th annual ceremony Saturday night, which was hosted b...",
-      "url": "https://deadline.com/2026/08/2026-lmgi-awards-winners-location-managers-guild-1237047862/",
+      "headline": "Melissa Gilbert Calls On Unions To Protect Child Actors After Hayden Panettiere's Death: \"Something Has Got To Be Done\"",
+      "title": "Melissa Gilbert Calls On Unions To Protect Child Actors After Hayden Panettiere's Death: \"Something Has Got To Be Done\"",
+      "snapshot": "Following the death of Hayden Panettiere, Melissa Gilbert is the latest to call for better protections for child actors. On Saturday, the Little House on the Prairie alum admitted she \"did not know Hayden personally,\" but explained that her death feels \"so personal to me\" as a former child actor, demanding unions \"e...",
+      "summary": "Following the death of Hayden Panettiere, Melissa Gilbert is the latest to call for better protections for child actors. On Saturday, the Little House on the Prairie alum admitted she \"did not know Hayden personally,\" but explained that her death feels \"so personal to me\" as a former child actor, demanding unions \"e...",
+      "url": "https://deadline.com/2026/08/melissa-gilbert-protect-child-actors-hayden-panettiere-death-1237048294/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-08-22 11:00:00 PM ET",
+      "published_at": "2026-08-23 12:25:34 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "LMGI Awards Winners: 'One Battle After Another,' 'Marty Supreme,' 'Pluribus' Among Location Managers Guild's Honorees"
+        "Melissa Gilbert Calls On Unions To Protect Child Actors After Hayden Panettiere's Death: \"Something Has Got To Be Done\""
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -599,8 +601,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-5704829965192566483",
-      "key": "film-23-5704829965192566483",
+      "id": "film-23-6262324694489301006",
+      "key": "film-23-6262324694489301006",
       "category": "Film",
       "label": "Film",
       "headline": "Nick Glennie-Smith, Composer on 'The Rock,' 'The Man in the Iron Mask' and 'Secretariat,' Dies at 74",
@@ -626,8 +628,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-5598533459864012526",
-      "key": "film-33-5598533459864012526",
+      "id": "film-33-3586871209708373887",
+      "key": "film-33-3586871209708373887",
       "category": "Film",
       "label": "Film",
       "headline": "The Best Action Movie From Every Year in the 1990s - Mental Floss",
@@ -653,22 +655,22 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-4770019307480466342",
-      "key": "music-11-4770019307480466342",
+      "id": "music-11-4701933980013807546",
+      "key": "music-11-4701933980013807546",
       "category": "Music",
       "label": "Music",
-      "headline": "ZZ Top Returns to Stage for First Show Since Drummer Frank Beard's Death",
-      "title": "ZZ Top Returns to Stage for First Show Since Drummer Frank Beard's Death",
-      "snapshot": "\"We're all here for a celebration,\" frontman Billy Gibbons said.",
-      "summary": "\"We're all here for a celebration,\" frontman Billy Gibbons said.",
-      "url": "https://www.billboard.com/music/rock/zz-top-first-show-drummer-frank-beard-death-1236322554/",
+      "headline": "KATSEYE Achieves First No. 1 Album on Billboard 200 With 'WILD'",
+      "title": "KATSEYE Achieves First No. 1 Album on Billboard 200 With 'WILD'",
+      "snapshot": "Plus, Phoebe Bridgers earns her first solo top 10 with Lost Weekend bowing at No. 2.",
+      "summary": "Plus, Phoebe Bridgers earns her first solo top 10 with Lost Weekend bowing at No. 2.",
+      "url": "https://www.billboard.com/music/chart-beat/katseye-wild-number-one-billboard-200-albums-chart-1236322567/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-23 12:47:41 PM ET",
+      "published_at": "2026-08-23 03:00:05 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "ZZ Top Returns to Stage for First Show Since Drummer Frank Beard's Death"
+        "KATSEYE Achieves First No. 1 Album on Billboard 200 With 'WILD'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -680,8 +682,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-7689776903951291660",
-      "key": "gaming-1-7689776903951291660",
+      "id": "gaming-1-1306237046244343468",
+      "key": "gaming-1-1306237046244343468",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "[UPDATE] GTA 6 Leaker Shows No Sign of Slowing Down as Ninth Gameplay Video Hits the Internet",
@@ -709,8 +711,8 @@
   ],
   "editor_signals": [
     {
-      "id": "film-2-3256745437921544771",
-      "key": "film-2-3256745437921544771",
+      "id": "film-2-4146039989041658340",
+      "key": "film-2-4146039989041658340",
       "category": "Film",
       "label": "Film",
       "headline": "'Sentimental Value' Star Anders Danielsen Lie and Anne Marie Ottersen Inducted Into the Haugesund Walk of Fame: 'It Feels Full Circle'",
@@ -736,22 +738,22 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-7824727003604576211",
-      "key": "film-12-7824727003604576211",
+      "id": "film-12-7728062753766035397",
+      "key": "film-12-7728062753766035397",
       "category": "Film",
       "label": "Film",
-      "headline": "Kid Cudi Preparing To Film \"F*ckin Gnarly\" Followup To Directorial Debut 'Doe', Both Set For 2027",
-      "title": "Kid Cudi Preparing To Film \"F*ckin Gnarly\" Followup To Directorial Debut 'Doe', Both Set For 2027",
-      "snapshot": "As Kid Cudi prepares to unveil his feature debut Doe, he's hitting the ground running with his directing career. On Saturday, the 2x Grammy winner (whose real name is Scott Mescudi) not only teased Doe, but also details about his directorial followup, which he begins filming \"in a few weeks.\" \"I shoot my next film […]",
-      "summary": "As Kid Cudi prepares to unveil his feature debut Doe, he's hitting the ground running with his directing career. On Saturday, the 2x Grammy winner (whose real name is Scott Mescudi) not only teased Doe, but also details about his directorial followup, which he begins filming \"in a few weeks.\" \"I shoot my next film […]",
-      "url": "https://deadline.com/2026/08/kid-cudi-fckin-gnarly-followup-directorial-debut-1237048159/",
+      "headline": "LMGI Awards Winners: 'One Battle After Another,' 'Marty Supreme,' 'Pluribus' Among Location Managers Guild's Honorees",
+      "title": "LMGI Awards Winners: 'One Battle After Another,' 'Marty Supreme,' 'Pluribus' Among Location Managers Guild's Honorees",
+      "snapshot": "The location pros behind Best Picture Oscar winner One Battle After Another and nominee Marty Supreme won the film prizes at the 2026 LMGI Awards, with the Pluribus, Fallout and Black Rabbit teams taking TV honors. Location Managers Guild International held its 13th annual ceremony Saturday night, which was hosted b...",
+      "summary": "The location pros behind Best Picture Oscar winner One Battle After Another and nominee Marty Supreme won the film prizes at the 2026 LMGI Awards, with the Pluribus, Fallout and Black Rabbit teams taking TV honors. Location Managers Guild International held its 13th annual ceremony Saturday night, which was hosted b...",
+      "url": "https://deadline.com/2026/08/2026-lmgi-awards-winners-location-managers-guild-1237047862/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-08-22 06:30:41 PM ET",
+      "published_at": "2026-08-22 11:00:00 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Kid Cudi Preparing To Film \"F*ckin Gnarly\" Followup To Directorial Debut 'Doe', Both Set For 2027"
+        "LMGI Awards Winners: 'One Battle After Another,' 'Marty Supreme,' 'Pluribus' Among Location Managers Guild's Honorees"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -763,8 +765,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-5015070017093720178",
-      "key": "film-24-5015070017093720178",
+      "id": "film-24-4536657112273397241",
+      "key": "film-24-4536657112273397241",
       "category": "Film",
       "label": "Film",
       "headline": "Charlize Theron Reflects on 'Mad Max: Fury Road' a Decade Later: \"There's a Deep Connection to This Film\"",
@@ -790,8 +792,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-42005862998757020",
-      "key": "film-34-42005862998757020",
+      "id": "film-34-197496258607943826",
+      "key": "film-34-197496258607943826",
       "category": "Film",
       "label": "Film",
       "headline": "'So bad it's good': rough animated film becomes surprise Chinese hit - Yahoo",
@@ -817,22 +819,22 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-8916326261977334766",
-      "key": "music-12-8916326261977334766",
+      "id": "music-12-9012190969590671391",
+      "key": "music-12-9012190969590671391",
       "category": "Music",
       "label": "Music",
-      "headline": "Dolly Parton Says She's Exploring 'Avatar Performances'",
-      "title": "Dolly Parton Says She's Exploring 'Avatar Performances'",
-      "snapshot": "\"I am dealing with some health issues that I just didn't pay attention to when I was watching over Carl,\" Parton said.",
-      "summary": "\"I am dealing with some health issues that I just didn't pay attention to when I was watching over Carl,\" Parton said.",
-      "url": "https://www.billboard.com/music/country/dolly-parton-health-update-1236322526/",
+      "headline": "A Step-by-Step Guide to HBO Max: Here's What to Watch & How to Get the Streaming Service for Free",
+      "title": "A Step-by-Step Guide to HBO Max: Here's What to Watch & How to Get the Streaming Service for Free",
+      "snapshot": "Here's what you need to know about streaming The Pitt , House of the Dragon , Euphoria , The Last of Us and other hit originals online for free.",
+      "summary": "Here's what you need to know about streaming The Pitt , House of the Dragon , Euphoria , The Last of Us and other hit originals online for free.",
+      "url": "https://www.billboard.com/culture/product-recommendations/how-to-get-hbo-max-free-trial-1235032083/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-23 03:07:43 AM ET",
+      "published_at": "2026-08-23 02:48:47 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Dolly Parton Says She's Exploring 'Avatar Performances'"
+        "A Step-by-Step Guide to HBO Max: Here's What to Watch & How to Get the Streaming Service for Free"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -844,8 +846,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-6556730732157277521",
-      "key": "gaming-2-6556730732157277521",
+      "id": "gaming-2-8449197092020791130",
+      "key": "gaming-2-8449197092020791130",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The Best Deals Today: Nintendo Switch 2, LEGO Tropical Aquarium, Final Fantasy VII Rebirth, and More",
@@ -871,8 +873,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-3239787186007552617",
-      "key": "film-3-3239787186007552617",
+      "id": "film-3-8736128643249133379",
+      "key": "film-3-8736128643249133379",
       "category": "Film",
       "label": "Film",
       "headline": "Box Office: 'Spider-Man: Brand New Day' Triumphs Again in Fourth Weekend With $39 Million, 'Insidious 6' Launches to $25 Million",
@@ -898,22 +900,22 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-4767740366173259313",
-      "key": "film-13-4767740366173259313",
+      "id": "film-13-661084786088471808",
+      "key": "film-13-661084786088471808",
       "category": "Film",
       "label": "Film",
-      "headline": "Josh Brolin Says 'Sicario 3' \"Is Happening\"",
-      "title": "Josh Brolin Says 'Sicario 3' \"Is Happening\"",
-      "snapshot": "After nearly a decade, CIA officer Matt Graver is still waging his war against Mexican drug cartels in Taylor Sheridan's Sicario cinematic universe. Josh Brolin, who starred as Matt Graver in Sicario (2015) and Sicario: Day of the Soldado (2018), recently revealed that a third installment in the Sheridan-penned acti...",
-      "summary": "After nearly a decade, CIA officer Matt Graver is still waging his war against Mexican drug cartels in Taylor Sheridan's Sicario cinematic universe. Josh Brolin, who starred as Matt Graver in Sicario (2015) and Sicario: Day of the Soldado (2018), recently revealed that a third installment in the Sheridan-penned acti...",
-      "url": "https://deadline.com/2026/08/josh-brolin-sicario-3-happening-1237048151/",
+      "headline": "Kid Cudi Preparing To Film \"F*ckin Gnarly\" Followup To Directorial Debut 'Doe', Both Set For 2027",
+      "title": "Kid Cudi Preparing To Film \"F*ckin Gnarly\" Followup To Directorial Debut 'Doe', Both Set For 2027",
+      "snapshot": "As Kid Cudi prepares to unveil his feature debut Doe, he's hitting the ground running with his directing career. On Saturday, the 2x Grammy winner (whose real name is Scott Mescudi) not only teased Doe, but also details about his directorial followup, which he begins filming \"in a few weeks.\" \"I shoot my next film […]",
+      "summary": "As Kid Cudi prepares to unveil his feature debut Doe, he's hitting the ground running with his directing career. On Saturday, the 2x Grammy winner (whose real name is Scott Mescudi) not only teased Doe, but also details about his directorial followup, which he begins filming \"in a few weeks.\" \"I shoot my next film […]",
+      "url": "https://deadline.com/2026/08/kid-cudi-fckin-gnarly-followup-directorial-debut-1237048159/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-08-22 05:56:31 PM ET",
+      "published_at": "2026-08-22 06:30:41 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Josh Brolin Says 'Sicario 3' \"Is Happening\""
+        "Kid Cudi Preparing To Film \"F*ckin Gnarly\" Followup To Directorial Debut 'Doe', Both Set For 2027"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -925,8 +927,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-5157493756229387021",
-      "key": "film-25-5157493756229387021",
+      "id": "film-25-2802974189619493375",
+      "key": "film-25-2802974189619493375",
       "category": "Film",
       "label": "Film",
       "headline": "Leslie Parrish, Actress in 'Li'l Abner' and 'The Manchurian Candidate,' Dies at 90",
@@ -952,8 +954,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-3050469904606309768",
-      "key": "film-35-3050469904606309768",
+      "id": "film-35-8674210484410553350",
+      "key": "film-35-8674210484410553350",
       "category": "Film",
       "label": "Film",
       "headline": "What's new to streaming this week? (Aug. 21, 2026) - Mashable",
@@ -979,22 +981,22 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-7936484324737476276",
-      "key": "music-13-7936484324737476276",
+      "id": "music-13-6956876972768358795",
+      "key": "music-13-6956876972768358795",
       "category": "Music",
       "label": "Music",
-      "headline": "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium",
-      "title": "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium",
-      "snapshot": "The E Street Band drummer filled in for his son Jay Weinberg, who has become a recurring guest with the band.",
-      "summary": "The E Street Band drummer filled in for his son Jay Weinberg, who has become a recurring guest with the band.",
-      "url": "https://www.billboard.com/music/rock/king-gizzard-and-the-lizard-wizard-max-weinberg-1236322524/",
+      "headline": "Rosalía's 'La Perla' 'Wouldn't Exist' Without Paquita la del Barrio's 'Rata de dos Patas'",
+      "title": "Rosalía's 'La Perla' 'Wouldn't Exist' Without Paquita la del Barrio's 'Rata de dos Patas'",
+      "snapshot": "Read Rosalía's explanation from her first of five nights at Mexico City's Palacio de los Deportes, where she welcomed Kenia Os into her \"confessional.\"",
+      "summary": "Read Rosalía's explanation from her first of five nights at Mexico City's Palacio de los Deportes, where she welcomed Kenia Os into her \"confessional.\"",
+      "url": "https://www.billboard.com/music/latin/rosalia-la-perla-paquita-la-del-barrio-rata-de-dos-patas-1236322559/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-23 12:26:12 AM ET",
+      "published_at": "2026-08-23 01:06:04 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium"
+        "Rosalía's 'La Perla' 'Wouldn't Exist' Without Paquita la del Barrio's 'Rata de dos Patas'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1006,8 +1008,8 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-204446615537487916",
-      "key": "gaming-3-204446615537487916",
+      "id": "gaming-3-4488667624267454999",
+      "key": "gaming-3-4488667624267454999",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Metal Gear Solid 4: The Flawed Masterpiece Kojima Didn't Want to Make",
@@ -1035,8 +1037,8 @@
   ],
   "homepage_cards": [
     {
-      "id": "film-0-8258390754253414089",
-      "key": "film-0-8258390754253414089",
+      "id": "film-0-4006753658246061112",
+      "key": "film-0-4006753658246061112",
       "category": "Film",
       "label": "Film",
       "headline": "Ridley Scott Says 'I'm Not a Filmmaker, I'm an Influencer'",
@@ -1062,22 +1064,22 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-5819178747358265099",
-      "key": "film-10-5819178747358265099",
+      "id": "film-10-5116389921468433037",
+      "key": "film-10-5116389921468433037",
       "category": "Film",
       "label": "Film",
-      "headline": "Melissa Gilbert Calls On Unions To Protect Child Actors After Hayden Panettiere's Death: \"Something Has Got To Be Done\"",
-      "title": "Melissa Gilbert Calls On Unions To Protect Child Actors After Hayden Panettiere's Death: \"Something Has Got To Be Done\"",
-      "snapshot": "Following the death of Hayden Panettiere, Melissa Gilbert is the latest to call for better protections for child actors. On Saturday, the Little House on the Prairie alum admitted she \"did not know Hayden personally,\" but explained that her death feels \"so personal to me\" as a former child actor, demanding unions \"e...",
-      "summary": "Following the death of Hayden Panettiere, Melissa Gilbert is the latest to call for better protections for child actors. On Saturday, the Little House on the Prairie alum admitted she \"did not know Hayden personally,\" but explained that her death feels \"so personal to me\" as a former child actor, demanding unions \"e...",
-      "url": "https://deadline.com/2026/08/melissa-gilbert-protect-child-actors-hayden-panettiere-death-1237048294/",
+      "headline": "2026 Domestic Box Office Soars Past $7 Billion, +20% Over 2025",
+      "title": "2026 Domestic Box Office Soars Past $7 Billion, +20% Over 2025",
+      "snapshot": "This summer, and this year, further shows the importance of protecting the theatrical window as the domestic annual box office has crossed the $7 billion mark according to Rentrak. Those are the best numbers we've seen post Covid, +20% above the same period a year ago (Jan. 1-Aug. 23 which was at $5.86B with the […]",
+      "summary": "This summer, and this year, further shows the importance of protecting the theatrical window as the domestic annual box office has crossed the $7 billion mark according to Rentrak. Those are the best numbers we've seen post Covid, +20% above the same period a year ago (Jan. 1-Aug. 23 which was at $5.86B with the […]",
+      "url": "https://deadline.com/2026/08/box-office-domestic-7-billion-1237048328/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-08-23 12:25:34 PM ET",
+      "published_at": "2026-08-23 03:04:04 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Melissa Gilbert Calls On Unions To Protect Child Actors After Hayden Panettiere's Death: \"Something Has Got To Be Done\""
+        "2026 Domestic Box Office Soars Past $7 Billion, +20% Over 2025"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1089,8 +1091,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-4917862338661668524",
-      "key": "film-22-4917862338661668524",
+      "id": "film-22-1312516487267277954",
+      "key": "film-22-1312516487267277954",
       "category": "Film",
       "label": "Film",
       "headline": "'Spider-Man: Brand New Day' Hits No. 6 All-Time Globally as It Swings to Fourth Box Office Victory",
@@ -1116,8 +1118,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-3521067515403200433",
-      "key": "film-32-3521067515403200433",
+      "id": "film-32-99144604536887647",
+      "key": "film-32-99144604536887647",
       "category": "Film",
       "label": "Film",
       "headline": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
@@ -1143,22 +1145,22 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-4691452453410623286",
-      "key": "music-10-4691452453410623286",
+      "id": "music-10-2540172980657665788",
+      "key": "music-10-2540172980657665788",
       "category": "Music",
       "label": "Music",
-      "headline": "Rosalía's 'La Perla' 'Wouldn't Exist' Without Paquita la del Barrio's 'Rata de dos Patas'",
-      "title": "Rosalía's 'La Perla' 'Wouldn't Exist' Without Paquita la del Barrio's 'Rata de dos Patas'",
-      "snapshot": "Read Rosalía's explanation from her first of five nights at Mexico City's Palacio de los Deportes, where she welcomed Kenia Os into her \"confessional.\"",
-      "summary": "Read Rosalía's explanation from her first of five nights at Mexico City's Palacio de los Deportes, where she welcomed Kenia Os into her \"confessional.\"",
-      "url": "https://www.billboard.com/music/latin/rosalia-la-perla-paquita-la-del-barrio-rata-de-dos-patas-1236322559/",
+      "headline": "Drake's Appearance at Ella Langley's Show Has Fans Wondering About a Collab",
+      "title": "Drake's Appearance at Ella Langley's Show Has Fans Wondering About a Collab",
+      "snapshot": "Drizzy recently praised the country star on social media.",
+      "summary": "Drizzy recently praised the country star on social media.",
+      "url": "https://www.billboard.com/music/music-news/drake-ella-langley-concert-collab-rumors-choosin-texas-1236322570/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-23 01:06:04 PM ET",
+      "published_at": "2026-08-23 03:14:25 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Rosalía's 'La Perla' 'Wouldn't Exist' Without Paquita la del Barrio's 'Rata de dos Patas'"
+        "Drake's Appearance at Ella Langley's Show Has Fans Wondering About a Collab"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1170,8 +1172,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-6655383954030652828",
-      "key": "gaming-0-6655383954030652828",
+      "id": "gaming-0-7861793316464245309",
+      "key": "gaming-0-7861793316464245309",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Marvel's Wolverine Limited-Edition PS5 Controller Is Still Available for Preorder (But It May Sell Out)",
@@ -1197,8 +1199,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-7101560845843578081",
-      "key": "film-1-7101560845843578081",
+      "id": "film-1-4116100710027104680",
+      "key": "film-1-4116100710027104680",
       "category": "Film",
       "label": "Film",
       "headline": "Grace Passô's 'Our Secret' Nabs the Best Film Kikito at the 54th Gramado Film Festival",
@@ -1224,22 +1226,22 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-8462010941939397144",
-      "key": "film-11-8462010941939397144",
+      "id": "film-11-397987161314792225",
+      "key": "film-11-397987161314792225",
       "category": "Film",
       "label": "Film",
-      "headline": "LMGI Awards Winners: 'One Battle After Another,' 'Marty Supreme,' 'Pluribus' Among Location Managers Guild's Honorees",
-      "title": "LMGI Awards Winners: 'One Battle After Another,' 'Marty Supreme,' 'Pluribus' Among Location Managers Guild's Honorees",
-      "snapshot": "The location pros behind Best Picture Oscar winner One Battle After Another and nominee Marty Supreme won the film prizes at the 2026 LMGI Awards, with the Pluribus, Fallout and Black Rabbit teams taking TV honors. Location Managers Guild International held its 13th annual ceremony Saturday night, which was hosted b...",
-      "summary": "The location pros behind Best Picture Oscar winner One Battle After Another and nominee Marty Supreme won the film prizes at the 2026 LMGI Awards, with the Pluribus, Fallout and Black Rabbit teams taking TV honors. Location Managers Guild International held its 13th annual ceremony Saturday night, which was hosted b...",
-      "url": "https://deadline.com/2026/08/2026-lmgi-awards-winners-location-managers-guild-1237047862/",
+      "headline": "Melissa Gilbert Calls On Unions To Protect Child Actors After Hayden Panettiere's Death: \"Something Has Got To Be Done\"",
+      "title": "Melissa Gilbert Calls On Unions To Protect Child Actors After Hayden Panettiere's Death: \"Something Has Got To Be Done\"",
+      "snapshot": "Following the death of Hayden Panettiere, Melissa Gilbert is the latest to call for better protections for child actors. On Saturday, the Little House on the Prairie alum admitted she \"did not know Hayden personally,\" but explained that her death feels \"so personal to me\" as a former child actor, demanding unions \"e...",
+      "summary": "Following the death of Hayden Panettiere, Melissa Gilbert is the latest to call for better protections for child actors. On Saturday, the Little House on the Prairie alum admitted she \"did not know Hayden personally,\" but explained that her death feels \"so personal to me\" as a former child actor, demanding unions \"e...",
+      "url": "https://deadline.com/2026/08/melissa-gilbert-protect-child-actors-hayden-panettiere-death-1237048294/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-08-22 11:00:00 PM ET",
+      "published_at": "2026-08-23 12:25:34 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "LMGI Awards Winners: 'One Battle After Another,' 'Marty Supreme,' 'Pluribus' Among Location Managers Guild's Honorees"
+        "Melissa Gilbert Calls On Unions To Protect Child Actors After Hayden Panettiere's Death: \"Something Has Got To Be Done\""
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1251,8 +1253,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-5704829965192566483",
-      "key": "film-23-5704829965192566483",
+      "id": "film-23-6262324694489301006",
+      "key": "film-23-6262324694489301006",
       "category": "Film",
       "label": "Film",
       "headline": "Nick Glennie-Smith, Composer on 'The Rock,' 'The Man in the Iron Mask' and 'Secretariat,' Dies at 74",
@@ -1278,8 +1280,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-5598533459864012526",
-      "key": "film-33-5598533459864012526",
+      "id": "film-33-3586871209708373887",
+      "key": "film-33-3586871209708373887",
       "category": "Film",
       "label": "Film",
       "headline": "The Best Action Movie From Every Year in the 1990s - Mental Floss",
@@ -1305,22 +1307,22 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-4770019307480466342",
-      "key": "music-11-4770019307480466342",
+      "id": "music-11-4701933980013807546",
+      "key": "music-11-4701933980013807546",
       "category": "Music",
       "label": "Music",
-      "headline": "ZZ Top Returns to Stage for First Show Since Drummer Frank Beard's Death",
-      "title": "ZZ Top Returns to Stage for First Show Since Drummer Frank Beard's Death",
-      "snapshot": "\"We're all here for a celebration,\" frontman Billy Gibbons said.",
-      "summary": "\"We're all here for a celebration,\" frontman Billy Gibbons said.",
-      "url": "https://www.billboard.com/music/rock/zz-top-first-show-drummer-frank-beard-death-1236322554/",
+      "headline": "KATSEYE Achieves First No. 1 Album on Billboard 200 With 'WILD'",
+      "title": "KATSEYE Achieves First No. 1 Album on Billboard 200 With 'WILD'",
+      "snapshot": "Plus, Phoebe Bridgers earns her first solo top 10 with Lost Weekend bowing at No. 2.",
+      "summary": "Plus, Phoebe Bridgers earns her first solo top 10 with Lost Weekend bowing at No. 2.",
+      "url": "https://www.billboard.com/music/chart-beat/katseye-wild-number-one-billboard-200-albums-chart-1236322567/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-23 12:47:41 PM ET",
+      "published_at": "2026-08-23 03:00:05 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "ZZ Top Returns to Stage for First Show Since Drummer Frank Beard's Death"
+        "KATSEYE Achieves First No. 1 Album on Billboard 200 With 'WILD'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1332,8 +1334,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-7689776903951291660",
-      "key": "gaming-1-7689776903951291660",
+      "id": "gaming-1-1306237046244343468",
+      "key": "gaming-1-1306237046244343468",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "[UPDATE] GTA 6 Leaker Shows No Sign of Slowing Down as Ninth Gameplay Video Hits the Internet",
@@ -1359,8 +1361,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-2-3256745437921544771",
-      "key": "film-2-3256745437921544771",
+      "id": "film-2-4146039989041658340",
+      "key": "film-2-4146039989041658340",
       "category": "Film",
       "label": "Film",
       "headline": "'Sentimental Value' Star Anders Danielsen Lie and Anne Marie Ottersen Inducted Into the Haugesund Walk of Fame: 'It Feels Full Circle'",
@@ -1386,22 +1388,22 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-7824727003604576211",
-      "key": "film-12-7824727003604576211",
+      "id": "film-12-7728062753766035397",
+      "key": "film-12-7728062753766035397",
       "category": "Film",
       "label": "Film",
-      "headline": "Kid Cudi Preparing To Film \"F*ckin Gnarly\" Followup To Directorial Debut 'Doe', Both Set For 2027",
-      "title": "Kid Cudi Preparing To Film \"F*ckin Gnarly\" Followup To Directorial Debut 'Doe', Both Set For 2027",
-      "snapshot": "As Kid Cudi prepares to unveil his feature debut Doe, he's hitting the ground running with his directing career. On Saturday, the 2x Grammy winner (whose real name is Scott Mescudi) not only teased Doe, but also details about his directorial followup, which he begins filming \"in a few weeks.\" \"I shoot my next film […]",
-      "summary": "As Kid Cudi prepares to unveil his feature debut Doe, he's hitting the ground running with his directing career. On Saturday, the 2x Grammy winner (whose real name is Scott Mescudi) not only teased Doe, but also details about his directorial followup, which he begins filming \"in a few weeks.\" \"I shoot my next film […]",
-      "url": "https://deadline.com/2026/08/kid-cudi-fckin-gnarly-followup-directorial-debut-1237048159/",
+      "headline": "LMGI Awards Winners: 'One Battle After Another,' 'Marty Supreme,' 'Pluribus' Among Location Managers Guild's Honorees",
+      "title": "LMGI Awards Winners: 'One Battle After Another,' 'Marty Supreme,' 'Pluribus' Among Location Managers Guild's Honorees",
+      "snapshot": "The location pros behind Best Picture Oscar winner One Battle After Another and nominee Marty Supreme won the film prizes at the 2026 LMGI Awards, with the Pluribus, Fallout and Black Rabbit teams taking TV honors. Location Managers Guild International held its 13th annual ceremony Saturday night, which was hosted b...",
+      "summary": "The location pros behind Best Picture Oscar winner One Battle After Another and nominee Marty Supreme won the film prizes at the 2026 LMGI Awards, with the Pluribus, Fallout and Black Rabbit teams taking TV honors. Location Managers Guild International held its 13th annual ceremony Saturday night, which was hosted b...",
+      "url": "https://deadline.com/2026/08/2026-lmgi-awards-winners-location-managers-guild-1237047862/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-08-22 06:30:41 PM ET",
+      "published_at": "2026-08-22 11:00:00 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Kid Cudi Preparing To Film \"F*ckin Gnarly\" Followup To Directorial Debut 'Doe', Both Set For 2027"
+        "LMGI Awards Winners: 'One Battle After Another,' 'Marty Supreme,' 'Pluribus' Among Location Managers Guild's Honorees"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1413,8 +1415,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-5015070017093720178",
-      "key": "film-24-5015070017093720178",
+      "id": "film-24-4536657112273397241",
+      "key": "film-24-4536657112273397241",
       "category": "Film",
       "label": "Film",
       "headline": "Charlize Theron Reflects on 'Mad Max: Fury Road' a Decade Later: \"There's a Deep Connection to This Film\"",
@@ -1440,8 +1442,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-42005862998757020",
-      "key": "film-34-42005862998757020",
+      "id": "film-34-197496258607943826",
+      "key": "film-34-197496258607943826",
       "category": "Film",
       "label": "Film",
       "headline": "'So bad it's good': rough animated film becomes surprise Chinese hit - Yahoo",
@@ -1467,22 +1469,22 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-8916326261977334766",
-      "key": "music-12-8916326261977334766",
+      "id": "music-12-9012190969590671391",
+      "key": "music-12-9012190969590671391",
       "category": "Music",
       "label": "Music",
-      "headline": "Dolly Parton Says She's Exploring 'Avatar Performances'",
-      "title": "Dolly Parton Says She's Exploring 'Avatar Performances'",
-      "snapshot": "\"I am dealing with some health issues that I just didn't pay attention to when I was watching over Carl,\" Parton said.",
-      "summary": "\"I am dealing with some health issues that I just didn't pay attention to when I was watching over Carl,\" Parton said.",
-      "url": "https://www.billboard.com/music/country/dolly-parton-health-update-1236322526/",
+      "headline": "A Step-by-Step Guide to HBO Max: Here's What to Watch & How to Get the Streaming Service for Free",
+      "title": "A Step-by-Step Guide to HBO Max: Here's What to Watch & How to Get the Streaming Service for Free",
+      "snapshot": "Here's what you need to know about streaming The Pitt , House of the Dragon , Euphoria , The Last of Us and other hit originals online for free.",
+      "summary": "Here's what you need to know about streaming The Pitt , House of the Dragon , Euphoria , The Last of Us and other hit originals online for free.",
+      "url": "https://www.billboard.com/culture/product-recommendations/how-to-get-hbo-max-free-trial-1235032083/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-23 03:07:43 AM ET",
+      "published_at": "2026-08-23 02:48:47 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Dolly Parton Says She's Exploring 'Avatar Performances'"
+        "A Step-by-Step Guide to HBO Max: Here's What to Watch & How to Get the Streaming Service for Free"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1494,8 +1496,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-6556730732157277521",
-      "key": "gaming-2-6556730732157277521",
+      "id": "gaming-2-8449197092020791130",
+      "key": "gaming-2-8449197092020791130",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The Best Deals Today: Nintendo Switch 2, LEGO Tropical Aquarium, Final Fantasy VII Rebirth, and More",
@@ -1521,8 +1523,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-3239787186007552617",
-      "key": "film-3-3239787186007552617",
+      "id": "film-3-8736128643249133379",
+      "key": "film-3-8736128643249133379",
       "category": "Film",
       "label": "Film",
       "headline": "Box Office: 'Spider-Man: Brand New Day' Triumphs Again in Fourth Weekend With $39 Million, 'Insidious 6' Launches to $25 Million",
@@ -1548,22 +1550,22 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-4767740366173259313",
-      "key": "film-13-4767740366173259313",
+      "id": "film-13-661084786088471808",
+      "key": "film-13-661084786088471808",
       "category": "Film",
       "label": "Film",
-      "headline": "Josh Brolin Says 'Sicario 3' \"Is Happening\"",
-      "title": "Josh Brolin Says 'Sicario 3' \"Is Happening\"",
-      "snapshot": "After nearly a decade, CIA officer Matt Graver is still waging his war against Mexican drug cartels in Taylor Sheridan's Sicario cinematic universe. Josh Brolin, who starred as Matt Graver in Sicario (2015) and Sicario: Day of the Soldado (2018), recently revealed that a third installment in the Sheridan-penned acti...",
-      "summary": "After nearly a decade, CIA officer Matt Graver is still waging his war against Mexican drug cartels in Taylor Sheridan's Sicario cinematic universe. Josh Brolin, who starred as Matt Graver in Sicario (2015) and Sicario: Day of the Soldado (2018), recently revealed that a third installment in the Sheridan-penned acti...",
-      "url": "https://deadline.com/2026/08/josh-brolin-sicario-3-happening-1237048151/",
+      "headline": "Kid Cudi Preparing To Film \"F*ckin Gnarly\" Followup To Directorial Debut 'Doe', Both Set For 2027",
+      "title": "Kid Cudi Preparing To Film \"F*ckin Gnarly\" Followup To Directorial Debut 'Doe', Both Set For 2027",
+      "snapshot": "As Kid Cudi prepares to unveil his feature debut Doe, he's hitting the ground running with his directing career. On Saturday, the 2x Grammy winner (whose real name is Scott Mescudi) not only teased Doe, but also details about his directorial followup, which he begins filming \"in a few weeks.\" \"I shoot my next film […]",
+      "summary": "As Kid Cudi prepares to unveil his feature debut Doe, he's hitting the ground running with his directing career. On Saturday, the 2x Grammy winner (whose real name is Scott Mescudi) not only teased Doe, but also details about his directorial followup, which he begins filming \"in a few weeks.\" \"I shoot my next film […]",
+      "url": "https://deadline.com/2026/08/kid-cudi-fckin-gnarly-followup-directorial-debut-1237048159/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-08-22 05:56:31 PM ET",
+      "published_at": "2026-08-22 06:30:41 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Josh Brolin Says 'Sicario 3' \"Is Happening\""
+        "Kid Cudi Preparing To Film \"F*ckin Gnarly\" Followup To Directorial Debut 'Doe', Both Set For 2027"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1575,8 +1577,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-5157493756229387021",
-      "key": "film-25-5157493756229387021",
+      "id": "film-25-2802974189619493375",
+      "key": "film-25-2802974189619493375",
       "category": "Film",
       "label": "Film",
       "headline": "Leslie Parrish, Actress in 'Li'l Abner' and 'The Manchurian Candidate,' Dies at 90",
@@ -1602,8 +1604,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-3050469904606309768",
-      "key": "film-35-3050469904606309768",
+      "id": "film-35-8674210484410553350",
+      "key": "film-35-8674210484410553350",
       "category": "Film",
       "label": "Film",
       "headline": "What's new to streaming this week? (Aug. 21, 2026) - Mashable",
@@ -1629,22 +1631,22 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-7936484324737476276",
-      "key": "music-13-7936484324737476276",
+      "id": "music-13-6956876972768358795",
+      "key": "music-13-6956876972768358795",
       "category": "Music",
       "label": "Music",
-      "headline": "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium",
-      "title": "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium",
-      "snapshot": "The E Street Band drummer filled in for his son Jay Weinberg, who has become a recurring guest with the band.",
-      "summary": "The E Street Band drummer filled in for his son Jay Weinberg, who has become a recurring guest with the band.",
-      "url": "https://www.billboard.com/music/rock/king-gizzard-and-the-lizard-wizard-max-weinberg-1236322524/",
+      "headline": "Rosalía's 'La Perla' 'Wouldn't Exist' Without Paquita la del Barrio's 'Rata de dos Patas'",
+      "title": "Rosalía's 'La Perla' 'Wouldn't Exist' Without Paquita la del Barrio's 'Rata de dos Patas'",
+      "snapshot": "Read Rosalía's explanation from her first of five nights at Mexico City's Palacio de los Deportes, where she welcomed Kenia Os into her \"confessional.\"",
+      "summary": "Read Rosalía's explanation from her first of five nights at Mexico City's Palacio de los Deportes, where she welcomed Kenia Os into her \"confessional.\"",
+      "url": "https://www.billboard.com/music/latin/rosalia-la-perla-paquita-la-del-barrio-rata-de-dos-patas-1236322559/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-23 12:26:12 AM ET",
+      "published_at": "2026-08-23 01:06:04 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium"
+        "Rosalía's 'La Perla' 'Wouldn't Exist' Without Paquita la del Barrio's 'Rata de dos Patas'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1656,8 +1658,8 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-204446615537487916",
-      "key": "gaming-3-204446615537487916",
+      "id": "gaming-3-4488667624267454999",
+      "key": "gaming-3-4488667624267454999",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Metal Gear Solid 4: The Flawed Masterpiece Kojima Didn't Want to Make",
@@ -1692,25 +1694,25 @@
       "snapshot": "Film coverage is updating with 8 current RSS headline item(s).",
       "key_storylines": [
         "Ridley Scott Says ‘I’m Not a Filmmaker, I’m an Influencer’",
-        "Melissa Gilbert Calls On Unions To Protect Child Actors After Hayden Panettiere’s Death: “Something Has Got To Be Done”",
+        "2026 Domestic Box Office Soars Past $7 Billion, +20% Over 2025",
         "‘Spider-Man: Brand New Day’ Hits No. 6 All-Time Globally as It Swings to Fourth Box Office Victory",
         "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
         "Grace Passô’s ‘Our Secret’ Nabs the Best Film Kikito at the 54th Gramado Film Festival"
       ],
       "watch_list": [
         "Ridley Scott Says ‘I’m Not a Filmmaker, I’m an Influencer’",
-        "Melissa Gilbert Calls On Unions To Protect Child Actors After Hayden Panettiere’s Death: “Something Has Got To Be Done”",
+        "2026 Domestic Box Office Soars Past $7 Billion, +20% Over 2025",
         "‘Spider-Man: Brand New Day’ Hits No. 6 All-Time Globally as It Swings to Fourth Box Office Victory",
         "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
         "Grace Passô’s ‘Our Secret’ Nabs the Best Film Kikito at the 54th Gramado Film Festival",
-        "LMGI Awards Winners: ‘One Battle After Another,’ ‘Marty Supreme,’ ‘Pluribus’ Among Location Managers Guild’s Honorees",
+        "Melissa Gilbert Calls On Unions To Protect Child Actors After Hayden Panettiere’s Death: “Something Has Got To Be Done”",
         "Nick Glennie-Smith, Composer on ‘The Rock,’ ‘The Man in the Iron Mask’ and ‘Secretariat,’ Dies at 74",
         "The Best Action Movie From Every Year in the 1990s - Mental Floss"
       ],
       "homepage_cards": [
         {
-          "id": "film-0-8258390754253414089",
-          "key": "film-0-8258390754253414089",
+          "id": "film-0-4006753658246061112",
+          "key": "film-0-4006753658246061112",
           "category": "Film",
           "label": "Film",
           "headline": "Ridley Scott Says ‘I’m Not a Filmmaker, I’m an Influencer’",
@@ -1737,25 +1739,25 @@
           ]
         },
         {
-          "id": "film-10-5819178747358265099",
-          "key": "film-10-5819178747358265099",
+          "id": "film-10-5116389921468433037",
+          "key": "film-10-5116389921468433037",
           "category": "Film",
           "label": "Film",
-          "headline": "Melissa Gilbert Calls On Unions To Protect Child Actors After Hayden Panettiere’s Death: “Something Has Got To Be Done”",
-          "title": "Melissa Gilbert Calls On Unions To Protect Child Actors After Hayden Panettiere’s Death: “Something Has Got To Be Done”",
-          "snapshot": "Following the death of Hayden Panettiere, Melissa Gilbert is the latest to call for better protections for child actors. On Saturday, the Little House on the Prairie alum admitted she “did not know Hayden personally,” but explained that her death feels “so personal to me” as a former child actor, demanding unions “e...",
-          "summary": "Following the death of Hayden Panettiere, Melissa Gilbert is the latest to call for better protections for child actors. On Saturday, the Little House on the Prairie alum admitted she “did not know Hayden personally,” but explained that her death feels “so personal to me” as a former child actor, demanding unions “e...",
-          "url": "https://deadline.com/2026/08/melissa-gilbert-protect-child-actors-hayden-panettiere-death-1237048294/",
+          "headline": "2026 Domestic Box Office Soars Past $7 Billion, +20% Over 2025",
+          "title": "2026 Domestic Box Office Soars Past $7 Billion, +20% Over 2025",
+          "snapshot": "This summer, and this year, further shows the importance of protecting the theatrical window as the domestic annual box office has crossed the $7 billion mark according to Rentrak. Those are the best numbers we’ve seen post Covid, +20% above the same period a year ago (Jan. 1-Aug. 23 which was at $5.86B with the […]",
+          "summary": "This summer, and this year, further shows the importance of protecting the theatrical window as the domestic annual box office has crossed the $7 billion mark according to Rentrak. Those are the best numbers we’ve seen post Covid, +20% above the same period a year ago (Jan. 1-Aug. 23 which was at $5.86B with the […]",
+          "url": "https://deadline.com/2026/08/box-office-domestic-7-billion-1237048328/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/film/feed/",
-          "published_at": "2026-08-23 12:25:34 PM ET",
+          "published_at": "2026-08-23 03:04:04 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "Melissa Gilbert Calls On Unions To Protect Child Actors After Hayden Panettiere’s Death: “Something Has Got To Be Done”"
+            "2026 Domestic Box Office Soars Past $7 Billion, +20% Over 2025"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1765,8 +1767,8 @@
           ]
         },
         {
-          "id": "film-22-4917862338661668524",
-          "key": "film-22-4917862338661668524",
+          "id": "film-22-1312516487267277954",
+          "key": "film-22-1312516487267277954",
           "category": "Film",
           "label": "Film",
           "headline": "‘Spider-Man: Brand New Day’ Hits No. 6 All-Time Globally as It Swings to Fourth Box Office Victory",
@@ -1793,8 +1795,8 @@
           ]
         },
         {
-          "id": "film-32-3521067515403200433",
-          "key": "film-32-3521067515403200433",
+          "id": "film-32-99144604536887647",
+          "key": "film-32-99144604536887647",
           "category": "Film",
           "label": "Film",
           "headline": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
@@ -1821,8 +1823,8 @@
           ]
         },
         {
-          "id": "film-1-7101560845843578081",
-          "key": "film-1-7101560845843578081",
+          "id": "film-1-4116100710027104680",
+          "key": "film-1-4116100710027104680",
           "category": "Film",
           "label": "Film",
           "headline": "Grace Passô’s ‘Our Secret’ Nabs the Best Film Kikito at the 54th Gramado Film Festival",
@@ -1849,25 +1851,25 @@
           ]
         },
         {
-          "id": "film-11-8462010941939397144",
-          "key": "film-11-8462010941939397144",
+          "id": "film-11-397987161314792225",
+          "key": "film-11-397987161314792225",
           "category": "Film",
           "label": "Film",
-          "headline": "LMGI Awards Winners: ‘One Battle After Another,’ ‘Marty Supreme,’ ‘Pluribus’ Among Location Managers Guild’s Honorees",
-          "title": "LMGI Awards Winners: ‘One Battle After Another,’ ‘Marty Supreme,’ ‘Pluribus’ Among Location Managers Guild’s Honorees",
-          "snapshot": "The location pros behind Best Picture Oscar winner One Battle After Another and nominee Marty Supreme won the film prizes at the 2026 LMGI Awards, with the Pluribus, Fallout and Black Rabbit teams taking TV honors. Location Managers Guild International held its 13th annual ceremony Saturday night, which was hosted b...",
-          "summary": "The location pros behind Best Picture Oscar winner One Battle After Another and nominee Marty Supreme won the film prizes at the 2026 LMGI Awards, with the Pluribus, Fallout and Black Rabbit teams taking TV honors. Location Managers Guild International held its 13th annual ceremony Saturday night, which was hosted b...",
-          "url": "https://deadline.com/2026/08/2026-lmgi-awards-winners-location-managers-guild-1237047862/",
+          "headline": "Melissa Gilbert Calls On Unions To Protect Child Actors After Hayden Panettiere’s Death: “Something Has Got To Be Done”",
+          "title": "Melissa Gilbert Calls On Unions To Protect Child Actors After Hayden Panettiere’s Death: “Something Has Got To Be Done”",
+          "snapshot": "Following the death of Hayden Panettiere, Melissa Gilbert is the latest to call for better protections for child actors. On Saturday, the Little House on the Prairie alum admitted she “did not know Hayden personally,” but explained that her death feels “so personal to me” as a former child actor, demanding unions “e...",
+          "summary": "Following the death of Hayden Panettiere, Melissa Gilbert is the latest to call for better protections for child actors. On Saturday, the Little House on the Prairie alum admitted she “did not know Hayden personally,” but explained that her death feels “so personal to me” as a former child actor, demanding unions “e...",
+          "url": "https://deadline.com/2026/08/melissa-gilbert-protect-child-actors-hayden-panettiere-death-1237048294/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/film/feed/",
-          "published_at": "2026-08-22 11:00:00 PM ET",
+          "published_at": "2026-08-23 12:25:34 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "LMGI Awards Winners: ‘One Battle After Another,’ ‘Marty Supreme,’ ‘Pluribus’ Among Location Managers Guild’s Honorees"
+            "Melissa Gilbert Calls On Unions To Protect Child Actors After Hayden Panettiere’s Death: “Something Has Got To Be Done”"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1877,8 +1879,8 @@
           ]
         },
         {
-          "id": "film-23-5704829965192566483",
-          "key": "film-23-5704829965192566483",
+          "id": "film-23-6262324694489301006",
+          "key": "film-23-6262324694489301006",
           "category": "Film",
           "label": "Film",
           "headline": "Nick Glennie-Smith, Composer on ‘The Rock,’ ‘The Man in the Iron Mask’ and ‘Secretariat,’ Dies at 74",
@@ -1905,8 +1907,8 @@
           ]
         },
         {
-          "id": "film-33-5598533459864012526",
-          "key": "film-33-5598533459864012526",
+          "id": "film-33-3586871209708373887",
+          "key": "film-33-3586871209708373887",
           "category": "Film",
           "label": "Film",
           "headline": "The Best Action Movie From Every Year in the 1990s - Mental Floss",
@@ -1935,8 +1937,8 @@
       ],
       "items": [
         {
-          "id": "film-0-8258390754253414089",
-          "key": "film-0-8258390754253414089",
+          "id": "film-0-4006753658246061112",
+          "key": "film-0-4006753658246061112",
           "category": "Film",
           "label": "Film",
           "headline": "Ridley Scott Says ‘I’m Not a Filmmaker, I’m an Influencer’",
@@ -1963,25 +1965,25 @@
           ]
         },
         {
-          "id": "film-10-5819178747358265099",
-          "key": "film-10-5819178747358265099",
+          "id": "film-10-5116389921468433037",
+          "key": "film-10-5116389921468433037",
           "category": "Film",
           "label": "Film",
-          "headline": "Melissa Gilbert Calls On Unions To Protect Child Actors After Hayden Panettiere’s Death: “Something Has Got To Be Done”",
-          "title": "Melissa Gilbert Calls On Unions To Protect Child Actors After Hayden Panettiere’s Death: “Something Has Got To Be Done”",
-          "snapshot": "Following the death of Hayden Panettiere, Melissa Gilbert is the latest to call for better protections for child actors. On Saturday, the Little House on the Prairie alum admitted she “did not know Hayden personally,” but explained that her death feels “so personal to me” as a former child actor, demanding unions “e...",
-          "summary": "Following the death of Hayden Panettiere, Melissa Gilbert is the latest to call for better protections for child actors. On Saturday, the Little House on the Prairie alum admitted she “did not know Hayden personally,” but explained that her death feels “so personal to me” as a former child actor, demanding unions “e...",
-          "url": "https://deadline.com/2026/08/melissa-gilbert-protect-child-actors-hayden-panettiere-death-1237048294/",
+          "headline": "2026 Domestic Box Office Soars Past $7 Billion, +20% Over 2025",
+          "title": "2026 Domestic Box Office Soars Past $7 Billion, +20% Over 2025",
+          "snapshot": "This summer, and this year, further shows the importance of protecting the theatrical window as the domestic annual box office has crossed the $7 billion mark according to Rentrak. Those are the best numbers we’ve seen post Covid, +20% above the same period a year ago (Jan. 1-Aug. 23 which was at $5.86B with the […]",
+          "summary": "This summer, and this year, further shows the importance of protecting the theatrical window as the domestic annual box office has crossed the $7 billion mark according to Rentrak. Those are the best numbers we’ve seen post Covid, +20% above the same period a year ago (Jan. 1-Aug. 23 which was at $5.86B with the […]",
+          "url": "https://deadline.com/2026/08/box-office-domestic-7-billion-1237048328/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/film/feed/",
-          "published_at": "2026-08-23 12:25:34 PM ET",
+          "published_at": "2026-08-23 03:04:04 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "Melissa Gilbert Calls On Unions To Protect Child Actors After Hayden Panettiere’s Death: “Something Has Got To Be Done”"
+            "2026 Domestic Box Office Soars Past $7 Billion, +20% Over 2025"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1991,8 +1993,8 @@
           ]
         },
         {
-          "id": "film-22-4917862338661668524",
-          "key": "film-22-4917862338661668524",
+          "id": "film-22-1312516487267277954",
+          "key": "film-22-1312516487267277954",
           "category": "Film",
           "label": "Film",
           "headline": "‘Spider-Man: Brand New Day’ Hits No. 6 All-Time Globally as It Swings to Fourth Box Office Victory",
@@ -2019,8 +2021,8 @@
           ]
         },
         {
-          "id": "film-32-3521067515403200433",
-          "key": "film-32-3521067515403200433",
+          "id": "film-32-99144604536887647",
+          "key": "film-32-99144604536887647",
           "category": "Film",
           "label": "Film",
           "headline": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
@@ -2047,8 +2049,8 @@
           ]
         },
         {
-          "id": "film-1-7101560845843578081",
-          "key": "film-1-7101560845843578081",
+          "id": "film-1-4116100710027104680",
+          "key": "film-1-4116100710027104680",
           "category": "Film",
           "label": "Film",
           "headline": "Grace Passô’s ‘Our Secret’ Nabs the Best Film Kikito at the 54th Gramado Film Festival",
@@ -2075,25 +2077,25 @@
           ]
         },
         {
-          "id": "film-11-8462010941939397144",
-          "key": "film-11-8462010941939397144",
+          "id": "film-11-397987161314792225",
+          "key": "film-11-397987161314792225",
           "category": "Film",
           "label": "Film",
-          "headline": "LMGI Awards Winners: ‘One Battle After Another,’ ‘Marty Supreme,’ ‘Pluribus’ Among Location Managers Guild’s Honorees",
-          "title": "LMGI Awards Winners: ‘One Battle After Another,’ ‘Marty Supreme,’ ‘Pluribus’ Among Location Managers Guild’s Honorees",
-          "snapshot": "The location pros behind Best Picture Oscar winner One Battle After Another and nominee Marty Supreme won the film prizes at the 2026 LMGI Awards, with the Pluribus, Fallout and Black Rabbit teams taking TV honors. Location Managers Guild International held its 13th annual ceremony Saturday night, which was hosted b...",
-          "summary": "The location pros behind Best Picture Oscar winner One Battle After Another and nominee Marty Supreme won the film prizes at the 2026 LMGI Awards, with the Pluribus, Fallout and Black Rabbit teams taking TV honors. Location Managers Guild International held its 13th annual ceremony Saturday night, which was hosted b...",
-          "url": "https://deadline.com/2026/08/2026-lmgi-awards-winners-location-managers-guild-1237047862/",
+          "headline": "Melissa Gilbert Calls On Unions To Protect Child Actors After Hayden Panettiere’s Death: “Something Has Got To Be Done”",
+          "title": "Melissa Gilbert Calls On Unions To Protect Child Actors After Hayden Panettiere’s Death: “Something Has Got To Be Done”",
+          "snapshot": "Following the death of Hayden Panettiere, Melissa Gilbert is the latest to call for better protections for child actors. On Saturday, the Little House on the Prairie alum admitted she “did not know Hayden personally,” but explained that her death feels “so personal to me” as a former child actor, demanding unions “e...",
+          "summary": "Following the death of Hayden Panettiere, Melissa Gilbert is the latest to call for better protections for child actors. On Saturday, the Little House on the Prairie alum admitted she “did not know Hayden personally,” but explained that her death feels “so personal to me” as a former child actor, demanding unions “e...",
+          "url": "https://deadline.com/2026/08/melissa-gilbert-protect-child-actors-hayden-panettiere-death-1237048294/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/film/feed/",
-          "published_at": "2026-08-22 11:00:00 PM ET",
+          "published_at": "2026-08-23 12:25:34 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "LMGI Awards Winners: ‘One Battle After Another,’ ‘Marty Supreme,’ ‘Pluribus’ Among Location Managers Guild’s Honorees"
+            "Melissa Gilbert Calls On Unions To Protect Child Actors After Hayden Panettiere’s Death: “Something Has Got To Be Done”"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2103,8 +2105,8 @@
           ]
         },
         {
-          "id": "film-23-5704829965192566483",
-          "key": "film-23-5704829965192566483",
+          "id": "film-23-6262324694489301006",
+          "key": "film-23-6262324694489301006",
           "category": "Film",
           "label": "Film",
           "headline": "Nick Glennie-Smith, Composer on ‘The Rock,’ ‘The Man in the Iron Mask’ and ‘Secretariat,’ Dies at 74",
@@ -2131,8 +2133,8 @@
           ]
         },
         {
-          "id": "film-33-5598533459864012526",
-          "key": "film-33-5598533459864012526",
+          "id": "film-33-3586871209708373887",
+          "key": "film-33-3586871209708373887",
           "category": "Film",
           "label": "Film",
           "headline": "The Best Action Movie From Every Year in the 1990s - Mental Floss",
@@ -2159,7 +2161,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 02:30:52 PM ET"
+      "updated_at": "2026-08-23 03:21:58 PM ET"
     },
     {
       "key": "tv",
@@ -2186,8 +2188,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "tv-0-4999645137550436137",
-          "key": "tv-0-4999645137550436137",
+          "id": "tv-0-787044381191633653",
+          "key": "tv-0-787044381191633653",
           "category": "TV",
           "label": "TV",
           "headline": "Martin Short Gets Honest: What It’s Like to Be All Over the Emmy Race, Thanks to Three Very Different Projects",
@@ -2214,8 +2216,8 @@
           ]
         },
         {
-          "id": "tv-9-3675032067084965836",
-          "key": "tv-9-3675032067084965836",
+          "id": "tv-9-4215903906416205453",
+          "key": "tv-9-4215903906416205453",
           "category": "TV",
           "label": "TV",
           "headline": "‘One Piece: The Battle Of Alabasta’ Adds Four To Season 3 Cast In Roles Of Koza, Toto, Pell & Chaka",
@@ -2242,8 +2244,8 @@
           ]
         },
         {
-          "id": "tv-17-7469955894091184711",
-          "key": "tv-17-7469955894091184711",
+          "id": "tv-18-3966373975735314582",
+          "key": "tv-18-3966373975735314582",
           "category": "TV",
           "label": "TV",
           "headline": "Bunny Levine, Librarian Turned Actress in ‘Gilmore Girls,’ ‘Thelma’ and ‘You Don’t Mess With the Zohan,’ Dies at 97",
@@ -2258,7 +2260,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 83,
+          "priority_score": 82,
           "key_data": [
             "Bunny Levine, Librarian Turned Actress in ‘Gilmore Girls,’ ‘Thelma’ and ‘You Don’t Mess With the Zohan,’ Dies at 97"
           ],
@@ -2270,8 +2272,8 @@
           ]
         },
         {
-          "id": "tv-27-55251420186133365",
-          "key": "tv-27-55251420186133365",
+          "id": "tv-28-3604227737837868948",
+          "key": "tv-28-3604227737837868948",
           "category": "TV",
           "label": "TV",
           "headline": "‘The Office’ star Jenna Fischer exposes the grueling reality that forced her off TV - Fox News",
@@ -2286,7 +2288,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 73,
+          "priority_score": 72,
           "key_data": [
             "‘The Office’ star Jenna Fischer exposes the grueling reality that forced her off TV - Fox News"
           ],
@@ -2298,8 +2300,8 @@
           ]
         },
         {
-          "id": "tv-1-4991832039790570114",
-          "key": "tv-1-4991832039790570114",
+          "id": "tv-1-367203415717230062",
+          "key": "tv-1-367203415717230062",
           "category": "TV",
           "label": "TV",
           "headline": "‘One Piece’ Season 3 Casts Its Koza, Toto, Pell and Chaka",
@@ -2326,8 +2328,8 @@
           ]
         },
         {
-          "id": "tv-10-5829207523187351679",
-          "key": "tv-10-5829207523187351679",
+          "id": "tv-10-7380489972945477851",
+          "key": "tv-10-7380489972945477851",
           "category": "TV",
           "label": "TV",
           "headline": "Karoline Leavitt Announces Post-White House Job",
@@ -2354,8 +2356,8 @@
           ]
         },
         {
-          "id": "tv-18-5910434780631978354",
-          "key": "tv-18-5910434780631978354",
+          "id": "tv-19-3871894645066173198",
+          "key": "tv-19-3871894645066173198",
           "category": "TV",
           "label": "TV",
           "headline": "Meghan Markle Reportedly Dropped From Consideration to Join Guy Ritchie’s ‘The Gentlemen’",
@@ -2370,7 +2372,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 82,
+          "priority_score": 81,
           "key_data": [
             "Meghan Markle Reportedly Dropped From Consideration to Join Guy Ritchie’s ‘The Gentlemen’"
           ],
@@ -2382,8 +2384,8 @@
           ]
         },
         {
-          "id": "tv-28-2695701772735975969",
-          "key": "tv-28-2695701772735975969",
+          "id": "tv-29-3957615636452474135",
+          "key": "tv-29-3957615636452474135",
           "category": "TV",
           "label": "TV",
           "headline": "AI Just Got Its First 24/7 TV Channel - PYMNTS.com",
@@ -2398,7 +2400,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 72,
+          "priority_score": 71,
           "key_data": [
             "AI Just Got Its First 24/7 TV Channel - PYMNTS.com"
           ],
@@ -2412,8 +2414,8 @@
       ],
       "items": [
         {
-          "id": "tv-0-4999645137550436137",
-          "key": "tv-0-4999645137550436137",
+          "id": "tv-0-787044381191633653",
+          "key": "tv-0-787044381191633653",
           "category": "TV",
           "label": "TV",
           "headline": "Martin Short Gets Honest: What It’s Like to Be All Over the Emmy Race, Thanks to Three Very Different Projects",
@@ -2440,8 +2442,8 @@
           ]
         },
         {
-          "id": "tv-9-3675032067084965836",
-          "key": "tv-9-3675032067084965836",
+          "id": "tv-9-4215903906416205453",
+          "key": "tv-9-4215903906416205453",
           "category": "TV",
           "label": "TV",
           "headline": "‘One Piece: The Battle Of Alabasta’ Adds Four To Season 3 Cast In Roles Of Koza, Toto, Pell & Chaka",
@@ -2468,8 +2470,8 @@
           ]
         },
         {
-          "id": "tv-17-7469955894091184711",
-          "key": "tv-17-7469955894091184711",
+          "id": "tv-18-3966373975735314582",
+          "key": "tv-18-3966373975735314582",
           "category": "TV",
           "label": "TV",
           "headline": "Bunny Levine, Librarian Turned Actress in ‘Gilmore Girls,’ ‘Thelma’ and ‘You Don’t Mess With the Zohan,’ Dies at 97",
@@ -2484,7 +2486,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 83,
+          "priority_score": 82,
           "key_data": [
             "Bunny Levine, Librarian Turned Actress in ‘Gilmore Girls,’ ‘Thelma’ and ‘You Don’t Mess With the Zohan,’ Dies at 97"
           ],
@@ -2496,8 +2498,8 @@
           ]
         },
         {
-          "id": "tv-27-55251420186133365",
-          "key": "tv-27-55251420186133365",
+          "id": "tv-28-3604227737837868948",
+          "key": "tv-28-3604227737837868948",
           "category": "TV",
           "label": "TV",
           "headline": "‘The Office’ star Jenna Fischer exposes the grueling reality that forced her off TV - Fox News",
@@ -2512,7 +2514,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 73,
+          "priority_score": 72,
           "key_data": [
             "‘The Office’ star Jenna Fischer exposes the grueling reality that forced her off TV - Fox News"
           ],
@@ -2524,8 +2526,8 @@
           ]
         },
         {
-          "id": "tv-1-4991832039790570114",
-          "key": "tv-1-4991832039790570114",
+          "id": "tv-1-367203415717230062",
+          "key": "tv-1-367203415717230062",
           "category": "TV",
           "label": "TV",
           "headline": "‘One Piece’ Season 3 Casts Its Koza, Toto, Pell and Chaka",
@@ -2552,8 +2554,8 @@
           ]
         },
         {
-          "id": "tv-10-5829207523187351679",
-          "key": "tv-10-5829207523187351679",
+          "id": "tv-10-7380489972945477851",
+          "key": "tv-10-7380489972945477851",
           "category": "TV",
           "label": "TV",
           "headline": "Karoline Leavitt Announces Post-White House Job",
@@ -2580,8 +2582,8 @@
           ]
         },
         {
-          "id": "tv-18-5910434780631978354",
-          "key": "tv-18-5910434780631978354",
+          "id": "tv-19-3871894645066173198",
+          "key": "tv-19-3871894645066173198",
           "category": "TV",
           "label": "TV",
           "headline": "Meghan Markle Reportedly Dropped From Consideration to Join Guy Ritchie’s ‘The Gentlemen’",
@@ -2596,7 +2598,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 82,
+          "priority_score": 81,
           "key_data": [
             "Meghan Markle Reportedly Dropped From Consideration to Join Guy Ritchie’s ‘The Gentlemen’"
           ],
@@ -2608,8 +2610,8 @@
           ]
         },
         {
-          "id": "tv-28-2695701772735975969",
-          "key": "tv-28-2695701772735975969",
+          "id": "tv-29-3957615636452474135",
+          "key": "tv-29-3957615636452474135",
           "category": "TV",
           "label": "TV",
           "headline": "AI Just Got Its First 24/7 TV Channel - PYMNTS.com",
@@ -2624,7 +2626,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 72,
+          "priority_score": 71,
           "key_data": [
             "AI Just Got Its First 24/7 TV Channel - PYMNTS.com"
           ],
@@ -2636,7 +2638,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 02:30:54 PM ET"
+      "updated_at": "2026-08-23 03:22:00 PM ET"
     },
     {
       "key": "streaming",
@@ -2654,8 +2656,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "streaming-0-8196966702696709933",
-          "key": "streaming-0-8196966702696709933",
+          "id": "streaming-0-6942465490696196208",
+          "key": "streaming-0-6942465490696196208",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'Mother Mary' to 'Passenger,' 10 movies to stream right now - USA Today",
@@ -2682,8 +2684,8 @@
           ]
         },
         {
-          "id": "streaming-1-1568433192554289160",
-          "key": "streaming-1-1568433192554289160",
+          "id": "streaming-1-2927327024664040609",
+          "key": "streaming-1-2927327024664040609",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "5 best new movies to stream this weekend on Netflix, Disney+, Hulu, and more (August 15-16) - Tom's Guide",
@@ -2712,8 +2714,8 @@
       ],
       "items": [
         {
-          "id": "streaming-0-8196966702696709933",
-          "key": "streaming-0-8196966702696709933",
+          "id": "streaming-0-6942465490696196208",
+          "key": "streaming-0-6942465490696196208",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'Mother Mary' to 'Passenger,' 10 movies to stream right now - USA Today",
@@ -2740,8 +2742,8 @@
           ]
         },
         {
-          "id": "streaming-1-1568433192554289160",
-          "key": "streaming-1-1568433192554289160",
+          "id": "streaming-1-2927327024664040609",
+          "key": "streaming-1-2927327024664040609",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "5 best new movies to stream this weekend on Netflix, Disney+, Hulu, and more (August 15-16) - Tom's Guide",
@@ -2768,7 +2770,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 02:30:56 PM ET"
+      "updated_at": "2026-08-23 03:22:00 PM ET"
     },
     {
       "key": "music",
@@ -2778,23 +2780,23 @@
       "snapshot": "Music coverage is updating with 6 current RSS headline item(s).",
       "key_storylines": [
         "Dr. Dre Says the Only People Who See AI as a Threat Are Those ‘Who Have Trouble Creating’",
-        "Rosalía’s ‘La Perla’ ‘Wouldn’t Exist’ Without Paquita la del Barrio’s ‘Rata de dos Patas’",
+        "Drake’s Appearance at Ella Langley’s Show Has Fans Wondering About a Collab",
         "Los Lobos Settles Sony Music Lawsuit Over ‘Desperado’ Movie Soundtrack Royalties - Billboard",
         "Dale Morris, Titan of Nashville Management Who Forged Superstar Careers for Kenny Chesney and Alabama, Dies at 89",
-        "ZZ Top Returns to Stage for First Show Since Drummer Frank Beard’s Death"
+        "KATSEYE Achieves First No. 1 Album on Billboard 200 With ‘WILD’"
       ],
       "watch_list": [
         "Dr. Dre Says the Only People Who See AI as a Threat Are Those ‘Who Have Trouble Creating’",
-        "Rosalía’s ‘La Perla’ ‘Wouldn’t Exist’ Without Paquita la del Barrio’s ‘Rata de dos Patas’",
+        "Drake’s Appearance at Ella Langley’s Show Has Fans Wondering About a Collab",
         "Los Lobos Settles Sony Music Lawsuit Over ‘Desperado’ Movie Soundtrack Royalties - Billboard",
         "Dale Morris, Titan of Nashville Management Who Forged Superstar Careers for Kenny Chesney and Alabama, Dies at 89",
-        "ZZ Top Returns to Stage for First Show Since Drummer Frank Beard’s Death",
+        "KATSEYE Achieves First No. 1 Album on Billboard 200 With ‘WILD’",
         "R&B/Hip-Hop Power Players: Billboard’s 2026 List Revealed - Billboard"
       ],
       "homepage_cards": [
         {
-          "id": "music-0-8848324768735039751",
-          "key": "music-0-8848324768735039751",
+          "id": "music-0-1575479905990611148",
+          "key": "music-0-1575479905990611148",
           "category": "Music",
           "label": "Music",
           "headline": "Dr. Dre Says the Only People Who See AI as a Threat Are Those ‘Who Have Trouble Creating’",
@@ -2821,25 +2823,25 @@
           ]
         },
         {
-          "id": "music-10-4691452453410623286",
-          "key": "music-10-4691452453410623286",
+          "id": "music-10-2540172980657665788",
+          "key": "music-10-2540172980657665788",
           "category": "Music",
           "label": "Music",
-          "headline": "Rosalía’s ‘La Perla’ ‘Wouldn’t Exist’ Without Paquita la del Barrio’s ‘Rata de dos Patas’",
-          "title": "Rosalía’s ‘La Perla’ ‘Wouldn’t Exist’ Without Paquita la del Barrio’s ‘Rata de dos Patas’",
-          "snapshot": "Read Rosalía's explanation from her first of five nights at Mexico City's Palacio de los Deportes, where she welcomed Kenia Os into her \"confessional.\"",
-          "summary": "Read Rosalía's explanation from her first of five nights at Mexico City's Palacio de los Deportes, where she welcomed Kenia Os into her \"confessional.\"",
-          "url": "https://www.billboard.com/music/latin/rosalia-la-perla-paquita-la-del-barrio-rata-de-dos-patas-1236322559/",
+          "headline": "Drake’s Appearance at Ella Langley’s Show Has Fans Wondering About a Collab",
+          "title": "Drake’s Appearance at Ella Langley’s Show Has Fans Wondering About a Collab",
+          "snapshot": "Drizzy recently praised the country star on social media.",
+          "summary": "Drizzy recently praised the country star on social media.",
+          "url": "https://www.billboard.com/music/music-news/drake-ella-langley-concert-collab-rumors-choosin-texas-1236322570/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-23 01:06:04 PM ET",
+          "published_at": "2026-08-23 03:14:25 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "Rosalía’s ‘La Perla’ ‘Wouldn’t Exist’ Without Paquita la del Barrio’s ‘Rata de dos Patas’"
+            "Drake’s Appearance at Ella Langley’s Show Has Fans Wondering About a Collab"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2849,8 +2851,8 @@
           ]
         },
         {
-          "id": "music-20-5030408913646205560",
-          "key": "music-20-5030408913646205560",
+          "id": "music-20-7558665290459182932",
+          "key": "music-20-7558665290459182932",
           "category": "Music",
           "label": "Music",
           "headline": "Los Lobos Settles Sony Music Lawsuit Over ‘Desperado’ Movie Soundtrack Royalties - Billboard",
@@ -2877,8 +2879,8 @@
           ]
         },
         {
-          "id": "music-1-3324411274732125765",
-          "key": "music-1-3324411274732125765",
+          "id": "music-1-5149936228327819366",
+          "key": "music-1-5149936228327819366",
           "category": "Music",
           "label": "Music",
           "headline": "Dale Morris, Titan of Nashville Management Who Forged Superstar Careers for Kenny Chesney and Alabama, Dies at 89",
@@ -2905,25 +2907,25 @@
           ]
         },
         {
-          "id": "music-11-4770019307480466342",
-          "key": "music-11-4770019307480466342",
+          "id": "music-11-4701933980013807546",
+          "key": "music-11-4701933980013807546",
           "category": "Music",
           "label": "Music",
-          "headline": "ZZ Top Returns to Stage for First Show Since Drummer Frank Beard’s Death",
-          "title": "ZZ Top Returns to Stage for First Show Since Drummer Frank Beard’s Death",
-          "snapshot": "\"We’re all here for a celebration,\" frontman Billy Gibbons said.",
-          "summary": "\"We’re all here for a celebration,\" frontman Billy Gibbons said.",
-          "url": "https://www.billboard.com/music/rock/zz-top-first-show-drummer-frank-beard-death-1236322554/",
+          "headline": "KATSEYE Achieves First No. 1 Album on Billboard 200 With ‘WILD’",
+          "title": "KATSEYE Achieves First No. 1 Album on Billboard 200 With ‘WILD’",
+          "snapshot": "Plus, Phoebe Bridgers earns her first solo top 10 with Lost Weekend bowing at No. 2.",
+          "summary": "Plus, Phoebe Bridgers earns her first solo top 10 with Lost Weekend bowing at No. 2.",
+          "url": "https://www.billboard.com/music/chart-beat/katseye-wild-number-one-billboard-200-albums-chart-1236322567/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-23 12:47:41 PM ET",
+          "published_at": "2026-08-23 03:00:05 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "ZZ Top Returns to Stage for First Show Since Drummer Frank Beard’s Death"
+            "KATSEYE Achieves First No. 1 Album on Billboard 200 With ‘WILD’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2933,8 +2935,8 @@
           ]
         },
         {
-          "id": "music-21-3014843012631554255",
-          "key": "music-21-3014843012631554255",
+          "id": "music-21-3109645535650441654",
+          "key": "music-21-3109645535650441654",
           "category": "Music",
           "label": "Music",
           "headline": "R&B/Hip-Hop Power Players: Billboard’s 2026 List Revealed - Billboard",
@@ -2963,8 +2965,8 @@
       ],
       "items": [
         {
-          "id": "music-0-8848324768735039751",
-          "key": "music-0-8848324768735039751",
+          "id": "music-0-1575479905990611148",
+          "key": "music-0-1575479905990611148",
           "category": "Music",
           "label": "Music",
           "headline": "Dr. Dre Says the Only People Who See AI as a Threat Are Those ‘Who Have Trouble Creating’",
@@ -2991,25 +2993,25 @@
           ]
         },
         {
-          "id": "music-10-4691452453410623286",
-          "key": "music-10-4691452453410623286",
+          "id": "music-10-2540172980657665788",
+          "key": "music-10-2540172980657665788",
           "category": "Music",
           "label": "Music",
-          "headline": "Rosalía’s ‘La Perla’ ‘Wouldn’t Exist’ Without Paquita la del Barrio’s ‘Rata de dos Patas’",
-          "title": "Rosalía’s ‘La Perla’ ‘Wouldn’t Exist’ Without Paquita la del Barrio’s ‘Rata de dos Patas’",
-          "snapshot": "Read Rosalía's explanation from her first of five nights at Mexico City's Palacio de los Deportes, where she welcomed Kenia Os into her \"confessional.\"",
-          "summary": "Read Rosalía's explanation from her first of five nights at Mexico City's Palacio de los Deportes, where she welcomed Kenia Os into her \"confessional.\"",
-          "url": "https://www.billboard.com/music/latin/rosalia-la-perla-paquita-la-del-barrio-rata-de-dos-patas-1236322559/",
+          "headline": "Drake’s Appearance at Ella Langley’s Show Has Fans Wondering About a Collab",
+          "title": "Drake’s Appearance at Ella Langley’s Show Has Fans Wondering About a Collab",
+          "snapshot": "Drizzy recently praised the country star on social media.",
+          "summary": "Drizzy recently praised the country star on social media.",
+          "url": "https://www.billboard.com/music/music-news/drake-ella-langley-concert-collab-rumors-choosin-texas-1236322570/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-23 01:06:04 PM ET",
+          "published_at": "2026-08-23 03:14:25 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "Rosalía’s ‘La Perla’ ‘Wouldn’t Exist’ Without Paquita la del Barrio’s ‘Rata de dos Patas’"
+            "Drake’s Appearance at Ella Langley’s Show Has Fans Wondering About a Collab"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3019,8 +3021,8 @@
           ]
         },
         {
-          "id": "music-20-5030408913646205560",
-          "key": "music-20-5030408913646205560",
+          "id": "music-20-7558665290459182932",
+          "key": "music-20-7558665290459182932",
           "category": "Music",
           "label": "Music",
           "headline": "Los Lobos Settles Sony Music Lawsuit Over ‘Desperado’ Movie Soundtrack Royalties - Billboard",
@@ -3047,8 +3049,8 @@
           ]
         },
         {
-          "id": "music-1-3324411274732125765",
-          "key": "music-1-3324411274732125765",
+          "id": "music-1-5149936228327819366",
+          "key": "music-1-5149936228327819366",
           "category": "Music",
           "label": "Music",
           "headline": "Dale Morris, Titan of Nashville Management Who Forged Superstar Careers for Kenny Chesney and Alabama, Dies at 89",
@@ -3075,25 +3077,25 @@
           ]
         },
         {
-          "id": "music-11-4770019307480466342",
-          "key": "music-11-4770019307480466342",
+          "id": "music-11-4701933980013807546",
+          "key": "music-11-4701933980013807546",
           "category": "Music",
           "label": "Music",
-          "headline": "ZZ Top Returns to Stage for First Show Since Drummer Frank Beard’s Death",
-          "title": "ZZ Top Returns to Stage for First Show Since Drummer Frank Beard’s Death",
-          "snapshot": "\"We’re all here for a celebration,\" frontman Billy Gibbons said.",
-          "summary": "\"We’re all here for a celebration,\" frontman Billy Gibbons said.",
-          "url": "https://www.billboard.com/music/rock/zz-top-first-show-drummer-frank-beard-death-1236322554/",
+          "headline": "KATSEYE Achieves First No. 1 Album on Billboard 200 With ‘WILD’",
+          "title": "KATSEYE Achieves First No. 1 Album on Billboard 200 With ‘WILD’",
+          "snapshot": "Plus, Phoebe Bridgers earns her first solo top 10 with Lost Weekend bowing at No. 2.",
+          "summary": "Plus, Phoebe Bridgers earns her first solo top 10 with Lost Weekend bowing at No. 2.",
+          "url": "https://www.billboard.com/music/chart-beat/katseye-wild-number-one-billboard-200-albums-chart-1236322567/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-23 12:47:41 PM ET",
+          "published_at": "2026-08-23 03:00:05 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "ZZ Top Returns to Stage for First Show Since Drummer Frank Beard’s Death"
+            "KATSEYE Achieves First No. 1 Album on Billboard 200 With ‘WILD’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3103,8 +3105,8 @@
           ]
         },
         {
-          "id": "music-21-3014843012631554255",
-          "key": "music-21-3014843012631554255",
+          "id": "music-21-3109645535650441654",
+          "key": "music-21-3109645535650441654",
           "category": "Music",
           "label": "Music",
           "headline": "R&B/Hip-Hop Power Players: Billboard’s 2026 List Revealed - Billboard",
@@ -3131,7 +3133,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 02:30:57 PM ET"
+      "updated_at": "2026-08-23 03:22:01 PM ET"
     },
     {
       "key": "awards",
@@ -3153,8 +3155,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "awards-0-5902619755097121123",
-          "key": "awards-0-5902619755097121123",
+          "id": "awards-0-4515793693782889444",
+          "key": "awards-0-4515793693782889444",
           "category": "Awards",
           "label": "Awards",
           "headline": "‘Slow Horses’ Actor Jack Lowden Unpacks River Cartwright and Why Pride Gets in His Way",
@@ -3181,8 +3183,8 @@
           ]
         },
         {
-          "id": "awards-7-791517225964507383",
-          "key": "awards-7-791517225964507383",
+          "id": "awards-7-1379971082318442246",
+          "key": "awards-7-1379971082318442246",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar - Deadline",
@@ -3209,8 +3211,8 @@
           ]
         },
         {
-          "id": "awards-1-21455958242899759",
-          "key": "awards-1-21455958242899759",
+          "id": "awards-1-2364348484369205365",
+          "key": "awards-1-2364348484369205365",
           "category": "Awards",
           "label": "Awards",
           "headline": "Emmys: A Breakdown of the Music Nominees From Lady Gaga’s ‘Dead Dance’ to Hans Zimmer’s Race for His First Win",
@@ -3237,8 +3239,8 @@
           ]
         },
         {
-          "id": "awards-8-7375988238522175694",
-          "key": "awards-8-7375988238522175694",
+          "id": "awards-8-408849279539401888",
+          "key": "awards-8-408849279539401888",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026 Emmys Supporting Actor Comedy Predictions and Rankings - Yahoo",
@@ -3267,8 +3269,8 @@
       ],
       "items": [
         {
-          "id": "awards-0-5902619755097121123",
-          "key": "awards-0-5902619755097121123",
+          "id": "awards-0-4515793693782889444",
+          "key": "awards-0-4515793693782889444",
           "category": "Awards",
           "label": "Awards",
           "headline": "‘Slow Horses’ Actor Jack Lowden Unpacks River Cartwright and Why Pride Gets in His Way",
@@ -3295,8 +3297,8 @@
           ]
         },
         {
-          "id": "awards-7-791517225964507383",
-          "key": "awards-7-791517225964507383",
+          "id": "awards-7-1379971082318442246",
+          "key": "awards-7-1379971082318442246",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar - Deadline",
@@ -3323,8 +3325,8 @@
           ]
         },
         {
-          "id": "awards-1-21455958242899759",
-          "key": "awards-1-21455958242899759",
+          "id": "awards-1-2364348484369205365",
+          "key": "awards-1-2364348484369205365",
           "category": "Awards",
           "label": "Awards",
           "headline": "Emmys: A Breakdown of the Music Nominees From Lady Gaga’s ‘Dead Dance’ to Hans Zimmer’s Race for His First Win",
@@ -3351,8 +3353,8 @@
           ]
         },
         {
-          "id": "awards-8-7375988238522175694",
-          "key": "awards-8-7375988238522175694",
+          "id": "awards-8-408849279539401888",
+          "key": "awards-8-408849279539401888",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026 Emmys Supporting Actor Comedy Predictions and Rankings - Yahoo",
@@ -3379,7 +3381,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 02:30:58 PM ET"
+      "updated_at": "2026-08-23 03:22:02 PM ET"
     },
     {
       "key": "box_office",
@@ -3389,20 +3391,20 @@
       "snapshot": "Box Office coverage is updating with 4 current RSS headline item(s).",
       "key_storylines": [
         "Box Office: ‘Insidious: Out of the Further’ Takes First Place on Friday With $10.6 Million, but ‘Spider-Man: Brand New Day’ Will Win the Weekend",
-        "‘Insidious: Out of the Further’ Hunts Down $3M in Box Office Previews - The Hollywood Reporter",
+        "2026 box-office hits: Every movie that made more than $100 million - Gold Derby",
         "‘The Odyssey’ Beats ‘Deadpool & Wolverine’ as Biggest R-Rated Movie of All Time With $1.35 Billion",
-        "'Obsession' Becomes Hollywood's First Original Film of 2020s to Gross $500 Million Worldwide - TheWrap"
+        "‘Insidious: Out of the Further’ Hunts Down $3M in Box Office Previews - The Hollywood Reporter"
       ],
       "watch_list": [
         "Box Office: ‘Insidious: Out of the Further’ Takes First Place on Friday With $10.6 Million, but ‘Spider-Man: Brand New Day’ Will Win the Weekend",
-        "‘Insidious: Out of the Further’ Hunts Down $3M in Box Office Previews - The Hollywood Reporter",
+        "2026 box-office hits: Every movie that made more than $100 million - Gold Derby",
         "‘The Odyssey’ Beats ‘Deadpool & Wolverine’ as Biggest R-Rated Movie of All Time With $1.35 Billion",
-        "'Obsession' Becomes Hollywood's First Original Film of 2020s to Gross $500 Million Worldwide - TheWrap"
+        "‘Insidious: Out of the Further’ Hunts Down $3M in Box Office Previews - The Hollywood Reporter"
       ],
       "homepage_cards": [
         {
-          "id": "box_office-0-9045734435996382343",
-          "key": "box_office-0-9045734435996382343",
+          "id": "box_office-0-5880122952699277932",
+          "key": "box_office-0-5880122952699277932",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘Insidious: Out of the Further’ Takes First Place on Friday With $10.6 Million, but ‘Spider-Man: Brand New Day’ Will Win the Weekend",
@@ -3429,25 +3431,25 @@
           ]
         },
         {
-          "id": "box_office-10-2443619412490707043",
-          "key": "box_office-10-2443619412490707043",
+          "id": "box_office-9-3534747099171124605",
+          "key": "box_office-9-3534747099171124605",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "‘Insidious: Out of the Further’ Hunts Down $3M in Box Office Previews - The Hollywood Reporter",
-          "title": "‘Insidious: Out of the Further’ Hunts Down $3M in Box Office Previews - The Hollywood Reporter",
-          "snapshot": "‘Insidious: Out of the Further’ Hunts Down $3M in Box Office Previews The Hollywood Reporter",
-          "summary": "‘Insidious: Out of the Further’ Hunts Down $3M in Box Office Previews The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLTRjc29CbmJDVHpQaGJXTzEycl80TkxnUmVHTXd2Q0lSRHZmUjZDblVMbEQ1NVpjd2NOYlVtQ2RKMGlyRHJKX3g3cFpZdU5VTDd6Q0doRTdDdFpyS2E4VndVUVkyTER2cjMwWTZkWmxSVkNjVmFKSlJQSDZKcHEzb1dJOGpSWjNKQWdFd250MnBDYjNHeGh6VnBUOHN3Vm5OdFJ2N2tqSnhqVGI1WFJ4aExUS0RvOUFDZ2tOaFg5eHM?oc=5",
+          "headline": "2026 box-office hits: Every movie that made more than $100 million - Gold Derby",
+          "title": "2026 box-office hits: Every movie that made more than $100 million - Gold Derby",
+          "snapshot": "2026 box-office hits: Every movie that made more than $100 million Gold Derby",
+          "summary": "2026 box-office hits: Every movie that made more than $100 million Gold Derby",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE83STl6dUk5TjUwY2Y3TUZlQXBFN3ZTb016ZlZRWmVxQ2R4VmVUNFhJSVVOVGVQQ2hIaWc0M0VvWTlKc05ZTkJjQzhudW1Pd21KMVBRRUZpY08yNnNoQ2VQdE9qRWVtQQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-21 11:17:17 AM ET",
+          "published_at": "2026-08-23 01:06:24 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 90,
+          "priority_score": 91,
           "key_data": [
-            "‘Insidious: Out of the Further’ Hunts Down $3M in Box Office Previews - The Hollywood Reporter"
+            "2026 box-office hits: Every movie that made more than $100 million - Gold Derby"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3457,8 +3459,8 @@
           ]
         },
         {
-          "id": "box_office-1-7217640117232455467",
-          "key": "box_office-1-7217640117232455467",
+          "id": "box_office-1-4909612985694298200",
+          "key": "box_office-1-4909612985694298200",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ Beats ‘Deadpool & Wolverine’ as Biggest R-Rated Movie of All Time With $1.35 Billion",
@@ -3485,25 +3487,25 @@
           ]
         },
         {
-          "id": "box_office-11-2814514090183754262",
-          "key": "box_office-11-2814514090183754262",
+          "id": "box_office-10-9123825627223540690",
+          "key": "box_office-10-9123825627223540690",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "'Obsession' Becomes Hollywood's First Original Film of 2020s to Gross $500 Million Worldwide - TheWrap",
-          "title": "'Obsession' Becomes Hollywood's First Original Film of 2020s to Gross $500 Million Worldwide - TheWrap",
-          "snapshot": "'Obsession' Becomes Hollywood's First Original Film of 2020s to Gross $500 Million Worldwide TheWrap",
-          "summary": "'Obsession' Becomes Hollywood's First Original Film of 2020s to Gross $500 Million Worldwide TheWrap",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeVRyTlFGUWcyUDhxMTZkY1c0Tl9vaERoSTdkSFB1QkQ2MERCU003NlItNXFlZ0djQlpqeFdsZmRvbE4zOUJDMFJEQmhrSGR6c21LMm5XdUdWQURua0RxZC05VWNhbjkzMV8wV3RuZ25BM0E4WUdtcGVqbk1YVGw2ZTVFSHI2ZFRMTHUyVWJZVDNtTG4tcFFjMGg4RQ?oc=5",
+          "headline": "‘Insidious: Out of the Further’ Hunts Down $3M in Box Office Previews - The Hollywood Reporter",
+          "title": "‘Insidious: Out of the Further’ Hunts Down $3M in Box Office Previews - The Hollywood Reporter",
+          "snapshot": "‘Insidious: Out of the Further’ Hunts Down $3M in Box Office Previews The Hollywood Reporter",
+          "summary": "‘Insidious: Out of the Further’ Hunts Down $3M in Box Office Previews The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLTRjc29CbmJDVHpQaGJXTzEycl80TkxnUmVHTXd2Q0lSRHZmUjZDblVMbEQ1NVpjd2NOYlVtQ2RKMGlyRHJKX3g3cFpZdU5VTDd6Q0doRTdDdFpyS2E4VndVUVkyTER2cjMwWTZkWmxSVkNjVmFKSlJQSDZKcHEzb1dJOGpSWjNKQWdFd250MnBDYjNHeGh6VnBUOHN3Vm5OdFJ2N2tqSnhqVGI1WFJ4aExUS0RvOUFDZ2tOaFg5eHM?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-23 11:23:38 AM ET",
+          "published_at": "2026-08-21 11:17:17 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 89,
+          "priority_score": 90,
           "key_data": [
-            "'Obsession' Becomes Hollywood's First Original Film of 2020s to Gross $500 Million Worldwide - TheWrap"
+            "‘Insidious: Out of the Further’ Hunts Down $3M in Box Office Previews - The Hollywood Reporter"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3515,8 +3517,8 @@
       ],
       "items": [
         {
-          "id": "box_office-0-9045734435996382343",
-          "key": "box_office-0-9045734435996382343",
+          "id": "box_office-0-5880122952699277932",
+          "key": "box_office-0-5880122952699277932",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘Insidious: Out of the Further’ Takes First Place on Friday With $10.6 Million, but ‘Spider-Man: Brand New Day’ Will Win the Weekend",
@@ -3543,25 +3545,25 @@
           ]
         },
         {
-          "id": "box_office-10-2443619412490707043",
-          "key": "box_office-10-2443619412490707043",
+          "id": "box_office-9-3534747099171124605",
+          "key": "box_office-9-3534747099171124605",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "‘Insidious: Out of the Further’ Hunts Down $3M in Box Office Previews - The Hollywood Reporter",
-          "title": "‘Insidious: Out of the Further’ Hunts Down $3M in Box Office Previews - The Hollywood Reporter",
-          "snapshot": "‘Insidious: Out of the Further’ Hunts Down $3M in Box Office Previews The Hollywood Reporter",
-          "summary": "‘Insidious: Out of the Further’ Hunts Down $3M in Box Office Previews The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLTRjc29CbmJDVHpQaGJXTzEycl80TkxnUmVHTXd2Q0lSRHZmUjZDblVMbEQ1NVpjd2NOYlVtQ2RKMGlyRHJKX3g3cFpZdU5VTDd6Q0doRTdDdFpyS2E4VndVUVkyTER2cjMwWTZkWmxSVkNjVmFKSlJQSDZKcHEzb1dJOGpSWjNKQWdFd250MnBDYjNHeGh6VnBUOHN3Vm5OdFJ2N2tqSnhqVGI1WFJ4aExUS0RvOUFDZ2tOaFg5eHM?oc=5",
+          "headline": "2026 box-office hits: Every movie that made more than $100 million - Gold Derby",
+          "title": "2026 box-office hits: Every movie that made more than $100 million - Gold Derby",
+          "snapshot": "2026 box-office hits: Every movie that made more than $100 million Gold Derby",
+          "summary": "2026 box-office hits: Every movie that made more than $100 million Gold Derby",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE83STl6dUk5TjUwY2Y3TUZlQXBFN3ZTb016ZlZRWmVxQ2R4VmVUNFhJSVVOVGVQQ2hIaWc0M0VvWTlKc05ZTkJjQzhudW1Pd21KMVBRRUZpY08yNnNoQ2VQdE9qRWVtQQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-21 11:17:17 AM ET",
+          "published_at": "2026-08-23 01:06:24 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 90,
+          "priority_score": 91,
           "key_data": [
-            "‘Insidious: Out of the Further’ Hunts Down $3M in Box Office Previews - The Hollywood Reporter"
+            "2026 box-office hits: Every movie that made more than $100 million - Gold Derby"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3571,8 +3573,8 @@
           ]
         },
         {
-          "id": "box_office-1-7217640117232455467",
-          "key": "box_office-1-7217640117232455467",
+          "id": "box_office-1-4909612985694298200",
+          "key": "box_office-1-4909612985694298200",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ Beats ‘Deadpool & Wolverine’ as Biggest R-Rated Movie of All Time With $1.35 Billion",
@@ -3599,25 +3601,25 @@
           ]
         },
         {
-          "id": "box_office-11-2814514090183754262",
-          "key": "box_office-11-2814514090183754262",
+          "id": "box_office-10-9123825627223540690",
+          "key": "box_office-10-9123825627223540690",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "'Obsession' Becomes Hollywood's First Original Film of 2020s to Gross $500 Million Worldwide - TheWrap",
-          "title": "'Obsession' Becomes Hollywood's First Original Film of 2020s to Gross $500 Million Worldwide - TheWrap",
-          "snapshot": "'Obsession' Becomes Hollywood's First Original Film of 2020s to Gross $500 Million Worldwide TheWrap",
-          "summary": "'Obsession' Becomes Hollywood's First Original Film of 2020s to Gross $500 Million Worldwide TheWrap",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeVRyTlFGUWcyUDhxMTZkY1c0Tl9vaERoSTdkSFB1QkQ2MERCU003NlItNXFlZ0djQlpqeFdsZmRvbE4zOUJDMFJEQmhrSGR6c21LMm5XdUdWQURua0RxZC05VWNhbjkzMV8wV3RuZ25BM0E4WUdtcGVqbk1YVGw2ZTVFSHI2ZFRMTHUyVWJZVDNtTG4tcFFjMGg4RQ?oc=5",
+          "headline": "‘Insidious: Out of the Further’ Hunts Down $3M in Box Office Previews - The Hollywood Reporter",
+          "title": "‘Insidious: Out of the Further’ Hunts Down $3M in Box Office Previews - The Hollywood Reporter",
+          "snapshot": "‘Insidious: Out of the Further’ Hunts Down $3M in Box Office Previews The Hollywood Reporter",
+          "summary": "‘Insidious: Out of the Further’ Hunts Down $3M in Box Office Previews The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLTRjc29CbmJDVHpQaGJXTzEycl80TkxnUmVHTXd2Q0lSRHZmUjZDblVMbEQ1NVpjd2NOYlVtQ2RKMGlyRHJKX3g3cFpZdU5VTDd6Q0doRTdDdFpyS2E4VndVUVkyTER2cjMwWTZkWmxSVkNjVmFKSlJQSDZKcHEzb1dJOGpSWjNKQWdFd250MnBDYjNHeGh6VnBUOHN3Vm5OdFJ2N2tqSnhqVGI1WFJ4aExUS0RvOUFDZ2tOaFg5eHM?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-23 11:23:38 AM ET",
+          "published_at": "2026-08-21 11:17:17 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 89,
+          "priority_score": 90,
           "key_data": [
-            "'Obsession' Becomes Hollywood's First Original Film of 2020s to Gross $500 Million Worldwide - TheWrap"
+            "‘Insidious: Out of the Further’ Hunts Down $3M in Box Office Previews - The Hollywood Reporter"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3627,7 +3629,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 02:30:59 PM ET"
+      "updated_at": "2026-08-23 03:22:03 PM ET"
     },
     {
       "key": "celebrity",
@@ -3645,8 +3647,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "celebrity-0-1870540215137691298",
-          "key": "celebrity-0-1870540215137691298",
+          "id": "celebrity-0-8822631899440932026",
+          "key": "celebrity-0-8822631899440932026",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3673,8 +3675,8 @@
           ]
         },
         {
-          "id": "celebrity-1-8464270822721473548",
-          "key": "celebrity-1-8464270822721473548",
+          "id": "celebrity-1-4612863288145521493",
+          "key": "celebrity-1-4612863288145521493",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "PHOTOS: 2026 celebrity deaths - WTOP",
@@ -3703,8 +3705,8 @@
       ],
       "items": [
         {
-          "id": "celebrity-0-1870540215137691298",
-          "key": "celebrity-0-1870540215137691298",
+          "id": "celebrity-0-8822631899440932026",
+          "key": "celebrity-0-8822631899440932026",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3731,8 +3733,8 @@
           ]
         },
         {
-          "id": "celebrity-1-8464270822721473548",
-          "key": "celebrity-1-8464270822721473548",
+          "id": "celebrity-1-4612863288145521493",
+          "key": "celebrity-1-4612863288145521493",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "PHOTOS: 2026 celebrity deaths - WTOP",
@@ -3759,50 +3761,50 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 02:31:00 PM ET"
+      "updated_at": "2026-08-23 03:22:03 PM ET"
     },
     {
       "key": "hollywood",
       "name": "Hollywood",
       "title": "Hollywood Report",
-      "headline": "‘Spider-Man: Brand New Day’ No. 1 $109M WW, ‘Insidious’ Franchise Rises To $800M WW – Global Box Office",
+      "headline": "Dr. Dre Admits He Uses AI To Produce, Doesn’t See It “As A Threat”: “I’m Embracing It”",
       "snapshot": "Hollywood coverage is updating with 6 current RSS headline item(s).",
       "key_storylines": [
-        "‘Spider-Man: Brand New Day’ No. 1 $109M WW, ‘Insidious’ Franchise Rises To $800M WW – Global Box Office",
+        "Dr. Dre Admits He Uses AI To Produce, Doesn’t See It “As A Threat”: “I’m Embracing It”",
         "There Are Scores of Great New Animated Shows. The Emmys Won’t Nominate Them.",
         "How L.A. stopped being Hollywood’s leading star - Los Angeles Times",
-        "Bret Michaels Cancels 2026 Tour Dates As Doctors Pull Him “Off The Road” Following Recent Surgery",
+        "‘Spider-Man: Brand New Day’ No. 1 $109M WW, ‘Insidious’ Franchise Rises To $800M WW – Global Box Office",
         "‘Tucci in Italy’ Cinematographer Matt Ball on Making Italy Look Delicious"
       ],
       "watch_list": [
-        "‘Spider-Man: Brand New Day’ No. 1 $109M WW, ‘Insidious’ Franchise Rises To $800M WW – Global Box Office",
+        "Dr. Dre Admits He Uses AI To Produce, Doesn’t See It “As A Threat”: “I’m Embracing It”",
         "There Are Scores of Great New Animated Shows. The Emmys Won’t Nominate Them.",
         "How L.A. stopped being Hollywood’s leading star - Los Angeles Times",
-        "Bret Michaels Cancels 2026 Tour Dates As Doctors Pull Him “Off The Road” Following Recent Surgery",
+        "‘Spider-Man: Brand New Day’ No. 1 $109M WW, ‘Insidious’ Franchise Rises To $800M WW – Global Box Office",
         "‘Tucci in Italy’ Cinematographer Matt Ball on Making Italy Look Delicious",
         "The Hollywood Dissidents Rebuilding the Entertainment Industry from the Inside - IW Features"
       ],
       "homepage_cards": [
         {
-          "id": "hollywood-0-3553579565277172845",
-          "key": "hollywood-0-3553579565277172845",
+          "id": "hollywood-0-2764466969152580686",
+          "key": "hollywood-0-2764466969152580686",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "‘Spider-Man: Brand New Day’ No. 1 $109M WW, ‘Insidious’ Franchise Rises To $800M WW – Global Box Office",
-          "title": "‘Spider-Man: Brand New Day’ No. 1 $109M WW, ‘Insidious’ Franchise Rises To $800M WW – Global Box Office",
-          "snapshot": "The spoils in the U.S. are also the spoils abroad with the global box office in overdrive, much like the United States. Sony/Marvel Studio’s Spider-Man: Brand New Day continues to hulk out with a fourth global weekend of $109M (-43% from last weekend, ahead of the $85M that was forecasted; $39M stateside and $70M of...",
-          "summary": "The spoils in the U.S. are also the spoils abroad with the global box office in overdrive, much like the United States. Sony/Marvel Studio’s Spider-Man: Brand New Day continues to hulk out with a fourth global weekend of $109M (-43% from last weekend, ahead of the $85M that was forecasted; $39M stateside and $70M of...",
-          "url": "https://deadline.com/2026/08/global-box-office-spider-man-brand-new-day-insidious-6-1237048315/",
+          "headline": "Dr. Dre Admits He Uses AI To Produce, Doesn’t See It “As A Threat”: “I’m Embracing It”",
+          "title": "Dr. Dre Admits He Uses AI To Produce, Doesn’t See It “As A Threat”: “I’m Embracing It”",
+          "snapshot": "As creative industries remain divided on AI, Dr. Dre is full steam ahead on implementing the technology in his own work. The 8x Grammy winner recently admitted to using artificial intelligence in his music producing, explaining the he doesn’t see the technology “as a threat,” but as “a new tool for creativity.” “I d...",
+          "summary": "As creative industries remain divided on AI, Dr. Dre is full steam ahead on implementing the technology in his own work. The 8x Grammy winner recently admitted to using artificial intelligence in his music producing, explaining the he doesn’t see the technology “as a threat,” but as “a new tool for creativity.” “I d...",
+          "url": "https://deadline.com/2026/08/dr-dre-uses-ai-doesnt-see-threat-1237048327/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/feed/",
-          "published_at": "2026-08-23 01:50:11 PM ET",
+          "published_at": "2026-08-23 02:52:20 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "‘Spider-Man: Brand New Day’ No. 1 $109M WW, ‘Insidious’ Franchise Rises To $800M WW – Global Box Office"
+            "Dr. Dre Admits He Uses AI To Produce, Doesn’t See It “As A Threat”: “I’m Embracing It”"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3812,8 +3814,8 @@
           ]
         },
         {
-          "id": "hollywood-4-8758044007665155311",
-          "key": "hollywood-4-8758044007665155311",
+          "id": "hollywood-5-2501413072839561199",
+          "key": "hollywood-5-2501413072839561199",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "There Are Scores of Great New Animated Shows. The Emmys Won’t Nominate Them.",
@@ -3828,7 +3830,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 96,
+          "priority_score": 95,
           "key_data": [
             "There Are Scores of Great New Animated Shows. The Emmys Won’t Nominate Them."
           ],
@@ -3840,8 +3842,8 @@
           ]
         },
         {
-          "id": "hollywood-9-8625461029971556854",
-          "key": "hollywood-9-8625461029971556854",
+          "id": "hollywood-10-6602133386840152282",
+          "key": "hollywood-10-6602133386840152282",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "How L.A. stopped being Hollywood’s leading star - Los Angeles Times",
@@ -3856,7 +3858,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 91,
+          "priority_score": 90,
           "key_data": [
             "How L.A. stopped being Hollywood’s leading star - Los Angeles Times"
           ],
@@ -3868,25 +3870,25 @@
           ]
         },
         {
-          "id": "hollywood-1-7677293226014753231",
-          "key": "hollywood-1-7677293226014753231",
+          "id": "hollywood-1-868515903451697827",
+          "key": "hollywood-1-868515903451697827",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Bret Michaels Cancels 2026 Tour Dates As Doctors Pull Him “Off The Road” Following Recent Surgery",
-          "title": "Bret Michaels Cancels 2026 Tour Dates As Doctors Pull Him “Off The Road” Following Recent Surgery",
-          "snapshot": "A month after undergoing kidney stone surgery, Bret Michaels is taking some time off from the road to recover. On Saturday, the Poison frontman canceled the remainder of the 2026 stops on his Live & Amplified Tour, following his doctors’ orders to take “a much-needed period of rest and slow recovery” after the proce...",
-          "summary": "A month after undergoing kidney stone surgery, Bret Michaels is taking some time off from the road to recover. On Saturday, the Poison frontman canceled the remainder of the 2026 stops on his Live & Amplified Tour, following his doctors’ orders to take “a much-needed period of rest and slow recovery” after the proce...",
-          "url": "https://deadline.com/2026/08/bret-michaels-cancels-2026-tour-dates-surgery-1237048319/",
+          "headline": "‘Spider-Man: Brand New Day’ No. 1 $109M WW, ‘Insidious’ Franchise Rises To $800M WW – Global Box Office",
+          "title": "‘Spider-Man: Brand New Day’ No. 1 $109M WW, ‘Insidious’ Franchise Rises To $800M WW – Global Box Office",
+          "snapshot": "The spoils in the U.S. are also the spoils abroad with the global box office in overdrive, much like the United States. Sony/Marvel Studio’s Spider-Man: Brand New Day continues to hulk out with a fourth global weekend of $109M (-43% from last weekend, ahead of the $85M that was forecasted; $39M stateside and $70M of...",
+          "summary": "The spoils in the U.S. are also the spoils abroad with the global box office in overdrive, much like the United States. Sony/Marvel Studio’s Spider-Man: Brand New Day continues to hulk out with a fourth global weekend of $109M (-43% from last weekend, ahead of the $85M that was forecasted; $39M stateside and $70M of...",
+          "url": "https://deadline.com/2026/08/global-box-office-spider-man-brand-new-day-insidious-6-1237048315/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/feed/",
-          "published_at": "2026-08-23 01:29:28 PM ET",
+          "published_at": "2026-08-23 01:50:11 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Bret Michaels Cancels 2026 Tour Dates As Doctors Pull Him “Off The Road” Following Recent Surgery"
+            "‘Spider-Man: Brand New Day’ No. 1 $109M WW, ‘Insidious’ Franchise Rises To $800M WW – Global Box Office"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3896,8 +3898,8 @@
           ]
         },
         {
-          "id": "hollywood-5-7575266477367017705",
-          "key": "hollywood-5-7575266477367017705",
+          "id": "hollywood-6-2050324746630619329",
+          "key": "hollywood-6-2050324746630619329",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘Tucci in Italy’ Cinematographer Matt Ball on Making Italy Look Delicious",
@@ -3912,7 +3914,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 95,
+          "priority_score": 94,
           "key_data": [
             "‘Tucci in Italy’ Cinematographer Matt Ball on Making Italy Look Delicious"
           ],
@@ -3924,8 +3926,8 @@
           ]
         },
         {
-          "id": "hollywood-10-6313111293439466309",
-          "key": "hollywood-10-6313111293439466309",
+          "id": "hollywood-11-352027290018734055",
+          "key": "hollywood-11-352027290018734055",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "The Hollywood Dissidents Rebuilding the Entertainment Industry from the Inside - IW Features",
@@ -3940,7 +3942,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 90,
+          "priority_score": 89,
           "key_data": [
             "The Hollywood Dissidents Rebuilding the Entertainment Industry from the Inside - IW Features"
           ],
@@ -3954,25 +3956,25 @@
       ],
       "items": [
         {
-          "id": "hollywood-0-3553579565277172845",
-          "key": "hollywood-0-3553579565277172845",
+          "id": "hollywood-0-2764466969152580686",
+          "key": "hollywood-0-2764466969152580686",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "‘Spider-Man: Brand New Day’ No. 1 $109M WW, ‘Insidious’ Franchise Rises To $800M WW – Global Box Office",
-          "title": "‘Spider-Man: Brand New Day’ No. 1 $109M WW, ‘Insidious’ Franchise Rises To $800M WW – Global Box Office",
-          "snapshot": "The spoils in the U.S. are also the spoils abroad with the global box office in overdrive, much like the United States. Sony/Marvel Studio’s Spider-Man: Brand New Day continues to hulk out with a fourth global weekend of $109M (-43% from last weekend, ahead of the $85M that was forecasted; $39M stateside and $70M of...",
-          "summary": "The spoils in the U.S. are also the spoils abroad with the global box office in overdrive, much like the United States. Sony/Marvel Studio’s Spider-Man: Brand New Day continues to hulk out with a fourth global weekend of $109M (-43% from last weekend, ahead of the $85M that was forecasted; $39M stateside and $70M of...",
-          "url": "https://deadline.com/2026/08/global-box-office-spider-man-brand-new-day-insidious-6-1237048315/",
+          "headline": "Dr. Dre Admits He Uses AI To Produce, Doesn’t See It “As A Threat”: “I’m Embracing It”",
+          "title": "Dr. Dre Admits He Uses AI To Produce, Doesn’t See It “As A Threat”: “I’m Embracing It”",
+          "snapshot": "As creative industries remain divided on AI, Dr. Dre is full steam ahead on implementing the technology in his own work. The 8x Grammy winner recently admitted to using artificial intelligence in his music producing, explaining the he doesn’t see the technology “as a threat,” but as “a new tool for creativity.” “I d...",
+          "summary": "As creative industries remain divided on AI, Dr. Dre is full steam ahead on implementing the technology in his own work. The 8x Grammy winner recently admitted to using artificial intelligence in his music producing, explaining the he doesn’t see the technology “as a threat,” but as “a new tool for creativity.” “I d...",
+          "url": "https://deadline.com/2026/08/dr-dre-uses-ai-doesnt-see-threat-1237048327/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/feed/",
-          "published_at": "2026-08-23 01:50:11 PM ET",
+          "published_at": "2026-08-23 02:52:20 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "‘Spider-Man: Brand New Day’ No. 1 $109M WW, ‘Insidious’ Franchise Rises To $800M WW – Global Box Office"
+            "Dr. Dre Admits He Uses AI To Produce, Doesn’t See It “As A Threat”: “I’m Embracing It”"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3982,8 +3984,8 @@
           ]
         },
         {
-          "id": "hollywood-4-8758044007665155311",
-          "key": "hollywood-4-8758044007665155311",
+          "id": "hollywood-5-2501413072839561199",
+          "key": "hollywood-5-2501413072839561199",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "There Are Scores of Great New Animated Shows. The Emmys Won’t Nominate Them.",
@@ -3998,7 +4000,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 96,
+          "priority_score": 95,
           "key_data": [
             "There Are Scores of Great New Animated Shows. The Emmys Won’t Nominate Them."
           ],
@@ -4010,8 +4012,8 @@
           ]
         },
         {
-          "id": "hollywood-9-8625461029971556854",
-          "key": "hollywood-9-8625461029971556854",
+          "id": "hollywood-10-6602133386840152282",
+          "key": "hollywood-10-6602133386840152282",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "How L.A. stopped being Hollywood’s leading star - Los Angeles Times",
@@ -4026,7 +4028,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 91,
+          "priority_score": 90,
           "key_data": [
             "How L.A. stopped being Hollywood’s leading star - Los Angeles Times"
           ],
@@ -4038,25 +4040,25 @@
           ]
         },
         {
-          "id": "hollywood-1-7677293226014753231",
-          "key": "hollywood-1-7677293226014753231",
+          "id": "hollywood-1-868515903451697827",
+          "key": "hollywood-1-868515903451697827",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Bret Michaels Cancels 2026 Tour Dates As Doctors Pull Him “Off The Road” Following Recent Surgery",
-          "title": "Bret Michaels Cancels 2026 Tour Dates As Doctors Pull Him “Off The Road” Following Recent Surgery",
-          "snapshot": "A month after undergoing kidney stone surgery, Bret Michaels is taking some time off from the road to recover. On Saturday, the Poison frontman canceled the remainder of the 2026 stops on his Live & Amplified Tour, following his doctors’ orders to take “a much-needed period of rest and slow recovery” after the proce...",
-          "summary": "A month after undergoing kidney stone surgery, Bret Michaels is taking some time off from the road to recover. On Saturday, the Poison frontman canceled the remainder of the 2026 stops on his Live & Amplified Tour, following his doctors’ orders to take “a much-needed period of rest and slow recovery” after the proce...",
-          "url": "https://deadline.com/2026/08/bret-michaels-cancels-2026-tour-dates-surgery-1237048319/",
+          "headline": "‘Spider-Man: Brand New Day’ No. 1 $109M WW, ‘Insidious’ Franchise Rises To $800M WW – Global Box Office",
+          "title": "‘Spider-Man: Brand New Day’ No. 1 $109M WW, ‘Insidious’ Franchise Rises To $800M WW – Global Box Office",
+          "snapshot": "The spoils in the U.S. are also the spoils abroad with the global box office in overdrive, much like the United States. Sony/Marvel Studio’s Spider-Man: Brand New Day continues to hulk out with a fourth global weekend of $109M (-43% from last weekend, ahead of the $85M that was forecasted; $39M stateside and $70M of...",
+          "summary": "The spoils in the U.S. are also the spoils abroad with the global box office in overdrive, much like the United States. Sony/Marvel Studio’s Spider-Man: Brand New Day continues to hulk out with a fourth global weekend of $109M (-43% from last weekend, ahead of the $85M that was forecasted; $39M stateside and $70M of...",
+          "url": "https://deadline.com/2026/08/global-box-office-spider-man-brand-new-day-insidious-6-1237048315/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/feed/",
-          "published_at": "2026-08-23 01:29:28 PM ET",
+          "published_at": "2026-08-23 01:50:11 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Bret Michaels Cancels 2026 Tour Dates As Doctors Pull Him “Off The Road” Following Recent Surgery"
+            "‘Spider-Man: Brand New Day’ No. 1 $109M WW, ‘Insidious’ Franchise Rises To $800M WW – Global Box Office"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4066,8 +4068,8 @@
           ]
         },
         {
-          "id": "hollywood-5-7575266477367017705",
-          "key": "hollywood-5-7575266477367017705",
+          "id": "hollywood-6-2050324746630619329",
+          "key": "hollywood-6-2050324746630619329",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘Tucci in Italy’ Cinematographer Matt Ball on Making Italy Look Delicious",
@@ -4082,7 +4084,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 95,
+          "priority_score": 94,
           "key_data": [
             "‘Tucci in Italy’ Cinematographer Matt Ball on Making Italy Look Delicious"
           ],
@@ -4094,8 +4096,8 @@
           ]
         },
         {
-          "id": "hollywood-10-6313111293439466309",
-          "key": "hollywood-10-6313111293439466309",
+          "id": "hollywood-11-352027290018734055",
+          "key": "hollywood-11-352027290018734055",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "The Hollywood Dissidents Rebuilding the Entertainment Industry from the Inside - IW Features",
@@ -4110,7 +4112,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 90,
+          "priority_score": 89,
           "key_data": [
             "The Hollywood Dissidents Rebuilding the Entertainment Industry from the Inside - IW Features"
           ],
@@ -4122,7 +4124,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 02:31:01 PM ET"
+      "updated_at": "2026-08-23 03:22:04 PM ET"
     },
     {
       "key": "gaming",
@@ -4140,8 +4142,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "gaming-0-6655383954030652828",
-          "key": "gaming-0-6655383954030652828",
+          "id": "gaming-0-7861793316464245309",
+          "key": "gaming-0-7861793316464245309",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Marvel’s Wolverine Limited-Edition PS5 Controller Is Still Available for Preorder (But It May Sell Out)",
@@ -4168,8 +4170,8 @@
           ]
         },
         {
-          "id": "gaming-1-7689776903951291660",
-          "key": "gaming-1-7689776903951291660",
+          "id": "gaming-1-1306237046244343468",
+          "key": "gaming-1-1306237046244343468",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "[UPDATE] GTA 6 Leaker Shows No Sign of Slowing Down as Ninth Gameplay Video Hits the Internet",
@@ -4198,8 +4200,8 @@
       ],
       "items": [
         {
-          "id": "gaming-0-6655383954030652828",
-          "key": "gaming-0-6655383954030652828",
+          "id": "gaming-0-7861793316464245309",
+          "key": "gaming-0-7861793316464245309",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Marvel’s Wolverine Limited-Edition PS5 Controller Is Still Available for Preorder (But It May Sell Out)",
@@ -4226,8 +4228,8 @@
           ]
         },
         {
-          "id": "gaming-1-7689776903951291660",
-          "key": "gaming-1-7689776903951291660",
+          "id": "gaming-1-1306237046244343468",
+          "key": "gaming-1-1306237046244343468",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "[UPDATE] GTA 6 Leaker Shows No Sign of Slowing Down as Ninth Gameplay Video Hits the Internet",
@@ -4254,7 +4256,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 02:31:02 PM ET"
+      "updated_at": "2026-08-23 03:22:05 PM ET"
     },
     {
       "key": "media",
@@ -4279,8 +4281,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "media-0-3519072200369227489",
-          "key": "media-0-3519072200369227489",
+          "id": "media-0-7231904561070836950",
+          "key": "media-0-7231904561070836950",
           "category": "Media",
           "label": "Media",
           "headline": "Secret Hollywood Group’s AI Plan Focuses on Defining How AI Is Used — While Keeping Humans in Control",
@@ -4307,8 +4309,8 @@
           ]
         },
         {
-          "id": "media-10-1389401911983147540",
-          "key": "media-10-1389401911983147540",
+          "id": "media-10-6898812183463659857",
+          "key": "media-10-6898812183463659857",
           "category": "Media",
           "label": "Media",
           "headline": "TikTok To Pay $400M In Justice Department Settlement Over Children’s Privacy",
@@ -4335,8 +4337,8 @@
           ]
         },
         {
-          "id": "media-19-6442453262677403370",
-          "key": "media-19-6442453262677403370",
+          "id": "media-19-4826683814987934641",
+          "key": "media-19-4826683814987934641",
           "category": "Media",
           "label": "Media",
           "headline": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
@@ -4363,8 +4365,8 @@
           ]
         },
         {
-          "id": "media-1-3517675336187341051",
-          "key": "media-1-3517675336187341051",
+          "id": "media-1-2932175976171568592",
+          "key": "media-1-2932175976171568592",
           "category": "Media",
           "label": "Media",
           "headline": "Vertical Media on Track to Generate $150 Billion in 2026 as the Booming Sector Fights Crowded Content Field and High Subscriber Acquisition Costs",
@@ -4391,8 +4393,8 @@
           ]
         },
         {
-          "id": "media-11-9214548049255358196",
-          "key": "media-11-9214548049255358196",
+          "id": "media-11-5690603577569415577",
+          "key": "media-11-5690603577569415577",
           "category": "Media",
           "label": "Media",
           "headline": "Paramount Accuses Mark Ruffalo Of Being “Antisemitic” After He Slams Ellisons’ Ties To Oracle, Calling Them “Really Profoundly Scary People”",
@@ -4419,8 +4421,8 @@
           ]
         },
         {
-          "id": "media-20-8182909081926375138",
-          "key": "media-20-8182909081926375138",
+          "id": "media-20-2567847440177122847",
+          "key": "media-20-2567847440177122847",
           "category": "Media",
           "label": "Media",
           "headline": "SNK Entertainment dissolved after 10 years. Most of its businesses transferred to parent company SNK - AUTOMATON",
@@ -4449,8 +4451,8 @@
       ],
       "items": [
         {
-          "id": "media-0-3519072200369227489",
-          "key": "media-0-3519072200369227489",
+          "id": "media-0-7231904561070836950",
+          "key": "media-0-7231904561070836950",
           "category": "Media",
           "label": "Media",
           "headline": "Secret Hollywood Group’s AI Plan Focuses on Defining How AI Is Used — While Keeping Humans in Control",
@@ -4477,8 +4479,8 @@
           ]
         },
         {
-          "id": "media-10-1389401911983147540",
-          "key": "media-10-1389401911983147540",
+          "id": "media-10-6898812183463659857",
+          "key": "media-10-6898812183463659857",
           "category": "Media",
           "label": "Media",
           "headline": "TikTok To Pay $400M In Justice Department Settlement Over Children’s Privacy",
@@ -4505,8 +4507,8 @@
           ]
         },
         {
-          "id": "media-19-6442453262677403370",
-          "key": "media-19-6442453262677403370",
+          "id": "media-19-4826683814987934641",
+          "key": "media-19-4826683814987934641",
           "category": "Media",
           "label": "Media",
           "headline": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
@@ -4533,8 +4535,8 @@
           ]
         },
         {
-          "id": "media-1-3517675336187341051",
-          "key": "media-1-3517675336187341051",
+          "id": "media-1-2932175976171568592",
+          "key": "media-1-2932175976171568592",
           "category": "Media",
           "label": "Media",
           "headline": "Vertical Media on Track to Generate $150 Billion in 2026 as the Booming Sector Fights Crowded Content Field and High Subscriber Acquisition Costs",
@@ -4561,8 +4563,8 @@
           ]
         },
         {
-          "id": "media-11-9214548049255358196",
-          "key": "media-11-9214548049255358196",
+          "id": "media-11-5690603577569415577",
+          "key": "media-11-5690603577569415577",
           "category": "Media",
           "label": "Media",
           "headline": "Paramount Accuses Mark Ruffalo Of Being “Antisemitic” After He Slams Ellisons’ Ties To Oracle, Calling Them “Really Profoundly Scary People”",
@@ -4589,8 +4591,8 @@
           ]
         },
         {
-          "id": "media-20-8182909081926375138",
-          "key": "media-20-8182909081926375138",
+          "id": "media-20-2567847440177122847",
+          "key": "media-20-2567847440177122847",
           "category": "Media",
           "label": "Media",
           "headline": "SNK Entertainment dissolved after 10 years. Most of its businesses transferred to parent company SNK - AUTOMATON",
@@ -4617,7 +4619,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 02:31:04 PM ET"
+      "updated_at": "2026-08-23 03:22:05 PM ET"
     }
   ]
 }
