@@ -5,9 +5,9 @@
   "vertical": "Entertainment",
   "headline": "'Skintown' Review: A Breezy, Loved-Up, Drugged-Up Guide to Getting Into Trouble in The Troubles",
   "snapshot": "Global Entertainment Report accepted 49 real RSS item(s) across 31 checked feed request(s).",
-  "generated_at": "2026-08-23 07:21:14 AM ET",
-  "updated_at": "2026-08-23 07:21:14 AM ET",
-  "published_at": "2026-08-23 07:21:14 AM ET",
+  "generated_at": "2026-08-23 08:40:50 AM ET",
+  "updated_at": "2026-08-23 08:40:50 AM ET",
+  "published_at": "2026-08-23 08:40:50 AM ET",
   "source_mode": "live RSS ingestion",
   "freshness": {
     "max_item_age_hours": 336,
@@ -131,11 +131,11 @@
       "url": "https://news.google.com/rss/search?q=streaming+netflix+hulu+disney+entertainment&hl=en-US&gl=US&ceid=US:en",
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=streaming+netflix+hulu+disney+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "item_count": 73,
+      "item_count": 29,
       "accepted_count": 2,
-      "rejected_count": 68,
+      "rejected_count": 26,
       "rejection_reasons": {
-        "stale-over-336h": 68
+        "stale-over-336h": 26
       }
     },
     {
@@ -235,10 +235,10 @@
       "final_url": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 72,
+      "rejected_count": 73,
       "rejection_reasons": {
         "duplicate-story": 2,
-        "stale-over-336h": 70
+        "stale-over-336h": 71
       }
     },
     {
@@ -258,11 +258,11 @@
       "url": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
-      "item_count": 97,
+      "item_count": 92,
       "accepted_count": 2,
-      "rejected_count": 91,
+      "rejected_count": 87,
       "rejection_reasons": {
-        "stale-over-336h": 91
+        "stale-over-336h": 87
       }
     },
     {
@@ -328,11 +328,11 @@
       "url": "https://news.google.com/rss/search?q=gaming+video+games+entertainment&hl=en-US&gl=US&ceid=US:en",
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=gaming+video+games+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "item_count": 45,
+      "item_count": 100,
       "accepted_count": 0,
-      "rejected_count": 45,
+      "rejected_count": 100,
       "rejection_reasons": {
-        "stale-over-336h": 45
+        "stale-over-336h": 100
       }
     },
     {
@@ -385,8 +385,8 @@
   ],
   "live_newsroom": [
     {
-      "id": "film-0-8461861249995286475",
-      "key": "film-0-8461861249995286475",
+      "id": "film-0-8555241785468864780",
+      "key": "film-0-8555241785468864780",
       "category": "Film",
       "label": "Film",
       "headline": "'Skintown' Review: A Breezy, Loved-Up, Drugged-Up Guide to Getting Into Trouble in The Troubles",
@@ -412,8 +412,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-1294848716969627441",
-      "key": "film-10-1294848716969627441",
+      "id": "film-10-5426227514275851719",
+      "key": "film-10-5426227514275851719",
       "category": "Film",
       "label": "Film",
       "headline": "LMGI Awards Winners: 'One Battle After Another,' 'Marty Supreme,' 'Pluribus' Among Location Managers Guild's Honorees",
@@ -439,8 +439,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-6342700951825405563",
-      "key": "film-22-6342700951825405563",
+      "id": "film-22-1651253220637128002",
+      "key": "film-22-1651253220637128002",
       "category": "Film",
       "label": "Film",
       "headline": "'National Treasure 3' Is \"Finally Real\" and \"We Have a Script,\" Director Says",
@@ -466,8 +466,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-1617803544913442189",
-      "key": "film-32-1617803544913442189",
+      "id": "film-32-3104049349985618484",
+      "key": "film-32-3104049349985618484",
       "category": "Film",
       "label": "Film",
       "headline": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
@@ -493,8 +493,8 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-1894877764317586936",
-      "key": "music-10-1894877764317586936",
+      "id": "music-10-5555081969326215482",
+      "key": "music-10-5555081969326215482",
       "category": "Music",
       "label": "Music",
       "headline": "Dolly Parton Says She's Exploring 'Avatar Performances'",
@@ -520,8 +520,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-8327141902328762362",
-      "key": "gaming-0-8327141902328762362",
+      "id": "gaming-0-2854887432647556417",
+      "key": "gaming-0-2854887432647556417",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "GTA 6 Leaker Releases More Gameplay Videos Despite Rockstar Owner Take-Two's Microsoft and Discord Subpoenas",
@@ -547,8 +547,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-7281623028458617277",
-      "key": "film-1-7281623028458617277",
+      "id": "film-1-5111785639837072628",
+      "key": "film-1-5111785639837072628",
       "category": "Film",
       "label": "Film",
       "headline": "Venice-Bound 'Meteorite,' Debut Feature From Colombia's Sebastián Múnera, Acquired by MoreThan Films (EXCLUSIVE)",
@@ -574,8 +574,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-3407724778282082622",
-      "key": "film-11-3407724778282082622",
+      "id": "film-11-2843366524417682065",
+      "key": "film-11-2843366524417682065",
       "category": "Film",
       "label": "Film",
       "headline": "Kid Cudi Preparing To Film \"F*ckin Gnarly\" Followup To Directorial Debut 'Doe', Both Set For 2027",
@@ -601,8 +601,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-4727334122484195402",
-      "key": "film-23-4727334122484195402",
+      "id": "film-23-7686099866804645330",
+      "key": "film-23-7686099866804645330",
       "category": "Film",
       "label": "Film",
       "headline": "'Spider-Man: Brand New Day' Swinging to Fourth Box Office Victory as It Tops 'Insidious' Sequel",
@@ -628,8 +628,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-4243615181658761468",
-      "key": "film-33-4243615181658761468",
+      "id": "film-33-5191647583573093254",
+      "key": "film-33-5191647583573093254",
       "category": "Film",
       "label": "Film",
       "headline": "The Best Action Movie From Every Year in the 1990s - Mental Floss",
@@ -655,8 +655,8 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-654431980622491911",
-      "key": "music-11-654431980622491911",
+      "id": "music-11-516022278631527445",
+      "key": "music-11-516022278631527445",
       "category": "Music",
       "label": "Music",
       "headline": "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium",
@@ -682,8 +682,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-6754982123869710105",
-      "key": "gaming-1-6754982123869710105",
+      "id": "gaming-1-4698837277986781563",
+      "key": "gaming-1-4698837277986781563",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The Best Deals Today: Nintendo Switch 2, LEGO Tropical Aquarium, Final Fantasy VII Rebirth, and More",
@@ -711,8 +711,8 @@
   ],
   "editor_signals": [
     {
-      "id": "film-2-72385470791274451",
-      "key": "film-2-72385470791274451",
+      "id": "film-2-1667865197095321699",
+      "key": "film-2-1667865197095321699",
       "category": "Film",
       "label": "Film",
       "headline": "Upendra Joins Cast as Teja Sajja, Shanaya Kapoor, Suparn S. Varma's Sequel Titled 'Zombie Reddy Nxt Lvl' (EXCLUSIVE)",
@@ -738,8 +738,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-6342752977831477698",
-      "key": "film-12-6342752977831477698",
+      "id": "film-12-5849628286075369104",
+      "key": "film-12-5849628286075369104",
       "category": "Film",
       "label": "Film",
       "headline": "Josh Brolin Says 'Sicario 3' \"Is Happening\"",
@@ -765,8 +765,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-4611867054866397250",
-      "key": "film-24-4611867054866397250",
+      "id": "film-24-677941600606090459",
+      "key": "film-24-677941600606090459",
       "category": "Film",
       "label": "Film",
       "headline": "Michael Wright, Star of 'The Five Heartbeats' and 'Sugar Hill,' Dies at 70",
@@ -792,8 +792,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-6503422522374455385",
-      "key": "film-34-6503422522374455385",
+      "id": "film-34-9180301346713127548",
+      "key": "film-34-9180301346713127548",
       "category": "Film",
       "label": "Film",
       "headline": "Every Steven Spielberg movie, ranked from worst to best - Entertainment Weekly",
@@ -819,8 +819,8 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-5900688086501863146",
-      "key": "music-12-5900688086501863146",
+      "id": "music-12-6288171179010246385",
+      "key": "music-12-6288171179010246385",
       "category": "Music",
       "label": "Music",
       "headline": "Dale Morris, Nashville Manager Who Guided Careers of Alabama & Kenny Chesney, Dies at 89",
@@ -846,8 +846,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-1659446212916956264",
-      "key": "gaming-2-1659446212916956264",
+      "id": "gaming-2-6330399800112288195",
+      "key": "gaming-2-6330399800112288195",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Metal Gear Solid 4: The Flawed Masterpiece Kojima Didn't Want to Make",
@@ -873,8 +873,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-5633080808059413443",
-      "key": "film-3-5633080808059413443",
+      "id": "film-3-546530394383001065",
+      "key": "film-3-546530394383001065",
       "category": "Film",
       "label": "Film",
       "headline": "'One Battle After Another' and 'Marty Supreme' Take Top Honors at Location Managers Guild International Awards",
@@ -900,8 +900,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-3192084983861072247",
-      "key": "film-13-3192084983861072247",
+      "id": "film-13-6763140505195653555",
+      "key": "film-13-6763140505195653555",
       "category": "Film",
       "label": "Film",
       "headline": "HollyShorts Festival Set To Propel Documentary Jury Award Winner Into Oscar Race",
@@ -927,8 +927,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-6024945856669835027",
-      "key": "film-25-6024945856669835027",
+      "id": "film-25-693732104426709194",
+      "key": "film-25-693732104426709194",
       "category": "Film",
       "label": "Film",
       "headline": "Sandra Wollner's 'Everytime' Wins Best Film in Sarajevo, Ana Urushadze Crowned Best Director",
@@ -954,8 +954,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-8813991327018671339",
-      "key": "film-35-8813991327018671339",
+      "id": "film-35-5316703207527878216",
+      "key": "film-35-5316703207527878216",
       "category": "Film",
       "label": "Film",
       "headline": "'So bad it's good': rough animated film becomes surprise Chinese hit - Yahoo",
@@ -981,8 +981,8 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-3339990624216355977",
-      "key": "music-13-3339990624216355977",
+      "id": "music-13-2179804746668238614",
+      "key": "music-13-2179804746668238614",
       "category": "Music",
       "label": "Music",
       "headline": "Olivia Rodrigo Drops 'Handmaid's Tale'-Inspired 'Serena Joy' as CD Single at Indie Record Store",
@@ -1008,8 +1008,8 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-2188549927542722474",
-      "key": "gaming-3-2188549927542722474",
+      "id": "gaming-3-7931261514842641019",
+      "key": "gaming-3-7931261514842641019",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Ultra Graphics Settings Are a Scam: Why High Is Good Enough, if Not Better, for Most Players",
@@ -1037,8 +1037,8 @@
   ],
   "homepage_cards": [
     {
-      "id": "film-0-8461861249995286475",
-      "key": "film-0-8461861249995286475",
+      "id": "film-0-8555241785468864780",
+      "key": "film-0-8555241785468864780",
       "category": "Film",
       "label": "Film",
       "headline": "'Skintown' Review: A Breezy, Loved-Up, Drugged-Up Guide to Getting Into Trouble in The Troubles",
@@ -1064,8 +1064,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-1294848716969627441",
-      "key": "film-10-1294848716969627441",
+      "id": "film-10-5426227514275851719",
+      "key": "film-10-5426227514275851719",
       "category": "Film",
       "label": "Film",
       "headline": "LMGI Awards Winners: 'One Battle After Another,' 'Marty Supreme,' 'Pluribus' Among Location Managers Guild's Honorees",
@@ -1091,8 +1091,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-6342700951825405563",
-      "key": "film-22-6342700951825405563",
+      "id": "film-22-1651253220637128002",
+      "key": "film-22-1651253220637128002",
       "category": "Film",
       "label": "Film",
       "headline": "'National Treasure 3' Is \"Finally Real\" and \"We Have a Script,\" Director Says",
@@ -1118,8 +1118,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-1617803544913442189",
-      "key": "film-32-1617803544913442189",
+      "id": "film-32-3104049349985618484",
+      "key": "film-32-3104049349985618484",
       "category": "Film",
       "label": "Film",
       "headline": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
@@ -1145,8 +1145,8 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-1894877764317586936",
-      "key": "music-10-1894877764317586936",
+      "id": "music-10-5555081969326215482",
+      "key": "music-10-5555081969326215482",
       "category": "Music",
       "label": "Music",
       "headline": "Dolly Parton Says She's Exploring 'Avatar Performances'",
@@ -1172,8 +1172,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-8327141902328762362",
-      "key": "gaming-0-8327141902328762362",
+      "id": "gaming-0-2854887432647556417",
+      "key": "gaming-0-2854887432647556417",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "GTA 6 Leaker Releases More Gameplay Videos Despite Rockstar Owner Take-Two's Microsoft and Discord Subpoenas",
@@ -1199,8 +1199,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-7281623028458617277",
-      "key": "film-1-7281623028458617277",
+      "id": "film-1-5111785639837072628",
+      "key": "film-1-5111785639837072628",
       "category": "Film",
       "label": "Film",
       "headline": "Venice-Bound 'Meteorite,' Debut Feature From Colombia's Sebastián Múnera, Acquired by MoreThan Films (EXCLUSIVE)",
@@ -1226,8 +1226,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-3407724778282082622",
-      "key": "film-11-3407724778282082622",
+      "id": "film-11-2843366524417682065",
+      "key": "film-11-2843366524417682065",
       "category": "Film",
       "label": "Film",
       "headline": "Kid Cudi Preparing To Film \"F*ckin Gnarly\" Followup To Directorial Debut 'Doe', Both Set For 2027",
@@ -1253,8 +1253,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-4727334122484195402",
-      "key": "film-23-4727334122484195402",
+      "id": "film-23-7686099866804645330",
+      "key": "film-23-7686099866804645330",
       "category": "Film",
       "label": "Film",
       "headline": "'Spider-Man: Brand New Day' Swinging to Fourth Box Office Victory as It Tops 'Insidious' Sequel",
@@ -1280,8 +1280,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-4243615181658761468",
-      "key": "film-33-4243615181658761468",
+      "id": "film-33-5191647583573093254",
+      "key": "film-33-5191647583573093254",
       "category": "Film",
       "label": "Film",
       "headline": "The Best Action Movie From Every Year in the 1990s - Mental Floss",
@@ -1307,8 +1307,8 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-654431980622491911",
-      "key": "music-11-654431980622491911",
+      "id": "music-11-516022278631527445",
+      "key": "music-11-516022278631527445",
       "category": "Music",
       "label": "Music",
       "headline": "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium",
@@ -1334,8 +1334,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-6754982123869710105",
-      "key": "gaming-1-6754982123869710105",
+      "id": "gaming-1-4698837277986781563",
+      "key": "gaming-1-4698837277986781563",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The Best Deals Today: Nintendo Switch 2, LEGO Tropical Aquarium, Final Fantasy VII Rebirth, and More",
@@ -1361,8 +1361,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-2-72385470791274451",
-      "key": "film-2-72385470791274451",
+      "id": "film-2-1667865197095321699",
+      "key": "film-2-1667865197095321699",
       "category": "Film",
       "label": "Film",
       "headline": "Upendra Joins Cast as Teja Sajja, Shanaya Kapoor, Suparn S. Varma's Sequel Titled 'Zombie Reddy Nxt Lvl' (EXCLUSIVE)",
@@ -1388,8 +1388,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-6342752977831477698",
-      "key": "film-12-6342752977831477698",
+      "id": "film-12-5849628286075369104",
+      "key": "film-12-5849628286075369104",
       "category": "Film",
       "label": "Film",
       "headline": "Josh Brolin Says 'Sicario 3' \"Is Happening\"",
@@ -1415,8 +1415,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-4611867054866397250",
-      "key": "film-24-4611867054866397250",
+      "id": "film-24-677941600606090459",
+      "key": "film-24-677941600606090459",
       "category": "Film",
       "label": "Film",
       "headline": "Michael Wright, Star of 'The Five Heartbeats' and 'Sugar Hill,' Dies at 70",
@@ -1442,8 +1442,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-6503422522374455385",
-      "key": "film-34-6503422522374455385",
+      "id": "film-34-9180301346713127548",
+      "key": "film-34-9180301346713127548",
       "category": "Film",
       "label": "Film",
       "headline": "Every Steven Spielberg movie, ranked from worst to best - Entertainment Weekly",
@@ -1469,8 +1469,8 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-5900688086501863146",
-      "key": "music-12-5900688086501863146",
+      "id": "music-12-6288171179010246385",
+      "key": "music-12-6288171179010246385",
       "category": "Music",
       "label": "Music",
       "headline": "Dale Morris, Nashville Manager Who Guided Careers of Alabama & Kenny Chesney, Dies at 89",
@@ -1496,8 +1496,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-1659446212916956264",
-      "key": "gaming-2-1659446212916956264",
+      "id": "gaming-2-6330399800112288195",
+      "key": "gaming-2-6330399800112288195",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Metal Gear Solid 4: The Flawed Masterpiece Kojima Didn't Want to Make",
@@ -1523,8 +1523,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-5633080808059413443",
-      "key": "film-3-5633080808059413443",
+      "id": "film-3-546530394383001065",
+      "key": "film-3-546530394383001065",
       "category": "Film",
       "label": "Film",
       "headline": "'One Battle After Another' and 'Marty Supreme' Take Top Honors at Location Managers Guild International Awards",
@@ -1550,8 +1550,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-3192084983861072247",
-      "key": "film-13-3192084983861072247",
+      "id": "film-13-6763140505195653555",
+      "key": "film-13-6763140505195653555",
       "category": "Film",
       "label": "Film",
       "headline": "HollyShorts Festival Set To Propel Documentary Jury Award Winner Into Oscar Race",
@@ -1577,8 +1577,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-6024945856669835027",
-      "key": "film-25-6024945856669835027",
+      "id": "film-25-693732104426709194",
+      "key": "film-25-693732104426709194",
       "category": "Film",
       "label": "Film",
       "headline": "Sandra Wollner's 'Everytime' Wins Best Film in Sarajevo, Ana Urushadze Crowned Best Director",
@@ -1604,8 +1604,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-8813991327018671339",
-      "key": "film-35-8813991327018671339",
+      "id": "film-35-5316703207527878216",
+      "key": "film-35-5316703207527878216",
       "category": "Film",
       "label": "Film",
       "headline": "'So bad it's good': rough animated film becomes surprise Chinese hit - Yahoo",
@@ -1631,8 +1631,8 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-3339990624216355977",
-      "key": "music-13-3339990624216355977",
+      "id": "music-13-2179804746668238614",
+      "key": "music-13-2179804746668238614",
       "category": "Music",
       "label": "Music",
       "headline": "Olivia Rodrigo Drops 'Handmaid's Tale'-Inspired 'Serena Joy' as CD Single at Indie Record Store",
@@ -1658,8 +1658,8 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-2188549927542722474",
-      "key": "gaming-3-2188549927542722474",
+      "id": "gaming-3-7931261514842641019",
+      "key": "gaming-3-7931261514842641019",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Ultra Graphics Settings Are a Scam: Why High Is Good Enough, if Not Better, for Most Players",
@@ -1711,8 +1711,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "film-0-8461861249995286475",
-          "key": "film-0-8461861249995286475",
+          "id": "film-0-8555241785468864780",
+          "key": "film-0-8555241785468864780",
           "category": "Film",
           "label": "Film",
           "headline": "‘Skintown’ Review: A Breezy, Loved-Up, Drugged-Up Guide to Getting Into Trouble in The Troubles",
@@ -1739,8 +1739,8 @@
           ]
         },
         {
-          "id": "film-10-1294848716969627441",
-          "key": "film-10-1294848716969627441",
+          "id": "film-10-5426227514275851719",
+          "key": "film-10-5426227514275851719",
           "category": "Film",
           "label": "Film",
           "headline": "LMGI Awards Winners: ‘One Battle After Another,’ ‘Marty Supreme,’ ‘Pluribus’ Among Location Managers Guild’s Honorees",
@@ -1767,8 +1767,8 @@
           ]
         },
         {
-          "id": "film-22-6342700951825405563",
-          "key": "film-22-6342700951825405563",
+          "id": "film-22-1651253220637128002",
+          "key": "film-22-1651253220637128002",
           "category": "Film",
           "label": "Film",
           "headline": "‘National Treasure 3’ Is “Finally Real” and “We Have a Script,” Director Says",
@@ -1795,8 +1795,8 @@
           ]
         },
         {
-          "id": "film-32-1617803544913442189",
-          "key": "film-32-1617803544913442189",
+          "id": "film-32-3104049349985618484",
+          "key": "film-32-3104049349985618484",
           "category": "Film",
           "label": "Film",
           "headline": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
@@ -1823,8 +1823,8 @@
           ]
         },
         {
-          "id": "film-1-7281623028458617277",
-          "key": "film-1-7281623028458617277",
+          "id": "film-1-5111785639837072628",
+          "key": "film-1-5111785639837072628",
           "category": "Film",
           "label": "Film",
           "headline": "Venice-Bound ‘Meteorite,’ Debut Feature From Colombia’s Sebastián Múnera, Acquired by MoreThan Films (EXCLUSIVE)",
@@ -1851,8 +1851,8 @@
           ]
         },
         {
-          "id": "film-11-3407724778282082622",
-          "key": "film-11-3407724778282082622",
+          "id": "film-11-2843366524417682065",
+          "key": "film-11-2843366524417682065",
           "category": "Film",
           "label": "Film",
           "headline": "Kid Cudi Preparing To Film “F*ckin Gnarly” Followup To Directorial Debut ‘Doe’, Both Set For 2027",
@@ -1879,8 +1879,8 @@
           ]
         },
         {
-          "id": "film-23-4727334122484195402",
-          "key": "film-23-4727334122484195402",
+          "id": "film-23-7686099866804645330",
+          "key": "film-23-7686099866804645330",
           "category": "Film",
           "label": "Film",
           "headline": "‘Spider-Man: Brand New Day’ Swinging to Fourth Box Office Victory as It Tops ‘Insidious’ Sequel",
@@ -1907,8 +1907,8 @@
           ]
         },
         {
-          "id": "film-33-4243615181658761468",
-          "key": "film-33-4243615181658761468",
+          "id": "film-33-5191647583573093254",
+          "key": "film-33-5191647583573093254",
           "category": "Film",
           "label": "Film",
           "headline": "The Best Action Movie From Every Year in the 1990s - Mental Floss",
@@ -1937,8 +1937,8 @@
       ],
       "items": [
         {
-          "id": "film-0-8461861249995286475",
-          "key": "film-0-8461861249995286475",
+          "id": "film-0-8555241785468864780",
+          "key": "film-0-8555241785468864780",
           "category": "Film",
           "label": "Film",
           "headline": "‘Skintown’ Review: A Breezy, Loved-Up, Drugged-Up Guide to Getting Into Trouble in The Troubles",
@@ -1965,8 +1965,8 @@
           ]
         },
         {
-          "id": "film-10-1294848716969627441",
-          "key": "film-10-1294848716969627441",
+          "id": "film-10-5426227514275851719",
+          "key": "film-10-5426227514275851719",
           "category": "Film",
           "label": "Film",
           "headline": "LMGI Awards Winners: ‘One Battle After Another,’ ‘Marty Supreme,’ ‘Pluribus’ Among Location Managers Guild’s Honorees",
@@ -1993,8 +1993,8 @@
           ]
         },
         {
-          "id": "film-22-6342700951825405563",
-          "key": "film-22-6342700951825405563",
+          "id": "film-22-1651253220637128002",
+          "key": "film-22-1651253220637128002",
           "category": "Film",
           "label": "Film",
           "headline": "‘National Treasure 3’ Is “Finally Real” and “We Have a Script,” Director Says",
@@ -2021,8 +2021,8 @@
           ]
         },
         {
-          "id": "film-32-1617803544913442189",
-          "key": "film-32-1617803544913442189",
+          "id": "film-32-3104049349985618484",
+          "key": "film-32-3104049349985618484",
           "category": "Film",
           "label": "Film",
           "headline": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
@@ -2049,8 +2049,8 @@
           ]
         },
         {
-          "id": "film-1-7281623028458617277",
-          "key": "film-1-7281623028458617277",
+          "id": "film-1-5111785639837072628",
+          "key": "film-1-5111785639837072628",
           "category": "Film",
           "label": "Film",
           "headline": "Venice-Bound ‘Meteorite,’ Debut Feature From Colombia’s Sebastián Múnera, Acquired by MoreThan Films (EXCLUSIVE)",
@@ -2077,8 +2077,8 @@
           ]
         },
         {
-          "id": "film-11-3407724778282082622",
-          "key": "film-11-3407724778282082622",
+          "id": "film-11-2843366524417682065",
+          "key": "film-11-2843366524417682065",
           "category": "Film",
           "label": "Film",
           "headline": "Kid Cudi Preparing To Film “F*ckin Gnarly” Followup To Directorial Debut ‘Doe’, Both Set For 2027",
@@ -2105,8 +2105,8 @@
           ]
         },
         {
-          "id": "film-23-4727334122484195402",
-          "key": "film-23-4727334122484195402",
+          "id": "film-23-7686099866804645330",
+          "key": "film-23-7686099866804645330",
           "category": "Film",
           "label": "Film",
           "headline": "‘Spider-Man: Brand New Day’ Swinging to Fourth Box Office Victory as It Tops ‘Insidious’ Sequel",
@@ -2133,8 +2133,8 @@
           ]
         },
         {
-          "id": "film-33-4243615181658761468",
-          "key": "film-33-4243615181658761468",
+          "id": "film-33-5191647583573093254",
+          "key": "film-33-5191647583573093254",
           "category": "Film",
           "label": "Film",
           "headline": "The Best Action Movie From Every Year in the 1990s - Mental Floss",
@@ -2161,7 +2161,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 07:21:15 AM ET"
+      "updated_at": "2026-08-23 08:40:52 AM ET"
     },
     {
       "key": "tv",
@@ -2188,8 +2188,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "tv-0-2415965873323082440",
-          "key": "tv-0-2415965873323082440",
+          "id": "tv-0-5328510786015170291",
+          "key": "tv-0-5328510786015170291",
           "category": "TV",
           "label": "TV",
           "headline": "‘One Piece’ Season 3 Casts Its Koza, Toto, Pell and Chaka",
@@ -2216,8 +2216,8 @@
           ]
         },
         {
-          "id": "tv-9-8912223706570072933",
-          "key": "tv-9-8912223706570072933",
+          "id": "tv-9-3749243636389848017",
+          "key": "tv-9-3749243636389848017",
           "category": "TV",
           "label": "TV",
           "headline": "‘One Piece: The Battle Of Alabasta’ Adds Four To Season 3 Cast",
@@ -2244,8 +2244,8 @@
           ]
         },
         {
-          "id": "tv-17-3957286734374572007",
-          "key": "tv-17-3957286734374572007",
+          "id": "tv-17-55487708593600599",
+          "key": "tv-17-55487708593600599",
           "category": "TV",
           "label": "TV",
           "headline": "Bunny Levine, Librarian Turned Actress in ‘Gilmore Girls,’ Thelma’ and ‘You Don’t Mess With the Zohan,’ Dies at 97",
@@ -2272,8 +2272,8 @@
           ]
         },
         {
-          "id": "tv-27-5332345257144944744",
-          "key": "tv-27-5332345257144944744",
+          "id": "tv-27-694426988560255244",
+          "key": "tv-27-694426988560255244",
           "category": "TV",
           "label": "TV",
           "headline": "‘The Office’ star Jenna Fischer exposes the grueling reality that forced her off TV - Fox News",
@@ -2300,8 +2300,8 @@
           ]
         },
         {
-          "id": "tv-1-381078294862709558",
-          "key": "tv-1-381078294862709558",
+          "id": "tv-1-1469307974079421806",
+          "key": "tv-1-1469307974079421806",
           "category": "TV",
           "label": "TV",
           "headline": "Taylor Sheridan Accused of Stealing ‘Yellowstone’ From 2016 Pitch in Copyright Lawsuit",
@@ -2328,8 +2328,8 @@
           ]
         },
         {
-          "id": "tv-10-5014345821567181460",
-          "key": "tv-10-5014345821567181460",
+          "id": "tv-10-2991175954393497218",
+          "key": "tv-10-2991175954393497218",
           "category": "TV",
           "label": "TV",
           "headline": "Karoline Leavitt Announces Post-White House Job",
@@ -2356,8 +2356,8 @@
           ]
         },
         {
-          "id": "tv-18-3186572909576715962",
-          "key": "tv-18-3186572909576715962",
+          "id": "tv-18-938583296082688717",
+          "key": "tv-18-938583296082688717",
           "category": "TV",
           "label": "TV",
           "headline": "Meghan Markle Reportedly Dropped From Consideration to Join Guy Ritchie’s ‘The Gentlemen’",
@@ -2384,8 +2384,8 @@
           ]
         },
         {
-          "id": "tv-28-1690269368082945975",
-          "key": "tv-28-1690269368082945975",
+          "id": "tv-28-1347118754834050408",
+          "key": "tv-28-1347118754834050408",
           "category": "TV",
           "label": "TV",
           "headline": "AI Just Got Its First 24/7 TV Channel - PYMNTS.com",
@@ -2414,8 +2414,8 @@
       ],
       "items": [
         {
-          "id": "tv-0-2415965873323082440",
-          "key": "tv-0-2415965873323082440",
+          "id": "tv-0-5328510786015170291",
+          "key": "tv-0-5328510786015170291",
           "category": "TV",
           "label": "TV",
           "headline": "‘One Piece’ Season 3 Casts Its Koza, Toto, Pell and Chaka",
@@ -2442,8 +2442,8 @@
           ]
         },
         {
-          "id": "tv-9-8912223706570072933",
-          "key": "tv-9-8912223706570072933",
+          "id": "tv-9-3749243636389848017",
+          "key": "tv-9-3749243636389848017",
           "category": "TV",
           "label": "TV",
           "headline": "‘One Piece: The Battle Of Alabasta’ Adds Four To Season 3 Cast",
@@ -2470,8 +2470,8 @@
           ]
         },
         {
-          "id": "tv-17-3957286734374572007",
-          "key": "tv-17-3957286734374572007",
+          "id": "tv-17-55487708593600599",
+          "key": "tv-17-55487708593600599",
           "category": "TV",
           "label": "TV",
           "headline": "Bunny Levine, Librarian Turned Actress in ‘Gilmore Girls,’ Thelma’ and ‘You Don’t Mess With the Zohan,’ Dies at 97",
@@ -2498,8 +2498,8 @@
           ]
         },
         {
-          "id": "tv-27-5332345257144944744",
-          "key": "tv-27-5332345257144944744",
+          "id": "tv-27-694426988560255244",
+          "key": "tv-27-694426988560255244",
           "category": "TV",
           "label": "TV",
           "headline": "‘The Office’ star Jenna Fischer exposes the grueling reality that forced her off TV - Fox News",
@@ -2526,8 +2526,8 @@
           ]
         },
         {
-          "id": "tv-1-381078294862709558",
-          "key": "tv-1-381078294862709558",
+          "id": "tv-1-1469307974079421806",
+          "key": "tv-1-1469307974079421806",
           "category": "TV",
           "label": "TV",
           "headline": "Taylor Sheridan Accused of Stealing ‘Yellowstone’ From 2016 Pitch in Copyright Lawsuit",
@@ -2554,8 +2554,8 @@
           ]
         },
         {
-          "id": "tv-10-5014345821567181460",
-          "key": "tv-10-5014345821567181460",
+          "id": "tv-10-2991175954393497218",
+          "key": "tv-10-2991175954393497218",
           "category": "TV",
           "label": "TV",
           "headline": "Karoline Leavitt Announces Post-White House Job",
@@ -2582,8 +2582,8 @@
           ]
         },
         {
-          "id": "tv-18-3186572909576715962",
-          "key": "tv-18-3186572909576715962",
+          "id": "tv-18-938583296082688717",
+          "key": "tv-18-938583296082688717",
           "category": "TV",
           "label": "TV",
           "headline": "Meghan Markle Reportedly Dropped From Consideration to Join Guy Ritchie’s ‘The Gentlemen’",
@@ -2610,8 +2610,8 @@
           ]
         },
         {
-          "id": "tv-28-1690269368082945975",
-          "key": "tv-28-1690269368082945975",
+          "id": "tv-28-1347118754834050408",
+          "key": "tv-28-1347118754834050408",
           "category": "TV",
           "label": "TV",
           "headline": "AI Just Got Its First 24/7 TV Channel - PYMNTS.com",
@@ -2638,26 +2638,54 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 07:21:16 AM ET"
+      "updated_at": "2026-08-23 08:40:54 AM ET"
     },
     {
       "key": "streaming",
       "name": "Streaming",
       "title": "Streaming Report",
-      "headline": "From 'Mother Mary' to 'Passenger,' 10 movies to stream right now - USA Today",
+      "headline": "15 Shows and Movies to Watch This Weekend - PureWow",
       "snapshot": "Streaming coverage is updating with 2 current RSS headline item(s).",
       "key_storylines": [
-        "From 'Mother Mary' to 'Passenger,' 10 movies to stream right now - USA Today",
-        "5 best new movies to stream this weekend on Netflix, Disney+, Hulu, and more (August 15-16) - Tom's Guide"
+        "15 Shows and Movies to Watch This Weekend - PureWow",
+        "From 'Mother Mary' to 'Passenger,' 10 movies to stream right now - USA Today"
       ],
       "watch_list": [
-        "From 'Mother Mary' to 'Passenger,' 10 movies to stream right now - USA Today",
-        "5 best new movies to stream this weekend on Netflix, Disney+, Hulu, and more (August 15-16) - Tom's Guide"
+        "15 Shows and Movies to Watch This Weekend - PureWow",
+        "From 'Mother Mary' to 'Passenger,' 10 movies to stream right now - USA Today"
       ],
       "homepage_cards": [
         {
-          "id": "streaming-0-820603281378019606",
-          "key": "streaming-0-820603281378019606",
+          "id": "streaming-0-9056526092687654620",
+          "key": "streaming-0-9056526092687654620",
+          "category": "Streaming",
+          "label": "Streaming",
+          "headline": "15 Shows and Movies to Watch This Weekend - PureWow",
+          "title": "15 Shows and Movies to Watch This Weekend - PureWow",
+          "snapshot": "15 Shows and Movies to Watch This Weekend PureWow",
+          "summary": "15 Shows and Movies to Watch This Weekend PureWow",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hUVpEak01U2MwMW9OT1NwRTkwbWxsTmliUFkxWXNmdFJsVmxSN1NGdVJZZ3EydkZGVW9qUUdseGp6eXRjODRINFI3eG92VlJQbTlQN19lRDBRSTNtMjBkUG12SkJ3MmhyM1B0NTkzTmg2UQ?oc=5",
+          "source": "Google News",
+          "source_name": "Google News",
+          "source_feed": "https://news.google.com/rss/search?q=streaming+netflix+hulu+disney+entertainment&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-19 03:00:00 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 100,
+          "key_data": [
+            "15 Shows and Movies to Watch This Weekend - PureWow"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "streaming-1-5067081900831230380",
+          "key": "streaming-1-5067081900831230380",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'Mother Mary' to 'Passenger,' 10 movies to stream right now - USA Today",
@@ -2672,37 +2700,9 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 100,
-          "key_data": [
-            "From 'Mother Mary' to 'Passenger,' 10 movies to stream right now - USA Today"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "streaming-1-2510849109663205469",
-          "key": "streaming-1-2510849109663205469",
-          "category": "Streaming",
-          "label": "Streaming",
-          "headline": "5 best new movies to stream this weekend on Netflix, Disney+, Hulu, and more (August 15-16) - Tom's Guide",
-          "title": "5 best new movies to stream this weekend on Netflix, Disney+, Hulu, and more (August 15-16) - Tom's Guide",
-          "snapshot": "5 best new movies to stream this weekend on Netflix, Disney+, Hulu, and more (August 15-16) Tom's Guide",
-          "summary": "5 best new movies to stream this weekend on Netflix, Disney+, Hulu, and more (August 15-16) Tom's Guide",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTzJJcGNjZmR3eWx0U1dJcXhQVk83MUpOODlkN2JKb0xKQk44c0xyUXVwbFl4Z3hwYU1qUHVyY0drUjhYUWN0bHZKX2JTRXhlQ0h5MVBuTng1S2VnakhxV2V6Zlk0b052M0g4MWlnMDAxdWdYbHVwUlBINEpQT0x5N0xON2VQTmQxS1Rhd1N1emRLTWRxT1FEUER6cGJ4bDEwclI5THpQVGQxYnJmWlpfM1lnUVFUNms3RWRJeF95bjU4aHdoSTVnUmxSVjM2VHlM?oc=5",
-          "source": "Google News",
-          "source_name": "Google News",
-          "source_feed": "https://news.google.com/rss/search?q=streaming+netflix+hulu+disney+entertainment&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-14 03:00:00 AM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "5 best new movies to stream this weekend on Netflix, Disney+, Hulu, and more (August 15-16) - Tom's Guide"
+            "From 'Mother Mary' to 'Passenger,' 10 movies to stream right now - USA Today"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2714,8 +2714,36 @@
       ],
       "items": [
         {
-          "id": "streaming-0-820603281378019606",
-          "key": "streaming-0-820603281378019606",
+          "id": "streaming-0-9056526092687654620",
+          "key": "streaming-0-9056526092687654620",
+          "category": "Streaming",
+          "label": "Streaming",
+          "headline": "15 Shows and Movies to Watch This Weekend - PureWow",
+          "title": "15 Shows and Movies to Watch This Weekend - PureWow",
+          "snapshot": "15 Shows and Movies to Watch This Weekend PureWow",
+          "summary": "15 Shows and Movies to Watch This Weekend PureWow",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hUVpEak01U2MwMW9OT1NwRTkwbWxsTmliUFkxWXNmdFJsVmxSN1NGdVJZZ3EydkZGVW9qUUdseGp6eXRjODRINFI3eG92VlJQbTlQN19lRDBRSTNtMjBkUG12SkJ3MmhyM1B0NTkzTmg2UQ?oc=5",
+          "source": "Google News",
+          "source_name": "Google News",
+          "source_feed": "https://news.google.com/rss/search?q=streaming+netflix+hulu+disney+entertainment&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-19 03:00:00 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 100,
+          "key_data": [
+            "15 Shows and Movies to Watch This Weekend - PureWow"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "streaming-1-5067081900831230380",
+          "key": "streaming-1-5067081900831230380",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'Mother Mary' to 'Passenger,' 10 movies to stream right now - USA Today",
@@ -2730,7 +2758,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 100,
+          "priority_score": 99,
           "key_data": [
             "From 'Mother Mary' to 'Passenger,' 10 movies to stream right now - USA Today"
           ],
@@ -2740,37 +2768,9 @@
           "what_to_watch": [
             "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
           ]
-        },
-        {
-          "id": "streaming-1-2510849109663205469",
-          "key": "streaming-1-2510849109663205469",
-          "category": "Streaming",
-          "label": "Streaming",
-          "headline": "5 best new movies to stream this weekend on Netflix, Disney+, Hulu, and more (August 15-16) - Tom's Guide",
-          "title": "5 best new movies to stream this weekend on Netflix, Disney+, Hulu, and more (August 15-16) - Tom's Guide",
-          "snapshot": "5 best new movies to stream this weekend on Netflix, Disney+, Hulu, and more (August 15-16) Tom's Guide",
-          "summary": "5 best new movies to stream this weekend on Netflix, Disney+, Hulu, and more (August 15-16) Tom's Guide",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTzJJcGNjZmR3eWx0U1dJcXhQVk83MUpOODlkN2JKb0xKQk44c0xyUXVwbFl4Z3hwYU1qUHVyY0drUjhYUWN0bHZKX2JTRXhlQ0h5MVBuTng1S2VnakhxV2V6Zlk0b052M0g4MWlnMDAxdWdYbHVwUlBINEpQT0x5N0xON2VQTmQxS1Rhd1N1emRLTWRxT1FEUER6cGJ4bDEwclI5THpQVGQxYnJmWlpfM1lnUVFUNms3RWRJeF95bjU4aHdoSTVnUmxSVjM2VHlM?oc=5",
-          "source": "Google News",
-          "source_name": "Google News",
-          "source_feed": "https://news.google.com/rss/search?q=streaming+netflix+hulu+disney+entertainment&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-14 03:00:00 AM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 99,
-          "key_data": [
-            "5 best new movies to stream this weekend on Netflix, Disney+, Hulu, and more (August 15-16) - Tom's Guide"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
         }
       ],
-      "updated_at": "2026-08-23 07:21:17 AM ET"
+      "updated_at": "2026-08-23 08:40:55 AM ET"
     },
     {
       "key": "music",
@@ -2795,8 +2795,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "music-0-7101203092965255336",
-          "key": "music-0-7101203092965255336",
+          "id": "music-0-5860502477445273823",
+          "key": "music-0-5860502477445273823",
           "category": "Music",
           "label": "Music",
           "headline": "Dale Morris, Titan of Nashville Management Who Forged Superstar Careers for Kenny Chesney and Alabama, Dies at 89",
@@ -2823,8 +2823,8 @@
           ]
         },
         {
-          "id": "music-10-1894877764317586936",
-          "key": "music-10-1894877764317586936",
+          "id": "music-10-5555081969326215482",
+          "key": "music-10-5555081969326215482",
           "category": "Music",
           "label": "Music",
           "headline": "Dolly Parton Says She’s Exploring ‘Avatar Performances’",
@@ -2851,8 +2851,8 @@
           ]
         },
         {
-          "id": "music-20-5998723351489681846",
-          "key": "music-20-5998723351489681846",
+          "id": "music-20-7029492508163750572",
+          "key": "music-20-7029492508163750572",
           "category": "Music",
           "label": "Music",
           "headline": "Los Lobos Settles Sony Music Lawsuit Over ‘Desperado’ Movie Soundtrack Royalties - Billboard",
@@ -2879,8 +2879,8 @@
           ]
         },
         {
-          "id": "music-1-6111808972073059059",
-          "key": "music-1-6111808972073059059",
+          "id": "music-1-5200307070164368188",
+          "key": "music-1-5200307070164368188",
           "category": "Music",
           "label": "Music",
           "headline": "Olivia Rodrigo Releases ‘Handmaid’s Tale’-Inspired Song, ‘Serena Joy,’ in a Tiny Run of CDs, With Digital Drop to Follow",
@@ -2907,8 +2907,8 @@
           ]
         },
         {
-          "id": "music-11-654431980622491911",
-          "key": "music-11-654431980622491911",
+          "id": "music-11-516022278631527445",
+          "key": "music-11-516022278631527445",
           "category": "Music",
           "label": "Music",
           "headline": "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium",
@@ -2935,8 +2935,8 @@
           ]
         },
         {
-          "id": "music-21-230924480708637152",
-          "key": "music-21-230924480708637152",
+          "id": "music-21-3702898026657817364",
+          "key": "music-21-3702898026657817364",
           "category": "Music",
           "label": "Music",
           "headline": "R&B/Hip-Hop Power Players: Billboard’s 2026 List Revealed - Billboard",
@@ -2965,8 +2965,8 @@
       ],
       "items": [
         {
-          "id": "music-0-7101203092965255336",
-          "key": "music-0-7101203092965255336",
+          "id": "music-0-5860502477445273823",
+          "key": "music-0-5860502477445273823",
           "category": "Music",
           "label": "Music",
           "headline": "Dale Morris, Titan of Nashville Management Who Forged Superstar Careers for Kenny Chesney and Alabama, Dies at 89",
@@ -2993,8 +2993,8 @@
           ]
         },
         {
-          "id": "music-10-1894877764317586936",
-          "key": "music-10-1894877764317586936",
+          "id": "music-10-5555081969326215482",
+          "key": "music-10-5555081969326215482",
           "category": "Music",
           "label": "Music",
           "headline": "Dolly Parton Says She’s Exploring ‘Avatar Performances’",
@@ -3021,8 +3021,8 @@
           ]
         },
         {
-          "id": "music-20-5998723351489681846",
-          "key": "music-20-5998723351489681846",
+          "id": "music-20-7029492508163750572",
+          "key": "music-20-7029492508163750572",
           "category": "Music",
           "label": "Music",
           "headline": "Los Lobos Settles Sony Music Lawsuit Over ‘Desperado’ Movie Soundtrack Royalties - Billboard",
@@ -3049,8 +3049,8 @@
           ]
         },
         {
-          "id": "music-1-6111808972073059059",
-          "key": "music-1-6111808972073059059",
+          "id": "music-1-5200307070164368188",
+          "key": "music-1-5200307070164368188",
           "category": "Music",
           "label": "Music",
           "headline": "Olivia Rodrigo Releases ‘Handmaid’s Tale’-Inspired Song, ‘Serena Joy,’ in a Tiny Run of CDs, With Digital Drop to Follow",
@@ -3077,8 +3077,8 @@
           ]
         },
         {
-          "id": "music-11-654431980622491911",
-          "key": "music-11-654431980622491911",
+          "id": "music-11-516022278631527445",
+          "key": "music-11-516022278631527445",
           "category": "Music",
           "label": "Music",
           "headline": "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium",
@@ -3105,8 +3105,8 @@
           ]
         },
         {
-          "id": "music-21-230924480708637152",
-          "key": "music-21-230924480708637152",
+          "id": "music-21-3702898026657817364",
+          "key": "music-21-3702898026657817364",
           "category": "Music",
           "label": "Music",
           "headline": "R&B/Hip-Hop Power Players: Billboard’s 2026 List Revealed - Billboard",
@@ -3133,7 +3133,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 07:21:18 AM ET"
+      "updated_at": "2026-08-23 08:40:56 AM ET"
     },
     {
       "key": "awards",
@@ -3155,8 +3155,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "awards-0-6742069459325878771",
-          "key": "awards-0-6742069459325878771",
+          "id": "awards-0-3339444349626473592",
+          "key": "awards-0-3339444349626473592",
           "category": "Awards",
           "label": "Awards",
           "headline": "‘Slow Horses’ Actor Jack Lowden Unpacks River Cartwright and Why Pride Gets in His Way",
@@ -3183,8 +3183,8 @@
           ]
         },
         {
-          "id": "awards-8-3768157224166244900",
-          "key": "awards-8-3768157224166244900",
+          "id": "awards-8-2396113788562995352",
+          "key": "awards-8-2396113788562995352",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar - Deadline",
@@ -3211,8 +3211,8 @@
           ]
         },
         {
-          "id": "awards-1-783713722167312069",
-          "key": "awards-1-783713722167312069",
+          "id": "awards-1-8980446249030022732",
+          "key": "awards-1-8980446249030022732",
           "category": "Awards",
           "label": "Awards",
           "headline": "Emmys: A Breakdown of the Music Nominees From Lady Gaga’s ‘Dead Dance’ to Hans Zimmer’s Race for His First Win",
@@ -3239,8 +3239,8 @@
           ]
         },
         {
-          "id": "awards-9-1897748110648570752",
-          "key": "awards-9-1897748110648570752",
+          "id": "awards-9-6243007828513500648",
+          "key": "awards-9-6243007828513500648",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026 Emmys Supporting Actor Comedy Predictions and Rankings - Yahoo",
@@ -3269,8 +3269,8 @@
       ],
       "items": [
         {
-          "id": "awards-0-6742069459325878771",
-          "key": "awards-0-6742069459325878771",
+          "id": "awards-0-3339444349626473592",
+          "key": "awards-0-3339444349626473592",
           "category": "Awards",
           "label": "Awards",
           "headline": "‘Slow Horses’ Actor Jack Lowden Unpacks River Cartwright and Why Pride Gets in His Way",
@@ -3297,8 +3297,8 @@
           ]
         },
         {
-          "id": "awards-8-3768157224166244900",
-          "key": "awards-8-3768157224166244900",
+          "id": "awards-8-2396113788562995352",
+          "key": "awards-8-2396113788562995352",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar - Deadline",
@@ -3325,8 +3325,8 @@
           ]
         },
         {
-          "id": "awards-1-783713722167312069",
-          "key": "awards-1-783713722167312069",
+          "id": "awards-1-8980446249030022732",
+          "key": "awards-1-8980446249030022732",
           "category": "Awards",
           "label": "Awards",
           "headline": "Emmys: A Breakdown of the Music Nominees From Lady Gaga’s ‘Dead Dance’ to Hans Zimmer’s Race for His First Win",
@@ -3353,8 +3353,8 @@
           ]
         },
         {
-          "id": "awards-9-1897748110648570752",
-          "key": "awards-9-1897748110648570752",
+          "id": "awards-9-6243007828513500648",
+          "key": "awards-9-6243007828513500648",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026 Emmys Supporting Actor Comedy Predictions and Rankings - Yahoo",
@@ -3381,7 +3381,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 07:21:19 AM ET"
+      "updated_at": "2026-08-23 08:40:57 AM ET"
     },
     {
       "key": "box_office",
@@ -3403,8 +3403,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "box_office-0-3700062779943436497",
-          "key": "box_office-0-3700062779943436497",
+          "id": "box_office-0-658849576660829264",
+          "key": "box_office-0-658849576660829264",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ Beats ‘Deadpool & Wolverine’ as Biggest R-Rated Movie of All Time With $1.35 Billion",
@@ -3431,8 +3431,8 @@
           ]
         },
         {
-          "id": "box_office-9-5940039562814716973",
-          "key": "box_office-9-5940039562814716973",
+          "id": "box_office-9-1335883376820624536",
+          "key": "box_office-9-1335883376820624536",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "13 Movies That Made 100 Times Their Budget at the Box Office - MovieMaker Magazine",
@@ -3459,8 +3459,8 @@
           ]
         },
         {
-          "id": "box_office-1-6525733856049069719",
-          "key": "box_office-1-6525733856049069719",
+          "id": "box_office-1-1326558808518729121",
+          "key": "box_office-1-1326558808518729121",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘It Finally Feels Like We’re Back in 2019’: Movie Theater Owners Rejoice Over $4 Billion Summer. Can the Fall Keep the Momentum?",
@@ -3487,8 +3487,8 @@
           ]
         },
         {
-          "id": "box_office-10-4533371162854078940",
-          "key": "box_office-10-4533371162854078940",
+          "id": "box_office-10-7734297229167729151",
+          "key": "box_office-10-7734297229167729151",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Only 64 movies have ever hit $1 billion at the box office — here they all are - Business Insider",
@@ -3517,8 +3517,8 @@
       ],
       "items": [
         {
-          "id": "box_office-0-3700062779943436497",
-          "key": "box_office-0-3700062779943436497",
+          "id": "box_office-0-658849576660829264",
+          "key": "box_office-0-658849576660829264",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ Beats ‘Deadpool & Wolverine’ as Biggest R-Rated Movie of All Time With $1.35 Billion",
@@ -3545,8 +3545,8 @@
           ]
         },
         {
-          "id": "box_office-9-5940039562814716973",
-          "key": "box_office-9-5940039562814716973",
+          "id": "box_office-9-1335883376820624536",
+          "key": "box_office-9-1335883376820624536",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "13 Movies That Made 100 Times Their Budget at the Box Office - MovieMaker Magazine",
@@ -3573,8 +3573,8 @@
           ]
         },
         {
-          "id": "box_office-1-6525733856049069719",
-          "key": "box_office-1-6525733856049069719",
+          "id": "box_office-1-1326558808518729121",
+          "key": "box_office-1-1326558808518729121",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘It Finally Feels Like We’re Back in 2019’: Movie Theater Owners Rejoice Over $4 Billion Summer. Can the Fall Keep the Momentum?",
@@ -3601,8 +3601,8 @@
           ]
         },
         {
-          "id": "box_office-10-4533371162854078940",
-          "key": "box_office-10-4533371162854078940",
+          "id": "box_office-10-7734297229167729151",
+          "key": "box_office-10-7734297229167729151",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Only 64 movies have ever hit $1 billion at the box office — here they all are - Business Insider",
@@ -3629,7 +3629,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 07:21:19 AM ET"
+      "updated_at": "2026-08-23 08:40:58 AM ET"
     },
     {
       "key": "celebrity",
@@ -3647,8 +3647,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "celebrity-0-5306287251470567760",
-          "key": "celebrity-0-5306287251470567760",
+          "id": "celebrity-0-142784350815228371",
+          "key": "celebrity-0-142784350815228371",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3675,8 +3675,8 @@
           ]
         },
         {
-          "id": "celebrity-1-7222286250827166437",
-          "key": "celebrity-1-7222286250827166437",
+          "id": "celebrity-1-8435554971191902414",
+          "key": "celebrity-1-8435554971191902414",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "PHOTOS: 2026 celebrity deaths - WTOP",
@@ -3705,8 +3705,8 @@
       ],
       "items": [
         {
-          "id": "celebrity-0-5306287251470567760",
-          "key": "celebrity-0-5306287251470567760",
+          "id": "celebrity-0-142784350815228371",
+          "key": "celebrity-0-142784350815228371",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3733,8 +3733,8 @@
           ]
         },
         {
-          "id": "celebrity-1-7222286250827166437",
-          "key": "celebrity-1-7222286250827166437",
+          "id": "celebrity-1-8435554971191902414",
+          "key": "celebrity-1-8435554971191902414",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "PHOTOS: 2026 celebrity deaths - WTOP",
@@ -3761,7 +3761,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 07:21:20 AM ET"
+      "updated_at": "2026-08-23 08:40:59 AM ET"
     },
     {
       "key": "hollywood",
@@ -3787,8 +3787,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "hollywood-0-4067538886393316038",
-          "key": "hollywood-0-4067538886393316038",
+          "id": "hollywood-0-3857539509075852205",
+          "key": "hollywood-0-3857539509075852205",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "HBO Max Is Free Right Now For 7 Days With This Prime Video Promo",
@@ -3815,8 +3815,8 @@
           ]
         },
         {
-          "id": "hollywood-2-3493322205377992039",
-          "key": "hollywood-2-3493322205377992039",
+          "id": "hollywood-2-614249958298126270",
+          "key": "hollywood-2-614249958298126270",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Simon Wiesenthal Center CEO Calls Out Mark Ruffalo For “Antisemitism” & “Demonization”",
@@ -3843,8 +3843,8 @@
           ]
         },
         {
-          "id": "hollywood-3-122808849760926917",
-          "key": "hollywood-3-122808849760926917",
+          "id": "hollywood-3-1679000671866086788",
+          "key": "hollywood-3-1679000671866086788",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Taylor Sheridan Accused of Stealing ‘Yellowstone’ Idea From TV Writer’s Pitch",
@@ -3871,8 +3871,8 @@
           ]
         },
         {
-          "id": "hollywood-8-6718735338948689547",
-          "key": "hollywood-8-6718735338948689547",
+          "id": "hollywood-8-1226324186373116349",
+          "key": "hollywood-8-1226324186373116349",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "How L.A. stopped being Hollywood’s leading star - Los Angeles Times",
@@ -3899,8 +3899,8 @@
           ]
         },
         {
-          "id": "hollywood-1-1418636908571786210",
-          "key": "hollywood-1-1418636908571786210",
+          "id": "hollywood-1-5551605652027165008",
+          "key": "hollywood-1-5551605652027165008",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Rolly Romero vs. Teofimo Lopez Livestream: Where to Watch the Welterweight Pay-Per-View Match Online",
@@ -3927,8 +3927,8 @@
           ]
         },
         {
-          "id": "hollywood-4-6637460132968993020",
-          "key": "hollywood-4-6637460132968993020",
+          "id": "hollywood-4-2956727442908466008",
+          "key": "hollywood-4-2956727442908466008",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘Spa Weekend’ Review: Leslie Mann and Isla Fisher Go Underserved in a Lukewarm Bath of a Comedy",
@@ -3955,8 +3955,8 @@
           ]
         },
         {
-          "id": "hollywood-9-8339963613345017330",
-          "key": "hollywood-9-8339963613345017330",
+          "id": "hollywood-9-5845019266378468580",
+          "key": "hollywood-9-5845019266378468580",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "The Hollywood Dissidents Rebuilding the Entertainment Industry from the Inside - IW Features",
@@ -3985,8 +3985,8 @@
       ],
       "items": [
         {
-          "id": "hollywood-0-4067538886393316038",
-          "key": "hollywood-0-4067538886393316038",
+          "id": "hollywood-0-3857539509075852205",
+          "key": "hollywood-0-3857539509075852205",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "HBO Max Is Free Right Now For 7 Days With This Prime Video Promo",
@@ -4013,8 +4013,8 @@
           ]
         },
         {
-          "id": "hollywood-2-3493322205377992039",
-          "key": "hollywood-2-3493322205377992039",
+          "id": "hollywood-2-614249958298126270",
+          "key": "hollywood-2-614249958298126270",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Simon Wiesenthal Center CEO Calls Out Mark Ruffalo For “Antisemitism” & “Demonization”",
@@ -4041,8 +4041,8 @@
           ]
         },
         {
-          "id": "hollywood-3-122808849760926917",
-          "key": "hollywood-3-122808849760926917",
+          "id": "hollywood-3-1679000671866086788",
+          "key": "hollywood-3-1679000671866086788",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Taylor Sheridan Accused of Stealing ‘Yellowstone’ Idea From TV Writer’s Pitch",
@@ -4069,8 +4069,8 @@
           ]
         },
         {
-          "id": "hollywood-8-6718735338948689547",
-          "key": "hollywood-8-6718735338948689547",
+          "id": "hollywood-8-1226324186373116349",
+          "key": "hollywood-8-1226324186373116349",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "How L.A. stopped being Hollywood’s leading star - Los Angeles Times",
@@ -4097,8 +4097,8 @@
           ]
         },
         {
-          "id": "hollywood-1-1418636908571786210",
-          "key": "hollywood-1-1418636908571786210",
+          "id": "hollywood-1-5551605652027165008",
+          "key": "hollywood-1-5551605652027165008",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Rolly Romero vs. Teofimo Lopez Livestream: Where to Watch the Welterweight Pay-Per-View Match Online",
@@ -4125,8 +4125,8 @@
           ]
         },
         {
-          "id": "hollywood-4-6637460132968993020",
-          "key": "hollywood-4-6637460132968993020",
+          "id": "hollywood-4-2956727442908466008",
+          "key": "hollywood-4-2956727442908466008",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘Spa Weekend’ Review: Leslie Mann and Isla Fisher Go Underserved in a Lukewarm Bath of a Comedy",
@@ -4153,8 +4153,8 @@
           ]
         },
         {
-          "id": "hollywood-9-8339963613345017330",
-          "key": "hollywood-9-8339963613345017330",
+          "id": "hollywood-9-5845019266378468580",
+          "key": "hollywood-9-5845019266378468580",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "The Hollywood Dissidents Rebuilding the Entertainment Industry from the Inside - IW Features",
@@ -4181,7 +4181,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 07:21:21 AM ET"
+      "updated_at": "2026-08-23 08:41:00 AM ET"
     },
     {
       "key": "gaming",
@@ -4199,8 +4199,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "gaming-0-8327141902328762362",
-          "key": "gaming-0-8327141902328762362",
+          "id": "gaming-0-2854887432647556417",
+          "key": "gaming-0-2854887432647556417",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "GTA 6 Leaker Releases More Gameplay Videos Despite Rockstar Owner Take-Two's Microsoft and Discord Subpoenas",
@@ -4227,8 +4227,8 @@
           ]
         },
         {
-          "id": "gaming-1-6754982123869710105",
-          "key": "gaming-1-6754982123869710105",
+          "id": "gaming-1-4698837277986781563",
+          "key": "gaming-1-4698837277986781563",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "The Best Deals Today: Nintendo Switch 2, LEGO Tropical Aquarium, Final Fantasy VII Rebirth, and More",
@@ -4257,8 +4257,8 @@
       ],
       "items": [
         {
-          "id": "gaming-0-8327141902328762362",
-          "key": "gaming-0-8327141902328762362",
+          "id": "gaming-0-2854887432647556417",
+          "key": "gaming-0-2854887432647556417",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "GTA 6 Leaker Releases More Gameplay Videos Despite Rockstar Owner Take-Two's Microsoft and Discord Subpoenas",
@@ -4285,8 +4285,8 @@
           ]
         },
         {
-          "id": "gaming-1-6754982123869710105",
-          "key": "gaming-1-6754982123869710105",
+          "id": "gaming-1-4698837277986781563",
+          "key": "gaming-1-4698837277986781563",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "The Best Deals Today: Nintendo Switch 2, LEGO Tropical Aquarium, Final Fantasy VII Rebirth, and More",
@@ -4313,7 +4313,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 07:21:21 AM ET"
+      "updated_at": "2026-08-23 08:41:01 AM ET"
     },
     {
       "key": "media",
@@ -4338,8 +4338,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "media-0-7186957953338275510",
-          "key": "media-0-7186957953338275510",
+          "id": "media-0-1825030346956509062",
+          "key": "media-0-1825030346956509062",
           "category": "Media",
           "label": "Media",
           "headline": "Secret Hollywood Group’s AI Plan Focuses on Defining How AI Is Used — While Keeping Humans in Control",
@@ -4366,8 +4366,8 @@
           ]
         },
         {
-          "id": "media-10-962274679737892079",
-          "key": "media-10-962274679737892079",
+          "id": "media-10-4388024925914501506",
+          "key": "media-10-4388024925914501506",
           "category": "Media",
           "label": "Media",
           "headline": "TikTok To Pay $400M In Justice Department Settlement Over Children’s Privacy",
@@ -4394,8 +4394,8 @@
           ]
         },
         {
-          "id": "media-19-8007625264803879344",
-          "key": "media-19-8007625264803879344",
+          "id": "media-19-8802465323011906718",
+          "key": "media-19-8802465323011906718",
           "category": "Media",
           "label": "Media",
           "headline": "SNK Entertainment dissolved after 10 years. Most of its businesses transferred to parent company SNK - AUTOMATON",
@@ -4422,8 +4422,8 @@
           ]
         },
         {
-          "id": "media-1-4289322856202984824",
-          "key": "media-1-4289322856202984824",
+          "id": "media-1-8316550564006874513",
+          "key": "media-1-8316550564006874513",
           "category": "Media",
           "label": "Media",
           "headline": "Vertical Media on Track to Generate $150 Billion in 2026 as the Booming Sector Fights Crowded Content Field and High Subscriber Acquisition Costs",
@@ -4450,8 +4450,8 @@
           ]
         },
         {
-          "id": "media-11-5995783473655139704",
-          "key": "media-11-5995783473655139704",
+          "id": "media-11-4213238520712799243",
+          "key": "media-11-4213238520712799243",
           "category": "Media",
           "label": "Media",
           "headline": "Paramount Accuses Mark Ruffalo Of Being “Antisemitic” After He Slams Ellisons’ Ties To Oracle, Calling Them “Really Profoundly Scary People”",
@@ -4478,8 +4478,8 @@
           ]
         },
         {
-          "id": "media-20-5772751032487190551",
-          "key": "media-20-5772751032487190551",
+          "id": "media-20-8515298757179799271",
+          "key": "media-20-8515298757179799271",
           "category": "Media",
           "label": "Media",
           "headline": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
@@ -4508,8 +4508,8 @@
       ],
       "items": [
         {
-          "id": "media-0-7186957953338275510",
-          "key": "media-0-7186957953338275510",
+          "id": "media-0-1825030346956509062",
+          "key": "media-0-1825030346956509062",
           "category": "Media",
           "label": "Media",
           "headline": "Secret Hollywood Group’s AI Plan Focuses on Defining How AI Is Used — While Keeping Humans in Control",
@@ -4536,8 +4536,8 @@
           ]
         },
         {
-          "id": "media-10-962274679737892079",
-          "key": "media-10-962274679737892079",
+          "id": "media-10-4388024925914501506",
+          "key": "media-10-4388024925914501506",
           "category": "Media",
           "label": "Media",
           "headline": "TikTok To Pay $400M In Justice Department Settlement Over Children’s Privacy",
@@ -4564,8 +4564,8 @@
           ]
         },
         {
-          "id": "media-19-8007625264803879344",
-          "key": "media-19-8007625264803879344",
+          "id": "media-19-8802465323011906718",
+          "key": "media-19-8802465323011906718",
           "category": "Media",
           "label": "Media",
           "headline": "SNK Entertainment dissolved after 10 years. Most of its businesses transferred to parent company SNK - AUTOMATON",
@@ -4592,8 +4592,8 @@
           ]
         },
         {
-          "id": "media-1-4289322856202984824",
-          "key": "media-1-4289322856202984824",
+          "id": "media-1-8316550564006874513",
+          "key": "media-1-8316550564006874513",
           "category": "Media",
           "label": "Media",
           "headline": "Vertical Media on Track to Generate $150 Billion in 2026 as the Booming Sector Fights Crowded Content Field and High Subscriber Acquisition Costs",
@@ -4620,8 +4620,8 @@
           ]
         },
         {
-          "id": "media-11-5995783473655139704",
-          "key": "media-11-5995783473655139704",
+          "id": "media-11-4213238520712799243",
+          "key": "media-11-4213238520712799243",
           "category": "Media",
           "label": "Media",
           "headline": "Paramount Accuses Mark Ruffalo Of Being “Antisemitic” After He Slams Ellisons’ Ties To Oracle, Calling Them “Really Profoundly Scary People”",
@@ -4648,8 +4648,8 @@
           ]
         },
         {
-          "id": "media-20-5772751032487190551",
-          "key": "media-20-5772751032487190551",
+          "id": "media-20-8515298757179799271",
+          "key": "media-20-8515298757179799271",
           "category": "Media",
           "label": "Media",
           "headline": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
@@ -4676,7 +4676,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 07:21:22 AM ET"
+      "updated_at": "2026-08-23 08:41:02 AM ET"
     }
   ]
 }
