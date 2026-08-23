@@ -5,9 +5,9 @@
   "vertical": "Entertainment",
   "headline": "'One Battle After Another' and 'Marty Supreme' Take Top Honors at Location Managers Guild International Awards",
   "snapshot": "Global Entertainment Report accepted 50 real RSS item(s) across 31 checked feed request(s).",
-  "generated_at": "2026-08-23 02:41:21 AM ET",
-  "updated_at": "2026-08-23 02:41:21 AM ET",
-  "published_at": "2026-08-23 02:41:21 AM ET",
+  "generated_at": "2026-08-23 03:33:22 AM ET",
+  "updated_at": "2026-08-23 03:33:22 AM ET",
+  "published_at": "2026-08-23 03:33:22 AM ET",
   "source_mode": "live RSS ingestion",
   "freshness": {
     "max_item_age_hours": 336,
@@ -197,11 +197,11 @@
       "url": "https://news.google.com/rss/search?q=entertainment+awards+oscars+emmys+grammys&hl=en-US&gl=US&ceid=US:en",
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=entertainment+awards+oscars+emmys+grammys&hl=en-US&gl=US&ceid=US:en",
-      "item_count": 73,
+      "item_count": 74,
       "accepted_count": 2,
-      "rejected_count": 68,
+      "rejected_count": 69,
       "rejection_reasons": {
-        "stale-over-336h": 68
+        "stale-over-336h": 69
       }
     },
     {
@@ -235,10 +235,10 @@
       "final_url": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 64,
+      "rejected_count": 67,
       "rejection_reasons": {
         "duplicate-story": 2,
-        "stale-over-336h": 62
+        "stale-over-336h": 65
       }
     },
     {
@@ -258,11 +258,11 @@
       "url": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
-      "item_count": 93,
+      "item_count": 95,
       "accepted_count": 2,
-      "rejected_count": 86,
+      "rejected_count": 88,
       "rejection_reasons": {
-        "stale-over-336h": 86
+        "stale-over-336h": 88
       }
     },
     {
@@ -308,9 +308,9 @@
       "final_url": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 88,
+      "rejected_count": 87,
       "rejection_reasons": {
-        "stale-over-336h": 88
+        "stale-over-336h": 87
       }
     },
     {
@@ -378,15 +378,15 @@
     "LMGI Awards Winners: 'One Battle After Another,' 'Marty Supreme,' 'Pluribus' Among Location Managers Guild's Honorees",
     "'National Treasure 3' Is \"Finally Real\" and \"We Have a Script,\" Director Says",
     "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
-    "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium",
+    "Dolly Parton Says She's Exploring 'Avatar Performances'",
     "GTA 6 Leaker Releases More Gameplay Videos Despite Rockstar Owner Take-Two's Microsoft and Discord Subpoenas",
     "'Sentimental Value' Sweeps Amanda Awards",
     "Kid Cudi Preparing To Film \"F*ckin Gnarly\" Followup To Directorial Debut 'Doe', Both Set For 2027"
   ],
   "live_newsroom": [
     {
-      "id": "film-0-1486362356427397779",
-      "key": "film-0-1486362356427397779",
+      "id": "film-0-6341943193451521622",
+      "key": "film-0-6341943193451521622",
       "category": "Film",
       "label": "Film",
       "headline": "'One Battle After Another' and 'Marty Supreme' Take Top Honors at Location Managers Guild International Awards",
@@ -412,8 +412,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-1162826026995647221",
-      "key": "film-10-1162826026995647221",
+      "id": "film-10-7528041930879613465",
+      "key": "film-10-7528041930879613465",
       "category": "Film",
       "label": "Film",
       "headline": "LMGI Awards Winners: 'One Battle After Another,' 'Marty Supreme,' 'Pluribus' Among Location Managers Guild's Honorees",
@@ -439,8 +439,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-3788227836705968009",
-      "key": "film-22-3788227836705968009",
+      "id": "film-22-5421657699083683627",
+      "key": "film-22-5421657699083683627",
       "category": "Film",
       "label": "Film",
       "headline": "'National Treasure 3' Is \"Finally Real\" and \"We Have a Script,\" Director Says",
@@ -466,8 +466,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-1695116805781544019",
-      "key": "film-32-1695116805781544019",
+      "id": "film-32-7606151023507674431",
+      "key": "film-32-7606151023507674431",
       "category": "Film",
       "label": "Film",
       "headline": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
@@ -493,22 +493,22 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-7051109615976972839",
-      "key": "music-10-7051109615976972839",
+      "id": "music-10-7509575727495211620",
+      "key": "music-10-7509575727495211620",
       "category": "Music",
       "label": "Music",
-      "headline": "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium",
-      "title": "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium",
-      "snapshot": "The E Street Band drummer filled in for his son Jay Weinberg, who has become a recurring guest with the band.",
-      "summary": "The E Street Band drummer filled in for his son Jay Weinberg, who has become a recurring guest with the band.",
-      "url": "https://www.billboard.com/music/rock/king-gizzard-and-the-lizard-wizard-max-weinberg-1236322524/",
+      "headline": "Dolly Parton Says She's Exploring 'Avatar Performances'",
+      "title": "Dolly Parton Says She's Exploring 'Avatar Performances'",
+      "snapshot": "\"I am dealing with some health issues that I just didn't pay attention to when I was watching over Carl,\" Parton said.",
+      "summary": "\"I am dealing with some health issues that I just didn't pay attention to when I was watching over Carl,\" Parton said.",
+      "url": "https://www.billboard.com/music/country/dolly-parton-health-update-1236322526/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-23 12:26:12 AM ET",
+      "published_at": "2026-08-23 03:07:43 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium"
+        "Dolly Parton Says She's Exploring 'Avatar Performances'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -520,8 +520,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-5854534763468063394",
-      "key": "gaming-0-5854534763468063394",
+      "id": "gaming-0-6563507601465432615",
+      "key": "gaming-0-6563507601465432615",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "GTA 6 Leaker Releases More Gameplay Videos Despite Rockstar Owner Take-Two's Microsoft and Discord Subpoenas",
@@ -547,8 +547,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-3693503827762044301",
-      "key": "film-1-3693503827762044301",
+      "id": "film-1-2121467513076591623",
+      "key": "film-1-2121467513076591623",
       "category": "Film",
       "label": "Film",
       "headline": "'Sentimental Value' Sweeps Amanda Awards",
@@ -574,8 +574,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-936145898918728775",
-      "key": "film-11-936145898918728775",
+      "id": "film-11-2962791703990473281",
+      "key": "film-11-2962791703990473281",
       "category": "Film",
       "label": "Film",
       "headline": "Kid Cudi Preparing To Film \"F*ckin Gnarly\" Followup To Directorial Debut 'Doe', Both Set For 2027",
@@ -601,8 +601,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-3458913573372059883",
-      "key": "film-23-3458913573372059883",
+      "id": "film-23-1082643444032390923",
+      "key": "film-23-1082643444032390923",
       "category": "Film",
       "label": "Film",
       "headline": "'Spider-Man: Brand New Day' Swinging to Fourth Box Office Victory as It Tops 'Insidious' Sequel",
@@ -628,8 +628,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-6765170397100907744",
-      "key": "film-33-6765170397100907744",
+      "id": "film-33-2459833995239949990",
+      "key": "film-33-2459833995239949990",
       "category": "Film",
       "label": "Film",
       "headline": "The Best Action Movie From Every Year in the 1990s - Mental Floss",
@@ -655,22 +655,22 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-1772620807204664900",
-      "key": "music-11-1772620807204664900",
+      "id": "music-11-1182748916313926212",
+      "key": "music-11-1182748916313926212",
       "category": "Music",
       "label": "Music",
-      "headline": "Dale Morris, Nashville Manager Who Guided Careers of Alabama & Kenny Chesney, Dies at 89",
-      "title": "Dale Morris, Nashville Manager Who Guided Careers of Alabama & Kenny Chesney, Dies at 89",
-      "snapshot": "The longtime Nashville manager also represented Martina McBride, Barbara Mandrell andJake Owen.",
-      "summary": "The longtime Nashville manager also represented Martina McBride, Barbara Mandrell andJake Owen.",
-      "url": "https://www.billboard.com/business/management/dale-morris-death-manager-alabama-kenny-chesney-dies-1236322517/",
+      "headline": "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium",
+      "title": "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium",
+      "snapshot": "The E Street Band drummer filled in for his son Jay Weinberg, who has become a recurring guest with the band.",
+      "summary": "The E Street Band drummer filled in for his son Jay Weinberg, who has become a recurring guest with the band.",
+      "url": "https://www.billboard.com/music/rock/king-gizzard-and-the-lizard-wizard-max-weinberg-1236322524/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-22 06:27:39 PM ET",
+      "published_at": "2026-08-23 12:26:12 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Dale Morris, Nashville Manager Who Guided Careers of Alabama & Kenny Chesney, Dies at 89"
+        "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -682,8 +682,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-1658082816899071579",
-      "key": "gaming-1-1658082816899071579",
+      "id": "gaming-1-3297409176795870525",
+      "key": "gaming-1-3297409176795870525",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The Best Deals Today: Nintendo Switch 2, LEGO Tropical Aquarium, Final Fantasy VII Rebirth, and More",
@@ -711,8 +711,8 @@
   ],
   "editor_signals": [
     {
-      "id": "film-2-4419987514524045134",
-      "key": "film-2-4419987514524045134",
+      "id": "film-2-185501710176964603",
+      "key": "film-2-185501710176964603",
       "category": "Film",
       "label": "Film",
       "headline": "Mark Ruffalo Fires Back After Paramount Slammed His Merger Attack as 'Antisemitic': 'Appalling and Fundamentally Dishonest'",
@@ -738,8 +738,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-8787899370706783107",
-      "key": "film-12-8787899370706783107",
+      "id": "film-12-5697236857724577594",
+      "key": "film-12-5697236857724577594",
       "category": "Film",
       "label": "Film",
       "headline": "Josh Brolin Says 'Sicario 3' \"Is Happening\"",
@@ -765,8 +765,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-1666164326895018341",
-      "key": "film-24-1666164326895018341",
+      "id": "film-24-2577347325028644134",
+      "key": "film-24-2577347325028644134",
       "category": "Film",
       "label": "Film",
       "headline": "Michael Wright, Star of 'The Five Heartbeats' and 'Sugar Hill,' Dies at 70",
@@ -792,8 +792,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-2724091798012748630",
-      "key": "film-34-2724091798012748630",
+      "id": "film-34-985971707052078579",
+      "key": "film-34-985971707052078579",
       "category": "Film",
       "label": "Film",
       "headline": "Every Steven Spielberg movie, ranked from worst to best - Entertainment Weekly",
@@ -819,22 +819,22 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-3627726938695491887",
-      "key": "music-12-3627726938695491887",
+      "id": "music-12-1968730036718849604",
+      "key": "music-12-1968730036718849604",
       "category": "Music",
       "label": "Music",
-      "headline": "Olivia Rodrigo Drops 'Handmaid's Tale'-Inspired 'Serena Joy' as CD Single at Indie Record Store",
-      "title": "Olivia Rodrigo Drops 'Handmaid's Tale'-Inspired 'Serena Joy' as CD Single at Indie Record Store",
-      "snapshot": "A limited number of copies were available at Analog Music Shop, near the site of her upcoming Daisy Chain Fields festival in SoCal.",
-      "summary": "A limited number of copies were available at Analog Music Shop, near the site of her upcoming Daisy Chain Fields festival in SoCal.",
-      "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-serena-joy-cd-single-indie-record-store-1236322505/",
+      "headline": "Dale Morris, Nashville Manager Who Guided Careers of Alabama & Kenny Chesney, Dies at 89",
+      "title": "Dale Morris, Nashville Manager Who Guided Careers of Alabama & Kenny Chesney, Dies at 89",
+      "snapshot": "The longtime Nashville manager also represented Martina McBride, Barbara Mandrell andJake Owen.",
+      "summary": "The longtime Nashville manager also represented Martina McBride, Barbara Mandrell andJake Owen.",
+      "url": "https://www.billboard.com/business/management/dale-morris-death-manager-alabama-kenny-chesney-dies-1236322517/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-22 04:10:55 PM ET",
+      "published_at": "2026-08-22 06:27:39 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Olivia Rodrigo Drops 'Handmaid's Tale'-Inspired 'Serena Joy' as CD Single at Indie Record Store"
+        "Dale Morris, Nashville Manager Who Guided Careers of Alabama & Kenny Chesney, Dies at 89"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -846,8 +846,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-5101216922078798173",
-      "key": "gaming-2-5101216922078798173",
+      "id": "gaming-2-4276255119563854071",
+      "key": "gaming-2-4276255119563854071",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Metal Gear Solid 4: The Flawed Masterpiece Kojima Didn't Want to Make",
@@ -873,8 +873,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-6586214655917700093",
-      "key": "film-3-6586214655917700093",
+      "id": "film-3-6353986580463929403",
+      "key": "film-3-6353986580463929403",
       "category": "Film",
       "label": "Film",
       "headline": "Why Do We Love Spider-Man So Much?",
@@ -900,8 +900,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-7001124190795397612",
-      "key": "film-13-7001124190795397612",
+      "id": "film-13-2929397559375792335",
+      "key": "film-13-2929397559375792335",
       "category": "Film",
       "label": "Film",
       "headline": "HollyShorts Festival Set To Propel Documentary Jury Award Winner Into Oscar Race",
@@ -927,8 +927,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-7208807181714003983",
-      "key": "film-25-7208807181714003983",
+      "id": "film-25-6818424614611437875",
+      "key": "film-25-6818424614611437875",
       "category": "Film",
       "label": "Film",
       "headline": "Sandra Wollner's 'Everytime' Wins Best Film in Sarajevo, Ana Urushadze Crowned Best Director",
@@ -954,8 +954,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-9105291741706770888",
-      "key": "film-35-9105291741706770888",
+      "id": "film-35-1714900338048697824",
+      "key": "film-35-1714900338048697824",
       "category": "Film",
       "label": "Film",
       "headline": "'So bad it's good': rough animated film becomes surprise Chinese hit - Yahoo",
@@ -981,22 +981,22 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-2581028911354913750",
-      "key": "music-13-2581028911354913750",
+      "id": "music-13-4694061698666924702",
+      "key": "music-13-4694061698666924702",
       "category": "Music",
       "label": "Music",
-      "headline": "Kehlani Delivers Superstar Set at Brooklyn Stop of Triumphant World Tour: 5 Best Moments",
-      "title": "Kehlani Delivers Superstar Set at Brooklyn Stop of Triumphant World Tour: 5 Best Moments",
-      "snapshot": "The Oakland R&B savant proved exactly why she's the cover star of Billboard 's 2026 R&B/Hip-Hop Power Players issue.",
-      "summary": "The Oakland R&B savant proved exactly why she's the cover star of Billboard 's 2026 R&B/Hip-Hop Power Players issue.",
-      "url": "https://www.billboard.com/lists/kehlani-brooklyn-concert-best-moments-cardi-b/",
+      "headline": "Olivia Rodrigo Drops 'Handmaid's Tale'-Inspired 'Serena Joy' as CD Single at Indie Record Store",
+      "title": "Olivia Rodrigo Drops 'Handmaid's Tale'-Inspired 'Serena Joy' as CD Single at Indie Record Store",
+      "snapshot": "A limited number of copies were available at Analog Music Shop, near the site of her upcoming Daisy Chain Fields festival in SoCal.",
+      "summary": "A limited number of copies were available at Analog Music Shop, near the site of her upcoming Daisy Chain Fields festival in SoCal.",
+      "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-serena-joy-cd-single-indie-record-store-1236322505/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-22 02:25:37 PM ET",
+      "published_at": "2026-08-22 04:10:55 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Kehlani Delivers Superstar Set at Brooklyn Stop of Triumphant World Tour: 5 Best Moments"
+        "Olivia Rodrigo Drops 'Handmaid's Tale'-Inspired 'Serena Joy' as CD Single at Indie Record Store"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1008,8 +1008,8 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-3780244214491619636",
-      "key": "gaming-3-3780244214491619636",
+      "id": "gaming-3-7304046690546674275",
+      "key": "gaming-3-7304046690546674275",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Ultra Graphics Settings Are a Scam: Why High Is Good Enough, if Not Better, for Most Players",
@@ -1037,8 +1037,8 @@
   ],
   "homepage_cards": [
     {
-      "id": "film-0-1486362356427397779",
-      "key": "film-0-1486362356427397779",
+      "id": "film-0-6341943193451521622",
+      "key": "film-0-6341943193451521622",
       "category": "Film",
       "label": "Film",
       "headline": "'One Battle After Another' and 'Marty Supreme' Take Top Honors at Location Managers Guild International Awards",
@@ -1064,8 +1064,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-1162826026995647221",
-      "key": "film-10-1162826026995647221",
+      "id": "film-10-7528041930879613465",
+      "key": "film-10-7528041930879613465",
       "category": "Film",
       "label": "Film",
       "headline": "LMGI Awards Winners: 'One Battle After Another,' 'Marty Supreme,' 'Pluribus' Among Location Managers Guild's Honorees",
@@ -1091,8 +1091,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-3788227836705968009",
-      "key": "film-22-3788227836705968009",
+      "id": "film-22-5421657699083683627",
+      "key": "film-22-5421657699083683627",
       "category": "Film",
       "label": "Film",
       "headline": "'National Treasure 3' Is \"Finally Real\" and \"We Have a Script,\" Director Says",
@@ -1118,8 +1118,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-1695116805781544019",
-      "key": "film-32-1695116805781544019",
+      "id": "film-32-7606151023507674431",
+      "key": "film-32-7606151023507674431",
       "category": "Film",
       "label": "Film",
       "headline": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
@@ -1145,22 +1145,22 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-7051109615976972839",
-      "key": "music-10-7051109615976972839",
+      "id": "music-10-7509575727495211620",
+      "key": "music-10-7509575727495211620",
       "category": "Music",
       "label": "Music",
-      "headline": "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium",
-      "title": "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium",
-      "snapshot": "The E Street Band drummer filled in for his son Jay Weinberg, who has become a recurring guest with the band.",
-      "summary": "The E Street Band drummer filled in for his son Jay Weinberg, who has become a recurring guest with the band.",
-      "url": "https://www.billboard.com/music/rock/king-gizzard-and-the-lizard-wizard-max-weinberg-1236322524/",
+      "headline": "Dolly Parton Says She's Exploring 'Avatar Performances'",
+      "title": "Dolly Parton Says She's Exploring 'Avatar Performances'",
+      "snapshot": "\"I am dealing with some health issues that I just didn't pay attention to when I was watching over Carl,\" Parton said.",
+      "summary": "\"I am dealing with some health issues that I just didn't pay attention to when I was watching over Carl,\" Parton said.",
+      "url": "https://www.billboard.com/music/country/dolly-parton-health-update-1236322526/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-23 12:26:12 AM ET",
+      "published_at": "2026-08-23 03:07:43 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium"
+        "Dolly Parton Says She's Exploring 'Avatar Performances'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1172,8 +1172,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-5854534763468063394",
-      "key": "gaming-0-5854534763468063394",
+      "id": "gaming-0-6563507601465432615",
+      "key": "gaming-0-6563507601465432615",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "GTA 6 Leaker Releases More Gameplay Videos Despite Rockstar Owner Take-Two's Microsoft and Discord Subpoenas",
@@ -1199,8 +1199,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-3693503827762044301",
-      "key": "film-1-3693503827762044301",
+      "id": "film-1-2121467513076591623",
+      "key": "film-1-2121467513076591623",
       "category": "Film",
       "label": "Film",
       "headline": "'Sentimental Value' Sweeps Amanda Awards",
@@ -1226,8 +1226,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-936145898918728775",
-      "key": "film-11-936145898918728775",
+      "id": "film-11-2962791703990473281",
+      "key": "film-11-2962791703990473281",
       "category": "Film",
       "label": "Film",
       "headline": "Kid Cudi Preparing To Film \"F*ckin Gnarly\" Followup To Directorial Debut 'Doe', Both Set For 2027",
@@ -1253,8 +1253,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-3458913573372059883",
-      "key": "film-23-3458913573372059883",
+      "id": "film-23-1082643444032390923",
+      "key": "film-23-1082643444032390923",
       "category": "Film",
       "label": "Film",
       "headline": "'Spider-Man: Brand New Day' Swinging to Fourth Box Office Victory as It Tops 'Insidious' Sequel",
@@ -1280,8 +1280,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-6765170397100907744",
-      "key": "film-33-6765170397100907744",
+      "id": "film-33-2459833995239949990",
+      "key": "film-33-2459833995239949990",
       "category": "Film",
       "label": "Film",
       "headline": "The Best Action Movie From Every Year in the 1990s - Mental Floss",
@@ -1307,22 +1307,22 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-1772620807204664900",
-      "key": "music-11-1772620807204664900",
+      "id": "music-11-1182748916313926212",
+      "key": "music-11-1182748916313926212",
       "category": "Music",
       "label": "Music",
-      "headline": "Dale Morris, Nashville Manager Who Guided Careers of Alabama & Kenny Chesney, Dies at 89",
-      "title": "Dale Morris, Nashville Manager Who Guided Careers of Alabama & Kenny Chesney, Dies at 89",
-      "snapshot": "The longtime Nashville manager also represented Martina McBride, Barbara Mandrell andJake Owen.",
-      "summary": "The longtime Nashville manager also represented Martina McBride, Barbara Mandrell andJake Owen.",
-      "url": "https://www.billboard.com/business/management/dale-morris-death-manager-alabama-kenny-chesney-dies-1236322517/",
+      "headline": "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium",
+      "title": "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium",
+      "snapshot": "The E Street Band drummer filled in for his son Jay Weinberg, who has become a recurring guest with the band.",
+      "summary": "The E Street Band drummer filled in for his son Jay Weinberg, who has become a recurring guest with the band.",
+      "url": "https://www.billboard.com/music/rock/king-gizzard-and-the-lizard-wizard-max-weinberg-1236322524/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-22 06:27:39 PM ET",
+      "published_at": "2026-08-23 12:26:12 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Dale Morris, Nashville Manager Who Guided Careers of Alabama & Kenny Chesney, Dies at 89"
+        "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1334,8 +1334,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-1658082816899071579",
-      "key": "gaming-1-1658082816899071579",
+      "id": "gaming-1-3297409176795870525",
+      "key": "gaming-1-3297409176795870525",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The Best Deals Today: Nintendo Switch 2, LEGO Tropical Aquarium, Final Fantasy VII Rebirth, and More",
@@ -1361,8 +1361,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-2-4419987514524045134",
-      "key": "film-2-4419987514524045134",
+      "id": "film-2-185501710176964603",
+      "key": "film-2-185501710176964603",
       "category": "Film",
       "label": "Film",
       "headline": "Mark Ruffalo Fires Back After Paramount Slammed His Merger Attack as 'Antisemitic': 'Appalling and Fundamentally Dishonest'",
@@ -1388,8 +1388,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-8787899370706783107",
-      "key": "film-12-8787899370706783107",
+      "id": "film-12-5697236857724577594",
+      "key": "film-12-5697236857724577594",
       "category": "Film",
       "label": "Film",
       "headline": "Josh Brolin Says 'Sicario 3' \"Is Happening\"",
@@ -1415,8 +1415,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-1666164326895018341",
-      "key": "film-24-1666164326895018341",
+      "id": "film-24-2577347325028644134",
+      "key": "film-24-2577347325028644134",
       "category": "Film",
       "label": "Film",
       "headline": "Michael Wright, Star of 'The Five Heartbeats' and 'Sugar Hill,' Dies at 70",
@@ -1442,8 +1442,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-2724091798012748630",
-      "key": "film-34-2724091798012748630",
+      "id": "film-34-985971707052078579",
+      "key": "film-34-985971707052078579",
       "category": "Film",
       "label": "Film",
       "headline": "Every Steven Spielberg movie, ranked from worst to best - Entertainment Weekly",
@@ -1469,22 +1469,22 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-3627726938695491887",
-      "key": "music-12-3627726938695491887",
+      "id": "music-12-1968730036718849604",
+      "key": "music-12-1968730036718849604",
       "category": "Music",
       "label": "Music",
-      "headline": "Olivia Rodrigo Drops 'Handmaid's Tale'-Inspired 'Serena Joy' as CD Single at Indie Record Store",
-      "title": "Olivia Rodrigo Drops 'Handmaid's Tale'-Inspired 'Serena Joy' as CD Single at Indie Record Store",
-      "snapshot": "A limited number of copies were available at Analog Music Shop, near the site of her upcoming Daisy Chain Fields festival in SoCal.",
-      "summary": "A limited number of copies were available at Analog Music Shop, near the site of her upcoming Daisy Chain Fields festival in SoCal.",
-      "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-serena-joy-cd-single-indie-record-store-1236322505/",
+      "headline": "Dale Morris, Nashville Manager Who Guided Careers of Alabama & Kenny Chesney, Dies at 89",
+      "title": "Dale Morris, Nashville Manager Who Guided Careers of Alabama & Kenny Chesney, Dies at 89",
+      "snapshot": "The longtime Nashville manager also represented Martina McBride, Barbara Mandrell andJake Owen.",
+      "summary": "The longtime Nashville manager also represented Martina McBride, Barbara Mandrell andJake Owen.",
+      "url": "https://www.billboard.com/business/management/dale-morris-death-manager-alabama-kenny-chesney-dies-1236322517/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-22 04:10:55 PM ET",
+      "published_at": "2026-08-22 06:27:39 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Olivia Rodrigo Drops 'Handmaid's Tale'-Inspired 'Serena Joy' as CD Single at Indie Record Store"
+        "Dale Morris, Nashville Manager Who Guided Careers of Alabama & Kenny Chesney, Dies at 89"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1496,8 +1496,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-5101216922078798173",
-      "key": "gaming-2-5101216922078798173",
+      "id": "gaming-2-4276255119563854071",
+      "key": "gaming-2-4276255119563854071",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Metal Gear Solid 4: The Flawed Masterpiece Kojima Didn't Want to Make",
@@ -1523,8 +1523,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-6586214655917700093",
-      "key": "film-3-6586214655917700093",
+      "id": "film-3-6353986580463929403",
+      "key": "film-3-6353986580463929403",
       "category": "Film",
       "label": "Film",
       "headline": "Why Do We Love Spider-Man So Much?",
@@ -1550,8 +1550,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-7001124190795397612",
-      "key": "film-13-7001124190795397612",
+      "id": "film-13-2929397559375792335",
+      "key": "film-13-2929397559375792335",
       "category": "Film",
       "label": "Film",
       "headline": "HollyShorts Festival Set To Propel Documentary Jury Award Winner Into Oscar Race",
@@ -1577,8 +1577,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-7208807181714003983",
-      "key": "film-25-7208807181714003983",
+      "id": "film-25-6818424614611437875",
+      "key": "film-25-6818424614611437875",
       "category": "Film",
       "label": "Film",
       "headline": "Sandra Wollner's 'Everytime' Wins Best Film in Sarajevo, Ana Urushadze Crowned Best Director",
@@ -1604,8 +1604,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-9105291741706770888",
-      "key": "film-35-9105291741706770888",
+      "id": "film-35-1714900338048697824",
+      "key": "film-35-1714900338048697824",
       "category": "Film",
       "label": "Film",
       "headline": "'So bad it's good': rough animated film becomes surprise Chinese hit - Yahoo",
@@ -1631,22 +1631,22 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-2581028911354913750",
-      "key": "music-13-2581028911354913750",
+      "id": "music-13-4694061698666924702",
+      "key": "music-13-4694061698666924702",
       "category": "Music",
       "label": "Music",
-      "headline": "Kehlani Delivers Superstar Set at Brooklyn Stop of Triumphant World Tour: 5 Best Moments",
-      "title": "Kehlani Delivers Superstar Set at Brooklyn Stop of Triumphant World Tour: 5 Best Moments",
-      "snapshot": "The Oakland R&B savant proved exactly why she's the cover star of Billboard 's 2026 R&B/Hip-Hop Power Players issue.",
-      "summary": "The Oakland R&B savant proved exactly why she's the cover star of Billboard 's 2026 R&B/Hip-Hop Power Players issue.",
-      "url": "https://www.billboard.com/lists/kehlani-brooklyn-concert-best-moments-cardi-b/",
+      "headline": "Olivia Rodrigo Drops 'Handmaid's Tale'-Inspired 'Serena Joy' as CD Single at Indie Record Store",
+      "title": "Olivia Rodrigo Drops 'Handmaid's Tale'-Inspired 'Serena Joy' as CD Single at Indie Record Store",
+      "snapshot": "A limited number of copies were available at Analog Music Shop, near the site of her upcoming Daisy Chain Fields festival in SoCal.",
+      "summary": "A limited number of copies were available at Analog Music Shop, near the site of her upcoming Daisy Chain Fields festival in SoCal.",
+      "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-serena-joy-cd-single-indie-record-store-1236322505/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-22 02:25:37 PM ET",
+      "published_at": "2026-08-22 04:10:55 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Kehlani Delivers Superstar Set at Brooklyn Stop of Triumphant World Tour: 5 Best Moments"
+        "Olivia Rodrigo Drops 'Handmaid's Tale'-Inspired 'Serena Joy' as CD Single at Indie Record Store"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1658,8 +1658,8 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-3780244214491619636",
-      "key": "gaming-3-3780244214491619636",
+      "id": "gaming-3-7304046690546674275",
+      "key": "gaming-3-7304046690546674275",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Ultra Graphics Settings Are a Scam: Why High Is Good Enough, if Not Better, for Most Players",
@@ -1711,8 +1711,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "film-0-1486362356427397779",
-          "key": "film-0-1486362356427397779",
+          "id": "film-0-6341943193451521622",
+          "key": "film-0-6341943193451521622",
           "category": "Film",
           "label": "Film",
           "headline": "‘One Battle After Another’ and ‘Marty Supreme’ Take Top Honors at Location Managers Guild International Awards",
@@ -1739,8 +1739,8 @@
           ]
         },
         {
-          "id": "film-10-1162826026995647221",
-          "key": "film-10-1162826026995647221",
+          "id": "film-10-7528041930879613465",
+          "key": "film-10-7528041930879613465",
           "category": "Film",
           "label": "Film",
           "headline": "LMGI Awards Winners: ‘One Battle After Another,’ ‘Marty Supreme,’ ‘Pluribus’ Among Location Managers Guild’s Honorees",
@@ -1767,8 +1767,8 @@
           ]
         },
         {
-          "id": "film-22-3788227836705968009",
-          "key": "film-22-3788227836705968009",
+          "id": "film-22-5421657699083683627",
+          "key": "film-22-5421657699083683627",
           "category": "Film",
           "label": "Film",
           "headline": "‘National Treasure 3’ Is “Finally Real” and “We Have a Script,” Director Says",
@@ -1795,8 +1795,8 @@
           ]
         },
         {
-          "id": "film-32-1695116805781544019",
-          "key": "film-32-1695116805781544019",
+          "id": "film-32-7606151023507674431",
+          "key": "film-32-7606151023507674431",
           "category": "Film",
           "label": "Film",
           "headline": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
@@ -1823,8 +1823,8 @@
           ]
         },
         {
-          "id": "film-1-3693503827762044301",
-          "key": "film-1-3693503827762044301",
+          "id": "film-1-2121467513076591623",
+          "key": "film-1-2121467513076591623",
           "category": "Film",
           "label": "Film",
           "headline": "‘Sentimental Value’ Sweeps Amanda Awards",
@@ -1851,8 +1851,8 @@
           ]
         },
         {
-          "id": "film-11-936145898918728775",
-          "key": "film-11-936145898918728775",
+          "id": "film-11-2962791703990473281",
+          "key": "film-11-2962791703990473281",
           "category": "Film",
           "label": "Film",
           "headline": "Kid Cudi Preparing To Film “F*ckin Gnarly” Followup To Directorial Debut ‘Doe’, Both Set For 2027",
@@ -1879,8 +1879,8 @@
           ]
         },
         {
-          "id": "film-23-3458913573372059883",
-          "key": "film-23-3458913573372059883",
+          "id": "film-23-1082643444032390923",
+          "key": "film-23-1082643444032390923",
           "category": "Film",
           "label": "Film",
           "headline": "‘Spider-Man: Brand New Day’ Swinging to Fourth Box Office Victory as It Tops ‘Insidious’ Sequel",
@@ -1907,8 +1907,8 @@
           ]
         },
         {
-          "id": "film-33-6765170397100907744",
-          "key": "film-33-6765170397100907744",
+          "id": "film-33-2459833995239949990",
+          "key": "film-33-2459833995239949990",
           "category": "Film",
           "label": "Film",
           "headline": "The Best Action Movie From Every Year in the 1990s - Mental Floss",
@@ -1937,8 +1937,8 @@
       ],
       "items": [
         {
-          "id": "film-0-1486362356427397779",
-          "key": "film-0-1486362356427397779",
+          "id": "film-0-6341943193451521622",
+          "key": "film-0-6341943193451521622",
           "category": "Film",
           "label": "Film",
           "headline": "‘One Battle After Another’ and ‘Marty Supreme’ Take Top Honors at Location Managers Guild International Awards",
@@ -1965,8 +1965,8 @@
           ]
         },
         {
-          "id": "film-10-1162826026995647221",
-          "key": "film-10-1162826026995647221",
+          "id": "film-10-7528041930879613465",
+          "key": "film-10-7528041930879613465",
           "category": "Film",
           "label": "Film",
           "headline": "LMGI Awards Winners: ‘One Battle After Another,’ ‘Marty Supreme,’ ‘Pluribus’ Among Location Managers Guild’s Honorees",
@@ -1993,8 +1993,8 @@
           ]
         },
         {
-          "id": "film-22-3788227836705968009",
-          "key": "film-22-3788227836705968009",
+          "id": "film-22-5421657699083683627",
+          "key": "film-22-5421657699083683627",
           "category": "Film",
           "label": "Film",
           "headline": "‘National Treasure 3’ Is “Finally Real” and “We Have a Script,” Director Says",
@@ -2021,8 +2021,8 @@
           ]
         },
         {
-          "id": "film-32-1695116805781544019",
-          "key": "film-32-1695116805781544019",
+          "id": "film-32-7606151023507674431",
+          "key": "film-32-7606151023507674431",
           "category": "Film",
           "label": "Film",
           "headline": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
@@ -2049,8 +2049,8 @@
           ]
         },
         {
-          "id": "film-1-3693503827762044301",
-          "key": "film-1-3693503827762044301",
+          "id": "film-1-2121467513076591623",
+          "key": "film-1-2121467513076591623",
           "category": "Film",
           "label": "Film",
           "headline": "‘Sentimental Value’ Sweeps Amanda Awards",
@@ -2077,8 +2077,8 @@
           ]
         },
         {
-          "id": "film-11-936145898918728775",
-          "key": "film-11-936145898918728775",
+          "id": "film-11-2962791703990473281",
+          "key": "film-11-2962791703990473281",
           "category": "Film",
           "label": "Film",
           "headline": "Kid Cudi Preparing To Film “F*ckin Gnarly” Followup To Directorial Debut ‘Doe’, Both Set For 2027",
@@ -2105,8 +2105,8 @@
           ]
         },
         {
-          "id": "film-23-3458913573372059883",
-          "key": "film-23-3458913573372059883",
+          "id": "film-23-1082643444032390923",
+          "key": "film-23-1082643444032390923",
           "category": "Film",
           "label": "Film",
           "headline": "‘Spider-Man: Brand New Day’ Swinging to Fourth Box Office Victory as It Tops ‘Insidious’ Sequel",
@@ -2133,8 +2133,8 @@
           ]
         },
         {
-          "id": "film-33-6765170397100907744",
-          "key": "film-33-6765170397100907744",
+          "id": "film-33-2459833995239949990",
+          "key": "film-33-2459833995239949990",
           "category": "Film",
           "label": "Film",
           "headline": "The Best Action Movie From Every Year in the 1990s - Mental Floss",
@@ -2161,7 +2161,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 02:41:22 AM ET"
+      "updated_at": "2026-08-23 03:33:24 AM ET"
     },
     {
       "key": "tv",
@@ -2188,8 +2188,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "tv-0-1791878589025110026",
-          "key": "tv-0-1791878589025110026",
+          "id": "tv-0-5018418009077781942",
+          "key": "tv-0-5018418009077781942",
           "category": "TV",
           "label": "TV",
           "headline": "Taylor Sheridan Accused of Stealing ‘Yellowstone’ From 2016 Pitch in Copyright Lawsuit",
@@ -2216,8 +2216,8 @@
           ]
         },
         {
-          "id": "tv-6-1962111947709414785",
-          "key": "tv-6-1962111947709414785",
+          "id": "tv-6-401929117618509567",
+          "key": "tv-6-401929117618509567",
           "category": "TV",
           "label": "TV",
           "headline": "Karoline Leavitt Announces Post-White House Job",
@@ -2244,8 +2244,8 @@
           ]
         },
         {
-          "id": "tv-14-7801569790743265359",
-          "key": "tv-14-7801569790743265359",
+          "id": "tv-14-5651955936945459867",
+          "key": "tv-14-5651955936945459867",
           "category": "TV",
           "label": "TV",
           "headline": "Bunny Levine, Librarian Turned Actress in ‘Gilmore Girls,’ Thelma’ and ‘You Don’t Mess With the Zohan,’ Dies at 97",
@@ -2272,8 +2272,8 @@
           ]
         },
         {
-          "id": "tv-24-7043754558755826463",
-          "key": "tv-24-7043754558755826463",
+          "id": "tv-24-1947919758918770855",
+          "key": "tv-24-1947919758918770855",
           "category": "TV",
           "label": "TV",
           "headline": "‘The Office’ star Jenna Fischer exposes the grueling reality that forced her off TV - Fox News",
@@ -2300,8 +2300,8 @@
           ]
         },
         {
-          "id": "tv-1-2945920617187344226",
-          "key": "tv-1-2945920617187344226",
+          "id": "tv-1-6850788475555847810",
+          "key": "tv-1-6850788475555847810",
           "category": "TV",
           "label": "TV",
           "headline": "How ‘Abbott Elementary’ Pulled Off Its Big Phillies Game Episode",
@@ -2328,8 +2328,8 @@
           ]
         },
         {
-          "id": "tv-7-4052235883963066334",
-          "key": "tv-7-4052235883963066334",
+          "id": "tv-7-603519709737069809",
+          "key": "tv-7-603519709737069809",
           "category": "TV",
           "label": "TV",
           "headline": "Bunny Levine Dies: Librarian Turned Actress Who Appeared In Everything From ‘Gilmore Girls’ To Adam Sandler Movies Was 97",
@@ -2356,8 +2356,8 @@
           ]
         },
         {
-          "id": "tv-15-8548311513241071882",
-          "key": "tv-15-8548311513241071882",
+          "id": "tv-15-3292821430240706043",
+          "key": "tv-15-3292821430240706043",
           "category": "TV",
           "label": "TV",
           "headline": "Meghan Markle Reportedly Dropped From Consideration to Join Guy Ritchie’s ‘The Gentlemen’",
@@ -2384,8 +2384,8 @@
           ]
         },
         {
-          "id": "tv-25-5022193147336689212",
-          "key": "tv-25-5022193147336689212",
+          "id": "tv-25-6013293728544133246",
+          "key": "tv-25-6013293728544133246",
           "category": "TV",
           "label": "TV",
           "headline": "AI Just Got Its First 24/7 TV Channel - PYMNTS.com",
@@ -2414,8 +2414,8 @@
       ],
       "items": [
         {
-          "id": "tv-0-1791878589025110026",
-          "key": "tv-0-1791878589025110026",
+          "id": "tv-0-5018418009077781942",
+          "key": "tv-0-5018418009077781942",
           "category": "TV",
           "label": "TV",
           "headline": "Taylor Sheridan Accused of Stealing ‘Yellowstone’ From 2016 Pitch in Copyright Lawsuit",
@@ -2442,8 +2442,8 @@
           ]
         },
         {
-          "id": "tv-6-1962111947709414785",
-          "key": "tv-6-1962111947709414785",
+          "id": "tv-6-401929117618509567",
+          "key": "tv-6-401929117618509567",
           "category": "TV",
           "label": "TV",
           "headline": "Karoline Leavitt Announces Post-White House Job",
@@ -2470,8 +2470,8 @@
           ]
         },
         {
-          "id": "tv-14-7801569790743265359",
-          "key": "tv-14-7801569790743265359",
+          "id": "tv-14-5651955936945459867",
+          "key": "tv-14-5651955936945459867",
           "category": "TV",
           "label": "TV",
           "headline": "Bunny Levine, Librarian Turned Actress in ‘Gilmore Girls,’ Thelma’ and ‘You Don’t Mess With the Zohan,’ Dies at 97",
@@ -2498,8 +2498,8 @@
           ]
         },
         {
-          "id": "tv-24-7043754558755826463",
-          "key": "tv-24-7043754558755826463",
+          "id": "tv-24-1947919758918770855",
+          "key": "tv-24-1947919758918770855",
           "category": "TV",
           "label": "TV",
           "headline": "‘The Office’ star Jenna Fischer exposes the grueling reality that forced her off TV - Fox News",
@@ -2526,8 +2526,8 @@
           ]
         },
         {
-          "id": "tv-1-2945920617187344226",
-          "key": "tv-1-2945920617187344226",
+          "id": "tv-1-6850788475555847810",
+          "key": "tv-1-6850788475555847810",
           "category": "TV",
           "label": "TV",
           "headline": "How ‘Abbott Elementary’ Pulled Off Its Big Phillies Game Episode",
@@ -2554,8 +2554,8 @@
           ]
         },
         {
-          "id": "tv-7-4052235883963066334",
-          "key": "tv-7-4052235883963066334",
+          "id": "tv-7-603519709737069809",
+          "key": "tv-7-603519709737069809",
           "category": "TV",
           "label": "TV",
           "headline": "Bunny Levine Dies: Librarian Turned Actress Who Appeared In Everything From ‘Gilmore Girls’ To Adam Sandler Movies Was 97",
@@ -2582,8 +2582,8 @@
           ]
         },
         {
-          "id": "tv-15-8548311513241071882",
-          "key": "tv-15-8548311513241071882",
+          "id": "tv-15-3292821430240706043",
+          "key": "tv-15-3292821430240706043",
           "category": "TV",
           "label": "TV",
           "headline": "Meghan Markle Reportedly Dropped From Consideration to Join Guy Ritchie’s ‘The Gentlemen’",
@@ -2610,8 +2610,8 @@
           ]
         },
         {
-          "id": "tv-25-5022193147336689212",
-          "key": "tv-25-5022193147336689212",
+          "id": "tv-25-6013293728544133246",
+          "key": "tv-25-6013293728544133246",
           "category": "TV",
           "label": "TV",
           "headline": "AI Just Got Its First 24/7 TV Channel - PYMNTS.com",
@@ -2638,7 +2638,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 02:41:23 AM ET"
+      "updated_at": "2026-08-23 03:33:24 AM ET"
     },
     {
       "key": "streaming",
@@ -2656,8 +2656,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "streaming-0-8551621290894334529",
-          "key": "streaming-0-8551621290894334529",
+          "id": "streaming-0-3635802366435864121",
+          "key": "streaming-0-3635802366435864121",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'Mother Mary' to 'Passenger,' 10 movies to stream right now - USA Today",
@@ -2684,8 +2684,8 @@
           ]
         },
         {
-          "id": "streaming-1-3111059293700097295",
-          "key": "streaming-1-3111059293700097295",
+          "id": "streaming-1-6310919939809505675",
+          "key": "streaming-1-6310919939809505675",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "5 best new movies to stream this weekend on Netflix, Disney+, Hulu, and more (August 15-16) - Tom's Guide",
@@ -2714,8 +2714,8 @@
       ],
       "items": [
         {
-          "id": "streaming-0-8551621290894334529",
-          "key": "streaming-0-8551621290894334529",
+          "id": "streaming-0-3635802366435864121",
+          "key": "streaming-0-3635802366435864121",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'Mother Mary' to 'Passenger,' 10 movies to stream right now - USA Today",
@@ -2742,8 +2742,8 @@
           ]
         },
         {
-          "id": "streaming-1-3111059293700097295",
-          "key": "streaming-1-3111059293700097295",
+          "id": "streaming-1-6310919939809505675",
+          "key": "streaming-1-6310919939809505675",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "5 best new movies to stream this weekend on Netflix, Disney+, Hulu, and more (August 15-16) - Tom's Guide",
@@ -2770,7 +2770,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 02:41:24 AM ET"
+      "updated_at": "2026-08-23 03:33:25 AM ET"
     },
     {
       "key": "music",
@@ -2780,23 +2780,23 @@
       "snapshot": "Music coverage is updating with 6 current RSS headline item(s).",
       "key_storylines": [
         "Dale Morris, Titan of Nashville Management Who Forged Superstar Careers for Kenny Chesney and Alabama, Dies at 89",
-        "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium",
+        "Dolly Parton Says She’s Exploring ‘Avatar Performances’",
         "Los Lobos Settles Sony Music Lawsuit Over ‘Desperado’ Movie Soundtrack Royalties - Billboard",
         "Olivia Rodrigo Releases ‘Handmaid’s Tale’-Inspired Song, ‘Serena Joy,’ in a Tiny Run of CDs, With Digital Drop to Follow",
-        "Dale Morris, Nashville Manager Who Guided Careers of Alabama & Kenny Chesney, Dies at 89"
+        "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium"
       ],
       "watch_list": [
         "Dale Morris, Titan of Nashville Management Who Forged Superstar Careers for Kenny Chesney and Alabama, Dies at 89",
-        "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium",
+        "Dolly Parton Says She’s Exploring ‘Avatar Performances’",
         "Los Lobos Settles Sony Music Lawsuit Over ‘Desperado’ Movie Soundtrack Royalties - Billboard",
         "Olivia Rodrigo Releases ‘Handmaid’s Tale’-Inspired Song, ‘Serena Joy,’ in a Tiny Run of CDs, With Digital Drop to Follow",
-        "Dale Morris, Nashville Manager Who Guided Careers of Alabama & Kenny Chesney, Dies at 89",
+        "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium",
         "R&B/Hip-Hop Power Players: Billboard’s 2026 List Revealed - Billboard"
       ],
       "homepage_cards": [
         {
-          "id": "music-0-3848119537211168572",
-          "key": "music-0-3848119537211168572",
+          "id": "music-0-2013079665061538440",
+          "key": "music-0-2013079665061538440",
           "category": "Music",
           "label": "Music",
           "headline": "Dale Morris, Titan of Nashville Management Who Forged Superstar Careers for Kenny Chesney and Alabama, Dies at 89",
@@ -2823,25 +2823,25 @@
           ]
         },
         {
-          "id": "music-10-7051109615976972839",
-          "key": "music-10-7051109615976972839",
+          "id": "music-10-7509575727495211620",
+          "key": "music-10-7509575727495211620",
           "category": "Music",
           "label": "Music",
-          "headline": "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium",
-          "title": "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium",
-          "snapshot": "The E Street Band drummer filled in for his son Jay Weinberg, who has become a recurring guest with the band.",
-          "summary": "The E Street Band drummer filled in for his son Jay Weinberg, who has become a recurring guest with the band.",
-          "url": "https://www.billboard.com/music/rock/king-gizzard-and-the-lizard-wizard-max-weinberg-1236322524/",
+          "headline": "Dolly Parton Says She’s Exploring ‘Avatar Performances’",
+          "title": "Dolly Parton Says She’s Exploring ‘Avatar Performances’",
+          "snapshot": "\"I am dealing with some health issues that I just didn't pay attention to when I was watching over Carl,\" Parton said.",
+          "summary": "\"I am dealing with some health issues that I just didn't pay attention to when I was watching over Carl,\" Parton said.",
+          "url": "https://www.billboard.com/music/country/dolly-parton-health-update-1236322526/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-23 12:26:12 AM ET",
+          "published_at": "2026-08-23 03:07:43 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium"
+            "Dolly Parton Says She’s Exploring ‘Avatar Performances’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2851,8 +2851,8 @@
           ]
         },
         {
-          "id": "music-20-3414072229891408228",
-          "key": "music-20-3414072229891408228",
+          "id": "music-20-9184640186085972592",
+          "key": "music-20-9184640186085972592",
           "category": "Music",
           "label": "Music",
           "headline": "Los Lobos Settles Sony Music Lawsuit Over ‘Desperado’ Movie Soundtrack Royalties - Billboard",
@@ -2879,8 +2879,8 @@
           ]
         },
         {
-          "id": "music-1-4035341335474846195",
-          "key": "music-1-4035341335474846195",
+          "id": "music-1-2400314587199483508",
+          "key": "music-1-2400314587199483508",
           "category": "Music",
           "label": "Music",
           "headline": "Olivia Rodrigo Releases ‘Handmaid’s Tale’-Inspired Song, ‘Serena Joy,’ in a Tiny Run of CDs, With Digital Drop to Follow",
@@ -2907,25 +2907,25 @@
           ]
         },
         {
-          "id": "music-11-1772620807204664900",
-          "key": "music-11-1772620807204664900",
+          "id": "music-11-1182748916313926212",
+          "key": "music-11-1182748916313926212",
           "category": "Music",
           "label": "Music",
-          "headline": "Dale Morris, Nashville Manager Who Guided Careers of Alabama & Kenny Chesney, Dies at 89",
-          "title": "Dale Morris, Nashville Manager Who Guided Careers of Alabama & Kenny Chesney, Dies at 89",
-          "snapshot": "The longtime Nashville manager also represented Martina McBride, Barbara Mandrell andJake Owen.",
-          "summary": "The longtime Nashville manager also represented Martina McBride, Barbara Mandrell andJake Owen.",
-          "url": "https://www.billboard.com/business/management/dale-morris-death-manager-alabama-kenny-chesney-dies-1236322517/",
+          "headline": "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium",
+          "title": "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium",
+          "snapshot": "The E Street Band drummer filled in for his son Jay Weinberg, who has become a recurring guest with the band.",
+          "summary": "The E Street Band drummer filled in for his son Jay Weinberg, who has become a recurring guest with the band.",
+          "url": "https://www.billboard.com/music/rock/king-gizzard-and-the-lizard-wizard-max-weinberg-1236322524/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-22 06:27:39 PM ET",
+          "published_at": "2026-08-23 12:26:12 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "Dale Morris, Nashville Manager Who Guided Careers of Alabama & Kenny Chesney, Dies at 89"
+            "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2935,8 +2935,8 @@
           ]
         },
         {
-          "id": "music-21-4521642165238189185",
-          "key": "music-21-4521642165238189185",
+          "id": "music-21-5056804738752613917",
+          "key": "music-21-5056804738752613917",
           "category": "Music",
           "label": "Music",
           "headline": "R&B/Hip-Hop Power Players: Billboard’s 2026 List Revealed - Billboard",
@@ -2965,8 +2965,8 @@
       ],
       "items": [
         {
-          "id": "music-0-3848119537211168572",
-          "key": "music-0-3848119537211168572",
+          "id": "music-0-2013079665061538440",
+          "key": "music-0-2013079665061538440",
           "category": "Music",
           "label": "Music",
           "headline": "Dale Morris, Titan of Nashville Management Who Forged Superstar Careers for Kenny Chesney and Alabama, Dies at 89",
@@ -2993,25 +2993,25 @@
           ]
         },
         {
-          "id": "music-10-7051109615976972839",
-          "key": "music-10-7051109615976972839",
+          "id": "music-10-7509575727495211620",
+          "key": "music-10-7509575727495211620",
           "category": "Music",
           "label": "Music",
-          "headline": "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium",
-          "title": "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium",
-          "snapshot": "The E Street Band drummer filled in for his son Jay Weinberg, who has become a recurring guest with the band.",
-          "summary": "The E Street Band drummer filled in for his son Jay Weinberg, who has become a recurring guest with the band.",
-          "url": "https://www.billboard.com/music/rock/king-gizzard-and-the-lizard-wizard-max-weinberg-1236322524/",
+          "headline": "Dolly Parton Says She’s Exploring ‘Avatar Performances’",
+          "title": "Dolly Parton Says She’s Exploring ‘Avatar Performances’",
+          "snapshot": "\"I am dealing with some health issues that I just didn't pay attention to when I was watching over Carl,\" Parton said.",
+          "summary": "\"I am dealing with some health issues that I just didn't pay attention to when I was watching over Carl,\" Parton said.",
+          "url": "https://www.billboard.com/music/country/dolly-parton-health-update-1236322526/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-23 12:26:12 AM ET",
+          "published_at": "2026-08-23 03:07:43 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium"
+            "Dolly Parton Says She’s Exploring ‘Avatar Performances’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3021,8 +3021,8 @@
           ]
         },
         {
-          "id": "music-20-3414072229891408228",
-          "key": "music-20-3414072229891408228",
+          "id": "music-20-9184640186085972592",
+          "key": "music-20-9184640186085972592",
           "category": "Music",
           "label": "Music",
           "headline": "Los Lobos Settles Sony Music Lawsuit Over ‘Desperado’ Movie Soundtrack Royalties - Billboard",
@@ -3049,8 +3049,8 @@
           ]
         },
         {
-          "id": "music-1-4035341335474846195",
-          "key": "music-1-4035341335474846195",
+          "id": "music-1-2400314587199483508",
+          "key": "music-1-2400314587199483508",
           "category": "Music",
           "label": "Music",
           "headline": "Olivia Rodrigo Releases ‘Handmaid’s Tale’-Inspired Song, ‘Serena Joy,’ in a Tiny Run of CDs, With Digital Drop to Follow",
@@ -3077,25 +3077,25 @@
           ]
         },
         {
-          "id": "music-11-1772620807204664900",
-          "key": "music-11-1772620807204664900",
+          "id": "music-11-1182748916313926212",
+          "key": "music-11-1182748916313926212",
           "category": "Music",
           "label": "Music",
-          "headline": "Dale Morris, Nashville Manager Who Guided Careers of Alabama & Kenny Chesney, Dies at 89",
-          "title": "Dale Morris, Nashville Manager Who Guided Careers of Alabama & Kenny Chesney, Dies at 89",
-          "snapshot": "The longtime Nashville manager also represented Martina McBride, Barbara Mandrell andJake Owen.",
-          "summary": "The longtime Nashville manager also represented Martina McBride, Barbara Mandrell andJake Owen.",
-          "url": "https://www.billboard.com/business/management/dale-morris-death-manager-alabama-kenny-chesney-dies-1236322517/",
+          "headline": "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium",
+          "title": "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium",
+          "snapshot": "The E Street Band drummer filled in for his son Jay Weinberg, who has become a recurring guest with the band.",
+          "summary": "The E Street Band drummer filled in for his son Jay Weinberg, who has become a recurring guest with the band.",
+          "url": "https://www.billboard.com/music/rock/king-gizzard-and-the-lizard-wizard-max-weinberg-1236322524/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-22 06:27:39 PM ET",
+          "published_at": "2026-08-23 12:26:12 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "Dale Morris, Nashville Manager Who Guided Careers of Alabama & Kenny Chesney, Dies at 89"
+            "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3105,8 +3105,8 @@
           ]
         },
         {
-          "id": "music-21-4521642165238189185",
-          "key": "music-21-4521642165238189185",
+          "id": "music-21-5056804738752613917",
+          "key": "music-21-5056804738752613917",
           "category": "Music",
           "label": "Music",
           "headline": "R&B/Hip-Hop Power Players: Billboard’s 2026 List Revealed - Billboard",
@@ -3133,7 +3133,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 02:41:25 AM ET"
+      "updated_at": "2026-08-23 03:33:26 AM ET"
     },
     {
       "key": "awards",
@@ -3155,8 +3155,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "awards-0-1020587715287709740",
-          "key": "awards-0-1020587715287709740",
+          "id": "awards-0-4635278064196052190",
+          "key": "awards-0-4635278064196052190",
           "category": "Awards",
           "label": "Awards",
           "headline": "‘Slow Horses’ Actor Jack Lowden Unpacks River Cartwright and Why Pride Gets in His Way",
@@ -3183,8 +3183,8 @@
           ]
         },
         {
-          "id": "awards-8-3528570725670707968",
-          "key": "awards-8-3528570725670707968",
+          "id": "awards-8-4408205519008473439",
+          "key": "awards-8-4408205519008473439",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar - Deadline",
@@ -3211,8 +3211,8 @@
           ]
         },
         {
-          "id": "awards-1-5582247572925637211",
-          "key": "awards-1-5582247572925637211",
+          "id": "awards-1-3437364642268943084",
+          "key": "awards-1-3437364642268943084",
           "category": "Awards",
           "label": "Awards",
           "headline": "Emmys: A Breakdown of the Music Nominees From Lady Gaga’s ‘Dead Dance’ to Hans Zimmer’s Race for His First Win",
@@ -3239,8 +3239,8 @@
           ]
         },
         {
-          "id": "awards-9-855352772300175009",
-          "key": "awards-9-855352772300175009",
+          "id": "awards-9-2153650486267047933",
+          "key": "awards-9-2153650486267047933",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026 Emmys Supporting Actor Comedy Predictions and Rankings - Yahoo",
@@ -3269,8 +3269,8 @@
       ],
       "items": [
         {
-          "id": "awards-0-1020587715287709740",
-          "key": "awards-0-1020587715287709740",
+          "id": "awards-0-4635278064196052190",
+          "key": "awards-0-4635278064196052190",
           "category": "Awards",
           "label": "Awards",
           "headline": "‘Slow Horses’ Actor Jack Lowden Unpacks River Cartwright and Why Pride Gets in His Way",
@@ -3297,8 +3297,8 @@
           ]
         },
         {
-          "id": "awards-8-3528570725670707968",
-          "key": "awards-8-3528570725670707968",
+          "id": "awards-8-4408205519008473439",
+          "key": "awards-8-4408205519008473439",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar - Deadline",
@@ -3325,8 +3325,8 @@
           ]
         },
         {
-          "id": "awards-1-5582247572925637211",
-          "key": "awards-1-5582247572925637211",
+          "id": "awards-1-3437364642268943084",
+          "key": "awards-1-3437364642268943084",
           "category": "Awards",
           "label": "Awards",
           "headline": "Emmys: A Breakdown of the Music Nominees From Lady Gaga’s ‘Dead Dance’ to Hans Zimmer’s Race for His First Win",
@@ -3353,8 +3353,8 @@
           ]
         },
         {
-          "id": "awards-9-855352772300175009",
-          "key": "awards-9-855352772300175009",
+          "id": "awards-9-2153650486267047933",
+          "key": "awards-9-2153650486267047933",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026 Emmys Supporting Actor Comedy Predictions and Rankings - Yahoo",
@@ -3381,7 +3381,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 02:41:26 AM ET"
+      "updated_at": "2026-08-23 03:33:26 AM ET"
     },
     {
       "key": "box_office",
@@ -3403,8 +3403,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "box_office-0-2825798464558784557",
-          "key": "box_office-0-2825798464558784557",
+          "id": "box_office-0-7955361694654600524",
+          "key": "box_office-0-7955361694654600524",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ Beats ‘Deadpool & Wolverine’ as Biggest R-Rated Movie of All Time With $1.35 Billion",
@@ -3431,8 +3431,8 @@
           ]
         },
         {
-          "id": "box_office-9-5675000520880654852",
-          "key": "box_office-9-5675000520880654852",
+          "id": "box_office-9-6142524026547751809",
+          "key": "box_office-9-6142524026547751809",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "13 Movies That Made 100 Times Their Budget at the Box Office - MovieMaker Magazine",
@@ -3459,8 +3459,8 @@
           ]
         },
         {
-          "id": "box_office-1-5065081897805933956",
-          "key": "box_office-1-5065081897805933956",
+          "id": "box_office-1-1272863788717692249",
+          "key": "box_office-1-1272863788717692249",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘It Finally Feels Like We’re Back in 2019’: Movie Theater Owners Rejoice Over $4 Billion Summer. Can the Fall Keep the Momentum?",
@@ -3487,8 +3487,8 @@
           ]
         },
         {
-          "id": "box_office-10-5193368916229704347",
-          "key": "box_office-10-5193368916229704347",
+          "id": "box_office-10-3303181191784122985",
+          "key": "box_office-10-3303181191784122985",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Only 64 movies have ever hit $1 billion at the box office — here they all are - Business Insider",
@@ -3517,8 +3517,8 @@
       ],
       "items": [
         {
-          "id": "box_office-0-2825798464558784557",
-          "key": "box_office-0-2825798464558784557",
+          "id": "box_office-0-7955361694654600524",
+          "key": "box_office-0-7955361694654600524",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ Beats ‘Deadpool & Wolverine’ as Biggest R-Rated Movie of All Time With $1.35 Billion",
@@ -3545,8 +3545,8 @@
           ]
         },
         {
-          "id": "box_office-9-5675000520880654852",
-          "key": "box_office-9-5675000520880654852",
+          "id": "box_office-9-6142524026547751809",
+          "key": "box_office-9-6142524026547751809",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "13 Movies That Made 100 Times Their Budget at the Box Office - MovieMaker Magazine",
@@ -3573,8 +3573,8 @@
           ]
         },
         {
-          "id": "box_office-1-5065081897805933956",
-          "key": "box_office-1-5065081897805933956",
+          "id": "box_office-1-1272863788717692249",
+          "key": "box_office-1-1272863788717692249",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘It Finally Feels Like We’re Back in 2019’: Movie Theater Owners Rejoice Over $4 Billion Summer. Can the Fall Keep the Momentum?",
@@ -3601,8 +3601,8 @@
           ]
         },
         {
-          "id": "box_office-10-5193368916229704347",
-          "key": "box_office-10-5193368916229704347",
+          "id": "box_office-10-3303181191784122985",
+          "key": "box_office-10-3303181191784122985",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Only 64 movies have ever hit $1 billion at the box office — here they all are - Business Insider",
@@ -3629,7 +3629,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 02:41:27 AM ET"
+      "updated_at": "2026-08-23 03:33:27 AM ET"
     },
     {
       "key": "celebrity",
@@ -3647,8 +3647,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "celebrity-0-4573770907024425762",
-          "key": "celebrity-0-4573770907024425762",
+          "id": "celebrity-0-2218755770665436614",
+          "key": "celebrity-0-2218755770665436614",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3675,8 +3675,8 @@
           ]
         },
         {
-          "id": "celebrity-1-9088181064762062797",
-          "key": "celebrity-1-9088181064762062797",
+          "id": "celebrity-1-5891014531480765279",
+          "key": "celebrity-1-5891014531480765279",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "PHOTOS: 2026 celebrity deaths - WTOP",
@@ -3705,8 +3705,8 @@
       ],
       "items": [
         {
-          "id": "celebrity-0-4573770907024425762",
-          "key": "celebrity-0-4573770907024425762",
+          "id": "celebrity-0-2218755770665436614",
+          "key": "celebrity-0-2218755770665436614",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3733,8 +3733,8 @@
           ]
         },
         {
-          "id": "celebrity-1-9088181064762062797",
-          "key": "celebrity-1-9088181064762062797",
+          "id": "celebrity-1-5891014531480765279",
+          "key": "celebrity-1-5891014531480765279",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "PHOTOS: 2026 celebrity deaths - WTOP",
@@ -3761,7 +3761,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 02:41:27 AM ET"
+      "updated_at": "2026-08-23 03:33:28 AM ET"
     },
     {
       "key": "hollywood",
@@ -3784,12 +3784,12 @@
         "Rolly Romero vs. Teofimo Lopez Livestream: Where to Watch the Welterweight Pay-Per-View Match Online",
         "Sony Double Feature At The B.O.: ‘Spider-Man: Brand New Day’ $36M+, ‘Insidious 6’ $23M+ Opening – Saturday AM Update",
         "‘Spa Weekend’ Review: Leslie Mann and Isla Fisher Go Underserved in a Lukewarm Bath of a Comedy",
-        "The Hollywood Dissidents Rebuilding the Entertainment Industry from the Inside - IW Features"
+        "The Massive Moviemaking Exodus from Hollywood - Politico"
       ],
       "homepage_cards": [
         {
-          "id": "hollywood-0-7880437801898493856",
-          "key": "hollywood-0-7880437801898493856",
+          "id": "hollywood-0-2578364094056660861",
+          "key": "hollywood-0-2578364094056660861",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "HBO Max Is Free Right Now For 7 Days With This Prime Video Promo",
@@ -3816,8 +3816,8 @@
           ]
         },
         {
-          "id": "hollywood-2-897676465285673640",
-          "key": "hollywood-2-897676465285673640",
+          "id": "hollywood-2-8991774141802906738",
+          "key": "hollywood-2-8991774141802906738",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Simon Wiesenthal Center CEO Calls Out Mark Ruffalo For “Antisemitism” & “Demonization”",
@@ -3844,8 +3844,8 @@
           ]
         },
         {
-          "id": "hollywood-4-6368609184897703086",
-          "key": "hollywood-4-6368609184897703086",
+          "id": "hollywood-4-8867606262212029217",
+          "key": "hollywood-4-8867606262212029217",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Taylor Sheridan Accused of Stealing ‘Yellowstone’ Idea From TV Writer’s Pitch",
@@ -3872,8 +3872,8 @@
           ]
         },
         {
-          "id": "hollywood-9-7524823925283241965",
-          "key": "hollywood-9-7524823925283241965",
+          "id": "hollywood-9-4478550945491042224",
+          "key": "hollywood-9-4478550945491042224",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "How L.A. stopped being Hollywood’s leading star - Los Angeles Times",
@@ -3900,8 +3900,8 @@
           ]
         },
         {
-          "id": "hollywood-1-729298712692445888",
-          "key": "hollywood-1-729298712692445888",
+          "id": "hollywood-1-2981715606755417756",
+          "key": "hollywood-1-2981715606755417756",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Rolly Romero vs. Teofimo Lopez Livestream: Where to Watch the Welterweight Pay-Per-View Match Online",
@@ -3928,8 +3928,8 @@
           ]
         },
         {
-          "id": "hollywood-3-1082528065132297618",
-          "key": "hollywood-3-1082528065132297618",
+          "id": "hollywood-3-844491424981024842",
+          "key": "hollywood-3-844491424981024842",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Sony Double Feature At The B.O.: ‘Spider-Man: Brand New Day’ $36M+, ‘Insidious 6’ $23M+ Opening – Saturday AM Update",
@@ -3956,8 +3956,8 @@
           ]
         },
         {
-          "id": "hollywood-5-1985308372381631436",
-          "key": "hollywood-5-1985308372381631436",
+          "id": "hollywood-5-8331161880188341887",
+          "key": "hollywood-5-8331161880188341887",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘Spa Weekend’ Review: Leslie Mann and Isla Fisher Go Underserved in a Lukewarm Bath of a Comedy",
@@ -3984,25 +3984,25 @@
           ]
         },
         {
-          "id": "hollywood-10-3534599844555307416",
-          "key": "hollywood-10-3534599844555307416",
+          "id": "hollywood-10-2672372954499916839",
+          "key": "hollywood-10-2672372954499916839",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "The Hollywood Dissidents Rebuilding the Entertainment Industry from the Inside - IW Features",
-          "title": "The Hollywood Dissidents Rebuilding the Entertainment Industry from the Inside - IW Features",
-          "snapshot": "The Hollywood Dissidents Rebuilding the Entertainment Industry from the Inside IW Features",
-          "summary": "The Hollywood Dissidents Rebuilding the Entertainment Industry from the Inside IW Features",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX2tadFNqRnA1cnU2WUFlZTBxUWRXTlNaMVktWVJvY1RTQlItelFZU3BNMGxRdmoyS0VYcWxxaHotZk9HdXJrTFZZeC1QeS1DYnlCSHZqNW81aE1icTFIZ3hzaFJjQWxzOTNqN3RRWjZNcTQtSXUxeEEwVkU1T09SeDRiUjZDQTFsMDlvd3dpTFF3aklDcC1XbEZYcmUzMUdzYkFOM3VEWl90TC1ibEVFQ3ZwdDg?oc=5",
+          "headline": "The Massive Moviemaking Exodus from Hollywood - Politico",
+          "title": "The Massive Moviemaking Exodus from Hollywood - Politico",
+          "snapshot": "The Massive Moviemaking Exodus from Hollywood Politico",
+          "summary": "The Massive Moviemaking Exodus from Hollywood Politico",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOVQxVUxodDg5a0hQbEFPNUExZ1h6cldqdWJ6VXByeGx3MmRYYnN2Vmhsa0cxT0VPcTJhUU9OZFRNdFFqdEs0bEdBU2VjcFlBa1lROWd5TzhkemdWeG5PUkhkcW80YTV2em5jN1B2V3U3NGR0dnlsZS1JQllfQkdrRTU4RVgxbGNpbk44bklZd2V5dTJIaFFycEhielZCRWFTWTVyRGpwYWE?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-19 09:01:14 AM ET",
+          "published_at": "2026-08-16 07:00:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "The Hollywood Dissidents Rebuilding the Entertainment Industry from the Inside - IW Features"
+            "The Massive Moviemaking Exodus from Hollywood - Politico"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4014,8 +4014,8 @@
       ],
       "items": [
         {
-          "id": "hollywood-0-7880437801898493856",
-          "key": "hollywood-0-7880437801898493856",
+          "id": "hollywood-0-2578364094056660861",
+          "key": "hollywood-0-2578364094056660861",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "HBO Max Is Free Right Now For 7 Days With This Prime Video Promo",
@@ -4042,8 +4042,8 @@
           ]
         },
         {
-          "id": "hollywood-2-897676465285673640",
-          "key": "hollywood-2-897676465285673640",
+          "id": "hollywood-2-8991774141802906738",
+          "key": "hollywood-2-8991774141802906738",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Simon Wiesenthal Center CEO Calls Out Mark Ruffalo For “Antisemitism” & “Demonization”",
@@ -4070,8 +4070,8 @@
           ]
         },
         {
-          "id": "hollywood-4-6368609184897703086",
-          "key": "hollywood-4-6368609184897703086",
+          "id": "hollywood-4-8867606262212029217",
+          "key": "hollywood-4-8867606262212029217",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Taylor Sheridan Accused of Stealing ‘Yellowstone’ Idea From TV Writer’s Pitch",
@@ -4098,8 +4098,8 @@
           ]
         },
         {
-          "id": "hollywood-9-7524823925283241965",
-          "key": "hollywood-9-7524823925283241965",
+          "id": "hollywood-9-4478550945491042224",
+          "key": "hollywood-9-4478550945491042224",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "How L.A. stopped being Hollywood’s leading star - Los Angeles Times",
@@ -4126,8 +4126,8 @@
           ]
         },
         {
-          "id": "hollywood-1-729298712692445888",
-          "key": "hollywood-1-729298712692445888",
+          "id": "hollywood-1-2981715606755417756",
+          "key": "hollywood-1-2981715606755417756",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Rolly Romero vs. Teofimo Lopez Livestream: Where to Watch the Welterweight Pay-Per-View Match Online",
@@ -4154,8 +4154,8 @@
           ]
         },
         {
-          "id": "hollywood-3-1082528065132297618",
-          "key": "hollywood-3-1082528065132297618",
+          "id": "hollywood-3-844491424981024842",
+          "key": "hollywood-3-844491424981024842",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Sony Double Feature At The B.O.: ‘Spider-Man: Brand New Day’ $36M+, ‘Insidious 6’ $23M+ Opening – Saturday AM Update",
@@ -4182,8 +4182,8 @@
           ]
         },
         {
-          "id": "hollywood-5-1985308372381631436",
-          "key": "hollywood-5-1985308372381631436",
+          "id": "hollywood-5-8331161880188341887",
+          "key": "hollywood-5-8331161880188341887",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘Spa Weekend’ Review: Leslie Mann and Isla Fisher Go Underserved in a Lukewarm Bath of a Comedy",
@@ -4210,25 +4210,25 @@
           ]
         },
         {
-          "id": "hollywood-10-3534599844555307416",
-          "key": "hollywood-10-3534599844555307416",
+          "id": "hollywood-10-2672372954499916839",
+          "key": "hollywood-10-2672372954499916839",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "The Hollywood Dissidents Rebuilding the Entertainment Industry from the Inside - IW Features",
-          "title": "The Hollywood Dissidents Rebuilding the Entertainment Industry from the Inside - IW Features",
-          "snapshot": "The Hollywood Dissidents Rebuilding the Entertainment Industry from the Inside IW Features",
-          "summary": "The Hollywood Dissidents Rebuilding the Entertainment Industry from the Inside IW Features",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX2tadFNqRnA1cnU2WUFlZTBxUWRXTlNaMVktWVJvY1RTQlItelFZU3BNMGxRdmoyS0VYcWxxaHotZk9HdXJrTFZZeC1QeS1DYnlCSHZqNW81aE1icTFIZ3hzaFJjQWxzOTNqN3RRWjZNcTQtSXUxeEEwVkU1T09SeDRiUjZDQTFsMDlvd3dpTFF3aklDcC1XbEZYcmUzMUdzYkFOM3VEWl90TC1ibEVFQ3ZwdDg?oc=5",
+          "headline": "The Massive Moviemaking Exodus from Hollywood - Politico",
+          "title": "The Massive Moviemaking Exodus from Hollywood - Politico",
+          "snapshot": "The Massive Moviemaking Exodus from Hollywood Politico",
+          "summary": "The Massive Moviemaking Exodus from Hollywood Politico",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOVQxVUxodDg5a0hQbEFPNUExZ1h6cldqdWJ6VXByeGx3MmRYYnN2Vmhsa0cxT0VPcTJhUU9OZFRNdFFqdEs0bEdBU2VjcFlBa1lROWd5TzhkemdWeG5PUkhkcW80YTV2em5jN1B2V3U3NGR0dnlsZS1JQllfQkdrRTU4RVgxbGNpbk44bklZd2V5dTJIaFFycEhielZCRWFTWTVyRGpwYWE?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-19 09:01:14 AM ET",
+          "published_at": "2026-08-16 07:00:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "The Hollywood Dissidents Rebuilding the Entertainment Industry from the Inside - IW Features"
+            "The Massive Moviemaking Exodus from Hollywood - Politico"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4238,7 +4238,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 02:41:28 AM ET"
+      "updated_at": "2026-08-23 03:33:28 AM ET"
     },
     {
       "key": "gaming",
@@ -4256,8 +4256,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "gaming-0-5854534763468063394",
-          "key": "gaming-0-5854534763468063394",
+          "id": "gaming-0-6563507601465432615",
+          "key": "gaming-0-6563507601465432615",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "GTA 6 Leaker Releases More Gameplay Videos Despite Rockstar Owner Take-Two's Microsoft and Discord Subpoenas",
@@ -4284,8 +4284,8 @@
           ]
         },
         {
-          "id": "gaming-1-1658082816899071579",
-          "key": "gaming-1-1658082816899071579",
+          "id": "gaming-1-3297409176795870525",
+          "key": "gaming-1-3297409176795870525",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "The Best Deals Today: Nintendo Switch 2, LEGO Tropical Aquarium, Final Fantasy VII Rebirth, and More",
@@ -4314,8 +4314,8 @@
       ],
       "items": [
         {
-          "id": "gaming-0-5854534763468063394",
-          "key": "gaming-0-5854534763468063394",
+          "id": "gaming-0-6563507601465432615",
+          "key": "gaming-0-6563507601465432615",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "GTA 6 Leaker Releases More Gameplay Videos Despite Rockstar Owner Take-Two's Microsoft and Discord Subpoenas",
@@ -4342,8 +4342,8 @@
           ]
         },
         {
-          "id": "gaming-1-1658082816899071579",
-          "key": "gaming-1-1658082816899071579",
+          "id": "gaming-1-3297409176795870525",
+          "key": "gaming-1-3297409176795870525",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "The Best Deals Today: Nintendo Switch 2, LEGO Tropical Aquarium, Final Fantasy VII Rebirth, and More",
@@ -4370,7 +4370,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 02:41:29 AM ET"
+      "updated_at": "2026-08-23 03:33:29 AM ET"
     },
     {
       "key": "media",
@@ -4395,8 +4395,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "media-0-7132664640043902496",
-          "key": "media-0-7132664640043902496",
+          "id": "media-0-975717557879793897",
+          "key": "media-0-975717557879793897",
           "category": "Media",
           "label": "Media",
           "headline": "Secret Hollywood Group’s AI Plan Focuses on Defining How AI Is Used — While Keeping Humans in Control",
@@ -4423,8 +4423,8 @@
           ]
         },
         {
-          "id": "media-10-4146317217965435405",
-          "key": "media-10-4146317217965435405",
+          "id": "media-10-4551842455085724109",
+          "key": "media-10-4551842455085724109",
           "category": "Media",
           "label": "Media",
           "headline": "TikTok To Pay $400M In Justice Department Settlement Over Children’s Privacy",
@@ -4451,8 +4451,8 @@
           ]
         },
         {
-          "id": "media-19-7972979148045498035",
-          "key": "media-19-7972979148045498035",
+          "id": "media-19-2669801782435081893",
+          "key": "media-19-2669801782435081893",
           "category": "Media",
           "label": "Media",
           "headline": "SNK Entertainment dissolved after 10 years. Most of its businesses transferred to parent company SNK - AUTOMATON",
@@ -4479,8 +4479,8 @@
           ]
         },
         {
-          "id": "media-1-2137429442807788302",
-          "key": "media-1-2137429442807788302",
+          "id": "media-1-4481332417356216216",
+          "key": "media-1-4481332417356216216",
           "category": "Media",
           "label": "Media",
           "headline": "Vertical Media on Track to Generate $150 Billion in 2026 as the Booming Sector Fights Crowded Content Field and High Subscriber Acquisition Costs",
@@ -4507,8 +4507,8 @@
           ]
         },
         {
-          "id": "media-11-1292702136676162053",
-          "key": "media-11-1292702136676162053",
+          "id": "media-11-5904079316953038695",
+          "key": "media-11-5904079316953038695",
           "category": "Media",
           "label": "Media",
           "headline": "Paramount Accuses Mark Ruffalo Of Being “Antisemitic” After He Slams Ellisons’ Ties To Oracle, Calling Them “Really Profoundly Scary People”",
@@ -4535,8 +4535,8 @@
           ]
         },
         {
-          "id": "media-20-3861542709312450610",
-          "key": "media-20-3861542709312450610",
+          "id": "media-20-6250197162263644982",
+          "key": "media-20-6250197162263644982",
           "category": "Media",
           "label": "Media",
           "headline": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
@@ -4565,8 +4565,8 @@
       ],
       "items": [
         {
-          "id": "media-0-7132664640043902496",
-          "key": "media-0-7132664640043902496",
+          "id": "media-0-975717557879793897",
+          "key": "media-0-975717557879793897",
           "category": "Media",
           "label": "Media",
           "headline": "Secret Hollywood Group’s AI Plan Focuses on Defining How AI Is Used — While Keeping Humans in Control",
@@ -4593,8 +4593,8 @@
           ]
         },
         {
-          "id": "media-10-4146317217965435405",
-          "key": "media-10-4146317217965435405",
+          "id": "media-10-4551842455085724109",
+          "key": "media-10-4551842455085724109",
           "category": "Media",
           "label": "Media",
           "headline": "TikTok To Pay $400M In Justice Department Settlement Over Children’s Privacy",
@@ -4621,8 +4621,8 @@
           ]
         },
         {
-          "id": "media-19-7972979148045498035",
-          "key": "media-19-7972979148045498035",
+          "id": "media-19-2669801782435081893",
+          "key": "media-19-2669801782435081893",
           "category": "Media",
           "label": "Media",
           "headline": "SNK Entertainment dissolved after 10 years. Most of its businesses transferred to parent company SNK - AUTOMATON",
@@ -4649,8 +4649,8 @@
           ]
         },
         {
-          "id": "media-1-2137429442807788302",
-          "key": "media-1-2137429442807788302",
+          "id": "media-1-4481332417356216216",
+          "key": "media-1-4481332417356216216",
           "category": "Media",
           "label": "Media",
           "headline": "Vertical Media on Track to Generate $150 Billion in 2026 as the Booming Sector Fights Crowded Content Field and High Subscriber Acquisition Costs",
@@ -4677,8 +4677,8 @@
           ]
         },
         {
-          "id": "media-11-1292702136676162053",
-          "key": "media-11-1292702136676162053",
+          "id": "media-11-5904079316953038695",
+          "key": "media-11-5904079316953038695",
           "category": "Media",
           "label": "Media",
           "headline": "Paramount Accuses Mark Ruffalo Of Being “Antisemitic” After He Slams Ellisons’ Ties To Oracle, Calling Them “Really Profoundly Scary People”",
@@ -4705,8 +4705,8 @@
           ]
         },
         {
-          "id": "media-20-3861542709312450610",
-          "key": "media-20-3861542709312450610",
+          "id": "media-20-6250197162263644982",
+          "key": "media-20-6250197162263644982",
           "category": "Media",
           "label": "Media",
           "headline": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
@@ -4733,7 +4733,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 02:41:30 AM ET"
+      "updated_at": "2026-08-23 03:33:30 AM ET"
     }
   ]
 }
