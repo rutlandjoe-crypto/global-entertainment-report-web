@@ -4,16 +4,16 @@
   "site_name": "Global Entertainment Report",
   "vertical": "Entertainment",
   "headline": "'Boorman and the Devil' Review: The Making of John Boorman's 1977 Disaster 'Exorcist II: The Heretic' Becomes a Documentary So Unbelievable It's Funny",
-  "snapshot": "Global Entertainment Report accepted 49 real RSS item(s) across 31 checked feed request(s).",
-  "generated_at": "2026-08-23 07:21:30 PM ET",
-  "updated_at": "2026-08-23 07:21:30 PM ET",
-  "published_at": "2026-08-23 07:21:30 PM ET",
+  "snapshot": "Global Entertainment Report accepted 48 real RSS item(s) across 31 checked feed request(s).",
+  "generated_at": "2026-08-23 09:20:26 PM ET",
+  "updated_at": "2026-08-23 09:20:26 PM ET",
+  "published_at": "2026-08-23 09:20:26 PM ET",
   "source_mode": "live RSS ingestion",
   "freshness": {
     "max_item_age_hours": 336,
-    "accepted_real_items": 49,
+    "accepted_real_items": 48,
     "checked_feeds": 31,
-    "feeds_without_accepted_items": 6
+    "feeds_without_accepted_items": 7
   },
   "feed_audit": [
     {
@@ -163,9 +163,9 @@
       "final_url": "https://news.google.com/rss/search?q=music+entertainment+billboard&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 94,
+      "rejected_count": 95,
       "rejection_reasons": {
-        "stale-over-336h": 94
+        "stale-over-336h": 95
       }
     },
     {
@@ -256,11 +256,11 @@
       "url": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
-      "item_count": 93,
+      "item_count": 91,
       "accepted_count": 2,
-      "rejected_count": 88,
+      "rejected_count": 86,
       "rejection_reasons": {
-        "stale-over-336h": 88
+        "stale-over-336h": 86
       }
     },
     {
@@ -282,9 +282,9 @@
       "final_url": "https://deadline.com/feed/",
       "item_count": 12,
       "accepted_count": 2,
-      "rejected_count": 7,
+      "rejected_count": 6,
       "rejection_reasons": {
-        "duplicate-story": 7
+        "duplicate-story": 6
       }
     },
     {
@@ -326,11 +326,11 @@
       "url": "https://news.google.com/rss/search?q=gaming+video+games+entertainment&hl=en-US&gl=US&ceid=US:en",
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=gaming+video+games+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "item_count": 35,
-      "accepted_count": 1,
-      "rejected_count": 34,
+      "item_count": 100,
+      "accepted_count": 0,
+      "rejected_count": 100,
       "rejection_reasons": {
-        "stale-over-336h": 34
+        "stale-over-336h": 100
       }
     },
     {
@@ -350,9 +350,9 @@
       "final_url": "https://deadline.com/v/business/feed/",
       "item_count": 12,
       "accepted_count": 2,
-      "rejected_count": 2,
+      "rejected_count": 1,
       "rejection_reasons": {
-        "duplicate-story": 2
+        "duplicate-story": 1
       }
     },
     {
@@ -376,15 +376,15 @@
     "Shelley Fabares Dead: 'The Donna Reed Show' Star & Elvis Leading Lady Was 82",
     "Anna Paquin and Melissa Gilbert Call for Protection of Child Actors After Hayden Panettiere's Death: \"Where Is the Collective Outrage?\"",
     "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
-    "Fans Choose ENHYPEN's 'THE SIN : BLISS' as This Week's Favorite New Music",
+    "QMusic Confirms Kristy Ellis as New CEO",
     "Marvel's Wolverine Limited-Edition PS5 Controller Is Still Available for Preorder (But It May Sell Out)",
     "Mark Ruffalo Called Out Over 'Extremist and Antisemitic Messaging' by Simon Wiesenthal Center, Creative Communities For Peace",
     "Anthony Bourdain Biopic 'Tony' Sizzling At $5M Weekend, No. 7 Spot - Specialty Box Office"
   ],
   "live_newsroom": [
     {
-      "id": "film-0-4520522941755885562",
-      "key": "film-0-4520522941755885562",
+      "id": "film-0-8883170475229748228",
+      "key": "film-0-8883170475229748228",
       "category": "Film",
       "label": "Film",
       "headline": "'Boorman and the Devil' Review: The Making of John Boorman's 1977 Disaster 'Exorcist II: The Heretic' Becomes a Documentary So Unbelievable It's Funny",
@@ -410,8 +410,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-6044275225923181255",
-      "key": "film-10-6044275225923181255",
+      "id": "film-10-4030331756775043620",
+      "key": "film-10-4030331756775043620",
       "category": "Film",
       "label": "Film",
       "headline": "Shelley Fabares Dead: 'The Donna Reed Show' Star & Elvis Leading Lady Was 82",
@@ -437,8 +437,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-9132740992438084933",
-      "key": "film-22-9132740992438084933",
+      "id": "film-22-6515772641246931211",
+      "key": "film-22-6515772641246931211",
       "category": "Film",
       "label": "Film",
       "headline": "Anna Paquin and Melissa Gilbert Call for Protection of Child Actors After Hayden Panettiere's Death: \"Where Is the Collective Outrage?\"",
@@ -464,8 +464,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-7310894522899565305",
-      "key": "film-32-7310894522899565305",
+      "id": "film-32-6396951734388284967",
+      "key": "film-32-6396951734388284967",
       "category": "Film",
       "label": "Film",
       "headline": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
@@ -491,22 +491,22 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-1858823313274085322",
-      "key": "music-10-1858823313274085322",
+      "id": "music-10-3901693640535909709",
+      "key": "music-10-3901693640535909709",
       "category": "Music",
       "label": "Music",
-      "headline": "Fans Choose ENHYPEN's 'THE SIN : BLISS' as This Week's Favorite New Music",
-      "title": "Fans Choose ENHYPEN's 'THE SIN : BLISS' as This Week's Favorite New Music",
-      "snapshot": "The K-pop heavyweights' eighth mini album brought in nearly 73% of the vote.",
-      "summary": "The K-pop heavyweights' eighth mini album brought in nearly 73% of the vote.",
-      "url": "https://www.billboard.com/music/pop/enhypen-the-sin-bliss-best-new-music-poll-results-1236322619/",
+      "headline": "QMusic Confirms Kristy Ellis as New CEO",
+      "title": "QMusic Confirms Kristy Ellis as New CEO",
+      "snapshot": "Ellis, who was appointed interim CEO of the trade body in April, steps into the position on a permanent basis, following a nationwide recruitment process.",
+      "summary": "Ellis, who was appointed interim CEO of the trade body in April, steps into the position on a permanent basis, following a nationwide recruitment process.",
+      "url": "https://www.billboard.com/pro/qmusic-appoints-kristy-ellis-new-ceo/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-23 06:02:17 PM ET",
+      "published_at": "2026-08-23 09:00:00 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Fans Choose ENHYPEN's 'THE SIN : BLISS' as This Week's Favorite New Music"
+        "QMusic Confirms Kristy Ellis as New CEO"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -518,8 +518,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-2978055078516947878",
-      "key": "gaming-0-2978055078516947878",
+      "id": "gaming-0-4450876839547800220",
+      "key": "gaming-0-4450876839547800220",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Marvel's Wolverine Limited-Edition PS5 Controller Is Still Available for Preorder (But It May Sell Out)",
@@ -545,8 +545,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-2578517107498051545",
-      "key": "film-1-2578517107498051545",
+      "id": "film-1-6414255764065029169",
+      "key": "film-1-6414255764065029169",
       "category": "Film",
       "label": "Film",
       "headline": "Mark Ruffalo Called Out Over 'Extremist and Antisemitic Messaging' by Simon Wiesenthal Center, Creative Communities For Peace",
@@ -572,8 +572,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-5976752753572574630",
-      "key": "film-11-5976752753572574630",
+      "id": "film-11-4659983706492143854",
+      "key": "film-11-4659983706492143854",
       "category": "Film",
       "label": "Film",
       "headline": "Anthony Bourdain Biopic 'Tony' Sizzling At $5M Weekend, No. 7 Spot - Specialty Box Office",
@@ -599,8 +599,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-5491449176551789485",
-      "key": "film-23-5491449176551789485",
+      "id": "film-23-4706861420964236977",
+      "key": "film-23-4706861420964236977",
       "category": "Film",
       "label": "Film",
       "headline": "'Spider-Man: Brand New Day' Hits No. 6 All-Time Globally as It Swings to Fourth Box Office Victory",
@@ -626,8 +626,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-8444433156386057400",
-      "key": "film-33-8444433156386057400",
+      "id": "film-33-1557682884696100559",
+      "key": "film-33-1557682884696100559",
       "category": "Film",
       "label": "Film",
       "headline": "The Best Action Movie From Every Year in the 1990s - Mental Floss",
@@ -653,22 +653,22 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-3519861048256349010",
-      "key": "music-11-3519861048256349010",
+      "id": "music-11-4331152112232187544",
+      "key": "music-11-4331152112232187544",
       "category": "Music",
       "label": "Music",
-      "headline": "These $32 Running Headphones Light Up at Night to Keep You Safe On Your Evening Walk or Run",
-      "title": "These $32 Running Headphones Light Up at Night to Keep You Safe On Your Evening Walk or Run",
-      "snapshot": "The HAKII Light 2 headphones feature a light up headband that emits a bright green glow to keep you visible in dark conditions.",
-      "summary": "The HAKII Light 2 headphones feature a light up headband that emits a bright green glow to keep you visible in dark conditions.",
-      "url": "https://www.billboard.com/culture/product-recommendations/best-light-up-wireless-headphones-for-safe-evening-run-walk-1236321918/",
+      "headline": "Fans Choose ENHYPEN's 'THE SIN : BLISS' as This Week's Favorite New Music",
+      "title": "Fans Choose ENHYPEN's 'THE SIN : BLISS' as This Week's Favorite New Music",
+      "snapshot": "The K-pop heavyweights' eighth mini album brought in nearly 73% of the vote.",
+      "summary": "The K-pop heavyweights' eighth mini album brought in nearly 73% of the vote.",
+      "url": "https://www.billboard.com/music/pop/enhypen-the-sin-bliss-best-new-music-poll-results-1236322619/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-23 04:54:22 PM ET",
+      "published_at": "2026-08-23 06:02:17 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "These $32 Running Headphones Light Up at Night to Keep You Safe On Your Evening Walk or Run"
+        "Fans Choose ENHYPEN's 'THE SIN : BLISS' as This Week's Favorite New Music"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -680,8 +680,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-1106721565749399087",
-      "key": "gaming-1-1106721565749399087",
+      "id": "gaming-1-7598281443078433924",
+      "key": "gaming-1-7598281443078433924",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "[UPDATE] GTA 6 Leaker Shows No Sign of Slowing Down as Ninth Gameplay Video Hits the Internet",
@@ -709,8 +709,8 @@
   ],
   "editor_signals": [
     {
-      "id": "film-2-5410488348784015184",
-      "key": "film-2-5410488348784015184",
+      "id": "film-2-7867607422484687789",
+      "key": "film-2-7867607422484687789",
       "category": "Film",
       "label": "Film",
       "headline": "Ridley Scott Says 'I'm Not a Filmmaker, I'm an Influencer'",
@@ -736,8 +736,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-945927002417007392",
-      "key": "film-12-945927002417007392",
+      "id": "film-12-5899866838059269832",
+      "key": "film-12-5899866838059269832",
       "category": "Film",
       "label": "Film",
       "headline": "Will Forte, Lana Condor \"Had Hope\" For 'Coyote vs. Acme' Release After \"Freakin' Awesome\" Funeral Screening",
@@ -763,8 +763,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-5358006527941354939",
-      "key": "film-24-5358006527941354939",
+      "id": "film-24-813920646883103962",
+      "key": "film-24-813920646883103962",
       "category": "Film",
       "label": "Film",
       "headline": "Nick Glennie-Smith, Composer on 'The Rock,' 'The Man in the Iron Mask' and 'Secretariat,' Dies at 74",
@@ -790,8 +790,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-5674469799779933430",
-      "key": "film-34-5674469799779933430",
+      "id": "film-34-3327623655313904422",
+      "key": "film-34-3327623655313904422",
       "category": "Film",
       "label": "Film",
       "headline": "Every Steven Spielberg movie, ranked from worst to best - Entertainment Weekly",
@@ -817,22 +817,22 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-3424985445290642779",
-      "key": "music-12-3424985445290642779",
+      "id": "music-12-9056013036937045347",
+      "key": "music-12-9056013036937045347",
       "category": "Music",
       "label": "Music",
-      "headline": "Here's What Dr. Dre Really Thinks About AI in Music",
-      "title": "Here's What Dr. Dre Really Thinks About AI in Music",
-      "snapshot": "The legendary producer's perspective may come as a surprise.",
-      "summary": "The legendary producer's perspective may come as a surprise.",
-      "url": "https://www.billboard.com/music/music-news/dr-dre-ai-music-1236322613/",
+      "headline": "These $32 Running Headphones Light Up at Night to Keep You Safe On Your Evening Walk or Run",
+      "title": "These $32 Running Headphones Light Up at Night to Keep You Safe On Your Evening Walk or Run",
+      "snapshot": "The HAKII Light 2 headphones feature a light up headband that emits a bright green glow to keep you visible in dark conditions.",
+      "summary": "The HAKII Light 2 headphones feature a light up headband that emits a bright green glow to keep you visible in dark conditions.",
+      "url": "https://www.billboard.com/culture/product-recommendations/best-light-up-wireless-headphones-for-safe-evening-run-walk-1236321918/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-23 04:47:44 PM ET",
+      "published_at": "2026-08-23 04:54:22 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Here's What Dr. Dre Really Thinks About AI in Music"
+        "These $32 Running Headphones Light Up at Night to Keep You Safe On Your Evening Walk or Run"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -844,8 +844,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-7467973731626031645",
-      "key": "gaming-2-7467973731626031645",
+      "id": "gaming-2-1175838034334912566",
+      "key": "gaming-2-1175838034334912566",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The Best Deals Today: Nintendo Switch 2, LEGO Tropical Aquarium, Final Fantasy VII Rebirth, and More",
@@ -871,8 +871,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-7515477451055173632",
-      "key": "film-3-7515477451055173632",
+      "id": "film-3-3327315118631932060",
+      "key": "film-3-3327315118631932060",
       "category": "Film",
       "label": "Film",
       "headline": "Grace Passô's 'Our Secret' Nabs the Best Film Kikito at the 54th Gramado Film Festival",
@@ -898,8 +898,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-3499399162179389807",
-      "key": "film-13-3499399162179389807",
+      "id": "film-13-7554185391303334370",
+      "key": "film-13-7554185391303334370",
       "category": "Film",
       "label": "Film",
       "headline": "2026 Domestic Box Office Soars Past $7 Billion, +20% Over 2025",
@@ -925,8 +925,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-3874612724539764535",
-      "key": "film-25-3874612724539764535",
+      "id": "film-25-4169207276746160501",
+      "key": "film-25-4169207276746160501",
       "category": "Film",
       "label": "Film",
       "headline": "Charlize Theron Reflects on 'Mad Max: Fury Road' a Decade Later: \"There's a Deep Connection to This Film\"",
@@ -952,8 +952,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-4401864813326670372",
-      "key": "film-35-4401864813326670372",
+      "id": "film-35-5918502804708250635",
+      "key": "film-35-5918502804708250635",
       "category": "Film",
       "label": "Film",
       "headline": "'So bad it's good': rough animated film becomes surprise Chinese hit - Yahoo",
@@ -979,22 +979,22 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-5721955375767221057",
-      "key": "music-13-5721955375767221057",
+      "id": "music-13-9118632929383367712",
+      "key": "music-13-9118632929383367712",
       "category": "Music",
       "label": "Music",
-      "headline": "Drake's Appearance at Ella Langley's Show Has Fans Wondering About a Collab",
-      "title": "Drake's Appearance at Ella Langley's Show Has Fans Wondering About a Collab",
-      "snapshot": "Drizzy recently praised the country star on social media.",
-      "summary": "Drizzy recently praised the country star on social media.",
-      "url": "https://www.billboard.com/music/music-news/drake-ella-langley-concert-collab-rumors-choosin-texas-1236322570/",
+      "headline": "Here's What Dr. Dre Really Thinks About AI in Music",
+      "title": "Here's What Dr. Dre Really Thinks About AI in Music",
+      "snapshot": "The legendary producer's perspective may come as a surprise.",
+      "summary": "The legendary producer's perspective may come as a surprise.",
+      "url": "https://www.billboard.com/music/music-news/dr-dre-ai-music-1236322613/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-23 03:14:25 PM ET",
+      "published_at": "2026-08-23 04:47:44 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Drake's Appearance at Ella Langley's Show Has Fans Wondering About a Collab"
+        "Here's What Dr. Dre Really Thinks About AI in Music"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1006,8 +1006,8 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-5000706267675416575",
-      "key": "gaming-3-5000706267675416575",
+      "id": "gaming-3-6980681743053639621",
+      "key": "gaming-3-6980681743053639621",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Metal Gear Solid 4: The Flawed Masterpiece Kojima Didn't Want to Make",
@@ -1035,8 +1035,8 @@
   ],
   "homepage_cards": [
     {
-      "id": "film-0-4520522941755885562",
-      "key": "film-0-4520522941755885562",
+      "id": "film-0-8883170475229748228",
+      "key": "film-0-8883170475229748228",
       "category": "Film",
       "label": "Film",
       "headline": "'Boorman and the Devil' Review: The Making of John Boorman's 1977 Disaster 'Exorcist II: The Heretic' Becomes a Documentary So Unbelievable It's Funny",
@@ -1062,8 +1062,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-6044275225923181255",
-      "key": "film-10-6044275225923181255",
+      "id": "film-10-4030331756775043620",
+      "key": "film-10-4030331756775043620",
       "category": "Film",
       "label": "Film",
       "headline": "Shelley Fabares Dead: 'The Donna Reed Show' Star & Elvis Leading Lady Was 82",
@@ -1089,8 +1089,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-9132740992438084933",
-      "key": "film-22-9132740992438084933",
+      "id": "film-22-6515772641246931211",
+      "key": "film-22-6515772641246931211",
       "category": "Film",
       "label": "Film",
       "headline": "Anna Paquin and Melissa Gilbert Call for Protection of Child Actors After Hayden Panettiere's Death: \"Where Is the Collective Outrage?\"",
@@ -1116,8 +1116,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-7310894522899565305",
-      "key": "film-32-7310894522899565305",
+      "id": "film-32-6396951734388284967",
+      "key": "film-32-6396951734388284967",
       "category": "Film",
       "label": "Film",
       "headline": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
@@ -1143,22 +1143,22 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-1858823313274085322",
-      "key": "music-10-1858823313274085322",
+      "id": "music-10-3901693640535909709",
+      "key": "music-10-3901693640535909709",
       "category": "Music",
       "label": "Music",
-      "headline": "Fans Choose ENHYPEN's 'THE SIN : BLISS' as This Week's Favorite New Music",
-      "title": "Fans Choose ENHYPEN's 'THE SIN : BLISS' as This Week's Favorite New Music",
-      "snapshot": "The K-pop heavyweights' eighth mini album brought in nearly 73% of the vote.",
-      "summary": "The K-pop heavyweights' eighth mini album brought in nearly 73% of the vote.",
-      "url": "https://www.billboard.com/music/pop/enhypen-the-sin-bliss-best-new-music-poll-results-1236322619/",
+      "headline": "QMusic Confirms Kristy Ellis as New CEO",
+      "title": "QMusic Confirms Kristy Ellis as New CEO",
+      "snapshot": "Ellis, who was appointed interim CEO of the trade body in April, steps into the position on a permanent basis, following a nationwide recruitment process.",
+      "summary": "Ellis, who was appointed interim CEO of the trade body in April, steps into the position on a permanent basis, following a nationwide recruitment process.",
+      "url": "https://www.billboard.com/pro/qmusic-appoints-kristy-ellis-new-ceo/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-23 06:02:17 PM ET",
+      "published_at": "2026-08-23 09:00:00 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Fans Choose ENHYPEN's 'THE SIN : BLISS' as This Week's Favorite New Music"
+        "QMusic Confirms Kristy Ellis as New CEO"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1170,8 +1170,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-2978055078516947878",
-      "key": "gaming-0-2978055078516947878",
+      "id": "gaming-0-4450876839547800220",
+      "key": "gaming-0-4450876839547800220",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Marvel's Wolverine Limited-Edition PS5 Controller Is Still Available for Preorder (But It May Sell Out)",
@@ -1197,8 +1197,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-2578517107498051545",
-      "key": "film-1-2578517107498051545",
+      "id": "film-1-6414255764065029169",
+      "key": "film-1-6414255764065029169",
       "category": "Film",
       "label": "Film",
       "headline": "Mark Ruffalo Called Out Over 'Extremist and Antisemitic Messaging' by Simon Wiesenthal Center, Creative Communities For Peace",
@@ -1224,8 +1224,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-5976752753572574630",
-      "key": "film-11-5976752753572574630",
+      "id": "film-11-4659983706492143854",
+      "key": "film-11-4659983706492143854",
       "category": "Film",
       "label": "Film",
       "headline": "Anthony Bourdain Biopic 'Tony' Sizzling At $5M Weekend, No. 7 Spot - Specialty Box Office",
@@ -1251,8 +1251,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-5491449176551789485",
-      "key": "film-23-5491449176551789485",
+      "id": "film-23-4706861420964236977",
+      "key": "film-23-4706861420964236977",
       "category": "Film",
       "label": "Film",
       "headline": "'Spider-Man: Brand New Day' Hits No. 6 All-Time Globally as It Swings to Fourth Box Office Victory",
@@ -1278,8 +1278,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-8444433156386057400",
-      "key": "film-33-8444433156386057400",
+      "id": "film-33-1557682884696100559",
+      "key": "film-33-1557682884696100559",
       "category": "Film",
       "label": "Film",
       "headline": "The Best Action Movie From Every Year in the 1990s - Mental Floss",
@@ -1305,22 +1305,22 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-3519861048256349010",
-      "key": "music-11-3519861048256349010",
+      "id": "music-11-4331152112232187544",
+      "key": "music-11-4331152112232187544",
       "category": "Music",
       "label": "Music",
-      "headline": "These $32 Running Headphones Light Up at Night to Keep You Safe On Your Evening Walk or Run",
-      "title": "These $32 Running Headphones Light Up at Night to Keep You Safe On Your Evening Walk or Run",
-      "snapshot": "The HAKII Light 2 headphones feature a light up headband that emits a bright green glow to keep you visible in dark conditions.",
-      "summary": "The HAKII Light 2 headphones feature a light up headband that emits a bright green glow to keep you visible in dark conditions.",
-      "url": "https://www.billboard.com/culture/product-recommendations/best-light-up-wireless-headphones-for-safe-evening-run-walk-1236321918/",
+      "headline": "Fans Choose ENHYPEN's 'THE SIN : BLISS' as This Week's Favorite New Music",
+      "title": "Fans Choose ENHYPEN's 'THE SIN : BLISS' as This Week's Favorite New Music",
+      "snapshot": "The K-pop heavyweights' eighth mini album brought in nearly 73% of the vote.",
+      "summary": "The K-pop heavyweights' eighth mini album brought in nearly 73% of the vote.",
+      "url": "https://www.billboard.com/music/pop/enhypen-the-sin-bliss-best-new-music-poll-results-1236322619/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-23 04:54:22 PM ET",
+      "published_at": "2026-08-23 06:02:17 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "These $32 Running Headphones Light Up at Night to Keep You Safe On Your Evening Walk or Run"
+        "Fans Choose ENHYPEN's 'THE SIN : BLISS' as This Week's Favorite New Music"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1332,8 +1332,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-1106721565749399087",
-      "key": "gaming-1-1106721565749399087",
+      "id": "gaming-1-7598281443078433924",
+      "key": "gaming-1-7598281443078433924",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "[UPDATE] GTA 6 Leaker Shows No Sign of Slowing Down as Ninth Gameplay Video Hits the Internet",
@@ -1359,8 +1359,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-2-5410488348784015184",
-      "key": "film-2-5410488348784015184",
+      "id": "film-2-7867607422484687789",
+      "key": "film-2-7867607422484687789",
       "category": "Film",
       "label": "Film",
       "headline": "Ridley Scott Says 'I'm Not a Filmmaker, I'm an Influencer'",
@@ -1386,8 +1386,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-945927002417007392",
-      "key": "film-12-945927002417007392",
+      "id": "film-12-5899866838059269832",
+      "key": "film-12-5899866838059269832",
       "category": "Film",
       "label": "Film",
       "headline": "Will Forte, Lana Condor \"Had Hope\" For 'Coyote vs. Acme' Release After \"Freakin' Awesome\" Funeral Screening",
@@ -1413,8 +1413,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-5358006527941354939",
-      "key": "film-24-5358006527941354939",
+      "id": "film-24-813920646883103962",
+      "key": "film-24-813920646883103962",
       "category": "Film",
       "label": "Film",
       "headline": "Nick Glennie-Smith, Composer on 'The Rock,' 'The Man in the Iron Mask' and 'Secretariat,' Dies at 74",
@@ -1440,8 +1440,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-5674469799779933430",
-      "key": "film-34-5674469799779933430",
+      "id": "film-34-3327623655313904422",
+      "key": "film-34-3327623655313904422",
       "category": "Film",
       "label": "Film",
       "headline": "Every Steven Spielberg movie, ranked from worst to best - Entertainment Weekly",
@@ -1467,22 +1467,22 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-3424985445290642779",
-      "key": "music-12-3424985445290642779",
+      "id": "music-12-9056013036937045347",
+      "key": "music-12-9056013036937045347",
       "category": "Music",
       "label": "Music",
-      "headline": "Here's What Dr. Dre Really Thinks About AI in Music",
-      "title": "Here's What Dr. Dre Really Thinks About AI in Music",
-      "snapshot": "The legendary producer's perspective may come as a surprise.",
-      "summary": "The legendary producer's perspective may come as a surprise.",
-      "url": "https://www.billboard.com/music/music-news/dr-dre-ai-music-1236322613/",
+      "headline": "These $32 Running Headphones Light Up at Night to Keep You Safe On Your Evening Walk or Run",
+      "title": "These $32 Running Headphones Light Up at Night to Keep You Safe On Your Evening Walk or Run",
+      "snapshot": "The HAKII Light 2 headphones feature a light up headband that emits a bright green glow to keep you visible in dark conditions.",
+      "summary": "The HAKII Light 2 headphones feature a light up headband that emits a bright green glow to keep you visible in dark conditions.",
+      "url": "https://www.billboard.com/culture/product-recommendations/best-light-up-wireless-headphones-for-safe-evening-run-walk-1236321918/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-23 04:47:44 PM ET",
+      "published_at": "2026-08-23 04:54:22 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Here's What Dr. Dre Really Thinks About AI in Music"
+        "These $32 Running Headphones Light Up at Night to Keep You Safe On Your Evening Walk or Run"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1494,8 +1494,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-7467973731626031645",
-      "key": "gaming-2-7467973731626031645",
+      "id": "gaming-2-1175838034334912566",
+      "key": "gaming-2-1175838034334912566",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The Best Deals Today: Nintendo Switch 2, LEGO Tropical Aquarium, Final Fantasy VII Rebirth, and More",
@@ -1521,8 +1521,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-7515477451055173632",
-      "key": "film-3-7515477451055173632",
+      "id": "film-3-3327315118631932060",
+      "key": "film-3-3327315118631932060",
       "category": "Film",
       "label": "Film",
       "headline": "Grace Passô's 'Our Secret' Nabs the Best Film Kikito at the 54th Gramado Film Festival",
@@ -1548,8 +1548,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-3499399162179389807",
-      "key": "film-13-3499399162179389807",
+      "id": "film-13-7554185391303334370",
+      "key": "film-13-7554185391303334370",
       "category": "Film",
       "label": "Film",
       "headline": "2026 Domestic Box Office Soars Past $7 Billion, +20% Over 2025",
@@ -1575,8 +1575,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-3874612724539764535",
-      "key": "film-25-3874612724539764535",
+      "id": "film-25-4169207276746160501",
+      "key": "film-25-4169207276746160501",
       "category": "Film",
       "label": "Film",
       "headline": "Charlize Theron Reflects on 'Mad Max: Fury Road' a Decade Later: \"There's a Deep Connection to This Film\"",
@@ -1602,8 +1602,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-4401864813326670372",
-      "key": "film-35-4401864813326670372",
+      "id": "film-35-5918502804708250635",
+      "key": "film-35-5918502804708250635",
       "category": "Film",
       "label": "Film",
       "headline": "'So bad it's good': rough animated film becomes surprise Chinese hit - Yahoo",
@@ -1629,22 +1629,22 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-5721955375767221057",
-      "key": "music-13-5721955375767221057",
+      "id": "music-13-9118632929383367712",
+      "key": "music-13-9118632929383367712",
       "category": "Music",
       "label": "Music",
-      "headline": "Drake's Appearance at Ella Langley's Show Has Fans Wondering About a Collab",
-      "title": "Drake's Appearance at Ella Langley's Show Has Fans Wondering About a Collab",
-      "snapshot": "Drizzy recently praised the country star on social media.",
-      "summary": "Drizzy recently praised the country star on social media.",
-      "url": "https://www.billboard.com/music/music-news/drake-ella-langley-concert-collab-rumors-choosin-texas-1236322570/",
+      "headline": "Here's What Dr. Dre Really Thinks About AI in Music",
+      "title": "Here's What Dr. Dre Really Thinks About AI in Music",
+      "snapshot": "The legendary producer's perspective may come as a surprise.",
+      "summary": "The legendary producer's perspective may come as a surprise.",
+      "url": "https://www.billboard.com/music/music-news/dr-dre-ai-music-1236322613/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-23 03:14:25 PM ET",
+      "published_at": "2026-08-23 04:47:44 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Drake's Appearance at Ella Langley's Show Has Fans Wondering About a Collab"
+        "Here's What Dr. Dre Really Thinks About AI in Music"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1656,8 +1656,8 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-5000706267675416575",
-      "key": "gaming-3-5000706267675416575",
+      "id": "gaming-3-6980681743053639621",
+      "key": "gaming-3-6980681743053639621",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Metal Gear Solid 4: The Flawed Masterpiece Kojima Didn't Want to Make",
@@ -1709,8 +1709,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "film-0-4520522941755885562",
-          "key": "film-0-4520522941755885562",
+          "id": "film-0-8883170475229748228",
+          "key": "film-0-8883170475229748228",
           "category": "Film",
           "label": "Film",
           "headline": "‘Boorman and the Devil’ Review: The Making of John Boorman’s 1977 Disaster ‘Exorcist II: The Heretic’ Becomes a Documentary So Unbelievable It’s Funny",
@@ -1737,8 +1737,8 @@
           ]
         },
         {
-          "id": "film-10-6044275225923181255",
-          "key": "film-10-6044275225923181255",
+          "id": "film-10-4030331756775043620",
+          "key": "film-10-4030331756775043620",
           "category": "Film",
           "label": "Film",
           "headline": "Shelley Fabares Dead: ‘The Donna Reed Show’ Star & Elvis Leading Lady Was 82",
@@ -1765,8 +1765,8 @@
           ]
         },
         {
-          "id": "film-22-9132740992438084933",
-          "key": "film-22-9132740992438084933",
+          "id": "film-22-6515772641246931211",
+          "key": "film-22-6515772641246931211",
           "category": "Film",
           "label": "Film",
           "headline": "Anna Paquin and Melissa Gilbert Call for Protection of Child Actors After Hayden Panettiere’s Death: “Where Is the Collective Outrage?”",
@@ -1793,8 +1793,8 @@
           ]
         },
         {
-          "id": "film-32-7310894522899565305",
-          "key": "film-32-7310894522899565305",
+          "id": "film-32-6396951734388284967",
+          "key": "film-32-6396951734388284967",
           "category": "Film",
           "label": "Film",
           "headline": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
@@ -1821,8 +1821,8 @@
           ]
         },
         {
-          "id": "film-1-2578517107498051545",
-          "key": "film-1-2578517107498051545",
+          "id": "film-1-6414255764065029169",
+          "key": "film-1-6414255764065029169",
           "category": "Film",
           "label": "Film",
           "headline": "Mark Ruffalo Called Out Over ‘Extremist and Antisemitic Messaging’ by Simon Wiesenthal Center, Creative Communities For Peace",
@@ -1849,8 +1849,8 @@
           ]
         },
         {
-          "id": "film-11-5976752753572574630",
-          "key": "film-11-5976752753572574630",
+          "id": "film-11-4659983706492143854",
+          "key": "film-11-4659983706492143854",
           "category": "Film",
           "label": "Film",
           "headline": "Anthony Bourdain Biopic ‘Tony’ Sizzling At $5M Weekend, No. 7 Spot – Specialty Box Office",
@@ -1877,8 +1877,8 @@
           ]
         },
         {
-          "id": "film-23-5491449176551789485",
-          "key": "film-23-5491449176551789485",
+          "id": "film-23-4706861420964236977",
+          "key": "film-23-4706861420964236977",
           "category": "Film",
           "label": "Film",
           "headline": "‘Spider-Man: Brand New Day’ Hits No. 6 All-Time Globally as It Swings to Fourth Box Office Victory",
@@ -1905,8 +1905,8 @@
           ]
         },
         {
-          "id": "film-33-8444433156386057400",
-          "key": "film-33-8444433156386057400",
+          "id": "film-33-1557682884696100559",
+          "key": "film-33-1557682884696100559",
           "category": "Film",
           "label": "Film",
           "headline": "The Best Action Movie From Every Year in the 1990s - Mental Floss",
@@ -1935,8 +1935,8 @@
       ],
       "items": [
         {
-          "id": "film-0-4520522941755885562",
-          "key": "film-0-4520522941755885562",
+          "id": "film-0-8883170475229748228",
+          "key": "film-0-8883170475229748228",
           "category": "Film",
           "label": "Film",
           "headline": "‘Boorman and the Devil’ Review: The Making of John Boorman’s 1977 Disaster ‘Exorcist II: The Heretic’ Becomes a Documentary So Unbelievable It’s Funny",
@@ -1963,8 +1963,8 @@
           ]
         },
         {
-          "id": "film-10-6044275225923181255",
-          "key": "film-10-6044275225923181255",
+          "id": "film-10-4030331756775043620",
+          "key": "film-10-4030331756775043620",
           "category": "Film",
           "label": "Film",
           "headline": "Shelley Fabares Dead: ‘The Donna Reed Show’ Star & Elvis Leading Lady Was 82",
@@ -1991,8 +1991,8 @@
           ]
         },
         {
-          "id": "film-22-9132740992438084933",
-          "key": "film-22-9132740992438084933",
+          "id": "film-22-6515772641246931211",
+          "key": "film-22-6515772641246931211",
           "category": "Film",
           "label": "Film",
           "headline": "Anna Paquin and Melissa Gilbert Call for Protection of Child Actors After Hayden Panettiere’s Death: “Where Is the Collective Outrage?”",
@@ -2019,8 +2019,8 @@
           ]
         },
         {
-          "id": "film-32-7310894522899565305",
-          "key": "film-32-7310894522899565305",
+          "id": "film-32-6396951734388284967",
+          "key": "film-32-6396951734388284967",
           "category": "Film",
           "label": "Film",
           "headline": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
@@ -2047,8 +2047,8 @@
           ]
         },
         {
-          "id": "film-1-2578517107498051545",
-          "key": "film-1-2578517107498051545",
+          "id": "film-1-6414255764065029169",
+          "key": "film-1-6414255764065029169",
           "category": "Film",
           "label": "Film",
           "headline": "Mark Ruffalo Called Out Over ‘Extremist and Antisemitic Messaging’ by Simon Wiesenthal Center, Creative Communities For Peace",
@@ -2075,8 +2075,8 @@
           ]
         },
         {
-          "id": "film-11-5976752753572574630",
-          "key": "film-11-5976752753572574630",
+          "id": "film-11-4659983706492143854",
+          "key": "film-11-4659983706492143854",
           "category": "Film",
           "label": "Film",
           "headline": "Anthony Bourdain Biopic ‘Tony’ Sizzling At $5M Weekend, No. 7 Spot – Specialty Box Office",
@@ -2103,8 +2103,8 @@
           ]
         },
         {
-          "id": "film-23-5491449176551789485",
-          "key": "film-23-5491449176551789485",
+          "id": "film-23-4706861420964236977",
+          "key": "film-23-4706861420964236977",
           "category": "Film",
           "label": "Film",
           "headline": "‘Spider-Man: Brand New Day’ Hits No. 6 All-Time Globally as It Swings to Fourth Box Office Victory",
@@ -2131,8 +2131,8 @@
           ]
         },
         {
-          "id": "film-33-8444433156386057400",
-          "key": "film-33-8444433156386057400",
+          "id": "film-33-1557682884696100559",
+          "key": "film-33-1557682884696100559",
           "category": "Film",
           "label": "Film",
           "headline": "The Best Action Movie From Every Year in the 1990s - Mental Floss",
@@ -2159,7 +2159,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 07:21:32 PM ET"
+      "updated_at": "2026-08-23 09:20:27 PM ET"
     },
     {
       "key": "tv",
@@ -2171,23 +2171,23 @@
         "Shelley Fabares, ‘Coach’ and ‘The Donna Reed Show’ Star, Dies at 82",
         "‘One Piece: The Battle Of Alabasta’ Adds Four To Season 3 Cast In Roles Of Koza, Toto, Pell & Chaka",
         "Shelley Fabares, Star of ‘The Donna Reed Show’ and ‘Coach,’ Dies at 82",
-        "AI Just Got Its First 24/7 TV Channel - PYMNTS.com",
+        "‘The Office’ star Jenna Fischer exposes the grueling reality that forced her off TV - Fox News",
         "Martin Short Gets Honest: What It’s Like to Be All Over the Emmy Race, Thanks to Three Very Different Projects"
       ],
       "watch_list": [
         "Shelley Fabares, ‘Coach’ and ‘The Donna Reed Show’ Star, Dies at 82",
         "‘One Piece: The Battle Of Alabasta’ Adds Four To Season 3 Cast In Roles Of Koza, Toto, Pell & Chaka",
         "Shelley Fabares, Star of ‘The Donna Reed Show’ and ‘Coach,’ Dies at 82",
-        "AI Just Got Its First 24/7 TV Channel - PYMNTS.com",
+        "‘The Office’ star Jenna Fischer exposes the grueling reality that forced her off TV - Fox News",
         "Martin Short Gets Honest: What It’s Like to Be All Over the Emmy Race, Thanks to Three Very Different Projects",
         "Karoline Leavitt Announces Post-White House Job",
         "Bunny Levine, Librarian Turned Actress in ‘Gilmore Girls,’ ‘Thelma’ and ‘You Don’t Mess With the Zohan,’ Dies at 97",
-        "Korea’s market volatility becomes TV entertainment - The Korea Herald"
+        "AI Just Got Its First 24/7 TV Channel - PYMNTS.com"
       ],
       "homepage_cards": [
         {
-          "id": "tv-0-3942457879594871953",
-          "key": "tv-0-3942457879594871953",
+          "id": "tv-0-2638698040848454414",
+          "key": "tv-0-2638698040848454414",
           "category": "TV",
           "label": "TV",
           "headline": "Shelley Fabares, ‘Coach’ and ‘The Donna Reed Show’ Star, Dies at 82",
@@ -2214,8 +2214,8 @@
           ]
         },
         {
-          "id": "tv-10-3543786999434325187",
-          "key": "tv-10-3543786999434325187",
+          "id": "tv-10-6703011622784021707",
+          "key": "tv-10-6703011622784021707",
           "category": "TV",
           "label": "TV",
           "headline": "‘One Piece: The Battle Of Alabasta’ Adds Four To Season 3 Cast In Roles Of Koza, Toto, Pell & Chaka",
@@ -2242,8 +2242,8 @@
           ]
         },
         {
-          "id": "tv-19-2901127275250089736",
-          "key": "tv-19-2901127275250089736",
+          "id": "tv-19-2055453166991055809",
+          "key": "tv-19-2055453166991055809",
           "category": "TV",
           "label": "TV",
           "headline": "Shelley Fabares, Star of ‘The Donna Reed Show’ and ‘Coach,’ Dies at 82",
@@ -2270,25 +2270,25 @@
           ]
         },
         {
-          "id": "tv-29-27813736771490774",
-          "key": "tv-29-27813736771490774",
+          "id": "tv-29-3236294239518553811",
+          "key": "tv-29-3236294239518553811",
           "category": "TV",
           "label": "TV",
-          "headline": "AI Just Got Its First 24/7 TV Channel - PYMNTS.com",
-          "title": "AI Just Got Its First 24/7 TV Channel - PYMNTS.com",
-          "snapshot": "AI Just Got Its First 24/7 TV Channel PYMNTS.com",
-          "summary": "AI Just Got Its First 24/7 TV Channel PYMNTS.com",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaXNPZHl6c0JCNi1BcFFSbFdYS2hoRnF6TUEwSkZKOS1wTTVuMy1XZ05WRGNyd0ZOZFpHUDJrZkViN2t0MDRYVjdqV3dLeTFEeTBORklTM0hreXYySzBzay1ibEU4S1MtMU50LWFuVXJUTDhHZlNRSkotN2lQRmtUODhwUTc1dk1tbkpWa0NneXNQNEpHbVR1eWJpOA?oc=5",
+          "headline": "‘The Office’ star Jenna Fischer exposes the grueling reality that forced her off TV - Fox News",
+          "title": "‘The Office’ star Jenna Fischer exposes the grueling reality that forced her off TV - Fox News",
+          "snapshot": "‘The Office’ star Jenna Fischer exposes the grueling reality that forced her off TV Fox News",
+          "summary": "‘The Office’ star Jenna Fischer exposes the grueling reality that forced her off TV Fox News",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRjRNRnBENk83b2h5SmpuMlR3Q1JWOGhVeE96U3owUXdUNlo4ZzktZEZHV1NJamlZSWZnM0ZDVTBOYXdBTlJUS09USnk4QWZQeDlNT3NIZEhpelN4b3dlelg0ZEpHT2RqellIOWRIdGlBa2V4bjJ3WVBEdXdPbENZMHRGRjhTQWlVcVJHNUM1X2FMbXpBY2dHUjI4R1J4UEw4Q0k5U9IBqgFBVV95cUxOcFZvYzBvYWF6V3kwaExWVjRJNEFHbndtaEtycXFENzdmVFkyT3hwS19uZmo3QW96UE1YQlM2SGYtaUxJVWx1QjdVaW90TzZ3TmNtVnQzOWtIcnVVQTdKNmRyY2dLcDhJYzlWU0NEaXg4T2hyR1Ftd2d1Uk5xSGxueDlwbU05Wk0wbk5aWDVXcVZaRkJGM0xWRG9kLVFtUmxYenEyUzdRVmRiUQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=television+tv+entertainment&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-13 03:00:00 AM ET",
+          "published_at": "2026-08-19 04:23:47 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 71,
           "key_data": [
-            "AI Just Got Its First 24/7 TV Channel - PYMNTS.com"
+            "‘The Office’ star Jenna Fischer exposes the grueling reality that forced her off TV - Fox News"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2298,8 +2298,8 @@
           ]
         },
         {
-          "id": "tv-1-4042633975489286287",
-          "key": "tv-1-4042633975489286287",
+          "id": "tv-1-4609844413767142591",
+          "key": "tv-1-4609844413767142591",
           "category": "TV",
           "label": "TV",
           "headline": "Martin Short Gets Honest: What It’s Like to Be All Over the Emmy Race, Thanks to Three Very Different Projects",
@@ -2326,8 +2326,8 @@
           ]
         },
         {
-          "id": "tv-11-2064257585873943564",
-          "key": "tv-11-2064257585873943564",
+          "id": "tv-11-2987459928505604191",
+          "key": "tv-11-2987459928505604191",
           "category": "TV",
           "label": "TV",
           "headline": "Karoline Leavitt Announces Post-White House Job",
@@ -2354,8 +2354,8 @@
           ]
         },
         {
-          "id": "tv-20-5386419662268534845",
-          "key": "tv-20-5386419662268534845",
+          "id": "tv-20-8144217990472927326",
+          "key": "tv-20-8144217990472927326",
           "category": "TV",
           "label": "TV",
           "headline": "Bunny Levine, Librarian Turned Actress in ‘Gilmore Girls,’ ‘Thelma’ and ‘You Don’t Mess With the Zohan,’ Dies at 97",
@@ -2382,25 +2382,25 @@
           ]
         },
         {
-          "id": "tv-30-5685059037810033237",
-          "key": "tv-30-5685059037810033237",
+          "id": "tv-30-1484762347736475100",
+          "key": "tv-30-1484762347736475100",
           "category": "TV",
           "label": "TV",
-          "headline": "Korea’s market volatility becomes TV entertainment - The Korea Herald",
-          "title": "Korea’s market volatility becomes TV entertainment - The Korea Herald",
-          "snapshot": "Korea’s market volatility becomes TV entertainment The Korea Herald",
-          "summary": "Korea’s market volatility becomes TV entertainment The Korea Herald",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44b2ttRWdzRkM4cFAwUVdLWDkyUEpYeHhldy1KSUw5S1lVWEtPT2xqQ2dXajVJQ1BHR0RMUzhXeEpUb3kybmZnOXhWTDRNdzlpNmU5RkxRTQ?oc=5",
+          "headline": "AI Just Got Its First 24/7 TV Channel - PYMNTS.com",
+          "title": "AI Just Got Its First 24/7 TV Channel - PYMNTS.com",
+          "snapshot": "AI Just Got Its First 24/7 TV Channel PYMNTS.com",
+          "summary": "AI Just Got Its First 24/7 TV Channel PYMNTS.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaXNPZHl6c0JCNi1BcFFSbFdYS2hoRnF6TUEwSkZKOS1wTTVuMy1XZ05WRGNyd0ZOZFpHUDJrZkViN2t0MDRYVjdqV3dLeTFEeTBORklTM0hreXYySzBzay1ibEU4S1MtMU50LWFuVXJUTDhHZlNRSkotN2lQRmtUODhwUTc1dk1tbkpWa0NneXNQNEpHbVR1eWJpOA?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=television+tv+entertainment&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-10 03:00:00 AM ET",
+          "published_at": "2026-08-13 03:00:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 70,
           "key_data": [
-            "Korea’s market volatility becomes TV entertainment - The Korea Herald"
+            "AI Just Got Its First 24/7 TV Channel - PYMNTS.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2412,8 +2412,8 @@
       ],
       "items": [
         {
-          "id": "tv-0-3942457879594871953",
-          "key": "tv-0-3942457879594871953",
+          "id": "tv-0-2638698040848454414",
+          "key": "tv-0-2638698040848454414",
           "category": "TV",
           "label": "TV",
           "headline": "Shelley Fabares, ‘Coach’ and ‘The Donna Reed Show’ Star, Dies at 82",
@@ -2440,8 +2440,8 @@
           ]
         },
         {
-          "id": "tv-10-3543786999434325187",
-          "key": "tv-10-3543786999434325187",
+          "id": "tv-10-6703011622784021707",
+          "key": "tv-10-6703011622784021707",
           "category": "TV",
           "label": "TV",
           "headline": "‘One Piece: The Battle Of Alabasta’ Adds Four To Season 3 Cast In Roles Of Koza, Toto, Pell & Chaka",
@@ -2468,8 +2468,8 @@
           ]
         },
         {
-          "id": "tv-19-2901127275250089736",
-          "key": "tv-19-2901127275250089736",
+          "id": "tv-19-2055453166991055809",
+          "key": "tv-19-2055453166991055809",
           "category": "TV",
           "label": "TV",
           "headline": "Shelley Fabares, Star of ‘The Donna Reed Show’ and ‘Coach,’ Dies at 82",
@@ -2496,25 +2496,25 @@
           ]
         },
         {
-          "id": "tv-29-27813736771490774",
-          "key": "tv-29-27813736771490774",
+          "id": "tv-29-3236294239518553811",
+          "key": "tv-29-3236294239518553811",
           "category": "TV",
           "label": "TV",
-          "headline": "AI Just Got Its First 24/7 TV Channel - PYMNTS.com",
-          "title": "AI Just Got Its First 24/7 TV Channel - PYMNTS.com",
-          "snapshot": "AI Just Got Its First 24/7 TV Channel PYMNTS.com",
-          "summary": "AI Just Got Its First 24/7 TV Channel PYMNTS.com",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaXNPZHl6c0JCNi1BcFFSbFdYS2hoRnF6TUEwSkZKOS1wTTVuMy1XZ05WRGNyd0ZOZFpHUDJrZkViN2t0MDRYVjdqV3dLeTFEeTBORklTM0hreXYySzBzay1ibEU4S1MtMU50LWFuVXJUTDhHZlNRSkotN2lQRmtUODhwUTc1dk1tbkpWa0NneXNQNEpHbVR1eWJpOA?oc=5",
+          "headline": "‘The Office’ star Jenna Fischer exposes the grueling reality that forced her off TV - Fox News",
+          "title": "‘The Office’ star Jenna Fischer exposes the grueling reality that forced her off TV - Fox News",
+          "snapshot": "‘The Office’ star Jenna Fischer exposes the grueling reality that forced her off TV Fox News",
+          "summary": "‘The Office’ star Jenna Fischer exposes the grueling reality that forced her off TV Fox News",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRjRNRnBENk83b2h5SmpuMlR3Q1JWOGhVeE96U3owUXdUNlo4ZzktZEZHV1NJamlZSWZnM0ZDVTBOYXdBTlJUS09USnk4QWZQeDlNT3NIZEhpelN4b3dlelg0ZEpHT2RqellIOWRIdGlBa2V4bjJ3WVBEdXdPbENZMHRGRjhTQWlVcVJHNUM1X2FMbXpBY2dHUjI4R1J4UEw4Q0k5U9IBqgFBVV95cUxOcFZvYzBvYWF6V3kwaExWVjRJNEFHbndtaEtycXFENzdmVFkyT3hwS19uZmo3QW96UE1YQlM2SGYtaUxJVWx1QjdVaW90TzZ3TmNtVnQzOWtIcnVVQTdKNmRyY2dLcDhJYzlWU0NEaXg4T2hyR1Ftd2d1Uk5xSGxueDlwbU05Wk0wbk5aWDVXcVZaRkJGM0xWRG9kLVFtUmxYenEyUzdRVmRiUQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=television+tv+entertainment&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-13 03:00:00 AM ET",
+          "published_at": "2026-08-19 04:23:47 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 71,
           "key_data": [
-            "AI Just Got Its First 24/7 TV Channel - PYMNTS.com"
+            "‘The Office’ star Jenna Fischer exposes the grueling reality that forced her off TV - Fox News"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2524,8 +2524,8 @@
           ]
         },
         {
-          "id": "tv-1-4042633975489286287",
-          "key": "tv-1-4042633975489286287",
+          "id": "tv-1-4609844413767142591",
+          "key": "tv-1-4609844413767142591",
           "category": "TV",
           "label": "TV",
           "headline": "Martin Short Gets Honest: What It’s Like to Be All Over the Emmy Race, Thanks to Three Very Different Projects",
@@ -2552,8 +2552,8 @@
           ]
         },
         {
-          "id": "tv-11-2064257585873943564",
-          "key": "tv-11-2064257585873943564",
+          "id": "tv-11-2987459928505604191",
+          "key": "tv-11-2987459928505604191",
           "category": "TV",
           "label": "TV",
           "headline": "Karoline Leavitt Announces Post-White House Job",
@@ -2580,8 +2580,8 @@
           ]
         },
         {
-          "id": "tv-20-5386419662268534845",
-          "key": "tv-20-5386419662268534845",
+          "id": "tv-20-8144217990472927326",
+          "key": "tv-20-8144217990472927326",
           "category": "TV",
           "label": "TV",
           "headline": "Bunny Levine, Librarian Turned Actress in ‘Gilmore Girls,’ ‘Thelma’ and ‘You Don’t Mess With the Zohan,’ Dies at 97",
@@ -2608,25 +2608,25 @@
           ]
         },
         {
-          "id": "tv-30-5685059037810033237",
-          "key": "tv-30-5685059037810033237",
+          "id": "tv-30-1484762347736475100",
+          "key": "tv-30-1484762347736475100",
           "category": "TV",
           "label": "TV",
-          "headline": "Korea’s market volatility becomes TV entertainment - The Korea Herald",
-          "title": "Korea’s market volatility becomes TV entertainment - The Korea Herald",
-          "snapshot": "Korea’s market volatility becomes TV entertainment The Korea Herald",
-          "summary": "Korea’s market volatility becomes TV entertainment The Korea Herald",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44b2ttRWdzRkM4cFAwUVdLWDkyUEpYeHhldy1KSUw5S1lVWEtPT2xqQ2dXajVJQ1BHR0RMUzhXeEpUb3kybmZnOXhWTDRNdzlpNmU5RkxRTQ?oc=5",
+          "headline": "AI Just Got Its First 24/7 TV Channel - PYMNTS.com",
+          "title": "AI Just Got Its First 24/7 TV Channel - PYMNTS.com",
+          "snapshot": "AI Just Got Its First 24/7 TV Channel PYMNTS.com",
+          "summary": "AI Just Got Its First 24/7 TV Channel PYMNTS.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaXNPZHl6c0JCNi1BcFFSbFdYS2hoRnF6TUEwSkZKOS1wTTVuMy1XZ05WRGNyd0ZOZFpHUDJrZkViN2t0MDRYVjdqV3dLeTFEeTBORklTM0hreXYySzBzay1ibEU4S1MtMU50LWFuVXJUTDhHZlNRSkotN2lQRmtUODhwUTc1dk1tbkpWa0NneXNQNEpHbVR1eWJpOA?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=television+tv+entertainment&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-10 03:00:00 AM ET",
+          "published_at": "2026-08-13 03:00:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 70,
           "key_data": [
-            "Korea’s market volatility becomes TV entertainment - The Korea Herald"
+            "AI Just Got Its First 24/7 TV Channel - PYMNTS.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2636,7 +2636,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 07:21:33 PM ET"
+      "updated_at": "2026-08-23 09:20:29 PM ET"
     },
     {
       "key": "streaming",
@@ -2654,8 +2654,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "streaming-0-7601208401459499378",
-          "key": "streaming-0-7601208401459499378",
+          "id": "streaming-0-4651099451883816448",
+          "key": "streaming-0-4651099451883816448",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'Mother Mary' to 'Passenger,' 10 movies to stream right now - USA Today",
@@ -2682,8 +2682,8 @@
           ]
         },
         {
-          "id": "streaming-1-1792371748480456989",
-          "key": "streaming-1-1792371748480456989",
+          "id": "streaming-1-4373863237805200499",
+          "key": "streaming-1-4373863237805200499",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "5 best new movies to stream this weekend on Netflix, Disney+, Hulu, and more (August 15-16) - Tom's Guide",
@@ -2712,8 +2712,8 @@
       ],
       "items": [
         {
-          "id": "streaming-0-7601208401459499378",
-          "key": "streaming-0-7601208401459499378",
+          "id": "streaming-0-4651099451883816448",
+          "key": "streaming-0-4651099451883816448",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'Mother Mary' to 'Passenger,' 10 movies to stream right now - USA Today",
@@ -2740,8 +2740,8 @@
           ]
         },
         {
-          "id": "streaming-1-1792371748480456989",
-          "key": "streaming-1-1792371748480456989",
+          "id": "streaming-1-4373863237805200499",
+          "key": "streaming-1-4373863237805200499",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "5 best new movies to stream this weekend on Netflix, Disney+, Hulu, and more (August 15-16) - Tom's Guide",
@@ -2768,50 +2768,50 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 07:21:34 PM ET"
+      "updated_at": "2026-08-23 09:20:30 PM ET"
     },
     {
       "key": "music",
       "name": "Music",
       "title": "Music Report",
-      "headline": "Katseye Earns First No. 1 on Albums Chart; Phoebe Bridgers Debuts at No. 2",
+      "headline": "Foo Fighters and Gustavo Dudamel Blow Up the Hollywood Bowl as Conductor Blows Out the Candle on His Time With the LA Phil: Concert Review",
       "snapshot": "Music coverage is updating with 6 current RSS headline item(s).",
       "key_storylines": [
-        "Katseye Earns First No. 1 on Albums Chart; Phoebe Bridgers Debuts at No. 2",
-        "Fans Choose ENHYPEN’s ‘THE SIN : BLISS’ as This Week’s Favorite New Music",
+        "Foo Fighters and Gustavo Dudamel Blow Up the Hollywood Bowl as Conductor Blows Out the Candle on His Time With the LA Phil: Concert Review",
+        "QMusic Confirms Kristy Ellis as New CEO",
         "Los Lobos Settles Sony Music Lawsuit Over ‘Desperado’ Movie Soundtrack Royalties - Billboard",
-        "Dr. Dre Says the Only People Who See AI as a Threat Are Those ‘Who Have Trouble Creating’",
-        "These $32 Running Headphones Light Up at Night to Keep You Safe On Your Evening Walk or Run"
+        "Katseye Earns First No. 1 on Albums Chart; Phoebe Bridgers Debuts at No. 2",
+        "Fans Choose ENHYPEN’s ‘THE SIN : BLISS’ as This Week’s Favorite New Music"
       ],
       "watch_list": [
+        "Foo Fighters and Gustavo Dudamel Blow Up the Hollywood Bowl as Conductor Blows Out the Candle on His Time With the LA Phil: Concert Review",
+        "QMusic Confirms Kristy Ellis as New CEO",
+        "Los Lobos Settles Sony Music Lawsuit Over ‘Desperado’ Movie Soundtrack Royalties - Billboard",
         "Katseye Earns First No. 1 on Albums Chart; Phoebe Bridgers Debuts at No. 2",
         "Fans Choose ENHYPEN’s ‘THE SIN : BLISS’ as This Week’s Favorite New Music",
-        "Los Lobos Settles Sony Music Lawsuit Over ‘Desperado’ Movie Soundtrack Royalties - Billboard",
-        "Dr. Dre Says the Only People Who See AI as a Threat Are Those ‘Who Have Trouble Creating’",
-        "These $32 Running Headphones Light Up at Night to Keep You Safe On Your Evening Walk or Run",
         "R&B/Hip-Hop Power Players: Billboard’s 2026 List Revealed - Billboard"
       ],
       "homepage_cards": [
         {
-          "id": "music-0-8174532386713654277",
-          "key": "music-0-8174532386713654277",
+          "id": "music-0-8787114456615851163",
+          "key": "music-0-8787114456615851163",
           "category": "Music",
           "label": "Music",
-          "headline": "Katseye Earns First No. 1 on Albums Chart; Phoebe Bridgers Debuts at No. 2",
-          "title": "Katseye Earns First No. 1 on Albums Chart; Phoebe Bridgers Debuts at No. 2",
-          "snapshot": "Katseye has scored their first No. 1 on the Billboard 200 as their latest project “Wild” debuts atop the list. “Wild,” the five-track offering led by the singles “Pinky Up” and “Hootie Frutti,” bows at the chart’s summit with 170,000 equivalent album units, marking their biggest week by that metric and by pure album...",
-          "summary": "Katseye has scored their first No. 1 on the Billboard 200 as their latest project “Wild” debuts atop the list. “Wild,” the five-track offering led by the singles “Pinky Up” and “Hootie Frutti,” bows at the chart’s summit with 170,000 equivalent album units, marking their biggest week by that metric and by pure album...",
-          "url": "https://variety.com/2026/music/news/katseye-wild-first-no-1-phoebe-bridgers-no-2-albums-chart-1236841114/",
+          "headline": "Foo Fighters and Gustavo Dudamel Blow Up the Hollywood Bowl as Conductor Blows Out the Candle on His Time With the LA Phil: Concert Review",
+          "title": "Foo Fighters and Gustavo Dudamel Blow Up the Hollywood Bowl as Conductor Blows Out the Candle on His Time With the LA Phil: Concert Review",
+          "snapshot": "The LA Phil has played with plenty of pop and rock acts before, but it may have taken Foo Fighters to really put the dude in Dudamel. And not a moment too soon, with this being famed conductor Gustavo Dudamel’s final weekend at the helm of Los Angeles’ primary house symphony. The Phil’s hookup with […]",
+          "summary": "The LA Phil has played with plenty of pop and rock acts before, but it may have taken Foo Fighters to really put the dude in Dudamel. And not a moment too soon, with this being famed conductor Gustavo Dudamel’s final weekend at the helm of Los Angeles’ primary house symphony. The Phil’s hookup with […]",
+          "url": "https://variety.com/2026/music/concert-reviews/foo-fighters-hollywood-bowl-gustavo-dudamel-concert-review-1236841090/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/music/feed/",
-          "published_at": "2026-08-23 03:44:06 PM ET",
+          "published_at": "2026-08-23 09:02:08 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Katseye Earns First No. 1 on Albums Chart; Phoebe Bridgers Debuts at No. 2"
+            "Foo Fighters and Gustavo Dudamel Blow Up the Hollywood Bowl as Conductor Blows Out the Candle on His Time With the LA Phil: Concert Review"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2821,25 +2821,25 @@
           ]
         },
         {
-          "id": "music-10-1858823313274085322",
-          "key": "music-10-1858823313274085322",
+          "id": "music-10-3901693640535909709",
+          "key": "music-10-3901693640535909709",
           "category": "Music",
           "label": "Music",
-          "headline": "Fans Choose ENHYPEN’s ‘THE SIN : BLISS’ as This Week’s Favorite New Music",
-          "title": "Fans Choose ENHYPEN’s ‘THE SIN : BLISS’ as This Week’s Favorite New Music",
-          "snapshot": "The K-pop heavyweights’ eighth mini album brought in nearly 73% of the vote.",
-          "summary": "The K-pop heavyweights’ eighth mini album brought in nearly 73% of the vote.",
-          "url": "https://www.billboard.com/music/pop/enhypen-the-sin-bliss-best-new-music-poll-results-1236322619/",
+          "headline": "QMusic Confirms Kristy Ellis as New CEO",
+          "title": "QMusic Confirms Kristy Ellis as New CEO",
+          "snapshot": "Ellis, who was appointed interim CEO of the trade body in April, steps into the position on a permanent basis, following a nationwide recruitment process.",
+          "summary": "Ellis, who was appointed interim CEO of the trade body in April, steps into the position on a permanent basis, following a nationwide recruitment process.",
+          "url": "https://www.billboard.com/pro/qmusic-appoints-kristy-ellis-new-ceo/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-23 06:02:17 PM ET",
+          "published_at": "2026-08-23 09:00:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "Fans Choose ENHYPEN’s ‘THE SIN : BLISS’ as This Week’s Favorite New Music"
+            "QMusic Confirms Kristy Ellis as New CEO"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2849,8 +2849,8 @@
           ]
         },
         {
-          "id": "music-20-8853936544758262908",
-          "key": "music-20-8853936544758262908",
+          "id": "music-20-4905773295686636244",
+          "key": "music-20-4905773295686636244",
           "category": "Music",
           "label": "Music",
           "headline": "Los Lobos Settles Sony Music Lawsuit Over ‘Desperado’ Movie Soundtrack Royalties - Billboard",
@@ -2877,25 +2877,25 @@
           ]
         },
         {
-          "id": "music-1-8856583257119638827",
-          "key": "music-1-8856583257119638827",
+          "id": "music-1-5986344450374699099",
+          "key": "music-1-5986344450374699099",
           "category": "Music",
           "label": "Music",
-          "headline": "Dr. Dre Says the Only People Who See AI as a Threat Are Those ‘Who Have Trouble Creating’",
-          "title": "Dr. Dre Says the Only People Who See AI as a Threat Are Those ‘Who Have Trouble Creating’",
-          "snapshot": "Dr. Dre, the legendary hip-hop producer and performer, sees AI as another tool in the music-tech toolbox akin to synthesizers — and asserted that only people “who have trouble creating” are afraid of AI. Dre, founder of the Aftermath record label and co-founder and CEO of Apple’s Beats, said that he doesn’t see AI “...",
-          "summary": "Dr. Dre, the legendary hip-hop producer and performer, sees AI as another tool in the music-tech toolbox akin to synthesizers — and asserted that only people “who have trouble creating” are afraid of AI. Dre, founder of the Aftermath record label and co-founder and CEO of Apple’s Beats, said that he doesn’t see AI “...",
-          "url": "https://variety.com/2026/music/news/dr-dre-ai-music-threat-those-who-have-trouble-creating-1236840975/",
+          "headline": "Katseye Earns First No. 1 on Albums Chart; Phoebe Bridgers Debuts at No. 2",
+          "title": "Katseye Earns First No. 1 on Albums Chart; Phoebe Bridgers Debuts at No. 2",
+          "snapshot": "Katseye has scored their first No. 1 on the Billboard 200 as their latest project “Wild” debuts atop the list. “Wild,” the five-track offering led by the singles “Pinky Up” and “Hootie Frutti,” bows at the chart’s summit with 170,000 equivalent album units, marking their biggest week by that metric and by pure album...",
+          "summary": "Katseye has scored their first No. 1 on the Billboard 200 as their latest project “Wild” debuts atop the list. “Wild,” the five-track offering led by the singles “Pinky Up” and “Hootie Frutti,” bows at the chart’s summit with 170,000 equivalent album units, marking their biggest week by that metric and by pure album...",
+          "url": "https://variety.com/2026/music/news/katseye-wild-first-no-1-phoebe-bridgers-no-2-albums-chart-1236841114/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/music/feed/",
-          "published_at": "2026-08-23 09:20:01 AM ET",
+          "published_at": "2026-08-23 03:44:06 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Dr. Dre Says the Only People Who See AI as a Threat Are Those ‘Who Have Trouble Creating’"
+            "Katseye Earns First No. 1 on Albums Chart; Phoebe Bridgers Debuts at No. 2"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2905,25 +2905,25 @@
           ]
         },
         {
-          "id": "music-11-3519861048256349010",
-          "key": "music-11-3519861048256349010",
+          "id": "music-11-4331152112232187544",
+          "key": "music-11-4331152112232187544",
           "category": "Music",
           "label": "Music",
-          "headline": "These $32 Running Headphones Light Up at Night to Keep You Safe On Your Evening Walk or Run",
-          "title": "These $32 Running Headphones Light Up at Night to Keep You Safe On Your Evening Walk or Run",
-          "snapshot": "The HAKII Light 2 headphones feature a light up headband that emits a bright green glow to keep you visible in dark conditions.",
-          "summary": "The HAKII Light 2 headphones feature a light up headband that emits a bright green glow to keep you visible in dark conditions.",
-          "url": "https://www.billboard.com/culture/product-recommendations/best-light-up-wireless-headphones-for-safe-evening-run-walk-1236321918/",
+          "headline": "Fans Choose ENHYPEN’s ‘THE SIN : BLISS’ as This Week’s Favorite New Music",
+          "title": "Fans Choose ENHYPEN’s ‘THE SIN : BLISS’ as This Week’s Favorite New Music",
+          "snapshot": "The K-pop heavyweights’ eighth mini album brought in nearly 73% of the vote.",
+          "summary": "The K-pop heavyweights’ eighth mini album brought in nearly 73% of the vote.",
+          "url": "https://www.billboard.com/music/pop/enhypen-the-sin-bliss-best-new-music-poll-results-1236322619/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-23 04:54:22 PM ET",
+          "published_at": "2026-08-23 06:02:17 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "These $32 Running Headphones Light Up at Night to Keep You Safe On Your Evening Walk or Run"
+            "Fans Choose ENHYPEN’s ‘THE SIN : BLISS’ as This Week’s Favorite New Music"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2933,8 +2933,8 @@
           ]
         },
         {
-          "id": "music-21-1182040993119128181",
-          "key": "music-21-1182040993119128181",
+          "id": "music-21-1364371105972795406",
+          "key": "music-21-1364371105972795406",
           "category": "Music",
           "label": "Music",
           "headline": "R&B/Hip-Hop Power Players: Billboard’s 2026 List Revealed - Billboard",
@@ -2963,25 +2963,25 @@
       ],
       "items": [
         {
-          "id": "music-0-8174532386713654277",
-          "key": "music-0-8174532386713654277",
+          "id": "music-0-8787114456615851163",
+          "key": "music-0-8787114456615851163",
           "category": "Music",
           "label": "Music",
-          "headline": "Katseye Earns First No. 1 on Albums Chart; Phoebe Bridgers Debuts at No. 2",
-          "title": "Katseye Earns First No. 1 on Albums Chart; Phoebe Bridgers Debuts at No. 2",
-          "snapshot": "Katseye has scored their first No. 1 on the Billboard 200 as their latest project “Wild” debuts atop the list. “Wild,” the five-track offering led by the singles “Pinky Up” and “Hootie Frutti,” bows at the chart’s summit with 170,000 equivalent album units, marking their biggest week by that metric and by pure album...",
-          "summary": "Katseye has scored their first No. 1 on the Billboard 200 as their latest project “Wild” debuts atop the list. “Wild,” the five-track offering led by the singles “Pinky Up” and “Hootie Frutti,” bows at the chart’s summit with 170,000 equivalent album units, marking their biggest week by that metric and by pure album...",
-          "url": "https://variety.com/2026/music/news/katseye-wild-first-no-1-phoebe-bridgers-no-2-albums-chart-1236841114/",
+          "headline": "Foo Fighters and Gustavo Dudamel Blow Up the Hollywood Bowl as Conductor Blows Out the Candle on His Time With the LA Phil: Concert Review",
+          "title": "Foo Fighters and Gustavo Dudamel Blow Up the Hollywood Bowl as Conductor Blows Out the Candle on His Time With the LA Phil: Concert Review",
+          "snapshot": "The LA Phil has played with plenty of pop and rock acts before, but it may have taken Foo Fighters to really put the dude in Dudamel. And not a moment too soon, with this being famed conductor Gustavo Dudamel’s final weekend at the helm of Los Angeles’ primary house symphony. The Phil’s hookup with […]",
+          "summary": "The LA Phil has played with plenty of pop and rock acts before, but it may have taken Foo Fighters to really put the dude in Dudamel. And not a moment too soon, with this being famed conductor Gustavo Dudamel’s final weekend at the helm of Los Angeles’ primary house symphony. The Phil’s hookup with […]",
+          "url": "https://variety.com/2026/music/concert-reviews/foo-fighters-hollywood-bowl-gustavo-dudamel-concert-review-1236841090/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/music/feed/",
-          "published_at": "2026-08-23 03:44:06 PM ET",
+          "published_at": "2026-08-23 09:02:08 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Katseye Earns First No. 1 on Albums Chart; Phoebe Bridgers Debuts at No. 2"
+            "Foo Fighters and Gustavo Dudamel Blow Up the Hollywood Bowl as Conductor Blows Out the Candle on His Time With the LA Phil: Concert Review"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2991,25 +2991,25 @@
           ]
         },
         {
-          "id": "music-10-1858823313274085322",
-          "key": "music-10-1858823313274085322",
+          "id": "music-10-3901693640535909709",
+          "key": "music-10-3901693640535909709",
           "category": "Music",
           "label": "Music",
-          "headline": "Fans Choose ENHYPEN’s ‘THE SIN : BLISS’ as This Week’s Favorite New Music",
-          "title": "Fans Choose ENHYPEN’s ‘THE SIN : BLISS’ as This Week’s Favorite New Music",
-          "snapshot": "The K-pop heavyweights’ eighth mini album brought in nearly 73% of the vote.",
-          "summary": "The K-pop heavyweights’ eighth mini album brought in nearly 73% of the vote.",
-          "url": "https://www.billboard.com/music/pop/enhypen-the-sin-bliss-best-new-music-poll-results-1236322619/",
+          "headline": "QMusic Confirms Kristy Ellis as New CEO",
+          "title": "QMusic Confirms Kristy Ellis as New CEO",
+          "snapshot": "Ellis, who was appointed interim CEO of the trade body in April, steps into the position on a permanent basis, following a nationwide recruitment process.",
+          "summary": "Ellis, who was appointed interim CEO of the trade body in April, steps into the position on a permanent basis, following a nationwide recruitment process.",
+          "url": "https://www.billboard.com/pro/qmusic-appoints-kristy-ellis-new-ceo/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-23 06:02:17 PM ET",
+          "published_at": "2026-08-23 09:00:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "Fans Choose ENHYPEN’s ‘THE SIN : BLISS’ as This Week’s Favorite New Music"
+            "QMusic Confirms Kristy Ellis as New CEO"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3019,8 +3019,8 @@
           ]
         },
         {
-          "id": "music-20-8853936544758262908",
-          "key": "music-20-8853936544758262908",
+          "id": "music-20-4905773295686636244",
+          "key": "music-20-4905773295686636244",
           "category": "Music",
           "label": "Music",
           "headline": "Los Lobos Settles Sony Music Lawsuit Over ‘Desperado’ Movie Soundtrack Royalties - Billboard",
@@ -3047,25 +3047,25 @@
           ]
         },
         {
-          "id": "music-1-8856583257119638827",
-          "key": "music-1-8856583257119638827",
+          "id": "music-1-5986344450374699099",
+          "key": "music-1-5986344450374699099",
           "category": "Music",
           "label": "Music",
-          "headline": "Dr. Dre Says the Only People Who See AI as a Threat Are Those ‘Who Have Trouble Creating’",
-          "title": "Dr. Dre Says the Only People Who See AI as a Threat Are Those ‘Who Have Trouble Creating’",
-          "snapshot": "Dr. Dre, the legendary hip-hop producer and performer, sees AI as another tool in the music-tech toolbox akin to synthesizers — and asserted that only people “who have trouble creating” are afraid of AI. Dre, founder of the Aftermath record label and co-founder and CEO of Apple’s Beats, said that he doesn’t see AI “...",
-          "summary": "Dr. Dre, the legendary hip-hop producer and performer, sees AI as another tool in the music-tech toolbox akin to synthesizers — and asserted that only people “who have trouble creating” are afraid of AI. Dre, founder of the Aftermath record label and co-founder and CEO of Apple’s Beats, said that he doesn’t see AI “...",
-          "url": "https://variety.com/2026/music/news/dr-dre-ai-music-threat-those-who-have-trouble-creating-1236840975/",
+          "headline": "Katseye Earns First No. 1 on Albums Chart; Phoebe Bridgers Debuts at No. 2",
+          "title": "Katseye Earns First No. 1 on Albums Chart; Phoebe Bridgers Debuts at No. 2",
+          "snapshot": "Katseye has scored their first No. 1 on the Billboard 200 as their latest project “Wild” debuts atop the list. “Wild,” the five-track offering led by the singles “Pinky Up” and “Hootie Frutti,” bows at the chart’s summit with 170,000 equivalent album units, marking their biggest week by that metric and by pure album...",
+          "summary": "Katseye has scored their first No. 1 on the Billboard 200 as their latest project “Wild” debuts atop the list. “Wild,” the five-track offering led by the singles “Pinky Up” and “Hootie Frutti,” bows at the chart’s summit with 170,000 equivalent album units, marking their biggest week by that metric and by pure album...",
+          "url": "https://variety.com/2026/music/news/katseye-wild-first-no-1-phoebe-bridgers-no-2-albums-chart-1236841114/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/music/feed/",
-          "published_at": "2026-08-23 09:20:01 AM ET",
+          "published_at": "2026-08-23 03:44:06 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Dr. Dre Says the Only People Who See AI as a Threat Are Those ‘Who Have Trouble Creating’"
+            "Katseye Earns First No. 1 on Albums Chart; Phoebe Bridgers Debuts at No. 2"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3075,25 +3075,25 @@
           ]
         },
         {
-          "id": "music-11-3519861048256349010",
-          "key": "music-11-3519861048256349010",
+          "id": "music-11-4331152112232187544",
+          "key": "music-11-4331152112232187544",
           "category": "Music",
           "label": "Music",
-          "headline": "These $32 Running Headphones Light Up at Night to Keep You Safe On Your Evening Walk or Run",
-          "title": "These $32 Running Headphones Light Up at Night to Keep You Safe On Your Evening Walk or Run",
-          "snapshot": "The HAKII Light 2 headphones feature a light up headband that emits a bright green glow to keep you visible in dark conditions.",
-          "summary": "The HAKII Light 2 headphones feature a light up headband that emits a bright green glow to keep you visible in dark conditions.",
-          "url": "https://www.billboard.com/culture/product-recommendations/best-light-up-wireless-headphones-for-safe-evening-run-walk-1236321918/",
+          "headline": "Fans Choose ENHYPEN’s ‘THE SIN : BLISS’ as This Week’s Favorite New Music",
+          "title": "Fans Choose ENHYPEN’s ‘THE SIN : BLISS’ as This Week’s Favorite New Music",
+          "snapshot": "The K-pop heavyweights’ eighth mini album brought in nearly 73% of the vote.",
+          "summary": "The K-pop heavyweights’ eighth mini album brought in nearly 73% of the vote.",
+          "url": "https://www.billboard.com/music/pop/enhypen-the-sin-bliss-best-new-music-poll-results-1236322619/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-23 04:54:22 PM ET",
+          "published_at": "2026-08-23 06:02:17 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "These $32 Running Headphones Light Up at Night to Keep You Safe On Your Evening Walk or Run"
+            "Fans Choose ENHYPEN’s ‘THE SIN : BLISS’ as This Week’s Favorite New Music"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3103,8 +3103,8 @@
           ]
         },
         {
-          "id": "music-21-1182040993119128181",
-          "key": "music-21-1182040993119128181",
+          "id": "music-21-1364371105972795406",
+          "key": "music-21-1364371105972795406",
           "category": "Music",
           "label": "Music",
           "headline": "R&B/Hip-Hop Power Players: Billboard’s 2026 List Revealed - Billboard",
@@ -3131,7 +3131,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 07:21:36 PM ET"
+      "updated_at": "2026-08-23 09:20:31 PM ET"
     },
     {
       "key": "awards",
@@ -3153,8 +3153,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "awards-0-6945011608195112598",
-          "key": "awards-0-6945011608195112598",
+          "id": "awards-0-1887200070444263938",
+          "key": "awards-0-1887200070444263938",
           "category": "Awards",
           "label": "Awards",
           "headline": "‘Sentimental Value’ Sweeps Amanda Awards",
@@ -3181,8 +3181,8 @@
           ]
         },
         {
-          "id": "awards-8-4611117452752492025",
-          "key": "awards-8-4611117452752492025",
+          "id": "awards-8-7857579232950915114",
+          "key": "awards-8-7857579232950915114",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar - Deadline",
@@ -3209,8 +3209,8 @@
           ]
         },
         {
-          "id": "awards-1-7857553222960056224",
-          "key": "awards-1-7857553222960056224",
+          "id": "awards-1-7005699765430760172",
+          "key": "awards-1-7005699765430760172",
           "category": "Awards",
           "label": "Awards",
           "headline": "‘Slow Horses’ Actor Jack Lowden Unpacks River Cartwright and Why Pride Gets in His Way",
@@ -3237,8 +3237,8 @@
           ]
         },
         {
-          "id": "awards-9-7067174781720807987",
-          "key": "awards-9-7067174781720807987",
+          "id": "awards-9-4488126812150613782",
+          "key": "awards-9-4488126812150613782",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026 Emmys Supporting Actor Comedy Predictions and Rankings - Yahoo",
@@ -3267,8 +3267,8 @@
       ],
       "items": [
         {
-          "id": "awards-0-6945011608195112598",
-          "key": "awards-0-6945011608195112598",
+          "id": "awards-0-1887200070444263938",
+          "key": "awards-0-1887200070444263938",
           "category": "Awards",
           "label": "Awards",
           "headline": "‘Sentimental Value’ Sweeps Amanda Awards",
@@ -3295,8 +3295,8 @@
           ]
         },
         {
-          "id": "awards-8-4611117452752492025",
-          "key": "awards-8-4611117452752492025",
+          "id": "awards-8-7857579232950915114",
+          "key": "awards-8-7857579232950915114",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar - Deadline",
@@ -3323,8 +3323,8 @@
           ]
         },
         {
-          "id": "awards-1-7857553222960056224",
-          "key": "awards-1-7857553222960056224",
+          "id": "awards-1-7005699765430760172",
+          "key": "awards-1-7005699765430760172",
           "category": "Awards",
           "label": "Awards",
           "headline": "‘Slow Horses’ Actor Jack Lowden Unpacks River Cartwright and Why Pride Gets in His Way",
@@ -3351,8 +3351,8 @@
           ]
         },
         {
-          "id": "awards-9-7067174781720807987",
-          "key": "awards-9-7067174781720807987",
+          "id": "awards-9-4488126812150613782",
+          "key": "awards-9-4488126812150613782",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026 Emmys Supporting Actor Comedy Predictions and Rankings - Yahoo",
@@ -3379,7 +3379,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 07:21:36 PM ET"
+      "updated_at": "2026-08-23 09:20:32 PM ET"
     },
     {
       "key": "box_office",
@@ -3401,8 +3401,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "box_office-0-5084575380365125691",
-          "key": "box_office-0-5084575380365125691",
+          "id": "box_office-0-1094230392484748889",
+          "key": "box_office-0-1094230392484748889",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘Insidious: Out of the Further’ Takes First Place on Friday With $10.6 Million, but ‘Spider-Man: Brand New Day’ Will Win the Weekend",
@@ -3429,8 +3429,8 @@
           ]
         },
         {
-          "id": "box_office-9-8095700850668480188",
-          "key": "box_office-9-8095700850668480188",
+          "id": "box_office-9-1149234370233647948",
+          "key": "box_office-9-1149234370233647948",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "The 65 Movies That Have Made More Than $1 Billion At The Global Box Office - Deadline",
@@ -3457,8 +3457,8 @@
           ]
         },
         {
-          "id": "box_office-1-1587375755650290427",
-          "key": "box_office-1-1587375755650290427",
+          "id": "box_office-1-4252197584509584492",
+          "key": "box_office-1-4252197584509584492",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ Beats ‘Deadpool & Wolverine’ as Biggest R-Rated Movie of All Time With $1.35 Billion",
@@ -3485,8 +3485,8 @@
           ]
         },
         {
-          "id": "box_office-10-5970912302239549408",
-          "key": "box_office-10-5970912302239549408",
+          "id": "box_office-10-4474264386882843524",
+          "key": "box_office-10-4474264386882843524",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "2026 box-office hits: Every movie that made more than $100 million - Gold Derby",
@@ -3515,8 +3515,8 @@
       ],
       "items": [
         {
-          "id": "box_office-0-5084575380365125691",
-          "key": "box_office-0-5084575380365125691",
+          "id": "box_office-0-1094230392484748889",
+          "key": "box_office-0-1094230392484748889",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘Insidious: Out of the Further’ Takes First Place on Friday With $10.6 Million, but ‘Spider-Man: Brand New Day’ Will Win the Weekend",
@@ -3543,8 +3543,8 @@
           ]
         },
         {
-          "id": "box_office-9-8095700850668480188",
-          "key": "box_office-9-8095700850668480188",
+          "id": "box_office-9-1149234370233647948",
+          "key": "box_office-9-1149234370233647948",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "The 65 Movies That Have Made More Than $1 Billion At The Global Box Office - Deadline",
@@ -3571,8 +3571,8 @@
           ]
         },
         {
-          "id": "box_office-1-1587375755650290427",
-          "key": "box_office-1-1587375755650290427",
+          "id": "box_office-1-4252197584509584492",
+          "key": "box_office-1-4252197584509584492",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ Beats ‘Deadpool & Wolverine’ as Biggest R-Rated Movie of All Time With $1.35 Billion",
@@ -3599,8 +3599,8 @@
           ]
         },
         {
-          "id": "box_office-10-5970912302239549408",
-          "key": "box_office-10-5970912302239549408",
+          "id": "box_office-10-4474264386882843524",
+          "key": "box_office-10-4474264386882843524",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "2026 box-office hits: Every movie that made more than $100 million - Gold Derby",
@@ -3627,7 +3627,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 07:21:37 PM ET"
+      "updated_at": "2026-08-23 09:20:33 PM ET"
     },
     {
       "key": "celebrity",
@@ -3645,8 +3645,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "celebrity-0-240847029523280463",
-          "key": "celebrity-0-240847029523280463",
+          "id": "celebrity-0-102671268404992966",
+          "key": "celebrity-0-102671268404992966",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3657,7 +3657,7 @@
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-22 06:06:00 PM ET",
+          "published_at": "2026-08-23 06:57:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
@@ -3673,8 +3673,8 @@
           ]
         },
         {
-          "id": "celebrity-1-3666472572739649968",
-          "key": "celebrity-1-3666472572739649968",
+          "id": "celebrity-1-5369906341479622052",
+          "key": "celebrity-1-5369906341479622052",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "PHOTOS: 2026 celebrity deaths - WTOP",
@@ -3703,8 +3703,8 @@
       ],
       "items": [
         {
-          "id": "celebrity-0-240847029523280463",
-          "key": "celebrity-0-240847029523280463",
+          "id": "celebrity-0-102671268404992966",
+          "key": "celebrity-0-102671268404992966",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3715,7 +3715,7 @@
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-22 06:06:00 PM ET",
+          "published_at": "2026-08-23 06:57:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
@@ -3731,8 +3731,8 @@
           ]
         },
         {
-          "id": "celebrity-1-3666472572739649968",
-          "key": "celebrity-1-3666472572739649968",
+          "id": "celebrity-1-5369906341479622052",
+          "key": "celebrity-1-5369906341479622052",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "PHOTOS: 2026 celebrity deaths - WTOP",
@@ -3759,50 +3759,50 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 07:21:38 PM ET"
+      "updated_at": "2026-08-23 09:20:34 PM ET"
     },
     {
       "key": "hollywood",
       "name": "Hollywood",
       "title": "Hollywood Report",
-      "headline": "Dr. Dre Admits He Uses AI To Produce, Doesn’t See It “As A Threat”: “I’m Embracing It”",
+      "headline": "Hayden Panettiere Suffered From Physical Pain & Barred Ex From Attending Book Signing, Says NYT",
       "snapshot": "Hollywood coverage is updating with 6 current RSS headline item(s).",
       "key_storylines": [
-        "Dr. Dre Admits He Uses AI To Produce, Doesn’t See It “As A Threat”: “I’m Embracing It”",
+        "Hayden Panettiere Suffered From Physical Pain & Barred Ex From Attending Book Signing, Says NYT",
         "Hayden Panettiere’s Mom Blasts Gayle King After CBS Host Criticizes Her Reaction to Daughter’s Death",
         "How L.A. stopped being Hollywood’s leading star - Los Angeles Times",
-        "‘Spider-Man: Brand New Day’ No. 1 $109M WW, ‘Insidious’ Franchise Rises To $800M WW – Global Box Office",
+        "Justin Timberlake Makes Surprise Appearance At Don Toliver’s Show in Miami",
         "There Are Scores of Great New Animated Shows. The Emmys Won’t Nominate Them."
       ],
       "watch_list": [
-        "Dr. Dre Admits He Uses AI To Produce, Doesn’t See It “As A Threat”: “I’m Embracing It”",
+        "Hayden Panettiere Suffered From Physical Pain & Barred Ex From Attending Book Signing, Says NYT",
         "Hayden Panettiere’s Mom Blasts Gayle King After CBS Host Criticizes Her Reaction to Daughter’s Death",
         "How L.A. stopped being Hollywood’s leading star - Los Angeles Times",
-        "‘Spider-Man: Brand New Day’ No. 1 $109M WW, ‘Insidious’ Franchise Rises To $800M WW – Global Box Office",
+        "Justin Timberlake Makes Surprise Appearance At Don Toliver’s Show in Miami",
         "There Are Scores of Great New Animated Shows. The Emmys Won’t Nominate Them.",
         "The Hollywood Dissidents Rebuilding the Entertainment Industry from the Inside - IW Features"
       ],
       "homepage_cards": [
         {
-          "id": "hollywood-0-8108083198138046687",
-          "key": "hollywood-0-8108083198138046687",
+          "id": "hollywood-0-3514079030036392808",
+          "key": "hollywood-0-3514079030036392808",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Dr. Dre Admits He Uses AI To Produce, Doesn’t See It “As A Threat”: “I’m Embracing It”",
-          "title": "Dr. Dre Admits He Uses AI To Produce, Doesn’t See It “As A Threat”: “I’m Embracing It”",
-          "snapshot": "As creative industries remain divided on AI, Dr. Dre is full steam ahead on implementing the technology in his own work. The 8x Grammy winner recently admitted to using artificial intelligence in his music producing, explaining the he doesn’t see the technology “as a threat,” but as “a new tool for creativity.” “I d...",
-          "summary": "As creative industries remain divided on AI, Dr. Dre is full steam ahead on implementing the technology in his own work. The 8x Grammy winner recently admitted to using artificial intelligence in his music producing, explaining the he doesn’t see the technology “as a threat,” but as “a new tool for creativity.” “I d...",
-          "url": "https://deadline.com/2026/08/dr-dre-uses-ai-doesnt-see-threat-1237048327/",
+          "headline": "Hayden Panettiere Suffered From Physical Pain & Barred Ex From Attending Book Signing, Says NYT",
+          "title": "Hayden Panettiere Suffered From Physical Pain & Barred Ex From Attending Book Signing, Says NYT",
+          "snapshot": "A new report says that Hayden Panettiere suffered from mysterious pain that felt like “pins and needles” in her legs and that she gave specific instructions during a Manhattan book tour in May that ex-boyfriend Brian Hickerson could not attend. The New York Times on Sunday said Panettiere was accompanied by private...",
+          "summary": "A new report says that Hayden Panettiere suffered from mysterious pain that felt like “pins and needles” in her legs and that she gave specific instructions during a Manhattan book tour in May that ex-boyfriend Brian Hickerson could not attend. The New York Times on Sunday said Panettiere was accompanied by private...",
+          "url": "https://deadline.com/2026/08/hayden-panettiere-suffered-from-physical-pain-new-report-1237048471/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/feed/",
-          "published_at": "2026-08-23 02:52:20 PM ET",
+          "published_at": "2026-08-23 08:54:34 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Dr. Dre Admits He Uses AI To Produce, Doesn’t See It “As A Threat”: “I’m Embracing It”"
+            "Hayden Panettiere Suffered From Physical Pain & Barred Ex From Attending Book Signing, Says NYT"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3812,14 +3812,14 @@
           ]
         },
         {
-          "id": "hollywood-5-320478000886405715",
-          "key": "hollywood-5-320478000886405715",
+          "id": "hollywood-6-783485974957764883",
+          "key": "hollywood-6-783485974957764883",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Hayden Panettiere’s Mom Blasts Gayle King After CBS Host Criticizes Her Reaction to Daughter’s Death",
           "title": "Hayden Panettiere’s Mom Blasts Gayle King After CBS Host Criticizes Her Reaction to Daughter’s Death",
-          "snapshot": "Lesley Vogel said she's \"very, very hurt and deeply disappointed\" by the 'CBS Mornings' host's remarks in the wake of Panettiere’s death.",
-          "summary": "Lesley Vogel said she's \"very, very hurt and deeply disappointed\" by the 'CBS Mornings' host's remarks in the wake of Panettiere’s death.",
+          "snapshot": "Lesley Vogel also slammed Megyn Kelly, saying she's \"very, very hurt and deeply disappointed\" by the podcaster's recent remarks in the wake of Panettiere’s death.",
+          "summary": "Lesley Vogel also slammed Megyn Kelly, saying she's \"very, very hurt and deeply disappointed\" by the podcaster's recent remarks in the wake of Panettiere’s death.",
           "url": "https://www.hollywoodreporter.com/news/general-news/hayden-panettiere-mom-gayle-king-criticized-response-death-1236679398/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
@@ -3828,7 +3828,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 95,
+          "priority_score": 94,
           "key_data": [
             "Hayden Panettiere’s Mom Blasts Gayle King After CBS Host Criticizes Her Reaction to Daughter’s Death"
           ],
@@ -3840,8 +3840,8 @@
           ]
         },
         {
-          "id": "hollywood-9-4439437252194902769",
-          "key": "hollywood-9-4439437252194902769",
+          "id": "hollywood-10-5278039251410097066",
+          "key": "hollywood-10-5278039251410097066",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "How L.A. stopped being Hollywood’s leading star - Los Angeles Times",
@@ -3856,7 +3856,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 91,
+          "priority_score": 90,
           "key_data": [
             "How L.A. stopped being Hollywood’s leading star - Los Angeles Times"
           ],
@@ -3868,25 +3868,25 @@
           ]
         },
         {
-          "id": "hollywood-1-3665398175002815503",
-          "key": "hollywood-1-3665398175002815503",
+          "id": "hollywood-1-7448803443818713865",
+          "key": "hollywood-1-7448803443818713865",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "‘Spider-Man: Brand New Day’ No. 1 $109M WW, ‘Insidious’ Franchise Rises To $800M WW – Global Box Office",
-          "title": "‘Spider-Man: Brand New Day’ No. 1 $109M WW, ‘Insidious’ Franchise Rises To $800M WW – Global Box Office",
-          "snapshot": "The spoils in the U.S. are also the spoils abroad with the global box office in overdrive, much like the United States. Sony/Marvel Studio’s Spider-Man: Brand New Day continues to hulk out with a fourth global weekend of $109M (-43% from last weekend, ahead of the $85M that was forecasted; $39M stateside and $70M of...",
-          "summary": "The spoils in the U.S. are also the spoils abroad with the global box office in overdrive, much like the United States. Sony/Marvel Studio’s Spider-Man: Brand New Day continues to hulk out with a fourth global weekend of $109M (-43% from last weekend, ahead of the $85M that was forecasted; $39M stateside and $70M of...",
-          "url": "https://deadline.com/2026/08/global-box-office-spider-man-brand-new-day-insidious-6-1237048315/",
+          "headline": "Justin Timberlake Makes Surprise Appearance At Don Toliver’s Show in Miami",
+          "title": "Justin Timberlake Makes Surprise Appearance At Don Toliver’s Show in Miami",
+          "snapshot": "This is the kind of concert experience everyone hopes for: Don Toliver’s show in Miami Aug. 22 featured a very special appearance by Justin Timberlake. The Grammy winner, who hasn’t performed on stage for several months, joined rapper Toliver to perform his 2002 hit “Rock Your Body.” Timberlake posted highlights fro...",
+          "summary": "This is the kind of concert experience everyone hopes for: Don Toliver’s show in Miami Aug. 22 featured a very special appearance by Justin Timberlake. The Grammy winner, who hasn’t performed on stage for several months, joined rapper Toliver to perform his 2002 hit “Rock Your Body.” Timberlake posted highlights fro...",
+          "url": "https://deadline.com/2026/08/justin-timberlake-surprise-appearance-don-toliver-1237048468/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/feed/",
-          "published_at": "2026-08-23 01:50:11 PM ET",
+          "published_at": "2026-08-23 08:16:55 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "‘Spider-Man: Brand New Day’ No. 1 $109M WW, ‘Insidious’ Franchise Rises To $800M WW – Global Box Office"
+            "Justin Timberlake Makes Surprise Appearance At Don Toliver’s Show in Miami"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3896,8 +3896,8 @@
           ]
         },
         {
-          "id": "hollywood-6-9141601892409024327",
-          "key": "hollywood-6-9141601892409024327",
+          "id": "hollywood-7-8589980549281121468",
+          "key": "hollywood-7-8589980549281121468",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "There Are Scores of Great New Animated Shows. The Emmys Won’t Nominate Them.",
@@ -3912,7 +3912,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 94,
+          "priority_score": 93,
           "key_data": [
             "There Are Scores of Great New Animated Shows. The Emmys Won’t Nominate Them."
           ],
@@ -3924,8 +3924,8 @@
           ]
         },
         {
-          "id": "hollywood-10-8119415307115618370",
-          "key": "hollywood-10-8119415307115618370",
+          "id": "hollywood-11-5183480548721499791",
+          "key": "hollywood-11-5183480548721499791",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "The Hollywood Dissidents Rebuilding the Entertainment Industry from the Inside - IW Features",
@@ -3940,7 +3940,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 90,
+          "priority_score": 89,
           "key_data": [
             "The Hollywood Dissidents Rebuilding the Entertainment Industry from the Inside - IW Features"
           ],
@@ -3954,25 +3954,25 @@
       ],
       "items": [
         {
-          "id": "hollywood-0-8108083198138046687",
-          "key": "hollywood-0-8108083198138046687",
+          "id": "hollywood-0-3514079030036392808",
+          "key": "hollywood-0-3514079030036392808",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Dr. Dre Admits He Uses AI To Produce, Doesn’t See It “As A Threat”: “I’m Embracing It”",
-          "title": "Dr. Dre Admits He Uses AI To Produce, Doesn’t See It “As A Threat”: “I’m Embracing It”",
-          "snapshot": "As creative industries remain divided on AI, Dr. Dre is full steam ahead on implementing the technology in his own work. The 8x Grammy winner recently admitted to using artificial intelligence in his music producing, explaining the he doesn’t see the technology “as a threat,” but as “a new tool for creativity.” “I d...",
-          "summary": "As creative industries remain divided on AI, Dr. Dre is full steam ahead on implementing the technology in his own work. The 8x Grammy winner recently admitted to using artificial intelligence in his music producing, explaining the he doesn’t see the technology “as a threat,” but as “a new tool for creativity.” “I d...",
-          "url": "https://deadline.com/2026/08/dr-dre-uses-ai-doesnt-see-threat-1237048327/",
+          "headline": "Hayden Panettiere Suffered From Physical Pain & Barred Ex From Attending Book Signing, Says NYT",
+          "title": "Hayden Panettiere Suffered From Physical Pain & Barred Ex From Attending Book Signing, Says NYT",
+          "snapshot": "A new report says that Hayden Panettiere suffered from mysterious pain that felt like “pins and needles” in her legs and that she gave specific instructions during a Manhattan book tour in May that ex-boyfriend Brian Hickerson could not attend. The New York Times on Sunday said Panettiere was accompanied by private...",
+          "summary": "A new report says that Hayden Panettiere suffered from mysterious pain that felt like “pins and needles” in her legs and that she gave specific instructions during a Manhattan book tour in May that ex-boyfriend Brian Hickerson could not attend. The New York Times on Sunday said Panettiere was accompanied by private...",
+          "url": "https://deadline.com/2026/08/hayden-panettiere-suffered-from-physical-pain-new-report-1237048471/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/feed/",
-          "published_at": "2026-08-23 02:52:20 PM ET",
+          "published_at": "2026-08-23 08:54:34 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Dr. Dre Admits He Uses AI To Produce, Doesn’t See It “As A Threat”: “I’m Embracing It”"
+            "Hayden Panettiere Suffered From Physical Pain & Barred Ex From Attending Book Signing, Says NYT"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3982,14 +3982,14 @@
           ]
         },
         {
-          "id": "hollywood-5-320478000886405715",
-          "key": "hollywood-5-320478000886405715",
+          "id": "hollywood-6-783485974957764883",
+          "key": "hollywood-6-783485974957764883",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Hayden Panettiere’s Mom Blasts Gayle King After CBS Host Criticizes Her Reaction to Daughter’s Death",
           "title": "Hayden Panettiere’s Mom Blasts Gayle King After CBS Host Criticizes Her Reaction to Daughter’s Death",
-          "snapshot": "Lesley Vogel said she's \"very, very hurt and deeply disappointed\" by the 'CBS Mornings' host's remarks in the wake of Panettiere’s death.",
-          "summary": "Lesley Vogel said she's \"very, very hurt and deeply disappointed\" by the 'CBS Mornings' host's remarks in the wake of Panettiere’s death.",
+          "snapshot": "Lesley Vogel also slammed Megyn Kelly, saying she's \"very, very hurt and deeply disappointed\" by the podcaster's recent remarks in the wake of Panettiere’s death.",
+          "summary": "Lesley Vogel also slammed Megyn Kelly, saying she's \"very, very hurt and deeply disappointed\" by the podcaster's recent remarks in the wake of Panettiere’s death.",
           "url": "https://www.hollywoodreporter.com/news/general-news/hayden-panettiere-mom-gayle-king-criticized-response-death-1236679398/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
@@ -3998,7 +3998,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 95,
+          "priority_score": 94,
           "key_data": [
             "Hayden Panettiere’s Mom Blasts Gayle King After CBS Host Criticizes Her Reaction to Daughter’s Death"
           ],
@@ -4010,8 +4010,8 @@
           ]
         },
         {
-          "id": "hollywood-9-4439437252194902769",
-          "key": "hollywood-9-4439437252194902769",
+          "id": "hollywood-10-5278039251410097066",
+          "key": "hollywood-10-5278039251410097066",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "How L.A. stopped being Hollywood’s leading star - Los Angeles Times",
@@ -4026,7 +4026,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 91,
+          "priority_score": 90,
           "key_data": [
             "How L.A. stopped being Hollywood’s leading star - Los Angeles Times"
           ],
@@ -4038,25 +4038,25 @@
           ]
         },
         {
-          "id": "hollywood-1-3665398175002815503",
-          "key": "hollywood-1-3665398175002815503",
+          "id": "hollywood-1-7448803443818713865",
+          "key": "hollywood-1-7448803443818713865",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "‘Spider-Man: Brand New Day’ No. 1 $109M WW, ‘Insidious’ Franchise Rises To $800M WW – Global Box Office",
-          "title": "‘Spider-Man: Brand New Day’ No. 1 $109M WW, ‘Insidious’ Franchise Rises To $800M WW – Global Box Office",
-          "snapshot": "The spoils in the U.S. are also the spoils abroad with the global box office in overdrive, much like the United States. Sony/Marvel Studio’s Spider-Man: Brand New Day continues to hulk out with a fourth global weekend of $109M (-43% from last weekend, ahead of the $85M that was forecasted; $39M stateside and $70M of...",
-          "summary": "The spoils in the U.S. are also the spoils abroad with the global box office in overdrive, much like the United States. Sony/Marvel Studio’s Spider-Man: Brand New Day continues to hulk out with a fourth global weekend of $109M (-43% from last weekend, ahead of the $85M that was forecasted; $39M stateside and $70M of...",
-          "url": "https://deadline.com/2026/08/global-box-office-spider-man-brand-new-day-insidious-6-1237048315/",
+          "headline": "Justin Timberlake Makes Surprise Appearance At Don Toliver’s Show in Miami",
+          "title": "Justin Timberlake Makes Surprise Appearance At Don Toliver’s Show in Miami",
+          "snapshot": "This is the kind of concert experience everyone hopes for: Don Toliver’s show in Miami Aug. 22 featured a very special appearance by Justin Timberlake. The Grammy winner, who hasn’t performed on stage for several months, joined rapper Toliver to perform his 2002 hit “Rock Your Body.” Timberlake posted highlights fro...",
+          "summary": "This is the kind of concert experience everyone hopes for: Don Toliver’s show in Miami Aug. 22 featured a very special appearance by Justin Timberlake. The Grammy winner, who hasn’t performed on stage for several months, joined rapper Toliver to perform his 2002 hit “Rock Your Body.” Timberlake posted highlights fro...",
+          "url": "https://deadline.com/2026/08/justin-timberlake-surprise-appearance-don-toliver-1237048468/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/feed/",
-          "published_at": "2026-08-23 01:50:11 PM ET",
+          "published_at": "2026-08-23 08:16:55 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "‘Spider-Man: Brand New Day’ No. 1 $109M WW, ‘Insidious’ Franchise Rises To $800M WW – Global Box Office"
+            "Justin Timberlake Makes Surprise Appearance At Don Toliver’s Show in Miami"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4066,8 +4066,8 @@
           ]
         },
         {
-          "id": "hollywood-6-9141601892409024327",
-          "key": "hollywood-6-9141601892409024327",
+          "id": "hollywood-7-8589980549281121468",
+          "key": "hollywood-7-8589980549281121468",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "There Are Scores of Great New Animated Shows. The Emmys Won’t Nominate Them.",
@@ -4082,7 +4082,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 94,
+          "priority_score": 93,
           "key_data": [
             "There Are Scores of Great New Animated Shows. The Emmys Won’t Nominate Them."
           ],
@@ -4094,8 +4094,8 @@
           ]
         },
         {
-          "id": "hollywood-10-8119415307115618370",
-          "key": "hollywood-10-8119415307115618370",
+          "id": "hollywood-11-5183480548721499791",
+          "key": "hollywood-11-5183480548721499791",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "The Hollywood Dissidents Rebuilding the Entertainment Industry from the Inside - IW Features",
@@ -4110,7 +4110,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 90,
+          "priority_score": 89,
           "key_data": [
             "The Hollywood Dissidents Rebuilding the Entertainment Industry from the Inside - IW Features"
           ],
@@ -4122,28 +4122,26 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 07:21:39 PM ET"
+      "updated_at": "2026-08-23 09:20:35 PM ET"
     },
     {
       "key": "gaming",
       "name": "Gaming",
       "title": "Gaming Report",
       "headline": "Marvel’s Wolverine Limited-Edition PS5 Controller Is Still Available for Preorder (But It May Sell Out)",
-      "snapshot": "Gaming coverage is updating with 3 current RSS headline item(s).",
+      "snapshot": "Gaming coverage is updating with 2 current RSS headline item(s).",
       "key_storylines": [
         "Marvel’s Wolverine Limited-Edition PS5 Controller Is Still Available for Preorder (But It May Sell Out)",
-        "GTA 6 CyberLeek update: Everything leaked so far, what might be next - Mashable",
         "[UPDATE] GTA 6 Leaker Shows No Sign of Slowing Down as Ninth Gameplay Video Hits the Internet"
       ],
       "watch_list": [
         "Marvel’s Wolverine Limited-Edition PS5 Controller Is Still Available for Preorder (But It May Sell Out)",
-        "GTA 6 CyberLeek update: Everything leaked so far, what might be next - Mashable",
         "[UPDATE] GTA 6 Leaker Shows No Sign of Slowing Down as Ninth Gameplay Video Hits the Internet"
       ],
       "homepage_cards": [
         {
-          "id": "gaming-0-2978055078516947878",
-          "key": "gaming-0-2978055078516947878",
+          "id": "gaming-0-4450876839547800220",
+          "key": "gaming-0-4450876839547800220",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Marvel’s Wolverine Limited-Edition PS5 Controller Is Still Available for Preorder (But It May Sell Out)",
@@ -4170,36 +4168,8 @@
           ]
         },
         {
-          "id": "gaming-20-7776947241345277165",
-          "key": "gaming-20-7776947241345277165",
-          "category": "Gaming",
-          "label": "Gaming",
-          "headline": "GTA 6 CyberLeek update: Everything leaked so far, what might be next - Mashable",
-          "title": "GTA 6 CyberLeek update: Everything leaked so far, what might be next - Mashable",
-          "snapshot": "GTA 6 CyberLeek update: Everything leaked so far, what might be next Mashable",
-          "summary": "GTA 6 CyberLeek update: Everything leaked so far, what might be next Mashable",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNU0R2NENwN2k0djA3Z3FYNjBkeDJJRWNtMUlKZjlHSzdweDY4Ymo0Ym9GQVpOblZWOGRMenlpZndMdmQ3RDU5UVd5TDlRRnp0TU9nS2NEZzRtZlU0MmJJdVQ3ZzZfN3JoUHJuQ1Q3cXl5VUEtbjhKR0JkZkdhTXY0QzdPSmRUM0ViRXJfYm5yS1FnUQ?oc=5",
-          "source": "Google News",
-          "source_name": "Google News",
-          "source_feed": "https://news.google.com/rss/search?q=gaming+video+games+entertainment&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-21 03:00:00 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 80,
-          "key_data": [
-            "GTA 6 CyberLeek update: Everything leaked so far, what might be next - Mashable"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "gaming-1-1106721565749399087",
-          "key": "gaming-1-1106721565749399087",
+          "id": "gaming-1-7598281443078433924",
+          "key": "gaming-1-7598281443078433924",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "[UPDATE] GTA 6 Leaker Shows No Sign of Slowing Down as Ninth Gameplay Video Hits the Internet",
@@ -4228,8 +4198,8 @@
       ],
       "items": [
         {
-          "id": "gaming-0-2978055078516947878",
-          "key": "gaming-0-2978055078516947878",
+          "id": "gaming-0-4450876839547800220",
+          "key": "gaming-0-4450876839547800220",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Marvel’s Wolverine Limited-Edition PS5 Controller Is Still Available for Preorder (But It May Sell Out)",
@@ -4256,36 +4226,8 @@
           ]
         },
         {
-          "id": "gaming-20-7776947241345277165",
-          "key": "gaming-20-7776947241345277165",
-          "category": "Gaming",
-          "label": "Gaming",
-          "headline": "GTA 6 CyberLeek update: Everything leaked so far, what might be next - Mashable",
-          "title": "GTA 6 CyberLeek update: Everything leaked so far, what might be next - Mashable",
-          "snapshot": "GTA 6 CyberLeek update: Everything leaked so far, what might be next Mashable",
-          "summary": "GTA 6 CyberLeek update: Everything leaked so far, what might be next Mashable",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNU0R2NENwN2k0djA3Z3FYNjBkeDJJRWNtMUlKZjlHSzdweDY4Ymo0Ym9GQVpOblZWOGRMenlpZndMdmQ3RDU5UVd5TDlRRnp0TU9nS2NEZzRtZlU0MmJJdVQ3ZzZfN3JoUHJuQ1Q3cXl5VUEtbjhKR0JkZkdhTXY0QzdPSmRUM0ViRXJfYm5yS1FnUQ?oc=5",
-          "source": "Google News",
-          "source_name": "Google News",
-          "source_feed": "https://news.google.com/rss/search?q=gaming+video+games+entertainment&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-21 03:00:00 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 80,
-          "key_data": [
-            "GTA 6 CyberLeek update: Everything leaked so far, what might be next - Mashable"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "gaming-1-1106721565749399087",
-          "key": "gaming-1-1106721565749399087",
+          "id": "gaming-1-7598281443078433924",
+          "key": "gaming-1-7598281443078433924",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "[UPDATE] GTA 6 Leaker Shows No Sign of Slowing Down as Ninth Gameplay Video Hits the Internet",
@@ -4312,7 +4254,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 07:21:40 PM ET"
+      "updated_at": "2026-08-23 09:20:36 PM ET"
     },
     {
       "key": "media",
@@ -4322,23 +4264,23 @@
       "snapshot": "Media coverage is updating with 6 current RSS headline item(s).",
       "key_storylines": [
         "Secret Hollywood Group’s AI Plan Focuses on Defining How AI Is Used — While Keeping Humans in Control",
-        "Paramount & State AGs Settlement Talks Set For Next Week; Gavin Newsom Says He Takes Paramount CEO’s Threat To Leave California “Seriously”",
-        "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
+        "Simon Wiesenthal Center CEO Calls Out Mark Ruffalo For “Antisemitism” & “Demonization”",
+        "SNK Entertainment dissolved after 10 years. Most of its businesses transferred to parent company SNK - AUTOMATON",
         "Vertical Media on Track to Generate $150 Billion in 2026 as the Booming Sector Fights Crowded Content Field and High Subscriber Acquisition Costs",
-        "TikTok To Pay $400M In Justice Department Settlement Over Children’s Privacy"
+        "Paramount & State AGs Settlement Talks Set For Next Week; Gavin Newsom Says He Takes Paramount CEO’s Threat To Leave California “Seriously”"
       ],
       "watch_list": [
         "Secret Hollywood Group’s AI Plan Focuses on Defining How AI Is Used — While Keeping Humans in Control",
-        "Paramount & State AGs Settlement Talks Set For Next Week; Gavin Newsom Says He Takes Paramount CEO’s Threat To Leave California “Seriously”",
-        "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
+        "Simon Wiesenthal Center CEO Calls Out Mark Ruffalo For “Antisemitism” & “Demonization”",
+        "SNK Entertainment dissolved after 10 years. Most of its businesses transferred to parent company SNK - AUTOMATON",
         "Vertical Media on Track to Generate $150 Billion in 2026 as the Booming Sector Fights Crowded Content Field and High Subscriber Acquisition Costs",
-        "TikTok To Pay $400M In Justice Department Settlement Over Children’s Privacy",
-        "SNK Entertainment dissolved after 10 years. Most of its businesses transferred to parent company SNK - AUTOMATON"
+        "Paramount & State AGs Settlement Talks Set For Next Week; Gavin Newsom Says He Takes Paramount CEO’s Threat To Leave California “Seriously”",
+        "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR"
       ],
       "homepage_cards": [
         {
-          "id": "media-0-340409259850684311",
-          "key": "media-0-340409259850684311",
+          "id": "media-0-940693683257329408",
+          "key": "media-0-940693683257329408",
           "category": "Media",
           "label": "Media",
           "headline": "Secret Hollywood Group’s AI Plan Focuses on Defining How AI Is Used — While Keeping Humans in Control",
@@ -4365,25 +4307,25 @@
           ]
         },
         {
-          "id": "media-10-1444715414141831875",
-          "key": "media-10-1444715414141831875",
+          "id": "media-10-6386200279032975172",
+          "key": "media-10-6386200279032975172",
           "category": "Media",
           "label": "Media",
-          "headline": "Paramount & State AGs Settlement Talks Set For Next Week; Gavin Newsom Says He Takes Paramount CEO’s Threat To Leave California “Seriously”",
-          "title": "Paramount & State AGs Settlement Talks Set For Next Week; Gavin Newsom Says He Takes Paramount CEO’s Threat To Leave California “Seriously”",
-          "snapshot": "(Updated with California Attorney General statement) After weeks of speculation about Gavin Newsom’s true position on Paramount’s $111 billion acquisition of Warner Bros Discovery and the antitrust suit filed a coalition of state attorneys general, the outgoing governor of California finally weighed in publicly toda...",
-          "summary": "(Updated with California Attorney General statement) After weeks of speculation about Gavin Newsom’s true position on Paramount’s $111 billion acquisition of Warner Bros Discovery and the antitrust suit filed a coalition of state attorneys general, the outgoing governor of California finally weighed in publicly toda...",
-          "url": "https://deadline.com/2026/08/gavin-newsom-paramount-merger-settlement-talks-1237048002/",
+          "headline": "Simon Wiesenthal Center CEO Calls Out Mark Ruffalo For “Antisemitism” & “Demonization”",
+          "title": "Simon Wiesenthal Center CEO Calls Out Mark Ruffalo For “Antisemitism” & “Demonization”",
+          "snapshot": "Just hours after Mark Ruffalo responded to Paramount’s accusations of antisemitism, the CEO of the Simon Wiesenthal Center issued a statement to Deadline on the subject. “Words matter, and so does the willingness to draw a line when legitimate debate gives way to antisemitic tropes,” wrote Jim Berk. “We commend Para...",
+          "summary": "Just hours after Mark Ruffalo responded to Paramount’s accusations of antisemitism, the CEO of the Simon Wiesenthal Center issued a statement to Deadline on the subject. “Words matter, and so does the willingness to draw a line when legitimate debate gives way to antisemitic tropes,” wrote Jim Berk. “We commend Para...",
+          "url": "https://deadline.com/2026/08/mark-ruffalo-paramount-simon-wiesenthal-antisemitism-1237048202/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/business/feed/",
-          "published_at": "2026-08-21 08:59:47 PM ET",
+          "published_at": "2026-08-22 11:18:05 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "Paramount & State AGs Settlement Talks Set For Next Week; Gavin Newsom Says He Takes Paramount CEO’s Threat To Leave California “Seriously”"
+            "Simon Wiesenthal Center CEO Calls Out Mark Ruffalo For “Antisemitism” & “Demonization”"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4393,25 +4335,25 @@
           ]
         },
         {
-          "id": "media-20-7680299322782814934",
-          "key": "media-20-7680299322782814934",
+          "id": "media-21-1310878966700843498",
+          "key": "media-21-1310878966700843498",
           "category": "Media",
           "label": "Media",
-          "headline": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
-          "title": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
-          "snapshot": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar News On AIR",
-          "summary": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar News On AIR",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSWNQSE9iNkw3bldMbkp6MEM2T0YyeVlOX1diZU9JdjZVZFpwMXNTemp3dXFqaW9iX3VwdTJvT3BsQ1pXWnI4ZGs3VlMzZzRMeEF1VG83SGVZVHlrSnVYLU1WcWhlcmNzRlNUWFhXaFdyUzRUaVQzN2RCX3lOTFZ6b0xHUzgtQUJfTnhvQllmM3gxQWF4c05vd1I4NjdsaGFmcnlQR2lNdTUtYVlQVm9JLVBKVTdnMWZuaElFSWphZm1yUGZOZHBVZkxmeExENGk2eWtwTEt2S1VhcjNIMG1PcnBsYmdWcmc?oc=5",
+          "headline": "SNK Entertainment dissolved after 10 years. Most of its businesses transferred to parent company SNK - AUTOMATON",
+          "title": "SNK Entertainment dissolved after 10 years. Most of its businesses transferred to parent company SNK - AUTOMATON",
+          "snapshot": "SNK Entertainment dissolved after 10 years. Most of its businesses transferred to parent company SNK AUTOMATON",
+          "summary": "SNK Entertainment dissolved after 10 years. Most of its businesses transferred to parent company SNK AUTOMATON",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTjBrdmllYWhYeDh6OURNM0duWmpMR2NRaXZ4YmxQRk5xcXlBWFA4WGhNRHV3Zk9uVkZ1eXJ5REtZWkkyNXFpVXlsOVFMWF8tYTc5cnp0OXE5clNnMTJpbzB3SmttZHozYnd6clJzZXRYb2xuUTZ0UlpQWlpIMDByRlNYaFpKb3VGQWdnN2dJbDdJNjJzcU04MVJKd3RmMlNmVUZMUUJnaWN0SlRZbFBrUmw4ZHJwTnNsMEY1WnlLOHpIWXBvWkpvYnJkUUFHYV90RFE?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=media+entertainment+industry+news&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-23 10:43:37 AM ET",
+          "published_at": "2026-08-20 01:17:38 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 80,
+          "priority_score": 79,
           "key_data": [
-            "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR"
+            "SNK Entertainment dissolved after 10 years. Most of its businesses transferred to parent company SNK - AUTOMATON"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4421,8 +4363,8 @@
           ]
         },
         {
-          "id": "media-1-4977054512946521173",
-          "key": "media-1-4977054512946521173",
+          "id": "media-1-440216325443878127",
+          "key": "media-1-440216325443878127",
           "category": "Media",
           "label": "Media",
           "headline": "Vertical Media on Track to Generate $150 Billion in 2026 as the Booming Sector Fights Crowded Content Field and High Subscriber Acquisition Costs",
@@ -4449,25 +4391,25 @@
           ]
         },
         {
-          "id": "media-11-6377520567726019942",
-          "key": "media-11-6377520567726019942",
+          "id": "media-11-1077997760355985213",
+          "key": "media-11-1077997760355985213",
           "category": "Media",
           "label": "Media",
-          "headline": "TikTok To Pay $400M In Justice Department Settlement Over Children’s Privacy",
-          "title": "TikTok To Pay $400M In Justice Department Settlement Over Children’s Privacy",
-          "snapshot": "The Department of Justice said Friday it has secured a $400 million settlement in its Children’s Online Privacy Protection Act case against TikTok. After filing a complaint in 2024, the DOJ said today it has resolved litigation with TikTok, ByteDance and affiliated entities over collection of children’s personal inf...",
-          "summary": "The Department of Justice said Friday it has secured a $400 million settlement in its Children’s Online Privacy Protection Act case against TikTok. After filing a complaint in 2024, the DOJ said today it has resolved litigation with TikTok, ByteDance and affiliated entities over collection of children’s personal inf...",
-          "url": "https://deadline.com/2026/08/tiktok-400m-justice-department-settlement-childrens-privacy-1237047976/",
+          "headline": "Paramount & State AGs Settlement Talks Set For Next Week; Gavin Newsom Says He Takes Paramount CEO’s Threat To Leave California “Seriously”",
+          "title": "Paramount & State AGs Settlement Talks Set For Next Week; Gavin Newsom Says He Takes Paramount CEO’s Threat To Leave California “Seriously”",
+          "snapshot": "(Updated with California Attorney General statement) After weeks of speculation about Gavin Newsom’s true position on Paramount’s $111 billion acquisition of Warner Bros Discovery and the antitrust suit filed a coalition of state attorneys general, the outgoing governor of California finally weighed in publicly toda...",
+          "summary": "(Updated with California Attorney General statement) After weeks of speculation about Gavin Newsom’s true position on Paramount’s $111 billion acquisition of Warner Bros Discovery and the antitrust suit filed a coalition of state attorneys general, the outgoing governor of California finally weighed in publicly toda...",
+          "url": "https://deadline.com/2026/08/gavin-newsom-paramount-merger-settlement-talks-1237048002/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/business/feed/",
-          "published_at": "2026-08-21 07:28:37 PM ET",
+          "published_at": "2026-08-21 08:59:47 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "TikTok To Pay $400M In Justice Department Settlement Over Children’s Privacy"
+            "Paramount & State AGs Settlement Talks Set For Next Week; Gavin Newsom Says He Takes Paramount CEO’s Threat To Leave California “Seriously”"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4477,25 +4419,25 @@
           ]
         },
         {
-          "id": "media-21-1565222656406218518",
-          "key": "media-21-1565222656406218518",
+          "id": "media-22-3368992546496502984",
+          "key": "media-22-3368992546496502984",
           "category": "Media",
           "label": "Media",
-          "headline": "SNK Entertainment dissolved after 10 years. Most of its businesses transferred to parent company SNK - AUTOMATON",
-          "title": "SNK Entertainment dissolved after 10 years. Most of its businesses transferred to parent company SNK - AUTOMATON",
-          "snapshot": "SNK Entertainment dissolved after 10 years. Most of its businesses transferred to parent company SNK AUTOMATON",
-          "summary": "SNK Entertainment dissolved after 10 years. Most of its businesses transferred to parent company SNK AUTOMATON",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTjBrdmllYWhYeDh6OURNM0duWmpMR2NRaXZ4YmxQRk5xcXlBWFA4WGhNRHV3Zk9uVkZ1eXJ5REtZWkkyNXFpVXlsOVFMWF8tYTc5cnp0OXE5clNnMTJpbzB3SmttZHozYnd6clJzZXRYb2xuUTZ0UlpQWlpIMDByRlNYaFpKb3VGQWdnN2dJbDdJNjJzcU04MVJKd3RmMlNmVUZMUUJnaWN0SlRZbFBrUmw4ZHJwTnNsMEY1WnlLOHpIWXBvWkpvYnJkUUFHYV90RFE?oc=5",
+          "headline": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
+          "title": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
+          "snapshot": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar News On AIR",
+          "summary": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar News On AIR",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSWNQSE9iNkw3bldMbkp6MEM2T0YyeVlOX1diZU9JdjZVZFpwMXNTemp3dXFqaW9iX3VwdTJvT3BsQ1pXWnI4ZGs3VlMzZzRMeEF1VG83SGVZVHlrSnVYLU1WcWhlcmNzRlNUWFhXaFdyUzRUaVQzN2RCX3lOTFZ6b0xHUzgtQUJfTnhvQllmM3gxQWF4c05vd1I4NjdsaGFmcnlQR2lNdTUtYVlQVm9JLVBKVTdnMWZuaElFSWphZm1yUGZOZHBVZkxmeExENGk2eWtwTEt2S1VhcjNIMG1PcnBsYmdWcmc?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=media+entertainment+industry+news&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-20 01:17:38 AM ET",
+          "published_at": "2026-08-23 10:43:37 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 79,
+          "priority_score": 78,
           "key_data": [
-            "SNK Entertainment dissolved after 10 years. Most of its businesses transferred to parent company SNK - AUTOMATON"
+            "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4507,8 +4449,8 @@
       ],
       "items": [
         {
-          "id": "media-0-340409259850684311",
-          "key": "media-0-340409259850684311",
+          "id": "media-0-940693683257329408",
+          "key": "media-0-940693683257329408",
           "category": "Media",
           "label": "Media",
           "headline": "Secret Hollywood Group’s AI Plan Focuses on Defining How AI Is Used — While Keeping Humans in Control",
@@ -4535,25 +4477,25 @@
           ]
         },
         {
-          "id": "media-10-1444715414141831875",
-          "key": "media-10-1444715414141831875",
+          "id": "media-10-6386200279032975172",
+          "key": "media-10-6386200279032975172",
           "category": "Media",
           "label": "Media",
-          "headline": "Paramount & State AGs Settlement Talks Set For Next Week; Gavin Newsom Says He Takes Paramount CEO’s Threat To Leave California “Seriously”",
-          "title": "Paramount & State AGs Settlement Talks Set For Next Week; Gavin Newsom Says He Takes Paramount CEO’s Threat To Leave California “Seriously”",
-          "snapshot": "(Updated with California Attorney General statement) After weeks of speculation about Gavin Newsom’s true position on Paramount’s $111 billion acquisition of Warner Bros Discovery and the antitrust suit filed a coalition of state attorneys general, the outgoing governor of California finally weighed in publicly toda...",
-          "summary": "(Updated with California Attorney General statement) After weeks of speculation about Gavin Newsom’s true position on Paramount’s $111 billion acquisition of Warner Bros Discovery and the antitrust suit filed a coalition of state attorneys general, the outgoing governor of California finally weighed in publicly toda...",
-          "url": "https://deadline.com/2026/08/gavin-newsom-paramount-merger-settlement-talks-1237048002/",
+          "headline": "Simon Wiesenthal Center CEO Calls Out Mark Ruffalo For “Antisemitism” & “Demonization”",
+          "title": "Simon Wiesenthal Center CEO Calls Out Mark Ruffalo For “Antisemitism” & “Demonization”",
+          "snapshot": "Just hours after Mark Ruffalo responded to Paramount’s accusations of antisemitism, the CEO of the Simon Wiesenthal Center issued a statement to Deadline on the subject. “Words matter, and so does the willingness to draw a line when legitimate debate gives way to antisemitic tropes,” wrote Jim Berk. “We commend Para...",
+          "summary": "Just hours after Mark Ruffalo responded to Paramount’s accusations of antisemitism, the CEO of the Simon Wiesenthal Center issued a statement to Deadline on the subject. “Words matter, and so does the willingness to draw a line when legitimate debate gives way to antisemitic tropes,” wrote Jim Berk. “We commend Para...",
+          "url": "https://deadline.com/2026/08/mark-ruffalo-paramount-simon-wiesenthal-antisemitism-1237048202/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/business/feed/",
-          "published_at": "2026-08-21 08:59:47 PM ET",
+          "published_at": "2026-08-22 11:18:05 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "Paramount & State AGs Settlement Talks Set For Next Week; Gavin Newsom Says He Takes Paramount CEO’s Threat To Leave California “Seriously”"
+            "Simon Wiesenthal Center CEO Calls Out Mark Ruffalo For “Antisemitism” & “Demonization”"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4563,25 +4505,25 @@
           ]
         },
         {
-          "id": "media-20-7680299322782814934",
-          "key": "media-20-7680299322782814934",
+          "id": "media-21-1310878966700843498",
+          "key": "media-21-1310878966700843498",
           "category": "Media",
           "label": "Media",
-          "headline": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
-          "title": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
-          "snapshot": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar News On AIR",
-          "summary": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar News On AIR",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSWNQSE9iNkw3bldMbkp6MEM2T0YyeVlOX1diZU9JdjZVZFpwMXNTemp3dXFqaW9iX3VwdTJvT3BsQ1pXWnI4ZGs3VlMzZzRMeEF1VG83SGVZVHlrSnVYLU1WcWhlcmNzRlNUWFhXaFdyUzRUaVQzN2RCX3lOTFZ6b0xHUzgtQUJfTnhvQllmM3gxQWF4c05vd1I4NjdsaGFmcnlQR2lNdTUtYVlQVm9JLVBKVTdnMWZuaElFSWphZm1yUGZOZHBVZkxmeExENGk2eWtwTEt2S1VhcjNIMG1PcnBsYmdWcmc?oc=5",
+          "headline": "SNK Entertainment dissolved after 10 years. Most of its businesses transferred to parent company SNK - AUTOMATON",
+          "title": "SNK Entertainment dissolved after 10 years. Most of its businesses transferred to parent company SNK - AUTOMATON",
+          "snapshot": "SNK Entertainment dissolved after 10 years. Most of its businesses transferred to parent company SNK AUTOMATON",
+          "summary": "SNK Entertainment dissolved after 10 years. Most of its businesses transferred to parent company SNK AUTOMATON",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTjBrdmllYWhYeDh6OURNM0duWmpMR2NRaXZ4YmxQRk5xcXlBWFA4WGhNRHV3Zk9uVkZ1eXJ5REtZWkkyNXFpVXlsOVFMWF8tYTc5cnp0OXE5clNnMTJpbzB3SmttZHozYnd6clJzZXRYb2xuUTZ0UlpQWlpIMDByRlNYaFpKb3VGQWdnN2dJbDdJNjJzcU04MVJKd3RmMlNmVUZMUUJnaWN0SlRZbFBrUmw4ZHJwTnNsMEY1WnlLOHpIWXBvWkpvYnJkUUFHYV90RFE?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=media+entertainment+industry+news&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-23 10:43:37 AM ET",
+          "published_at": "2026-08-20 01:17:38 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 80,
+          "priority_score": 79,
           "key_data": [
-            "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR"
+            "SNK Entertainment dissolved after 10 years. Most of its businesses transferred to parent company SNK - AUTOMATON"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4591,8 +4533,8 @@
           ]
         },
         {
-          "id": "media-1-4977054512946521173",
-          "key": "media-1-4977054512946521173",
+          "id": "media-1-440216325443878127",
+          "key": "media-1-440216325443878127",
           "category": "Media",
           "label": "Media",
           "headline": "Vertical Media on Track to Generate $150 Billion in 2026 as the Booming Sector Fights Crowded Content Field and High Subscriber Acquisition Costs",
@@ -4619,25 +4561,25 @@
           ]
         },
         {
-          "id": "media-11-6377520567726019942",
-          "key": "media-11-6377520567726019942",
+          "id": "media-11-1077997760355985213",
+          "key": "media-11-1077997760355985213",
           "category": "Media",
           "label": "Media",
-          "headline": "TikTok To Pay $400M In Justice Department Settlement Over Children’s Privacy",
-          "title": "TikTok To Pay $400M In Justice Department Settlement Over Children’s Privacy",
-          "snapshot": "The Department of Justice said Friday it has secured a $400 million settlement in its Children’s Online Privacy Protection Act case against TikTok. After filing a complaint in 2024, the DOJ said today it has resolved litigation with TikTok, ByteDance and affiliated entities over collection of children’s personal inf...",
-          "summary": "The Department of Justice said Friday it has secured a $400 million settlement in its Children’s Online Privacy Protection Act case against TikTok. After filing a complaint in 2024, the DOJ said today it has resolved litigation with TikTok, ByteDance and affiliated entities over collection of children’s personal inf...",
-          "url": "https://deadline.com/2026/08/tiktok-400m-justice-department-settlement-childrens-privacy-1237047976/",
+          "headline": "Paramount & State AGs Settlement Talks Set For Next Week; Gavin Newsom Says He Takes Paramount CEO’s Threat To Leave California “Seriously”",
+          "title": "Paramount & State AGs Settlement Talks Set For Next Week; Gavin Newsom Says He Takes Paramount CEO’s Threat To Leave California “Seriously”",
+          "snapshot": "(Updated with California Attorney General statement) After weeks of speculation about Gavin Newsom’s true position on Paramount’s $111 billion acquisition of Warner Bros Discovery and the antitrust suit filed a coalition of state attorneys general, the outgoing governor of California finally weighed in publicly toda...",
+          "summary": "(Updated with California Attorney General statement) After weeks of speculation about Gavin Newsom’s true position on Paramount’s $111 billion acquisition of Warner Bros Discovery and the antitrust suit filed a coalition of state attorneys general, the outgoing governor of California finally weighed in publicly toda...",
+          "url": "https://deadline.com/2026/08/gavin-newsom-paramount-merger-settlement-talks-1237048002/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/business/feed/",
-          "published_at": "2026-08-21 07:28:37 PM ET",
+          "published_at": "2026-08-21 08:59:47 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "TikTok To Pay $400M In Justice Department Settlement Over Children’s Privacy"
+            "Paramount & State AGs Settlement Talks Set For Next Week; Gavin Newsom Says He Takes Paramount CEO’s Threat To Leave California “Seriously”"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4647,25 +4589,25 @@
           ]
         },
         {
-          "id": "media-21-1565222656406218518",
-          "key": "media-21-1565222656406218518",
+          "id": "media-22-3368992546496502984",
+          "key": "media-22-3368992546496502984",
           "category": "Media",
           "label": "Media",
-          "headline": "SNK Entertainment dissolved after 10 years. Most of its businesses transferred to parent company SNK - AUTOMATON",
-          "title": "SNK Entertainment dissolved after 10 years. Most of its businesses transferred to parent company SNK - AUTOMATON",
-          "snapshot": "SNK Entertainment dissolved after 10 years. Most of its businesses transferred to parent company SNK AUTOMATON",
-          "summary": "SNK Entertainment dissolved after 10 years. Most of its businesses transferred to parent company SNK AUTOMATON",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTjBrdmllYWhYeDh6OURNM0duWmpMR2NRaXZ4YmxQRk5xcXlBWFA4WGhNRHV3Zk9uVkZ1eXJ5REtZWkkyNXFpVXlsOVFMWF8tYTc5cnp0OXE5clNnMTJpbzB3SmttZHozYnd6clJzZXRYb2xuUTZ0UlpQWlpIMDByRlNYaFpKb3VGQWdnN2dJbDdJNjJzcU04MVJKd3RmMlNmVUZMUUJnaWN0SlRZbFBrUmw4ZHJwTnNsMEY1WnlLOHpIWXBvWkpvYnJkUUFHYV90RFE?oc=5",
+          "headline": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
+          "title": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
+          "snapshot": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar News On AIR",
+          "summary": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar News On AIR",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSWNQSE9iNkw3bldMbkp6MEM2T0YyeVlOX1diZU9JdjZVZFpwMXNTemp3dXFqaW9iX3VwdTJvT3BsQ1pXWnI4ZGs3VlMzZzRMeEF1VG83SGVZVHlrSnVYLU1WcWhlcmNzRlNUWFhXaFdyUzRUaVQzN2RCX3lOTFZ6b0xHUzgtQUJfTnhvQllmM3gxQWF4c05vd1I4NjdsaGFmcnlQR2lNdTUtYVlQVm9JLVBKVTdnMWZuaElFSWphZm1yUGZOZHBVZkxmeExENGk2eWtwTEt2S1VhcjNIMG1PcnBsYmdWcmc?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=media+entertainment+industry+news&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-20 01:17:38 AM ET",
+          "published_at": "2026-08-23 10:43:37 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 79,
+          "priority_score": 78,
           "key_data": [
-            "SNK Entertainment dissolved after 10 years. Most of its businesses transferred to parent company SNK - AUTOMATON"
+            "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4675,7 +4617,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-23 07:21:41 PM ET"
+      "updated_at": "2026-08-23 09:20:36 PM ET"
     }
   ]
 }
