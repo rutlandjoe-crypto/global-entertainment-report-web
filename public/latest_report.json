@@ -3,17 +3,17 @@
   "site": "Global Entertainment Report",
   "site_name": "Global Entertainment Report",
   "vertical": "Entertainment",
-  "headline": "Nandamuri Balakrishna, Sunny Deol, Nayanthara Lead Zee Studios' Multilingual 2026-27 Slate (EXCLUSIVE)",
-  "snapshot": "Global Entertainment Report accepted 49 real RSS item(s) across 31 checked feed request(s).",
-  "generated_at": "2026-08-25 02:49:54 AM ET",
-  "updated_at": "2026-08-25 02:49:54 AM ET",
-  "published_at": "2026-08-25 02:49:54 AM ET",
+  "headline": "'Cairo Conspiracy's Tawfeek Barhom to Star in Les Valseurs' 'Borderline' by Oscar-Nominated Yves Piat (EXCLUSIVE)",
+  "snapshot": "Global Entertainment Report accepted 48 real RSS item(s) across 31 checked feed request(s).",
+  "generated_at": "2026-08-25 03:43:54 AM ET",
+  "updated_at": "2026-08-25 03:43:54 AM ET",
+  "published_at": "2026-08-25 03:43:54 AM ET",
   "source_mode": "live RSS ingestion",
   "freshness": {
     "max_item_age_hours": 336,
-    "accepted_real_items": 49,
+    "accepted_real_items": 48,
     "checked_feeds": 31,
-    "feeds_without_accepted_items": 6
+    "feeds_without_accepted_items": 7
   },
   "feed_audit": [
     {
@@ -53,9 +53,9 @@
       "final_url": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 88,
+      "rejected_count": 89,
       "rejection_reasons": {
-        "stale-over-336h": 88
+        "stale-over-336h": 89
       }
     },
     {
@@ -65,9 +65,9 @@
       "final_url": "https://variety.com/v/tv/feed/",
       "item_count": 10,
       "accepted_count": 2,
-      "rejected_count": 3,
+      "rejected_count": 2,
       "rejection_reasons": {
-        "duplicate-story": 3
+        "duplicate-story": 2
       }
     },
     {
@@ -131,11 +131,11 @@
       "url": "https://news.google.com/rss/search?q=streaming+netflix+hulu+disney+entertainment&hl=en-US&gl=US&ceid=US:en",
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=streaming+netflix+hulu+disney+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "item_count": 72,
+      "item_count": 73,
       "accepted_count": 2,
-      "rejected_count": 67,
+      "rejected_count": 68,
       "rejection_reasons": {
-        "stale-over-336h": 67
+        "stale-over-336h": 68
       }
     },
     {
@@ -167,9 +167,9 @@
       "final_url": "https://news.google.com/rss/search?q=music+entertainment+billboard&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 95,
+      "rejected_count": 96,
       "rejection_reasons": {
-        "stale-over-336h": 95
+        "stale-over-336h": 96
       }
     },
     {
@@ -225,8 +225,10 @@
       "final_url": "https://variety.com/v/film/box-office/feed/",
       "item_count": 10,
       "accepted_count": 2,
-      "rejected_count": 0,
-      "rejection_reasons": {}
+      "rejected_count": 1,
+      "rejection_reasons": {
+        "duplicate-story": 1
+      }
     },
     {
       "category": "box_office",
@@ -237,8 +239,8 @@
       "accepted_count": 2,
       "rejected_count": 60,
       "rejection_reasons": {
-        "duplicate-story": 1,
-        "stale-over-336h": 59
+        "duplicate-story": 2,
+        "stale-over-336h": 58
       }
     },
     {
@@ -258,7 +260,7 @@
       "url": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
-      "item_count": 92,
+      "item_count": 93,
       "accepted_count": 2,
       "rejected_count": 87,
       "rejection_reasons": {
@@ -271,10 +273,10 @@
       "status_code": "200",
       "final_url": "https://variety.com/feed/",
       "item_count": 10,
-      "accepted_count": 1,
-      "rejected_count": 9,
+      "accepted_count": 0,
+      "rejected_count": 10,
       "rejection_reasons": {
-        "duplicate-story": 9
+        "duplicate-story": 10
       }
     },
     {
@@ -284,9 +286,9 @@
       "final_url": "https://deadline.com/feed/",
       "item_count": 12,
       "accepted_count": 2,
-      "rejected_count": 9,
+      "rejected_count": 8,
       "rejection_reasons": {
-        "duplicate-story": 9
+        "duplicate-story": 8
       }
     },
     {
@@ -296,9 +298,9 @@
       "final_url": "https://www.hollywoodreporter.com/feed/",
       "item_count": 10,
       "accepted_count": 2,
-      "rejected_count": 5,
+      "rejected_count": 4,
       "rejection_reasons": {
-        "duplicate-story": 5
+        "duplicate-story": 4
       }
     },
     {
@@ -308,9 +310,9 @@
       "final_url": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 89,
+      "rejected_count": 90,
       "rejection_reasons": {
-        "stale-over-336h": 89
+        "stale-over-336h": 90
       }
     },
     {
@@ -376,33 +378,33 @@
   "substack_url": "https://globalentertainmentreport.substack.com/",
   "x_handle": "@GlobalSportsRp",
   "key_storylines": [
-    "Nandamuri Balakrishna, Sunny Deol, Nayanthara Lead Zee Studios' Multilingual 2026-27 Slate (EXCLUSIVE)",
+    "'Cairo Conspiracy's Tawfeek Barhom to Star in Les Valseurs' 'Borderline' by Oscar-Nominated Yves Piat (EXCLUSIVE)",
     "Saoirse Ronan Is \"Dead Serious\" About Playing A Bond Villain: \"I Want To Go Dark\"",
     "Dominic Monaghan to Join 'Lord of the Rings' 25th Anniversary Reunion With Elijah Wood, More at CCXP",
     "If You Love 'Black Mirror,' There's One Movie You Need to Watch Next - Lifehacker",
-    "Australia's Laneway Festival Confirms 2027 Dates",
+    "Vince Staples Announces 2027 Australian Headline Tour",
     "The Witcher 3 Songs of the Past Expansion Confirmed to Include More Gwent, and Everyone Is Already Celebrating",
-    "Imagen Awards Red Carpet: Andy Garcia, Karla Souza, Wilmer Valderrama and More Celebrity Photos",
+    "Na Hong-Jin's 'Hope,' Netflix's 'Dead-End Job' and 'Blue Road,' Disney+'s 'The Remarried Empress' Among Selections as Busan Unveils Korean Cinema Today, On Screen Lineups",
     "'Hangover' Architects Jon Lucas & Scott Moore On Keeping Comedy In Theaters With 'Spa Weekend' - Crew Call Podcast"
   ],
   "live_newsroom": [
     {
-      "id": "film-0-6000962821184860464",
-      "key": "film-0-6000962821184860464",
+      "id": "film-0-8261138002538488132",
+      "key": "film-0-8261138002538488132",
       "category": "Film",
       "label": "Film",
-      "headline": "Nandamuri Balakrishna, Sunny Deol, Nayanthara Lead Zee Studios' Multilingual 2026-27 Slate (EXCLUSIVE)",
-      "title": "Nandamuri Balakrishna, Sunny Deol, Nayanthara Lead Zee Studios' Multilingual 2026-27 Slate (EXCLUSIVE)",
-      "snapshot": "India's Zee Studios has unveiled a diversified multilingual, multi-genre content slate for 2026-27, spanning Hindi, Marathi, Telugu, Tamil, Malayalam, Gujarati and Kannada cinema. The portfolio brings together commercial entertainers, action spectacles, thrillers, mythology-driven epics and regionally rooted stories...",
-      "summary": "India's Zee Studios has unveiled a diversified multilingual, multi-genre content slate for 2026-27, spanning Hindi, Marathi, Telugu, Tamil, Malayalam, Gujarati and Kannada cinema. The portfolio brings together commercial entertainers, action spectacles, thrillers, mythology-driven epics and regionally rooted stories...",
-      "url": "https://variety.com/2026/film/news/nandamuri-balakrishna-sunny-deol-nayanthara-zee-studios-slate-1236841553/",
+      "headline": "'Cairo Conspiracy's Tawfeek Barhom to Star in Les Valseurs' 'Borderline' by Oscar-Nominated Yves Piat (EXCLUSIVE)",
+      "title": "'Cairo Conspiracy's Tawfeek Barhom to Star in Les Valseurs' 'Borderline' by Oscar-Nominated Yves Piat (EXCLUSIVE)",
+      "snapshot": "Palestinian actor Tawfeek Barhom, best known for Tarik Saleh's Cannes winner \"Cairo Conspiracy\" in 2022 and Palme d'Or winner 2025 for his short film \"I'm Glad You're Dead Now,\" is set to headline the French pic \"Borderline\" by first-timer Yves Piat. A very loose feature-length version of Piat's Oscar-nominated live...",
+      "summary": "Palestinian actor Tawfeek Barhom, best known for Tarik Saleh's Cannes winner \"Cairo Conspiracy\" in 2022 and Palme d'Or winner 2025 for his short film \"I'm Glad You're Dead Now,\" is set to headline the French pic \"Borderline\" by first-timer Yves Piat. A very loose feature-length version of Piat's Oscar-nominated live...",
+      "url": "https://variety.com/2026/film/global/tawfeek-barhom-les-valseurs-borderline-1236841611/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-24 11:30:00 PM ET",
+      "published_at": "2026-08-25 03:38:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Nandamuri Balakrishna, Sunny Deol, Nayanthara Lead Zee Studios' Multilingual 2026-27 Slate (EXCLUSIVE)"
+        "'Cairo Conspiracy's Tawfeek Barhom to Star in Les Valseurs' 'Borderline' by Oscar-Nominated Yves Piat (EXCLUSIVE)"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -414,8 +416,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-230845995918829358",
-      "key": "film-10-230845995918829358",
+      "id": "film-10-7884324424106935001",
+      "key": "film-10-7884324424106935001",
       "category": "Film",
       "label": "Film",
       "headline": "Saoirse Ronan Is \"Dead Serious\" About Playing A Bond Villain: \"I Want To Go Dark\"",
@@ -441,8 +443,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-135000973866588121",
-      "key": "film-22-135000973866588121",
+      "id": "film-22-5507163932251561497",
+      "key": "film-22-5507163932251561497",
       "category": "Film",
       "label": "Film",
       "headline": "Dominic Monaghan to Join 'Lord of the Rings' 25th Anniversary Reunion With Elijah Wood, More at CCXP",
@@ -468,8 +470,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-1659028692603891485",
-      "key": "film-32-1659028692603891485",
+      "id": "film-32-6565702353140700359",
+      "key": "film-32-6565702353140700359",
       "category": "Film",
       "label": "Film",
       "headline": "If You Love 'Black Mirror,' There's One Movie You Need to Watch Next - Lifehacker",
@@ -495,22 +497,22 @@
       "priority_score": 68
     },
     {
-      "id": "music-9-4302779025831382401",
-      "key": "music-9-4302779025831382401",
+      "id": "music-9-5131152753093850104",
+      "key": "music-9-5131152753093850104",
       "category": "Music",
       "label": "Music",
-      "headline": "Australia's Laneway Festival Confirms 2027 Dates",
-      "title": "Australia's Laneway Festival Confirms 2027 Dates",
-      "snapshot": "It follows confirmation earlier this month that Adelaide and Perth would miss out on the festival in 2027.",
-      "summary": "It follows confirmation earlier this month that Adelaide and Perth would miss out on the festival in 2027.",
-      "url": "https://www.billboard.com/music/concerts/laneway-festival-2027-dates-1236323649/",
+      "headline": "Vince Staples Announces 2027 Australian Headline Tour",
+      "title": "Vince Staples Announces 2027 Australian Headline Tour",
+      "snapshot": "The shows mark his first solo Australian dates in nearly a decade.",
+      "summary": "The shows mark his first solo Australian dates in nearly a decade.",
+      "url": "https://www.billboard.com/music/rb-hip-hop/vince-staples-2027-australian-headline-tour-1236323700/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-25 12:04:23 AM ET",
+      "published_at": "2026-08-25 03:37:37 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Australia's Laneway Festival Confirms 2027 Dates"
+        "Vince Staples Announces 2027 Australian Headline Tour"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -522,8 +524,8 @@
       "priority_score": 91
     },
     {
-      "id": "gaming-0-286077746059806376",
-      "key": "gaming-0-286077746059806376",
+      "id": "gaming-0-5095964815507295301",
+      "key": "gaming-0-5095964815507295301",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The Witcher 3 Songs of the Past Expansion Confirmed to Include More Gwent, and Everyone Is Already Celebrating",
@@ -549,22 +551,22 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-1992274110179836047",
-      "key": "film-1-1992274110179836047",
+      "id": "film-1-4286048703025649344",
+      "key": "film-1-4286048703025649344",
       "category": "Film",
       "label": "Film",
-      "headline": "Imagen Awards Red Carpet: Andy Garcia, Karla Souza, Wilmer Valderrama and More Celebrity Photos",
-      "title": "Imagen Awards Red Carpet: Andy Garcia, Karla Souza, Wilmer Valderrama and More Celebrity Photos",
-      "snapshot": "Andy Garcia, Karla Souza and Wilmer Valderrama were among those on the red carpet Friday night for the 41st annual Imagen Awards at The Beverly Hilton in Beverly Hills. Celebrating Latino talent and creatives across entertainment, the gala honored Andy Garcia with the Lifetime Achievement Award for his four-decade c...",
-      "summary": "Andy Garcia, Karla Souza and Wilmer Valderrama were among those on the red carpet Friday night for the 41st annual Imagen Awards at The Beverly Hilton in Beverly Hills. Celebrating Latino talent and creatives across entertainment, the gala honored Andy Garcia with the Lifetime Achievement Award for his four-decade c...",
-      "url": "https://variety.com/gallery/41st-imagen-awards-red-carpet-photos/",
+      "headline": "Na Hong-Jin's 'Hope,' Netflix's 'Dead-End Job' and 'Blue Road,' Disney+'s 'The Remarried Empress' Among Selections as Busan Unveils Korean Cinema Today, On Screen Lineups",
+      "title": "Na Hong-Jin's 'Hope,' Netflix's 'Dead-End Job' and 'Blue Road,' Disney+'s 'The Remarried Empress' Among Selections as Busan Unveils Korean Cinema Today, On Screen Lineups",
+      "snapshot": "The 31st Busan International Film Festival (BIFF) has unveiled its Korean Cinema Today and On Screen selections, with Na Hong-Jin's \"Hope\" among a nine-film lineup spanning Panorama and Special Premiere. \"Hope,\" Na's latest feature, drew global attention ahead of release on the strength of its large-scale production...",
+      "summary": "The 31st Busan International Film Festival (BIFF) has unveiled its Korean Cinema Today and On Screen selections, with Na Hong-Jin's \"Hope\" among a nine-film lineup spanning Panorama and Special Premiere. \"Hope,\" Na's latest feature, drew global attention ahead of release on the strength of its large-scale production...",
+      "url": "https://variety.com/2026/film/festivals/na-hong-jin-hope-netflix-disney-busan-korean-cinema-today-1236842197/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-24 10:14:02 PM ET",
+      "published_at": "2026-08-25 03:25:37 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Imagen Awards Red Carpet: Andy Garcia, Karla Souza, Wilmer Valderrama and More Celebrity Photos"
+        "Na Hong-Jin's 'Hope,' Netflix's 'Dead-End Job' and 'Blue Road,' Disney+'s 'The Remarried Empress' Among Selections as Busan Unveils Korean Cinema Today, On Screen Lineups"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -576,8 +578,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-9048331512521870484",
-      "key": "film-11-9048331512521870484",
+      "id": "film-11-4493339790248938388",
+      "key": "film-11-4493339790248938388",
       "category": "Film",
       "label": "Film",
       "headline": "'Hangover' Architects Jon Lucas & Scott Moore On Keeping Comedy In Theaters With 'Spa Weekend' - Crew Call Podcast",
@@ -603,8 +605,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-7559653565115766329",
-      "key": "film-23-7559653565115766329",
+      "id": "film-23-1800490120756715891",
+      "key": "film-23-1800490120756715891",
       "category": "Film",
       "label": "Film",
       "headline": "Jacob Chase to Direct 'Sleepover' for Blumhouse Atomic Monster; Universal Sets 2027 Release",
@@ -630,22 +632,22 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-9050858669055259261",
-      "key": "film-33-9050858669055259261",
+      "id": "film-33-320189999219078704",
+      "key": "film-33-320189999219078704",
       "category": "Film",
       "label": "Film",
-      "headline": "Robert De Niro slams Trump 'cult' before Netflix movie premiere - USA Today",
-      "title": "Robert De Niro slams Trump 'cult' before Netflix movie premiere - USA Today",
-      "snapshot": "Robert De Niro slams Trump 'cult' before Netflix movie premiere USA Today",
-      "summary": "Robert De Niro slams Trump 'cult' before Netflix movie premiere USA Today",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY2E5OER1dTUtNEoyRGtTeHNKVlRUczBSRlFsLU9jaU9UQWN0cWVsZWFPVnR6M0tfZGdhM3QxUFpVSTM3VzJSdy1rSWlEZG5vY2gtWkF3NVhCdkxzZmY0b1BYLU10bWNNMDE4dDQ3RkpqbFF2OWl4UW1SUVFEMnZ3YnZsNkN0bldBSWhxV19FNUtuclB0MFJLc0hjeS1sblFnWTFnbFI4SzE5Ny1KTzlB?oc=5",
+      "headline": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
+      "title": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
+      "snapshot": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list Los Angeles Times",
+      "summary": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVVdJUV9IcXkwdldma2tPbi1udzh2bWFnSElsNU1vT21tM295WVN1dVJwTUVWclUycDY2Y1RCSHRkMExIdWhyc3hLdng0WEZ1dkhyalpySjBheVJiNFlMOWczdmxIcjNmZFc3ck00aFlYMGFESTRzdXM0X003di1NRnFobXFtMFlrU05mMVI1aWQ4bDA5aVVUbDY3YjFlWGd5bGY2SDJ5dGs1eEI1Q2xMUG92dkprMG9BcnJ4SkxhOWJGTHVlT3ZTR2puQk9kNS1wa0E?oc=5",
       "source": "Google News",
       "source_name": "Google News",
       "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "published_at": "2026-08-25 01:34:00 AM ET",
+      "published_at": "2026-08-21 11:00:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Robert De Niro slams Trump 'cult' before Netflix movie premiere - USA Today"
+        "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -657,22 +659,22 @@
       "priority_score": 67
     },
     {
-      "id": "music-10-6353034610103646678",
-      "key": "music-10-6353034610103646678",
+      "id": "music-10-6657799294442980364",
+      "key": "music-10-6657799294442980364",
       "category": "Music",
       "label": "Music",
-      "headline": "ARIA Sets AI Eligibility Rules for Its Charts, Barring Wholly AI-Generated Tracks",
-      "title": "ARIA Sets AI Eligibility Rules for Its Charts, Barring Wholly AI-Generated Tracks",
-      "snapshot": "To qualify, a recording must be \"substantially human-made\" and raise \"no stream or chart manipulation concerns.\"",
-      "summary": "To qualify, a recording must be \"substantially human-made\" and raise \"no stream or chart manipulation concerns.\"",
-      "url": "https://www.billboard.com/pro/aria-sets-ai-eligibility-rules/",
+      "headline": "Australia's Laneway Festival Confirms 2027 Dates",
+      "title": "Australia's Laneway Festival Confirms 2027 Dates",
+      "snapshot": "It follows confirmation earlier this month that Adelaide and Perth would miss out on the festival in 2027.",
+      "summary": "It follows confirmation earlier this month that Adelaide and Perth would miss out on the festival in 2027.",
+      "url": "https://www.billboard.com/music/concerts/laneway-festival-2027-dates-1236323649/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-24 11:57:27 PM ET",
+      "published_at": "2026-08-25 12:04:23 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "ARIA Sets AI Eligibility Rules for Its Charts, Barring Wholly AI-Generated Tracks"
+        "Australia's Laneway Festival Confirms 2027 Dates"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -684,8 +686,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-1-7634803299684533764",
-      "key": "gaming-1-7634803299684533764",
+      "id": "gaming-1-7638516321353147790",
+      "key": "gaming-1-7638516321353147790",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Persona Comes to Beard Papa's With Special 30th Anniversary Collaboration",
@@ -713,22 +715,22 @@
   ],
   "editor_signals": [
     {
-      "id": "film-2-3212947996528860467",
-      "key": "film-2-3212947996528860467",
+      "id": "film-2-8361479811160382700",
+      "key": "film-2-8361479811160382700",
       "category": "Film",
       "label": "Film",
-      "headline": "'Insidious: Out of the Further' Director Jacob Chase to Helm Horror Movie 'Sleepover' for Blumhouse Atomic Monster and Universal",
-      "title": "'Insidious: Out of the Further' Director Jacob Chase to Helm Horror Movie 'Sleepover' for Blumhouse Atomic Monster and Universal",
-      "snapshot": "\"Insidious: Out of the Further\" director Jacob Chase is set to direct the horror project \"Sleepover\" for Blumhouse Atomic Monster and Universal Pictures. Described as the \"quintessential sleepover nightmare,\" it's set for an Oct. 8, 2027 theatrical release. Chase directs from a screenplay co-written with \"Night Swim...",
-      "summary": "\"Insidious: Out of the Further\" director Jacob Chase is set to direct the horror project \"Sleepover\" for Blumhouse Atomic Monster and Universal Pictures. Described as the \"quintessential sleepover nightmare,\" it's set for an Oct. 8, 2027 theatrical release. Chase directs from a screenplay co-written with \"Night Swim...",
-      "url": "https://variety.com/2026/film/news/jacob-chase-sleepover-blumhouse-atomic-monster-1236841899/",
+      "headline": "'Spider-Man: Brand New Day,' 'The Odyssey' Extend Battle Atop U.K. and Ireland Box Office as 'Insidious' Makes Strong Debut",
+      "title": "'Spider-Man: Brand New Day,' 'The Odyssey' Extend Battle Atop U.K. and Ireland Box Office as 'Insidious' Makes Strong Debut",
+      "snapshot": "Sony's \"Spider-Man: Brand New Day\" retained the No. 1 spot at the U.K. and Ireland box office for a fourth consecutive week, collecting £3.6 million ($4.8 million), according to Rentrak. The superhero blockbuster pushed its running cumulative gross to $117.9 million. Universal's \"The Odyssey,\" directed by Christophe...",
+      "summary": "Sony's \"Spider-Man: Brand New Day\" retained the No. 1 spot at the U.K. and Ireland box office for a fourth consecutive week, collecting £3.6 million ($4.8 million), according to Rentrak. The superhero blockbuster pushed its running cumulative gross to $117.9 million. Universal's \"The Odyssey,\" directed by Christophe...",
+      "url": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-odyssey-insidious-uk-ireland-box-office-1236842186/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-24 05:00:00 PM ET",
+      "published_at": "2026-08-25 03:00:05 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Insidious: Out of the Further' Director Jacob Chase to Helm Horror Movie 'Sleepover' for Blumhouse Atomic Monster and Universal"
+        "'Spider-Man: Brand New Day,' 'The Odyssey' Extend Battle Atop U.K. and Ireland Box Office as 'Insidious' Makes Strong Debut"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -740,8 +742,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-8330115254729030102",
-      "key": "film-12-8330115254729030102",
+      "id": "film-12-8049970454243871399",
+      "key": "film-12-8049970454243871399",
       "category": "Film",
       "label": "Film",
       "headline": "Field Of Vision Debuts Ukraine War-Themed 'When It Started To Burn' On Ukrainian Independence Day",
@@ -767,8 +769,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-6547647752742960969",
-      "key": "film-24-6547647752742960969",
+      "id": "film-24-8542727250689926339",
+      "key": "film-24-8542727250689926339",
       "category": "Film",
       "label": "Film",
       "headline": "James Lew, Stuntman and 'Hot Shots! Part Deux' Actor, Dies at 73",
@@ -794,22 +796,22 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-1984184973875932281",
-      "key": "film-34-1984184973875932281",
+      "id": "film-34-8948083143977505975",
+      "key": "film-34-8948083143977505975",
       "category": "Film",
       "label": "Film",
-      "headline": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
-      "title": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
-      "snapshot": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list Los Angeles Times",
-      "summary": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVVdJUV9IcXkwdldma2tPbi1udzh2bWFnSElsNU1vT21tM295WVN1dVJwTUVWclUycDY2Y1RCSHRkMExIdWhyc3hLdng0WEZ1dkhyalpySjBheVJiNFlMOWczdmxIcjNmZFc3ck00aFlYMGFESTRzdXM0X003di1NRnFobXFtMFlrU05mMVI1aWQ4bDA5aVVUbDY3YjFlWGd5bGY2SDJ5dGs1eEI1Q2xMUG92dkprMG9BcnJ4SkxhOWJGTHVlT3ZTR2puQk9kNS1wa0E?oc=5",
+      "headline": "New investors flip script to get into film funding, distribution as sector slump opens opportunities - Korea JoongAng Daily",
+      "title": "New investors flip script to get into film funding, distribution as sector slump opens opportunities - Korea JoongAng Daily",
+      "snapshot": "New investors flip script to get into film funding, distribution as sector slump opens opportunities Korea JoongAng Daily",
+      "summary": "New investors flip script to get into film funding, distribution as sector slump opens opportunities Korea JoongAng Daily",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNmNaR2ZBU05xU1d6X0ZLUnpDMVlWdVU3eW1FVmNOWmRRX3dDeUswVjhpck4tWGljQUdqbkpHWVBfeUlTSzFNdlVodFctNHl2UWFjM1U5REE5TlpXV0c4d1BuTXlsMGFDQW5PTHpHUFBibHREQ1FnZTNSYTBhS3puVENkZXlLT3hYdGJEeW8wcFk0VmRGV1RfbEdZdHlNUTVlQWtzV3pvM3cyWFhBUnFGT0d6UzdhR1BYQ0Rrcmlja3MyUW5Jb3kxUVRmRTFRVHJwRGdDd2QxS2xjMktTblg1V2FiY1gwTlRIODh2WVNR?oc=5",
       "source": "Google News",
       "source_name": "Google News",
       "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "published_at": "2026-08-21 11:00:00 AM ET",
+      "published_at": "2026-08-23 06:01:03 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times"
+        "New investors flip script to get into film funding, distribution as sector slump opens opportunities - Korea JoongAng Daily"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -821,22 +823,22 @@
       "priority_score": 66
     },
     {
-      "id": "music-11-1428133043572123511",
-      "key": "music-11-1428133043572123511",
+      "id": "music-11-6876832442502897420",
+      "key": "music-11-6876832442502897420",
       "category": "Music",
       "label": "Music",
-      "headline": "Veteran Nashville Music Journalist and Author Vernell Hackett Dies at 77",
-      "title": "Veteran Nashville Music Journalist and Author Vernell Hackett Dies at 77",
-      "snapshot": "During her career, Hackett worked with artists including Chris LeDoux and Dale Ann Bradley.",
-      "summary": "During her career, Hackett worked with artists including Chris LeDoux and Dale Ann Bradley.",
-      "url": "https://www.billboard.com/pro/nashville-music-journalist-author-vernell-hackett-dead-77/",
+      "headline": "ARIA Sets AI Eligibility Rules for Its Charts, Barring Wholly AI-Generated Tracks",
+      "title": "ARIA Sets AI Eligibility Rules for Its Charts, Barring Wholly AI-Generated Tracks",
+      "snapshot": "To qualify, a recording must be \"substantially human-made\" and raise \"no stream or chart manipulation concerns.\"",
+      "summary": "To qualify, a recording must be \"substantially human-made\" and raise \"no stream or chart manipulation concerns.\"",
+      "url": "https://www.billboard.com/pro/aria-sets-ai-eligibility-rules/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-24 08:45:27 PM ET",
+      "published_at": "2026-08-24 11:57:27 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Veteran Nashville Music Journalist and Author Vernell Hackett Dies at 77"
+        "ARIA Sets AI Eligibility Rules for Its Charts, Barring Wholly AI-Generated Tracks"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -848,8 +850,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-2-97033959718093658",
-      "key": "gaming-2-97033959718093658",
+      "id": "gaming-2-4443208006976668372",
+      "key": "gaming-2-4443208006976668372",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Call of Duty: Modern Warfare 4 Devs Vow to Update Captain Price After Botched Haircut Goes Viral",
@@ -875,22 +877,22 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-6509223415514486803",
-      "key": "film-3-6509223415514486803",
+      "id": "film-3-2778458171958444844",
+      "key": "film-3-2778458171958444844",
       "category": "Film",
       "label": "Film",
-      "headline": "'How to Lose a Guy in 10 Days' Sequel Set Up at Paramount; Kate Hudson to Produce (EXCLUSIVE)",
-      "title": "'How to Lose a Guy in 10 Days' Sequel Set Up at Paramount; Kate Hudson to Produce (EXCLUSIVE)",
-      "snapshot": "A \"How to Lose a Guy in 10 Days\" sequel is in the works at Paramount, with original star Kate Hudson attached to produce the project, Variety can report exclusively. Development on the sequel is in early stages, with the cast and several key creative roles yet to be selected, according to a source close […]",
-      "summary": "A \"How to Lose a Guy in 10 Days\" sequel is in the works at Paramount, with original star Kate Hudson attached to produce the project, Variety can report exclusively. Development on the sequel is in early stages, with the cast and several key creative roles yet to be selected, according to a source close […]",
-      "url": "https://variety.com/2026/film/news/how-to-lose-a-guy-in-10-days-sequel-kate-hudson-paramount-1236839807/",
+      "headline": "Nandamuri Balakrishna, Sunny Deol, Nayanthara Lead Zee Studios' Multilingual 2026-27 Slate (EXCLUSIVE)",
+      "title": "Nandamuri Balakrishna, Sunny Deol, Nayanthara Lead Zee Studios' Multilingual 2026-27 Slate (EXCLUSIVE)",
+      "snapshot": "India's Zee Studios has unveiled a diversified multilingual, multi-genre content slate for 2026-27, spanning Hindi, Marathi, Telugu, Tamil, Malayalam, Gujarati and Kannada cinema. The portfolio brings together commercial entertainers, action spectacles, thrillers, mythology-driven epics and regionally rooted stories...",
+      "summary": "India's Zee Studios has unveiled a diversified multilingual, multi-genre content slate for 2026-27, spanning Hindi, Marathi, Telugu, Tamil, Malayalam, Gujarati and Kannada cinema. The portfolio brings together commercial entertainers, action spectacles, thrillers, mythology-driven epics and regionally rooted stories...",
+      "url": "https://variety.com/2026/film/news/nandamuri-balakrishna-sunny-deol-nayanthara-zee-studios-slate-1236841553/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-24 03:37:51 PM ET",
+      "published_at": "2026-08-24 11:30:00 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'How to Lose a Guy in 10 Days' Sequel Set Up at Paramount; Kate Hudson to Produce (EXCLUSIVE)"
+        "Nandamuri Balakrishna, Sunny Deol, Nayanthara Lead Zee Studios' Multilingual 2026-27 Slate (EXCLUSIVE)"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -902,8 +904,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-2712552489453594199",
-      "key": "film-13-2712552489453594199",
+      "id": "film-13-9052924396462894478",
+      "key": "film-13-9052924396462894478",
       "category": "Film",
       "label": "Film",
       "headline": "Oscars 2027 International Feature Film Submissions By Country",
@@ -929,8 +931,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-1759258741970439069",
-      "key": "film-25-1759258741970439069",
+      "id": "film-25-3578930109439427666",
+      "key": "film-25-3578930109439427666",
       "category": "Film",
       "label": "Film",
       "headline": "'How to Lose a Guy in 10 Days' Sequel in the Works at Paramount",
@@ -956,22 +958,22 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-8687892356707293173",
-      "key": "film-35-8687892356707293173",
+      "id": "film-35-4401286225966842138",
+      "key": "film-35-4401286225966842138",
       "category": "Film",
       "label": "Film",
-      "headline": "New investors flip script to get into film funding, distribution as sector slump opens opportunities - Korea JoongAng Daily",
-      "title": "New investors flip script to get into film funding, distribution as sector slump opens opportunities - Korea JoongAng Daily",
-      "snapshot": "New investors flip script to get into film funding, distribution as sector slump opens opportunities Korea JoongAng Daily",
-      "summary": "New investors flip script to get into film funding, distribution as sector slump opens opportunities Korea JoongAng Daily",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNmNaR2ZBU05xU1d6X0ZLUnpDMVlWdVU3eW1FVmNOWmRRX3dDeUswVjhpck4tWGljQUdqbkpHWVBfeUlTSzFNdlVodFctNHl2UWFjM1U5REE5TlpXV0c4d1BuTXlsMGFDQW5PTHpHUFBibHREQ1FnZTNSYTBhS3puVENkZXlLT3hYdGJEeW8wcFk0VmRGV1RfbEdZdHlNUTVlQWtzV3pvM3cyWFhBUnFGT0d6UzdhR1BYQ0Rrcmlja3MyUW5Jb3kxUVRmRTFRVHJwRGdDd2QxS2xjMktTblg1V2FiY1gwTlRIODh2WVNR?oc=5",
+      "headline": "The Best Action Movie From Every Year in the 1990s - Mental Floss",
+      "title": "The Best Action Movie From Every Year in the 1990s - Mental Floss",
+      "snapshot": "The Best Action Movie From Every Year in the 1990s Mental Floss",
+      "summary": "The Best Action Movie From Every Year in the 1990s Mental Floss",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX3JBUUszaXIxS2RSbTNaRThDdUZkMExDbE1acXdyWmNPWXZUSUM3ZC1SUjgyUGlaWXlaX1Z4VzFka2NQZDJNdnJoODR4WnVPZHp3Vk1OYlZkZmx1ai1sTGcyc2haMUhROEF2dzlEWjVMQXlDbFdlSXktQ0pRdDdaUEc0b2ZYaVlSZjRF?oc=5",
       "source": "Google News",
       "source_name": "Google News",
       "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "published_at": "2026-08-23 06:01:03 PM ET",
+      "published_at": "2026-08-21 04:00:01 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "New investors flip script to get into film funding, distribution as sector slump opens opportunities - Korea JoongAng Daily"
+        "The Best Action Movie From Every Year in the 1990s - Mental Floss"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -983,22 +985,22 @@
       "priority_score": 65
     },
     {
-      "id": "music-12-3808989147195194006",
-      "key": "music-12-3808989147195194006",
+      "id": "music-12-5225306237741971917",
+      "key": "music-12-5225306237741971917",
       "category": "Music",
       "label": "Music",
-      "headline": "Watch Taylor Swift Say She Feels 'More Loyal' to Her Country Roots Than Ever & Whip Up an Eras Tour-Coded Surprise Piano Mash-Up",
-      "title": "Watch Taylor Swift Say She Feels 'More Loyal' to Her Country Roots Than Ever & Whip Up an Eras Tour-Coded Surprise Piano Mash-Up",
-      "snapshot": "The performance of \"I Knew It, I Knew You,\" \"August\" & \"All Too Well\" came at the end of a Grammy Museum Q&A with Harvey Mason jr.",
-      "summary": "The performance of \"I Knew It, I Knew You,\" \"August\" & \"All Too Well\" came at the end of a Grammy Museum Q&A with Harvey Mason jr.",
-      "url": "https://www.billboard.com/music/pop/taylor-swift-grammy-museum-august-all-too-well-mashup-video-1236323525/",
+      "headline": "Veteran Nashville Music Journalist and Author Vernell Hackett Dies at 77",
+      "title": "Veteran Nashville Music Journalist and Author Vernell Hackett Dies at 77",
+      "snapshot": "During her career, Hackett worked with artists including Chris LeDoux and Dale Ann Bradley.",
+      "summary": "During her career, Hackett worked with artists including Chris LeDoux and Dale Ann Bradley.",
+      "url": "https://www.billboard.com/pro/nashville-music-journalist-author-vernell-hackett-dead-77/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-24 08:16:05 PM ET",
+      "published_at": "2026-08-24 08:45:27 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Watch Taylor Swift Say She Feels 'More Loyal' to Her Country Roots Than Ever & Whip Up an Eras Tour-Coded Surprise Piano Mash-Up"
+        "Veteran Nashville Music Journalist and Author Vernell Hackett Dies at 77"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1010,8 +1012,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-3-5995233373709205179",
-      "key": "gaming-3-5995233373709205179",
+      "id": "gaming-3-804319173191883296",
+      "key": "gaming-3-804319173191883296",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Canceled Iron Man Game Footage From Just Cause and Mad Max Developer Leaks Online",
@@ -1039,22 +1041,22 @@
   ],
   "homepage_cards": [
     {
-      "id": "film-0-6000962821184860464",
-      "key": "film-0-6000962821184860464",
+      "id": "film-0-8261138002538488132",
+      "key": "film-0-8261138002538488132",
       "category": "Film",
       "label": "Film",
-      "headline": "Nandamuri Balakrishna, Sunny Deol, Nayanthara Lead Zee Studios' Multilingual 2026-27 Slate (EXCLUSIVE)",
-      "title": "Nandamuri Balakrishna, Sunny Deol, Nayanthara Lead Zee Studios' Multilingual 2026-27 Slate (EXCLUSIVE)",
-      "snapshot": "India's Zee Studios has unveiled a diversified multilingual, multi-genre content slate for 2026-27, spanning Hindi, Marathi, Telugu, Tamil, Malayalam, Gujarati and Kannada cinema. The portfolio brings together commercial entertainers, action spectacles, thrillers, mythology-driven epics and regionally rooted stories...",
-      "summary": "India's Zee Studios has unveiled a diversified multilingual, multi-genre content slate for 2026-27, spanning Hindi, Marathi, Telugu, Tamil, Malayalam, Gujarati and Kannada cinema. The portfolio brings together commercial entertainers, action spectacles, thrillers, mythology-driven epics and regionally rooted stories...",
-      "url": "https://variety.com/2026/film/news/nandamuri-balakrishna-sunny-deol-nayanthara-zee-studios-slate-1236841553/",
+      "headline": "'Cairo Conspiracy's Tawfeek Barhom to Star in Les Valseurs' 'Borderline' by Oscar-Nominated Yves Piat (EXCLUSIVE)",
+      "title": "'Cairo Conspiracy's Tawfeek Barhom to Star in Les Valseurs' 'Borderline' by Oscar-Nominated Yves Piat (EXCLUSIVE)",
+      "snapshot": "Palestinian actor Tawfeek Barhom, best known for Tarik Saleh's Cannes winner \"Cairo Conspiracy\" in 2022 and Palme d'Or winner 2025 for his short film \"I'm Glad You're Dead Now,\" is set to headline the French pic \"Borderline\" by first-timer Yves Piat. A very loose feature-length version of Piat's Oscar-nominated live...",
+      "summary": "Palestinian actor Tawfeek Barhom, best known for Tarik Saleh's Cannes winner \"Cairo Conspiracy\" in 2022 and Palme d'Or winner 2025 for his short film \"I'm Glad You're Dead Now,\" is set to headline the French pic \"Borderline\" by first-timer Yves Piat. A very loose feature-length version of Piat's Oscar-nominated live...",
+      "url": "https://variety.com/2026/film/global/tawfeek-barhom-les-valseurs-borderline-1236841611/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-24 11:30:00 PM ET",
+      "published_at": "2026-08-25 03:38:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Nandamuri Balakrishna, Sunny Deol, Nayanthara Lead Zee Studios' Multilingual 2026-27 Slate (EXCLUSIVE)"
+        "'Cairo Conspiracy's Tawfeek Barhom to Star in Les Valseurs' 'Borderline' by Oscar-Nominated Yves Piat (EXCLUSIVE)"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1066,8 +1068,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-230845995918829358",
-      "key": "film-10-230845995918829358",
+      "id": "film-10-7884324424106935001",
+      "key": "film-10-7884324424106935001",
       "category": "Film",
       "label": "Film",
       "headline": "Saoirse Ronan Is \"Dead Serious\" About Playing A Bond Villain: \"I Want To Go Dark\"",
@@ -1093,8 +1095,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-135000973866588121",
-      "key": "film-22-135000973866588121",
+      "id": "film-22-5507163932251561497",
+      "key": "film-22-5507163932251561497",
       "category": "Film",
       "label": "Film",
       "headline": "Dominic Monaghan to Join 'Lord of the Rings' 25th Anniversary Reunion With Elijah Wood, More at CCXP",
@@ -1120,8 +1122,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-1659028692603891485",
-      "key": "film-32-1659028692603891485",
+      "id": "film-32-6565702353140700359",
+      "key": "film-32-6565702353140700359",
       "category": "Film",
       "label": "Film",
       "headline": "If You Love 'Black Mirror,' There's One Movie You Need to Watch Next - Lifehacker",
@@ -1147,22 +1149,22 @@
       "priority_score": 68
     },
     {
-      "id": "music-9-4302779025831382401",
-      "key": "music-9-4302779025831382401",
+      "id": "music-9-5131152753093850104",
+      "key": "music-9-5131152753093850104",
       "category": "Music",
       "label": "Music",
-      "headline": "Australia's Laneway Festival Confirms 2027 Dates",
-      "title": "Australia's Laneway Festival Confirms 2027 Dates",
-      "snapshot": "It follows confirmation earlier this month that Adelaide and Perth would miss out on the festival in 2027.",
-      "summary": "It follows confirmation earlier this month that Adelaide and Perth would miss out on the festival in 2027.",
-      "url": "https://www.billboard.com/music/concerts/laneway-festival-2027-dates-1236323649/",
+      "headline": "Vince Staples Announces 2027 Australian Headline Tour",
+      "title": "Vince Staples Announces 2027 Australian Headline Tour",
+      "snapshot": "The shows mark his first solo Australian dates in nearly a decade.",
+      "summary": "The shows mark his first solo Australian dates in nearly a decade.",
+      "url": "https://www.billboard.com/music/rb-hip-hop/vince-staples-2027-australian-headline-tour-1236323700/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-25 12:04:23 AM ET",
+      "published_at": "2026-08-25 03:37:37 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Australia's Laneway Festival Confirms 2027 Dates"
+        "Vince Staples Announces 2027 Australian Headline Tour"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1174,8 +1176,8 @@
       "priority_score": 91
     },
     {
-      "id": "gaming-0-286077746059806376",
-      "key": "gaming-0-286077746059806376",
+      "id": "gaming-0-5095964815507295301",
+      "key": "gaming-0-5095964815507295301",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The Witcher 3 Songs of the Past Expansion Confirmed to Include More Gwent, and Everyone Is Already Celebrating",
@@ -1201,22 +1203,22 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-1992274110179836047",
-      "key": "film-1-1992274110179836047",
+      "id": "film-1-4286048703025649344",
+      "key": "film-1-4286048703025649344",
       "category": "Film",
       "label": "Film",
-      "headline": "Imagen Awards Red Carpet: Andy Garcia, Karla Souza, Wilmer Valderrama and More Celebrity Photos",
-      "title": "Imagen Awards Red Carpet: Andy Garcia, Karla Souza, Wilmer Valderrama and More Celebrity Photos",
-      "snapshot": "Andy Garcia, Karla Souza and Wilmer Valderrama were among those on the red carpet Friday night for the 41st annual Imagen Awards at The Beverly Hilton in Beverly Hills. Celebrating Latino talent and creatives across entertainment, the gala honored Andy Garcia with the Lifetime Achievement Award for his four-decade c...",
-      "summary": "Andy Garcia, Karla Souza and Wilmer Valderrama were among those on the red carpet Friday night for the 41st annual Imagen Awards at The Beverly Hilton in Beverly Hills. Celebrating Latino talent and creatives across entertainment, the gala honored Andy Garcia with the Lifetime Achievement Award for his four-decade c...",
-      "url": "https://variety.com/gallery/41st-imagen-awards-red-carpet-photos/",
+      "headline": "Na Hong-Jin's 'Hope,' Netflix's 'Dead-End Job' and 'Blue Road,' Disney+'s 'The Remarried Empress' Among Selections as Busan Unveils Korean Cinema Today, On Screen Lineups",
+      "title": "Na Hong-Jin's 'Hope,' Netflix's 'Dead-End Job' and 'Blue Road,' Disney+'s 'The Remarried Empress' Among Selections as Busan Unveils Korean Cinema Today, On Screen Lineups",
+      "snapshot": "The 31st Busan International Film Festival (BIFF) has unveiled its Korean Cinema Today and On Screen selections, with Na Hong-Jin's \"Hope\" among a nine-film lineup spanning Panorama and Special Premiere. \"Hope,\" Na's latest feature, drew global attention ahead of release on the strength of its large-scale production...",
+      "summary": "The 31st Busan International Film Festival (BIFF) has unveiled its Korean Cinema Today and On Screen selections, with Na Hong-Jin's \"Hope\" among a nine-film lineup spanning Panorama and Special Premiere. \"Hope,\" Na's latest feature, drew global attention ahead of release on the strength of its large-scale production...",
+      "url": "https://variety.com/2026/film/festivals/na-hong-jin-hope-netflix-disney-busan-korean-cinema-today-1236842197/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-24 10:14:02 PM ET",
+      "published_at": "2026-08-25 03:25:37 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Imagen Awards Red Carpet: Andy Garcia, Karla Souza, Wilmer Valderrama and More Celebrity Photos"
+        "Na Hong-Jin's 'Hope,' Netflix's 'Dead-End Job' and 'Blue Road,' Disney+'s 'The Remarried Empress' Among Selections as Busan Unveils Korean Cinema Today, On Screen Lineups"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1228,8 +1230,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-9048331512521870484",
-      "key": "film-11-9048331512521870484",
+      "id": "film-11-4493339790248938388",
+      "key": "film-11-4493339790248938388",
       "category": "Film",
       "label": "Film",
       "headline": "'Hangover' Architects Jon Lucas & Scott Moore On Keeping Comedy In Theaters With 'Spa Weekend' - Crew Call Podcast",
@@ -1255,8 +1257,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-7559653565115766329",
-      "key": "film-23-7559653565115766329",
+      "id": "film-23-1800490120756715891",
+      "key": "film-23-1800490120756715891",
       "category": "Film",
       "label": "Film",
       "headline": "Jacob Chase to Direct 'Sleepover' for Blumhouse Atomic Monster; Universal Sets 2027 Release",
@@ -1282,22 +1284,22 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-9050858669055259261",
-      "key": "film-33-9050858669055259261",
+      "id": "film-33-320189999219078704",
+      "key": "film-33-320189999219078704",
       "category": "Film",
       "label": "Film",
-      "headline": "Robert De Niro slams Trump 'cult' before Netflix movie premiere - USA Today",
-      "title": "Robert De Niro slams Trump 'cult' before Netflix movie premiere - USA Today",
-      "snapshot": "Robert De Niro slams Trump 'cult' before Netflix movie premiere USA Today",
-      "summary": "Robert De Niro slams Trump 'cult' before Netflix movie premiere USA Today",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY2E5OER1dTUtNEoyRGtTeHNKVlRUczBSRlFsLU9jaU9UQWN0cWVsZWFPVnR6M0tfZGdhM3QxUFpVSTM3VzJSdy1rSWlEZG5vY2gtWkF3NVhCdkxzZmY0b1BYLU10bWNNMDE4dDQ3RkpqbFF2OWl4UW1SUVFEMnZ3YnZsNkN0bldBSWhxV19FNUtuclB0MFJLc0hjeS1sblFnWTFnbFI4SzE5Ny1KTzlB?oc=5",
+      "headline": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
+      "title": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
+      "snapshot": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list Los Angeles Times",
+      "summary": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVVdJUV9IcXkwdldma2tPbi1udzh2bWFnSElsNU1vT21tM295WVN1dVJwTUVWclUycDY2Y1RCSHRkMExIdWhyc3hLdng0WEZ1dkhyalpySjBheVJiNFlMOWczdmxIcjNmZFc3ck00aFlYMGFESTRzdXM0X003di1NRnFobXFtMFlrU05mMVI1aWQ4bDA5aVVUbDY3YjFlWGd5bGY2SDJ5dGs1eEI1Q2xMUG92dkprMG9BcnJ4SkxhOWJGTHVlT3ZTR2puQk9kNS1wa0E?oc=5",
       "source": "Google News",
       "source_name": "Google News",
       "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "published_at": "2026-08-25 01:34:00 AM ET",
+      "published_at": "2026-08-21 11:00:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Robert De Niro slams Trump 'cult' before Netflix movie premiere - USA Today"
+        "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1309,22 +1311,22 @@
       "priority_score": 67
     },
     {
-      "id": "music-10-6353034610103646678",
-      "key": "music-10-6353034610103646678",
+      "id": "music-10-6657799294442980364",
+      "key": "music-10-6657799294442980364",
       "category": "Music",
       "label": "Music",
-      "headline": "ARIA Sets AI Eligibility Rules for Its Charts, Barring Wholly AI-Generated Tracks",
-      "title": "ARIA Sets AI Eligibility Rules for Its Charts, Barring Wholly AI-Generated Tracks",
-      "snapshot": "To qualify, a recording must be \"substantially human-made\" and raise \"no stream or chart manipulation concerns.\"",
-      "summary": "To qualify, a recording must be \"substantially human-made\" and raise \"no stream or chart manipulation concerns.\"",
-      "url": "https://www.billboard.com/pro/aria-sets-ai-eligibility-rules/",
+      "headline": "Australia's Laneway Festival Confirms 2027 Dates",
+      "title": "Australia's Laneway Festival Confirms 2027 Dates",
+      "snapshot": "It follows confirmation earlier this month that Adelaide and Perth would miss out on the festival in 2027.",
+      "summary": "It follows confirmation earlier this month that Adelaide and Perth would miss out on the festival in 2027.",
+      "url": "https://www.billboard.com/music/concerts/laneway-festival-2027-dates-1236323649/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-24 11:57:27 PM ET",
+      "published_at": "2026-08-25 12:04:23 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "ARIA Sets AI Eligibility Rules for Its Charts, Barring Wholly AI-Generated Tracks"
+        "Australia's Laneway Festival Confirms 2027 Dates"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1336,8 +1338,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-1-7634803299684533764",
-      "key": "gaming-1-7634803299684533764",
+      "id": "gaming-1-7638516321353147790",
+      "key": "gaming-1-7638516321353147790",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Persona Comes to Beard Papa's With Special 30th Anniversary Collaboration",
@@ -1363,22 +1365,22 @@
       "priority_score": 99
     },
     {
-      "id": "film-2-3212947996528860467",
-      "key": "film-2-3212947996528860467",
+      "id": "film-2-8361479811160382700",
+      "key": "film-2-8361479811160382700",
       "category": "Film",
       "label": "Film",
-      "headline": "'Insidious: Out of the Further' Director Jacob Chase to Helm Horror Movie 'Sleepover' for Blumhouse Atomic Monster and Universal",
-      "title": "'Insidious: Out of the Further' Director Jacob Chase to Helm Horror Movie 'Sleepover' for Blumhouse Atomic Monster and Universal",
-      "snapshot": "\"Insidious: Out of the Further\" director Jacob Chase is set to direct the horror project \"Sleepover\" for Blumhouse Atomic Monster and Universal Pictures. Described as the \"quintessential sleepover nightmare,\" it's set for an Oct. 8, 2027 theatrical release. Chase directs from a screenplay co-written with \"Night Swim...",
-      "summary": "\"Insidious: Out of the Further\" director Jacob Chase is set to direct the horror project \"Sleepover\" for Blumhouse Atomic Monster and Universal Pictures. Described as the \"quintessential sleepover nightmare,\" it's set for an Oct. 8, 2027 theatrical release. Chase directs from a screenplay co-written with \"Night Swim...",
-      "url": "https://variety.com/2026/film/news/jacob-chase-sleepover-blumhouse-atomic-monster-1236841899/",
+      "headline": "'Spider-Man: Brand New Day,' 'The Odyssey' Extend Battle Atop U.K. and Ireland Box Office as 'Insidious' Makes Strong Debut",
+      "title": "'Spider-Man: Brand New Day,' 'The Odyssey' Extend Battle Atop U.K. and Ireland Box Office as 'Insidious' Makes Strong Debut",
+      "snapshot": "Sony's \"Spider-Man: Brand New Day\" retained the No. 1 spot at the U.K. and Ireland box office for a fourth consecutive week, collecting £3.6 million ($4.8 million), according to Rentrak. The superhero blockbuster pushed its running cumulative gross to $117.9 million. Universal's \"The Odyssey,\" directed by Christophe...",
+      "summary": "Sony's \"Spider-Man: Brand New Day\" retained the No. 1 spot at the U.K. and Ireland box office for a fourth consecutive week, collecting £3.6 million ($4.8 million), according to Rentrak. The superhero blockbuster pushed its running cumulative gross to $117.9 million. Universal's \"The Odyssey,\" directed by Christophe...",
+      "url": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-odyssey-insidious-uk-ireland-box-office-1236842186/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-24 05:00:00 PM ET",
+      "published_at": "2026-08-25 03:00:05 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Insidious: Out of the Further' Director Jacob Chase to Helm Horror Movie 'Sleepover' for Blumhouse Atomic Monster and Universal"
+        "'Spider-Man: Brand New Day,' 'The Odyssey' Extend Battle Atop U.K. and Ireland Box Office as 'Insidious' Makes Strong Debut"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1390,8 +1392,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-8330115254729030102",
-      "key": "film-12-8330115254729030102",
+      "id": "film-12-8049970454243871399",
+      "key": "film-12-8049970454243871399",
       "category": "Film",
       "label": "Film",
       "headline": "Field Of Vision Debuts Ukraine War-Themed 'When It Started To Burn' On Ukrainian Independence Day",
@@ -1417,8 +1419,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-6547647752742960969",
-      "key": "film-24-6547647752742960969",
+      "id": "film-24-8542727250689926339",
+      "key": "film-24-8542727250689926339",
       "category": "Film",
       "label": "Film",
       "headline": "James Lew, Stuntman and 'Hot Shots! Part Deux' Actor, Dies at 73",
@@ -1444,22 +1446,22 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-1984184973875932281",
-      "key": "film-34-1984184973875932281",
+      "id": "film-34-8948083143977505975",
+      "key": "film-34-8948083143977505975",
       "category": "Film",
       "label": "Film",
-      "headline": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
-      "title": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
-      "snapshot": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list Los Angeles Times",
-      "summary": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVVdJUV9IcXkwdldma2tPbi1udzh2bWFnSElsNU1vT21tM295WVN1dVJwTUVWclUycDY2Y1RCSHRkMExIdWhyc3hLdng0WEZ1dkhyalpySjBheVJiNFlMOWczdmxIcjNmZFc3ck00aFlYMGFESTRzdXM0X003di1NRnFobXFtMFlrU05mMVI1aWQ4bDA5aVVUbDY3YjFlWGd5bGY2SDJ5dGs1eEI1Q2xMUG92dkprMG9BcnJ4SkxhOWJGTHVlT3ZTR2puQk9kNS1wa0E?oc=5",
+      "headline": "New investors flip script to get into film funding, distribution as sector slump opens opportunities - Korea JoongAng Daily",
+      "title": "New investors flip script to get into film funding, distribution as sector slump opens opportunities - Korea JoongAng Daily",
+      "snapshot": "New investors flip script to get into film funding, distribution as sector slump opens opportunities Korea JoongAng Daily",
+      "summary": "New investors flip script to get into film funding, distribution as sector slump opens opportunities Korea JoongAng Daily",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNmNaR2ZBU05xU1d6X0ZLUnpDMVlWdVU3eW1FVmNOWmRRX3dDeUswVjhpck4tWGljQUdqbkpHWVBfeUlTSzFNdlVodFctNHl2UWFjM1U5REE5TlpXV0c4d1BuTXlsMGFDQW5PTHpHUFBibHREQ1FnZTNSYTBhS3puVENkZXlLT3hYdGJEeW8wcFk0VmRGV1RfbEdZdHlNUTVlQWtzV3pvM3cyWFhBUnFGT0d6UzdhR1BYQ0Rrcmlja3MyUW5Jb3kxUVRmRTFRVHJwRGdDd2QxS2xjMktTblg1V2FiY1gwTlRIODh2WVNR?oc=5",
       "source": "Google News",
       "source_name": "Google News",
       "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "published_at": "2026-08-21 11:00:00 AM ET",
+      "published_at": "2026-08-23 06:01:03 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times"
+        "New investors flip script to get into film funding, distribution as sector slump opens opportunities - Korea JoongAng Daily"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1471,22 +1473,22 @@
       "priority_score": 66
     },
     {
-      "id": "music-11-1428133043572123511",
-      "key": "music-11-1428133043572123511",
+      "id": "music-11-6876832442502897420",
+      "key": "music-11-6876832442502897420",
       "category": "Music",
       "label": "Music",
-      "headline": "Veteran Nashville Music Journalist and Author Vernell Hackett Dies at 77",
-      "title": "Veteran Nashville Music Journalist and Author Vernell Hackett Dies at 77",
-      "snapshot": "During her career, Hackett worked with artists including Chris LeDoux and Dale Ann Bradley.",
-      "summary": "During her career, Hackett worked with artists including Chris LeDoux and Dale Ann Bradley.",
-      "url": "https://www.billboard.com/pro/nashville-music-journalist-author-vernell-hackett-dead-77/",
+      "headline": "ARIA Sets AI Eligibility Rules for Its Charts, Barring Wholly AI-Generated Tracks",
+      "title": "ARIA Sets AI Eligibility Rules for Its Charts, Barring Wholly AI-Generated Tracks",
+      "snapshot": "To qualify, a recording must be \"substantially human-made\" and raise \"no stream or chart manipulation concerns.\"",
+      "summary": "To qualify, a recording must be \"substantially human-made\" and raise \"no stream or chart manipulation concerns.\"",
+      "url": "https://www.billboard.com/pro/aria-sets-ai-eligibility-rules/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-24 08:45:27 PM ET",
+      "published_at": "2026-08-24 11:57:27 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Veteran Nashville Music Journalist and Author Vernell Hackett Dies at 77"
+        "ARIA Sets AI Eligibility Rules for Its Charts, Barring Wholly AI-Generated Tracks"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1498,8 +1500,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-2-97033959718093658",
-      "key": "gaming-2-97033959718093658",
+      "id": "gaming-2-4443208006976668372",
+      "key": "gaming-2-4443208006976668372",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Call of Duty: Modern Warfare 4 Devs Vow to Update Captain Price After Botched Haircut Goes Viral",
@@ -1525,22 +1527,22 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-6509223415514486803",
-      "key": "film-3-6509223415514486803",
+      "id": "film-3-2778458171958444844",
+      "key": "film-3-2778458171958444844",
       "category": "Film",
       "label": "Film",
-      "headline": "'How to Lose a Guy in 10 Days' Sequel Set Up at Paramount; Kate Hudson to Produce (EXCLUSIVE)",
-      "title": "'How to Lose a Guy in 10 Days' Sequel Set Up at Paramount; Kate Hudson to Produce (EXCLUSIVE)",
-      "snapshot": "A \"How to Lose a Guy in 10 Days\" sequel is in the works at Paramount, with original star Kate Hudson attached to produce the project, Variety can report exclusively. Development on the sequel is in early stages, with the cast and several key creative roles yet to be selected, according to a source close […]",
-      "summary": "A \"How to Lose a Guy in 10 Days\" sequel is in the works at Paramount, with original star Kate Hudson attached to produce the project, Variety can report exclusively. Development on the sequel is in early stages, with the cast and several key creative roles yet to be selected, according to a source close […]",
-      "url": "https://variety.com/2026/film/news/how-to-lose-a-guy-in-10-days-sequel-kate-hudson-paramount-1236839807/",
+      "headline": "Nandamuri Balakrishna, Sunny Deol, Nayanthara Lead Zee Studios' Multilingual 2026-27 Slate (EXCLUSIVE)",
+      "title": "Nandamuri Balakrishna, Sunny Deol, Nayanthara Lead Zee Studios' Multilingual 2026-27 Slate (EXCLUSIVE)",
+      "snapshot": "India's Zee Studios has unveiled a diversified multilingual, multi-genre content slate for 2026-27, spanning Hindi, Marathi, Telugu, Tamil, Malayalam, Gujarati and Kannada cinema. The portfolio brings together commercial entertainers, action spectacles, thrillers, mythology-driven epics and regionally rooted stories...",
+      "summary": "India's Zee Studios has unveiled a diversified multilingual, multi-genre content slate for 2026-27, spanning Hindi, Marathi, Telugu, Tamil, Malayalam, Gujarati and Kannada cinema. The portfolio brings together commercial entertainers, action spectacles, thrillers, mythology-driven epics and regionally rooted stories...",
+      "url": "https://variety.com/2026/film/news/nandamuri-balakrishna-sunny-deol-nayanthara-zee-studios-slate-1236841553/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-08-24 03:37:51 PM ET",
+      "published_at": "2026-08-24 11:30:00 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'How to Lose a Guy in 10 Days' Sequel Set Up at Paramount; Kate Hudson to Produce (EXCLUSIVE)"
+        "Nandamuri Balakrishna, Sunny Deol, Nayanthara Lead Zee Studios' Multilingual 2026-27 Slate (EXCLUSIVE)"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1552,8 +1554,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-2712552489453594199",
-      "key": "film-13-2712552489453594199",
+      "id": "film-13-9052924396462894478",
+      "key": "film-13-9052924396462894478",
       "category": "Film",
       "label": "Film",
       "headline": "Oscars 2027 International Feature Film Submissions By Country",
@@ -1579,8 +1581,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-1759258741970439069",
-      "key": "film-25-1759258741970439069",
+      "id": "film-25-3578930109439427666",
+      "key": "film-25-3578930109439427666",
       "category": "Film",
       "label": "Film",
       "headline": "'How to Lose a Guy in 10 Days' Sequel in the Works at Paramount",
@@ -1606,22 +1608,22 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-8687892356707293173",
-      "key": "film-35-8687892356707293173",
+      "id": "film-35-4401286225966842138",
+      "key": "film-35-4401286225966842138",
       "category": "Film",
       "label": "Film",
-      "headline": "New investors flip script to get into film funding, distribution as sector slump opens opportunities - Korea JoongAng Daily",
-      "title": "New investors flip script to get into film funding, distribution as sector slump opens opportunities - Korea JoongAng Daily",
-      "snapshot": "New investors flip script to get into film funding, distribution as sector slump opens opportunities Korea JoongAng Daily",
-      "summary": "New investors flip script to get into film funding, distribution as sector slump opens opportunities Korea JoongAng Daily",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNmNaR2ZBU05xU1d6X0ZLUnpDMVlWdVU3eW1FVmNOWmRRX3dDeUswVjhpck4tWGljQUdqbkpHWVBfeUlTSzFNdlVodFctNHl2UWFjM1U5REE5TlpXV0c4d1BuTXlsMGFDQW5PTHpHUFBibHREQ1FnZTNSYTBhS3puVENkZXlLT3hYdGJEeW8wcFk0VmRGV1RfbEdZdHlNUTVlQWtzV3pvM3cyWFhBUnFGT0d6UzdhR1BYQ0Rrcmlja3MyUW5Jb3kxUVRmRTFRVHJwRGdDd2QxS2xjMktTblg1V2FiY1gwTlRIODh2WVNR?oc=5",
+      "headline": "The Best Action Movie From Every Year in the 1990s - Mental Floss",
+      "title": "The Best Action Movie From Every Year in the 1990s - Mental Floss",
+      "snapshot": "The Best Action Movie From Every Year in the 1990s Mental Floss",
+      "summary": "The Best Action Movie From Every Year in the 1990s Mental Floss",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX3JBUUszaXIxS2RSbTNaRThDdUZkMExDbE1acXdyWmNPWXZUSUM3ZC1SUjgyUGlaWXlaX1Z4VzFka2NQZDJNdnJoODR4WnVPZHp3Vk1OYlZkZmx1ai1sTGcyc2haMUhROEF2dzlEWjVMQXlDbFdlSXktQ0pRdDdaUEc0b2ZYaVlSZjRF?oc=5",
       "source": "Google News",
       "source_name": "Google News",
       "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "published_at": "2026-08-23 06:01:03 PM ET",
+      "published_at": "2026-08-21 04:00:01 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "New investors flip script to get into film funding, distribution as sector slump opens opportunities - Korea JoongAng Daily"
+        "The Best Action Movie From Every Year in the 1990s - Mental Floss"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1633,22 +1635,22 @@
       "priority_score": 65
     },
     {
-      "id": "music-12-3808989147195194006",
-      "key": "music-12-3808989147195194006",
+      "id": "music-12-5225306237741971917",
+      "key": "music-12-5225306237741971917",
       "category": "Music",
       "label": "Music",
-      "headline": "Watch Taylor Swift Say She Feels 'More Loyal' to Her Country Roots Than Ever & Whip Up an Eras Tour-Coded Surprise Piano Mash-Up",
-      "title": "Watch Taylor Swift Say She Feels 'More Loyal' to Her Country Roots Than Ever & Whip Up an Eras Tour-Coded Surprise Piano Mash-Up",
-      "snapshot": "The performance of \"I Knew It, I Knew You,\" \"August\" & \"All Too Well\" came at the end of a Grammy Museum Q&A with Harvey Mason jr.",
-      "summary": "The performance of \"I Knew It, I Knew You,\" \"August\" & \"All Too Well\" came at the end of a Grammy Museum Q&A with Harvey Mason jr.",
-      "url": "https://www.billboard.com/music/pop/taylor-swift-grammy-museum-august-all-too-well-mashup-video-1236323525/",
+      "headline": "Veteran Nashville Music Journalist and Author Vernell Hackett Dies at 77",
+      "title": "Veteran Nashville Music Journalist and Author Vernell Hackett Dies at 77",
+      "snapshot": "During her career, Hackett worked with artists including Chris LeDoux and Dale Ann Bradley.",
+      "summary": "During her career, Hackett worked with artists including Chris LeDoux and Dale Ann Bradley.",
+      "url": "https://www.billboard.com/pro/nashville-music-journalist-author-vernell-hackett-dead-77/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-08-24 08:16:05 PM ET",
+      "published_at": "2026-08-24 08:45:27 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Watch Taylor Swift Say She Feels 'More Loyal' to Her Country Roots Than Ever & Whip Up an Eras Tour-Coded Surprise Piano Mash-Up"
+        "Veteran Nashville Music Journalist and Author Vernell Hackett Dies at 77"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1660,8 +1662,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-3-5995233373709205179",
-      "key": "gaming-3-5995233373709205179",
+      "id": "gaming-3-804319173191883296",
+      "key": "gaming-3-804319173191883296",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Canceled Iron Man Game Footage From Just Cause and Mad Max Developer Leaks Online",
@@ -1692,46 +1694,46 @@
       "key": "film",
       "name": "Film",
       "title": "Film Report",
-      "headline": "Nandamuri Balakrishna, Sunny Deol, Nayanthara Lead Zee Studios’ Multilingual 2026-27 Slate (EXCLUSIVE)",
+      "headline": "‘Cairo Conspiracy’s Tawfeek Barhom to Star in Les Valseurs’ ‘Borderline’ by Oscar-Nominated Yves Piat (EXCLUSIVE)",
       "snapshot": "Film coverage is updating with 8 current RSS headline item(s).",
       "key_storylines": [
-        "Nandamuri Balakrishna, Sunny Deol, Nayanthara Lead Zee Studios’ Multilingual 2026-27 Slate (EXCLUSIVE)",
+        "‘Cairo Conspiracy’s Tawfeek Barhom to Star in Les Valseurs’ ‘Borderline’ by Oscar-Nominated Yves Piat (EXCLUSIVE)",
         "Saoirse Ronan Is “Dead Serious” About Playing A Bond Villain: “I Want To Go Dark”",
         "Dominic Monaghan to Join ‘Lord of the Rings’ 25th Anniversary Reunion With Elijah Wood, More at CCXP",
         "If You Love 'Black Mirror,' There's One Movie You Need to Watch Next - Lifehacker",
-        "Imagen Awards Red Carpet: Andy Garcia, Karla Souza, Wilmer Valderrama and More Celebrity Photos"
+        "Na Hong-Jin’s ‘Hope,’ Netflix’s ‘Dead-End Job’ and ‘Blue Road,’ Disney+’s ‘The Remarried Empress’ Among Selections as Busan Unveils Korean Cinema Today, On Screen Lineups"
       ],
       "watch_list": [
-        "Nandamuri Balakrishna, Sunny Deol, Nayanthara Lead Zee Studios’ Multilingual 2026-27 Slate (EXCLUSIVE)",
+        "‘Cairo Conspiracy’s Tawfeek Barhom to Star in Les Valseurs’ ‘Borderline’ by Oscar-Nominated Yves Piat (EXCLUSIVE)",
         "Saoirse Ronan Is “Dead Serious” About Playing A Bond Villain: “I Want To Go Dark”",
         "Dominic Monaghan to Join ‘Lord of the Rings’ 25th Anniversary Reunion With Elijah Wood, More at CCXP",
         "If You Love 'Black Mirror,' There's One Movie You Need to Watch Next - Lifehacker",
-        "Imagen Awards Red Carpet: Andy Garcia, Karla Souza, Wilmer Valderrama and More Celebrity Photos",
+        "Na Hong-Jin’s ‘Hope,’ Netflix’s ‘Dead-End Job’ and ‘Blue Road,’ Disney+’s ‘The Remarried Empress’ Among Selections as Busan Unveils Korean Cinema Today, On Screen Lineups",
         "‘Hangover’ Architects Jon Lucas & Scott Moore On Keeping Comedy In Theaters With ‘Spa Weekend’ – Crew Call Podcast",
         "Jacob Chase to Direct ‘Sleepover’ for Blumhouse Atomic Monster; Universal Sets 2027 Release",
-        "Robert De Niro slams Trump 'cult' before Netflix movie premiere - USA Today"
+        "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times"
       ],
       "homepage_cards": [
         {
-          "id": "film-0-6000962821184860464",
-          "key": "film-0-6000962821184860464",
+          "id": "film-0-8261138002538488132",
+          "key": "film-0-8261138002538488132",
           "category": "Film",
           "label": "Film",
-          "headline": "Nandamuri Balakrishna, Sunny Deol, Nayanthara Lead Zee Studios’ Multilingual 2026-27 Slate (EXCLUSIVE)",
-          "title": "Nandamuri Balakrishna, Sunny Deol, Nayanthara Lead Zee Studios’ Multilingual 2026-27 Slate (EXCLUSIVE)",
-          "snapshot": "India’s Zee Studios has unveiled a diversified multilingual, multi-genre content slate for 2026-27, spanning Hindi, Marathi, Telugu, Tamil, Malayalam, Gujarati and Kannada cinema. The portfolio brings together commercial entertainers, action spectacles, thrillers, mythology-driven epics and regionally rooted stories...",
-          "summary": "India’s Zee Studios has unveiled a diversified multilingual, multi-genre content slate for 2026-27, spanning Hindi, Marathi, Telugu, Tamil, Malayalam, Gujarati and Kannada cinema. The portfolio brings together commercial entertainers, action spectacles, thrillers, mythology-driven epics and regionally rooted stories...",
-          "url": "https://variety.com/2026/film/news/nandamuri-balakrishna-sunny-deol-nayanthara-zee-studios-slate-1236841553/",
+          "headline": "‘Cairo Conspiracy’s Tawfeek Barhom to Star in Les Valseurs’ ‘Borderline’ by Oscar-Nominated Yves Piat (EXCLUSIVE)",
+          "title": "‘Cairo Conspiracy’s Tawfeek Barhom to Star in Les Valseurs’ ‘Borderline’ by Oscar-Nominated Yves Piat (EXCLUSIVE)",
+          "snapshot": "Palestinian actor Tawfeek Barhom, best known for Tarik Saleh’s Cannes winner “Cairo Conspiracy” in 2022 and Palme d’Or winner 2025 for his short film “I’m Glad You’re Dead Now,” is set to headline the French pic “Borderline” by first-timer Yves Piat. A very loose feature-length version of Piat’s Oscar-nominated live...",
+          "summary": "Palestinian actor Tawfeek Barhom, best known for Tarik Saleh’s Cannes winner “Cairo Conspiracy” in 2022 and Palme d’Or winner 2025 for his short film “I’m Glad You’re Dead Now,” is set to headline the French pic “Borderline” by first-timer Yves Piat. A very loose feature-length version of Piat’s Oscar-nominated live...",
+          "url": "https://variety.com/2026/film/global/tawfeek-barhom-les-valseurs-borderline-1236841611/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/feed/",
-          "published_at": "2026-08-24 11:30:00 PM ET",
+          "published_at": "2026-08-25 03:38:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Nandamuri Balakrishna, Sunny Deol, Nayanthara Lead Zee Studios’ Multilingual 2026-27 Slate (EXCLUSIVE)"
+            "‘Cairo Conspiracy’s Tawfeek Barhom to Star in Les Valseurs’ ‘Borderline’ by Oscar-Nominated Yves Piat (EXCLUSIVE)"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1741,8 +1743,8 @@
           ]
         },
         {
-          "id": "film-10-230845995918829358",
-          "key": "film-10-230845995918829358",
+          "id": "film-10-7884324424106935001",
+          "key": "film-10-7884324424106935001",
           "category": "Film",
           "label": "Film",
           "headline": "Saoirse Ronan Is “Dead Serious” About Playing A Bond Villain: “I Want To Go Dark”",
@@ -1769,8 +1771,8 @@
           ]
         },
         {
-          "id": "film-22-135000973866588121",
-          "key": "film-22-135000973866588121",
+          "id": "film-22-5507163932251561497",
+          "key": "film-22-5507163932251561497",
           "category": "Film",
           "label": "Film",
           "headline": "Dominic Monaghan to Join ‘Lord of the Rings’ 25th Anniversary Reunion With Elijah Wood, More at CCXP",
@@ -1797,8 +1799,8 @@
           ]
         },
         {
-          "id": "film-32-1659028692603891485",
-          "key": "film-32-1659028692603891485",
+          "id": "film-32-6565702353140700359",
+          "key": "film-32-6565702353140700359",
           "category": "Film",
           "label": "Film",
           "headline": "If You Love 'Black Mirror,' There's One Movie You Need to Watch Next - Lifehacker",
@@ -1825,25 +1827,25 @@
           ]
         },
         {
-          "id": "film-1-1992274110179836047",
-          "key": "film-1-1992274110179836047",
+          "id": "film-1-4286048703025649344",
+          "key": "film-1-4286048703025649344",
           "category": "Film",
           "label": "Film",
-          "headline": "Imagen Awards Red Carpet: Andy Garcia, Karla Souza, Wilmer Valderrama and More Celebrity Photos",
-          "title": "Imagen Awards Red Carpet: Andy Garcia, Karla Souza, Wilmer Valderrama and More Celebrity Photos",
-          "snapshot": "Andy Garcia, Karla Souza and Wilmer Valderrama were among those on the red carpet Friday night for the 41st annual Imagen Awards at The Beverly Hilton in Beverly Hills. Celebrating Latino talent and creatives across entertainment, the gala honored Andy Garcia with the Lifetime Achievement Award for his four-decade c...",
-          "summary": "Andy Garcia, Karla Souza and Wilmer Valderrama were among those on the red carpet Friday night for the 41st annual Imagen Awards at The Beverly Hilton in Beverly Hills. Celebrating Latino talent and creatives across entertainment, the gala honored Andy Garcia with the Lifetime Achievement Award for his four-decade c...",
-          "url": "https://variety.com/gallery/41st-imagen-awards-red-carpet-photos/",
+          "headline": "Na Hong-Jin’s ‘Hope,’ Netflix’s ‘Dead-End Job’ and ‘Blue Road,’ Disney+’s ‘The Remarried Empress’ Among Selections as Busan Unveils Korean Cinema Today, On Screen Lineups",
+          "title": "Na Hong-Jin’s ‘Hope,’ Netflix’s ‘Dead-End Job’ and ‘Blue Road,’ Disney+’s ‘The Remarried Empress’ Among Selections as Busan Unveils Korean Cinema Today, On Screen Lineups",
+          "snapshot": "The 31st Busan International Film Festival (BIFF) has unveiled its Korean Cinema Today and On Screen selections, with Na Hong-Jin’s “Hope” among a nine-film lineup spanning Panorama and Special Premiere. “Hope,” Na’s latest feature, drew global attention ahead of release on the strength of its large-scale production...",
+          "summary": "The 31st Busan International Film Festival (BIFF) has unveiled its Korean Cinema Today and On Screen selections, with Na Hong-Jin’s “Hope” among a nine-film lineup spanning Panorama and Special Premiere. “Hope,” Na’s latest feature, drew global attention ahead of release on the strength of its large-scale production...",
+          "url": "https://variety.com/2026/film/festivals/na-hong-jin-hope-netflix-disney-busan-korean-cinema-today-1236842197/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/feed/",
-          "published_at": "2026-08-24 10:14:02 PM ET",
+          "published_at": "2026-08-25 03:25:37 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Imagen Awards Red Carpet: Andy Garcia, Karla Souza, Wilmer Valderrama and More Celebrity Photos"
+            "Na Hong-Jin’s ‘Hope,’ Netflix’s ‘Dead-End Job’ and ‘Blue Road,’ Disney+’s ‘The Remarried Empress’ Among Selections as Busan Unveils Korean Cinema Today, On Screen Lineups"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1853,8 +1855,8 @@
           ]
         },
         {
-          "id": "film-11-9048331512521870484",
-          "key": "film-11-9048331512521870484",
+          "id": "film-11-4493339790248938388",
+          "key": "film-11-4493339790248938388",
           "category": "Film",
           "label": "Film",
           "headline": "‘Hangover’ Architects Jon Lucas & Scott Moore On Keeping Comedy In Theaters With ‘Spa Weekend’ – Crew Call Podcast",
@@ -1881,8 +1883,8 @@
           ]
         },
         {
-          "id": "film-23-7559653565115766329",
-          "key": "film-23-7559653565115766329",
+          "id": "film-23-1800490120756715891",
+          "key": "film-23-1800490120756715891",
           "category": "Film",
           "label": "Film",
           "headline": "Jacob Chase to Direct ‘Sleepover’ for Blumhouse Atomic Monster; Universal Sets 2027 Release",
@@ -1909,25 +1911,25 @@
           ]
         },
         {
-          "id": "film-33-9050858669055259261",
-          "key": "film-33-9050858669055259261",
+          "id": "film-33-320189999219078704",
+          "key": "film-33-320189999219078704",
           "category": "Film",
           "label": "Film",
-          "headline": "Robert De Niro slams Trump 'cult' before Netflix movie premiere - USA Today",
-          "title": "Robert De Niro slams Trump 'cult' before Netflix movie premiere - USA Today",
-          "snapshot": "Robert De Niro slams Trump 'cult' before Netflix movie premiere USA Today",
-          "summary": "Robert De Niro slams Trump 'cult' before Netflix movie premiere USA Today",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY2E5OER1dTUtNEoyRGtTeHNKVlRUczBSRlFsLU9jaU9UQWN0cWVsZWFPVnR6M0tfZGdhM3QxUFpVSTM3VzJSdy1rSWlEZG5vY2gtWkF3NVhCdkxzZmY0b1BYLU10bWNNMDE4dDQ3RkpqbFF2OWl4UW1SUVFEMnZ3YnZsNkN0bldBSWhxV19FNUtuclB0MFJLc0hjeS1sblFnWTFnbFI4SzE5Ny1KTzlB?oc=5",
+          "headline": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
+          "title": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
+          "snapshot": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list Los Angeles Times",
+          "summary": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list Los Angeles Times",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVVdJUV9IcXkwdldma2tPbi1udzh2bWFnSElsNU1vT21tM295WVN1dVJwTUVWclUycDY2Y1RCSHRkMExIdWhyc3hLdng0WEZ1dkhyalpySjBheVJiNFlMOWczdmxIcjNmZFc3ck00aFlYMGFESTRzdXM0X003di1NRnFobXFtMFlrU05mMVI1aWQ4bDA5aVVUbDY3YjFlWGd5bGY2SDJ5dGs1eEI1Q2xMUG92dkprMG9BcnJ4SkxhOWJGTHVlT3ZTR2puQk9kNS1wa0E?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-25 01:34:00 AM ET",
+          "published_at": "2026-08-21 11:00:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 67,
           "key_data": [
-            "Robert De Niro slams Trump 'cult' before Netflix movie premiere - USA Today"
+            "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1939,25 +1941,25 @@
       ],
       "items": [
         {
-          "id": "film-0-6000962821184860464",
-          "key": "film-0-6000962821184860464",
+          "id": "film-0-8261138002538488132",
+          "key": "film-0-8261138002538488132",
           "category": "Film",
           "label": "Film",
-          "headline": "Nandamuri Balakrishna, Sunny Deol, Nayanthara Lead Zee Studios’ Multilingual 2026-27 Slate (EXCLUSIVE)",
-          "title": "Nandamuri Balakrishna, Sunny Deol, Nayanthara Lead Zee Studios’ Multilingual 2026-27 Slate (EXCLUSIVE)",
-          "snapshot": "India’s Zee Studios has unveiled a diversified multilingual, multi-genre content slate for 2026-27, spanning Hindi, Marathi, Telugu, Tamil, Malayalam, Gujarati and Kannada cinema. The portfolio brings together commercial entertainers, action spectacles, thrillers, mythology-driven epics and regionally rooted stories...",
-          "summary": "India’s Zee Studios has unveiled a diversified multilingual, multi-genre content slate for 2026-27, spanning Hindi, Marathi, Telugu, Tamil, Malayalam, Gujarati and Kannada cinema. The portfolio brings together commercial entertainers, action spectacles, thrillers, mythology-driven epics and regionally rooted stories...",
-          "url": "https://variety.com/2026/film/news/nandamuri-balakrishna-sunny-deol-nayanthara-zee-studios-slate-1236841553/",
+          "headline": "‘Cairo Conspiracy’s Tawfeek Barhom to Star in Les Valseurs’ ‘Borderline’ by Oscar-Nominated Yves Piat (EXCLUSIVE)",
+          "title": "‘Cairo Conspiracy’s Tawfeek Barhom to Star in Les Valseurs’ ‘Borderline’ by Oscar-Nominated Yves Piat (EXCLUSIVE)",
+          "snapshot": "Palestinian actor Tawfeek Barhom, best known for Tarik Saleh’s Cannes winner “Cairo Conspiracy” in 2022 and Palme d’Or winner 2025 for his short film “I’m Glad You’re Dead Now,” is set to headline the French pic “Borderline” by first-timer Yves Piat. A very loose feature-length version of Piat’s Oscar-nominated live...",
+          "summary": "Palestinian actor Tawfeek Barhom, best known for Tarik Saleh’s Cannes winner “Cairo Conspiracy” in 2022 and Palme d’Or winner 2025 for his short film “I’m Glad You’re Dead Now,” is set to headline the French pic “Borderline” by first-timer Yves Piat. A very loose feature-length version of Piat’s Oscar-nominated live...",
+          "url": "https://variety.com/2026/film/global/tawfeek-barhom-les-valseurs-borderline-1236841611/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/feed/",
-          "published_at": "2026-08-24 11:30:00 PM ET",
+          "published_at": "2026-08-25 03:38:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Nandamuri Balakrishna, Sunny Deol, Nayanthara Lead Zee Studios’ Multilingual 2026-27 Slate (EXCLUSIVE)"
+            "‘Cairo Conspiracy’s Tawfeek Barhom to Star in Les Valseurs’ ‘Borderline’ by Oscar-Nominated Yves Piat (EXCLUSIVE)"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1967,8 +1969,8 @@
           ]
         },
         {
-          "id": "film-10-230845995918829358",
-          "key": "film-10-230845995918829358",
+          "id": "film-10-7884324424106935001",
+          "key": "film-10-7884324424106935001",
           "category": "Film",
           "label": "Film",
           "headline": "Saoirse Ronan Is “Dead Serious” About Playing A Bond Villain: “I Want To Go Dark”",
@@ -1995,8 +1997,8 @@
           ]
         },
         {
-          "id": "film-22-135000973866588121",
-          "key": "film-22-135000973866588121",
+          "id": "film-22-5507163932251561497",
+          "key": "film-22-5507163932251561497",
           "category": "Film",
           "label": "Film",
           "headline": "Dominic Monaghan to Join ‘Lord of the Rings’ 25th Anniversary Reunion With Elijah Wood, More at CCXP",
@@ -2023,8 +2025,8 @@
           ]
         },
         {
-          "id": "film-32-1659028692603891485",
-          "key": "film-32-1659028692603891485",
+          "id": "film-32-6565702353140700359",
+          "key": "film-32-6565702353140700359",
           "category": "Film",
           "label": "Film",
           "headline": "If You Love 'Black Mirror,' There's One Movie You Need to Watch Next - Lifehacker",
@@ -2051,25 +2053,25 @@
           ]
         },
         {
-          "id": "film-1-1992274110179836047",
-          "key": "film-1-1992274110179836047",
+          "id": "film-1-4286048703025649344",
+          "key": "film-1-4286048703025649344",
           "category": "Film",
           "label": "Film",
-          "headline": "Imagen Awards Red Carpet: Andy Garcia, Karla Souza, Wilmer Valderrama and More Celebrity Photos",
-          "title": "Imagen Awards Red Carpet: Andy Garcia, Karla Souza, Wilmer Valderrama and More Celebrity Photos",
-          "snapshot": "Andy Garcia, Karla Souza and Wilmer Valderrama were among those on the red carpet Friday night for the 41st annual Imagen Awards at The Beverly Hilton in Beverly Hills. Celebrating Latino talent and creatives across entertainment, the gala honored Andy Garcia with the Lifetime Achievement Award for his four-decade c...",
-          "summary": "Andy Garcia, Karla Souza and Wilmer Valderrama were among those on the red carpet Friday night for the 41st annual Imagen Awards at The Beverly Hilton in Beverly Hills. Celebrating Latino talent and creatives across entertainment, the gala honored Andy Garcia with the Lifetime Achievement Award for his four-decade c...",
-          "url": "https://variety.com/gallery/41st-imagen-awards-red-carpet-photos/",
+          "headline": "Na Hong-Jin’s ‘Hope,’ Netflix’s ‘Dead-End Job’ and ‘Blue Road,’ Disney+’s ‘The Remarried Empress’ Among Selections as Busan Unveils Korean Cinema Today, On Screen Lineups",
+          "title": "Na Hong-Jin’s ‘Hope,’ Netflix’s ‘Dead-End Job’ and ‘Blue Road,’ Disney+’s ‘The Remarried Empress’ Among Selections as Busan Unveils Korean Cinema Today, On Screen Lineups",
+          "snapshot": "The 31st Busan International Film Festival (BIFF) has unveiled its Korean Cinema Today and On Screen selections, with Na Hong-Jin’s “Hope” among a nine-film lineup spanning Panorama and Special Premiere. “Hope,” Na’s latest feature, drew global attention ahead of release on the strength of its large-scale production...",
+          "summary": "The 31st Busan International Film Festival (BIFF) has unveiled its Korean Cinema Today and On Screen selections, with Na Hong-Jin’s “Hope” among a nine-film lineup spanning Panorama and Special Premiere. “Hope,” Na’s latest feature, drew global attention ahead of release on the strength of its large-scale production...",
+          "url": "https://variety.com/2026/film/festivals/na-hong-jin-hope-netflix-disney-busan-korean-cinema-today-1236842197/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/feed/",
-          "published_at": "2026-08-24 10:14:02 PM ET",
+          "published_at": "2026-08-25 03:25:37 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Imagen Awards Red Carpet: Andy Garcia, Karla Souza, Wilmer Valderrama and More Celebrity Photos"
+            "Na Hong-Jin’s ‘Hope,’ Netflix’s ‘Dead-End Job’ and ‘Blue Road,’ Disney+’s ‘The Remarried Empress’ Among Selections as Busan Unveils Korean Cinema Today, On Screen Lineups"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2079,8 +2081,8 @@
           ]
         },
         {
-          "id": "film-11-9048331512521870484",
-          "key": "film-11-9048331512521870484",
+          "id": "film-11-4493339790248938388",
+          "key": "film-11-4493339790248938388",
           "category": "Film",
           "label": "Film",
           "headline": "‘Hangover’ Architects Jon Lucas & Scott Moore On Keeping Comedy In Theaters With ‘Spa Weekend’ – Crew Call Podcast",
@@ -2107,8 +2109,8 @@
           ]
         },
         {
-          "id": "film-23-7559653565115766329",
-          "key": "film-23-7559653565115766329",
+          "id": "film-23-1800490120756715891",
+          "key": "film-23-1800490120756715891",
           "category": "Film",
           "label": "Film",
           "headline": "Jacob Chase to Direct ‘Sleepover’ for Blumhouse Atomic Monster; Universal Sets 2027 Release",
@@ -2135,25 +2137,25 @@
           ]
         },
         {
-          "id": "film-33-9050858669055259261",
-          "key": "film-33-9050858669055259261",
+          "id": "film-33-320189999219078704",
+          "key": "film-33-320189999219078704",
           "category": "Film",
           "label": "Film",
-          "headline": "Robert De Niro slams Trump 'cult' before Netflix movie premiere - USA Today",
-          "title": "Robert De Niro slams Trump 'cult' before Netflix movie premiere - USA Today",
-          "snapshot": "Robert De Niro slams Trump 'cult' before Netflix movie premiere USA Today",
-          "summary": "Robert De Niro slams Trump 'cult' before Netflix movie premiere USA Today",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY2E5OER1dTUtNEoyRGtTeHNKVlRUczBSRlFsLU9jaU9UQWN0cWVsZWFPVnR6M0tfZGdhM3QxUFpVSTM3VzJSdy1rSWlEZG5vY2gtWkF3NVhCdkxzZmY0b1BYLU10bWNNMDE4dDQ3RkpqbFF2OWl4UW1SUVFEMnZ3YnZsNkN0bldBSWhxV19FNUtuclB0MFJLc0hjeS1sblFnWTFnbFI4SzE5Ny1KTzlB?oc=5",
+          "headline": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
+          "title": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
+          "snapshot": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list Los Angeles Times",
+          "summary": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list Los Angeles Times",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVVdJUV9IcXkwdldma2tPbi1udzh2bWFnSElsNU1vT21tM295WVN1dVJwTUVWclUycDY2Y1RCSHRkMExIdWhyc3hLdng0WEZ1dkhyalpySjBheVJiNFlMOWczdmxIcjNmZFc3ck00aFlYMGFESTRzdXM0X003di1NRnFobXFtMFlrU05mMVI1aWQ4bDA5aVVUbDY3YjFlWGd5bGY2SDJ5dGs1eEI1Q2xMUG92dkprMG9BcnJ4SkxhOWJGTHVlT3ZTR2puQk9kNS1wa0E?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-25 01:34:00 AM ET",
+          "published_at": "2026-08-21 11:00:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 67,
           "key_data": [
-            "Robert De Niro slams Trump 'cult' before Netflix movie premiere - USA Today"
+            "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2163,7 +2165,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-25 02:49:55 AM ET"
+      "updated_at": "2026-08-25 03:43:57 AM ET"
     },
     {
       "key": "tv",
@@ -2190,8 +2192,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "tv-0-1125255948216771608",
-          "key": "tv-0-1125255948216771608",
+          "id": "tv-0-5391478265267378517",
+          "key": "tv-0-5391478265267378517",
           "category": "TV",
           "label": "TV",
           "headline": "Hulu Cancels Mindy Kaling-Created Comedy ‘Not Suitable for Work’ After One Season (EXCLUSIVE)",
@@ -2218,8 +2220,8 @@
           ]
         },
         {
-          "id": "tv-7-5248999552363001156",
-          "key": "tv-7-5248999552363001156",
+          "id": "tv-8-9025711279271375515",
+          "key": "tv-8-9025711279271375515",
           "category": "TV",
           "label": "TV",
           "headline": "‘Not Suitable For Work’ Canceled By Hulu After One Season",
@@ -2234,7 +2236,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 93,
+          "priority_score": 92,
           "key_data": [
             "‘Not Suitable For Work’ Canceled By Hulu After One Season"
           ],
@@ -2246,8 +2248,8 @@
           ]
         },
         {
-          "id": "tv-18-4168536993053233747",
-          "key": "tv-18-4168536993053233747",
+          "id": "tv-19-8385684641774356585",
+          "key": "tv-19-8385684641774356585",
           "category": "TV",
           "label": "TV",
           "headline": "Hulu Cancels ‘Not Suitable for Work’ After One Season",
@@ -2262,7 +2264,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 82,
+          "priority_score": 81,
           "key_data": [
             "Hulu Cancels ‘Not Suitable for Work’ After One Season"
           ],
@@ -2274,8 +2276,8 @@
           ]
         },
         {
-          "id": "tv-28-8564208775633408999",
-          "key": "tv-28-8564208775633408999",
+          "id": "tv-29-8714591029252030192",
+          "key": "tv-29-8714591029252030192",
           "category": "TV",
           "label": "TV",
           "headline": "Rent Television and TV Units in Delhi, Mumbai and Bangalore Instead of Buying in 2026 as ₹60,000 Entertainment Setups Push Renters Toward ₹499/Month Plans From Rentomojo - Yahoo Finance",
@@ -2290,7 +2292,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 72,
+          "priority_score": 71,
           "key_data": [
             "Rent Television and TV Units in Delhi, Mumbai and Bangalore Instead of Buying in 2026 as ₹60,000 Entertainment Setups Push Renters Toward ₹499/Month Plans From Rentomojo - Yahoo Finance"
           ],
@@ -2302,8 +2304,8 @@
           ]
         },
         {
-          "id": "tv-1-8654648585132708292",
-          "key": "tv-1-8654648585132708292",
+          "id": "tv-1-5695770948518836453",
+          "key": "tv-1-5695770948518836453",
           "category": "TV",
           "label": "TV",
           "headline": "Wendy Williams Documentary Series ‘Clap If You Care,’ From the Host’s Longtime TV Producer, Picked Up at Peacock",
@@ -2330,8 +2332,8 @@
           ]
         },
         {
-          "id": "tv-8-6830015001530826633",
-          "key": "tv-8-6830015001530826633",
+          "id": "tv-9-6972783907895339772",
+          "key": "tv-9-6972783907895339772",
           "category": "TV",
           "label": "TV",
           "headline": "Everything We Know About Amazon MGM & Sony Pictures TV’s ‘God Of War’ Adaptation So Far",
@@ -2346,7 +2348,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 92,
+          "priority_score": 91,
           "key_data": [
             "Everything We Know About Amazon MGM & Sony Pictures TV’s ‘God Of War’ Adaptation So Far"
           ],
@@ -2358,8 +2360,8 @@
           ]
         },
         {
-          "id": "tv-19-1789866512815413018",
-          "key": "tv-19-1789866512815413018",
+          "id": "tv-20-5121723445979997694",
+          "key": "tv-20-5121723445979997694",
           "category": "TV",
           "label": "TV",
           "headline": "Brenda Song Loves the Los Angeles Rams So Much She Ended Up in a Broadcast Booth at SoFi Stadium",
@@ -2374,7 +2376,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 81,
+          "priority_score": 80,
           "key_data": [
             "Brenda Song Loves the Los Angeles Rams So Much She Ended Up in a Broadcast Booth at SoFi Stadium"
           ],
@@ -2386,8 +2388,8 @@
           ]
         },
         {
-          "id": "tv-29-5300943063376295118",
-          "key": "tv-29-5300943063376295118",
+          "id": "tv-30-3303320540131141422",
+          "key": "tv-30-3303320540131141422",
           "category": "TV",
           "label": "TV",
           "headline": "‘The Office’ star Jenna Fischer exposes the grueling reality that forced her off TV - Fox News",
@@ -2402,7 +2404,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 71,
+          "priority_score": 70,
           "key_data": [
             "‘The Office’ star Jenna Fischer exposes the grueling reality that forced her off TV - Fox News"
           ],
@@ -2416,8 +2418,8 @@
       ],
       "items": [
         {
-          "id": "tv-0-1125255948216771608",
-          "key": "tv-0-1125255948216771608",
+          "id": "tv-0-5391478265267378517",
+          "key": "tv-0-5391478265267378517",
           "category": "TV",
           "label": "TV",
           "headline": "Hulu Cancels Mindy Kaling-Created Comedy ‘Not Suitable for Work’ After One Season (EXCLUSIVE)",
@@ -2444,8 +2446,8 @@
           ]
         },
         {
-          "id": "tv-7-5248999552363001156",
-          "key": "tv-7-5248999552363001156",
+          "id": "tv-8-9025711279271375515",
+          "key": "tv-8-9025711279271375515",
           "category": "TV",
           "label": "TV",
           "headline": "‘Not Suitable For Work’ Canceled By Hulu After One Season",
@@ -2460,7 +2462,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 93,
+          "priority_score": 92,
           "key_data": [
             "‘Not Suitable For Work’ Canceled By Hulu After One Season"
           ],
@@ -2472,8 +2474,8 @@
           ]
         },
         {
-          "id": "tv-18-4168536993053233747",
-          "key": "tv-18-4168536993053233747",
+          "id": "tv-19-8385684641774356585",
+          "key": "tv-19-8385684641774356585",
           "category": "TV",
           "label": "TV",
           "headline": "Hulu Cancels ‘Not Suitable for Work’ After One Season",
@@ -2488,7 +2490,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 82,
+          "priority_score": 81,
           "key_data": [
             "Hulu Cancels ‘Not Suitable for Work’ After One Season"
           ],
@@ -2500,8 +2502,8 @@
           ]
         },
         {
-          "id": "tv-28-8564208775633408999",
-          "key": "tv-28-8564208775633408999",
+          "id": "tv-29-8714591029252030192",
+          "key": "tv-29-8714591029252030192",
           "category": "TV",
           "label": "TV",
           "headline": "Rent Television and TV Units in Delhi, Mumbai and Bangalore Instead of Buying in 2026 as ₹60,000 Entertainment Setups Push Renters Toward ₹499/Month Plans From Rentomojo - Yahoo Finance",
@@ -2516,7 +2518,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 72,
+          "priority_score": 71,
           "key_data": [
             "Rent Television and TV Units in Delhi, Mumbai and Bangalore Instead of Buying in 2026 as ₹60,000 Entertainment Setups Push Renters Toward ₹499/Month Plans From Rentomojo - Yahoo Finance"
           ],
@@ -2528,8 +2530,8 @@
           ]
         },
         {
-          "id": "tv-1-8654648585132708292",
-          "key": "tv-1-8654648585132708292",
+          "id": "tv-1-5695770948518836453",
+          "key": "tv-1-5695770948518836453",
           "category": "TV",
           "label": "TV",
           "headline": "Wendy Williams Documentary Series ‘Clap If You Care,’ From the Host’s Longtime TV Producer, Picked Up at Peacock",
@@ -2556,8 +2558,8 @@
           ]
         },
         {
-          "id": "tv-8-6830015001530826633",
-          "key": "tv-8-6830015001530826633",
+          "id": "tv-9-6972783907895339772",
+          "key": "tv-9-6972783907895339772",
           "category": "TV",
           "label": "TV",
           "headline": "Everything We Know About Amazon MGM & Sony Pictures TV’s ‘God Of War’ Adaptation So Far",
@@ -2572,7 +2574,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 92,
+          "priority_score": 91,
           "key_data": [
             "Everything We Know About Amazon MGM & Sony Pictures TV’s ‘God Of War’ Adaptation So Far"
           ],
@@ -2584,8 +2586,8 @@
           ]
         },
         {
-          "id": "tv-19-1789866512815413018",
-          "key": "tv-19-1789866512815413018",
+          "id": "tv-20-5121723445979997694",
+          "key": "tv-20-5121723445979997694",
           "category": "TV",
           "label": "TV",
           "headline": "Brenda Song Loves the Los Angeles Rams So Much She Ended Up in a Broadcast Booth at SoFi Stadium",
@@ -2600,7 +2602,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 81,
+          "priority_score": 80,
           "key_data": [
             "Brenda Song Loves the Los Angeles Rams So Much She Ended Up in a Broadcast Booth at SoFi Stadium"
           ],
@@ -2612,8 +2614,8 @@
           ]
         },
         {
-          "id": "tv-29-5300943063376295118",
-          "key": "tv-29-5300943063376295118",
+          "id": "tv-30-3303320540131141422",
+          "key": "tv-30-3303320540131141422",
           "category": "TV",
           "label": "TV",
           "headline": "‘The Office’ star Jenna Fischer exposes the grueling reality that forced her off TV - Fox News",
@@ -2628,7 +2630,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 71,
+          "priority_score": 70,
           "key_data": [
             "‘The Office’ star Jenna Fischer exposes the grueling reality that forced her off TV - Fox News"
           ],
@@ -2640,7 +2642,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-25 02:49:56 AM ET"
+      "updated_at": "2026-08-25 03:43:58 AM ET"
     },
     {
       "key": "streaming",
@@ -2658,8 +2660,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "streaming-0-5400585778465958246",
-          "key": "streaming-0-5400585778465958246",
+          "id": "streaming-0-7498787796436637789",
+          "key": "streaming-0-7498787796436637789",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'Mother Mary' to 'Passenger,' 10 movies to stream right now - USA Today",
@@ -2686,8 +2688,8 @@
           ]
         },
         {
-          "id": "streaming-1-4374991373312857915",
-          "key": "streaming-1-4374991373312857915",
+          "id": "streaming-1-8116838596288578742",
+          "key": "streaming-1-8116838596288578742",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "5 best new movies to stream this weekend on Netflix, Disney+, Hulu, and more (August 15-16) - Tom's Guide",
@@ -2716,8 +2718,8 @@
       ],
       "items": [
         {
-          "id": "streaming-0-5400585778465958246",
-          "key": "streaming-0-5400585778465958246",
+          "id": "streaming-0-7498787796436637789",
+          "key": "streaming-0-7498787796436637789",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'Mother Mary' to 'Passenger,' 10 movies to stream right now - USA Today",
@@ -2744,8 +2746,8 @@
           ]
         },
         {
-          "id": "streaming-1-4374991373312857915",
-          "key": "streaming-1-4374991373312857915",
+          "id": "streaming-1-8116838596288578742",
+          "key": "streaming-1-8116838596288578742",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "5 best new movies to stream this weekend on Netflix, Disney+, Hulu, and more (August 15-16) - Tom's Guide",
@@ -2772,7 +2774,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-25 02:49:57 AM ET"
+      "updated_at": "2026-08-25 03:43:59 AM ET"
     },
     {
       "key": "music",
@@ -2782,23 +2784,23 @@
       "snapshot": "Music coverage is updating with 6 current RSS headline item(s).",
       "key_storylines": [
         "Taylor Swift Sings Mashup of ‘All Too Well,’ ‘I Knew It, I Knew You’ and ‘August’ in Grammy Museum Video",
-        "Australia’s Laneway Festival Confirms 2027 Dates",
+        "Vince Staples Announces 2027 Australian Headline Tour",
         "Los Lobos Settles Sony Music Lawsuit Over ‘Desperado’ Movie Soundtrack Royalties - Billboard",
         "Taylor Swift Recalls How ‘I Knew You Were Trouble’ Was Written As a ‘Really Sad Ballad’ in Grammy Museum Conversation Video",
-        "ARIA Sets AI Eligibility Rules for Its Charts, Barring Wholly AI-Generated Tracks"
+        "Australia’s Laneway Festival Confirms 2027 Dates"
       ],
       "watch_list": [
         "Taylor Swift Sings Mashup of ‘All Too Well,’ ‘I Knew It, I Knew You’ and ‘August’ in Grammy Museum Video",
-        "Australia’s Laneway Festival Confirms 2027 Dates",
+        "Vince Staples Announces 2027 Australian Headline Tour",
         "Los Lobos Settles Sony Music Lawsuit Over ‘Desperado’ Movie Soundtrack Royalties - Billboard",
         "Taylor Swift Recalls How ‘I Knew You Were Trouble’ Was Written As a ‘Really Sad Ballad’ in Grammy Museum Conversation Video",
-        "ARIA Sets AI Eligibility Rules for Its Charts, Barring Wholly AI-Generated Tracks",
+        "Australia’s Laneway Festival Confirms 2027 Dates",
         "What Every Music Company Made in Q2 2026 (Updating) - Billboard"
       ],
       "homepage_cards": [
         {
-          "id": "music-0-7762505396162246683",
-          "key": "music-0-7762505396162246683",
+          "id": "music-0-49425460775235390",
+          "key": "music-0-49425460775235390",
           "category": "Music",
           "label": "Music",
           "headline": "Taylor Swift Sings Mashup of ‘All Too Well,’ ‘I Knew It, I Knew You’ and ‘August’ in Grammy Museum Video",
@@ -2825,25 +2827,25 @@
           ]
         },
         {
-          "id": "music-9-4302779025831382401",
-          "key": "music-9-4302779025831382401",
+          "id": "music-9-5131152753093850104",
+          "key": "music-9-5131152753093850104",
           "category": "Music",
           "label": "Music",
-          "headline": "Australia’s Laneway Festival Confirms 2027 Dates",
-          "title": "Australia’s Laneway Festival Confirms 2027 Dates",
-          "snapshot": "It follows confirmation earlier this month that Adelaide and Perth would miss out on the festival in 2027.",
-          "summary": "It follows confirmation earlier this month that Adelaide and Perth would miss out on the festival in 2027.",
-          "url": "https://www.billboard.com/music/concerts/laneway-festival-2027-dates-1236323649/",
+          "headline": "Vince Staples Announces 2027 Australian Headline Tour",
+          "title": "Vince Staples Announces 2027 Australian Headline Tour",
+          "snapshot": "The shows mark his first solo Australian dates in nearly a decade.",
+          "summary": "The shows mark his first solo Australian dates in nearly a decade.",
+          "url": "https://www.billboard.com/music/rb-hip-hop/vince-staples-2027-australian-headline-tour-1236323700/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-25 12:04:23 AM ET",
+          "published_at": "2026-08-25 03:37:37 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 91,
           "key_data": [
-            "Australia’s Laneway Festival Confirms 2027 Dates"
+            "Vince Staples Announces 2027 Australian Headline Tour"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2853,8 +2855,8 @@
           ]
         },
         {
-          "id": "music-19-847195011105793578",
-          "key": "music-19-847195011105793578",
+          "id": "music-19-1793566564194709085",
+          "key": "music-19-1793566564194709085",
           "category": "Music",
           "label": "Music",
           "headline": "Los Lobos Settles Sony Music Lawsuit Over ‘Desperado’ Movie Soundtrack Royalties - Billboard",
@@ -2881,8 +2883,8 @@
           ]
         },
         {
-          "id": "music-1-2328850407114614387",
-          "key": "music-1-2328850407114614387",
+          "id": "music-1-4694227765827270198",
+          "key": "music-1-4694227765827270198",
           "category": "Music",
           "label": "Music",
           "headline": "Taylor Swift Recalls How ‘I Knew You Were Trouble’ Was Written As a ‘Really Sad Ballad’ in Grammy Museum Conversation Video",
@@ -2909,25 +2911,25 @@
           ]
         },
         {
-          "id": "music-10-6353034610103646678",
-          "key": "music-10-6353034610103646678",
+          "id": "music-10-6657799294442980364",
+          "key": "music-10-6657799294442980364",
           "category": "Music",
           "label": "Music",
-          "headline": "ARIA Sets AI Eligibility Rules for Its Charts, Barring Wholly AI-Generated Tracks",
-          "title": "ARIA Sets AI Eligibility Rules for Its Charts, Barring Wholly AI-Generated Tracks",
-          "snapshot": "To qualify, a recording must be \"substantially human-made\" and raise \"no stream or chart manipulation concerns.\"",
-          "summary": "To qualify, a recording must be \"substantially human-made\" and raise \"no stream or chart manipulation concerns.\"",
-          "url": "https://www.billboard.com/pro/aria-sets-ai-eligibility-rules/",
+          "headline": "Australia’s Laneway Festival Confirms 2027 Dates",
+          "title": "Australia’s Laneway Festival Confirms 2027 Dates",
+          "snapshot": "It follows confirmation earlier this month that Adelaide and Perth would miss out on the festival in 2027.",
+          "summary": "It follows confirmation earlier this month that Adelaide and Perth would miss out on the festival in 2027.",
+          "url": "https://www.billboard.com/music/concerts/laneway-festival-2027-dates-1236323649/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-24 11:57:27 PM ET",
+          "published_at": "2026-08-25 12:04:23 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "ARIA Sets AI Eligibility Rules for Its Charts, Barring Wholly AI-Generated Tracks"
+            "Australia’s Laneway Festival Confirms 2027 Dates"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2937,8 +2939,8 @@
           ]
         },
         {
-          "id": "music-20-4508084736455212827",
-          "key": "music-20-4508084736455212827",
+          "id": "music-20-1329112306017072585",
+          "key": "music-20-1329112306017072585",
           "category": "Music",
           "label": "Music",
           "headline": "What Every Music Company Made in Q2 2026 (Updating) - Billboard",
@@ -2967,8 +2969,8 @@
       ],
       "items": [
         {
-          "id": "music-0-7762505396162246683",
-          "key": "music-0-7762505396162246683",
+          "id": "music-0-49425460775235390",
+          "key": "music-0-49425460775235390",
           "category": "Music",
           "label": "Music",
           "headline": "Taylor Swift Sings Mashup of ‘All Too Well,’ ‘I Knew It, I Knew You’ and ‘August’ in Grammy Museum Video",
@@ -2995,25 +2997,25 @@
           ]
         },
         {
-          "id": "music-9-4302779025831382401",
-          "key": "music-9-4302779025831382401",
+          "id": "music-9-5131152753093850104",
+          "key": "music-9-5131152753093850104",
           "category": "Music",
           "label": "Music",
-          "headline": "Australia’s Laneway Festival Confirms 2027 Dates",
-          "title": "Australia’s Laneway Festival Confirms 2027 Dates",
-          "snapshot": "It follows confirmation earlier this month that Adelaide and Perth would miss out on the festival in 2027.",
-          "summary": "It follows confirmation earlier this month that Adelaide and Perth would miss out on the festival in 2027.",
-          "url": "https://www.billboard.com/music/concerts/laneway-festival-2027-dates-1236323649/",
+          "headline": "Vince Staples Announces 2027 Australian Headline Tour",
+          "title": "Vince Staples Announces 2027 Australian Headline Tour",
+          "snapshot": "The shows mark his first solo Australian dates in nearly a decade.",
+          "summary": "The shows mark his first solo Australian dates in nearly a decade.",
+          "url": "https://www.billboard.com/music/rb-hip-hop/vince-staples-2027-australian-headline-tour-1236323700/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-25 12:04:23 AM ET",
+          "published_at": "2026-08-25 03:37:37 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 91,
           "key_data": [
-            "Australia’s Laneway Festival Confirms 2027 Dates"
+            "Vince Staples Announces 2027 Australian Headline Tour"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3023,8 +3025,8 @@
           ]
         },
         {
-          "id": "music-19-847195011105793578",
-          "key": "music-19-847195011105793578",
+          "id": "music-19-1793566564194709085",
+          "key": "music-19-1793566564194709085",
           "category": "Music",
           "label": "Music",
           "headline": "Los Lobos Settles Sony Music Lawsuit Over ‘Desperado’ Movie Soundtrack Royalties - Billboard",
@@ -3051,8 +3053,8 @@
           ]
         },
         {
-          "id": "music-1-2328850407114614387",
-          "key": "music-1-2328850407114614387",
+          "id": "music-1-4694227765827270198",
+          "key": "music-1-4694227765827270198",
           "category": "Music",
           "label": "Music",
           "headline": "Taylor Swift Recalls How ‘I Knew You Were Trouble’ Was Written As a ‘Really Sad Ballad’ in Grammy Museum Conversation Video",
@@ -3079,25 +3081,25 @@
           ]
         },
         {
-          "id": "music-10-6353034610103646678",
-          "key": "music-10-6353034610103646678",
+          "id": "music-10-6657799294442980364",
+          "key": "music-10-6657799294442980364",
           "category": "Music",
           "label": "Music",
-          "headline": "ARIA Sets AI Eligibility Rules for Its Charts, Barring Wholly AI-Generated Tracks",
-          "title": "ARIA Sets AI Eligibility Rules for Its Charts, Barring Wholly AI-Generated Tracks",
-          "snapshot": "To qualify, a recording must be \"substantially human-made\" and raise \"no stream or chart manipulation concerns.\"",
-          "summary": "To qualify, a recording must be \"substantially human-made\" and raise \"no stream or chart manipulation concerns.\"",
-          "url": "https://www.billboard.com/pro/aria-sets-ai-eligibility-rules/",
+          "headline": "Australia’s Laneway Festival Confirms 2027 Dates",
+          "title": "Australia’s Laneway Festival Confirms 2027 Dates",
+          "snapshot": "It follows confirmation earlier this month that Adelaide and Perth would miss out on the festival in 2027.",
+          "summary": "It follows confirmation earlier this month that Adelaide and Perth would miss out on the festival in 2027.",
+          "url": "https://www.billboard.com/music/concerts/laneway-festival-2027-dates-1236323649/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-08-24 11:57:27 PM ET",
+          "published_at": "2026-08-25 12:04:23 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "ARIA Sets AI Eligibility Rules for Its Charts, Barring Wholly AI-Generated Tracks"
+            "Australia’s Laneway Festival Confirms 2027 Dates"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3107,8 +3109,8 @@
           ]
         },
         {
-          "id": "music-20-4508084736455212827",
-          "key": "music-20-4508084736455212827",
+          "id": "music-20-1329112306017072585",
+          "key": "music-20-1329112306017072585",
           "category": "Music",
           "label": "Music",
           "headline": "What Every Music Company Made in Q2 2026 (Updating) - Billboard",
@@ -3135,7 +3137,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-25 02:49:59 AM ET"
+      "updated_at": "2026-08-25 03:44:00 AM ET"
     },
     {
       "key": "awards",
@@ -3157,8 +3159,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "awards-0-2978256426235354418",
-          "key": "awards-0-2978256426235354418",
+          "id": "awards-0-5549679393451100240",
+          "key": "awards-0-5549679393451100240",
           "category": "Awards",
           "label": "Awards",
           "headline": "Joachim Trier’s ‘Sentimental Value,’ Hlynur Pálmason’s ‘The Love That Remains’ Among the Nominees for the Nordic Council Film Prize",
@@ -3185,8 +3187,8 @@
           ]
         },
         {
-          "id": "awards-9-7018004256381110708",
-          "key": "awards-9-7018004256381110708",
+          "id": "awards-9-7929305631015436411",
+          "key": "awards-9-7929305631015436411",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo",
@@ -3213,8 +3215,8 @@
           ]
         },
         {
-          "id": "awards-1-3755047592464839504",
-          "key": "awards-1-3755047592464839504",
+          "id": "awards-1-8792677807679452580",
+          "key": "awards-1-8792677807679452580",
           "category": "Awards",
           "label": "Awards",
           "headline": "‘Sentimental Value’ Star Anders Danielsen Lie and Anne Marie Ottersen Inducted Into the Haugesund Walk of Fame: ‘It Feels Full Circle’",
@@ -3241,8 +3243,8 @@
           ]
         },
         {
-          "id": "awards-10-6886790439138338734",
-          "key": "awards-10-6886790439138338734",
+          "id": "awards-10-2755098213553589433",
+          "key": "awards-10-2755098213553589433",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026 Emmys Supporting Actor Comedy Predictions and Rankings - Yahoo",
@@ -3271,8 +3273,8 @@
       ],
       "items": [
         {
-          "id": "awards-0-2978256426235354418",
-          "key": "awards-0-2978256426235354418",
+          "id": "awards-0-5549679393451100240",
+          "key": "awards-0-5549679393451100240",
           "category": "Awards",
           "label": "Awards",
           "headline": "Joachim Trier’s ‘Sentimental Value,’ Hlynur Pálmason’s ‘The Love That Remains’ Among the Nominees for the Nordic Council Film Prize",
@@ -3299,8 +3301,8 @@
           ]
         },
         {
-          "id": "awards-9-7018004256381110708",
-          "key": "awards-9-7018004256381110708",
+          "id": "awards-9-7929305631015436411",
+          "key": "awards-9-7929305631015436411",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo",
@@ -3327,8 +3329,8 @@
           ]
         },
         {
-          "id": "awards-1-3755047592464839504",
-          "key": "awards-1-3755047592464839504",
+          "id": "awards-1-8792677807679452580",
+          "key": "awards-1-8792677807679452580",
           "category": "Awards",
           "label": "Awards",
           "headline": "‘Sentimental Value’ Star Anders Danielsen Lie and Anne Marie Ottersen Inducted Into the Haugesund Walk of Fame: ‘It Feels Full Circle’",
@@ -3355,8 +3357,8 @@
           ]
         },
         {
-          "id": "awards-10-6886790439138338734",
-          "key": "awards-10-6886790439138338734",
+          "id": "awards-10-2755098213553589433",
+          "key": "awards-10-2755098213553589433",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026 Emmys Supporting Actor Comedy Predictions and Rankings - Yahoo",
@@ -3383,7 +3385,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-25 02:50:01 AM ET"
+      "updated_at": "2026-08-25 03:44:01 AM ET"
     },
     {
       "key": "box_office",
@@ -3405,8 +3407,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "box_office-0-7496856107658067899",
-          "key": "box_office-0-7496856107658067899",
+          "id": "box_office-0-540997774104221929",
+          "key": "box_office-0-540997774104221929",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Korea Box Office: ‘The Odyssey’ Outmuscles ‘Spider-Man: Brand New Day’ to Hold Top Spot",
@@ -3433,8 +3435,8 @@
           ]
         },
         {
-          "id": "box_office-10-5522521708612398110",
-          "key": "box_office-10-5522521708612398110",
+          "id": "box_office-9-1868240152893484544",
+          "key": "box_office-9-1868240152893484544",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "The 30 Highest-Grossing Animated Films Of All Time At The Global Box Office - Deadline",
@@ -3449,7 +3451,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 90,
+          "priority_score": 91,
           "key_data": [
             "The 30 Highest-Grossing Animated Films Of All Time At The Global Box Office - Deadline"
           ],
@@ -3461,8 +3463,8 @@
           ]
         },
         {
-          "id": "box_office-1-6957364046879872356",
-          "key": "box_office-1-6957364046879872356",
+          "id": "box_office-1-6989941000942867728",
+          "key": "box_office-1-6989941000942867728",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "China Box Office: ‘Once Upon a Time in the Middle East’ Stays on Top as ‘V’ Debuts in Second",
@@ -3489,8 +3491,8 @@
           ]
         },
         {
-          "id": "box_office-11-2737210085662437838",
-          "key": "box_office-11-2737210085662437838",
+          "id": "box_office-10-2429479916292780924",
+          "key": "box_office-10-2429479916292780924",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "`The Odyssey’ Makes Box Office History at TCL Chinese Theatre - MyNewsLA.com",
@@ -3505,7 +3507,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 89,
+          "priority_score": 90,
           "key_data": [
             "`The Odyssey’ Makes Box Office History at TCL Chinese Theatre - MyNewsLA.com"
           ],
@@ -3519,8 +3521,8 @@
       ],
       "items": [
         {
-          "id": "box_office-0-7496856107658067899",
-          "key": "box_office-0-7496856107658067899",
+          "id": "box_office-0-540997774104221929",
+          "key": "box_office-0-540997774104221929",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Korea Box Office: ‘The Odyssey’ Outmuscles ‘Spider-Man: Brand New Day’ to Hold Top Spot",
@@ -3547,8 +3549,8 @@
           ]
         },
         {
-          "id": "box_office-10-5522521708612398110",
-          "key": "box_office-10-5522521708612398110",
+          "id": "box_office-9-1868240152893484544",
+          "key": "box_office-9-1868240152893484544",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "The 30 Highest-Grossing Animated Films Of All Time At The Global Box Office - Deadline",
@@ -3563,7 +3565,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 90,
+          "priority_score": 91,
           "key_data": [
             "The 30 Highest-Grossing Animated Films Of All Time At The Global Box Office - Deadline"
           ],
@@ -3575,8 +3577,8 @@
           ]
         },
         {
-          "id": "box_office-1-6957364046879872356",
-          "key": "box_office-1-6957364046879872356",
+          "id": "box_office-1-6989941000942867728",
+          "key": "box_office-1-6989941000942867728",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "China Box Office: ‘Once Upon a Time in the Middle East’ Stays on Top as ‘V’ Debuts in Second",
@@ -3603,8 +3605,8 @@
           ]
         },
         {
-          "id": "box_office-11-2737210085662437838",
-          "key": "box_office-11-2737210085662437838",
+          "id": "box_office-10-2429479916292780924",
+          "key": "box_office-10-2429479916292780924",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "`The Odyssey’ Makes Box Office History at TCL Chinese Theatre - MyNewsLA.com",
@@ -3619,7 +3621,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 89,
+          "priority_score": 90,
           "key_data": [
             "`The Odyssey’ Makes Box Office History at TCL Chinese Theatre - MyNewsLA.com"
           ],
@@ -3631,7 +3633,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-25 02:50:02 AM ET"
+      "updated_at": "2026-08-25 03:44:02 AM ET"
     },
     {
       "key": "celebrity",
@@ -3649,8 +3651,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "celebrity-0-7166586757532517406",
-          "key": "celebrity-0-7166586757532517406",
+          "id": "celebrity-0-1425715272819018990",
+          "key": "celebrity-0-1425715272819018990",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3677,8 +3679,8 @@
           ]
         },
         {
-          "id": "celebrity-1-3626838845449861954",
-          "key": "celebrity-1-3626838845449861954",
+          "id": "celebrity-1-6110894503394825957",
+          "key": "celebrity-1-6110894503394825957",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "PHOTOS: 2026 celebrity deaths - WTOP",
@@ -3707,8 +3709,8 @@
       ],
       "items": [
         {
-          "id": "celebrity-0-7166586757532517406",
-          "key": "celebrity-0-7166586757532517406",
+          "id": "celebrity-0-1425715272819018990",
+          "key": "celebrity-0-1425715272819018990",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3735,8 +3737,8 @@
           ]
         },
         {
-          "id": "celebrity-1-3626838845449861954",
-          "key": "celebrity-1-3626838845449861954",
+          "id": "celebrity-1-6110894503394825957",
+          "key": "celebrity-1-6110894503394825957",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "PHOTOS: 2026 celebrity deaths - WTOP",
@@ -3763,51 +3765,50 @@
           ]
         }
       ],
-      "updated_at": "2026-08-25 02:50:02 AM ET"
+      "updated_at": "2026-08-25 03:44:03 AM ET"
     },
     {
       "key": "hollywood",
       "name": "Hollywood",
       "title": "Hollywood Report",
-      "headline": "How to Watch the Dunkman World Championship Final Online for Free",
-      "snapshot": "Hollywood coverage is updating with 7 current RSS headline item(s).",
+      "headline": "Bitters End International Chief Sayaka Ito Talks Japan’s New Generation, Indie Spirit & Expanding Into Sales",
+      "snapshot": "Hollywood coverage is updating with 6 current RSS headline item(s).",
       "key_storylines": [
-        "How to Watch the Dunkman World Championship Final Online for Free",
-        "Taylor Swift On Writing “I Knew You Were Trouble” As A “Really Sad Ballad” & Why She Wants To Honor Her Country Roots The “Further Along This Path I Get”",
-        "Foo Fighters Rock Hollywood Bowl Debut as Gustavo Dudamel Says Goodbye to L.A. Philharmonic",
+        "Bitters End International Chief Sayaka Ito Talks Japan’s New Generation, Indie Spirit & Expanding Into Sales",
+        "Meet Mestiza, the Female Duo From Spain Mixing Flamenco and Electronic Music",
         "How L.A. stopped being Hollywood’s leading star - Los Angeles Times",
-        "BBC Files New Motion To Dismiss Donald Trump’s $10 Billion Lawsuit, Challenges Claims Of U.S. Viewership Via VPN"
+        "Taylor Swift On Writing “I Knew You Were Trouble” As A “Really Sad Ballad” & Why She Wants To Honor Her Country Roots The “Further Along This Path I Get”",
+        "Foo Fighters Rock Hollywood Bowl Debut as Gustavo Dudamel Says Goodbye to L.A. Philharmonic"
       ],
       "watch_list": [
-        "How to Watch the Dunkman World Championship Final Online for Free",
+        "Bitters End International Chief Sayaka Ito Talks Japan’s New Generation, Indie Spirit & Expanding Into Sales",
+        "Meet Mestiza, the Female Duo From Spain Mixing Flamenco and Electronic Music",
+        "How L.A. stopped being Hollywood’s leading star - Los Angeles Times",
         "Taylor Swift On Writing “I Knew You Were Trouble” As A “Really Sad Ballad” & Why She Wants To Honor Her Country Roots The “Further Along This Path I Get”",
         "Foo Fighters Rock Hollywood Bowl Debut as Gustavo Dudamel Says Goodbye to L.A. Philharmonic",
-        "How L.A. stopped being Hollywood’s leading star - Los Angeles Times",
-        "BBC Files New Motion To Dismiss Donald Trump’s $10 Billion Lawsuit, Challenges Claims Of U.S. Viewership Via VPN",
-        "Taylor Swift on Dealing With Public Perception and Deciding Not to Opt Out Before Her Career “Got Unmanageably Big”",
         "The Hollywood Dissidents Rebuilding the Entertainment Industry from the Inside - IW Features"
       ],
       "homepage_cards": [
         {
-          "id": "hollywood-0-7475492644196691781",
-          "key": "hollywood-0-7475492644196691781",
+          "id": "hollywood-0-5501426451306612651",
+          "key": "hollywood-0-5501426451306612651",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "How to Watch the Dunkman World Championship Final Online for Free",
-          "title": "How to Watch the Dunkman World Championship Final Online for Free",
-          "snapshot": "The eight best basketball dunkers in the world are coming to primetime television this week as the Dunkman World Championship final airs on TNT. The final eight take center court August 25 at 8 p.m. ET, live on TNT and TruTV as part of Dunkman, the first-ever professional league dedicated to dunking. Launched this s...",
-          "summary": "The eight best basketball dunkers in the world are coming to primetime television this week as the Dunkman World Championship final airs on TNT. The final eight take center court August 25 at 8 p.m. ET, live on TNT and TruTV as part of Dunkman, the first-ever professional league dedicated to dunking. Launched this s...",
-          "url": "https://variety.com/2026/shopping/athletes/watch-dunkman-world-championship-final-live-online-free-1236838721/",
-          "source": "Variety",
-          "source_name": "Variety",
-          "source_feed": "https://variety.com/feed/",
-          "published_at": "2026-08-24 05:31:00 PM ET",
+          "headline": "Bitters End International Chief Sayaka Ito Talks Japan’s New Generation, Indie Spirit & Expanding Into Sales",
+          "title": "Bitters End International Chief Sayaka Ito Talks Japan’s New Generation, Indie Spirit & Expanding Into Sales",
+          "snapshot": "Amid the resurgence of Japanese cinema on the international festival circuit over the past few years, one resolutely indie banner, Bitters End, has been quietly growing its profile across production, distribution and international sales. Founded three decades ago by producer-distributor Yuji Sadai, the company is mo...",
+          "summary": "Amid the resurgence of Japanese cinema on the international festival circuit over the past few years, one resolutely indie banner, Bitters End, has been quietly growing its profile across production, distribution and international sales. Founded three decades ago by producer-distributor Yuji Sadai, the company is mo...",
+          "url": "https://deadline.com/2026/08/bitters-end-hamaguchi-japan-maha-harada-san-sebastian-1237032934/",
+          "source": "Deadline",
+          "source_name": "Deadline",
+          "source_feed": "https://deadline.com/feed/",
+          "published_at": "2026-08-25 03:05:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "How to Watch the Dunkman World Championship Final Online for Free"
+            "Bitters End International Chief Sayaka Ito Talks Japan’s New Generation, Indie Spirit & Expanding Into Sales"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3817,8 +3818,64 @@
           ]
         },
         {
-          "id": "hollywood-1-35730921460110084",
-          "key": "hollywood-1-35730921460110084",
+          "id": "hollywood-4-8983034295831909920",
+          "key": "hollywood-4-8983034295831909920",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "Meet Mestiza, the Female Duo From Spain Mixing Flamenco and Electronic Music",
+          "title": "Meet Mestiza, the Female Duo From Spain Mixing Flamenco and Electronic Music",
+          "snapshot": "Belah and Pitty discuss their music and aesthetics, upcoming shows in London and New York, leaning into the \"almost ritualistic\" nature of electronic music, and the visual, cinematic side of their creativity.",
+          "summary": "Belah and Pitty discuss their music and aesthetics, upcoming shows in London and New York, leaning into the \"almost ritualistic\" nature of electronic music, and the visual, cinematic side of their creativity.",
+          "url": "https://www.hollywoodreporter.com/music/music-industry-news/mestiza-female-music-duo-spain-mixing-flamenco-electronic-1236678370/",
+          "source": "The Hollywood Reporter",
+          "source_name": "The Hollywood Reporter",
+          "source_feed": "https://www.hollywoodreporter.com/feed/",
+          "published_at": "2026-08-25 03:01:00 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 96,
+          "key_data": [
+            "Meet Mestiza, the Female Duo From Spain Mixing Flamenco and Electronic Music"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-10-8058559232264110034",
+          "key": "hollywood-10-8058559232264110034",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "How L.A. stopped being Hollywood’s leading star - Los Angeles Times",
+          "title": "How L.A. stopped being Hollywood’s leading star - Los Angeles Times",
+          "snapshot": "How L.A. stopped being Hollywood’s leading star Los Angeles Times",
+          "summary": "How L.A. stopped being Hollywood’s leading star Los Angeles Times",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONDAyVjVfMnhlalhYWVJtWWZHTHpxd191ZU5VZkdSSlRJV3JaRnF6NDhkalJfV3pUbWlvWG9aNlZjVFhtNzd6bDROQlduaFVZWklXd3I3RVl2RHQ3S01ySUpZOXdlRG9kRkhyRjdPT2JMR0hYc2VwaUFKWnlOakx1ZUlYS0lGU0hNaFlrZEJqUHlfamEwbk5nU2hoMTdfUkppcF9peTFoanVaVmRY?oc=5",
+          "source": "Google News",
+          "source_name": "Google News",
+          "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-20 06:00:00 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 90,
+          "key_data": [
+            "How L.A. stopped being Hollywood’s leading star - Los Angeles Times"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-1-7431159787079439168",
+          "key": "hollywood-1-7431159787079439168",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Taylor Swift On Writing “I Knew You Were Trouble” As A “Really Sad Ballad” & Why She Wants To Honor Her Country Roots The “Further Along This Path I Get”",
@@ -3845,8 +3902,8 @@
           ]
         },
         {
-          "id": "hollywood-4-1245840664772158572",
-          "key": "hollywood-4-1245840664772158572",
+          "id": "hollywood-5-9130410150468225141",
+          "key": "hollywood-5-9130410150468225141",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Foo Fighters Rock Hollywood Bowl Debut as Gustavo Dudamel Says Goodbye to L.A. Philharmonic",
@@ -3861,7 +3918,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 96,
+          "priority_score": 95,
           "key_data": [
             "Foo Fighters Rock Hollywood Bowl Debut as Gustavo Dudamel Says Goodbye to L.A. Philharmonic"
           ],
@@ -3873,92 +3930,8 @@
           ]
         },
         {
-          "id": "hollywood-9-95575002475089199",
-          "key": "hollywood-9-95575002475089199",
-          "category": "Hollywood",
-          "label": "Hollywood",
-          "headline": "How L.A. stopped being Hollywood’s leading star - Los Angeles Times",
-          "title": "How L.A. stopped being Hollywood’s leading star - Los Angeles Times",
-          "snapshot": "How L.A. stopped being Hollywood’s leading star Los Angeles Times",
-          "summary": "How L.A. stopped being Hollywood’s leading star Los Angeles Times",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONDAyVjVfMnhlalhYWVJtWWZHTHpxd191ZU5VZkdSSlRJV3JaRnF6NDhkalJfV3pUbWlvWG9aNlZjVFhtNzd6bDROQlduaFVZWklXd3I3RVl2RHQ3S01ySUpZOXdlRG9kRkhyRjdPT2JMR0hYc2VwaUFKWnlOakx1ZUlYS0lGU0hNaFlrZEJqUHlfamEwbk5nU2hoMTdfUkppcF9peTFoanVaVmRY?oc=5",
-          "source": "Google News",
-          "source_name": "Google News",
-          "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-20 06:00:00 AM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 91,
-          "key_data": [
-            "How L.A. stopped being Hollywood’s leading star - Los Angeles Times"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "hollywood-2-8571716989051209341",
-          "key": "hollywood-2-8571716989051209341",
-          "category": "Hollywood",
-          "label": "Hollywood",
-          "headline": "BBC Files New Motion To Dismiss Donald Trump’s $10 Billion Lawsuit, Challenges Claims Of U.S. Viewership Via VPN",
-          "title": "BBC Files New Motion To Dismiss Donald Trump’s $10 Billion Lawsuit, Challenges Claims Of U.S. Viewership Via VPN",
-          "snapshot": "The BBC is again seeking to dismiss Donald Trump’s $10 billion lawsuit against the network, including a challenge to the president’s claim that a documentary at issue aired in the United States. Trump sued the BBC in December over edits that were made in a documentary about the January 6th attack on the Capitol. The...",
-          "summary": "The BBC is again seeking to dismiss Donald Trump’s $10 billion lawsuit against the network, including a challenge to the president’s claim that a documentary at issue aired in the United States. Trump sued the BBC in December over edits that were made in a documentary about the January 6th attack on the Capitol. The...",
-          "url": "https://deadline.com/2026/08/bbc-trump-documentary-lawsuit-1237049211/",
-          "source": "Deadline",
-          "source_name": "Deadline",
-          "source_feed": "https://deadline.com/feed/",
-          "published_at": "2026-08-24 04:46:59 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 98,
-          "key_data": [
-            "BBC Files New Motion To Dismiss Donald Trump’s $10 Billion Lawsuit, Challenges Claims Of U.S. Viewership Via VPN"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "hollywood-5-5084027023879823714",
-          "key": "hollywood-5-5084027023879823714",
-          "category": "Hollywood",
-          "label": "Hollywood",
-          "headline": "Taylor Swift on Dealing With Public Perception and Deciding Not to Opt Out Before Her Career “Got Unmanageably Big”",
-          "title": "Taylor Swift on Dealing With Public Perception and Deciding Not to Opt Out Before Her Career “Got Unmanageably Big”",
-          "snapshot": "The star joined Recording Academy CEO Harvey Mason Jr. for a 20-year retrospective chat at the Grammy Museum.",
-          "summary": "The star joined Recording Academy CEO Harvey Mason Jr. for a 20-year retrospective chat at the Grammy Museum.",
-          "url": "https://www.hollywoodreporter.com/music/music-news/taylor-swift-public-perception-career-unmanageably-big-1236680277/",
-          "source": "The Hollywood Reporter",
-          "source_name": "The Hollywood Reporter",
-          "source_feed": "https://www.hollywoodreporter.com/feed/",
-          "published_at": "2026-08-24 08:30:24 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 95,
-          "key_data": [
-            "Taylor Swift on Dealing With Public Perception and Deciding Not to Opt Out Before Her Career “Got Unmanageably Big”"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "hollywood-10-4303182073481213472",
-          "key": "hollywood-10-4303182073481213472",
+          "id": "hollywood-11-6845272752499059549",
+          "key": "hollywood-11-6845272752499059549",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "The Hollywood Dissidents Rebuilding the Entertainment Industry from the Inside - IW Features",
@@ -3973,7 +3946,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 90,
+          "priority_score": 89,
           "key_data": [
             "The Hollywood Dissidents Rebuilding the Entertainment Industry from the Inside - IW Features"
           ],
@@ -3987,25 +3960,25 @@
       ],
       "items": [
         {
-          "id": "hollywood-0-7475492644196691781",
-          "key": "hollywood-0-7475492644196691781",
+          "id": "hollywood-0-5501426451306612651",
+          "key": "hollywood-0-5501426451306612651",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "How to Watch the Dunkman World Championship Final Online for Free",
-          "title": "How to Watch the Dunkman World Championship Final Online for Free",
-          "snapshot": "The eight best basketball dunkers in the world are coming to primetime television this week as the Dunkman World Championship final airs on TNT. The final eight take center court August 25 at 8 p.m. ET, live on TNT and TruTV as part of Dunkman, the first-ever professional league dedicated to dunking. Launched this s...",
-          "summary": "The eight best basketball dunkers in the world are coming to primetime television this week as the Dunkman World Championship final airs on TNT. The final eight take center court August 25 at 8 p.m. ET, live on TNT and TruTV as part of Dunkman, the first-ever professional league dedicated to dunking. Launched this s...",
-          "url": "https://variety.com/2026/shopping/athletes/watch-dunkman-world-championship-final-live-online-free-1236838721/",
-          "source": "Variety",
-          "source_name": "Variety",
-          "source_feed": "https://variety.com/feed/",
-          "published_at": "2026-08-24 05:31:00 PM ET",
+          "headline": "Bitters End International Chief Sayaka Ito Talks Japan’s New Generation, Indie Spirit & Expanding Into Sales",
+          "title": "Bitters End International Chief Sayaka Ito Talks Japan’s New Generation, Indie Spirit & Expanding Into Sales",
+          "snapshot": "Amid the resurgence of Japanese cinema on the international festival circuit over the past few years, one resolutely indie banner, Bitters End, has been quietly growing its profile across production, distribution and international sales. Founded three decades ago by producer-distributor Yuji Sadai, the company is mo...",
+          "summary": "Amid the resurgence of Japanese cinema on the international festival circuit over the past few years, one resolutely indie banner, Bitters End, has been quietly growing its profile across production, distribution and international sales. Founded three decades ago by producer-distributor Yuji Sadai, the company is mo...",
+          "url": "https://deadline.com/2026/08/bitters-end-hamaguchi-japan-maha-harada-san-sebastian-1237032934/",
+          "source": "Deadline",
+          "source_name": "Deadline",
+          "source_feed": "https://deadline.com/feed/",
+          "published_at": "2026-08-25 03:05:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "How to Watch the Dunkman World Championship Final Online for Free"
+            "Bitters End International Chief Sayaka Ito Talks Japan’s New Generation, Indie Spirit & Expanding Into Sales"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4015,8 +3988,64 @@
           ]
         },
         {
-          "id": "hollywood-1-35730921460110084",
-          "key": "hollywood-1-35730921460110084",
+          "id": "hollywood-4-8983034295831909920",
+          "key": "hollywood-4-8983034295831909920",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "Meet Mestiza, the Female Duo From Spain Mixing Flamenco and Electronic Music",
+          "title": "Meet Mestiza, the Female Duo From Spain Mixing Flamenco and Electronic Music",
+          "snapshot": "Belah and Pitty discuss their music and aesthetics, upcoming shows in London and New York, leaning into the \"almost ritualistic\" nature of electronic music, and the visual, cinematic side of their creativity.",
+          "summary": "Belah and Pitty discuss their music and aesthetics, upcoming shows in London and New York, leaning into the \"almost ritualistic\" nature of electronic music, and the visual, cinematic side of their creativity.",
+          "url": "https://www.hollywoodreporter.com/music/music-industry-news/mestiza-female-music-duo-spain-mixing-flamenco-electronic-1236678370/",
+          "source": "The Hollywood Reporter",
+          "source_name": "The Hollywood Reporter",
+          "source_feed": "https://www.hollywoodreporter.com/feed/",
+          "published_at": "2026-08-25 03:01:00 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 96,
+          "key_data": [
+            "Meet Mestiza, the Female Duo From Spain Mixing Flamenco and Electronic Music"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-10-8058559232264110034",
+          "key": "hollywood-10-8058559232264110034",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "How L.A. stopped being Hollywood’s leading star - Los Angeles Times",
+          "title": "How L.A. stopped being Hollywood’s leading star - Los Angeles Times",
+          "snapshot": "How L.A. stopped being Hollywood’s leading star Los Angeles Times",
+          "summary": "How L.A. stopped being Hollywood’s leading star Los Angeles Times",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONDAyVjVfMnhlalhYWVJtWWZHTHpxd191ZU5VZkdSSlRJV3JaRnF6NDhkalJfV3pUbWlvWG9aNlZjVFhtNzd6bDROQlduaFVZWklXd3I3RVl2RHQ3S01ySUpZOXdlRG9kRkhyRjdPT2JMR0hYc2VwaUFKWnlOakx1ZUlYS0lGU0hNaFlrZEJqUHlfamEwbk5nU2hoMTdfUkppcF9peTFoanVaVmRY?oc=5",
+          "source": "Google News",
+          "source_name": "Google News",
+          "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
+          "published_at": "2026-08-20 06:00:00 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 90,
+          "key_data": [
+            "How L.A. stopped being Hollywood’s leading star - Los Angeles Times"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-1-7431159787079439168",
+          "key": "hollywood-1-7431159787079439168",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Taylor Swift On Writing “I Knew You Were Trouble” As A “Really Sad Ballad” & Why She Wants To Honor Her Country Roots The “Further Along This Path I Get”",
@@ -4043,8 +4072,8 @@
           ]
         },
         {
-          "id": "hollywood-4-1245840664772158572",
-          "key": "hollywood-4-1245840664772158572",
+          "id": "hollywood-5-9130410150468225141",
+          "key": "hollywood-5-9130410150468225141",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Foo Fighters Rock Hollywood Bowl Debut as Gustavo Dudamel Says Goodbye to L.A. Philharmonic",
@@ -4059,7 +4088,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 96,
+          "priority_score": 95,
           "key_data": [
             "Foo Fighters Rock Hollywood Bowl Debut as Gustavo Dudamel Says Goodbye to L.A. Philharmonic"
           ],
@@ -4071,92 +4100,8 @@
           ]
         },
         {
-          "id": "hollywood-9-95575002475089199",
-          "key": "hollywood-9-95575002475089199",
-          "category": "Hollywood",
-          "label": "Hollywood",
-          "headline": "How L.A. stopped being Hollywood’s leading star - Los Angeles Times",
-          "title": "How L.A. stopped being Hollywood’s leading star - Los Angeles Times",
-          "snapshot": "How L.A. stopped being Hollywood’s leading star Los Angeles Times",
-          "summary": "How L.A. stopped being Hollywood’s leading star Los Angeles Times",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONDAyVjVfMnhlalhYWVJtWWZHTHpxd191ZU5VZkdSSlRJV3JaRnF6NDhkalJfV3pUbWlvWG9aNlZjVFhtNzd6bDROQlduaFVZWklXd3I3RVl2RHQ3S01ySUpZOXdlRG9kRkhyRjdPT2JMR0hYc2VwaUFKWnlOakx1ZUlYS0lGU0hNaFlrZEJqUHlfamEwbk5nU2hoMTdfUkppcF9peTFoanVaVmRY?oc=5",
-          "source": "Google News",
-          "source_name": "Google News",
-          "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-20 06:00:00 AM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 91,
-          "key_data": [
-            "How L.A. stopped being Hollywood’s leading star - Los Angeles Times"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "hollywood-2-8571716989051209341",
-          "key": "hollywood-2-8571716989051209341",
-          "category": "Hollywood",
-          "label": "Hollywood",
-          "headline": "BBC Files New Motion To Dismiss Donald Trump’s $10 Billion Lawsuit, Challenges Claims Of U.S. Viewership Via VPN",
-          "title": "BBC Files New Motion To Dismiss Donald Trump’s $10 Billion Lawsuit, Challenges Claims Of U.S. Viewership Via VPN",
-          "snapshot": "The BBC is again seeking to dismiss Donald Trump’s $10 billion lawsuit against the network, including a challenge to the president’s claim that a documentary at issue aired in the United States. Trump sued the BBC in December over edits that were made in a documentary about the January 6th attack on the Capitol. The...",
-          "summary": "The BBC is again seeking to dismiss Donald Trump’s $10 billion lawsuit against the network, including a challenge to the president’s claim that a documentary at issue aired in the United States. Trump sued the BBC in December over edits that were made in a documentary about the January 6th attack on the Capitol. The...",
-          "url": "https://deadline.com/2026/08/bbc-trump-documentary-lawsuit-1237049211/",
-          "source": "Deadline",
-          "source_name": "Deadline",
-          "source_feed": "https://deadline.com/feed/",
-          "published_at": "2026-08-24 04:46:59 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 98,
-          "key_data": [
-            "BBC Files New Motion To Dismiss Donald Trump’s $10 Billion Lawsuit, Challenges Claims Of U.S. Viewership Via VPN"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "hollywood-5-5084027023879823714",
-          "key": "hollywood-5-5084027023879823714",
-          "category": "Hollywood",
-          "label": "Hollywood",
-          "headline": "Taylor Swift on Dealing With Public Perception and Deciding Not to Opt Out Before Her Career “Got Unmanageably Big”",
-          "title": "Taylor Swift on Dealing With Public Perception and Deciding Not to Opt Out Before Her Career “Got Unmanageably Big”",
-          "snapshot": "The star joined Recording Academy CEO Harvey Mason Jr. for a 20-year retrospective chat at the Grammy Museum.",
-          "summary": "The star joined Recording Academy CEO Harvey Mason Jr. for a 20-year retrospective chat at the Grammy Museum.",
-          "url": "https://www.hollywoodreporter.com/music/music-news/taylor-swift-public-perception-career-unmanageably-big-1236680277/",
-          "source": "The Hollywood Reporter",
-          "source_name": "The Hollywood Reporter",
-          "source_feed": "https://www.hollywoodreporter.com/feed/",
-          "published_at": "2026-08-24 08:30:24 PM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 95,
-          "key_data": [
-            "Taylor Swift on Dealing With Public Perception and Deciding Not to Opt Out Before Her Career “Got Unmanageably Big”"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "hollywood-10-4303182073481213472",
-          "key": "hollywood-10-4303182073481213472",
+          "id": "hollywood-11-6845272752499059549",
+          "key": "hollywood-11-6845272752499059549",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "The Hollywood Dissidents Rebuilding the Entertainment Industry from the Inside - IW Features",
@@ -4171,7 +4116,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 90,
+          "priority_score": 89,
           "key_data": [
             "The Hollywood Dissidents Rebuilding the Entertainment Industry from the Inside - IW Features"
           ],
@@ -4183,7 +4128,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-25 02:50:03 AM ET"
+      "updated_at": "2026-08-25 03:44:04 AM ET"
     },
     {
       "key": "gaming",
@@ -4201,8 +4146,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "gaming-0-286077746059806376",
-          "key": "gaming-0-286077746059806376",
+          "id": "gaming-0-5095964815507295301",
+          "key": "gaming-0-5095964815507295301",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "The Witcher 3 Songs of the Past Expansion Confirmed to Include More Gwent, and Everyone Is Already Celebrating",
@@ -4229,8 +4174,8 @@
           ]
         },
         {
-          "id": "gaming-1-7634803299684533764",
-          "key": "gaming-1-7634803299684533764",
+          "id": "gaming-1-7638516321353147790",
+          "key": "gaming-1-7638516321353147790",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Persona Comes to Beard Papa's With Special 30th Anniversary Collaboration",
@@ -4259,8 +4204,8 @@
       ],
       "items": [
         {
-          "id": "gaming-0-286077746059806376",
-          "key": "gaming-0-286077746059806376",
+          "id": "gaming-0-5095964815507295301",
+          "key": "gaming-0-5095964815507295301",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "The Witcher 3 Songs of the Past Expansion Confirmed to Include More Gwent, and Everyone Is Already Celebrating",
@@ -4287,8 +4232,8 @@
           ]
         },
         {
-          "id": "gaming-1-7634803299684533764",
-          "key": "gaming-1-7634803299684533764",
+          "id": "gaming-1-7638516321353147790",
+          "key": "gaming-1-7638516321353147790",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Persona Comes to Beard Papa's With Special 30th Anniversary Collaboration",
@@ -4315,7 +4260,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-25 02:50:04 AM ET"
+      "updated_at": "2026-08-25 03:44:05 AM ET"
     },
     {
       "key": "media",
@@ -4340,8 +4285,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "media-0-7509021144843083773",
-          "key": "media-0-7509021144843083773",
+          "id": "media-0-5116959424096531239",
+          "key": "media-0-5116959424096531239",
           "category": "Media",
           "label": "Media",
           "headline": "WildBrain Acquires ‘Kid Safe’ Generative-AI Platform Personality AI in Deal Worth up to $69 Million",
@@ -4368,8 +4313,8 @@
           ]
         },
         {
-          "id": "media-9-4136933741555725807",
-          "key": "media-9-4136933741555725807",
+          "id": "media-9-214411906797658812",
+          "key": "media-9-214411906797658812",
           "category": "Media",
           "label": "Media",
           "headline": "CNN Says Outage Due To Technical Issue Across Warner Bros. Discovery",
@@ -4396,8 +4341,8 @@
           ]
         },
         {
-          "id": "media-17-4414372735359321099",
-          "key": "media-17-4414372735359321099",
+          "id": "media-17-386365361949344562",
+          "key": "media-17-386365361949344562",
           "category": "Media",
           "label": "Media",
           "headline": "SNK Entertainment dissolved after 10 years. Most of its businesses transferred to parent company SNK - AUTOMATON",
@@ -4424,8 +4369,8 @@
           ]
         },
         {
-          "id": "media-1-1340073400909188939",
-          "key": "media-1-1340073400909188939",
+          "id": "media-1-2423769057041562635",
+          "key": "media-1-2423769057041562635",
           "category": "Media",
           "label": "Media",
           "headline": "Vertical Media on Track to Generate $150 Billion in 2026 as the Booming Sector Fights Crowded Content Field and High Subscriber Acquisition Costs",
@@ -4452,8 +4397,8 @@
           ]
         },
         {
-          "id": "media-10-8902125850111282667",
-          "key": "media-10-8902125850111282667",
+          "id": "media-10-979520815670846411",
+          "key": "media-10-979520815670846411",
           "category": "Media",
           "label": "Media",
           "headline": "Fox News Names Emily Compagno Co-Host Of ‘The Five’",
@@ -4480,8 +4425,8 @@
           ]
         },
         {
-          "id": "media-18-9035406654242099109",
-          "key": "media-18-9035406654242099109",
+          "id": "media-18-5133976313876035790",
+          "key": "media-18-5133976313876035790",
           "category": "Media",
           "label": "Media",
           "headline": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
@@ -4510,8 +4455,8 @@
       ],
       "items": [
         {
-          "id": "media-0-7509021144843083773",
-          "key": "media-0-7509021144843083773",
+          "id": "media-0-5116959424096531239",
+          "key": "media-0-5116959424096531239",
           "category": "Media",
           "label": "Media",
           "headline": "WildBrain Acquires ‘Kid Safe’ Generative-AI Platform Personality AI in Deal Worth up to $69 Million",
@@ -4538,8 +4483,8 @@
           ]
         },
         {
-          "id": "media-9-4136933741555725807",
-          "key": "media-9-4136933741555725807",
+          "id": "media-9-214411906797658812",
+          "key": "media-9-214411906797658812",
           "category": "Media",
           "label": "Media",
           "headline": "CNN Says Outage Due To Technical Issue Across Warner Bros. Discovery",
@@ -4566,8 +4511,8 @@
           ]
         },
         {
-          "id": "media-17-4414372735359321099",
-          "key": "media-17-4414372735359321099",
+          "id": "media-17-386365361949344562",
+          "key": "media-17-386365361949344562",
           "category": "Media",
           "label": "Media",
           "headline": "SNK Entertainment dissolved after 10 years. Most of its businesses transferred to parent company SNK - AUTOMATON",
@@ -4594,8 +4539,8 @@
           ]
         },
         {
-          "id": "media-1-1340073400909188939",
-          "key": "media-1-1340073400909188939",
+          "id": "media-1-2423769057041562635",
+          "key": "media-1-2423769057041562635",
           "category": "Media",
           "label": "Media",
           "headline": "Vertical Media on Track to Generate $150 Billion in 2026 as the Booming Sector Fights Crowded Content Field and High Subscriber Acquisition Costs",
@@ -4622,8 +4567,8 @@
           ]
         },
         {
-          "id": "media-10-8902125850111282667",
-          "key": "media-10-8902125850111282667",
+          "id": "media-10-979520815670846411",
+          "key": "media-10-979520815670846411",
           "category": "Media",
           "label": "Media",
           "headline": "Fox News Names Emily Compagno Co-Host Of ‘The Five’",
@@ -4650,8 +4595,8 @@
           ]
         },
         {
-          "id": "media-18-9035406654242099109",
-          "key": "media-18-9035406654242099109",
+          "id": "media-18-5133976313876035790",
+          "key": "media-18-5133976313876035790",
           "category": "Media",
           "label": "Media",
           "headline": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar - News On AIR",
@@ -4678,7 +4623,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-25 02:50:06 AM ET"
+      "updated_at": "2026-08-25 03:44:06 AM ET"
     }
   ]
 }
