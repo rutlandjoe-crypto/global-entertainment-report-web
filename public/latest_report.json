@@ -4,14 +4,14 @@
   "site_name": "Global Entertainment Report",
   "vertical": "Entertainment",
   "headline": "Jane Fonda Slams Paramount For Calling Mark Ruffalo's Comments 'Antisemitic': 'A Smear to Delegitimize Criticism of the Merger'",
-  "snapshot": "Global Entertainment Report accepted 51 real RSS item(s) across 31 checked feed request(s).",
-  "generated_at": "2026-08-26 12:40:11 AM ET",
-  "updated_at": "2026-08-26 12:40:11 AM ET",
-  "published_at": "2026-08-26 12:40:11 AM ET",
+  "snapshot": "Global Entertainment Report accepted 50 real RSS item(s) across 31 checked feed request(s).",
+  "generated_at": "2026-08-26 01:34:55 AM ET",
+  "updated_at": "2026-08-26 01:34:55 AM ET",
+  "published_at": "2026-08-26 01:34:55 AM ET",
   "source_mode": "live RSS ingestion",
   "freshness": {
     "max_item_age_hours": 336,
-    "accepted_real_items": 51,
+    "accepted_real_items": 50,
     "checked_feeds": 31,
     "feeds_without_accepted_items": 5
   },
@@ -53,9 +53,9 @@
       "final_url": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 91,
+      "rejected_count": 88,
       "rejection_reasons": {
-        "stale-over-336h": 91
+        "stale-over-336h": 88
       }
     },
     {
@@ -77,9 +77,9 @@
       "final_url": "https://deadline.com/v/tv/feed/",
       "item_count": 12,
       "accepted_count": 2,
-      "rejected_count": 2,
+      "rejected_count": 3,
       "rejection_reasons": {
-        "duplicate-story": 2
+        "duplicate-story": 3
       }
     },
     {
@@ -165,11 +165,11 @@
       "url": "https://news.google.com/rss/search?q=music+entertainment+billboard&hl=en-US&gl=US&ceid=US:en",
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=music+entertainment+billboard&hl=en-US&gl=US&ceid=US:en",
-      "item_count": 100,
-      "accepted_count": 2,
-      "rejected_count": 96,
+      "item_count": 82,
+      "accepted_count": 1,
+      "rejected_count": 81,
       "rejection_reasons": {
-        "stale-over-336h": 96
+        "stale-over-336h": 81
       }
     },
     {
@@ -235,10 +235,10 @@
       "final_url": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 55,
+      "rejected_count": 54,
       "rejection_reasons": {
         "duplicate-story": 2,
-        "stale-over-336h": 53
+        "stale-over-336h": 52
       }
     },
     {
@@ -284,9 +284,9 @@
       "final_url": "https://deadline.com/feed/",
       "item_count": 12,
       "accepted_count": 2,
-      "rejected_count": 9,
+      "rejected_count": 10,
       "rejection_reasons": {
-        "duplicate-story": 9
+        "duplicate-story": 10
       }
     },
     {
@@ -308,8 +308,9 @@
       "final_url": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 91,
+      "rejected_count": 92,
       "rejection_reasons": {
+        "duplicate-story": 1,
         "stale-over-336h": 91
       }
     },
@@ -354,9 +355,9 @@
       "final_url": "https://deadline.com/v/business/feed/",
       "item_count": 12,
       "accepted_count": 2,
-      "rejected_count": 1,
+      "rejected_count": 2,
       "rejection_reasons": {
-        "duplicate-story": 1
+        "duplicate-story": 2
       }
     },
     {
@@ -377,18 +378,18 @@
   "x_handle": "@GlobalSportsRp",
   "key_storylines": [
     "Jane Fonda Slams Paramount For Calling Mark Ruffalo's Comments 'Antisemitic': 'A Smear to Delegitimize Criticism of the Merger'",
-    "Dolly Parton Died After A \"Brief Battle With Cancer\", Her Reps Confirm",
+    "Iowa MAGA AG Wants To Take California & Rob Bonta To Supreme Court Over Paramount-WBD Antitrust Suit, Maybe",
     "Netflix Sets Lee Jung-eun, Kim Moo-yul for Korean Action-Noir Series 'The Shooter'",
     "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
     "Savage Garden's Darren Hayes' Career Celebrated at Music In The House Gala",
     "Showa American Story: The First Hands-On Preview",
     "Iowa Attorney General Says She's Taking California to the Supreme Court Over Paramount-Warner Bros. Lawsuit",
-    "'The Dog Stars' Review: Jacob Elordi Searches For Last Gasp Of Humanity In Ridley Scott's Sharp Postapocalyptic Thriller"
+    "Dolly Parton Died After A \"Brief Battle With Cancer\", Her Reps Confirm"
   ],
   "live_newsroom": [
     {
-      "id": "film-0-892719871185938411",
-      "key": "film-0-892719871185938411",
+      "id": "film-0-3991302615666785721",
+      "key": "film-0-3991302615666785721",
       "category": "Film",
       "label": "Film",
       "headline": "Jane Fonda Slams Paramount For Calling Mark Ruffalo's Comments 'Antisemitic': 'A Smear to Delegitimize Criticism of the Merger'",
@@ -414,22 +415,22 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-2762728177089634370",
-      "key": "film-10-2762728177089634370",
+      "id": "film-10-7877144942993636152",
+      "key": "film-10-7877144942993636152",
       "category": "Film",
       "label": "Film",
-      "headline": "Dolly Parton Died After A \"Brief Battle With Cancer\", Her Reps Confirm",
-      "title": "Dolly Parton Died After A \"Brief Battle With Cancer\", Her Reps Confirm",
-      "snapshot": "We have more details on the cause of death for Dolly Parton. The beloved country music legend died following a \"brief battle with cancer,\" her reps confirmed to People. The type of cancer was not disclosed. The country music icon, songwriter, philanthropist and star of 9 to 5 and Steel Magnolias, died Tuesday at the...",
-      "summary": "We have more details on the cause of death for Dolly Parton. The beloved country music legend died following a \"brief battle with cancer,\" her reps confirmed to People. The type of cancer was not disclosed. The country music icon, songwriter, philanthropist and star of 9 to 5 and Steel Magnolias, died Tuesday at the...",
-      "url": "https://deadline.com/2026/08/dolly-parton-cause-of-death-cancer-1237050517/",
+      "headline": "Iowa MAGA AG Wants To Take California & Rob Bonta To Supreme Court Over Paramount-WBD Antitrust Suit, Maybe",
+      "title": "Iowa MAGA AG Wants To Take California & Rob Bonta To Supreme Court Over Paramount-WBD Antitrust Suit, Maybe",
+      "snapshot": "With friends like Iowa Attorney General Brenna Bird, does Paramount and David Ellison really need enemies? In an op-ed penned for the conservative Daily Wire Tuesday, the Hawkeye State ally of Donald Trump is threatening to take California to the Supreme Court. Declaring that \"California is once again trying to be t...",
+      "summary": "With friends like Iowa Attorney General Brenna Bird, does Paramount and David Ellison really need enemies? In an op-ed penned for the conservative Daily Wire Tuesday, the Hawkeye State ally of Donald Trump is threatening to take California to the Supreme Court. Declaring that \"California is once again trying to be t...",
+      "url": "https://deadline.com/2026/08/paramount-merger-supreme-court-threat-iowa-1237050615/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-08-25 08:12:33 PM ET",
+      "published_at": "2026-08-26 01:09:42 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Dolly Parton Died After A \"Brief Battle With Cancer\", Her Reps Confirm"
+        "Iowa MAGA AG Wants To Take California & Rob Bonta To Supreme Court Over Paramount-WBD Antitrust Suit, Maybe"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -441,8 +442,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-754636407298771860",
-      "key": "film-22-754636407298771860",
+      "id": "film-22-1006817888922177362",
+      "key": "film-22-1006817888922177362",
       "category": "Film",
       "label": "Film",
       "headline": "Netflix Sets Lee Jung-eun, Kim Moo-yul for Korean Action-Noir Series 'The Shooter'",
@@ -468,8 +469,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-8402138239400773135",
-      "key": "film-32-8402138239400773135",
+      "id": "film-32-3239191580356773427",
+      "key": "film-32-3239191580356773427",
       "category": "Film",
       "label": "Film",
       "headline": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
@@ -495,8 +496,8 @@
       "priority_score": 68
     },
     {
-      "id": "music-8-3824759845208433785",
-      "key": "music-8-3824759845208433785",
+      "id": "music-8-677469229632815473",
+      "key": "music-8-677469229632815473",
       "category": "Music",
       "label": "Music",
       "headline": "Savage Garden's Darren Hayes' Career Celebrated at Music In The House Gala",
@@ -522,8 +523,8 @@
       "priority_score": 92
     },
     {
-      "id": "gaming-0-7396507426475539353",
-      "key": "gaming-0-7396507426475539353",
+      "id": "gaming-0-3190577265143021444",
+      "key": "gaming-0-3190577265143021444",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Showa American Story: The First Hands-On Preview",
@@ -549,8 +550,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-1084626036349159039",
-      "key": "film-1-1084626036349159039",
+      "id": "film-1-3780966187708389774",
+      "key": "film-1-3780966187708389774",
       "category": "Film",
       "label": "Film",
       "headline": "Iowa Attorney General Says She's Taking California to the Supreme Court Over Paramount-Warner Bros. Lawsuit",
@@ -576,22 +577,22 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-665323519944223037",
-      "key": "film-11-665323519944223037",
+      "id": "film-11-9000054982736474381",
+      "key": "film-11-9000054982736474381",
       "category": "Film",
       "label": "Film",
-      "headline": "'The Dog Stars' Review: Jacob Elordi Searches For Last Gasp Of Humanity In Ridley Scott's Sharp Postapocalyptic Thriller",
-      "title": "'The Dog Stars' Review: Jacob Elordi Searches For Last Gasp Of Humanity In Ridley Scott's Sharp Postapocalyptic Thriller",
-      "snapshot": "The lovable dog in Ridley Scott's The Dog Stars isn't actually the star of film, despite the title. Sadly, Jasper is only a supporting player in the first half hour of the movie. The real star here is Jacob Elordi, who is continuing to show genuine chops as a leading man. He does it again […]",
-      "summary": "The lovable dog in Ridley Scott's The Dog Stars isn't actually the star of film, despite the title. Sadly, Jasper is only a supporting player in the first half hour of the movie. The real star here is Jacob Elordi, who is continuing to show genuine chops as a leading man. He does it again […]",
-      "url": "https://deadline.com/2026/08/the-dog-stars-review-jacob-elordi-ridley-scott-1237049569/",
+      "headline": "Dolly Parton Died After A \"Brief Battle With Cancer\", Her Reps Confirm",
+      "title": "Dolly Parton Died After A \"Brief Battle With Cancer\", Her Reps Confirm",
+      "snapshot": "We have more details on the cause of death for Dolly Parton. The beloved country music legend died following a \"brief battle with cancer,\" her reps confirmed to People. The type of cancer was not disclosed. The country music icon, songwriter, philanthropist and star of 9 to 5 and Steel Magnolias, died Tuesday at the...",
+      "summary": "We have more details on the cause of death for Dolly Parton. The beloved country music legend died following a \"brief battle with cancer,\" her reps confirmed to People. The type of cancer was not disclosed. The country music icon, songwriter, philanthropist and star of 9 to 5 and Steel Magnolias, died Tuesday at the...",
+      "url": "https://deadline.com/2026/08/dolly-parton-cause-of-death-cancer-1237050517/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-08-25 08:00:00 PM ET",
+      "published_at": "2026-08-25 08:12:33 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'The Dog Stars' Review: Jacob Elordi Searches For Last Gasp Of Humanity In Ridley Scott's Sharp Postapocalyptic Thriller"
+        "Dolly Parton Died After A \"Brief Battle With Cancer\", Her Reps Confirm"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -603,8 +604,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-1273437137970547332",
-      "key": "film-23-1273437137970547332",
+      "id": "film-23-4666473985429354239",
+      "key": "film-23-4666473985429354239",
       "category": "Film",
       "label": "Film",
       "headline": "Snoop Dogg Biopic Finds Its Tupac Shakur in Camron Jones (Exclusive)",
@@ -630,8 +631,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-4696980273760489829",
-      "key": "film-33-4696980273760489829",
+      "id": "film-33-6119746843307968143",
+      "key": "film-33-6119746843307968143",
       "category": "Film",
       "label": "Film",
       "headline": "New investors flip script to get into film funding, distribution as sector slump opens opportunities - Korea JoongAng Daily",
@@ -657,8 +658,8 @@
       "priority_score": 67
     },
     {
-      "id": "music-9-8178243968654701679",
-      "key": "music-9-8178243968654701679",
+      "id": "music-9-1051648490682226059",
+      "key": "music-9-1051648490682226059",
       "category": "Music",
       "label": "Music",
       "headline": "Ralph Carr, Australian Talent Manager Convicted of Rape, Sentenced to 6 Years' Jail",
@@ -684,8 +685,8 @@
       "priority_score": 91
     },
     {
-      "id": "gaming-1-3835501771000011674",
-      "key": "gaming-1-3835501771000011674",
+      "id": "gaming-1-3490918153113823727",
+      "key": "gaming-1-3490918153113823727",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Konami Partners With Celebrity Kitty to Release Metal Gear Cat Toys at CatCon 2026",
@@ -713,8 +714,8 @@
   ],
   "editor_signals": [
     {
-      "id": "film-2-8149474278681419880",
-      "key": "film-2-8149474278681419880",
+      "id": "film-2-7858314757943297406",
+      "key": "film-2-7858314757943297406",
       "category": "Film",
       "label": "Film",
       "headline": "'The Dog Stars' Review: Jacob Elordi's Sensitive Survivalist Can't Sustain a Dreary Dystopian Adventure",
@@ -740,22 +741,22 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-8713258418856892750",
-      "key": "film-12-8713258418856892750",
+      "id": "film-12-8929338011137356697",
+      "key": "film-12-8929338011137356697",
       "category": "Film",
       "label": "Film",
-      "headline": "Doc Talk Podcast: TIFF Docs Programmer Thom Powers Previews Hottest Documentary Features At Fast-Approaching Toronto Film Festival",
-      "title": "Doc Talk Podcast: TIFF Docs Programmer Thom Powers Previews Hottest Documentary Features At Fast-Approaching Toronto Film Festival",
-      "snapshot": "Some of the top documentary filmmakers in the world soon will be packing their bags for Toronto, preparing for a curtain call at one of the world's most important cinematic events. The 51st edition of the Toronto Film Festival again features a dynamic roster of documentaries, ranging from Oscar winner Alex Gibney's...",
-      "summary": "Some of the top documentary filmmakers in the world soon will be packing their bags for Toronto, preparing for a curtain call at one of the world's most important cinematic events. The 51st edition of the Toronto Film Festival again features a dynamic roster of documentaries, ranging from Oscar winner Alex Gibney's...",
-      "url": "https://deadline.com/2026/08/doc-talk-podcast-tiff-docs-programmer-previews-festival-1237050027/",
+      "headline": "'The Dog Stars' Review: Jacob Elordi Searches For Last Gasp Of Humanity In Ridley Scott's Sharp Postapocalyptic Thriller",
+      "title": "'The Dog Stars' Review: Jacob Elordi Searches For Last Gasp Of Humanity In Ridley Scott's Sharp Postapocalyptic Thriller",
+      "snapshot": "The lovable dog in Ridley Scott's The Dog Stars isn't actually the star of film, despite the title. Sadly, Jasper is only a supporting player in the first half hour of the movie. The real star here is Jacob Elordi, who is continuing to show genuine chops as a leading man. He does it again […]",
+      "summary": "The lovable dog in Ridley Scott's The Dog Stars isn't actually the star of film, despite the title. Sadly, Jasper is only a supporting player in the first half hour of the movie. The real star here is Jacob Elordi, who is continuing to show genuine chops as a leading man. He does it again […]",
+      "url": "https://deadline.com/2026/08/the-dog-stars-review-jacob-elordi-ridley-scott-1237049569/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-08-25 07:18:29 PM ET",
+      "published_at": "2026-08-25 08:00:00 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Doc Talk Podcast: TIFF Docs Programmer Thom Powers Previews Hottest Documentary Features At Fast-Approaching Toronto Film Festival"
+        "'The Dog Stars' Review: Jacob Elordi Searches For Last Gasp Of Humanity In Ridley Scott's Sharp Postapocalyptic Thriller"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -767,8 +768,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-3179120406684738924",
-      "key": "film-24-3179120406684738924",
+      "id": "film-24-4919099823927791140",
+      "key": "film-24-4919099823927791140",
       "category": "Film",
       "label": "Film",
       "headline": "'The Flintstones' Live-Action Movie in the Works at Warner Bros. From Producer Ryan Gosling",
@@ -794,8 +795,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-7773084687022462740",
-      "key": "film-34-7773084687022462740",
+      "id": "film-34-4135460342765908220",
+      "key": "film-34-4135460342765908220",
       "category": "Film",
       "label": "Film",
       "headline": "Here's the official pre-'Avengers: Doomsday' watchlist, plus what to know ahead of the upcoming Marvel movie - Yahoo",
@@ -821,8 +822,8 @@
       "priority_score": 66
     },
     {
-      "id": "music-10-7959709187863944806",
-      "key": "music-10-7959709187863944806",
+      "id": "music-10-8430165951521110495",
+      "key": "music-10-8430165951521110495",
       "category": "Music",
       "label": "Music",
       "headline": "Taylor Swift Remembers Dolly Parton as 'True Grace & True Grit, All in One Dazzling Person'",
@@ -848,8 +849,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-2-6177263613820270659",
-      "key": "gaming-2-6177263613820270659",
+      "id": "gaming-2-723821221882719581",
+      "key": "gaming-2-723821221882719581",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The First New Magic Puzzle of 2026 Is Now Available at Retailers",
@@ -875,8 +876,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-4918727315955187823",
-      "key": "film-3-4918727315955187823",
+      "id": "film-3-7827121377244226394",
+      "key": "film-3-7827121377244226394",
       "category": "Film",
       "label": "Film",
       "headline": "Universal's Snoop Dogg Biopic Adds Camron Jones as Tupac Shakur",
@@ -902,22 +903,22 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-9007905293660566883",
-      "key": "film-13-9007905293660566883",
+      "id": "film-13-6145196952381709530",
+      "key": "film-13-6145196952381709530",
       "category": "Film",
       "label": "Film",
-      "headline": "Sony Wins Rights To John August's Graphic Novel 'Wolf's Belly'; Alfonso Cuarón To Produce",
-      "title": "Sony Wins Rights To John August's Graphic Novel 'Wolf's Belly'; Alfonso Cuarón To Produce",
-      "snapshot": "EXCLUSIVE: Sony Pictures is excited for screenwriter John August's graphic-novel retelling of \"Little Red Riding Hood,\" Wolf's Belly, and beat several studios for the IP including Amazon, we understand. August will adapt his work for the big screen, with four-time Oscar winner Alfonso Cuarón producing. August became...",
-      "summary": "EXCLUSIVE: Sony Pictures is excited for screenwriter John August's graphic-novel retelling of \"Little Red Riding Hood,\" Wolf's Belly, and beat several studios for the IP including Amazon, we understand. August will adapt his work for the big screen, with four-time Oscar winner Alfonso Cuarón producing. August became...",
-      "url": "https://deadline.com/2026/08/sony-wolfs-belly-alfonso-cuaron-1237050336/",
+      "headline": "Doc Talk Podcast: TIFF Docs Programmer Thom Powers Previews Hottest Documentary Features At Fast-Approaching Toronto Film Festival",
+      "title": "Doc Talk Podcast: TIFF Docs Programmer Thom Powers Previews Hottest Documentary Features At Fast-Approaching Toronto Film Festival",
+      "snapshot": "Some of the top documentary filmmakers in the world soon will be packing their bags for Toronto, preparing for a curtain call at one of the world's most important cinematic events. The 51st edition of the Toronto Film Festival again features a dynamic roster of documentaries, ranging from Oscar winner Alex Gibney's...",
+      "summary": "Some of the top documentary filmmakers in the world soon will be packing their bags for Toronto, preparing for a curtain call at one of the world's most important cinematic events. The 51st edition of the Toronto Film Festival again features a dynamic roster of documentaries, ranging from Oscar winner Alex Gibney's...",
+      "url": "https://deadline.com/2026/08/doc-talk-podcast-tiff-docs-programmer-previews-festival-1237050027/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-08-25 06:30:35 PM ET",
+      "published_at": "2026-08-25 07:18:29 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Sony Wins Rights To John August's Graphic Novel 'Wolf's Belly'; Alfonso Cuarón To Produce"
+        "Doc Talk Podcast: TIFF Docs Programmer Thom Powers Previews Hottest Documentary Features At Fast-Approaching Toronto Film Festival"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -929,8 +930,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-6913734610304650985",
-      "key": "film-25-6913734610304650985",
+      "id": "film-25-1058736963745322752",
+      "key": "film-25-1058736963745322752",
       "category": "Film",
       "label": "Film",
       "headline": "Oscars: Canada Picks 'Nina Roza' as Best International Feature Selection",
@@ -956,8 +957,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-3837886833110223900",
-      "key": "film-35-3837886833110223900",
+      "id": "film-35-320878413950002836",
+      "key": "film-35-320878413950002836",
       "category": "Film",
       "label": "Film",
       "headline": "Pluto TV Launches New Format, Double Feature Fridays, In Partnership With Entertainment Tonight - Paramount Press Express",
@@ -983,8 +984,8 @@
       "priority_score": 65
     },
     {
-      "id": "music-11-7322252338144035700",
-      "key": "music-11-7322252338144035700",
+      "id": "music-11-270728695356593859",
+      "key": "music-11-270728695356593859",
       "category": "Music",
       "label": "Music",
       "headline": "Dolly Parton Chose Her Funeral Song More Than a Decade Ago & Left an Unreleased Song to Be Heard in 2046",
@@ -1010,8 +1011,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-3-286841449761097647",
-      "key": "gaming-3-286841449761097647",
+      "id": "gaming-3-661534222156980117",
+      "key": "gaming-3-661534222156980117",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The Witcher 3 Songs of the Past Expansion: Everything Revealed at gamescom ONL 2026",
@@ -1039,8 +1040,8 @@
   ],
   "homepage_cards": [
     {
-      "id": "film-0-892719871185938411",
-      "key": "film-0-892719871185938411",
+      "id": "film-0-3991302615666785721",
+      "key": "film-0-3991302615666785721",
       "category": "Film",
       "label": "Film",
       "headline": "Jane Fonda Slams Paramount For Calling Mark Ruffalo's Comments 'Antisemitic': 'A Smear to Delegitimize Criticism of the Merger'",
@@ -1066,22 +1067,22 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-2762728177089634370",
-      "key": "film-10-2762728177089634370",
+      "id": "film-10-7877144942993636152",
+      "key": "film-10-7877144942993636152",
       "category": "Film",
       "label": "Film",
-      "headline": "Dolly Parton Died After A \"Brief Battle With Cancer\", Her Reps Confirm",
-      "title": "Dolly Parton Died After A \"Brief Battle With Cancer\", Her Reps Confirm",
-      "snapshot": "We have more details on the cause of death for Dolly Parton. The beloved country music legend died following a \"brief battle with cancer,\" her reps confirmed to People. The type of cancer was not disclosed. The country music icon, songwriter, philanthropist and star of 9 to 5 and Steel Magnolias, died Tuesday at the...",
-      "summary": "We have more details on the cause of death for Dolly Parton. The beloved country music legend died following a \"brief battle with cancer,\" her reps confirmed to People. The type of cancer was not disclosed. The country music icon, songwriter, philanthropist and star of 9 to 5 and Steel Magnolias, died Tuesday at the...",
-      "url": "https://deadline.com/2026/08/dolly-parton-cause-of-death-cancer-1237050517/",
+      "headline": "Iowa MAGA AG Wants To Take California & Rob Bonta To Supreme Court Over Paramount-WBD Antitrust Suit, Maybe",
+      "title": "Iowa MAGA AG Wants To Take California & Rob Bonta To Supreme Court Over Paramount-WBD Antitrust Suit, Maybe",
+      "snapshot": "With friends like Iowa Attorney General Brenna Bird, does Paramount and David Ellison really need enemies? In an op-ed penned for the conservative Daily Wire Tuesday, the Hawkeye State ally of Donald Trump is threatening to take California to the Supreme Court. Declaring that \"California is once again trying to be t...",
+      "summary": "With friends like Iowa Attorney General Brenna Bird, does Paramount and David Ellison really need enemies? In an op-ed penned for the conservative Daily Wire Tuesday, the Hawkeye State ally of Donald Trump is threatening to take California to the Supreme Court. Declaring that \"California is once again trying to be t...",
+      "url": "https://deadline.com/2026/08/paramount-merger-supreme-court-threat-iowa-1237050615/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-08-25 08:12:33 PM ET",
+      "published_at": "2026-08-26 01:09:42 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Dolly Parton Died After A \"Brief Battle With Cancer\", Her Reps Confirm"
+        "Iowa MAGA AG Wants To Take California & Rob Bonta To Supreme Court Over Paramount-WBD Antitrust Suit, Maybe"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1093,8 +1094,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-754636407298771860",
-      "key": "film-22-754636407298771860",
+      "id": "film-22-1006817888922177362",
+      "key": "film-22-1006817888922177362",
       "category": "Film",
       "label": "Film",
       "headline": "Netflix Sets Lee Jung-eun, Kim Moo-yul for Korean Action-Noir Series 'The Shooter'",
@@ -1120,8 +1121,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-8402138239400773135",
-      "key": "film-32-8402138239400773135",
+      "id": "film-32-3239191580356773427",
+      "key": "film-32-3239191580356773427",
       "category": "Film",
       "label": "Film",
       "headline": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
@@ -1147,8 +1148,8 @@
       "priority_score": 68
     },
     {
-      "id": "music-8-3824759845208433785",
-      "key": "music-8-3824759845208433785",
+      "id": "music-8-677469229632815473",
+      "key": "music-8-677469229632815473",
       "category": "Music",
       "label": "Music",
       "headline": "Savage Garden's Darren Hayes' Career Celebrated at Music In The House Gala",
@@ -1174,8 +1175,8 @@
       "priority_score": 92
     },
     {
-      "id": "gaming-0-7396507426475539353",
-      "key": "gaming-0-7396507426475539353",
+      "id": "gaming-0-3190577265143021444",
+      "key": "gaming-0-3190577265143021444",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Showa American Story: The First Hands-On Preview",
@@ -1201,8 +1202,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-1084626036349159039",
-      "key": "film-1-1084626036349159039",
+      "id": "film-1-3780966187708389774",
+      "key": "film-1-3780966187708389774",
       "category": "Film",
       "label": "Film",
       "headline": "Iowa Attorney General Says She's Taking California to the Supreme Court Over Paramount-Warner Bros. Lawsuit",
@@ -1228,22 +1229,22 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-665323519944223037",
-      "key": "film-11-665323519944223037",
+      "id": "film-11-9000054982736474381",
+      "key": "film-11-9000054982736474381",
       "category": "Film",
       "label": "Film",
-      "headline": "'The Dog Stars' Review: Jacob Elordi Searches For Last Gasp Of Humanity In Ridley Scott's Sharp Postapocalyptic Thriller",
-      "title": "'The Dog Stars' Review: Jacob Elordi Searches For Last Gasp Of Humanity In Ridley Scott's Sharp Postapocalyptic Thriller",
-      "snapshot": "The lovable dog in Ridley Scott's The Dog Stars isn't actually the star of film, despite the title. Sadly, Jasper is only a supporting player in the first half hour of the movie. The real star here is Jacob Elordi, who is continuing to show genuine chops as a leading man. He does it again […]",
-      "summary": "The lovable dog in Ridley Scott's The Dog Stars isn't actually the star of film, despite the title. Sadly, Jasper is only a supporting player in the first half hour of the movie. The real star here is Jacob Elordi, who is continuing to show genuine chops as a leading man. He does it again […]",
-      "url": "https://deadline.com/2026/08/the-dog-stars-review-jacob-elordi-ridley-scott-1237049569/",
+      "headline": "Dolly Parton Died After A \"Brief Battle With Cancer\", Her Reps Confirm",
+      "title": "Dolly Parton Died After A \"Brief Battle With Cancer\", Her Reps Confirm",
+      "snapshot": "We have more details on the cause of death for Dolly Parton. The beloved country music legend died following a \"brief battle with cancer,\" her reps confirmed to People. The type of cancer was not disclosed. The country music icon, songwriter, philanthropist and star of 9 to 5 and Steel Magnolias, died Tuesday at the...",
+      "summary": "We have more details on the cause of death for Dolly Parton. The beloved country music legend died following a \"brief battle with cancer,\" her reps confirmed to People. The type of cancer was not disclosed. The country music icon, songwriter, philanthropist and star of 9 to 5 and Steel Magnolias, died Tuesday at the...",
+      "url": "https://deadline.com/2026/08/dolly-parton-cause-of-death-cancer-1237050517/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-08-25 08:00:00 PM ET",
+      "published_at": "2026-08-25 08:12:33 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'The Dog Stars' Review: Jacob Elordi Searches For Last Gasp Of Humanity In Ridley Scott's Sharp Postapocalyptic Thriller"
+        "Dolly Parton Died After A \"Brief Battle With Cancer\", Her Reps Confirm"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1255,8 +1256,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-1273437137970547332",
-      "key": "film-23-1273437137970547332",
+      "id": "film-23-4666473985429354239",
+      "key": "film-23-4666473985429354239",
       "category": "Film",
       "label": "Film",
       "headline": "Snoop Dogg Biopic Finds Its Tupac Shakur in Camron Jones (Exclusive)",
@@ -1282,8 +1283,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-4696980273760489829",
-      "key": "film-33-4696980273760489829",
+      "id": "film-33-6119746843307968143",
+      "key": "film-33-6119746843307968143",
       "category": "Film",
       "label": "Film",
       "headline": "New investors flip script to get into film funding, distribution as sector slump opens opportunities - Korea JoongAng Daily",
@@ -1309,8 +1310,8 @@
       "priority_score": 67
     },
     {
-      "id": "music-9-8178243968654701679",
-      "key": "music-9-8178243968654701679",
+      "id": "music-9-1051648490682226059",
+      "key": "music-9-1051648490682226059",
       "category": "Music",
       "label": "Music",
       "headline": "Ralph Carr, Australian Talent Manager Convicted of Rape, Sentenced to 6 Years' Jail",
@@ -1336,8 +1337,8 @@
       "priority_score": 91
     },
     {
-      "id": "gaming-1-3835501771000011674",
-      "key": "gaming-1-3835501771000011674",
+      "id": "gaming-1-3490918153113823727",
+      "key": "gaming-1-3490918153113823727",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Konami Partners With Celebrity Kitty to Release Metal Gear Cat Toys at CatCon 2026",
@@ -1363,8 +1364,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-2-8149474278681419880",
-      "key": "film-2-8149474278681419880",
+      "id": "film-2-7858314757943297406",
+      "key": "film-2-7858314757943297406",
       "category": "Film",
       "label": "Film",
       "headline": "'The Dog Stars' Review: Jacob Elordi's Sensitive Survivalist Can't Sustain a Dreary Dystopian Adventure",
@@ -1390,22 +1391,22 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-8713258418856892750",
-      "key": "film-12-8713258418856892750",
+      "id": "film-12-8929338011137356697",
+      "key": "film-12-8929338011137356697",
       "category": "Film",
       "label": "Film",
-      "headline": "Doc Talk Podcast: TIFF Docs Programmer Thom Powers Previews Hottest Documentary Features At Fast-Approaching Toronto Film Festival",
-      "title": "Doc Talk Podcast: TIFF Docs Programmer Thom Powers Previews Hottest Documentary Features At Fast-Approaching Toronto Film Festival",
-      "snapshot": "Some of the top documentary filmmakers in the world soon will be packing their bags for Toronto, preparing for a curtain call at one of the world's most important cinematic events. The 51st edition of the Toronto Film Festival again features a dynamic roster of documentaries, ranging from Oscar winner Alex Gibney's...",
-      "summary": "Some of the top documentary filmmakers in the world soon will be packing their bags for Toronto, preparing for a curtain call at one of the world's most important cinematic events. The 51st edition of the Toronto Film Festival again features a dynamic roster of documentaries, ranging from Oscar winner Alex Gibney's...",
-      "url": "https://deadline.com/2026/08/doc-talk-podcast-tiff-docs-programmer-previews-festival-1237050027/",
+      "headline": "'The Dog Stars' Review: Jacob Elordi Searches For Last Gasp Of Humanity In Ridley Scott's Sharp Postapocalyptic Thriller",
+      "title": "'The Dog Stars' Review: Jacob Elordi Searches For Last Gasp Of Humanity In Ridley Scott's Sharp Postapocalyptic Thriller",
+      "snapshot": "The lovable dog in Ridley Scott's The Dog Stars isn't actually the star of film, despite the title. Sadly, Jasper is only a supporting player in the first half hour of the movie. The real star here is Jacob Elordi, who is continuing to show genuine chops as a leading man. He does it again […]",
+      "summary": "The lovable dog in Ridley Scott's The Dog Stars isn't actually the star of film, despite the title. Sadly, Jasper is only a supporting player in the first half hour of the movie. The real star here is Jacob Elordi, who is continuing to show genuine chops as a leading man. He does it again […]",
+      "url": "https://deadline.com/2026/08/the-dog-stars-review-jacob-elordi-ridley-scott-1237049569/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-08-25 07:18:29 PM ET",
+      "published_at": "2026-08-25 08:00:00 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Doc Talk Podcast: TIFF Docs Programmer Thom Powers Previews Hottest Documentary Features At Fast-Approaching Toronto Film Festival"
+        "'The Dog Stars' Review: Jacob Elordi Searches For Last Gasp Of Humanity In Ridley Scott's Sharp Postapocalyptic Thriller"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1417,8 +1418,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-3179120406684738924",
-      "key": "film-24-3179120406684738924",
+      "id": "film-24-4919099823927791140",
+      "key": "film-24-4919099823927791140",
       "category": "Film",
       "label": "Film",
       "headline": "'The Flintstones' Live-Action Movie in the Works at Warner Bros. From Producer Ryan Gosling",
@@ -1444,8 +1445,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-7773084687022462740",
-      "key": "film-34-7773084687022462740",
+      "id": "film-34-4135460342765908220",
+      "key": "film-34-4135460342765908220",
       "category": "Film",
       "label": "Film",
       "headline": "Here's the official pre-'Avengers: Doomsday' watchlist, plus what to know ahead of the upcoming Marvel movie - Yahoo",
@@ -1471,8 +1472,8 @@
       "priority_score": 66
     },
     {
-      "id": "music-10-7959709187863944806",
-      "key": "music-10-7959709187863944806",
+      "id": "music-10-8430165951521110495",
+      "key": "music-10-8430165951521110495",
       "category": "Music",
       "label": "Music",
       "headline": "Taylor Swift Remembers Dolly Parton as 'True Grace & True Grit, All in One Dazzling Person'",
@@ -1498,8 +1499,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-2-6177263613820270659",
-      "key": "gaming-2-6177263613820270659",
+      "id": "gaming-2-723821221882719581",
+      "key": "gaming-2-723821221882719581",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The First New Magic Puzzle of 2026 Is Now Available at Retailers",
@@ -1525,8 +1526,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-4918727315955187823",
-      "key": "film-3-4918727315955187823",
+      "id": "film-3-7827121377244226394",
+      "key": "film-3-7827121377244226394",
       "category": "Film",
       "label": "Film",
       "headline": "Universal's Snoop Dogg Biopic Adds Camron Jones as Tupac Shakur",
@@ -1552,22 +1553,22 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-9007905293660566883",
-      "key": "film-13-9007905293660566883",
+      "id": "film-13-6145196952381709530",
+      "key": "film-13-6145196952381709530",
       "category": "Film",
       "label": "Film",
-      "headline": "Sony Wins Rights To John August's Graphic Novel 'Wolf's Belly'; Alfonso Cuarón To Produce",
-      "title": "Sony Wins Rights To John August's Graphic Novel 'Wolf's Belly'; Alfonso Cuarón To Produce",
-      "snapshot": "EXCLUSIVE: Sony Pictures is excited for screenwriter John August's graphic-novel retelling of \"Little Red Riding Hood,\" Wolf's Belly, and beat several studios for the IP including Amazon, we understand. August will adapt his work for the big screen, with four-time Oscar winner Alfonso Cuarón producing. August became...",
-      "summary": "EXCLUSIVE: Sony Pictures is excited for screenwriter John August's graphic-novel retelling of \"Little Red Riding Hood,\" Wolf's Belly, and beat several studios for the IP including Amazon, we understand. August will adapt his work for the big screen, with four-time Oscar winner Alfonso Cuarón producing. August became...",
-      "url": "https://deadline.com/2026/08/sony-wolfs-belly-alfonso-cuaron-1237050336/",
+      "headline": "Doc Talk Podcast: TIFF Docs Programmer Thom Powers Previews Hottest Documentary Features At Fast-Approaching Toronto Film Festival",
+      "title": "Doc Talk Podcast: TIFF Docs Programmer Thom Powers Previews Hottest Documentary Features At Fast-Approaching Toronto Film Festival",
+      "snapshot": "Some of the top documentary filmmakers in the world soon will be packing their bags for Toronto, preparing for a curtain call at one of the world's most important cinematic events. The 51st edition of the Toronto Film Festival again features a dynamic roster of documentaries, ranging from Oscar winner Alex Gibney's...",
+      "summary": "Some of the top documentary filmmakers in the world soon will be packing their bags for Toronto, preparing for a curtain call at one of the world's most important cinematic events. The 51st edition of the Toronto Film Festival again features a dynamic roster of documentaries, ranging from Oscar winner Alex Gibney's...",
+      "url": "https://deadline.com/2026/08/doc-talk-podcast-tiff-docs-programmer-previews-festival-1237050027/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-08-25 06:30:35 PM ET",
+      "published_at": "2026-08-25 07:18:29 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Sony Wins Rights To John August's Graphic Novel 'Wolf's Belly'; Alfonso Cuarón To Produce"
+        "Doc Talk Podcast: TIFF Docs Programmer Thom Powers Previews Hottest Documentary Features At Fast-Approaching Toronto Film Festival"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1579,8 +1580,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-6913734610304650985",
-      "key": "film-25-6913734610304650985",
+      "id": "film-25-1058736963745322752",
+      "key": "film-25-1058736963745322752",
       "category": "Film",
       "label": "Film",
       "headline": "Oscars: Canada Picks 'Nina Roza' as Best International Feature Selection",
@@ -1606,8 +1607,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-3837886833110223900",
-      "key": "film-35-3837886833110223900",
+      "id": "film-35-320878413950002836",
+      "key": "film-35-320878413950002836",
       "category": "Film",
       "label": "Film",
       "headline": "Pluto TV Launches New Format, Double Feature Fridays, In Partnership With Entertainment Tonight - Paramount Press Express",
@@ -1633,8 +1634,8 @@
       "priority_score": 65
     },
     {
-      "id": "music-11-7322252338144035700",
-      "key": "music-11-7322252338144035700",
+      "id": "music-11-270728695356593859",
+      "key": "music-11-270728695356593859",
       "category": "Music",
       "label": "Music",
       "headline": "Dolly Parton Chose Her Funeral Song More Than a Decade Ago & Left an Unreleased Song to Be Heard in 2046",
@@ -1660,8 +1661,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-3-286841449761097647",
-      "key": "gaming-3-286841449761097647",
+      "id": "gaming-3-661534222156980117",
+      "key": "gaming-3-661534222156980117",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The Witcher 3 Songs of the Past Expansion: Everything Revealed at gamescom ONL 2026",
@@ -1696,25 +1697,25 @@
       "snapshot": "Film coverage is updating with 8 current RSS headline item(s).",
       "key_storylines": [
         "Jane Fonda Slams Paramount For Calling Mark Ruffalo’s Comments ‘Antisemitic’: ‘A Smear to Delegitimize Criticism of the Merger’",
-        "Dolly Parton Died After A “Brief Battle With Cancer”, Her Reps Confirm",
+        "Iowa MAGA AG Wants To Take California & Rob Bonta To Supreme Court Over Paramount-WBD Antitrust Suit, Maybe",
         "Netflix Sets Lee Jung-eun, Kim Moo-yul for Korean Action-Noir Series ‘The Shooter’",
         "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
         "Iowa Attorney General Says She’s Taking California to the Supreme Court Over Paramount-Warner Bros. Lawsuit"
       ],
       "watch_list": [
         "Jane Fonda Slams Paramount For Calling Mark Ruffalo’s Comments ‘Antisemitic’: ‘A Smear to Delegitimize Criticism of the Merger’",
-        "Dolly Parton Died After A “Brief Battle With Cancer”, Her Reps Confirm",
+        "Iowa MAGA AG Wants To Take California & Rob Bonta To Supreme Court Over Paramount-WBD Antitrust Suit, Maybe",
         "Netflix Sets Lee Jung-eun, Kim Moo-yul for Korean Action-Noir Series ‘The Shooter’",
         "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
         "Iowa Attorney General Says She’s Taking California to the Supreme Court Over Paramount-Warner Bros. Lawsuit",
-        "‘The Dog Stars’ Review: Jacob Elordi Searches For Last Gasp Of Humanity In Ridley Scott’s Sharp Postapocalyptic Thriller",
+        "Dolly Parton Died After A “Brief Battle With Cancer”, Her Reps Confirm",
         "Snoop Dogg Biopic Finds Its Tupac Shakur in Camron Jones (Exclusive)",
         "New investors flip script to get into film funding, distribution as sector slump opens opportunities - Korea JoongAng Daily"
       ],
       "homepage_cards": [
         {
-          "id": "film-0-892719871185938411",
-          "key": "film-0-892719871185938411",
+          "id": "film-0-3991302615666785721",
+          "key": "film-0-3991302615666785721",
           "category": "Film",
           "label": "Film",
           "headline": "Jane Fonda Slams Paramount For Calling Mark Ruffalo’s Comments ‘Antisemitic’: ‘A Smear to Delegitimize Criticism of the Merger’",
@@ -1741,25 +1742,25 @@
           ]
         },
         {
-          "id": "film-10-2762728177089634370",
-          "key": "film-10-2762728177089634370",
+          "id": "film-10-7877144942993636152",
+          "key": "film-10-7877144942993636152",
           "category": "Film",
           "label": "Film",
-          "headline": "Dolly Parton Died After A “Brief Battle With Cancer”, Her Reps Confirm",
-          "title": "Dolly Parton Died After A “Brief Battle With Cancer”, Her Reps Confirm",
-          "snapshot": "We have more details on the cause of death for Dolly Parton. The beloved country music legend died following a “brief battle with cancer,” her reps confirmed to People. The type of cancer was not disclosed. The country music icon, songwriter, philanthropist and star of 9 to 5 and Steel Magnolias, died Tuesday at the...",
-          "summary": "We have more details on the cause of death for Dolly Parton. The beloved country music legend died following a “brief battle with cancer,” her reps confirmed to People. The type of cancer was not disclosed. The country music icon, songwriter, philanthropist and star of 9 to 5 and Steel Magnolias, died Tuesday at the...",
-          "url": "https://deadline.com/2026/08/dolly-parton-cause-of-death-cancer-1237050517/",
+          "headline": "Iowa MAGA AG Wants To Take California & Rob Bonta To Supreme Court Over Paramount-WBD Antitrust Suit, Maybe",
+          "title": "Iowa MAGA AG Wants To Take California & Rob Bonta To Supreme Court Over Paramount-WBD Antitrust Suit, Maybe",
+          "snapshot": "With friends like Iowa Attorney General Brenna Bird, does Paramount and David Ellison really need enemies? In an op-ed penned for the conservative Daily Wire Tuesday, the Hawkeye State ally of Donald Trump is threatening to take California to the Supreme Court. Declaring that “California is once again trying to be t...",
+          "summary": "With friends like Iowa Attorney General Brenna Bird, does Paramount and David Ellison really need enemies? In an op-ed penned for the conservative Daily Wire Tuesday, the Hawkeye State ally of Donald Trump is threatening to take California to the Supreme Court. Declaring that “California is once again trying to be t...",
+          "url": "https://deadline.com/2026/08/paramount-merger-supreme-court-threat-iowa-1237050615/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/film/feed/",
-          "published_at": "2026-08-25 08:12:33 PM ET",
+          "published_at": "2026-08-26 01:09:42 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "Dolly Parton Died After A “Brief Battle With Cancer”, Her Reps Confirm"
+            "Iowa MAGA AG Wants To Take California & Rob Bonta To Supreme Court Over Paramount-WBD Antitrust Suit, Maybe"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1769,8 +1770,8 @@
           ]
         },
         {
-          "id": "film-22-754636407298771860",
-          "key": "film-22-754636407298771860",
+          "id": "film-22-1006817888922177362",
+          "key": "film-22-1006817888922177362",
           "category": "Film",
           "label": "Film",
           "headline": "Netflix Sets Lee Jung-eun, Kim Moo-yul for Korean Action-Noir Series ‘The Shooter’",
@@ -1797,8 +1798,8 @@
           ]
         },
         {
-          "id": "film-32-8402138239400773135",
-          "key": "film-32-8402138239400773135",
+          "id": "film-32-3239191580356773427",
+          "key": "film-32-3239191580356773427",
           "category": "Film",
           "label": "Film",
           "headline": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
@@ -1825,8 +1826,8 @@
           ]
         },
         {
-          "id": "film-1-1084626036349159039",
-          "key": "film-1-1084626036349159039",
+          "id": "film-1-3780966187708389774",
+          "key": "film-1-3780966187708389774",
           "category": "Film",
           "label": "Film",
           "headline": "Iowa Attorney General Says She’s Taking California to the Supreme Court Over Paramount-Warner Bros. Lawsuit",
@@ -1853,25 +1854,25 @@
           ]
         },
         {
-          "id": "film-11-665323519944223037",
-          "key": "film-11-665323519944223037",
+          "id": "film-11-9000054982736474381",
+          "key": "film-11-9000054982736474381",
           "category": "Film",
           "label": "Film",
-          "headline": "‘The Dog Stars’ Review: Jacob Elordi Searches For Last Gasp Of Humanity In Ridley Scott’s Sharp Postapocalyptic Thriller",
-          "title": "‘The Dog Stars’ Review: Jacob Elordi Searches For Last Gasp Of Humanity In Ridley Scott’s Sharp Postapocalyptic Thriller",
-          "snapshot": "The lovable dog in Ridley Scott’s The Dog Stars isn’t actually the star of film, despite the title. Sadly, Jasper is only a supporting player in the first half hour of the movie. The real star here is Jacob Elordi, who is continuing to show genuine chops as a leading man. He does it again […]",
-          "summary": "The lovable dog in Ridley Scott’s The Dog Stars isn’t actually the star of film, despite the title. Sadly, Jasper is only a supporting player in the first half hour of the movie. The real star here is Jacob Elordi, who is continuing to show genuine chops as a leading man. He does it again […]",
-          "url": "https://deadline.com/2026/08/the-dog-stars-review-jacob-elordi-ridley-scott-1237049569/",
+          "headline": "Dolly Parton Died After A “Brief Battle With Cancer”, Her Reps Confirm",
+          "title": "Dolly Parton Died After A “Brief Battle With Cancer”, Her Reps Confirm",
+          "snapshot": "We have more details on the cause of death for Dolly Parton. The beloved country music legend died following a “brief battle with cancer,” her reps confirmed to People. The type of cancer was not disclosed. The country music icon, songwriter, philanthropist and star of 9 to 5 and Steel Magnolias, died Tuesday at the...",
+          "summary": "We have more details on the cause of death for Dolly Parton. The beloved country music legend died following a “brief battle with cancer,” her reps confirmed to People. The type of cancer was not disclosed. The country music icon, songwriter, philanthropist and star of 9 to 5 and Steel Magnolias, died Tuesday at the...",
+          "url": "https://deadline.com/2026/08/dolly-parton-cause-of-death-cancer-1237050517/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/film/feed/",
-          "published_at": "2026-08-25 08:00:00 PM ET",
+          "published_at": "2026-08-25 08:12:33 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "‘The Dog Stars’ Review: Jacob Elordi Searches For Last Gasp Of Humanity In Ridley Scott’s Sharp Postapocalyptic Thriller"
+            "Dolly Parton Died After A “Brief Battle With Cancer”, Her Reps Confirm"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1881,8 +1882,8 @@
           ]
         },
         {
-          "id": "film-23-1273437137970547332",
-          "key": "film-23-1273437137970547332",
+          "id": "film-23-4666473985429354239",
+          "key": "film-23-4666473985429354239",
           "category": "Film",
           "label": "Film",
           "headline": "Snoop Dogg Biopic Finds Its Tupac Shakur in Camron Jones (Exclusive)",
@@ -1909,8 +1910,8 @@
           ]
         },
         {
-          "id": "film-33-4696980273760489829",
-          "key": "film-33-4696980273760489829",
+          "id": "film-33-6119746843307968143",
+          "key": "film-33-6119746843307968143",
           "category": "Film",
           "label": "Film",
           "headline": "New investors flip script to get into film funding, distribution as sector slump opens opportunities - Korea JoongAng Daily",
@@ -1939,8 +1940,8 @@
       ],
       "items": [
         {
-          "id": "film-0-892719871185938411",
-          "key": "film-0-892719871185938411",
+          "id": "film-0-3991302615666785721",
+          "key": "film-0-3991302615666785721",
           "category": "Film",
           "label": "Film",
           "headline": "Jane Fonda Slams Paramount For Calling Mark Ruffalo’s Comments ‘Antisemitic’: ‘A Smear to Delegitimize Criticism of the Merger’",
@@ -1967,25 +1968,25 @@
           ]
         },
         {
-          "id": "film-10-2762728177089634370",
-          "key": "film-10-2762728177089634370",
+          "id": "film-10-7877144942993636152",
+          "key": "film-10-7877144942993636152",
           "category": "Film",
           "label": "Film",
-          "headline": "Dolly Parton Died After A “Brief Battle With Cancer”, Her Reps Confirm",
-          "title": "Dolly Parton Died After A “Brief Battle With Cancer”, Her Reps Confirm",
-          "snapshot": "We have more details on the cause of death for Dolly Parton. The beloved country music legend died following a “brief battle with cancer,” her reps confirmed to People. The type of cancer was not disclosed. The country music icon, songwriter, philanthropist and star of 9 to 5 and Steel Magnolias, died Tuesday at the...",
-          "summary": "We have more details on the cause of death for Dolly Parton. The beloved country music legend died following a “brief battle with cancer,” her reps confirmed to People. The type of cancer was not disclosed. The country music icon, songwriter, philanthropist and star of 9 to 5 and Steel Magnolias, died Tuesday at the...",
-          "url": "https://deadline.com/2026/08/dolly-parton-cause-of-death-cancer-1237050517/",
+          "headline": "Iowa MAGA AG Wants To Take California & Rob Bonta To Supreme Court Over Paramount-WBD Antitrust Suit, Maybe",
+          "title": "Iowa MAGA AG Wants To Take California & Rob Bonta To Supreme Court Over Paramount-WBD Antitrust Suit, Maybe",
+          "snapshot": "With friends like Iowa Attorney General Brenna Bird, does Paramount and David Ellison really need enemies? In an op-ed penned for the conservative Daily Wire Tuesday, the Hawkeye State ally of Donald Trump is threatening to take California to the Supreme Court. Declaring that “California is once again trying to be t...",
+          "summary": "With friends like Iowa Attorney General Brenna Bird, does Paramount and David Ellison really need enemies? In an op-ed penned for the conservative Daily Wire Tuesday, the Hawkeye State ally of Donald Trump is threatening to take California to the Supreme Court. Declaring that “California is once again trying to be t...",
+          "url": "https://deadline.com/2026/08/paramount-merger-supreme-court-threat-iowa-1237050615/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/film/feed/",
-          "published_at": "2026-08-25 08:12:33 PM ET",
+          "published_at": "2026-08-26 01:09:42 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "Dolly Parton Died After A “Brief Battle With Cancer”, Her Reps Confirm"
+            "Iowa MAGA AG Wants To Take California & Rob Bonta To Supreme Court Over Paramount-WBD Antitrust Suit, Maybe"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1995,8 +1996,8 @@
           ]
         },
         {
-          "id": "film-22-754636407298771860",
-          "key": "film-22-754636407298771860",
+          "id": "film-22-1006817888922177362",
+          "key": "film-22-1006817888922177362",
           "category": "Film",
           "label": "Film",
           "headline": "Netflix Sets Lee Jung-eun, Kim Moo-yul for Korean Action-Noir Series ‘The Shooter’",
@@ -2023,8 +2024,8 @@
           ]
         },
         {
-          "id": "film-32-8402138239400773135",
-          "key": "film-32-8402138239400773135",
+          "id": "film-32-3239191580356773427",
+          "key": "film-32-3239191580356773427",
           "category": "Film",
           "label": "Film",
           "headline": "Exclusive: Mel Brooks programs his 20 favorite films at American Cinematheque. Read the list - Los Angeles Times",
@@ -2051,8 +2052,8 @@
           ]
         },
         {
-          "id": "film-1-1084626036349159039",
-          "key": "film-1-1084626036349159039",
+          "id": "film-1-3780966187708389774",
+          "key": "film-1-3780966187708389774",
           "category": "Film",
           "label": "Film",
           "headline": "Iowa Attorney General Says She’s Taking California to the Supreme Court Over Paramount-Warner Bros. Lawsuit",
@@ -2079,25 +2080,25 @@
           ]
         },
         {
-          "id": "film-11-665323519944223037",
-          "key": "film-11-665323519944223037",
+          "id": "film-11-9000054982736474381",
+          "key": "film-11-9000054982736474381",
           "category": "Film",
           "label": "Film",
-          "headline": "‘The Dog Stars’ Review: Jacob Elordi Searches For Last Gasp Of Humanity In Ridley Scott’s Sharp Postapocalyptic Thriller",
-          "title": "‘The Dog Stars’ Review: Jacob Elordi Searches For Last Gasp Of Humanity In Ridley Scott’s Sharp Postapocalyptic Thriller",
-          "snapshot": "The lovable dog in Ridley Scott’s The Dog Stars isn’t actually the star of film, despite the title. Sadly, Jasper is only a supporting player in the first half hour of the movie. The real star here is Jacob Elordi, who is continuing to show genuine chops as a leading man. He does it again […]",
-          "summary": "The lovable dog in Ridley Scott’s The Dog Stars isn’t actually the star of film, despite the title. Sadly, Jasper is only a supporting player in the first half hour of the movie. The real star here is Jacob Elordi, who is continuing to show genuine chops as a leading man. He does it again […]",
-          "url": "https://deadline.com/2026/08/the-dog-stars-review-jacob-elordi-ridley-scott-1237049569/",
+          "headline": "Dolly Parton Died After A “Brief Battle With Cancer”, Her Reps Confirm",
+          "title": "Dolly Parton Died After A “Brief Battle With Cancer”, Her Reps Confirm",
+          "snapshot": "We have more details on the cause of death for Dolly Parton. The beloved country music legend died following a “brief battle with cancer,” her reps confirmed to People. The type of cancer was not disclosed. The country music icon, songwriter, philanthropist and star of 9 to 5 and Steel Magnolias, died Tuesday at the...",
+          "summary": "We have more details on the cause of death for Dolly Parton. The beloved country music legend died following a “brief battle with cancer,” her reps confirmed to People. The type of cancer was not disclosed. The country music icon, songwriter, philanthropist and star of 9 to 5 and Steel Magnolias, died Tuesday at the...",
+          "url": "https://deadline.com/2026/08/dolly-parton-cause-of-death-cancer-1237050517/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/film/feed/",
-          "published_at": "2026-08-25 08:00:00 PM ET",
+          "published_at": "2026-08-25 08:12:33 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "‘The Dog Stars’ Review: Jacob Elordi Searches For Last Gasp Of Humanity In Ridley Scott’s Sharp Postapocalyptic Thriller"
+            "Dolly Parton Died After A “Brief Battle With Cancer”, Her Reps Confirm"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2107,8 +2108,8 @@
           ]
         },
         {
-          "id": "film-23-1273437137970547332",
-          "key": "film-23-1273437137970547332",
+          "id": "film-23-4666473985429354239",
+          "key": "film-23-4666473985429354239",
           "category": "Film",
           "label": "Film",
           "headline": "Snoop Dogg Biopic Finds Its Tupac Shakur in Camron Jones (Exclusive)",
@@ -2135,8 +2136,8 @@
           ]
         },
         {
-          "id": "film-33-4696980273760489829",
-          "key": "film-33-4696980273760489829",
+          "id": "film-33-6119746843307968143",
+          "key": "film-33-6119746843307968143",
           "category": "Film",
           "label": "Film",
           "headline": "New investors flip script to get into film funding, distribution as sector slump opens opportunities - Korea JoongAng Daily",
@@ -2163,7 +2164,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-26 12:40:12 AM ET"
+      "updated_at": "2026-08-26 01:34:56 AM ET"
     },
     {
       "key": "tv",
@@ -2190,8 +2191,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "tv-0-7745606311770771893",
-          "key": "tv-0-7745606311770771893",
+          "id": "tv-0-6568707131737714647",
+          "key": "tv-0-6568707131737714647",
           "category": "TV",
           "label": "TV",
           "headline": "‘Heroes’ Stars Throw Reunion to ‘Celebrate the Life’ of Hayden Panettiere: ‘So Much Love, Gratitude and Warmth’",
@@ -2218,8 +2219,8 @@
           ]
         },
         {
-          "id": "tv-9-7861548957583477351",
-          "key": "tv-9-7861548957583477351",
+          "id": "tv-9-2836653258852219847",
+          "key": "tv-9-2836653258852219847",
           "category": "TV",
           "label": "TV",
           "headline": "‘Heroes’ Cast Reunites To “Celebrate The Life” Of Hayden Panettiere: “Was Deeply Emotional”",
@@ -2246,8 +2247,8 @@
           ]
         },
         {
-          "id": "tv-19-7905873746563862713",
-          "key": "tv-19-7905873746563862713",
+          "id": "tv-18-5325030594668928949",
+          "key": "tv-18-5325030594668928949",
           "category": "TV",
           "label": "TV",
           "headline": "Jelly Roll Takes Jabs at Donald Trump While Guest Hosting ‘Jimmy Kimmel Live!’",
@@ -2262,7 +2263,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 81,
+          "priority_score": 82,
           "key_data": [
             "Jelly Roll Takes Jabs at Donald Trump While Guest Hosting ‘Jimmy Kimmel Live!’"
           ],
@@ -2274,8 +2275,8 @@
           ]
         },
         {
-          "id": "tv-29-2162432946905731213",
-          "key": "tv-29-2162432946905731213",
+          "id": "tv-28-4463340874083055146",
+          "key": "tv-28-4463340874083055146",
           "category": "TV",
           "label": "TV",
           "headline": "Rent Television and TV Units in Delhi, Mumbai and Bangalore Instead of Buying in 2026 as ₹60,000 Entertainment Setups Push Renters Toward ₹499/Month Plans From Rentomojo - Yahoo Finance",
@@ -2290,7 +2291,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 71,
+          "priority_score": 72,
           "key_data": [
             "Rent Television and TV Units in Delhi, Mumbai and Bangalore Instead of Buying in 2026 as ₹60,000 Entertainment Setups Push Renters Toward ₹499/Month Plans From Rentomojo - Yahoo Finance"
           ],
@@ -2302,8 +2303,8 @@
           ]
         },
         {
-          "id": "tv-1-7849354776537253658",
-          "key": "tv-1-7849354776537253658",
+          "id": "tv-1-5817135260601009172",
+          "key": "tv-1-5817135260601009172",
           "category": "TV",
           "label": "TV",
           "headline": "‘Love Island USA’ Host Ariana Madix on Bringing ‘Sexiness’ and ‘Danger’ to Her Hosting Gig: ‘I Initially Scare the Crap Out of’ Islanders",
@@ -2330,8 +2331,8 @@
           ]
         },
         {
-          "id": "tv-10-1632184298305908218",
-          "key": "tv-10-1632184298305908218",
+          "id": "tv-10-870415914863513163",
+          "key": "tv-10-870415914863513163",
           "category": "TV",
           "label": "TV",
           "headline": "‘America’s Got Talent’ Pays Tribute To Dolly Parton",
@@ -2358,8 +2359,8 @@
           ]
         },
         {
-          "id": "tv-20-7755871776579133939",
-          "key": "tv-20-7755871776579133939",
+          "id": "tv-19-6977100109542293824",
+          "key": "tv-19-6977100109542293824",
           "category": "TV",
           "label": "TV",
           "headline": "‘20/20’ Sets Dolly Parton Special Tribute: Where to Watch Online",
@@ -2374,7 +2375,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 80,
+          "priority_score": 81,
           "key_data": [
             "‘20/20’ Sets Dolly Parton Special Tribute: Where to Watch Online"
           ],
@@ -2386,8 +2387,8 @@
           ]
         },
         {
-          "id": "tv-30-2469002107193949380",
-          "key": "tv-30-2469002107193949380",
+          "id": "tv-29-3733892077120517918",
+          "key": "tv-29-3733892077120517918",
           "category": "TV",
           "label": "TV",
           "headline": "‘The Office’ star Jenna Fischer exposes the grueling reality that forced her off TV - Fox News",
@@ -2402,7 +2403,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 70,
+          "priority_score": 71,
           "key_data": [
             "‘The Office’ star Jenna Fischer exposes the grueling reality that forced her off TV - Fox News"
           ],
@@ -2416,8 +2417,8 @@
       ],
       "items": [
         {
-          "id": "tv-0-7745606311770771893",
-          "key": "tv-0-7745606311770771893",
+          "id": "tv-0-6568707131737714647",
+          "key": "tv-0-6568707131737714647",
           "category": "TV",
           "label": "TV",
           "headline": "‘Heroes’ Stars Throw Reunion to ‘Celebrate the Life’ of Hayden Panettiere: ‘So Much Love, Gratitude and Warmth’",
@@ -2444,8 +2445,8 @@
           ]
         },
         {
-          "id": "tv-9-7861548957583477351",
-          "key": "tv-9-7861548957583477351",
+          "id": "tv-9-2836653258852219847",
+          "key": "tv-9-2836653258852219847",
           "category": "TV",
           "label": "TV",
           "headline": "‘Heroes’ Cast Reunites To “Celebrate The Life” Of Hayden Panettiere: “Was Deeply Emotional”",
@@ -2472,8 +2473,8 @@
           ]
         },
         {
-          "id": "tv-19-7905873746563862713",
-          "key": "tv-19-7905873746563862713",
+          "id": "tv-18-5325030594668928949",
+          "key": "tv-18-5325030594668928949",
           "category": "TV",
           "label": "TV",
           "headline": "Jelly Roll Takes Jabs at Donald Trump While Guest Hosting ‘Jimmy Kimmel Live!’",
@@ -2488,7 +2489,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 81,
+          "priority_score": 82,
           "key_data": [
             "Jelly Roll Takes Jabs at Donald Trump While Guest Hosting ‘Jimmy Kimmel Live!’"
           ],
@@ -2500,8 +2501,8 @@
           ]
         },
         {
-          "id": "tv-29-2162432946905731213",
-          "key": "tv-29-2162432946905731213",
+          "id": "tv-28-4463340874083055146",
+          "key": "tv-28-4463340874083055146",
           "category": "TV",
           "label": "TV",
           "headline": "Rent Television and TV Units in Delhi, Mumbai and Bangalore Instead of Buying in 2026 as ₹60,000 Entertainment Setups Push Renters Toward ₹499/Month Plans From Rentomojo - Yahoo Finance",
@@ -2516,7 +2517,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 71,
+          "priority_score": 72,
           "key_data": [
             "Rent Television and TV Units in Delhi, Mumbai and Bangalore Instead of Buying in 2026 as ₹60,000 Entertainment Setups Push Renters Toward ₹499/Month Plans From Rentomojo - Yahoo Finance"
           ],
@@ -2528,8 +2529,8 @@
           ]
         },
         {
-          "id": "tv-1-7849354776537253658",
-          "key": "tv-1-7849354776537253658",
+          "id": "tv-1-5817135260601009172",
+          "key": "tv-1-5817135260601009172",
           "category": "TV",
           "label": "TV",
           "headline": "‘Love Island USA’ Host Ariana Madix on Bringing ‘Sexiness’ and ‘Danger’ to Her Hosting Gig: ‘I Initially Scare the Crap Out of’ Islanders",
@@ -2556,8 +2557,8 @@
           ]
         },
         {
-          "id": "tv-10-1632184298305908218",
-          "key": "tv-10-1632184298305908218",
+          "id": "tv-10-870415914863513163",
+          "key": "tv-10-870415914863513163",
           "category": "TV",
           "label": "TV",
           "headline": "‘America’s Got Talent’ Pays Tribute To Dolly Parton",
@@ -2584,8 +2585,8 @@
           ]
         },
         {
-          "id": "tv-20-7755871776579133939",
-          "key": "tv-20-7755871776579133939",
+          "id": "tv-19-6977100109542293824",
+          "key": "tv-19-6977100109542293824",
           "category": "TV",
           "label": "TV",
           "headline": "‘20/20’ Sets Dolly Parton Special Tribute: Where to Watch Online",
@@ -2600,7 +2601,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 80,
+          "priority_score": 81,
           "key_data": [
             "‘20/20’ Sets Dolly Parton Special Tribute: Where to Watch Online"
           ],
@@ -2612,8 +2613,8 @@
           ]
         },
         {
-          "id": "tv-30-2469002107193949380",
-          "key": "tv-30-2469002107193949380",
+          "id": "tv-29-3733892077120517918",
+          "key": "tv-29-3733892077120517918",
           "category": "TV",
           "label": "TV",
           "headline": "‘The Office’ star Jenna Fischer exposes the grueling reality that forced her off TV - Fox News",
@@ -2628,7 +2629,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 70,
+          "priority_score": 71,
           "key_data": [
             "‘The Office’ star Jenna Fischer exposes the grueling reality that forced her off TV - Fox News"
           ],
@@ -2640,7 +2641,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-26 12:40:13 AM ET"
+      "updated_at": "2026-08-26 01:34:56 AM ET"
     },
     {
       "key": "streaming",
@@ -2658,8 +2659,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "streaming-0-8511456909998684304",
-          "key": "streaming-0-8511456909998684304",
+          "id": "streaming-0-4099680882202525969",
+          "key": "streaming-0-4099680882202525969",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'Mother Mary' to 'Passenger,' 10 movies to stream right now - USA Today",
@@ -2686,8 +2687,8 @@
           ]
         },
         {
-          "id": "streaming-1-8758407995727541083",
-          "key": "streaming-1-8758407995727541083",
+          "id": "streaming-1-3755335407386826346",
+          "key": "streaming-1-3755335407386826346",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "5 best new movies to stream this weekend on Netflix, Disney+, Hulu, and more (August 15-16) - Tom's Guide",
@@ -2716,8 +2717,8 @@
       ],
       "items": [
         {
-          "id": "streaming-0-8511456909998684304",
-          "key": "streaming-0-8511456909998684304",
+          "id": "streaming-0-4099680882202525969",
+          "key": "streaming-0-4099680882202525969",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'Mother Mary' to 'Passenger,' 10 movies to stream right now - USA Today",
@@ -2744,8 +2745,8 @@
           ]
         },
         {
-          "id": "streaming-1-8758407995727541083",
-          "key": "streaming-1-8758407995727541083",
+          "id": "streaming-1-3755335407386826346",
+          "key": "streaming-1-3755335407386826346",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "5 best new movies to stream this weekend on Netflix, Disney+, Hulu, and more (August 15-16) - Tom's Guide",
@@ -2772,14 +2773,14 @@
           ]
         }
       ],
-      "updated_at": "2026-08-26 12:40:14 AM ET"
+      "updated_at": "2026-08-26 01:34:57 AM ET"
     },
     {
       "key": "music",
       "name": "Music",
       "title": "Music Report",
       "headline": "Taylor Swift Pays Tribute to Dolly Parton: ‘She Was True Grace and True Grit, All in One Dazzling Person’",
-      "snapshot": "Music coverage is updating with 6 current RSS headline item(s).",
+      "snapshot": "Music coverage is updating with 5 current RSS headline item(s).",
       "key_storylines": [
         "Taylor Swift Pays Tribute to Dolly Parton: ‘She Was True Grace and True Grit, All in One Dazzling Person’",
         "Savage Garden’s Darren Hayes’ Career Celebrated at Music In The House Gala",
@@ -2792,13 +2793,12 @@
         "Savage Garden’s Darren Hayes’ Career Celebrated at Music In The House Gala",
         "Signed: Meghan Trainor Joins UTA for Global Representation - Billboard",
         "Dolly Parton Died After a ‘Brief Battle’ With Cancer, According to Her Reps",
-        "Ralph Carr, Australian Talent Manager Convicted of Rape, Sentenced to 6 Years’ Jail",
-        "What Every Music Company Made in Q2 2026 (Updating) - Billboard"
+        "Ralph Carr, Australian Talent Manager Convicted of Rape, Sentenced to 6 Years’ Jail"
       ],
       "homepage_cards": [
         {
-          "id": "music-0-8314310124169616769",
-          "key": "music-0-8314310124169616769",
+          "id": "music-0-4312656928662126423",
+          "key": "music-0-4312656928662126423",
           "category": "Music",
           "label": "Music",
           "headline": "Taylor Swift Pays Tribute to Dolly Parton: ‘She Was True Grace and True Grit, All in One Dazzling Person’",
@@ -2825,8 +2825,8 @@
           ]
         },
         {
-          "id": "music-8-3824759845208433785",
-          "key": "music-8-3824759845208433785",
+          "id": "music-8-677469229632815473",
+          "key": "music-8-677469229632815473",
           "category": "Music",
           "label": "Music",
           "headline": "Savage Garden’s Darren Hayes’ Career Celebrated at Music In The House Gala",
@@ -2853,8 +2853,8 @@
           ]
         },
         {
-          "id": "music-18-4362581067548675351",
-          "key": "music-18-4362581067548675351",
+          "id": "music-18-4756986650809814379",
+          "key": "music-18-4756986650809814379",
           "category": "Music",
           "label": "Music",
           "headline": "Signed: Meghan Trainor Joins UTA for Global Representation - Billboard",
@@ -2881,8 +2881,8 @@
           ]
         },
         {
-          "id": "music-1-7340905345489015603",
-          "key": "music-1-7340905345489015603",
+          "id": "music-1-1601281024864391137",
+          "key": "music-1-1601281024864391137",
           "category": "Music",
           "label": "Music",
           "headline": "Dolly Parton Died After a ‘Brief Battle’ With Cancer, According to Her Reps",
@@ -2909,8 +2909,8 @@
           ]
         },
         {
-          "id": "music-9-8178243968654701679",
-          "key": "music-9-8178243968654701679",
+          "id": "music-9-1051648490682226059",
+          "key": "music-9-1051648490682226059",
           "category": "Music",
           "label": "Music",
           "headline": "Ralph Carr, Australian Talent Manager Convicted of Rape, Sentenced to 6 Years’ Jail",
@@ -2928,34 +2928,6 @@
           "priority_score": 91,
           "key_data": [
             "Ralph Carr, Australian Talent Manager Convicted of Rape, Sentenced to 6 Years’ Jail"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
-        },
-        {
-          "id": "music-19-4718534596541603722",
-          "key": "music-19-4718534596541603722",
-          "category": "Music",
-          "label": "Music",
-          "headline": "What Every Music Company Made in Q2 2026 (Updating) - Billboard",
-          "title": "What Every Music Company Made in Q2 2026 (Updating) - Billboard",
-          "snapshot": "What Every Music Company Made in Q2 2026 (Updating) Billboard",
-          "summary": "What Every Music Company Made in Q2 2026 (Updating) Billboard",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYTN6TlV0YTNjNGJpeWk5bW16bnMwXzM3QmNyOUFTOHdpcTkwV0dNWFBtNzBiZDlhNVJNb0pGNms4dDM5dWlUaWthbUpfRlUwcndpaXNjeXhVZXdFSUt6b1c5ZFc5c0xNemVqbWpiY1lZVDktSmFoeEhNM1Q2cUh0Y01KWVNBaVZPR0FBVGhraVJOUHc?oc=5",
-          "source": "Google News",
-          "source_name": "Google News",
-          "source_feed": "https://news.google.com/rss/search?q=music+entertainment+billboard&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-12 03:00:00 AM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 81,
-          "key_data": [
-            "What Every Music Company Made in Q2 2026 (Updating) - Billboard"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2967,8 +2939,8 @@
       ],
       "items": [
         {
-          "id": "music-0-8314310124169616769",
-          "key": "music-0-8314310124169616769",
+          "id": "music-0-4312656928662126423",
+          "key": "music-0-4312656928662126423",
           "category": "Music",
           "label": "Music",
           "headline": "Taylor Swift Pays Tribute to Dolly Parton: ‘She Was True Grace and True Grit, All in One Dazzling Person’",
@@ -2995,8 +2967,8 @@
           ]
         },
         {
-          "id": "music-8-3824759845208433785",
-          "key": "music-8-3824759845208433785",
+          "id": "music-8-677469229632815473",
+          "key": "music-8-677469229632815473",
           "category": "Music",
           "label": "Music",
           "headline": "Savage Garden’s Darren Hayes’ Career Celebrated at Music In The House Gala",
@@ -3023,8 +2995,8 @@
           ]
         },
         {
-          "id": "music-18-4362581067548675351",
-          "key": "music-18-4362581067548675351",
+          "id": "music-18-4756986650809814379",
+          "key": "music-18-4756986650809814379",
           "category": "Music",
           "label": "Music",
           "headline": "Signed: Meghan Trainor Joins UTA for Global Representation - Billboard",
@@ -3051,8 +3023,8 @@
           ]
         },
         {
-          "id": "music-1-7340905345489015603",
-          "key": "music-1-7340905345489015603",
+          "id": "music-1-1601281024864391137",
+          "key": "music-1-1601281024864391137",
           "category": "Music",
           "label": "Music",
           "headline": "Dolly Parton Died After a ‘Brief Battle’ With Cancer, According to Her Reps",
@@ -3079,8 +3051,8 @@
           ]
         },
         {
-          "id": "music-9-8178243968654701679",
-          "key": "music-9-8178243968654701679",
+          "id": "music-9-1051648490682226059",
+          "key": "music-9-1051648490682226059",
           "category": "Music",
           "label": "Music",
           "headline": "Ralph Carr, Australian Talent Manager Convicted of Rape, Sentenced to 6 Years’ Jail",
@@ -3105,37 +3077,9 @@
           "what_to_watch": [
             "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
           ]
-        },
-        {
-          "id": "music-19-4718534596541603722",
-          "key": "music-19-4718534596541603722",
-          "category": "Music",
-          "label": "Music",
-          "headline": "What Every Music Company Made in Q2 2026 (Updating) - Billboard",
-          "title": "What Every Music Company Made in Q2 2026 (Updating) - Billboard",
-          "snapshot": "What Every Music Company Made in Q2 2026 (Updating) Billboard",
-          "summary": "What Every Music Company Made in Q2 2026 (Updating) Billboard",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYTN6TlV0YTNjNGJpeWk5bW16bnMwXzM3QmNyOUFTOHdpcTkwV0dNWFBtNzBiZDlhNVJNb0pGNms4dDM5dWlUaWthbUpfRlUwcndpaXNjeXhVZXdFSUt6b1c5ZFc5c0xNemVqbWpiY1lZVDktSmFoeEhNM1Q2cUh0Y01KWVNBaVZPR0FBVGhraVJOUHc?oc=5",
-          "source": "Google News",
-          "source_name": "Google News",
-          "source_feed": "https://news.google.com/rss/search?q=music+entertainment+billboard&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-12 03:00:00 AM ET",
-          "image": "",
-          "freshness_status": "fresh",
-          "story_type": "rss_headline",
-          "priority_score": 81,
-          "key_data": [
-            "What Every Music Company Made in Q2 2026 (Updating) - Billboard"
-          ],
-          "why_it_matters": [
-            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
-          ],
-          "what_to_watch": [
-            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
-          ]
         }
       ],
-      "updated_at": "2026-08-26 12:40:15 AM ET"
+      "updated_at": "2026-08-26 01:35:00 AM ET"
     },
     {
       "key": "awards",
@@ -3157,8 +3101,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "awards-0-2590308483447331409",
-          "key": "awards-0-2590308483447331409",
+          "id": "awards-0-7930768557013809871",
+          "key": "awards-0-7930768557013809871",
           "category": "Awards",
           "label": "Awards",
           "headline": "Seth Rogen, Helen Mirren and Cinematographer Adam Pietkiewicz Added to TIFF Tribute Awards Honorees",
@@ -3185,8 +3129,8 @@
           ]
         },
         {
-          "id": "awards-8-5772969239474017758",
-          "key": "awards-8-5772969239474017758",
+          "id": "awards-8-3686560947238823268",
+          "key": "awards-8-3686560947238823268",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo",
@@ -3213,8 +3157,8 @@
           ]
         },
         {
-          "id": "awards-1-244684580087102829",
-          "key": "awards-1-244684580087102829",
+          "id": "awards-1-8580010023166740501",
+          "key": "awards-1-8580010023166740501",
           "category": "Awards",
           "label": "Awards",
           "headline": "New York Times Awards Columnist Kyle Buchanan Exits Paper to Launch Podcast Series (EXCLUSIVE)",
@@ -3241,8 +3185,8 @@
           ]
         },
         {
-          "id": "awards-9-4122412097994515796",
-          "key": "awards-9-4122412097994515796",
+          "id": "awards-9-1779740647115911070",
+          "key": "awards-9-1779740647115911070",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026 Emmys Guest Actor/Actress Predictions - Yahoo",
@@ -3271,8 +3215,8 @@
       ],
       "items": [
         {
-          "id": "awards-0-2590308483447331409",
-          "key": "awards-0-2590308483447331409",
+          "id": "awards-0-7930768557013809871",
+          "key": "awards-0-7930768557013809871",
           "category": "Awards",
           "label": "Awards",
           "headline": "Seth Rogen, Helen Mirren and Cinematographer Adam Pietkiewicz Added to TIFF Tribute Awards Honorees",
@@ -3299,8 +3243,8 @@
           ]
         },
         {
-          "id": "awards-8-5772969239474017758",
-          "key": "awards-8-5772969239474017758",
+          "id": "awards-8-3686560947238823268",
+          "key": "awards-8-3686560947238823268",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo",
@@ -3327,8 +3271,8 @@
           ]
         },
         {
-          "id": "awards-1-244684580087102829",
-          "key": "awards-1-244684580087102829",
+          "id": "awards-1-8580010023166740501",
+          "key": "awards-1-8580010023166740501",
           "category": "Awards",
           "label": "Awards",
           "headline": "New York Times Awards Columnist Kyle Buchanan Exits Paper to Launch Podcast Series (EXCLUSIVE)",
@@ -3355,8 +3299,8 @@
           ]
         },
         {
-          "id": "awards-9-4122412097994515796",
-          "key": "awards-9-4122412097994515796",
+          "id": "awards-9-1779740647115911070",
+          "key": "awards-9-1779740647115911070",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026 Emmys Guest Actor/Actress Predictions - Yahoo",
@@ -3383,7 +3327,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-26 12:40:16 AM ET"
+      "updated_at": "2026-08-26 01:35:01 AM ET"
     },
     {
       "key": "box_office",
@@ -3405,8 +3349,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "box_office-0-2023430030027024042",
-          "key": "box_office-0-2023430030027024042",
+          "id": "box_office-0-706044922421721118",
+          "key": "box_office-0-706044922421721118",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Spider-Man: Brand New Day,’ ‘The Odyssey’ Extend Battle Atop U.K. and Ireland Box Office as ‘Insidious’ Makes Strong Debut",
@@ -3433,8 +3377,8 @@
           ]
         },
         {
-          "id": "box_office-10-2584451745024797885",
-          "key": "box_office-10-2584451745024797885",
+          "id": "box_office-10-624737254502350981",
+          "key": "box_office-10-624737254502350981",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "See the 10 Highest-Grossing Movies of 2026, So Far - People.com",
@@ -3461,8 +3405,8 @@
           ]
         },
         {
-          "id": "box_office-1-2276170698455706871",
-          "key": "box_office-1-2276170698455706871",
+          "id": "box_office-1-6603949554354158143",
+          "key": "box_office-1-6603949554354158143",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Korea Box Office: ‘The Odyssey’ Outmuscles ‘Spider-Man: Brand New Day’ to Hold Top Spot",
@@ -3489,8 +3433,8 @@
           ]
         },
         {
-          "id": "box_office-11-9209548006388118125",
-          "key": "box_office-11-9209548006388118125",
+          "id": "box_office-11-3970602957513365519",
+          "key": "box_office-11-3970602957513365519",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "'Spider-Man: Brand New Day' has become the second highest grossing movie ever at the domestic box office, defeating 'Avengers: Endgame' Read more below. - facebook.com",
@@ -3519,8 +3463,8 @@
       ],
       "items": [
         {
-          "id": "box_office-0-2023430030027024042",
-          "key": "box_office-0-2023430030027024042",
+          "id": "box_office-0-706044922421721118",
+          "key": "box_office-0-706044922421721118",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Spider-Man: Brand New Day,’ ‘The Odyssey’ Extend Battle Atop U.K. and Ireland Box Office as ‘Insidious’ Makes Strong Debut",
@@ -3547,8 +3491,8 @@
           ]
         },
         {
-          "id": "box_office-10-2584451745024797885",
-          "key": "box_office-10-2584451745024797885",
+          "id": "box_office-10-624737254502350981",
+          "key": "box_office-10-624737254502350981",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "See the 10 Highest-Grossing Movies of 2026, So Far - People.com",
@@ -3575,8 +3519,8 @@
           ]
         },
         {
-          "id": "box_office-1-2276170698455706871",
-          "key": "box_office-1-2276170698455706871",
+          "id": "box_office-1-6603949554354158143",
+          "key": "box_office-1-6603949554354158143",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Korea Box Office: ‘The Odyssey’ Outmuscles ‘Spider-Man: Brand New Day’ to Hold Top Spot",
@@ -3603,8 +3547,8 @@
           ]
         },
         {
-          "id": "box_office-11-9209548006388118125",
-          "key": "box_office-11-9209548006388118125",
+          "id": "box_office-11-3970602957513365519",
+          "key": "box_office-11-3970602957513365519",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "'Spider-Man: Brand New Day' has become the second highest grossing movie ever at the domestic box office, defeating 'Avengers: Endgame' Read more below. - facebook.com",
@@ -3631,7 +3575,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-26 12:40:17 AM ET"
+      "updated_at": "2026-08-26 01:35:02 AM ET"
     },
     {
       "key": "celebrity",
@@ -3649,8 +3593,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "celebrity-0-5620643753290389982",
-          "key": "celebrity-0-5620643753290389982",
+          "id": "celebrity-0-2523863294889625307",
+          "key": "celebrity-0-2523863294889625307",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity Deaths of 2026: Dolly Parton, Shelley Fabares and More Stars We’ve Lost This Year - Us Weekly",
@@ -3677,8 +3621,8 @@
           ]
         },
         {
-          "id": "celebrity-1-6247492774012766678",
-          "key": "celebrity-1-6247492774012766678",
+          "id": "celebrity-1-5254104774473049232",
+          "key": "celebrity-1-5254104774473049232",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "PHOTOS: 2026 celebrity deaths - WTOP News",
@@ -3707,8 +3651,8 @@
       ],
       "items": [
         {
-          "id": "celebrity-0-5620643753290389982",
-          "key": "celebrity-0-5620643753290389982",
+          "id": "celebrity-0-2523863294889625307",
+          "key": "celebrity-0-2523863294889625307",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity Deaths of 2026: Dolly Parton, Shelley Fabares and More Stars We’ve Lost This Year - Us Weekly",
@@ -3735,8 +3679,8 @@
           ]
         },
         {
-          "id": "celebrity-1-6247492774012766678",
-          "key": "celebrity-1-6247492774012766678",
+          "id": "celebrity-1-5254104774473049232",
+          "key": "celebrity-1-5254104774473049232",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "PHOTOS: 2026 celebrity deaths - WTOP News",
@@ -3763,7 +3707,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-26 12:40:18 AM ET"
+      "updated_at": "2026-08-26 01:35:02 AM ET"
     },
     {
       "key": "hollywood",
@@ -3775,23 +3719,23 @@
         "‘Paranormal Activity’ Review: Spooky Franchise Gets a Hair-Raising Stage Experience",
         "Taylor Swift Praises The Late Great Dolly Parton’s Life & Legacy: “She Was Truly The Gift That Kept On Giving”",
         "Haim Saban, Lawrence Bender and Teddy Schwarzman Among Industry Group Accusing Mark Ruffalo of “Antisemitism” in Attack on Paramount Leadership",
-        "The Brigade Condemns Mark Ruffalo for Using 'Antisemitic Tropes' - The Hollywood Reporter",
+        "‘The worst it’s ever been’: California’s post-production workers push for new tax credit - Los Angeles Times",
         "Luis Castro, Trish Reilly and Barry Wilkinson Named 2026 MacGuffin Award Honorees"
       ],
       "watch_list": [
         "‘Paranormal Activity’ Review: Spooky Franchise Gets a Hair-Raising Stage Experience",
         "Taylor Swift Praises The Late Great Dolly Parton’s Life & Legacy: “She Was Truly The Gift That Kept On Giving”",
         "Haim Saban, Lawrence Bender and Teddy Schwarzman Among Industry Group Accusing Mark Ruffalo of “Antisemitism” in Attack on Paramount Leadership",
-        "The Brigade Condemns Mark Ruffalo for Using 'Antisemitic Tropes' - The Hollywood Reporter",
+        "‘The worst it’s ever been’: California’s post-production workers push for new tax credit - Los Angeles Times",
         "Luis Castro, Trish Reilly and Barry Wilkinson Named 2026 MacGuffin Award Honorees",
         "‘9 To 5: The Musical’ Cast Pays Tribute To Dolly Parton: “Our Deepest Thanks For The Music, Laughter & Joy She Gave Us”",
         "Dolly Parton, a Hollywood Treasure Who Lit Up the Screen With Her Authentic Self",
-        "‘The worst it’s ever been’: California’s post-production workers push for new tax credit - Los Angeles Times"
+        "The Hollywood Dissidents Rebuilding the Entertainment Industry from the Inside - IW Features"
       ],
       "homepage_cards": [
         {
-          "id": "hollywood-0-218231371856142236",
-          "key": "hollywood-0-218231371856142236",
+          "id": "hollywood-0-1006425026592864570",
+          "key": "hollywood-0-1006425026592864570",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘Paranormal Activity’ Review: Spooky Franchise Gets a Hair-Raising Stage Experience",
@@ -3818,8 +3762,8 @@
           ]
         },
         {
-          "id": "hollywood-2-421411867524851477",
-          "key": "hollywood-2-421411867524851477",
+          "id": "hollywood-2-1296206794180193964",
+          "key": "hollywood-2-1296206794180193964",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Taylor Swift Praises The Late Great Dolly Parton’s Life & Legacy: “She Was Truly The Gift That Kept On Giving”",
@@ -3846,8 +3790,8 @@
           ]
         },
         {
-          "id": "hollywood-5-5667653876533394632",
-          "key": "hollywood-5-5667653876533394632",
+          "id": "hollywood-4-3729989097081648318",
+          "key": "hollywood-4-3729989097081648318",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Haim Saban, Lawrence Bender and Teddy Schwarzman Among Industry Group Accusing Mark Ruffalo of “Antisemitism” in Attack on Paramount Leadership",
@@ -3862,7 +3806,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 95,
+          "priority_score": 96,
           "key_data": [
             "Haim Saban, Lawrence Bender and Teddy Schwarzman Among Industry Group Accusing Mark Ruffalo of “Antisemitism” in Attack on Paramount Leadership"
           ],
@@ -3874,25 +3818,25 @@
           ]
         },
         {
-          "id": "hollywood-12-6741786871832971789",
-          "key": "hollywood-12-6741786871832971789",
+          "id": "hollywood-11-2472228699047360922",
+          "key": "hollywood-11-2472228699047360922",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "The Brigade Condemns Mark Ruffalo for Using 'Antisemitic Tropes' - The Hollywood Reporter",
-          "title": "The Brigade Condemns Mark Ruffalo for Using 'Antisemitic Tropes' - The Hollywood Reporter",
-          "snapshot": "The Brigade Condemns Mark Ruffalo for Using 'Antisemitic Tropes' The Hollywood Reporter",
-          "summary": "The Brigade Condemns Mark Ruffalo for Using 'Antisemitic Tropes' The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMTlXYzd2bk50TjFRUk1NMC1hUF9FMmRHNGRtZFgxdktxMS1QRlRrd0F4enI2RlZjRGZWOWJQbTJkeTZGVmJndy1YOWhmbDd0UkRWTm91RTA3bUszTTZHbVpwLTBmTFhPUzJybmZHV0xVcEN4VnVuYzlTREZ1cXBmc3p1VTRCb2pmUUhBOV81VDJScmFfQjlnQ0hiRW9xdW9ZZ2V4clQ3UGI0cWtHUktuTll1T2ZCSWRpNXBLdV8wTEMzMmVUWm9VV2Rn?oc=5",
+          "headline": "‘The worst it’s ever been’: California’s post-production workers push for new tax credit - Los Angeles Times",
+          "title": "‘The worst it’s ever been’: California’s post-production workers push for new tax credit - Los Angeles Times",
+          "snapshot": "‘The worst it’s ever been’: California’s post-production workers push for new tax credit Los Angeles Times",
+          "summary": "‘The worst it’s ever been’: California’s post-production workers push for new tax credit Los Angeles Times",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUGpZaXV1OFZTTEtCQmRGd2E0Z2FoY0Eyajk1VXNac05DX1BwdWFEWmt4RUE0dmxWcUJKalluSTFSa1lMTGtkQnNxaVQ3MWxid0YySTNxdDB6YklvYU1UVkE1TEQ1a3VMZHJVdXVTSVlVNGNMQXlBNmdKendXdHhsc1ItcGJ1N05NTXBicmwwdEJzQmJPbFhYMzFTUXJPN0NlTDJVVEVZVGVTOE5fWFhsc1o5QVBpTWdXN3BKYm9xTXBTdTBwc1E?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-26 12:32:25 AM ET",
+          "published_at": "2026-08-24 06:00:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 88,
+          "priority_score": 89,
           "key_data": [
-            "The Brigade Condemns Mark Ruffalo for Using 'Antisemitic Tropes' - The Hollywood Reporter"
+            "‘The worst it’s ever been’: California’s post-production workers push for new tax credit - Los Angeles Times"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3902,8 +3846,8 @@
           ]
         },
         {
-          "id": "hollywood-1-7239013465890407915",
-          "key": "hollywood-1-7239013465890407915",
+          "id": "hollywood-1-321237364079573187",
+          "key": "hollywood-1-321237364079573187",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Luis Castro, Trish Reilly and Barry Wilkinson Named 2026 MacGuffin Award Honorees",
@@ -3930,8 +3874,8 @@
           ]
         },
         {
-          "id": "hollywood-3-8495870265886381770",
-          "key": "hollywood-3-8495870265886381770",
+          "id": "hollywood-3-5236213687232662645",
+          "key": "hollywood-3-5236213687232662645",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘9 To 5: The Musical’ Cast Pays Tribute To Dolly Parton: “Our Deepest Thanks For The Music, Laughter & Joy She Gave Us”",
@@ -3958,8 +3902,8 @@
           ]
         },
         {
-          "id": "hollywood-6-2881491542586338899",
-          "key": "hollywood-6-2881491542586338899",
+          "id": "hollywood-5-5285370818372120341",
+          "key": "hollywood-5-5285370818372120341",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Dolly Parton, a Hollywood Treasure Who Lit Up the Screen With Her Authentic Self",
@@ -3974,7 +3918,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 94,
+          "priority_score": 95,
           "key_data": [
             "Dolly Parton, a Hollywood Treasure Who Lit Up the Screen With Her Authentic Self"
           ],
@@ -3986,25 +3930,25 @@
           ]
         },
         {
-          "id": "hollywood-13-7571495028914158611",
-          "key": "hollywood-13-7571495028914158611",
+          "id": "hollywood-12-6460484165945810613",
+          "key": "hollywood-12-6460484165945810613",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "‘The worst it’s ever been’: California’s post-production workers push for new tax credit - Los Angeles Times",
-          "title": "‘The worst it’s ever been’: California’s post-production workers push for new tax credit - Los Angeles Times",
-          "snapshot": "‘The worst it’s ever been’: California’s post-production workers push for new tax credit Los Angeles Times",
-          "summary": "‘The worst it’s ever been’: California’s post-production workers push for new tax credit Los Angeles Times",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUGpZaXV1OFZTTEtCQmRGd2E0Z2FoY0Eyajk1VXNac05DX1BwdWFEWmt4RUE0dmxWcUJKalluSTFSa1lMTGtkQnNxaVQ3MWxid0YySTNxdDB6YklvYU1UVkE1TEQ1a3VMZHJVdXVTSVlVNGNMQXlBNmdKendXdHhsc1ItcGJ1N05NTXBicmwwdEJzQmJPbFhYMzFTUXJPN0NlTDJVVEVZVGVTOE5fWFhsc1o5QVBpTWdXN3BKYm9xTXBTdTBwc1E?oc=5",
+          "headline": "The Hollywood Dissidents Rebuilding the Entertainment Industry from the Inside - IW Features",
+          "title": "The Hollywood Dissidents Rebuilding the Entertainment Industry from the Inside - IW Features",
+          "snapshot": "The Hollywood Dissidents Rebuilding the Entertainment Industry from the Inside IW Features",
+          "summary": "The Hollywood Dissidents Rebuilding the Entertainment Industry from the Inside IW Features",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX2tadFNqRnA1cnU2WUFlZTBxUWRXTlNaMVktWVJvY1RTQlItelFZU3BNMGxRdmoyS0VYcWxxaHotZk9HdXJrTFZZeC1QeS1DYnlCSHZqNW81aE1icTFIZ3hzaFJjQWxzOTNqN3RRWjZNcTQtSXUxeEEwVkU1T09SeDRiUjZDQTFsMDlvd3dpTFF3aklDcC1XbEZYcmUzMUdzYkFOM3VEWl90TC1ibEVFQ3ZwdDg?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-24 06:00:00 AM ET",
+          "published_at": "2026-08-19 09:01:14 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 87,
+          "priority_score": 88,
           "key_data": [
-            "‘The worst it’s ever been’: California’s post-production workers push for new tax credit - Los Angeles Times"
+            "The Hollywood Dissidents Rebuilding the Entertainment Industry from the Inside - IW Features"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4016,8 +3960,8 @@
       ],
       "items": [
         {
-          "id": "hollywood-0-218231371856142236",
-          "key": "hollywood-0-218231371856142236",
+          "id": "hollywood-0-1006425026592864570",
+          "key": "hollywood-0-1006425026592864570",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘Paranormal Activity’ Review: Spooky Franchise Gets a Hair-Raising Stage Experience",
@@ -4044,8 +3988,8 @@
           ]
         },
         {
-          "id": "hollywood-2-421411867524851477",
-          "key": "hollywood-2-421411867524851477",
+          "id": "hollywood-2-1296206794180193964",
+          "key": "hollywood-2-1296206794180193964",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Taylor Swift Praises The Late Great Dolly Parton’s Life & Legacy: “She Was Truly The Gift That Kept On Giving”",
@@ -4072,8 +4016,8 @@
           ]
         },
         {
-          "id": "hollywood-5-5667653876533394632",
-          "key": "hollywood-5-5667653876533394632",
+          "id": "hollywood-4-3729989097081648318",
+          "key": "hollywood-4-3729989097081648318",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Haim Saban, Lawrence Bender and Teddy Schwarzman Among Industry Group Accusing Mark Ruffalo of “Antisemitism” in Attack on Paramount Leadership",
@@ -4088,7 +4032,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 95,
+          "priority_score": 96,
           "key_data": [
             "Haim Saban, Lawrence Bender and Teddy Schwarzman Among Industry Group Accusing Mark Ruffalo of “Antisemitism” in Attack on Paramount Leadership"
           ],
@@ -4100,25 +4044,25 @@
           ]
         },
         {
-          "id": "hollywood-12-6741786871832971789",
-          "key": "hollywood-12-6741786871832971789",
+          "id": "hollywood-11-2472228699047360922",
+          "key": "hollywood-11-2472228699047360922",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "The Brigade Condemns Mark Ruffalo for Using 'Antisemitic Tropes' - The Hollywood Reporter",
-          "title": "The Brigade Condemns Mark Ruffalo for Using 'Antisemitic Tropes' - The Hollywood Reporter",
-          "snapshot": "The Brigade Condemns Mark Ruffalo for Using 'Antisemitic Tropes' The Hollywood Reporter",
-          "summary": "The Brigade Condemns Mark Ruffalo for Using 'Antisemitic Tropes' The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMTlXYzd2bk50TjFRUk1NMC1hUF9FMmRHNGRtZFgxdktxMS1QRlRrd0F4enI2RlZjRGZWOWJQbTJkeTZGVmJndy1YOWhmbDd0UkRWTm91RTA3bUszTTZHbVpwLTBmTFhPUzJybmZHV0xVcEN4VnVuYzlTREZ1cXBmc3p1VTRCb2pmUUhBOV81VDJScmFfQjlnQ0hiRW9xdW9ZZ2V4clQ3UGI0cWtHUktuTll1T2ZCSWRpNXBLdV8wTEMzMmVUWm9VV2Rn?oc=5",
+          "headline": "‘The worst it’s ever been’: California’s post-production workers push for new tax credit - Los Angeles Times",
+          "title": "‘The worst it’s ever been’: California’s post-production workers push for new tax credit - Los Angeles Times",
+          "snapshot": "‘The worst it’s ever been’: California’s post-production workers push for new tax credit Los Angeles Times",
+          "summary": "‘The worst it’s ever been’: California’s post-production workers push for new tax credit Los Angeles Times",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUGpZaXV1OFZTTEtCQmRGd2E0Z2FoY0Eyajk1VXNac05DX1BwdWFEWmt4RUE0dmxWcUJKalluSTFSa1lMTGtkQnNxaVQ3MWxid0YySTNxdDB6YklvYU1UVkE1TEQ1a3VMZHJVdXVTSVlVNGNMQXlBNmdKendXdHhsc1ItcGJ1N05NTXBicmwwdEJzQmJPbFhYMzFTUXJPN0NlTDJVVEVZVGVTOE5fWFhsc1o5QVBpTWdXN3BKYm9xTXBTdTBwc1E?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-26 12:32:25 AM ET",
+          "published_at": "2026-08-24 06:00:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 88,
+          "priority_score": 89,
           "key_data": [
-            "The Brigade Condemns Mark Ruffalo for Using 'Antisemitic Tropes' - The Hollywood Reporter"
+            "‘The worst it’s ever been’: California’s post-production workers push for new tax credit - Los Angeles Times"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4128,8 +4072,8 @@
           ]
         },
         {
-          "id": "hollywood-1-7239013465890407915",
-          "key": "hollywood-1-7239013465890407915",
+          "id": "hollywood-1-321237364079573187",
+          "key": "hollywood-1-321237364079573187",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Luis Castro, Trish Reilly and Barry Wilkinson Named 2026 MacGuffin Award Honorees",
@@ -4156,8 +4100,8 @@
           ]
         },
         {
-          "id": "hollywood-3-8495870265886381770",
-          "key": "hollywood-3-8495870265886381770",
+          "id": "hollywood-3-5236213687232662645",
+          "key": "hollywood-3-5236213687232662645",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘9 To 5: The Musical’ Cast Pays Tribute To Dolly Parton: “Our Deepest Thanks For The Music, Laughter & Joy She Gave Us”",
@@ -4184,8 +4128,8 @@
           ]
         },
         {
-          "id": "hollywood-6-2881491542586338899",
-          "key": "hollywood-6-2881491542586338899",
+          "id": "hollywood-5-5285370818372120341",
+          "key": "hollywood-5-5285370818372120341",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Dolly Parton, a Hollywood Treasure Who Lit Up the Screen With Her Authentic Self",
@@ -4200,7 +4144,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 94,
+          "priority_score": 95,
           "key_data": [
             "Dolly Parton, a Hollywood Treasure Who Lit Up the Screen With Her Authentic Self"
           ],
@@ -4212,25 +4156,25 @@
           ]
         },
         {
-          "id": "hollywood-13-7571495028914158611",
-          "key": "hollywood-13-7571495028914158611",
+          "id": "hollywood-12-6460484165945810613",
+          "key": "hollywood-12-6460484165945810613",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "‘The worst it’s ever been’: California’s post-production workers push for new tax credit - Los Angeles Times",
-          "title": "‘The worst it’s ever been’: California’s post-production workers push for new tax credit - Los Angeles Times",
-          "snapshot": "‘The worst it’s ever been’: California’s post-production workers push for new tax credit Los Angeles Times",
-          "summary": "‘The worst it’s ever been’: California’s post-production workers push for new tax credit Los Angeles Times",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUGpZaXV1OFZTTEtCQmRGd2E0Z2FoY0Eyajk1VXNac05DX1BwdWFEWmt4RUE0dmxWcUJKalluSTFSa1lMTGtkQnNxaVQ3MWxid0YySTNxdDB6YklvYU1UVkE1TEQ1a3VMZHJVdXVTSVlVNGNMQXlBNmdKendXdHhsc1ItcGJ1N05NTXBicmwwdEJzQmJPbFhYMzFTUXJPN0NlTDJVVEVZVGVTOE5fWFhsc1o5QVBpTWdXN3BKYm9xTXBTdTBwc1E?oc=5",
+          "headline": "The Hollywood Dissidents Rebuilding the Entertainment Industry from the Inside - IW Features",
+          "title": "The Hollywood Dissidents Rebuilding the Entertainment Industry from the Inside - IW Features",
+          "snapshot": "The Hollywood Dissidents Rebuilding the Entertainment Industry from the Inside IW Features",
+          "summary": "The Hollywood Dissidents Rebuilding the Entertainment Industry from the Inside IW Features",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX2tadFNqRnA1cnU2WUFlZTBxUWRXTlNaMVktWVJvY1RTQlItelFZU3BNMGxRdmoyS0VYcWxxaHotZk9HdXJrTFZZeC1QeS1DYnlCSHZqNW81aE1icTFIZ3hzaFJjQWxzOTNqN3RRWjZNcTQtSXUxeEEwVkU1T09SeDRiUjZDQTFsMDlvd3dpTFF3aklDcC1XbEZYcmUzMUdzYkFOM3VEWl90TC1ibEVFQ3ZwdDg?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-08-24 06:00:00 AM ET",
+          "published_at": "2026-08-19 09:01:14 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 87,
+          "priority_score": 88,
           "key_data": [
-            "‘The worst it’s ever been’: California’s post-production workers push for new tax credit - Los Angeles Times"
+            "The Hollywood Dissidents Rebuilding the Entertainment Industry from the Inside - IW Features"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4240,7 +4184,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-26 12:40:19 AM ET"
+      "updated_at": "2026-08-26 01:35:03 AM ET"
     },
     {
       "key": "gaming",
@@ -4260,8 +4204,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "gaming-0-7396507426475539353",
-          "key": "gaming-0-7396507426475539353",
+          "id": "gaming-0-3190577265143021444",
+          "key": "gaming-0-3190577265143021444",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Showa American Story: The First Hands-On Preview",
@@ -4288,8 +4232,8 @@
           ]
         },
         {
-          "id": "gaming-20-324666241863080952",
-          "key": "gaming-20-324666241863080952",
+          "id": "gaming-20-8533762564048296450",
+          "key": "gaming-20-8533762564048296450",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "How Games Are Helping Shape Disney’s Next Chapter - The Walt Disney Company",
@@ -4316,8 +4260,8 @@
           ]
         },
         {
-          "id": "gaming-1-3835501771000011674",
-          "key": "gaming-1-3835501771000011674",
+          "id": "gaming-1-3490918153113823727",
+          "key": "gaming-1-3490918153113823727",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Konami Partners With Celebrity Kitty to Release Metal Gear Cat Toys at CatCon 2026",
@@ -4346,8 +4290,8 @@
       ],
       "items": [
         {
-          "id": "gaming-0-7396507426475539353",
-          "key": "gaming-0-7396507426475539353",
+          "id": "gaming-0-3190577265143021444",
+          "key": "gaming-0-3190577265143021444",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Showa American Story: The First Hands-On Preview",
@@ -4374,8 +4318,8 @@
           ]
         },
         {
-          "id": "gaming-20-324666241863080952",
-          "key": "gaming-20-324666241863080952",
+          "id": "gaming-20-8533762564048296450",
+          "key": "gaming-20-8533762564048296450",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "How Games Are Helping Shape Disney’s Next Chapter - The Walt Disney Company",
@@ -4402,8 +4346,8 @@
           ]
         },
         {
-          "id": "gaming-1-3835501771000011674",
-          "key": "gaming-1-3835501771000011674",
+          "id": "gaming-1-3490918153113823727",
+          "key": "gaming-1-3490918153113823727",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Konami Partners With Celebrity Kitty to Release Metal Gear Cat Toys at CatCon 2026",
@@ -4430,7 +4374,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-26 12:40:20 AM ET"
+      "updated_at": "2026-08-26 01:35:04 AM ET"
     },
     {
       "key": "media",
@@ -4455,8 +4399,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "media-0-23235444978737594",
-          "key": "media-0-23235444978737594",
+          "id": "media-0-2720762833977524763",
+          "key": "media-0-2720762833977524763",
           "category": "Media",
           "label": "Media",
           "headline": "From ‘Donnie Darko’ to ‘Kenan & Kel Meet Zombies,’ How Range Literary Publishing Is Facilitating the Relationship Between Hollywood and the Book Biz",
@@ -4483,8 +4427,8 @@
           ]
         },
         {
-          "id": "media-9-4056763000839392321",
-          "key": "media-9-4056763000839392321",
+          "id": "media-9-4426496729974086550",
+          "key": "media-9-4426496729974086550",
           "category": "Media",
           "label": "Media",
           "headline": "Donald Trump Pays Tribute To Dolly Parton, Says He’s Lowering U.S. Flags To Honor Entertainer",
@@ -4511,8 +4455,8 @@
           ]
         },
         {
-          "id": "media-20-1571787627091238055",
-          "key": "media-20-1571787627091238055",
+          "id": "media-19-7868166895785383844",
+          "key": "media-19-7868166895785383844",
           "category": "Media",
           "label": "Media",
           "headline": "India's media, entertainment sector growing in high single digits: Goenka - Business Standard",
@@ -4527,7 +4471,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 80,
+          "priority_score": 81,
           "key_data": [
             "India's media, entertainment sector growing in high single digits: Goenka - Business Standard"
           ],
@@ -4539,8 +4483,8 @@
           ]
         },
         {
-          "id": "media-1-329064043293614105",
-          "key": "media-1-329064043293614105",
+          "id": "media-1-1265496047702123312",
+          "key": "media-1-1265496047702123312",
           "category": "Media",
           "label": "Media",
           "headline": "‘Donnie Darko’ Sequel Book Releasing This Year From Filmmaker Richard Kelly; Cover and Teaser Revealed (EXCLUSIVE)",
@@ -4567,8 +4511,8 @@
           ]
         },
         {
-          "id": "media-10-8405108641530978987",
-          "key": "media-10-8405108641530978987",
+          "id": "media-10-4505128642147900953",
+          "key": "media-10-4505128642147900953",
           "category": "Media",
           "label": "Media",
           "headline": "Rob Bonta Says No Paramount-WBD Settlement Talks Scheduled After He Canceled Monday Session",
@@ -4595,8 +4539,8 @@
           ]
         },
         {
-          "id": "media-21-3023186675011678802",
-          "key": "media-21-3023186675011678802",
+          "id": "media-20-4219379214529231424",
+          "key": "media-20-4219379214529231424",
           "category": "Media",
           "label": "Media",
           "headline": "Baseline Media Targets Premium Entertainment Market With ‘Grown and Sexy’ - Business News Nigeria",
@@ -4611,7 +4555,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 79,
+          "priority_score": 80,
           "key_data": [
             "Baseline Media Targets Premium Entertainment Market With ‘Grown and Sexy’ - Business News Nigeria"
           ],
@@ -4625,8 +4569,8 @@
       ],
       "items": [
         {
-          "id": "media-0-23235444978737594",
-          "key": "media-0-23235444978737594",
+          "id": "media-0-2720762833977524763",
+          "key": "media-0-2720762833977524763",
           "category": "Media",
           "label": "Media",
           "headline": "From ‘Donnie Darko’ to ‘Kenan & Kel Meet Zombies,’ How Range Literary Publishing Is Facilitating the Relationship Between Hollywood and the Book Biz",
@@ -4653,8 +4597,8 @@
           ]
         },
         {
-          "id": "media-9-4056763000839392321",
-          "key": "media-9-4056763000839392321",
+          "id": "media-9-4426496729974086550",
+          "key": "media-9-4426496729974086550",
           "category": "Media",
           "label": "Media",
           "headline": "Donald Trump Pays Tribute To Dolly Parton, Says He’s Lowering U.S. Flags To Honor Entertainer",
@@ -4681,8 +4625,8 @@
           ]
         },
         {
-          "id": "media-20-1571787627091238055",
-          "key": "media-20-1571787627091238055",
+          "id": "media-19-7868166895785383844",
+          "key": "media-19-7868166895785383844",
           "category": "Media",
           "label": "Media",
           "headline": "India's media, entertainment sector growing in high single digits: Goenka - Business Standard",
@@ -4697,7 +4641,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 80,
+          "priority_score": 81,
           "key_data": [
             "India's media, entertainment sector growing in high single digits: Goenka - Business Standard"
           ],
@@ -4709,8 +4653,8 @@
           ]
         },
         {
-          "id": "media-1-329064043293614105",
-          "key": "media-1-329064043293614105",
+          "id": "media-1-1265496047702123312",
+          "key": "media-1-1265496047702123312",
           "category": "Media",
           "label": "Media",
           "headline": "‘Donnie Darko’ Sequel Book Releasing This Year From Filmmaker Richard Kelly; Cover and Teaser Revealed (EXCLUSIVE)",
@@ -4737,8 +4681,8 @@
           ]
         },
         {
-          "id": "media-10-8405108641530978987",
-          "key": "media-10-8405108641530978987",
+          "id": "media-10-4505128642147900953",
+          "key": "media-10-4505128642147900953",
           "category": "Media",
           "label": "Media",
           "headline": "Rob Bonta Says No Paramount-WBD Settlement Talks Scheduled After He Canceled Monday Session",
@@ -4765,8 +4709,8 @@
           ]
         },
         {
-          "id": "media-21-3023186675011678802",
-          "key": "media-21-3023186675011678802",
+          "id": "media-20-4219379214529231424",
+          "key": "media-20-4219379214529231424",
           "category": "Media",
           "label": "Media",
           "headline": "Baseline Media Targets Premium Entertainment Market With ‘Grown and Sexy’ - Business News Nigeria",
@@ -4781,7 +4725,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 79,
+          "priority_score": 80,
           "key_data": [
             "Baseline Media Targets Premium Entertainment Market With ‘Grown and Sexy’ - Business News Nigeria"
           ],
@@ -4793,7 +4737,7 @@
           ]
         }
       ],
-      "updated_at": "2026-08-26 12:40:21 AM ET"
+      "updated_at": "2026-08-26 01:35:05 AM ET"
     }
   ]
 }
