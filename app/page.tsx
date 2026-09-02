@@ -827,6 +827,19 @@ export default async function Page() {
       <header className="border-b border-purple-900 bg-gradient-to-br from-black via-neutral-950 to-purple-950">
         <div className="mx-auto grid max-w-7xl gap-6 px-5 py-8 lg:grid-cols-[1.2fr_0.8fr]">
           <div>
+            <a
+              href="https://gsrnetwork.io"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Visit GSR Network"
+              className="mb-5 inline-block"
+            >
+              <img
+                src="/gsrnetworklogo.png"
+                alt="GSR Network"
+                className="h-14 w-auto object-contain md:h-16"
+              />
+            </a>
             <p className="text-sm font-black uppercase tracking-wide text-fuchsia-300">
               {SITE.name}
             </p>
