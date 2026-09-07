@@ -23,16 +23,7 @@ const nextConfig: NextConfig = {
       },
     ];
   },
-  async rewrites() {
-    return {
-      beforeFiles: [
-        {
-          source: "/latest_report.json",
-          destination: "/api/report",
-        },
-      ],
-    };
-  },
+
 };
 
 export default nextConfig;
