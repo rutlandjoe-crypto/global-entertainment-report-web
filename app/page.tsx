@@ -3,9 +3,7 @@ import type { ReactNode } from "react";
 import EditorialStandard from "@/components/EditorialStandard";
 import { loadReport } from "@/app/report-data";
 
-export const dynamic = "force-dynamic";
-export const revalidate = 0;
-export const fetchCache = "force-no-store";
+export const revalidate = 300;
 
 type AnyObj = Record<string, unknown>;
 

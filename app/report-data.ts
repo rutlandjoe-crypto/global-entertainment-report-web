@@ -38,8 +38,7 @@ async function readBlobReport(): Promise<ReportData> {
   if (!latest) return {};
 
   const response = await fetch(latest.url, {
-    cache: "no-store",
-    next: { revalidate: 0 },
+    next: { revalidate: 300 },
   });
 
   if (!response.ok) return {};
