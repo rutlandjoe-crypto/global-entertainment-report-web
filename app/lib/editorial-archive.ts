@@ -117,7 +117,7 @@ export function toEditorialItem(item: ReportItem): EditorialItem | null {
 }
 
 export const seededEditorialItems: EditorialItem[] = (
-  report.homepage_cards as ReportItem[]
+  ((report as unknown as { homepage_cards?: ReportItem[] }).homepage_cards ?? [])
 )
   .map(toEditorialItem)
   .filter((item): item is EditorialItem => item !== null);
