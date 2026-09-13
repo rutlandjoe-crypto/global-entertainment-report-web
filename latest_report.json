@@ -5,9 +5,9 @@
   "vertical": "Entertainment",
   "headline": "International Oscar Submissions: Nepal, Singapore, Israel, Romania, South Korea, Chile and More Join the List",
   "snapshot": "Global Entertainment Report accepted 49 real RSS item(s) across 31 checked feed request(s).",
-  "generated_at": "2026-09-13 04:36:37 PM ET",
-  "updated_at": "2026-09-13 04:36:37 PM ET",
-  "published_at": "2026-09-13 04:36:37 PM ET",
+  "generated_at": "2026-09-13 06:56:43 PM ET",
+  "updated_at": "2026-09-13 06:56:43 PM ET",
+  "published_at": "2026-09-13 06:56:43 PM ET",
   "source_mode": "live RSS ingestion",
   "freshness": {
     "max_item_age_hours": 336,
@@ -197,9 +197,9 @@
       "final_url": "https://news.google.com/rss/search?q=entertainment+awards+oscars+emmys+grammys&hl=en-US&gl=US&ceid=US:en",
       "item_count": 74,
       "accepted_count": 2,
-      "rejected_count": 71,
+      "rejected_count": 70,
       "rejection_reasons": {
-        "stale-over-336h": 71
+        "stale-over-336h": 70
       }
     },
     {
@@ -221,8 +221,10 @@
       "final_url": "https://variety.com/v/film/box-office/feed/",
       "item_count": 10,
       "accepted_count": 2,
-      "rejected_count": 0,
-      "rejection_reasons": {}
+      "rejected_count": 1,
+      "rejection_reasons": {
+        "duplicate-story": 1
+      }
     },
     {
       "category": "box_office",
@@ -292,9 +294,9 @@
       "final_url": "https://www.hollywoodreporter.com/feed/",
       "item_count": 10,
       "accepted_count": 2,
-      "rejected_count": 6,
+      "rejected_count": 7,
       "rejection_reasons": {
-        "duplicate-story": 6
+        "duplicate-story": 7
       }
     },
     {
@@ -371,18 +373,18 @@
   "x_handle": "@GlobalSportsRp",
   "key_storylines": [
     "International Oscar Submissions: Nepal, Singapore, Israel, Romania, South Korea, Chile and More Join the List",
-    "'Mr. Irrelevant' Trailer: David Corenswet Plays NFL's John Tuggle In Underdog Biopic About Late NY Giants Player",
-    "Alex Gibney Says He Got \"Nothing Back\" From Elon Musk When Reaching Out After Doc Legal Threat",
+    "'Buddy' Scaring Up Cash & Tattoos, 'Runner' Dashes Out As Indies Crowd Top 10 - Specialty Box Office",
+    "Israel's Culture Minister Threatens to Revoke the Citizenship of 'NAZA' Filmmakers",
     "Movies & Series Launches Expanded Arabic-First Entertainment Discovery Platform for Egypt and MENA - markets.businessinsider.com",
     "Justin Bieber Celebrates 8th Wedding Anniversary With Hailey Bieber: 'New Beginnings'",
-    "Overwatch Devs Confirm That Yes, Tracer Is Still The Game's Mascot",
+    "Diablo 5 Director Confirms Game is Already in Full Production",
     "'On Behalf of My Son' Review: A Strained Brazilian Drama About a Mother's Apology Tour",
-    "Pierce Brosnan Says Next James Bond Could Be \"Someone That None Of Us Know About\"; Tom Ellis Reveals Brosnan Said He'd \"Make A Good Bond\""
+    "'Mr. Irrelevant' Trailer: David Corenswet Plays NFL's John Tuggle In Underdog Biopic About Late NY Giants Player"
   ],
   "live_newsroom": [
     {
-      "id": "film-0-786434610943027848",
-      "key": "film-0-786434610943027848",
+      "id": "film-0-1738722414579530319",
+      "key": "film-0-1738722414579530319",
       "category": "Film",
       "label": "Film",
       "headline": "International Oscar Submissions: Nepal, Singapore, Israel, Romania, South Korea, Chile and More Join the List",
@@ -408,22 +410,22 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-4146773359869706709",
-      "key": "film-10-4146773359869706709",
+      "id": "film-10-5300112990229549713",
+      "key": "film-10-5300112990229549713",
       "category": "Film",
       "label": "Film",
-      "headline": "'Mr. Irrelevant' Trailer: David Corenswet Plays NFL's John Tuggle In Underdog Biopic About Late NY Giants Player",
-      "title": "'Mr. Irrelevant' Trailer: David Corenswet Plays NFL's John Tuggle In Underdog Biopic About Late NY Giants Player",
-      "snapshot": "Although he's used to playing a man of steel, David Corenswet's latest role in Mr. Irrelevant is a classic underdog story. On Sunday, Paramount and Skydance Sports released the trailer for the Jonathan Levine-helmed biopic about the late New York Giants running back, which premieres on Christmas, recounting his fina...",
-      "summary": "Although he's used to playing a man of steel, David Corenswet's latest role in Mr. Irrelevant is a classic underdog story. On Sunday, Paramount and Skydance Sports released the trailer for the Jonathan Levine-helmed biopic about the late New York Giants running back, which premieres on Christmas, recounting his fina...",
-      "url": "https://deadline.com/2026/09/mr-irrelevant-trailer-david-corenswet-ny-giants-1237101028/",
+      "headline": "'Buddy' Scaring Up Cash & Tattoos, 'Runner' Dashes Out As Indies Crowd Top 10 - Specialty Box Office",
+      "title": "'Buddy' Scaring Up Cash & Tattoos, 'Runner' Dashes Out As Indies Crowd Top 10 - Specialty Box Office",
+      "snapshot": "Indies including newcomer Runner and holdover Buddy nabbed five of the top 10 spots at the domestic box office this weekend. If I Go Will They Miss Me had a terrific exclusive opening in L.A., and documentary American Doctor passed $400k. Late-summer original horror-comedy hit Buddy from Roadside Attractions and Sab...",
+      "summary": "Indies including newcomer Runner and holdover Buddy nabbed five of the top 10 spots at the domestic box office this weekend. If I Go Will They Miss Me had a terrific exclusive opening in L.A., and documentary American Doctor passed $400k. Late-summer original horror-comedy hit Buddy from Roadside Attractions and Sab...",
+      "url": "https://deadline.com/2026/09/indie-film-box-office-buddy-comedy-horror-runner-angel-studios-1237101029/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-09-13 04:32:54 PM ET",
+      "published_at": "2026-09-13 05:15:00 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Mr. Irrelevant' Trailer: David Corenswet Plays NFL's John Tuggle In Underdog Biopic About Late NY Giants Player"
+        "'Buddy' Scaring Up Cash & Tattoos, 'Runner' Dashes Out As Indies Crowd Top 10 - Specialty Box Office"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -435,22 +437,22 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-5819753975222553720",
-      "key": "film-22-5819753975222553720",
+      "id": "film-22-5374736264455900329",
+      "key": "film-22-5374736264455900329",
       "category": "Film",
       "label": "Film",
-      "headline": "Alex Gibney Says He Got \"Nothing Back\" From Elon Musk When Reaching Out After Doc Legal Threat",
-      "title": "Alex Gibney Says He Got \"Nothing Back\" From Elon Musk When Reaching Out After Doc Legal Threat",
-      "snapshot": "But Gibney has \"great concern\" Bleecker Street and HBO can bring 'Musk' to audiences, as planned, before Warner Bros. Discovery is acquired by Paramount.",
-      "summary": "But Gibney has \"great concern\" Bleecker Street and HBO can bring 'Musk' to audiences, as planned, before Warner Bros. Discovery is acquired by Paramount.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/alex-gibney-reached-out-elon-musk-tiff-musk-doc-1236699994/",
+      "headline": "Israel's Culture Minister Threatens to Revoke the Citizenship of 'NAZA' Filmmakers",
+      "title": "Israel's Culture Minister Threatens to Revoke the Citizenship of 'NAZA' Filmmakers",
+      "snapshot": "Culture minister Miki Zohar said Yuval Abraham and Rachel Szor's documentary, which details the IDF's alleged systematic targeting and killing of civilians in Gaza, \"constitutes treason.\"",
+      "summary": "Culture minister Miki Zohar said Yuval Abraham and Rachel Szor's documentary, which details the IDF's alleged systematic targeting and killing of civilians in Gaza, \"constitutes treason.\"",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/israeli-culture-minister-threatens-naza-filmmakers-1236700077/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-09-13 04:22:39 PM ET",
+      "published_at": "2026-09-13 06:40:32 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Alex Gibney Says He Got \"Nothing Back\" From Elon Musk When Reaching Out After Doc Legal Threat"
+        "Israel's Culture Minister Threatens to Revoke the Citizenship of 'NAZA' Filmmakers"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -462,8 +464,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-1086257910286591424",
-      "key": "film-32-1086257910286591424",
+      "id": "film-32-7467331337177185392",
+      "key": "film-32-7467331337177185392",
       "category": "Film",
       "label": "Film",
       "headline": "Movies & Series Launches Expanded Arabic-First Entertainment Discovery Platform for Egypt and MENA - markets.businessinsider.com",
@@ -489,8 +491,8 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-7185405452003321775",
-      "key": "music-10-7185405452003321775",
+      "id": "music-10-4636147731994124908",
+      "key": "music-10-4636147731994124908",
       "category": "Music",
       "label": "Music",
       "headline": "Justin Bieber Celebrates 8th Wedding Anniversary With Hailey Bieber: 'New Beginnings'",
@@ -516,22 +518,22 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-1288234590139196121",
-      "key": "gaming-0-1288234590139196121",
+      "id": "gaming-0-1451634289299011845",
+      "key": "gaming-0-1451634289299011845",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Overwatch Devs Confirm That Yes, Tracer Is Still The Game's Mascot",
-      "title": "Overwatch Devs Confirm That Yes, Tracer Is Still The Game's Mascot",
-      "snapshot": "You heard it here first, folks: Tracer is still the face of Overwatch, despite not being featured in many major collaborations or promotional materials as of late.",
-      "summary": "You heard it here first, folks: Tracer is still the face of Overwatch, despite not being featured in many major collaborations or promotional materials as of late.",
-      "url": "https://www.ign.com/articles/overwatch-devs-confirm-that-yes-tracer-is-still-the-games-mascot",
+      "headline": "Diablo 5 Director Confirms Game is Already in Full Production",
+      "title": "Diablo 5 Director Confirms Game is Already in Full Production",
+      "snapshot": "Diablo 5 is officially in full production and coming in 2029. Game Director Joe Shely reveals the sequel will feature more classes, procedural worlds, and jump 100 years into the future.",
+      "summary": "Diablo 5 is officially in full production and coming in 2029. Game Director Joe Shely reveals the sequel will feature more classes, procedural worlds, and jump 100 years into the future.",
+      "url": "https://www.ign.com/articles/diablo-5-director-confirms-game-is-already-in-full-production",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-09-13 03:02:20 PM ET",
+      "published_at": "2026-09-13 05:41:04 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Overwatch Devs Confirm That Yes, Tracer Is Still The Game's Mascot"
+        "Diablo 5 Director Confirms Game is Already in Full Production"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -543,8 +545,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-1439999655659133096",
-      "key": "film-1-1439999655659133096",
+      "id": "film-1-5697971870915405810",
+      "key": "film-1-5697971870915405810",
       "category": "Film",
       "label": "Film",
       "headline": "'On Behalf of My Son' Review: A Strained Brazilian Drama About a Mother's Apology Tour",
@@ -570,22 +572,22 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-8550573168415212147",
-      "key": "film-11-8550573168415212147",
+      "id": "film-11-982390641917694867",
+      "key": "film-11-982390641917694867",
       "category": "Film",
       "label": "Film",
-      "headline": "Pierce Brosnan Says Next James Bond Could Be \"Someone That None Of Us Know About\"; Tom Ellis Reveals Brosnan Said He'd \"Make A Good Bond\"",
-      "title": "Pierce Brosnan Says Next James Bond Could Be \"Someone That None Of Us Know About\"; Tom Ellis Reveals Brosnan Said He'd \"Make A Good Bond\"",
-      "snapshot": "Many suggestions have circulated about who could be the next 007 agent in the James Bond film franchise, and Pierce Brosnan has a new take on where the studio could go. Auditions for the role in the Denis Villeneuve film are already underway and have taken place over the summer, and Brosnan recently said there […]",
-      "summary": "Many suggestions have circulated about who could be the next 007 agent in the James Bond film franchise, and Pierce Brosnan has a new take on where the studio could go. Auditions for the role in the Denis Villeneuve film are already underway and have taken place over the summer, and Brosnan recently said there […]",
-      "url": "https://deadline.com/2026/09/pierce-brosnan-next-james-bond-unknown-tom-ellis-1237100945/",
+      "headline": "'Mr. Irrelevant' Trailer: David Corenswet Plays NFL's John Tuggle In Underdog Biopic About Late NY Giants Player",
+      "title": "'Mr. Irrelevant' Trailer: David Corenswet Plays NFL's John Tuggle In Underdog Biopic About Late NY Giants Player",
+      "snapshot": "Although he's used to playing a man of steel, David Corenswet's latest role in Mr. Irrelevant is a classic underdog story. On Sunday, Paramount and Skydance Sports released the trailer for the Jonathan Levine-helmed biopic about the late New York Giants running back, which premieres on Christmas, recounting his fina...",
+      "summary": "Although he's used to playing a man of steel, David Corenswet's latest role in Mr. Irrelevant is a classic underdog story. On Sunday, Paramount and Skydance Sports released the trailer for the Jonathan Levine-helmed biopic about the late New York Giants running back, which premieres on Christmas, recounting his fina...",
+      "url": "https://deadline.com/2026/09/mr-irrelevant-trailer-david-corenswet-ny-giants-1237101028/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-09-13 03:38:16 PM ET",
+      "published_at": "2026-09-13 04:32:54 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Pierce Brosnan Says Next James Bond Could Be \"Someone That None Of Us Know About\"; Tom Ellis Reveals Brosnan Said He'd \"Make A Good Bond\""
+        "'Mr. Irrelevant' Trailer: David Corenswet Plays NFL's John Tuggle In Underdog Biopic About Late NY Giants Player"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -597,22 +599,22 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-652349773572002463",
-      "key": "film-23-652349773572002463",
+      "id": "film-23-6746324516914104689",
+      "key": "film-23-6746324516914104689",
       "category": "Film",
       "label": "Film",
-      "headline": "Toronto: Seth Rogen Shares Secret to Hollywood Success: \"I Was Lucky Coming Up\"",
-      "title": "Toronto: Seth Rogen Shares Secret to Hollywood Success: \"I Was Lucky Coming Up\"",
-      "snapshot": "The Canadian actor, producer and writer gave a keynote Sunday at the Toronto Film Festival after premiering 'Babies,' directed by Lauren Miller Rogen, on Saturday night.",
-      "summary": "The Canadian actor, producer and writer gave a keynote Sunday at the Toronto Film Festival after premiering 'Babies,' directed by Lauren Miller Rogen, on Saturday night.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/toronto-seth-rogen-secret-hollywood-success-1236699644/",
+      "headline": "Helen Mirren Says 'Ripley' Author Patricia Highsmith Is 'The Most Difficult' Real Person She's Played: \"Very Abrasive\"",
+      "title": "Helen Mirren Says 'Ripley' Author Patricia Highsmith Is 'The Most Difficult' Real Person She's Played: \"Very Abrasive\"",
+      "snapshot": "The Oscar winner has previously played several real-life characters, including Queen Elizabeth II and Cleopatra.",
+      "summary": "The Oscar winner has previously played several real-life characters, including Queen Elizabeth II and Cleopatra.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/helen-mirren-patricia-highsmith-most-difficult-person-tiff-1236700057/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-09-13 01:24:48 PM ET",
+      "published_at": "2026-09-13 05:47:52 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Toronto: Seth Rogen Shares Secret to Hollywood Success: \"I Was Lucky Coming Up\""
+        "Helen Mirren Says 'Ripley' Author Patricia Highsmith Is 'The Most Difficult' Real Person She's Played: \"Very Abrasive\""
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -624,8 +626,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-7224246453625671718",
-      "key": "film-33-7224246453625671718",
+      "id": "film-33-7240354392003651624",
+      "key": "film-33-7240354392003651624",
       "category": "Film",
       "label": "Film",
       "headline": "The best movies we saw at 2026 Toronto Film Festival, ranked - Central Oregon Daily",
@@ -651,8 +653,8 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-3566533667130327674",
-      "key": "music-11-3566533667130327674",
+      "id": "music-11-2234460395031289157",
+      "key": "music-11-2234460395031289157",
       "category": "Music",
       "label": "Music",
       "headline": "Ella Langley's 'Dandelion' Returns to No. 1 on Billboard 200 Albums Chart",
@@ -678,22 +680,22 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-7896634717929910887",
-      "key": "gaming-1-7896634717929910887",
+      "id": "gaming-1-7903821552352545948",
+      "key": "gaming-1-7903821552352545948",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "World of Warcraft: Forever Devs Explain Why the Game Makes WoW 2 Unlikely",
-      "title": "World of Warcraft: Forever Devs Explain Why the Game Makes WoW 2 Unlikely",
-      "snapshot": "World of Warcraft: Forever developers Kris Zierhut and Mike Nuthals detail the game's new features and explain why a WoW 2 sequel is unnecessary.",
-      "summary": "World of Warcraft: Forever developers Kris Zierhut and Mike Nuthals detail the game's new features and explain why a WoW 2 sequel is unnecessary.",
-      "url": "https://www.ign.com/articles/world-of-warcraft-forever-wow-2-unlikely",
+      "headline": "The Witcher 3 Geralt Skin for Diablo 4 Barbarians Revealed - but There's a Catch",
+      "title": "The Witcher 3 Geralt Skin for Diablo 4 Barbarians Revealed - but There's a Catch",
+      "snapshot": "CD Projekt and Blizzard have released a first look at the Geralt-themed Barbarian skin for Diablo 4, but you'll need to preorder The Witcher 3 expansion Songs of the Past on Battle.net to get it.",
+      "summary": "CD Projekt and Blizzard have released a first look at the Geralt-themed Barbarian skin for Diablo 4, but you'll need to preorder The Witcher 3 expansion Songs of the Past on Battle.net to get it.",
+      "url": "https://www.ign.com/articles/the-witcher-3-geralt-skin-for-diablo-4-barbarians-revealed-but-theres-a-catch",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-09-13 02:11:54 PM ET",
+      "published_at": "2026-09-13 04:36:29 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "World of Warcraft: Forever Devs Explain Why the Game Makes WoW 2 Unlikely"
+        "The Witcher 3 Geralt Skin for Diablo 4 Barbarians Revealed - but There's a Catch"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -707,8 +709,8 @@
   ],
   "editor_signals": [
     {
-      "id": "film-2-8092591026351783404",
-      "key": "film-2-8092591026351783404",
+      "id": "film-2-1240687202586054027",
+      "key": "film-2-1240687202586054027",
       "category": "Film",
       "label": "Film",
       "headline": "Courteney Cox Remembers 'Scream' Co-Star Hayden Panettiere: 'She's a Really Wonderful Actor'",
@@ -734,22 +736,22 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-3230074877346017352",
-      "key": "film-12-3230074877346017352",
+      "id": "film-12-4926445949102758248",
+      "key": "film-12-4926445949102758248",
       "category": "Film",
       "label": "Film",
-      "headline": "Mattel Studios Boss Says \"We All Want To See The 'Barbie' Sequel\" But Timing Remains Unclear",
-      "title": "Mattel Studios Boss Says \"We All Want To See The 'Barbie' Sequel\" But Timing Remains Unclear",
-      "snapshot": "Barbie producer and Mattel Studios boss Robbie Brenner talked about a follow-up to the hit live-action movie in a session at the Toronto Film Festival. \"We all want to see the Barbie sequel,\" she told the TIFF crowd. \"I want to see it too. I'm sure at some point, one day, there will be one.\" […]",
-      "summary": "Barbie producer and Mattel Studios boss Robbie Brenner talked about a follow-up to the hit live-action movie in a session at the Toronto Film Festival. \"We all want to see the Barbie sequel,\" she told the TIFF crowd. \"I want to see it too. I'm sure at some point, one day, there will be one.\" […]",
-      "url": "https://deadline.com/2026/09/mattel-studios-boss-wants-to-see-a-barbie-sequel-1237100871/",
+      "headline": "Pierce Brosnan Says Next James Bond Could Be \"Someone That None Of Us Know About\"; Tom Ellis Reveals Brosnan Said He'd \"Make A Good Bond\"",
+      "title": "Pierce Brosnan Says Next James Bond Could Be \"Someone That None Of Us Know About\"; Tom Ellis Reveals Brosnan Said He'd \"Make A Good Bond\"",
+      "snapshot": "Many suggestions have circulated about who could be the next 007 agent in the James Bond film franchise, and Pierce Brosnan has a new take on where the studio could go. Auditions for the role in the Denis Villeneuve film are already underway and have taken place over the summer, and Brosnan recently said there […]",
+      "summary": "Many suggestions have circulated about who could be the next 007 agent in the James Bond film franchise, and Pierce Brosnan has a new take on where the studio could go. Auditions for the role in the Denis Villeneuve film are already underway and have taken place over the summer, and Brosnan recently said there […]",
+      "url": "https://deadline.com/2026/09/pierce-brosnan-next-james-bond-unknown-tom-ellis-1237100945/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-09-13 03:31:12 PM ET",
+      "published_at": "2026-09-13 03:38:16 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Mattel Studios Boss Says \"We All Want To See The 'Barbie' Sequel\" But Timing Remains Unclear"
+        "Pierce Brosnan Says Next James Bond Could Be \"Someone That None Of Us Know About\"; Tom Ellis Reveals Brosnan Said He'd \"Make A Good Bond\""
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -761,22 +763,22 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-5256818475420397048",
-      "key": "film-24-5256818475420397048",
+      "id": "film-24-2479203169600875057",
+      "key": "film-24-2479203169600875057",
       "category": "Film",
       "label": "Film",
-      "headline": "'Practical Magic 2' Summons $30M to End Spider-Man's Streak at No. 1",
-      "title": "'Practical Magic 2' Summons $30M to End Spider-Man's Streak at No. 1",
-      "snapshot": "Sandra Bullock and Nicole Kidman's sequel joined fellow newcomers 'Runner' and 'The Uprising' for the box office frame that was down more than 40 percent from the equivalent 2025 weekend.",
-      "summary": "Sandra Bullock and Nicole Kidman's sequel joined fellow newcomers 'Runner' and 'The Uprising' for the box office frame that was down more than 40 percent from the equivalent 2025 weekend.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/practical-magic-2-box-office-spider-man-domestic-record-1236698853/",
+      "headline": "Alex Gibney Says He Got \"Nothing Back\" From Elon Musk When Reaching Out After Doc Legal Threat",
+      "title": "Alex Gibney Says He Got \"Nothing Back\" From Elon Musk When Reaching Out After Doc Legal Threat",
+      "snapshot": "But Gibney has \"great concern\" that HBO Max may not be able to bring 'Musk' to audiences, as planned, before Warner Bros. Discovery is acquired by the tech barons behind Paramount.",
+      "summary": "But Gibney has \"great concern\" that HBO Max may not be able to bring 'Musk' to audiences, as planned, before Warner Bros. Discovery is acquired by the tech barons behind Paramount.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/alex-gibney-reached-out-elon-musk-tiff-musk-doc-1236699994/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-09-13 12:17:18 PM ET",
+      "published_at": "2026-09-13 04:22:39 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Practical Magic 2' Summons $30M to End Spider-Man's Streak at No. 1"
+        "Alex Gibney Says He Got \"Nothing Back\" From Elon Musk When Reaching Out After Doc Legal Threat"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -788,8 +790,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-8132538620485851991",
-      "key": "film-34-8132538620485851991",
+      "id": "film-34-3844475343813619775",
+      "key": "film-34-3844475343813619775",
       "category": "Film",
       "label": "Film",
       "headline": "9 movies that best capture the mood of 9/11 - Los Angeles Times",
@@ -815,8 +817,8 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-5143525476049161234",
-      "key": "music-12-5143525476049161234",
+      "id": "music-12-6607077515284812054",
+      "key": "music-12-6607077515284812054",
       "category": "Music",
       "label": "Music",
       "headline": "Ariana Grande Gets Stuck in Elevator After Final Eternal Sunshine Show",
@@ -842,22 +844,22 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-3835537180389564011",
-      "key": "gaming-2-3835537180389564011",
+      "id": "gaming-2-7227219792206991380",
+      "key": "gaming-2-7227219792206991380",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "StarCraft Devs Promise New Game Will Definitely Release in 2030",
-      "title": "StarCraft Devs Promise New Game Will Definitely Release in 2030",
-      "snapshot": "We got the chance to speak with the developers of the new StaCcraft game, who explained why they shared such a distant release date and even teased some potential gameplay elements.",
-      "summary": "We got the chance to speak with the developers of the new StaCcraft game, who explained why they shared such a distant release date and even teased some potential gameplay elements.",
-      "url": "https://www.ign.com/articles/starcraft-devs-promise-new-game-will-definitely-release-in-2030",
+      "headline": "'Hell Yes!' - Diablo 4 Dev Team Reacts to the Franchise's New Netflix Show",
+      "title": "'Hell Yes!' - Diablo 4 Dev Team Reacts to the Franchise's New Netflix Show",
+      "snapshot": "Diablo 4's lead developers discuss their excitement for the new Diablo Netflix animated series, the game's Switch 2 port, and Season of Hell's Legacy.",
+      "summary": "Diablo 4's lead developers discuss their excitement for the new Diablo Netflix animated series, the game's Switch 2 port, and Season of Hell's Legacy.",
+      "url": "https://www.ign.com/articles/hdiablo-netflix-series-blizzcon-news-interview",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-09-12 07:08:08 PM ET",
+      "published_at": "2026-09-13 04:04:41 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "StarCraft Devs Promise New Game Will Definitely Release in 2030"
+        "'Hell Yes!' - Diablo 4 Dev Team Reacts to the Franchise's New Netflix Show"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -869,8 +871,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-1551542768092757715",
-      "key": "film-3-1551542768092757715",
+      "id": "film-3-2197367340966727044",
+      "key": "film-3-2197367340966727044",
       "category": "Film",
       "label": "Film",
       "headline": "'Diary of a Mad Old Man' Review: Wayne Wang and Fan Bingbing Unintentionally Find the Boredom in Sex and Death",
@@ -896,22 +898,22 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-3691865581357486881",
-      "key": "film-13-3691865581357486881",
+      "id": "film-13-89604152560819019",
+      "key": "film-13-89604152560819019",
       "category": "Film",
       "label": "Film",
-      "headline": "Jeff Daniels Leading Comedy 'The Reception' About Chaotic Scottish Wedding; Trudie Styler Directing & Beta Launching TIFF Sales",
-      "title": "Jeff Daniels Leading Comedy 'The Reception' About Chaotic Scottish Wedding; Trudie Styler Directing & Beta Launching TIFF Sales",
-      "snapshot": "EXCLUSIVE: Two-time Emmy winner and five-time Golden Globe nominee Jeff Daniels has been set to lead comedy The Reception, about a chaotic Scottish wedding. Trudie Styler is directing for her and Celine Rattray's banner Maven Screen Media and Piers Tempest's Tempo Productions. Beta Cinema is launching international...",
-      "summary": "EXCLUSIVE: Two-time Emmy winner and five-time Golden Globe nominee Jeff Daniels has been set to lead comedy The Reception, about a chaotic Scottish wedding. Trudie Styler is directing for her and Celine Rattray's banner Maven Screen Media and Piers Tempest's Tempo Productions. Beta Cinema is launching international...",
-      "url": "https://deadline.com/2026/09/jeff-daniels-cast-in-comedy-the-reception-scottish-wedding-1237100951/",
+      "headline": "Mattel Studios Boss Says \"We All Want To See The 'Barbie' Sequel\" But Timing Remains Unclear",
+      "title": "Mattel Studios Boss Says \"We All Want To See The 'Barbie' Sequel\" But Timing Remains Unclear",
+      "snapshot": "Barbie producer and Mattel Studios boss Robbie Brenner talked about a follow-up to the hit live-action movie in a session at the Toronto Film Festival. \"We all want to see the Barbie sequel,\" she told the TIFF crowd. \"I want to see it too. I'm sure at some point, one day, there will be one.\" […]",
+      "summary": "Barbie producer and Mattel Studios boss Robbie Brenner talked about a follow-up to the hit live-action movie in a session at the Toronto Film Festival. \"We all want to see the Barbie sequel,\" she told the TIFF crowd. \"I want to see it too. I'm sure at some point, one day, there will be one.\" […]",
+      "url": "https://deadline.com/2026/09/mattel-studios-boss-wants-to-see-a-barbie-sequel-1237100871/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-09-13 03:16:12 PM ET",
+      "published_at": "2026-09-13 03:31:12 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Jeff Daniels Leading Comedy 'The Reception' About Chaotic Scottish Wedding; Trudie Styler Directing & Beta Launching TIFF Sales"
+        "Mattel Studios Boss Says \"We All Want To See The 'Barbie' Sequel\" But Timing Remains Unclear"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -923,22 +925,22 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-6438779822999684501",
-      "key": "film-25-6438779822999684501",
+      "id": "film-25-5204642513281570472",
+      "key": "film-25-5204642513281570472",
       "category": "Film",
       "label": "Film",
-      "headline": "Kaelen Ohm Talks Bringing Inner Extreme Skier to Film Roles: \"I Want to Find the Steeper Hill to Go Down\"",
-      "title": "Kaelen Ohm Talks Bringing Inner Extreme Skier to Film Roles: \"I Want to Find the Steeper Hill to Go Down\"",
-      "snapshot": "Star turns in 'Hit & Run,' 'From' and 'The Betrayers' thriller this year at the Toronto Film Festival have got Ohm onto everyone's call sheets in Canada.",
-      "summary": "Star turns in 'Hit & Run,' 'From' and 'The Betrayers' thriller this year at the Toronto Film Festival have got Ohm onto everyone's call sheets in Canada.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/kaelen-ohm-talks-bringing-inner-extreme-skier-to-film-roles-1236689571/",
+      "headline": "Toronto: Seth Rogen Shares Secret to Hollywood Success: \"I Was Lucky Coming Up\"",
+      "title": "Toronto: Seth Rogen Shares Secret to Hollywood Success: \"I Was Lucky Coming Up\"",
+      "snapshot": "The Canadian actor, producer and writer gave a keynote Sunday at the Toronto Film Festival after premiering 'Babies,' directed by Lauren Miller Rogen, on Saturday night.",
+      "summary": "The Canadian actor, producer and writer gave a keynote Sunday at the Toronto Film Festival after premiering 'Babies,' directed by Lauren Miller Rogen, on Saturday night.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/toronto-seth-rogen-secret-hollywood-success-1236699644/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-09-13 10:30:00 AM ET",
+      "published_at": "2026-09-13 01:24:48 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Kaelen Ohm Talks Bringing Inner Extreme Skier to Film Roles: \"I Want to Find the Steeper Hill to Go Down\""
+        "Toronto: Seth Rogen Shares Secret to Hollywood Success: \"I Was Lucky Coming Up\""
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -950,8 +952,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-2170779966721822549",
-      "key": "film-35-2170779966721822549",
+      "id": "film-35-5272243088091594996",
+      "key": "film-35-5272243088091594996",
       "category": "Film",
       "label": "Film",
       "headline": "AMC Entertainment Creates \"Leawood Films\" With the Aim of Having More Movies Distributed on to the Big Screen - AMC Entertainment Holdings, Inc.",
@@ -977,8 +979,8 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-3576360316866278189",
-      "key": "music-13-3576360316866278189",
+      "id": "music-13-363828761068755124",
+      "key": "music-13-363828761068755124",
       "category": "Music",
       "label": "Music",
       "headline": "Here's Where to Find Tickets to Celine Dion's 2026 Paris Residency Online",
@@ -1004,22 +1006,22 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-5704953551624735440",
-      "key": "gaming-3-5704953551624735440",
+      "id": "gaming-3-7553795939622022826",
+      "key": "gaming-3-7553795939622022826",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Warcraft 3 Reforged: Forsaken Kingdom Review So Far",
-      "title": "Warcraft 3 Reforged: Forsaken Kingdom Review So Far",
-      "snapshot": "A surprise single-player campaign that maintains the feel of classic Warcraft 3 while mixing in some new ideas.",
-      "summary": "A surprise single-player campaign that maintains the feel of classic Warcraft 3 while mixing in some new ideas.",
-      "url": "https://www.ign.com/articles/warcraft-3-forsaken-kingdom-review",
+      "headline": "Overwatch Devs Confirm That Yes, Tracer Is Still The Game's Mascot",
+      "title": "Overwatch Devs Confirm That Yes, Tracer Is Still The Game's Mascot",
+      "snapshot": "You heard it here first, folks: Tracer is still the face of Overwatch, despite not being featured in many major collaborations or promotional materials as of late.",
+      "summary": "You heard it here first, folks: Tracer is still the face of Overwatch, despite not being featured in many major collaborations or promotional materials as of late.",
+      "url": "https://www.ign.com/articles/overwatch-devs-confirm-that-yes-tracer-is-still-the-games-mascot",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-09-12 05:05:26 PM ET",
+      "published_at": "2026-09-13 03:02:20 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Warcraft 3 Reforged: Forsaken Kingdom Review So Far"
+        "Overwatch Devs Confirm That Yes, Tracer Is Still The Game's Mascot"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1033,8 +1035,8 @@
   ],
   "homepage_cards": [
     {
-      "id": "film-0-786434610943027848",
-      "key": "film-0-786434610943027848",
+      "id": "film-0-1738722414579530319",
+      "key": "film-0-1738722414579530319",
       "category": "Film",
       "label": "Film",
       "headline": "International Oscar Submissions: Nepal, Singapore, Israel, Romania, South Korea, Chile and More Join the List",
@@ -1060,22 +1062,22 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-4146773359869706709",
-      "key": "film-10-4146773359869706709",
+      "id": "film-10-5300112990229549713",
+      "key": "film-10-5300112990229549713",
       "category": "Film",
       "label": "Film",
-      "headline": "'Mr. Irrelevant' Trailer: David Corenswet Plays NFL's John Tuggle In Underdog Biopic About Late NY Giants Player",
-      "title": "'Mr. Irrelevant' Trailer: David Corenswet Plays NFL's John Tuggle In Underdog Biopic About Late NY Giants Player",
-      "snapshot": "Although he's used to playing a man of steel, David Corenswet's latest role in Mr. Irrelevant is a classic underdog story. On Sunday, Paramount and Skydance Sports released the trailer for the Jonathan Levine-helmed biopic about the late New York Giants running back, which premieres on Christmas, recounting his fina...",
-      "summary": "Although he's used to playing a man of steel, David Corenswet's latest role in Mr. Irrelevant is a classic underdog story. On Sunday, Paramount and Skydance Sports released the trailer for the Jonathan Levine-helmed biopic about the late New York Giants running back, which premieres on Christmas, recounting his fina...",
-      "url": "https://deadline.com/2026/09/mr-irrelevant-trailer-david-corenswet-ny-giants-1237101028/",
+      "headline": "'Buddy' Scaring Up Cash & Tattoos, 'Runner' Dashes Out As Indies Crowd Top 10 - Specialty Box Office",
+      "title": "'Buddy' Scaring Up Cash & Tattoos, 'Runner' Dashes Out As Indies Crowd Top 10 - Specialty Box Office",
+      "snapshot": "Indies including newcomer Runner and holdover Buddy nabbed five of the top 10 spots at the domestic box office this weekend. If I Go Will They Miss Me had a terrific exclusive opening in L.A., and documentary American Doctor passed $400k. Late-summer original horror-comedy hit Buddy from Roadside Attractions and Sab...",
+      "summary": "Indies including newcomer Runner and holdover Buddy nabbed five of the top 10 spots at the domestic box office this weekend. If I Go Will They Miss Me had a terrific exclusive opening in L.A., and documentary American Doctor passed $400k. Late-summer original horror-comedy hit Buddy from Roadside Attractions and Sab...",
+      "url": "https://deadline.com/2026/09/indie-film-box-office-buddy-comedy-horror-runner-angel-studios-1237101029/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-09-13 04:32:54 PM ET",
+      "published_at": "2026-09-13 05:15:00 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Mr. Irrelevant' Trailer: David Corenswet Plays NFL's John Tuggle In Underdog Biopic About Late NY Giants Player"
+        "'Buddy' Scaring Up Cash & Tattoos, 'Runner' Dashes Out As Indies Crowd Top 10 - Specialty Box Office"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1087,22 +1089,22 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-5819753975222553720",
-      "key": "film-22-5819753975222553720",
+      "id": "film-22-5374736264455900329",
+      "key": "film-22-5374736264455900329",
       "category": "Film",
       "label": "Film",
-      "headline": "Alex Gibney Says He Got \"Nothing Back\" From Elon Musk When Reaching Out After Doc Legal Threat",
-      "title": "Alex Gibney Says He Got \"Nothing Back\" From Elon Musk When Reaching Out After Doc Legal Threat",
-      "snapshot": "But Gibney has \"great concern\" Bleecker Street and HBO can bring 'Musk' to audiences, as planned, before Warner Bros. Discovery is acquired by Paramount.",
-      "summary": "But Gibney has \"great concern\" Bleecker Street and HBO can bring 'Musk' to audiences, as planned, before Warner Bros. Discovery is acquired by Paramount.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/alex-gibney-reached-out-elon-musk-tiff-musk-doc-1236699994/",
+      "headline": "Israel's Culture Minister Threatens to Revoke the Citizenship of 'NAZA' Filmmakers",
+      "title": "Israel's Culture Minister Threatens to Revoke the Citizenship of 'NAZA' Filmmakers",
+      "snapshot": "Culture minister Miki Zohar said Yuval Abraham and Rachel Szor's documentary, which details the IDF's alleged systematic targeting and killing of civilians in Gaza, \"constitutes treason.\"",
+      "summary": "Culture minister Miki Zohar said Yuval Abraham and Rachel Szor's documentary, which details the IDF's alleged systematic targeting and killing of civilians in Gaza, \"constitutes treason.\"",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/israeli-culture-minister-threatens-naza-filmmakers-1236700077/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-09-13 04:22:39 PM ET",
+      "published_at": "2026-09-13 06:40:32 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Alex Gibney Says He Got \"Nothing Back\" From Elon Musk When Reaching Out After Doc Legal Threat"
+        "Israel's Culture Minister Threatens to Revoke the Citizenship of 'NAZA' Filmmakers"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1114,8 +1116,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-1086257910286591424",
-      "key": "film-32-1086257910286591424",
+      "id": "film-32-7467331337177185392",
+      "key": "film-32-7467331337177185392",
       "category": "Film",
       "label": "Film",
       "headline": "Movies & Series Launches Expanded Arabic-First Entertainment Discovery Platform for Egypt and MENA - markets.businessinsider.com",
@@ -1141,8 +1143,8 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-7185405452003321775",
-      "key": "music-10-7185405452003321775",
+      "id": "music-10-4636147731994124908",
+      "key": "music-10-4636147731994124908",
       "category": "Music",
       "label": "Music",
       "headline": "Justin Bieber Celebrates 8th Wedding Anniversary With Hailey Bieber: 'New Beginnings'",
@@ -1168,22 +1170,22 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-0-1288234590139196121",
-      "key": "gaming-0-1288234590139196121",
+      "id": "gaming-0-1451634289299011845",
+      "key": "gaming-0-1451634289299011845",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Overwatch Devs Confirm That Yes, Tracer Is Still The Game's Mascot",
-      "title": "Overwatch Devs Confirm That Yes, Tracer Is Still The Game's Mascot",
-      "snapshot": "You heard it here first, folks: Tracer is still the face of Overwatch, despite not being featured in many major collaborations or promotional materials as of late.",
-      "summary": "You heard it here first, folks: Tracer is still the face of Overwatch, despite not being featured in many major collaborations or promotional materials as of late.",
-      "url": "https://www.ign.com/articles/overwatch-devs-confirm-that-yes-tracer-is-still-the-games-mascot",
+      "headline": "Diablo 5 Director Confirms Game is Already in Full Production",
+      "title": "Diablo 5 Director Confirms Game is Already in Full Production",
+      "snapshot": "Diablo 5 is officially in full production and coming in 2029. Game Director Joe Shely reveals the sequel will feature more classes, procedural worlds, and jump 100 years into the future.",
+      "summary": "Diablo 5 is officially in full production and coming in 2029. Game Director Joe Shely reveals the sequel will feature more classes, procedural worlds, and jump 100 years into the future.",
+      "url": "https://www.ign.com/articles/diablo-5-director-confirms-game-is-already-in-full-production",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-09-13 03:02:20 PM ET",
+      "published_at": "2026-09-13 05:41:04 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Overwatch Devs Confirm That Yes, Tracer Is Still The Game's Mascot"
+        "Diablo 5 Director Confirms Game is Already in Full Production"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1195,8 +1197,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-1439999655659133096",
-      "key": "film-1-1439999655659133096",
+      "id": "film-1-5697971870915405810",
+      "key": "film-1-5697971870915405810",
       "category": "Film",
       "label": "Film",
       "headline": "'On Behalf of My Son' Review: A Strained Brazilian Drama About a Mother's Apology Tour",
@@ -1222,22 +1224,22 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-8550573168415212147",
-      "key": "film-11-8550573168415212147",
+      "id": "film-11-982390641917694867",
+      "key": "film-11-982390641917694867",
       "category": "Film",
       "label": "Film",
-      "headline": "Pierce Brosnan Says Next James Bond Could Be \"Someone That None Of Us Know About\"; Tom Ellis Reveals Brosnan Said He'd \"Make A Good Bond\"",
-      "title": "Pierce Brosnan Says Next James Bond Could Be \"Someone That None Of Us Know About\"; Tom Ellis Reveals Brosnan Said He'd \"Make A Good Bond\"",
-      "snapshot": "Many suggestions have circulated about who could be the next 007 agent in the James Bond film franchise, and Pierce Brosnan has a new take on where the studio could go. Auditions for the role in the Denis Villeneuve film are already underway and have taken place over the summer, and Brosnan recently said there […]",
-      "summary": "Many suggestions have circulated about who could be the next 007 agent in the James Bond film franchise, and Pierce Brosnan has a new take on where the studio could go. Auditions for the role in the Denis Villeneuve film are already underway and have taken place over the summer, and Brosnan recently said there […]",
-      "url": "https://deadline.com/2026/09/pierce-brosnan-next-james-bond-unknown-tom-ellis-1237100945/",
+      "headline": "'Mr. Irrelevant' Trailer: David Corenswet Plays NFL's John Tuggle In Underdog Biopic About Late NY Giants Player",
+      "title": "'Mr. Irrelevant' Trailer: David Corenswet Plays NFL's John Tuggle In Underdog Biopic About Late NY Giants Player",
+      "snapshot": "Although he's used to playing a man of steel, David Corenswet's latest role in Mr. Irrelevant is a classic underdog story. On Sunday, Paramount and Skydance Sports released the trailer for the Jonathan Levine-helmed biopic about the late New York Giants running back, which premieres on Christmas, recounting his fina...",
+      "summary": "Although he's used to playing a man of steel, David Corenswet's latest role in Mr. Irrelevant is a classic underdog story. On Sunday, Paramount and Skydance Sports released the trailer for the Jonathan Levine-helmed biopic about the late New York Giants running back, which premieres on Christmas, recounting his fina...",
+      "url": "https://deadline.com/2026/09/mr-irrelevant-trailer-david-corenswet-ny-giants-1237101028/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-09-13 03:38:16 PM ET",
+      "published_at": "2026-09-13 04:32:54 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Pierce Brosnan Says Next James Bond Could Be \"Someone That None Of Us Know About\"; Tom Ellis Reveals Brosnan Said He'd \"Make A Good Bond\""
+        "'Mr. Irrelevant' Trailer: David Corenswet Plays NFL's John Tuggle In Underdog Biopic About Late NY Giants Player"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1249,22 +1251,22 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-652349773572002463",
-      "key": "film-23-652349773572002463",
+      "id": "film-23-6746324516914104689",
+      "key": "film-23-6746324516914104689",
       "category": "Film",
       "label": "Film",
-      "headline": "Toronto: Seth Rogen Shares Secret to Hollywood Success: \"I Was Lucky Coming Up\"",
-      "title": "Toronto: Seth Rogen Shares Secret to Hollywood Success: \"I Was Lucky Coming Up\"",
-      "snapshot": "The Canadian actor, producer and writer gave a keynote Sunday at the Toronto Film Festival after premiering 'Babies,' directed by Lauren Miller Rogen, on Saturday night.",
-      "summary": "The Canadian actor, producer and writer gave a keynote Sunday at the Toronto Film Festival after premiering 'Babies,' directed by Lauren Miller Rogen, on Saturday night.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/toronto-seth-rogen-secret-hollywood-success-1236699644/",
+      "headline": "Helen Mirren Says 'Ripley' Author Patricia Highsmith Is 'The Most Difficult' Real Person She's Played: \"Very Abrasive\"",
+      "title": "Helen Mirren Says 'Ripley' Author Patricia Highsmith Is 'The Most Difficult' Real Person She's Played: \"Very Abrasive\"",
+      "snapshot": "The Oscar winner has previously played several real-life characters, including Queen Elizabeth II and Cleopatra.",
+      "summary": "The Oscar winner has previously played several real-life characters, including Queen Elizabeth II and Cleopatra.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/helen-mirren-patricia-highsmith-most-difficult-person-tiff-1236700057/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-09-13 01:24:48 PM ET",
+      "published_at": "2026-09-13 05:47:52 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Toronto: Seth Rogen Shares Secret to Hollywood Success: \"I Was Lucky Coming Up\""
+        "Helen Mirren Says 'Ripley' Author Patricia Highsmith Is 'The Most Difficult' Real Person She's Played: \"Very Abrasive\""
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1276,8 +1278,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-7224246453625671718",
-      "key": "film-33-7224246453625671718",
+      "id": "film-33-7240354392003651624",
+      "key": "film-33-7240354392003651624",
       "category": "Film",
       "label": "Film",
       "headline": "The best movies we saw at 2026 Toronto Film Festival, ranked - Central Oregon Daily",
@@ -1303,8 +1305,8 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-3566533667130327674",
-      "key": "music-11-3566533667130327674",
+      "id": "music-11-2234460395031289157",
+      "key": "music-11-2234460395031289157",
       "category": "Music",
       "label": "Music",
       "headline": "Ella Langley's 'Dandelion' Returns to No. 1 on Billboard 200 Albums Chart",
@@ -1330,22 +1332,22 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-1-7896634717929910887",
-      "key": "gaming-1-7896634717929910887",
+      "id": "gaming-1-7903821552352545948",
+      "key": "gaming-1-7903821552352545948",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "World of Warcraft: Forever Devs Explain Why the Game Makes WoW 2 Unlikely",
-      "title": "World of Warcraft: Forever Devs Explain Why the Game Makes WoW 2 Unlikely",
-      "snapshot": "World of Warcraft: Forever developers Kris Zierhut and Mike Nuthals detail the game's new features and explain why a WoW 2 sequel is unnecessary.",
-      "summary": "World of Warcraft: Forever developers Kris Zierhut and Mike Nuthals detail the game's new features and explain why a WoW 2 sequel is unnecessary.",
-      "url": "https://www.ign.com/articles/world-of-warcraft-forever-wow-2-unlikely",
+      "headline": "The Witcher 3 Geralt Skin for Diablo 4 Barbarians Revealed - but There's a Catch",
+      "title": "The Witcher 3 Geralt Skin for Diablo 4 Barbarians Revealed - but There's a Catch",
+      "snapshot": "CD Projekt and Blizzard have released a first look at the Geralt-themed Barbarian skin for Diablo 4, but you'll need to preorder The Witcher 3 expansion Songs of the Past on Battle.net to get it.",
+      "summary": "CD Projekt and Blizzard have released a first look at the Geralt-themed Barbarian skin for Diablo 4, but you'll need to preorder The Witcher 3 expansion Songs of the Past on Battle.net to get it.",
+      "url": "https://www.ign.com/articles/the-witcher-3-geralt-skin-for-diablo-4-barbarians-revealed-but-theres-a-catch",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-09-13 02:11:54 PM ET",
+      "published_at": "2026-09-13 04:36:29 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "World of Warcraft: Forever Devs Explain Why the Game Makes WoW 2 Unlikely"
+        "The Witcher 3 Geralt Skin for Diablo 4 Barbarians Revealed - but There's a Catch"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1357,8 +1359,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-2-8092591026351783404",
-      "key": "film-2-8092591026351783404",
+      "id": "film-2-1240687202586054027",
+      "key": "film-2-1240687202586054027",
       "category": "Film",
       "label": "Film",
       "headline": "Courteney Cox Remembers 'Scream' Co-Star Hayden Panettiere: 'She's a Really Wonderful Actor'",
@@ -1384,22 +1386,22 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-3230074877346017352",
-      "key": "film-12-3230074877346017352",
+      "id": "film-12-4926445949102758248",
+      "key": "film-12-4926445949102758248",
       "category": "Film",
       "label": "Film",
-      "headline": "Mattel Studios Boss Says \"We All Want To See The 'Barbie' Sequel\" But Timing Remains Unclear",
-      "title": "Mattel Studios Boss Says \"We All Want To See The 'Barbie' Sequel\" But Timing Remains Unclear",
-      "snapshot": "Barbie producer and Mattel Studios boss Robbie Brenner talked about a follow-up to the hit live-action movie in a session at the Toronto Film Festival. \"We all want to see the Barbie sequel,\" she told the TIFF crowd. \"I want to see it too. I'm sure at some point, one day, there will be one.\" […]",
-      "summary": "Barbie producer and Mattel Studios boss Robbie Brenner talked about a follow-up to the hit live-action movie in a session at the Toronto Film Festival. \"We all want to see the Barbie sequel,\" she told the TIFF crowd. \"I want to see it too. I'm sure at some point, one day, there will be one.\" […]",
-      "url": "https://deadline.com/2026/09/mattel-studios-boss-wants-to-see-a-barbie-sequel-1237100871/",
+      "headline": "Pierce Brosnan Says Next James Bond Could Be \"Someone That None Of Us Know About\"; Tom Ellis Reveals Brosnan Said He'd \"Make A Good Bond\"",
+      "title": "Pierce Brosnan Says Next James Bond Could Be \"Someone That None Of Us Know About\"; Tom Ellis Reveals Brosnan Said He'd \"Make A Good Bond\"",
+      "snapshot": "Many suggestions have circulated about who could be the next 007 agent in the James Bond film franchise, and Pierce Brosnan has a new take on where the studio could go. Auditions for the role in the Denis Villeneuve film are already underway and have taken place over the summer, and Brosnan recently said there […]",
+      "summary": "Many suggestions have circulated about who could be the next 007 agent in the James Bond film franchise, and Pierce Brosnan has a new take on where the studio could go. Auditions for the role in the Denis Villeneuve film are already underway and have taken place over the summer, and Brosnan recently said there […]",
+      "url": "https://deadline.com/2026/09/pierce-brosnan-next-james-bond-unknown-tom-ellis-1237100945/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-09-13 03:31:12 PM ET",
+      "published_at": "2026-09-13 03:38:16 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Mattel Studios Boss Says \"We All Want To See The 'Barbie' Sequel\" But Timing Remains Unclear"
+        "Pierce Brosnan Says Next James Bond Could Be \"Someone That None Of Us Know About\"; Tom Ellis Reveals Brosnan Said He'd \"Make A Good Bond\""
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1411,22 +1413,22 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-5256818475420397048",
-      "key": "film-24-5256818475420397048",
+      "id": "film-24-2479203169600875057",
+      "key": "film-24-2479203169600875057",
       "category": "Film",
       "label": "Film",
-      "headline": "'Practical Magic 2' Summons $30M to End Spider-Man's Streak at No. 1",
-      "title": "'Practical Magic 2' Summons $30M to End Spider-Man's Streak at No. 1",
-      "snapshot": "Sandra Bullock and Nicole Kidman's sequel joined fellow newcomers 'Runner' and 'The Uprising' for the box office frame that was down more than 40 percent from the equivalent 2025 weekend.",
-      "summary": "Sandra Bullock and Nicole Kidman's sequel joined fellow newcomers 'Runner' and 'The Uprising' for the box office frame that was down more than 40 percent from the equivalent 2025 weekend.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/practical-magic-2-box-office-spider-man-domestic-record-1236698853/",
+      "headline": "Alex Gibney Says He Got \"Nothing Back\" From Elon Musk When Reaching Out After Doc Legal Threat",
+      "title": "Alex Gibney Says He Got \"Nothing Back\" From Elon Musk When Reaching Out After Doc Legal Threat",
+      "snapshot": "But Gibney has \"great concern\" that HBO Max may not be able to bring 'Musk' to audiences, as planned, before Warner Bros. Discovery is acquired by the tech barons behind Paramount.",
+      "summary": "But Gibney has \"great concern\" that HBO Max may not be able to bring 'Musk' to audiences, as planned, before Warner Bros. Discovery is acquired by the tech barons behind Paramount.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/alex-gibney-reached-out-elon-musk-tiff-musk-doc-1236699994/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-09-13 12:17:18 PM ET",
+      "published_at": "2026-09-13 04:22:39 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Practical Magic 2' Summons $30M to End Spider-Man's Streak at No. 1"
+        "Alex Gibney Says He Got \"Nothing Back\" From Elon Musk When Reaching Out After Doc Legal Threat"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1438,8 +1440,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-8132538620485851991",
-      "key": "film-34-8132538620485851991",
+      "id": "film-34-3844475343813619775",
+      "key": "film-34-3844475343813619775",
       "category": "Film",
       "label": "Film",
       "headline": "9 movies that best capture the mood of 9/11 - Los Angeles Times",
@@ -1465,8 +1467,8 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-5143525476049161234",
-      "key": "music-12-5143525476049161234",
+      "id": "music-12-6607077515284812054",
+      "key": "music-12-6607077515284812054",
       "category": "Music",
       "label": "Music",
       "headline": "Ariana Grande Gets Stuck in Elevator After Final Eternal Sunshine Show",
@@ -1492,22 +1494,22 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-2-3835537180389564011",
-      "key": "gaming-2-3835537180389564011",
+      "id": "gaming-2-7227219792206991380",
+      "key": "gaming-2-7227219792206991380",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "StarCraft Devs Promise New Game Will Definitely Release in 2030",
-      "title": "StarCraft Devs Promise New Game Will Definitely Release in 2030",
-      "snapshot": "We got the chance to speak with the developers of the new StaCcraft game, who explained why they shared such a distant release date and even teased some potential gameplay elements.",
-      "summary": "We got the chance to speak with the developers of the new StaCcraft game, who explained why they shared such a distant release date and even teased some potential gameplay elements.",
-      "url": "https://www.ign.com/articles/starcraft-devs-promise-new-game-will-definitely-release-in-2030",
+      "headline": "'Hell Yes!' - Diablo 4 Dev Team Reacts to the Franchise's New Netflix Show",
+      "title": "'Hell Yes!' - Diablo 4 Dev Team Reacts to the Franchise's New Netflix Show",
+      "snapshot": "Diablo 4's lead developers discuss their excitement for the new Diablo Netflix animated series, the game's Switch 2 port, and Season of Hell's Legacy.",
+      "summary": "Diablo 4's lead developers discuss their excitement for the new Diablo Netflix animated series, the game's Switch 2 port, and Season of Hell's Legacy.",
+      "url": "https://www.ign.com/articles/hdiablo-netflix-series-blizzcon-news-interview",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-09-12 07:08:08 PM ET",
+      "published_at": "2026-09-13 04:04:41 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "StarCraft Devs Promise New Game Will Definitely Release in 2030"
+        "'Hell Yes!' - Diablo 4 Dev Team Reacts to the Franchise's New Netflix Show"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1519,8 +1521,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-1551542768092757715",
-      "key": "film-3-1551542768092757715",
+      "id": "film-3-2197367340966727044",
+      "key": "film-3-2197367340966727044",
       "category": "Film",
       "label": "Film",
       "headline": "'Diary of a Mad Old Man' Review: Wayne Wang and Fan Bingbing Unintentionally Find the Boredom in Sex and Death",
@@ -1546,22 +1548,22 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-3691865581357486881",
-      "key": "film-13-3691865581357486881",
+      "id": "film-13-89604152560819019",
+      "key": "film-13-89604152560819019",
       "category": "Film",
       "label": "Film",
-      "headline": "Jeff Daniels Leading Comedy 'The Reception' About Chaotic Scottish Wedding; Trudie Styler Directing & Beta Launching TIFF Sales",
-      "title": "Jeff Daniels Leading Comedy 'The Reception' About Chaotic Scottish Wedding; Trudie Styler Directing & Beta Launching TIFF Sales",
-      "snapshot": "EXCLUSIVE: Two-time Emmy winner and five-time Golden Globe nominee Jeff Daniels has been set to lead comedy The Reception, about a chaotic Scottish wedding. Trudie Styler is directing for her and Celine Rattray's banner Maven Screen Media and Piers Tempest's Tempo Productions. Beta Cinema is launching international...",
-      "summary": "EXCLUSIVE: Two-time Emmy winner and five-time Golden Globe nominee Jeff Daniels has been set to lead comedy The Reception, about a chaotic Scottish wedding. Trudie Styler is directing for her and Celine Rattray's banner Maven Screen Media and Piers Tempest's Tempo Productions. Beta Cinema is launching international...",
-      "url": "https://deadline.com/2026/09/jeff-daniels-cast-in-comedy-the-reception-scottish-wedding-1237100951/",
+      "headline": "Mattel Studios Boss Says \"We All Want To See The 'Barbie' Sequel\" But Timing Remains Unclear",
+      "title": "Mattel Studios Boss Says \"We All Want To See The 'Barbie' Sequel\" But Timing Remains Unclear",
+      "snapshot": "Barbie producer and Mattel Studios boss Robbie Brenner talked about a follow-up to the hit live-action movie in a session at the Toronto Film Festival. \"We all want to see the Barbie sequel,\" she told the TIFF crowd. \"I want to see it too. I'm sure at some point, one day, there will be one.\" […]",
+      "summary": "Barbie producer and Mattel Studios boss Robbie Brenner talked about a follow-up to the hit live-action movie in a session at the Toronto Film Festival. \"We all want to see the Barbie sequel,\" she told the TIFF crowd. \"I want to see it too. I'm sure at some point, one day, there will be one.\" […]",
+      "url": "https://deadline.com/2026/09/mattel-studios-boss-wants-to-see-a-barbie-sequel-1237100871/",
       "source": "Deadline",
       "source_name": "Deadline",
       "source_feed": "https://deadline.com/v/film/feed/",
-      "published_at": "2026-09-13 03:16:12 PM ET",
+      "published_at": "2026-09-13 03:31:12 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Jeff Daniels Leading Comedy 'The Reception' About Chaotic Scottish Wedding; Trudie Styler Directing & Beta Launching TIFF Sales"
+        "Mattel Studios Boss Says \"We All Want To See The 'Barbie' Sequel\" But Timing Remains Unclear"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1573,22 +1575,22 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-6438779822999684501",
-      "key": "film-25-6438779822999684501",
+      "id": "film-25-5204642513281570472",
+      "key": "film-25-5204642513281570472",
       "category": "Film",
       "label": "Film",
-      "headline": "Kaelen Ohm Talks Bringing Inner Extreme Skier to Film Roles: \"I Want to Find the Steeper Hill to Go Down\"",
-      "title": "Kaelen Ohm Talks Bringing Inner Extreme Skier to Film Roles: \"I Want to Find the Steeper Hill to Go Down\"",
-      "snapshot": "Star turns in 'Hit & Run,' 'From' and 'The Betrayers' thriller this year at the Toronto Film Festival have got Ohm onto everyone's call sheets in Canada.",
-      "summary": "Star turns in 'Hit & Run,' 'From' and 'The Betrayers' thriller this year at the Toronto Film Festival have got Ohm onto everyone's call sheets in Canada.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/kaelen-ohm-talks-bringing-inner-extreme-skier-to-film-roles-1236689571/",
+      "headline": "Toronto: Seth Rogen Shares Secret to Hollywood Success: \"I Was Lucky Coming Up\"",
+      "title": "Toronto: Seth Rogen Shares Secret to Hollywood Success: \"I Was Lucky Coming Up\"",
+      "snapshot": "The Canadian actor, producer and writer gave a keynote Sunday at the Toronto Film Festival after premiering 'Babies,' directed by Lauren Miller Rogen, on Saturday night.",
+      "summary": "The Canadian actor, producer and writer gave a keynote Sunday at the Toronto Film Festival after premiering 'Babies,' directed by Lauren Miller Rogen, on Saturday night.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/toronto-seth-rogen-secret-hollywood-success-1236699644/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-09-13 10:30:00 AM ET",
+      "published_at": "2026-09-13 01:24:48 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Kaelen Ohm Talks Bringing Inner Extreme Skier to Film Roles: \"I Want to Find the Steeper Hill to Go Down\""
+        "Toronto: Seth Rogen Shares Secret to Hollywood Success: \"I Was Lucky Coming Up\""
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1600,8 +1602,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-2170779966721822549",
-      "key": "film-35-2170779966721822549",
+      "id": "film-35-5272243088091594996",
+      "key": "film-35-5272243088091594996",
       "category": "Film",
       "label": "Film",
       "headline": "AMC Entertainment Creates \"Leawood Films\" With the Aim of Having More Movies Distributed on to the Big Screen - AMC Entertainment Holdings, Inc.",
@@ -1627,8 +1629,8 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-3576360316866278189",
-      "key": "music-13-3576360316866278189",
+      "id": "music-13-363828761068755124",
+      "key": "music-13-363828761068755124",
       "category": "Music",
       "label": "Music",
       "headline": "Here's Where to Find Tickets to Celine Dion's 2026 Paris Residency Online",
@@ -1654,22 +1656,22 @@
       "priority_score": 87
     },
     {
-      "id": "gaming-3-5704953551624735440",
-      "key": "gaming-3-5704953551624735440",
+      "id": "gaming-3-7553795939622022826",
+      "key": "gaming-3-7553795939622022826",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Warcraft 3 Reforged: Forsaken Kingdom Review So Far",
-      "title": "Warcraft 3 Reforged: Forsaken Kingdom Review So Far",
-      "snapshot": "A surprise single-player campaign that maintains the feel of classic Warcraft 3 while mixing in some new ideas.",
-      "summary": "A surprise single-player campaign that maintains the feel of classic Warcraft 3 while mixing in some new ideas.",
-      "url": "https://www.ign.com/articles/warcraft-3-forsaken-kingdom-review",
+      "headline": "Overwatch Devs Confirm That Yes, Tracer Is Still The Game's Mascot",
+      "title": "Overwatch Devs Confirm That Yes, Tracer Is Still The Game's Mascot",
+      "snapshot": "You heard it here first, folks: Tracer is still the face of Overwatch, despite not being featured in many major collaborations or promotional materials as of late.",
+      "summary": "You heard it here first, folks: Tracer is still the face of Overwatch, despite not being featured in many major collaborations or promotional materials as of late.",
+      "url": "https://www.ign.com/articles/overwatch-devs-confirm-that-yes-tracer-is-still-the-games-mascot",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-09-12 05:05:26 PM ET",
+      "published_at": "2026-09-13 03:02:20 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Warcraft 3 Reforged: Forsaken Kingdom Review So Far"
+        "Overwatch Devs Confirm That Yes, Tracer Is Still The Game's Mascot"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1690,25 +1692,25 @@
       "snapshot": "Film coverage is updating with 8 current RSS headline item(s).",
       "key_storylines": [
         "International Oscar Submissions: Nepal, Singapore, Israel, Romania, South Korea, Chile and More Join the List",
-        "‘Mr. Irrelevant’ Trailer: David Corenswet Plays NFL’s John Tuggle In Underdog Biopic About Late NY Giants Player",
-        "Alex Gibney Says He Got “Nothing Back” From Elon Musk When Reaching Out After Doc Legal Threat",
+        "‘Buddy’ Scaring Up Cash & Tattoos, ‘Runner’ Dashes Out As Indies Crowd Top 10 – Specialty Box Office",
+        "Israel’s Culture Minister Threatens to Revoke the Citizenship of ‘NAZA’ Filmmakers",
         "Movies & Series Launches Expanded Arabic-First Entertainment Discovery Platform for Egypt and MENA - markets.businessinsider.com",
         "‘On Behalf of My Son’ Review: A Strained Brazilian Drama About a Mother’s Apology Tour"
       ],
       "watch_list": [
         "International Oscar Submissions: Nepal, Singapore, Israel, Romania, South Korea, Chile and More Join the List",
-        "‘Mr. Irrelevant’ Trailer: David Corenswet Plays NFL’s John Tuggle In Underdog Biopic About Late NY Giants Player",
-        "Alex Gibney Says He Got “Nothing Back” From Elon Musk When Reaching Out After Doc Legal Threat",
+        "‘Buddy’ Scaring Up Cash & Tattoos, ‘Runner’ Dashes Out As Indies Crowd Top 10 – Specialty Box Office",
+        "Israel’s Culture Minister Threatens to Revoke the Citizenship of ‘NAZA’ Filmmakers",
         "Movies & Series Launches Expanded Arabic-First Entertainment Discovery Platform for Egypt and MENA - markets.businessinsider.com",
         "‘On Behalf of My Son’ Review: A Strained Brazilian Drama About a Mother’s Apology Tour",
-        "Pierce Brosnan Says Next James Bond Could Be “Someone That None Of Us Know About”; Tom Ellis Reveals Brosnan Said He’d “Make A Good Bond”",
-        "Toronto: Seth Rogen Shares Secret to Hollywood Success: “I Was Lucky Coming Up”",
+        "‘Mr. Irrelevant’ Trailer: David Corenswet Plays NFL’s John Tuggle In Underdog Biopic About Late NY Giants Player",
+        "Helen Mirren Says ‘Ripley’ Author Patricia Highsmith Is ‘The Most Difficult’ Real Person She’s Played: “Very Abrasive”",
         "The best movies we saw at 2026 Toronto Film Festival, ranked - Central Oregon Daily"
       ],
       "homepage_cards": [
         {
-          "id": "film-0-786434610943027848",
-          "key": "film-0-786434610943027848",
+          "id": "film-0-1738722414579530319",
+          "key": "film-0-1738722414579530319",
           "category": "Film",
           "label": "Film",
           "headline": "International Oscar Submissions: Nepal, Singapore, Israel, Romania, South Korea, Chile and More Join the List",
@@ -1735,25 +1737,25 @@
           ]
         },
         {
-          "id": "film-10-4146773359869706709",
-          "key": "film-10-4146773359869706709",
+          "id": "film-10-5300112990229549713",
+          "key": "film-10-5300112990229549713",
           "category": "Film",
           "label": "Film",
-          "headline": "‘Mr. Irrelevant’ Trailer: David Corenswet Plays NFL’s John Tuggle In Underdog Biopic About Late NY Giants Player",
-          "title": "‘Mr. Irrelevant’ Trailer: David Corenswet Plays NFL’s John Tuggle In Underdog Biopic About Late NY Giants Player",
-          "snapshot": "Although he’s used to playing a man of steel, David Corenswet’s latest role in Mr. Irrelevant is a classic underdog story. On Sunday, Paramount and Skydance Sports released the trailer for the Jonathan Levine-helmed biopic about the late New York Giants running back, which premieres on Christmas, recounting his fina...",
-          "summary": "Although he’s used to playing a man of steel, David Corenswet’s latest role in Mr. Irrelevant is a classic underdog story. On Sunday, Paramount and Skydance Sports released the trailer for the Jonathan Levine-helmed biopic about the late New York Giants running back, which premieres on Christmas, recounting his fina...",
-          "url": "https://deadline.com/2026/09/mr-irrelevant-trailer-david-corenswet-ny-giants-1237101028/",
+          "headline": "‘Buddy’ Scaring Up Cash & Tattoos, ‘Runner’ Dashes Out As Indies Crowd Top 10 – Specialty Box Office",
+          "title": "‘Buddy’ Scaring Up Cash & Tattoos, ‘Runner’ Dashes Out As Indies Crowd Top 10 – Specialty Box Office",
+          "snapshot": "Indies including newcomer Runner and holdover Buddy nabbed five of the top 10 spots at the domestic box office this weekend. If I Go Will They Miss Me had a terrific exclusive opening in L.A., and documentary American Doctor passed $400k. Late-summer original horror-comedy hit Buddy from Roadside Attractions and Sab...",
+          "summary": "Indies including newcomer Runner and holdover Buddy nabbed five of the top 10 spots at the domestic box office this weekend. If I Go Will They Miss Me had a terrific exclusive opening in L.A., and documentary American Doctor passed $400k. Late-summer original horror-comedy hit Buddy from Roadside Attractions and Sab...",
+          "url": "https://deadline.com/2026/09/indie-film-box-office-buddy-comedy-horror-runner-angel-studios-1237101029/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/film/feed/",
-          "published_at": "2026-09-13 04:32:54 PM ET",
+          "published_at": "2026-09-13 05:15:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "‘Mr. Irrelevant’ Trailer: David Corenswet Plays NFL’s John Tuggle In Underdog Biopic About Late NY Giants Player"
+            "‘Buddy’ Scaring Up Cash & Tattoos, ‘Runner’ Dashes Out As Indies Crowd Top 10 – Specialty Box Office"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1763,25 +1765,25 @@
           ]
         },
         {
-          "id": "film-22-5819753975222553720",
-          "key": "film-22-5819753975222553720",
+          "id": "film-22-5374736264455900329",
+          "key": "film-22-5374736264455900329",
           "category": "Film",
           "label": "Film",
-          "headline": "Alex Gibney Says He Got “Nothing Back” From Elon Musk When Reaching Out After Doc Legal Threat",
-          "title": "Alex Gibney Says He Got “Nothing Back” From Elon Musk When Reaching Out After Doc Legal Threat",
-          "snapshot": "But Gibney has \"great concern\" Bleecker Street and HBO can bring 'Musk' to audiences, as planned, before Warner Bros. Discovery is acquired by Paramount.",
-          "summary": "But Gibney has \"great concern\" Bleecker Street and HBO can bring 'Musk' to audiences, as planned, before Warner Bros. Discovery is acquired by Paramount.",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/alex-gibney-reached-out-elon-musk-tiff-musk-doc-1236699994/",
+          "headline": "Israel’s Culture Minister Threatens to Revoke the Citizenship of ‘NAZA’ Filmmakers",
+          "title": "Israel’s Culture Minister Threatens to Revoke the Citizenship of ‘NAZA’ Filmmakers",
+          "snapshot": "Culture minister Miki Zohar said Yuval Abraham and Rachel Szor's documentary, which details the IDF's alleged systematic targeting and killing of civilians in Gaza, “constitutes treason.”",
+          "summary": "Culture minister Miki Zohar said Yuval Abraham and Rachel Szor's documentary, which details the IDF's alleged systematic targeting and killing of civilians in Gaza, “constitutes treason.”",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/israeli-culture-minister-threatens-naza-filmmakers-1236700077/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-          "published_at": "2026-09-13 04:22:39 PM ET",
+          "published_at": "2026-09-13 06:40:32 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 78,
           "key_data": [
-            "Alex Gibney Says He Got “Nothing Back” From Elon Musk When Reaching Out After Doc Legal Threat"
+            "Israel’s Culture Minister Threatens to Revoke the Citizenship of ‘NAZA’ Filmmakers"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1791,8 +1793,8 @@
           ]
         },
         {
-          "id": "film-32-1086257910286591424",
-          "key": "film-32-1086257910286591424",
+          "id": "film-32-7467331337177185392",
+          "key": "film-32-7467331337177185392",
           "category": "Film",
           "label": "Film",
           "headline": "Movies & Series Launches Expanded Arabic-First Entertainment Discovery Platform for Egypt and MENA - markets.businessinsider.com",
@@ -1819,8 +1821,8 @@
           ]
         },
         {
-          "id": "film-1-1439999655659133096",
-          "key": "film-1-1439999655659133096",
+          "id": "film-1-5697971870915405810",
+          "key": "film-1-5697971870915405810",
           "category": "Film",
           "label": "Film",
           "headline": "‘On Behalf of My Son’ Review: A Strained Brazilian Drama About a Mother’s Apology Tour",
@@ -1847,25 +1849,25 @@
           ]
         },
         {
-          "id": "film-11-8550573168415212147",
-          "key": "film-11-8550573168415212147",
+          "id": "film-11-982390641917694867",
+          "key": "film-11-982390641917694867",
           "category": "Film",
           "label": "Film",
-          "headline": "Pierce Brosnan Says Next James Bond Could Be “Someone That None Of Us Know About”; Tom Ellis Reveals Brosnan Said He’d “Make A Good Bond”",
-          "title": "Pierce Brosnan Says Next James Bond Could Be “Someone That None Of Us Know About”; Tom Ellis Reveals Brosnan Said He’d “Make A Good Bond”",
-          "snapshot": "Many suggestions have circulated about who could be the next 007 agent in the James Bond film franchise, and Pierce Brosnan has a new take on where the studio could go. Auditions for the role in the Denis Villeneuve film are already underway and have taken place over the summer, and Brosnan recently said there […]",
-          "summary": "Many suggestions have circulated about who could be the next 007 agent in the James Bond film franchise, and Pierce Brosnan has a new take on where the studio could go. Auditions for the role in the Denis Villeneuve film are already underway and have taken place over the summer, and Brosnan recently said there […]",
-          "url": "https://deadline.com/2026/09/pierce-brosnan-next-james-bond-unknown-tom-ellis-1237100945/",
+          "headline": "‘Mr. Irrelevant’ Trailer: David Corenswet Plays NFL’s John Tuggle In Underdog Biopic About Late NY Giants Player",
+          "title": "‘Mr. Irrelevant’ Trailer: David Corenswet Plays NFL’s John Tuggle In Underdog Biopic About Late NY Giants Player",
+          "snapshot": "Although he’s used to playing a man of steel, David Corenswet’s latest role in Mr. Irrelevant is a classic underdog story. On Sunday, Paramount and Skydance Sports released the trailer for the Jonathan Levine-helmed biopic about the late New York Giants running back, which premieres on Christmas, recounting his fina...",
+          "summary": "Although he’s used to playing a man of steel, David Corenswet’s latest role in Mr. Irrelevant is a classic underdog story. On Sunday, Paramount and Skydance Sports released the trailer for the Jonathan Levine-helmed biopic about the late New York Giants running back, which premieres on Christmas, recounting his fina...",
+          "url": "https://deadline.com/2026/09/mr-irrelevant-trailer-david-corenswet-ny-giants-1237101028/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/film/feed/",
-          "published_at": "2026-09-13 03:38:16 PM ET",
+          "published_at": "2026-09-13 04:32:54 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "Pierce Brosnan Says Next James Bond Could Be “Someone That None Of Us Know About”; Tom Ellis Reveals Brosnan Said He’d “Make A Good Bond”"
+            "‘Mr. Irrelevant’ Trailer: David Corenswet Plays NFL’s John Tuggle In Underdog Biopic About Late NY Giants Player"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1875,25 +1877,25 @@
           ]
         },
         {
-          "id": "film-23-652349773572002463",
-          "key": "film-23-652349773572002463",
+          "id": "film-23-6746324516914104689",
+          "key": "film-23-6746324516914104689",
           "category": "Film",
           "label": "Film",
-          "headline": "Toronto: Seth Rogen Shares Secret to Hollywood Success: “I Was Lucky Coming Up”",
-          "title": "Toronto: Seth Rogen Shares Secret to Hollywood Success: “I Was Lucky Coming Up”",
-          "snapshot": "The Canadian actor, producer and writer gave a keynote Sunday at the Toronto Film Festival after premiering 'Babies,' directed by Lauren Miller Rogen, on Saturday night.",
-          "summary": "The Canadian actor, producer and writer gave a keynote Sunday at the Toronto Film Festival after premiering 'Babies,' directed by Lauren Miller Rogen, on Saturday night.",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/toronto-seth-rogen-secret-hollywood-success-1236699644/",
+          "headline": "Helen Mirren Says ‘Ripley’ Author Patricia Highsmith Is ‘The Most Difficult’ Real Person She’s Played: “Very Abrasive”",
+          "title": "Helen Mirren Says ‘Ripley’ Author Patricia Highsmith Is ‘The Most Difficult’ Real Person She’s Played: “Very Abrasive”",
+          "snapshot": "The Oscar winner has previously played several real-life characters, including Queen Elizabeth II and Cleopatra.",
+          "summary": "The Oscar winner has previously played several real-life characters, including Queen Elizabeth II and Cleopatra.",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/helen-mirren-patricia-highsmith-most-difficult-person-tiff-1236700057/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-          "published_at": "2026-09-13 01:24:48 PM ET",
+          "published_at": "2026-09-13 05:47:52 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 77,
           "key_data": [
-            "Toronto: Seth Rogen Shares Secret to Hollywood Success: “I Was Lucky Coming Up”"
+            "Helen Mirren Says ‘Ripley’ Author Patricia Highsmith Is ‘The Most Difficult’ Real Person She’s Played: “Very Abrasive”"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1903,8 +1905,8 @@
           ]
         },
         {
-          "id": "film-33-7224246453625671718",
-          "key": "film-33-7224246453625671718",
+          "id": "film-33-7240354392003651624",
+          "key": "film-33-7240354392003651624",
           "category": "Film",
           "label": "Film",
           "headline": "The best movies we saw at 2026 Toronto Film Festival, ranked - Central Oregon Daily",
@@ -1933,8 +1935,8 @@
       ],
       "items": [
         {
-          "id": "film-0-786434610943027848",
-          "key": "film-0-786434610943027848",
+          "id": "film-0-1738722414579530319",
+          "key": "film-0-1738722414579530319",
           "category": "Film",
           "label": "Film",
           "headline": "International Oscar Submissions: Nepal, Singapore, Israel, Romania, South Korea, Chile and More Join the List",
@@ -1961,25 +1963,25 @@
           ]
         },
         {
-          "id": "film-10-4146773359869706709",
-          "key": "film-10-4146773359869706709",
+          "id": "film-10-5300112990229549713",
+          "key": "film-10-5300112990229549713",
           "category": "Film",
           "label": "Film",
-          "headline": "‘Mr. Irrelevant’ Trailer: David Corenswet Plays NFL’s John Tuggle In Underdog Biopic About Late NY Giants Player",
-          "title": "‘Mr. Irrelevant’ Trailer: David Corenswet Plays NFL’s John Tuggle In Underdog Biopic About Late NY Giants Player",
-          "snapshot": "Although he’s used to playing a man of steel, David Corenswet’s latest role in Mr. Irrelevant is a classic underdog story. On Sunday, Paramount and Skydance Sports released the trailer for the Jonathan Levine-helmed biopic about the late New York Giants running back, which premieres on Christmas, recounting his fina...",
-          "summary": "Although he’s used to playing a man of steel, David Corenswet’s latest role in Mr. Irrelevant is a classic underdog story. On Sunday, Paramount and Skydance Sports released the trailer for the Jonathan Levine-helmed biopic about the late New York Giants running back, which premieres on Christmas, recounting his fina...",
-          "url": "https://deadline.com/2026/09/mr-irrelevant-trailer-david-corenswet-ny-giants-1237101028/",
+          "headline": "‘Buddy’ Scaring Up Cash & Tattoos, ‘Runner’ Dashes Out As Indies Crowd Top 10 – Specialty Box Office",
+          "title": "‘Buddy’ Scaring Up Cash & Tattoos, ‘Runner’ Dashes Out As Indies Crowd Top 10 – Specialty Box Office",
+          "snapshot": "Indies including newcomer Runner and holdover Buddy nabbed five of the top 10 spots at the domestic box office this weekend. If I Go Will They Miss Me had a terrific exclusive opening in L.A., and documentary American Doctor passed $400k. Late-summer original horror-comedy hit Buddy from Roadside Attractions and Sab...",
+          "summary": "Indies including newcomer Runner and holdover Buddy nabbed five of the top 10 spots at the domestic box office this weekend. If I Go Will They Miss Me had a terrific exclusive opening in L.A., and documentary American Doctor passed $400k. Late-summer original horror-comedy hit Buddy from Roadside Attractions and Sab...",
+          "url": "https://deadline.com/2026/09/indie-film-box-office-buddy-comedy-horror-runner-angel-studios-1237101029/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/film/feed/",
-          "published_at": "2026-09-13 04:32:54 PM ET",
+          "published_at": "2026-09-13 05:15:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 90,
           "key_data": [
-            "‘Mr. Irrelevant’ Trailer: David Corenswet Plays NFL’s John Tuggle In Underdog Biopic About Late NY Giants Player"
+            "‘Buddy’ Scaring Up Cash & Tattoos, ‘Runner’ Dashes Out As Indies Crowd Top 10 – Specialty Box Office"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1989,25 +1991,25 @@
           ]
         },
         {
-          "id": "film-22-5819753975222553720",
-          "key": "film-22-5819753975222553720",
+          "id": "film-22-5374736264455900329",
+          "key": "film-22-5374736264455900329",
           "category": "Film",
           "label": "Film",
-          "headline": "Alex Gibney Says He Got “Nothing Back” From Elon Musk When Reaching Out After Doc Legal Threat",
-          "title": "Alex Gibney Says He Got “Nothing Back” From Elon Musk When Reaching Out After Doc Legal Threat",
-          "snapshot": "But Gibney has \"great concern\" Bleecker Street and HBO can bring 'Musk' to audiences, as planned, before Warner Bros. Discovery is acquired by Paramount.",
-          "summary": "But Gibney has \"great concern\" Bleecker Street and HBO can bring 'Musk' to audiences, as planned, before Warner Bros. Discovery is acquired by Paramount.",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/alex-gibney-reached-out-elon-musk-tiff-musk-doc-1236699994/",
+          "headline": "Israel’s Culture Minister Threatens to Revoke the Citizenship of ‘NAZA’ Filmmakers",
+          "title": "Israel’s Culture Minister Threatens to Revoke the Citizenship of ‘NAZA’ Filmmakers",
+          "snapshot": "Culture minister Miki Zohar said Yuval Abraham and Rachel Szor's documentary, which details the IDF's alleged systematic targeting and killing of civilians in Gaza, “constitutes treason.”",
+          "summary": "Culture minister Miki Zohar said Yuval Abraham and Rachel Szor's documentary, which details the IDF's alleged systematic targeting and killing of civilians in Gaza, “constitutes treason.”",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/israeli-culture-minister-threatens-naza-filmmakers-1236700077/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-          "published_at": "2026-09-13 04:22:39 PM ET",
+          "published_at": "2026-09-13 06:40:32 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 78,
           "key_data": [
-            "Alex Gibney Says He Got “Nothing Back” From Elon Musk When Reaching Out After Doc Legal Threat"
+            "Israel’s Culture Minister Threatens to Revoke the Citizenship of ‘NAZA’ Filmmakers"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2017,8 +2019,8 @@
           ]
         },
         {
-          "id": "film-32-1086257910286591424",
-          "key": "film-32-1086257910286591424",
+          "id": "film-32-7467331337177185392",
+          "key": "film-32-7467331337177185392",
           "category": "Film",
           "label": "Film",
           "headline": "Movies & Series Launches Expanded Arabic-First Entertainment Discovery Platform for Egypt and MENA - markets.businessinsider.com",
@@ -2045,8 +2047,8 @@
           ]
         },
         {
-          "id": "film-1-1439999655659133096",
-          "key": "film-1-1439999655659133096",
+          "id": "film-1-5697971870915405810",
+          "key": "film-1-5697971870915405810",
           "category": "Film",
           "label": "Film",
           "headline": "‘On Behalf of My Son’ Review: A Strained Brazilian Drama About a Mother’s Apology Tour",
@@ -2073,25 +2075,25 @@
           ]
         },
         {
-          "id": "film-11-8550573168415212147",
-          "key": "film-11-8550573168415212147",
+          "id": "film-11-982390641917694867",
+          "key": "film-11-982390641917694867",
           "category": "Film",
           "label": "Film",
-          "headline": "Pierce Brosnan Says Next James Bond Could Be “Someone That None Of Us Know About”; Tom Ellis Reveals Brosnan Said He’d “Make A Good Bond”",
-          "title": "Pierce Brosnan Says Next James Bond Could Be “Someone That None Of Us Know About”; Tom Ellis Reveals Brosnan Said He’d “Make A Good Bond”",
-          "snapshot": "Many suggestions have circulated about who could be the next 007 agent in the James Bond film franchise, and Pierce Brosnan has a new take on where the studio could go. Auditions for the role in the Denis Villeneuve film are already underway and have taken place over the summer, and Brosnan recently said there […]",
-          "summary": "Many suggestions have circulated about who could be the next 007 agent in the James Bond film franchise, and Pierce Brosnan has a new take on where the studio could go. Auditions for the role in the Denis Villeneuve film are already underway and have taken place over the summer, and Brosnan recently said there […]",
-          "url": "https://deadline.com/2026/09/pierce-brosnan-next-james-bond-unknown-tom-ellis-1237100945/",
+          "headline": "‘Mr. Irrelevant’ Trailer: David Corenswet Plays NFL’s John Tuggle In Underdog Biopic About Late NY Giants Player",
+          "title": "‘Mr. Irrelevant’ Trailer: David Corenswet Plays NFL’s John Tuggle In Underdog Biopic About Late NY Giants Player",
+          "snapshot": "Although he’s used to playing a man of steel, David Corenswet’s latest role in Mr. Irrelevant is a classic underdog story. On Sunday, Paramount and Skydance Sports released the trailer for the Jonathan Levine-helmed biopic about the late New York Giants running back, which premieres on Christmas, recounting his fina...",
+          "summary": "Although he’s used to playing a man of steel, David Corenswet’s latest role in Mr. Irrelevant is a classic underdog story. On Sunday, Paramount and Skydance Sports released the trailer for the Jonathan Levine-helmed biopic about the late New York Giants running back, which premieres on Christmas, recounting his fina...",
+          "url": "https://deadline.com/2026/09/mr-irrelevant-trailer-david-corenswet-ny-giants-1237101028/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/film/feed/",
-          "published_at": "2026-09-13 03:38:16 PM ET",
+          "published_at": "2026-09-13 04:32:54 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 89,
           "key_data": [
-            "Pierce Brosnan Says Next James Bond Could Be “Someone That None Of Us Know About”; Tom Ellis Reveals Brosnan Said He’d “Make A Good Bond”"
+            "‘Mr. Irrelevant’ Trailer: David Corenswet Plays NFL’s John Tuggle In Underdog Biopic About Late NY Giants Player"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2101,25 +2103,25 @@
           ]
         },
         {
-          "id": "film-23-652349773572002463",
-          "key": "film-23-652349773572002463",
+          "id": "film-23-6746324516914104689",
+          "key": "film-23-6746324516914104689",
           "category": "Film",
           "label": "Film",
-          "headline": "Toronto: Seth Rogen Shares Secret to Hollywood Success: “I Was Lucky Coming Up”",
-          "title": "Toronto: Seth Rogen Shares Secret to Hollywood Success: “I Was Lucky Coming Up”",
-          "snapshot": "The Canadian actor, producer and writer gave a keynote Sunday at the Toronto Film Festival after premiering 'Babies,' directed by Lauren Miller Rogen, on Saturday night.",
-          "summary": "The Canadian actor, producer and writer gave a keynote Sunday at the Toronto Film Festival after premiering 'Babies,' directed by Lauren Miller Rogen, on Saturday night.",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/toronto-seth-rogen-secret-hollywood-success-1236699644/",
+          "headline": "Helen Mirren Says ‘Ripley’ Author Patricia Highsmith Is ‘The Most Difficult’ Real Person She’s Played: “Very Abrasive”",
+          "title": "Helen Mirren Says ‘Ripley’ Author Patricia Highsmith Is ‘The Most Difficult’ Real Person She’s Played: “Very Abrasive”",
+          "snapshot": "The Oscar winner has previously played several real-life characters, including Queen Elizabeth II and Cleopatra.",
+          "summary": "The Oscar winner has previously played several real-life characters, including Queen Elizabeth II and Cleopatra.",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/helen-mirren-patricia-highsmith-most-difficult-person-tiff-1236700057/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-          "published_at": "2026-09-13 01:24:48 PM ET",
+          "published_at": "2026-09-13 05:47:52 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 77,
           "key_data": [
-            "Toronto: Seth Rogen Shares Secret to Hollywood Success: “I Was Lucky Coming Up”"
+            "Helen Mirren Says ‘Ripley’ Author Patricia Highsmith Is ‘The Most Difficult’ Real Person She’s Played: “Very Abrasive”"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2129,8 +2131,8 @@
           ]
         },
         {
-          "id": "film-33-7224246453625671718",
-          "key": "film-33-7224246453625671718",
+          "id": "film-33-7240354392003651624",
+          "key": "film-33-7240354392003651624",
           "category": "Film",
           "label": "Film",
           "headline": "The best movies we saw at 2026 Toronto Film Festival, ranked - Central Oregon Daily",
@@ -2157,7 +2159,7 @@
           ]
         }
       ],
-      "updated_at": "2026-09-13 04:36:39 PM ET"
+      "updated_at": "2026-09-13 06:56:45 PM ET"
     },
     {
       "key": "tv",
@@ -2184,8 +2186,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "tv-0-4907617287570780358",
-          "key": "tv-0-4907617287570780358",
+          "id": "tv-0-5089625032421785395",
+          "key": "tv-0-5089625032421785395",
           "category": "TV",
           "label": "TV",
           "headline": "New York Knicks Player Jalen Brunson — Emmys Host Mariska Hargitay’s Buddy — Expected to Open Show (EXCLUSIVE)",
@@ -2212,8 +2214,8 @@
           ]
         },
         {
-          "id": "tv-10-6094356461019086172",
-          "key": "tv-10-6094356461019086172",
+          "id": "tv-10-1035568264207599736",
+          "key": "tv-10-1035568264207599736",
           "category": "TV",
           "label": "TV",
           "headline": "‘Big Brother UK’ 2026 Season 23 Cast Photos: Meet All The Housemates From ITV2 Competition — Live Updates",
@@ -2240,8 +2242,8 @@
           ]
         },
         {
-          "id": "tv-21-7316254784408788321",
-          "key": "tv-21-7316254784408788321",
+          "id": "tv-21-5138805987263787478",
+          "key": "tv-21-5138805987263787478",
           "category": "TV",
           "label": "TV",
           "headline": "Why Jon Hamm Says ‘American Hostage’ Feels “Very Relevant” to “Current Political Climate”",
@@ -2268,8 +2270,8 @@
           ]
         },
         {
-          "id": "tv-31-7462167509136960427",
-          "key": "tv-31-7462167509136960427",
+          "id": "tv-31-1294694471179936140",
+          "key": "tv-31-1294694471179936140",
           "category": "TV",
           "label": "TV",
           "headline": "'TV Actors Lack Syle And Class': Rohit Roy Calls TV A 'Dustbin Medium' - NDTV",
@@ -2296,8 +2298,8 @@
           ]
         },
         {
-          "id": "tv-1-1534252642910435429",
-          "key": "tv-1-1534252642910435429",
+          "id": "tv-1-2237260637699971458",
+          "key": "tv-1-2237260637699971458",
           "category": "TV",
           "label": "TV",
           "headline": "Emmys Party Pics 2026: Mariska Hargitay, Sheryl Lee Ralph, Riz Ahmed, Katherine LaNasa and More",
@@ -2324,14 +2326,14 @@
           ]
         },
         {
-          "id": "tv-11-3648797181859192935",
-          "key": "tv-11-3648797181859192935",
+          "id": "tv-11-4187099909632971980",
+          "key": "tv-11-4187099909632971980",
           "category": "TV",
           "label": "TV",
           "headline": "Emmys Sets Reba McEntire For Dolly Parton Tribute; Adds Big ‘Baywatch’ Contingent, McConaughey & Harrelson, LL Cool J & Caan, More As Presenters",
           "title": "Emmys Sets Reba McEntire For Dolly Parton Tribute; Adds Big ‘Baywatch’ Contingent, McConaughey & Harrelson, LL Cool J & Caan, More As Presenters",
-          "snapshot": "More details are coming into light about the 78th Emmy Awards ahead of the September 14 ceremony which will be broadcast live from the Peacock Theater on NBC and Peacock. Jesse Collins confirmed on Thursday that the show will honor Dolly Parton, who died recently at the age of 80. Deadline hears that the tribute […]",
-          "summary": "More details are coming into light about the 78th Emmy Awards ahead of the September 14 ceremony which will be broadcast live from the Peacock Theater on NBC and Peacock. Jesse Collins confirmed on Thursday that the show will honor Dolly Parton, who died recently at the age of 80. Deadline hears that the tribute […]",
+          "snapshot": "More details are coming to light about the 78th Emmy Awards ahead of the September 14 ceremony which will be broadcast live from the Peacock Theater on NBC and Peacock. Jesse Collins confirmed on Thursday that the show will honor Dolly Parton, who died recently at the age of 80. Deadline hears that the tribute […]",
+          "summary": "More details are coming to light about the 78th Emmy Awards ahead of the September 14 ceremony which will be broadcast live from the Peacock Theater on NBC and Peacock. Jesse Collins confirmed on Thursday that the show will honor Dolly Parton, who died recently at the age of 80. Deadline hears that the tribute […]",
           "url": "https://deadline.com/2026/09/emmys-reba-mcentire-dolly-parton-tribute-baywatch-presnters-1237100936/",
           "source": "Deadline",
           "source_name": "Deadline",
@@ -2352,8 +2354,8 @@
           ]
         },
         {
-          "id": "tv-22-5373084207098250320",
-          "key": "tv-22-5373084207098250320",
+          "id": "tv-22-46224252281804666",
+          "key": "tv-22-46224252281804666",
           "category": "TV",
           "label": "TV",
           "headline": "Paul Anthony Kelly, Shailene Woodley, Matthew McConaughey, Others Tapped to Present at 2026 Emmys",
@@ -2380,8 +2382,8 @@
           ]
         },
         {
-          "id": "tv-32-2717982227866630609",
-          "key": "tv-32-2717982227866630609",
+          "id": "tv-32-5083881084381079419",
+          "key": "tv-32-5083881084381079419",
           "category": "TV",
           "label": "TV",
           "headline": "Best TVs of 2026: Expert Tested, Compared and Reviewed - CNET",
@@ -2410,8 +2412,8 @@
       ],
       "items": [
         {
-          "id": "tv-0-4907617287570780358",
-          "key": "tv-0-4907617287570780358",
+          "id": "tv-0-5089625032421785395",
+          "key": "tv-0-5089625032421785395",
           "category": "TV",
           "label": "TV",
           "headline": "New York Knicks Player Jalen Brunson — Emmys Host Mariska Hargitay’s Buddy — Expected to Open Show (EXCLUSIVE)",
@@ -2438,8 +2440,8 @@
           ]
         },
         {
-          "id": "tv-10-6094356461019086172",
-          "key": "tv-10-6094356461019086172",
+          "id": "tv-10-1035568264207599736",
+          "key": "tv-10-1035568264207599736",
           "category": "TV",
           "label": "TV",
           "headline": "‘Big Brother UK’ 2026 Season 23 Cast Photos: Meet All The Housemates From ITV2 Competition — Live Updates",
@@ -2466,8 +2468,8 @@
           ]
         },
         {
-          "id": "tv-21-7316254784408788321",
-          "key": "tv-21-7316254784408788321",
+          "id": "tv-21-5138805987263787478",
+          "key": "tv-21-5138805987263787478",
           "category": "TV",
           "label": "TV",
           "headline": "Why Jon Hamm Says ‘American Hostage’ Feels “Very Relevant” to “Current Political Climate”",
@@ -2494,8 +2496,8 @@
           ]
         },
         {
-          "id": "tv-31-7462167509136960427",
-          "key": "tv-31-7462167509136960427",
+          "id": "tv-31-1294694471179936140",
+          "key": "tv-31-1294694471179936140",
           "category": "TV",
           "label": "TV",
           "headline": "'TV Actors Lack Syle And Class': Rohit Roy Calls TV A 'Dustbin Medium' - NDTV",
@@ -2522,8 +2524,8 @@
           ]
         },
         {
-          "id": "tv-1-1534252642910435429",
-          "key": "tv-1-1534252642910435429",
+          "id": "tv-1-2237260637699971458",
+          "key": "tv-1-2237260637699971458",
           "category": "TV",
           "label": "TV",
           "headline": "Emmys Party Pics 2026: Mariska Hargitay, Sheryl Lee Ralph, Riz Ahmed, Katherine LaNasa and More",
@@ -2550,14 +2552,14 @@
           ]
         },
         {
-          "id": "tv-11-3648797181859192935",
-          "key": "tv-11-3648797181859192935",
+          "id": "tv-11-4187099909632971980",
+          "key": "tv-11-4187099909632971980",
           "category": "TV",
           "label": "TV",
           "headline": "Emmys Sets Reba McEntire For Dolly Parton Tribute; Adds Big ‘Baywatch’ Contingent, McConaughey & Harrelson, LL Cool J & Caan, More As Presenters",
           "title": "Emmys Sets Reba McEntire For Dolly Parton Tribute; Adds Big ‘Baywatch’ Contingent, McConaughey & Harrelson, LL Cool J & Caan, More As Presenters",
-          "snapshot": "More details are coming into light about the 78th Emmy Awards ahead of the September 14 ceremony which will be broadcast live from the Peacock Theater on NBC and Peacock. Jesse Collins confirmed on Thursday that the show will honor Dolly Parton, who died recently at the age of 80. Deadline hears that the tribute […]",
-          "summary": "More details are coming into light about the 78th Emmy Awards ahead of the September 14 ceremony which will be broadcast live from the Peacock Theater on NBC and Peacock. Jesse Collins confirmed on Thursday that the show will honor Dolly Parton, who died recently at the age of 80. Deadline hears that the tribute […]",
+          "snapshot": "More details are coming to light about the 78th Emmy Awards ahead of the September 14 ceremony which will be broadcast live from the Peacock Theater on NBC and Peacock. Jesse Collins confirmed on Thursday that the show will honor Dolly Parton, who died recently at the age of 80. Deadline hears that the tribute […]",
+          "summary": "More details are coming to light about the 78th Emmy Awards ahead of the September 14 ceremony which will be broadcast live from the Peacock Theater on NBC and Peacock. Jesse Collins confirmed on Thursday that the show will honor Dolly Parton, who died recently at the age of 80. Deadline hears that the tribute […]",
           "url": "https://deadline.com/2026/09/emmys-reba-mcentire-dolly-parton-tribute-baywatch-presnters-1237100936/",
           "source": "Deadline",
           "source_name": "Deadline",
@@ -2578,8 +2580,8 @@
           ]
         },
         {
-          "id": "tv-22-5373084207098250320",
-          "key": "tv-22-5373084207098250320",
+          "id": "tv-22-46224252281804666",
+          "key": "tv-22-46224252281804666",
           "category": "TV",
           "label": "TV",
           "headline": "Paul Anthony Kelly, Shailene Woodley, Matthew McConaughey, Others Tapped to Present at 2026 Emmys",
@@ -2606,8 +2608,8 @@
           ]
         },
         {
-          "id": "tv-32-2717982227866630609",
-          "key": "tv-32-2717982227866630609",
+          "id": "tv-32-5083881084381079419",
+          "key": "tv-32-5083881084381079419",
           "category": "TV",
           "label": "TV",
           "headline": "Best TVs of 2026: Expert Tested, Compared and Reviewed - CNET",
@@ -2634,7 +2636,7 @@
           ]
         }
       ],
-      "updated_at": "2026-09-13 04:36:40 PM ET"
+      "updated_at": "2026-09-13 06:56:46 PM ET"
     },
     {
       "key": "streaming",
@@ -2652,8 +2654,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "streaming-0-1515814293245677922",
-          "key": "streaming-0-1515814293245677922",
+          "id": "streaming-0-4032273310894659054",
+          "key": "streaming-0-4032273310894659054",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'The Mandalorian and Grogu' to 'Mayday,' 10 movies to stream now - USA Today",
@@ -2680,8 +2682,8 @@
           ]
         },
         {
-          "id": "streaming-1-9186621100170770650",
-          "key": "streaming-1-9186621100170770650",
+          "id": "streaming-1-260397420304718216",
+          "key": "streaming-1-260397420304718216",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs - Business Insider",
@@ -2710,8 +2712,8 @@
       ],
       "items": [
         {
-          "id": "streaming-0-1515814293245677922",
-          "key": "streaming-0-1515814293245677922",
+          "id": "streaming-0-4032273310894659054",
+          "key": "streaming-0-4032273310894659054",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'The Mandalorian and Grogu' to 'Mayday,' 10 movies to stream now - USA Today",
@@ -2738,8 +2740,8 @@
           ]
         },
         {
-          "id": "streaming-1-9186621100170770650",
-          "key": "streaming-1-9186621100170770650",
+          "id": "streaming-1-260397420304718216",
+          "key": "streaming-1-260397420304718216",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs - Business Insider",
@@ -2766,50 +2768,50 @@
           ]
         }
       ],
-      "updated_at": "2026-09-13 04:36:40 PM ET"
+      "updated_at": "2026-09-13 06:56:47 PM ET"
     },
     {
       "key": "music",
       "name": "Music",
       "title": "Music Report",
-      "headline": "Ella Langley’s ‘Dandelion’ Album Returns to No. 1 Spot on Billboard 200 for First Time in Four Months, So ‘Choosin’ Texas’ Won’t Get Lonely at the Top",
+      "headline": "Dead Boys Guitarist Cheetah Chrome Dies at 71",
       "snapshot": "Music coverage is updating with 6 current RSS headline item(s).",
       "key_storylines": [
-        "Ella Langley’s ‘Dandelion’ Album Returns to No. 1 Spot on Billboard 200 for First Time in Four Months, So ‘Choosin’ Texas’ Won’t Get Lonely at the Top",
+        "Dead Boys Guitarist Cheetah Chrome Dies at 71",
         "Justin Bieber Celebrates 8th Wedding Anniversary With Hailey Bieber: ‘New Beginnings’",
         "Sony Music Japan President Atsuhiro Iwakami: Interview - Billboard",
-        "Lucy Dacus on Doing a Hollywood Bowl Orchestra Show to End Her ‘Forever Is a Feeling’ Cycle, After Previously Bringing the Boygenius Era to a Close There: ‘Maybe It’s a Place Where I’m Supposed to Cry’",
+        "Sara Bareilles on ‘Good Grief’ and Finding Joy in the Tough Stuff: ‘Grief Is the Mothership of This Record, but It Carries Release, Hope, Optimism and Connection’",
         "Ella Langley’s ‘Dandelion’ Returns to No. 1 on Billboard 200 Albums Chart"
       ],
       "watch_list": [
-        "Ella Langley’s ‘Dandelion’ Album Returns to No. 1 Spot on Billboard 200 for First Time in Four Months, So ‘Choosin’ Texas’ Won’t Get Lonely at the Top",
+        "Dead Boys Guitarist Cheetah Chrome Dies at 71",
         "Justin Bieber Celebrates 8th Wedding Anniversary With Hailey Bieber: ‘New Beginnings’",
         "Sony Music Japan President Atsuhiro Iwakami: Interview - Billboard",
-        "Lucy Dacus on Doing a Hollywood Bowl Orchestra Show to End Her ‘Forever Is a Feeling’ Cycle, After Previously Bringing the Boygenius Era to a Close There: ‘Maybe It’s a Place Where I’m Supposed to Cry’",
+        "Sara Bareilles on ‘Good Grief’ and Finding Joy in the Tough Stuff: ‘Grief Is the Mothership of This Record, but It Carries Release, Hope, Optimism and Connection’",
         "Ella Langley’s ‘Dandelion’ Returns to No. 1 on Billboard 200 Albums Chart",
         "Billboard Announces Shakira Song Update - parade.com"
       ],
       "homepage_cards": [
         {
-          "id": "music-0-3617557884065738884",
-          "key": "music-0-3617557884065738884",
+          "id": "music-0-7306675476804875376",
+          "key": "music-0-7306675476804875376",
           "category": "Music",
           "label": "Music",
-          "headline": "Ella Langley’s ‘Dandelion’ Album Returns to No. 1 Spot on Billboard 200 for First Time in Four Months, So ‘Choosin’ Texas’ Won’t Get Lonely at the Top",
-          "title": "Ella Langley’s ‘Dandelion’ Album Returns to No. 1 Spot on Billboard 200 for First Time in Four Months, So ‘Choosin’ Texas’ Won’t Get Lonely at the Top",
-          "snapshot": "Ella Langely’s fans are choosing her “Dandelion” album as a complete piece of work, and not just staying entirely trained on her long-running “Choosin’ Texas” smash. “Dandelion” has returned to the No. 1 spot on the Billboard 200 album chart for a third non-consecutive week at the top. Its previous stay at No. 1 was...",
-          "summary": "Ella Langely’s fans are choosing her “Dandelion” album as a complete piece of work, and not just staying entirely trained on her long-running “Choosin’ Texas” smash. “Dandelion” has returned to the No. 1 spot on the Billboard 200 album chart for a third non-consecutive week at the top. Its previous stay at No. 1 was...",
-          "url": "https://variety.com/2026/music/news/ella-langley-dandelion-album-number-one-billboard-adela-1236860730/",
+          "headline": "Dead Boys Guitarist Cheetah Chrome Dies at 71",
+          "title": "Dead Boys Guitarist Cheetah Chrome Dies at 71",
+          "snapshot": "Eugene Richard O’Connor, the punk rocker known as Cheetah Chrome and guitarist of the Dead Boys, died Sunday, his bandmates confirmed on Instagram. He was 71. “We are incredibly sad to announce the news of the passing of our beloved friend and bandmate Cheetah Chrome,” the band wrote in the post. “Cheetah was a true...",
+          "summary": "Eugene Richard O’Connor, the punk rocker known as Cheetah Chrome and guitarist of the Dead Boys, died Sunday, his bandmates confirmed on Instagram. He was 71. “We are incredibly sad to announce the news of the passing of our beloved friend and bandmate Cheetah Chrome,” the band wrote in the post. “Cheetah was a true...",
+          "url": "https://variety.com/2026/music/people-news/cheetah-chrome-dead-punk-guitarist-dead-boys-1236860807/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/music/feed/",
-          "published_at": "2026-09-13 04:08:21 PM ET",
+          "published_at": "2026-09-13 06:33:43 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Ella Langley’s ‘Dandelion’ Album Returns to No. 1 Spot on Billboard 200 for First Time in Four Months, So ‘Choosin’ Texas’ Won’t Get Lonely at the Top"
+            "Dead Boys Guitarist Cheetah Chrome Dies at 71"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2819,8 +2821,8 @@
           ]
         },
         {
-          "id": "music-10-7185405452003321775",
-          "key": "music-10-7185405452003321775",
+          "id": "music-10-4636147731994124908",
+          "key": "music-10-4636147731994124908",
           "category": "Music",
           "label": "Music",
           "headline": "Justin Bieber Celebrates 8th Wedding Anniversary With Hailey Bieber: ‘New Beginnings’",
@@ -2847,8 +2849,8 @@
           ]
         },
         {
-          "id": "music-20-7091465139370590120",
-          "key": "music-20-7091465139370590120",
+          "id": "music-20-9114375613092656198",
+          "key": "music-20-9114375613092656198",
           "category": "Music",
           "label": "Music",
           "headline": "Sony Music Japan President Atsuhiro Iwakami: Interview - Billboard",
@@ -2875,25 +2877,25 @@
           ]
         },
         {
-          "id": "music-1-3416446163423392032",
-          "key": "music-1-3416446163423392032",
+          "id": "music-1-741646973564981021",
+          "key": "music-1-741646973564981021",
           "category": "Music",
           "label": "Music",
-          "headline": "Lucy Dacus on Doing a Hollywood Bowl Orchestra Show to End Her ‘Forever Is a Feeling’ Cycle, After Previously Bringing the Boygenius Era to a Close There: ‘Maybe It’s a Place Where I’m Supposed to Cry’",
-          "title": "Lucy Dacus on Doing a Hollywood Bowl Orchestra Show to End Her ‘Forever Is a Feeling’ Cycle, After Previously Bringing the Boygenius Era to a Close There: ‘Maybe It’s a Place Where I’m Supposed to Cry’",
-          "snapshot": "“Forever Is a Feeling,” Lucy Dacus promised in the romantic-sounding title of her 2025 solo album. Feelings are transitory things, of course, and some of the good ones must come to an end, which is why Dacus is commemorating the end of that era Sunday night with a show at the Hollywood Bowl that will […]",
-          "summary": "“Forever Is a Feeling,” Lucy Dacus promised in the romantic-sounding title of her 2025 solo album. Feelings are transitory things, of course, and some of the good ones must come to an end, which is why Dacus is commemorating the end of that era Sunday night with a show at the Hollywood Bowl that will […]",
-          "url": "https://variety.com/2026/music/news/lucy-dacus-hollywood-bowl-orchestra-show-interview-1236860176/",
+          "headline": "Sara Bareilles on ‘Good Grief’ and Finding Joy in the Tough Stuff: ‘Grief Is the Mothership of This Record, but It Carries Release, Hope, Optimism and Connection’",
+          "title": "Sara Bareilles on ‘Good Grief’ and Finding Joy in the Tough Stuff: ‘Grief Is the Mothership of This Record, but It Carries Release, Hope, Optimism and Connection’",
+          "snapshot": "She could have called it “Great Grief,” but that would have been immodest. Sara Bareilles’ “Good Grief,” her first new studio album in seven years, is one of the year’s finest achievements from a singer-songwriter… and its purely musical delights are such that you might feel that way about it even if you haven’t bee...",
+          "summary": "She could have called it “Great Grief,” but that would have been immodest. Sara Bareilles’ “Good Grief,” her first new studio album in seven years, is one of the year’s finest achievements from a singer-songwriter… and its purely musical delights are such that you might feel that way about it even if you haven’t bee...",
+          "url": "https://variety.com/2026/music/news/sara-bareilles-interview-good-grief-album-1236860774/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/music/feed/",
-          "published_at": "2026-09-12 06:23:00 PM ET",
+          "published_at": "2026-09-13 04:24:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Lucy Dacus on Doing a Hollywood Bowl Orchestra Show to End Her ‘Forever Is a Feeling’ Cycle, After Previously Bringing the Boygenius Era to a Close There: ‘Maybe It’s a Place Where I’m Supposed to Cry’"
+            "Sara Bareilles on ‘Good Grief’ and Finding Joy in the Tough Stuff: ‘Grief Is the Mothership of This Record, but It Carries Release, Hope, Optimism and Connection’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2903,8 +2905,8 @@
           ]
         },
         {
-          "id": "music-11-3566533667130327674",
-          "key": "music-11-3566533667130327674",
+          "id": "music-11-2234460395031289157",
+          "key": "music-11-2234460395031289157",
           "category": "Music",
           "label": "Music",
           "headline": "Ella Langley’s ‘Dandelion’ Returns to No. 1 on Billboard 200 Albums Chart",
@@ -2931,8 +2933,8 @@
           ]
         },
         {
-          "id": "music-21-6711054906466962832",
-          "key": "music-21-6711054906466962832",
+          "id": "music-21-2827282571244339434",
+          "key": "music-21-2827282571244339434",
           "category": "Music",
           "label": "Music",
           "headline": "Billboard Announces Shakira Song Update - parade.com",
@@ -2961,25 +2963,25 @@
       ],
       "items": [
         {
-          "id": "music-0-3617557884065738884",
-          "key": "music-0-3617557884065738884",
+          "id": "music-0-7306675476804875376",
+          "key": "music-0-7306675476804875376",
           "category": "Music",
           "label": "Music",
-          "headline": "Ella Langley’s ‘Dandelion’ Album Returns to No. 1 Spot on Billboard 200 for First Time in Four Months, So ‘Choosin’ Texas’ Won’t Get Lonely at the Top",
-          "title": "Ella Langley’s ‘Dandelion’ Album Returns to No. 1 Spot on Billboard 200 for First Time in Four Months, So ‘Choosin’ Texas’ Won’t Get Lonely at the Top",
-          "snapshot": "Ella Langely’s fans are choosing her “Dandelion” album as a complete piece of work, and not just staying entirely trained on her long-running “Choosin’ Texas” smash. “Dandelion” has returned to the No. 1 spot on the Billboard 200 album chart for a third non-consecutive week at the top. Its previous stay at No. 1 was...",
-          "summary": "Ella Langely’s fans are choosing her “Dandelion” album as a complete piece of work, and not just staying entirely trained on her long-running “Choosin’ Texas” smash. “Dandelion” has returned to the No. 1 spot on the Billboard 200 album chart for a third non-consecutive week at the top. Its previous stay at No. 1 was...",
-          "url": "https://variety.com/2026/music/news/ella-langley-dandelion-album-number-one-billboard-adela-1236860730/",
+          "headline": "Dead Boys Guitarist Cheetah Chrome Dies at 71",
+          "title": "Dead Boys Guitarist Cheetah Chrome Dies at 71",
+          "snapshot": "Eugene Richard O’Connor, the punk rocker known as Cheetah Chrome and guitarist of the Dead Boys, died Sunday, his bandmates confirmed on Instagram. He was 71. “We are incredibly sad to announce the news of the passing of our beloved friend and bandmate Cheetah Chrome,” the band wrote in the post. “Cheetah was a true...",
+          "summary": "Eugene Richard O’Connor, the punk rocker known as Cheetah Chrome and guitarist of the Dead Boys, died Sunday, his bandmates confirmed on Instagram. He was 71. “We are incredibly sad to announce the news of the passing of our beloved friend and bandmate Cheetah Chrome,” the band wrote in the post. “Cheetah was a true...",
+          "url": "https://variety.com/2026/music/people-news/cheetah-chrome-dead-punk-guitarist-dead-boys-1236860807/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/music/feed/",
-          "published_at": "2026-09-13 04:08:21 PM ET",
+          "published_at": "2026-09-13 06:33:43 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Ella Langley’s ‘Dandelion’ Album Returns to No. 1 Spot on Billboard 200 for First Time in Four Months, So ‘Choosin’ Texas’ Won’t Get Lonely at the Top"
+            "Dead Boys Guitarist Cheetah Chrome Dies at 71"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2989,8 +2991,8 @@
           ]
         },
         {
-          "id": "music-10-7185405452003321775",
-          "key": "music-10-7185405452003321775",
+          "id": "music-10-4636147731994124908",
+          "key": "music-10-4636147731994124908",
           "category": "Music",
           "label": "Music",
           "headline": "Justin Bieber Celebrates 8th Wedding Anniversary With Hailey Bieber: ‘New Beginnings’",
@@ -3017,8 +3019,8 @@
           ]
         },
         {
-          "id": "music-20-7091465139370590120",
-          "key": "music-20-7091465139370590120",
+          "id": "music-20-9114375613092656198",
+          "key": "music-20-9114375613092656198",
           "category": "Music",
           "label": "Music",
           "headline": "Sony Music Japan President Atsuhiro Iwakami: Interview - Billboard",
@@ -3045,25 +3047,25 @@
           ]
         },
         {
-          "id": "music-1-3416446163423392032",
-          "key": "music-1-3416446163423392032",
+          "id": "music-1-741646973564981021",
+          "key": "music-1-741646973564981021",
           "category": "Music",
           "label": "Music",
-          "headline": "Lucy Dacus on Doing a Hollywood Bowl Orchestra Show to End Her ‘Forever Is a Feeling’ Cycle, After Previously Bringing the Boygenius Era to a Close There: ‘Maybe It’s a Place Where I’m Supposed to Cry’",
-          "title": "Lucy Dacus on Doing a Hollywood Bowl Orchestra Show to End Her ‘Forever Is a Feeling’ Cycle, After Previously Bringing the Boygenius Era to a Close There: ‘Maybe It’s a Place Where I’m Supposed to Cry’",
-          "snapshot": "“Forever Is a Feeling,” Lucy Dacus promised in the romantic-sounding title of her 2025 solo album. Feelings are transitory things, of course, and some of the good ones must come to an end, which is why Dacus is commemorating the end of that era Sunday night with a show at the Hollywood Bowl that will […]",
-          "summary": "“Forever Is a Feeling,” Lucy Dacus promised in the romantic-sounding title of her 2025 solo album. Feelings are transitory things, of course, and some of the good ones must come to an end, which is why Dacus is commemorating the end of that era Sunday night with a show at the Hollywood Bowl that will […]",
-          "url": "https://variety.com/2026/music/news/lucy-dacus-hollywood-bowl-orchestra-show-interview-1236860176/",
+          "headline": "Sara Bareilles on ‘Good Grief’ and Finding Joy in the Tough Stuff: ‘Grief Is the Mothership of This Record, but It Carries Release, Hope, Optimism and Connection’",
+          "title": "Sara Bareilles on ‘Good Grief’ and Finding Joy in the Tough Stuff: ‘Grief Is the Mothership of This Record, but It Carries Release, Hope, Optimism and Connection’",
+          "snapshot": "She could have called it “Great Grief,” but that would have been immodest. Sara Bareilles’ “Good Grief,” her first new studio album in seven years, is one of the year’s finest achievements from a singer-songwriter… and its purely musical delights are such that you might feel that way about it even if you haven’t bee...",
+          "summary": "She could have called it “Great Grief,” but that would have been immodest. Sara Bareilles’ “Good Grief,” her first new studio album in seven years, is one of the year’s finest achievements from a singer-songwriter… and its purely musical delights are such that you might feel that way about it even if you haven’t bee...",
+          "url": "https://variety.com/2026/music/news/sara-bareilles-interview-good-grief-album-1236860774/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/music/feed/",
-          "published_at": "2026-09-12 06:23:00 PM ET",
+          "published_at": "2026-09-13 04:24:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Lucy Dacus on Doing a Hollywood Bowl Orchestra Show to End Her ‘Forever Is a Feeling’ Cycle, After Previously Bringing the Boygenius Era to a Close There: ‘Maybe It’s a Place Where I’m Supposed to Cry’"
+            "Sara Bareilles on ‘Good Grief’ and Finding Joy in the Tough Stuff: ‘Grief Is the Mothership of This Record, but It Carries Release, Hope, Optimism and Connection’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3073,8 +3075,8 @@
           ]
         },
         {
-          "id": "music-11-3566533667130327674",
-          "key": "music-11-3566533667130327674",
+          "id": "music-11-2234460395031289157",
+          "key": "music-11-2234460395031289157",
           "category": "Music",
           "label": "Music",
           "headline": "Ella Langley’s ‘Dandelion’ Returns to No. 1 on Billboard 200 Albums Chart",
@@ -3101,8 +3103,8 @@
           ]
         },
         {
-          "id": "music-21-6711054906466962832",
-          "key": "music-21-6711054906466962832",
+          "id": "music-21-2827282571244339434",
+          "key": "music-21-2827282571244339434",
           "category": "Music",
           "label": "Music",
           "headline": "Billboard Announces Shakira Song Update - parade.com",
@@ -3129,7 +3131,7 @@
           ]
         }
       ],
-      "updated_at": "2026-09-13 04:36:42 PM ET"
+      "updated_at": "2026-09-13 06:56:48 PM ET"
     },
     {
       "key": "awards",
@@ -3151,8 +3153,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "awards-0-6094989615242951977",
-          "key": "awards-0-6094989615242951977",
+          "id": "awards-0-8235784844208364900",
+          "key": "awards-0-8235784844208364900",
           "category": "Awards",
           "label": "Awards",
           "headline": "‘One Battle After Another,’ ‘Frankenstein’ and ‘Avatar: Fire And Ash’ Among the Winners at MacGuffin Awards",
@@ -3179,8 +3181,8 @@
           ]
         },
         {
-          "id": "awards-8-8916281333534535744",
-          "key": "awards-8-8916281333534535744",
+          "id": "awards-8-8854225385077902586",
+          "key": "awards-8-8854225385077902586",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - yahoo.com",
@@ -3207,8 +3209,8 @@
           ]
         },
         {
-          "id": "awards-1-7324915158735303252",
-          "key": "awards-1-7324915158735303252",
+          "id": "awards-1-6884131226942383159",
+          "key": "awards-1-6884131226942383159",
           "category": "Awards",
           "label": "Awards",
           "headline": "‘Animal Hospital’ Leads Roblox Innovation Awards 2026 Winners as Roblox Unveils 20th Anniversary Event",
@@ -3235,8 +3237,8 @@
           ]
         },
         {
-          "id": "awards-9-6658449830410716370",
-          "key": "awards-9-6658449830410716370",
+          "id": "awards-9-7126525674283565548",
+          "key": "awards-9-7126525674283565548",
           "category": "Awards",
           "label": "Awards",
           "headline": "Emmys 2026: Who has an EGOT and who is close? - Good Morning America",
@@ -3265,8 +3267,8 @@
       ],
       "items": [
         {
-          "id": "awards-0-6094989615242951977",
-          "key": "awards-0-6094989615242951977",
+          "id": "awards-0-8235784844208364900",
+          "key": "awards-0-8235784844208364900",
           "category": "Awards",
           "label": "Awards",
           "headline": "‘One Battle After Another,’ ‘Frankenstein’ and ‘Avatar: Fire And Ash’ Among the Winners at MacGuffin Awards",
@@ -3293,8 +3295,8 @@
           ]
         },
         {
-          "id": "awards-8-8916281333534535744",
-          "key": "awards-8-8916281333534535744",
+          "id": "awards-8-8854225385077902586",
+          "key": "awards-8-8854225385077902586",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - yahoo.com",
@@ -3321,8 +3323,8 @@
           ]
         },
         {
-          "id": "awards-1-7324915158735303252",
-          "key": "awards-1-7324915158735303252",
+          "id": "awards-1-6884131226942383159",
+          "key": "awards-1-6884131226942383159",
           "category": "Awards",
           "label": "Awards",
           "headline": "‘Animal Hospital’ Leads Roblox Innovation Awards 2026 Winners as Roblox Unveils 20th Anniversary Event",
@@ -3349,8 +3351,8 @@
           ]
         },
         {
-          "id": "awards-9-6658449830410716370",
-          "key": "awards-9-6658449830410716370",
+          "id": "awards-9-7126525674283565548",
+          "key": "awards-9-7126525674283565548",
           "category": "Awards",
           "label": "Awards",
           "headline": "Emmys 2026: Who has an EGOT and who is close? - Good Morning America",
@@ -3377,7 +3379,7 @@
           ]
         }
       ],
-      "updated_at": "2026-09-13 04:36:43 PM ET"
+      "updated_at": "2026-09-13 06:56:48 PM ET"
     },
     {
       "key": "box_office",
@@ -3399,8 +3401,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "box_office-0-8981169362596690126",
-          "key": "box_office-0-8981169362596690126",
+          "id": "box_office-0-6552554506800847196",
+          "key": "box_office-0-6552554506800847196",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘Practical Magic 2’ Conjures Up $13 Million on Friday as ‘Spider-Man: Brand New Day’ Nears All-Time Domestic Box Office Record",
@@ -3427,8 +3429,8 @@
           ]
         },
         {
-          "id": "box_office-10-5533649332976545707",
-          "key": "box_office-10-5533649332976545707",
+          "id": "box_office-9-799814673549144542",
+          "key": "box_office-9-799814673549144542",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ Conquers ‘Jurassic World’ to Become Universal’s Highest-Grossing Film Ever - The Hollywood Reporter",
@@ -3439,11 +3441,11 @@
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-09-12 12:59:34 PM ET",
+          "published_at": "2026-09-11 06:33:46 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 90,
+          "priority_score": 91,
           "key_data": [
             "‘The Odyssey’ Conquers ‘Jurassic World’ to Become Universal’s Highest-Grossing Film Ever - The Hollywood Reporter"
           ],
@@ -3455,8 +3457,8 @@
           ]
         },
         {
-          "id": "box_office-1-1271504806954278001",
-          "key": "box_office-1-1271504806954278001",
+          "id": "box_office-1-2619395643740137853",
+          "key": "box_office-1-2619395643740137853",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘Practical Magic 2’ Makes $4.7 Million in Previews",
@@ -3483,8 +3485,8 @@
           ]
         },
         {
-          "id": "box_office-11-9203759131880431541",
-          "key": "box_office-11-9203759131880431541",
+          "id": "box_office-10-3206355933784451630",
+          "key": "box_office-10-3206355933784451630",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Practical Magic 2’ Whips Up $4.7M in Box Office Previews - The Hollywood Reporter",
@@ -3499,7 +3501,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 89,
+          "priority_score": 90,
           "key_data": [
             "‘Practical Magic 2’ Whips Up $4.7M in Box Office Previews - The Hollywood Reporter"
           ],
@@ -3513,8 +3515,8 @@
       ],
       "items": [
         {
-          "id": "box_office-0-8981169362596690126",
-          "key": "box_office-0-8981169362596690126",
+          "id": "box_office-0-6552554506800847196",
+          "key": "box_office-0-6552554506800847196",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘Practical Magic 2’ Conjures Up $13 Million on Friday as ‘Spider-Man: Brand New Day’ Nears All-Time Domestic Box Office Record",
@@ -3541,8 +3543,8 @@
           ]
         },
         {
-          "id": "box_office-10-5533649332976545707",
-          "key": "box_office-10-5533649332976545707",
+          "id": "box_office-9-799814673549144542",
+          "key": "box_office-9-799814673549144542",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘The Odyssey’ Conquers ‘Jurassic World’ to Become Universal’s Highest-Grossing Film Ever - The Hollywood Reporter",
@@ -3553,11 +3555,11 @@
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-09-12 12:59:34 PM ET",
+          "published_at": "2026-09-11 06:33:46 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 90,
+          "priority_score": 91,
           "key_data": [
             "‘The Odyssey’ Conquers ‘Jurassic World’ to Become Universal’s Highest-Grossing Film Ever - The Hollywood Reporter"
           ],
@@ -3569,8 +3571,8 @@
           ]
         },
         {
-          "id": "box_office-1-1271504806954278001",
-          "key": "box_office-1-1271504806954278001",
+          "id": "box_office-1-2619395643740137853",
+          "key": "box_office-1-2619395643740137853",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘Practical Magic 2’ Makes $4.7 Million in Previews",
@@ -3597,8 +3599,8 @@
           ]
         },
         {
-          "id": "box_office-11-9203759131880431541",
-          "key": "box_office-11-9203759131880431541",
+          "id": "box_office-10-3206355933784451630",
+          "key": "box_office-10-3206355933784451630",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Practical Magic 2’ Whips Up $4.7M in Box Office Previews - The Hollywood Reporter",
@@ -3613,7 +3615,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 89,
+          "priority_score": 90,
           "key_data": [
             "‘Practical Magic 2’ Whips Up $4.7M in Box Office Previews - The Hollywood Reporter"
           ],
@@ -3625,7 +3627,7 @@
           ]
         }
       ],
-      "updated_at": "2026-09-13 04:36:44 PM ET"
+      "updated_at": "2026-09-13 06:56:49 PM ET"
     },
     {
       "key": "celebrity",
@@ -3643,8 +3645,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "celebrity-0-1272752883402041197",
-          "key": "celebrity-0-1272752883402041197",
+          "id": "celebrity-0-7279045954821694596",
+          "key": "celebrity-0-7279045954821694596",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3671,8 +3673,8 @@
           ]
         },
         {
-          "id": "celebrity-1-7928575441067008259",
-          "key": "celebrity-1-7928575441067008259",
+          "id": "celebrity-1-8130269838542385074",
+          "key": "celebrity-1-8130269838542385074",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Is Aidan Quinn in ‘Practical Magic 2’? - justjared.com",
@@ -3701,8 +3703,8 @@
       ],
       "items": [
         {
-          "id": "celebrity-0-1272752883402041197",
-          "key": "celebrity-0-1272752883402041197",
+          "id": "celebrity-0-7279045954821694596",
+          "key": "celebrity-0-7279045954821694596",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3729,8 +3731,8 @@
           ]
         },
         {
-          "id": "celebrity-1-7928575441067008259",
-          "key": "celebrity-1-7928575441067008259",
+          "id": "celebrity-1-8130269838542385074",
+          "key": "celebrity-1-8130269838542385074",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Is Aidan Quinn in ‘Practical Magic 2’? - justjared.com",
@@ -3757,7 +3759,7 @@
           ]
         }
       ],
-      "updated_at": "2026-09-13 04:36:45 PM ET"
+      "updated_at": "2026-09-13 06:56:49 PM ET"
     },
     {
       "key": "hollywood",
@@ -3768,22 +3770,22 @@
       "key_storylines": [
         "‘Practical Magic 2’ Opens To $30M U.S., On Par With Recent Sandra Bullock Pics – Box Office Update",
         "‘I Play Rocky’ Review: Anthony Ippolito Is an Endearing Pre-Stardom Sylvester Stallone in Peter Farrelly’s Crowd-Pleasing Making-Of Drama",
-        "Hollywood fears an AI future. China is already living it - Los Angeles Times",
+        "Terry Steiner Built a Global Entertainment Business by Serving a Market Hollywood Overlooked - inc.com",
         "‘Practical Magic 2’ Brews Up $46M WW In Global Opening",
         "Top 5 New Power Restaurants For Toronto Film Fest Deal-Making, Dining"
       ],
       "watch_list": [
         "‘Practical Magic 2’ Opens To $30M U.S., On Par With Recent Sandra Bullock Pics – Box Office Update",
         "‘I Play Rocky’ Review: Anthony Ippolito Is an Endearing Pre-Stardom Sylvester Stallone in Peter Farrelly’s Crowd-Pleasing Making-Of Drama",
-        "Hollywood fears an AI future. China is already living it - Los Angeles Times",
+        "Terry Steiner Built a Global Entertainment Business by Serving a Market Hollywood Overlooked - inc.com",
         "‘Practical Magic 2’ Brews Up $46M WW In Global Opening",
         "Top 5 New Power Restaurants For Toronto Film Fest Deal-Making, Dining",
-        "Terry Steiner Built a Global Entertainment Business by Serving a Market Hollywood Overlooked - inc.com"
+        "Trump calls for federal tax incentives to revive U.S. film industry - Los Angeles Times"
       ],
       "homepage_cards": [
         {
-          "id": "hollywood-0-6630838470943095509",
-          "key": "hollywood-0-6630838470943095509",
+          "id": "hollywood-0-1456331387412467751",
+          "key": "hollywood-0-1456331387412467751",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘Practical Magic 2’ Opens To $30M U.S., On Par With Recent Sandra Bullock Pics – Box Office Update",
@@ -3810,8 +3812,8 @@
           ]
         },
         {
-          "id": "hollywood-3-5493808955344189997",
-          "key": "hollywood-3-5493808955344189997",
+          "id": "hollywood-3-2208716594391101155",
+          "key": "hollywood-3-2208716594391101155",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘I Play Rocky’ Review: Anthony Ippolito Is an Endearing Pre-Stardom Sylvester Stallone in Peter Farrelly’s Crowd-Pleasing Making-Of Drama",
@@ -3838,25 +3840,25 @@
           ]
         },
         {
-          "id": "hollywood-7-2244822583884904631",
-          "key": "hollywood-7-2244822583884904631",
+          "id": "hollywood-6-8953416289238478722",
+          "key": "hollywood-6-8953416289238478722",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Hollywood fears an AI future. China is already living it - Los Angeles Times",
-          "title": "Hollywood fears an AI future. China is already living it - Los Angeles Times",
-          "snapshot": "Hollywood fears an AI future. China is already living it Los Angeles Times",
-          "summary": "Hollywood fears an AI future. China is already living it Los Angeles Times",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQzlkMmhoSnQ3T2ZVOGlpTlpNMUVyUm5qUEVhT1FORWdoWm8wUDBqaGZSMUk2Vk9WcmRQZXdTdVJWRE56QnBaMURQUVFJWW9kRWxFQUdrNUJMeWd4d1RoU0g2WGoxcWV6Tm5QZ094Nm9xbm1mSGVtampNSkJtanhoZHFiMXhfSlVXYWZJWmEzQXNhV3FFTy1pREpBSWYtS2E2ZTAzNg?oc=5",
+          "headline": "Terry Steiner Built a Global Entertainment Business by Serving a Market Hollywood Overlooked - inc.com",
+          "title": "Terry Steiner Built a Global Entertainment Business by Serving a Market Hollywood Overlooked - inc.com",
+          "snapshot": "Terry Steiner Built a Global Entertainment Business by Serving a Market Hollywood Overlooked inc.com",
+          "summary": "Terry Steiner Built a Global Entertainment Business by Serving a Market Hollywood Overlooked inc.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQR0JYVG01cUFQWGFES0VNc080emtkZlpjSmxhZWw1WVNNTDE5VUE5T1ROVjR5SWpEM19yRFMzMmdydkJDMFpZUkNpRzVXQl9fR3RZaVRBaTZmNHV6c2kzWnByd2pXNXdoRzFXSGo0MWZqMFR6T25TNGppU2JUa0I4Q2NVYlBKT0dFSUNicThXa2UyaTRXV3hkU3h4VW5FV0tjallUcXl2RGVnZ29FS2NMWVVwQzNKUDhUd3lVZnhtZmRnaEEteTl2MGNtbTVkUQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-09-10 06:00:00 AM ET",
+          "published_at": "2026-09-08 12:04:24 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 93,
+          "priority_score": 94,
           "key_data": [
-            "Hollywood fears an AI future. China is already living it - Los Angeles Times"
+            "Terry Steiner Built a Global Entertainment Business by Serving a Market Hollywood Overlooked - inc.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3866,8 +3868,8 @@
           ]
         },
         {
-          "id": "hollywood-1-5012159778347060527",
-          "key": "hollywood-1-5012159778347060527",
+          "id": "hollywood-1-5332507492672950112",
+          "key": "hollywood-1-5332507492672950112",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘Practical Magic 2’ Brews Up $46M WW In Global Opening",
@@ -3894,8 +3896,8 @@
           ]
         },
         {
-          "id": "hollywood-4-8474343474909398372",
-          "key": "hollywood-4-8474343474909398372",
+          "id": "hollywood-4-4021630091697694861",
+          "key": "hollywood-4-4021630091697694861",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Top 5 New Power Restaurants For Toronto Film Fest Deal-Making, Dining",
@@ -3922,25 +3924,25 @@
           ]
         },
         {
-          "id": "hollywood-8-1541109317711465047",
-          "key": "hollywood-8-1541109317711465047",
+          "id": "hollywood-7-3542851754615077273",
+          "key": "hollywood-7-3542851754615077273",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Terry Steiner Built a Global Entertainment Business by Serving a Market Hollywood Overlooked - inc.com",
-          "title": "Terry Steiner Built a Global Entertainment Business by Serving a Market Hollywood Overlooked - inc.com",
-          "snapshot": "Terry Steiner Built a Global Entertainment Business by Serving a Market Hollywood Overlooked inc.com",
-          "summary": "Terry Steiner Built a Global Entertainment Business by Serving a Market Hollywood Overlooked inc.com",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQR0JYVG01cUFQWGFES0VNc080emtkZlpjSmxhZWw1WVNNTDE5VUE5T1ROVjR5SWpEM19yRFMzMmdydkJDMFpZUkNpRzVXQl9fR3RZaVRBaTZmNHV6c2kzWnByd2pXNXdoRzFXSGo0MWZqMFR6T25TNGppU2JUa0I4Q2NVYlBKT0dFSUNicThXa2UyaTRXV3hkU3h4VW5FV0tjallUcXl2RGVnZ29FS2NMWVVwQzNKUDhUd3lVZnhtZmRnaEEteTl2MGNtbTVkUQ?oc=5",
+          "headline": "Trump calls for federal tax incentives to revive U.S. film industry - Los Angeles Times",
+          "title": "Trump calls for federal tax incentives to revive U.S. film industry - Los Angeles Times",
+          "snapshot": "Trump calls for federal tax incentives to revive U.S. film industry Los Angeles Times",
+          "summary": "Trump calls for federal tax incentives to revive U.S. film industry Los Angeles Times",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMldlMks2andnbkNBRk1FRzBzbFhsSjI1NGxvVFQ2LXRQVGxoN0tfQzJySUdUX2V5b1MyZWVKUElhTzY5RHpyMlhNUGVUNUdvYVNhUlY4WUF4RlNmMUI4Z0VZTWZxSmpzeXlEalcybjllNE1sWTRUMGhKb1Z5VGtwUUpvbDM1OWlKdFYzZHFXOXBBV084Ql96LVdtQ1cyakpJV21mNGhaVXhqVjVDR0Z2VFN3bFl3akE?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-09-08 12:04:24 PM ET",
+          "published_at": "2026-08-31 03:00:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 92,
+          "priority_score": 93,
           "key_data": [
-            "Terry Steiner Built a Global Entertainment Business by Serving a Market Hollywood Overlooked - inc.com"
+            "Trump calls for federal tax incentives to revive U.S. film industry - Los Angeles Times"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3952,8 +3954,8 @@
       ],
       "items": [
         {
-          "id": "hollywood-0-6630838470943095509",
-          "key": "hollywood-0-6630838470943095509",
+          "id": "hollywood-0-1456331387412467751",
+          "key": "hollywood-0-1456331387412467751",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘Practical Magic 2’ Opens To $30M U.S., On Par With Recent Sandra Bullock Pics – Box Office Update",
@@ -3980,8 +3982,8 @@
           ]
         },
         {
-          "id": "hollywood-3-5493808955344189997",
-          "key": "hollywood-3-5493808955344189997",
+          "id": "hollywood-3-2208716594391101155",
+          "key": "hollywood-3-2208716594391101155",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘I Play Rocky’ Review: Anthony Ippolito Is an Endearing Pre-Stardom Sylvester Stallone in Peter Farrelly’s Crowd-Pleasing Making-Of Drama",
@@ -4008,25 +4010,25 @@
           ]
         },
         {
-          "id": "hollywood-7-2244822583884904631",
-          "key": "hollywood-7-2244822583884904631",
+          "id": "hollywood-6-8953416289238478722",
+          "key": "hollywood-6-8953416289238478722",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Hollywood fears an AI future. China is already living it - Los Angeles Times",
-          "title": "Hollywood fears an AI future. China is already living it - Los Angeles Times",
-          "snapshot": "Hollywood fears an AI future. China is already living it Los Angeles Times",
-          "summary": "Hollywood fears an AI future. China is already living it Los Angeles Times",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQzlkMmhoSnQ3T2ZVOGlpTlpNMUVyUm5qUEVhT1FORWdoWm8wUDBqaGZSMUk2Vk9WcmRQZXdTdVJWRE56QnBaMURQUVFJWW9kRWxFQUdrNUJMeWd4d1RoU0g2WGoxcWV6Tm5QZ094Nm9xbm1mSGVtampNSkJtanhoZHFiMXhfSlVXYWZJWmEzQXNhV3FFTy1pREpBSWYtS2E2ZTAzNg?oc=5",
+          "headline": "Terry Steiner Built a Global Entertainment Business by Serving a Market Hollywood Overlooked - inc.com",
+          "title": "Terry Steiner Built a Global Entertainment Business by Serving a Market Hollywood Overlooked - inc.com",
+          "snapshot": "Terry Steiner Built a Global Entertainment Business by Serving a Market Hollywood Overlooked inc.com",
+          "summary": "Terry Steiner Built a Global Entertainment Business by Serving a Market Hollywood Overlooked inc.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQR0JYVG01cUFQWGFES0VNc080emtkZlpjSmxhZWw1WVNNTDE5VUE5T1ROVjR5SWpEM19yRFMzMmdydkJDMFpZUkNpRzVXQl9fR3RZaVRBaTZmNHV6c2kzWnByd2pXNXdoRzFXSGo0MWZqMFR6T25TNGppU2JUa0I4Q2NVYlBKT0dFSUNicThXa2UyaTRXV3hkU3h4VW5FV0tjallUcXl2RGVnZ29FS2NMWVVwQzNKUDhUd3lVZnhtZmRnaEEteTl2MGNtbTVkUQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-09-10 06:00:00 AM ET",
+          "published_at": "2026-09-08 12:04:24 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 93,
+          "priority_score": 94,
           "key_data": [
-            "Hollywood fears an AI future. China is already living it - Los Angeles Times"
+            "Terry Steiner Built a Global Entertainment Business by Serving a Market Hollywood Overlooked - inc.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4036,8 +4038,8 @@
           ]
         },
         {
-          "id": "hollywood-1-5012159778347060527",
-          "key": "hollywood-1-5012159778347060527",
+          "id": "hollywood-1-5332507492672950112",
+          "key": "hollywood-1-5332507492672950112",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘Practical Magic 2’ Brews Up $46M WW In Global Opening",
@@ -4064,8 +4066,8 @@
           ]
         },
         {
-          "id": "hollywood-4-8474343474909398372",
-          "key": "hollywood-4-8474343474909398372",
+          "id": "hollywood-4-4021630091697694861",
+          "key": "hollywood-4-4021630091697694861",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Top 5 New Power Restaurants For Toronto Film Fest Deal-Making, Dining",
@@ -4092,25 +4094,25 @@
           ]
         },
         {
-          "id": "hollywood-8-1541109317711465047",
-          "key": "hollywood-8-1541109317711465047",
+          "id": "hollywood-7-3542851754615077273",
+          "key": "hollywood-7-3542851754615077273",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Terry Steiner Built a Global Entertainment Business by Serving a Market Hollywood Overlooked - inc.com",
-          "title": "Terry Steiner Built a Global Entertainment Business by Serving a Market Hollywood Overlooked - inc.com",
-          "snapshot": "Terry Steiner Built a Global Entertainment Business by Serving a Market Hollywood Overlooked inc.com",
-          "summary": "Terry Steiner Built a Global Entertainment Business by Serving a Market Hollywood Overlooked inc.com",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQR0JYVG01cUFQWGFES0VNc080emtkZlpjSmxhZWw1WVNNTDE5VUE5T1ROVjR5SWpEM19yRFMzMmdydkJDMFpZUkNpRzVXQl9fR3RZaVRBaTZmNHV6c2kzWnByd2pXNXdoRzFXSGo0MWZqMFR6T25TNGppU2JUa0I4Q2NVYlBKT0dFSUNicThXa2UyaTRXV3hkU3h4VW5FV0tjallUcXl2RGVnZ29FS2NMWVVwQzNKUDhUd3lVZnhtZmRnaEEteTl2MGNtbTVkUQ?oc=5",
+          "headline": "Trump calls for federal tax incentives to revive U.S. film industry - Los Angeles Times",
+          "title": "Trump calls for federal tax incentives to revive U.S. film industry - Los Angeles Times",
+          "snapshot": "Trump calls for federal tax incentives to revive U.S. film industry Los Angeles Times",
+          "summary": "Trump calls for federal tax incentives to revive U.S. film industry Los Angeles Times",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMldlMks2andnbkNBRk1FRzBzbFhsSjI1NGxvVFQ2LXRQVGxoN0tfQzJySUdUX2V5b1MyZWVKUElhTzY5RHpyMlhNUGVUNUdvYVNhUlY4WUF4RlNmMUI4Z0VZTWZxSmpzeXlEalcybjllNE1sWTRUMGhKb1Z5VGtwUUpvbDM1OWlKdFYzZHFXOXBBV084Ql96LVdtQ1cyakpJV21mNGhaVXhqVjVDR0Z2VFN3bFl3akE?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-09-08 12:04:24 PM ET",
+          "published_at": "2026-08-31 03:00:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 92,
+          "priority_score": 93,
           "key_data": [
-            "Terry Steiner Built a Global Entertainment Business by Serving a Market Hollywood Overlooked - inc.com"
+            "Trump calls for federal tax incentives to revive U.S. film industry - Los Angeles Times"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4120,45 +4122,45 @@
           ]
         }
       ],
-      "updated_at": "2026-09-13 04:36:45 PM ET"
+      "updated_at": "2026-09-13 06:56:50 PM ET"
     },
     {
       "key": "gaming",
       "name": "Gaming",
       "title": "Gaming Report",
-      "headline": "Overwatch Devs Confirm That Yes, Tracer Is Still The Game’s Mascot",
+      "headline": "Diablo 5 Director Confirms Game is Already in Full Production",
       "snapshot": "Gaming coverage is updating with 3 current RSS headline item(s).",
       "key_storylines": [
-        "Overwatch Devs Confirm That Yes, Tracer Is Still The Game’s Mascot",
+        "Diablo 5 Director Confirms Game is Already in Full Production",
         "Atari announces collaboration with Activision, launching new classic games for retro console - CBC",
-        "World of Warcraft: Forever Devs Explain Why the Game Makes WoW 2 Unlikely"
+        "The Witcher 3 Geralt Skin for Diablo 4 Barbarians Revealed — but There's a Catch"
       ],
       "watch_list": [
-        "Overwatch Devs Confirm That Yes, Tracer Is Still The Game’s Mascot",
+        "Diablo 5 Director Confirms Game is Already in Full Production",
         "Atari announces collaboration with Activision, launching new classic games for retro console - CBC",
-        "World of Warcraft: Forever Devs Explain Why the Game Makes WoW 2 Unlikely"
+        "The Witcher 3 Geralt Skin for Diablo 4 Barbarians Revealed — but There's a Catch"
       ],
       "homepage_cards": [
         {
-          "id": "gaming-0-1288234590139196121",
-          "key": "gaming-0-1288234590139196121",
+          "id": "gaming-0-1451634289299011845",
+          "key": "gaming-0-1451634289299011845",
           "category": "Gaming",
           "label": "Gaming",
-          "headline": "Overwatch Devs Confirm That Yes, Tracer Is Still The Game’s Mascot",
-          "title": "Overwatch Devs Confirm That Yes, Tracer Is Still The Game’s Mascot",
-          "snapshot": "You heard it here first, folks: Tracer is still the face of Overwatch, despite not being featured in many major collaborations or promotional materials as of late.",
-          "summary": "You heard it here first, folks: Tracer is still the face of Overwatch, despite not being featured in many major collaborations or promotional materials as of late.",
-          "url": "https://www.ign.com/articles/overwatch-devs-confirm-that-yes-tracer-is-still-the-games-mascot",
+          "headline": "Diablo 5 Director Confirms Game is Already in Full Production",
+          "title": "Diablo 5 Director Confirms Game is Already in Full Production",
+          "snapshot": "Diablo 5 is officially in full production and coming in 2029. Game Director Joe Shely reveals the sequel will feature more classes, procedural worlds, and jump 100 years into the future.",
+          "summary": "Diablo 5 is officially in full production and coming in 2029. Game Director Joe Shely reveals the sequel will feature more classes, procedural worlds, and jump 100 years into the future.",
+          "url": "https://www.ign.com/articles/diablo-5-director-confirms-game-is-already-in-full-production",
           "source": "IGN",
           "source_name": "IGN",
           "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-          "published_at": "2026-09-13 03:02:20 PM ET",
+          "published_at": "2026-09-13 05:41:04 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Overwatch Devs Confirm That Yes, Tracer Is Still The Game’s Mascot"
+            "Diablo 5 Director Confirms Game is Already in Full Production"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4168,8 +4170,8 @@
           ]
         },
         {
-          "id": "gaming-20-18422172669906465",
-          "key": "gaming-20-18422172669906465",
+          "id": "gaming-20-4103300641326405476",
+          "key": "gaming-20-4103300641326405476",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Atari announces collaboration with Activision, launching new classic games for retro console - CBC",
@@ -4196,25 +4198,25 @@
           ]
         },
         {
-          "id": "gaming-1-7896634717929910887",
-          "key": "gaming-1-7896634717929910887",
+          "id": "gaming-1-7903821552352545948",
+          "key": "gaming-1-7903821552352545948",
           "category": "Gaming",
           "label": "Gaming",
-          "headline": "World of Warcraft: Forever Devs Explain Why the Game Makes WoW 2 Unlikely",
-          "title": "World of Warcraft: Forever Devs Explain Why the Game Makes WoW 2 Unlikely",
-          "snapshot": "World of Warcraft: Forever developers Kris Zierhut and Mike Nuthals detail the game's new features and explain why a WoW 2 sequel is unnecessary.",
-          "summary": "World of Warcraft: Forever developers Kris Zierhut and Mike Nuthals detail the game's new features and explain why a WoW 2 sequel is unnecessary.",
-          "url": "https://www.ign.com/articles/world-of-warcraft-forever-wow-2-unlikely",
+          "headline": "The Witcher 3 Geralt Skin for Diablo 4 Barbarians Revealed — but There's a Catch",
+          "title": "The Witcher 3 Geralt Skin for Diablo 4 Barbarians Revealed — but There's a Catch",
+          "snapshot": "CD Projekt and Blizzard have released a first look at the Geralt-themed Barbarian skin for Diablo 4, but you'll need to preorder The Witcher 3 expansion Songs of the Past on Battle.net to get it.",
+          "summary": "CD Projekt and Blizzard have released a first look at the Geralt-themed Barbarian skin for Diablo 4, but you'll need to preorder The Witcher 3 expansion Songs of the Past on Battle.net to get it.",
+          "url": "https://www.ign.com/articles/the-witcher-3-geralt-skin-for-diablo-4-barbarians-revealed-but-theres-a-catch",
           "source": "IGN",
           "source_name": "IGN",
           "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-          "published_at": "2026-09-13 02:11:54 PM ET",
+          "published_at": "2026-09-13 04:36:29 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "World of Warcraft: Forever Devs Explain Why the Game Makes WoW 2 Unlikely"
+            "The Witcher 3 Geralt Skin for Diablo 4 Barbarians Revealed — but There's a Catch"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4226,25 +4228,25 @@
       ],
       "items": [
         {
-          "id": "gaming-0-1288234590139196121",
-          "key": "gaming-0-1288234590139196121",
+          "id": "gaming-0-1451634289299011845",
+          "key": "gaming-0-1451634289299011845",
           "category": "Gaming",
           "label": "Gaming",
-          "headline": "Overwatch Devs Confirm That Yes, Tracer Is Still The Game’s Mascot",
-          "title": "Overwatch Devs Confirm That Yes, Tracer Is Still The Game’s Mascot",
-          "snapshot": "You heard it here first, folks: Tracer is still the face of Overwatch, despite not being featured in many major collaborations or promotional materials as of late.",
-          "summary": "You heard it here first, folks: Tracer is still the face of Overwatch, despite not being featured in many major collaborations or promotional materials as of late.",
-          "url": "https://www.ign.com/articles/overwatch-devs-confirm-that-yes-tracer-is-still-the-games-mascot",
+          "headline": "Diablo 5 Director Confirms Game is Already in Full Production",
+          "title": "Diablo 5 Director Confirms Game is Already in Full Production",
+          "snapshot": "Diablo 5 is officially in full production and coming in 2029. Game Director Joe Shely reveals the sequel will feature more classes, procedural worlds, and jump 100 years into the future.",
+          "summary": "Diablo 5 is officially in full production and coming in 2029. Game Director Joe Shely reveals the sequel will feature more classes, procedural worlds, and jump 100 years into the future.",
+          "url": "https://www.ign.com/articles/diablo-5-director-confirms-game-is-already-in-full-production",
           "source": "IGN",
           "source_name": "IGN",
           "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-          "published_at": "2026-09-13 03:02:20 PM ET",
+          "published_at": "2026-09-13 05:41:04 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Overwatch Devs Confirm That Yes, Tracer Is Still The Game’s Mascot"
+            "Diablo 5 Director Confirms Game is Already in Full Production"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4254,8 +4256,8 @@
           ]
         },
         {
-          "id": "gaming-20-18422172669906465",
-          "key": "gaming-20-18422172669906465",
+          "id": "gaming-20-4103300641326405476",
+          "key": "gaming-20-4103300641326405476",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Atari announces collaboration with Activision, launching new classic games for retro console - CBC",
@@ -4282,25 +4284,25 @@
           ]
         },
         {
-          "id": "gaming-1-7896634717929910887",
-          "key": "gaming-1-7896634717929910887",
+          "id": "gaming-1-7903821552352545948",
+          "key": "gaming-1-7903821552352545948",
           "category": "Gaming",
           "label": "Gaming",
-          "headline": "World of Warcraft: Forever Devs Explain Why the Game Makes WoW 2 Unlikely",
-          "title": "World of Warcraft: Forever Devs Explain Why the Game Makes WoW 2 Unlikely",
-          "snapshot": "World of Warcraft: Forever developers Kris Zierhut and Mike Nuthals detail the game's new features and explain why a WoW 2 sequel is unnecessary.",
-          "summary": "World of Warcraft: Forever developers Kris Zierhut and Mike Nuthals detail the game's new features and explain why a WoW 2 sequel is unnecessary.",
-          "url": "https://www.ign.com/articles/world-of-warcraft-forever-wow-2-unlikely",
+          "headline": "The Witcher 3 Geralt Skin for Diablo 4 Barbarians Revealed — but There's a Catch",
+          "title": "The Witcher 3 Geralt Skin for Diablo 4 Barbarians Revealed — but There's a Catch",
+          "snapshot": "CD Projekt and Blizzard have released a first look at the Geralt-themed Barbarian skin for Diablo 4, but you'll need to preorder The Witcher 3 expansion Songs of the Past on Battle.net to get it.",
+          "summary": "CD Projekt and Blizzard have released a first look at the Geralt-themed Barbarian skin for Diablo 4, but you'll need to preorder The Witcher 3 expansion Songs of the Past on Battle.net to get it.",
+          "url": "https://www.ign.com/articles/the-witcher-3-geralt-skin-for-diablo-4-barbarians-revealed-but-theres-a-catch",
           "source": "IGN",
           "source_name": "IGN",
           "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-          "published_at": "2026-09-13 02:11:54 PM ET",
+          "published_at": "2026-09-13 04:36:29 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "World of Warcraft: Forever Devs Explain Why the Game Makes WoW 2 Unlikely"
+            "The Witcher 3 Geralt Skin for Diablo 4 Barbarians Revealed — but There's a Catch"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4310,7 +4312,7 @@
           ]
         }
       ],
-      "updated_at": "2026-09-13 04:36:46 PM ET"
+      "updated_at": "2026-09-13 06:56:51 PM ET"
     },
     {
       "key": "media",
@@ -4335,8 +4337,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "media-0-2631554633012235178",
-          "key": "media-0-2631554633012235178",
+          "id": "media-0-6957341090827964323",
+          "key": "media-0-6957341090827964323",
           "category": "Media",
           "label": "Media",
           "headline": "How Variety Covered 9/11 Attack and Its Aftermath 25 Years Ago",
@@ -4363,8 +4365,8 @@
           ]
         },
         {
-          "id": "media-10-4265108199026588988",
-          "key": "media-10-4265108199026588988",
+          "id": "media-10-9218699500446737838",
+          "key": "media-10-9218699500446737838",
           "category": "Media",
           "label": "Media",
           "headline": "Glen Basner & Roeg Sutherland Open Their Global Sales Playbook: “You Have To Reset Yourself Every Two Weeks” — TIFF: The Market",
@@ -4391,8 +4393,8 @@
           ]
         },
         {
-          "id": "media-21-3095074885774816097",
-          "key": "media-21-3095074885774816097",
+          "id": "media-21-7761456239106252039",
+          "key": "media-21-7761456239106252039",
           "category": "Media",
           "label": "Media",
           "headline": "New Partnership to Support Immersive Media, Entertainment, and Gaming Program at Bowie State - The Journal of Blacks in Higher Education",
@@ -4419,8 +4421,8 @@
           ]
         },
         {
-          "id": "media-1-4545095207289873491",
-          "key": "media-1-4545095207289873491",
+          "id": "media-1-4937966029570206721",
+          "key": "media-1-4937966029570206721",
           "category": "Media",
           "label": "Media",
           "headline": "Axios Co-Founders Urge Wielding AI to Help ‘Simplify’ Your Life in New Book",
@@ -4447,8 +4449,8 @@
           ]
         },
         {
-          "id": "media-11-5682756816364481633",
-          "key": "media-11-5682756816364481633",
+          "id": "media-11-4259076200233776590",
+          "key": "media-11-4259076200233776590",
           "category": "Media",
           "label": "Media",
           "headline": "Searchlight’s Matthew Greenfield On Getting People Into Movie Theaters & Finding New Talent On YouTube — TIFF: The Market",
@@ -4475,8 +4477,8 @@
           ]
         },
         {
-          "id": "media-22-1501679810671713886",
-          "key": "media-22-1501679810671713886",
+          "id": "media-22-4731736764703064822",
+          "key": "media-22-4731736764703064822",
           "category": "Media",
           "label": "Media",
           "headline": "Canada’s Top 25 Entertainment Dealmakers of 2026 - The Hollywood Reporter",
@@ -4505,8 +4507,8 @@
       ],
       "items": [
         {
-          "id": "media-0-2631554633012235178",
-          "key": "media-0-2631554633012235178",
+          "id": "media-0-6957341090827964323",
+          "key": "media-0-6957341090827964323",
           "category": "Media",
           "label": "Media",
           "headline": "How Variety Covered 9/11 Attack and Its Aftermath 25 Years Ago",
@@ -4533,8 +4535,8 @@
           ]
         },
         {
-          "id": "media-10-4265108199026588988",
-          "key": "media-10-4265108199026588988",
+          "id": "media-10-9218699500446737838",
+          "key": "media-10-9218699500446737838",
           "category": "Media",
           "label": "Media",
           "headline": "Glen Basner & Roeg Sutherland Open Their Global Sales Playbook: “You Have To Reset Yourself Every Two Weeks” — TIFF: The Market",
@@ -4561,8 +4563,8 @@
           ]
         },
         {
-          "id": "media-21-3095074885774816097",
-          "key": "media-21-3095074885774816097",
+          "id": "media-21-7761456239106252039",
+          "key": "media-21-7761456239106252039",
           "category": "Media",
           "label": "Media",
           "headline": "New Partnership to Support Immersive Media, Entertainment, and Gaming Program at Bowie State - The Journal of Blacks in Higher Education",
@@ -4589,8 +4591,8 @@
           ]
         },
         {
-          "id": "media-1-4545095207289873491",
-          "key": "media-1-4545095207289873491",
+          "id": "media-1-4937966029570206721",
+          "key": "media-1-4937966029570206721",
           "category": "Media",
           "label": "Media",
           "headline": "Axios Co-Founders Urge Wielding AI to Help ‘Simplify’ Your Life in New Book",
@@ -4617,8 +4619,8 @@
           ]
         },
         {
-          "id": "media-11-5682756816364481633",
-          "key": "media-11-5682756816364481633",
+          "id": "media-11-4259076200233776590",
+          "key": "media-11-4259076200233776590",
           "category": "Media",
           "label": "Media",
           "headline": "Searchlight’s Matthew Greenfield On Getting People Into Movie Theaters & Finding New Talent On YouTube — TIFF: The Market",
@@ -4645,8 +4647,8 @@
           ]
         },
         {
-          "id": "media-22-1501679810671713886",
-          "key": "media-22-1501679810671713886",
+          "id": "media-22-4731736764703064822",
+          "key": "media-22-4731736764703064822",
           "category": "Media",
           "label": "Media",
           "headline": "Canada’s Top 25 Entertainment Dealmakers of 2026 - The Hollywood Reporter",
@@ -4673,7 +4675,7 @@
           ]
         }
       ],
-      "updated_at": "2026-09-13 04:36:47 PM ET"
+      "updated_at": "2026-09-13 06:56:52 PM ET"
     }
   ]
 }
