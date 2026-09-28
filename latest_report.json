@@ -5,9 +5,9 @@
   "vertical": "Entertainment",
   "headline": "'Avengers: Doomsday' Co-Director Explains It's 'Very Difficult' to Evolve Marvel Characters, but 'We Need to Surprise Ourselves' and 'Audiences'",
   "snapshot": "Global Entertainment Report accepted 51 real RSS item(s) across 31 checked feed request(s).",
-  "generated_at": "2026-09-27 05:52:01 PM ET",
-  "updated_at": "2026-09-27 05:52:01 PM ET",
-  "published_at": "2026-09-27 05:52:01 PM ET",
+  "generated_at": "2026-09-27 08:20:38 PM ET",
+  "updated_at": "2026-09-27 08:20:38 PM ET",
+  "published_at": "2026-09-27 08:20:38 PM ET",
   "source_mode": "live RSS ingestion",
   "freshness": {
     "max_item_age_hours": 336,
@@ -53,9 +53,9 @@
       "final_url": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 67,
+      "rejected_count": 68,
       "rejection_reasons": {
-        "stale-over-336h": 67
+        "stale-over-336h": 68
       }
     },
     {
@@ -129,11 +129,11 @@
       "url": "https://news.google.com/rss/search?q=streaming+netflix+hulu+disney+entertainment&hl=en-US&gl=US&ceid=US:en",
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=streaming+netflix+hulu+disney+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "item_count": 66,
+      "item_count": 67,
       "accepted_count": 2,
-      "rejected_count": 64,
+      "rejected_count": 65,
       "rejection_reasons": {
-        "stale-over-336h": 64
+        "stale-over-336h": 65
       }
     },
     {
@@ -143,8 +143,10 @@
       "final_url": "https://variety.com/v/music/feed/",
       "item_count": 10,
       "accepted_count": 2,
-      "rejected_count": 0,
-      "rejection_reasons": {}
+      "rejected_count": 1,
+      "rejection_reasons": {
+        "duplicate-story": 1
+      }
     },
     {
       "category": "music",
@@ -175,9 +177,9 @@
       "final_url": "https://variety.com/v/awards/feed/",
       "item_count": 10,
       "accepted_count": 2,
-      "rejected_count": 1,
+      "rejected_count": 2,
       "rejection_reasons": {
-        "duplicate-story": 1
+        "duplicate-story": 2
       }
     },
     {
@@ -233,8 +235,9 @@
       "final_url": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 84,
+      "rejected_count": 85,
       "rejection_reasons": {
+        "duplicate-story": 1,
         "stale-over-336h": 84
       }
     },
@@ -269,9 +272,9 @@
       "final_url": "https://variety.com/feed/",
       "item_count": 10,
       "accepted_count": 2,
-      "rejected_count": 7,
+      "rejected_count": 8,
       "rejection_reasons": {
-        "duplicate-story": 7
+        "duplicate-story": 8
       }
     },
     {
@@ -293,9 +296,9 @@
       "final_url": "https://www.hollywoodreporter.com/feed/",
       "item_count": 10,
       "accepted_count": 2,
-      "rejected_count": 8,
+      "rejected_count": 7,
       "rejection_reasons": {
-        "duplicate-story": 8
+        "duplicate-story": 7
       }
     },
     {
@@ -325,12 +328,12 @@
       "url": "https://news.google.com/rss/search?q=gaming+video+games+entertainment&hl=en-US&gl=US&ceid=US:en",
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=gaming+video+games+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "item_count": 100,
+      "item_count": 96,
       "accepted_count": 1,
-      "rejected_count": 99,
+      "rejected_count": 95,
       "rejection_reasons": {
         "duplicate-story": 1,
-        "stale-over-336h": 98
+        "stale-over-336h": 94
       }
     },
     {
@@ -376,15 +379,15 @@
     "'Carrie' Cast Guide: Who Plays Who In The Latest Adaptation Of Stephen King's Debut Horror Novel",
     "Robert Pattinson Says It Would Be \"Tough\" for His Batman to Interact With Other Characters in James Gunn's DCU",
     "Review: Rebel Wilson's 'Girl Group' is one of the worst movies ever made - Mashable",
-    "Stella Lefty Parts Ways With Management",
-    "The Best Deals Today: Fire Emblem: Fortune's Weave, Metroid Prime 4, Nintendo Switch 2, and More",
+    "Rei Ami Says Lady Gaga's Meat Dress Is Still Iconic & Shares Her Favorite Taylor Swift Music Video | VMAs 2026",
+    "The Best Deals Today: Super Mario RPG, Fire Emblem: Fortune's Weave, Corsair K70 Keyboard, and More",
     "Anthony Mackie Says Chris Evans Gave Him the 'Avengers: Endgame' Script Early, Revealing How He'd Become Captain America: 'It Was Really Great and Really Emotional'",
     "'Your Mother Your Mother Your Mother' Starts Strong, Eyes 'American Fiction'-Style Rollout - Specialty Box Office"
   ],
   "live_newsroom": [
     {
-      "id": "film-0-6710189567620722671",
-      "key": "film-0-6710189567620722671",
+      "id": "film-0-2237679750071145309",
+      "key": "film-0-2237679750071145309",
       "category": "Film",
       "label": "Film",
       "headline": "'Avengers: Doomsday' Co-Director Explains It's 'Very Difficult' to Evolve Marvel Characters, but 'We Need to Surprise Ourselves' and 'Audiences'",
@@ -410,8 +413,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-169139476071624145",
-      "key": "film-10-169139476071624145",
+      "id": "film-10-1463047312613930565",
+      "key": "film-10-1463047312613930565",
       "category": "Film",
       "label": "Film",
       "headline": "'Carrie' Cast Guide: Who Plays Who In The Latest Adaptation Of Stephen King's Debut Horror Novel",
@@ -437,8 +440,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-4469122943320091167",
-      "key": "film-22-4469122943320091167",
+      "id": "film-22-1252384461347919434",
+      "key": "film-22-1252384461347919434",
       "category": "Film",
       "label": "Film",
       "headline": "Robert Pattinson Says It Would Be \"Tough\" for His Batman to Interact With Other Characters in James Gunn's DCU",
@@ -464,8 +467,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-4789318867889090496",
-      "key": "film-32-4789318867889090496",
+      "id": "film-32-6557266130438788255",
+      "key": "film-32-6557266130438788255",
       "category": "Film",
       "label": "Film",
       "headline": "Review: Rebel Wilson's 'Girl Group' is one of the worst movies ever made - Mashable",
@@ -491,22 +494,22 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-9124832667698429923",
-      "key": "music-10-9124832667698429923",
+      "id": "music-9-7432505453240701676",
+      "key": "music-9-7432505453240701676",
       "category": "Music",
       "label": "Music",
-      "headline": "Stella Lefty Parts Ways With Management",
-      "title": "Stella Lefty Parts Ways With Management",
-      "snapshot": "The \"Boston\" singer had been with Disruptor since the beginning of her career.",
-      "summary": "The \"Boston\" singer had been with Disruptor since the beginning of her career.",
-      "url": "https://www.billboard.com/pro/stella-lefty-leaves-disruptor-management/",
+      "headline": "Rei Ami Says Lady Gaga's Meat Dress Is Still Iconic & Shares Her Favorite Taylor Swift Music Video | VMAs 2026",
+      "title": "Rei Ami Says Lady Gaga's Meat Dress Is Still Iconic & Shares Her Favorite Taylor Swift Music Video | VMAs 2026",
+      "snapshot": "Fuerza Regida caught up with Billboard's Tetris Kelly on the red carpet of the 2026 MTV Video Music Awards.",
+      "summary": "Fuerza Regida caught up with Billboard's Tetris Kelly on the red carpet of the 2026 MTV Video Music Awards.",
+      "url": "https://www.billboard.com/video/rei-ami-vmas-2026/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-09-27 04:38:57 PM ET",
+      "published_at": "2026-09-27 08:02:17 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Stella Lefty Parts Ways With Management"
+        "Rei Ami Says Lady Gaga's Meat Dress Is Still Iconic & Shares Her Favorite Taylor Swift Music Video | VMAs 2026"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -515,25 +518,25 @@
         "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
       ],
       "story_type": "rss_headline",
-      "priority_score": 90
+      "priority_score": 91
     },
     {
-      "id": "gaming-0-6664586967900384819",
-      "key": "gaming-0-6664586967900384819",
+      "id": "gaming-0-7170122220541012588",
+      "key": "gaming-0-7170122220541012588",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "The Best Deals Today: Fire Emblem: Fortune's Weave, Metroid Prime 4, Nintendo Switch 2, and More",
-      "title": "The Best Deals Today: Fire Emblem: Fortune's Weave, Metroid Prime 4, Nintendo Switch 2, and More",
-      "snapshot": "A new weekend has arrived, and today, you can save on Fire Emblem: Fortune's Weave, Metroid Prime 4: Beyond, Nintendo Switch 2, and more. Check out our top picks for Saturday, September 26, below. Fire Emblem: Fortune's Weave for $69.97 Fire Emblem: Fortune's Weave is out now, and you can save $10 on a physical copy...",
-      "summary": "A new weekend has arrived, and today, you can save on Fire Emblem: Fortune's Weave, Metroid Prime 4: Beyond, Nintendo Switch 2, and more. Check out our top picks for Saturday, September 26, below. Fire Emblem: Fortune's Weave for $69.97 Fire Emblem: Fortune's Weave is out now, and you can save $10 on a physical copy...",
-      "url": "https://www.ign.com/articles/best-deals-for-september-26-2026",
+      "headline": "The Best Deals Today: Super Mario RPG, Fire Emblem: Fortune's Weave, Corsair K70 Keyboard, and More",
+      "title": "The Best Deals Today: Super Mario RPG, Fire Emblem: Fortune's Weave, Corsair K70 Keyboard, and More",
+      "snapshot": "A new weekend has arrived, and today, you can save on the Corsair K70 Mechanical Keyboard, Super Mario RPG, Fire Emblem: Fortune's Weave, Metroid Prime 4: Beyond, Nintendo Switch 2, and more. Check out our top picks for Sunday, September 27, below. Fire Emblem: Fortune's Weave for $69.97 Fire Emblem: Fortune's Weave...",
+      "summary": "A new weekend has arrived, and today, you can save on the Corsair K70 Mechanical Keyboard, Super Mario RPG, Fire Emblem: Fortune's Weave, Metroid Prime 4: Beyond, Nintendo Switch 2, and more. Check out our top picks for Sunday, September 27, below. Fire Emblem: Fortune's Weave for $69.97 Fire Emblem: Fortune's Weave...",
+      "url": "https://www.ign.com/articles/best-deals-for-september-27-2026",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-09-26 06:04:18 PM ET",
+      "published_at": "2026-09-27 05:22:16 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "The Best Deals Today: Fire Emblem: Fortune's Weave, Metroid Prime 4, Nintendo Switch 2, and More"
+        "The Best Deals Today: Super Mario RPG, Fire Emblem: Fortune's Weave, Corsair K70 Keyboard, and More"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -545,8 +548,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-4006274466022245493",
-      "key": "film-1-4006274466022245493",
+      "id": "film-1-4329608004131092917",
+      "key": "film-1-4329608004131092917",
       "category": "Film",
       "label": "Film",
       "headline": "Anthony Mackie Says Chris Evans Gave Him the 'Avengers: Endgame' Script Early, Revealing How He'd Become Captain America: 'It Was Really Great and Really Emotional'",
@@ -572,8 +575,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-4859043321093630150",
-      "key": "film-11-4859043321093630150",
+      "id": "film-11-167749838867680565",
+      "key": "film-11-167749838867680565",
       "category": "Film",
       "label": "Film",
       "headline": "'Your Mother Your Mother Your Mother' Starts Strong, Eyes 'American Fiction'-Style Rollout - Specialty Box Office",
@@ -599,8 +602,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-1074865254541790952",
-      "key": "film-23-1074865254541790952",
+      "id": "film-23-4060196845381256759",
+      "key": "film-23-4060196845381256759",
       "category": "Film",
       "label": "Film",
       "headline": "Naomi Watts Praises Husband Billy Crudup for Backing Her Menopause Activism: \"So Sweet - and Sexy\"",
@@ -626,8 +629,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-8530038926278884756",
-      "key": "film-33-8530038926278884756",
+      "id": "film-33-5954969005960620268",
+      "key": "film-33-5954969005960620268",
       "category": "Film",
       "label": "Film",
       "headline": "1982 Film Ranked Among the 'Best Boxing Movies' Had a Dark Side: Its Star Reveals an Eating Disorder and Says Steroids 'Took a Terrible Toll' - Men's Journal",
@@ -653,22 +656,22 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-7041071377581543567",
-      "key": "music-11-7041071377581543567",
+      "id": "music-10-3607252042332849597",
+      "key": "music-10-3607252042332849597",
       "category": "Music",
       "label": "Music",
-      "headline": "Rihanna Shares Adorable New Photos & Videos of Daughter Rocki After 1st Birthday",
-      "title": "Rihanna Shares Adorable New Photos & Videos of Daughter Rocki After 1st Birthday",
-      "snapshot": "\"Who let me have a daughter, bro?\" the superstar joked in the caption.",
-      "summary": "\"Who let me have a daughter, bro?\" the superstar joked in the caption.",
-      "url": "https://www.billboard.com/music/music-news/rihanna-daughter-rocki-1st-birthday-photos-videos-1236348490/",
+      "headline": "Fuerza Regida Talks Being A Part of Pushing Regional Mexican Music Globally & Their Love For Taylor Swift | VMAs 2026",
+      "title": "Fuerza Regida Talks Being A Part of Pushing Regional Mexican Music Globally & Their Love For Taylor Swift | VMAs 2026",
+      "snapshot": "Fuerza Regida caught up with Billboard's Tetris Kelly on the red carpet of the 2026 MTV Video Music Awards.",
+      "summary": "Fuerza Regida caught up with Billboard's Tetris Kelly on the red carpet of the 2026 MTV Video Music Awards.",
+      "url": "https://www.billboard.com/video/fuerza-regida-vmas-2026/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-09-27 03:58:30 PM ET",
+      "published_at": "2026-09-27 07:50:54 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Rihanna Shares Adorable New Photos & Videos of Daughter Rocki After 1st Birthday"
+        "Fuerza Regida Talks Being A Part of Pushing Regional Mexican Music Globally & Their Love For Taylor Swift | VMAs 2026"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -677,25 +680,25 @@
         "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
       ],
       "story_type": "rss_headline",
-      "priority_score": 89
+      "priority_score": 90
     },
     {
-      "id": "gaming-1-5443398353467202897",
-      "key": "gaming-1-5443398353467202897",
+      "id": "gaming-1-1484523883767684515",
+      "key": "gaming-1-1484523883767684515",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "The Last of Us Gets Animated Background on PS5 as Naughty Dog Teases Announcements for TLOU Day 2026",
-      "title": "The Last of Us Gets Animated Background on PS5 as Naughty Dog Teases Announcements for TLOU Day 2026",
-      "snapshot": "Naughty Dog has released a free background on PlayStation 5 as it prepares to celebrate The Last of Us Day 2026.",
-      "summary": "Naughty Dog has released a free background on PlayStation 5 as it prepares to celebrate The Last of Us Day 2026.",
-      "url": "https://www.ign.com/articles/the-last-of-us-gets-animated-background-on-ps5-as-naughty-dog-teases-announcements-for-tlou-day-2026",
+      "headline": "The Best Deals Today: Fire Emblem: Fortune's Weave, Metroid Prime 4, Nintendo Switch 2, and More",
+      "title": "The Best Deals Today: Fire Emblem: Fortune's Weave, Metroid Prime 4, Nintendo Switch 2, and More",
+      "snapshot": "A new weekend has arrived, and today, you can save on Fire Emblem: Fortune's Weave, Metroid Prime 4: Beyond, Nintendo Switch 2, and more. Check out our top picks for Saturday, September 26, below. Fire Emblem: Fortune's Weave for $69.97 Fire Emblem: Fortune's Weave is out now, and you can save $10 on a physical copy...",
+      "summary": "A new weekend has arrived, and today, you can save on Fire Emblem: Fortune's Weave, Metroid Prime 4: Beyond, Nintendo Switch 2, and more. Check out our top picks for Saturday, September 26, below. Fire Emblem: Fortune's Weave for $69.97 Fire Emblem: Fortune's Weave is out now, and you can save $10 on a physical copy...",
+      "url": "https://www.ign.com/articles/best-deals-for-september-26-2026",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-09-26 02:29:29 PM ET",
+      "published_at": "2026-09-26 06:04:18 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "The Last of Us Gets Animated Background on PS5 as Naughty Dog Teases Announcements for TLOU Day 2026"
+        "The Best Deals Today: Fire Emblem: Fortune's Weave, Metroid Prime 4, Nintendo Switch 2, and More"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -709,8 +712,8 @@
   ],
   "editor_signals": [
     {
-      "id": "film-2-1553670743484593172",
-      "key": "film-2-1553670743484593172",
+      "id": "film-2-6489857616880597030",
+      "key": "film-2-6489857616880597030",
       "category": "Film",
       "label": "Film",
       "headline": "Chris Rock Says Infidelity and Struggling to 'Make It' Aren't Just Hollywood Problems: 'If You Got No Love, You're Broke as F-k'",
@@ -736,8 +739,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-7855459323992127612",
-      "key": "film-12-7855459323992127612",
+      "id": "film-12-5703344162840338721",
+      "key": "film-12-5703344162840338721",
       "category": "Film",
       "label": "Film",
       "headline": "Kevin Mayer Shares Thoughts On Paramount-Warner Bros Merger - Zurich Summit",
@@ -763,8 +766,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-3804289674958670201",
-      "key": "film-24-3804289674958670201",
+      "id": "film-24-358999136638546084",
+      "key": "film-24-358999136638546084",
       "category": "Film",
       "label": "Film",
       "headline": "'Avengers: Endgame' Powers $26M Return at Crowded Box Office",
@@ -790,8 +793,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-2410670390002492284",
-      "key": "film-34-2410670390002492284",
+      "id": "film-34-9008950481524297067",
+      "key": "film-34-9008950481524297067",
       "category": "Film",
       "label": "Film",
       "headline": "Nick Robinson talks new film 'Charlie Harper,' favorite romantic movies - Yakima Herald-Republic",
@@ -817,22 +820,22 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-2458322739832966337",
-      "key": "music-12-2458322739832966337",
+      "id": "music-11-5797846544483861377",
+      "key": "music-11-5797846544483861377",
       "category": "Music",
       "label": "Music",
-      "headline": "Fans Choose Madonna & Charli xcx's 'Danceteria Afterhours' as This Week's Favorite New Music",
-      "title": "Fans Choose Madonna & Charli xcx's 'Danceteria Afterhours' as This Week's Favorite New Music",
-      "snapshot": "The collab brought in more than 63% of the vote.",
-      "summary": "The collab brought in more than 63% of the vote.",
-      "url": "https://www.billboard.com/music/pop/madonna-charli-xcx-danceteria-afterhours-best-new-music-1236348464/",
+      "headline": "Slayyyter, Taylor Swift, LISA & More Rock the 2026 MTV VMAs Red Carpet: See the Best Photos",
+      "title": "Slayyyter, Taylor Swift, LISA & More Rock the 2026 MTV VMAs Red Carpet: See the Best Photos",
+      "snapshot": "From Slayyyter and Charli xcx to Nirvana, Public Enemy and more, see the stars arrive for this year's ceremony.",
+      "summary": "From Slayyyter and Charli xcx to Nirvana, Public Enemy and more, see the stars arrive for this year's ceremony.",
+      "url": "https://www.billboard.com/photos/vmas-red-carpet-photos-1236348563/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-09-27 03:47:48 PM ET",
+      "published_at": "2026-09-27 07:45:42 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Fans Choose Madonna & Charli xcx's 'Danceteria Afterhours' as This Week's Favorite New Music"
+        "Slayyyter, Taylor Swift, LISA & More Rock the 2026 MTV VMAs Red Carpet: See the Best Photos"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -841,25 +844,25 @@
         "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
       ],
       "story_type": "rss_headline",
-      "priority_score": 88
+      "priority_score": 89
     },
     {
-      "id": "gaming-2-3805632272965024424",
-      "key": "gaming-2-3805632272965024424",
+      "id": "gaming-2-8932961798962816917",
+      "key": "gaming-2-8932961798962816917",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Minecraft Confirms Ice Caves as Next Game Drop, Adds Frozen Zombies, Ice Balls, and More",
-      "title": "Minecraft Confirms Ice Caves as Next Game Drop, Adds Frozen Zombies, Ice Balls, and More",
-      "snapshot": "Mojang has teased Minecraft's next game drop, giving fans a sneak peek at some of its features.",
-      "summary": "Mojang has teased Minecraft's next game drop, giving fans a sneak peek at some of its features.",
-      "url": "https://www.ign.com/articles/minecraft-confirms-ice-caves-as-next-game-drop-adds-frozen-zombies-ice-balls-and-more",
+      "headline": "The Last of Us Gets Animated Background on PS5 as Naughty Dog Teases Announcements for TLOU Day 2026",
+      "title": "The Last of Us Gets Animated Background on PS5 as Naughty Dog Teases Announcements for TLOU Day 2026",
+      "snapshot": "Naughty Dog has released a free background on PlayStation 5 as it prepares to celebrate The Last of Us Day 2026.",
+      "summary": "Naughty Dog has released a free background on PlayStation 5 as it prepares to celebrate The Last of Us Day 2026.",
+      "url": "https://www.ign.com/articles/the-last-of-us-gets-animated-background-on-ps5-as-naughty-dog-teases-announcements-for-tlou-day-2026",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-09-26 01:32:00 PM ET",
+      "published_at": "2026-09-26 02:29:29 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Minecraft Confirms Ice Caves as Next Game Drop, Adds Frozen Zombies, Ice Balls, and More"
+        "The Last of Us Gets Animated Background on PS5 as Naughty Dog Teases Announcements for TLOU Day 2026"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -871,8 +874,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-2893354856837686615",
-      "key": "film-3-2893354856837686615",
+      "id": "film-3-1082551922346789148",
+      "key": "film-3-1082551922346789148",
       "category": "Film",
       "label": "Film",
       "headline": "'Avengers: Endgame Encore' Scores Massive $86 Million Globally, Brad Pitt's 'Heart of the Beast' Launches to $50 Million Worldwide",
@@ -898,8 +901,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-2929114030084929472",
-      "key": "film-13-2929114030084929472",
+      "id": "film-13-6320877541207645104",
+      "key": "film-13-6320877541207645104",
       "category": "Film",
       "label": "Film",
       "headline": "'Musk' Producer, Atwater-Magnific Exec & 'Gods Don't Give Gifts' Director Talk AI: \"It's Important To Get In The Driver's Seat\" - Zurich Summit",
@@ -925,8 +928,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-2656308957239221591",
-      "key": "film-25-2656308957239221591",
+      "id": "film-25-8897384039813734768",
+      "key": "film-25-8897384039813734768",
       "category": "Film",
       "label": "Film",
       "headline": "Israeli Americans Protest Outside 'NAZA' New York Premiere by Screening Oct. 7 Attacks Footage",
@@ -952,8 +955,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-5728693126516686499",
-      "key": "film-35-5728693126516686499",
+      "id": "film-35-3903245407327329047",
+      "key": "film-35-3903245407327329047",
       "category": "Film",
       "label": "Film",
       "headline": "New movies to watch this weekend: See 'Primetime' and 'Heart of the Beast' in theaters, rent or buy 'Super Troopers 3,' stream 'Tuner' on Paramount+ - Yahoo",
@@ -979,22 +982,22 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-5741796142067452145",
-      "key": "music-13-5741796142067452145",
+      "id": "music-12-3127618357358323078",
+      "key": "music-12-3127618357358323078",
       "category": "Music",
       "label": "Music",
-      "headline": "Ed Sheeran Roasted by 'Chicken Shop Date' Host Amelia Dimoldenberg on 'SNL UK': Watch",
-      "title": "Ed Sheeran Roasted by 'Chicken Shop Date' Host Amelia Dimoldenberg on 'SNL UK': Watch",
-      "snapshot": "The British comedian poked fun at Sheeran's Loop Tour controversy in her opening monologue.",
-      "summary": "The British comedian poked fun at Sheeran's Loop Tour controversy in her opening monologue.",
-      "url": "https://www.billboard.com/music/music-news/snl-uk-ed-sheeran-amelia-dimoldenberg-chicken-shop-date-1236348460/",
+      "headline": "Slayyyter Shares Her Favorite Thing People Are Discovering About Her & The Thought She Puts In Her Visuals | VMAs 2026",
+      "title": "Slayyyter Shares Her Favorite Thing People Are Discovering About Her & The Thought She Puts In Her Visuals | VMAs 2026",
+      "snapshot": "Slayyyter caught up with Billboard's Tetris Kelly on the red carpet of the 2026 MTV Video Music Awards.",
+      "summary": "Slayyyter caught up with Billboard's Tetris Kelly on the red carpet of the 2026 MTV Video Music Awards.",
+      "url": "https://www.billboard.com/video/slayyyter-vmas-2026/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-09-27 02:58:18 PM ET",
+      "published_at": "2026-09-27 07:29:13 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Ed Sheeran Roasted by 'Chicken Shop Date' Host Amelia Dimoldenberg on 'SNL UK': Watch"
+        "Slayyyter Shares Her Favorite Thing People Are Discovering About Her & The Thought She Puts In Her Visuals | VMAs 2026"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1003,25 +1006,25 @@
         "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
       ],
       "story_type": "rss_headline",
-      "priority_score": 87
+      "priority_score": 88
     },
     {
-      "id": "gaming-3-2181846175027576364",
-      "key": "gaming-3-2181846175027576364",
+      "id": "gaming-3-2037125414100601338",
+      "key": "gaming-3-2037125414100601338",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "World's First Official Minecraft Hotel Revealed for 2027, First Ever Minecraft Rollercoaster Named",
-      "title": "World's First Official Minecraft Hotel Revealed for 2027, First Ever Minecraft Rollercoaster Named",
-      "snapshot": "Minecraft World got two announcements at Minecraft LIVE today: the world's first official Minecraft hotel, and the name of the first ever Minecraft rollercoaster.",
-      "summary": "Minecraft World got two announcements at Minecraft LIVE today: the world's first official Minecraft hotel, and the name of the first ever Minecraft rollercoaster.",
-      "url": "https://www.ign.com/articles/worlds-first-official-minecraft-hotel-revealed-for-2027-first-ever-minecraft-rollercoaster-named",
+      "headline": "Minecraft Confirms Ice Caves as Next Game Drop, Adds Frozen Zombies, Ice Balls, and More",
+      "title": "Minecraft Confirms Ice Caves as Next Game Drop, Adds Frozen Zombies, Ice Balls, and More",
+      "snapshot": "Mojang has teased Minecraft's next game drop, giving fans a sneak peek at some of its features.",
+      "summary": "Mojang has teased Minecraft's next game drop, giving fans a sneak peek at some of its features.",
+      "url": "https://www.ign.com/articles/minecraft-confirms-ice-caves-as-next-game-drop-adds-frozen-zombies-ice-balls-and-more",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-09-26 01:30:14 PM ET",
+      "published_at": "2026-09-26 01:32:00 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "World's First Official Minecraft Hotel Revealed for 2027, First Ever Minecraft Rollercoaster Named"
+        "Minecraft Confirms Ice Caves as Next Game Drop, Adds Frozen Zombies, Ice Balls, and More"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1035,8 +1038,8 @@
   ],
   "homepage_cards": [
     {
-      "id": "film-0-6710189567620722671",
-      "key": "film-0-6710189567620722671",
+      "id": "film-0-2237679750071145309",
+      "key": "film-0-2237679750071145309",
       "category": "Film",
       "label": "Film",
       "headline": "'Avengers: Doomsday' Co-Director Explains It's 'Very Difficult' to Evolve Marvel Characters, but 'We Need to Surprise Ourselves' and 'Audiences'",
@@ -1062,8 +1065,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-169139476071624145",
-      "key": "film-10-169139476071624145",
+      "id": "film-10-1463047312613930565",
+      "key": "film-10-1463047312613930565",
       "category": "Film",
       "label": "Film",
       "headline": "'Carrie' Cast Guide: Who Plays Who In The Latest Adaptation Of Stephen King's Debut Horror Novel",
@@ -1089,8 +1092,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-4469122943320091167",
-      "key": "film-22-4469122943320091167",
+      "id": "film-22-1252384461347919434",
+      "key": "film-22-1252384461347919434",
       "category": "Film",
       "label": "Film",
       "headline": "Robert Pattinson Says It Would Be \"Tough\" for His Batman to Interact With Other Characters in James Gunn's DCU",
@@ -1116,8 +1119,8 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-4789318867889090496",
-      "key": "film-32-4789318867889090496",
+      "id": "film-32-6557266130438788255",
+      "key": "film-32-6557266130438788255",
       "category": "Film",
       "label": "Film",
       "headline": "Review: Rebel Wilson's 'Girl Group' is one of the worst movies ever made - Mashable",
@@ -1143,22 +1146,22 @@
       "priority_score": 68
     },
     {
-      "id": "music-10-9124832667698429923",
-      "key": "music-10-9124832667698429923",
+      "id": "music-9-7432505453240701676",
+      "key": "music-9-7432505453240701676",
       "category": "Music",
       "label": "Music",
-      "headline": "Stella Lefty Parts Ways With Management",
-      "title": "Stella Lefty Parts Ways With Management",
-      "snapshot": "The \"Boston\" singer had been with Disruptor since the beginning of her career.",
-      "summary": "The \"Boston\" singer had been with Disruptor since the beginning of her career.",
-      "url": "https://www.billboard.com/pro/stella-lefty-leaves-disruptor-management/",
+      "headline": "Rei Ami Says Lady Gaga's Meat Dress Is Still Iconic & Shares Her Favorite Taylor Swift Music Video | VMAs 2026",
+      "title": "Rei Ami Says Lady Gaga's Meat Dress Is Still Iconic & Shares Her Favorite Taylor Swift Music Video | VMAs 2026",
+      "snapshot": "Fuerza Regida caught up with Billboard's Tetris Kelly on the red carpet of the 2026 MTV Video Music Awards.",
+      "summary": "Fuerza Regida caught up with Billboard's Tetris Kelly on the red carpet of the 2026 MTV Video Music Awards.",
+      "url": "https://www.billboard.com/video/rei-ami-vmas-2026/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-09-27 04:38:57 PM ET",
+      "published_at": "2026-09-27 08:02:17 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Stella Lefty Parts Ways With Management"
+        "Rei Ami Says Lady Gaga's Meat Dress Is Still Iconic & Shares Her Favorite Taylor Swift Music Video | VMAs 2026"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1167,25 +1170,25 @@
         "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
       ],
       "story_type": "rss_headline",
-      "priority_score": 90
+      "priority_score": 91
     },
     {
-      "id": "gaming-0-6664586967900384819",
-      "key": "gaming-0-6664586967900384819",
+      "id": "gaming-0-7170122220541012588",
+      "key": "gaming-0-7170122220541012588",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "The Best Deals Today: Fire Emblem: Fortune's Weave, Metroid Prime 4, Nintendo Switch 2, and More",
-      "title": "The Best Deals Today: Fire Emblem: Fortune's Weave, Metroid Prime 4, Nintendo Switch 2, and More",
-      "snapshot": "A new weekend has arrived, and today, you can save on Fire Emblem: Fortune's Weave, Metroid Prime 4: Beyond, Nintendo Switch 2, and more. Check out our top picks for Saturday, September 26, below. Fire Emblem: Fortune's Weave for $69.97 Fire Emblem: Fortune's Weave is out now, and you can save $10 on a physical copy...",
-      "summary": "A new weekend has arrived, and today, you can save on Fire Emblem: Fortune's Weave, Metroid Prime 4: Beyond, Nintendo Switch 2, and more. Check out our top picks for Saturday, September 26, below. Fire Emblem: Fortune's Weave for $69.97 Fire Emblem: Fortune's Weave is out now, and you can save $10 on a physical copy...",
-      "url": "https://www.ign.com/articles/best-deals-for-september-26-2026",
+      "headline": "The Best Deals Today: Super Mario RPG, Fire Emblem: Fortune's Weave, Corsair K70 Keyboard, and More",
+      "title": "The Best Deals Today: Super Mario RPG, Fire Emblem: Fortune's Weave, Corsair K70 Keyboard, and More",
+      "snapshot": "A new weekend has arrived, and today, you can save on the Corsair K70 Mechanical Keyboard, Super Mario RPG, Fire Emblem: Fortune's Weave, Metroid Prime 4: Beyond, Nintendo Switch 2, and more. Check out our top picks for Sunday, September 27, below. Fire Emblem: Fortune's Weave for $69.97 Fire Emblem: Fortune's Weave...",
+      "summary": "A new weekend has arrived, and today, you can save on the Corsair K70 Mechanical Keyboard, Super Mario RPG, Fire Emblem: Fortune's Weave, Metroid Prime 4: Beyond, Nintendo Switch 2, and more. Check out our top picks for Sunday, September 27, below. Fire Emblem: Fortune's Weave for $69.97 Fire Emblem: Fortune's Weave...",
+      "url": "https://www.ign.com/articles/best-deals-for-september-27-2026",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-09-26 06:04:18 PM ET",
+      "published_at": "2026-09-27 05:22:16 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "The Best Deals Today: Fire Emblem: Fortune's Weave, Metroid Prime 4, Nintendo Switch 2, and More"
+        "The Best Deals Today: Super Mario RPG, Fire Emblem: Fortune's Weave, Corsair K70 Keyboard, and More"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1197,8 +1200,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-4006274466022245493",
-      "key": "film-1-4006274466022245493",
+      "id": "film-1-4329608004131092917",
+      "key": "film-1-4329608004131092917",
       "category": "Film",
       "label": "Film",
       "headline": "Anthony Mackie Says Chris Evans Gave Him the 'Avengers: Endgame' Script Early, Revealing How He'd Become Captain America: 'It Was Really Great and Really Emotional'",
@@ -1224,8 +1227,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-4859043321093630150",
-      "key": "film-11-4859043321093630150",
+      "id": "film-11-167749838867680565",
+      "key": "film-11-167749838867680565",
       "category": "Film",
       "label": "Film",
       "headline": "'Your Mother Your Mother Your Mother' Starts Strong, Eyes 'American Fiction'-Style Rollout - Specialty Box Office",
@@ -1251,8 +1254,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-1074865254541790952",
-      "key": "film-23-1074865254541790952",
+      "id": "film-23-4060196845381256759",
+      "key": "film-23-4060196845381256759",
       "category": "Film",
       "label": "Film",
       "headline": "Naomi Watts Praises Husband Billy Crudup for Backing Her Menopause Activism: \"So Sweet - and Sexy\"",
@@ -1278,8 +1281,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-8530038926278884756",
-      "key": "film-33-8530038926278884756",
+      "id": "film-33-5954969005960620268",
+      "key": "film-33-5954969005960620268",
       "category": "Film",
       "label": "Film",
       "headline": "1982 Film Ranked Among the 'Best Boxing Movies' Had a Dark Side: Its Star Reveals an Eating Disorder and Says Steroids 'Took a Terrible Toll' - Men's Journal",
@@ -1305,22 +1308,22 @@
       "priority_score": 67
     },
     {
-      "id": "music-11-7041071377581543567",
-      "key": "music-11-7041071377581543567",
+      "id": "music-10-3607252042332849597",
+      "key": "music-10-3607252042332849597",
       "category": "Music",
       "label": "Music",
-      "headline": "Rihanna Shares Adorable New Photos & Videos of Daughter Rocki After 1st Birthday",
-      "title": "Rihanna Shares Adorable New Photos & Videos of Daughter Rocki After 1st Birthday",
-      "snapshot": "\"Who let me have a daughter, bro?\" the superstar joked in the caption.",
-      "summary": "\"Who let me have a daughter, bro?\" the superstar joked in the caption.",
-      "url": "https://www.billboard.com/music/music-news/rihanna-daughter-rocki-1st-birthday-photos-videos-1236348490/",
+      "headline": "Fuerza Regida Talks Being A Part of Pushing Regional Mexican Music Globally & Their Love For Taylor Swift | VMAs 2026",
+      "title": "Fuerza Regida Talks Being A Part of Pushing Regional Mexican Music Globally & Their Love For Taylor Swift | VMAs 2026",
+      "snapshot": "Fuerza Regida caught up with Billboard's Tetris Kelly on the red carpet of the 2026 MTV Video Music Awards.",
+      "summary": "Fuerza Regida caught up with Billboard's Tetris Kelly on the red carpet of the 2026 MTV Video Music Awards.",
+      "url": "https://www.billboard.com/video/fuerza-regida-vmas-2026/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-09-27 03:58:30 PM ET",
+      "published_at": "2026-09-27 07:50:54 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Rihanna Shares Adorable New Photos & Videos of Daughter Rocki After 1st Birthday"
+        "Fuerza Regida Talks Being A Part of Pushing Regional Mexican Music Globally & Their Love For Taylor Swift | VMAs 2026"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1329,25 +1332,25 @@
         "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
       ],
       "story_type": "rss_headline",
-      "priority_score": 89
+      "priority_score": 90
     },
     {
-      "id": "gaming-1-5443398353467202897",
-      "key": "gaming-1-5443398353467202897",
+      "id": "gaming-1-1484523883767684515",
+      "key": "gaming-1-1484523883767684515",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "The Last of Us Gets Animated Background on PS5 as Naughty Dog Teases Announcements for TLOU Day 2026",
-      "title": "The Last of Us Gets Animated Background on PS5 as Naughty Dog Teases Announcements for TLOU Day 2026",
-      "snapshot": "Naughty Dog has released a free background on PlayStation 5 as it prepares to celebrate The Last of Us Day 2026.",
-      "summary": "Naughty Dog has released a free background on PlayStation 5 as it prepares to celebrate The Last of Us Day 2026.",
-      "url": "https://www.ign.com/articles/the-last-of-us-gets-animated-background-on-ps5-as-naughty-dog-teases-announcements-for-tlou-day-2026",
+      "headline": "The Best Deals Today: Fire Emblem: Fortune's Weave, Metroid Prime 4, Nintendo Switch 2, and More",
+      "title": "The Best Deals Today: Fire Emblem: Fortune's Weave, Metroid Prime 4, Nintendo Switch 2, and More",
+      "snapshot": "A new weekend has arrived, and today, you can save on Fire Emblem: Fortune's Weave, Metroid Prime 4: Beyond, Nintendo Switch 2, and more. Check out our top picks for Saturday, September 26, below. Fire Emblem: Fortune's Weave for $69.97 Fire Emblem: Fortune's Weave is out now, and you can save $10 on a physical copy...",
+      "summary": "A new weekend has arrived, and today, you can save on Fire Emblem: Fortune's Weave, Metroid Prime 4: Beyond, Nintendo Switch 2, and more. Check out our top picks for Saturday, September 26, below. Fire Emblem: Fortune's Weave for $69.97 Fire Emblem: Fortune's Weave is out now, and you can save $10 on a physical copy...",
+      "url": "https://www.ign.com/articles/best-deals-for-september-26-2026",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-09-26 02:29:29 PM ET",
+      "published_at": "2026-09-26 06:04:18 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "The Last of Us Gets Animated Background on PS5 as Naughty Dog Teases Announcements for TLOU Day 2026"
+        "The Best Deals Today: Fire Emblem: Fortune's Weave, Metroid Prime 4, Nintendo Switch 2, and More"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1359,8 +1362,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-2-1553670743484593172",
-      "key": "film-2-1553670743484593172",
+      "id": "film-2-6489857616880597030",
+      "key": "film-2-6489857616880597030",
       "category": "Film",
       "label": "Film",
       "headline": "Chris Rock Says Infidelity and Struggling to 'Make It' Aren't Just Hollywood Problems: 'If You Got No Love, You're Broke as F-k'",
@@ -1386,8 +1389,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-7855459323992127612",
-      "key": "film-12-7855459323992127612",
+      "id": "film-12-5703344162840338721",
+      "key": "film-12-5703344162840338721",
       "category": "Film",
       "label": "Film",
       "headline": "Kevin Mayer Shares Thoughts On Paramount-Warner Bros Merger - Zurich Summit",
@@ -1413,8 +1416,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-3804289674958670201",
-      "key": "film-24-3804289674958670201",
+      "id": "film-24-358999136638546084",
+      "key": "film-24-358999136638546084",
       "category": "Film",
       "label": "Film",
       "headline": "'Avengers: Endgame' Powers $26M Return at Crowded Box Office",
@@ -1440,8 +1443,8 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-2410670390002492284",
-      "key": "film-34-2410670390002492284",
+      "id": "film-34-9008950481524297067",
+      "key": "film-34-9008950481524297067",
       "category": "Film",
       "label": "Film",
       "headline": "Nick Robinson talks new film 'Charlie Harper,' favorite romantic movies - Yakima Herald-Republic",
@@ -1467,22 +1470,22 @@
       "priority_score": 66
     },
     {
-      "id": "music-12-2458322739832966337",
-      "key": "music-12-2458322739832966337",
+      "id": "music-11-5797846544483861377",
+      "key": "music-11-5797846544483861377",
       "category": "Music",
       "label": "Music",
-      "headline": "Fans Choose Madonna & Charli xcx's 'Danceteria Afterhours' as This Week's Favorite New Music",
-      "title": "Fans Choose Madonna & Charli xcx's 'Danceteria Afterhours' as This Week's Favorite New Music",
-      "snapshot": "The collab brought in more than 63% of the vote.",
-      "summary": "The collab brought in more than 63% of the vote.",
-      "url": "https://www.billboard.com/music/pop/madonna-charli-xcx-danceteria-afterhours-best-new-music-1236348464/",
+      "headline": "Slayyyter, Taylor Swift, LISA & More Rock the 2026 MTV VMAs Red Carpet: See the Best Photos",
+      "title": "Slayyyter, Taylor Swift, LISA & More Rock the 2026 MTV VMAs Red Carpet: See the Best Photos",
+      "snapshot": "From Slayyyter and Charli xcx to Nirvana, Public Enemy and more, see the stars arrive for this year's ceremony.",
+      "summary": "From Slayyyter and Charli xcx to Nirvana, Public Enemy and more, see the stars arrive for this year's ceremony.",
+      "url": "https://www.billboard.com/photos/vmas-red-carpet-photos-1236348563/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-09-27 03:47:48 PM ET",
+      "published_at": "2026-09-27 07:45:42 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Fans Choose Madonna & Charli xcx's 'Danceteria Afterhours' as This Week's Favorite New Music"
+        "Slayyyter, Taylor Swift, LISA & More Rock the 2026 MTV VMAs Red Carpet: See the Best Photos"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1491,25 +1494,25 @@
         "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
       ],
       "story_type": "rss_headline",
-      "priority_score": 88
+      "priority_score": 89
     },
     {
-      "id": "gaming-2-3805632272965024424",
-      "key": "gaming-2-3805632272965024424",
+      "id": "gaming-2-8932961798962816917",
+      "key": "gaming-2-8932961798962816917",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "Minecraft Confirms Ice Caves as Next Game Drop, Adds Frozen Zombies, Ice Balls, and More",
-      "title": "Minecraft Confirms Ice Caves as Next Game Drop, Adds Frozen Zombies, Ice Balls, and More",
-      "snapshot": "Mojang has teased Minecraft's next game drop, giving fans a sneak peek at some of its features.",
-      "summary": "Mojang has teased Minecraft's next game drop, giving fans a sneak peek at some of its features.",
-      "url": "https://www.ign.com/articles/minecraft-confirms-ice-caves-as-next-game-drop-adds-frozen-zombies-ice-balls-and-more",
+      "headline": "The Last of Us Gets Animated Background on PS5 as Naughty Dog Teases Announcements for TLOU Day 2026",
+      "title": "The Last of Us Gets Animated Background on PS5 as Naughty Dog Teases Announcements for TLOU Day 2026",
+      "snapshot": "Naughty Dog has released a free background on PlayStation 5 as it prepares to celebrate The Last of Us Day 2026.",
+      "summary": "Naughty Dog has released a free background on PlayStation 5 as it prepares to celebrate The Last of Us Day 2026.",
+      "url": "https://www.ign.com/articles/the-last-of-us-gets-animated-background-on-ps5-as-naughty-dog-teases-announcements-for-tlou-day-2026",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-09-26 01:32:00 PM ET",
+      "published_at": "2026-09-26 02:29:29 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Minecraft Confirms Ice Caves as Next Game Drop, Adds Frozen Zombies, Ice Balls, and More"
+        "The Last of Us Gets Animated Background on PS5 as Naughty Dog Teases Announcements for TLOU Day 2026"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1521,8 +1524,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-2893354856837686615",
-      "key": "film-3-2893354856837686615",
+      "id": "film-3-1082551922346789148",
+      "key": "film-3-1082551922346789148",
       "category": "Film",
       "label": "Film",
       "headline": "'Avengers: Endgame Encore' Scores Massive $86 Million Globally, Brad Pitt's 'Heart of the Beast' Launches to $50 Million Worldwide",
@@ -1548,8 +1551,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-2929114030084929472",
-      "key": "film-13-2929114030084929472",
+      "id": "film-13-6320877541207645104",
+      "key": "film-13-6320877541207645104",
       "category": "Film",
       "label": "Film",
       "headline": "'Musk' Producer, Atwater-Magnific Exec & 'Gods Don't Give Gifts' Director Talk AI: \"It's Important To Get In The Driver's Seat\" - Zurich Summit",
@@ -1575,8 +1578,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-2656308957239221591",
-      "key": "film-25-2656308957239221591",
+      "id": "film-25-8897384039813734768",
+      "key": "film-25-8897384039813734768",
       "category": "Film",
       "label": "Film",
       "headline": "Israeli Americans Protest Outside 'NAZA' New York Premiere by Screening Oct. 7 Attacks Footage",
@@ -1602,8 +1605,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-5728693126516686499",
-      "key": "film-35-5728693126516686499",
+      "id": "film-35-3903245407327329047",
+      "key": "film-35-3903245407327329047",
       "category": "Film",
       "label": "Film",
       "headline": "New movies to watch this weekend: See 'Primetime' and 'Heart of the Beast' in theaters, rent or buy 'Super Troopers 3,' stream 'Tuner' on Paramount+ - Yahoo",
@@ -1629,22 +1632,22 @@
       "priority_score": 65
     },
     {
-      "id": "music-13-5741796142067452145",
-      "key": "music-13-5741796142067452145",
+      "id": "music-12-3127618357358323078",
+      "key": "music-12-3127618357358323078",
       "category": "Music",
       "label": "Music",
-      "headline": "Ed Sheeran Roasted by 'Chicken Shop Date' Host Amelia Dimoldenberg on 'SNL UK': Watch",
-      "title": "Ed Sheeran Roasted by 'Chicken Shop Date' Host Amelia Dimoldenberg on 'SNL UK': Watch",
-      "snapshot": "The British comedian poked fun at Sheeran's Loop Tour controversy in her opening monologue.",
-      "summary": "The British comedian poked fun at Sheeran's Loop Tour controversy in her opening monologue.",
-      "url": "https://www.billboard.com/music/music-news/snl-uk-ed-sheeran-amelia-dimoldenberg-chicken-shop-date-1236348460/",
+      "headline": "Slayyyter Shares Her Favorite Thing People Are Discovering About Her & The Thought She Puts In Her Visuals | VMAs 2026",
+      "title": "Slayyyter Shares Her Favorite Thing People Are Discovering About Her & The Thought She Puts In Her Visuals | VMAs 2026",
+      "snapshot": "Slayyyter caught up with Billboard's Tetris Kelly on the red carpet of the 2026 MTV Video Music Awards.",
+      "summary": "Slayyyter caught up with Billboard's Tetris Kelly on the red carpet of the 2026 MTV Video Music Awards.",
+      "url": "https://www.billboard.com/video/slayyyter-vmas-2026/",
       "source": "Billboard",
       "source_name": "Billboard",
       "source_feed": "https://www.billboard.com/feed/",
-      "published_at": "2026-09-27 02:58:18 PM ET",
+      "published_at": "2026-09-27 07:29:13 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Ed Sheeran Roasted by 'Chicken Shop Date' Host Amelia Dimoldenberg on 'SNL UK': Watch"
+        "Slayyyter Shares Her Favorite Thing People Are Discovering About Her & The Thought She Puts In Her Visuals | VMAs 2026"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1653,25 +1656,25 @@
         "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
       ],
       "story_type": "rss_headline",
-      "priority_score": 87
+      "priority_score": 88
     },
     {
-      "id": "gaming-3-2181846175027576364",
-      "key": "gaming-3-2181846175027576364",
+      "id": "gaming-3-2037125414100601338",
+      "key": "gaming-3-2037125414100601338",
       "category": "Gaming",
       "label": "Gaming",
-      "headline": "World's First Official Minecraft Hotel Revealed for 2027, First Ever Minecraft Rollercoaster Named",
-      "title": "World's First Official Minecraft Hotel Revealed for 2027, First Ever Minecraft Rollercoaster Named",
-      "snapshot": "Minecraft World got two announcements at Minecraft LIVE today: the world's first official Minecraft hotel, and the name of the first ever Minecraft rollercoaster.",
-      "summary": "Minecraft World got two announcements at Minecraft LIVE today: the world's first official Minecraft hotel, and the name of the first ever Minecraft rollercoaster.",
-      "url": "https://www.ign.com/articles/worlds-first-official-minecraft-hotel-revealed-for-2027-first-ever-minecraft-rollercoaster-named",
+      "headline": "Minecraft Confirms Ice Caves as Next Game Drop, Adds Frozen Zombies, Ice Balls, and More",
+      "title": "Minecraft Confirms Ice Caves as Next Game Drop, Adds Frozen Zombies, Ice Balls, and More",
+      "snapshot": "Mojang has teased Minecraft's next game drop, giving fans a sneak peek at some of its features.",
+      "summary": "Mojang has teased Minecraft's next game drop, giving fans a sneak peek at some of its features.",
+      "url": "https://www.ign.com/articles/minecraft-confirms-ice-caves-as-next-game-drop-adds-frozen-zombies-ice-balls-and-more",
       "source": "IGN",
       "source_name": "IGN",
       "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-      "published_at": "2026-09-26 01:30:14 PM ET",
+      "published_at": "2026-09-26 01:32:00 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "World's First Official Minecraft Hotel Revealed for 2027, First Ever Minecraft Rollercoaster Named"
+        "Minecraft Confirms Ice Caves as Next Game Drop, Adds Frozen Zombies, Ice Balls, and More"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1709,8 +1712,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "film-0-6710189567620722671",
-          "key": "film-0-6710189567620722671",
+          "id": "film-0-2237679750071145309",
+          "key": "film-0-2237679750071145309",
           "category": "Film",
           "label": "Film",
           "headline": "‘Avengers: Doomsday’ Co-Director Explains It’s ‘Very Difficult’ to Evolve Marvel Characters, but ‘We Need to Surprise Ourselves’ and ‘Audiences’",
@@ -1737,8 +1740,8 @@
           ]
         },
         {
-          "id": "film-10-169139476071624145",
-          "key": "film-10-169139476071624145",
+          "id": "film-10-1463047312613930565",
+          "key": "film-10-1463047312613930565",
           "category": "Film",
           "label": "Film",
           "headline": "‘Carrie’ Cast Guide: Who Plays Who In The Latest Adaptation Of Stephen King’s Debut Horror Novel",
@@ -1765,8 +1768,8 @@
           ]
         },
         {
-          "id": "film-22-4469122943320091167",
-          "key": "film-22-4469122943320091167",
+          "id": "film-22-1252384461347919434",
+          "key": "film-22-1252384461347919434",
           "category": "Film",
           "label": "Film",
           "headline": "Robert Pattinson Says It Would Be “Tough” for His Batman to Interact With Other Characters in James Gunn’s DCU",
@@ -1793,8 +1796,8 @@
           ]
         },
         {
-          "id": "film-32-4789318867889090496",
-          "key": "film-32-4789318867889090496",
+          "id": "film-32-6557266130438788255",
+          "key": "film-32-6557266130438788255",
           "category": "Film",
           "label": "Film",
           "headline": "Review: Rebel Wilson's 'Girl Group' is one of the worst movies ever made - Mashable",
@@ -1821,8 +1824,8 @@
           ]
         },
         {
-          "id": "film-1-4006274466022245493",
-          "key": "film-1-4006274466022245493",
+          "id": "film-1-4329608004131092917",
+          "key": "film-1-4329608004131092917",
           "category": "Film",
           "label": "Film",
           "headline": "Anthony Mackie Says Chris Evans Gave Him the ‘Avengers: Endgame’ Script Early, Revealing How He’d Become Captain America: ‘It Was Really Great and Really Emotional’",
@@ -1849,8 +1852,8 @@
           ]
         },
         {
-          "id": "film-11-4859043321093630150",
-          "key": "film-11-4859043321093630150",
+          "id": "film-11-167749838867680565",
+          "key": "film-11-167749838867680565",
           "category": "Film",
           "label": "Film",
           "headline": "‘Your Mother Your Mother Your Mother’ Starts Strong, Eyes ‘American Fiction’-Style Rollout — Specialty Box Office",
@@ -1877,8 +1880,8 @@
           ]
         },
         {
-          "id": "film-23-1074865254541790952",
-          "key": "film-23-1074865254541790952",
+          "id": "film-23-4060196845381256759",
+          "key": "film-23-4060196845381256759",
           "category": "Film",
           "label": "Film",
           "headline": "Naomi Watts Praises Husband Billy Crudup for Backing Her Menopause Activism: “So Sweet — and Sexy”",
@@ -1905,8 +1908,8 @@
           ]
         },
         {
-          "id": "film-33-8530038926278884756",
-          "key": "film-33-8530038926278884756",
+          "id": "film-33-5954969005960620268",
+          "key": "film-33-5954969005960620268",
           "category": "Film",
           "label": "Film",
           "headline": "1982 Film Ranked Among the ‘Best Boxing Movies’ Had a Dark Side: Its Star Reveals an Eating Disorder and Says Steroids ‘Took a Terrible Toll’ - Men's Journal",
@@ -1935,8 +1938,8 @@
       ],
       "items": [
         {
-          "id": "film-0-6710189567620722671",
-          "key": "film-0-6710189567620722671",
+          "id": "film-0-2237679750071145309",
+          "key": "film-0-2237679750071145309",
           "category": "Film",
           "label": "Film",
           "headline": "‘Avengers: Doomsday’ Co-Director Explains It’s ‘Very Difficult’ to Evolve Marvel Characters, but ‘We Need to Surprise Ourselves’ and ‘Audiences’",
@@ -1963,8 +1966,8 @@
           ]
         },
         {
-          "id": "film-10-169139476071624145",
-          "key": "film-10-169139476071624145",
+          "id": "film-10-1463047312613930565",
+          "key": "film-10-1463047312613930565",
           "category": "Film",
           "label": "Film",
           "headline": "‘Carrie’ Cast Guide: Who Plays Who In The Latest Adaptation Of Stephen King’s Debut Horror Novel",
@@ -1991,8 +1994,8 @@
           ]
         },
         {
-          "id": "film-22-4469122943320091167",
-          "key": "film-22-4469122943320091167",
+          "id": "film-22-1252384461347919434",
+          "key": "film-22-1252384461347919434",
           "category": "Film",
           "label": "Film",
           "headline": "Robert Pattinson Says It Would Be “Tough” for His Batman to Interact With Other Characters in James Gunn’s DCU",
@@ -2019,8 +2022,8 @@
           ]
         },
         {
-          "id": "film-32-4789318867889090496",
-          "key": "film-32-4789318867889090496",
+          "id": "film-32-6557266130438788255",
+          "key": "film-32-6557266130438788255",
           "category": "Film",
           "label": "Film",
           "headline": "Review: Rebel Wilson's 'Girl Group' is one of the worst movies ever made - Mashable",
@@ -2047,8 +2050,8 @@
           ]
         },
         {
-          "id": "film-1-4006274466022245493",
-          "key": "film-1-4006274466022245493",
+          "id": "film-1-4329608004131092917",
+          "key": "film-1-4329608004131092917",
           "category": "Film",
           "label": "Film",
           "headline": "Anthony Mackie Says Chris Evans Gave Him the ‘Avengers: Endgame’ Script Early, Revealing How He’d Become Captain America: ‘It Was Really Great and Really Emotional’",
@@ -2075,8 +2078,8 @@
           ]
         },
         {
-          "id": "film-11-4859043321093630150",
-          "key": "film-11-4859043321093630150",
+          "id": "film-11-167749838867680565",
+          "key": "film-11-167749838867680565",
           "category": "Film",
           "label": "Film",
           "headline": "‘Your Mother Your Mother Your Mother’ Starts Strong, Eyes ‘American Fiction’-Style Rollout — Specialty Box Office",
@@ -2103,8 +2106,8 @@
           ]
         },
         {
-          "id": "film-23-1074865254541790952",
-          "key": "film-23-1074865254541790952",
+          "id": "film-23-4060196845381256759",
+          "key": "film-23-4060196845381256759",
           "category": "Film",
           "label": "Film",
           "headline": "Naomi Watts Praises Husband Billy Crudup for Backing Her Menopause Activism: “So Sweet — and Sexy”",
@@ -2131,8 +2134,8 @@
           ]
         },
         {
-          "id": "film-33-8530038926278884756",
-          "key": "film-33-8530038926278884756",
+          "id": "film-33-5954969005960620268",
+          "key": "film-33-5954969005960620268",
           "category": "Film",
           "label": "Film",
           "headline": "1982 Film Ranked Among the ‘Best Boxing Movies’ Had a Dark Side: Its Star Reveals an Eating Disorder and Says Steroids ‘Took a Terrible Toll’ - Men's Journal",
@@ -2159,52 +2162,52 @@
           ]
         }
       ],
-      "updated_at": "2026-09-27 05:52:03 PM ET"
+      "updated_at": "2026-09-27 08:20:39 PM ET"
     },
     {
       "key": "tv",
       "name": "TV",
       "title": "TV Report",
-      "headline": "Nat Geo Kicks Off New Multi-Year Doc Franchise With ‘Africa Earth’s Wild Home’",
+      "headline": "‘Roseanne’ Star Michael Fishman Apologizes to Fans for the ‘Chaos’ of Roseanne Barr Feud: ‘I’m Gonna Keep Pushing Out Love’",
       "snapshot": "TV coverage is updating with 8 current RSS headline item(s).",
       "key_storylines": [
-        "Nat Geo Kicks Off New Multi-Year Doc Franchise With ‘Africa Earth’s Wild Home’",
+        "‘Roseanne’ Star Michael Fishman Apologizes to Fans for the ‘Chaos’ of Roseanne Barr Feud: ‘I’m Gonna Keep Pushing Out Love’",
         "Jeff Probst Says “Nothing Has Changed” On ‘Survivor’ After Paramount Scrapped DEI: “We Need Diversity”",
         "Why Emmy Rossum Says ‘Shameless’ Nude Scenes Affected Her Dating Life: “All These Preconceived Notions”",
         "MPA, Unions Back `Motion Picture, Television, and Entertainment Revitalization Act' - TVTechnology",
-        "Adam Brody Calls for a ‘Free Palestine,’ Says He’s Never ‘Ducked’ Politics: ‘I Just Answer the Questions I’m Asked’"
+        "VMAs 2026 Winners List: Lisa Awarded Best Pop and More"
       ],
       "watch_list": [
-        "Nat Geo Kicks Off New Multi-Year Doc Franchise With ‘Africa Earth’s Wild Home’",
+        "‘Roseanne’ Star Michael Fishman Apologizes to Fans for the ‘Chaos’ of Roseanne Barr Feud: ‘I’m Gonna Keep Pushing Out Love’",
         "Jeff Probst Says “Nothing Has Changed” On ‘Survivor’ After Paramount Scrapped DEI: “We Need Diversity”",
         "Why Emmy Rossum Says ‘Shameless’ Nude Scenes Affected Her Dating Life: “All These Preconceived Notions”",
         "MPA, Unions Back `Motion Picture, Television, and Entertainment Revitalization Act' - TVTechnology",
-        "Adam Brody Calls for a ‘Free Palestine,’ Says He’s Never ‘Ducked’ Politics: ‘I Just Answer the Questions I’m Asked’",
+        "VMAs 2026 Winners List: Lisa Awarded Best Pop and More",
         "How To Watch & Stream The 2026 MTV Video Music Awards",
         "Where to Watch the Ravens vs. Cowboys Rio Game Online",
         "Actor Nakuul Mehta Opens Up About His Selective Career Choices and Why He Avoids Reality Television - zoomtventertainment.com"
       ],
       "homepage_cards": [
         {
-          "id": "tv-0-475478745021238861",
-          "key": "tv-0-475478745021238861",
+          "id": "tv-0-2772368260789470310",
+          "key": "tv-0-2772368260789470310",
           "category": "TV",
           "label": "TV",
-          "headline": "Nat Geo Kicks Off New Multi-Year Doc Franchise With ‘Africa Earth’s Wild Home’",
-          "title": "Nat Geo Kicks Off New Multi-Year Doc Franchise With ‘Africa Earth’s Wild Home’",
-          "snapshot": "Unlike most conglomerate-owned media companies, National Geographic is still pouring money into documentaries. Their latest docuseries “Africa Earth’s Wild Home” is a seven-parter that took four years to make and employed over 50 people. It’s the first series in a multi-year franchise that will document the planet,...",
-          "summary": "Unlike most conglomerate-owned media companies, National Geographic is still pouring money into documentaries. Their latest docuseries “Africa Earth’s Wild Home” is a seven-parter that took four years to make and employed over 50 people. It’s the first series in a multi-year franchise that will document the planet,...",
-          "url": "https://variety.com/2026/tv/news/nat-geo-new-doc-franchise-africa-earths-wild-home-1236876900/",
+          "headline": "‘Roseanne’ Star Michael Fishman Apologizes to Fans for the ‘Chaos’ of Roseanne Barr Feud: ‘I’m Gonna Keep Pushing Out Love’",
+          "title": "‘Roseanne’ Star Michael Fishman Apologizes to Fans for the ‘Chaos’ of Roseanne Barr Feud: ‘I’m Gonna Keep Pushing Out Love’",
+          "snapshot": "Michael Fishman, who played D.J. Conner on the ABC sitcom “Roseanne,” has taken to social media after making headlines for feuding with his former co-star Roseanne Barr earlier this month. In August, Fishman said that the show’s 2018 reboot “was rightfully canceled” after Barr posted a racist tweet, to which Barr re...",
+          "summary": "Michael Fishman, who played D.J. Conner on the ABC sitcom “Roseanne,” has taken to social media after making headlines for feuding with his former co-star Roseanne Barr earlier this month. In August, Fishman said that the show’s 2018 reboot “was rightfully canceled” after Barr posted a racist tweet, to which Barr re...",
+          "url": "https://variety.com/2026/tv/news/roseanne-barr-michael-fishman-apologizes-for-feud-1236877099/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/tv/feed/",
-          "published_at": "2026-09-27 02:34:11 PM ET",
+          "published_at": "2026-09-27 08:14:42 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Nat Geo Kicks Off New Multi-Year Doc Franchise With ‘Africa Earth’s Wild Home’"
+            "‘Roseanne’ Star Michael Fishman Apologizes to Fans for the ‘Chaos’ of Roseanne Barr Feud: ‘I’m Gonna Keep Pushing Out Love’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2214,8 +2217,8 @@
           ]
         },
         {
-          "id": "tv-10-8288067497473202360",
-          "key": "tv-10-8288067497473202360",
+          "id": "tv-10-3463580932020300363",
+          "key": "tv-10-3463580932020300363",
           "category": "TV",
           "label": "TV",
           "headline": "Jeff Probst Says “Nothing Has Changed” On ‘Survivor’ After Paramount Scrapped DEI: “We Need Diversity”",
@@ -2242,8 +2245,8 @@
           ]
         },
         {
-          "id": "tv-21-3158634609481752136",
-          "key": "tv-21-3158634609481752136",
+          "id": "tv-21-8051047133575886454",
+          "key": "tv-21-8051047133575886454",
           "category": "TV",
           "label": "TV",
           "headline": "Why Emmy Rossum Says ‘Shameless’ Nude Scenes Affected Her Dating Life: “All These Preconceived Notions”",
@@ -2270,8 +2273,8 @@
           ]
         },
         {
-          "id": "tv-31-2135520319317397049",
-          "key": "tv-31-2135520319317397049",
+          "id": "tv-31-1317868499985283405",
+          "key": "tv-31-1317868499985283405",
           "category": "TV",
           "label": "TV",
           "headline": "MPA, Unions Back `Motion Picture, Television, and Entertainment Revitalization Act' - TVTechnology",
@@ -2298,25 +2301,25 @@
           ]
         },
         {
-          "id": "tv-1-3310878050032745569",
-          "key": "tv-1-3310878050032745569",
+          "id": "tv-1-6645792104355898969",
+          "key": "tv-1-6645792104355898969",
           "category": "TV",
           "label": "TV",
-          "headline": "Adam Brody Calls for a ‘Free Palestine,’ Says He’s Never ‘Ducked’ Politics: ‘I Just Answer the Questions I’m Asked’",
-          "title": "Adam Brody Calls for a ‘Free Palestine,’ Says He’s Never ‘Ducked’ Politics: ‘I Just Answer the Questions I’m Asked’",
-          "snapshot": "Adam Brody is calling for a “free Palestine” and explaining why his political activism doesn’t come up more often during his red-carpet and press appearances. “I just answer the questions I’m asked,” the actor told GQ. “And it’s true. I’m not wearing a pin, so I’m not inviting a certain question, and perhaps I shoul...",
-          "summary": "Adam Brody is calling for a “free Palestine” and explaining why his political activism doesn’t come up more often during his red-carpet and press appearances. “I just answer the questions I’m asked,” the actor told GQ. “And it’s true. I’m not wearing a pin, so I’m not inviting a certain question, and perhaps I shoul...",
-          "url": "https://variety.com/2026/tv/news/adam-brody-calls-for-free-palestine-political-question-1236876872/",
+          "headline": "VMAs 2026 Winners List: Lisa Awarded Best Pop and More",
+          "title": "VMAs 2026 Winners List: Lisa Awarded Best Pop and More",
+          "snapshot": "The 2026 MTV Video Music Awards are here, and the music industry’s biggest starts are jockeying for awards. The ceremony is taking place at the Peacock Theater in L.A., and Snoop Dogg is the host for the night. Outside of the normal nominations, it was announced in advance that Nirvana will receive the Michael Jacks...",
+          "summary": "The 2026 MTV Video Music Awards are here, and the music industry’s biggest starts are jockeying for awards. The ceremony is taking place at the Peacock Theater in L.A., and Snoop Dogg is the host for the night. Outside of the normal nominations, it was announced in advance that Nirvana will receive the Michael Jacks...",
+          "url": "https://variety.com/2026/music/news/vmas-winners-list-mtv-awards-2026-show-1236876862/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/tv/feed/",
-          "published_at": "2026-09-27 12:28:22 PM ET",
+          "published_at": "2026-09-27 07:58:17 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Adam Brody Calls for a ‘Free Palestine,’ Says He’s Never ‘Ducked’ Politics: ‘I Just Answer the Questions I’m Asked’"
+            "VMAs 2026 Winners List: Lisa Awarded Best Pop and More"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2326,8 +2329,8 @@
           ]
         },
         {
-          "id": "tv-11-677164148099761859",
-          "key": "tv-11-677164148099761859",
+          "id": "tv-11-638001668384936055",
+          "key": "tv-11-638001668384936055",
           "category": "TV",
           "label": "TV",
           "headline": "How To Watch & Stream The 2026 MTV Video Music Awards",
@@ -2354,8 +2357,8 @@
           ]
         },
         {
-          "id": "tv-22-7649532369884660167",
-          "key": "tv-22-7649532369884660167",
+          "id": "tv-22-4682916558579549011",
+          "key": "tv-22-4682916558579549011",
           "category": "TV",
           "label": "TV",
           "headline": "Where to Watch the Ravens vs. Cowboys Rio Game Online",
@@ -2382,8 +2385,8 @@
           ]
         },
         {
-          "id": "tv-32-4042040057607810365",
-          "key": "tv-32-4042040057607810365",
+          "id": "tv-32-1038938813459299919",
+          "key": "tv-32-1038938813459299919",
           "category": "TV",
           "label": "TV",
           "headline": "Actor Nakuul Mehta Opens Up About His Selective Career Choices and Why He Avoids Reality Television - zoomtventertainment.com",
@@ -2412,25 +2415,25 @@
       ],
       "items": [
         {
-          "id": "tv-0-475478745021238861",
-          "key": "tv-0-475478745021238861",
+          "id": "tv-0-2772368260789470310",
+          "key": "tv-0-2772368260789470310",
           "category": "TV",
           "label": "TV",
-          "headline": "Nat Geo Kicks Off New Multi-Year Doc Franchise With ‘Africa Earth’s Wild Home’",
-          "title": "Nat Geo Kicks Off New Multi-Year Doc Franchise With ‘Africa Earth’s Wild Home’",
-          "snapshot": "Unlike most conglomerate-owned media companies, National Geographic is still pouring money into documentaries. Their latest docuseries “Africa Earth’s Wild Home” is a seven-parter that took four years to make and employed over 50 people. It’s the first series in a multi-year franchise that will document the planet,...",
-          "summary": "Unlike most conglomerate-owned media companies, National Geographic is still pouring money into documentaries. Their latest docuseries “Africa Earth’s Wild Home” is a seven-parter that took four years to make and employed over 50 people. It’s the first series in a multi-year franchise that will document the planet,...",
-          "url": "https://variety.com/2026/tv/news/nat-geo-new-doc-franchise-africa-earths-wild-home-1236876900/",
+          "headline": "‘Roseanne’ Star Michael Fishman Apologizes to Fans for the ‘Chaos’ of Roseanne Barr Feud: ‘I’m Gonna Keep Pushing Out Love’",
+          "title": "‘Roseanne’ Star Michael Fishman Apologizes to Fans for the ‘Chaos’ of Roseanne Barr Feud: ‘I’m Gonna Keep Pushing Out Love’",
+          "snapshot": "Michael Fishman, who played D.J. Conner on the ABC sitcom “Roseanne,” has taken to social media after making headlines for feuding with his former co-star Roseanne Barr earlier this month. In August, Fishman said that the show’s 2018 reboot “was rightfully canceled” after Barr posted a racist tweet, to which Barr re...",
+          "summary": "Michael Fishman, who played D.J. Conner on the ABC sitcom “Roseanne,” has taken to social media after making headlines for feuding with his former co-star Roseanne Barr earlier this month. In August, Fishman said that the show’s 2018 reboot “was rightfully canceled” after Barr posted a racist tweet, to which Barr re...",
+          "url": "https://variety.com/2026/tv/news/roseanne-barr-michael-fishman-apologizes-for-feud-1236877099/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/tv/feed/",
-          "published_at": "2026-09-27 02:34:11 PM ET",
+          "published_at": "2026-09-27 08:14:42 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Nat Geo Kicks Off New Multi-Year Doc Franchise With ‘Africa Earth’s Wild Home’"
+            "‘Roseanne’ Star Michael Fishman Apologizes to Fans for the ‘Chaos’ of Roseanne Barr Feud: ‘I’m Gonna Keep Pushing Out Love’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2440,8 +2443,8 @@
           ]
         },
         {
-          "id": "tv-10-8288067497473202360",
-          "key": "tv-10-8288067497473202360",
+          "id": "tv-10-3463580932020300363",
+          "key": "tv-10-3463580932020300363",
           "category": "TV",
           "label": "TV",
           "headline": "Jeff Probst Says “Nothing Has Changed” On ‘Survivor’ After Paramount Scrapped DEI: “We Need Diversity”",
@@ -2468,8 +2471,8 @@
           ]
         },
         {
-          "id": "tv-21-3158634609481752136",
-          "key": "tv-21-3158634609481752136",
+          "id": "tv-21-8051047133575886454",
+          "key": "tv-21-8051047133575886454",
           "category": "TV",
           "label": "TV",
           "headline": "Why Emmy Rossum Says ‘Shameless’ Nude Scenes Affected Her Dating Life: “All These Preconceived Notions”",
@@ -2496,8 +2499,8 @@
           ]
         },
         {
-          "id": "tv-31-2135520319317397049",
-          "key": "tv-31-2135520319317397049",
+          "id": "tv-31-1317868499985283405",
+          "key": "tv-31-1317868499985283405",
           "category": "TV",
           "label": "TV",
           "headline": "MPA, Unions Back `Motion Picture, Television, and Entertainment Revitalization Act' - TVTechnology",
@@ -2524,25 +2527,25 @@
           ]
         },
         {
-          "id": "tv-1-3310878050032745569",
-          "key": "tv-1-3310878050032745569",
+          "id": "tv-1-6645792104355898969",
+          "key": "tv-1-6645792104355898969",
           "category": "TV",
           "label": "TV",
-          "headline": "Adam Brody Calls for a ‘Free Palestine,’ Says He’s Never ‘Ducked’ Politics: ‘I Just Answer the Questions I’m Asked’",
-          "title": "Adam Brody Calls for a ‘Free Palestine,’ Says He’s Never ‘Ducked’ Politics: ‘I Just Answer the Questions I’m Asked’",
-          "snapshot": "Adam Brody is calling for a “free Palestine” and explaining why his political activism doesn’t come up more often during his red-carpet and press appearances. “I just answer the questions I’m asked,” the actor told GQ. “And it’s true. I’m not wearing a pin, so I’m not inviting a certain question, and perhaps I shoul...",
-          "summary": "Adam Brody is calling for a “free Palestine” and explaining why his political activism doesn’t come up more often during his red-carpet and press appearances. “I just answer the questions I’m asked,” the actor told GQ. “And it’s true. I’m not wearing a pin, so I’m not inviting a certain question, and perhaps I shoul...",
-          "url": "https://variety.com/2026/tv/news/adam-brody-calls-for-free-palestine-political-question-1236876872/",
+          "headline": "VMAs 2026 Winners List: Lisa Awarded Best Pop and More",
+          "title": "VMAs 2026 Winners List: Lisa Awarded Best Pop and More",
+          "snapshot": "The 2026 MTV Video Music Awards are here, and the music industry’s biggest starts are jockeying for awards. The ceremony is taking place at the Peacock Theater in L.A., and Snoop Dogg is the host for the night. Outside of the normal nominations, it was announced in advance that Nirvana will receive the Michael Jacks...",
+          "summary": "The 2026 MTV Video Music Awards are here, and the music industry’s biggest starts are jockeying for awards. The ceremony is taking place at the Peacock Theater in L.A., and Snoop Dogg is the host for the night. Outside of the normal nominations, it was announced in advance that Nirvana will receive the Michael Jacks...",
+          "url": "https://variety.com/2026/music/news/vmas-winners-list-mtv-awards-2026-show-1236876862/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/tv/feed/",
-          "published_at": "2026-09-27 12:28:22 PM ET",
+          "published_at": "2026-09-27 07:58:17 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Adam Brody Calls for a ‘Free Palestine,’ Says He’s Never ‘Ducked’ Politics: ‘I Just Answer the Questions I’m Asked’"
+            "VMAs 2026 Winners List: Lisa Awarded Best Pop and More"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2552,8 +2555,8 @@
           ]
         },
         {
-          "id": "tv-11-677164148099761859",
-          "key": "tv-11-677164148099761859",
+          "id": "tv-11-638001668384936055",
+          "key": "tv-11-638001668384936055",
           "category": "TV",
           "label": "TV",
           "headline": "How To Watch & Stream The 2026 MTV Video Music Awards",
@@ -2580,8 +2583,8 @@
           ]
         },
         {
-          "id": "tv-22-7649532369884660167",
-          "key": "tv-22-7649532369884660167",
+          "id": "tv-22-4682916558579549011",
+          "key": "tv-22-4682916558579549011",
           "category": "TV",
           "label": "TV",
           "headline": "Where to Watch the Ravens vs. Cowboys Rio Game Online",
@@ -2608,8 +2611,8 @@
           ]
         },
         {
-          "id": "tv-32-4042040057607810365",
-          "key": "tv-32-4042040057607810365",
+          "id": "tv-32-1038938813459299919",
+          "key": "tv-32-1038938813459299919",
           "category": "TV",
           "label": "TV",
           "headline": "Actor Nakuul Mehta Opens Up About His Selective Career Choices and Why He Avoids Reality Television - zoomtventertainment.com",
@@ -2636,7 +2639,7 @@
           ]
         }
       ],
-      "updated_at": "2026-09-27 05:52:05 PM ET"
+      "updated_at": "2026-09-27 08:20:40 PM ET"
     },
     {
       "key": "streaming",
@@ -2654,8 +2657,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "streaming-0-6995875882989106281",
-          "key": "streaming-0-6995875882989106281",
+          "id": "streaming-0-1694472775344393780",
+          "key": "streaming-0-1694472775344393780",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'Toy Story 5' to 'The Love Hypothesis,' 10 movies to stream now - USA Today",
@@ -2682,8 +2685,8 @@
           ]
         },
         {
-          "id": "streaming-1-8599082486748711904",
-          "key": "streaming-1-8599082486748711904",
+          "id": "streaming-1-374172800173666474",
+          "key": "streaming-1-374172800173666474",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'Supergirl' to 'Rich Flu,' 10 movies you need to stream right now - USA Today",
@@ -2712,8 +2715,8 @@
       ],
       "items": [
         {
-          "id": "streaming-0-6995875882989106281",
-          "key": "streaming-0-6995875882989106281",
+          "id": "streaming-0-1694472775344393780",
+          "key": "streaming-0-1694472775344393780",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'Toy Story 5' to 'The Love Hypothesis,' 10 movies to stream now - USA Today",
@@ -2740,8 +2743,8 @@
           ]
         },
         {
-          "id": "streaming-1-8599082486748711904",
-          "key": "streaming-1-8599082486748711904",
+          "id": "streaming-1-374172800173666474",
+          "key": "streaming-1-374172800173666474",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'Supergirl' to 'Rich Flu,' 10 movies you need to stream right now - USA Today",
@@ -2768,50 +2771,50 @@
           ]
         }
       ],
-      "updated_at": "2026-09-27 05:52:06 PM ET"
+      "updated_at": "2026-09-27 08:20:40 PM ET"
     },
     {
       "key": "music",
       "name": "Music",
       "title": "Music Report",
-      "headline": "Chuck Varga, Founding Member of Heavy Metal Band Gwar, Dies at 68",
+      "headline": "Madonna Opens MTV Video Music Awards With Sabrina Carpenter and Charli xcx, Plus Sombr, Debi Mazar and More",
       "snapshot": "Music coverage is updating with 6 current RSS headline item(s).",
       "key_storylines": [
-        "Chuck Varga, Founding Member of Heavy Metal Band Gwar, Dies at 68",
-        "Stella Lefty Parts Ways With Management",
+        "Madonna Opens MTV Video Music Awards With Sabrina Carpenter and Charli xcx, Plus Sombr, Debi Mazar and More",
+        "Rei Ami Says Lady Gaga’s Meat Dress Is Still Iconic & Shares Her Favorite Taylor Swift Music Video | VMAs 2026",
         "Looking Ahead: A Release Calendar of Upcoming Albums in 2026 - Billboard",
-        "Reba McEntire Says She Missed a Call from Dolly Parton Before Her Death and ‘Couldn’t’ Get Back in Touch: ‘I’ll Never Know Why She Called’",
-        "Rihanna Shares Adorable New Photos & Videos of Daughter Rocki After 1st Birthday"
+        "2026 MTV VMAs Red Carpet: Taylor Swift, Lisa, Raye and More",
+        "Fuerza Regida Talks Being A Part of Pushing Regional Mexican Music Globally & Their Love For Taylor Swift | VMAs 2026"
       ],
       "watch_list": [
-        "Chuck Varga, Founding Member of Heavy Metal Band Gwar, Dies at 68",
-        "Stella Lefty Parts Ways With Management",
+        "Madonna Opens MTV Video Music Awards With Sabrina Carpenter and Charli xcx, Plus Sombr, Debi Mazar and More",
+        "Rei Ami Says Lady Gaga’s Meat Dress Is Still Iconic & Shares Her Favorite Taylor Swift Music Video | VMAs 2026",
         "Looking Ahead: A Release Calendar of Upcoming Albums in 2026 - Billboard",
-        "Reba McEntire Says She Missed a Call from Dolly Parton Before Her Death and ‘Couldn’t’ Get Back in Touch: ‘I’ll Never Know Why She Called’",
-        "Rihanna Shares Adorable New Photos & Videos of Daughter Rocki After 1st Birthday",
+        "2026 MTV VMAs Red Carpet: Taylor Swift, Lisa, Raye and More",
+        "Fuerza Regida Talks Being A Part of Pushing Regional Mexican Music Globally & Their Love For Taylor Swift | VMAs 2026",
         "Ella Langley makes Billboard history - Niagara Frontier Publications"
       ],
       "homepage_cards": [
         {
-          "id": "music-0-1318673739111847865",
-          "key": "music-0-1318673739111847865",
+          "id": "music-0-1333743611095670692",
+          "key": "music-0-1333743611095670692",
           "category": "Music",
           "label": "Music",
-          "headline": "Chuck Varga, Founding Member of Heavy Metal Band Gwar, Dies at 68",
-          "title": "Chuck Varga, Founding Member of Heavy Metal Band Gwar, Dies at 68",
-          "snapshot": "Chuck Varga, a founding member and vocalist of the heavy metal band Gwar, died on Friday following a battle with cancer. He was 68. Gwar bassist Casey Orr announced his death in a statement shared to Facebook, writing, “Chuck Varga has left this earthly realm. He passed peacefully, his beloved wife Bambi holding his...",
-          "summary": "Chuck Varga, a founding member and vocalist of the heavy metal band Gwar, died on Friday following a battle with cancer. He was 68. Gwar bassist Casey Orr announced his death in a statement shared to Facebook, writing, “Chuck Varga has left this earthly realm. He passed peacefully, his beloved wife Bambi holding his...",
-          "url": "https://variety.com/2026/music/news/chuck-varga-dead-gwar-founding-member-1236876474/",
+          "headline": "Madonna Opens MTV Video Music Awards With Sabrina Carpenter and Charli xcx, Plus Sombr, Debi Mazar and More",
+          "title": "Madonna Opens MTV Video Music Awards With Sabrina Carpenter and Charli xcx, Plus Sombr, Debi Mazar and More",
+          "snapshot": "Madonna performed for the first time in 23 years at the MTV VMAs on Sunday, opening the show by bringing out special guests Sabrina Carpenter and Charli xcx to perform their respective duets. After a 20-minute telecast delay due to the NFL game, the pop icon began her performance perched on the top of a […]",
+          "summary": "Madonna performed for the first time in 23 years at the MTV VMAs on Sunday, opening the show by bringing out special guests Sabrina Carpenter and Charli xcx to perform their respective duets. After a 20-minute telecast delay due to the NFL game, the pop icon began her performance perched on the top of a […]",
+          "url": "https://variety.com/2026/music/awards/madonna-sabrina-carpenter-charli-xcx-mtv-vmas-performance-1236876448/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/music/feed/",
-          "published_at": "2026-09-26 03:13:38 PM ET",
+          "published_at": "2026-09-27 08:16:21 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Chuck Varga, Founding Member of Heavy Metal Band Gwar, Dies at 68"
+            "Madonna Opens MTV Video Music Awards With Sabrina Carpenter and Charli xcx, Plus Sombr, Debi Mazar and More"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2821,25 +2824,25 @@
           ]
         },
         {
-          "id": "music-10-9124832667698429923",
-          "key": "music-10-9124832667698429923",
+          "id": "music-9-7432505453240701676",
+          "key": "music-9-7432505453240701676",
           "category": "Music",
           "label": "Music",
-          "headline": "Stella Lefty Parts Ways With Management",
-          "title": "Stella Lefty Parts Ways With Management",
-          "snapshot": "The \"Boston\" singer had been with Disruptor since the beginning of her career.",
-          "summary": "The \"Boston\" singer had been with Disruptor since the beginning of her career.",
-          "url": "https://www.billboard.com/pro/stella-lefty-leaves-disruptor-management/",
+          "headline": "Rei Ami Says Lady Gaga’s Meat Dress Is Still Iconic & Shares Her Favorite Taylor Swift Music Video | VMAs 2026",
+          "title": "Rei Ami Says Lady Gaga’s Meat Dress Is Still Iconic & Shares Her Favorite Taylor Swift Music Video | VMAs 2026",
+          "snapshot": "Fuerza Regida caught up with Billboard’s Tetris Kelly on the red carpet of the 2026 MTV Video Music Awards.",
+          "summary": "Fuerza Regida caught up with Billboard’s Tetris Kelly on the red carpet of the 2026 MTV Video Music Awards.",
+          "url": "https://www.billboard.com/video/rei-ami-vmas-2026/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-09-27 04:38:57 PM ET",
+          "published_at": "2026-09-27 08:02:17 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 90,
+          "priority_score": 91,
           "key_data": [
-            "Stella Lefty Parts Ways With Management"
+            "Rei Ami Says Lady Gaga’s Meat Dress Is Still Iconic & Shares Her Favorite Taylor Swift Music Video | VMAs 2026"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2849,8 +2852,8 @@
           ]
         },
         {
-          "id": "music-20-5296565643268337976",
-          "key": "music-20-5296565643268337976",
+          "id": "music-19-4844911209207686932",
+          "key": "music-19-4844911209207686932",
           "category": "Music",
           "label": "Music",
           "headline": "Looking Ahead: A Release Calendar of Upcoming Albums in 2026 - Billboard",
@@ -2865,7 +2868,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 80,
+          "priority_score": 81,
           "key_data": [
             "Looking Ahead: A Release Calendar of Upcoming Albums in 2026 - Billboard"
           ],
@@ -2877,25 +2880,25 @@
           ]
         },
         {
-          "id": "music-1-3365548607744699570",
-          "key": "music-1-3365548607744699570",
+          "id": "music-1-3715016576424468604",
+          "key": "music-1-3715016576424468604",
           "category": "Music",
           "label": "Music",
-          "headline": "Reba McEntire Says She Missed a Call from Dolly Parton Before Her Death and ‘Couldn’t’ Get Back in Touch: ‘I’ll Never Know Why She Called’",
-          "title": "Reba McEntire Says She Missed a Call from Dolly Parton Before Her Death and ‘Couldn’t’ Get Back in Touch: ‘I’ll Never Know Why She Called’",
-          "snapshot": "Reba McEntire revealed her longtime friend Dolly Parton tried to get in touch with her just before she died. The country singer and actress shared that she missed a call from Parton, who died Aug. 25 after a “brief battle” with cancer, and was unable to get in touch with her one final time. “She […]",
-          "summary": "Reba McEntire revealed her longtime friend Dolly Parton tried to get in touch with her just before she died. The country singer and actress shared that she missed a call from Parton, who died Aug. 25 after a “brief battle” with cancer, and was unable to get in touch with her one final time. “She […]",
-          "url": "https://variety.com/2026/music/news/reba-mcentire-dolly-parton-missed-call-1236876408/",
+          "headline": "2026 MTV VMAs Red Carpet: Taylor Swift, Lisa, Raye and More",
+          "title": "2026 MTV VMAs Red Carpet: Taylor Swift, Lisa, Raye and More",
+          "snapshot": "The 2026 MTV VMAs are in full swing, and music’s biggest stars are showing up and out on the red carpet. Hosted by Snoop Dogg, this year’s Video Music Awards promises audiences a jam-packed program, including a performance from Madonna (her first at the show in more than two decades), a Dolly Parton tribute and, […]",
+          "summary": "The 2026 MTV VMAs are in full swing, and music’s biggest stars are showing up and out on the red carpet. Hosted by Snoop Dogg, this year’s Video Music Awards promises audiences a jam-packed program, including a performance from Madonna (her first at the show in more than two decades), a Dolly Parton tribute and, […]",
+          "url": "https://variety.com/gallery/vmas-2026-red-carpet-fashion-looks/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/music/feed/",
-          "published_at": "2026-09-26 01:27:39 PM ET",
+          "published_at": "2026-09-27 06:00:24 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Reba McEntire Says She Missed a Call from Dolly Parton Before Her Death and ‘Couldn’t’ Get Back in Touch: ‘I’ll Never Know Why She Called’"
+            "2026 MTV VMAs Red Carpet: Taylor Swift, Lisa, Raye and More"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2905,25 +2908,25 @@
           ]
         },
         {
-          "id": "music-11-7041071377581543567",
-          "key": "music-11-7041071377581543567",
+          "id": "music-10-3607252042332849597",
+          "key": "music-10-3607252042332849597",
           "category": "Music",
           "label": "Music",
-          "headline": "Rihanna Shares Adorable New Photos & Videos of Daughter Rocki After 1st Birthday",
-          "title": "Rihanna Shares Adorable New Photos & Videos of Daughter Rocki After 1st Birthday",
-          "snapshot": "\"Who let me have a daughter, bro?\" the superstar joked in the caption.",
-          "summary": "\"Who let me have a daughter, bro?\" the superstar joked in the caption.",
-          "url": "https://www.billboard.com/music/music-news/rihanna-daughter-rocki-1st-birthday-photos-videos-1236348490/",
+          "headline": "Fuerza Regida Talks Being A Part of Pushing Regional Mexican Music Globally & Their Love For Taylor Swift | VMAs 2026",
+          "title": "Fuerza Regida Talks Being A Part of Pushing Regional Mexican Music Globally & Their Love For Taylor Swift | VMAs 2026",
+          "snapshot": "Fuerza Regida caught up with Billboard’s Tetris Kelly on the red carpet of the 2026 MTV Video Music Awards.",
+          "summary": "Fuerza Regida caught up with Billboard’s Tetris Kelly on the red carpet of the 2026 MTV Video Music Awards.",
+          "url": "https://www.billboard.com/video/fuerza-regida-vmas-2026/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-09-27 03:58:30 PM ET",
+          "published_at": "2026-09-27 07:50:54 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 89,
+          "priority_score": 90,
           "key_data": [
-            "Rihanna Shares Adorable New Photos & Videos of Daughter Rocki After 1st Birthday"
+            "Fuerza Regida Talks Being A Part of Pushing Regional Mexican Music Globally & Their Love For Taylor Swift | VMAs 2026"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2933,8 +2936,8 @@
           ]
         },
         {
-          "id": "music-21-9199336839739143266",
-          "key": "music-21-9199336839739143266",
+          "id": "music-20-4143794459373589935",
+          "key": "music-20-4143794459373589935",
           "category": "Music",
           "label": "Music",
           "headline": "Ella Langley makes Billboard history - Niagara Frontier Publications",
@@ -2949,7 +2952,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 79,
+          "priority_score": 80,
           "key_data": [
             "Ella Langley makes Billboard history - Niagara Frontier Publications"
           ],
@@ -2963,25 +2966,25 @@
       ],
       "items": [
         {
-          "id": "music-0-1318673739111847865",
-          "key": "music-0-1318673739111847865",
+          "id": "music-0-1333743611095670692",
+          "key": "music-0-1333743611095670692",
           "category": "Music",
           "label": "Music",
-          "headline": "Chuck Varga, Founding Member of Heavy Metal Band Gwar, Dies at 68",
-          "title": "Chuck Varga, Founding Member of Heavy Metal Band Gwar, Dies at 68",
-          "snapshot": "Chuck Varga, a founding member and vocalist of the heavy metal band Gwar, died on Friday following a battle with cancer. He was 68. Gwar bassist Casey Orr announced his death in a statement shared to Facebook, writing, “Chuck Varga has left this earthly realm. He passed peacefully, his beloved wife Bambi holding his...",
-          "summary": "Chuck Varga, a founding member and vocalist of the heavy metal band Gwar, died on Friday following a battle with cancer. He was 68. Gwar bassist Casey Orr announced his death in a statement shared to Facebook, writing, “Chuck Varga has left this earthly realm. He passed peacefully, his beloved wife Bambi holding his...",
-          "url": "https://variety.com/2026/music/news/chuck-varga-dead-gwar-founding-member-1236876474/",
+          "headline": "Madonna Opens MTV Video Music Awards With Sabrina Carpenter and Charli xcx, Plus Sombr, Debi Mazar and More",
+          "title": "Madonna Opens MTV Video Music Awards With Sabrina Carpenter and Charli xcx, Plus Sombr, Debi Mazar and More",
+          "snapshot": "Madonna performed for the first time in 23 years at the MTV VMAs on Sunday, opening the show by bringing out special guests Sabrina Carpenter and Charli xcx to perform their respective duets. After a 20-minute telecast delay due to the NFL game, the pop icon began her performance perched on the top of a […]",
+          "summary": "Madonna performed for the first time in 23 years at the MTV VMAs on Sunday, opening the show by bringing out special guests Sabrina Carpenter and Charli xcx to perform their respective duets. After a 20-minute telecast delay due to the NFL game, the pop icon began her performance perched on the top of a […]",
+          "url": "https://variety.com/2026/music/awards/madonna-sabrina-carpenter-charli-xcx-mtv-vmas-performance-1236876448/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/music/feed/",
-          "published_at": "2026-09-26 03:13:38 PM ET",
+          "published_at": "2026-09-27 08:16:21 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Chuck Varga, Founding Member of Heavy Metal Band Gwar, Dies at 68"
+            "Madonna Opens MTV Video Music Awards With Sabrina Carpenter and Charli xcx, Plus Sombr, Debi Mazar and More"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2991,25 +2994,25 @@
           ]
         },
         {
-          "id": "music-10-9124832667698429923",
-          "key": "music-10-9124832667698429923",
+          "id": "music-9-7432505453240701676",
+          "key": "music-9-7432505453240701676",
           "category": "Music",
           "label": "Music",
-          "headline": "Stella Lefty Parts Ways With Management",
-          "title": "Stella Lefty Parts Ways With Management",
-          "snapshot": "The \"Boston\" singer had been with Disruptor since the beginning of her career.",
-          "summary": "The \"Boston\" singer had been with Disruptor since the beginning of her career.",
-          "url": "https://www.billboard.com/pro/stella-lefty-leaves-disruptor-management/",
+          "headline": "Rei Ami Says Lady Gaga’s Meat Dress Is Still Iconic & Shares Her Favorite Taylor Swift Music Video | VMAs 2026",
+          "title": "Rei Ami Says Lady Gaga’s Meat Dress Is Still Iconic & Shares Her Favorite Taylor Swift Music Video | VMAs 2026",
+          "snapshot": "Fuerza Regida caught up with Billboard’s Tetris Kelly on the red carpet of the 2026 MTV Video Music Awards.",
+          "summary": "Fuerza Regida caught up with Billboard’s Tetris Kelly on the red carpet of the 2026 MTV Video Music Awards.",
+          "url": "https://www.billboard.com/video/rei-ami-vmas-2026/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-09-27 04:38:57 PM ET",
+          "published_at": "2026-09-27 08:02:17 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 90,
+          "priority_score": 91,
           "key_data": [
-            "Stella Lefty Parts Ways With Management"
+            "Rei Ami Says Lady Gaga’s Meat Dress Is Still Iconic & Shares Her Favorite Taylor Swift Music Video | VMAs 2026"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3019,8 +3022,8 @@
           ]
         },
         {
-          "id": "music-20-5296565643268337976",
-          "key": "music-20-5296565643268337976",
+          "id": "music-19-4844911209207686932",
+          "key": "music-19-4844911209207686932",
           "category": "Music",
           "label": "Music",
           "headline": "Looking Ahead: A Release Calendar of Upcoming Albums in 2026 - Billboard",
@@ -3035,7 +3038,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 80,
+          "priority_score": 81,
           "key_data": [
             "Looking Ahead: A Release Calendar of Upcoming Albums in 2026 - Billboard"
           ],
@@ -3047,25 +3050,25 @@
           ]
         },
         {
-          "id": "music-1-3365548607744699570",
-          "key": "music-1-3365548607744699570",
+          "id": "music-1-3715016576424468604",
+          "key": "music-1-3715016576424468604",
           "category": "Music",
           "label": "Music",
-          "headline": "Reba McEntire Says She Missed a Call from Dolly Parton Before Her Death and ‘Couldn’t’ Get Back in Touch: ‘I’ll Never Know Why She Called’",
-          "title": "Reba McEntire Says She Missed a Call from Dolly Parton Before Her Death and ‘Couldn’t’ Get Back in Touch: ‘I’ll Never Know Why She Called’",
-          "snapshot": "Reba McEntire revealed her longtime friend Dolly Parton tried to get in touch with her just before she died. The country singer and actress shared that she missed a call from Parton, who died Aug. 25 after a “brief battle” with cancer, and was unable to get in touch with her one final time. “She […]",
-          "summary": "Reba McEntire revealed her longtime friend Dolly Parton tried to get in touch with her just before she died. The country singer and actress shared that she missed a call from Parton, who died Aug. 25 after a “brief battle” with cancer, and was unable to get in touch with her one final time. “She […]",
-          "url": "https://variety.com/2026/music/news/reba-mcentire-dolly-parton-missed-call-1236876408/",
+          "headline": "2026 MTV VMAs Red Carpet: Taylor Swift, Lisa, Raye and More",
+          "title": "2026 MTV VMAs Red Carpet: Taylor Swift, Lisa, Raye and More",
+          "snapshot": "The 2026 MTV VMAs are in full swing, and music’s biggest stars are showing up and out on the red carpet. Hosted by Snoop Dogg, this year’s Video Music Awards promises audiences a jam-packed program, including a performance from Madonna (her first at the show in more than two decades), a Dolly Parton tribute and, […]",
+          "summary": "The 2026 MTV VMAs are in full swing, and music’s biggest stars are showing up and out on the red carpet. Hosted by Snoop Dogg, this year’s Video Music Awards promises audiences a jam-packed program, including a performance from Madonna (her first at the show in more than two decades), a Dolly Parton tribute and, […]",
+          "url": "https://variety.com/gallery/vmas-2026-red-carpet-fashion-looks/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/music/feed/",
-          "published_at": "2026-09-26 01:27:39 PM ET",
+          "published_at": "2026-09-27 06:00:24 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Reba McEntire Says She Missed a Call from Dolly Parton Before Her Death and ‘Couldn’t’ Get Back in Touch: ‘I’ll Never Know Why She Called’"
+            "2026 MTV VMAs Red Carpet: Taylor Swift, Lisa, Raye and More"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3075,25 +3078,25 @@
           ]
         },
         {
-          "id": "music-11-7041071377581543567",
-          "key": "music-11-7041071377581543567",
+          "id": "music-10-3607252042332849597",
+          "key": "music-10-3607252042332849597",
           "category": "Music",
           "label": "Music",
-          "headline": "Rihanna Shares Adorable New Photos & Videos of Daughter Rocki After 1st Birthday",
-          "title": "Rihanna Shares Adorable New Photos & Videos of Daughter Rocki After 1st Birthday",
-          "snapshot": "\"Who let me have a daughter, bro?\" the superstar joked in the caption.",
-          "summary": "\"Who let me have a daughter, bro?\" the superstar joked in the caption.",
-          "url": "https://www.billboard.com/music/music-news/rihanna-daughter-rocki-1st-birthday-photos-videos-1236348490/",
+          "headline": "Fuerza Regida Talks Being A Part of Pushing Regional Mexican Music Globally & Their Love For Taylor Swift | VMAs 2026",
+          "title": "Fuerza Regida Talks Being A Part of Pushing Regional Mexican Music Globally & Their Love For Taylor Swift | VMAs 2026",
+          "snapshot": "Fuerza Regida caught up with Billboard’s Tetris Kelly on the red carpet of the 2026 MTV Video Music Awards.",
+          "summary": "Fuerza Regida caught up with Billboard’s Tetris Kelly on the red carpet of the 2026 MTV Video Music Awards.",
+          "url": "https://www.billboard.com/video/fuerza-regida-vmas-2026/",
           "source": "Billboard",
           "source_name": "Billboard",
           "source_feed": "https://www.billboard.com/feed/",
-          "published_at": "2026-09-27 03:58:30 PM ET",
+          "published_at": "2026-09-27 07:50:54 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 89,
+          "priority_score": 90,
           "key_data": [
-            "Rihanna Shares Adorable New Photos & Videos of Daughter Rocki After 1st Birthday"
+            "Fuerza Regida Talks Being A Part of Pushing Regional Mexican Music Globally & Their Love For Taylor Swift | VMAs 2026"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3103,8 +3106,8 @@
           ]
         },
         {
-          "id": "music-21-9199336839739143266",
-          "key": "music-21-9199336839739143266",
+          "id": "music-20-4143794459373589935",
+          "key": "music-20-4143794459373589935",
           "category": "Music",
           "label": "Music",
           "headline": "Ella Langley makes Billboard history - Niagara Frontier Publications",
@@ -3119,7 +3122,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 79,
+          "priority_score": 80,
           "key_data": [
             "Ella Langley makes Billboard history - Niagara Frontier Publications"
           ],
@@ -3131,7 +3134,7 @@
           ]
         }
       ],
-      "updated_at": "2026-09-27 05:52:07 PM ET"
+      "updated_at": "2026-09-27 08:20:41 PM ET"
     },
     {
       "key": "awards",
@@ -3141,20 +3144,20 @@
       "snapshot": "Awards coverage is updating with 4 current RSS headline item(s).",
       "key_storylines": [
         "John Malkovich to Receive Outstanding Performer of the Year Award at Santa Barbara International Film Festival",
-        "2026-27 Awards Season Calendar - deadline.com",
+        "2026-27 Awards Season Calendar - Deadline",
         "Issa Rae Is ‘Never Going to Stop’ Using Her Power for Good, Even as Mergers and AI Disrupt Hollywood: ‘This Is All Men’s Fault’",
         "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo"
       ],
       "watch_list": [
         "John Malkovich to Receive Outstanding Performer of the Year Award at Santa Barbara International Film Festival",
-        "2026-27 Awards Season Calendar - deadline.com",
+        "2026-27 Awards Season Calendar - Deadline",
         "Issa Rae Is ‘Never Going to Stop’ Using Her Power for Good, Even as Mergers and AI Disrupt Hollywood: ‘This Is All Men’s Fault’",
         "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo"
       ],
       "homepage_cards": [
         {
-          "id": "awards-0-9101825708532462288",
-          "key": "awards-0-9101825708532462288",
+          "id": "awards-0-1117004132309939395",
+          "key": "awards-0-1117004132309939395",
           "category": "Awards",
           "label": "Awards",
           "headline": "John Malkovich to Receive Outstanding Performer of the Year Award at Santa Barbara International Film Festival",
@@ -3181,14 +3184,14 @@
           ]
         },
         {
-          "id": "awards-9-5349643079638140402",
-          "key": "awards-9-5349643079638140402",
+          "id": "awards-8-6400635079650711624",
+          "key": "awards-8-6400635079650711624",
           "category": "Awards",
           "label": "Awards",
-          "headline": "2026-27 Awards Season Calendar - deadline.com",
-          "title": "2026-27 Awards Season Calendar - deadline.com",
-          "snapshot": "2026-27 Awards Season Calendar deadline.com",
-          "summary": "2026-27 Awards Season Calendar deadline.com",
+          "headline": "2026-27 Awards Season Calendar - Deadline",
+          "title": "2026-27 Awards Season Calendar - Deadline",
+          "snapshot": "2026-27 Awards Season Calendar Deadline",
+          "summary": "2026-27 Awards Season Calendar Deadline",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdGg4QjJyZUJKQ2FiQTJmTllYMEE0WlN6V19uVXlWVjROc0ZVMUd0RV84VExSb2U3U05kbzdWVVBJdC1PLTV4UC1VREMtMHVfZW05VGpQS09JX3JPWERkQVM4eWdic1BtVldkeGJIeURUTlFRMlp4MjU4T1BRRXlNdUR3TEJZcnRfbWxTdWQxNUZjbk5PR2ktc1NlUQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3197,9 +3200,9 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 91,
+          "priority_score": 92,
           "key_data": [
-            "2026-27 Awards Season Calendar - deadline.com"
+            "2026-27 Awards Season Calendar - Deadline"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3209,8 +3212,8 @@
           ]
         },
         {
-          "id": "awards-1-6619146153142810319",
-          "key": "awards-1-6619146153142810319",
+          "id": "awards-1-230132294365145307",
+          "key": "awards-1-230132294365145307",
           "category": "Awards",
           "label": "Awards",
           "headline": "Issa Rae Is ‘Never Going to Stop’ Using Her Power for Good, Even as Mergers and AI Disrupt Hollywood: ‘This Is All Men’s Fault’",
@@ -3237,8 +3240,8 @@
           ]
         },
         {
-          "id": "awards-10-8280874165677603650",
-          "key": "awards-10-8280874165677603650",
+          "id": "awards-9-8849908568330360055",
+          "key": "awards-9-8849908568330360055",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo",
@@ -3253,7 +3256,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 90,
+          "priority_score": 91,
           "key_data": [
             "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo"
           ],
@@ -3267,8 +3270,8 @@
       ],
       "items": [
         {
-          "id": "awards-0-9101825708532462288",
-          "key": "awards-0-9101825708532462288",
+          "id": "awards-0-1117004132309939395",
+          "key": "awards-0-1117004132309939395",
           "category": "Awards",
           "label": "Awards",
           "headline": "John Malkovich to Receive Outstanding Performer of the Year Award at Santa Barbara International Film Festival",
@@ -3295,14 +3298,14 @@
           ]
         },
         {
-          "id": "awards-9-5349643079638140402",
-          "key": "awards-9-5349643079638140402",
+          "id": "awards-8-6400635079650711624",
+          "key": "awards-8-6400635079650711624",
           "category": "Awards",
           "label": "Awards",
-          "headline": "2026-27 Awards Season Calendar - deadline.com",
-          "title": "2026-27 Awards Season Calendar - deadline.com",
-          "snapshot": "2026-27 Awards Season Calendar deadline.com",
-          "summary": "2026-27 Awards Season Calendar deadline.com",
+          "headline": "2026-27 Awards Season Calendar - Deadline",
+          "title": "2026-27 Awards Season Calendar - Deadline",
+          "snapshot": "2026-27 Awards Season Calendar Deadline",
+          "summary": "2026-27 Awards Season Calendar Deadline",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdGg4QjJyZUJKQ2FiQTJmTllYMEE0WlN6V19uVXlWVjROc0ZVMUd0RV84VExSb2U3U05kbzdWVVBJdC1PLTV4UC1VREMtMHVfZW05VGpQS09JX3JPWERkQVM4eWdic1BtVldkeGJIeURUTlFRMlp4MjU4T1BRRXlNdUR3TEJZcnRfbWxTdWQxNUZjbk5PR2ktc1NlUQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3311,9 +3314,9 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 91,
+          "priority_score": 92,
           "key_data": [
-            "2026-27 Awards Season Calendar - deadline.com"
+            "2026-27 Awards Season Calendar - Deadline"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3323,8 +3326,8 @@
           ]
         },
         {
-          "id": "awards-1-6619146153142810319",
-          "key": "awards-1-6619146153142810319",
+          "id": "awards-1-230132294365145307",
+          "key": "awards-1-230132294365145307",
           "category": "Awards",
           "label": "Awards",
           "headline": "Issa Rae Is ‘Never Going to Stop’ Using Her Power for Good, Even as Mergers and AI Disrupt Hollywood: ‘This Is All Men’s Fault’",
@@ -3351,8 +3354,8 @@
           ]
         },
         {
-          "id": "awards-10-8280874165677603650",
-          "key": "awards-10-8280874165677603650",
+          "id": "awards-9-8849908568330360055",
+          "key": "awards-9-8849908568330360055",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo",
@@ -3367,7 +3370,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 90,
+          "priority_score": 91,
           "key_data": [
             "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo"
           ],
@@ -3379,7 +3382,7 @@
           ]
         }
       ],
-      "updated_at": "2026-09-27 05:52:08 PM ET"
+      "updated_at": "2026-09-27 08:20:42 PM ET"
     },
     {
       "key": "box_office",
@@ -3389,20 +3392,20 @@
       "snapshot": "Box Office coverage is updating with 4 current RSS headline item(s).",
       "key_storylines": [
         "Box Office: ‘Avengers: Endgame Encore’ Leads With $11.2 Million on Friday as A24’s ‘Primetime’ Takes Second",
-        "‘Avengers: Endgame’ Powers $26M Return at Crowded Box Office - hollywoodreporter.com",
+        "‘Avengers: Endgame’ Returns to Box Office With $3.8M Previews as Brad Pitt, Robert Pattinson Join Fray - The Hollywood Reporter",
         "Universal Crosses $5 Billion at the Global Box Office, First Studio to Reach Milestone in 2026",
-        "‘Avengers: Endgame’ Returns to Box Office With $3.8M Previews as Brad Pitt, Robert Pattinson Join Fray - hollywoodreporter.com"
+        "‘Transformers: The Movie’ Extends Theatrical Run as “Apology Tour” Rerelease Surges at Box Office - The Hollywood Reporter"
       ],
       "watch_list": [
         "Box Office: ‘Avengers: Endgame Encore’ Leads With $11.2 Million on Friday as A24’s ‘Primetime’ Takes Second",
-        "‘Avengers: Endgame’ Powers $26M Return at Crowded Box Office - hollywoodreporter.com",
+        "‘Avengers: Endgame’ Returns to Box Office With $3.8M Previews as Brad Pitt, Robert Pattinson Join Fray - The Hollywood Reporter",
         "Universal Crosses $5 Billion at the Global Box Office, First Studio to Reach Milestone in 2026",
-        "‘Avengers: Endgame’ Returns to Box Office With $3.8M Previews as Brad Pitt, Robert Pattinson Join Fray - hollywoodreporter.com"
+        "‘Transformers: The Movie’ Extends Theatrical Run as “Apology Tour” Rerelease Surges at Box Office - The Hollywood Reporter"
       ],
       "homepage_cards": [
         {
-          "id": "box_office-0-677841985676018681",
-          "key": "box_office-0-677841985676018681",
+          "id": "box_office-0-6546430164356536163",
+          "key": "box_office-0-6546430164356536163",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘Avengers: Endgame Encore’ Leads With $11.2 Million on Friday as A24’s ‘Primetime’ Takes Second",
@@ -3429,25 +3432,25 @@
           ]
         },
         {
-          "id": "box_office-8-8348618199903987186",
-          "key": "box_office-8-8348618199903987186",
+          "id": "box_office-8-5988468581212088749",
+          "key": "box_office-8-5988468581212088749",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "‘Avengers: Endgame’ Powers $26M Return at Crowded Box Office - hollywoodreporter.com",
-          "title": "‘Avengers: Endgame’ Powers $26M Return at Crowded Box Office - hollywoodreporter.com",
-          "snapshot": "‘Avengers: Endgame’ Powers $26M Return at Crowded Box Office hollywoodreporter.com",
-          "summary": "‘Avengers: Endgame’ Powers $26M Return at Crowded Box Office hollywoodreporter.com",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPd1dEeWpMdzJfZ3h2bTVKaF9GZ0tTMnhYWnJRNlVhd3J1QjlCWUpzS0F6aDJLMFNpYlhIQk1fNE9UYnpJWXdFX3Y0Ynlob2w0V2Z4LXRlNjhtdHVSUnA3ZjhIMmxoaDlfVjRSZFpjNVVvZFQ4cDZjNnI2a0wzSkwwbXg1YnNGVzhtSlBPUnBEZWs1anhyaURsOXNrc2VkSU1Lbks2RFI4QzVweU5PMnRzV0Y5bVpkTElCNlJ2bg?oc=5",
+          "headline": "‘Avengers: Endgame’ Returns to Box Office With $3.8M Previews as Brad Pitt, Robert Pattinson Join Fray - The Hollywood Reporter",
+          "title": "‘Avengers: Endgame’ Returns to Box Office With $3.8M Previews as Brad Pitt, Robert Pattinson Join Fray - The Hollywood Reporter",
+          "snapshot": "‘Avengers: Endgame’ Returns to Box Office With $3.8M Previews as Brad Pitt, Robert Pattinson Join Fray The Hollywood Reporter",
+          "summary": "‘Avengers: Endgame’ Returns to Box Office With $3.8M Previews as Brad Pitt, Robert Pattinson Join Fray The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUC0wVTVEeWlDQkY4SG9xTXdvY2dkZURXS29PdzRTcnowVTVlM3dneUJXc1pDT2M0TEw1azY1LUh3ZFFwZHpLcnVaRzhHaUhzRHI3elNsNUp1RHM1OVZSUTlXSkZWcFBvMWhIQ3BTTWk1RlB6S2ItM0lJSnNwbTVuUElaUXhZVmNoUE9IaUV1RklDMGRoVTFraHI5WENCQTA3MnlqOC1pY0x6cWFPc3FVY0g3YTJiQlhtLW5iVVp1d0Q?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-09-26 12:02:40 PM ET",
+          "published_at": "2026-09-25 12:09:10 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 92,
           "key_data": [
-            "‘Avengers: Endgame’ Powers $26M Return at Crowded Box Office - hollywoodreporter.com"
+            "‘Avengers: Endgame’ Returns to Box Office With $3.8M Previews as Brad Pitt, Robert Pattinson Join Fray - The Hollywood Reporter"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3457,8 +3460,8 @@
           ]
         },
         {
-          "id": "box_office-1-6320212690449337118",
-          "key": "box_office-1-6320212690449337118",
+          "id": "box_office-1-3823183828199459958",
+          "key": "box_office-1-3823183828199459958",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Universal Crosses $5 Billion at the Global Box Office, First Studio to Reach Milestone in 2026",
@@ -3485,25 +3488,25 @@
           ]
         },
         {
-          "id": "box_office-9-8765029110371177975",
-          "key": "box_office-9-8765029110371177975",
+          "id": "box_office-9-8692125568667476574",
+          "key": "box_office-9-8692125568667476574",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "‘Avengers: Endgame’ Returns to Box Office With $3.8M Previews as Brad Pitt, Robert Pattinson Join Fray - hollywoodreporter.com",
-          "title": "‘Avengers: Endgame’ Returns to Box Office With $3.8M Previews as Brad Pitt, Robert Pattinson Join Fray - hollywoodreporter.com",
-          "snapshot": "‘Avengers: Endgame’ Returns to Box Office With $3.8M Previews as Brad Pitt, Robert Pattinson Join Fray hollywoodreporter.com",
-          "summary": "‘Avengers: Endgame’ Returns to Box Office With $3.8M Previews as Brad Pitt, Robert Pattinson Join Fray hollywoodreporter.com",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUC0wVTVEeWlDQkY4SG9xTXdvY2dkZURXS29PdzRTcnowVTVlM3dneUJXc1pDT2M0TEw1azY1LUh3ZFFwZHpLcnVaRzhHaUhzRHI3elNsNUp1RHM1OVZSUTlXSkZWcFBvMWhIQ3BTTWk1RlB6S2ItM0lJSnNwbTVuUElaUXhZVmNoUE9IaUV1RklDMGRoVTFraHI5WENCQTA3MnlqOC1pY0x6cWFPc3FVY0g3YTJiQlhtLW5iVVp1d0Q?oc=5",
+          "headline": "‘Transformers: The Movie’ Extends Theatrical Run as “Apology Tour” Rerelease Surges at Box Office - The Hollywood Reporter",
+          "title": "‘Transformers: The Movie’ Extends Theatrical Run as “Apology Tour” Rerelease Surges at Box Office - The Hollywood Reporter",
+          "snapshot": "‘Transformers: The Movie’ Extends Theatrical Run as “Apology Tour” Rerelease Surges at Box Office The Hollywood Reporter",
+          "summary": "‘Transformers: The Movie’ Extends Theatrical Run as “Apology Tour” Rerelease Surges at Box Office The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTmdwRFZnOGZtaGVGbEl0WDd3UGRnN3lqcHd4V0w2TlpLeldlSzVfdElDSlZ6N0hMN3BoS21mUzN5c3A0cXF0UDdHU2NWb0RKczQ5eFRoNUdoMnI0S21JTC0yWlo4cFkwZDhmVmdIQl9CWm9ucnJuVXN4cExpOHBEZHkyUkFubVlWcy1FbEhvQzFuLVV0S2dzMEwtcDFWMF9qSFJDZlZzdXZhcnRBT0pmcGRacEswTDgzUVdVdQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-09-25 12:09:10 PM ET",
+          "published_at": "2026-09-23 10:57:56 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 91,
           "key_data": [
-            "‘Avengers: Endgame’ Returns to Box Office With $3.8M Previews as Brad Pitt, Robert Pattinson Join Fray - hollywoodreporter.com"
+            "‘Transformers: The Movie’ Extends Theatrical Run as “Apology Tour” Rerelease Surges at Box Office - The Hollywood Reporter"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3515,8 +3518,8 @@
       ],
       "items": [
         {
-          "id": "box_office-0-677841985676018681",
-          "key": "box_office-0-677841985676018681",
+          "id": "box_office-0-6546430164356536163",
+          "key": "box_office-0-6546430164356536163",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘Avengers: Endgame Encore’ Leads With $11.2 Million on Friday as A24’s ‘Primetime’ Takes Second",
@@ -3543,25 +3546,25 @@
           ]
         },
         {
-          "id": "box_office-8-8348618199903987186",
-          "key": "box_office-8-8348618199903987186",
+          "id": "box_office-8-5988468581212088749",
+          "key": "box_office-8-5988468581212088749",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "‘Avengers: Endgame’ Powers $26M Return at Crowded Box Office - hollywoodreporter.com",
-          "title": "‘Avengers: Endgame’ Powers $26M Return at Crowded Box Office - hollywoodreporter.com",
-          "snapshot": "‘Avengers: Endgame’ Powers $26M Return at Crowded Box Office hollywoodreporter.com",
-          "summary": "‘Avengers: Endgame’ Powers $26M Return at Crowded Box Office hollywoodreporter.com",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPd1dEeWpMdzJfZ3h2bTVKaF9GZ0tTMnhYWnJRNlVhd3J1QjlCWUpzS0F6aDJLMFNpYlhIQk1fNE9UYnpJWXdFX3Y0Ynlob2w0V2Z4LXRlNjhtdHVSUnA3ZjhIMmxoaDlfVjRSZFpjNVVvZFQ4cDZjNnI2a0wzSkwwbXg1YnNGVzhtSlBPUnBEZWs1anhyaURsOXNrc2VkSU1Lbks2RFI4QzVweU5PMnRzV0Y5bVpkTElCNlJ2bg?oc=5",
+          "headline": "‘Avengers: Endgame’ Returns to Box Office With $3.8M Previews as Brad Pitt, Robert Pattinson Join Fray - The Hollywood Reporter",
+          "title": "‘Avengers: Endgame’ Returns to Box Office With $3.8M Previews as Brad Pitt, Robert Pattinson Join Fray - The Hollywood Reporter",
+          "snapshot": "‘Avengers: Endgame’ Returns to Box Office With $3.8M Previews as Brad Pitt, Robert Pattinson Join Fray The Hollywood Reporter",
+          "summary": "‘Avengers: Endgame’ Returns to Box Office With $3.8M Previews as Brad Pitt, Robert Pattinson Join Fray The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUC0wVTVEeWlDQkY4SG9xTXdvY2dkZURXS29PdzRTcnowVTVlM3dneUJXc1pDT2M0TEw1azY1LUh3ZFFwZHpLcnVaRzhHaUhzRHI3elNsNUp1RHM1OVZSUTlXSkZWcFBvMWhIQ3BTTWk1RlB6S2ItM0lJSnNwbTVuUElaUXhZVmNoUE9IaUV1RklDMGRoVTFraHI5WENCQTA3MnlqOC1pY0x6cWFPc3FVY0g3YTJiQlhtLW5iVVp1d0Q?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-09-26 12:02:40 PM ET",
+          "published_at": "2026-09-25 12:09:10 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 92,
           "key_data": [
-            "‘Avengers: Endgame’ Powers $26M Return at Crowded Box Office - hollywoodreporter.com"
+            "‘Avengers: Endgame’ Returns to Box Office With $3.8M Previews as Brad Pitt, Robert Pattinson Join Fray - The Hollywood Reporter"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3571,8 +3574,8 @@
           ]
         },
         {
-          "id": "box_office-1-6320212690449337118",
-          "key": "box_office-1-6320212690449337118",
+          "id": "box_office-1-3823183828199459958",
+          "key": "box_office-1-3823183828199459958",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Universal Crosses $5 Billion at the Global Box Office, First Studio to Reach Milestone in 2026",
@@ -3599,25 +3602,25 @@
           ]
         },
         {
-          "id": "box_office-9-8765029110371177975",
-          "key": "box_office-9-8765029110371177975",
+          "id": "box_office-9-8692125568667476574",
+          "key": "box_office-9-8692125568667476574",
           "category": "Box Office",
           "label": "Box Office",
-          "headline": "‘Avengers: Endgame’ Returns to Box Office With $3.8M Previews as Brad Pitt, Robert Pattinson Join Fray - hollywoodreporter.com",
-          "title": "‘Avengers: Endgame’ Returns to Box Office With $3.8M Previews as Brad Pitt, Robert Pattinson Join Fray - hollywoodreporter.com",
-          "snapshot": "‘Avengers: Endgame’ Returns to Box Office With $3.8M Previews as Brad Pitt, Robert Pattinson Join Fray hollywoodreporter.com",
-          "summary": "‘Avengers: Endgame’ Returns to Box Office With $3.8M Previews as Brad Pitt, Robert Pattinson Join Fray hollywoodreporter.com",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUC0wVTVEeWlDQkY4SG9xTXdvY2dkZURXS29PdzRTcnowVTVlM3dneUJXc1pDT2M0TEw1azY1LUh3ZFFwZHpLcnVaRzhHaUhzRHI3elNsNUp1RHM1OVZSUTlXSkZWcFBvMWhIQ3BTTWk1RlB6S2ItM0lJSnNwbTVuUElaUXhZVmNoUE9IaUV1RklDMGRoVTFraHI5WENCQTA3MnlqOC1pY0x6cWFPc3FVY0g3YTJiQlhtLW5iVVp1d0Q?oc=5",
+          "headline": "‘Transformers: The Movie’ Extends Theatrical Run as “Apology Tour” Rerelease Surges at Box Office - The Hollywood Reporter",
+          "title": "‘Transformers: The Movie’ Extends Theatrical Run as “Apology Tour” Rerelease Surges at Box Office - The Hollywood Reporter",
+          "snapshot": "‘Transformers: The Movie’ Extends Theatrical Run as “Apology Tour” Rerelease Surges at Box Office The Hollywood Reporter",
+          "summary": "‘Transformers: The Movie’ Extends Theatrical Run as “Apology Tour” Rerelease Surges at Box Office The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTmdwRFZnOGZtaGVGbEl0WDd3UGRnN3lqcHd4V0w2TlpLeldlSzVfdElDSlZ6N0hMN3BoS21mUzN5c3A0cXF0UDdHU2NWb0RKczQ5eFRoNUdoMnI0S21JTC0yWlo4cFkwZDhmVmdIQl9CWm9ucnJuVXN4cExpOHBEZHkyUkFubVlWcy1FbEhvQzFuLVV0S2dzMEwtcDFWMF9qSFJDZlZzdXZhcnRBT0pmcGRacEswTDgzUVdVdQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-09-25 12:09:10 PM ET",
+          "published_at": "2026-09-23 10:57:56 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 91,
           "key_data": [
-            "‘Avengers: Endgame’ Returns to Box Office With $3.8M Previews as Brad Pitt, Robert Pattinson Join Fray - hollywoodreporter.com"
+            "‘Transformers: The Movie’ Extends Theatrical Run as “Apology Tour” Rerelease Surges at Box Office - The Hollywood Reporter"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3627,32 +3630,32 @@
           ]
         }
       ],
-      "updated_at": "2026-09-27 05:52:09 PM ET"
+      "updated_at": "2026-09-27 08:20:43 PM ET"
     },
     {
       "key": "celebrity",
       "name": "Celebrity",
       "title": "Celebrity Report",
-      "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
+      "headline": "Celebrity deaths 2026: Remembering the stars who died this year - ew.com",
       "snapshot": "Celebrity coverage is updating with 2 current RSS headline item(s).",
       "key_storylines": [
-        "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
+        "Celebrity deaths 2026: Remembering the stars who died this year - ew.com",
         "Celebrity Splits of 2026: Audrina Patridge, Michael Ray and More Duos Who Broke Up This Year - Us Weekly"
       ],
       "watch_list": [
-        "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
+        "Celebrity deaths 2026: Remembering the stars who died this year - ew.com",
         "Celebrity Splits of 2026: Audrina Patridge, Michael Ray and More Duos Who Broke Up This Year - Us Weekly"
       ],
       "homepage_cards": [
         {
-          "id": "celebrity-0-131381145038551537",
-          "key": "celebrity-0-131381145038551537",
+          "id": "celebrity-0-374055714998116520",
+          "key": "celebrity-0-374055714998116520",
           "category": "Celebrity",
           "label": "Celebrity",
-          "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
-          "title": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
-          "snapshot": "Celebrity deaths 2026: Remembering the stars who died this year Entertainment Weekly",
-          "summary": "Celebrity deaths 2026: Remembering the stars who died this year Entertainment Weekly",
+          "headline": "Celebrity deaths 2026: Remembering the stars who died this year - ew.com",
+          "title": "Celebrity deaths 2026: Remembering the stars who died this year - ew.com",
+          "snapshot": "Celebrity deaths 2026: Remembering the stars who died this year ew.com",
+          "summary": "Celebrity deaths 2026: Remembering the stars who died this year ew.com",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84ZTg1Z05mQ3JVYmpCb3dWbHl5Y3pMcHlYNVBtUDlsX0d0VGs5QXdOME5FUzFETWhGTTZQUzllUWZwakRJUWYyeDBCS0lYRFZ5TXAzLXdhZDM0d2s5dzhEdUhfMHk5a3hlRXRNSkVaMUNwbmx4ampTaXVB?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3663,7 +3666,7 @@
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly"
+            "Celebrity deaths 2026: Remembering the stars who died this year - ew.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3673,8 +3676,8 @@
           ]
         },
         {
-          "id": "celebrity-1-6806942839750545357",
-          "key": "celebrity-1-6806942839750545357",
+          "id": "celebrity-1-3278337346592846690",
+          "key": "celebrity-1-3278337346592846690",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity Splits of 2026: Audrina Patridge, Michael Ray and More Duos Who Broke Up This Year - Us Weekly",
@@ -3703,14 +3706,14 @@
       ],
       "items": [
         {
-          "id": "celebrity-0-131381145038551537",
-          "key": "celebrity-0-131381145038551537",
+          "id": "celebrity-0-374055714998116520",
+          "key": "celebrity-0-374055714998116520",
           "category": "Celebrity",
           "label": "Celebrity",
-          "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
-          "title": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
-          "snapshot": "Celebrity deaths 2026: Remembering the stars who died this year Entertainment Weekly",
-          "summary": "Celebrity deaths 2026: Remembering the stars who died this year Entertainment Weekly",
+          "headline": "Celebrity deaths 2026: Remembering the stars who died this year - ew.com",
+          "title": "Celebrity deaths 2026: Remembering the stars who died this year - ew.com",
+          "snapshot": "Celebrity deaths 2026: Remembering the stars who died this year ew.com",
+          "summary": "Celebrity deaths 2026: Remembering the stars who died this year ew.com",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84ZTg1Z05mQ3JVYmpCb3dWbHl5Y3pMcHlYNVBtUDlsX0d0VGs5QXdOME5FUzFETWhGTTZQUzllUWZwakRJUWYyeDBCS0lYRFZ5TXAzLXdhZDM0d2s5dzhEdUhfMHk5a3hlRXRNSkVaMUNwbmx4ampTaXVB?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3721,7 +3724,7 @@
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly"
+            "Celebrity deaths 2026: Remembering the stars who died this year - ew.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3731,8 +3734,8 @@
           ]
         },
         {
-          "id": "celebrity-1-6806942839750545357",
-          "key": "celebrity-1-6806942839750545357",
+          "id": "celebrity-1-3278337346592846690",
+          "key": "celebrity-1-3278337346592846690",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity Splits of 2026: Audrina Patridge, Michael Ray and More Duos Who Broke Up This Year - Us Weekly",
@@ -3759,7 +3762,7 @@
           ]
         }
       ],
-      "updated_at": "2026-09-27 05:52:09 PM ET"
+      "updated_at": "2026-09-27 08:20:46 PM ET"
     },
     {
       "key": "hollywood",
@@ -3770,24 +3773,24 @@
       "key_storylines": [
         "Neil Patrick Harris to Star in ‘Damn Yankees’ Broadway Revival",
         "Neil Patrick Harris Set For ‘Damn Yankees’ Broadway Revival In Spring 2027, Julianne Hough & Austin Scott Also Starring",
-        "2026 MTV Video Music Awards: Watch the Red Carpet Livestream",
+        "MTV VMAs Red Carpet Gallery: See the Looks and Arrivals (Updating)",
         "Lawmakers unveil Hollywood tax incentive proposal - Politico",
         "Asian Games 2026 Livestream: Where to Watch the Event In the U.S. Online"
       ],
       "watch_list": [
         "Neil Patrick Harris to Star in ‘Damn Yankees’ Broadway Revival",
         "Neil Patrick Harris Set For ‘Damn Yankees’ Broadway Revival In Spring 2027, Julianne Hough & Austin Scott Also Starring",
-        "2026 MTV Video Music Awards: Watch the Red Carpet Livestream",
+        "MTV VMAs Red Carpet Gallery: See the Looks and Arrivals (Updating)",
         "Lawmakers unveil Hollywood tax incentive proposal - Politico",
         "Asian Games 2026 Livestream: Where to Watch the Event In the U.S. Online",
         "Bill Gates Warns Unregulated AI Development Could “Cause A Billion Deaths”",
-        "Where to Watch the 2026 VMAs Live Online",
+        "MTV Video Music Awards: Winners List (Updating)",
         "Hollywood would get 20% federal film tax credit under proposed new bill - Los Angeles Times"
       ],
       "homepage_cards": [
         {
-          "id": "hollywood-0-5207446025047798111",
-          "key": "hollywood-0-5207446025047798111",
+          "id": "hollywood-0-5539558538596474735",
+          "key": "hollywood-0-5539558538596474735",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Neil Patrick Harris to Star in ‘Damn Yankees’ Broadway Revival",
@@ -3814,8 +3817,8 @@
           ]
         },
         {
-          "id": "hollywood-3-7362460262443152877",
-          "key": "hollywood-3-7362460262443152877",
+          "id": "hollywood-2-3331827316106229850",
+          "key": "hollywood-2-3331827316106229850",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Neil Patrick Harris Set For ‘Damn Yankees’ Broadway Revival In Spring 2027, Julianne Hough & Austin Scott Also Starring",
@@ -3830,7 +3833,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 97,
+          "priority_score": 98,
           "key_data": [
             "Neil Patrick Harris Set For ‘Damn Yankees’ Broadway Revival In Spring 2027, Julianne Hough & Austin Scott Also Starring"
           ],
@@ -3842,25 +3845,25 @@
           ]
         },
         {
-          "id": "hollywood-7-889979356793689087",
-          "key": "hollywood-7-889979356793689087",
+          "id": "hollywood-6-4373562291784091894",
+          "key": "hollywood-6-4373562291784091894",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "2026 MTV Video Music Awards: Watch the Red Carpet Livestream",
-          "title": "2026 MTV Video Music Awards: Watch the Red Carpet Livestream",
-          "snapshot": "The awards ceremony, hosted by Snoop Dogg, airs live from the Peacock Theater in Los Angeles Sunday night.",
-          "summary": "The awards ceremony, hosted by Snoop Dogg, airs live from the Peacock Theater in Los Angeles Sunday night.",
-          "url": "https://www.hollywoodreporter.com/music/music-news/watch-2026-mtv-vmas-red-carpet-livestream-1236709846/",
+          "headline": "MTV VMAs Red Carpet Gallery: See the Looks and Arrivals (Updating)",
+          "title": "MTV VMAs Red Carpet Gallery: See the Looks and Arrivals (Updating)",
+          "snapshot": "Madonna is opening the broadcast for the first time since 2003, while Taylor Swift is guaranteed at least one Moon Person trophy — and that’s just the start of who is attending.",
+          "summary": "Madonna is opening the broadcast for the first time since 2003, while Taylor Swift is guaranteed at least one Moon Person trophy — and that’s just the start of who is attending.",
+          "url": "https://www.hollywoodreporter.com/gallery/mtv-vmas-2026-red-carpet-looks-arrivals-photo-1236713034/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/feed/",
-          "published_at": "2026-09-27 05:30:00 PM ET",
+          "published_at": "2026-09-27 07:03:06 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 93,
+          "priority_score": 94,
           "key_data": [
-            "2026 MTV Video Music Awards: Watch the Red Carpet Livestream"
+            "MTV VMAs Red Carpet Gallery: See the Looks and Arrivals (Updating)"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3870,8 +3873,8 @@
           ]
         },
         {
-          "id": "hollywood-9-1832140043899345075",
-          "key": "hollywood-9-1832140043899345075",
+          "id": "hollywood-9-5446375577893482384",
+          "key": "hollywood-9-5446375577893482384",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Lawmakers unveil Hollywood tax incentive proposal - Politico",
@@ -3898,8 +3901,8 @@
           ]
         },
         {
-          "id": "hollywood-1-7035204490959997406",
-          "key": "hollywood-1-7035204490959997406",
+          "id": "hollywood-1-3588583188796096507",
+          "key": "hollywood-1-3588583188796096507",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Asian Games 2026 Livestream: Where to Watch the Event In the U.S. Online",
@@ -3926,8 +3929,8 @@
           ]
         },
         {
-          "id": "hollywood-4-160380804068921262",
-          "key": "hollywood-4-160380804068921262",
+          "id": "hollywood-3-6358685316790792521",
+          "key": "hollywood-3-6358685316790792521",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Bill Gates Warns Unregulated AI Development Could “Cause A Billion Deaths”",
@@ -3942,7 +3945,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 96,
+          "priority_score": 97,
           "key_data": [
             "Bill Gates Warns Unregulated AI Development Could “Cause A Billion Deaths”"
           ],
@@ -3954,25 +3957,25 @@
           ]
         },
         {
-          "id": "hollywood-8-8486432285847970764",
-          "key": "hollywood-8-8486432285847970764",
+          "id": "hollywood-7-553872733500371010",
+          "key": "hollywood-7-553872733500371010",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Where to Watch the 2026 VMAs Live Online",
-          "title": "Where to Watch the 2026 VMAs Live Online",
-          "snapshot": "Snoop Dogg will host, Taylor Swift will receive the inaugural Artist Director Honors, while Dolly Parton and George Michael will be honored with special musical tributes.",
-          "summary": "Snoop Dogg will host, Taylor Swift will receive the inaugural Artist Director Honors, while Dolly Parton and George Michael will be honored with special musical tributes.",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-vmas-2026-live-stream-free-mtv-video-music-awards-1236712799/",
+          "headline": "MTV Video Music Awards: Winners List (Updating)",
+          "title": "MTV Video Music Awards: Winners List (Updating)",
+          "snapshot": "Snoop Dogg is hosting the ceremony, which will open with a performance by Madonna, who leads the nominees with 13 mentions.",
+          "summary": "Snoop Dogg is hosting the ceremony, which will open with a performance by Madonna, who leads the nominees with 13 mentions.",
+          "url": "https://www.hollywoodreporter.com/lists/mtv-vmas-2026-winners-list/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/feed/",
-          "published_at": "2026-09-27 02:00:00 PM ET",
+          "published_at": "2026-09-27 07:00:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 92,
+          "priority_score": 93,
           "key_data": [
-            "Where to Watch the 2026 VMAs Live Online"
+            "MTV Video Music Awards: Winners List (Updating)"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3982,8 +3985,8 @@
           ]
         },
         {
-          "id": "hollywood-10-1368001111694646125",
-          "key": "hollywood-10-1368001111694646125",
+          "id": "hollywood-10-3927726115138686800",
+          "key": "hollywood-10-3927726115138686800",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Hollywood would get 20% federal film tax credit under proposed new bill - Los Angeles Times",
@@ -4012,8 +4015,8 @@
       ],
       "items": [
         {
-          "id": "hollywood-0-5207446025047798111",
-          "key": "hollywood-0-5207446025047798111",
+          "id": "hollywood-0-5539558538596474735",
+          "key": "hollywood-0-5539558538596474735",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Neil Patrick Harris to Star in ‘Damn Yankees’ Broadway Revival",
@@ -4040,8 +4043,8 @@
           ]
         },
         {
-          "id": "hollywood-3-7362460262443152877",
-          "key": "hollywood-3-7362460262443152877",
+          "id": "hollywood-2-3331827316106229850",
+          "key": "hollywood-2-3331827316106229850",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Neil Patrick Harris Set For ‘Damn Yankees’ Broadway Revival In Spring 2027, Julianne Hough & Austin Scott Also Starring",
@@ -4056,7 +4059,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 97,
+          "priority_score": 98,
           "key_data": [
             "Neil Patrick Harris Set For ‘Damn Yankees’ Broadway Revival In Spring 2027, Julianne Hough & Austin Scott Also Starring"
           ],
@@ -4068,25 +4071,25 @@
           ]
         },
         {
-          "id": "hollywood-7-889979356793689087",
-          "key": "hollywood-7-889979356793689087",
+          "id": "hollywood-6-4373562291784091894",
+          "key": "hollywood-6-4373562291784091894",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "2026 MTV Video Music Awards: Watch the Red Carpet Livestream",
-          "title": "2026 MTV Video Music Awards: Watch the Red Carpet Livestream",
-          "snapshot": "The awards ceremony, hosted by Snoop Dogg, airs live from the Peacock Theater in Los Angeles Sunday night.",
-          "summary": "The awards ceremony, hosted by Snoop Dogg, airs live from the Peacock Theater in Los Angeles Sunday night.",
-          "url": "https://www.hollywoodreporter.com/music/music-news/watch-2026-mtv-vmas-red-carpet-livestream-1236709846/",
+          "headline": "MTV VMAs Red Carpet Gallery: See the Looks and Arrivals (Updating)",
+          "title": "MTV VMAs Red Carpet Gallery: See the Looks and Arrivals (Updating)",
+          "snapshot": "Madonna is opening the broadcast for the first time since 2003, while Taylor Swift is guaranteed at least one Moon Person trophy — and that’s just the start of who is attending.",
+          "summary": "Madonna is opening the broadcast for the first time since 2003, while Taylor Swift is guaranteed at least one Moon Person trophy — and that’s just the start of who is attending.",
+          "url": "https://www.hollywoodreporter.com/gallery/mtv-vmas-2026-red-carpet-looks-arrivals-photo-1236713034/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/feed/",
-          "published_at": "2026-09-27 05:30:00 PM ET",
+          "published_at": "2026-09-27 07:03:06 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 93,
+          "priority_score": 94,
           "key_data": [
-            "2026 MTV Video Music Awards: Watch the Red Carpet Livestream"
+            "MTV VMAs Red Carpet Gallery: See the Looks and Arrivals (Updating)"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4096,8 +4099,8 @@
           ]
         },
         {
-          "id": "hollywood-9-1832140043899345075",
-          "key": "hollywood-9-1832140043899345075",
+          "id": "hollywood-9-5446375577893482384",
+          "key": "hollywood-9-5446375577893482384",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Lawmakers unveil Hollywood tax incentive proposal - Politico",
@@ -4124,8 +4127,8 @@
           ]
         },
         {
-          "id": "hollywood-1-7035204490959997406",
-          "key": "hollywood-1-7035204490959997406",
+          "id": "hollywood-1-3588583188796096507",
+          "key": "hollywood-1-3588583188796096507",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Asian Games 2026 Livestream: Where to Watch the Event In the U.S. Online",
@@ -4152,8 +4155,8 @@
           ]
         },
         {
-          "id": "hollywood-4-160380804068921262",
-          "key": "hollywood-4-160380804068921262",
+          "id": "hollywood-3-6358685316790792521",
+          "key": "hollywood-3-6358685316790792521",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Bill Gates Warns Unregulated AI Development Could “Cause A Billion Deaths”",
@@ -4168,7 +4171,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 96,
+          "priority_score": 97,
           "key_data": [
             "Bill Gates Warns Unregulated AI Development Could “Cause A Billion Deaths”"
           ],
@@ -4180,25 +4183,25 @@
           ]
         },
         {
-          "id": "hollywood-8-8486432285847970764",
-          "key": "hollywood-8-8486432285847970764",
+          "id": "hollywood-7-553872733500371010",
+          "key": "hollywood-7-553872733500371010",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Where to Watch the 2026 VMAs Live Online",
-          "title": "Where to Watch the 2026 VMAs Live Online",
-          "snapshot": "Snoop Dogg will host, Taylor Swift will receive the inaugural Artist Director Honors, while Dolly Parton and George Michael will be honored with special musical tributes.",
-          "summary": "Snoop Dogg will host, Taylor Swift will receive the inaugural Artist Director Honors, while Dolly Parton and George Michael will be honored with special musical tributes.",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-vmas-2026-live-stream-free-mtv-video-music-awards-1236712799/",
+          "headline": "MTV Video Music Awards: Winners List (Updating)",
+          "title": "MTV Video Music Awards: Winners List (Updating)",
+          "snapshot": "Snoop Dogg is hosting the ceremony, which will open with a performance by Madonna, who leads the nominees with 13 mentions.",
+          "summary": "Snoop Dogg is hosting the ceremony, which will open with a performance by Madonna, who leads the nominees with 13 mentions.",
+          "url": "https://www.hollywoodreporter.com/lists/mtv-vmas-2026-winners-list/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/feed/",
-          "published_at": "2026-09-27 02:00:00 PM ET",
+          "published_at": "2026-09-27 07:00:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 92,
+          "priority_score": 93,
           "key_data": [
-            "Where to Watch the 2026 VMAs Live Online"
+            "MTV Video Music Awards: Winners List (Updating)"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4208,8 +4211,8 @@
           ]
         },
         {
-          "id": "hollywood-10-1368001111694646125",
-          "key": "hollywood-10-1368001111694646125",
+          "id": "hollywood-10-3927726115138686800",
+          "key": "hollywood-10-3927726115138686800",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Hollywood would get 20% federal film tax credit under proposed new bill - Los Angeles Times",
@@ -4236,45 +4239,45 @@
           ]
         }
       ],
-      "updated_at": "2026-09-27 05:52:10 PM ET"
+      "updated_at": "2026-09-27 08:20:47 PM ET"
     },
     {
       "key": "gaming",
       "name": "Gaming",
       "title": "Gaming Report",
-      "headline": "The Best Deals Today: Fire Emblem: Fortune's Weave, Metroid Prime 4, Nintendo Switch 2, and More",
+      "headline": "The Best Deals Today: Super Mario RPG, Fire Emblem: Fortune's Weave, Corsair K70 Keyboard, and More",
       "snapshot": "Gaming coverage is updating with 3 current RSS headline item(s).",
       "key_storylines": [
-        "The Best Deals Today: Fire Emblem: Fortune's Weave, Metroid Prime 4, Nintendo Switch 2, and More",
+        "The Best Deals Today: Super Mario RPG, Fire Emblem: Fortune's Weave, Corsair K70 Keyboard, and More",
         "The Top 10 Video Games Releasing in October 2026 - Men's Journal",
-        "The Last of Us Gets Animated Background on PS5 as Naughty Dog Teases Announcements for TLOU Day 2026"
+        "The Best Deals Today: Fire Emblem: Fortune's Weave, Metroid Prime 4, Nintendo Switch 2, and More"
       ],
       "watch_list": [
-        "The Best Deals Today: Fire Emblem: Fortune's Weave, Metroid Prime 4, Nintendo Switch 2, and More",
+        "The Best Deals Today: Super Mario RPG, Fire Emblem: Fortune's Weave, Corsair K70 Keyboard, and More",
         "The Top 10 Video Games Releasing in October 2026 - Men's Journal",
-        "The Last of Us Gets Animated Background on PS5 as Naughty Dog Teases Announcements for TLOU Day 2026"
+        "The Best Deals Today: Fire Emblem: Fortune's Weave, Metroid Prime 4, Nintendo Switch 2, and More"
       ],
       "homepage_cards": [
         {
-          "id": "gaming-0-6664586967900384819",
-          "key": "gaming-0-6664586967900384819",
+          "id": "gaming-0-7170122220541012588",
+          "key": "gaming-0-7170122220541012588",
           "category": "Gaming",
           "label": "Gaming",
-          "headline": "The Best Deals Today: Fire Emblem: Fortune's Weave, Metroid Prime 4, Nintendo Switch 2, and More",
-          "title": "The Best Deals Today: Fire Emblem: Fortune's Weave, Metroid Prime 4, Nintendo Switch 2, and More",
-          "snapshot": "A new weekend has arrived, and today, you can save on Fire Emblem: Fortune's Weave, Metroid Prime 4: Beyond, Nintendo Switch 2, and more. Check out our top picks for Saturday, September 26, below. Fire Emblem: Fortune's Weave for $69.97 Fire Emblem: Fortune's Weave is out now, and you can save $10 on a physical copy...",
-          "summary": "A new weekend has arrived, and today, you can save on Fire Emblem: Fortune's Weave, Metroid Prime 4: Beyond, Nintendo Switch 2, and more. Check out our top picks for Saturday, September 26, below. Fire Emblem: Fortune's Weave for $69.97 Fire Emblem: Fortune's Weave is out now, and you can save $10 on a physical copy...",
-          "url": "https://www.ign.com/articles/best-deals-for-september-26-2026",
+          "headline": "The Best Deals Today: Super Mario RPG, Fire Emblem: Fortune's Weave, Corsair K70 Keyboard, and More",
+          "title": "The Best Deals Today: Super Mario RPG, Fire Emblem: Fortune's Weave, Corsair K70 Keyboard, and More",
+          "snapshot": "A new weekend has arrived, and today, you can save on the Corsair K70 Mechanical Keyboard, Super Mario RPG, Fire Emblem: Fortune's Weave, Metroid Prime 4: Beyond, Nintendo Switch 2, and more. Check out our top picks for Sunday, September 27, below. Fire Emblem: Fortune's Weave for $69.97 Fire Emblem: Fortune's Weave...",
+          "summary": "A new weekend has arrived, and today, you can save on the Corsair K70 Mechanical Keyboard, Super Mario RPG, Fire Emblem: Fortune's Weave, Metroid Prime 4: Beyond, Nintendo Switch 2, and more. Check out our top picks for Sunday, September 27, below. Fire Emblem: Fortune's Weave for $69.97 Fire Emblem: Fortune's Weave...",
+          "url": "https://www.ign.com/articles/best-deals-for-september-27-2026",
           "source": "IGN",
           "source_name": "IGN",
           "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-          "published_at": "2026-09-26 06:04:18 PM ET",
+          "published_at": "2026-09-27 05:22:16 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "The Best Deals Today: Fire Emblem: Fortune's Weave, Metroid Prime 4, Nintendo Switch 2, and More"
+            "The Best Deals Today: Super Mario RPG, Fire Emblem: Fortune's Weave, Corsair K70 Keyboard, and More"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4284,8 +4287,8 @@
           ]
         },
         {
-          "id": "gaming-20-5545345534943471134",
-          "key": "gaming-20-5545345534943471134",
+          "id": "gaming-20-7749742806161098412",
+          "key": "gaming-20-7749742806161098412",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "The Top 10 Video Games Releasing in October 2026 - Men's Journal",
@@ -4312,25 +4315,25 @@
           ]
         },
         {
-          "id": "gaming-1-5443398353467202897",
-          "key": "gaming-1-5443398353467202897",
+          "id": "gaming-1-1484523883767684515",
+          "key": "gaming-1-1484523883767684515",
           "category": "Gaming",
           "label": "Gaming",
-          "headline": "The Last of Us Gets Animated Background on PS5 as Naughty Dog Teases Announcements for TLOU Day 2026",
-          "title": "The Last of Us Gets Animated Background on PS5 as Naughty Dog Teases Announcements for TLOU Day 2026",
-          "snapshot": "Naughty Dog has released a free background on PlayStation 5 as it prepares to celebrate The Last of Us Day 2026.",
-          "summary": "Naughty Dog has released a free background on PlayStation 5 as it prepares to celebrate The Last of Us Day 2026.",
-          "url": "https://www.ign.com/articles/the-last-of-us-gets-animated-background-on-ps5-as-naughty-dog-teases-announcements-for-tlou-day-2026",
+          "headline": "The Best Deals Today: Fire Emblem: Fortune's Weave, Metroid Prime 4, Nintendo Switch 2, and More",
+          "title": "The Best Deals Today: Fire Emblem: Fortune's Weave, Metroid Prime 4, Nintendo Switch 2, and More",
+          "snapshot": "A new weekend has arrived, and today, you can save on Fire Emblem: Fortune's Weave, Metroid Prime 4: Beyond, Nintendo Switch 2, and more. Check out our top picks for Saturday, September 26, below. Fire Emblem: Fortune's Weave for $69.97 Fire Emblem: Fortune's Weave is out now, and you can save $10 on a physical copy...",
+          "summary": "A new weekend has arrived, and today, you can save on Fire Emblem: Fortune's Weave, Metroid Prime 4: Beyond, Nintendo Switch 2, and more. Check out our top picks for Saturday, September 26, below. Fire Emblem: Fortune's Weave for $69.97 Fire Emblem: Fortune's Weave is out now, and you can save $10 on a physical copy...",
+          "url": "https://www.ign.com/articles/best-deals-for-september-26-2026",
           "source": "IGN",
           "source_name": "IGN",
           "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-          "published_at": "2026-09-26 02:29:29 PM ET",
+          "published_at": "2026-09-26 06:04:18 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "The Last of Us Gets Animated Background on PS5 as Naughty Dog Teases Announcements for TLOU Day 2026"
+            "The Best Deals Today: Fire Emblem: Fortune's Weave, Metroid Prime 4, Nintendo Switch 2, and More"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4342,25 +4345,25 @@
       ],
       "items": [
         {
-          "id": "gaming-0-6664586967900384819",
-          "key": "gaming-0-6664586967900384819",
+          "id": "gaming-0-7170122220541012588",
+          "key": "gaming-0-7170122220541012588",
           "category": "Gaming",
           "label": "Gaming",
-          "headline": "The Best Deals Today: Fire Emblem: Fortune's Weave, Metroid Prime 4, Nintendo Switch 2, and More",
-          "title": "The Best Deals Today: Fire Emblem: Fortune's Weave, Metroid Prime 4, Nintendo Switch 2, and More",
-          "snapshot": "A new weekend has arrived, and today, you can save on Fire Emblem: Fortune's Weave, Metroid Prime 4: Beyond, Nintendo Switch 2, and more. Check out our top picks for Saturday, September 26, below. Fire Emblem: Fortune's Weave for $69.97 Fire Emblem: Fortune's Weave is out now, and you can save $10 on a physical copy...",
-          "summary": "A new weekend has arrived, and today, you can save on Fire Emblem: Fortune's Weave, Metroid Prime 4: Beyond, Nintendo Switch 2, and more. Check out our top picks for Saturday, September 26, below. Fire Emblem: Fortune's Weave for $69.97 Fire Emblem: Fortune's Weave is out now, and you can save $10 on a physical copy...",
-          "url": "https://www.ign.com/articles/best-deals-for-september-26-2026",
+          "headline": "The Best Deals Today: Super Mario RPG, Fire Emblem: Fortune's Weave, Corsair K70 Keyboard, and More",
+          "title": "The Best Deals Today: Super Mario RPG, Fire Emblem: Fortune's Weave, Corsair K70 Keyboard, and More",
+          "snapshot": "A new weekend has arrived, and today, you can save on the Corsair K70 Mechanical Keyboard, Super Mario RPG, Fire Emblem: Fortune's Weave, Metroid Prime 4: Beyond, Nintendo Switch 2, and more. Check out our top picks for Sunday, September 27, below. Fire Emblem: Fortune's Weave for $69.97 Fire Emblem: Fortune's Weave...",
+          "summary": "A new weekend has arrived, and today, you can save on the Corsair K70 Mechanical Keyboard, Super Mario RPG, Fire Emblem: Fortune's Weave, Metroid Prime 4: Beyond, Nintendo Switch 2, and more. Check out our top picks for Sunday, September 27, below. Fire Emblem: Fortune's Weave for $69.97 Fire Emblem: Fortune's Weave...",
+          "url": "https://www.ign.com/articles/best-deals-for-september-27-2026",
           "source": "IGN",
           "source_name": "IGN",
           "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-          "published_at": "2026-09-26 06:04:18 PM ET",
+          "published_at": "2026-09-27 05:22:16 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "The Best Deals Today: Fire Emblem: Fortune's Weave, Metroid Prime 4, Nintendo Switch 2, and More"
+            "The Best Deals Today: Super Mario RPG, Fire Emblem: Fortune's Weave, Corsair K70 Keyboard, and More"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4370,8 +4373,8 @@
           ]
         },
         {
-          "id": "gaming-20-5545345534943471134",
-          "key": "gaming-20-5545345534943471134",
+          "id": "gaming-20-7749742806161098412",
+          "key": "gaming-20-7749742806161098412",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "The Top 10 Video Games Releasing in October 2026 - Men's Journal",
@@ -4398,25 +4401,25 @@
           ]
         },
         {
-          "id": "gaming-1-5443398353467202897",
-          "key": "gaming-1-5443398353467202897",
+          "id": "gaming-1-1484523883767684515",
+          "key": "gaming-1-1484523883767684515",
           "category": "Gaming",
           "label": "Gaming",
-          "headline": "The Last of Us Gets Animated Background on PS5 as Naughty Dog Teases Announcements for TLOU Day 2026",
-          "title": "The Last of Us Gets Animated Background on PS5 as Naughty Dog Teases Announcements for TLOU Day 2026",
-          "snapshot": "Naughty Dog has released a free background on PlayStation 5 as it prepares to celebrate The Last of Us Day 2026.",
-          "summary": "Naughty Dog has released a free background on PlayStation 5 as it prepares to celebrate The Last of Us Day 2026.",
-          "url": "https://www.ign.com/articles/the-last-of-us-gets-animated-background-on-ps5-as-naughty-dog-teases-announcements-for-tlou-day-2026",
+          "headline": "The Best Deals Today: Fire Emblem: Fortune's Weave, Metroid Prime 4, Nintendo Switch 2, and More",
+          "title": "The Best Deals Today: Fire Emblem: Fortune's Weave, Metroid Prime 4, Nintendo Switch 2, and More",
+          "snapshot": "A new weekend has arrived, and today, you can save on Fire Emblem: Fortune's Weave, Metroid Prime 4: Beyond, Nintendo Switch 2, and more. Check out our top picks for Saturday, September 26, below. Fire Emblem: Fortune's Weave for $69.97 Fire Emblem: Fortune's Weave is out now, and you can save $10 on a physical copy...",
+          "summary": "A new weekend has arrived, and today, you can save on Fire Emblem: Fortune's Weave, Metroid Prime 4: Beyond, Nintendo Switch 2, and more. Check out our top picks for Saturday, September 26, below. Fire Emblem: Fortune's Weave for $69.97 Fire Emblem: Fortune's Weave is out now, and you can save $10 on a physical copy...",
+          "url": "https://www.ign.com/articles/best-deals-for-september-26-2026",
           "source": "IGN",
           "source_name": "IGN",
           "source_feed": "https://www.ign.com/rss/articles/feed?tags=games",
-          "published_at": "2026-09-26 02:29:29 PM ET",
+          "published_at": "2026-09-26 06:04:18 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "The Last of Us Gets Animated Background on PS5 as Naughty Dog Teases Announcements for TLOU Day 2026"
+            "The Best Deals Today: Fire Emblem: Fortune's Weave, Metroid Prime 4, Nintendo Switch 2, and More"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4426,7 +4429,7 @@
           ]
         }
       ],
-      "updated_at": "2026-09-27 05:52:11 PM ET"
+      "updated_at": "2026-09-27 08:20:48 PM ET"
     },
     {
       "key": "media",
@@ -4447,12 +4450,12 @@
         "David Ellison’s Growing Media Empire: From CNN and HBO to ‘Harry Potter’ — and TikTok - TheWrap",
         "Bleecker Street Names Frank Martinez as Head of Distribution",
         "Paramount To Move Its Class B Shares From Nasdaq To New York Stock Exchange In Early October",
-        "YORA 2026: Africa’s Sports, Media and Business Power Players Set for Major Nairobi Summit - sports247.ng"
+        "YORA 2026: Africa’s Sports, Media and Business Power Players Set for Major Nairobi Summit - Sports247 Nigeria"
       ],
       "homepage_cards": [
         {
-          "id": "media-0-5253745109666276613",
-          "key": "media-0-5253745109666276613",
+          "id": "media-0-3840247159602421750",
+          "key": "media-0-3840247159602421750",
           "category": "Media",
           "label": "Media",
           "headline": "Author Chloe Gong on ‘Eyes of Kings’ ending, ‘Deadlock’ debut and how she wants ‘These Violent Delights’ adapted for TV or film",
@@ -4479,8 +4482,8 @@
           ]
         },
         {
-          "id": "media-10-403014212197830982",
-          "key": "media-10-403014212197830982",
+          "id": "media-10-6671232918960749509",
+          "key": "media-10-6671232918960749509",
           "category": "Media",
           "label": "Media",
           "headline": "International Documentary Association Calls On Israeli Government To Halt “Campaign Of Threats” Against ‘NAZA’ Directors",
@@ -4507,8 +4510,8 @@
           ]
         },
         {
-          "id": "media-21-5161090654109446269",
-          "key": "media-21-5161090654109446269",
+          "id": "media-21-9131201260740819861",
+          "key": "media-21-9131201260740819861",
           "category": "Media",
           "label": "Media",
           "headline": "David Ellison’s Growing Media Empire: From CNN and HBO to ‘Harry Potter’ — and TikTok - TheWrap",
@@ -4535,8 +4538,8 @@
           ]
         },
         {
-          "id": "media-1-8356961830128765391",
-          "key": "media-1-8356961830128765391",
+          "id": "media-1-8350553363376914980",
+          "key": "media-1-8350553363376914980",
           "category": "Media",
           "label": "Media",
           "headline": "Bleecker Street Names Frank Martinez as Head of Distribution",
@@ -4563,8 +4566,8 @@
           ]
         },
         {
-          "id": "media-11-3899877334974338837",
-          "key": "media-11-3899877334974338837",
+          "id": "media-11-3471580050935585655",
+          "key": "media-11-3471580050935585655",
           "category": "Media",
           "label": "Media",
           "headline": "Paramount To Move Its Class B Shares From Nasdaq To New York Stock Exchange In Early October",
@@ -4591,14 +4594,14 @@
           ]
         },
         {
-          "id": "media-22-9105416446404387128",
-          "key": "media-22-9105416446404387128",
+          "id": "media-22-2596460962383511857",
+          "key": "media-22-2596460962383511857",
           "category": "Media",
           "label": "Media",
-          "headline": "YORA 2026: Africa’s Sports, Media and Business Power Players Set for Major Nairobi Summit - sports247.ng",
-          "title": "YORA 2026: Africa’s Sports, Media and Business Power Players Set for Major Nairobi Summit - sports247.ng",
-          "snapshot": "YORA 2026: Africa’s Sports, Media and Business Power Players Set for Major Nairobi Summit sports247.ng",
-          "summary": "YORA 2026: Africa’s Sports, Media and Business Power Players Set for Major Nairobi Summit sports247.ng",
+          "headline": "YORA 2026: Africa’s Sports, Media and Business Power Players Set for Major Nairobi Summit - Sports247 Nigeria",
+          "title": "YORA 2026: Africa’s Sports, Media and Business Power Players Set for Major Nairobi Summit - Sports247 Nigeria",
+          "snapshot": "YORA 2026: Africa’s Sports, Media and Business Power Players Set for Major Nairobi Summit Sports247 Nigeria",
+          "summary": "YORA 2026: Africa’s Sports, Media and Business Power Players Set for Major Nairobi Summit Sports247 Nigeria",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRS0wbVJjcUZubXVxSVJiUmpEZFJiSnQ3VEpqQ3R1U01vcFZrZnI5TXZCRGRhdHV0bW9yTTdJMDJ4ZkJua2JWN05TVzhPVm81QXVYRnZsMDI1WHcxZXR2Vld5eTl4NWxDSE1lRHpaT2NWSThFS1pJdFdYWHlIWGZha0pIODR2dERTa1JobGpfNVF6UjVHLTNUdlRBTG1ZdWRPaU5RcFZZdHh1VGZzdXA1endR?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -4609,7 +4612,7 @@
           "story_type": "rss_headline",
           "priority_score": 78,
           "key_data": [
-            "YORA 2026: Africa’s Sports, Media and Business Power Players Set for Major Nairobi Summit - sports247.ng"
+            "YORA 2026: Africa’s Sports, Media and Business Power Players Set for Major Nairobi Summit - Sports247 Nigeria"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4621,8 +4624,8 @@
       ],
       "items": [
         {
-          "id": "media-0-5253745109666276613",
-          "key": "media-0-5253745109666276613",
+          "id": "media-0-3840247159602421750",
+          "key": "media-0-3840247159602421750",
           "category": "Media",
           "label": "Media",
           "headline": "Author Chloe Gong on ‘Eyes of Kings’ ending, ‘Deadlock’ debut and how she wants ‘These Violent Delights’ adapted for TV or film",
@@ -4649,8 +4652,8 @@
           ]
         },
         {
-          "id": "media-10-403014212197830982",
-          "key": "media-10-403014212197830982",
+          "id": "media-10-6671232918960749509",
+          "key": "media-10-6671232918960749509",
           "category": "Media",
           "label": "Media",
           "headline": "International Documentary Association Calls On Israeli Government To Halt “Campaign Of Threats” Against ‘NAZA’ Directors",
@@ -4677,8 +4680,8 @@
           ]
         },
         {
-          "id": "media-21-5161090654109446269",
-          "key": "media-21-5161090654109446269",
+          "id": "media-21-9131201260740819861",
+          "key": "media-21-9131201260740819861",
           "category": "Media",
           "label": "Media",
           "headline": "David Ellison’s Growing Media Empire: From CNN and HBO to ‘Harry Potter’ — and TikTok - TheWrap",
@@ -4705,8 +4708,8 @@
           ]
         },
         {
-          "id": "media-1-8356961830128765391",
-          "key": "media-1-8356961830128765391",
+          "id": "media-1-8350553363376914980",
+          "key": "media-1-8350553363376914980",
           "category": "Media",
           "label": "Media",
           "headline": "Bleecker Street Names Frank Martinez as Head of Distribution",
@@ -4733,8 +4736,8 @@
           ]
         },
         {
-          "id": "media-11-3899877334974338837",
-          "key": "media-11-3899877334974338837",
+          "id": "media-11-3471580050935585655",
+          "key": "media-11-3471580050935585655",
           "category": "Media",
           "label": "Media",
           "headline": "Paramount To Move Its Class B Shares From Nasdaq To New York Stock Exchange In Early October",
@@ -4761,14 +4764,14 @@
           ]
         },
         {
-          "id": "media-22-9105416446404387128",
-          "key": "media-22-9105416446404387128",
+          "id": "media-22-2596460962383511857",
+          "key": "media-22-2596460962383511857",
           "category": "Media",
           "label": "Media",
-          "headline": "YORA 2026: Africa’s Sports, Media and Business Power Players Set for Major Nairobi Summit - sports247.ng",
-          "title": "YORA 2026: Africa’s Sports, Media and Business Power Players Set for Major Nairobi Summit - sports247.ng",
-          "snapshot": "YORA 2026: Africa’s Sports, Media and Business Power Players Set for Major Nairobi Summit sports247.ng",
-          "summary": "YORA 2026: Africa’s Sports, Media and Business Power Players Set for Major Nairobi Summit sports247.ng",
+          "headline": "YORA 2026: Africa’s Sports, Media and Business Power Players Set for Major Nairobi Summit - Sports247 Nigeria",
+          "title": "YORA 2026: Africa’s Sports, Media and Business Power Players Set for Major Nairobi Summit - Sports247 Nigeria",
+          "snapshot": "YORA 2026: Africa’s Sports, Media and Business Power Players Set for Major Nairobi Summit Sports247 Nigeria",
+          "summary": "YORA 2026: Africa’s Sports, Media and Business Power Players Set for Major Nairobi Summit Sports247 Nigeria",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRS0wbVJjcUZubXVxSVJiUmpEZFJiSnQ3VEpqQ3R1U01vcFZrZnI5TXZCRGRhdHV0bW9yTTdJMDJ4ZkJua2JWN05TVzhPVm81QXVYRnZsMDI1WHcxZXR2Vld5eTl4NWxDSE1lRHpaT2NWSThFS1pJdFdYWHlIWGZha0pIODR2dERTa1JobGpfNVF6UjVHLTNUdlRBTG1ZdWRPaU5RcFZZdHh1VGZzdXA1endR?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -4779,7 +4782,7 @@
           "story_type": "rss_headline",
           "priority_score": 78,
           "key_data": [
-            "YORA 2026: Africa’s Sports, Media and Business Power Players Set for Major Nairobi Summit - sports247.ng"
+            "YORA 2026: Africa’s Sports, Media and Business Power Players Set for Major Nairobi Summit - Sports247 Nigeria"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4789,7 +4792,7 @@
           ]
         }
       ],
-      "updated_at": "2026-09-27 05:52:13 PM ET"
+      "updated_at": "2026-09-27 08:20:49 PM ET"
     }
   ]
 }
