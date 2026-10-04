@@ -3,17 +3,17 @@
   "site": "Global Entertainment Report",
   "site_name": "Global Entertainment Report",
   "vertical": "Entertainment",
-  "headline": "'A Statement' Review: Just What We Need Right Now - Another Movie About Climate Change! But Tom McCarthy's Historically Based Talkfest Reveals How Much We Knew in 1980",
-  "snapshot": "Global Entertainment Report accepted 48 real RSS item(s) across 31 checked feed request(s).",
-  "generated_at": "2026-10-04 06:57:50 AM ET",
-  "updated_at": "2026-10-04 06:57:50 AM ET",
-  "published_at": "2026-10-04 06:57:50 AM ET",
+  "headline": "Box Office: 'Digger' Majorly Bombs With $8 Million Opening Weekend, 'Verity' Scores $32 Million Debut",
+  "snapshot": "Global Entertainment Report accepted 50 real RSS item(s) across 31 checked feed request(s).",
+  "generated_at": "2026-10-04 11:43:52 AM ET",
+  "updated_at": "2026-10-04 11:43:52 AM ET",
+  "published_at": "2026-10-04 11:43:52 AM ET",
   "source_mode": "live RSS ingestion",
   "freshness": {
     "max_item_age_hours": 336,
-    "accepted_real_items": 48,
+    "accepted_real_items": 50,
     "checked_feeds": 31,
-    "feeds_without_accepted_items": 6
+    "feeds_without_accepted_items": 5
   },
   "feed_audit": [
     {
@@ -53,9 +53,9 @@
       "final_url": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 59,
+      "rejected_count": 67,
       "rejection_reasons": {
-        "stale-over-336h": 59
+        "stale-over-336h": 67
       }
     },
     {
@@ -95,11 +95,11 @@
       "url": "https://news.google.com/rss/search?q=television+tv+entertainment&hl=en-US&gl=US&ceid=US:en",
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=television+tv+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "item_count": 78,
+      "item_count": 79,
       "accepted_count": 2,
-      "rejected_count": 73,
+      "rejected_count": 74,
       "rejection_reasons": {
-        "stale-over-336h": 73
+        "stale-over-336h": 74
       }
     },
     {
@@ -179,7 +179,7 @@
       "accepted_count": 2,
       "rejected_count": 1,
       "rejection_reasons": {
-        "stale-over-336h": 1
+        "duplicate-story": 1
       }
     },
     {
@@ -197,11 +197,11 @@
       "url": "https://news.google.com/rss/search?q=entertainment+awards+oscars+emmys+grammys&hl=en-US&gl=US&ceid=US:en",
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=entertainment+awards+oscars+emmys+grammys&hl=en-US&gl=US&ceid=US:en",
-      "item_count": 76,
+      "item_count": 75,
       "accepted_count": 2,
-      "rejected_count": 74,
+      "rejected_count": 73,
       "rejection_reasons": {
-        "stale-over-336h": 74
+        "stale-over-336h": 73
       }
     },
     {
@@ -223,8 +223,10 @@
       "final_url": "https://variety.com/v/film/box-office/feed/",
       "item_count": 10,
       "accepted_count": 2,
-      "rejected_count": 0,
-      "rejection_reasons": {}
+      "rejected_count": 1,
+      "rejection_reasons": {
+        "duplicate-story": 1
+      }
     },
     {
       "category": "box_office",
@@ -233,10 +235,10 @@
       "final_url": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 81,
+      "rejected_count": 80,
       "rejection_reasons": {
         "duplicate-story": 2,
-        "stale-over-336h": 79
+        "stale-over-336h": 78
       }
     },
     {
@@ -258,9 +260,9 @@
       "final_url": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 96,
+      "rejected_count": 95,
       "rejection_reasons": {
-        "stale-over-336h": 96
+        "stale-over-336h": 95
       }
     },
     {
@@ -281,10 +283,10 @@
       "status_code": "200",
       "final_url": "https://deadline.com/feed/",
       "item_count": 12,
-      "accepted_count": 0,
-      "rejected_count": 12,
+      "accepted_count": 2,
+      "rejected_count": 10,
       "rejection_reasons": {
-        "duplicate-story": 12
+        "duplicate-story": 10
       }
     },
     {
@@ -364,9 +366,9 @@
       "final_url": "https://news.google.com/rss/search?q=media+entertainment+industry+news&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 95,
+      "rejected_count": 96,
       "rejection_reasons": {
-        "stale-over-336h": 95
+        "stale-over-336h": 96
       }
     }
   ],
@@ -374,33 +376,33 @@
   "substack_url": "https://globalentertainmentreport.substack.com/",
   "x_handle": "@GlobalSportsRp",
   "key_storylines": [
-    "'A Statement' Review: Just What We Need Right Now - Another Movie About Climate Change! But Tom McCarthy's Historically Based Talkfest Reveals How Much We Knew in 1980",
+    "Box Office: 'Digger' Majorly Bombs With $8 Million Opening Weekend, 'Verity' Scores $32 Million Debut",
     "'A Statement' Review: Paul Rudd, Paul Giamatti And Superb Ensemble In Tom McCarthy's Splendid Humanist Look At Climate Change - New York Film Festival",
-    "How 'Freaks' Sent Zach Lipovsky and Adam B. Stein to Hollywood: \"That Film Changed Our Lives\"",
-    "1968 Film, Starring Lee Marvin, Named One of the 'Best War Movies of All Time' - Men's Journal",
+    "'Avengers: Endgame' Returns to No. 1 on All-Time Global Box Office Chart, Surpassing 'Avatar'",
+    "Does 'You Can See Everything' live up to the hype? (review) - Mashable",
     "NFL London Game 2026: Where to Watch Indianapolis Colts vs. Washington Commanders Live Online Free",
     "Everything We Saw at RuneFest 2026, Including RuneScape 4 and RuneScape Reignited",
-    "Paul Rudd Says He Stopped Bringing His Phone to Film Sets Because He's 'Addicted Like Everybody Else': 'They're Facilitating Our Own Destruction'",
+    "Pedro Pascal Premieres 'Behemoth!' in NYC, Sarah Jessica Parker and Stevie Nicks Make a Fashionable Pair and More Red Carpet Photos: October 2026",
     "Jeremy Strong Says He Cares What Mark Zuckerberg Thinks About 'The Social Reckoning'"
   ],
   "live_newsroom": [
     {
-      "id": "film-0-4759605623048878",
-      "key": "film-0-4759605623048878",
+      "id": "film-0-1537578786752401110",
+      "key": "film-0-1537578786752401110",
       "category": "Film",
       "label": "Film",
-      "headline": "'A Statement' Review: Just What We Need Right Now - Another Movie About Climate Change! But Tom McCarthy's Historically Based Talkfest Reveals How Much We Knew in 1980",
-      "title": "'A Statement' Review: Just What We Need Right Now - Another Movie About Climate Change! But Tom McCarthy's Historically Based Talkfest Reveals How Much We Knew in 1980",
-      "snapshot": "On paper, \"A Statement\" sounds like an interesting movie, but it's at once talky and flat, grabby and meandering, impassioned and neutral. It wants to be a \"firebrand\" docudrama, yet I can't imagine who the audience is going to be for it. My heartless prediction: next to no one.",
-      "summary": "On paper, \"A Statement\" sounds like an interesting movie, but it's at once talky and flat, grabby and meandering, impassioned and neutral. It wants to be a \"firebrand\" docudrama, yet I can't imagine who the audience is going to be for it. My heartless prediction: next to no one.",
-      "url": "https://variety.com/2026/film/reviews/a-statement-review-paul-rudd-paul-giamatti-nyff-1236898120/",
+      "headline": "Box Office: 'Digger' Majorly Bombs With $8 Million Opening Weekend, 'Verity' Scores $32 Million Debut",
+      "title": "Box Office: 'Digger' Majorly Bombs With $8 Million Opening Weekend, 'Verity' Scores $32 Million Debut",
+      "snapshot": "In \"Digger,\" Tom Cruise portrays a powerful oil tycoon who is bracing for an ecological disaster of epic proportions. But nothing could have prepared him for the catastrophe that's unfolding at the box office, where \"Digger\" has collapsed with an embarrassing $8 million from 3,321 North American theaters. Rivals bel...",
+      "summary": "In \"Digger,\" Tom Cruise portrays a powerful oil tycoon who is bracing for an ecological disaster of epic proportions. But nothing could have prepared him for the catastrophe that's unfolding at the box office, where \"Digger\" has collapsed with an embarrassing $8 million from 3,321 North American theaters. Rivals bel...",
+      "url": "https://variety.com/2026/film/box-office/digger-box-office-majorly-bombs-verity-scores-1236898521/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-10-03 08:15:11 PM ET",
+      "published_at": "2026-10-04 11:27:05 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'A Statement' Review: Just What We Need Right Now - Another Movie About Climate Change! But Tom McCarthy's Historically Based Talkfest Reveals How Much We Knew in 1980"
+        "Box Office: 'Digger' Majorly Bombs With $8 Million Opening Weekend, 'Verity' Scores $32 Million Debut"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -412,8 +414,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-1049805291194392447",
-      "key": "film-10-1049805291194392447",
+      "id": "film-10-8837467442042156397",
+      "key": "film-10-8837467442042156397",
       "category": "Film",
       "label": "Film",
       "headline": "'A Statement' Review: Paul Rudd, Paul Giamatti And Superb Ensemble In Tom McCarthy's Splendid Humanist Look At Climate Change - New York Film Festival",
@@ -439,22 +441,22 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-5691587661956689469",
-      "key": "film-22-5691587661956689469",
+      "id": "film-22-470605068603168451",
+      "key": "film-22-470605068603168451",
       "category": "Film",
       "label": "Film",
-      "headline": "How 'Freaks' Sent Zach Lipovsky and Adam B. Stein to Hollywood: \"That Film Changed Our Lives\"",
-      "title": "How 'Freaks' Sent Zach Lipovsky and Adam B. Stein to Hollywood: \"That Film Changed Our Lives\"",
-      "snapshot": "Their breakout 2018 sci-fi thriller debuted at the Vancouver Film Festival. Now they're returning with 'Freaks 2' and as bankable horror directors and writers.",
-      "summary": "Their breakout 2018 sci-fi thriller debuted at the Vancouver Film Festival. Now they're returning with 'Freaks 2' and as bankable horror directors and writers.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/freaks-zach-lipovsky-adam-b-stein-hollywood-1236721594/",
+      "headline": "'Avengers: Endgame' Returns to No. 1 on All-Time Global Box Office Chart, Surpassing 'Avatar'",
+      "title": "'Avengers: Endgame' Returns to No. 1 on All-Time Global Box Office Chart, Surpassing 'Avatar'",
+      "snapshot": "Marvel Studios' 2019 release headed back to theaters last weekend ahead of this year's 'Doomsday.'",
+      "summary": "Marvel Studios' 2019 release headed back to theaters last weekend ahead of this year's 'Doomsday.'",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/avengers-endgame-beats-avatar-highest-grossing-box-office-1236721833/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-10-03 09:18:31 PM ET",
+      "published_at": "2026-10-04 11:34:35 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "How 'Freaks' Sent Zach Lipovsky and Adam B. Stein to Hollywood: \"That Film Changed Our Lives\""
+        "'Avengers: Endgame' Returns to No. 1 on All-Time Global Box Office Chart, Surpassing 'Avatar'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -466,22 +468,22 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-3186991306609407603",
-      "key": "film-32-3186991306609407603",
+      "id": "film-32-5981048502380987525",
+      "key": "film-32-5981048502380987525",
       "category": "Film",
       "label": "Film",
-      "headline": "1968 Film, Starring Lee Marvin, Named One of the 'Best War Movies of All Time' - Men's Journal",
-      "title": "1968 Film, Starring Lee Marvin, Named One of the 'Best War Movies of All Time' - Men's Journal",
-      "snapshot": "1968 Film, Starring Lee Marvin, Named One of the 'Best War Movies of All Time' Men's Journal",
-      "summary": "1968 Film, Starring Lee Marvin, Named One of the 'Best War Movies of All Time' Men's Journal",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObnBGTk5McnYwWC1uUFVVSnM3RlkyVWlkeE1YRnF5djk0OTFiV0pRVW5iYTJQMlNqR0gtbzdSSXAwNlVmMjRtYmVQVXRiaGhOek9kZzdvQUFSelB0dmNYRWptaFh4ZDQ1QXd4NHd4Ykx2N2dVX0J6TVQ1NHBKZlhCSUxwdkxLSkJKU3hpZUdNNjJzM01kbU5pYl9aQWZoZDkxVjRZM0NROTA0dl9FT1ltM2xKNjQ2c2s?oc=5",
+      "headline": "Does 'You Can See Everything' live up to the hype? (review) - Mashable",
+      "title": "Does 'You Can See Everything' live up to the hype? (review) - Mashable",
+      "snapshot": "Does 'You Can See Everything' live up to the hype? (review) Mashable",
+      "summary": "Does 'You Can See Everything' live up to the hype? (review) Mashable",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xRmtrMEV4Wk1uVGZhOVRHeF83VzZKZHFrbm5palBmckl3dTV5U0g5UDRHRHBhZGhhZ0FPX2Vkc2dsZDJNN1hsNEg3bjJuYkNYQzRkbUJJM0k1Wk9mdkFjOUxOMWlMX2FYdWQ4NFl1dm0tUQ?oc=5",
       "source": "Google News",
       "source_name": "Google News",
       "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "published_at": "2026-10-03 07:01:00 PM ET",
+      "published_at": "2026-10-01 04:01:19 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "1968 Film, Starring Lee Marvin, Named One of the 'Best War Movies of All Time' - Men's Journal"
+        "Does 'You Can See Everything' live up to the hype? (review) - Mashable"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -493,8 +495,8 @@
       "priority_score": 68
     },
     {
-      "id": "music-8-3596561938720397035",
-      "key": "music-8-3596561938720397035",
+      "id": "music-8-6011812954587602457",
+      "key": "music-8-6011812954587602457",
       "category": "Music",
       "label": "Music",
       "headline": "NFL London Game 2026: Where to Watch Indianapolis Colts vs. Washington Commanders Live Online Free",
@@ -520,8 +522,8 @@
       "priority_score": 92
     },
     {
-      "id": "gaming-0-4348317806004001205",
-      "key": "gaming-0-4348317806004001205",
+      "id": "gaming-0-2054546537614194594",
+      "key": "gaming-0-2054546537614194594",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Everything We Saw at RuneFest 2026, Including RuneScape 4 and RuneScape Reignited",
@@ -547,22 +549,22 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-5590700322449216155",
-      "key": "film-1-5590700322449216155",
+      "id": "film-1-1676455604988362044",
+      "key": "film-1-1676455604988362044",
       "category": "Film",
       "label": "Film",
-      "headline": "Paul Rudd Says He Stopped Bringing His Phone to Film Sets Because He's 'Addicted Like Everybody Else': 'They're Facilitating Our Own Destruction'",
-      "title": "Paul Rudd Says He Stopped Bringing His Phone to Film Sets Because He's 'Addicted Like Everybody Else': 'They're Facilitating Our Own Destruction'",
-      "snapshot": "Paul Rudd plays the moderator of the first-ever meeting dedicated to solving America's climate crisis in \"A Statement,\" the latest film from Oscar-winning director Tom McCarthy. Set at a Florida beachside resort in 1980, the film follows 20 experts who spend a weekend in a conference room and - analogous to \"12 Angr...",
-      "summary": "Paul Rudd plays the moderator of the first-ever meeting dedicated to solving America's climate crisis in \"A Statement,\" the latest film from Oscar-winning director Tom McCarthy. Set at a Florida beachside resort in 1980, the film follows 20 experts who spend a weekend in a conference room and - analogous to \"12 Angr...",
-      "url": "https://variety.com/2026/film/news/paul-rudd-phone-addiction-a-statement-nyff-1236898348/",
+      "headline": "Pedro Pascal Premieres 'Behemoth!' in NYC, Sarah Jessica Parker and Stevie Nicks Make a Fashionable Pair and More Red Carpet Photos: October 2026",
+      "title": "Pedro Pascal Premieres 'Behemoth!' in NYC, Sarah Jessica Parker and Stevie Nicks Make a Fashionable Pair and More Red Carpet Photos: October 2026",
+      "snapshot": "October began with Ben Affleck and Kerry Washington premiering \"Animals,\" their new political thriller about a Los Angeles mayoral candidate (Affleck) whose family is thrust into an unimaginable situation involving their son and housekeeper and her undocumented immigrant boyfriend. The following day, the Critics Cho...",
+      "summary": "October began with Ben Affleck and Kerry Washington premiering \"Animals,\" their new political thriller about a Los Angeles mayoral candidate (Affleck) whose family is thrust into an unimaginable situation involving their son and housekeeper and her undocumented immigrant boyfriend. The following day, the Critics Cho...",
+      "url": "https://variety.com/gallery/stevie-nicks-make-a-fared-carpet-photos-october-2026-celebrity/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-10-03 07:43:13 PM ET",
+      "published_at": "2026-10-04 11:00:38 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Paul Rudd Says He Stopped Bringing His Phone to Film Sets Because He's 'Addicted Like Everybody Else': 'They're Facilitating Our Own Destruction'"
+        "Pedro Pascal Premieres 'Behemoth!' in NYC, Sarah Jessica Parker and Stevie Nicks Make a Fashionable Pair and More Red Carpet Photos: October 2026"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -574,8 +576,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-2314926629546313071",
-      "key": "film-11-2314926629546313071",
+      "id": "film-11-2230668660809165948",
+      "key": "film-11-2230668660809165948",
       "category": "Film",
       "label": "Film",
       "headline": "Jeremy Strong Says He Cares What Mark Zuckerberg Thinks About 'The Social Reckoning'",
@@ -601,22 +603,22 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-8285600714778356172",
-      "key": "film-23-8285600714778356172",
+      "id": "film-23-7459949164949995763",
+      "key": "film-23-7459949164949995763",
       "category": "Film",
       "label": "Film",
-      "headline": "Jeremy Strong Says He Doesn't \"Need to Apologize\" for Method Acting: \"It's in Service of the Material\"",
-      "title": "Jeremy Strong Says He Doesn't \"Need to Apologize\" for Method Acting: \"It's in Service of the Material\"",
-      "snapshot": "\"I'm just there to commit utterly to serving the material,\" the Oscar nominee said of his approach to acting.",
-      "summary": "\"I'm just there to commit utterly to serving the material,\" the Oscar nominee said of his approach to acting.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/jeremy-strong-method-acting-never-intention-interfere-1236721716/",
+      "headline": "'In The Heart of the South' Director Wants to Change the Narrative For Indigenous Filmmakers: \"You've Been Telling Our Stories Forever\"",
+      "title": "'In The Heart of the South' Director Wants to Change the Narrative For Indigenous Filmmakers: \"You've Been Telling Our Stories Forever\"",
+      "snapshot": "Nyla Innuksuk's supernatural thriller, where themes of trauma and tragedy come painfully alive, is screening at the Vancouver Film Festival this week.",
+      "summary": "Nyla Innuksuk's supernatural thriller, where themes of trauma and tragedy come painfully alive, is screening at the Vancouver Film Festival this week.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/nyla-innuksuk-change-narrative-indigenous-filmmakers-1236721816/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-10-03 08:58:57 PM ET",
+      "published_at": "2026-10-04 11:32:07 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Jeremy Strong Says He Doesn't \"Need to Apologize\" for Method Acting: \"It's in Service of the Material\""
+        "'In The Heart of the South' Director Wants to Change the Narrative For Indigenous Filmmakers: \"You've Been Telling Our Stories Forever\""
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -628,22 +630,22 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-5532838343224257815",
-      "key": "film-33-5532838343224257815",
+      "id": "film-33-2162674167903345320",
+      "key": "film-33-2162674167903345320",
       "category": "Film",
       "label": "Film",
-      "headline": "Does 'You Can See Everything' live up to the hype? (review) - Mashable",
-      "title": "Does 'You Can See Everything' live up to the hype? (review) - Mashable",
-      "snapshot": "Does 'You Can See Everything' live up to the hype? (review) Mashable",
-      "summary": "Does 'You Can See Everything' live up to the hype? (review) Mashable",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xRmtrMEV4Wk1uVGZhOVRHeF83VzZKZHFrbm5palBmckl3dTV5U0g5UDRHRHBhZGhhZ0FPX2Vkc2dsZDJNN1hsNEg3bjJuYkNYQzRkbUJJM0k1Wk9mdkFjOUxOMWlMX2FYdWQ4NFl1dm0tUQ?oc=5",
+      "headline": "New movies to watch this weekend: See 'Verity' and 'Digger' in theaters, rent or buy 'Coyote vs. Acme,' stream 'Evil Dead Burn' on HBO Max - Yahoo",
+      "title": "New movies to watch this weekend: See 'Verity' and 'Digger' in theaters, rent or buy 'Coyote vs. Acme,' stream 'Evil Dead Burn' on HBO Max - Yahoo",
+      "snapshot": "New movies to watch this weekend: See 'Verity' and 'Digger' in theaters, rent or buy 'Coyote vs. Acme,' stream 'Evil Dead Burn' on HBO Max Yahoo",
+      "summary": "New movies to watch this weekend: See 'Verity' and 'Digger' in theaters, rent or buy 'Coyote vs. Acme,' stream 'Evil Dead Burn' on HBO Max Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNSXJ4M1QxdWdyTDFpYVlWSmR3bk1hdDBtMkdjSExNU193M0dULVl4a3A3SHZ5M3dMWHhZNGFxRDdWdEdGbjdreDdnV0dBaDdqRXVGQkhhN1ExTUhkRjgyZVJmcU9ZYmM4MU8wLUVfNTY5dE92QURLdmJCcE40MGc5dGlRSXZZTU8ybHdKaEFSVGVtYTkxRlVEYnhvRDBJemZmNWpIZ0ZTVFVIaGpPOW9UcDNKMElrZzVaR3lGNWpPd3VUbVpITnRiMnF6dldMVjhuQ3RnRUNuWjloaFE5QlNONFpTdkkyMGRtTGxhQTNLM1JzanRZTy1lSm1kdFdXMTFPN1E2VERVRlN1LWJMaktBRXAxX2t6aEFsVkxvMQ?oc=5",
       "source": "Google News",
       "source_name": "Google News",
       "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "published_at": "2026-10-01 04:01:19 PM ET",
+      "published_at": "2026-10-02 09:10:33 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Does 'You Can See Everything' live up to the hype? (review) - Mashable"
+        "New movies to watch this weekend: See 'Verity' and 'Digger' in theaters, rent or buy 'Coyote vs. Acme,' stream 'Evil Dead Burn' on HBO Max - Yahoo"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -655,8 +657,8 @@
       "priority_score": 67
     },
     {
-      "id": "music-9-6422981508642075030",
-      "key": "music-9-6422981508642075030",
+      "id": "music-9-2815053039040772640",
+      "key": "music-9-2815053039040772640",
       "category": "Music",
       "label": "Music",
       "headline": "Turnstile Make Explosive 'SNL' Debut With 'Birds' and 'Never Enough' Medley",
@@ -682,8 +684,8 @@
       "priority_score": 91
     },
     {
-      "id": "gaming-1-152397907460732662",
-      "key": "gaming-1-152397907460732662",
+      "id": "gaming-1-6936703375241302143",
+      "key": "gaming-1-6936703375241302143",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Fourth RuneScape MMO Built With Unreal Engine in the Works, Jagex Announces RuneScape Animation With MoistCr1TiKaL",
@@ -711,22 +713,22 @@
   ],
   "editor_signals": [
     {
-      "id": "film-2-7316928369318304639",
-      "key": "film-2-7316928369318304639",
+      "id": "film-2-9186784547465629667",
+      "key": "film-2-9186784547465629667",
       "category": "Film",
       "label": "Film",
-      "headline": "Jeremy Strong Defends Method Acting, Says He Doesn't Feel the Need to 'Apologize' to Co-Stars Who May Think 'I'm Taking It Too Seriously'",
-      "title": "Jeremy Strong Defends Method Acting, Says He Doesn't Feel the Need to 'Apologize' to Co-Stars Who May Think 'I'm Taking It Too Seriously'",
-      "snapshot": "Jeremy Strong, now infamous for his dedication to method acting, recently admitted he doesn't feel the \"need to apologize\" to those he works with who may feel he is taking the process \"too seriously\" on a recent episode of The New Yorker Radio Hour podcast. The actor, who stepped into the role of tech billionaire […]",
-      "summary": "Jeremy Strong, now infamous for his dedication to method acting, recently admitted he doesn't feel the \"need to apologize\" to those he works with who may feel he is taking the process \"too seriously\" on a recent episode of The New Yorker Radio Hour podcast. The actor, who stepped into the role of tech billionaire […]",
-      "url": "https://variety.com/2026/film/news/jeremy-strong-defends-method-acting-social-reckoning-1236898328/",
+      "headline": "'Avengers: Endgame' Overtakes 'Avatar' as Highest-Grossing Movie in History With $2.925 Billion After 'Encore' Re-Release",
+      "title": "'Avengers: Endgame' Overtakes 'Avatar' as Highest-Grossing Movie in History With $2.925 Billion After 'Encore' Re-Release",
+      "snapshot": "\"Avengers: Endgame\" is once again the highest-grossing movie in box office history, reclaiming the title from \"Avatar.\" The two blockbusters have passed the crown back and forth over the years as they've returned to theaters for various engagements. With Disney's recent \"Avengers: Endgame\" theatrical re-release, the...",
+      "summary": "\"Avengers: Endgame\" is once again the highest-grossing movie in box office history, reclaiming the title from \"Avatar.\" The two blockbusters have passed the crown back and forth over the years as they've returned to theaters for various engagements. With Disney's recent \"Avengers: Endgame\" theatrical re-release, the...",
+      "url": "https://variety.com/2026/film/box-office/avengers-endgame-highest-grossing-movie-ever-avatar-1236894787/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-10-03 07:05:10 PM ET",
+      "published_at": "2026-10-04 10:46:59 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Jeremy Strong Defends Method Acting, Says He Doesn't Feel the Need to 'Apologize' to Co-Stars Who May Think 'I'm Taking It Too Seriously'"
+        "'Avengers: Endgame' Overtakes 'Avatar' as Highest-Grossing Movie in History With $2.925 Billion After 'Encore' Re-Release"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -738,8 +740,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-8471952977004069305",
-      "key": "film-12-8471952977004069305",
+      "id": "film-12-6308223613764908455",
+      "key": "film-12-6308223613764908455",
       "category": "Film",
       "label": "Film",
       "headline": "'Digger' Star Tom Cruise Says He's \"So Proud Of What We Created\" Despite Poor Open At Theaters",
@@ -765,22 +767,22 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-6088611695692160481",
-      "key": "film-24-6088611695692160481",
+      "id": "film-24-7528942445277170786",
+      "key": "film-24-7528942445277170786",
       "category": "Film",
       "label": "Film",
-      "headline": "Tom Cruise Stands Up for 'Digger' Amid Tough Box Office: \"I'm So Proud of What We Created\"",
-      "title": "Tom Cruise Stands Up for 'Digger' Amid Tough Box Office: \"I'm So Proud of What We Created\"",
-      "snapshot": "Alejandro G. Iñárritu helmed the big-budget Warner Bros. release that is struggling in its opening weekend.",
-      "summary": "Alejandro G. Iñárritu helmed the big-budget Warner Bros. release that is struggling in its opening weekend.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/tom-cruise-digger-social-media-box-office-opening-1236721639/",
+      "headline": "Tom Cruise's 'Digger' Tries New Marketing Tactic: The French Love It, Americans Don't",
+      "title": "Tom Cruise's 'Digger' Tries New Marketing Tactic: The French Love It, Americans Don't",
+      "snapshot": "A new ad for Alejandro G. Iñárritu's box office bomb shows international critics praising the film compared to their American counterparts.",
+      "summary": "A new ad for Alejandro G. Iñárritu's box office bomb shows international critics praising the film compared to their American counterparts.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/tom-cruise-digger-critics-box-office-1236721806/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-10-03 03:24:13 PM ET",
+      "published_at": "2026-10-04 10:29:51 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Tom Cruise Stands Up for 'Digger' Amid Tough Box Office: \"I'm So Proud of What We Created\""
+        "Tom Cruise's 'Digger' Tries New Marketing Tactic: The French Love It, Americans Don't"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -792,22 +794,22 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-1575989569945340930",
-      "key": "film-34-1575989569945340930",
+      "id": "film-34-8739781492989869118",
+      "key": "film-34-8739781492989869118",
       "category": "Film",
       "label": "Film",
-      "headline": "New movies to watch this weekend: See 'Verity' and 'Digger' in theaters, rent or buy 'Coyote vs. Acme,' stream 'Evil Dead Burn' on HBO Max - Yahoo",
-      "title": "New movies to watch this weekend: See 'Verity' and 'Digger' in theaters, rent or buy 'Coyote vs. Acme,' stream 'Evil Dead Burn' on HBO Max - Yahoo",
-      "snapshot": "New movies to watch this weekend: See 'Verity' and 'Digger' in theaters, rent or buy 'Coyote vs. Acme,' stream 'Evil Dead Burn' on HBO Max Yahoo",
-      "summary": "New movies to watch this weekend: See 'Verity' and 'Digger' in theaters, rent or buy 'Coyote vs. Acme,' stream 'Evil Dead Burn' on HBO Max Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNSXJ4M1QxdWdyTDFpYVlWSmR3bk1hdDBtMkdjSExNU193M0dULVl4a3A3SHZ5M3dMWHhZNGFxRDdWdEdGbjdreDdnV0dBaDdqRXVGQkhhN1ExTUhkRjgyZVJmcU9ZYmM4MU8wLUVfNTY5dE92QURLdmJCcE40MGc5dGlRSXZZTU8ybHdKaEFSVGVtYTkxRlVEYnhvRDBJemZmNWpIZ0ZTVFVIaGpPOW9UcDNKMElrZzVaR3lGNWpPd3VUbVpITnRiMnF6dldMVjhuQ3RnRUNuWjloaFE5QlNONFpTdkkyMGRtTGxhQTNLM1JzanRZTy1lSm1kdFdXMTFPN1E2VERVRlN1LWJMaktBRXAxX2t6aEFsVkxvMQ?oc=5",
+      "headline": "1968 Film, Starring Lee Marvin, Named One of the 'Best War Movies of All Time' - Men's Journal",
+      "title": "1968 Film, Starring Lee Marvin, Named One of the 'Best War Movies of All Time' - Men's Journal",
+      "snapshot": "1968 Film, Starring Lee Marvin, Named One of the 'Best War Movies of All Time' Men's Journal",
+      "summary": "1968 Film, Starring Lee Marvin, Named One of the 'Best War Movies of All Time' Men's Journal",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObnBGTk5McnYwWC1uUFVVSnM3RlkyVWlkeE1YRnF5djk0OTFiV0pRVW5iYTJQMlNqR0gtbzdSSXAwNlVmMjRtYmVQVXRiaGhOek9kZzdvQUFSelB0dmNYRWptaFh4ZDQ1QXd4NHd4Ykx2N2dVX0J6TVQ1NHBKZlhCSUxwdkxLSkJKU3hpZUdNNjJzM01kbU5pYl9aQWZoZDkxVjRZM0NROTA0dl9FT1ltM2xKNjQ2c2s?oc=5",
       "source": "Google News",
       "source_name": "Google News",
       "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "published_at": "2026-10-02 09:10:33 AM ET",
+      "published_at": "2026-10-03 07:01:00 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "New movies to watch this weekend: See 'Verity' and 'Digger' in theaters, rent or buy 'Coyote vs. Acme,' stream 'Evil Dead Burn' on HBO Max - Yahoo"
+        "1968 Film, Starring Lee Marvin, Named One of the 'Best War Movies of All Time' - Men's Journal"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -819,8 +821,8 @@
       "priority_score": 66
     },
     {
-      "id": "music-10-8063040104638921891",
-      "key": "music-10-8063040104638921891",
+      "id": "music-10-5167778113426784996",
+      "key": "music-10-5167778113426784996",
       "category": "Music",
       "label": "Music",
       "headline": "Polaris on Honoring Ryan Siew With 'Without You' & Their Good Things Return",
@@ -846,8 +848,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-2-7228910620869050849",
-      "key": "gaming-2-7228910620869050849",
+      "id": "gaming-2-8677492601465635761",
+      "key": "gaming-2-8677492601465635761",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Gears of War: E-Day Devs 'Proud to Be One of Xbox's Main Titles' Amid Newfound Focus on Exclusivity",
@@ -873,22 +875,22 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-5612660564752897784",
-      "key": "film-3-5612660564752897784",
+      "id": "film-3-6215035025074285743",
+      "key": "film-3-6215035025074285743",
       "category": "Film",
       "label": "Film",
-      "headline": "Guillermo Del Toro Defends 'Digger,' Calls the Film 'Daring, Bold and Cinematically Complex'",
-      "title": "Guillermo Del Toro Defends 'Digger,' Calls the Film 'Daring, Bold and Cinematically Complex'",
-      "snapshot": "Guillermo Del Toro is publicly declaring his love for \"Digger.\" Del Toro took to X to call out naysayers of Alejandro G. Iñárritu's film ahead of its Friday release. \"Entirely Petty headline,\" the director wrote in response to a review of Warner Bros.' R-rated black comedy. \"Love it or not. And yes, I do. The […]",
-      "summary": "Guillermo Del Toro is publicly declaring his love for \"Digger.\" Del Toro took to X to call out naysayers of Alejandro G. Iñárritu's film ahead of its Friday release. \"Entirely Petty headline,\" the director wrote in response to a review of Warner Bros.' R-rated black comedy. \"Love it or not. And yes, I do. The […]",
-      "url": "https://variety.com/2026/film/news/guillermo-del-toro-defends-digger-1236898266/",
+      "headline": "Singeetham Srinivasa Rao, Indian Filmmaker Behind 'Pushpaka Vimana,' 'Michael Madana Kama Rajan' and 'Aditya 369' Dies at 95",
+      "title": "Singeetham Srinivasa Rao, Indian Filmmaker Behind 'Pushpaka Vimana,' 'Michael Madana Kama Rajan' and 'Aditya 369' Dies at 95",
+      "snapshot": "Revered Indian filmmaker Singeetham Srinivasa Rao, whose work spanned the 1957 Telugu-language classic \"Mayabazar\" and this year's musical \"Sing Geetham,\" died Oct. 3 in Chennai following a period of ill health. He was 95. Rao made some 60 features in the Telugu, Tamil, Kannada and Hindi languages, and moved between...",
+      "summary": "Revered Indian filmmaker Singeetham Srinivasa Rao, whose work spanned the 1957 Telugu-language classic \"Mayabazar\" and this year's musical \"Sing Geetham,\" died Oct. 3 in Chennai following a period of ill health. He was 95. Rao made some 60 features in the Telugu, Tamil, Kannada and Hindi languages, and moved between...",
+      "url": "https://variety.com/2026/film/obituaries-people-news/singeetham-srinivasa-rao-dead-indian-filmmaker-pushpaka-vimana-1236898526/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-10-03 03:55:38 PM ET",
+      "published_at": "2026-10-04 10:02:39 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Guillermo Del Toro Defends 'Digger,' Calls the Film 'Daring, Bold and Cinematically Complex'"
+        "Singeetham Srinivasa Rao, Indian Filmmaker Behind 'Pushpaka Vimana,' 'Michael Madana Kama Rajan' and 'Aditya 369' Dies at 95"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -900,8 +902,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-1034513996238476038",
-      "key": "film-13-1034513996238476038",
+      "id": "film-13-2774232968515948856",
+      "key": "film-13-2774232968515948856",
       "category": "Film",
       "label": "Film",
       "headline": "Aaron Sorkin Says \"It Never Occurred To Me\" That Jesse Eisenberg Wouldn't Want To Return For 'The Social Reckoning'",
@@ -927,22 +929,22 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-7143568449134977996",
-      "key": "film-25-7143568449134977996",
+      "id": "film-25-8221044310912858451",
+      "key": "film-25-8221044310912858451",
       "category": "Film",
       "label": "Film",
-      "headline": "Tom Cruise's 'Digger' Plunging at Box Office With Less Than $10M as 'Verity' Leads",
-      "title": "Tom Cruise's 'Digger' Plunging at Box Office With Less Than $10M as 'Verity' Leads",
-      "snapshot": "Warner Bros.' pricey satire could be heading to Cruise's lowest opening in nearly two decades.",
-      "summary": "Warner Bros.' pricey satire could be heading to Cruise's lowest opening in nearly two decades.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/tom-cruise-digger-box-office-opening-verity-2-1236721548/",
+      "headline": "How 'Freaks' Sent Zach Lipovsky and Adam B. Stein to Hollywood: \"That Film Changed Our Lives\"",
+      "title": "How 'Freaks' Sent Zach Lipovsky and Adam B. Stein to Hollywood: \"That Film Changed Our Lives\"",
+      "snapshot": "Their breakout 2018 sci-fi thriller debuted at the Vancouver Film Festival. Now they're returning with 'Freaks 2' and as bankable horror directors and writers.",
+      "summary": "Their breakout 2018 sci-fi thriller debuted at the Vancouver Film Festival. Now they're returning with 'Freaks 2' and as bankable horror directors and writers.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/freaks-zach-lipovsky-adam-b-stein-hollywood-1236721594/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-10-03 12:02:54 PM ET",
+      "published_at": "2026-10-03 09:18:31 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Tom Cruise's 'Digger' Plunging at Box Office With Less Than $10M as 'Verity' Leads"
+        "How 'Freaks' Sent Zach Lipovsky and Adam B. Stein to Hollywood: \"That Film Changed Our Lives\""
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -954,8 +956,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-5394999793923751512",
-      "key": "film-35-5394999793923751512",
+      "id": "film-35-4118109766915654799",
+      "key": "film-35-4118109766915654799",
       "category": "Film",
       "label": "Film",
       "headline": "IndyStar's entertainment staff recommends these Heartland Film Fest picks - IndyStar",
@@ -981,8 +983,8 @@
       "priority_score": 65
     },
     {
-      "id": "music-11-5973887533601856336",
-      "key": "music-11-5973887533601856336",
+      "id": "music-11-9042395192664437029",
+      "key": "music-11-9042395192664437029",
       "category": "Music",
       "label": "Music",
       "headline": "Taylor Swift Makes Surprise 'SNL' Cameo in Dakota Johnson's Monologue",
@@ -1008,8 +1010,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-3-8524388420758948720",
-      "key": "gaming-3-8524388420758948720",
+      "id": "gaming-3-7433406624285840627",
+      "key": "gaming-3-7433406624285840627",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The Best Deals Today: Trails in the Sky 1st Chapter, Shuten Order, MLB The Show 26, and More",
@@ -1037,22 +1039,22 @@
   ],
   "homepage_cards": [
     {
-      "id": "film-0-4759605623048878",
-      "key": "film-0-4759605623048878",
+      "id": "film-0-1537578786752401110",
+      "key": "film-0-1537578786752401110",
       "category": "Film",
       "label": "Film",
-      "headline": "'A Statement' Review: Just What We Need Right Now - Another Movie About Climate Change! But Tom McCarthy's Historically Based Talkfest Reveals How Much We Knew in 1980",
-      "title": "'A Statement' Review: Just What We Need Right Now - Another Movie About Climate Change! But Tom McCarthy's Historically Based Talkfest Reveals How Much We Knew in 1980",
-      "snapshot": "On paper, \"A Statement\" sounds like an interesting movie, but it's at once talky and flat, grabby and meandering, impassioned and neutral. It wants to be a \"firebrand\" docudrama, yet I can't imagine who the audience is going to be for it. My heartless prediction: next to no one.",
-      "summary": "On paper, \"A Statement\" sounds like an interesting movie, but it's at once talky and flat, grabby and meandering, impassioned and neutral. It wants to be a \"firebrand\" docudrama, yet I can't imagine who the audience is going to be for it. My heartless prediction: next to no one.",
-      "url": "https://variety.com/2026/film/reviews/a-statement-review-paul-rudd-paul-giamatti-nyff-1236898120/",
+      "headline": "Box Office: 'Digger' Majorly Bombs With $8 Million Opening Weekend, 'Verity' Scores $32 Million Debut",
+      "title": "Box Office: 'Digger' Majorly Bombs With $8 Million Opening Weekend, 'Verity' Scores $32 Million Debut",
+      "snapshot": "In \"Digger,\" Tom Cruise portrays a powerful oil tycoon who is bracing for an ecological disaster of epic proportions. But nothing could have prepared him for the catastrophe that's unfolding at the box office, where \"Digger\" has collapsed with an embarrassing $8 million from 3,321 North American theaters. Rivals bel...",
+      "summary": "In \"Digger,\" Tom Cruise portrays a powerful oil tycoon who is bracing for an ecological disaster of epic proportions. But nothing could have prepared him for the catastrophe that's unfolding at the box office, where \"Digger\" has collapsed with an embarrassing $8 million from 3,321 North American theaters. Rivals bel...",
+      "url": "https://variety.com/2026/film/box-office/digger-box-office-majorly-bombs-verity-scores-1236898521/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-10-03 08:15:11 PM ET",
+      "published_at": "2026-10-04 11:27:05 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'A Statement' Review: Just What We Need Right Now - Another Movie About Climate Change! But Tom McCarthy's Historically Based Talkfest Reveals How Much We Knew in 1980"
+        "Box Office: 'Digger' Majorly Bombs With $8 Million Opening Weekend, 'Verity' Scores $32 Million Debut"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1064,8 +1066,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-1049805291194392447",
-      "key": "film-10-1049805291194392447",
+      "id": "film-10-8837467442042156397",
+      "key": "film-10-8837467442042156397",
       "category": "Film",
       "label": "Film",
       "headline": "'A Statement' Review: Paul Rudd, Paul Giamatti And Superb Ensemble In Tom McCarthy's Splendid Humanist Look At Climate Change - New York Film Festival",
@@ -1091,22 +1093,22 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-5691587661956689469",
-      "key": "film-22-5691587661956689469",
+      "id": "film-22-470605068603168451",
+      "key": "film-22-470605068603168451",
       "category": "Film",
       "label": "Film",
-      "headline": "How 'Freaks' Sent Zach Lipovsky and Adam B. Stein to Hollywood: \"That Film Changed Our Lives\"",
-      "title": "How 'Freaks' Sent Zach Lipovsky and Adam B. Stein to Hollywood: \"That Film Changed Our Lives\"",
-      "snapshot": "Their breakout 2018 sci-fi thriller debuted at the Vancouver Film Festival. Now they're returning with 'Freaks 2' and as bankable horror directors and writers.",
-      "summary": "Their breakout 2018 sci-fi thriller debuted at the Vancouver Film Festival. Now they're returning with 'Freaks 2' and as bankable horror directors and writers.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/freaks-zach-lipovsky-adam-b-stein-hollywood-1236721594/",
+      "headline": "'Avengers: Endgame' Returns to No. 1 on All-Time Global Box Office Chart, Surpassing 'Avatar'",
+      "title": "'Avengers: Endgame' Returns to No. 1 on All-Time Global Box Office Chart, Surpassing 'Avatar'",
+      "snapshot": "Marvel Studios' 2019 release headed back to theaters last weekend ahead of this year's 'Doomsday.'",
+      "summary": "Marvel Studios' 2019 release headed back to theaters last weekend ahead of this year's 'Doomsday.'",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/avengers-endgame-beats-avatar-highest-grossing-box-office-1236721833/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-10-03 09:18:31 PM ET",
+      "published_at": "2026-10-04 11:34:35 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "How 'Freaks' Sent Zach Lipovsky and Adam B. Stein to Hollywood: \"That Film Changed Our Lives\""
+        "'Avengers: Endgame' Returns to No. 1 on All-Time Global Box Office Chart, Surpassing 'Avatar'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1118,22 +1120,22 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-3186991306609407603",
-      "key": "film-32-3186991306609407603",
+      "id": "film-32-5981048502380987525",
+      "key": "film-32-5981048502380987525",
       "category": "Film",
       "label": "Film",
-      "headline": "1968 Film, Starring Lee Marvin, Named One of the 'Best War Movies of All Time' - Men's Journal",
-      "title": "1968 Film, Starring Lee Marvin, Named One of the 'Best War Movies of All Time' - Men's Journal",
-      "snapshot": "1968 Film, Starring Lee Marvin, Named One of the 'Best War Movies of All Time' Men's Journal",
-      "summary": "1968 Film, Starring Lee Marvin, Named One of the 'Best War Movies of All Time' Men's Journal",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObnBGTk5McnYwWC1uUFVVSnM3RlkyVWlkeE1YRnF5djk0OTFiV0pRVW5iYTJQMlNqR0gtbzdSSXAwNlVmMjRtYmVQVXRiaGhOek9kZzdvQUFSelB0dmNYRWptaFh4ZDQ1QXd4NHd4Ykx2N2dVX0J6TVQ1NHBKZlhCSUxwdkxLSkJKU3hpZUdNNjJzM01kbU5pYl9aQWZoZDkxVjRZM0NROTA0dl9FT1ltM2xKNjQ2c2s?oc=5",
+      "headline": "Does 'You Can See Everything' live up to the hype? (review) - Mashable",
+      "title": "Does 'You Can See Everything' live up to the hype? (review) - Mashable",
+      "snapshot": "Does 'You Can See Everything' live up to the hype? (review) Mashable",
+      "summary": "Does 'You Can See Everything' live up to the hype? (review) Mashable",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xRmtrMEV4Wk1uVGZhOVRHeF83VzZKZHFrbm5palBmckl3dTV5U0g5UDRHRHBhZGhhZ0FPX2Vkc2dsZDJNN1hsNEg3bjJuYkNYQzRkbUJJM0k1Wk9mdkFjOUxOMWlMX2FYdWQ4NFl1dm0tUQ?oc=5",
       "source": "Google News",
       "source_name": "Google News",
       "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "published_at": "2026-10-03 07:01:00 PM ET",
+      "published_at": "2026-10-01 04:01:19 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "1968 Film, Starring Lee Marvin, Named One of the 'Best War Movies of All Time' - Men's Journal"
+        "Does 'You Can See Everything' live up to the hype? (review) - Mashable"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1145,8 +1147,8 @@
       "priority_score": 68
     },
     {
-      "id": "music-8-3596561938720397035",
-      "key": "music-8-3596561938720397035",
+      "id": "music-8-6011812954587602457",
+      "key": "music-8-6011812954587602457",
       "category": "Music",
       "label": "Music",
       "headline": "NFL London Game 2026: Where to Watch Indianapolis Colts vs. Washington Commanders Live Online Free",
@@ -1172,8 +1174,8 @@
       "priority_score": 92
     },
     {
-      "id": "gaming-0-4348317806004001205",
-      "key": "gaming-0-4348317806004001205",
+      "id": "gaming-0-2054546537614194594",
+      "key": "gaming-0-2054546537614194594",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Everything We Saw at RuneFest 2026, Including RuneScape 4 and RuneScape Reignited",
@@ -1199,22 +1201,22 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-5590700322449216155",
-      "key": "film-1-5590700322449216155",
+      "id": "film-1-1676455604988362044",
+      "key": "film-1-1676455604988362044",
       "category": "Film",
       "label": "Film",
-      "headline": "Paul Rudd Says He Stopped Bringing His Phone to Film Sets Because He's 'Addicted Like Everybody Else': 'They're Facilitating Our Own Destruction'",
-      "title": "Paul Rudd Says He Stopped Bringing His Phone to Film Sets Because He's 'Addicted Like Everybody Else': 'They're Facilitating Our Own Destruction'",
-      "snapshot": "Paul Rudd plays the moderator of the first-ever meeting dedicated to solving America's climate crisis in \"A Statement,\" the latest film from Oscar-winning director Tom McCarthy. Set at a Florida beachside resort in 1980, the film follows 20 experts who spend a weekend in a conference room and - analogous to \"12 Angr...",
-      "summary": "Paul Rudd plays the moderator of the first-ever meeting dedicated to solving America's climate crisis in \"A Statement,\" the latest film from Oscar-winning director Tom McCarthy. Set at a Florida beachside resort in 1980, the film follows 20 experts who spend a weekend in a conference room and - analogous to \"12 Angr...",
-      "url": "https://variety.com/2026/film/news/paul-rudd-phone-addiction-a-statement-nyff-1236898348/",
+      "headline": "Pedro Pascal Premieres 'Behemoth!' in NYC, Sarah Jessica Parker and Stevie Nicks Make a Fashionable Pair and More Red Carpet Photos: October 2026",
+      "title": "Pedro Pascal Premieres 'Behemoth!' in NYC, Sarah Jessica Parker and Stevie Nicks Make a Fashionable Pair and More Red Carpet Photos: October 2026",
+      "snapshot": "October began with Ben Affleck and Kerry Washington premiering \"Animals,\" their new political thriller about a Los Angeles mayoral candidate (Affleck) whose family is thrust into an unimaginable situation involving their son and housekeeper and her undocumented immigrant boyfriend. The following day, the Critics Cho...",
+      "summary": "October began with Ben Affleck and Kerry Washington premiering \"Animals,\" their new political thriller about a Los Angeles mayoral candidate (Affleck) whose family is thrust into an unimaginable situation involving their son and housekeeper and her undocumented immigrant boyfriend. The following day, the Critics Cho...",
+      "url": "https://variety.com/gallery/stevie-nicks-make-a-fared-carpet-photos-october-2026-celebrity/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-10-03 07:43:13 PM ET",
+      "published_at": "2026-10-04 11:00:38 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Paul Rudd Says He Stopped Bringing His Phone to Film Sets Because He's 'Addicted Like Everybody Else': 'They're Facilitating Our Own Destruction'"
+        "Pedro Pascal Premieres 'Behemoth!' in NYC, Sarah Jessica Parker and Stevie Nicks Make a Fashionable Pair and More Red Carpet Photos: October 2026"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1226,8 +1228,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-2314926629546313071",
-      "key": "film-11-2314926629546313071",
+      "id": "film-11-2230668660809165948",
+      "key": "film-11-2230668660809165948",
       "category": "Film",
       "label": "Film",
       "headline": "Jeremy Strong Says He Cares What Mark Zuckerberg Thinks About 'The Social Reckoning'",
@@ -1253,22 +1255,22 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-8285600714778356172",
-      "key": "film-23-8285600714778356172",
+      "id": "film-23-7459949164949995763",
+      "key": "film-23-7459949164949995763",
       "category": "Film",
       "label": "Film",
-      "headline": "Jeremy Strong Says He Doesn't \"Need to Apologize\" for Method Acting: \"It's in Service of the Material\"",
-      "title": "Jeremy Strong Says He Doesn't \"Need to Apologize\" for Method Acting: \"It's in Service of the Material\"",
-      "snapshot": "\"I'm just there to commit utterly to serving the material,\" the Oscar nominee said of his approach to acting.",
-      "summary": "\"I'm just there to commit utterly to serving the material,\" the Oscar nominee said of his approach to acting.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/jeremy-strong-method-acting-never-intention-interfere-1236721716/",
+      "headline": "'In The Heart of the South' Director Wants to Change the Narrative For Indigenous Filmmakers: \"You've Been Telling Our Stories Forever\"",
+      "title": "'In The Heart of the South' Director Wants to Change the Narrative For Indigenous Filmmakers: \"You've Been Telling Our Stories Forever\"",
+      "snapshot": "Nyla Innuksuk's supernatural thriller, where themes of trauma and tragedy come painfully alive, is screening at the Vancouver Film Festival this week.",
+      "summary": "Nyla Innuksuk's supernatural thriller, where themes of trauma and tragedy come painfully alive, is screening at the Vancouver Film Festival this week.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/nyla-innuksuk-change-narrative-indigenous-filmmakers-1236721816/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-10-03 08:58:57 PM ET",
+      "published_at": "2026-10-04 11:32:07 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Jeremy Strong Says He Doesn't \"Need to Apologize\" for Method Acting: \"It's in Service of the Material\""
+        "'In The Heart of the South' Director Wants to Change the Narrative For Indigenous Filmmakers: \"You've Been Telling Our Stories Forever\""
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1280,22 +1282,22 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-5532838343224257815",
-      "key": "film-33-5532838343224257815",
+      "id": "film-33-2162674167903345320",
+      "key": "film-33-2162674167903345320",
       "category": "Film",
       "label": "Film",
-      "headline": "Does 'You Can See Everything' live up to the hype? (review) - Mashable",
-      "title": "Does 'You Can See Everything' live up to the hype? (review) - Mashable",
-      "snapshot": "Does 'You Can See Everything' live up to the hype? (review) Mashable",
-      "summary": "Does 'You Can See Everything' live up to the hype? (review) Mashable",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xRmtrMEV4Wk1uVGZhOVRHeF83VzZKZHFrbm5palBmckl3dTV5U0g5UDRHRHBhZGhhZ0FPX2Vkc2dsZDJNN1hsNEg3bjJuYkNYQzRkbUJJM0k1Wk9mdkFjOUxOMWlMX2FYdWQ4NFl1dm0tUQ?oc=5",
+      "headline": "New movies to watch this weekend: See 'Verity' and 'Digger' in theaters, rent or buy 'Coyote vs. Acme,' stream 'Evil Dead Burn' on HBO Max - Yahoo",
+      "title": "New movies to watch this weekend: See 'Verity' and 'Digger' in theaters, rent or buy 'Coyote vs. Acme,' stream 'Evil Dead Burn' on HBO Max - Yahoo",
+      "snapshot": "New movies to watch this weekend: See 'Verity' and 'Digger' in theaters, rent or buy 'Coyote vs. Acme,' stream 'Evil Dead Burn' on HBO Max Yahoo",
+      "summary": "New movies to watch this weekend: See 'Verity' and 'Digger' in theaters, rent or buy 'Coyote vs. Acme,' stream 'Evil Dead Burn' on HBO Max Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNSXJ4M1QxdWdyTDFpYVlWSmR3bk1hdDBtMkdjSExNU193M0dULVl4a3A3SHZ5M3dMWHhZNGFxRDdWdEdGbjdreDdnV0dBaDdqRXVGQkhhN1ExTUhkRjgyZVJmcU9ZYmM4MU8wLUVfNTY5dE92QURLdmJCcE40MGc5dGlRSXZZTU8ybHdKaEFSVGVtYTkxRlVEYnhvRDBJemZmNWpIZ0ZTVFVIaGpPOW9UcDNKMElrZzVaR3lGNWpPd3VUbVpITnRiMnF6dldMVjhuQ3RnRUNuWjloaFE5QlNONFpTdkkyMGRtTGxhQTNLM1JzanRZTy1lSm1kdFdXMTFPN1E2VERVRlN1LWJMaktBRXAxX2t6aEFsVkxvMQ?oc=5",
       "source": "Google News",
       "source_name": "Google News",
       "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "published_at": "2026-10-01 04:01:19 PM ET",
+      "published_at": "2026-10-02 09:10:33 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Does 'You Can See Everything' live up to the hype? (review) - Mashable"
+        "New movies to watch this weekend: See 'Verity' and 'Digger' in theaters, rent or buy 'Coyote vs. Acme,' stream 'Evil Dead Burn' on HBO Max - Yahoo"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1307,8 +1309,8 @@
       "priority_score": 67
     },
     {
-      "id": "music-9-6422981508642075030",
-      "key": "music-9-6422981508642075030",
+      "id": "music-9-2815053039040772640",
+      "key": "music-9-2815053039040772640",
       "category": "Music",
       "label": "Music",
       "headline": "Turnstile Make Explosive 'SNL' Debut With 'Birds' and 'Never Enough' Medley",
@@ -1334,8 +1336,8 @@
       "priority_score": 91
     },
     {
-      "id": "gaming-1-152397907460732662",
-      "key": "gaming-1-152397907460732662",
+      "id": "gaming-1-6936703375241302143",
+      "key": "gaming-1-6936703375241302143",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Fourth RuneScape MMO Built With Unreal Engine in the Works, Jagex Announces RuneScape Animation With MoistCr1TiKaL",
@@ -1361,22 +1363,22 @@
       "priority_score": 99
     },
     {
-      "id": "film-2-7316928369318304639",
-      "key": "film-2-7316928369318304639",
+      "id": "film-2-9186784547465629667",
+      "key": "film-2-9186784547465629667",
       "category": "Film",
       "label": "Film",
-      "headline": "Jeremy Strong Defends Method Acting, Says He Doesn't Feel the Need to 'Apologize' to Co-Stars Who May Think 'I'm Taking It Too Seriously'",
-      "title": "Jeremy Strong Defends Method Acting, Says He Doesn't Feel the Need to 'Apologize' to Co-Stars Who May Think 'I'm Taking It Too Seriously'",
-      "snapshot": "Jeremy Strong, now infamous for his dedication to method acting, recently admitted he doesn't feel the \"need to apologize\" to those he works with who may feel he is taking the process \"too seriously\" on a recent episode of The New Yorker Radio Hour podcast. The actor, who stepped into the role of tech billionaire […]",
-      "summary": "Jeremy Strong, now infamous for his dedication to method acting, recently admitted he doesn't feel the \"need to apologize\" to those he works with who may feel he is taking the process \"too seriously\" on a recent episode of The New Yorker Radio Hour podcast. The actor, who stepped into the role of tech billionaire […]",
-      "url": "https://variety.com/2026/film/news/jeremy-strong-defends-method-acting-social-reckoning-1236898328/",
+      "headline": "'Avengers: Endgame' Overtakes 'Avatar' as Highest-Grossing Movie in History With $2.925 Billion After 'Encore' Re-Release",
+      "title": "'Avengers: Endgame' Overtakes 'Avatar' as Highest-Grossing Movie in History With $2.925 Billion After 'Encore' Re-Release",
+      "snapshot": "\"Avengers: Endgame\" is once again the highest-grossing movie in box office history, reclaiming the title from \"Avatar.\" The two blockbusters have passed the crown back and forth over the years as they've returned to theaters for various engagements. With Disney's recent \"Avengers: Endgame\" theatrical re-release, the...",
+      "summary": "\"Avengers: Endgame\" is once again the highest-grossing movie in box office history, reclaiming the title from \"Avatar.\" The two blockbusters have passed the crown back and forth over the years as they've returned to theaters for various engagements. With Disney's recent \"Avengers: Endgame\" theatrical re-release, the...",
+      "url": "https://variety.com/2026/film/box-office/avengers-endgame-highest-grossing-movie-ever-avatar-1236894787/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-10-03 07:05:10 PM ET",
+      "published_at": "2026-10-04 10:46:59 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Jeremy Strong Defends Method Acting, Says He Doesn't Feel the Need to 'Apologize' to Co-Stars Who May Think 'I'm Taking It Too Seriously'"
+        "'Avengers: Endgame' Overtakes 'Avatar' as Highest-Grossing Movie in History With $2.925 Billion After 'Encore' Re-Release"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1388,8 +1390,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-8471952977004069305",
-      "key": "film-12-8471952977004069305",
+      "id": "film-12-6308223613764908455",
+      "key": "film-12-6308223613764908455",
       "category": "Film",
       "label": "Film",
       "headline": "'Digger' Star Tom Cruise Says He's \"So Proud Of What We Created\" Despite Poor Open At Theaters",
@@ -1415,22 +1417,22 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-6088611695692160481",
-      "key": "film-24-6088611695692160481",
+      "id": "film-24-7528942445277170786",
+      "key": "film-24-7528942445277170786",
       "category": "Film",
       "label": "Film",
-      "headline": "Tom Cruise Stands Up for 'Digger' Amid Tough Box Office: \"I'm So Proud of What We Created\"",
-      "title": "Tom Cruise Stands Up for 'Digger' Amid Tough Box Office: \"I'm So Proud of What We Created\"",
-      "snapshot": "Alejandro G. Iñárritu helmed the big-budget Warner Bros. release that is struggling in its opening weekend.",
-      "summary": "Alejandro G. Iñárritu helmed the big-budget Warner Bros. release that is struggling in its opening weekend.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/tom-cruise-digger-social-media-box-office-opening-1236721639/",
+      "headline": "Tom Cruise's 'Digger' Tries New Marketing Tactic: The French Love It, Americans Don't",
+      "title": "Tom Cruise's 'Digger' Tries New Marketing Tactic: The French Love It, Americans Don't",
+      "snapshot": "A new ad for Alejandro G. Iñárritu's box office bomb shows international critics praising the film compared to their American counterparts.",
+      "summary": "A new ad for Alejandro G. Iñárritu's box office bomb shows international critics praising the film compared to their American counterparts.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/tom-cruise-digger-critics-box-office-1236721806/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-10-03 03:24:13 PM ET",
+      "published_at": "2026-10-04 10:29:51 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Tom Cruise Stands Up for 'Digger' Amid Tough Box Office: \"I'm So Proud of What We Created\""
+        "Tom Cruise's 'Digger' Tries New Marketing Tactic: The French Love It, Americans Don't"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1442,22 +1444,22 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-1575989569945340930",
-      "key": "film-34-1575989569945340930",
+      "id": "film-34-8739781492989869118",
+      "key": "film-34-8739781492989869118",
       "category": "Film",
       "label": "Film",
-      "headline": "New movies to watch this weekend: See 'Verity' and 'Digger' in theaters, rent or buy 'Coyote vs. Acme,' stream 'Evil Dead Burn' on HBO Max - Yahoo",
-      "title": "New movies to watch this weekend: See 'Verity' and 'Digger' in theaters, rent or buy 'Coyote vs. Acme,' stream 'Evil Dead Burn' on HBO Max - Yahoo",
-      "snapshot": "New movies to watch this weekend: See 'Verity' and 'Digger' in theaters, rent or buy 'Coyote vs. Acme,' stream 'Evil Dead Burn' on HBO Max Yahoo",
-      "summary": "New movies to watch this weekend: See 'Verity' and 'Digger' in theaters, rent or buy 'Coyote vs. Acme,' stream 'Evil Dead Burn' on HBO Max Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNSXJ4M1QxdWdyTDFpYVlWSmR3bk1hdDBtMkdjSExNU193M0dULVl4a3A3SHZ5M3dMWHhZNGFxRDdWdEdGbjdreDdnV0dBaDdqRXVGQkhhN1ExTUhkRjgyZVJmcU9ZYmM4MU8wLUVfNTY5dE92QURLdmJCcE40MGc5dGlRSXZZTU8ybHdKaEFSVGVtYTkxRlVEYnhvRDBJemZmNWpIZ0ZTVFVIaGpPOW9UcDNKMElrZzVaR3lGNWpPd3VUbVpITnRiMnF6dldMVjhuQ3RnRUNuWjloaFE5QlNONFpTdkkyMGRtTGxhQTNLM1JzanRZTy1lSm1kdFdXMTFPN1E2VERVRlN1LWJMaktBRXAxX2t6aEFsVkxvMQ?oc=5",
+      "headline": "1968 Film, Starring Lee Marvin, Named One of the 'Best War Movies of All Time' - Men's Journal",
+      "title": "1968 Film, Starring Lee Marvin, Named One of the 'Best War Movies of All Time' - Men's Journal",
+      "snapshot": "1968 Film, Starring Lee Marvin, Named One of the 'Best War Movies of All Time' Men's Journal",
+      "summary": "1968 Film, Starring Lee Marvin, Named One of the 'Best War Movies of All Time' Men's Journal",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObnBGTk5McnYwWC1uUFVVSnM3RlkyVWlkeE1YRnF5djk0OTFiV0pRVW5iYTJQMlNqR0gtbzdSSXAwNlVmMjRtYmVQVXRiaGhOek9kZzdvQUFSelB0dmNYRWptaFh4ZDQ1QXd4NHd4Ykx2N2dVX0J6TVQ1NHBKZlhCSUxwdkxLSkJKU3hpZUdNNjJzM01kbU5pYl9aQWZoZDkxVjRZM0NROTA0dl9FT1ltM2xKNjQ2c2s?oc=5",
       "source": "Google News",
       "source_name": "Google News",
       "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "published_at": "2026-10-02 09:10:33 AM ET",
+      "published_at": "2026-10-03 07:01:00 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "New movies to watch this weekend: See 'Verity' and 'Digger' in theaters, rent or buy 'Coyote vs. Acme,' stream 'Evil Dead Burn' on HBO Max - Yahoo"
+        "1968 Film, Starring Lee Marvin, Named One of the 'Best War Movies of All Time' - Men's Journal"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1469,8 +1471,8 @@
       "priority_score": 66
     },
     {
-      "id": "music-10-8063040104638921891",
-      "key": "music-10-8063040104638921891",
+      "id": "music-10-5167778113426784996",
+      "key": "music-10-5167778113426784996",
       "category": "Music",
       "label": "Music",
       "headline": "Polaris on Honoring Ryan Siew With 'Without You' & Their Good Things Return",
@@ -1496,8 +1498,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-2-7228910620869050849",
-      "key": "gaming-2-7228910620869050849",
+      "id": "gaming-2-8677492601465635761",
+      "key": "gaming-2-8677492601465635761",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Gears of War: E-Day Devs 'Proud to Be One of Xbox's Main Titles' Amid Newfound Focus on Exclusivity",
@@ -1523,22 +1525,22 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-5612660564752897784",
-      "key": "film-3-5612660564752897784",
+      "id": "film-3-6215035025074285743",
+      "key": "film-3-6215035025074285743",
       "category": "Film",
       "label": "Film",
-      "headline": "Guillermo Del Toro Defends 'Digger,' Calls the Film 'Daring, Bold and Cinematically Complex'",
-      "title": "Guillermo Del Toro Defends 'Digger,' Calls the Film 'Daring, Bold and Cinematically Complex'",
-      "snapshot": "Guillermo Del Toro is publicly declaring his love for \"Digger.\" Del Toro took to X to call out naysayers of Alejandro G. Iñárritu's film ahead of its Friday release. \"Entirely Petty headline,\" the director wrote in response to a review of Warner Bros.' R-rated black comedy. \"Love it or not. And yes, I do. The […]",
-      "summary": "Guillermo Del Toro is publicly declaring his love for \"Digger.\" Del Toro took to X to call out naysayers of Alejandro G. Iñárritu's film ahead of its Friday release. \"Entirely Petty headline,\" the director wrote in response to a review of Warner Bros.' R-rated black comedy. \"Love it or not. And yes, I do. The […]",
-      "url": "https://variety.com/2026/film/news/guillermo-del-toro-defends-digger-1236898266/",
+      "headline": "Singeetham Srinivasa Rao, Indian Filmmaker Behind 'Pushpaka Vimana,' 'Michael Madana Kama Rajan' and 'Aditya 369' Dies at 95",
+      "title": "Singeetham Srinivasa Rao, Indian Filmmaker Behind 'Pushpaka Vimana,' 'Michael Madana Kama Rajan' and 'Aditya 369' Dies at 95",
+      "snapshot": "Revered Indian filmmaker Singeetham Srinivasa Rao, whose work spanned the 1957 Telugu-language classic \"Mayabazar\" and this year's musical \"Sing Geetham,\" died Oct. 3 in Chennai following a period of ill health. He was 95. Rao made some 60 features in the Telugu, Tamil, Kannada and Hindi languages, and moved between...",
+      "summary": "Revered Indian filmmaker Singeetham Srinivasa Rao, whose work spanned the 1957 Telugu-language classic \"Mayabazar\" and this year's musical \"Sing Geetham,\" died Oct. 3 in Chennai following a period of ill health. He was 95. Rao made some 60 features in the Telugu, Tamil, Kannada and Hindi languages, and moved between...",
+      "url": "https://variety.com/2026/film/obituaries-people-news/singeetham-srinivasa-rao-dead-indian-filmmaker-pushpaka-vimana-1236898526/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-10-03 03:55:38 PM ET",
+      "published_at": "2026-10-04 10:02:39 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Guillermo Del Toro Defends 'Digger,' Calls the Film 'Daring, Bold and Cinematically Complex'"
+        "Singeetham Srinivasa Rao, Indian Filmmaker Behind 'Pushpaka Vimana,' 'Michael Madana Kama Rajan' and 'Aditya 369' Dies at 95"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1550,8 +1552,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-1034513996238476038",
-      "key": "film-13-1034513996238476038",
+      "id": "film-13-2774232968515948856",
+      "key": "film-13-2774232968515948856",
       "category": "Film",
       "label": "Film",
       "headline": "Aaron Sorkin Says \"It Never Occurred To Me\" That Jesse Eisenberg Wouldn't Want To Return For 'The Social Reckoning'",
@@ -1577,22 +1579,22 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-7143568449134977996",
-      "key": "film-25-7143568449134977996",
+      "id": "film-25-8221044310912858451",
+      "key": "film-25-8221044310912858451",
       "category": "Film",
       "label": "Film",
-      "headline": "Tom Cruise's 'Digger' Plunging at Box Office With Less Than $10M as 'Verity' Leads",
-      "title": "Tom Cruise's 'Digger' Plunging at Box Office With Less Than $10M as 'Verity' Leads",
-      "snapshot": "Warner Bros.' pricey satire could be heading to Cruise's lowest opening in nearly two decades.",
-      "summary": "Warner Bros.' pricey satire could be heading to Cruise's lowest opening in nearly two decades.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/tom-cruise-digger-box-office-opening-verity-2-1236721548/",
+      "headline": "How 'Freaks' Sent Zach Lipovsky and Adam B. Stein to Hollywood: \"That Film Changed Our Lives\"",
+      "title": "How 'Freaks' Sent Zach Lipovsky and Adam B. Stein to Hollywood: \"That Film Changed Our Lives\"",
+      "snapshot": "Their breakout 2018 sci-fi thriller debuted at the Vancouver Film Festival. Now they're returning with 'Freaks 2' and as bankable horror directors and writers.",
+      "summary": "Their breakout 2018 sci-fi thriller debuted at the Vancouver Film Festival. Now they're returning with 'Freaks 2' and as bankable horror directors and writers.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/freaks-zach-lipovsky-adam-b-stein-hollywood-1236721594/",
       "source": "The Hollywood Reporter",
       "source_name": "The Hollywood Reporter",
       "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-      "published_at": "2026-10-03 12:02:54 PM ET",
+      "published_at": "2026-10-03 09:18:31 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Tom Cruise's 'Digger' Plunging at Box Office With Less Than $10M as 'Verity' Leads"
+        "How 'Freaks' Sent Zach Lipovsky and Adam B. Stein to Hollywood: \"That Film Changed Our Lives\""
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1604,8 +1606,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-5394999793923751512",
-      "key": "film-35-5394999793923751512",
+      "id": "film-35-4118109766915654799",
+      "key": "film-35-4118109766915654799",
       "category": "Film",
       "label": "Film",
       "headline": "IndyStar's entertainment staff recommends these Heartland Film Fest picks - IndyStar",
@@ -1631,8 +1633,8 @@
       "priority_score": 65
     },
     {
-      "id": "music-11-5973887533601856336",
-      "key": "music-11-5973887533601856336",
+      "id": "music-11-9042395192664437029",
+      "key": "music-11-9042395192664437029",
       "category": "Music",
       "label": "Music",
       "headline": "Taylor Swift Makes Surprise 'SNL' Cameo in Dakota Johnson's Monologue",
@@ -1658,8 +1660,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-3-8524388420758948720",
-      "key": "gaming-3-8524388420758948720",
+      "id": "gaming-3-7433406624285840627",
+      "key": "gaming-3-7433406624285840627",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The Best Deals Today: Trails in the Sky 1st Chapter, Shuten Order, MLB The Show 26, and More",
@@ -1690,46 +1692,46 @@
       "key": "film",
       "name": "Film",
       "title": "Film Report",
-      "headline": "‘A Statement’ Review: Just What We Need Right Now — Another Movie About Climate Change! But Tom McCarthy’s Historically Based Talkfest Reveals How Much We Knew in 1980",
+      "headline": "Box Office: ‘Digger’ Majorly Bombs With $8 Million Opening Weekend, ‘Verity’ Scores $32 Million Debut",
       "snapshot": "Film coverage is updating with 8 current RSS headline item(s).",
       "key_storylines": [
-        "‘A Statement’ Review: Just What We Need Right Now — Another Movie About Climate Change! But Tom McCarthy’s Historically Based Talkfest Reveals How Much We Knew in 1980",
+        "Box Office: ‘Digger’ Majorly Bombs With $8 Million Opening Weekend, ‘Verity’ Scores $32 Million Debut",
         "‘A Statement’ Review: Paul Rudd, Paul Giamatti And Superb Ensemble In Tom McCarthy’s Splendid Humanist Look At Climate Change – New York Film Festival",
-        "How ‘Freaks’ Sent Zach Lipovsky and Adam B. Stein to Hollywood: “That Film Changed Our Lives”",
-        "1968 Film, Starring Lee Marvin, Named One of the ‘Best War Movies of All Time’ - Men's Journal",
-        "Paul Rudd Says He Stopped Bringing His Phone to Film Sets Because He’s ‘Addicted Like Everybody Else’: ‘They’re Facilitating Our Own Destruction’"
+        "‘Avengers: Endgame’ Returns to No. 1 on All-Time Global Box Office Chart, Surpassing ‘Avatar’",
+        "Does 'You Can See Everything' live up to the hype? (review) - Mashable",
+        "Pedro Pascal Premieres ‘Behemoth!’ in NYC, Sarah Jessica Parker and Stevie Nicks Make a Fashionable Pair and More Red Carpet Photos: October 2026"
       ],
       "watch_list": [
-        "‘A Statement’ Review: Just What We Need Right Now — Another Movie About Climate Change! But Tom McCarthy’s Historically Based Talkfest Reveals How Much We Knew in 1980",
+        "Box Office: ‘Digger’ Majorly Bombs With $8 Million Opening Weekend, ‘Verity’ Scores $32 Million Debut",
         "‘A Statement’ Review: Paul Rudd, Paul Giamatti And Superb Ensemble In Tom McCarthy’s Splendid Humanist Look At Climate Change – New York Film Festival",
-        "How ‘Freaks’ Sent Zach Lipovsky and Adam B. Stein to Hollywood: “That Film Changed Our Lives”",
-        "1968 Film, Starring Lee Marvin, Named One of the ‘Best War Movies of All Time’ - Men's Journal",
-        "Paul Rudd Says He Stopped Bringing His Phone to Film Sets Because He’s ‘Addicted Like Everybody Else’: ‘They’re Facilitating Our Own Destruction’",
+        "‘Avengers: Endgame’ Returns to No. 1 on All-Time Global Box Office Chart, Surpassing ‘Avatar’",
+        "Does 'You Can See Everything' live up to the hype? (review) - Mashable",
+        "Pedro Pascal Premieres ‘Behemoth!’ in NYC, Sarah Jessica Parker and Stevie Nicks Make a Fashionable Pair and More Red Carpet Photos: October 2026",
         "Jeremy Strong Says He Cares What Mark Zuckerberg Thinks About ‘The Social Reckoning’",
-        "Jeremy Strong Says He Doesn’t “Need to Apologize” for Method Acting: “It’s in Service of the Material”",
-        "Does 'You Can See Everything' live up to the hype? (review) - Mashable"
+        "‘In The Heart of the South’ Director Wants to Change the Narrative For Indigenous Filmmakers: “You’ve Been Telling Our Stories Forever”",
+        "New movies to watch this weekend: See 'Verity' and 'Digger' in theaters, rent or buy 'Coyote vs. Acme,' stream 'Evil Dead Burn' on HBO Max - Yahoo"
       ],
       "homepage_cards": [
         {
-          "id": "film-0-4759605623048878",
-          "key": "film-0-4759605623048878",
+          "id": "film-0-1537578786752401110",
+          "key": "film-0-1537578786752401110",
           "category": "Film",
           "label": "Film",
-          "headline": "‘A Statement’ Review: Just What We Need Right Now — Another Movie About Climate Change! But Tom McCarthy’s Historically Based Talkfest Reveals How Much We Knew in 1980",
-          "title": "‘A Statement’ Review: Just What We Need Right Now — Another Movie About Climate Change! But Tom McCarthy’s Historically Based Talkfest Reveals How Much We Knew in 1980",
-          "snapshot": "On paper, \"A Statement\" sounds like an interesting movie, but it’s at once talky and flat, grabby and meandering, impassioned and neutral. It wants to be a \"firebrand\" docudrama, yet I can’t imagine who the audience is going to be for it. My heartless prediction: next to no one.",
-          "summary": "On paper, \"A Statement\" sounds like an interesting movie, but it’s at once talky and flat, grabby and meandering, impassioned and neutral. It wants to be a \"firebrand\" docudrama, yet I can’t imagine who the audience is going to be for it. My heartless prediction: next to no one.",
-          "url": "https://variety.com/2026/film/reviews/a-statement-review-paul-rudd-paul-giamatti-nyff-1236898120/",
+          "headline": "Box Office: ‘Digger’ Majorly Bombs With $8 Million Opening Weekend, ‘Verity’ Scores $32 Million Debut",
+          "title": "Box Office: ‘Digger’ Majorly Bombs With $8 Million Opening Weekend, ‘Verity’ Scores $32 Million Debut",
+          "snapshot": "In “Digger,” Tom Cruise portrays a powerful oil tycoon who is bracing for an ecological disaster of epic proportions. But nothing could have prepared him for the catastrophe that’s unfolding at the box office, where “Digger” has collapsed with an embarrassing $8 million from 3,321 North American theaters. Rivals bel...",
+          "summary": "In “Digger,” Tom Cruise portrays a powerful oil tycoon who is bracing for an ecological disaster of epic proportions. But nothing could have prepared him for the catastrophe that’s unfolding at the box office, where “Digger” has collapsed with an embarrassing $8 million from 3,321 North American theaters. Rivals bel...",
+          "url": "https://variety.com/2026/film/box-office/digger-box-office-majorly-bombs-verity-scores-1236898521/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/feed/",
-          "published_at": "2026-10-03 08:15:11 PM ET",
+          "published_at": "2026-10-04 11:27:05 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "‘A Statement’ Review: Just What We Need Right Now — Another Movie About Climate Change! But Tom McCarthy’s Historically Based Talkfest Reveals How Much We Knew in 1980"
+            "Box Office: ‘Digger’ Majorly Bombs With $8 Million Opening Weekend, ‘Verity’ Scores $32 Million Debut"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1739,8 +1741,8 @@
           ]
         },
         {
-          "id": "film-10-1049805291194392447",
-          "key": "film-10-1049805291194392447",
+          "id": "film-10-8837467442042156397",
+          "key": "film-10-8837467442042156397",
           "category": "Film",
           "label": "Film",
           "headline": "‘A Statement’ Review: Paul Rudd, Paul Giamatti And Superb Ensemble In Tom McCarthy’s Splendid Humanist Look At Climate Change – New York Film Festival",
@@ -1767,25 +1769,25 @@
           ]
         },
         {
-          "id": "film-22-5691587661956689469",
-          "key": "film-22-5691587661956689469",
+          "id": "film-22-470605068603168451",
+          "key": "film-22-470605068603168451",
           "category": "Film",
           "label": "Film",
-          "headline": "How ‘Freaks’ Sent Zach Lipovsky and Adam B. Stein to Hollywood: “That Film Changed Our Lives”",
-          "title": "How ‘Freaks’ Sent Zach Lipovsky and Adam B. Stein to Hollywood: “That Film Changed Our Lives”",
-          "snapshot": "Their breakout 2018 sci-fi thriller debuted at the Vancouver Film Festival. Now they’re returning with ‘Freaks 2’ and as bankable horror directors and writers.",
-          "summary": "Their breakout 2018 sci-fi thriller debuted at the Vancouver Film Festival. Now they’re returning with ‘Freaks 2’ and as bankable horror directors and writers.",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/freaks-zach-lipovsky-adam-b-stein-hollywood-1236721594/",
+          "headline": "‘Avengers: Endgame’ Returns to No. 1 on All-Time Global Box Office Chart, Surpassing ‘Avatar’",
+          "title": "‘Avengers: Endgame’ Returns to No. 1 on All-Time Global Box Office Chart, Surpassing ‘Avatar’",
+          "snapshot": "Marvel Studios' 2019 release headed back to theaters last weekend ahead of this year's 'Doomsday.'",
+          "summary": "Marvel Studios' 2019 release headed back to theaters last weekend ahead of this year's 'Doomsday.'",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/avengers-endgame-beats-avatar-highest-grossing-box-office-1236721833/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-          "published_at": "2026-10-03 09:18:31 PM ET",
+          "published_at": "2026-10-04 11:34:35 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 78,
           "key_data": [
-            "How ‘Freaks’ Sent Zach Lipovsky and Adam B. Stein to Hollywood: “That Film Changed Our Lives”"
+            "‘Avengers: Endgame’ Returns to No. 1 on All-Time Global Box Office Chart, Surpassing ‘Avatar’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1795,25 +1797,25 @@
           ]
         },
         {
-          "id": "film-32-3186991306609407603",
-          "key": "film-32-3186991306609407603",
+          "id": "film-32-5981048502380987525",
+          "key": "film-32-5981048502380987525",
           "category": "Film",
           "label": "Film",
-          "headline": "1968 Film, Starring Lee Marvin, Named One of the ‘Best War Movies of All Time’ - Men's Journal",
-          "title": "1968 Film, Starring Lee Marvin, Named One of the ‘Best War Movies of All Time’ - Men's Journal",
-          "snapshot": "1968 Film, Starring Lee Marvin, Named One of the ‘Best War Movies of All Time’ Men's Journal",
-          "summary": "1968 Film, Starring Lee Marvin, Named One of the ‘Best War Movies of All Time’ Men's Journal",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObnBGTk5McnYwWC1uUFVVSnM3RlkyVWlkeE1YRnF5djk0OTFiV0pRVW5iYTJQMlNqR0gtbzdSSXAwNlVmMjRtYmVQVXRiaGhOek9kZzdvQUFSelB0dmNYRWptaFh4ZDQ1QXd4NHd4Ykx2N2dVX0J6TVQ1NHBKZlhCSUxwdkxLSkJKU3hpZUdNNjJzM01kbU5pYl9aQWZoZDkxVjRZM0NROTA0dl9FT1ltM2xKNjQ2c2s?oc=5",
+          "headline": "Does 'You Can See Everything' live up to the hype? (review) - Mashable",
+          "title": "Does 'You Can See Everything' live up to the hype? (review) - Mashable",
+          "snapshot": "Does 'You Can See Everything' live up to the hype? (review) Mashable",
+          "summary": "Does 'You Can See Everything' live up to the hype? (review) Mashable",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xRmtrMEV4Wk1uVGZhOVRHeF83VzZKZHFrbm5palBmckl3dTV5U0g5UDRHRHBhZGhhZ0FPX2Vkc2dsZDJNN1hsNEg3bjJuYkNYQzRkbUJJM0k1Wk9mdkFjOUxOMWlMX2FYdWQ4NFl1dm0tUQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-10-03 07:01:00 PM ET",
+          "published_at": "2026-10-01 04:01:19 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 68,
           "key_data": [
-            "1968 Film, Starring Lee Marvin, Named One of the ‘Best War Movies of All Time’ - Men's Journal"
+            "Does 'You Can See Everything' live up to the hype? (review) - Mashable"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1823,25 +1825,25 @@
           ]
         },
         {
-          "id": "film-1-5590700322449216155",
-          "key": "film-1-5590700322449216155",
+          "id": "film-1-1676455604988362044",
+          "key": "film-1-1676455604988362044",
           "category": "Film",
           "label": "Film",
-          "headline": "Paul Rudd Says He Stopped Bringing His Phone to Film Sets Because He’s ‘Addicted Like Everybody Else’: ‘They’re Facilitating Our Own Destruction’",
-          "title": "Paul Rudd Says He Stopped Bringing His Phone to Film Sets Because He’s ‘Addicted Like Everybody Else’: ‘They’re Facilitating Our Own Destruction’",
-          "snapshot": "Paul Rudd plays the moderator of the first-ever meeting dedicated to solving America’s climate crisis in “A Statement,” the latest film from Oscar-winning director Tom McCarthy. Set at a Florida beachside resort in 1980, the film follows 20 experts who spend a weekend in a conference room and — analogous to “12 Angr...",
-          "summary": "Paul Rudd plays the moderator of the first-ever meeting dedicated to solving America’s climate crisis in “A Statement,” the latest film from Oscar-winning director Tom McCarthy. Set at a Florida beachside resort in 1980, the film follows 20 experts who spend a weekend in a conference room and — analogous to “12 Angr...",
-          "url": "https://variety.com/2026/film/news/paul-rudd-phone-addiction-a-statement-nyff-1236898348/",
+          "headline": "Pedro Pascal Premieres ‘Behemoth!’ in NYC, Sarah Jessica Parker and Stevie Nicks Make a Fashionable Pair and More Red Carpet Photos: October 2026",
+          "title": "Pedro Pascal Premieres ‘Behemoth!’ in NYC, Sarah Jessica Parker and Stevie Nicks Make a Fashionable Pair and More Red Carpet Photos: October 2026",
+          "snapshot": "October began with Ben Affleck and Kerry Washington premiering “Animals,” their new political thriller about a Los Angeles mayoral candidate (Affleck) whose family is thrust into an unimaginable situation involving their son and housekeeper and her undocumented immigrant boyfriend. The following day, the Critics Cho...",
+          "summary": "October began with Ben Affleck and Kerry Washington premiering “Animals,” their new political thriller about a Los Angeles mayoral candidate (Affleck) whose family is thrust into an unimaginable situation involving their son and housekeeper and her undocumented immigrant boyfriend. The following day, the Critics Cho...",
+          "url": "https://variety.com/gallery/stevie-nicks-make-a-fared-carpet-photos-october-2026-celebrity/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/feed/",
-          "published_at": "2026-10-03 07:43:13 PM ET",
+          "published_at": "2026-10-04 11:00:38 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Paul Rudd Says He Stopped Bringing His Phone to Film Sets Because He’s ‘Addicted Like Everybody Else’: ‘They’re Facilitating Our Own Destruction’"
+            "Pedro Pascal Premieres ‘Behemoth!’ in NYC, Sarah Jessica Parker and Stevie Nicks Make a Fashionable Pair and More Red Carpet Photos: October 2026"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1851,8 +1853,8 @@
           ]
         },
         {
-          "id": "film-11-2314926629546313071",
-          "key": "film-11-2314926629546313071",
+          "id": "film-11-2230668660809165948",
+          "key": "film-11-2230668660809165948",
           "category": "Film",
           "label": "Film",
           "headline": "Jeremy Strong Says He Cares What Mark Zuckerberg Thinks About ‘The Social Reckoning’",
@@ -1879,25 +1881,25 @@
           ]
         },
         {
-          "id": "film-23-8285600714778356172",
-          "key": "film-23-8285600714778356172",
+          "id": "film-23-7459949164949995763",
+          "key": "film-23-7459949164949995763",
           "category": "Film",
           "label": "Film",
-          "headline": "Jeremy Strong Says He Doesn’t “Need to Apologize” for Method Acting: “It’s in Service of the Material”",
-          "title": "Jeremy Strong Says He Doesn’t “Need to Apologize” for Method Acting: “It’s in Service of the Material”",
-          "snapshot": "\"I’m just there to commit utterly to serving the material,\" the Oscar nominee said of his approach to acting.",
-          "summary": "\"I’m just there to commit utterly to serving the material,\" the Oscar nominee said of his approach to acting.",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/jeremy-strong-method-acting-never-intention-interfere-1236721716/",
+          "headline": "‘In The Heart of the South’ Director Wants to Change the Narrative For Indigenous Filmmakers: “You’ve Been Telling Our Stories Forever”",
+          "title": "‘In The Heart of the South’ Director Wants to Change the Narrative For Indigenous Filmmakers: “You’ve Been Telling Our Stories Forever”",
+          "snapshot": "Nyla Innuksuk's supernatural thriller, where themes of trauma and tragedy come painfully alive, is screening at the Vancouver Film Festival this week.",
+          "summary": "Nyla Innuksuk's supernatural thriller, where themes of trauma and tragedy come painfully alive, is screening at the Vancouver Film Festival this week.",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/nyla-innuksuk-change-narrative-indigenous-filmmakers-1236721816/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-          "published_at": "2026-10-03 08:58:57 PM ET",
+          "published_at": "2026-10-04 11:32:07 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 77,
           "key_data": [
-            "Jeremy Strong Says He Doesn’t “Need to Apologize” for Method Acting: “It’s in Service of the Material”"
+            "‘In The Heart of the South’ Director Wants to Change the Narrative For Indigenous Filmmakers: “You’ve Been Telling Our Stories Forever”"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1907,25 +1909,25 @@
           ]
         },
         {
-          "id": "film-33-5532838343224257815",
-          "key": "film-33-5532838343224257815",
+          "id": "film-33-2162674167903345320",
+          "key": "film-33-2162674167903345320",
           "category": "Film",
           "label": "Film",
-          "headline": "Does 'You Can See Everything' live up to the hype? (review) - Mashable",
-          "title": "Does 'You Can See Everything' live up to the hype? (review) - Mashable",
-          "snapshot": "Does 'You Can See Everything' live up to the hype? (review) Mashable",
-          "summary": "Does 'You Can See Everything' live up to the hype? (review) Mashable",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xRmtrMEV4Wk1uVGZhOVRHeF83VzZKZHFrbm5palBmckl3dTV5U0g5UDRHRHBhZGhhZ0FPX2Vkc2dsZDJNN1hsNEg3bjJuYkNYQzRkbUJJM0k1Wk9mdkFjOUxOMWlMX2FYdWQ4NFl1dm0tUQ?oc=5",
+          "headline": "New movies to watch this weekend: See 'Verity' and 'Digger' in theaters, rent or buy 'Coyote vs. Acme,' stream 'Evil Dead Burn' on HBO Max - Yahoo",
+          "title": "New movies to watch this weekend: See 'Verity' and 'Digger' in theaters, rent or buy 'Coyote vs. Acme,' stream 'Evil Dead Burn' on HBO Max - Yahoo",
+          "snapshot": "New movies to watch this weekend: See 'Verity' and 'Digger' in theaters, rent or buy 'Coyote vs. Acme,' stream 'Evil Dead Burn' on HBO Max Yahoo",
+          "summary": "New movies to watch this weekend: See 'Verity' and 'Digger' in theaters, rent or buy 'Coyote vs. Acme,' stream 'Evil Dead Burn' on HBO Max Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNSXJ4M1QxdWdyTDFpYVlWSmR3bk1hdDBtMkdjSExNU193M0dULVl4a3A3SHZ5M3dMWHhZNGFxRDdWdEdGbjdreDdnV0dBaDdqRXVGQkhhN1ExTUhkRjgyZVJmcU9ZYmM4MU8wLUVfNTY5dE92QURLdmJCcE40MGc5dGlRSXZZTU8ybHdKaEFSVGVtYTkxRlVEYnhvRDBJemZmNWpIZ0ZTVFVIaGpPOW9UcDNKMElrZzVaR3lGNWpPd3VUbVpITnRiMnF6dldMVjhuQ3RnRUNuWjloaFE5QlNONFpTdkkyMGRtTGxhQTNLM1JzanRZTy1lSm1kdFdXMTFPN1E2VERVRlN1LWJMaktBRXAxX2t6aEFsVkxvMQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-10-01 04:01:19 PM ET",
+          "published_at": "2026-10-02 09:10:33 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 67,
           "key_data": [
-            "Does 'You Can See Everything' live up to the hype? (review) - Mashable"
+            "New movies to watch this weekend: See 'Verity' and 'Digger' in theaters, rent or buy 'Coyote vs. Acme,' stream 'Evil Dead Burn' on HBO Max - Yahoo"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1937,25 +1939,25 @@
       ],
       "items": [
         {
-          "id": "film-0-4759605623048878",
-          "key": "film-0-4759605623048878",
+          "id": "film-0-1537578786752401110",
+          "key": "film-0-1537578786752401110",
           "category": "Film",
           "label": "Film",
-          "headline": "‘A Statement’ Review: Just What We Need Right Now — Another Movie About Climate Change! But Tom McCarthy’s Historically Based Talkfest Reveals How Much We Knew in 1980",
-          "title": "‘A Statement’ Review: Just What We Need Right Now — Another Movie About Climate Change! But Tom McCarthy’s Historically Based Talkfest Reveals How Much We Knew in 1980",
-          "snapshot": "On paper, \"A Statement\" sounds like an interesting movie, but it’s at once talky and flat, grabby and meandering, impassioned and neutral. It wants to be a \"firebrand\" docudrama, yet I can’t imagine who the audience is going to be for it. My heartless prediction: next to no one.",
-          "summary": "On paper, \"A Statement\" sounds like an interesting movie, but it’s at once talky and flat, grabby and meandering, impassioned and neutral. It wants to be a \"firebrand\" docudrama, yet I can’t imagine who the audience is going to be for it. My heartless prediction: next to no one.",
-          "url": "https://variety.com/2026/film/reviews/a-statement-review-paul-rudd-paul-giamatti-nyff-1236898120/",
+          "headline": "Box Office: ‘Digger’ Majorly Bombs With $8 Million Opening Weekend, ‘Verity’ Scores $32 Million Debut",
+          "title": "Box Office: ‘Digger’ Majorly Bombs With $8 Million Opening Weekend, ‘Verity’ Scores $32 Million Debut",
+          "snapshot": "In “Digger,” Tom Cruise portrays a powerful oil tycoon who is bracing for an ecological disaster of epic proportions. But nothing could have prepared him for the catastrophe that’s unfolding at the box office, where “Digger” has collapsed with an embarrassing $8 million from 3,321 North American theaters. Rivals bel...",
+          "summary": "In “Digger,” Tom Cruise portrays a powerful oil tycoon who is bracing for an ecological disaster of epic proportions. But nothing could have prepared him for the catastrophe that’s unfolding at the box office, where “Digger” has collapsed with an embarrassing $8 million from 3,321 North American theaters. Rivals bel...",
+          "url": "https://variety.com/2026/film/box-office/digger-box-office-majorly-bombs-verity-scores-1236898521/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/feed/",
-          "published_at": "2026-10-03 08:15:11 PM ET",
+          "published_at": "2026-10-04 11:27:05 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "‘A Statement’ Review: Just What We Need Right Now — Another Movie About Climate Change! But Tom McCarthy’s Historically Based Talkfest Reveals How Much We Knew in 1980"
+            "Box Office: ‘Digger’ Majorly Bombs With $8 Million Opening Weekend, ‘Verity’ Scores $32 Million Debut"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1965,8 +1967,8 @@
           ]
         },
         {
-          "id": "film-10-1049805291194392447",
-          "key": "film-10-1049805291194392447",
+          "id": "film-10-8837467442042156397",
+          "key": "film-10-8837467442042156397",
           "category": "Film",
           "label": "Film",
           "headline": "‘A Statement’ Review: Paul Rudd, Paul Giamatti And Superb Ensemble In Tom McCarthy’s Splendid Humanist Look At Climate Change – New York Film Festival",
@@ -1993,25 +1995,25 @@
           ]
         },
         {
-          "id": "film-22-5691587661956689469",
-          "key": "film-22-5691587661956689469",
+          "id": "film-22-470605068603168451",
+          "key": "film-22-470605068603168451",
           "category": "Film",
           "label": "Film",
-          "headline": "How ‘Freaks’ Sent Zach Lipovsky and Adam B. Stein to Hollywood: “That Film Changed Our Lives”",
-          "title": "How ‘Freaks’ Sent Zach Lipovsky and Adam B. Stein to Hollywood: “That Film Changed Our Lives”",
-          "snapshot": "Their breakout 2018 sci-fi thriller debuted at the Vancouver Film Festival. Now they’re returning with ‘Freaks 2’ and as bankable horror directors and writers.",
-          "summary": "Their breakout 2018 sci-fi thriller debuted at the Vancouver Film Festival. Now they’re returning with ‘Freaks 2’ and as bankable horror directors and writers.",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/freaks-zach-lipovsky-adam-b-stein-hollywood-1236721594/",
+          "headline": "‘Avengers: Endgame’ Returns to No. 1 on All-Time Global Box Office Chart, Surpassing ‘Avatar’",
+          "title": "‘Avengers: Endgame’ Returns to No. 1 on All-Time Global Box Office Chart, Surpassing ‘Avatar’",
+          "snapshot": "Marvel Studios' 2019 release headed back to theaters last weekend ahead of this year's 'Doomsday.'",
+          "summary": "Marvel Studios' 2019 release headed back to theaters last weekend ahead of this year's 'Doomsday.'",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/avengers-endgame-beats-avatar-highest-grossing-box-office-1236721833/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-          "published_at": "2026-10-03 09:18:31 PM ET",
+          "published_at": "2026-10-04 11:34:35 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 78,
           "key_data": [
-            "How ‘Freaks’ Sent Zach Lipovsky and Adam B. Stein to Hollywood: “That Film Changed Our Lives”"
+            "‘Avengers: Endgame’ Returns to No. 1 on All-Time Global Box Office Chart, Surpassing ‘Avatar’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2021,25 +2023,25 @@
           ]
         },
         {
-          "id": "film-32-3186991306609407603",
-          "key": "film-32-3186991306609407603",
+          "id": "film-32-5981048502380987525",
+          "key": "film-32-5981048502380987525",
           "category": "Film",
           "label": "Film",
-          "headline": "1968 Film, Starring Lee Marvin, Named One of the ‘Best War Movies of All Time’ - Men's Journal",
-          "title": "1968 Film, Starring Lee Marvin, Named One of the ‘Best War Movies of All Time’ - Men's Journal",
-          "snapshot": "1968 Film, Starring Lee Marvin, Named One of the ‘Best War Movies of All Time’ Men's Journal",
-          "summary": "1968 Film, Starring Lee Marvin, Named One of the ‘Best War Movies of All Time’ Men's Journal",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObnBGTk5McnYwWC1uUFVVSnM3RlkyVWlkeE1YRnF5djk0OTFiV0pRVW5iYTJQMlNqR0gtbzdSSXAwNlVmMjRtYmVQVXRiaGhOek9kZzdvQUFSelB0dmNYRWptaFh4ZDQ1QXd4NHd4Ykx2N2dVX0J6TVQ1NHBKZlhCSUxwdkxLSkJKU3hpZUdNNjJzM01kbU5pYl9aQWZoZDkxVjRZM0NROTA0dl9FT1ltM2xKNjQ2c2s?oc=5",
+          "headline": "Does 'You Can See Everything' live up to the hype? (review) - Mashable",
+          "title": "Does 'You Can See Everything' live up to the hype? (review) - Mashable",
+          "snapshot": "Does 'You Can See Everything' live up to the hype? (review) Mashable",
+          "summary": "Does 'You Can See Everything' live up to the hype? (review) Mashable",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xRmtrMEV4Wk1uVGZhOVRHeF83VzZKZHFrbm5palBmckl3dTV5U0g5UDRHRHBhZGhhZ0FPX2Vkc2dsZDJNN1hsNEg3bjJuYkNYQzRkbUJJM0k1Wk9mdkFjOUxOMWlMX2FYdWQ4NFl1dm0tUQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-10-03 07:01:00 PM ET",
+          "published_at": "2026-10-01 04:01:19 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 68,
           "key_data": [
-            "1968 Film, Starring Lee Marvin, Named One of the ‘Best War Movies of All Time’ - Men's Journal"
+            "Does 'You Can See Everything' live up to the hype? (review) - Mashable"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2049,25 +2051,25 @@
           ]
         },
         {
-          "id": "film-1-5590700322449216155",
-          "key": "film-1-5590700322449216155",
+          "id": "film-1-1676455604988362044",
+          "key": "film-1-1676455604988362044",
           "category": "Film",
           "label": "Film",
-          "headline": "Paul Rudd Says He Stopped Bringing His Phone to Film Sets Because He’s ‘Addicted Like Everybody Else’: ‘They’re Facilitating Our Own Destruction’",
-          "title": "Paul Rudd Says He Stopped Bringing His Phone to Film Sets Because He’s ‘Addicted Like Everybody Else’: ‘They’re Facilitating Our Own Destruction’",
-          "snapshot": "Paul Rudd plays the moderator of the first-ever meeting dedicated to solving America’s climate crisis in “A Statement,” the latest film from Oscar-winning director Tom McCarthy. Set at a Florida beachside resort in 1980, the film follows 20 experts who spend a weekend in a conference room and — analogous to “12 Angr...",
-          "summary": "Paul Rudd plays the moderator of the first-ever meeting dedicated to solving America’s climate crisis in “A Statement,” the latest film from Oscar-winning director Tom McCarthy. Set at a Florida beachside resort in 1980, the film follows 20 experts who spend a weekend in a conference room and — analogous to “12 Angr...",
-          "url": "https://variety.com/2026/film/news/paul-rudd-phone-addiction-a-statement-nyff-1236898348/",
+          "headline": "Pedro Pascal Premieres ‘Behemoth!’ in NYC, Sarah Jessica Parker and Stevie Nicks Make a Fashionable Pair and More Red Carpet Photos: October 2026",
+          "title": "Pedro Pascal Premieres ‘Behemoth!’ in NYC, Sarah Jessica Parker and Stevie Nicks Make a Fashionable Pair and More Red Carpet Photos: October 2026",
+          "snapshot": "October began with Ben Affleck and Kerry Washington premiering “Animals,” their new political thriller about a Los Angeles mayoral candidate (Affleck) whose family is thrust into an unimaginable situation involving their son and housekeeper and her undocumented immigrant boyfriend. The following day, the Critics Cho...",
+          "summary": "October began with Ben Affleck and Kerry Washington premiering “Animals,” their new political thriller about a Los Angeles mayoral candidate (Affleck) whose family is thrust into an unimaginable situation involving their son and housekeeper and her undocumented immigrant boyfriend. The following day, the Critics Cho...",
+          "url": "https://variety.com/gallery/stevie-nicks-make-a-fared-carpet-photos-october-2026-celebrity/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/feed/",
-          "published_at": "2026-10-03 07:43:13 PM ET",
+          "published_at": "2026-10-04 11:00:38 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Paul Rudd Says He Stopped Bringing His Phone to Film Sets Because He’s ‘Addicted Like Everybody Else’: ‘They’re Facilitating Our Own Destruction’"
+            "Pedro Pascal Premieres ‘Behemoth!’ in NYC, Sarah Jessica Parker and Stevie Nicks Make a Fashionable Pair and More Red Carpet Photos: October 2026"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2077,8 +2079,8 @@
           ]
         },
         {
-          "id": "film-11-2314926629546313071",
-          "key": "film-11-2314926629546313071",
+          "id": "film-11-2230668660809165948",
+          "key": "film-11-2230668660809165948",
           "category": "Film",
           "label": "Film",
           "headline": "Jeremy Strong Says He Cares What Mark Zuckerberg Thinks About ‘The Social Reckoning’",
@@ -2105,25 +2107,25 @@
           ]
         },
         {
-          "id": "film-23-8285600714778356172",
-          "key": "film-23-8285600714778356172",
+          "id": "film-23-7459949164949995763",
+          "key": "film-23-7459949164949995763",
           "category": "Film",
           "label": "Film",
-          "headline": "Jeremy Strong Says He Doesn’t “Need to Apologize” for Method Acting: “It’s in Service of the Material”",
-          "title": "Jeremy Strong Says He Doesn’t “Need to Apologize” for Method Acting: “It’s in Service of the Material”",
-          "snapshot": "\"I’m just there to commit utterly to serving the material,\" the Oscar nominee said of his approach to acting.",
-          "summary": "\"I’m just there to commit utterly to serving the material,\" the Oscar nominee said of his approach to acting.",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/jeremy-strong-method-acting-never-intention-interfere-1236721716/",
+          "headline": "‘In The Heart of the South’ Director Wants to Change the Narrative For Indigenous Filmmakers: “You’ve Been Telling Our Stories Forever”",
+          "title": "‘In The Heart of the South’ Director Wants to Change the Narrative For Indigenous Filmmakers: “You’ve Been Telling Our Stories Forever”",
+          "snapshot": "Nyla Innuksuk's supernatural thriller, where themes of trauma and tragedy come painfully alive, is screening at the Vancouver Film Festival this week.",
+          "summary": "Nyla Innuksuk's supernatural thriller, where themes of trauma and tragedy come painfully alive, is screening at the Vancouver Film Festival this week.",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/nyla-innuksuk-change-narrative-indigenous-filmmakers-1236721816/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/c/movies/movie-news/feed/",
-          "published_at": "2026-10-03 08:58:57 PM ET",
+          "published_at": "2026-10-04 11:32:07 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 77,
           "key_data": [
-            "Jeremy Strong Says He Doesn’t “Need to Apologize” for Method Acting: “It’s in Service of the Material”"
+            "‘In The Heart of the South’ Director Wants to Change the Narrative For Indigenous Filmmakers: “You’ve Been Telling Our Stories Forever”"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2133,25 +2135,25 @@
           ]
         },
         {
-          "id": "film-33-5532838343224257815",
-          "key": "film-33-5532838343224257815",
+          "id": "film-33-2162674167903345320",
+          "key": "film-33-2162674167903345320",
           "category": "Film",
           "label": "Film",
-          "headline": "Does 'You Can See Everything' live up to the hype? (review) - Mashable",
-          "title": "Does 'You Can See Everything' live up to the hype? (review) - Mashable",
-          "snapshot": "Does 'You Can See Everything' live up to the hype? (review) Mashable",
-          "summary": "Does 'You Can See Everything' live up to the hype? (review) Mashable",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xRmtrMEV4Wk1uVGZhOVRHeF83VzZKZHFrbm5palBmckl3dTV5U0g5UDRHRHBhZGhhZ0FPX2Vkc2dsZDJNN1hsNEg3bjJuYkNYQzRkbUJJM0k1Wk9mdkFjOUxOMWlMX2FYdWQ4NFl1dm0tUQ?oc=5",
+          "headline": "New movies to watch this weekend: See 'Verity' and 'Digger' in theaters, rent or buy 'Coyote vs. Acme,' stream 'Evil Dead Burn' on HBO Max - Yahoo",
+          "title": "New movies to watch this weekend: See 'Verity' and 'Digger' in theaters, rent or buy 'Coyote vs. Acme,' stream 'Evil Dead Burn' on HBO Max - Yahoo",
+          "snapshot": "New movies to watch this weekend: See 'Verity' and 'Digger' in theaters, rent or buy 'Coyote vs. Acme,' stream 'Evil Dead Burn' on HBO Max Yahoo",
+          "summary": "New movies to watch this weekend: See 'Verity' and 'Digger' in theaters, rent or buy 'Coyote vs. Acme,' stream 'Evil Dead Burn' on HBO Max Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNSXJ4M1QxdWdyTDFpYVlWSmR3bk1hdDBtMkdjSExNU193M0dULVl4a3A3SHZ5M3dMWHhZNGFxRDdWdEdGbjdreDdnV0dBaDdqRXVGQkhhN1ExTUhkRjgyZVJmcU9ZYmM4MU8wLUVfNTY5dE92QURLdmJCcE40MGc5dGlRSXZZTU8ybHdKaEFSVGVtYTkxRlVEYnhvRDBJemZmNWpIZ0ZTVFVIaGpPOW9UcDNKMElrZzVaR3lGNWpPd3VUbVpITnRiMnF6dldMVjhuQ3RnRUNuWjloaFE5QlNONFpTdkkyMGRtTGxhQTNLM1JzanRZTy1lSm1kdFdXMTFPN1E2VERVRlN1LWJMaktBRXAxX2t6aEFsVkxvMQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-10-01 04:01:19 PM ET",
+          "published_at": "2026-10-02 09:10:33 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 67,
           "key_data": [
-            "Does 'You Can See Everything' live up to the hype? (review) - Mashable"
+            "New movies to watch this weekend: See 'Verity' and 'Digger' in theaters, rent or buy 'Coyote vs. Acme,' stream 'Evil Dead Burn' on HBO Max - Yahoo"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2161,7 +2163,7 @@
           ]
         }
       ],
-      "updated_at": "2026-10-04 06:57:51 AM ET"
+      "updated_at": "2026-10-04 11:43:52 AM ET"
     },
     {
       "key": "tv",
@@ -2188,8 +2190,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "tv-0-591731238034654411",
-          "key": "tv-0-591731238034654411",
+          "id": "tv-0-6756179986853295488",
+          "key": "tv-0-6756179986853295488",
           "category": "TV",
           "label": "TV",
           "headline": "Pete Hegseth Chugs ‘Spider-Man’s Non-Alcoholic B—- Beer’ in ‘SNL’ Cold Open That Mocks Tom Holland, Mitch McConnell and JD Vance",
@@ -2216,8 +2218,8 @@
           ]
         },
         {
-          "id": "tv-9-2966107843120562857",
-          "key": "tv-9-2966107843120562857",
+          "id": "tv-9-8642484604916534406",
+          "key": "tv-9-8642484604916534406",
           "category": "TV",
           "label": "TV",
           "headline": "‘SNL’s Weekend Update Tackles Cornell Controversy & Return Of ‘Glee’",
@@ -2244,8 +2246,8 @@
           ]
         },
         {
-          "id": "tv-21-2892582187264631328",
-          "key": "tv-21-2892582187264631328",
+          "id": "tv-21-8366565696950416788",
+          "key": "tv-21-8366565696950416788",
           "category": "TV",
           "label": "TV",
           "headline": "Taylor Swift Crashes Dakota Johnson’s ‘Saturday Night Live’ Hosting Stint: “My Literal Therapist!”",
@@ -2272,8 +2274,8 @@
           ]
         },
         {
-          "id": "tv-31-5679038146264159211",
-          "key": "tv-31-5679038146264159211",
+          "id": "tv-31-7684763487854827062",
+          "key": "tv-31-7684763487854827062",
           "category": "TV",
           "label": "TV",
           "headline": "Naomi Bulochnikov-Paul Departing As EVP Communications For Disney Entertainment Television - Deadline",
@@ -2300,8 +2302,8 @@
           ]
         },
         {
-          "id": "tv-1-3099095394823636567",
-          "key": "tv-1-3099095394823636567",
+          "id": "tv-1-7472664301941719683",
+          "key": "tv-1-7472664301941719683",
           "category": "TV",
           "label": "TV",
           "headline": "Taylor Swift Crashes Dakota Johnson’s ‘SNL’ Monologue as Her Breakup Therapist, Shows Travis Kelce Love with Cleveland Shoutout",
@@ -2328,8 +2330,8 @@
           ]
         },
         {
-          "id": "tv-10-3197481339644306958",
-          "key": "tv-10-3197481339644306958",
+          "id": "tv-10-2111454364424689193",
+          "key": "tv-10-2111454364424689193",
           "category": "TV",
           "label": "TV",
           "headline": "‘SNL’ Cold Open Goes Full MAGA Midterms Desperation With Hegseth’s “Schlong Donkeys”, Trump’s Rambles & A Sad VP",
@@ -2356,8 +2358,8 @@
           ]
         },
         {
-          "id": "tv-22-688174894708365280",
-          "key": "tv-22-688174894708365280",
+          "id": "tv-22-4874817520264911963",
+          "key": "tv-22-4874817520264911963",
           "category": "TV",
           "label": "TV",
           "headline": "Jerry Golod, ‘Tales From the Darkside’ Producer, Dies at 87",
@@ -2384,8 +2386,8 @@
           ]
         },
         {
-          "id": "tv-32-6497112791408534821",
-          "key": "tv-32-6497112791408534821",
+          "id": "tv-32-7434064032696084039",
+          "key": "tv-32-7434064032696084039",
           "category": "TV",
           "label": "TV",
           "headline": "Shawn Levy and 21 Laps Entertainment Sign Overall TV Deal With Disney’s 20th Television - TheWrap",
@@ -2414,8 +2416,8 @@
       ],
       "items": [
         {
-          "id": "tv-0-591731238034654411",
-          "key": "tv-0-591731238034654411",
+          "id": "tv-0-6756179986853295488",
+          "key": "tv-0-6756179986853295488",
           "category": "TV",
           "label": "TV",
           "headline": "Pete Hegseth Chugs ‘Spider-Man’s Non-Alcoholic B—- Beer’ in ‘SNL’ Cold Open That Mocks Tom Holland, Mitch McConnell and JD Vance",
@@ -2442,8 +2444,8 @@
           ]
         },
         {
-          "id": "tv-9-2966107843120562857",
-          "key": "tv-9-2966107843120562857",
+          "id": "tv-9-8642484604916534406",
+          "key": "tv-9-8642484604916534406",
           "category": "TV",
           "label": "TV",
           "headline": "‘SNL’s Weekend Update Tackles Cornell Controversy & Return Of ‘Glee’",
@@ -2470,8 +2472,8 @@
           ]
         },
         {
-          "id": "tv-21-2892582187264631328",
-          "key": "tv-21-2892582187264631328",
+          "id": "tv-21-8366565696950416788",
+          "key": "tv-21-8366565696950416788",
           "category": "TV",
           "label": "TV",
           "headline": "Taylor Swift Crashes Dakota Johnson’s ‘Saturday Night Live’ Hosting Stint: “My Literal Therapist!”",
@@ -2498,8 +2500,8 @@
           ]
         },
         {
-          "id": "tv-31-5679038146264159211",
-          "key": "tv-31-5679038146264159211",
+          "id": "tv-31-7684763487854827062",
+          "key": "tv-31-7684763487854827062",
           "category": "TV",
           "label": "TV",
           "headline": "Naomi Bulochnikov-Paul Departing As EVP Communications For Disney Entertainment Television - Deadline",
@@ -2526,8 +2528,8 @@
           ]
         },
         {
-          "id": "tv-1-3099095394823636567",
-          "key": "tv-1-3099095394823636567",
+          "id": "tv-1-7472664301941719683",
+          "key": "tv-1-7472664301941719683",
           "category": "TV",
           "label": "TV",
           "headline": "Taylor Swift Crashes Dakota Johnson’s ‘SNL’ Monologue as Her Breakup Therapist, Shows Travis Kelce Love with Cleveland Shoutout",
@@ -2554,8 +2556,8 @@
           ]
         },
         {
-          "id": "tv-10-3197481339644306958",
-          "key": "tv-10-3197481339644306958",
+          "id": "tv-10-2111454364424689193",
+          "key": "tv-10-2111454364424689193",
           "category": "TV",
           "label": "TV",
           "headline": "‘SNL’ Cold Open Goes Full MAGA Midterms Desperation With Hegseth’s “Schlong Donkeys”, Trump’s Rambles & A Sad VP",
@@ -2582,8 +2584,8 @@
           ]
         },
         {
-          "id": "tv-22-688174894708365280",
-          "key": "tv-22-688174894708365280",
+          "id": "tv-22-4874817520264911963",
+          "key": "tv-22-4874817520264911963",
           "category": "TV",
           "label": "TV",
           "headline": "Jerry Golod, ‘Tales From the Darkside’ Producer, Dies at 87",
@@ -2610,8 +2612,8 @@
           ]
         },
         {
-          "id": "tv-32-6497112791408534821",
-          "key": "tv-32-6497112791408534821",
+          "id": "tv-32-7434064032696084039",
+          "key": "tv-32-7434064032696084039",
           "category": "TV",
           "label": "TV",
           "headline": "Shawn Levy and 21 Laps Entertainment Sign Overall TV Deal With Disney’s 20th Television - TheWrap",
@@ -2638,7 +2640,7 @@
           ]
         }
       ],
-      "updated_at": "2026-10-04 06:57:51 AM ET"
+      "updated_at": "2026-10-04 11:43:54 AM ET"
     },
     {
       "key": "streaming",
@@ -2656,8 +2658,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "streaming-0-389086650078834059",
-          "key": "streaming-0-389086650078834059",
+          "id": "streaming-0-5549796516828811308",
+          "key": "streaming-0-5549796516828811308",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'Toy Story 5' to 'The Love Hypothesis,' 10 movies to stream now - USA Today",
@@ -2684,8 +2686,8 @@
           ]
         },
         {
-          "id": "streaming-1-2894141755724542378",
-          "key": "streaming-1-2894141755724542378",
+          "id": "streaming-1-2532643072862372790",
+          "key": "streaming-1-2532643072862372790",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Hulu and Disney+ price hikes: How the new prices compare to Netflix, Apple TV, HBO Max - Mashable",
@@ -2714,8 +2716,8 @@
       ],
       "items": [
         {
-          "id": "streaming-0-389086650078834059",
-          "key": "streaming-0-389086650078834059",
+          "id": "streaming-0-5549796516828811308",
+          "key": "streaming-0-5549796516828811308",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "From 'Toy Story 5' to 'The Love Hypothesis,' 10 movies to stream now - USA Today",
@@ -2742,8 +2744,8 @@
           ]
         },
         {
-          "id": "streaming-1-2894141755724542378",
-          "key": "streaming-1-2894141755724542378",
+          "id": "streaming-1-2532643072862372790",
+          "key": "streaming-1-2532643072862372790",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Hulu and Disney+ price hikes: How the new prices compare to Netflix, Apple TV, HBO Max - Mashable",
@@ -2770,7 +2772,7 @@
           ]
         }
       ],
-      "updated_at": "2026-10-04 06:57:52 AM ET"
+      "updated_at": "2026-10-04 11:43:54 AM ET"
     },
     {
       "key": "music",
@@ -2781,22 +2783,22 @@
       "key_storylines": [
         "Lawrence Rothman on Their New Album, ‘Here Lives Love/Sawdust to Stardust,’ a Growing Legacy Producing Other Artists, and the Talk with Bowie That Changed Everything",
         "NFL London Game 2026: Where to Watch Indianapolis Colts vs. Washington Commanders Live Online Free",
-        "Looking Ahead: A Release Calendar of Upcoming Albums in 2026 - Billboard",
-        "Zach Bryan Wears ‘Free Palestine’ Shirt While Headlining Robert Kraft’s Gillette Stadium; Drummer Honors Slain Palestinian Girl",
+        "Looking Ahead: A Release Calendar of Upcoming Albums in 2026 - billboard.com",
+        "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
         "Turnstile Make Explosive ‘SNL’ Debut With ‘Birds’ and ‘Never Enough’ Medley"
       ],
       "watch_list": [
         "Lawrence Rothman on Their New Album, ‘Here Lives Love/Sawdust to Stardust,’ a Growing Legacy Producing Other Artists, and the Talk with Bowie That Changed Everything",
         "NFL London Game 2026: Where to Watch Indianapolis Colts vs. Washington Commanders Live Online Free",
-        "Looking Ahead: A Release Calendar of Upcoming Albums in 2026 - Billboard",
-        "Zach Bryan Wears ‘Free Palestine’ Shirt While Headlining Robert Kraft’s Gillette Stadium; Drummer Honors Slain Palestinian Girl",
+        "Looking Ahead: A Release Calendar of Upcoming Albums in 2026 - billboard.com",
+        "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
         "Turnstile Make Explosive ‘SNL’ Debut With ‘Birds’ and ‘Never Enough’ Medley",
         "Ella Langley makes Billboard history - Niagara Frontier Publications"
       ],
       "homepage_cards": [
         {
-          "id": "music-0-4605771077244902647",
-          "key": "music-0-4605771077244902647",
+          "id": "music-0-2012960055633807552",
+          "key": "music-0-2012960055633807552",
           "category": "Music",
           "label": "Music",
           "headline": "Lawrence Rothman on Their New Album, ‘Here Lives Love/Sawdust to Stardust,’ a Growing Legacy Producing Other Artists, and the Talk with Bowie That Changed Everything",
@@ -2823,8 +2825,8 @@
           ]
         },
         {
-          "id": "music-8-3596561938720397035",
-          "key": "music-8-3596561938720397035",
+          "id": "music-8-6011812954587602457",
+          "key": "music-8-6011812954587602457",
           "category": "Music",
           "label": "Music",
           "headline": "NFL London Game 2026: Where to Watch Indianapolis Colts vs. Washington Commanders Live Online Free",
@@ -2851,14 +2853,14 @@
           ]
         },
         {
-          "id": "music-18-6949147823069801544",
-          "key": "music-18-6949147823069801544",
+          "id": "music-18-5873105046679472792",
+          "key": "music-18-5873105046679472792",
           "category": "Music",
           "label": "Music",
-          "headline": "Looking Ahead: A Release Calendar of Upcoming Albums in 2026 - Billboard",
-          "title": "Looking Ahead: A Release Calendar of Upcoming Albums in 2026 - Billboard",
-          "snapshot": "Looking Ahead: A Release Calendar of Upcoming Albums in 2026 Billboard",
-          "summary": "Looking Ahead: A Release Calendar of Upcoming Albums in 2026 Billboard",
+          "headline": "Looking Ahead: A Release Calendar of Upcoming Albums in 2026 - billboard.com",
+          "title": "Looking Ahead: A Release Calendar of Upcoming Albums in 2026 - billboard.com",
+          "snapshot": "Looking Ahead: A Release Calendar of Upcoming Albums in 2026 billboard.com",
+          "summary": "Looking Ahead: A Release Calendar of Upcoming Albums in 2026 billboard.com",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaUE3QVdmSzJFX2JTc3JDdmJNdFVQMEg5UU1ubXBMNmNRZVNMWjJ1OHY1SGo5eGRVajh4bk03cWlaU0Zlc1VNTTY4U1VOcV9rQmNxaE9pVExZX0ZGaWJKMEJtV01sZWVVcTU2Z2ZuUDFWT2ZUMU5fNF9TMVZDcHZGUVhEd0F2S01LdjU0bENISQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -2869,7 +2871,7 @@
           "story_type": "rss_headline",
           "priority_score": 82,
           "key_data": [
-            "Looking Ahead: A Release Calendar of Upcoming Albums in 2026 - Billboard"
+            "Looking Ahead: A Release Calendar of Upcoming Albums in 2026 - billboard.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2879,25 +2881,25 @@
           ]
         },
         {
-          "id": "music-1-8572139844650144885",
-          "key": "music-1-8572139844650144885",
+          "id": "music-1-2881799099326145380",
+          "key": "music-1-2881799099326145380",
           "category": "Music",
           "label": "Music",
-          "headline": "Zach Bryan Wears ‘Free Palestine’ Shirt While Headlining Robert Kraft’s Gillette Stadium; Drummer Honors Slain Palestinian Girl",
-          "title": "Zach Bryan Wears ‘Free Palestine’ Shirt While Headlining Robert Kraft’s Gillette Stadium; Drummer Honors Slain Palestinian Girl",
-          "snapshot": "Macklemore may have been barred from saying “Free Palestine!” at Robert Kraft’s Gillette Stadium — and indeed, from anywhere else on Ed Sheeran’s tour, as that headliner agreed with Kraft that the controversial rapper should be removed from the opening slot on all the shows he was booked for. But it was probably ine...",
-          "summary": "Macklemore may have been barred from saying “Free Palestine!” at Robert Kraft’s Gillette Stadium — and indeed, from anywhere else on Ed Sheeran’s tour, as that headliner agreed with Kraft that the controversial rapper should be removed from the opening slot on all the shows he was booked for. But it was probably ine...",
-          "url": "https://variety.com/2026/music/news/zach-bryan-palestine-shirt-robert-kraft-gillette-stadium-1236898152/",
+          "headline": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
+          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
+          "snapshot": "SPOILER ALERT: This story contains minor spoilers for “Behemoth!” in theaters Dec. 4 Tony Gilroy’s “Behemoth!” bowed at the New York Film Festival Friday, and Lincoln Center’s Tully Hall seemed a fitting place to showcase a film about a musician. Written and directed by Gilroy, the film stars Pedro Pascal as a celli...",
+          "summary": "SPOILER ALERT: This story contains minor spoilers for “Behemoth!” in theaters Dec. 4 Tony Gilroy’s “Behemoth!” bowed at the New York Film Festival Friday, and Lincoln Center’s Tully Hall seemed a fitting place to showcase a film about a musician. Written and directed by Gilroy, the film stars Pedro Pascal as a celli...",
+          "url": "https://variety.com/2026/artisans/news/behemoth-who-are-nine-composers-tony-gilroy-1236893524/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/music/feed/",
-          "published_at": "2026-10-03 12:07:04 PM ET",
+          "published_at": "2026-10-03 01:41:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Zach Bryan Wears ‘Free Palestine’ Shirt While Headlining Robert Kraft’s Gillette Stadium; Drummer Honors Slain Palestinian Girl"
+            "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2907,8 +2909,8 @@
           ]
         },
         {
-          "id": "music-9-6422981508642075030",
-          "key": "music-9-6422981508642075030",
+          "id": "music-9-2815053039040772640",
+          "key": "music-9-2815053039040772640",
           "category": "Music",
           "label": "Music",
           "headline": "Turnstile Make Explosive ‘SNL’ Debut With ‘Birds’ and ‘Never Enough’ Medley",
@@ -2935,8 +2937,8 @@
           ]
         },
         {
-          "id": "music-19-2405962517402829434",
-          "key": "music-19-2405962517402829434",
+          "id": "music-19-5492871915914359535",
+          "key": "music-19-5492871915914359535",
           "category": "Music",
           "label": "Music",
           "headline": "Ella Langley makes Billboard history - Niagara Frontier Publications",
@@ -2965,8 +2967,8 @@
       ],
       "items": [
         {
-          "id": "music-0-4605771077244902647",
-          "key": "music-0-4605771077244902647",
+          "id": "music-0-2012960055633807552",
+          "key": "music-0-2012960055633807552",
           "category": "Music",
           "label": "Music",
           "headline": "Lawrence Rothman on Their New Album, ‘Here Lives Love/Sawdust to Stardust,’ a Growing Legacy Producing Other Artists, and the Talk with Bowie That Changed Everything",
@@ -2993,8 +2995,8 @@
           ]
         },
         {
-          "id": "music-8-3596561938720397035",
-          "key": "music-8-3596561938720397035",
+          "id": "music-8-6011812954587602457",
+          "key": "music-8-6011812954587602457",
           "category": "Music",
           "label": "Music",
           "headline": "NFL London Game 2026: Where to Watch Indianapolis Colts vs. Washington Commanders Live Online Free",
@@ -3021,14 +3023,14 @@
           ]
         },
         {
-          "id": "music-18-6949147823069801544",
-          "key": "music-18-6949147823069801544",
+          "id": "music-18-5873105046679472792",
+          "key": "music-18-5873105046679472792",
           "category": "Music",
           "label": "Music",
-          "headline": "Looking Ahead: A Release Calendar of Upcoming Albums in 2026 - Billboard",
-          "title": "Looking Ahead: A Release Calendar of Upcoming Albums in 2026 - Billboard",
-          "snapshot": "Looking Ahead: A Release Calendar of Upcoming Albums in 2026 Billboard",
-          "summary": "Looking Ahead: A Release Calendar of Upcoming Albums in 2026 Billboard",
+          "headline": "Looking Ahead: A Release Calendar of Upcoming Albums in 2026 - billboard.com",
+          "title": "Looking Ahead: A Release Calendar of Upcoming Albums in 2026 - billboard.com",
+          "snapshot": "Looking Ahead: A Release Calendar of Upcoming Albums in 2026 billboard.com",
+          "summary": "Looking Ahead: A Release Calendar of Upcoming Albums in 2026 billboard.com",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaUE3QVdmSzJFX2JTc3JDdmJNdFVQMEg5UU1ubXBMNmNRZVNMWjJ1OHY1SGo5eGRVajh4bk03cWlaU0Zlc1VNTTY4U1VOcV9rQmNxaE9pVExZX0ZGaWJKMEJtV01sZWVVcTU2Z2ZuUDFWT2ZUMU5fNF9TMVZDcHZGUVhEd0F2S01LdjU0bENISQ?oc=5",
           "source": "Google News",
           "source_name": "Google News",
@@ -3039,7 +3041,7 @@
           "story_type": "rss_headline",
           "priority_score": 82,
           "key_data": [
-            "Looking Ahead: A Release Calendar of Upcoming Albums in 2026 - Billboard"
+            "Looking Ahead: A Release Calendar of Upcoming Albums in 2026 - billboard.com"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3049,25 +3051,25 @@
           ]
         },
         {
-          "id": "music-1-8572139844650144885",
-          "key": "music-1-8572139844650144885",
+          "id": "music-1-2881799099326145380",
+          "key": "music-1-2881799099326145380",
           "category": "Music",
           "label": "Music",
-          "headline": "Zach Bryan Wears ‘Free Palestine’ Shirt While Headlining Robert Kraft’s Gillette Stadium; Drummer Honors Slain Palestinian Girl",
-          "title": "Zach Bryan Wears ‘Free Palestine’ Shirt While Headlining Robert Kraft’s Gillette Stadium; Drummer Honors Slain Palestinian Girl",
-          "snapshot": "Macklemore may have been barred from saying “Free Palestine!” at Robert Kraft’s Gillette Stadium — and indeed, from anywhere else on Ed Sheeran’s tour, as that headliner agreed with Kraft that the controversial rapper should be removed from the opening slot on all the shows he was booked for. But it was probably ine...",
-          "summary": "Macklemore may have been barred from saying “Free Palestine!” at Robert Kraft’s Gillette Stadium — and indeed, from anywhere else on Ed Sheeran’s tour, as that headliner agreed with Kraft that the controversial rapper should be removed from the opening slot on all the shows he was booked for. But it was probably ine...",
-          "url": "https://variety.com/2026/music/news/zach-bryan-palestine-shirt-robert-kraft-gillette-stadium-1236898152/",
+          "headline": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
+          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
+          "snapshot": "SPOILER ALERT: This story contains minor spoilers for “Behemoth!” in theaters Dec. 4 Tony Gilroy’s “Behemoth!” bowed at the New York Film Festival Friday, and Lincoln Center’s Tully Hall seemed a fitting place to showcase a film about a musician. Written and directed by Gilroy, the film stars Pedro Pascal as a celli...",
+          "summary": "SPOILER ALERT: This story contains minor spoilers for “Behemoth!” in theaters Dec. 4 Tony Gilroy’s “Behemoth!” bowed at the New York Film Festival Friday, and Lincoln Center’s Tully Hall seemed a fitting place to showcase a film about a musician. Written and directed by Gilroy, the film stars Pedro Pascal as a celli...",
+          "url": "https://variety.com/2026/artisans/news/behemoth-who-are-nine-composers-tony-gilroy-1236893524/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/music/feed/",
-          "published_at": "2026-10-03 12:07:04 PM ET",
+          "published_at": "2026-10-03 01:41:00 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Zach Bryan Wears ‘Free Palestine’ Shirt While Headlining Robert Kraft’s Gillette Stadium; Drummer Honors Slain Palestinian Girl"
+            "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3077,8 +3079,8 @@
           ]
         },
         {
-          "id": "music-9-6422981508642075030",
-          "key": "music-9-6422981508642075030",
+          "id": "music-9-2815053039040772640",
+          "key": "music-9-2815053039040772640",
           "category": "Music",
           "label": "Music",
           "headline": "Turnstile Make Explosive ‘SNL’ Debut With ‘Birds’ and ‘Never Enough’ Medley",
@@ -3105,8 +3107,8 @@
           ]
         },
         {
-          "id": "music-19-2405962517402829434",
-          "key": "music-19-2405962517402829434",
+          "id": "music-19-5492871915914359535",
+          "key": "music-19-5492871915914359535",
           "category": "Music",
           "label": "Music",
           "headline": "Ella Langley makes Billboard history - Niagara Frontier Publications",
@@ -3133,7 +3135,7 @@
           ]
         }
       ],
-      "updated_at": "2026-10-04 06:57:53 AM ET"
+      "updated_at": "2026-10-04 11:43:55 AM ET"
     },
     {
       "key": "awards",
@@ -3155,8 +3157,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "awards-0-122903208625071501",
-          "key": "awards-0-122903208625071501",
+          "id": "awards-0-7301458262389359593",
+          "key": "awards-0-7301458262389359593",
           "category": "Awards",
           "label": "Awards",
           "headline": "Michael Jackson and Madonna Choreographer Vincent Paterson to Be Honored at World Choreography Awards",
@@ -3183,8 +3185,8 @@
           ]
         },
         {
-          "id": "awards-9-1473259499517228648",
-          "key": "awards-9-1473259499517228648",
+          "id": "awards-9-4614490061223557026",
+          "key": "awards-9-4614490061223557026",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar - Deadline",
@@ -3211,8 +3213,8 @@
           ]
         },
         {
-          "id": "awards-1-4794710153450479460",
-          "key": "awards-1-4794710153450479460",
+          "id": "awards-1-4289971961582699787",
+          "key": "awards-1-4289971961582699787",
           "category": "Awards",
           "label": "Awards",
           "headline": "‘La Bola Negra’ Star Guitarricadelafuente to Receive Discovery Award at SCAD Savannah Film Festival (EXCLUSIVE)",
@@ -3239,8 +3241,8 @@
           ]
         },
         {
-          "id": "awards-10-2046044220871058787",
-          "key": "awards-10-2046044220871058787",
+          "id": "awards-10-8094659613089936025",
+          "key": "awards-10-8094659613089936025",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo",
@@ -3269,8 +3271,8 @@
       ],
       "items": [
         {
-          "id": "awards-0-122903208625071501",
-          "key": "awards-0-122903208625071501",
+          "id": "awards-0-7301458262389359593",
+          "key": "awards-0-7301458262389359593",
           "category": "Awards",
           "label": "Awards",
           "headline": "Michael Jackson and Madonna Choreographer Vincent Paterson to Be Honored at World Choreography Awards",
@@ -3297,8 +3299,8 @@
           ]
         },
         {
-          "id": "awards-9-1473259499517228648",
-          "key": "awards-9-1473259499517228648",
+          "id": "awards-9-4614490061223557026",
+          "key": "awards-9-4614490061223557026",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar - Deadline",
@@ -3325,8 +3327,8 @@
           ]
         },
         {
-          "id": "awards-1-4794710153450479460",
-          "key": "awards-1-4794710153450479460",
+          "id": "awards-1-4289971961582699787",
+          "key": "awards-1-4289971961582699787",
           "category": "Awards",
           "label": "Awards",
           "headline": "‘La Bola Negra’ Star Guitarricadelafuente to Receive Discovery Award at SCAD Savannah Film Festival (EXCLUSIVE)",
@@ -3353,8 +3355,8 @@
           ]
         },
         {
-          "id": "awards-10-2046044220871058787",
-          "key": "awards-10-2046044220871058787",
+          "id": "awards-10-8094659613089936025",
+          "key": "awards-10-8094659613089936025",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar: Oscars, Emmys, Grammys, Guilds & More - Yahoo",
@@ -3381,7 +3383,7 @@
           ]
         }
       ],
-      "updated_at": "2026-10-04 06:57:53 AM ET"
+      "updated_at": "2026-10-04 11:43:56 AM ET"
     },
     {
       "key": "box_office",
@@ -3403,8 +3405,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "box_office-0-7473799223666027030",
-          "key": "box_office-0-7473799223666027030",
+          "id": "box_office-0-7193148659212575053",
+          "key": "box_office-0-7193148659212575053",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘Digger’ Nosediving With $3.4 Million on Opening Day, ‘Verity’ Lands at No. 1 With $15.1 Million on Friday",
@@ -3431,8 +3433,8 @@
           ]
         },
         {
-          "id": "box_office-10-8012260374794838554",
-          "key": "box_office-10-8012260374794838554",
+          "id": "box_office-9-8790593187874076269",
+          "key": "box_office-9-8790593187874076269",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Digger’ Unearths $1.2M in Box Office Previews Amid Warner Bros.’ Leadership Shake-Up - The Hollywood Reporter",
@@ -3447,7 +3449,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 90,
+          "priority_score": 91,
           "key_data": [
             "‘Digger’ Unearths $1.2M in Box Office Previews Amid Warner Bros.’ Leadership Shake-Up - The Hollywood Reporter"
           ],
@@ -3459,8 +3461,8 @@
           ]
         },
         {
-          "id": "box_office-1-6698972674795084495",
-          "key": "box_office-1-6698972674795084495",
+          "id": "box_office-1-7977578664429640292",
+          "key": "box_office-1-7977578664429640292",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘Verity’ Makes $4.5 Million in Previews, ‘Digger’ Behind With $1.2 Million",
@@ -3487,8 +3489,8 @@
           ]
         },
         {
-          "id": "box_office-11-2037245016817598327",
-          "key": "box_office-11-2037245016817598327",
+          "id": "box_office-10-8667288971240968943",
+          "key": "box_office-10-8667288971240968943",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Why Is Tom Cruise’s ‘Digger’ Facing Such a Bumpy Box Office Road? - The Hollywood Reporter",
@@ -3503,7 +3505,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 89,
+          "priority_score": 90,
           "key_data": [
             "Why Is Tom Cruise’s ‘Digger’ Facing Such a Bumpy Box Office Road? - The Hollywood Reporter"
           ],
@@ -3517,8 +3519,8 @@
       ],
       "items": [
         {
-          "id": "box_office-0-7473799223666027030",
-          "key": "box_office-0-7473799223666027030",
+          "id": "box_office-0-7193148659212575053",
+          "key": "box_office-0-7193148659212575053",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘Digger’ Nosediving With $3.4 Million on Opening Day, ‘Verity’ Lands at No. 1 With $15.1 Million on Friday",
@@ -3545,8 +3547,8 @@
           ]
         },
         {
-          "id": "box_office-10-8012260374794838554",
-          "key": "box_office-10-8012260374794838554",
+          "id": "box_office-9-8790593187874076269",
+          "key": "box_office-9-8790593187874076269",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Digger’ Unearths $1.2M in Box Office Previews Amid Warner Bros.’ Leadership Shake-Up - The Hollywood Reporter",
@@ -3561,7 +3563,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 90,
+          "priority_score": 91,
           "key_data": [
             "‘Digger’ Unearths $1.2M in Box Office Previews Amid Warner Bros.’ Leadership Shake-Up - The Hollywood Reporter"
           ],
@@ -3573,8 +3575,8 @@
           ]
         },
         {
-          "id": "box_office-1-6698972674795084495",
-          "key": "box_office-1-6698972674795084495",
+          "id": "box_office-1-7977578664429640292",
+          "key": "box_office-1-7977578664429640292",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘Verity’ Makes $4.5 Million in Previews, ‘Digger’ Behind With $1.2 Million",
@@ -3601,8 +3603,8 @@
           ]
         },
         {
-          "id": "box_office-11-2037245016817598327",
-          "key": "box_office-11-2037245016817598327",
+          "id": "box_office-10-8667288971240968943",
+          "key": "box_office-10-8667288971240968943",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Why Is Tom Cruise’s ‘Digger’ Facing Such a Bumpy Box Office Road? - The Hollywood Reporter",
@@ -3617,7 +3619,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 89,
+          "priority_score": 90,
           "key_data": [
             "Why Is Tom Cruise’s ‘Digger’ Facing Such a Bumpy Box Office Road? - The Hollywood Reporter"
           ],
@@ -3629,7 +3631,7 @@
           ]
         }
       ],
-      "updated_at": "2026-10-04 06:57:54 AM ET"
+      "updated_at": "2026-10-04 11:43:57 AM ET"
     },
     {
       "key": "celebrity",
@@ -3639,16 +3641,16 @@
       "snapshot": "Celebrity coverage is updating with 2 current RSS headline item(s).",
       "key_storylines": [
         "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
-        "Celebrity Splits of 2026: Kristi Noem, Bryon Noem and More Duos Who Broke Up This Year - Us Weekly"
+        "Eva Marcille’s Weight Loss: 5 Fitness and Lifestyle Tips Behind Her Reported 15-Pound Transformation - 大分トリニータオフィシャルサイト"
       ],
       "watch_list": [
         "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
-        "Celebrity Splits of 2026: Kristi Noem, Bryon Noem and More Duos Who Broke Up This Year - Us Weekly"
+        "Eva Marcille’s Weight Loss: 5 Fitness and Lifestyle Tips Behind Her Reported 15-Pound Transformation - 大分トリニータオフィシャルサイト"
       ],
       "homepage_cards": [
         {
-          "id": "celebrity-0-1730730033495863144",
-          "key": "celebrity-0-1730730033495863144",
+          "id": "celebrity-0-8612944623729171134",
+          "key": "celebrity-0-8612944623729171134",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3675,25 +3677,25 @@
           ]
         },
         {
-          "id": "celebrity-1-2225741996806143906",
-          "key": "celebrity-1-2225741996806143906",
+          "id": "celebrity-1-6480757012684061880",
+          "key": "celebrity-1-6480757012684061880",
           "category": "Celebrity",
           "label": "Celebrity",
-          "headline": "Celebrity Splits of 2026: Kristi Noem, Bryon Noem and More Duos Who Broke Up This Year - Us Weekly",
-          "title": "Celebrity Splits of 2026: Kristi Noem, Bryon Noem and More Duos Who Broke Up This Year - Us Weekly",
-          "snapshot": "Celebrity Splits of 2026: Kristi Noem, Bryon Noem and More Duos Who Broke Up This Year Us Weekly",
-          "summary": "Celebrity Splits of 2026: Kristi Noem, Bryon Noem and More Duos Who Broke Up This Year Us Weekly",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeEg1REU2QkVnLTVmUERlckVvNWVHNjhnUmFjelBnbkdsalR5STVvQ29mM3dkcmVKRUxpQmItREREQ2sycm04REx6SjhrS1ktZHNYRXh0cTIwazVSWmduVzg0a3lhV0FHZVBrTjFXQnFUbkNTV09qUEhxU0pJamE0ZmppTFNsbkV6TmxITDg1Yk1qd25TZmMxTlFzM2FSMXFRUUtfSV9tY1JzSl9RNUZ5Ti1OZ0c?oc=5",
+          "headline": "Eva Marcille’s Weight Loss: 5 Fitness and Lifestyle Tips Behind Her Reported 15-Pound Transformation - 大分トリニータオフィシャルサイト",
+          "title": "Eva Marcille’s Weight Loss: 5 Fitness and Lifestyle Tips Behind Her Reported 15-Pound Transformation - 大分トリニータオフィシャルサイト",
+          "snapshot": "Eva Marcille’s Weight Loss: 5 Fitness and Lifestyle Tips Behind Her Reported 15-Pound Transformation 大分トリニータオフィシャルサイト",
+          "summary": "Eva Marcille’s Weight Loss: 5 Fitness and Lifestyle Tips Behind Her Reported 15-Pound Transformation 大分トリニータオフィシャルサイト",
+          "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQYk5fekNzVE0wbXlTdkZXajBmWS1ZTjNPNFU4YnU0ZFVjeTFlWU5McHRaVkNQaklqSFh1c3JCcU1sb0puc3psRElReXVTdGcxUjFDRmpCemxxLXBHWmk4UlJDR3VDR08yWVdBaE1WNU5RLWJUY2JLX2Z5UmRsanptOUpmQ1l4NnNLakRLUXBPMU5LYkdOSHgyejQ1UXJuNTRBc296c2VXMWNCbkhidkNmaFUtQVZFdHczNUkyMnBSeW12b3Z0dXc5Q3oyQmF6S3l2WFZ4MXNCaWxWRm1FNXZ4eUZqWmIxM2xlTDlQclhLOFJYQ0xyYmJMMXNIVHpNZkEyT24tcU9RbHdNNXZlZEpCdEpQc0dad3pPUHJRcGZxdzFVbnFYbmwzTmhhRlNyb2QtSTNKOGpVaERkWVhUeWJQWjRKR011OW5iQTYtUTJCY215THVhRU9NS3k2RnFBcHh3ZVNwZEE5YWM?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-09-29 03:00:00 AM ET",
+          "published_at": "2026-10-04 09:27:34 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Celebrity Splits of 2026: Kristi Noem, Bryon Noem and More Duos Who Broke Up This Year - Us Weekly"
+            "Eva Marcille’s Weight Loss: 5 Fitness and Lifestyle Tips Behind Her Reported 15-Pound Transformation - 大分トリニータオフィシャルサイト"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3705,8 +3707,8 @@
       ],
       "items": [
         {
-          "id": "celebrity-0-1730730033495863144",
-          "key": "celebrity-0-1730730033495863144",
+          "id": "celebrity-0-8612944623729171134",
+          "key": "celebrity-0-8612944623729171134",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3733,25 +3735,25 @@
           ]
         },
         {
-          "id": "celebrity-1-2225741996806143906",
-          "key": "celebrity-1-2225741996806143906",
+          "id": "celebrity-1-6480757012684061880",
+          "key": "celebrity-1-6480757012684061880",
           "category": "Celebrity",
           "label": "Celebrity",
-          "headline": "Celebrity Splits of 2026: Kristi Noem, Bryon Noem and More Duos Who Broke Up This Year - Us Weekly",
-          "title": "Celebrity Splits of 2026: Kristi Noem, Bryon Noem and More Duos Who Broke Up This Year - Us Weekly",
-          "snapshot": "Celebrity Splits of 2026: Kristi Noem, Bryon Noem and More Duos Who Broke Up This Year Us Weekly",
-          "summary": "Celebrity Splits of 2026: Kristi Noem, Bryon Noem and More Duos Who Broke Up This Year Us Weekly",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeEg1REU2QkVnLTVmUERlckVvNWVHNjhnUmFjelBnbkdsalR5STVvQ29mM3dkcmVKRUxpQmItREREQ2sycm04REx6SjhrS1ktZHNYRXh0cTIwazVSWmduVzg0a3lhV0FHZVBrTjFXQnFUbkNTV09qUEhxU0pJamE0ZmppTFNsbkV6TmxITDg1Yk1qd25TZmMxTlFzM2FSMXFRUUtfSV9tY1JzSl9RNUZ5Ti1OZ0c?oc=5",
+          "headline": "Eva Marcille’s Weight Loss: 5 Fitness and Lifestyle Tips Behind Her Reported 15-Pound Transformation - 大分トリニータオフィシャルサイト",
+          "title": "Eva Marcille’s Weight Loss: 5 Fitness and Lifestyle Tips Behind Her Reported 15-Pound Transformation - 大分トリニータオフィシャルサイト",
+          "snapshot": "Eva Marcille’s Weight Loss: 5 Fitness and Lifestyle Tips Behind Her Reported 15-Pound Transformation 大分トリニータオフィシャルサイト",
+          "summary": "Eva Marcille’s Weight Loss: 5 Fitness and Lifestyle Tips Behind Her Reported 15-Pound Transformation 大分トリニータオフィシャルサイト",
+          "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQYk5fekNzVE0wbXlTdkZXajBmWS1ZTjNPNFU4YnU0ZFVjeTFlWU5McHRaVkNQaklqSFh1c3JCcU1sb0puc3psRElReXVTdGcxUjFDRmpCemxxLXBHWmk4UlJDR3VDR08yWVdBaE1WNU5RLWJUY2JLX2Z5UmRsanptOUpmQ1l4NnNLakRLUXBPMU5LYkdOSHgyejQ1UXJuNTRBc296c2VXMWNCbkhidkNmaFUtQVZFdHczNUkyMnBSeW12b3Z0dXc5Q3oyQmF6S3l2WFZ4MXNCaWxWRm1FNXZ4eUZqWmIxM2xlTDlQclhLOFJYQ0xyYmJMMXNIVHpNZkEyT24tcU9RbHdNNXZlZEpCdEpQc0dad3pPUHJRcGZxdzFVbnFYbmwzTmhhRlNyb2QtSTNKOGpVaERkWVhUeWJQWjRKR011OW5iQTYtUTJCY215THVhRU9NS3k2RnFBcHh3ZVNwZEE5YWM?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=celebrity+entertainment+news&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-09-29 03:00:00 AM ET",
+          "published_at": "2026-10-04 09:27:34 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Celebrity Splits of 2026: Kristi Noem, Bryon Noem and More Duos Who Broke Up This Year - Us Weekly"
+            "Eva Marcille’s Weight Loss: 5 Fitness and Lifestyle Tips Behind Her Reported 15-Pound Transformation - 大分トリニータオフィシャルサイト"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3761,49 +3763,51 @@
           ]
         }
       ],
-      "updated_at": "2026-10-04 06:57:54 AM ET"
+      "updated_at": "2026-10-04 11:43:57 AM ET"
     },
     {
       "key": "hollywood",
       "name": "Hollywood",
       "title": "Hollywood Report",
-      "headline": "‘RuneScape’-Inspired Animation Series in the Works From Lyrical Animation and Jagex",
-      "snapshot": "Hollywood coverage is updating with 5 current RSS headline item(s).",
+      "headline": "DIRECTV MySports Genre Pack With ESPN Unlimited Plan and NFL RedZone Just $49 for First Month, Ahead of MLB Playoffs, NHL and NBA Seasons",
+      "snapshot": "Hollywood coverage is updating with 7 current RSS headline item(s).",
       "key_storylines": [
-        "‘RuneScape’-Inspired Animation Series in the Works From Lyrical Animation and Jagex",
+        "DIRECTV MySports Genre Pack With ESPN Unlimited Plan and NFL RedZone Just $49 for First Month, Ahead of MLB Playoffs, NHL and NBA Seasons",
+        "‘Verity’ Solid $32M+ Start; ‘Digger’ At $8M Is Tom Cruise’s Lowest Opening In 19 Years; Both Pics Get C+ CinemaScores – Sunday Update",
         "‘A Statement’ Review: A Top Ensemble Including Paul Rudd, Amy Ryan and John Turturro Breathes Surprising Vitality Into Dry Docu-Drama",
         "Studio bets $450 million on stacked soundstages, sky bungalows to woo production back to Hollywood - Los Angeles Times",
-        "Florence Pugh on How Zoe Kazan ‘East of Eden’ Collaboration Helped Boost Her Confidence",
-        "Donna Langley on Landing Hollywood’s Heaviest Hitters, from Taylor Sheridan to Christopher Nolan - The Hollywood Reporter"
+        "‘Avengers: Endgame’ Overtakes ‘Avatar’ Again As Highest Grossing Movie Ever At Global Box Office"
       ],
       "watch_list": [
-        "‘RuneScape’-Inspired Animation Series in the Works From Lyrical Animation and Jagex",
+        "DIRECTV MySports Genre Pack With ESPN Unlimited Plan and NFL RedZone Just $49 for First Month, Ahead of MLB Playoffs, NHL and NBA Seasons",
+        "‘Verity’ Solid $32M+ Start; ‘Digger’ At $8M Is Tom Cruise’s Lowest Opening In 19 Years; Both Pics Get C+ CinemaScores – Sunday Update",
         "‘A Statement’ Review: A Top Ensemble Including Paul Rudd, Amy Ryan and John Turturro Breathes Surprising Vitality Into Dry Docu-Drama",
         "Studio bets $450 million on stacked soundstages, sky bungalows to woo production back to Hollywood - Los Angeles Times",
+        "‘Avengers: Endgame’ Overtakes ‘Avatar’ Again As Highest Grossing Movie Ever At Global Box Office",
         "Florence Pugh on How Zoe Kazan ‘East of Eden’ Collaboration Helped Boost Her Confidence",
         "Donna Langley on Landing Hollywood’s Heaviest Hitters, from Taylor Sheridan to Christopher Nolan - The Hollywood Reporter"
       ],
       "homepage_cards": [
         {
-          "id": "hollywood-0-8964632924705507492",
-          "key": "hollywood-0-8964632924705507492",
+          "id": "hollywood-0-430697995340627224",
+          "key": "hollywood-0-430697995340627224",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "‘RuneScape’-Inspired Animation Series in the Works From Lyrical Animation and Jagex",
-          "title": "‘RuneScape’-Inspired Animation Series in the Works From Lyrical Animation and Jagex",
-          "snapshot": "Lyrical Animation is developing a new animation series based on “RuneScape” in partnership with creator Charlie “MoistCr1TiKaL” White and game developer Jagex, the company’s CEO Jon Bellamy announced on stage at RuneFest in Birmingham, UK, on Saturday. The project will bring the world of Gielinor to the screen, and...",
-          "summary": "Lyrical Animation is developing a new animation series based on “RuneScape” in partnership with creator Charlie “MoistCr1TiKaL” White and game developer Jagex, the company’s CEO Jon Bellamy announced on stage at RuneFest in Birmingham, UK, on Saturday. The project will bring the world of Gielinor to the screen, and...",
-          "url": "https://variety.com/2026/gaming/news/runescape-animation-series-lyrical-animation-jagex-1236898308/",
+          "headline": "DIRECTV MySports Genre Pack With ESPN Unlimited Plan and NFL RedZone Just $49 for First Month, Ahead of MLB Playoffs, NHL and NBA Seasons",
+          "title": "DIRECTV MySports Genre Pack With ESPN Unlimited Plan and NFL RedZone Just $49 for First Month, Ahead of MLB Playoffs, NHL and NBA Seasons",
+          "snapshot": "DIRECTV is making a play for sports fans just as the fall calendar hits its busiest stretch, rolling out a discount on its sports-focused streaming pack that bundles ESPN Unlimited Plan, NFL RedZone from NFL Network and dozens of other live sports channels. The streamer’s MySports Genre Pack is currently discounted...",
+          "summary": "DIRECTV is making a play for sports fans just as the fall calendar hits its busiest stretch, rolling out a discount on its sports-focused streaming pack that bundles ESPN Unlimited Plan, NFL RedZone from NFL Network and dozens of other live sports channels. The streamer’s MySports Genre Pack is currently discounted...",
+          "url": "https://variety.com/2026/shopping/news/directv-mysports-genre-pack-espn-unlimited-nfl-redzone-deal-1236895964/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/feed/",
-          "published_at": "2026-10-03 05:00:00 PM ET",
+          "published_at": "2026-10-04 11:08:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "‘RuneScape’-Inspired Animation Series in the Works From Lyrical Animation and Jagex"
+            "DIRECTV MySports Genre Pack With ESPN Unlimited Plan and NFL RedZone Just $49 for First Month, Ahead of MLB Playoffs, NHL and NBA Seasons"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3813,8 +3817,36 @@
           ]
         },
         {
-          "id": "hollywood-1-2122976425497686996",
-          "key": "hollywood-1-2122976425497686996",
+          "id": "hollywood-1-8885764807494776044",
+          "key": "hollywood-1-8885764807494776044",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "‘Verity’ Solid $32M+ Start; ‘Digger’ At $8M Is Tom Cruise’s Lowest Opening In 19 Years; Both Pics Get C+ CinemaScores – Sunday Update",
+          "title": "‘Verity’ Solid $32M+ Start; ‘Digger’ At $8M Is Tom Cruise’s Lowest Opening In 19 Years; Both Pics Get C+ CinemaScores – Sunday Update",
+          "snapshot": "SUNDAY AM WRITETHRU: After Saturday update, refresh for more analysis and chart…Warner Bros’ very original, very expensive auteur feature, Digger, opened to $8M, which is still the lowest for Tom Cruise since 2007’s much cheaper Lions for Lambs at $6.7M. All in global start is an awful $12M worldwide. I mean, the se...",
+          "summary": "SUNDAY AM WRITETHRU: After Saturday update, refresh for more analysis and chart…Warner Bros’ very original, very expensive auteur feature, Digger, opened to $8M, which is still the lowest for Tom Cruise since 2007’s much cheaper Lions for Lambs at $6.7M. All in global start is an awful $12M worldwide. I mean, the se...",
+          "url": "https://deadline.com/2026/10/box-office-verity-digger-1237145435/",
+          "source": "Deadline",
+          "source_name": "Deadline",
+          "source_feed": "https://deadline.com/feed/",
+          "published_at": "2026-10-04 11:23:00 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 99,
+          "key_data": [
+            "‘Verity’ Solid $32M+ Start; ‘Digger’ At $8M Is Tom Cruise’s Lowest Opening In 19 Years; Both Pics Get C+ CinemaScores – Sunday Update"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-3-2633599429870030642",
+          "key": "hollywood-3-2633599429870030642",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘A Statement’ Review: A Top Ensemble Including Paul Rudd, Amy Ryan and John Turturro Breathes Surprising Vitality Into Dry Docu-Drama",
@@ -3829,7 +3861,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 99,
+          "priority_score": 97,
           "key_data": [
             "‘A Statement’ Review: A Top Ensemble Including Paul Rudd, Amy Ryan and John Turturro Breathes Surprising Vitality Into Dry Docu-Drama"
           ],
@@ -3841,8 +3873,8 @@
           ]
         },
         {
-          "id": "hollywood-4-3121361091106412444",
-          "key": "hollywood-4-3121361091106412444",
+          "id": "hollywood-6-6095037074828996992",
+          "key": "hollywood-6-6095037074828996992",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Studio bets $450 million on stacked soundstages, sky bungalows to woo production back to Hollywood - Los Angeles Times",
@@ -3857,7 +3889,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 96,
+          "priority_score": 94,
           "key_data": [
             "Studio bets $450 million on stacked soundstages, sky bungalows to woo production back to Hollywood - Los Angeles Times"
           ],
@@ -3869,8 +3901,36 @@
           ]
         },
         {
-          "id": "hollywood-2-4759463278653902615",
-          "key": "hollywood-2-4759463278653902615",
+          "id": "hollywood-2-5173063494948259886",
+          "key": "hollywood-2-5173063494948259886",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "‘Avengers: Endgame’ Overtakes ‘Avatar’ Again As Highest Grossing Movie Ever At Global Box Office",
+          "title": "‘Avengers: Endgame’ Overtakes ‘Avatar’ Again As Highest Grossing Movie Ever At Global Box Office",
+          "snapshot": "Disney/Marvel Studio’s Avengers: Endgame is once again, the highest grossing movie ever, overtaking Avatar, $2.9255 billion to the latter’s $2.9237 billion. This is all due to the re-release of the Anthony and Joe Russo directed movie in the tee-up to their Avengers: Doomsday upside down multiverse movie on Dec. 18....",
+          "summary": "Disney/Marvel Studio’s Avengers: Endgame is once again, the highest grossing movie ever, overtaking Avatar, $2.9255 billion to the latter’s $2.9237 billion. This is all due to the re-release of the Anthony and Joe Russo directed movie in the tee-up to their Avengers: Doomsday upside down multiverse movie on Dec. 18....",
+          "url": "https://deadline.com/2026/10/box-office-avengers-endgame-avatar-record-1237146168/",
+          "source": "Deadline",
+          "source_name": "Deadline",
+          "source_feed": "https://deadline.com/feed/",
+          "published_at": "2026-10-04 11:11:23 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 98,
+          "key_data": [
+            "‘Avengers: Endgame’ Overtakes ‘Avatar’ Again As Highest Grossing Movie Ever At Global Box Office"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-4-8012863950815783564",
+          "key": "hollywood-4-8012863950815783564",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Florence Pugh on How Zoe Kazan ‘East of Eden’ Collaboration Helped Boost Her Confidence",
@@ -3885,7 +3945,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 98,
+          "priority_score": 96,
           "key_data": [
             "Florence Pugh on How Zoe Kazan ‘East of Eden’ Collaboration Helped Boost Her Confidence"
           ],
@@ -3897,8 +3957,8 @@
           ]
         },
         {
-          "id": "hollywood-5-511410146002667558",
-          "key": "hollywood-5-511410146002667558",
+          "id": "hollywood-7-3554372639413492856",
+          "key": "hollywood-7-3554372639413492856",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Donna Langley on Landing Hollywood’s Heaviest Hitters, from Taylor Sheridan to Christopher Nolan - The Hollywood Reporter",
@@ -3913,7 +3973,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 95,
+          "priority_score": 93,
           "key_data": [
             "Donna Langley on Landing Hollywood’s Heaviest Hitters, from Taylor Sheridan to Christopher Nolan - The Hollywood Reporter"
           ],
@@ -3927,25 +3987,25 @@
       ],
       "items": [
         {
-          "id": "hollywood-0-8964632924705507492",
-          "key": "hollywood-0-8964632924705507492",
+          "id": "hollywood-0-430697995340627224",
+          "key": "hollywood-0-430697995340627224",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "‘RuneScape’-Inspired Animation Series in the Works From Lyrical Animation and Jagex",
-          "title": "‘RuneScape’-Inspired Animation Series in the Works From Lyrical Animation and Jagex",
-          "snapshot": "Lyrical Animation is developing a new animation series based on “RuneScape” in partnership with creator Charlie “MoistCr1TiKaL” White and game developer Jagex, the company’s CEO Jon Bellamy announced on stage at RuneFest in Birmingham, UK, on Saturday. The project will bring the world of Gielinor to the screen, and...",
-          "summary": "Lyrical Animation is developing a new animation series based on “RuneScape” in partnership with creator Charlie “MoistCr1TiKaL” White and game developer Jagex, the company’s CEO Jon Bellamy announced on stage at RuneFest in Birmingham, UK, on Saturday. The project will bring the world of Gielinor to the screen, and...",
-          "url": "https://variety.com/2026/gaming/news/runescape-animation-series-lyrical-animation-jagex-1236898308/",
+          "headline": "DIRECTV MySports Genre Pack With ESPN Unlimited Plan and NFL RedZone Just $49 for First Month, Ahead of MLB Playoffs, NHL and NBA Seasons",
+          "title": "DIRECTV MySports Genre Pack With ESPN Unlimited Plan and NFL RedZone Just $49 for First Month, Ahead of MLB Playoffs, NHL and NBA Seasons",
+          "snapshot": "DIRECTV is making a play for sports fans just as the fall calendar hits its busiest stretch, rolling out a discount on its sports-focused streaming pack that bundles ESPN Unlimited Plan, NFL RedZone from NFL Network and dozens of other live sports channels. The streamer’s MySports Genre Pack is currently discounted...",
+          "summary": "DIRECTV is making a play for sports fans just as the fall calendar hits its busiest stretch, rolling out a discount on its sports-focused streaming pack that bundles ESPN Unlimited Plan, NFL RedZone from NFL Network and dozens of other live sports channels. The streamer’s MySports Genre Pack is currently discounted...",
+          "url": "https://variety.com/2026/shopping/news/directv-mysports-genre-pack-espn-unlimited-nfl-redzone-deal-1236895964/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/feed/",
-          "published_at": "2026-10-03 05:00:00 PM ET",
+          "published_at": "2026-10-04 11:08:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "‘RuneScape’-Inspired Animation Series in the Works From Lyrical Animation and Jagex"
+            "DIRECTV MySports Genre Pack With ESPN Unlimited Plan and NFL RedZone Just $49 for First Month, Ahead of MLB Playoffs, NHL and NBA Seasons"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3955,8 +4015,36 @@
           ]
         },
         {
-          "id": "hollywood-1-2122976425497686996",
-          "key": "hollywood-1-2122976425497686996",
+          "id": "hollywood-1-8885764807494776044",
+          "key": "hollywood-1-8885764807494776044",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "‘Verity’ Solid $32M+ Start; ‘Digger’ At $8M Is Tom Cruise’s Lowest Opening In 19 Years; Both Pics Get C+ CinemaScores – Sunday Update",
+          "title": "‘Verity’ Solid $32M+ Start; ‘Digger’ At $8M Is Tom Cruise’s Lowest Opening In 19 Years; Both Pics Get C+ CinemaScores – Sunday Update",
+          "snapshot": "SUNDAY AM WRITETHRU: After Saturday update, refresh for more analysis and chart…Warner Bros’ very original, very expensive auteur feature, Digger, opened to $8M, which is still the lowest for Tom Cruise since 2007’s much cheaper Lions for Lambs at $6.7M. All in global start is an awful $12M worldwide. I mean, the se...",
+          "summary": "SUNDAY AM WRITETHRU: After Saturday update, refresh for more analysis and chart…Warner Bros’ very original, very expensive auteur feature, Digger, opened to $8M, which is still the lowest for Tom Cruise since 2007’s much cheaper Lions for Lambs at $6.7M. All in global start is an awful $12M worldwide. I mean, the se...",
+          "url": "https://deadline.com/2026/10/box-office-verity-digger-1237145435/",
+          "source": "Deadline",
+          "source_name": "Deadline",
+          "source_feed": "https://deadline.com/feed/",
+          "published_at": "2026-10-04 11:23:00 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 99,
+          "key_data": [
+            "‘Verity’ Solid $32M+ Start; ‘Digger’ At $8M Is Tom Cruise’s Lowest Opening In 19 Years; Both Pics Get C+ CinemaScores – Sunday Update"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-3-2633599429870030642",
+          "key": "hollywood-3-2633599429870030642",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "‘A Statement’ Review: A Top Ensemble Including Paul Rudd, Amy Ryan and John Turturro Breathes Surprising Vitality Into Dry Docu-Drama",
@@ -3971,7 +4059,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 99,
+          "priority_score": 97,
           "key_data": [
             "‘A Statement’ Review: A Top Ensemble Including Paul Rudd, Amy Ryan and John Turturro Breathes Surprising Vitality Into Dry Docu-Drama"
           ],
@@ -3983,8 +4071,8 @@
           ]
         },
         {
-          "id": "hollywood-4-3121361091106412444",
-          "key": "hollywood-4-3121361091106412444",
+          "id": "hollywood-6-6095037074828996992",
+          "key": "hollywood-6-6095037074828996992",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Studio bets $450 million on stacked soundstages, sky bungalows to woo production back to Hollywood - Los Angeles Times",
@@ -3999,7 +4087,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 96,
+          "priority_score": 94,
           "key_data": [
             "Studio bets $450 million on stacked soundstages, sky bungalows to woo production back to Hollywood - Los Angeles Times"
           ],
@@ -4011,8 +4099,36 @@
           ]
         },
         {
-          "id": "hollywood-2-4759463278653902615",
-          "key": "hollywood-2-4759463278653902615",
+          "id": "hollywood-2-5173063494948259886",
+          "key": "hollywood-2-5173063494948259886",
+          "category": "Hollywood",
+          "label": "Hollywood",
+          "headline": "‘Avengers: Endgame’ Overtakes ‘Avatar’ Again As Highest Grossing Movie Ever At Global Box Office",
+          "title": "‘Avengers: Endgame’ Overtakes ‘Avatar’ Again As Highest Grossing Movie Ever At Global Box Office",
+          "snapshot": "Disney/Marvel Studio’s Avengers: Endgame is once again, the highest grossing movie ever, overtaking Avatar, $2.9255 billion to the latter’s $2.9237 billion. This is all due to the re-release of the Anthony and Joe Russo directed movie in the tee-up to their Avengers: Doomsday upside down multiverse movie on Dec. 18....",
+          "summary": "Disney/Marvel Studio’s Avengers: Endgame is once again, the highest grossing movie ever, overtaking Avatar, $2.9255 billion to the latter’s $2.9237 billion. This is all due to the re-release of the Anthony and Joe Russo directed movie in the tee-up to their Avengers: Doomsday upside down multiverse movie on Dec. 18....",
+          "url": "https://deadline.com/2026/10/box-office-avengers-endgame-avatar-record-1237146168/",
+          "source": "Deadline",
+          "source_name": "Deadline",
+          "source_feed": "https://deadline.com/feed/",
+          "published_at": "2026-10-04 11:11:23 AM ET",
+          "image": "",
+          "freshness_status": "fresh",
+          "story_type": "rss_headline",
+          "priority_score": 98,
+          "key_data": [
+            "‘Avengers: Endgame’ Overtakes ‘Avatar’ Again As Highest Grossing Movie Ever At Global Box Office"
+          ],
+          "why_it_matters": [
+            "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
+          ],
+          "what_to_watch": [
+            "Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."
+          ]
+        },
+        {
+          "id": "hollywood-4-8012863950815783564",
+          "key": "hollywood-4-8012863950815783564",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Florence Pugh on How Zoe Kazan ‘East of Eden’ Collaboration Helped Boost Her Confidence",
@@ -4027,7 +4143,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 98,
+          "priority_score": 96,
           "key_data": [
             "Florence Pugh on How Zoe Kazan ‘East of Eden’ Collaboration Helped Boost Her Confidence"
           ],
@@ -4039,8 +4155,8 @@
           ]
         },
         {
-          "id": "hollywood-5-511410146002667558",
-          "key": "hollywood-5-511410146002667558",
+          "id": "hollywood-7-3554372639413492856",
+          "key": "hollywood-7-3554372639413492856",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Donna Langley on Landing Hollywood’s Heaviest Hitters, from Taylor Sheridan to Christopher Nolan - The Hollywood Reporter",
@@ -4055,7 +4171,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 95,
+          "priority_score": 93,
           "key_data": [
             "Donna Langley on Landing Hollywood’s Heaviest Hitters, from Taylor Sheridan to Christopher Nolan - The Hollywood Reporter"
           ],
@@ -4067,7 +4183,7 @@
           ]
         }
       ],
-      "updated_at": "2026-10-04 06:57:55 AM ET"
+      "updated_at": "2026-10-04 11:44:01 AM ET"
     },
     {
       "key": "gaming",
@@ -4087,8 +4203,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "gaming-0-4348317806004001205",
-          "key": "gaming-0-4348317806004001205",
+          "id": "gaming-0-2054546537614194594",
+          "key": "gaming-0-2054546537614194594",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Everything We Saw at RuneFest 2026, Including RuneScape 4 and RuneScape Reignited",
@@ -4115,8 +4231,8 @@
           ]
         },
         {
-          "id": "gaming-20-17678826771028939",
-          "key": "gaming-20-17678826771028939",
+          "id": "gaming-20-6442298193107927528",
+          "key": "gaming-20-6442298193107927528",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "The Top 10 Video Games Releasing in October 2026 - Men's Journal",
@@ -4143,8 +4259,8 @@
           ]
         },
         {
-          "id": "gaming-1-152397907460732662",
-          "key": "gaming-1-152397907460732662",
+          "id": "gaming-1-6936703375241302143",
+          "key": "gaming-1-6936703375241302143",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Fourth RuneScape MMO Built With Unreal Engine in the Works, Jagex Announces RuneScape Animation With MoistCr1TiKaL",
@@ -4173,8 +4289,8 @@
       ],
       "items": [
         {
-          "id": "gaming-0-4348317806004001205",
-          "key": "gaming-0-4348317806004001205",
+          "id": "gaming-0-2054546537614194594",
+          "key": "gaming-0-2054546537614194594",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Everything We Saw at RuneFest 2026, Including RuneScape 4 and RuneScape Reignited",
@@ -4201,8 +4317,8 @@
           ]
         },
         {
-          "id": "gaming-20-17678826771028939",
-          "key": "gaming-20-17678826771028939",
+          "id": "gaming-20-6442298193107927528",
+          "key": "gaming-20-6442298193107927528",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "The Top 10 Video Games Releasing in October 2026 - Men's Journal",
@@ -4229,8 +4345,8 @@
           ]
         },
         {
-          "id": "gaming-1-152397907460732662",
-          "key": "gaming-1-152397907460732662",
+          "id": "gaming-1-6936703375241302143",
+          "key": "gaming-1-6936703375241302143",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Fourth RuneScape MMO Built With Unreal Engine in the Works, Jagex Announces RuneScape Animation With MoistCr1TiKaL",
@@ -4257,7 +4373,7 @@
           ]
         }
       ],
-      "updated_at": "2026-10-04 06:57:56 AM ET"
+      "updated_at": "2026-10-04 11:44:02 AM ET"
     },
     {
       "key": "media",
@@ -4282,8 +4398,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "media-0-1343751202049360136",
-          "key": "media-0-1343751202049360136",
+          "id": "media-0-5267257551826616395",
+          "key": "media-0-5267257551826616395",
           "category": "Media",
           "label": "Media",
           "headline": "European Entertainment Leaders Mostly Optimistic About David Ellison’s Takeover of Warner Bros.: ‘I Believe in His Commitment to Cinema’",
@@ -4310,8 +4426,8 @@
           ]
         },
         {
-          "id": "media-8-4844733002545935915",
-          "key": "media-8-4844733002545935915",
+          "id": "media-8-6974499548571091156",
+          "key": "media-8-6974499548571091156",
           "category": "Media",
           "label": "Media",
           "headline": "DOJ Argues CNN & Other Outlets Can Be Banned From White House If Trump Determines They Didn’t Meet “Minimum Requirements Of Professionalism”",
@@ -4338,8 +4454,8 @@
           ]
         },
         {
-          "id": "media-18-7013175036665515443",
-          "key": "media-18-7013175036665515443",
+          "id": "media-18-8823255913443904935",
+          "key": "media-18-8823255913443904935",
           "category": "Media",
           "label": "Media",
           "headline": "AI Could Turn U.S. Media And Entertainment Into A $48 Billion Market - That Eric Alper",
@@ -4366,8 +4482,8 @@
           ]
         },
         {
-          "id": "media-1-6106283358789223733",
-          "key": "media-1-6106283358789223733",
+          "id": "media-1-658653874060461032",
+          "key": "media-1-658653874060461032",
           "category": "Media",
           "label": "Media",
           "headline": "Dan Houser on Leaving ‘GTA 6’ Studio Rockstar Games, Starting an Absurd New Company and Why He Doesn’t Play Open-World Games Anymore",
@@ -4394,8 +4510,8 @@
           ]
         },
         {
-          "id": "media-9-4236648483500459427",
-          "key": "media-9-4236648483500459427",
+          "id": "media-9-4903309677890606370",
+          "key": "media-9-4903309677890606370",
           "category": "Media",
           "label": "Media",
           "headline": "Montana Locals Protest Daily Wire’s Pro-ICE Production As Filming Disrupts Businesses With Apparent Dramatization Of Renée Good Shooting",
@@ -4422,8 +4538,8 @@
           ]
         },
         {
-          "id": "media-19-5016354366448664146",
-          "key": "media-19-5016354366448664146",
+          "id": "media-19-9147050842384968952",
+          "key": "media-19-9147050842384968952",
           "category": "Media",
           "label": "Media",
           "headline": "50 biggest news websites in UK: Oxford Mail leads audience growth and triples time spent in August - Press Gazette",
@@ -4452,8 +4568,8 @@
       ],
       "items": [
         {
-          "id": "media-0-1343751202049360136",
-          "key": "media-0-1343751202049360136",
+          "id": "media-0-5267257551826616395",
+          "key": "media-0-5267257551826616395",
           "category": "Media",
           "label": "Media",
           "headline": "European Entertainment Leaders Mostly Optimistic About David Ellison’s Takeover of Warner Bros.: ‘I Believe in His Commitment to Cinema’",
@@ -4480,8 +4596,8 @@
           ]
         },
         {
-          "id": "media-8-4844733002545935915",
-          "key": "media-8-4844733002545935915",
+          "id": "media-8-6974499548571091156",
+          "key": "media-8-6974499548571091156",
           "category": "Media",
           "label": "Media",
           "headline": "DOJ Argues CNN & Other Outlets Can Be Banned From White House If Trump Determines They Didn’t Meet “Minimum Requirements Of Professionalism”",
@@ -4508,8 +4624,8 @@
           ]
         },
         {
-          "id": "media-18-7013175036665515443",
-          "key": "media-18-7013175036665515443",
+          "id": "media-18-8823255913443904935",
+          "key": "media-18-8823255913443904935",
           "category": "Media",
           "label": "Media",
           "headline": "AI Could Turn U.S. Media And Entertainment Into A $48 Billion Market - That Eric Alper",
@@ -4536,8 +4652,8 @@
           ]
         },
         {
-          "id": "media-1-6106283358789223733",
-          "key": "media-1-6106283358789223733",
+          "id": "media-1-658653874060461032",
+          "key": "media-1-658653874060461032",
           "category": "Media",
           "label": "Media",
           "headline": "Dan Houser on Leaving ‘GTA 6’ Studio Rockstar Games, Starting an Absurd New Company and Why He Doesn’t Play Open-World Games Anymore",
@@ -4564,8 +4680,8 @@
           ]
         },
         {
-          "id": "media-9-4236648483500459427",
-          "key": "media-9-4236648483500459427",
+          "id": "media-9-4903309677890606370",
+          "key": "media-9-4903309677890606370",
           "category": "Media",
           "label": "Media",
           "headline": "Montana Locals Protest Daily Wire’s Pro-ICE Production As Filming Disrupts Businesses With Apparent Dramatization Of Renée Good Shooting",
@@ -4592,8 +4708,8 @@
           ]
         },
         {
-          "id": "media-19-5016354366448664146",
-          "key": "media-19-5016354366448664146",
+          "id": "media-19-9147050842384968952",
+          "key": "media-19-9147050842384968952",
           "category": "Media",
           "label": "Media",
           "headline": "50 biggest news websites in UK: Oxford Mail leads audience growth and triples time spent in August - Press Gazette",
@@ -4620,7 +4736,7 @@
           ]
         }
       ],
-      "updated_at": "2026-10-04 06:57:57 AM ET"
+      "updated_at": "2026-10-04 11:44:03 AM ET"
     }
   ]
 }
