@@ -290,7 +290,7 @@ function normalizeStory(story: AnyObj, index: number, sectionTitle = ""): AnyObj
     cleanText(story.snapshot) ||
     cleanText(story.description) ||
     cleanText(story.body) ||
-    "Entertainment development flagged for newsroom monitoring.";
+    "";
 
   return {
     ...story,
@@ -330,7 +330,7 @@ function sectionToStories(key: string, section: AnyObj, index: number): AnyObj[]
           {
             category: sectionTitle,
             headline: card,
-            snapshot: section.snapshot || "Entertainment signal generated for newsroom review.",
+            snapshot: section.snapshot || "",
             key_data: [card],
             why_it_matters: [
               "This item can affect audience attention, talent leverage, studio strategy or media business coverage.",
@@ -498,7 +498,7 @@ function storySummary(story: AnyObj): string {
     cleanText(story.snapshot) ||
     cleanText(story.description) ||
     cleanText(story.body) ||
-    "Entertainment development flagged for newsroom monitoring."
+    ""
   );
 }
 
@@ -586,11 +586,7 @@ function LineList({ items }: { items: string[] }) {
   const safe = unique(items).slice(0, 8);
 
   if (!safe.length) {
-    return (
-      <p className="text-sm leading-6 text-neutral-400">
-        Monitoring verified entertainment developments for the next clean newsroom update.
-      </p>
-    );
+    return null;
   }
 
   return (
@@ -677,17 +673,17 @@ function StoryCard({ story, index }: { story: AnyObj; index: number }) {
       <div className="mt-4 grid gap-3 md:grid-cols-2 xl:grid-cols-4">
         <div className="rounded-xl border border-neutral-800 bg-black p-3">
           <p className="mb-2 text-xs font-black uppercase text-fuchsia-300">Key Data</p>
-          <LineList items={keyData.length ? keyData : ["Latest verified entertainment signal attached for newsroom review."]} />
+          <LineList items={keyData} />
         </div>
 
         <div className="rounded-xl border border-neutral-800 bg-black p-3">
           <p className="mb-2 text-xs font-black uppercase text-fuchsia-300">Why It Matters</p>
-          <LineList items={why.length ? why : ["This affects entertainment coverage priorities, audience attention, talent leverage or media business strategy."]} />
+          <LineList items={why} />
         </div>
 
         <div className="rounded-xl border border-neutral-800 bg-black p-3">
           <p className="mb-2 text-xs font-black uppercase text-fuchsia-300">What To Watch</p>
-          <LineList items={watch.length ? watch : ["Monitor the next studio, platform, talent, box office or audience response."]} />
+          <LineList items={watch} />
         </div>
 
         <div className="rounded-xl border border-neutral-800 bg-black p-3">
@@ -760,7 +756,7 @@ export default async function Page() {
   const snapshot =
     cleanText(report.snapshot) && !isBadContent(report.snapshot)
       ? cleanText(report.snapshot)
-      : "A live entertainment briefing built for journalists tracking studios, streaming, film, television, music, talent, audience behavior and media business.";
+      : "";
 
   const updated = formatUpdatedAt(
     cleanText(report.updated_at) ||
