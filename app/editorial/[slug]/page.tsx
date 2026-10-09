@@ -24,11 +24,28 @@ export default async function EditorialPage({ params }: Props) {
   const { slug } = await params;
   const item = (await getEditorialItems()).find((entry) => entry.slug === slug);
   if (!item) notFound();
+  // Keep specific reporting details; suppress verified generic filler.
+  const normalizeEditorialText = (value: string) =>
+    value.trim().replace(/\s+/g, " ").replace(/[.!?]+$/, "").toLowerCase();
+
+  const excludedEditorialText = new Set([
+    normalizeEditorialText(item.headline),
+    normalizeEditorialText(item.context),
+    normalizeEditorialText("This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."),
+    normalizeEditorialText("Monitor confirmed follow-up reporting, platform response, studio movement, audience reaction and related industry impact."),
+  ]);
+
+  const substantiveEntries = (entries: readonly string[]) =>
+    entries.filter((entry) => {
+      const normalized = normalizeEditorialText(entry);
+      return normalized.length > 0 && !excludedEditorialText.has(normalized);
+    });
+
   const sections = [
-    ["Key Data", item.keyData],
-    ["Why It Matters", item.whyItMatters],
-    ["What To Watch", item.whatToWatch],
-    ["Reporting Angles", item.storyAngles],
+    ["Key Data", substantiveEntries(item.keyData)],
+    ["Why It Matters", substantiveEntries(item.whyItMatters)],
+    ["What To Watch", substantiveEntries(item.whatToWatch)],
+    ["Reporting Angles", substantiveEntries(item.storyAngles)],
   ] as const;
 
   return (
