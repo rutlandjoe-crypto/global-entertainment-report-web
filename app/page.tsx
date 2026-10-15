@@ -80,6 +80,29 @@ const BAD_CONTENT_PHRASES = [
   "undefined",
 ];
 
+
+function repairPunctuation(value: string): string {
+  const fixes: [string, string][] = [
+    ["\u00e2\u20ac\u201c", "\u2013"],
+    ["\u00e2\u20ac\u201d", "\u2014"],
+    ["\u00e2\u20ac\u02dc", "\u2018"],
+    ["\u00e2\u20ac\u2122", "\u2019"],
+    ["\u00e2\u20ac\u0153", "\u201c"],
+    ["\u00e2\u20ac\u009d", "\u201d"],
+    ["\u00e2\u0080\u0093", "\u2013"],
+    ["\u00e2\u0080\u0094", "\u2014"],
+    ["\u00e2\u0080\u0098", "\u2018"],
+    ["\u00e2\u0080\u0099", "\u2019"],
+    ["\u00e2\u0080\u009c", "\u201c"],
+    ["\u00e2\u0080\u009d", "\u201d"],
+    ["\u00e2\u20ac\u00a6", "\u2026"],
+    ["\u00c2\u00a0", " "]
+  ];
+  let text = value;
+  for (const [bad, good] of fixes) text = text.split(bad).join(good);
+  return text;
+}
+
 function decodeHtmlEntities(value: string): string {
   let text = value;
 
@@ -97,8 +120,8 @@ function decodeHtmlEntities(value: string): string {
     "&lsquo;": "'",
     "&ldquo;": '"',
     "&rdquo;": '"',
-    "&ndash;": "â€“",
-    "&mdash;": "â€”",
+    "&ndash;": "\u2013",
+    "&mdash;": "\u2014",
   };
 
   for (let pass = 0; pass < 6; pass += 1) {
@@ -139,11 +162,11 @@ function cleanText(value: unknown): string {
   text = text.replace(/<[^>]+>/g, " ");
   text = decodeHtmlEntities(text);
 
-  text = text
+  text = repairPunctuation(text)
     .replace(/\u2018|\u2019/g, "'")
     .replace(/\u201c|\u201d/g, '"')
-    .replace(/\u2014/g, "â€”")
-    .replace(/\u2013/g, "â€“")
+    .replace(/\u2014/g, "\u2014")
+    .replace(/\u2013/g, "\u2013")
     .replace(/\s+/g, " ")
     .trim();
 
