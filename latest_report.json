@@ -3,11 +3,11 @@
   "site": "Global Entertainment Report",
   "site_name": "Global Entertainment Report",
   "vertical": "Entertainment",
-  "headline": "James McAvoy Says 'Split' Is The Only Film That 'Really Consistently Pays Me'",
+  "headline": "Academy Museum Gala 2026 Red Carpet: Taylor Swift, Inde Navarrette and More",
   "snapshot": "Global Entertainment Report accepted 49 real RSS item(s) across 31 checked feed request(s).",
-  "generated_at": "2026-10-17 07:48:38 PM ET",
-  "updated_at": "2026-10-17 07:48:38 PM ET",
-  "published_at": "2026-10-17 07:48:38 PM ET",
+  "generated_at": "2026-10-17 11:28:38 PM ET",
+  "updated_at": "2026-10-17 11:28:38 PM ET",
+  "published_at": "2026-10-17 11:28:38 PM ET",
   "source_mode": "live RSS ingestion",
   "freshness": {
     "max_item_age_hours": 336,
@@ -53,9 +53,9 @@
       "final_url": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 68,
+      "rejected_count": 70,
       "rejection_reasons": {
-        "stale-over-336h": 68
+        "stale-over-336h": 70
       }
     },
     {
@@ -65,10 +65,8 @@
       "final_url": "https://variety.com/v/tv/feed/",
       "item_count": 10,
       "accepted_count": 2,
-      "rejected_count": 2,
-      "rejection_reasons": {
-        "duplicate-story": 2
-      }
+      "rejected_count": 0,
+      "rejection_reasons": {}
     },
     {
       "category": "tv",
@@ -167,8 +165,9 @@
       "final_url": "https://news.google.com/rss/search?q=music+entertainment+billboard&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 93,
+      "rejected_count": 94,
       "rejection_reasons": {
+        "duplicate-story": 1,
         "stale-over-336h": 93
       }
     },
@@ -199,11 +198,11 @@
       "url": "https://news.google.com/rss/search?q=entertainment+awards+oscars+emmys+grammys&hl=en-US&gl=US&ceid=US:en",
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=entertainment+awards+oscars+emmys+grammys&hl=en-US&gl=US&ceid=US:en",
-      "item_count": 72,
+      "item_count": 73,
       "accepted_count": 2,
-      "rejected_count": 70,
+      "rejected_count": 71,
       "rejection_reasons": {
-        "stale-over-336h": 70
+        "stale-over-336h": 71
       }
     },
     {
@@ -235,10 +234,10 @@
       "final_url": "https://news.google.com/rss/search?q=box+office+movies+hollywood&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 81,
+      "rejected_count": 80,
       "rejection_reasons": {
         "duplicate-story": 2,
-        "stale-over-336h": 79
+        "stale-over-336h": 78
       }
     },
     {
@@ -284,9 +283,9 @@
       "final_url": "https://deadline.com/feed/",
       "item_count": 12,
       "accepted_count": 2,
-      "rejected_count": 7,
+      "rejected_count": 9,
       "rejection_reasons": {
-        "duplicate-story": 7
+        "duplicate-story": 9
       }
     },
     {
@@ -306,11 +305,11 @@
       "url": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=hollywood+entertainment+industry&hl=en-US&gl=US&ceid=US:en",
-      "item_count": 53,
+      "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 45,
+      "rejected_count": 92,
       "rejection_reasons": {
-        "stale-over-336h": 45
+        "stale-over-336h": 92
       }
     },
     {
@@ -328,11 +327,11 @@
       "url": "https://news.google.com/rss/search?q=gaming+video+games+entertainment&hl=en-US&gl=US&ceid=US:en",
       "status_code": "200",
       "final_url": "https://news.google.com/rss/search?q=gaming+video+games+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "item_count": 93,
+      "item_count": 91,
       "accepted_count": 0,
-      "rejected_count": 93,
+      "rejected_count": 91,
       "rejection_reasons": {
-        "stale-over-336h": 93
+        "stale-over-336h": 91
       }
     },
     {
@@ -364,9 +363,9 @@
       "final_url": "https://news.google.com/rss/search?q=media+entertainment+industry+news&hl=en-US&gl=US&ceid=US:en",
       "item_count": 100,
       "accepted_count": 2,
-      "rejected_count": 92,
+      "rejected_count": 93,
       "rejection_reasons": {
-        "stale-over-336h": 92
+        "stale-over-336h": 93
       }
     }
   ],
@@ -374,33 +373,33 @@
   "substack_url": "https://globalentertainmentreport.substack.com/",
   "x_handle": "@GlobalSportsRp",
   "key_storylines": [
-    "James McAvoy Says 'Split' Is The Only Film That 'Really Consistently Pays Me'",
+    "Academy Museum Gala 2026 Red Carpet: Taylor Swift, Inde Navarrette and More",
     "Clive Barker Teases 'Hellraiser: Revival' Video Game Has Reignited \"Many Ideas\" For Film Franchise: \"Planning To Keep My Fingers In That Pie\"",
     "Gene Schwam, Hollywood Publicist to Elvis Presley, Judy Garland and Julie Andrews, Dies at 96",
-    "1999 Film, Starring Brad Pritt, Named Among the Greatest Movies of All Time - Men's Journal",
+    "The 10 best final girls in horror movie history, ranked - Entertainment Weekly",
     "Zach Bryan Gets Candid About Sobriety in Matthew McConaughey Interview: 'Why Am I Drinking?'",
     "Dev Behind Russian Roulette Drinking Game Cancels Steam Demo Plans Following AI Copycat Concerns",
-    "Paul Bettany Says He and Johnny Depp 'Hadn't Spoken' in Years When Their Texts Were Read During Libel Trial: 'I Was Being Painted As This Close Friend'",
+    "Quentin Tarantino Confirms He's 'Written a Script' for His Tenth Film, But Won't Pursue It Yet Because He Wants to 'Live a Little'",
     "Paul McCartney Was Concerned Paul Mescal Is \"Markedly Shorter\" Than 'The Beatles' Co-Stars"
   ],
   "live_newsroom": [
     {
-      "id": "film-0-7818039099767036433",
-      "key": "film-0-7818039099767036433",
+      "id": "film-0-1797584771327455433",
+      "key": "film-0-1797584771327455433",
       "category": "Film",
       "label": "Film",
-      "headline": "James McAvoy Says 'Split' Is The Only Film That 'Really Consistently Pays Me'",
-      "title": "James McAvoy Says 'Split' Is The Only Film That 'Really Consistently Pays Me'",
-      "snapshot": "James McAvoy has starred in films including \"Speak No Evil,\" \"Atonement\" and \"X-Men: First Class,\" but he recently revealed the \"only\" film he still consistently receives residuals from is M. Night Shyamalan's 2016 horror \"Split.\" \"You get the odd check for, you know, a couple 100 quid here or sometimes you get chec...",
-      "summary": "James McAvoy has starred in films including \"Speak No Evil,\" \"Atonement\" and \"X-Men: First Class,\" but he recently revealed the \"only\" film he still consistently receives residuals from is M. Night Shyamalan's 2016 horror \"Split.\" \"You get the odd check for, you know, a couple 100 quid here or sometimes you get chec...",
-      "url": "https://variety.com/2026/film/news/james-mcavoy-split-only-film-that-consistently-pays-me-1236915162/",
+      "headline": "Academy Museum Gala 2026 Red Carpet: Taylor Swift, Inde Navarrette and More",
+      "title": "Academy Museum Gala 2026 Red Carpet: Taylor Swift, Inde Navarrette and More",
+      "snapshot": "The red carpet at the Academy Museum Gala is now open. Once again, the event is proving to be one of Hollywood's most glamorous A-list nights of the year. Among those expected to walk the carpet are Taylor Swift, Connor Storrie, Jessica Biel and Justin Timberlake, Kim Kardashian, Jacob Elordi, Kendall Jenner, Eva Lo...",
+      "summary": "The red carpet at the Academy Museum Gala is now open. Once again, the event is proving to be one of Hollywood's most glamorous A-list nights of the year. Among those expected to walk the carpet are Taylor Swift, Connor Storrie, Jessica Biel and Justin Timberlake, Kim Kardashian, Jacob Elordi, Kendall Jenner, Eva Lo...",
+      "url": "https://variety.com/gallery/academy-museum-gala-2026-red-carpet-photos/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-10-17 07:21:55 PM ET",
+      "published_at": "2026-10-17 09:30:47 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "James McAvoy Says 'Split' Is The Only Film That 'Really Consistently Pays Me'"
+        "Academy Museum Gala 2026 Red Carpet: Taylor Swift, Inde Navarrette and More"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -412,8 +411,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-3559997908566842309",
-      "key": "film-10-3559997908566842309",
+      "id": "film-10-5441047400847220692",
+      "key": "film-10-5441047400847220692",
       "category": "Film",
       "label": "Film",
       "headline": "Clive Barker Teases 'Hellraiser: Revival' Video Game Has Reignited \"Many Ideas\" For Film Franchise: \"Planning To Keep My Fingers In That Pie\"",
@@ -439,8 +438,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-2760309066429375425",
-      "key": "film-22-2760309066429375425",
+      "id": "film-22-7633584055440563712",
+      "key": "film-22-7633584055440563712",
       "category": "Film",
       "label": "Film",
       "headline": "Gene Schwam, Hollywood Publicist to Elvis Presley, Judy Garland and Julie Andrews, Dies at 96",
@@ -466,22 +465,22 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-4664343010653200214",
-      "key": "film-32-4664343010653200214",
+      "id": "film-32-1362521445507022261",
+      "key": "film-32-1362521445507022261",
       "category": "Film",
       "label": "Film",
-      "headline": "1999 Film, Starring Brad Pritt, Named Among the Greatest Movies of All Time - Men's Journal",
-      "title": "1999 Film, Starring Brad Pritt, Named Among the Greatest Movies of All Time - Men's Journal",
-      "snapshot": "1999 Film, Starring Brad Pritt, Named Among the Greatest Movies of All Time Men's Journal",
-      "summary": "1999 Film, Starring Brad Pritt, Named Among the Greatest Movies of All Time Men's Journal",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbnl1TmNTOXBfV09LeGNmLVZCaUlUN0xvN2dXZnlSbDFJdmRjZjl0RFc5ZVBXNEl0V2VkSE5HTU5maWRDS01mbzJRVFk4MUVRZ0t1TldxdF9ONU9wMEEtTUpuM0lmc2FGLUZmRVdST2tkdG0yVkJ4WE1WamJlckVfUkdvR1hESTFKZnk0UHpYZWxZSHQtX0FxZnEyWUp4Z3kweUVrVVpfM0hScXliRWFrT1dBdmhKUQ?oc=5",
+      "headline": "The 10 best final girls in horror movie history, ranked - Entertainment Weekly",
+      "title": "The 10 best final girls in horror movie history, ranked - Entertainment Weekly",
+      "snapshot": "The 10 best final girls in horror movie history, ranked Entertainment Weekly",
+      "summary": "The 10 best final girls in horror movie history, ranked Entertainment Weekly",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sLXZFRmoyWUtia0xjcWNOYWlEbF9sMkpSbUl0ODBjZ1ZxYS1uQW5rcklGZlhzaEhHUWNlSURJTVQ1TXZLSjJ6VHg5SWpMelV6X2NfQjA2djMtNFd4em11am53X2I?oc=5",
       "source": "Google News",
       "source_name": "Google News",
       "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "published_at": "2026-10-17 06:55:00 AM ET",
+      "published_at": "2026-10-17 09:20:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "1999 Film, Starring Brad Pritt, Named Among the Greatest Movies of All Time - Men's Journal"
+        "The 10 best final girls in horror movie history, ranked - Entertainment Weekly"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -493,8 +492,8 @@
       "priority_score": 68
     },
     {
-      "id": "music-9-8762285834729749754",
-      "key": "music-9-8762285834729749754",
+      "id": "music-9-1719941275230916509",
+      "key": "music-9-1719941275230916509",
       "category": "Music",
       "label": "Music",
       "headline": "Zach Bryan Gets Candid About Sobriety in Matthew McConaughey Interview: 'Why Am I Drinking?'",
@@ -520,8 +519,8 @@
       "priority_score": 91
     },
     {
-      "id": "gaming-0-2491355342771567938",
-      "key": "gaming-0-2491355342771567938",
+      "id": "gaming-0-1829395503906205103",
+      "key": "gaming-0-1829395503906205103",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Dev Behind Russian Roulette Drinking Game Cancels Steam Demo Plans Following AI Copycat Concerns",
@@ -547,22 +546,22 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-9122832395458767298",
-      "key": "film-1-9122832395458767298",
+      "id": "film-1-7841118811372183846",
+      "key": "film-1-7841118811372183846",
       "category": "Film",
       "label": "Film",
-      "headline": "Paul Bettany Says He and Johnny Depp 'Hadn't Spoken' in Years When Their Texts Were Read During Libel Trial: 'I Was Being Painted As This Close Friend'",
-      "title": "Paul Bettany Says He and Johnny Depp 'Hadn't Spoken' in Years When Their Texts Were Read During Libel Trial: 'I Was Being Painted As This Close Friend'",
-      "snapshot": "Paul Bettany opened up in a recent interview with The Times about the public's misconception of his relationship with Johnny Depp after text messages between the two actors were used in court during Depp's libel lawsuit against The Sun. \"I hadn't spoken to Johnny in years when that happened and I haven't spoken to h...",
-      "summary": "Paul Bettany opened up in a recent interview with The Times about the public's misconception of his relationship with Johnny Depp after text messages between the two actors were used in court during Depp's libel lawsuit against The Sun. \"I hadn't spoken to Johnny in years when that happened and I haven't spoken to h...",
-      "url": "https://variety.com/2026/film/news/paul-bettany-johnny-depp-hadnt-spoken-in-years-libel-trial-1236915108/",
+      "headline": "Quentin Tarantino Confirms He's 'Written a Script' for His Tenth Film, But Won't Pursue It Yet Because He Wants to 'Live a Little'",
+      "title": "Quentin Tarantino Confirms He's 'Written a Script' for His Tenth Film, But Won't Pursue It Yet Because He Wants to 'Live a Little'",
+      "snapshot": "Quentin Tarantino has long said he'll be retiring after his 10th feature film, but fans shouldn't worry yet. While the \"Pulp Fiction\" director confirmed he'd finished penning the script for his final project, he won't be getting much further with it until his newly opened play, \"The Popinjay Cavalier,\" closes. Taran...",
+      "summary": "Quentin Tarantino has long said he'll be retiring after his 10th feature film, but fans shouldn't worry yet. While the \"Pulp Fiction\" director confirmed he'd finished penning the script for his final project, he won't be getting much further with it until his newly opened play, \"The Popinjay Cavalier,\" closes. Taran...",
+      "url": "https://variety.com/2026/film/news/quentin-tarantino-confirms-script-for-tenth-film-1236915169/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-10-17 04:48:39 PM ET",
+      "published_at": "2026-10-17 07:59:24 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Paul Bettany Says He and Johnny Depp 'Hadn't Spoken' in Years When Their Texts Were Read During Libel Trial: 'I Was Being Painted As This Close Friend'"
+        "Quentin Tarantino Confirms He's 'Written a Script' for His Tenth Film, But Won't Pursue It Yet Because He Wants to 'Live a Little'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -574,8 +573,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-639418932945220569",
-      "key": "film-11-639418932945220569",
+      "id": "film-11-7704669401128685712",
+      "key": "film-11-7704669401128685712",
       "category": "Film",
       "label": "Film",
       "headline": "Paul McCartney Was Concerned Paul Mescal Is \"Markedly Shorter\" Than 'The Beatles' Co-Stars",
@@ -601,8 +600,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-1735286516193389021",
-      "key": "film-23-1735286516193389021",
+      "id": "film-23-2915037123532508758",
+      "key": "film-23-2915037123532508758",
       "category": "Film",
       "label": "Film",
       "headline": "'Street Fighter' Scoring $31M at Box Office as 'You Can See Everything' Rises and 'Whalefall' Sinks",
@@ -628,8 +627,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-7746890406717342049",
-      "key": "film-33-7746890406717342049",
+      "id": "film-33-2429644023995734170",
+      "key": "film-33-2429644023995734170",
       "category": "Film",
       "label": "Film",
       "headline": "'You Can See Everything' reviews: Nathan Fielder's Elizabeth Holmes documentary hits 99% on Rotten Tomatoes as it opens in theaters - Yahoo",
@@ -655,8 +654,8 @@
       "priority_score": 67
     },
     {
-      "id": "music-10-5399943716509706580",
-      "key": "music-10-5399943716509706580",
+      "id": "music-10-3674303945781708829",
+      "key": "music-10-3674303945781708829",
       "category": "Music",
       "label": "Music",
       "headline": "Iron Maiden Announce 2027 Run for Your Lives North American Tour: See the Dates",
@@ -682,8 +681,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-1-3027244309278521981",
-      "key": "gaming-1-3027244309278521981",
+      "id": "gaming-1-332378972434830293",
+      "key": "gaming-1-332378972434830293",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Battlefield 6 Devs Respond After Players Take Aim at 'Secuty' Typo and Cosmetic With 5 Pistols",
@@ -711,22 +710,22 @@
   ],
   "editor_signals": [
     {
-      "id": "film-2-3382805179489477009",
-      "key": "film-2-3382805179489477009",
+      "id": "film-2-5703817460371802017",
+      "key": "film-2-5703817460371802017",
       "category": "Film",
       "label": "Film",
-      "headline": "'Klara and the Sun' Review: There's No Life - Intelligent, Artificial or Otherwise - in Taika Waititi's Calamitous Android Fantasy",
-      "title": "'Klara and the Sun' Review: There's No Life - Intelligent, Artificial or Otherwise - in Taika Waititi's Calamitous Android Fantasy",
-      "snapshot": "Adapting a solemnly complex, questioning novel as a cockeyed child's-eye comedy worked once before for Taika Waititi - which is to say that \"Jojo Rabbit,\" his crass, mawkish \"anti-hate satire\" about a Hitler Youth member's personal and political awakening, won him an Oscar and grossed nearly $100 million, in spite o...",
-      "summary": "Adapting a solemnly complex, questioning novel as a cockeyed child's-eye comedy worked once before for Taika Waititi - which is to say that \"Jojo Rabbit,\" his crass, mawkish \"anti-hate satire\" about a Hitler Youth member's personal and political awakening, won him an Oscar and grossed nearly $100 million, in spite o...",
-      "url": "https://variety.com/2026/film/news/klara-and-the-sun-review-1236914992/",
+      "headline": "James McAvoy Says 'Split' Is The Only Film That 'Really Consistently Pays Me'",
+      "title": "James McAvoy Says 'Split' Is The Only Film That 'Really Consistently Pays Me'",
+      "snapshot": "James McAvoy has starred in films including \"Speak No Evil,\" \"Atonement\" and \"X-Men: First Class,\" but he recently revealed the \"only\" film he still consistently receives residuals from is M. Night Shyamalan's 2016 horror \"Split.\" \"You get the odd check for, you know, a couple 100 quid here or sometimes you get chec...",
+      "summary": "James McAvoy has starred in films including \"Speak No Evil,\" \"Atonement\" and \"X-Men: First Class,\" but he recently revealed the \"only\" film he still consistently receives residuals from is M. Night Shyamalan's 2016 horror \"Split.\" \"You get the odd check for, you know, a couple 100 quid here or sometimes you get chec...",
+      "url": "https://variety.com/2026/film/news/james-mcavoy-split-only-film-that-consistently-pays-me-1236915162/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-10-17 04:45:01 PM ET",
+      "published_at": "2026-10-17 07:21:55 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Klara and the Sun' Review: There's No Life - Intelligent, Artificial or Otherwise - in Taika Waititi's Calamitous Android Fantasy"
+        "James McAvoy Says 'Split' Is The Only Film That 'Really Consistently Pays Me'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -738,8 +737,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-3853827488623922327",
-      "key": "film-12-3853827488623922327",
+      "id": "film-12-2583286541674607536",
+      "key": "film-12-2583286541674607536",
       "category": "Film",
       "label": "Film",
       "headline": "'Street Fighter's Orville Peck Tried To \"Orchestrate\" Kylie Minogue Cameo: \"Guys, I Can Text Her\"",
@@ -765,8 +764,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-2009347118776596319",
-      "key": "film-24-2009347118776596319",
+      "id": "film-24-5790645907023272228",
+      "key": "film-24-5790645907023272228",
       "category": "Film",
       "label": "Film",
       "headline": "Mahershala Ali Put His Two Oscars Into a Cabinet: \"I Felt a Sense of Accomplishment, Not Fulfillment\"",
@@ -792,22 +791,22 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-9149503794228663102",
-      "key": "film-34-9149503794228663102",
+      "id": "film-34-3533141999944261204",
+      "key": "film-34-3533141999944261204",
       "category": "Film",
       "label": "Film",
-      "headline": "The 10 best final girls in horror movie history, ranked - Entertainment Weekly",
-      "title": "The 10 best final girls in horror movie history, ranked - Entertainment Weekly",
-      "snapshot": "The 10 best final girls in horror movie history, ranked Entertainment Weekly",
-      "summary": "The 10 best final girls in horror movie history, ranked Entertainment Weekly",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sLXZFRmoyWUtia0xjcWNOYWlEbF9sMkpSbUl0ODBjZ1ZxYS1uQW5rcklGZlhzaEhHUWNlSURJTVQ1TXZLSjJ6VHg5SWpMelV6X2NfQjA2djMtNFd4em11am53X2I?oc=5",
+      "headline": "1999 Film, Starring Brad Pritt, Named Among the Greatest Movies of All Time - Men's Journal",
+      "title": "1999 Film, Starring Brad Pritt, Named Among the Greatest Movies of All Time - Men's Journal",
+      "snapshot": "1999 Film, Starring Brad Pritt, Named Among the Greatest Movies of All Time Men's Journal",
+      "summary": "1999 Film, Starring Brad Pritt, Named Among the Greatest Movies of All Time Men's Journal",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbnl1TmNTOXBfV09LeGNmLVZCaUlUN0xvN2dXZnlSbDFJdmRjZjl0RFc5ZVBXNEl0V2VkSE5HTU5maWRDS01mbzJRVFk4MUVRZ0t1TldxdF9ONU9wMEEtTUpuM0lmc2FGLUZmRVdST2tkdG0yVkJ4WE1WamJlckVfUkdvR1hESTFKZnk0UHpYZWxZSHQtX0FxZnEyWUp4Z3kweUVrVVpfM0hScXliRWFrT1dBdmhKUQ?oc=5",
       "source": "Google News",
       "source_name": "Google News",
       "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "published_at": "2026-10-17 09:20:00 AM ET",
+      "published_at": "2026-10-17 06:55:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "The 10 best final girls in horror movie history, ranked - Entertainment Weekly"
+        "1999 Film, Starring Brad Pritt, Named Among the Greatest Movies of All Time - Men's Journal"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -819,8 +818,8 @@
       "priority_score": 66
     },
     {
-      "id": "music-11-23069107589082596",
-      "key": "music-11-23069107589082596",
+      "id": "music-11-3164968292297054511",
+      "key": "music-11-3164968292297054511",
       "category": "Music",
       "label": "Music",
       "headline": "Bette Midler Accepts 2026 Woody Guthrie Prize, Sings Protest Classic: 'My Small Contribution to the Resistance'",
@@ -846,8 +845,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-2-5439504145990887910",
-      "key": "gaming-2-5439504145990887910",
+      "id": "gaming-2-8795389591441411565",
+      "key": "gaming-2-8795389591441411565",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The Best Deals Today: Cyberpunk 2077 for Switch 2, Pikmin 4, Star Wars Zero Company, and More",
@@ -873,22 +872,22 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-7498817481354331700",
-      "key": "film-3-7498817481354331700",
+      "id": "film-3-9067977346899441973",
+      "key": "film-3-9067977346899441973",
       "category": "Film",
       "label": "Film",
-      "headline": "Harry Styles 'Together, Together' Tour Doc Coming From John Wilson, Universal Pictures Content Group (EXCLUSIVE)",
-      "title": "Harry Styles 'Together, Together' Tour Doc Coming From John Wilson, Universal Pictures Content Group (EXCLUSIVE)",
-      "snapshot": "Harry Styles has invited one of the buzziest documentary filmmakers on the market behind the curtain of his historic Madison Square Garden residency. John Wilson, the director behind indie box-office surprise \"The History of Concrete\" and HBO's \"How To with John Wilson,\" has been rolling cameras on Styles at MSG sin...",
-      "summary": "Harry Styles has invited one of the buzziest documentary filmmakers on the market behind the curtain of his historic Madison Square Garden residency. John Wilson, the director behind indie box-office surprise \"The History of Concrete\" and HBO's \"How To with John Wilson,\" has been rolling cameras on Styles at MSG sin...",
-      "url": "https://variety.com/2026/film/news/harry-styles-john-wilson-tour-documentary-universal-1236914875/",
+      "headline": "Paul Bettany Says He and Johnny Depp 'Hadn't Spoken' in Years When Their Texts Were Read During Libel Trial: 'I Was Being Painted As This Close Friend'",
+      "title": "Paul Bettany Says He and Johnny Depp 'Hadn't Spoken' in Years When Their Texts Were Read During Libel Trial: 'I Was Being Painted As This Close Friend'",
+      "snapshot": "Paul Bettany opened up in a recent interview with The Times about the public's misconception of his relationship with Johnny Depp after text messages between the two actors were used in court during Depp's libel lawsuit against The Sun. \"I hadn't spoken to Johnny in years when that happened and I haven't spoken to h...",
+      "summary": "Paul Bettany opened up in a recent interview with The Times about the public's misconception of his relationship with Johnny Depp after text messages between the two actors were used in court during Depp's libel lawsuit against The Sun. \"I hadn't spoken to Johnny in years when that happened and I haven't spoken to h...",
+      "url": "https://variety.com/2026/film/news/paul-bettany-johnny-depp-hadnt-spoken-in-years-libel-trial-1236915108/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-10-17 03:00:20 PM ET",
+      "published_at": "2026-10-17 04:48:39 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Harry Styles 'Together, Together' Tour Doc Coming From John Wilson, Universal Pictures Content Group (EXCLUSIVE)"
+        "Paul Bettany Says He and Johnny Depp 'Hadn't Spoken' in Years When Their Texts Were Read During Libel Trial: 'I Was Being Painted As This Close Friend'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -900,8 +899,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-2352166186066204024",
-      "key": "film-13-2352166186066204024",
+      "id": "film-13-8805486610816111525",
+      "key": "film-13-8805486610816111525",
       "category": "Film",
       "label": "Film",
       "headline": "Michael Forest Dies: Actor In Roger Corman B-Movies, 'Star Trek's Apollo Was 97",
@@ -927,8 +926,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-3467293139569892159",
-      "key": "film-25-3467293139569892159",
+      "id": "film-25-9221658987332831102",
+      "key": "film-25-9221658987332831102",
       "category": "Film",
       "label": "Film",
       "headline": "'Perfect Road' Is a Doc That Follows a Nomadic Cyclist Pursuing Grueling Challenges - and Freedom",
@@ -954,8 +953,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-2969082173133603710",
-      "key": "film-35-2969082173133603710",
+      "id": "film-35-6870007514743180671",
+      "key": "film-35-6870007514743180671",
       "category": "Film",
       "label": "Film",
       "headline": "5 movies like 'Knives Out' to scratch the funny murder mystery itch - Mashable",
@@ -981,8 +980,8 @@
       "priority_score": 65
     },
     {
-      "id": "music-12-4004660004430717959",
-      "key": "music-12-4004660004430717959",
+      "id": "music-12-9143674284262102453",
+      "key": "music-12-9143674284262102453",
       "category": "Music",
       "label": "Music",
       "headline": "Becky G Brings World Mental Health Day Festival to a Powerful Close in NYC & More Uplifting Moments",
@@ -1008,8 +1007,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-3-5239098766153920175",
-      "key": "gaming-3-5239098766153920175",
+      "id": "gaming-3-6994451160987864549",
+      "key": "gaming-3-6994451160987864549",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Captain Price Actor Sends Message to Fans as Call of Duty: Modern Warfare 4 Campaign Praise Rolls in",
@@ -1037,22 +1036,22 @@
   ],
   "homepage_cards": [
     {
-      "id": "film-0-7818039099767036433",
-      "key": "film-0-7818039099767036433",
+      "id": "film-0-1797584771327455433",
+      "key": "film-0-1797584771327455433",
       "category": "Film",
       "label": "Film",
-      "headline": "James McAvoy Says 'Split' Is The Only Film That 'Really Consistently Pays Me'",
-      "title": "James McAvoy Says 'Split' Is The Only Film That 'Really Consistently Pays Me'",
-      "snapshot": "James McAvoy has starred in films including \"Speak No Evil,\" \"Atonement\" and \"X-Men: First Class,\" but he recently revealed the \"only\" film he still consistently receives residuals from is M. Night Shyamalan's 2016 horror \"Split.\" \"You get the odd check for, you know, a couple 100 quid here or sometimes you get chec...",
-      "summary": "James McAvoy has starred in films including \"Speak No Evil,\" \"Atonement\" and \"X-Men: First Class,\" but he recently revealed the \"only\" film he still consistently receives residuals from is M. Night Shyamalan's 2016 horror \"Split.\" \"You get the odd check for, you know, a couple 100 quid here or sometimes you get chec...",
-      "url": "https://variety.com/2026/film/news/james-mcavoy-split-only-film-that-consistently-pays-me-1236915162/",
+      "headline": "Academy Museum Gala 2026 Red Carpet: Taylor Swift, Inde Navarrette and More",
+      "title": "Academy Museum Gala 2026 Red Carpet: Taylor Swift, Inde Navarrette and More",
+      "snapshot": "The red carpet at the Academy Museum Gala is now open. Once again, the event is proving to be one of Hollywood's most glamorous A-list nights of the year. Among those expected to walk the carpet are Taylor Swift, Connor Storrie, Jessica Biel and Justin Timberlake, Kim Kardashian, Jacob Elordi, Kendall Jenner, Eva Lo...",
+      "summary": "The red carpet at the Academy Museum Gala is now open. Once again, the event is proving to be one of Hollywood's most glamorous A-list nights of the year. Among those expected to walk the carpet are Taylor Swift, Connor Storrie, Jessica Biel and Justin Timberlake, Kim Kardashian, Jacob Elordi, Kendall Jenner, Eva Lo...",
+      "url": "https://variety.com/gallery/academy-museum-gala-2026-red-carpet-photos/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-10-17 07:21:55 PM ET",
+      "published_at": "2026-10-17 09:30:47 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "James McAvoy Says 'Split' Is The Only Film That 'Really Consistently Pays Me'"
+        "Academy Museum Gala 2026 Red Carpet: Taylor Swift, Inde Navarrette and More"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1064,8 +1063,8 @@
       "priority_score": 100
     },
     {
-      "id": "film-10-3559997908566842309",
-      "key": "film-10-3559997908566842309",
+      "id": "film-10-5441047400847220692",
+      "key": "film-10-5441047400847220692",
       "category": "Film",
       "label": "Film",
       "headline": "Clive Barker Teases 'Hellraiser: Revival' Video Game Has Reignited \"Many Ideas\" For Film Franchise: \"Planning To Keep My Fingers In That Pie\"",
@@ -1091,8 +1090,8 @@
       "priority_score": 90
     },
     {
-      "id": "film-22-2760309066429375425",
-      "key": "film-22-2760309066429375425",
+      "id": "film-22-7633584055440563712",
+      "key": "film-22-7633584055440563712",
       "category": "Film",
       "label": "Film",
       "headline": "Gene Schwam, Hollywood Publicist to Elvis Presley, Judy Garland and Julie Andrews, Dies at 96",
@@ -1118,22 +1117,22 @@
       "priority_score": 78
     },
     {
-      "id": "film-32-4664343010653200214",
-      "key": "film-32-4664343010653200214",
+      "id": "film-32-1362521445507022261",
+      "key": "film-32-1362521445507022261",
       "category": "Film",
       "label": "Film",
-      "headline": "1999 Film, Starring Brad Pritt, Named Among the Greatest Movies of All Time - Men's Journal",
-      "title": "1999 Film, Starring Brad Pritt, Named Among the Greatest Movies of All Time - Men's Journal",
-      "snapshot": "1999 Film, Starring Brad Pritt, Named Among the Greatest Movies of All Time Men's Journal",
-      "summary": "1999 Film, Starring Brad Pritt, Named Among the Greatest Movies of All Time Men's Journal",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbnl1TmNTOXBfV09LeGNmLVZCaUlUN0xvN2dXZnlSbDFJdmRjZjl0RFc5ZVBXNEl0V2VkSE5HTU5maWRDS01mbzJRVFk4MUVRZ0t1TldxdF9ONU9wMEEtTUpuM0lmc2FGLUZmRVdST2tkdG0yVkJ4WE1WamJlckVfUkdvR1hESTFKZnk0UHpYZWxZSHQtX0FxZnEyWUp4Z3kweUVrVVpfM0hScXliRWFrT1dBdmhKUQ?oc=5",
+      "headline": "The 10 best final girls in horror movie history, ranked - Entertainment Weekly",
+      "title": "The 10 best final girls in horror movie history, ranked - Entertainment Weekly",
+      "snapshot": "The 10 best final girls in horror movie history, ranked Entertainment Weekly",
+      "summary": "The 10 best final girls in horror movie history, ranked Entertainment Weekly",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sLXZFRmoyWUtia0xjcWNOYWlEbF9sMkpSbUl0ODBjZ1ZxYS1uQW5rcklGZlhzaEhHUWNlSURJTVQ1TXZLSjJ6VHg5SWpMelV6X2NfQjA2djMtNFd4em11am53X2I?oc=5",
       "source": "Google News",
       "source_name": "Google News",
       "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "published_at": "2026-10-17 06:55:00 AM ET",
+      "published_at": "2026-10-17 09:20:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "1999 Film, Starring Brad Pritt, Named Among the Greatest Movies of All Time - Men's Journal"
+        "The 10 best final girls in horror movie history, ranked - Entertainment Weekly"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1145,8 +1144,8 @@
       "priority_score": 68
     },
     {
-      "id": "music-9-8762285834729749754",
-      "key": "music-9-8762285834729749754",
+      "id": "music-9-1719941275230916509",
+      "key": "music-9-1719941275230916509",
       "category": "Music",
       "label": "Music",
       "headline": "Zach Bryan Gets Candid About Sobriety in Matthew McConaughey Interview: 'Why Am I Drinking?'",
@@ -1172,8 +1171,8 @@
       "priority_score": 91
     },
     {
-      "id": "gaming-0-2491355342771567938",
-      "key": "gaming-0-2491355342771567938",
+      "id": "gaming-0-1829395503906205103",
+      "key": "gaming-0-1829395503906205103",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Dev Behind Russian Roulette Drinking Game Cancels Steam Demo Plans Following AI Copycat Concerns",
@@ -1199,22 +1198,22 @@
       "priority_score": 100
     },
     {
-      "id": "film-1-9122832395458767298",
-      "key": "film-1-9122832395458767298",
+      "id": "film-1-7841118811372183846",
+      "key": "film-1-7841118811372183846",
       "category": "Film",
       "label": "Film",
-      "headline": "Paul Bettany Says He and Johnny Depp 'Hadn't Spoken' in Years When Their Texts Were Read During Libel Trial: 'I Was Being Painted As This Close Friend'",
-      "title": "Paul Bettany Says He and Johnny Depp 'Hadn't Spoken' in Years When Their Texts Were Read During Libel Trial: 'I Was Being Painted As This Close Friend'",
-      "snapshot": "Paul Bettany opened up in a recent interview with The Times about the public's misconception of his relationship with Johnny Depp after text messages between the two actors were used in court during Depp's libel lawsuit against The Sun. \"I hadn't spoken to Johnny in years when that happened and I haven't spoken to h...",
-      "summary": "Paul Bettany opened up in a recent interview with The Times about the public's misconception of his relationship with Johnny Depp after text messages between the two actors were used in court during Depp's libel lawsuit against The Sun. \"I hadn't spoken to Johnny in years when that happened and I haven't spoken to h...",
-      "url": "https://variety.com/2026/film/news/paul-bettany-johnny-depp-hadnt-spoken-in-years-libel-trial-1236915108/",
+      "headline": "Quentin Tarantino Confirms He's 'Written a Script' for His Tenth Film, But Won't Pursue It Yet Because He Wants to 'Live a Little'",
+      "title": "Quentin Tarantino Confirms He's 'Written a Script' for His Tenth Film, But Won't Pursue It Yet Because He Wants to 'Live a Little'",
+      "snapshot": "Quentin Tarantino has long said he'll be retiring after his 10th feature film, but fans shouldn't worry yet. While the \"Pulp Fiction\" director confirmed he'd finished penning the script for his final project, he won't be getting much further with it until his newly opened play, \"The Popinjay Cavalier,\" closes. Taran...",
+      "summary": "Quentin Tarantino has long said he'll be retiring after his 10th feature film, but fans shouldn't worry yet. While the \"Pulp Fiction\" director confirmed he'd finished penning the script for his final project, he won't be getting much further with it until his newly opened play, \"The Popinjay Cavalier,\" closes. Taran...",
+      "url": "https://variety.com/2026/film/news/quentin-tarantino-confirms-script-for-tenth-film-1236915169/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-10-17 04:48:39 PM ET",
+      "published_at": "2026-10-17 07:59:24 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Paul Bettany Says He and Johnny Depp 'Hadn't Spoken' in Years When Their Texts Were Read During Libel Trial: 'I Was Being Painted As This Close Friend'"
+        "Quentin Tarantino Confirms He's 'Written a Script' for His Tenth Film, But Won't Pursue It Yet Because He Wants to 'Live a Little'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1226,8 +1225,8 @@
       "priority_score": 99
     },
     {
-      "id": "film-11-639418932945220569",
-      "key": "film-11-639418932945220569",
+      "id": "film-11-7704669401128685712",
+      "key": "film-11-7704669401128685712",
       "category": "Film",
       "label": "Film",
       "headline": "Paul McCartney Was Concerned Paul Mescal Is \"Markedly Shorter\" Than 'The Beatles' Co-Stars",
@@ -1253,8 +1252,8 @@
       "priority_score": 89
     },
     {
-      "id": "film-23-1735286516193389021",
-      "key": "film-23-1735286516193389021",
+      "id": "film-23-2915037123532508758",
+      "key": "film-23-2915037123532508758",
       "category": "Film",
       "label": "Film",
       "headline": "'Street Fighter' Scoring $31M at Box Office as 'You Can See Everything' Rises and 'Whalefall' Sinks",
@@ -1280,8 +1279,8 @@
       "priority_score": 77
     },
     {
-      "id": "film-33-7746890406717342049",
-      "key": "film-33-7746890406717342049",
+      "id": "film-33-2429644023995734170",
+      "key": "film-33-2429644023995734170",
       "category": "Film",
       "label": "Film",
       "headline": "'You Can See Everything' reviews: Nathan Fielder's Elizabeth Holmes documentary hits 99% on Rotten Tomatoes as it opens in theaters - Yahoo",
@@ -1307,8 +1306,8 @@
       "priority_score": 67
     },
     {
-      "id": "music-10-5399943716509706580",
-      "key": "music-10-5399943716509706580",
+      "id": "music-10-3674303945781708829",
+      "key": "music-10-3674303945781708829",
       "category": "Music",
       "label": "Music",
       "headline": "Iron Maiden Announce 2027 Run for Your Lives North American Tour: See the Dates",
@@ -1334,8 +1333,8 @@
       "priority_score": 90
     },
     {
-      "id": "gaming-1-3027244309278521981",
-      "key": "gaming-1-3027244309278521981",
+      "id": "gaming-1-332378972434830293",
+      "key": "gaming-1-332378972434830293",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Battlefield 6 Devs Respond After Players Take Aim at 'Secuty' Typo and Cosmetic With 5 Pistols",
@@ -1361,22 +1360,22 @@
       "priority_score": 99
     },
     {
-      "id": "film-2-3382805179489477009",
-      "key": "film-2-3382805179489477009",
+      "id": "film-2-5703817460371802017",
+      "key": "film-2-5703817460371802017",
       "category": "Film",
       "label": "Film",
-      "headline": "'Klara and the Sun' Review: There's No Life - Intelligent, Artificial or Otherwise - in Taika Waititi's Calamitous Android Fantasy",
-      "title": "'Klara and the Sun' Review: There's No Life - Intelligent, Artificial or Otherwise - in Taika Waititi's Calamitous Android Fantasy",
-      "snapshot": "Adapting a solemnly complex, questioning novel as a cockeyed child's-eye comedy worked once before for Taika Waititi - which is to say that \"Jojo Rabbit,\" his crass, mawkish \"anti-hate satire\" about a Hitler Youth member's personal and political awakening, won him an Oscar and grossed nearly $100 million, in spite o...",
-      "summary": "Adapting a solemnly complex, questioning novel as a cockeyed child's-eye comedy worked once before for Taika Waititi - which is to say that \"Jojo Rabbit,\" his crass, mawkish \"anti-hate satire\" about a Hitler Youth member's personal and political awakening, won him an Oscar and grossed nearly $100 million, in spite o...",
-      "url": "https://variety.com/2026/film/news/klara-and-the-sun-review-1236914992/",
+      "headline": "James McAvoy Says 'Split' Is The Only Film That 'Really Consistently Pays Me'",
+      "title": "James McAvoy Says 'Split' Is The Only Film That 'Really Consistently Pays Me'",
+      "snapshot": "James McAvoy has starred in films including \"Speak No Evil,\" \"Atonement\" and \"X-Men: First Class,\" but he recently revealed the \"only\" film he still consistently receives residuals from is M. Night Shyamalan's 2016 horror \"Split.\" \"You get the odd check for, you know, a couple 100 quid here or sometimes you get chec...",
+      "summary": "James McAvoy has starred in films including \"Speak No Evil,\" \"Atonement\" and \"X-Men: First Class,\" but he recently revealed the \"only\" film he still consistently receives residuals from is M. Night Shyamalan's 2016 horror \"Split.\" \"You get the odd check for, you know, a couple 100 quid here or sometimes you get chec...",
+      "url": "https://variety.com/2026/film/news/james-mcavoy-split-only-film-that-consistently-pays-me-1236915162/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-10-17 04:45:01 PM ET",
+      "published_at": "2026-10-17 07:21:55 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "'Klara and the Sun' Review: There's No Life - Intelligent, Artificial or Otherwise - in Taika Waititi's Calamitous Android Fantasy"
+        "James McAvoy Says 'Split' Is The Only Film That 'Really Consistently Pays Me'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1388,8 +1387,8 @@
       "priority_score": 98
     },
     {
-      "id": "film-12-3853827488623922327",
-      "key": "film-12-3853827488623922327",
+      "id": "film-12-2583286541674607536",
+      "key": "film-12-2583286541674607536",
       "category": "Film",
       "label": "Film",
       "headline": "'Street Fighter's Orville Peck Tried To \"Orchestrate\" Kylie Minogue Cameo: \"Guys, I Can Text Her\"",
@@ -1415,8 +1414,8 @@
       "priority_score": 88
     },
     {
-      "id": "film-24-2009347118776596319",
-      "key": "film-24-2009347118776596319",
+      "id": "film-24-5790645907023272228",
+      "key": "film-24-5790645907023272228",
       "category": "Film",
       "label": "Film",
       "headline": "Mahershala Ali Put His Two Oscars Into a Cabinet: \"I Felt a Sense of Accomplishment, Not Fulfillment\"",
@@ -1442,22 +1441,22 @@
       "priority_score": 76
     },
     {
-      "id": "film-34-9149503794228663102",
-      "key": "film-34-9149503794228663102",
+      "id": "film-34-3533141999944261204",
+      "key": "film-34-3533141999944261204",
       "category": "Film",
       "label": "Film",
-      "headline": "The 10 best final girls in horror movie history, ranked - Entertainment Weekly",
-      "title": "The 10 best final girls in horror movie history, ranked - Entertainment Weekly",
-      "snapshot": "The 10 best final girls in horror movie history, ranked Entertainment Weekly",
-      "summary": "The 10 best final girls in horror movie history, ranked Entertainment Weekly",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sLXZFRmoyWUtia0xjcWNOYWlEbF9sMkpSbUl0ODBjZ1ZxYS1uQW5rcklGZlhzaEhHUWNlSURJTVQ1TXZLSjJ6VHg5SWpMelV6X2NfQjA2djMtNFd4em11am53X2I?oc=5",
+      "headline": "1999 Film, Starring Brad Pritt, Named Among the Greatest Movies of All Time - Men's Journal",
+      "title": "1999 Film, Starring Brad Pritt, Named Among the Greatest Movies of All Time - Men's Journal",
+      "snapshot": "1999 Film, Starring Brad Pritt, Named Among the Greatest Movies of All Time Men's Journal",
+      "summary": "1999 Film, Starring Brad Pritt, Named Among the Greatest Movies of All Time Men's Journal",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbnl1TmNTOXBfV09LeGNmLVZCaUlUN0xvN2dXZnlSbDFJdmRjZjl0RFc5ZVBXNEl0V2VkSE5HTU5maWRDS01mbzJRVFk4MUVRZ0t1TldxdF9ONU9wMEEtTUpuM0lmc2FGLUZmRVdST2tkdG0yVkJ4WE1WamJlckVfUkdvR1hESTFKZnk0UHpYZWxZSHQtX0FxZnEyWUp4Z3kweUVrVVpfM0hScXliRWFrT1dBdmhKUQ?oc=5",
       "source": "Google News",
       "source_name": "Google News",
       "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-      "published_at": "2026-10-17 09:20:00 AM ET",
+      "published_at": "2026-10-17 06:55:00 AM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "The 10 best final girls in horror movie history, ranked - Entertainment Weekly"
+        "1999 Film, Starring Brad Pritt, Named Among the Greatest Movies of All Time - Men's Journal"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1469,8 +1468,8 @@
       "priority_score": 66
     },
     {
-      "id": "music-11-23069107589082596",
-      "key": "music-11-23069107589082596",
+      "id": "music-11-3164968292297054511",
+      "key": "music-11-3164968292297054511",
       "category": "Music",
       "label": "Music",
       "headline": "Bette Midler Accepts 2026 Woody Guthrie Prize, Sings Protest Classic: 'My Small Contribution to the Resistance'",
@@ -1496,8 +1495,8 @@
       "priority_score": 89
     },
     {
-      "id": "gaming-2-5439504145990887910",
-      "key": "gaming-2-5439504145990887910",
+      "id": "gaming-2-8795389591441411565",
+      "key": "gaming-2-8795389591441411565",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "The Best Deals Today: Cyberpunk 2077 for Switch 2, Pikmin 4, Star Wars Zero Company, and More",
@@ -1523,22 +1522,22 @@
       "priority_score": 98
     },
     {
-      "id": "film-3-7498817481354331700",
-      "key": "film-3-7498817481354331700",
+      "id": "film-3-9067977346899441973",
+      "key": "film-3-9067977346899441973",
       "category": "Film",
       "label": "Film",
-      "headline": "Harry Styles 'Together, Together' Tour Doc Coming From John Wilson, Universal Pictures Content Group (EXCLUSIVE)",
-      "title": "Harry Styles 'Together, Together' Tour Doc Coming From John Wilson, Universal Pictures Content Group (EXCLUSIVE)",
-      "snapshot": "Harry Styles has invited one of the buzziest documentary filmmakers on the market behind the curtain of his historic Madison Square Garden residency. John Wilson, the director behind indie box-office surprise \"The History of Concrete\" and HBO's \"How To with John Wilson,\" has been rolling cameras on Styles at MSG sin...",
-      "summary": "Harry Styles has invited one of the buzziest documentary filmmakers on the market behind the curtain of his historic Madison Square Garden residency. John Wilson, the director behind indie box-office surprise \"The History of Concrete\" and HBO's \"How To with John Wilson,\" has been rolling cameras on Styles at MSG sin...",
-      "url": "https://variety.com/2026/film/news/harry-styles-john-wilson-tour-documentary-universal-1236914875/",
+      "headline": "Paul Bettany Says He and Johnny Depp 'Hadn't Spoken' in Years When Their Texts Were Read During Libel Trial: 'I Was Being Painted As This Close Friend'",
+      "title": "Paul Bettany Says He and Johnny Depp 'Hadn't Spoken' in Years When Their Texts Were Read During Libel Trial: 'I Was Being Painted As This Close Friend'",
+      "snapshot": "Paul Bettany opened up in a recent interview with The Times about the public's misconception of his relationship with Johnny Depp after text messages between the two actors were used in court during Depp's libel lawsuit against The Sun. \"I hadn't spoken to Johnny in years when that happened and I haven't spoken to h...",
+      "summary": "Paul Bettany opened up in a recent interview with The Times about the public's misconception of his relationship with Johnny Depp after text messages between the two actors were used in court during Depp's libel lawsuit against The Sun. \"I hadn't spoken to Johnny in years when that happened and I haven't spoken to h...",
+      "url": "https://variety.com/2026/film/news/paul-bettany-johnny-depp-hadnt-spoken-in-years-libel-trial-1236915108/",
       "source": "Variety",
       "source_name": "Variety",
       "source_feed": "https://variety.com/v/film/feed/",
-      "published_at": "2026-10-17 03:00:20 PM ET",
+      "published_at": "2026-10-17 04:48:39 PM ET",
       "freshness_status": "fresh",
       "key_data": [
-        "Harry Styles 'Together, Together' Tour Doc Coming From John Wilson, Universal Pictures Content Group (EXCLUSIVE)"
+        "Paul Bettany Says He and Johnny Depp 'Hadn't Spoken' in Years When Their Texts Were Read During Libel Trial: 'I Was Being Painted As This Close Friend'"
       ],
       "why_it_matters": [
         "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1550,8 +1549,8 @@
       "priority_score": 97
     },
     {
-      "id": "film-13-2352166186066204024",
-      "key": "film-13-2352166186066204024",
+      "id": "film-13-8805486610816111525",
+      "key": "film-13-8805486610816111525",
       "category": "Film",
       "label": "Film",
       "headline": "Michael Forest Dies: Actor In Roger Corman B-Movies, 'Star Trek's Apollo Was 97",
@@ -1577,8 +1576,8 @@
       "priority_score": 87
     },
     {
-      "id": "film-25-3467293139569892159",
-      "key": "film-25-3467293139569892159",
+      "id": "film-25-9221658987332831102",
+      "key": "film-25-9221658987332831102",
       "category": "Film",
       "label": "Film",
       "headline": "'Perfect Road' Is a Doc That Follows a Nomadic Cyclist Pursuing Grueling Challenges - and Freedom",
@@ -1604,8 +1603,8 @@
       "priority_score": 75
     },
     {
-      "id": "film-35-2969082173133603710",
-      "key": "film-35-2969082173133603710",
+      "id": "film-35-6870007514743180671",
+      "key": "film-35-6870007514743180671",
       "category": "Film",
       "label": "Film",
       "headline": "5 movies like 'Knives Out' to scratch the funny murder mystery itch - Mashable",
@@ -1631,8 +1630,8 @@
       "priority_score": 65
     },
     {
-      "id": "music-12-4004660004430717959",
-      "key": "music-12-4004660004430717959",
+      "id": "music-12-9143674284262102453",
+      "key": "music-12-9143674284262102453",
       "category": "Music",
       "label": "Music",
       "headline": "Becky G Brings World Mental Health Day Festival to a Powerful Close in NYC & More Uplifting Moments",
@@ -1658,8 +1657,8 @@
       "priority_score": 88
     },
     {
-      "id": "gaming-3-5239098766153920175",
-      "key": "gaming-3-5239098766153920175",
+      "id": "gaming-3-6994451160987864549",
+      "key": "gaming-3-6994451160987864549",
       "category": "Gaming",
       "label": "Gaming",
       "headline": "Captain Price Actor Sends Message to Fans as Call of Duty: Modern Warfare 4 Campaign Praise Rolls in",
@@ -1690,46 +1689,46 @@
       "key": "film",
       "name": "Film",
       "title": "Film Report",
-      "headline": "James McAvoy Says ‘Split’ Is The Only Film That ‘Really Consistently Pays Me’",
+      "headline": "Academy Museum Gala 2026 Red Carpet: Taylor Swift, Inde Navarrette and More",
       "snapshot": "Film coverage is updating with 8 current RSS headline item(s).",
       "key_storylines": [
-        "James McAvoy Says ‘Split’ Is The Only Film That ‘Really Consistently Pays Me’",
+        "Academy Museum Gala 2026 Red Carpet: Taylor Swift, Inde Navarrette and More",
         "Clive Barker Teases ‘Hellraiser: Revival’ Video Game Has Reignited “Many Ideas” For Film Franchise: “Planning To Keep My Fingers In That Pie”",
         "Gene Schwam, Hollywood Publicist to Elvis Presley, Judy Garland and Julie Andrews, Dies at 96",
-        "1999 Film, Starring Brad Pritt, Named Among the Greatest Movies of All Time - Men's Journal",
-        "Paul Bettany Says He and Johnny Depp ‘Hadn’t Spoken’ in Years When Their Texts Were Read During Libel Trial: ‘I Was Being Painted As This Close Friend’"
+        "The 10 best final girls in horror movie history, ranked - Entertainment Weekly",
+        "Quentin Tarantino Confirms He’s ‘Written a Script’ for His Tenth Film, But Won’t Pursue It Yet Because He Wants to ‘Live a Little’"
       ],
       "watch_list": [
-        "James McAvoy Says ‘Split’ Is The Only Film That ‘Really Consistently Pays Me’",
+        "Academy Museum Gala 2026 Red Carpet: Taylor Swift, Inde Navarrette and More",
         "Clive Barker Teases ‘Hellraiser: Revival’ Video Game Has Reignited “Many Ideas” For Film Franchise: “Planning To Keep My Fingers In That Pie”",
         "Gene Schwam, Hollywood Publicist to Elvis Presley, Judy Garland and Julie Andrews, Dies at 96",
-        "1999 Film, Starring Brad Pritt, Named Among the Greatest Movies of All Time - Men's Journal",
-        "Paul Bettany Says He and Johnny Depp ‘Hadn’t Spoken’ in Years When Their Texts Were Read During Libel Trial: ‘I Was Being Painted As This Close Friend’",
+        "The 10 best final girls in horror movie history, ranked - Entertainment Weekly",
+        "Quentin Tarantino Confirms He’s ‘Written a Script’ for His Tenth Film, But Won’t Pursue It Yet Because He Wants to ‘Live a Little’",
         "Paul McCartney Was Concerned Paul Mescal Is “Markedly Shorter” Than ‘The Beatles’ Co-Stars",
         "‘Street Fighter’ Scoring $31M at Box Office as ‘You Can See Everything’ Rises and ‘Whalefall’ Sinks",
         "‘You Can See Everything’ reviews: Nathan Fielder’s Elizabeth Holmes documentary hits 99% on Rotten Tomatoes as it opens in theaters - Yahoo"
       ],
       "homepage_cards": [
         {
-          "id": "film-0-7818039099767036433",
-          "key": "film-0-7818039099767036433",
+          "id": "film-0-1797584771327455433",
+          "key": "film-0-1797584771327455433",
           "category": "Film",
           "label": "Film",
-          "headline": "James McAvoy Says ‘Split’ Is The Only Film That ‘Really Consistently Pays Me’",
-          "title": "James McAvoy Says ‘Split’ Is The Only Film That ‘Really Consistently Pays Me’",
-          "snapshot": "James McAvoy has starred in films including “Speak No Evil,” “Atonement” and “X-Men: First Class,” but he recently revealed the “only” film he still consistently receives residuals from is M. Night Shyamalan’s 2016 horror “Split.” “You get the odd check for, you know, a couple 100 quid here or sometimes you get chec...",
-          "summary": "James McAvoy has starred in films including “Speak No Evil,” “Atonement” and “X-Men: First Class,” but he recently revealed the “only” film he still consistently receives residuals from is M. Night Shyamalan’s 2016 horror “Split.” “You get the odd check for, you know, a couple 100 quid here or sometimes you get chec...",
-          "url": "https://variety.com/2026/film/news/james-mcavoy-split-only-film-that-consistently-pays-me-1236915162/",
+          "headline": "Academy Museum Gala 2026 Red Carpet: Taylor Swift, Inde Navarrette and More",
+          "title": "Academy Museum Gala 2026 Red Carpet: Taylor Swift, Inde Navarrette and More",
+          "snapshot": "The red carpet at the Academy Museum Gala is now open. Once again, the event is proving to be one of Hollywood’s most glamorous A-list nights of the year. Among those expected to walk the carpet are Taylor Swift, Connor Storrie, Jessica Biel and Justin Timberlake, Kim Kardashian, Jacob Elordi, Kendall Jenner, Eva Lo...",
+          "summary": "The red carpet at the Academy Museum Gala is now open. Once again, the event is proving to be one of Hollywood’s most glamorous A-list nights of the year. Among those expected to walk the carpet are Taylor Swift, Connor Storrie, Jessica Biel and Justin Timberlake, Kim Kardashian, Jacob Elordi, Kendall Jenner, Eva Lo...",
+          "url": "https://variety.com/gallery/academy-museum-gala-2026-red-carpet-photos/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/feed/",
-          "published_at": "2026-10-17 07:21:55 PM ET",
+          "published_at": "2026-10-17 09:30:47 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "James McAvoy Says ‘Split’ Is The Only Film That ‘Really Consistently Pays Me’"
+            "Academy Museum Gala 2026 Red Carpet: Taylor Swift, Inde Navarrette and More"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1739,8 +1738,8 @@
           ]
         },
         {
-          "id": "film-10-3559997908566842309",
-          "key": "film-10-3559997908566842309",
+          "id": "film-10-5441047400847220692",
+          "key": "film-10-5441047400847220692",
           "category": "Film",
           "label": "Film",
           "headline": "Clive Barker Teases ‘Hellraiser: Revival’ Video Game Has Reignited “Many Ideas” For Film Franchise: “Planning To Keep My Fingers In That Pie”",
@@ -1767,8 +1766,8 @@
           ]
         },
         {
-          "id": "film-22-2760309066429375425",
-          "key": "film-22-2760309066429375425",
+          "id": "film-22-7633584055440563712",
+          "key": "film-22-7633584055440563712",
           "category": "Film",
           "label": "Film",
           "headline": "Gene Schwam, Hollywood Publicist to Elvis Presley, Judy Garland and Julie Andrews, Dies at 96",
@@ -1795,25 +1794,25 @@
           ]
         },
         {
-          "id": "film-32-4664343010653200214",
-          "key": "film-32-4664343010653200214",
+          "id": "film-32-1362521445507022261",
+          "key": "film-32-1362521445507022261",
           "category": "Film",
           "label": "Film",
-          "headline": "1999 Film, Starring Brad Pritt, Named Among the Greatest Movies of All Time - Men's Journal",
-          "title": "1999 Film, Starring Brad Pritt, Named Among the Greatest Movies of All Time - Men's Journal",
-          "snapshot": "1999 Film, Starring Brad Pritt, Named Among the Greatest Movies of All Time Men's Journal",
-          "summary": "1999 Film, Starring Brad Pritt, Named Among the Greatest Movies of All Time Men's Journal",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbnl1TmNTOXBfV09LeGNmLVZCaUlUN0xvN2dXZnlSbDFJdmRjZjl0RFc5ZVBXNEl0V2VkSE5HTU5maWRDS01mbzJRVFk4MUVRZ0t1TldxdF9ONU9wMEEtTUpuM0lmc2FGLUZmRVdST2tkdG0yVkJ4WE1WamJlckVfUkdvR1hESTFKZnk0UHpYZWxZSHQtX0FxZnEyWUp4Z3kweUVrVVpfM0hScXliRWFrT1dBdmhKUQ?oc=5",
+          "headline": "The 10 best final girls in horror movie history, ranked - Entertainment Weekly",
+          "title": "The 10 best final girls in horror movie history, ranked - Entertainment Weekly",
+          "snapshot": "The 10 best final girls in horror movie history, ranked Entertainment Weekly",
+          "summary": "The 10 best final girls in horror movie history, ranked Entertainment Weekly",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sLXZFRmoyWUtia0xjcWNOYWlEbF9sMkpSbUl0ODBjZ1ZxYS1uQW5rcklGZlhzaEhHUWNlSURJTVQ1TXZLSjJ6VHg5SWpMelV6X2NfQjA2djMtNFd4em11am53X2I?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-10-17 06:55:00 AM ET",
+          "published_at": "2026-10-17 09:20:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 68,
           "key_data": [
-            "1999 Film, Starring Brad Pritt, Named Among the Greatest Movies of All Time - Men's Journal"
+            "The 10 best final girls in horror movie history, ranked - Entertainment Weekly"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1823,25 +1822,25 @@
           ]
         },
         {
-          "id": "film-1-9122832395458767298",
-          "key": "film-1-9122832395458767298",
+          "id": "film-1-7841118811372183846",
+          "key": "film-1-7841118811372183846",
           "category": "Film",
           "label": "Film",
-          "headline": "Paul Bettany Says He and Johnny Depp ‘Hadn’t Spoken’ in Years When Their Texts Were Read During Libel Trial: ‘I Was Being Painted As This Close Friend’",
-          "title": "Paul Bettany Says He and Johnny Depp ‘Hadn’t Spoken’ in Years When Their Texts Were Read During Libel Trial: ‘I Was Being Painted As This Close Friend’",
-          "snapshot": "Paul Bettany opened up in a recent interview with The Times about the public’s misconception of his relationship with Johnny Depp after text messages between the two actors were used in court during Depp’s libel lawsuit against The Sun. “I hadn’t spoken to Johnny in years when that happened and I haven’t spoken to h...",
-          "summary": "Paul Bettany opened up in a recent interview with The Times about the public’s misconception of his relationship with Johnny Depp after text messages between the two actors were used in court during Depp’s libel lawsuit against The Sun. “I hadn’t spoken to Johnny in years when that happened and I haven’t spoken to h...",
-          "url": "https://variety.com/2026/film/news/paul-bettany-johnny-depp-hadnt-spoken-in-years-libel-trial-1236915108/",
+          "headline": "Quentin Tarantino Confirms He’s ‘Written a Script’ for His Tenth Film, But Won’t Pursue It Yet Because He Wants to ‘Live a Little’",
+          "title": "Quentin Tarantino Confirms He’s ‘Written a Script’ for His Tenth Film, But Won’t Pursue It Yet Because He Wants to ‘Live a Little’",
+          "snapshot": "Quentin Tarantino has long said he’ll be retiring after his 10th feature film, but fans shouldn’t worry yet. While the “Pulp Fiction” director confirmed he’d finished penning the script for his final project, he won’t be getting much further with it until his newly opened play, “The Popinjay Cavalier,” closes. Taran...",
+          "summary": "Quentin Tarantino has long said he’ll be retiring after his 10th feature film, but fans shouldn’t worry yet. While the “Pulp Fiction” director confirmed he’d finished penning the script for his final project, he won’t be getting much further with it until his newly opened play, “The Popinjay Cavalier,” closes. Taran...",
+          "url": "https://variety.com/2026/film/news/quentin-tarantino-confirms-script-for-tenth-film-1236915169/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/feed/",
-          "published_at": "2026-10-17 04:48:39 PM ET",
+          "published_at": "2026-10-17 07:59:24 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Paul Bettany Says He and Johnny Depp ‘Hadn’t Spoken’ in Years When Their Texts Were Read During Libel Trial: ‘I Was Being Painted As This Close Friend’"
+            "Quentin Tarantino Confirms He’s ‘Written a Script’ for His Tenth Film, But Won’t Pursue It Yet Because He Wants to ‘Live a Little’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1851,8 +1850,8 @@
           ]
         },
         {
-          "id": "film-11-639418932945220569",
-          "key": "film-11-639418932945220569",
+          "id": "film-11-7704669401128685712",
+          "key": "film-11-7704669401128685712",
           "category": "Film",
           "label": "Film",
           "headline": "Paul McCartney Was Concerned Paul Mescal Is “Markedly Shorter” Than ‘The Beatles’ Co-Stars",
@@ -1879,8 +1878,8 @@
           ]
         },
         {
-          "id": "film-23-1735286516193389021",
-          "key": "film-23-1735286516193389021",
+          "id": "film-23-2915037123532508758",
+          "key": "film-23-2915037123532508758",
           "category": "Film",
           "label": "Film",
           "headline": "‘Street Fighter’ Scoring $31M at Box Office as ‘You Can See Everything’ Rises and ‘Whalefall’ Sinks",
@@ -1907,8 +1906,8 @@
           ]
         },
         {
-          "id": "film-33-7746890406717342049",
-          "key": "film-33-7746890406717342049",
+          "id": "film-33-2429644023995734170",
+          "key": "film-33-2429644023995734170",
           "category": "Film",
           "label": "Film",
           "headline": "‘You Can See Everything’ reviews: Nathan Fielder’s Elizabeth Holmes documentary hits 99% on Rotten Tomatoes as it opens in theaters - Yahoo",
@@ -1937,25 +1936,25 @@
       ],
       "items": [
         {
-          "id": "film-0-7818039099767036433",
-          "key": "film-0-7818039099767036433",
+          "id": "film-0-1797584771327455433",
+          "key": "film-0-1797584771327455433",
           "category": "Film",
           "label": "Film",
-          "headline": "James McAvoy Says ‘Split’ Is The Only Film That ‘Really Consistently Pays Me’",
-          "title": "James McAvoy Says ‘Split’ Is The Only Film That ‘Really Consistently Pays Me’",
-          "snapshot": "James McAvoy has starred in films including “Speak No Evil,” “Atonement” and “X-Men: First Class,” but he recently revealed the “only” film he still consistently receives residuals from is M. Night Shyamalan’s 2016 horror “Split.” “You get the odd check for, you know, a couple 100 quid here or sometimes you get chec...",
-          "summary": "James McAvoy has starred in films including “Speak No Evil,” “Atonement” and “X-Men: First Class,” but he recently revealed the “only” film he still consistently receives residuals from is M. Night Shyamalan’s 2016 horror “Split.” “You get the odd check for, you know, a couple 100 quid here or sometimes you get chec...",
-          "url": "https://variety.com/2026/film/news/james-mcavoy-split-only-film-that-consistently-pays-me-1236915162/",
+          "headline": "Academy Museum Gala 2026 Red Carpet: Taylor Swift, Inde Navarrette and More",
+          "title": "Academy Museum Gala 2026 Red Carpet: Taylor Swift, Inde Navarrette and More",
+          "snapshot": "The red carpet at the Academy Museum Gala is now open. Once again, the event is proving to be one of Hollywood’s most glamorous A-list nights of the year. Among those expected to walk the carpet are Taylor Swift, Connor Storrie, Jessica Biel and Justin Timberlake, Kim Kardashian, Jacob Elordi, Kendall Jenner, Eva Lo...",
+          "summary": "The red carpet at the Academy Museum Gala is now open. Once again, the event is proving to be one of Hollywood’s most glamorous A-list nights of the year. Among those expected to walk the carpet are Taylor Swift, Connor Storrie, Jessica Biel and Justin Timberlake, Kim Kardashian, Jacob Elordi, Kendall Jenner, Eva Lo...",
+          "url": "https://variety.com/gallery/academy-museum-gala-2026-red-carpet-photos/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/feed/",
-          "published_at": "2026-10-17 07:21:55 PM ET",
+          "published_at": "2026-10-17 09:30:47 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 100,
           "key_data": [
-            "James McAvoy Says ‘Split’ Is The Only Film That ‘Really Consistently Pays Me’"
+            "Academy Museum Gala 2026 Red Carpet: Taylor Swift, Inde Navarrette and More"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -1965,8 +1964,8 @@
           ]
         },
         {
-          "id": "film-10-3559997908566842309",
-          "key": "film-10-3559997908566842309",
+          "id": "film-10-5441047400847220692",
+          "key": "film-10-5441047400847220692",
           "category": "Film",
           "label": "Film",
           "headline": "Clive Barker Teases ‘Hellraiser: Revival’ Video Game Has Reignited “Many Ideas” For Film Franchise: “Planning To Keep My Fingers In That Pie”",
@@ -1993,8 +1992,8 @@
           ]
         },
         {
-          "id": "film-22-2760309066429375425",
-          "key": "film-22-2760309066429375425",
+          "id": "film-22-7633584055440563712",
+          "key": "film-22-7633584055440563712",
           "category": "Film",
           "label": "Film",
           "headline": "Gene Schwam, Hollywood Publicist to Elvis Presley, Judy Garland and Julie Andrews, Dies at 96",
@@ -2021,25 +2020,25 @@
           ]
         },
         {
-          "id": "film-32-4664343010653200214",
-          "key": "film-32-4664343010653200214",
+          "id": "film-32-1362521445507022261",
+          "key": "film-32-1362521445507022261",
           "category": "Film",
           "label": "Film",
-          "headline": "1999 Film, Starring Brad Pritt, Named Among the Greatest Movies of All Time - Men's Journal",
-          "title": "1999 Film, Starring Brad Pritt, Named Among the Greatest Movies of All Time - Men's Journal",
-          "snapshot": "1999 Film, Starring Brad Pritt, Named Among the Greatest Movies of All Time Men's Journal",
-          "summary": "1999 Film, Starring Brad Pritt, Named Among the Greatest Movies of All Time Men's Journal",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbnl1TmNTOXBfV09LeGNmLVZCaUlUN0xvN2dXZnlSbDFJdmRjZjl0RFc5ZVBXNEl0V2VkSE5HTU5maWRDS01mbzJRVFk4MUVRZ0t1TldxdF9ONU9wMEEtTUpuM0lmc2FGLUZmRVdST2tkdG0yVkJ4WE1WamJlckVfUkdvR1hESTFKZnk0UHpYZWxZSHQtX0FxZnEyWUp4Z3kweUVrVVpfM0hScXliRWFrT1dBdmhKUQ?oc=5",
+          "headline": "The 10 best final girls in horror movie history, ranked - Entertainment Weekly",
+          "title": "The 10 best final girls in horror movie history, ranked - Entertainment Weekly",
+          "snapshot": "The 10 best final girls in horror movie history, ranked Entertainment Weekly",
+          "summary": "The 10 best final girls in horror movie history, ranked Entertainment Weekly",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sLXZFRmoyWUtia0xjcWNOYWlEbF9sMkpSbUl0ODBjZ1ZxYS1uQW5rcklGZlhzaEhHUWNlSURJTVQ1TXZLSjJ6VHg5SWpMelV6X2NfQjA2djMtNFd4em11am53X2I?oc=5",
           "source": "Google News",
           "source_name": "Google News",
           "source_feed": "https://news.google.com/rss/search?q=film+movies+entertainment&hl=en-US&gl=US&ceid=US:en",
-          "published_at": "2026-10-17 06:55:00 AM ET",
+          "published_at": "2026-10-17 09:20:00 AM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 68,
           "key_data": [
-            "1999 Film, Starring Brad Pritt, Named Among the Greatest Movies of All Time - Men's Journal"
+            "The 10 best final girls in horror movie history, ranked - Entertainment Weekly"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2049,25 +2048,25 @@
           ]
         },
         {
-          "id": "film-1-9122832395458767298",
-          "key": "film-1-9122832395458767298",
+          "id": "film-1-7841118811372183846",
+          "key": "film-1-7841118811372183846",
           "category": "Film",
           "label": "Film",
-          "headline": "Paul Bettany Says He and Johnny Depp ‘Hadn’t Spoken’ in Years When Their Texts Were Read During Libel Trial: ‘I Was Being Painted As This Close Friend’",
-          "title": "Paul Bettany Says He and Johnny Depp ‘Hadn’t Spoken’ in Years When Their Texts Were Read During Libel Trial: ‘I Was Being Painted As This Close Friend’",
-          "snapshot": "Paul Bettany opened up in a recent interview with The Times about the public’s misconception of his relationship with Johnny Depp after text messages between the two actors were used in court during Depp’s libel lawsuit against The Sun. “I hadn’t spoken to Johnny in years when that happened and I haven’t spoken to h...",
-          "summary": "Paul Bettany opened up in a recent interview with The Times about the public’s misconception of his relationship with Johnny Depp after text messages between the two actors were used in court during Depp’s libel lawsuit against The Sun. “I hadn’t spoken to Johnny in years when that happened and I haven’t spoken to h...",
-          "url": "https://variety.com/2026/film/news/paul-bettany-johnny-depp-hadnt-spoken-in-years-libel-trial-1236915108/",
+          "headline": "Quentin Tarantino Confirms He’s ‘Written a Script’ for His Tenth Film, But Won’t Pursue It Yet Because He Wants to ‘Live a Little’",
+          "title": "Quentin Tarantino Confirms He’s ‘Written a Script’ for His Tenth Film, But Won’t Pursue It Yet Because He Wants to ‘Live a Little’",
+          "snapshot": "Quentin Tarantino has long said he’ll be retiring after his 10th feature film, but fans shouldn’t worry yet. While the “Pulp Fiction” director confirmed he’d finished penning the script for his final project, he won’t be getting much further with it until his newly opened play, “The Popinjay Cavalier,” closes. Taran...",
+          "summary": "Quentin Tarantino has long said he’ll be retiring after his 10th feature film, but fans shouldn’t worry yet. While the “Pulp Fiction” director confirmed he’d finished penning the script for his final project, he won’t be getting much further with it until his newly opened play, “The Popinjay Cavalier,” closes. Taran...",
+          "url": "https://variety.com/2026/film/news/quentin-tarantino-confirms-script-for-tenth-film-1236915169/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/film/feed/",
-          "published_at": "2026-10-17 04:48:39 PM ET",
+          "published_at": "2026-10-17 07:59:24 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "Paul Bettany Says He and Johnny Depp ‘Hadn’t Spoken’ in Years When Their Texts Were Read During Libel Trial: ‘I Was Being Painted As This Close Friend’"
+            "Quentin Tarantino Confirms He’s ‘Written a Script’ for His Tenth Film, But Won’t Pursue It Yet Because He Wants to ‘Live a Little’"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2077,8 +2076,8 @@
           ]
         },
         {
-          "id": "film-11-639418932945220569",
-          "key": "film-11-639418932945220569",
+          "id": "film-11-7704669401128685712",
+          "key": "film-11-7704669401128685712",
           "category": "Film",
           "label": "Film",
           "headline": "Paul McCartney Was Concerned Paul Mescal Is “Markedly Shorter” Than ‘The Beatles’ Co-Stars",
@@ -2105,8 +2104,8 @@
           ]
         },
         {
-          "id": "film-23-1735286516193389021",
-          "key": "film-23-1735286516193389021",
+          "id": "film-23-2915037123532508758",
+          "key": "film-23-2915037123532508758",
           "category": "Film",
           "label": "Film",
           "headline": "‘Street Fighter’ Scoring $31M at Box Office as ‘You Can See Everything’ Rises and ‘Whalefall’ Sinks",
@@ -2133,8 +2132,8 @@
           ]
         },
         {
-          "id": "film-33-7746890406717342049",
-          "key": "film-33-7746890406717342049",
+          "id": "film-33-2429644023995734170",
+          "key": "film-33-2429644023995734170",
           "category": "Film",
           "label": "Film",
           "headline": "‘You Can See Everything’ reviews: Nathan Fielder’s Elizabeth Holmes documentary hits 99% on Rotten Tomatoes as it opens in theaters - Yahoo",
@@ -2161,7 +2160,7 @@
           ]
         }
       ],
-      "updated_at": "2026-10-17 07:48:39 PM ET"
+      "updated_at": "2026-10-17 11:28:40 PM ET"
     },
     {
       "key": "tv",
@@ -2171,25 +2170,25 @@
       "snapshot": "TV coverage is updating with 8 current RSS headline item(s).",
       "key_storylines": [
         "‘Dancing With the Stars’ Pulls Val Chmerkovskiy After ‘Inappropriate’ Carrie Ann Inaba Slap Joke: ‘The Well-Being’ of Our Staff Is ‘Non-Negotiable’",
-        "Donald Trump Finally Arrives On ‘SNL UK’ In Job Swap Cold Open With Andy Burnham & Volodymyr Zelenskyy",
+        "James McAvoy Pitched ‘Star Trek’ Series About “Young Picard,” Jokes “All I Really Want To Do” Is Play Young Patrick Stewart",
         "‘The Diplomat’ U.K. Prime Minister on the Operatic Way He Learned of His “Shocking” Season 4 Storyline",
         "Deanna Harris Joins Alloy Entertainment As VP, TV - Deadline",
-        "How NBC Brought Live Musicals Back to Television"
+        "Gene Schwam, Veteran Hollywood Publicist to Elvis Presley, Julie Andrews and More, Dies at 96"
       ],
       "watch_list": [
         "‘Dancing With the Stars’ Pulls Val Chmerkovskiy After ‘Inappropriate’ Carrie Ann Inaba Slap Joke: ‘The Well-Being’ of Our Staff Is ‘Non-Negotiable’",
-        "Donald Trump Finally Arrives On ‘SNL UK’ In Job Swap Cold Open With Andy Burnham & Volodymyr Zelenskyy",
+        "James McAvoy Pitched ‘Star Trek’ Series About “Young Picard,” Jokes “All I Really Want To Do” Is Play Young Patrick Stewart",
         "‘The Diplomat’ U.K. Prime Minister on the Operatic Way He Learned of His “Shocking” Season 4 Storyline",
         "Deanna Harris Joins Alloy Entertainment As VP, TV - Deadline",
-        "How NBC Brought Live Musicals Back to Television",
-        "‘Dancing With The Stars’ Suspends Val Chmerkovskiy For TikTok Referencing Will Smith Oscar Moment; Dancer Responds, “Instinct Was To Defend My Wife”",
+        "Gene Schwam, Veteran Hollywood Publicist to Elvis Presley, Julie Andrews and More, Dies at 96",
+        "Jaime Pressly Defends ‘Mom’ Co-Stars As “Beautifully Flawed” After Chuck Lorre Memoir: “Incredible Cast Of Women”",
         "Val Chmerkovskiy Ousted From Next ‘DWTS’ Episode Amid Will Smith Oscars Slap Reference, Jenna Dewan to Dance With Alan Bersten",
         "Xbox moves further into television with new entertainment division - Broadband TV News"
       ],
       "homepage_cards": [
         {
-          "id": "tv-0-8892205002314658997",
-          "key": "tv-0-8892205002314658997",
+          "id": "tv-0-5886863345969323937",
+          "key": "tv-0-5886863345969323937",
           "category": "TV",
           "label": "TV",
           "headline": "‘Dancing With the Stars’ Pulls Val Chmerkovskiy After ‘Inappropriate’ Carrie Ann Inaba Slap Joke: ‘The Well-Being’ of Our Staff Is ‘Non-Negotiable’",
@@ -2216,25 +2215,25 @@
           ]
         },
         {
-          "id": "tv-8-3661164156771308843",
-          "key": "tv-8-3661164156771308843",
+          "id": "tv-10-1748296366886315561",
+          "key": "tv-10-1748296366886315561",
           "category": "TV",
           "label": "TV",
-          "headline": "Donald Trump Finally Arrives On ‘SNL UK’ In Job Swap Cold Open With Andy Burnham & Volodymyr Zelenskyy",
-          "title": "Donald Trump Finally Arrives On ‘SNL UK’ In Job Swap Cold Open With Andy Burnham & Volodymyr Zelenskyy",
-          "snapshot": "Donald Trump has spent some time in the UK these past few years but tonight he finally made his debut on Saturday Night Live UK. James Austin Johnson brought his POTUS to Sky’s hit UK version of the NBC show in a job swap cold open alongside Andy Burnham (George Fouracres) and Volodymyr Zelenskyy (Freddie […]",
-          "summary": "Donald Trump has spent some time in the UK these past few years but tonight he finally made his debut on Saturday Night Live UK. James Austin Johnson brought his POTUS to Sky’s hit UK version of the NBC show in a job swap cold open alongside Andy Burnham (George Fouracres) and Volodymyr Zelenskyy (Freddie […]",
-          "url": "https://deadline.com/2026/10/snl-uk-donald-trump-first-time-andy-burnham-zelensky-1237166466/",
+          "headline": "James McAvoy Pitched ‘Star Trek’ Series About “Young Picard,” Jokes “All I Really Want To Do” Is Play Young Patrick Stewart",
+          "title": "James McAvoy Pitched ‘Star Trek’ Series About “Young Picard,” Jokes “All I Really Want To Do” Is Play Young Patrick Stewart",
+          "snapshot": "After putting in his tenure in the X-Men franchise, James McAvoy had his sights set on another iconic character originated by Patrick Stewart. The Golden Globe nominee recently revealed that he pitched a Star Trek series about “young Picard” that was titled Mutiny On the Stargazer, noting that he nearly “made” the l...",
+          "summary": "After putting in his tenure in the X-Men franchise, James McAvoy had his sights set on another iconic character originated by Patrick Stewart. The Golden Globe nominee recently revealed that he pitched a Star Trek series about “young Picard” that was titled Mutiny On the Stargazer, noting that he nearly “made” the l...",
+          "url": "https://deadline.com/2026/10/james-mcavoy-pitched-star-trek-series-young-picard-1237166532/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/tv/feed/",
-          "published_at": "2026-10-17 05:23:27 PM ET",
+          "published_at": "2026-10-17 08:29:09 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 92,
+          "priority_score": 90,
           "key_data": [
-            "Donald Trump Finally Arrives On ‘SNL UK’ In Job Swap Cold Open With Andy Burnham & Volodymyr Zelenskyy"
+            "James McAvoy Pitched ‘Star Trek’ Series About “Young Picard,” Jokes “All I Really Want To Do” Is Play Young Patrick Stewart"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2244,8 +2243,8 @@
           ]
         },
         {
-          "id": "tv-19-2514859970378846534",
-          "key": "tv-19-2514859970378846534",
+          "id": "tv-21-1008829334000899088",
+          "key": "tv-21-1008829334000899088",
           "category": "TV",
           "label": "TV",
           "headline": "‘The Diplomat’ U.K. Prime Minister on the Operatic Way He Learned of His “Shocking” Season 4 Storyline",
@@ -2260,7 +2259,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 81,
+          "priority_score": 79,
           "key_data": [
             "‘The Diplomat’ U.K. Prime Minister on the Operatic Way He Learned of His “Shocking” Season 4 Storyline"
           ],
@@ -2272,8 +2271,8 @@
           ]
         },
         {
-          "id": "tv-29-313406052574924432",
-          "key": "tv-29-313406052574924432",
+          "id": "tv-31-5381348845317664588",
+          "key": "tv-31-5381348845317664588",
           "category": "TV",
           "label": "TV",
           "headline": "Deanna Harris Joins Alloy Entertainment As VP, TV - Deadline",
@@ -2288,7 +2287,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 71,
+          "priority_score": 69,
           "key_data": [
             "Deanna Harris Joins Alloy Entertainment As VP, TV - Deadline"
           ],
@@ -2300,25 +2299,25 @@
           ]
         },
         {
-          "id": "tv-1-7530726192021144654",
-          "key": "tv-1-7530726192021144654",
+          "id": "tv-1-1460432634192428420",
+          "key": "tv-1-1460432634192428420",
           "category": "TV",
           "label": "TV",
-          "headline": "How NBC Brought Live Musicals Back to Television",
-          "title": "How NBC Brought Live Musicals Back to Television",
-          "snapshot": "In 2011, NBC was in a rough shape. The network had struggled in the waning years under General Electric’s ownership. In January 2011, Comcast became the majority shareholder, and with it came a new leadership regime for NBC Entertainment, led by industry veteran Bob Greenblatt. One of Greenblatt’s big ideas to liven...",
-          "summary": "In 2011, NBC was in a rough shape. The network had struggled in the waning years under General Electric’s ownership. In January 2011, Comcast became the majority shareholder, and with it came a new leadership regime for NBC Entertainment, led by industry veteran Bob Greenblatt. One of Greenblatt’s big ideas to liven...",
-          "url": "https://variety.com/2026/tv/news/sound-of-music-nbc-live-musicals-greenblatt-hairspray-1236914848/",
+          "headline": "Gene Schwam, Veteran Hollywood Publicist to Elvis Presley, Julie Andrews and More, Dies at 96",
+          "title": "Gene Schwam, Veteran Hollywood Publicist to Elvis Presley, Julie Andrews and More, Dies at 96",
+          "snapshot": "Veteran Hollywood publicist Gene Schwam, who represented top talent including Elvis Presley, Blake Edwards, Julie Andrews, Barbara Eden and Lenny Bruce, died Friday in Los Angeles after a brief illness. He was 96. Schwam co-founded Hanson & Schwam Public Relations with Adeline Hanson in 1955, establishing an indepen...",
+          "summary": "Veteran Hollywood publicist Gene Schwam, who represented top talent including Elvis Presley, Blake Edwards, Julie Andrews, Barbara Eden and Lenny Bruce, died Friday in Los Angeles after a brief illness. He was 96. Schwam co-founded Hanson & Schwam Public Relations with Adeline Hanson in 1955, establishing an indepen...",
+          "url": "https://variety.com/2026/film/news/gene-schwam-dead-publicist-elvis-presley-1236914812/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/tv/feed/",
-          "published_at": "2026-10-17 01:03:19 PM ET",
+          "published_at": "2026-10-17 01:28:07 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "How NBC Brought Live Musicals Back to Television"
+            "Gene Schwam, Veteran Hollywood Publicist to Elvis Presley, Julie Andrews and More, Dies at 96"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2328,25 +2327,25 @@
           ]
         },
         {
-          "id": "tv-9-8139977874730066916",
-          "key": "tv-9-8139977874730066916",
+          "id": "tv-11-6782987941640367322",
+          "key": "tv-11-6782987941640367322",
           "category": "TV",
           "label": "TV",
-          "headline": "‘Dancing With The Stars’ Suspends Val Chmerkovskiy For TikTok Referencing Will Smith Oscar Moment; Dancer Responds, “Instinct Was To Defend My Wife”",
-          "title": "‘Dancing With The Stars’ Suspends Val Chmerkovskiy For TikTok Referencing Will Smith Oscar Moment; Dancer Responds, “Instinct Was To Defend My Wife”",
-          "snapshot": "UDPATED with Chmerkovskiy response: Val Chmerkovskiy is being suspended from Dancing with the Stars for a week after he posted a controversial TikTok message that seemed to reference Will Smith’s 2022 Oscar slap. In a statement released today, producer BBC Studios said, “The well-being of everyone who works on Danci...",
-          "summary": "UDPATED with Chmerkovskiy response: Val Chmerkovskiy is being suspended from Dancing with the Stars for a week after he posted a controversial TikTok message that seemed to reference Will Smith’s 2022 Oscar slap. In a statement released today, producer BBC Studios said, “The well-being of everyone who works on Danci...",
-          "url": "https://deadline.com/2026/10/val-chmerkovskiy-dancing-with-the-stars-suspension-1237166428/",
+          "headline": "Jaime Pressly Defends ‘Mom’ Co-Stars As “Beautifully Flawed” After Chuck Lorre Memoir: “Incredible Cast Of Women”",
+          "title": "Jaime Pressly Defends ‘Mom’ Co-Stars As “Beautifully Flawed” After Chuck Lorre Memoir: “Incredible Cast Of Women”",
+          "snapshot": "After Anna Faris responded to Mom co-creator Chuck Lorre’s professional criticisms, Jaime Pressly has chimed in. The actress, who played recovering addict Jill Kendall on the CBS sitcom, defended her co-stars as “an incredible cast of women” after Lorre wrote in his memoir Sitcom that he “was, in fact, right” about...",
+          "summary": "After Anna Faris responded to Mom co-creator Chuck Lorre’s professional criticisms, Jaime Pressly has chimed in. The actress, who played recovering addict Jill Kendall on the CBS sitcom, defended her co-stars as “an incredible cast of women” after Lorre wrote in his memoir Sitcom that he “was, in fact, right” about...",
+          "url": "https://deadline.com/2026/10/jaime-pressly-defends-mom-co-stars-chuck-lorre-memoir-1237166522/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/tv/feed/",
-          "published_at": "2026-10-17 03:30:02 PM ET",
+          "published_at": "2026-10-17 07:49:14 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 91,
+          "priority_score": 89,
           "key_data": [
-            "‘Dancing With The Stars’ Suspends Val Chmerkovskiy For TikTok Referencing Will Smith Oscar Moment; Dancer Responds, “Instinct Was To Defend My Wife”"
+            "Jaime Pressly Defends ‘Mom’ Co-Stars As “Beautifully Flawed” After Chuck Lorre Memoir: “Incredible Cast Of Women”"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2356,8 +2355,8 @@
           ]
         },
         {
-          "id": "tv-20-3907454912852590928",
-          "key": "tv-20-3907454912852590928",
+          "id": "tv-22-4632412857674644801",
+          "key": "tv-22-4632412857674644801",
           "category": "TV",
           "label": "TV",
           "headline": "Val Chmerkovskiy Ousted From Next ‘DWTS’ Episode Amid Will Smith Oscars Slap Reference, Jenna Dewan to Dance With Alan Bersten",
@@ -2372,7 +2371,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 80,
+          "priority_score": 78,
           "key_data": [
             "Val Chmerkovskiy Ousted From Next ‘DWTS’ Episode Amid Will Smith Oscars Slap Reference, Jenna Dewan to Dance With Alan Bersten"
           ],
@@ -2384,8 +2383,8 @@
           ]
         },
         {
-          "id": "tv-30-2310381357937171910",
-          "key": "tv-30-2310381357937171910",
+          "id": "tv-32-140595940614894871",
+          "key": "tv-32-140595940614894871",
           "category": "TV",
           "label": "TV",
           "headline": "Xbox moves further into television with new entertainment division - Broadband TV News",
@@ -2400,7 +2399,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 70,
+          "priority_score": 68,
           "key_data": [
             "Xbox moves further into television with new entertainment division - Broadband TV News"
           ],
@@ -2414,8 +2413,8 @@
       ],
       "items": [
         {
-          "id": "tv-0-8892205002314658997",
-          "key": "tv-0-8892205002314658997",
+          "id": "tv-0-5886863345969323937",
+          "key": "tv-0-5886863345969323937",
           "category": "TV",
           "label": "TV",
           "headline": "‘Dancing With the Stars’ Pulls Val Chmerkovskiy After ‘Inappropriate’ Carrie Ann Inaba Slap Joke: ‘The Well-Being’ of Our Staff Is ‘Non-Negotiable’",
@@ -2442,25 +2441,25 @@
           ]
         },
         {
-          "id": "tv-8-3661164156771308843",
-          "key": "tv-8-3661164156771308843",
+          "id": "tv-10-1748296366886315561",
+          "key": "tv-10-1748296366886315561",
           "category": "TV",
           "label": "TV",
-          "headline": "Donald Trump Finally Arrives On ‘SNL UK’ In Job Swap Cold Open With Andy Burnham & Volodymyr Zelenskyy",
-          "title": "Donald Trump Finally Arrives On ‘SNL UK’ In Job Swap Cold Open With Andy Burnham & Volodymyr Zelenskyy",
-          "snapshot": "Donald Trump has spent some time in the UK these past few years but tonight he finally made his debut on Saturday Night Live UK. James Austin Johnson brought his POTUS to Sky’s hit UK version of the NBC show in a job swap cold open alongside Andy Burnham (George Fouracres) and Volodymyr Zelenskyy (Freddie […]",
-          "summary": "Donald Trump has spent some time in the UK these past few years but tonight he finally made his debut on Saturday Night Live UK. James Austin Johnson brought his POTUS to Sky’s hit UK version of the NBC show in a job swap cold open alongside Andy Burnham (George Fouracres) and Volodymyr Zelenskyy (Freddie […]",
-          "url": "https://deadline.com/2026/10/snl-uk-donald-trump-first-time-andy-burnham-zelensky-1237166466/",
+          "headline": "James McAvoy Pitched ‘Star Trek’ Series About “Young Picard,” Jokes “All I Really Want To Do” Is Play Young Patrick Stewart",
+          "title": "James McAvoy Pitched ‘Star Trek’ Series About “Young Picard,” Jokes “All I Really Want To Do” Is Play Young Patrick Stewart",
+          "snapshot": "After putting in his tenure in the X-Men franchise, James McAvoy had his sights set on another iconic character originated by Patrick Stewart. The Golden Globe nominee recently revealed that he pitched a Star Trek series about “young Picard” that was titled Mutiny On the Stargazer, noting that he nearly “made” the l...",
+          "summary": "After putting in his tenure in the X-Men franchise, James McAvoy had his sights set on another iconic character originated by Patrick Stewart. The Golden Globe nominee recently revealed that he pitched a Star Trek series about “young Picard” that was titled Mutiny On the Stargazer, noting that he nearly “made” the l...",
+          "url": "https://deadline.com/2026/10/james-mcavoy-pitched-star-trek-series-young-picard-1237166532/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/tv/feed/",
-          "published_at": "2026-10-17 05:23:27 PM ET",
+          "published_at": "2026-10-17 08:29:09 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 92,
+          "priority_score": 90,
           "key_data": [
-            "Donald Trump Finally Arrives On ‘SNL UK’ In Job Swap Cold Open With Andy Burnham & Volodymyr Zelenskyy"
+            "James McAvoy Pitched ‘Star Trek’ Series About “Young Picard,” Jokes “All I Really Want To Do” Is Play Young Patrick Stewart"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2470,8 +2469,8 @@
           ]
         },
         {
-          "id": "tv-19-2514859970378846534",
-          "key": "tv-19-2514859970378846534",
+          "id": "tv-21-1008829334000899088",
+          "key": "tv-21-1008829334000899088",
           "category": "TV",
           "label": "TV",
           "headline": "‘The Diplomat’ U.K. Prime Minister on the Operatic Way He Learned of His “Shocking” Season 4 Storyline",
@@ -2486,7 +2485,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 81,
+          "priority_score": 79,
           "key_data": [
             "‘The Diplomat’ U.K. Prime Minister on the Operatic Way He Learned of His “Shocking” Season 4 Storyline"
           ],
@@ -2498,8 +2497,8 @@
           ]
         },
         {
-          "id": "tv-29-313406052574924432",
-          "key": "tv-29-313406052574924432",
+          "id": "tv-31-5381348845317664588",
+          "key": "tv-31-5381348845317664588",
           "category": "TV",
           "label": "TV",
           "headline": "Deanna Harris Joins Alloy Entertainment As VP, TV - Deadline",
@@ -2514,7 +2513,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 71,
+          "priority_score": 69,
           "key_data": [
             "Deanna Harris Joins Alloy Entertainment As VP, TV - Deadline"
           ],
@@ -2526,25 +2525,25 @@
           ]
         },
         {
-          "id": "tv-1-7530726192021144654",
-          "key": "tv-1-7530726192021144654",
+          "id": "tv-1-1460432634192428420",
+          "key": "tv-1-1460432634192428420",
           "category": "TV",
           "label": "TV",
-          "headline": "How NBC Brought Live Musicals Back to Television",
-          "title": "How NBC Brought Live Musicals Back to Television",
-          "snapshot": "In 2011, NBC was in a rough shape. The network had struggled in the waning years under General Electric’s ownership. In January 2011, Comcast became the majority shareholder, and with it came a new leadership regime for NBC Entertainment, led by industry veteran Bob Greenblatt. One of Greenblatt’s big ideas to liven...",
-          "summary": "In 2011, NBC was in a rough shape. The network had struggled in the waning years under General Electric’s ownership. In January 2011, Comcast became the majority shareholder, and with it came a new leadership regime for NBC Entertainment, led by industry veteran Bob Greenblatt. One of Greenblatt’s big ideas to liven...",
-          "url": "https://variety.com/2026/tv/news/sound-of-music-nbc-live-musicals-greenblatt-hairspray-1236914848/",
+          "headline": "Gene Schwam, Veteran Hollywood Publicist to Elvis Presley, Julie Andrews and More, Dies at 96",
+          "title": "Gene Schwam, Veteran Hollywood Publicist to Elvis Presley, Julie Andrews and More, Dies at 96",
+          "snapshot": "Veteran Hollywood publicist Gene Schwam, who represented top talent including Elvis Presley, Blake Edwards, Julie Andrews, Barbara Eden and Lenny Bruce, died Friday in Los Angeles after a brief illness. He was 96. Schwam co-founded Hanson & Schwam Public Relations with Adeline Hanson in 1955, establishing an indepen...",
+          "summary": "Veteran Hollywood publicist Gene Schwam, who represented top talent including Elvis Presley, Blake Edwards, Julie Andrews, Barbara Eden and Lenny Bruce, died Friday in Los Angeles after a brief illness. He was 96. Schwam co-founded Hanson & Schwam Public Relations with Adeline Hanson in 1955, establishing an indepen...",
+          "url": "https://variety.com/2026/film/news/gene-schwam-dead-publicist-elvis-presley-1236914812/",
           "source": "Variety",
           "source_name": "Variety",
           "source_feed": "https://variety.com/v/tv/feed/",
-          "published_at": "2026-10-17 01:03:19 PM ET",
+          "published_at": "2026-10-17 01:28:07 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
           "priority_score": 99,
           "key_data": [
-            "How NBC Brought Live Musicals Back to Television"
+            "Gene Schwam, Veteran Hollywood Publicist to Elvis Presley, Julie Andrews and More, Dies at 96"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2554,25 +2553,25 @@
           ]
         },
         {
-          "id": "tv-9-8139977874730066916",
-          "key": "tv-9-8139977874730066916",
+          "id": "tv-11-6782987941640367322",
+          "key": "tv-11-6782987941640367322",
           "category": "TV",
           "label": "TV",
-          "headline": "‘Dancing With The Stars’ Suspends Val Chmerkovskiy For TikTok Referencing Will Smith Oscar Moment; Dancer Responds, “Instinct Was To Defend My Wife”",
-          "title": "‘Dancing With The Stars’ Suspends Val Chmerkovskiy For TikTok Referencing Will Smith Oscar Moment; Dancer Responds, “Instinct Was To Defend My Wife”",
-          "snapshot": "UDPATED with Chmerkovskiy response: Val Chmerkovskiy is being suspended from Dancing with the Stars for a week after he posted a controversial TikTok message that seemed to reference Will Smith’s 2022 Oscar slap. In a statement released today, producer BBC Studios said, “The well-being of everyone who works on Danci...",
-          "summary": "UDPATED with Chmerkovskiy response: Val Chmerkovskiy is being suspended from Dancing with the Stars for a week after he posted a controversial TikTok message that seemed to reference Will Smith’s 2022 Oscar slap. In a statement released today, producer BBC Studios said, “The well-being of everyone who works on Danci...",
-          "url": "https://deadline.com/2026/10/val-chmerkovskiy-dancing-with-the-stars-suspension-1237166428/",
+          "headline": "Jaime Pressly Defends ‘Mom’ Co-Stars As “Beautifully Flawed” After Chuck Lorre Memoir: “Incredible Cast Of Women”",
+          "title": "Jaime Pressly Defends ‘Mom’ Co-Stars As “Beautifully Flawed” After Chuck Lorre Memoir: “Incredible Cast Of Women”",
+          "snapshot": "After Anna Faris responded to Mom co-creator Chuck Lorre’s professional criticisms, Jaime Pressly has chimed in. The actress, who played recovering addict Jill Kendall on the CBS sitcom, defended her co-stars as “an incredible cast of women” after Lorre wrote in his memoir Sitcom that he “was, in fact, right” about...",
+          "summary": "After Anna Faris responded to Mom co-creator Chuck Lorre’s professional criticisms, Jaime Pressly has chimed in. The actress, who played recovering addict Jill Kendall on the CBS sitcom, defended her co-stars as “an incredible cast of women” after Lorre wrote in his memoir Sitcom that he “was, in fact, right” about...",
+          "url": "https://deadline.com/2026/10/jaime-pressly-defends-mom-co-stars-chuck-lorre-memoir-1237166522/",
           "source": "Deadline",
           "source_name": "Deadline",
           "source_feed": "https://deadline.com/v/tv/feed/",
-          "published_at": "2026-10-17 03:30:02 PM ET",
+          "published_at": "2026-10-17 07:49:14 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 91,
+          "priority_score": 89,
           "key_data": [
-            "‘Dancing With The Stars’ Suspends Val Chmerkovskiy For TikTok Referencing Will Smith Oscar Moment; Dancer Responds, “Instinct Was To Defend My Wife”"
+            "Jaime Pressly Defends ‘Mom’ Co-Stars As “Beautifully Flawed” After Chuck Lorre Memoir: “Incredible Cast Of Women”"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -2582,8 +2581,8 @@
           ]
         },
         {
-          "id": "tv-20-3907454912852590928",
-          "key": "tv-20-3907454912852590928",
+          "id": "tv-22-4632412857674644801",
+          "key": "tv-22-4632412857674644801",
           "category": "TV",
           "label": "TV",
           "headline": "Val Chmerkovskiy Ousted From Next ‘DWTS’ Episode Amid Will Smith Oscars Slap Reference, Jenna Dewan to Dance With Alan Bersten",
@@ -2598,7 +2597,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 80,
+          "priority_score": 78,
           "key_data": [
             "Val Chmerkovskiy Ousted From Next ‘DWTS’ Episode Amid Will Smith Oscars Slap Reference, Jenna Dewan to Dance With Alan Bersten"
           ],
@@ -2610,8 +2609,8 @@
           ]
         },
         {
-          "id": "tv-30-2310381357937171910",
-          "key": "tv-30-2310381357937171910",
+          "id": "tv-32-140595940614894871",
+          "key": "tv-32-140595940614894871",
           "category": "TV",
           "label": "TV",
           "headline": "Xbox moves further into television with new entertainment division - Broadband TV News",
@@ -2626,7 +2625,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 70,
+          "priority_score": 68,
           "key_data": [
             "Xbox moves further into television with new entertainment division - Broadband TV News"
           ],
@@ -2638,7 +2637,7 @@
           ]
         }
       ],
-      "updated_at": "2026-10-17 07:48:40 PM ET"
+      "updated_at": "2026-10-17 11:28:41 PM ET"
     },
     {
       "key": "streaming",
@@ -2654,8 +2653,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "streaming-0-6825732367793616954",
-          "key": "streaming-0-6825732367793616954",
+          "id": "streaming-0-5532074407553126888",
+          "key": "streaming-0-5532074407553126888",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs - Business Insider",
@@ -2684,8 +2683,8 @@
       ],
       "items": [
         {
-          "id": "streaming-0-6825732367793616954",
-          "key": "streaming-0-6825732367793616954",
+          "id": "streaming-0-5532074407553126888",
+          "key": "streaming-0-5532074407553126888",
           "category": "Streaming",
           "label": "Streaming",
           "headline": "Not sure what to subscribe to? These are the best streaming services for a variety of budgets and needs - Business Insider",
@@ -2712,7 +2711,7 @@
           ]
         }
       ],
-      "updated_at": "2026-10-17 07:48:41 PM ET"
+      "updated_at": "2026-10-17 11:28:42 PM ET"
     },
     {
       "key": "music",
@@ -2737,8 +2736,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "music-0-5659319151788374250",
-          "key": "music-0-5659319151788374250",
+          "id": "music-0-4493157369909870605",
+          "key": "music-0-4493157369909870605",
           "category": "Music",
           "label": "Music",
           "headline": "Harry Styles Debuts Unreleased Song He Wrote in Memory of Liam Payne, ‘What Is Enough,’ on Second Anniversary of Ex-Bandmate’s Death",
@@ -2765,8 +2764,8 @@
           ]
         },
         {
-          "id": "music-9-8762285834729749754",
-          "key": "music-9-8762285834729749754",
+          "id": "music-9-1719941275230916509",
+          "key": "music-9-1719941275230916509",
           "category": "Music",
           "label": "Music",
           "headline": "Zach Bryan Gets Candid About Sobriety in Matthew McConaughey Interview: ‘Why Am I Drinking?’",
@@ -2793,8 +2792,8 @@
           ]
         },
         {
-          "id": "music-19-9126759534400519477",
-          "key": "music-19-9126759534400519477",
+          "id": "music-19-8703077740065880472",
+          "key": "music-19-8703077740065880472",
           "category": "Music",
           "label": "Music",
           "headline": "Publishing Briefs: Leader Entertainment and Sony Music Publishing Form Strategic Partnership - Billboard",
@@ -2821,8 +2820,8 @@
           ]
         },
         {
-          "id": "music-1-5071349662775822453",
-          "key": "music-1-5071349662775822453",
+          "id": "music-1-4417560938687818679",
+          "key": "music-1-4417560938687818679",
           "category": "Music",
           "label": "Music",
           "headline": "Miley Cyrus Tears Up While Honoring Dolly Parton During Hollywood Bowl Show: ‘Nothing In This Life Could Ever Tear Us Apart’",
@@ -2849,8 +2848,8 @@
           ]
         },
         {
-          "id": "music-10-5399943716509706580",
-          "key": "music-10-5399943716509706580",
+          "id": "music-10-3674303945781708829",
+          "key": "music-10-3674303945781708829",
           "category": "Music",
           "label": "Music",
           "headline": "Iron Maiden Announce 2027 Run for Your Lives North American Tour: See the Dates",
@@ -2877,8 +2876,8 @@
           ]
         },
         {
-          "id": "music-20-7650304569601418841",
-          "key": "music-20-7650304569601418841",
+          "id": "music-20-4914863479079945700",
+          "key": "music-20-4914863479079945700",
           "category": "Music",
           "label": "Music",
           "headline": "Billboard Magazine Names William Paterson University One of Its 2026 “Top Music Business Schools” in the World - Insider NJ",
@@ -2907,8 +2906,8 @@
       ],
       "items": [
         {
-          "id": "music-0-5659319151788374250",
-          "key": "music-0-5659319151788374250",
+          "id": "music-0-4493157369909870605",
+          "key": "music-0-4493157369909870605",
           "category": "Music",
           "label": "Music",
           "headline": "Harry Styles Debuts Unreleased Song He Wrote in Memory of Liam Payne, ‘What Is Enough,’ on Second Anniversary of Ex-Bandmate’s Death",
@@ -2935,8 +2934,8 @@
           ]
         },
         {
-          "id": "music-9-8762285834729749754",
-          "key": "music-9-8762285834729749754",
+          "id": "music-9-1719941275230916509",
+          "key": "music-9-1719941275230916509",
           "category": "Music",
           "label": "Music",
           "headline": "Zach Bryan Gets Candid About Sobriety in Matthew McConaughey Interview: ‘Why Am I Drinking?’",
@@ -2963,8 +2962,8 @@
           ]
         },
         {
-          "id": "music-19-9126759534400519477",
-          "key": "music-19-9126759534400519477",
+          "id": "music-19-8703077740065880472",
+          "key": "music-19-8703077740065880472",
           "category": "Music",
           "label": "Music",
           "headline": "Publishing Briefs: Leader Entertainment and Sony Music Publishing Form Strategic Partnership - Billboard",
@@ -2991,8 +2990,8 @@
           ]
         },
         {
-          "id": "music-1-5071349662775822453",
-          "key": "music-1-5071349662775822453",
+          "id": "music-1-4417560938687818679",
+          "key": "music-1-4417560938687818679",
           "category": "Music",
           "label": "Music",
           "headline": "Miley Cyrus Tears Up While Honoring Dolly Parton During Hollywood Bowl Show: ‘Nothing In This Life Could Ever Tear Us Apart’",
@@ -3019,8 +3018,8 @@
           ]
         },
         {
-          "id": "music-10-5399943716509706580",
-          "key": "music-10-5399943716509706580",
+          "id": "music-10-3674303945781708829",
+          "key": "music-10-3674303945781708829",
           "category": "Music",
           "label": "Music",
           "headline": "Iron Maiden Announce 2027 Run for Your Lives North American Tour: See the Dates",
@@ -3047,8 +3046,8 @@
           ]
         },
         {
-          "id": "music-20-7650304569601418841",
-          "key": "music-20-7650304569601418841",
+          "id": "music-20-4914863479079945700",
+          "key": "music-20-4914863479079945700",
           "category": "Music",
           "label": "Music",
           "headline": "Billboard Magazine Names William Paterson University One of Its 2026 “Top Music Business Schools” in the World - Insider NJ",
@@ -3075,7 +3074,7 @@
           ]
         }
       ],
-      "updated_at": "2026-10-17 07:48:41 PM ET"
+      "updated_at": "2026-10-17 11:28:43 PM ET"
     },
     {
       "key": "awards",
@@ -3097,8 +3096,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "awards-0-469608490809783783",
-          "key": "awards-0-469608490809783783",
+          "id": "awards-0-1689322375181954030",
+          "key": "awards-0-1689322375181954030",
           "category": "Awards",
           "label": "Awards",
           "headline": "‘Michael’ to Receive Musical Tribute at 2026 Gotham Film Awards",
@@ -3125,8 +3124,8 @@
           ]
         },
         {
-          "id": "awards-7-3628256981542178205",
-          "key": "awards-7-3628256981542178205",
+          "id": "awards-7-1967830935054306696",
+          "key": "awards-7-1967830935054306696",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar - Deadline",
@@ -3153,8 +3152,8 @@
           ]
         },
         {
-          "id": "awards-1-7406193257926686860",
-          "key": "awards-1-7406193257926686860",
+          "id": "awards-1-989862893378913020",
+          "key": "awards-1-989862893378913020",
           "category": "Awards",
           "label": "Awards",
           "headline": "Al Pacino to Be Honored With SAG-AFTRA Life Achievement Award",
@@ -3181,8 +3180,8 @@
           ]
         },
         {
-          "id": "awards-8-8076582706998830051",
-          "key": "awards-8-8076582706998830051",
+          "id": "awards-8-3340427308865195222",
+          "key": "awards-8-3340427308865195222",
           "category": "Awards",
           "label": "Awards",
           "headline": "2027 Oscars Predictions in Every Category - Yahoo",
@@ -3211,8 +3210,8 @@
       ],
       "items": [
         {
-          "id": "awards-0-469608490809783783",
-          "key": "awards-0-469608490809783783",
+          "id": "awards-0-1689322375181954030",
+          "key": "awards-0-1689322375181954030",
           "category": "Awards",
           "label": "Awards",
           "headline": "‘Michael’ to Receive Musical Tribute at 2026 Gotham Film Awards",
@@ -3239,8 +3238,8 @@
           ]
         },
         {
-          "id": "awards-7-3628256981542178205",
-          "key": "awards-7-3628256981542178205",
+          "id": "awards-7-1967830935054306696",
+          "key": "awards-7-1967830935054306696",
           "category": "Awards",
           "label": "Awards",
           "headline": "2026-27 Awards Season Calendar - Deadline",
@@ -3267,8 +3266,8 @@
           ]
         },
         {
-          "id": "awards-1-7406193257926686860",
-          "key": "awards-1-7406193257926686860",
+          "id": "awards-1-989862893378913020",
+          "key": "awards-1-989862893378913020",
           "category": "Awards",
           "label": "Awards",
           "headline": "Al Pacino to Be Honored With SAG-AFTRA Life Achievement Award",
@@ -3295,8 +3294,8 @@
           ]
         },
         {
-          "id": "awards-8-8076582706998830051",
-          "key": "awards-8-8076582706998830051",
+          "id": "awards-8-3340427308865195222",
+          "key": "awards-8-3340427308865195222",
           "category": "Awards",
           "label": "Awards",
           "headline": "2027 Oscars Predictions in Every Category - Yahoo",
@@ -3323,7 +3322,7 @@
           ]
         }
       ],
-      "updated_at": "2026-10-17 07:48:42 PM ET"
+      "updated_at": "2026-10-17 11:28:43 PM ET"
     },
     {
       "key": "box_office",
@@ -3345,14 +3344,14 @@
       ],
       "homepage_cards": [
         {
-          "id": "box_office-0-3394559910000882971",
-          "key": "box_office-0-3394559910000882971",
+          "id": "box_office-0-1050307806876808494",
+          "key": "box_office-0-1050307806876808494",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘Street Fighter’ Scores $13 Million Debut as ‘You Can See Everything’ Opens at No. 2 With $5.5 Million on Friday",
           "title": "Box Office: ‘Street Fighter’ Scores $13 Million Debut as ‘You Can See Everything’ Opens at No. 2 With $5.5 Million on Friday",
-          "snapshot": "“Street Fighter” punched its way to the top of the box office in a new-release-filled weekend, battling fellow openers “Sense and Sensibility,” “Whalefall” and “You Can See Everything.” The Paramount Pictures movie generated $13 million from 3,575 North American theaters on Friday. It’s a strong start for the action...",
-          "summary": "“Street Fighter” punched its way to the top of the box office in a new-release-filled weekend, battling fellow openers “Sense and Sensibility,” “Whalefall” and “You Can See Everything.” The Paramount Pictures movie generated $13 million from 3,575 North American theaters on Friday. It’s a strong start for the action...",
+          "snapshot": "“Street Fighter” punched its way to the top of the box office in a new-release-filled weekend, battling fellow openers “Sense and Sensibility,” “Whalefall” and “You Can See Everything.” Legendary Entertainment’s “Street Fighter,” which Paramount Pictures is distributing, generated $13 million from 3,575 North Americ...",
+          "summary": "“Street Fighter” punched its way to the top of the box office in a new-release-filled weekend, battling fellow openers “Sense and Sensibility,” “Whalefall” and “You Can See Everything.” Legendary Entertainment’s “Street Fighter,” which Paramount Pictures is distributing, generated $13 million from 3,575 North Americ...",
           "url": "https://variety.com/2026/film/box-office/box-office-street-fighter-you-can-see-everything-whalefall-1236914827/",
           "source": "Variety",
           "source_name": "Variety",
@@ -3373,8 +3372,8 @@
           ]
         },
         {
-          "id": "box_office-10-1692059101801515569",
-          "key": "box_office-10-1692059101801515569",
+          "id": "box_office-10-7370162359747153515",
+          "key": "box_office-10-7370162359747153515",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Ben Affleck Warns ‘Digger’ Box Office Bomb Will Lead to “A Bunch of Sh***y Homogenized Movies” - The Hollywood Reporter",
@@ -3401,8 +3400,8 @@
           ]
         },
         {
-          "id": "box_office-1-1339193977902835145",
-          "key": "box_office-1-1339193977902835145",
+          "id": "box_office-1-3233852033665782838",
+          "key": "box_office-1-3233852033665782838",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘Street Fighter’ Makes $4 Million in Previews, ‘You Can See Everything’ Behind With $1.75 Million",
@@ -3429,8 +3428,8 @@
           ]
         },
         {
-          "id": "box_office-11-6142910442253055482",
-          "key": "box_office-11-6142910442253055482",
+          "id": "box_office-11-5289251746404817597",
+          "key": "box_office-11-5289251746404817597",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Street Fighter’ Socks Away $4M in Previews as ‘You Can See Everything’ Takes $1.7M - The Hollywood Reporter",
@@ -3459,14 +3458,14 @@
       ],
       "items": [
         {
-          "id": "box_office-0-3394559910000882971",
-          "key": "box_office-0-3394559910000882971",
+          "id": "box_office-0-1050307806876808494",
+          "key": "box_office-0-1050307806876808494",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘Street Fighter’ Scores $13 Million Debut as ‘You Can See Everything’ Opens at No. 2 With $5.5 Million on Friday",
           "title": "Box Office: ‘Street Fighter’ Scores $13 Million Debut as ‘You Can See Everything’ Opens at No. 2 With $5.5 Million on Friday",
-          "snapshot": "“Street Fighter” punched its way to the top of the box office in a new-release-filled weekend, battling fellow openers “Sense and Sensibility,” “Whalefall” and “You Can See Everything.” The Paramount Pictures movie generated $13 million from 3,575 North American theaters on Friday. It’s a strong start for the action...",
-          "summary": "“Street Fighter” punched its way to the top of the box office in a new-release-filled weekend, battling fellow openers “Sense and Sensibility,” “Whalefall” and “You Can See Everything.” The Paramount Pictures movie generated $13 million from 3,575 North American theaters on Friday. It’s a strong start for the action...",
+          "snapshot": "“Street Fighter” punched its way to the top of the box office in a new-release-filled weekend, battling fellow openers “Sense and Sensibility,” “Whalefall” and “You Can See Everything.” Legendary Entertainment’s “Street Fighter,” which Paramount Pictures is distributing, generated $13 million from 3,575 North Americ...",
+          "summary": "“Street Fighter” punched its way to the top of the box office in a new-release-filled weekend, battling fellow openers “Sense and Sensibility,” “Whalefall” and “You Can See Everything.” Legendary Entertainment’s “Street Fighter,” which Paramount Pictures is distributing, generated $13 million from 3,575 North Americ...",
           "url": "https://variety.com/2026/film/box-office/box-office-street-fighter-you-can-see-everything-whalefall-1236914827/",
           "source": "Variety",
           "source_name": "Variety",
@@ -3487,8 +3486,8 @@
           ]
         },
         {
-          "id": "box_office-10-1692059101801515569",
-          "key": "box_office-10-1692059101801515569",
+          "id": "box_office-10-7370162359747153515",
+          "key": "box_office-10-7370162359747153515",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Ben Affleck Warns ‘Digger’ Box Office Bomb Will Lead to “A Bunch of Sh***y Homogenized Movies” - The Hollywood Reporter",
@@ -3515,8 +3514,8 @@
           ]
         },
         {
-          "id": "box_office-1-1339193977902835145",
-          "key": "box_office-1-1339193977902835145",
+          "id": "box_office-1-3233852033665782838",
+          "key": "box_office-1-3233852033665782838",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "Box Office: ‘Street Fighter’ Makes $4 Million in Previews, ‘You Can See Everything’ Behind With $1.75 Million",
@@ -3543,8 +3542,8 @@
           ]
         },
         {
-          "id": "box_office-11-6142910442253055482",
-          "key": "box_office-11-6142910442253055482",
+          "id": "box_office-11-5289251746404817597",
+          "key": "box_office-11-5289251746404817597",
           "category": "Box Office",
           "label": "Box Office",
           "headline": "‘Street Fighter’ Socks Away $4M in Previews as ‘You Can See Everything’ Takes $1.7M - The Hollywood Reporter",
@@ -3571,7 +3570,7 @@
           ]
         }
       ],
-      "updated_at": "2026-10-17 07:48:43 PM ET"
+      "updated_at": "2026-10-17 11:28:44 PM ET"
     },
     {
       "key": "celebrity",
@@ -3589,8 +3588,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "celebrity-0-519360098356844146",
-          "key": "celebrity-0-519360098356844146",
+          "id": "celebrity-0-1312481443864371523",
+          "key": "celebrity-0-1312481443864371523",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3617,8 +3616,8 @@
           ]
         },
         {
-          "id": "celebrity-1-6411306006361570244",
-          "key": "celebrity-1-6411306006361570244",
+          "id": "celebrity-1-7113574186913714209",
+          "key": "celebrity-1-7113574186913714209",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "RJ Mitte’s Cause of Death Confirmed - Just Jared",
@@ -3647,8 +3646,8 @@
       ],
       "items": [
         {
-          "id": "celebrity-0-519360098356844146",
-          "key": "celebrity-0-519360098356844146",
+          "id": "celebrity-0-1312481443864371523",
+          "key": "celebrity-0-1312481443864371523",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
@@ -3675,8 +3674,8 @@
           ]
         },
         {
-          "id": "celebrity-1-6411306006361570244",
-          "key": "celebrity-1-6411306006361570244",
+          "id": "celebrity-1-7113574186913714209",
+          "key": "celebrity-1-7113574186913714209",
           "category": "Celebrity",
           "label": "Celebrity",
           "headline": "RJ Mitte’s Cause of Death Confirmed - Just Jared",
@@ -3703,7 +3702,7 @@
           ]
         }
       ],
-      "updated_at": "2026-10-17 07:48:43 PM ET"
+      "updated_at": "2026-10-17 11:28:45 PM ET"
     },
     {
       "key": "hollywood",
@@ -3714,24 +3713,24 @@
       "key_storylines": [
         "Here’s Where to Buy New York Knicks Home Opener Tickets at Madison Square Garden Online",
         "Miley Cyrus Tearfully Remembers Dolly Parton At Hollywood Bowl Concert, Performs ‘Jolene’",
-        "Miley Cyrus Returns to the Stage With Emotional and Cathartic Hollywood Bowl Show",
+        "Academy Museum Gala: Taylor Swift, Sabrina Carpenter, Jennifer Hudson, Connor Storrie, More Stars Walk the Carpet",
         "Cover to Cover: ‘Hollywood, Ending’ offers a witty, compassionate critique of the entertainment industry - The Daily Northwestern",
         "Here’s Where to Watch Sebastian Fundora vs. Ermal Hadribeaj Title Boxing Match Live Online for Free"
       ],
       "watch_list": [
         "Here’s Where to Buy New York Knicks Home Opener Tickets at Madison Square Garden Online",
         "Miley Cyrus Tearfully Remembers Dolly Parton At Hollywood Bowl Concert, Performs ‘Jolene’",
-        "Miley Cyrus Returns to the Stage With Emotional and Cathartic Hollywood Bowl Show",
+        "Academy Museum Gala: Taylor Swift, Sabrina Carpenter, Jennifer Hudson, Connor Storrie, More Stars Walk the Carpet",
         "Cover to Cover: ‘Hollywood, Ending’ offers a witty, compassionate critique of the entertainment industry - The Daily Northwestern",
         "Here’s Where to Watch Sebastian Fundora vs. Ermal Hadribeaj Title Boxing Match Live Online for Free",
         "Harry Styles Pays Tribute To Liam Payne With New Song At Madison Square Garden Concert",
-        "Harry Styles Debuts Unreleased Song at MSG to Honor Liam Payne on Second Death Anniversary",
+        "Miley Cyrus Returns to the Stage With Emotional and Cathartic Hollywood Bowl Show",
         "New York Poised to Overtake California as Top State for Movie and TV Production - The Hollywood Reporter"
       ],
       "homepage_cards": [
         {
-          "id": "hollywood-0-1376996990355611983",
-          "key": "hollywood-0-1376996990355611983",
+          "id": "hollywood-0-1520084528132702390",
+          "key": "hollywood-0-1520084528132702390",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Here’s Where to Buy New York Knicks Home Opener Tickets at Madison Square Garden Online",
@@ -3758,8 +3757,8 @@
           ]
         },
         {
-          "id": "hollywood-2-6621961101775812980",
-          "key": "hollywood-2-6621961101775812980",
+          "id": "hollywood-2-2403607414376220922",
+          "key": "hollywood-2-2403607414376220922",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Miley Cyrus Tearfully Remembers Dolly Parton At Hollywood Bowl Concert, Performs ‘Jolene’",
@@ -3786,25 +3785,25 @@
           ]
         },
         {
-          "id": "hollywood-7-4886518619184374469",
-          "key": "hollywood-7-4886518619184374469",
+          "id": "hollywood-5-2547800488270347976",
+          "key": "hollywood-5-2547800488270347976",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Miley Cyrus Returns to the Stage With Emotional and Cathartic Hollywood Bowl Show",
-          "title": "Miley Cyrus Returns to the Stage With Emotional and Cathartic Hollywood Bowl Show",
-          "snapshot": "The 33-year-old played her first major concert in four years Friday night for the first of two shows at the iconic L.A. venue.",
-          "summary": "The 33-year-old played her first major concert in four years Friday night for the first of two shows at the iconic L.A. venue.",
-          "url": "https://www.hollywoodreporter.com/music/music-news/miley-cyrus-live-hollywood-bowl-2026-night-1-highlights-1236734276/",
+          "headline": "Academy Museum Gala: Taylor Swift, Sabrina Carpenter, Jennifer Hudson, Connor Storrie, More Stars Walk the Carpet",
+          "title": "Academy Museum Gala: Taylor Swift, Sabrina Carpenter, Jennifer Hudson, Connor Storrie, More Stars Walk the Carpet",
+          "snapshot": "Colman Domingo, Anna Kendrick, Jamie Lee Curtis, Adrien Brody, Mikey Madison, Chase Infiniti, Mark Hamill, Kate Hudson, Sofia Vergara, Seth Rogen, Pamela Anderson, Naomi Ackie, Charlize Theron, Mia Goth, Cailee Spaeny, John Leguizamo, Mckenna Grace, Zoey Deutch, Kristen Wiig and A$AP Rocky were also in attendance at...",
+          "summary": "Colman Domingo, Anna Kendrick, Jamie Lee Curtis, Adrien Brody, Mikey Madison, Chase Infiniti, Mark Hamill, Kate Hudson, Sofia Vergara, Seth Rogen, Pamela Anderson, Naomi Ackie, Charlize Theron, Mia Goth, Cailee Spaeny, John Leguizamo, Mckenna Grace, Zoey Deutch, Kristen Wiig and A$AP Rocky were also in attendance at...",
+          "url": "https://www.hollywoodreporter.com/gallery/taylor-swift-anna-kendrick-photos-academy-museum-gala-2026-1236734470/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/feed/",
-          "published_at": "2026-10-17 07:17:39 PM ET",
+          "published_at": "2026-10-17 09:59:54 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 93,
+          "priority_score": 95,
           "key_data": [
-            "Miley Cyrus Returns to the Stage With Emotional and Cathartic Hollywood Bowl Show"
+            "Academy Museum Gala: Taylor Swift, Sabrina Carpenter, Jennifer Hudson, Connor Storrie, More Stars Walk the Carpet"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3814,8 +3813,8 @@
           ]
         },
         {
-          "id": "hollywood-12-985170931541698871",
-          "key": "hollywood-12-985170931541698871",
+          "id": "hollywood-10-2772050773192563554",
+          "key": "hollywood-10-2772050773192563554",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Cover to Cover: ‘Hollywood, Ending’ offers a witty, compassionate critique of the entertainment industry - The Daily Northwestern",
@@ -3830,7 +3829,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 88,
+          "priority_score": 90,
           "key_data": [
             "Cover to Cover: ‘Hollywood, Ending’ offers a witty, compassionate critique of the entertainment industry - The Daily Northwestern"
           ],
@@ -3842,8 +3841,8 @@
           ]
         },
         {
-          "id": "hollywood-1-4773505570292321292",
-          "key": "hollywood-1-4773505570292321292",
+          "id": "hollywood-1-1157120790066919392",
+          "key": "hollywood-1-1157120790066919392",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Here’s Where to Watch Sebastian Fundora vs. Ermal Hadribeaj Title Boxing Match Live Online for Free",
@@ -3870,8 +3869,8 @@
           ]
         },
         {
-          "id": "hollywood-3-1254593175698993623",
-          "key": "hollywood-3-1254593175698993623",
+          "id": "hollywood-3-7249378359182422074",
+          "key": "hollywood-3-7249378359182422074",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Harry Styles Pays Tribute To Liam Payne With New Song At Madison Square Garden Concert",
@@ -3898,25 +3897,25 @@
           ]
         },
         {
-          "id": "hollywood-8-6428444943725637853",
-          "key": "hollywood-8-6428444943725637853",
+          "id": "hollywood-6-6875971831386361942",
+          "key": "hollywood-6-6875971831386361942",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Harry Styles Debuts Unreleased Song at MSG to Honor Liam Payne on Second Death Anniversary",
-          "title": "Harry Styles Debuts Unreleased Song at MSG to Honor Liam Payne on Second Death Anniversary",
-          "snapshot": "The pair were former bandmates of One Direction from 2010 to 2016.",
-          "summary": "The pair were former bandmates of One Direction from 2010 to 2016.",
-          "url": "https://www.hollywoodreporter.com/music/music-news/harry-styles-unreleased-song-honor-liam-payne-anniversary-1236734395/",
+          "headline": "Miley Cyrus Returns to the Stage With Emotional and Cathartic Hollywood Bowl Show",
+          "title": "Miley Cyrus Returns to the Stage With Emotional and Cathartic Hollywood Bowl Show",
+          "snapshot": "The 33-year-old played her first major concert in four years Friday night for the first of two shows at the iconic L.A. venue.",
+          "summary": "The 33-year-old played her first major concert in four years Friday night for the first of two shows at the iconic L.A. venue.",
+          "url": "https://www.hollywoodreporter.com/music/music-news/miley-cyrus-live-hollywood-bowl-2026-night-1-highlights-1236734276/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/feed/",
-          "published_at": "2026-10-17 05:07:57 PM ET",
+          "published_at": "2026-10-17 07:17:39 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 92,
+          "priority_score": 94,
           "key_data": [
-            "Harry Styles Debuts Unreleased Song at MSG to Honor Liam Payne on Second Death Anniversary"
+            "Miley Cyrus Returns to the Stage With Emotional and Cathartic Hollywood Bowl Show"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -3926,8 +3925,8 @@
           ]
         },
         {
-          "id": "hollywood-13-8603016752052539241",
-          "key": "hollywood-13-8603016752052539241",
+          "id": "hollywood-11-2170935648594139905",
+          "key": "hollywood-11-2170935648594139905",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "New York Poised to Overtake California as Top State for Movie and TV Production - The Hollywood Reporter",
@@ -3942,7 +3941,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 87,
+          "priority_score": 89,
           "key_data": [
             "New York Poised to Overtake California as Top State for Movie and TV Production - The Hollywood Reporter"
           ],
@@ -3956,8 +3955,8 @@
       ],
       "items": [
         {
-          "id": "hollywood-0-1376996990355611983",
-          "key": "hollywood-0-1376996990355611983",
+          "id": "hollywood-0-1520084528132702390",
+          "key": "hollywood-0-1520084528132702390",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Here’s Where to Buy New York Knicks Home Opener Tickets at Madison Square Garden Online",
@@ -3984,8 +3983,8 @@
           ]
         },
         {
-          "id": "hollywood-2-6621961101775812980",
-          "key": "hollywood-2-6621961101775812980",
+          "id": "hollywood-2-2403607414376220922",
+          "key": "hollywood-2-2403607414376220922",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Miley Cyrus Tearfully Remembers Dolly Parton At Hollywood Bowl Concert, Performs ‘Jolene’",
@@ -4012,25 +4011,25 @@
           ]
         },
         {
-          "id": "hollywood-7-4886518619184374469",
-          "key": "hollywood-7-4886518619184374469",
+          "id": "hollywood-5-2547800488270347976",
+          "key": "hollywood-5-2547800488270347976",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Miley Cyrus Returns to the Stage With Emotional and Cathartic Hollywood Bowl Show",
-          "title": "Miley Cyrus Returns to the Stage With Emotional and Cathartic Hollywood Bowl Show",
-          "snapshot": "The 33-year-old played her first major concert in four years Friday night for the first of two shows at the iconic L.A. venue.",
-          "summary": "The 33-year-old played her first major concert in four years Friday night for the first of two shows at the iconic L.A. venue.",
-          "url": "https://www.hollywoodreporter.com/music/music-news/miley-cyrus-live-hollywood-bowl-2026-night-1-highlights-1236734276/",
+          "headline": "Academy Museum Gala: Taylor Swift, Sabrina Carpenter, Jennifer Hudson, Connor Storrie, More Stars Walk the Carpet",
+          "title": "Academy Museum Gala: Taylor Swift, Sabrina Carpenter, Jennifer Hudson, Connor Storrie, More Stars Walk the Carpet",
+          "snapshot": "Colman Domingo, Anna Kendrick, Jamie Lee Curtis, Adrien Brody, Mikey Madison, Chase Infiniti, Mark Hamill, Kate Hudson, Sofia Vergara, Seth Rogen, Pamela Anderson, Naomi Ackie, Charlize Theron, Mia Goth, Cailee Spaeny, John Leguizamo, Mckenna Grace, Zoey Deutch, Kristen Wiig and A$AP Rocky were also in attendance at...",
+          "summary": "Colman Domingo, Anna Kendrick, Jamie Lee Curtis, Adrien Brody, Mikey Madison, Chase Infiniti, Mark Hamill, Kate Hudson, Sofia Vergara, Seth Rogen, Pamela Anderson, Naomi Ackie, Charlize Theron, Mia Goth, Cailee Spaeny, John Leguizamo, Mckenna Grace, Zoey Deutch, Kristen Wiig and A$AP Rocky were also in attendance at...",
+          "url": "https://www.hollywoodreporter.com/gallery/taylor-swift-anna-kendrick-photos-academy-museum-gala-2026-1236734470/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/feed/",
-          "published_at": "2026-10-17 07:17:39 PM ET",
+          "published_at": "2026-10-17 09:59:54 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 93,
+          "priority_score": 95,
           "key_data": [
-            "Miley Cyrus Returns to the Stage With Emotional and Cathartic Hollywood Bowl Show"
+            "Academy Museum Gala: Taylor Swift, Sabrina Carpenter, Jennifer Hudson, Connor Storrie, More Stars Walk the Carpet"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4040,8 +4039,8 @@
           ]
         },
         {
-          "id": "hollywood-12-985170931541698871",
-          "key": "hollywood-12-985170931541698871",
+          "id": "hollywood-10-2772050773192563554",
+          "key": "hollywood-10-2772050773192563554",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Cover to Cover: ‘Hollywood, Ending’ offers a witty, compassionate critique of the entertainment industry - The Daily Northwestern",
@@ -4056,7 +4055,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 88,
+          "priority_score": 90,
           "key_data": [
             "Cover to Cover: ‘Hollywood, Ending’ offers a witty, compassionate critique of the entertainment industry - The Daily Northwestern"
           ],
@@ -4068,8 +4067,8 @@
           ]
         },
         {
-          "id": "hollywood-1-4773505570292321292",
-          "key": "hollywood-1-4773505570292321292",
+          "id": "hollywood-1-1157120790066919392",
+          "key": "hollywood-1-1157120790066919392",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Here’s Where to Watch Sebastian Fundora vs. Ermal Hadribeaj Title Boxing Match Live Online for Free",
@@ -4096,8 +4095,8 @@
           ]
         },
         {
-          "id": "hollywood-3-1254593175698993623",
-          "key": "hollywood-3-1254593175698993623",
+          "id": "hollywood-3-7249378359182422074",
+          "key": "hollywood-3-7249378359182422074",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "Harry Styles Pays Tribute To Liam Payne With New Song At Madison Square Garden Concert",
@@ -4124,25 +4123,25 @@
           ]
         },
         {
-          "id": "hollywood-8-6428444943725637853",
-          "key": "hollywood-8-6428444943725637853",
+          "id": "hollywood-6-6875971831386361942",
+          "key": "hollywood-6-6875971831386361942",
           "category": "Hollywood",
           "label": "Hollywood",
-          "headline": "Harry Styles Debuts Unreleased Song at MSG to Honor Liam Payne on Second Death Anniversary",
-          "title": "Harry Styles Debuts Unreleased Song at MSG to Honor Liam Payne on Second Death Anniversary",
-          "snapshot": "The pair were former bandmates of One Direction from 2010 to 2016.",
-          "summary": "The pair were former bandmates of One Direction from 2010 to 2016.",
-          "url": "https://www.hollywoodreporter.com/music/music-news/harry-styles-unreleased-song-honor-liam-payne-anniversary-1236734395/",
+          "headline": "Miley Cyrus Returns to the Stage With Emotional and Cathartic Hollywood Bowl Show",
+          "title": "Miley Cyrus Returns to the Stage With Emotional and Cathartic Hollywood Bowl Show",
+          "snapshot": "The 33-year-old played her first major concert in four years Friday night for the first of two shows at the iconic L.A. venue.",
+          "summary": "The 33-year-old played her first major concert in four years Friday night for the first of two shows at the iconic L.A. venue.",
+          "url": "https://www.hollywoodreporter.com/music/music-news/miley-cyrus-live-hollywood-bowl-2026-night-1-highlights-1236734276/",
           "source": "The Hollywood Reporter",
           "source_name": "The Hollywood Reporter",
           "source_feed": "https://www.hollywoodreporter.com/feed/",
-          "published_at": "2026-10-17 05:07:57 PM ET",
+          "published_at": "2026-10-17 07:17:39 PM ET",
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 92,
+          "priority_score": 94,
           "key_data": [
-            "Harry Styles Debuts Unreleased Song at MSG to Honor Liam Payne on Second Death Anniversary"
+            "Miley Cyrus Returns to the Stage With Emotional and Cathartic Hollywood Bowl Show"
           ],
           "why_it_matters": [
             "This current entertainment headline can affect audience attention, coverage priorities, talent leverage or media business strategy."
@@ -4152,8 +4151,8 @@
           ]
         },
         {
-          "id": "hollywood-13-8603016752052539241",
-          "key": "hollywood-13-8603016752052539241",
+          "id": "hollywood-11-2170935648594139905",
+          "key": "hollywood-11-2170935648594139905",
           "category": "Hollywood",
           "label": "Hollywood",
           "headline": "New York Poised to Overtake California as Top State for Movie and TV Production - The Hollywood Reporter",
@@ -4168,7 +4167,7 @@
           "image": "",
           "freshness_status": "fresh",
           "story_type": "rss_headline",
-          "priority_score": 87,
+          "priority_score": 89,
           "key_data": [
             "New York Poised to Overtake California as Top State for Movie and TV Production - The Hollywood Reporter"
           ],
@@ -4180,7 +4179,7 @@
           ]
         }
       ],
-      "updated_at": "2026-10-17 07:48:44 PM ET"
+      "updated_at": "2026-10-17 11:28:46 PM ET"
     },
     {
       "key": "gaming",
@@ -4198,8 +4197,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "gaming-0-2491355342771567938",
-          "key": "gaming-0-2491355342771567938",
+          "id": "gaming-0-1829395503906205103",
+          "key": "gaming-0-1829395503906205103",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Dev Behind Russian Roulette Drinking Game Cancels Steam Demo Plans Following AI Copycat Concerns",
@@ -4226,8 +4225,8 @@
           ]
         },
         {
-          "id": "gaming-1-3027244309278521981",
-          "key": "gaming-1-3027244309278521981",
+          "id": "gaming-1-332378972434830293",
+          "key": "gaming-1-332378972434830293",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Battlefield 6 Devs Respond After Players Take Aim at 'Secuty' Typo and Cosmetic With 5 Pistols",
@@ -4256,8 +4255,8 @@
       ],
       "items": [
         {
-          "id": "gaming-0-2491355342771567938",
-          "key": "gaming-0-2491355342771567938",
+          "id": "gaming-0-1829395503906205103",
+          "key": "gaming-0-1829395503906205103",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Dev Behind Russian Roulette Drinking Game Cancels Steam Demo Plans Following AI Copycat Concerns",
@@ -4284,8 +4283,8 @@
           ]
         },
         {
-          "id": "gaming-1-3027244309278521981",
-          "key": "gaming-1-3027244309278521981",
+          "id": "gaming-1-332378972434830293",
+          "key": "gaming-1-332378972434830293",
           "category": "Gaming",
           "label": "Gaming",
           "headline": "Battlefield 6 Devs Respond After Players Take Aim at 'Secuty' Typo and Cosmetic With 5 Pistols",
@@ -4312,7 +4311,7 @@
           ]
         }
       ],
-      "updated_at": "2026-10-17 07:48:45 PM ET"
+      "updated_at": "2026-10-17 11:28:46 PM ET"
     },
     {
       "key": "media",
@@ -4337,8 +4336,8 @@
       ],
       "homepage_cards": [
         {
-          "id": "media-0-1070608151064042201",
-          "key": "media-0-1070608151064042201",
+          "id": "media-0-7115987201993813438",
+          "key": "media-0-7115987201993813438",
           "category": "Media",
           "label": "Media",
           "headline": "How Creators Make Money: Digital-Native Leaders on What Drives Audiences and Brands in the Attention Economy",
@@ -4365,8 +4364,8 @@
           ]
         },
         {
-          "id": "media-9-1542439729701889356",
-          "key": "media-9-1542439729701889356",
+          "id": "media-9-6808372256952203143",
+          "key": "media-9-6808372256952203143",
           "category": "Media",
           "label": "Media",
           "headline": "The Weekend Read: Chuck Lorre’s Memoir, A New Alec Baldwin Trial Doc, Ron Perlman As Hemingway, ‘Street Fighter’s ’90s Vibes & Life Inside A Whale",
@@ -4393,8 +4392,8 @@
           ]
         },
         {
-          "id": "media-21-1739337606588774051",
-          "key": "media-21-1739337606588774051",
+          "id": "media-21-6573202473914162231",
+          "key": "media-21-6573202473914162231",
           "category": "Media",
           "label": "Media",
           "headline": "OU launches center focused on sports, media and entertainment business - The Journal Record",
@@ -4421,8 +4420,8 @@
           ]
         },
         {
-          "id": "media-1-4257970998569601373",
-          "key": "media-1-4257970998569601373",
+          "id": "media-1-976616187628903308",
+          "key": "media-1-976616187628903308",
           "category": "Media",
           "label": "Media",
           "headline": "Netflix Is Profitable and Still Growing. Why Did It Just Make a Huge Round of Layoffs and Oust Its Top Content Exec?",
@@ -4449,8 +4448,8 @@
           ]
         },
         {
-          "id": "media-10-7460133718092946141",
-          "key": "media-10-7460133718092946141",
+          "id": "media-10-1617870026133685216",
+          "key": "media-10-1617870026133685216",
           "category": "Media",
           "label": "Media",
           "headline": "Anthony Scaramucci Reacts To Katie Zacharia’s White House Tenure Being Shorter Than His: “Records Are Made To Be Broken”",
@@ -4477,8 +4476,8 @@
           ]
         },
         {
-          "id": "media-22-6840581543879557672",
-          "key": "media-22-6840581543879557672",
+          "id": "media-22-8422509503094803887",
+          "key": "media-22-8422509503094803887",
           "category": "Media",
           "label": "Media",
           "headline": "India Targets $100 Billion Media and Entertainment Industry - StratNews Global",
@@ -4507,8 +4506,8 @@
       ],
       "items": [
         {
-          "id": "media-0-1070608151064042201",
-          "key": "media-0-1070608151064042201",
+          "id": "media-0-7115987201993813438",
+          "key": "media-0-7115987201993813438",
           "category": "Media",
           "label": "Media",
           "headline": "How Creators Make Money: Digital-Native Leaders on What Drives Audiences and Brands in the Attention Economy",
@@ -4535,8 +4534,8 @@
           ]
         },
         {
-          "id": "media-9-1542439729701889356",
-          "key": "media-9-1542439729701889356",
+          "id": "media-9-6808372256952203143",
+          "key": "media-9-6808372256952203143",
           "category": "Media",
           "label": "Media",
           "headline": "The Weekend Read: Chuck Lorre’s Memoir, A New Alec Baldwin Trial Doc, Ron Perlman As Hemingway, ‘Street Fighter’s ’90s Vibes & Life Inside A Whale",
@@ -4563,8 +4562,8 @@
           ]
         },
         {
-          "id": "media-21-1739337606588774051",
-          "key": "media-21-1739337606588774051",
+          "id": "media-21-6573202473914162231",
+          "key": "media-21-6573202473914162231",
           "category": "Media",
           "label": "Media",
           "headline": "OU launches center focused on sports, media and entertainment business - The Journal Record",
@@ -4591,8 +4590,8 @@
           ]
         },
         {
-          "id": "media-1-4257970998569601373",
-          "key": "media-1-4257970998569601373",
+          "id": "media-1-976616187628903308",
+          "key": "media-1-976616187628903308",
           "category": "Media",
           "label": "Media",
           "headline": "Netflix Is Profitable and Still Growing. Why Did It Just Make a Huge Round of Layoffs and Oust Its Top Content Exec?",
@@ -4619,8 +4618,8 @@
           ]
         },
         {
-          "id": "media-10-7460133718092946141",
-          "key": "media-10-7460133718092946141",
+          "id": "media-10-1617870026133685216",
+          "key": "media-10-1617870026133685216",
           "category": "Media",
           "label": "Media",
           "headline": "Anthony Scaramucci Reacts To Katie Zacharia’s White House Tenure Being Shorter Than His: “Records Are Made To Be Broken”",
@@ -4647,8 +4646,8 @@
           ]
         },
         {
-          "id": "media-22-6840581543879557672",
-          "key": "media-22-6840581543879557672",
+          "id": "media-22-8422509503094803887",
+          "key": "media-22-8422509503094803887",
           "category": "Media",
           "label": "Media",
           "headline": "India Targets $100 Billion Media and Entertainment Industry - StratNews Global",
@@ -4675,7 +4674,7 @@
           ]
         }
       ],
-      "updated_at": "2026-10-17 07:48:45 PM ET"
+      "updated_at": "2026-10-17 11:28:48 PM ET"
     }
   ]
 }
