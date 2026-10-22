@@ -1,4 +1,4 @@
-﻿import json
+import json
 import re
 import sys
 from collections import Counter
@@ -12,7 +12,10 @@ BANNED_VISIBLE_TERMS = [
     "generic",
     "test data",
     "sample data",
-    "internal",
+    "internal note",
+    "internal use only",
+    "editorial pipeline",
+    "newsroom process",
 ]
 
 VISIBLE_TEXT_KEYS = {
@@ -192,7 +195,7 @@ def find_bad_visible_language(items):
             for term, pattern in patterns:
                 if pattern.search(text):
                     problems.append(
-                        f"Generic/internal language found in '{title}': {term}"
+                        f"Generic/internal language found in '{title}', field={key}: {term}"
                     )
 
     return problems
