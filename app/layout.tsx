@@ -1,4 +1,5 @@
 import GsrNewsletterSignup from "./GsrNewsletterSignup";
+import GsrAppLinks from "./GsrAppLinks";
 import "./globals.css";
 import type { Metadata } from "next";
 
@@ -21,7 +22,9 @@ export default function RootLayout({
           crossOrigin="anonymous"
         ></script>
       </head>
-      <body className="bg-white text-black">{children}
+      <body className="bg-white text-black"><GsrAppLinks source="entertainment" />
+        {children}
+        <GsrAppLinks source="entertainment" placement="footer" />
         <GsrNewsletterSignup /></body>
     </html>
   );
