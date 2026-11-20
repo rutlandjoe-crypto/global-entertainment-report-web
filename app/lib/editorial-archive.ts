@@ -116,9 +116,10 @@ export function toEditorialItem(item: ReportItem): EditorialItem | null {
   };
 }
 
-export const seededEditorialItems: EditorialItem[] = (
-  ((report as unknown as { homepage_cards?: ReportItem[] }).homepage_cards ?? [])
-)
+export const seededEditorialItems: EditorialItem[] = [
+  ...((report as unknown as { homepage_cards?: ReportItem[] }).homepage_cards ?? []),
+  ...((report as unknown as { live_newsroom?: ReportItem[] }).live_newsroom ?? []),
+]
   .map(toEditorialItem)
   .filter((item): item is EditorialItem => item !== null);
 

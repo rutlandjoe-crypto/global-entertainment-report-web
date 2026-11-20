@@ -89,9 +89,10 @@ export function mergeEditorialStories(archived, reports) {
   }
 
   for (const report of reports) {
-    const cards = Array.isArray(report?.homepage_cards)
-      ? report.homepage_cards
-      : [];
+    const cards = [
+      ...(Array.isArray(report?.homepage_cards) ? report.homepage_cards : []),
+      ...(Array.isArray(report?.live_newsroom) ? report.live_newsroom : []),
+    ];
 
     for (const story of cards) {
       if (isEditorialStory(story)) unique.set(storySlug(story), story);
